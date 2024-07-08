@@ -15,6 +15,18 @@ const downloadSchedule = async (sport) => {
   return JSON.parse($('#__NEXT_DATA__').text());
 };
 
+const getSportIcon = (sport) => {
+  switch (sport.toLowerCase()) {
+    case "3x3-basketball": return "🏀3"
+    case "basketball": return "🏀";
+    case "football": return "⚽";
+    case "handball": return "🤾";
+    case "hockey": return "🏑";
+    case "volleyball": return "🏐";
+    default: throw new Error(`No icon set for ${sport}`);
+  }
+};
+
 const getFlag = (country) => {
   if (country.toLowerCase().startsWith("winner oqt")) {
     return "🏳️";
@@ -92,10 +104,10 @@ const getTeamSport = async (sport) => {
 
   data.props.pageProps.page.items.find(item => item.name === "scheduleWrapper").data.schedules.forEach(schedule => {
     schedule.units.forEach(unit => {
-      let title = `[${sport}] ${unit.description}`;
+      let title = `${getSportIcon(sport)} ${unit.description}`;
 
       if (unit.match && unit.match.team1) {
-        title = `[${sport}] - ${countryNameAndFlag(unit.match.team1.description)} - ${countryNameAndFlag(unit.match.team2.description, true)}`;
+        title = `${getSportIcon(sport)} ${countryNameAndFlag(unit.match.team1.description)} - ${countryNameAndFlag(unit.match.team2.description, true)}`;
       }
 
       const event = {
