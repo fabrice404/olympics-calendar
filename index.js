@@ -141,7 +141,7 @@ const getTeamSport = async (sport) => {
   });
 
   const name =
-    fs.writeFileSync(`docs/sport/${sport}.ics`, `BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//fabrice404//olympics-calendar//EN\r\nX-WR-CALNAME:${sportName} Schedule | Paris 2024\r\nNAME:${sportName} Schedule | Paris 2024\r\n${icalEvents.join('\r\n')}\r\nEND:VCALENDAR`);
+    fs.writeFileSync(`docs/sport/${sport}.ics`, `BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//fabrice404//olympics-calendar//EN\r\nX-WR-CALNAME:${sportName} | Paris 2024\r\nNAME:${sportName} | Paris 2024\r\n${icalEvents.join('\r\n')}\r\nEND:VCALENDAR`);
 };
 
 const main = async () => {
@@ -160,7 +160,7 @@ const main = async () => {
       return `BEGIN:VEVENT\r\n${Object.entries(event).map(([key, value]) => `${key}:${value}`).join('\r\n')}\r\nEND:VEVENT`;
     });
     const teamKey = team.toLowerCase().replace(/ /g, '-');
-    fs.writeFileSync(`docs/team/${teamKey}.ics`, `BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//fabrice404//olympics-calendar//EN\r\nX-WR-CALNAME:${team} Schedule | Paris 2024\r\nNAME:${team} Schedule | Paris 2024\r\n${icalEvents.join('\r\n')}\r\nEND:VCALENDAR`);
+    fs.writeFileSync(`docs/team/${teamKey}.ics`, `BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//fabrice404//olympics-calendar//EN\r\nX-WR-CALNAME:${team} | Paris 2024\r\nNAME:${team} | Paris 2024\r\n${icalEvents.join('\r\n')}\r\nEND:VCALENDAR`);
   });
 
 
