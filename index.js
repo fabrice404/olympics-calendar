@@ -159,7 +159,7 @@ const main = async () => {
 
   const template = fs.readFileSync(`${__dirname}/template.html`, 'utf-8');
   const output = template
-    .replace('{{sports}}', sports.map(sport => `<li><a href="sport/${sport}.ics">${sport}</a></li>`).join('\n'))
+    .replace('{{sports}}', sports.map(sport => `<li><a href="sport/${sport}.ics">${getSportIcon(sport)} ${sport}</a></li>`).join('\n'))
     .replace('{{teams}}', Object.keys(teams).sort().filter(team => !team.startsWith("Winner")).map(team => `<li><a href="team/${team.toLowerCase().replace(/ /g, '-')}.ics">${countryNameAndFlag(team, true)}</a></li>`).join('\n'))
 
   fs.writeFileSync('docs/index.html', output);
