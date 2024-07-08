@@ -71,10 +71,10 @@ const main = async () => {
   });
 
   const icalEvents = events.map(event => {
-    return `BEGIN:VEVENT\n${Object.entries(event).map(([key, value]) => `${key}:${value}`).join('\n')}\nEND:VEVENT`;
+    return `BEGIN:VEVENT\r\n${Object.entries(event).map(([key, value]) => `${key}:${value}`).join('\r\n')}\r\nEND:VEVENT`;
   });
 
-  fs.writeFileSync('docs/handball.ics', `BEGIN:VCALENDAR\nVERSION:2.0\nPRODID:-//fabrice404//olympics-calendar//EN\n${icalEvents.join('\n')}\nEND:VCALENDAR`);
+  fs.writeFileSync('docs/handball.ics', `BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//fabrice404//olympics-calendar//EN\r\n${icalEvents.join('\r\n')}\r\nEND:VCALENDAR`);
 };
 
 main();
