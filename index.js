@@ -109,13 +109,15 @@ const getTeamSport = async (sport) => {
   data.props.pageProps.page.items.find(item => item.name === "scheduleWrapper").data.schedules.forEach(schedule => {
     schedule.units.forEach(unit => {
       let title = `${getSportIcon(sport)} ${unit.description}`;
+      let uid = `sport-${unit.startDateTimeUtc.replace(/[:-]/g, '')}`;
 
       if (unit.match && unit.match.team1) {
         title = `${getSportIcon(sport)} ${countryNameAndFlag(unit.match.team1.description)} - ${countryNameAndFlag(unit.match.team2.description, true)}`;
+        uid += `-${unit.match.team1.description.replace(/ /g, '-')}-${unit.match.team2.description.replace(/ /g, '-')}`;
       }
 
       const event = {
-        UID: unit.unitCode,
+        UID: uid,
         DTSTAMP: unit.startDateTimeUtc.replace(/[:-]/g, ''),
         DTSTART: unit.startDateTimeUtc.replace(/[:-]/g, ''),
         DTEND: unit.endDateTimeUtc.replace(/[:-]/g, ''),
