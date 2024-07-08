@@ -1,0 +1,14 @@
+{
+  "name": "olympics-calendar",
+  "version": "1.0.0",
+  "main": "handball.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
