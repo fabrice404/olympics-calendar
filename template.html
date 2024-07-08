@@ -3,16 +3,27 @@
 
 <head>
   <title>Paris 2024 Summer Olympic Games calendars</title>
+  <link href="./style.css" rel="stylesheet">
+
 </head>
 
 <body>
-  <h1>Paris 2024 Summer Olympic Games calendars</h1>
-  <h2>By sport</h2>
-  <ul>
-    {{sports}}
-  </ul>
-  <h2>By team</h2>
-  <ul>
-    {{teams}}
-  </ul>
+  <div class="p-4">
+    <h1 class="text-2xl">Paris 2024 Summer Olympic Games calendars</h1>
+    <div>
+      <div>
+        <h2 class="text-xl ml-2 mt-2">By sport</h2>
+        <ul class="columns-3 ml-4">
+          {{sports}}
+        </ul>
+      </div>
+
+      <div class="">
+        <h2 class="text-xl ml-2 mt-2">By team</h2>
+        <ul class="columns-3 ml-4">
+          {{teams}}
+        </ul>
+      </div>
+    </div>
+  </div>
 </body>

@@ -1,5 +1,8 @@
 const cheerio = require('cheerio');
 const fs = require('fs');
+const autoprefixer = require('autoprefixer');
+const postcss = require('postcss');
+const tailwindcss = require('tailwindcss');
 
 const downloadSchedule = async (sport) => {
   const cacheFile = `${__dirname}/cache/${sport}.html`;
@@ -159,10 +162,17 @@ const main = async () => {
 
   const template = fs.readFileSync(`${__dirname}/template.html`, 'utf-8');
   const output = template
-    .replace('{{sports}}', sports.map(sport => `<li><a href="sport/${sport}.ics">${getSportIcon(sport)} ${sport}</a></li>`).join('\n'))
-    .replace('{{teams}}', Object.keys(teams).sort().filter(team => !team.startsWith("Winner")).map(team => `<li><a href="team/${team.toLowerCase().replace(/ /g, '-')}.ics">${countryNameAndFlag(team, true)}</a></li>`).join('\n'))
+    .replace('{{sports}}', sports.map(sport => `<li><a href="sport/${sport}.ics" class="text-blue-500">${getSportIcon(sport)} ${sport}</a></li>`).join('\n'))
+    .replace('{{teams}}', Object.keys(teams).sort().filter(team => !team.startsWith("Winner")).map(team => `<li><a href="team/${team.toLowerCase().replace(/ /g, '-')}.ics" class="text-blue-500">${countryNameAndFlag(team, true)}</a></li>`).join('\n'))
 
   fs.writeFileSync('docs/index.html', output);
+
+  const result = postcss([autoprefixer, tailwindcss])
+    .process(fs.readFileSync(`${__dirname}/template.css`, 'utf-8'), { from: 'template.css', to: 'docs/style.css' })
+    .then((result) => {
+      fs.writeFileSync('docs/style.css', result.css);
+    })
+
 };
 
 main();
