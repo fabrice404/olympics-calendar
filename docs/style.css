@@ -501,31 +501,63 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
-.ml-2 {
-  margin-left: 0.5rem;
+.mb-2 {
+  margin-bottom: 0.5rem;
 }
 .ml-4 {
   margin-left: 1rem;
 }
-.mt-2 {
-  margin-top: 0.5rem;
+.inline-block {
+  display: inline-block;
 }
-.columns-3 {
-  -moz-columns: 3;
-       columns: 3;
+.flex {
+  display: flex;
+}
+.items-center {
+  align-items: center;
+}
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+.bg-gray-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(229 231 235 / var(--tw-bg-opacity));
 }
 .p-4 {
   padding: 1rem;
 }
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
 }
-.text-blue-500 {
-  --tw-text-opacity: 1;
-  color: rgb(59 130 246 / var(--tw-text-opacity));
+.pb-4 {
+  padding-bottom: 1rem;
+}
+.pt-8 {
+  padding-top: 2rem;
+}
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+html {
+  font-size: 12px;
+}
+
+.hover\:bg-blue-200:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(191 219 254 / var(--tw-bg-opacity));
 }
