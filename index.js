@@ -134,14 +134,14 @@ const generateSportCalendar = (sportKey) => {
 
   generateCalendar(title, key, events);
   OUTPUT.push(`
-    <a href="${key}.ics" class="flex items-center pb-4 pt-8">
+    <div class="flex items-center pb-4 pt-8">
       <div class="text-3xl">
-        ${sport.icon} ${sport.name}
+        <a href="${key}.ics">${sport.icon} ${sport.name}</a>
       </div>
       <div class="bg-gray-200 hover:bg-blue-200 px-2 py-1 ml-4 rounded-lg text-base">
-        Full schedule
+        <a href="${key}.ics">Full schedule</a>
       </div>
-    </a>
+    </div>
   `);
 }
 
