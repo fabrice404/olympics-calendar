@@ -137,7 +137,9 @@ const generateCalendar = (title, key, events) => {
 
 const generateSportCalendar = (sportKey) => {
   const sport = SPORTS.find((sport) => sport.key === sportKey);
-  const events = EVENTS.filter((event) => event._SPORT === sport.key);
+  const events = EVENTS
+    .filter((event) => event._SPORT === sport.key)
+    .sort((a, b) => a.DTSTART > b.DTSTART ? 1 : -1);;
   const key = `${sportKey}/general`;
   const title = `${sport.icon} ${sport.name} | Paris 2024`;
 
@@ -157,7 +159,9 @@ const generateSportCalendar = (sportKey) => {
 const generateSportTeamCalendar = (sportKey, teamKey) => {
   const sport = SPORTS.find((sport) => sport.key === sportKey);
   const team = TEAMS.find((team) => team.key === teamKey);
-  const events = EVENTS.filter((event) => event._SPORT === sport.key && (event._TEAM1 === team.key || event._TEAM2 === team.key));
+  const events = EVENTS
+    .filter((event) => event._SPORT === sport.key && (event._TEAM1 === team.key || event._TEAM2 === team.key))
+    .sort((a, b) => a.DTSTART > b.DTSTART ? 1 : -1);
   const key = `${sportKey}/${teamKey}`;
   const title = `${team.icon} ${team.name} ${sport.name} | Paris 2024`;
 
@@ -173,7 +177,9 @@ const generateSportTeamCalendar = (sportKey, teamKey) => {
 
 const generateTeamCalendar = (teamKey) => {
   const team = TEAMS.find((team) => team.key === teamKey);
-  const events = EVENTS.filter((event) => event._TEAM1 === team.key || event._TEAM2 === team.key);
+  const events = EVENTS
+    .filter((event) => event._TEAM1 === team.key || event._TEAM2 === team.key)
+    .sort((a, b) => a.DTSTART > b.DTSTART ? 1 : -1);
   const key = `general/${teamKey}`;
   const title = `${team.icon} ${team.name} | Paris 2024`;
 
@@ -277,17 +283,18 @@ const teamSports = async () => {
       .map((key) => teamSport(key)),
   );
 
-  SPORTS.sort((a, b) => a.name > b.name ? 1 : -1).forEach((sport) => {
-    const sportKey = sport.key;
-    generateSportCalendar(sportKey);
-    OUTPUT.push("<ul>");
-    sport.teams
-      .sort((a, b) => a > b ? 1 : -1)
-      .forEach((teamKey) => {
-        generateSportTeamCalendar(sportKey, teamKey);
-      });
-    OUTPUT.push("</ul>");
-  });
+  SPORTS.sort((a, b) => a.name > b.name ? 1 : -1)
+    .forEach((sport) => {
+      const sportKey = sport.key;
+      generateSportCalendar(sportKey);
+      OUTPUT.push("<ul>");
+      sport.teams
+        .sort((a, b) => a > b ? 1 : -1)
+        .forEach((teamKey) => {
+          generateSportTeamCalendar(sportKey, teamKey);
+        });
+      OUTPUT.push("</ul>");
+    });
 
   OUTPUT.push("<div class=\"text-3xl pb-4 pt-8\">🌍 Teams</div>");
   TEAMS

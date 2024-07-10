@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "handball.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "find ./cache/*.html -mmin +60 -exec rm -f {} \\; | node index.js",
     "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
