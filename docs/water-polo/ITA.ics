@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//water-polo/ITA//EN
-X-WR-CALNAME:🇮🇱 Italy Water Polo | Paris 2024
-NAME:🇮🇱 Italy Water Polo | Paris 2024
+X-WR-CALNAME:🇮🇹 Italy Water Polo | Paris 2024
+NAME:🇮🇹 Italy Water Polo | Paris 2024
 BEGIN:VEVENT
 UID:water-polo-20240728T130000Z-ITA-USA
 DTSTAMP:20240728T130000Z
 DTSTART:20240728T130000Z
 DTEND:20240728T142500Z
 DESCRIPTION:Water Polo - Men's Preliminary Round - Group A
-SUMMARY:🤽 ITA 🇮🇱 - 🇺🇸 USA
+SUMMARY:🤽 ITA 🇮🇹 - 🇺🇸 USA
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -18,7 +18,7 @@ DTSTAMP:20240729T120000Z
 DTSTART:20240729T120000Z
 DTEND:20240729T132500Z
 DESCRIPTION:Water Polo - Women's Preliminary Round - Group B
-SUMMARY:🤽 FRA 🇫🇷 - 🇮🇱 ITA
+SUMMARY:🤽 FRA 🇫🇷 - 🇮🇹 ITA
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DTSTAMP:20240730T100500Z
 DTSTART:20240730T100500Z
 DTEND:20240730T113000Z
 DESCRIPTION:Water Polo - Men's Preliminary Round - Group A
-SUMMARY:🤽 CRO 🇭🇷 - 🇮🇱 ITA
+SUMMARY:🤽 CRO 🇭🇷 - 🇮🇹 ITA
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -36,7 +36,7 @@ DTSTAMP:20240731T163000Z
 DTSTART:20240731T163000Z
 DTEND:20240731T175500Z
 DESCRIPTION:Water Polo - Women's Preliminary Round - Group B
-SUMMARY:🤽 ITA 🇮🇱 - 🇺🇸 USA
+SUMMARY:🤽 ITA 🇮🇹 - 🇺🇸 USA
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +45,7 @@ DTSTAMP:20240801T143500Z
 DTSTART:20240801T143500Z
 DTEND:20240801T160000Z
 DESCRIPTION:Water Polo - Men's Preliminary Round - Group A
-SUMMARY:🤽 ITA 🇮🇱 - 🇲🇪 MNE
+SUMMARY:🤽 ITA 🇮🇹 - 🇲🇪 MNE
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ DTSTAMP:20240802T133500Z
 DTSTART:20240802T133500Z
 DTEND:20240802T150000Z
 DESCRIPTION:Water Polo - Women's Preliminary Round - Group B
-SUMMARY:🤽 GRE 🇬🇷 - 🇮🇱 ITA
+SUMMARY:🤽 GRE 🇬🇷 - 🇮🇹 ITA
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ DTSTAMP:20240803T190500Z
 DTSTART:20240803T190500Z
 DTEND:20240803T203000Z
 DESCRIPTION:Water Polo - Men's Preliminary Round - Group A
-SUMMARY:🤽 ITA 🇮🇱 - 🇷🇴 ROU
+SUMMARY:🤽 ITA 🇮🇹 - 🇷🇴 ROU
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -72,7 +72,7 @@ DTSTAMP:20240804T133500Z
 DTSTART:20240804T133500Z
 DTEND:20240804T150000Z
 DESCRIPTION:Water Polo - Women's Preliminary Round - Group B
-SUMMARY:🤽 ITA 🇮🇱 - 🇪🇸 ESP
+SUMMARY:🤽 ITA 🇮🇹 - 🇪🇸 ESP
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -81,7 +81,7 @@ DTSTAMP:20240805T131000Z
 DTSTART:20240805T131000Z
 DTEND:20240805T143500Z
 DESCRIPTION:Water Polo - Men's Preliminary Round - Group A
-SUMMARY:🤽 GRE 🇬🇷 - 🇮🇱 ITA
+SUMMARY:🤽 GRE 🇬🇷 - 🇮🇹 ITA
 LOCATION:Paris La Defense Arena
 END:VEVENT
 END:VCALENDAR

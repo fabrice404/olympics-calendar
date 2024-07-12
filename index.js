@@ -66,7 +66,7 @@ const getFlagIcon = (country) => {
     "iraq": "🇮🇶",
     "ireland": "🇮🇪",
     "israel": "🇮🇱",
-    "italy": "🇮🇱",
+    "italy": "🇮🇹",
     "japan": "🇯🇵",
     "kenya": "🇰🇪",
     "latvia": "🇱🇻",

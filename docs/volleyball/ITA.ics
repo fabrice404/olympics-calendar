@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//volleyball/ITA//EN
-X-WR-CALNAME:🇮🇱 Italy Volleyball | Paris 2024
-NAME:🇮🇱 Italy Volleyball | Paris 2024
+X-WR-CALNAME:🇮🇹 Italy Volleyball | Paris 2024
+NAME:🇮🇹 Italy Volleyball | Paris 2024
 BEGIN:VEVENT
 UID:volleyball-20240727T110000Z-ITA-BRA
 DTSTAMP:20240727T110000Z
 DTSTART:20240727T110000Z
 DTEND:20240727T133000Z
 DESCRIPTION:Volleyball - Men's Preliminary Round - Pool B
-SUMMARY:🏐 ITA 🇮🇱 - 🇧🇷 BRA
+SUMMARY:🏐 ITA 🇮🇹 - 🇧🇷 BRA
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -18,7 +18,7 @@ DTSTAMP:20240728T070000Z
 DTSTART:20240728T070000Z
 DTEND:20240728T093000Z
 DESCRIPTION:Volleyball - Women's Preliminary Round - Pool C
-SUMMARY:🏐 ITA 🇮🇱 - 🇩🇴 DOM
+SUMMARY:🏐 ITA 🇮🇹 - 🇩🇴 DOM
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -27,7 +27,7 @@ DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
 DTEND:20240730T093000Z
 DESCRIPTION:Volleyball - Men's Preliminary Round - Pool B
-SUMMARY:🏐 ITA 🇮🇱 - 🇪🇬 EGY
+SUMMARY:🏐 ITA 🇮🇹 - 🇪🇬 EGY
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -36,7 +36,7 @@ DTSTAMP:20240801T150000Z
 DTSTART:20240801T150000Z
 DTEND:20240801T173000Z
 DESCRIPTION:Volleyball - Women's Preliminary Round - Pool C
-SUMMARY:🏐 ITA 🇮🇱 - 🇳🇱 NED
+SUMMARY:🏐 ITA 🇮🇹 - 🇳🇱 NED
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +45,7 @@ DTSTAMP:20240803T150000Z
 DTSTART:20240803T150000Z
 DTEND:20240803T173000Z
 DESCRIPTION:Volleyball - Men's Preliminary Round - Pool B
-SUMMARY:🏐 POL 🇵🇱 - 🇮🇱 ITA
+SUMMARY:🏐 POL 🇵🇱 - 🇮🇹 ITA
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ DTSTAMP:20240804T070000Z
 DTSTART:20240804T070000Z
 DTEND:20240804T093000Z
 DESCRIPTION:Volleyball - Women's Preliminary Round - Pool C
-SUMMARY:🏐 ITA 🇮🇱 - 🇹🇷 TUR
+SUMMARY:🏐 ITA 🇮🇹 - 🇹🇷 TUR
 LOCATION:South Paris Arena 1
 END:VEVENT
 END:VCALENDAR
