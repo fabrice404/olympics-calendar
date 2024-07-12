@@ -139,7 +139,7 @@ const generateSportCalendar = (sportKey) => {
   const sport = SPORTS.find((sport) => sport.key === sportKey);
   const events = EVENTS
     .filter((event) => event._SPORT === sport.key)
-    .sort((a, b) => a.DTSTART > b.DTSTART ? 1 : -1);;
+    .sort((a, b) => a.UID > b.UID ? 1 : -1);;
   const key = `${sportKey}/general`;
   const title = `${sport.icon} ${sport.name} | Paris 2024`;
 
@@ -161,7 +161,7 @@ const generateSportTeamCalendar = (sportKey, teamKey) => {
   const team = TEAMS.find((team) => team.key === teamKey);
   const events = EVENTS
     .filter((event) => event._SPORT === sport.key && (event._TEAM1 === team.key || event._TEAM2 === team.key))
-    .sort((a, b) => a.DTSTART > b.DTSTART ? 1 : -1);
+    .sort((a, b) => a.UID > b.UID ? 1 : -1);
   const key = `${sportKey}/${teamKey}`;
   const title = `${team.icon} ${team.name} ${sport.name} | Paris 2024`;
 
@@ -179,7 +179,7 @@ const generateTeamCalendar = (teamKey) => {
   const team = TEAMS.find((team) => team.key === teamKey);
   const events = EVENTS
     .filter((event) => event._TEAM1 === team.key || event._TEAM2 === team.key)
-    .sort((a, b) => a.DTSTART > b.DTSTART ? 1 : -1);
+    .sort((a, b) => a.UID > b.UID ? 1 : -1);
   const key = `general/${teamKey}`;
   const title = `${team.icon} ${team.name} | Paris 2024`;
 
