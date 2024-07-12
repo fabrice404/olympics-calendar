@@ -24,15 +24,13 @@ cd olympics-calendar
 2. Install dependencies:
 
 ```bash
-Copy code
 npm install
 ```
 
 3. Generate the calendar files:
 
 ```bash
-Copy code
-node index.js
+npm start
 ```
 
 ## License
