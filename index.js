@@ -22,6 +22,7 @@ const getSportIcon = (sport) => {
   const sports = {
     "3x3-basketball": "🏀③",
     "basketball": "🏀",
+    "beach-volleyball": "🏐",
     "football": "⚽",
     "handball": "🤾",
     "hockey": "🏑",
@@ -36,72 +37,289 @@ const getSportIcon = (sport) => {
   throw new Error(`No icon set for ${sport}`);
 };
 
-const getFlagIcon = (country) => {
-  if (country.toLowerCase().startsWith("winner oqt")) {
-    return "🏳️";
-  }
-
+const getCountryName = (code) => {
   const teams = {
-    "angola": "🇦🇴",
-    "argentina": "🇦🇷",
-    "australia": "🇦🇺",
-    "azerbaijan": "🇦🇿",
-    "belgium": "🇧🇪",
-    "brazil": "🇧🇷",
-    "canada": "🇨🇦",
-    "china": "🇨🇳",
-    "colombia": "🇨🇴",
-    "croatia": "🇭🇷",
-    "denmark": "🇩🇰",
-    "dominican republic": "🇩🇴",
-    "fiji": "🇫🇯",
-    "france": "🇫🇷",
-    "egypt": "🇪🇬",
-    "germany": "🇩🇪",
-    "great britain": "🇬🇧",
-    "greece": "🇬🇷",
-    "guinea": "🇬🇳",
-    "hungary": "🇭🇺",
-    "india": "🇮🇳",
-    "iraq": "🇮🇶",
-    "ireland": "🇮🇪",
-    "israel": "🇮🇱",
-    "italy": "🇮🇹",
-    "japan": "🇯🇵",
-    "kenya": "🇰🇪",
-    "latvia": "🇱🇻",
-    "lithuania": "🇱🇹",
-    "korea": "🇰🇷",
-    "mali": "🇲🇱",
-    "montenegro": "🇲🇪",
-    "morocco": "🇲🇦",
-    "nigeria": "🇳🇬",
-    "netherlands": "🇳🇱",
-    "new zealand": "🇳🇿",
-    "norway": "🇳🇴",
-    "paraguay": "🇵🇾",
-    "poland": "🇵🇱",
-    "puerto rico": "🇵🇷",
-    "romania": "🇷🇴",
-    "serbia": "🇷🇸",
-    "south africa": "🇿🇦",
-    "south sudan": "🇸🇸",
-    "slovenia": "🇸🇮",
-    "samoa": "🇼🇸",
-    "spain": "🇪🇸",
-    "sweden": "🇸🇪",
-    "türkiye": "🇹🇷",
-    "ukraine": "🇺🇦",
-    "united states": "🇺🇸",
-    "uruguay": "🇺🇾",
-    "uzbekistan": "🇺🇿",
-    "zambia": "🇿🇲",
+    AFG: "Afghanistan",
+    ALB: "Albania",
+    ALG: "Algeria",
+    ASA: "American Samoa",
+    AND: "Andorra",
+    ANG: "Angola",
+    ANT: "Antigua and Barbuda",
+    ARG: "Argentina",
+    ARM: "Armenia",
+    ARU: "Aruba",
+    AUS: "Australia",
+    AUT: "Austria",
+    AZE: "Azerbaijan",
+    BAH: "Bahamas",
+    BRN: "Bahrain",
+    BAN: "Bangladesh",
+    BAR: "Barbados",
+    BEL: "Belgium",
+    BIZ: "Belize",
+    BEN: "Benin",
+    BER: "Bermuda",
+    BHU: "Bhutan",
+    BOL: "Bolivia",
+    BIH: "Bosnia & Herzegovina",
+    BOT: "Botswana",
+    BRA: "Brazil",
+    BRU: "Brunei Darussalam",
+    BUL: "Bulgaria",
+    BUR: "Burkina Faso",
+    BDI: "Burundi",
+    CPV: "Cabo Verde",
+    CAM: "Cambodia",
+    CMR: "Cameroon",
+    CAN: "Canada",
+    CAY: "Cayman Islands",
+    CAF: "Centr Afric Rep",
+    CHA: "Chad",
+    CHI: "Chile",
+    COL: "Colombia",
+    COM: "Comoros",
+    CGO: "Congo",
+    COK: "Cook Islands",
+    CRC: "Costa Rica",
+    CIV: "Côte d'Ivoire",
+    CRO: "Croatia",
+    CUB: "Cuba",
+    CYP: "Cyprus",
+    CZE: "Czechia",
+    PRK: "DPR Korea",
+    COD: "DR Congo",
+    TLS: "Timor-Leste",
+    DEN: "Denmark",
+    DJI: "Djibouti",
+    DMA: "Dominica",
+    DOM: "Dominican Republic",
+    ECU: "Ecuador",
+    EGY: "Egypt",
+    ESA: "El Salvador",
+    GEQ: "Equatorial Guinea",
+    ERI: "Eritrea",
+    EST: "Estonia",
+    SWZ: "Eswatini",
+    ETH: "Ethiopia",
+    FSM: "Micronesia",
+    FIJ: "Fiji",
+    FIN: "Finland",
+    FRA: "France",
+    GAB: "Gabon",
+    GAM: "Gambia",
+    GEO: "Georgia",
+    GER: "Germany",
+    GHA: "Ghana",
+    GBR: "Great Britain",
+    GRE: "Greece",
+    GRN: "Grenada",
+    GUM: "Guam",
+    GUA: "Guatemala",
+    GUI: "Guinea",
+    GBS: "Guinea-Bissau",
+    GUY: "Guyana",
+    HAI: "Haiti",
+    HON: "Honduras",
+    HKG: "Hong Kong, China",
+    HUN: "Hungary",
+    ISL: "Iceland",
+    IND: "India",
+    INA: "Indonesia",
+    IRQ: "Iraq",
+    IRL: "Ireland",
+    IRI: "IR Iran",
+    ISR: "Israel",
+    ITA: "Italy",
+    JAM: "Jamaica",
+    JPN: "Japan",
+    JOR: "Jordan",
+    KAZ: "Kazakhstan",
+    KEN: "Kenya",
+    KIR: "Kiribati",
+    KOS: "Kosovo",
+    KUW: "Kuwait",
+    KGZ: "Kyrgyzstan",
+    LAO: "Lao PDR",
+    LAT: "Latvia",
+    LBN: "Lebanon",
+    LES: "Lesotho",
+    LBR: "Liberia",
+    LBA: "Libya",
+    LIE: "Liechtenstein",
+    LTU: "Lithuania",
+    LUX: "Luxembourg",
+    MAD: "Madagascar",
+    MAW: "Malawi",
+    MAS: "Malaysia",
+    MDV: "Maldives",
+    MLI: "Mali",
+    MLT: "Malta",
+    MHL: "Marshall Islands",
+    MTN: "Mauritania",
+    MRI: "Mauritius",
+    MEX: "Mexico",
+    MON: "Monaco",
+    MGL: "Mongolia",
+    MNE: "Montenegro",
+    MAR: "Morocco",
+    MOZ: "Mozambique",
+    MYA: "Myanmar",
+    NAM: "Namibia",
+    NRU: "Nauru",
+    NEP: "Nepal",
+    NED: "Netherlands",
+    NZL: "New Zealand",
+    NCA: "Nicaragua",
+    NIG: "Niger",
+    NGR: "Nigeria",
+    MKD: "North Macedonia",
+    NOR: "Norway",
+    OMA: "Oman",
+    PAK: "Pakistan",
+    PLW: "Palau",
+    PLE: "Palestine",
+    PAN: "Panama",
+    PNG: "Papua New Guinea",
+    PAR: "Paraguay",
+    CHN: "China",
+    PER: "Peru",
+    PHI: "Philippines",
+    POL: "Poland",
+    POR: "Portugal",
+    PUR: "Puerto Rico",
+    QAT: "Qatar",
+    EOR: "EOR",
+    KOR: "Korea",
+    MDA: "Republic of Moldova",
+    ROU: "Romania",
+    RWA: "Rwanda",
+    SKN: "St Kitts and Nevis",
+    LCA: "Saint Lucia",
+    SAM: "Samoa",
+    SMR: "San Marino",
+    STP: "Sao Tome & Principe",
+    KSA: "Saudi Arabia",
+    SEN: "Senegal",
+    SRB: "Serbia",
+    SEY: "Seychelles",
+    SLE: "Sierra Leone",
+    SGP: "Singapore",
+    SVK: "Slovakia",
+    SLO: "Slovenia",
+    SOL: "Solomon Islands",
+    SOM: "Somalia",
+    RSA: "South Africa",
+    SSD: "South Sudan",
+    ESP: "Spain",
+    SRI: "Sri Lanka",
+    VIN: "StVincent&Grenadines",
+    SUD: "Sudan",
+    SUR: "Suriname",
+    SWE: "Sweden",
+    SUI: "Switzerland",
+    SYR: "Syria",
+    TJK: "Tajikistan",
+    THA: "Thailand",
+    TOG: "Togo",
+    TGA: "Tonga",
+    TPE: "Chinese Taipei",
+    TTO: "Trinidad and Tobago",
+    TUN: "Tunisia",
+    TUR: "Türkiye",
+    TKM: "Turkmenistan",
+    TUV: "Tuvalu",
+    UGA: "Uganda",
+    UKR: "Ukraine",
+    UAE: "UA Emirates",
+    TAN: "Tanzania",
+    USA: "United States",
+    URU: "Uruguay",
+    UZB: "Uzbekistan",
+    VAN: "Vanuatu",
+    VEN: "Venezuela",
+    VIE: "Vietnam",
+    IVB: "Virgin Islands, B",
+    ISV: "Virgin Islands, US",
+    YEM: "Yemen",
+    ZAM: "Zambia",
+    ZIM: "Zimbabwe",
   };
 
-  if (teams[country.toLowerCase()]) {
-    return teams[country.toLowerCase()];
+  if (teams[code]) {
+    return teams[code];
   }
-  throw new Error(`No flag set for ${country}`);
+  throw new Error(`No name set for ${code}`);
+};
+
+const getCountryFlag = (code) => {
+  const teams = {
+    ANG: "🇦🇴",
+    ARG: "🇦🇷",
+    AUS: "🇦🇺",
+    AUT: "🇦🇹",
+    AZE: "🇦🇿",
+    BEL: "🇧🇪",
+    BRA: "🇧🇷",
+    CAN: "🇨🇦",
+    CHI: "🇨🇱",
+    CHN: "🇨🇳",
+    COL: "🇨🇴",
+    CRO: "🇭🇷",
+    CUB: "🇨🇺",
+    CZE: "🇨🇿",
+    DEN: "🇩🇰",
+    DOM: "🇩🇴",
+    EGY: "🇪🇬",
+    ESP: "🇪🇸",
+    FIJ: "🇫🇯",
+    FRA: "🇫🇷",
+    GBR: "🇬🇧",
+    GER: "🇩🇪",
+    GRE: "🇬🇷",
+    GUI: "🇬🇳",
+    HUN: "🇭🇺",
+    IND: "🇮🇳",
+    IRL: "🇮🇪",
+    IRQ: "🇮🇶",
+    ISR: "🇮🇱",
+    ITA: "🇮🇹",
+    JPN: "🇯🇵",
+    KEN: "🇰🇪",
+    KOR: "🇰🇷",
+    LAT: "🇱🇻",
+    LTU: "🇱🇹",
+    MAR: "🇲🇦",
+    MLI: "🇲🇱",
+    MNE: "🇲🇪",
+    NED: "🇳🇱",
+    NGR: "🇳🇬",
+    NOR: "🇳🇴",
+    NZL: "🇳🇿",
+    PAR: "🇵🇾",
+    POL: "🇵🇱",
+    PUR: "🇵🇷",
+    QAT: "🇶🇦",
+    ROU: "🇷🇴",
+    RSA: "🇿🇦",
+    SAM: "🇼🇸",
+    SLO: "🇸🇮",
+    SRB: "🇷🇸",
+    SSD: "🇸🇸",
+    SUI: "🇨🇭",
+    SWE: "🇸🇪",
+    TUR: "🇹🇷",
+    UKR: "🇺🇦",
+    URU: "🇺🇾",
+    USA: "🇺🇸",
+    UZB: "🇺🇿",
+    ZAM: "🇿🇲",
+  };
+
+  if (teams[code]) {
+    return teams[code];
+  }
+  throw new Error(`No flag set for ${code} (${getCountryName(code)})`);
 };
 
 const SPORTS = [];
@@ -199,9 +417,13 @@ const addSport = (name, key, icon) => {
   }
 };
 
-const addTeam = (name, key, icon) => {
+const addTeam = (key) => {
   if (!TEAMS.find((team) => team.key === key)) {
-    TEAMS.push({ name, key, icon });
+    TEAMS.push({
+      key,
+      name: getCountryName(key),
+      icon: getCountryFlag(key),
+    });
   }
 };
 
@@ -212,60 +434,65 @@ const addSportTeam = (sportKey, teamKey) => {
   }
 };
 
-const isValidTeam = (team) => !team.toLowerCase().startsWith("winner oqt");
+const isValidTeam = (team) => !team.match(/winner|loser|[0-9]/gi);
 
 const teamSport = async (sportKey) => {
   const data = await downloadSchedule(sportKey);
-  const sportName = data.props.pageProps.page.template.properties.title;
+  const sportName = data.query.pDisciplineLabel;
   const sportIcon = getSportIcon(sportKey);
 
   addSport(sportName, sportKey, sportIcon);
 
-  data.props.pageProps.page.items.find((item) => item.name === "scheduleWrapper")
-    .data.schedules.forEach((schedule) => {
-      schedule.units.forEach(unit => {
+  data.props.pageProps.scheduleDataSource.initialSchedule.units.forEach(unit => {
 
-        const event = {
-          UID: `${sportKey}-${unit.startDateTimeUtc.replace(/[:-]/g, "")}`,
-          DTSTAMP: unit.startDateTimeUtc.replace(/[:-]/g, ""),
-          DTSTART: unit.startDateTimeUtc.replace(/[:-]/g, ""),
-          DTEND: unit.endDateTimeUtc.replace(/[:-]/g, ""),
-          DESCRIPTION: `${sportName} - ${unit.description}`,
-          SUMMARY: `${sportIcon} ${unit.description}`,
-          LOCATION: schedule.venue ? schedule.venue.description : unit.venue.description,
-          _SPORT: sportKey,
-        };
+    unit.startDateTimeUtc = new Date(unit.startDate).toISOString().replace(".000", "");
+    unit.endDateTimeUtc = new Date(unit.endDate).toISOString().replace(".000", "");
 
-        if (unit.match &&
-          unit.match.team1 && isValidTeam(unit.match.team1.description) &&
-          unit.match.team2 && isValidTeam(unit.match.team2.description)
-        ) {
-          const team1 = {
-            name: unit.match.team1.description,
-            key: unit.match.team1.teamCode,
-            icon: getFlagIcon(unit.match.team1.description),
-          };
-          addTeam(team1.name, team1.key, team1.icon);
+    const event = {
+      UID: `${sportKey}-${unit.startDateTimeUtc.replace(/[:-]/g, "")}`,
+      DTSTAMP: unit.startDateTimeUtc.replace(/[:-]/g, ""),
+      DTSTART: unit.startDateTimeUtc.replace(/[:-]/g, ""),
+      DTEND: unit.endDateTimeUtc.replace(/[:-]/g, ""),
+      DESCRIPTION: `${sportName} - ${unit.eventUnitName}`,
+      SUMMARY: `${sportIcon} ${unit.eventUnitName}`,
+      LOCATION: unit.venueDescription,
+      _SPORT: sportKey,
+    };
 
-          const team2 = {
-            name: unit.match.team2.description,
-            key: unit.match.team2.teamCode,
-            icon: getFlagIcon(unit.match.team2.description),
-          };
-          addTeam(team2.name, team2.key, team2.icon);
+    if (unit.competitors && unit.competitors.length === 2 &&
+      isValidTeam(unit.competitors[0].name) &&
+      isValidTeam(unit.competitors[1].name)
+    ) {
+      const competitors = unit.competitors.sort((a, b) => a.order > b.order ? 1 : -1);
+      const team1 = {
+        name: competitors[0].name,
+        key: competitors[0].noc,
+        icon: getCountryFlag(competitors[0].noc),
+      };
+      addTeam(team1.key);
 
-          event.UID += `-${team1.key}-${team2.key}`;
-          event.SUMMARY = `${sportIcon} ${team1.key} ${team1.icon} - ${team2.icon} ${team2.key}`;
-          event._TEAM1 = team1.key;
-          event._TEAM2 = team2.key;
-          addSportTeam(sportKey, team1.key);
-          addSportTeam(sportKey, team2.key);
-        }
+      const team2 = {
+        name: competitors[1].name,
+        key: competitors[1].noc,
+        icon: getCountryFlag(competitors[1].noc),
+      };
+      addTeam(team2.key);
 
-        EVENTS.push(event);
+      event.UID += `-${team1.key}-${team2.key}`;
+      if (team1.name !== getCountryName(team1.key)) {
+        event.SUMMARY = `${sportIcon} ${team1.name} ${team1.icon} - ${team2.icon} ${team2.name}`;
+      } else {
+        event.SUMMARY = `${sportIcon} ${team1.key} ${team1.icon} - ${team2.icon} ${team2.key}`;
+      }
+      event._TEAM1 = team1.key;
+      event._TEAM2 = team2.key;
+      addSportTeam(sportKey, team1.key);
+      addSportTeam(sportKey, team2.key);
+    }
 
-      });
-    });
+    EVENTS.push(event);
+
+  });
 };
 
 const teamSports = async () => {
@@ -273,6 +500,7 @@ const teamSports = async () => {
     [
       "3x3-basketball",
       "basketball",
+      "beach-volleyball",
       "football",
       "handball",
       "hockey",

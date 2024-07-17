@@ -4,12 +4,12 @@ PRODID:-//fabrice404//olympics-calendar//3x3-basketball/NED//EN
 X-WR-CALNAME:🇳🇱 Netherlands 3x3 Basketball | Paris 2024
 NAME:🇳🇱 Netherlands 3x3 Basketball | Paris 2024
 BEGIN:VEVENT
-UID:3x3-basketball-20240730T170500Z-NED-CHN
+UID:3x3-basketball-20240730T170500Z-CHN-NED
 DTSTAMP:20240730T170500Z
 DTSTART:20240730T170500Z
 DTEND:20240730T173000Z
 DESCRIPTION:3x3 Basketball - Men's Pool Round
-SUMMARY:🏀③ NED 🇳🇱 - 🇨🇳 CHN
+SUMMARY:🏀③ CHN 🇨🇳 - 🇳🇱 NED
 LOCATION:La Concorde 1
 END:VEVENT
 BEGIN:VEVENT
@@ -31,12 +31,12 @@ SUMMARY:🏀③ NED 🇳🇱 - 🇷🇸 SRB
 LOCATION:La Concorde 1
 END:VEVENT
 BEGIN:VEVENT
-UID:3x3-basketball-20240801T120500Z-FRA-NED
+UID:3x3-basketball-20240801T120500Z-NED-FRA
 DTSTAMP:20240801T120500Z
 DTSTART:20240801T120500Z
 DTEND:20240801T123000Z
 DESCRIPTION:3x3 Basketball - Men's Pool Round
-SUMMARY:🏀③ FRA 🇫🇷 - 🇳🇱 NED
+SUMMARY:🏀③ NED 🇳🇱 - 🇫🇷 FRA
 LOCATION:La Concorde 1
 END:VEVENT
 BEGIN:VEVENT
