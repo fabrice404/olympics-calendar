@@ -143,9 +143,9 @@ const generateOutputPage = () => {
 
   html.push("<table>");
   SPORTS.map((sport) => {
-    html.push(`<tr class="even:bg-slate-200">`);
+    html.push("<tr class=\"even:bg-slate-200\">");
     html.push(`<th class="font-bold text-left">${sport.name}</td>`);
-    html.push(`<td>`);
+    html.push("<td>");
     html.push(`<a href="${sport.key}/general.ics" class="${linkClass}">Full schedule</a>`);
     sport.NOCS.sort().forEach((noc) => {
       html.push(`<a href="${sport.key}/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
@@ -153,6 +153,14 @@ const generateOutputPage = () => {
     html.push("</td>");
     html.push("</tr>");
   });
+
+  html.push("<tr class=\"even:bg-slate-200\">");
+  html.push("<th class=\"font-bold text-left\">All sports</td>");
+  html.push("<td>");
+  NOCS.sort().forEach((noc) => {
+    html.push(`<a href="general/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
+  });
+  html.push("</tr>");
   html.push("</table>");
 
   const template = fs.readFileSync(`${__dirname}/template.html`, "utf-8");
