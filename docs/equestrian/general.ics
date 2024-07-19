@@ -26,8 +26,8 @@ UID:equestrian-20240728T083000Z
 DTSTAMP:20240728T083000Z
 DTSTART:20240728T083000Z
 DTEND:20240728T133000Z
-DESCRIPTION:Equestrian - Eventing Individual Cross Country
-SUMMARY:🏇 Eventing Individual Cross Country
+DESCRIPTION:Equestrian - Eventing Team Cross Country
+SUMMARY:🏇 Eventing Team Cross Country
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
@@ -35,8 +35,8 @@ UID:equestrian-20240728T083000Z
 DTSTAMP:20240728T083000Z
 DTSTART:20240728T083000Z
 DTEND:20240728T133000Z
-DESCRIPTION:Equestrian - Eventing Team Cross Country
-SUMMARY:🏇 Eventing Team Cross Country
+DESCRIPTION:Equestrian - Eventing Individual Cross Country
+SUMMARY:🏇 Eventing Individual Cross Country
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
@@ -71,8 +71,8 @@ UID:equestrian-20240730T090000Z
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T143000Z
-DESCRIPTION:Equestrian - Dressage Individual Grand Prix Day 1
-SUMMARY:🏇 Dressage Individual Grand Prix Day 1
+DESCRIPTION:Equestrian - Dressage Team Grand Prix Day 1
+SUMMARY:🏇 Dressage Team Grand Prix Day 1
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
@@ -80,17 +80,8 @@ UID:equestrian-20240730T090000Z
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
 DTEND:20240730T143000Z
-DESCRIPTION:Equestrian - Dressage Team Grand Prix Day 1
-SUMMARY:🏇 Dressage Team Grand Prix Day 1
-LOCATION:Château de Versailles
-END:VEVENT
-BEGIN:VEVENT
-UID:equestrian-20240731T080000Z
-DTSTAMP:20240731T080000Z
-DTSTART:20240731T080000Z
-DTEND:20240731T133000Z
-DESCRIPTION:Equestrian - Dressage Individual Grand Prix Day 2
-SUMMARY:🏇 Dressage Individual Grand Prix Day 2
+DESCRIPTION:Equestrian - Dressage Individual Grand Prix Day 1
+SUMMARY:🏇 Dressage Individual Grand Prix Day 1
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
@@ -100,6 +91,15 @@ DTSTART:20240731T080000Z
 DTEND:20240731T133000Z
 DESCRIPTION:Equestrian - Dressage Team Grand Prix Day 2
 SUMMARY:🏇 Dressage Team Grand Prix Day 2
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:equestrian-20240731T080000Z
+DTSTAMP:20240731T080000Z
+DTSTART:20240731T080000Z
+DTEND:20240731T133000Z
+DESCRIPTION:Equestrian - Dressage Individual Grand Prix Day 2
+SUMMARY:🏇 Dressage Individual Grand Prix Day 2
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
