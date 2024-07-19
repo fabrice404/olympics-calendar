@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//cycling-mountain-bike/general//EN
+X-WR-CALNAME:🚴 Cycling Mountain Bike | Paris 2024
+NAME:🚴 Cycling Mountain Bike | Paris 2024
+BEGIN:VEVENT
+UID:cycling-mountain-bike-20240728T121000Z
+DTSTAMP:20240728T121000Z
+DTSTART:20240728T121000Z
+DTEND:20240728T134000Z
+DESCRIPTION:Cycling Mountain Bike - Women's Cross-country
+SUMMARY:🚴 Women's Cross-country
+LOCATION:Elancourt Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:cycling-mountain-bike-20240729T121000Z
+DTSTAMP:20240729T121000Z
+DTSTART:20240729T121000Z
+DTEND:20240729T134000Z
+DESCRIPTION:Cycling Mountain Bike - Men's Cross-country
+SUMMARY:🚴 Men's Cross-country
+LOCATION:Elancourt Hill
+END:VEVENT
+END:VCALENDAR

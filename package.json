@@ -1,10 +1,11 @@
 {
   "name": "olympics-calendar",
   "version": "1.0.0",
-  "main": "handball.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "find ./cache/*.html -mmin +60 -exec rm -f {} \\; | node index.js",
-    "lint": "eslint .",
+    "start": "find ./cache/*.html -mmin +60 -exec rm -f {} \\; | node src/index.js",
+    "dev": "nodemon src/index.js",
+    "lint": "eslint . --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -16,6 +17,7 @@
     "cheerio": "^1.0.0-rc.12",
     "eslint": "^9.6.0",
     "globals": "^15.8.0",
+    "nodemon": "^3.1.4",
     "postcss": "^8.4.39",
     "tailwindcss": "^3.4.4"
   }

@@ -501,14 +501,22 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
-.mb-2 {
-  margin-bottom: 0.5rem;
+.my-10 {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+.my-px {
+  margin-top: 1px;
+  margin-bottom: 1px;
 }
 .ml-10 {
   margin-left: 2.5rem;
 }
-.ml-4 {
-  margin-left: 1rem;
+.ml-6 {
+  margin-left: 1.5rem;
+}
+.block {
+  display: block;
 }
 .inline-block {
   display: inline-block;
@@ -516,18 +524,39 @@ video {
 .flex {
   display: flex;
 }
+.table {
+  display: table;
+}
+.h-10 {
+  height: 2.5rem;
+}
+.w-10 {
+  width: 2.5rem;
+}
 .list-decimal {
   list-style-type: decimal;
+}
+.flex-wrap {
+  flex-wrap: wrap;
 }
 .items-center {
   align-items: center;
 }
+.justify-between {
+  justify-content: space-between;
+}
 .rounded-lg {
   border-radius: 0.5rem;
 }
-.bg-gray-200 {
+.border-b {
+  border-bottom-width: 1px;
+}
+.border-slate-900\/10 {
+  border-color: rgb(15 23 42 / 0.1);
+}
+.bg-slate-400 {
   --tw-bg-opacity: 1;
-  background-color: rgb(229 231 235 / var(--tw-bg-opacity));
+  background-color: rgb(148 163 184 / var(--tw-bg-opacity));
 }
 .p-4 {
   padding: 1rem;
@@ -546,6 +575,12 @@ video {
 .pt-8 {
   padding-top: 2rem;
 }
+.text-left {
+  text-align: left;
+}
+.text-center {
+  text-align: center;
+}
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -558,12 +593,37 @@ video {
   font-size: 1rem;
   line-height: 1.5rem;
 }
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+.font-bold {
+  font-weight: 700;
+}
+.text-slate-200 {
+  --tw-text-opacity: 1;
+  color: rgb(226 232 240 / var(--tw-text-opacity));
+}
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
 
 html {
   font-size: 12px;
 }
 
-.hover\:bg-blue-200:hover {
+.even\:bg-slate-200:nth-child(even) {
   --tw-bg-opacity: 1;
-  background-color: rgb(191 219 254 / var(--tw-bg-opacity));
+  background-color: rgb(226 232 240 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-blue-400:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(96 165 250 / var(--tw-bg-opacity));
+}
+
+.hover\:text-sky-500:hover {
+  --tw-text-opacity: 1;
+  color: rgb(14 165 233 / var(--tw-text-opacity));
 }

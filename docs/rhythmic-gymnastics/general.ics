@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rhythmic-gymnastics/general//EN
+X-WR-CALNAME:🤸 Rhythmic Gymnastics | Paris 2024
+NAME:🤸 Rhythmic Gymnastics | Paris 2024
+BEGIN:VEVENT
+UID:rhythmic-gymnastics-20240808T080000Z
+DTSTAMP:20240808T080000Z
+DTSTART:20240808T080000Z
+DTEND:20240808T110000Z
+DESCRIPTION:Rhythmic Gymnastics - Individual All-Around Qualification - Part 1 of 2
+SUMMARY:🤸 Individual All-Around Qualification - Part 1 of 2
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:rhythmic-gymnastics-20240808T130000Z
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T160000Z
+DESCRIPTION:Rhythmic Gymnastics - Individual All-Around Qualification - Part 2 of 2
+SUMMARY:🤸 Individual All-Around Qualification - Part 2 of 2
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:rhythmic-gymnastics-20240809T080000Z
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:Rhythmic Gymnastics - Group All-Around Qualification - Part 1 of 2
+SUMMARY:🤸 Group All-Around Qualification - Part 1 of 2
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:rhythmic-gymnastics-20240809T091600Z
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:Rhythmic Gymnastics - Group All-Around Qualification - Part 2 of 2
+SUMMARY:🤸 Group All-Around Qualification - Part 2 of 2
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:rhythmic-gymnastics-20240809T123000Z
+DTSTAMP:20240809T123000Z
+DTSTART:20240809T123000Z
+DTEND:20240809T150300Z
+DESCRIPTION:Rhythmic Gymnastics - Individual All-Around Final
+SUMMARY:🤸 Individual All-Around Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:rhythmic-gymnastics-20240810T120000Z
+DTSTAMP:20240810T120000Z
+DTSTART:20240810T120000Z
+DTEND:20240810T132600Z
+DESCRIPTION:Rhythmic Gymnastics - Group All-Around Final
+SUMMARY:🤸 Group All-Around Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+END:VCALENDAR
