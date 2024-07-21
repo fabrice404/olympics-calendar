@@ -154,7 +154,7 @@ const generateOutputPage = () => {
   html.push("<table>");
   SPORTS.map((sport) => {
     html.push("<tr class=\"even:bg-slate-200\">");
-    html.push(`<th class="font-bold text-left">${getSportIcon(sport.key)} ${sport.name}</td>`);
+    html.push(`<th class="font-bold text-left whitespace-nowrap">${getSportIcon(sport.key)} ${sport.name}</td>`);
     html.push("<td>");
     html.push(`<a href="${sport.key}/general.ics" class="${linkClass}">Full schedule</a>`);
     sport.NOCS.sort().forEach((noc) => {
@@ -165,7 +165,7 @@ const generateOutputPage = () => {
   });
 
   html.push("<tr class=\"even:bg-slate-200\">");
-  html.push("<th class=\"font-bold text-left\">All sports</td>");
+  html.push("<th class=\"font-bold text-left whitespace-nowrap\">All sports</td>");
   html.push("<td>");
   html.push(`<a href="general/general.ics" class="${linkClass}">Full schedule</a>`);
   NOCS.sort().forEach((noc) => {

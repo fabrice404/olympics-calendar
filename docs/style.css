@@ -545,6 +545,9 @@ video {
 .justify-between {
   justify-content: space-between;
 }
+.whitespace-nowrap {
+  white-space: nowrap;
+}
 .rounded-lg {
   border-radius: 0.5rem;
 }
