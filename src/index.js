@@ -76,6 +76,12 @@ const generateCalendars = () => {
       const title = `${getNOCFlag(noc)} ${getNOCName(noc)} | Paris 2024`;
       generateICS(title, key, events);
     });
+
+  const events = EVENTS
+    .sort((a, b) => a.UID > b.UID ? 1 : -1);
+  const key = "general/general";
+  const title = "Paris 2024";
+  generateICS(title, key, events);
 };
 
 const slugify = (text) => text.toLowerCase().replace(/\s/g, "-")
@@ -161,6 +167,7 @@ const generateOutputPage = () => {
   html.push("<tr class=\"even:bg-slate-200\">");
   html.push("<th class=\"font-bold text-left\">All sports</td>");
   html.push("<td>");
+  html.push(`<a href="general/general.ics" class="${linkClass}">Full schedule</a>`);
   NOCS.sort().forEach((noc) => {
     html.push(`<a href="general/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
   });
