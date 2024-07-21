@@ -78,6 +78,10 @@ const generateCalendars = () => {
     });
 };
 
+const slugify = (text) => text.toLowerCase().replace(/\s/g, "-")
+  .replace(/[^a-z0-9-]/g, "")
+  .replace(/-+/g, "-");
+
 const extractSportCalendar = async (sportKey) => {
   const data = await downloadSchedule(sportKey);
   const sportName = data.query.pDisciplineLabel;
@@ -89,7 +93,7 @@ const extractSportCalendar = async (sportKey) => {
     unit.endDateTimeUtc = new Date(unit.endDate).toISOString().replace(".000", "");
 
     const event = {
-      UID: `${sportKey}-${unit.startDateTimeUtc.replace(/[:-]/g, "")}`,
+      UID: `${sportKey}-${unit.startDateTimeUtc.replace(/[:-]/g, "")}-${slugify(unit.eventUnitName).toUpperCase()}`,
       DTSTAMP: unit.startDateTimeUtc.replace(/[:-]/g, ""),
       DTSTART: unit.startDateTimeUtc.replace(/[:-]/g, ""),
       DTEND: unit.endDateTimeUtc.replace(/[:-]/g, ""),
