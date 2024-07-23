@@ -19,7 +19,27 @@ const generateICS = (title, key, events) => {
     lines.push(
       ...Object.entries(event)
         .filter(([key]) => !key.startsWith("_"))
-        .map(([key, value]) => `${key}:${value}`),
+        .map(([key, value]) => {
+          let result = `${key}:${value}`;
+          if (result.length > 75) {
+            if (key === "DESCRIPTION") {
+              const lines = [];
+              while (result.length > 75) {
+                let index = 75;
+                while (result[index] !== " " && index > 0) {
+                  index--;
+                }
+                lines.push(result.slice(0, index));
+                result = "  " + result.slice(index);
+              }
+              lines.push(result);
+              return lines.join("\r\n").trim();
+            }
+            return `${key}:${value}`.slice(0, 75);
+          }
+          return `${key}:${value}`;
+
+        }),
     );
     lines.push("END:VEVENT");
   });
