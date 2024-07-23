@@ -30,7 +30,7 @@ const generateICS = (title, key, events) => {
                   index--;
                 }
                 lines.push(result.slice(0, index));
-                result = "  " + result.slice(index);
+                result = "  " + result.slice(index).trim();
               }
               lines.push(result);
               return lines.join("\r\n").trim();
