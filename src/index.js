@@ -135,9 +135,9 @@ const extractSportCalendar = async (sportKey) => {
         // more than two, we put them in the description
         competitors.forEach((competitor) => {
           if (competitor.name !== getNOCName(competitor.noc)) {
-            event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.name}`;
+            event.DESCRIPTION += `\r\n${getNOCFlag(competitor.noc)} ${competitor.name}`;
           } else {
-            event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.noc}`;
+            event.DESCRIPTION += `\r\n${getNOCFlag(competitor.noc)} ${competitor.noc}`;
           }
         });
       }
@@ -175,7 +175,7 @@ const generateOutputPage = () => {
   html.push("</table>");
 
   const template = fs.readFileSync(`${__dirname}/template.html`, "utf-8");
-  const output = template.replace("{{calendars}}", html.join("\n"));
+  const output = template.replace("{{calendars}}", html.join("\r\n"));
   fs.writeFileSync("docs/index.html", output);
 
   postcss([autoprefixer, tailwindcss])
