@@ -135,9 +135,9 @@ const extractSportCalendar = async (sportKey) => {
         // more than two, we put them in the description
         competitors.forEach((competitor) => {
           if (competitor.name !== getNOCName(competitor.noc)) {
-            event.DESCRIPTION += `\n${getNOCFlag(competitor.noc)} ${competitor.name}`;
+            event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.name}`;
           } else {
-            event.DESCRIPTION += `\n${getNOCFlag(competitor.noc)} ${competitor.noc}`;
+            event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.noc}`;
           }
         });
       }
