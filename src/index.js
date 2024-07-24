@@ -99,7 +99,7 @@ const extractSportCalendar = async (sportKey) => {
     unit.endDateTimeUtc = new Date(unit.endDate).toISOString().replace(".000", "");
 
     const event = {
-      UID: `${sportKey}-${unit.startDateTimeUtc.replace(/[:-]/g, "")}-${slugify(unit.eventUnitName).toUpperCase()}`,
+      UID: `${unit.startDateTimeUtc.replace(/[:-]/g, "")}-${sportKey}-${slugify(unit.eventUnitName).toUpperCase()}`,
       DTSTAMP: unit.startDateTimeUtc.replace(/[:-]/g, ""),
       DTSTART: unit.startDateTimeUtc.replace(/[:-]/g, ""),
       DTEND: unit.endDateTimeUtc.replace(/[:-]/g, ""),
@@ -146,6 +146,39 @@ const extractSportCalendar = async (sportKey) => {
     }
     EVENTS.push(event);
   });
+};
+
+const generateCeremoniesEvents = () => {
+  let startDateUtc = new Date("2024-07-26T17:30:00Z").toISOString().replace(".000", "");
+  let endDateUtc = new Date("2024-07-26T21:00:00Z").toISOString().replace(".000", "");
+
+  const openingCeremony = {
+    UID: `${startDateUtc.replace(/[:-]/g, "")}-opening-ceremony`,
+    DTSTAMP: startDateUtc.replace(/[:-]/g, ""),
+    DTSTART: startDateUtc.replace(/[:-]/g, ""),
+    DTEND: endDateUtc.replace(/[:-]/g, ""),
+    DESCRIPTION: "Paris 2024 - Opening ceremony",
+    SUMMARY: "Paris 2024 - Opening ceremony",
+    Location: "Paris",
+    _NOCS: NOCS,
+  };
+
+  startDateUtc = new Date("2024-08-11T19:00:00Z").toISOString().replace(".000", "");
+  endDateUtc = new Date("2024-08-11T21:15:00Z").toISOString().replace(".000", "");
+
+  const closingCeremony = {
+    UID: `${startDateUtc.replace(/[:-]/g, "")}-closing-ceremony`,
+    DTSTAMP: startDateUtc.replace(/[:-]/g, ""),
+    DTSTART: startDateUtc.replace(/[:-]/g, ""),
+    DTEND: endDateUtc.replace(/[:-]/g, ""),
+    DESCRIPTION: "Paris 2024 - Closing ceremony",
+    SUMMARY: "Paris 2024 - Closing ceremony",
+    Location: "Stade de France, Saint-Denis",
+    _NOCS: NOCS,
+  };
+
+  EVENTS.push(openingCeremony);
+  EVENTS.push(closingCeremony);
 };
 
 const generateOutputPage = () => {
@@ -239,6 +272,7 @@ const main = async () => {
     ]
       .map((key) => extractSportCalendar(key)),
   );
+  generateCeremoniesEvents();
   generateCalendars();
   generateOutputPage();
 };
