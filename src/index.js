@@ -131,15 +131,17 @@ const extractSportCalendar = async (sportKey) => {
         } else {
           event.SUMMARY = `${sportIcon} ${competitor1.noc} ${getNOCFlag(competitor1.noc)} - ${getNOCFlag(competitor2.noc)} ${competitor2.noc}`;
         }
-      } else {
+      } else if (competitors.length !== 0) {
         // more than two, we put them in the description
-        competitors.forEach((competitor) => {
-          if (competitor.name !== getNOCName(competitor.noc)) {
-            event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.name}`;
-          } else {
-            event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.noc}`;
-          }
-        });
+        competitors
+          .sort((a, b) => a.name > b.name ? 1 : -1)
+          .forEach((competitor) => {
+            if (competitor.name !== getNOCName(competitor.noc)) {
+              event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.name}`;
+            } else {
+              event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.noc}`;
+            }
+          });
       }
     }
     EVENTS.push(event);
