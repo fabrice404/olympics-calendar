@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID:20240724T150000Z-football-MENS-GROUP-A-GUI-NZL
 DTSTAMP:20240724T150000Z
 DTSTART:20240724T150000Z
-DTEND:20240724T170000Z
+DTEND:20240724T164500Z
 DESCRIPTION:Football - Men's Group A
 SUMMARY:⚽ GUI 🇬🇳 - 🇳🇿 NZL
 LOCATION:Nice Stadium
@@ -112,6 +112,25 @@ SUMMARY:🏉 NZL 🇳🇿 - 🇨🇦 CAN
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T070000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-1
+DTSTAMP:20240729T070000Z
+DTSTART:20240729T070000Z
+DTEND:20240729T120000Z
+DESCRIPTION:Shooting - Trap Men's Qualification - Day 1\n🇪🇸 Alberto
+  FERNANDEZ\n🇪🇸 Andres GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss
+  HAFFARI\n🇩🇴 Eduardo Jose LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni
+  CERNOGORAZ\n🇮🇹 Giovanni PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre
+  BROL CARDENAS\n🇨🇿 Jiri LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel
+  MARTINEZ\n🇸🇰 Marian KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹
+  Mauro de FILIPPIS\n🇦🇺 Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧
+  Nathan HALES\n🇹🇷 Oguzhan TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj
+  TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪 Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed
+  ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
+  HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
+SUMMARY:🔫 Trap Men's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T143000Z-rugby-sevens-WOMENS-POOL-A-NZL-FIJ
 DTSTAMP:20240729T143000Z
 DTSTART:20240729T143000Z
@@ -164,6 +183,25 @@ DTEND:20240802T163000Z
 DESCRIPTION:Hockey - Men's Pool B
 SUMMARY:🏑 NZL 🇳🇿 - 🇮🇪 IRL
 LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

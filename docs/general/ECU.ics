@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ECU//EN
+X-WR-CALNAME:🇪🇨 Ecuador | Paris 2024
+NAME:🇪🇨 Ecuador | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Opening ceremony
+SUMMARY:Paris 2024 - Opening ceremony
+Location:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T103000Z-shooting-10M-AIR-PISTOL-WOMENS-QUALIFICATION
+DTSTAMP:20240727T103000Z
+DTSTART:20240727T103000Z
+DTEND:20240727T114500Z
+DESCRIPTION:Shooting - 10m Air Pistol Women's Qualification\n🇱🇻 Agate
+  RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨 Andrea
+  PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta
+  KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana
+  DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲
+  Elmira KARAPETYAN\n🇪🇬 Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿
+  Irina YUNUSMETOVA\n🇨🇳 JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM
+  Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala
+  TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina
+  PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬
+  Nour Abbas MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa
+  CHARNI\n🇮🇳 Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda
+  TARHAN\n🇹🇷 Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn
+  PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong
+  TEH\n🇹🇼 YU Ai Wen\n🇾🇪 Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
+SUMMARY:🔫 10m Air Pistol Women's Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T070000Z-shooting-25M-PISTOL-WOMENS-QUALIFICATION-PRECISION
+DTSTAMP:20240802T070000Z
+DTSTART:20240802T070000Z
+DTEND:20240802T093000Z
+DESCRIPTION:Shooting - 25m Pistol Women's Qualification Precision\n🇺🇸 Ada
+  Claudia KORKHIN\n🇱🇻 Agate RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇪🇨
+  Andrea PEREZ PENA\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷
+  Camille JEDRZEJEWSKI\n🇪🇨 Diana DURANGO FLORES\n🇩🇪 Doreen
+  VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇮🇳 Esha SINGH\n🇮🇷 Haniyeh
+  ROSTAMIYAN\n🇩🇪 Josefin EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸
+  Katelyn Morgan ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LIANG
+  Xiaoya\n🇨🇺 Laina PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇫🇷
+  Mathilde LAMOLLE\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas MOHAMMED\n🇺🇦
+  Olena KOSTEVYCH\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷
+  Simal YILMAZ\n🇸🇪 Stina LAWNER\n🇦🇹 Sylvia STEINER\n🇹🇼 TIEN Chia
+  Chen\n🇹🇭 Tanyaporn PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika
+  MAJOR\n🇹🇼 WU Chia Ying\n🇸🇬 Xiu Hong TEH\n🇰🇷 YANG Jiin\n🇨🇳 ZHAO
+  Nan
+SUMMARY:🔫 25m Pistol Women's Qualification Precision
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+Location:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR
