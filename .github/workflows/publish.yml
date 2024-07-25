@@ -2,7 +2,7 @@ name: Auto update calendar
 
 on: 
   schedule:
-    - cron: "0, */1 * * *" 
+    - cron: "0 */1 * * *" 
   workflow_dispatch:
 
 jobs:
@@ -20,10 +20,10 @@ jobs:
       - run: npm install
       - run: npm start
       - name: Set date
-        id: date-step
-        run: echo "DATE=$(date)" >> $GITHUB_ENV
+        id: date_step
+        run: echo "DATE=\"$(date)\"" >> $GITHUB_ENV
       - uses: stefanzweifel/git-auto-commit-action@v5
         env:
-          DATE: ${{ steps.date-step.outputs.DATE }}
+          DATE: ${{ steps.date_step.outputs.DATE }}
         with:
           commit_message: "calendar updates $DATE"
