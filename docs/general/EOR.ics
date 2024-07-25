@@ -42,10 +42,25 @@ SUMMARY:🔫 10m Air Pistol Men's Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T130000Z-canoe-slalom-MENS-CANOE-SINGLE-HEATS-1ST-RUN
+DTSTAMP:20240727T130000Z
+DTSTART:20240727T130000Z
+DTEND:20240727T134500Z
+DESCRIPTION:Canoe Slalom - Men's Canoe Single Heats 1st Run\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇸🇮 Benjamin
+  SAVSEK\n🇺🇸 Casey EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇯🇵 HANEDA
+  Takuya\n🇳🇱 Joris OTTEN\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej
+  BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇧🇷
+  Pedro GONCALVES\n🇮🇹 Raffaello IVALDI\n🇹🇳 Salim JEMAI\n🇩🇪 Sideris
+  TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Canoe Single Heats 1st Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
 DTSTAMP:20240727T143200Z
 DTSTART:20240727T143200Z
-DTEND:20240727T160100Z
+DTEND:20240727T155700Z
 DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
   DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
   Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
@@ -60,6 +75,21 @@ DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
   Yevgeniy FEDOROV
 SUMMARY:🚴 Men's Individual Time Trial
 LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T151000Z-canoe-slalom-MENS-CANOE-SINGLE-HEATS-2ND-RUN
+DTSTAMP:20240727T151000Z
+DTSTART:20240727T151000Z
+DTEND:20240727T155500Z
+DESCRIPTION:Canoe Slalom - Men's Canoe Single Heats 2nd Run\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇸🇮 Benjamin
+  SAVSEK\n🇺🇸 Casey EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇯🇵 HANEDA
+  Takuya\n🇳🇱 Joris OTTEN\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej
+  BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇧🇷
+  Pedro GONCALVES\n🇮🇹 Raffaello IVALDI\n🇹🇳 Salim JEMAI\n🇩🇪 Sideris
+  TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Canoe Single Heats 2nd Run
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T071500Z-shooting-10M-AIR-RIFLE-WOMENS-QUALIFICATION
@@ -93,6 +123,15 @@ DTEND:20240728T083600Z
 DESCRIPTION:Judo - Men -66 kg Elimination Round of 32
 SUMMARY:🥋 Mohammad RASHNONEZHAD 🏳️ - 🇫🇷 Walide KHYAR
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T090000Z-boxing-MENS-51KG-PRELIMINARIES-ROUND-OF-32-EOR-USA
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T091100Z
+DESCRIPTION:Boxing - Men's 51kg - Preliminaries - Round of 32
+SUMMARY:🥊 Omid AHMADISAFA 🏳️ - 🇺🇸 Roscoe HILL
+LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T080000Z-judo-WOMEN-57-KG-ELIMINATION-ROUND-OF-32-PAN-EOR
@@ -131,6 +170,15 @@ SUMMARY:🥋 Nigara SHAHEEN 🏳️ - 🇲🇽 Prisca AWITI ALCARAZ
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T150600Z-boxing-WOMENS-75KG-PRELIMINARIES-ROUND-OF-16-CAN-EOR
+DTSTAMP:20240731T150600Z
+DTSTART:20240731T150600Z
+DTEND:20240731T151700Z
+DESCRIPTION:Boxing - Women's 75kg - Preliminaries - Round of 16
+SUMMARY:🥊 Tammara Amanda THIBEAULT 🇨🇦 - 🏳️ Cindy Winner DJANKEU NGAMBA
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T084200Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-32-SUI-EOR
 DTSTAMP:20240801T084200Z
 DTSTART:20240801T084200Z
@@ -147,6 +195,26 @@ DTEND:20240802T082400Z
 DESCRIPTION:Judo - Women +78 kg Elimination Round of 32
 SUMMARY:🥋 Mahboubeh BARBARI ZHARFI 🏳️ - 🇩🇴 Moira MORILLO
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T133000Z-canoe-slalom-MENS-KAYAK-CROSS-TIME-TRIAL
+DTSTAMP:20240802T133000Z
+DTSTART:20240802T133000Z
+DTEND:20240802T142700Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Cross Time Trial\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮
+  Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix
+  OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz
+  HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱
+  Joris OTTEN\n🇬🇧 Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸
+  Manuel OCHOA\n🇨🇭 Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪
+  Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter
+  KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA
+  Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
+  CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Cross Time Trial
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T060000Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-32-ESP-EOR

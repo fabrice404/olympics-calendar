@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
 DTSTAMP:20240727T143200Z
 DTSTART:20240727T143200Z
-DTEND:20240727T160100Z
+DTEND:20240727T155700Z
 DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
   DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
   Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
@@ -96,6 +96,15 @@ SUMMARY:🤺 Houssam ELKORD 🇲🇦 - 🇰🇿 Ruslan KURBANOV
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T192000Z-boxing-WOMENS-50KG-PRELIMINARIES-ROUND-OF-32-MAR-PHI
+DTSTAMP:20240728T192000Z
+DTSTART:20240728T192000Z
+DTEND:20240728T193100Z
+DESCRIPTION:Boxing - Women's 50kg - Preliminaries - Round of 32
+SUMMARY:🥊 Yasmine MOUTTAKI 🇲🇦 - 🇵🇭 Aira VILLEGAS
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T070000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-1
 DTSTAMP:20240729T070000Z
 DTSTART:20240729T070000Z
@@ -124,6 +133,16 @@ SUMMARY:🥋 LEE Joonhwan 🇰🇷 - 🇲🇦 Achraf MOUTII
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T105200Z-boxing-WOMENS-54KG-PRELIMINARIES-ROUND-OF-16
+DTSTAMP:20240730T105200Z
+DTSTART:20240730T105200Z
+DTEND:20240730T110300Z
+DESCRIPTION:Boxing - Women's 54kg - Preliminaries - Round of 16\n🇲🇦 Widad
+  BERTAL
+SUMMARY:🥊 Women's 54kg - Preliminaries - Round of 16
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T130000Z-beach-volleyball-MENS-PRELIMINARY-PHASE-POOL-D-USA-MAR
 DTSTAMP:20240730T130000Z
 DTSTART:20240730T130000Z
@@ -131,6 +150,22 @@ DTEND:20240730T135000Z
 DESCRIPTION:Beach Volleyball - Men's Preliminary Phase - Pool D
 SUMMARY:🏐 PARTAIN/BENESH 🇺🇸 - 🇲🇦 ABICHA/ELGRAOUI
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T140000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-1ST-RUN
+DTSTAMP:20240730T140000Z
+DTSTART:20240730T140000Z
+DTEND:20240730T150000Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Single Heats 1st Run\n🇨🇦 Alex
+  BALDONI\n🇰🇲 Andy BARAT\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
+  Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
+  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸
+  Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
+  CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Single Heats 1st Run
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T150000Z-football-MENS-GROUP-B-MAR-IRQ
@@ -142,6 +177,31 @@ SUMMARY:⚽ MAR 🇲🇦 - 🇮🇶 IRQ
 LOCATION:Nice Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T161000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-2ND-RUN
+DTSTAMP:20240730T161000Z
+DTSTART:20240730T161000Z
+DTEND:20240730T171000Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Single Heats 2nd Run\n🇨🇦 Alex
+  BALDONI\n🇰🇲 Andy BARAT\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
+  Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
+  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸
+  Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
+  CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Single Heats 2nd Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T105200Z-boxing-WOMENS-75KG-PRELIMINARIES-ROUND-OF-16-GBR-MAR
+DTSTAMP:20240731T105200Z
+DTSTART:20240731T105200Z
+DTEND:20240731T110300Z
+DESCRIPTION:Boxing - Women's 75kg - Preliminaries - Round of 16
+SUMMARY:🥊 Chantelle Jordan REID 🇬🇧 - 🇲🇦 Khadija MARDI
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T100000Z-beach-volleyball-MENS-PRELIMINARY-PHASE-POOL-D-CUB-MAR
 DTSTAMP:20240801T100000Z
 DTSTART:20240801T100000Z
@@ -149,6 +209,26 @@ DTEND:20240801T105000Z
 DESCRIPTION:Beach Volleyball - Men's Preliminary Phase - Pool D
 SUMMARY:🏐 DIAZ/ALAYO 🇨🇺 - 🇲🇦 ABICHA/ELGRAOUI
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T133000Z-canoe-slalom-MENS-KAYAK-CROSS-TIME-TRIAL
+DTSTAMP:20240802T133000Z
+DTSTART:20240802T133000Z
+DTEND:20240802T142700Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Cross Time Trial\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮
+  Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix
+  OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz
+  HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱
+  Joris OTTEN\n🇬🇧 Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸
+  Manuel OCHOA\n🇨🇭 Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪
+  Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter
+  KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA
+  Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
+  CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Cross Time Trial
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

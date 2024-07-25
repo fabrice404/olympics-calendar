@@ -40,6 +40,15 @@ SUMMARY:🏐 AHMAN/HELLVIG 🇸🇪 - 🇦🇺 NICOLAIDIS/CARRACHER
 LOCATION:Eiffel Tower Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T143400Z-boxing-WOMENS-60KG-PRELIMINARIES-ROUND-OF-32-ECU-SWE
+DTSTAMP:20240727T143400Z
+DTSTART:20240727T143400Z
+DTEND:20240727T144500Z
+DESCRIPTION:Boxing - Women's 60kg - Preliminaries - Round of 32
+SUMMARY:🥊 Maria Jose PALACIOS ESPINOZA 🇪🇨 - 🇸🇪 Agnes ALEXIUSSON
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T151500Z-table-tennis-MIXED-DOUBLES-ROUND-OF-16-SWE-CUB
 DTSTAMP:20240727T151500Z
 DTSTART:20240727T151500Z
@@ -119,6 +128,15 @@ SUMMARY:🤾 SWE 🇸🇪 - 🇩🇪 GER
 LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T133000Z-boxing-MENS-57KG-PRELIMINARIES-ROUND-OF-32-SWE-PLE
+DTSTAMP:20240728T133000Z
+DTSTART:20240728T133000Z
+DTEND:20240728T134100Z
+DESCRIPTION:Boxing - Men's 57kg - Preliminaries - Round of 32
+SUMMARY:🥊 Nebil IBRAHIM 🇸🇪 - 🇵🇸 Wasim ABUSAL
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T070000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-1
 DTSTAMP:20240729T070000Z
 DTSTART:20240729T070000Z
@@ -164,6 +182,38 @@ DTEND:20240729T185000Z
 DESCRIPTION:Beach Volleyball - Men's Preliminary Phase - Pool A
 SUMMARY:🏐 AHMAN/HELLVIG 🇸🇪 - 🇶🇦 CHERIF/AHMED
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T140000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-1ST-RUN
+DTSTAMP:20240730T140000Z
+DTSTART:20240730T140000Z
+DTEND:20240730T150000Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Single Heats 1st Run\n🇨🇦 Alex
+  BALDONI\n🇰🇲 Andy BARAT\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
+  Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
+  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸
+  Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
+  CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Single Heats 1st Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T161000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-2ND-RUN
+DTSTAMP:20240730T161000Z
+DTSTART:20240730T161000Z
+DTEND:20240730T171000Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Single Heats 2nd Run\n🇨🇦 Alex
+  BALDONI\n🇰🇲 Andy BARAT\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
+  Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
+  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸
+  Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
+  CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Single Heats 2nd Run
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T190000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-SWE-DEN
@@ -283,6 +333,26 @@ DTEND:20240802T133000Z
 DESCRIPTION:Handball - Men's Preliminary Round Group A
 SUMMARY:🤾 CRO 🇭🇷 - 🇸🇪 SWE
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T133000Z-canoe-slalom-MENS-KAYAK-CROSS-TIME-TRIAL
+DTSTAMP:20240802T133000Z
+DTSTART:20240802T133000Z
+DTEND:20240802T142700Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Cross Time Trial\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮
+  Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix
+  OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz
+  HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱
+  Joris OTTEN\n🇬🇧 Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸
+  Manuel OCHOA\n🇨🇭 Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪
+  Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter
+  KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA
+  Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
+  CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Cross Time Trial
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1

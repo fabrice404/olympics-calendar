@@ -42,6 +42,40 @@ SUMMARY:🔫 10m Air Pistol Men's Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T140000Z-canoe-slalom-WOMENS-KAYAK-SINGLE-HEATS-1ST-RUN
+DTSTAMP:20240727T140000Z
+DTSTART:20240727T140000Z
+DTEND:20240727T145200Z
+DESCRIPTION:Canoe Slalom - Women's Kayak Single Heats 1st Run\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇨🇿 Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷
+  Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇸🇰
+  Eliska MINTALOVA\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica
+  FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦
+  Lois BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen
+  CHOURRAUT\n🇳🇱 Martina WEGMAN\n🇦🇩 Monica DORIA VILARRUBLA\n🇩🇪
+  Ricarda FUNK\n🇲🇽 Sofia REINOSO\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia
+  US\n🇯🇵 YAZAWA Aki
+SUMMARY:🛶 Women's Kayak Single Heats 1st Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T161000Z-canoe-slalom-WOMENS-KAYAK-SINGLE-HEATS-2ND-RUN
+DTSTAMP:20240727T161000Z
+DTSTART:20240727T161000Z
+DTEND:20240727T170200Z
+DESCRIPTION:Canoe Slalom - Women's Kayak Single Heats 2nd Run\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇨🇿 Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷
+  Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇸🇰
+  Eliska MINTALOVA\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica
+  FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦
+  Lois BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen
+  CHOURRAUT\n🇳🇱 Martina WEGMAN\n🇦🇩 Monica DORIA VILARRUBLA\n🇩🇪
+  Ricarda FUNK\n🇲🇽 Sofia REINOSO\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia
+  US\n🇯🇵 YAZAWA Aki
+SUMMARY:🛶 Women's Kayak Single Heats 2nd Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T184500Z-table-tennis-MENS-SINGLES-ROUND-OF-64-ALG-CRO
 DTSTAMP:20240727T184500Z
 DTSTART:20240727T184500Z
@@ -154,6 +188,15 @@ SUMMARY:🥋 Tohar BUTBUL 🇮🇱 - 🇩🇿 Messaoud Redouane DRIS
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T091600Z-boxing-WOMENS-60KG-PRELIMINARIES-ROUND-OF-16-ALG-SRB
+DTSTAMP:20240729T091600Z
+DTSTART:20240729T091600Z
+DTEND:20240729T092700Z
+DESCRIPTION:Boxing - Women's 60kg - Preliminaries - Round of 16
+SUMMARY:🥊 Dounia KHELIF 🇩🇿 - 🇷🇸 Natalia SHADRINA
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T110000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-ALG-CHN
 DTSTAMP:20240729T110000Z
 DTSTART:20240729T110000Z
@@ -172,6 +215,25 @@ SUMMARY:🏸 TABELING/PIEK 🇳🇱 - 🇩🇿 K. MAMMERI/T. MAMMERI
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T141800Z-boxing-MENS-635KG-PRELIMINARIES-ROUND-OF-16
+DTSTAMP:20240729T141800Z
+DTSTART:20240729T141800Z
+DTEND:20240729T142900Z
+DESCRIPTION:Boxing - Men's 63.5kg - Preliminaries - Round of 16\n🇩🇿
+  Jugurtha AIT BEKKA
+SUMMARY:🥊 Men's 63.5kg - Preliminaries - Round of 16
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T152200Z-boxing-MENS-92KG-PRELIMINARIES-ROUND-OF-16-ALG-FRA
+DTSTAMP:20240729T152200Z
+DTSTART:20240729T152200Z
+DTEND:20240729T153300Z
+DESCRIPTION:Boxing - Men's +92kg - Preliminaries - Round of 16
+SUMMARY:🥊 Mourad KADI 🇩🇿 - 🇫🇷 Djamili-Dini ABOUDOU MOINDZE
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T085400Z-judo-WOMEN-63-KG-ELIMINATION-ROUND-OF-32-VEN-ALG
 DTSTAMP:20240730T085400Z
 DTSTART:20240730T085400Z
@@ -181,6 +243,25 @@ SUMMARY:🥋 Anriquelis BARRIOS 🇻🇪 - 🇩🇿 Amina BELKADI
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T102000Z-boxing-WOMENS-66KG-PRELIMINARIES-ROUND-OF-16-ALG-ITA
+DTSTAMP:20240801T102000Z
+DTSTART:20240801T102000Z
+DTEND:20240801T103100Z
+DESCRIPTION:Boxing - Women's 66kg - Preliminaries - Round of 16
+SUMMARY:🥊 Imane KHELIF 🇩🇿 - 🇮🇹 Angela CARINI
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T181600Z-boxing-WOMENS-50KG-PRELIMINARIES-ROUND-OF-16
+DTSTAMP:20240801T181600Z
+DTSTART:20240801T181600Z
+DTEND:20240801T182700Z
+DESCRIPTION:Boxing - Women's 50kg - Preliminaries - Round of 16\n🇩🇿
+  Roumaysa BOUALAM
+SUMMARY:🥊 Women's 50kg - Preliminaries - Round of 16
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T083600Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-32-UAE-ALG
 DTSTAMP:20240802T083600Z
 DTSTART:20240802T083600Z
@@ -188,6 +269,26 @@ DTEND:20240802T084200Z
 DESCRIPTION:Judo - Men +100 kg Elimination Round of 32
 SUMMARY:🥋 Magomedomar MAGOMEDOMAROV 🇦🇪 - 🇩🇿 Mohamed El Mehdi LILI
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T144000Z-canoe-slalom-WOMENS-KAYAK-CROSS-TIME-TRIAL
+DTSTAMP:20240802T144000Z
+DTSTART:20240802T144000Z
+DTEND:20240802T153700Z
+DESCRIPTION:Canoe Slalom - Women's Kayak Cross Time Trial\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇫🇷 Angele HUG\n🇨🇿 Antonie GALUSKOVA\n🇹🇼
+  CHANG Chu-Han\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹
+  Corinna KUHNLE\n🇩🇪 Elena LILIK\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva Alina
+  HOCEVAR\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧
+  Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇳🇱 Lena
+  TEUNISSEN\n🇨🇦 Lois BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison
+  CORCORAN\n🇪🇸 Maialen CHOURRAUT\n🇬🇧 Mallory FRANKLIN\n🇮🇹 Marta
+  BERTONCELLI\n🇳🇱 Martina WEGMAN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA
+  VILARRUBLA\n🇦🇺 Noemie FOX\n🇯🇵 OKAZAKI Haruka\n🇩🇪 Ricarda FUNK\n🇲🇽
+  Sofia REINOSO\n🇮🇹 Stefanie HORN\n🇨🇿 Tereza FISEROVA\n🇦🇹 Viktoria
+  WOLFFHARDT\n🇺🇦 Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 Women's Kayak Cross Time Trial
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T110000Z-fencing-WOMENS-SABRE-TEAM-TABLE-OF-8-ALG-FRA

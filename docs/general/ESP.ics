@@ -192,6 +192,21 @@ SUMMARY:🚴 Women's Individual Time Trial
 LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T130000Z-canoe-slalom-MENS-CANOE-SINGLE-HEATS-1ST-RUN
+DTSTAMP:20240727T130000Z
+DTSTART:20240727T130000Z
+DTEND:20240727T134500Z
+DESCRIPTION:Canoe Slalom - Men's Canoe Single Heats 1st Run\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇸🇮 Benjamin
+  SAVSEK\n🇺🇸 Casey EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇯🇵 HANEDA
+  Takuya\n🇳🇱 Joris OTTEN\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej
+  BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇧🇷
+  Pedro GONCALVES\n🇮🇹 Raffaello IVALDI\n🇹🇳 Salim JEMAI\n🇩🇪 Sideris
+  TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Canoe Single Heats 1st Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T130000Z-football-MENS-GROUP-C-DOM-ESP
 DTSTAMP:20240727T130000Z
 DTSTART:20240727T130000Z
@@ -201,10 +216,27 @@ SUMMARY:⚽ DOM 🇩🇴 - 🇪🇸 ESP
 LOCATION:Bordeaux Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T140000Z-canoe-slalom-WOMENS-KAYAK-SINGLE-HEATS-1ST-RUN
+DTSTAMP:20240727T140000Z
+DTSTART:20240727T140000Z
+DTEND:20240727T145200Z
+DESCRIPTION:Canoe Slalom - Women's Kayak Single Heats 1st Run\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇨🇿 Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷
+  Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇸🇰
+  Eliska MINTALOVA\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica
+  FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦
+  Lois BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen
+  CHOURRAUT\n🇳🇱 Martina WEGMAN\n🇦🇩 Monica DORIA VILARRUBLA\n🇩🇪
+  Ricarda FUNK\n🇲🇽 Sofia REINOSO\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia
+  US\n🇯🇵 YAZAWA Aki
+SUMMARY:🛶 Women's Kayak Single Heats 1st Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
 DTSTAMP:20240727T143200Z
 DTSTART:20240727T143200Z
-DTEND:20240727T160100Z
+DTEND:20240727T155700Z
 DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
   DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
   Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
@@ -221,6 +253,21 @@ SUMMARY:🚴 Men's Individual Time Trial
 LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T151000Z-canoe-slalom-MENS-CANOE-SINGLE-HEATS-2ND-RUN
+DTSTAMP:20240727T151000Z
+DTSTART:20240727T151000Z
+DTEND:20240727T155500Z
+DESCRIPTION:Canoe Slalom - Men's Canoe Single Heats 2nd Run\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇸🇮 Benjamin
+  SAVSEK\n🇺🇸 Casey EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇯🇵 HANEDA
+  Takuya\n🇳🇱 Joris OTTEN\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej
+  BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇧🇷
+  Pedro GONCALVES\n🇮🇹 Raffaello IVALDI\n🇹🇳 Salim JEMAI\n🇩🇪 Sideris
+  TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Canoe Single Heats 2nd Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T151500Z-table-tennis-MIXED-DOUBLES-ROUND-OF-16-BRA-ESP
 DTSTAMP:20240727T151500Z
 DTSTART:20240727T151500Z
@@ -228,6 +275,23 @@ DTEND:20240727T160000Z
 DESCRIPTION:Table Tennis - Mixed Doubles Round of 16
 SUMMARY:🏓 ISHIY/TAKAHASHI 🇧🇷 - 🇪🇸 ROBLES/XIAO
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T161000Z-canoe-slalom-WOMENS-KAYAK-SINGLE-HEATS-2ND-RUN
+DTSTAMP:20240727T161000Z
+DTSTART:20240727T161000Z
+DTEND:20240727T170200Z
+DESCRIPTION:Canoe Slalom - Women's Kayak Single Heats 2nd Run\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇨🇿 Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷
+  Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇸🇰
+  Eliska MINTALOVA\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica
+  FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦
+  Lois BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen
+  CHOURRAUT\n🇳🇱 Martina WEGMAN\n🇦🇩 Monica DORIA VILARRUBLA\n🇩🇪
+  Ricarda FUNK\n🇲🇽 Sofia REINOSO\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia
+  US\n🇯🇵 YAZAWA Aki
+SUMMARY:🛶 Women's Kayak Single Heats 2nd Run
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T163000Z-water-polo-WOMENS-PRELIMINARY-ROUND-GROUP-B-ESP-FRA
@@ -246,6 +310,15 @@ DTEND:20240727T183000Z
 DESCRIPTION:Tennis - Men's Doubles First Round
 SUMMARY:🎾 GONZALEZ/MOLTENI 🇦🇷 - 🇪🇸 ALCARAZ/NADAL
 LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T195200Z-boxing-MENS-635KG-PRELIMINARIES-ROUND-OF-32-KAZ-ESP
+DTSTAMP:20240727T195200Z
+DTSTART:20240727T195200Z
+DTEND:20240727T200300Z
+DESCRIPTION:Boxing - Men's 63.5kg - Preliminaries - Round of 32
+SUMMARY:🥊 Bazarbay Uulu MUKHAMMEDSABYR 🇰🇿 - 🇪🇸 Oier IBARRECHE CONDE
+LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T070000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-A-ITA-E
@@ -284,6 +357,15 @@ SUMMARY:🥋 Ariane TORO SOLER 🇪🇸 - 🇲🇳 Sosorbaram LKHAGVASUREN
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T100400Z-boxing-MENS-92KG-PRELIMINARIES-ROUND-OF-16-ESP-CHN
+DTSTAMP:20240728T100400Z
+DTSTART:20240728T100400Z
+DTEND:20240728T101500Z
+DESCRIPTION:Boxing - Men's 92kg - Preliminaries - Round of 16
+SUMMARY:🥊 Enmanuel REYES PLA 🇪🇸 - 🇨🇳 HAN Xuezhen
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T111500Z-hockey-WOMENS-POOL-B-GBR-ESP
 DTSTAMP:20240728T111500Z
 DTSTART:20240728T111500Z
@@ -293,6 +375,15 @@ SUMMARY:🏑 GBR 🇬🇧 - 🇪🇸 ESP
 LOCATION:Yves-du-Manoir Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T113000Z-basketball-WOMENS-GROUP-PHASE-GROUP-A-ESP-CHN
+DTSTAMP:20240728T113000Z
+DTSTART:20240728T113000Z
+DTEND:20240728T131500Z
+DESCRIPTION:Basketball - Women's Group Phase - Group A
+SUMMARY:🏀 ESP 🇪🇸 - 🇨🇳 CHN
+LOCATION:Pierre Mauroy Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T150000Z-hockey-MENS-POOL-A-GER-ESP
 DTSTAMP:20240728T150000Z
 DTSTART:20240728T150000Z
@@ -300,6 +391,15 @@ DTEND:20240728T163000Z
 DESCRIPTION:Hockey - Men's Pool A
 SUMMARY:🏑 GER 🇩🇪 - 🇪🇸 ESP
 LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T150600Z-boxing-WOMENS-50KG-PRELIMINARIES-ROUND-OF-32-MEX-ESP
+DTSTAMP:20240728T150600Z
+DTSTART:20240728T150600Z
+DTEND:20240728T151700Z
+DESCRIPTION:Boxing - Women's 50kg - Preliminaries - Round of 32
+SUMMARY:🥊 Fatima HERRERA 🇲🇽 - 🇪🇸 Laura FUERTES FERNANDEZ
+LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T170000Z-football-WOMENS-GROUP-C-ESP-NGR
@@ -327,15 +427,6 @@ DTEND:20240728T181000Z
 DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group L
 SUMMARY:🏸 Carolina MARIN 🇪🇸 - 🇨🇭 Jenjira STADELMANN
 LOCATION:La Chapelle Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T190000Z-basketball-WOMENS-GROUP-PHASE-GROUP-A-ESP-CHN
-DTSTAMP:20240728T190000Z
-DTSTART:20240728T190000Z
-DTEND:20240728T204500Z
-DESCRIPTION:Basketball - Women's Group Phase - Group A
-SUMMARY:🏀 ESP 🇪🇸 - 🇨🇳 CHN
-LOCATION:Pierre Mauroy Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T200000Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-EGY-ESP
@@ -448,6 +539,15 @@ SUMMARY:🤾 SWE 🇸🇪 - 🇪🇸 ESP
 LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T193600Z-boxing-MENS-92KG-PRELIMINARIES-ROUND-OF-16-KAZ-ESP
+DTSTAMP:20240729T193600Z
+DTSTART:20240729T193600Z
+DTEND:20240729T194700Z
+DESCRIPTION:Boxing - Men's +92kg - Preliminaries - Round of 16
+SUMMARY:🥊 Kamshybek KUNKABAYEV 🇰🇿 - 🇪🇸 Ayoub GHADFA DRISSI EL AISSAOUI
+LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T070000Z-shooting-TRAP-WOMENS-QUALIFICATION-DAY-1
 DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
@@ -476,6 +576,15 @@ SUMMARY:🏑 ESP 🇪🇸 - 🇫🇷 FRA
 LOCATION:Yves-du-Manoir Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T090000Z-basketball-MENS-GROUP-PHASE-GROUP-A-ESP-GRE
+DTSTAMP:20240730T090000Z
+DTSTART:20240730T090000Z
+DTEND:20240730T104500Z
+DESCRIPTION:Basketball - Men's Group Phase - Group A
+SUMMARY:🏀 ESP 🇪🇸 - 🇬🇷 GRE
+LOCATION:Pierre Mauroy Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T091200Z-judo-WOMEN-63-KG-ELIMINATION-ROUND-OF-32-ESP-BRA
 DTSTAMP:20240730T091200Z
 DTSTART:20240730T091200Z
@@ -485,13 +594,13 @@ SUMMARY:🥋 Cristina CABANA PEREZ 🇪🇸 - 🇧🇷 Ketleyn QUADROS
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T113000Z-basketball-MENS-GROUP-PHASE-GROUP-A-ESP-GRE
-DTSTAMP:20240730T113000Z
-DTSTART:20240730T113000Z
-DTEND:20240730T131500Z
-DESCRIPTION:Basketball - Men's Group Phase - Group A
-SUMMARY:🏀 ESP 🇪🇸 - 🇬🇷 GRE
-LOCATION:Pierre Mauroy Stadium
+UID:20240730T093200Z-boxing-MENS-51KG-PRELIMINARIES-ROUND-OF-16-AUS-ESP
+DTSTAMP:20240730T093200Z
+DTSTART:20240730T093200Z
+DTEND:20240730T094300Z
+DESCRIPTION:Boxing - Men's 51kg - Preliminaries - Round of 16
+SUMMARY:🥊 Yusuf CHOTHIA 🇦🇺 - 🇪🇸 Rafael LOZANO SERRANO
+LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T120000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-B-NED-ESP
@@ -512,6 +621,22 @@ SUMMARY:🏹 Pablo ACHA GONZALEZ 🇪🇸 - 🇹🇼 LIN Zih-Siang
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T130000Z-canoe-slalom-WOMENS-CANOE-SINGLE-HEATS-1ST-RUN
+DTSTAMP:20240730T130000Z
+DTSTART:20240730T130000Z
+DTEND:20240730T135200Z
+DESCRIPTION:Canoe Slalom - Women's Canoe Single Heats 1st Run\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇩🇪 Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy
+  LEIBFARTH\n🇨🇿 Gabriela SATKOVA\n🇨🇳 HUANG Juan\n🇦🇺 Jessica FOX\n🇵🇱
+  Klaudia ZWOLINSKA\n🇳🇱 Lena TEUNISSEN\n🇨🇦 Lois BETTERIDGE\n🇬🇧
+  Mallory FRANKLIN\n🇫🇷 Marjorie DELASSUS\n🇮🇹 Marta BERTONCELLI\n🇮🇪
+  Michaela CORCORAN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇯🇵
+  OKAZAKI Haruka\n🇦🇹 Viktoria WOLFFHARDT\n🇺🇦 Viktoriia US\n🇸🇰 Zuzana
+  PANKOVA
+SUMMARY:🛶 Women's Canoe Single Heats 1st Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T130000Z-football-MENS-GROUP-C-ESP-EGY
 DTSTAMP:20240730T130000Z
 DTSTART:20240730T130000Z
@@ -521,6 +646,22 @@ SUMMARY:⚽ ESP 🇪🇸 - 🇪🇬 EGY
 LOCATION:Bordeaux Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T140000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-1ST-RUN
+DTSTAMP:20240730T140000Z
+DTSTART:20240730T140000Z
+DTEND:20240730T150000Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Single Heats 1st Run\n🇨🇦 Alex
+  BALDONI\n🇰🇲 Andy BARAT\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
+  Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
+  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸
+  Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
+  CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Single Heats 1st Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T150000Z-beach-volleyball-MENS-PRELIMINARY-PHASE-POOL-F-FRA-ESP
 DTSTAMP:20240730T150000Z
 DTSTART:20240730T150000Z
@@ -528,6 +669,38 @@ DTEND:20240730T155000Z
 DESCRIPTION:Beach Volleyball - Men's Preliminary Phase - Pool F
 SUMMARY:🏐 KROU/GAUTHIER-RAT 🇫🇷 - 🇪🇸 HERRERA/GAVIRA
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T151000Z-canoe-slalom-WOMENS-CANOE-SINGLE-HEATS-2ND-RUN
+DTSTAMP:20240730T151000Z
+DTSTART:20240730T151000Z
+DTEND:20240730T160200Z
+DESCRIPTION:Canoe Slalom - Women's Canoe Single Heats 2nd Run\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇩🇪 Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy
+  LEIBFARTH\n🇨🇿 Gabriela SATKOVA\n🇨🇳 HUANG Juan\n🇦🇺 Jessica FOX\n🇵🇱
+  Klaudia ZWOLINSKA\n🇳🇱 Lena TEUNISSEN\n🇨🇦 Lois BETTERIDGE\n🇬🇧
+  Mallory FRANKLIN\n🇫🇷 Marjorie DELASSUS\n🇮🇹 Marta BERTONCELLI\n🇮🇪
+  Michaela CORCORAN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇯🇵
+  OKAZAKI Haruka\n🇦🇹 Viktoria WOLFFHARDT\n🇺🇦 Viktoriia US\n🇸🇰 Zuzana
+  PANKOVA
+SUMMARY:🛶 Women's Canoe Single Heats 2nd Run
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T161000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-2ND-RUN
+DTSTAMP:20240730T161000Z
+DTSTART:20240730T161000Z
+DTEND:20240730T171000Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Single Heats 2nd Run\n🇨🇦 Alex
+  BALDONI\n🇰🇲 Andy BARAT\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹
+  Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
+  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇪🇸
+  Pau ECHANIZ\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
+  CASTRYCK\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Single Heats 2nd Run
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T190000Z-3x3-basketball-WOMENS-POOL-ROUND-ESP-AZE
@@ -585,13 +758,22 @@ SUMMARY:🥋 Women -70 kg Elimination Round of 16
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T113000Z-basketball-WOMENS-GROUP-PHASE-GROUP-A-PUR-ESP
-DTSTAMP:20240731T113000Z
-DTSTART:20240731T113000Z
-DTEND:20240731T131500Z
+UID:20240731T090000Z-basketball-WOMENS-GROUP-PHASE-GROUP-A-PUR-ESP
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T104500Z
 DESCRIPTION:Basketball - Women's Group Phase - Group A
 SUMMARY:🏀 PUR 🇵🇷 - 🇪🇸 ESP
 LOCATION:Pierre Mauroy Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T091600Z-boxing-MENS-57KG-PRELIMINARIES-ROUND-OF-16-KAZ-ESP
+DTSTAMP:20240731T091600Z
+DTSTART:20240731T091600Z
+DTEND:20240731T092700Z
+DESCRIPTION:Boxing - Men's 57kg - Preliminaries - Round of 16
+SUMMARY:🥊 Makhmud SABYRKHAN 🇰🇿 - 🇪🇸 Jose QUILES BROTONS
+LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T120000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-A-ESP-JPN
@@ -757,6 +939,26 @@ SUMMARY:🏐 HERRERA/GAVIRA 🇪🇸 - 🇺🇸 EVANS/BUDINGER
 LOCATION:Eiffel Tower Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T133000Z-canoe-slalom-MENS-KAYAK-CROSS-TIME-TRIAL
+DTSTAMP:20240802T133000Z
+DTSTART:20240802T133000Z
+DTEND:20240802T142700Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Cross Time Trial\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮
+  Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix
+  OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz
+  HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱
+  Joris OTTEN\n🇬🇧 Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸
+  Manuel OCHOA\n🇨🇭 Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪
+  Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter
+  KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA
+  Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
+  CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Cross Time Trial
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T140000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-A-GER-ESP
 DTSTAMP:20240802T140000Z
 DTSTART:20240802T140000Z
@@ -764,6 +966,26 @@ DTEND:20240802T153000Z
 DESCRIPTION:Handball - Men's Preliminary Round Group A
 SUMMARY:🤾 GER 🇩🇪 - 🇪🇸 ESP
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T144000Z-canoe-slalom-WOMENS-KAYAK-CROSS-TIME-TRIAL
+DTSTAMP:20240802T144000Z
+DTSTART:20240802T144000Z
+DTEND:20240802T153700Z
+DESCRIPTION:Canoe Slalom - Women's Kayak Cross Time Trial\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇫🇷 Angele HUG\n🇨🇿 Antonie GALUSKOVA\n🇹🇼
+  CHANG Chu-Han\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹
+  Corinna KUHNLE\n🇩🇪 Elena LILIK\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva Alina
+  HOCEVAR\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧
+  Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇳🇱 Lena
+  TEUNISSEN\n🇨🇦 Lois BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison
+  CORCORAN\n🇪🇸 Maialen CHOURRAUT\n🇬🇧 Mallory FRANKLIN\n🇮🇹 Marta
+  BERTONCELLI\n🇳🇱 Martina WEGMAN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA
+  VILARRUBLA\n🇦🇺 Noemie FOX\n🇯🇵 OKAZAKI Haruka\n🇩🇪 Ricarda FUNK\n🇲🇽
+  Sofia REINOSO\n🇮🇹 Stefanie HORN\n🇨🇿 Tereza FISEROVA\n🇦🇹 Viktoria
+  WOLFFHARDT\n🇺🇦 Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 Women's Kayak Cross Time Trial
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T151500Z-basketball-MENS-GROUP-PHASE-GROUP-A-CAN-ESP
@@ -802,15 +1024,6 @@ SUMMARY:🤽 ESP 🇪🇸 - 🇯🇵 JPN
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T090000Z-basketball-WOMENS-GROUP-PHASE-GROUP-A-SRB-ESP
-DTSTAMP:20240803T090000Z
-DTSTART:20240803T090000Z
-DTEND:20240803T104500Z
-DESCRIPTION:Basketball - Women's Group Phase - Group A
-SUMMARY:🏀 SRB 🇷🇸 - 🇪🇸 ESP
-LOCATION:Pierre Mauroy Stadium
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T090000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-B-ESP-FRA
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -836,6 +1049,15 @@ DTEND:20240803T121500Z
 DESCRIPTION:Hockey - Women's Pool B
 SUMMARY:🏑 AUS 🇦🇺 - 🇪🇸 ESP
 LOCATION:Yves-du-Manoir Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T113000Z-basketball-WOMENS-GROUP-PHASE-GROUP-A-SRB-ESP
+DTSTAMP:20240803T113000Z
+DTSTART:20240803T113000Z
+DTEND:20240803T131500Z
+DESCRIPTION:Basketball - Women's Group Phase - Group A
+SUMMARY:🏀 SRB 🇷🇸 - 🇪🇸 ESP
+LOCATION:Pierre Mauroy Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T160000Z-3x3-basketball-WOMENS-POOL-ROUND-ESP-GER
