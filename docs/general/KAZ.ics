@@ -95,6 +95,24 @@ SUMMARY:🥋 Abiba ABUZHAKYNOVA 🇰🇿 - 🇮🇱 Shira RISHONY
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-KAZ-USA
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T143000Z
+DESCRIPTION:Tennis - Men's Singles First Round
+SUMMARY:🎾 Alexander BUBLIK 🇰🇿 - 🇺🇸 Taylor FRITZ
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-KAZ-UKR
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T143000Z
+DESCRIPTION:Tennis - Women's Singles First Round
+SUMMARY:🎾 Yulia PUTINTSEVA 🇰🇿 - 🇺🇦 Marta KOSTYUK
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T103000Z-shooting-10M-AIR-PISTOL-WOMENS-QUALIFICATION
 DTSTAMP:20240727T103000Z
 DTSTART:20240727T103000Z
@@ -116,6 +134,26 @@ DESCRIPTION:Shooting - 10m Air Pistol Women's Qualification\n🇱🇻 Agate
   TEH\n🇹🇼 YU Ai Wen\n🇾🇪 Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
 SUMMARY:🔫 10m Air Pistol Women's Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T160100Z
+DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
+  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
+  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
+  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
+  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
+  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
+  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 Men's Individual Time Trial
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T193000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-KAZ-CHI
@@ -427,6 +465,15 @@ DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
   Victoria LARSSON\n🇨🇳 WEI Meng
 SUMMARY:🔫 Skeet Women's Qualification - Day 1
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T084800Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-16-KAZ-BRA
+DTSTAMP:20240803T084800Z
+DTSTART:20240803T084800Z
+DTEND:20240803T090000Z
+DESCRIPTION:Judo - Mixed Team Elimination Round of 16
+SUMMARY:🥋 KAZ 🇰🇿 - 🇧🇷 BRA
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T070000Z-shooting-25M-RAPID-FIRE-PISTOL-MENS-QUALIFICATION-STAG

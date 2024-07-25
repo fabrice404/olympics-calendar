@@ -128,6 +128,42 @@ SUMMARY:🤺 Alexandra NDOLO 🇰🇪 - 🇺🇦 Olena KRYVYTSKA
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T100000Z-tennis-WOMENS-DOUBLES-FIRST-ROUND-UKR-CHN
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T143000Z
+DESCRIPTION:Tennis - Women's Doubles First Round
+SUMMARY:🎾 KICHENOK/KICHENOK 🇺🇦 - 🇨🇳 WANG/ZHENG
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-BRA-UKR
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T130000Z
+DESCRIPTION:Tennis - Women's Singles First Round
+SUMMARY:🎾 Laura PIGOSSI 🇧🇷 - 🇺🇦 Dayana YASTREMSKA
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-KAZ-UKR
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T143000Z
+DESCRIPTION:Tennis - Women's Singles First Round
+SUMMARY:🎾 Yulia PUTINTSEVA 🇰🇿 - 🇺🇦 Marta KOSTYUK
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-UKR-NED
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T113000Z
+DESCRIPTION:Tennis - Women's Singles First Round
+SUMMARY:🎾 Anhelina KALININA 🇺🇦 - 🇳🇱 Arantxa RUS
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T100500Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-32-FRA-UKR
 DTSTAMP:20240727T100500Z
 DTSTART:20240727T100500Z
@@ -158,6 +194,26 @@ DESCRIPTION:Shooting - 10m Air Pistol Women's Qualification\n🇱🇻 Agate
   TEH\n🇹🇼 YU Ai Wen\n🇾🇪 Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
 SUMMARY:🔫 10m Air Pistol Women's Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T123000Z-cycling-road-WOMENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T123000Z
+DTSTART:20240727T123000Z
+DTEND:20240727T135900Z
+DESCRIPTION:Cycling Road - Women's Individual Time Trial\n🇵🇱 Agnieszka
+  SKALNIAK-SOJKA\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina
+  AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰
+  Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina
+  SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭 Elena
+  HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma
+  Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace BROWN\n🇨🇿 Julia
+  KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱
+  Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO PELLICER\n🇸🇰 Nora
+  JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇹🇭 Phetdarin
+  SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz
+  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 Women's Individual Time Trial
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T150000Z-football-MENS-GROUP-B-UKR-MAR

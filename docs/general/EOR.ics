@@ -42,6 +42,26 @@ SUMMARY:🔫 10m Air Pistol Men's Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T160100Z
+DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
+  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
+  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
+  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
+  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
+  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
+  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 Men's Individual Time Trial
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T071500Z-shooting-10M-AIR-RIFLE-WOMENS-QUALIFICATION
 DTSTAMP:20240728T071500Z
 DTSTART:20240728T071500Z
@@ -126,6 +146,15 @@ DTSTART:20240802T081800Z
 DTEND:20240802T082400Z
 DESCRIPTION:Judo - Women +78 kg Elimination Round of 32
 SUMMARY:🥋 Mahboubeh BARBARI ZHARFI 🏳️ - 🇩🇴 Moira MORILLO
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T060000Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-32-ESP-EOR
+DTSTAMP:20240803T060000Z
+DTSTART:20240803T060000Z
+DTEND:20240803T061000Z
+DESCRIPTION:Judo - Mixed Team Elimination Round of 32
+SUMMARY:🥋 ESP 🇪🇸 - 🏳️ EOR
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT

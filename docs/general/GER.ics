@@ -143,6 +143,33 @@ SUMMARY:🥋 Catarina COSTA 🇵🇹 - 🇩🇪 Katharina MENZ
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T100000Z-tennis-MENS-DOUBLES-FIRST-ROUND-GER-CRO
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T113000Z
+DESCRIPTION:Tennis - Men's Doubles First Round
+SUMMARY:🎾 KOEPFER/STRUFF 🇩🇪 - 🇭🇷 MEKTIC/PAVIC
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-tennis-WOMENS-DOUBLES-FIRST-ROUND-ARG-GER
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T160000Z
+DESCRIPTION:Tennis - Women's Doubles First Round
+SUMMARY:🎾 CARLE/PODOROSKA 🇦🇷 - 🇩🇪 KORPATSCH/MARIA
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-GER-USA
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T130000Z
+DESCRIPTION:Tennis - Women's Singles First Round
+SUMMARY:🎾 Laura SIEGEMUND 🇩🇪 - 🇺🇸 Danielle COLLINS
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T103000Z-shooting-10M-AIR-PISTOL-WOMENS-QUALIFICATION
 DTSTAMP:20240727T103000Z
 DTSTART:20240727T103000Z
@@ -175,6 +202,26 @@ SUMMARY:🤺 Yousef ALSHAMLAN 🇰🇼 - 🇩🇪 Matyas SZABO
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T123000Z-cycling-road-WOMENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T123000Z
+DTSTART:20240727T123000Z
+DTEND:20240727T135900Z
+DESCRIPTION:Cycling Road - Women's Individual Time Trial\n🇵🇱 Agnieszka
+  SKALNIAK-SOJKA\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina
+  AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰
+  Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina
+  SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭 Elena
+  HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma
+  Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace BROWN\n🇨🇿 Julia
+  KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱
+  Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO PELLICER\n🇸🇰 Nora
+  JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇹🇭 Phetdarin
+  SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz
+  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 Women's Individual Time Trial
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T125000Z-badminton-MENS-DOUBLES-GROUP-PLAY-STAGE-GROUP-C-INA-GE
 DTSTAMP:20240727T125000Z
 DTSTART:20240727T125000Z
@@ -191,6 +238,26 @@ DTEND:20240727T151500Z
 DESCRIPTION:Table Tennis - Mixed Doubles Round of 16
 SUMMARY:🏓 QIU/MITTELHAM 🇩🇪 - 🇰🇷 LIM/SHIN
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T160100Z
+DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
+  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
+  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
+  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
+  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
+  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
+  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 Men's Individual Time Trial
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T150000Z-hockey-MENS-POOL-A-GER-FRA
@@ -218,6 +285,15 @@ DTEND:20240727T183000Z
 DESCRIPTION:Handball - Men's Preliminary Round Group A
 SUMMARY:🤾 GER 🇩🇪 - 🇸🇪 SWE
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T170000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-JPN-GER
+DTSTAMP:20240727T170000Z
+DTSTART:20240727T170000Z
+DTEND:20240727T200000Z
+DESCRIPTION:Tennis - Women's Singles First Round
+SUMMARY:🎾 OSAKA Naomi 🇯🇵 - 🇩🇪 Angelique KERBER
+LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T193000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-MEX-GER
@@ -922,6 +998,15 @@ DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
   Victoria LARSSON\n🇨🇳 WEI Meng
 SUMMARY:🔫 Skeet Women's Qualification - Day 1
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T080600Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-16-GER-AUT
+DTSTAMP:20240803T080600Z
+DTSTART:20240803T080600Z
+DTEND:20240803T081500Z
+DESCRIPTION:Judo - Mixed Team Elimination Round of 16
+SUMMARY:🥋 GER 🇩🇪 - 🇦🇹 AUT
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T100000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-F-ESP-G

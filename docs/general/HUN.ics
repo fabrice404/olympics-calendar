@@ -114,6 +114,26 @@ SUMMARY:🤽 NED 🇳🇱 - 🇭🇺 HUN
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T160100Z
+DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
+  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
+  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
+  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
+  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
+  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
+  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 Men's Individual Time Trial
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T151500Z-table-tennis-MIXED-DOUBLES-ROUND-OF-16-HKG-HUN
 DTSTAMP:20240727T151500Z
 DTSTART:20240727T151500Z
@@ -498,6 +518,15 @@ DTEND:20240802T193000Z
 DESCRIPTION:Water Polo - Women's Preliminary Round - Group A
 SUMMARY:🤽 CHN 🇨🇳 - 🇭🇺 HUN
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T064200Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-32-ITA-HUN
+DTSTAMP:20240803T064200Z
+DTSTART:20240803T064200Z
+DTEND:20240803T064200Z
+DESCRIPTION:Judo - Mixed Team Elimination Round of 32
+SUMMARY:🥋 ITA 🇮🇹 - 🇭🇺 HUN
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T070000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-B-HUN-NED

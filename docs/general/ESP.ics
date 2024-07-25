@@ -145,6 +145,53 @@ SUMMARY:🥋 Laura MARTINEZ ABELENDA 🇪🇸 - 🇨🇱 Mary Dee VARGAS LEY
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T100000Z-tennis-MENS-DOUBLES-FIRST-ROUND-ITA-ESP
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T130000Z
+DESCRIPTION:Tennis - Men's Doubles First Round
+SUMMARY:🎾 BOLELLI/VAVASSORI 🇮🇹 - 🇪🇸 CARRENO/GRANOLLERS
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-LBN-ESP
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T130000Z
+DESCRIPTION:Tennis - Men's Singles First Round
+SUMMARY:🎾 Hady HABIB 🇱🇧 - 🇪🇸 Carlos ALCARAZ
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-CRO-ESP
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T113000Z
+DESCRIPTION:Tennis - Women's Singles First Round
+SUMMARY:🎾 Petra MARTIC 🇭🇷 - 🇪🇸 Cristina BUCSA
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T123000Z-cycling-road-WOMENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T123000Z
+DTSTART:20240727T123000Z
+DTEND:20240727T135900Z
+DESCRIPTION:Cycling Road - Women's Individual Time Trial\n🇵🇱 Agnieszka
+  SKALNIAK-SOJKA\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina
+  AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰
+  Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina
+  SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭 Elena
+  HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma
+  Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace BROWN\n🇨🇿 Julia
+  KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱
+  Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO PELLICER\n🇸🇰 Nora
+  JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇹🇭 Phetdarin
+  SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz
+  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 Women's Individual Time Trial
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T130000Z-football-MENS-GROUP-C-DOM-ESP
 DTSTAMP:20240727T130000Z
 DTSTART:20240727T130000Z
@@ -152,6 +199,26 @@ DTEND:20240727T150000Z
 DESCRIPTION:Football - Men's Group C
 SUMMARY:⚽ DOM 🇩🇴 - 🇪🇸 ESP
 LOCATION:Bordeaux Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T160100Z
+DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
+  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
+  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
+  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
+  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
+  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
+  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 Men's Individual Time Trial
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T151500Z-table-tennis-MIXED-DOUBLES-ROUND-OF-16-BRA-ESP
@@ -170,6 +237,15 @@ DTEND:20240727T175500Z
 DESCRIPTION:Water Polo - Women's Preliminary Round - Group B
 SUMMARY:🤽 ESP 🇪🇸 - 🇫🇷 FRA
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T170000Z-tennis-MENS-DOUBLES-FIRST-ROUND-ARG-ESP
+DTSTAMP:20240727T170000Z
+DTSTART:20240727T170000Z
+DTEND:20240727T183000Z
+DESCRIPTION:Tennis - Men's Doubles First Round
+SUMMARY:🎾 GONZALEZ/MOLTENI 🇦🇷 - 🇪🇸 ALCARAZ/NADAL
+LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T070000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-A-ITA-E
@@ -706,6 +782,15 @@ DTEND:20240802T192500Z
 DESCRIPTION:3x3 Basketball - Women's Pool Round
 SUMMARY:🏀 CAN 🇨🇦 - 🇪🇸 ESP
 LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T060000Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-32-ESP-EOR
+DTSTAMP:20240803T060000Z
+DTSTART:20240803T060000Z
+DTEND:20240803T061000Z
+DESCRIPTION:Judo - Mixed Team Elimination Round of 32
+SUMMARY:🥋 ESP 🇪🇸 - 🏳️ EOR
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T083000Z-water-polo-MENS-PRELIMINARY-ROUND-GROUP-B-ESP-JPN

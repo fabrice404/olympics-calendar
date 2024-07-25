@@ -99,6 +99,26 @@ SUMMARY:🥋 Leyla ALIYEVA 🇦🇿 - 🇺🇿 Khalimajon KURBONOVA
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T123000Z-cycling-road-WOMENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T123000Z
+DTSTART:20240727T123000Z
+DTEND:20240727T135900Z
+DESCRIPTION:Cycling Road - Women's Individual Time Trial\n🇵🇱 Agnieszka
+  SKALNIAK-SOJKA\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina
+  AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰
+  Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina
+  SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭 Elena
+  HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma
+  Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace BROWN\n🇨🇿 Julia
+  KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱
+  Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO PELLICER\n🇸🇰 Nora
+  JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇹🇭 Phetdarin
+  SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz
+  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 Women's Individual Time Trial
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T150000Z-football-MENS-GROUP-C-UZB-EGY
 DTSTAMP:20240727T150000Z
 DTSTART:20240727T150000Z
@@ -244,6 +264,15 @@ DTEND:20240802T094300Z
 DESCRIPTION:Archery - Mixed Team 1/8 Elimination Round
 SUMMARY:🏹 USA 🇺🇸 - 🇺🇿 UZB
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T093000Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-16-UZB-CAN
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T093000Z
+DESCRIPTION:Judo - Mixed Team Elimination Round of 16
+SUMMARY:🥋 UZB 🇺🇿 - 🇨🇦 CAN
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
