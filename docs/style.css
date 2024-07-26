@@ -539,6 +539,9 @@ video {
 .w-10 {
   width: 2.5rem;
 }
+.w-3\/5 {
+  width: 60%;
+}
 .list-decimal {
   list-style-type: decimal;
 }

@@ -244,7 +244,7 @@ const generateTodayPage = () => {
 
     html.push(`<div class="event py-4" data-start="${event.DTSTART}" data-end="${event.DTEND}" data-noc="${event._NOCS.join(",")}">`);
     html.push(" <div class=\"time w-1/4 text-right inline-block text-5xl text-center pr-2 border-r border-slate-900/10\">__:__</div>");
-    html.push(" <div class=\"inline-block text-black pl-2\">");
+    html.push(" <div class=\"w-3/5 inline-block text-black pl-2\">");
     html.push(`   <div class="text-2xl">${sport.name.toUpperCase()}</div>`);
     html.push(`   <div class="">${summary}</div>`);
     html.push(" </div>");
