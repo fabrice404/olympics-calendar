@@ -179,6 +179,16 @@ SUMMARY:🔫 10m Air Pistol Men's Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T090000Z-diving-WOMENS-SYNCHRONISED-3M-SPRINGBOARD-FINAL
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T094600Z
+DESCRIPTION:Diving - Women's Synchronised 3m Springboard Final\n🇦🇺
+  AUS\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇹 ITA\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏊 Women's Synchronised 3m Springboard Final
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T093000Z-judo-MEN-60-KG-ELIMINATION-ROUND-OF-16
 DTSTAMP:20240727T093000Z
 DTSTART:20240727T093000Z
@@ -195,6 +205,22 @@ DTEND:20240727T100500Z
 DESCRIPTION:Fencing - Women's Épée Individual Table of 32
 SUMMARY:🤺 Renata KNAPIK-MIAZGA 🇵🇱 - 🇫🇷 Coraline VITALIS
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-skateboarding-MENS-STREET-PRELIMS
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T135000Z
+DESCRIPTION:Skateboarding - Men's Street Prelims\n🇫🇷 Aurelien
+  GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸 Chris JOSLIN\n🇨🇦 Cordano
+  RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni VIANNA\n🇵🇹 Gustavo
+  RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴 Jhancarlos
+  GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
+  OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah HUSTON\n🇯🇵
+  ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵 SHIRAI
+  Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
+SUMMARY:🛹 Men's Street Prelims
+LOCATION:La Concorde 3
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T100000Z-tennis-MENS-DOUBLES-FIRST-ROUND-BEL-FRA
@@ -672,6 +698,22 @@ SUMMARY:🏐 MULLER/TILLMANN 🇩🇪 - 🇫🇷 VIEIRA/CHAMEREAU
 LOCATION:Eiffel Tower Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T100000Z-skateboarding-WOMENS-STREET-PRELIMS
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T135000Z
+DESCRIPTION:Skateboarding - Women's Street Prelims\n🇯🇵 AKAMA Liz\n🇿🇦
+  Boipelo AWUAH\n🇨🇳 CUI Chenxi\n🇦🇺 Chloe COVELL\n🇪🇸 Daniela
+  TEROL\n🇧🇷 Gabi MAZETTO\n🇦🇺 Haylie POWELL\n🇳🇱 Keet
+  OLDENBEUVING\n🇦🇺 Liv LOVELACE\n🇫🇷 Lucie SCHOONHEERE\n🇺🇸 Mariah
+  DURAN\n🇯🇵 NAKAYAMA Funa\n🇪🇸 Natalia MUNOZ\n🇺🇸 Paige HEYN\n🇧🇷
+  Pamela ROSA\n🇺🇸 Poe PINSON\n🇧🇷 Rayssa LEAL\n🇳🇱 Roos ZWETSLOOT\n🇹🇭
+  Vareeraya SUKASEM\n🇯🇵 YOSHIZAWA Coco\n🇨🇳 ZENG Wenhui\n🇨🇳 ZHU
+  Yuanling
+SUMMARY:🛹 Women's Street Prelims
+LOCATION:La Concorde 3
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T102500Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240728T102500Z
 DTSTART:20240728T102500Z
@@ -871,6 +913,16 @@ DTEND:20240729T100000Z
 DESCRIPTION:Badminton - Men's Doubles Group Play Stage - Group C
 SUMMARY:🏸 ALFIAN/ARDIANTO 🇮🇩 - 🇫🇷 CORVEE/LABAR
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-diving-MENS-SYNCHRONISED-10M-PLATFORM-FINAL
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T095600Z
+DESCRIPTION:Diving - Men's Synchronised 10m Platform Final\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇲🇽 MEX\n🇺🇦 UKR
+SUMMARY:🏊 Men's Synchronised 10m Platform Final
+LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T091500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32-ITA-FRA
@@ -1289,6 +1341,17 @@ SUMMARY:🥋 David KLAMMERT 🇨🇿 - 🇫🇷 Maxime-Gael NGAYAP HAMBOU
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T090000Z-diving-WOMENS-SYNCHRONISED-10M-PLATFORM-FINAL
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T094700Z
+DESCRIPTION:Diving - Women's Synchronised 10m Platform Final\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇰🇵 DPR Korea\n🇫🇷 FRA\n🇬🇧 GBR\n🇲🇽 MEX\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:🏊 Women's Synchronised 10m Platform Final
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T093000Z-judo-WOMEN-70-KG-ELIMINATION-ROUND-OF-16
 DTSTAMP:20240731T093000Z
 DTSTART:20240731T093000Z
@@ -1619,6 +1682,16 @@ DTEND:20240802T074900Z
 DESCRIPTION:Archery - Mixed Team 1/8 Elimination Round
 SUMMARY:🏹 ITA 🇮🇹 - 🇫🇷 FRA
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T090000Z-diving-MENS-SYNCHRONISED-3M-SPRINGBOARD-FINAL
+DTSTAMP:20240802T090000Z
+DTSTART:20240802T090000Z
+DTEND:20240802T095500Z
+DESCRIPTION:Diving - Men's Synchronised 3m Springboard Final\n🇨🇳
+  CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇮🇹 ITA\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏊 Men's Synchronised 3m Springboard Final
+LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T090000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-ARG-FRA
@@ -1968,6 +2041,23 @@ DTEND:20240805T193000Z
 DESCRIPTION:Water Polo - Men's Preliminary Round - Group B
 SUMMARY:🤽 FRA 🇫🇷 - 🇪🇸 ESP
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080000Z-diving-MENS-3M-SPRINGBOARD-PRELIMINARY
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T100900Z
+DESCRIPTION:Diving - Men's 3m Springboard Preliminary\n🇺🇸 Andrew
+  CAPOBIANCO\n🇺🇸 Carson TYLER\n🇨🇴 Daniel RESTREPO GARCIA\n🇩🇴 Frandiel
+  GOMEZ\n🇮🇹 Giovanni TOCCI\n🇫🇷 Gwendal BISCH\n🇬🇧 Jack LAUGHER\n🇮🇪
+  Jake PASSMORE\n🇩🇴 Jonathan RUVALCABA\n🇬🇧 Jordan HOULDEN\n🇫🇷 Jules
+  BOUYER\n🇲🇽 Kevin Alexander MUNOZ HEREDIA\n🇦🇺 Kurtis MATHEWS\n🇩🇪
+  Lars RUDIGER\n🇮🇹 Lorenzo MARSAGLIA\n🇨🇴 Luis Felipe URIBE
+  BERMUDEZ\n🇪🇬 Mohamed FAROUK\n🇩🇪 Moritz WESEMANN\n🇲🇽 Osmar OLVERA
+  IBARRA\n🇯🇵 SAKAI Sho\n🇨🇳 WANG Zongyuan\n🇰🇷 WOO Haram\n🇨🇳 XIE
+  Siyi\n🇰🇷 YI Jaegyeong\n🇯🇲 Yona KNIGHT-WISDOM
+SUMMARY:🏊 Men's 3m Springboard Preliminary
+LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
