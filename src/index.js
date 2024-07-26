@@ -108,6 +108,7 @@ const extractSportCalendar = async (sportKey) => {
       LOCATION: unit.venueDescription,
       _SPORT: sportKey,
       _NOCS: [],
+      _UNITNAME: unit.eventUnitName,
     };
 
     if (unit.competitors) {
@@ -209,16 +210,52 @@ const generateOutputPage = () => {
   html.push("</tr>");
   html.push("</table>");
 
-  const template = fs.readFileSync(`${__dirname}/template.html`, "utf-8");
-  const output = template.replace("{{calendars}}", html.join("\r\n"));
+  const todays = [];
+  NOCS.sort().forEach((noc) => {
+    todays.push(`<a href="./today.html?noc=${noc}" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
+  });
+
+  const template = fs.readFileSync(`${__dirname}/index/template.html`, "utf-8");
+  const output = template
+    .replace("{{calendars}}", html.join("\r\n"))
+    .replace("{{todays}}", todays.join("\r\n"));
   fs.writeFileSync("docs/index.html", output);
 
   postcss([autoprefixer, tailwindcss])
-    .process(fs.readFileSync(`${__dirname}/template.css`, "utf-8"), { from: "template.css", to: "docs/style.css" })
+    .process(fs.readFileSync(`${__dirname}/index/template.css`, "utf-8"), { from: "index/template.css", to: "docs/style.css" })
     .then((result) => {
       fs.writeFileSync("docs/style.css", result.css);
     });
   ;
+};
+
+const generateTodayPage = () => {
+  const html = [];
+
+  EVENTS.forEach((event) => {
+    let sport = SPORTS.find((sport) => sport.key === event._SPORT);
+    if (!sport) {
+      sport = {
+        name: "Ceremony",
+        key: "",
+      };
+    }
+    const summary = event.SUMMARY.match(/ceremony/gi) ? event.SUMMARY : event.SUMMARY.split(" ").slice(1).join(" ");
+
+    html.push(`<div class="event py-4" data-start="${event.DTSTART}" data-end="${event.DTEND}" data-noc="${event._NOCS.join(",")}">`);
+    html.push(" <div class=\"time w-1/4 text-right inline-block text-5xl text-center pr-2 border-r border-slate-900/10\">__:__</div>");
+    html.push(" <div class=\"inline-block text-black pl-2\">");
+    html.push(`   <div class="text-2xl">${sport.name.toUpperCase()}</div>`);
+    html.push(`   <div class="">${summary}</div>`);
+    html.push(" </div>");
+    html.push("</div>");
+
+  });
+
+  const template = fs.readFileSync(`${__dirname}/today/template.html`, "utf-8");
+  const output = template
+    .replace("{{events}}", html.join("\r\n"));
+  fs.writeFileSync("docs/today.html", output);
 };
 
 const main = async () => {
@@ -275,6 +312,7 @@ const main = async () => {
   generateCeremoniesEvents();
   generateCalendars();
   generateOutputPage();
+  generateTodayPage();
 };
 
 main();

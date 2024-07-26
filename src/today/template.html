@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Paris 2024 Summer Olympic Games - Today's events</title>
+  <link href="./style.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Paris 2024 Summer Olympic Games - Today's events">
+  <meta name="keywords" content="Paris 2024, Summer Olympic Games - Today's events">
+  <meta name="author" content="Fabrice LAMANT">
+  <script src="https://cdn.jsdelivr.net/npm/luxon@3.4.4/build/global/luxon.min.js"></script>
+
+  <meta http-equiv="refresh" content="900">
+</head>
+
+<body>
+  <div class="p-4">
+    <div class="border-b pb-4 border-slate-900/10">
+      <h1 class="text-4xl text-center">Paris 2024 - Today's events</h1>
+    </div>
+
+    <div>
+      {{events}}
+    </div>
+    <div class="no-event my-10 text-center text-2xl hidden">
+      No event today, come back tomorrow! :)
+    </div>
+
+    <div class="text-sm my-10 text-center">
+      This webiste is not affiliated with the International Olympic Committee.
+      All trademarks, logos and brand names are the property of their respective owners.
+    </div>
+  </div>
+  <script type="text/javascript">
+    const DateTime = luxon.DateTime;
+    const now = DateTime.now();
+    const noc = new URLSearchParams(window.location.search).get('noc');
+
+    let color = 0;
+    const cycleColor = () => {
+      color++
+      color = color % 5
+      console.log(color);
+      switch (color) {
+        case 0: return "blue";
+        case 1: return "yellow";
+        case 2: return "black";
+        case 3: return "green";
+        case 4: return "red";
+      }
+    };
+
+    document.querySelectorAll('.event').forEach((element) => {
+      const start = DateTime.fromISO(element.getAttribute('data-start'));
+      const end = DateTime.fromISO(element.getAttribute('data-end'));
+      const nocs = element.getAttribute('data-noc').split(",");
+
+      if (nocs.includes(noc)) {
+        if (now.day === start.day) {
+          element.querySelector(".time").textContent = start.toLocaleString(DateTime.TIME_24_SIMPLE);
+          if (end < now) {
+            element.remove();
+          } else {
+            element.classList.add(cycleColor());
+          }
+        } else {
+          element.remove();
+        }
+      } else {
+        element.remove();
+      }
+    });
+    if (document.querySelectorAll('.event').length === 0) {
+      document.querySelector('.no-event').classList.remove('hidden');
+    }
+  </script>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0KQC1F1K4H"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-0KQC1F1K4H');
+  </script>
+</body>

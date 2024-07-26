@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-size: 12px;
+}
+
+.blue {
+  color: #0081C8;
+}
+
+.yellow {
+  color: #FCB131;
+}
+
+.black {
+  color: #000000;
+}
+
+.green {
+  color: #00A651;
+}
+
+.red {
+  color: #EE334E;
+}
