@@ -70,6 +70,9 @@
         element.remove();
       }
     });
+    document.querySelectorAll(`.competitor:not(.${noc})`).forEach((element) => {
+      element.remove();
+    });
     if (document.querySelectorAll('.event').length === 0) {
       document.querySelector('.no-event').classList.remove('hidden');
     }

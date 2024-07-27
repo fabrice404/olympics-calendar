@@ -108,6 +108,7 @@ const extractSportCalendar = async (sportKey) => {
       LOCATION: unit.venueDescription,
       _SPORT: sportKey,
       _NOCS: [],
+      _COMPETITORS: [],
       _UNITNAME: unit.eventUnitName,
     };
 
@@ -139,6 +140,7 @@ const extractSportCalendar = async (sportKey) => {
           .forEach((competitor) => {
             if (competitor.name !== getNOCName(competitor.noc)) {
               event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.name}`;
+              event._COMPETITORS.push({ noc: competitor.noc, name: `${getNOCFlag(competitor.noc)} ${competitor.name}` });
             } else {
               event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.noc}`;
             }
@@ -243,10 +245,16 @@ const generateTodayPage = () => {
     const summary = event.SUMMARY.match(/ceremony/gi) ? event.SUMMARY : event.SUMMARY.split(" ").slice(1).join(" ");
 
     html.push(`<div class="event py-4" data-start="${event.DTSTART}" data-end="${event.DTEND}" data-noc="${event._NOCS.join(",")}">`);
-    html.push(" <div class=\"time w-1/4 text-right inline-block text-5xl text-center pr-2 border-r border-slate-900/10\">__:__</div>");
-    html.push(" <div class=\"w-3/5 inline-block text-black pl-2\">");
+    html.push(" <div class=\"time w-1/4 align-top text-right inline-block text-5xl text-center pr-2 border-r border-slate-900/10\">__:__</div>");
+    html.push(" <div class=\"w-3/5 align-top inline-block text-black pl-2\">");
     html.push(`   <div class="text-2xl">${sport.name.toUpperCase()}</div>`);
-    html.push(`   <div class="">${summary}</div>`);
+    html.push(`   <div class="">${summary}`);
+    if (event._COMPETITORS) {
+      event._COMPETITORS.forEach((competitor) => {
+        html.push(`<div class="competitor ${competitor.noc}">${competitor.name}</div>`);
+      });
+    }
+    html.push(`   </div>`);
     html.push(" </div>");
     html.push("</div>");
 
