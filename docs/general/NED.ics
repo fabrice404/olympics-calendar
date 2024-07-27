@@ -140,33 +140,6 @@ SUMMARY:🥋 Yeldos SMETOV 🇰🇿 - 🇳🇱 Tornike TSJAKADOEA
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-NED-AUT
-DTSTAMP:20240727T100000Z
-DTSTART:20240727T100000Z
-DTEND:20240727T130000Z
-DESCRIPTION:Tennis - Men's Singles First Round
-SUMMARY:🎾 Robin HAASE 🇳🇱 - 🇦🇹 Sebastian OFNER
-LOCATION:Roland-Garros Stadium
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-NED-GBR
-DTSTAMP:20240727T100000Z
-DTSTART:20240727T100000Z
-DTEND:20240727T130000Z
-DESCRIPTION:Tennis - Men's Singles First Round
-SUMMARY:🎾 Tallon GRIEKSPOOR 🇳🇱 - 🇬🇧 Cameron NORRIE
-LOCATION:Roland-Garros Stadium
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-UKR-NED
-DTSTAMP:20240727T100000Z
-DTSTART:20240727T100000Z
-DTEND:20240727T113000Z
-DESCRIPTION:Tennis - Women's Singles First Round
-SUMMARY:🎾 Anhelina KALININA 🇺🇦 - 🇳🇱 Arantxa RUS
-LOCATION:Roland-Garros Stadium
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T104500Z-hockey-MENS-POOL-A-NED-RSA
 DTSTAMP:20240727T104500Z
 DTSTART:20240727T104500Z
@@ -325,6 +298,46 @@ SUMMARY:🏐 VAN DE VELDE/IMMERS 🇳🇱 - 🇮🇹 RANGHIERI/CARAMBULA
 LOCATION:Eiffel Tower Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T083000Z-equestrian-EVENTING-INDIVIDUAL-CROSS-COUNTRY
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T133000Z
+DESCRIPTION:Equestrian - Eventing Individual Cross Country\n🇿🇦 Alexander
+  PETERNELL\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd
+  MARTIN\n🇪🇸 Carlos DIAZ FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline
+  PAMUKCU\n🇩🇪 Christoph WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
+  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹
+  Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni
+  UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald AMBROS\n🇵🇱 Jan KAMINSKI\n🇳🇱
+  Janneke BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia
+  KRAJEWSKI\n🇯🇵 KITAJIMA Ryuzo\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin
+  DONCKERS\n🇨🇦 Karl SLEZAK\n🇦🇺 Kevin McNAB\n🇧🇪 Lara de LIEDEKERKE -
+  MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata
+  KORYCKA\n🇵🇹 Manuel GRAVE\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody
+  JOHNER\n🇩🇪 Michael JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miloslav PRIHODA
+  JR\n🇨🇿 Miroslav TRUNDA\n🇫🇷 Nicolas TOUZAINT\n🇪🇨 Nicolas
+  WETTSTEIN\n🇲🇦 Noor SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T.
+  FLARUP\n🇮🇹 Pietro SANDEI\n🇳🇱 Raf KOOREMANS\n🇧🇷 Rafael MAMPRIN
+  LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin GODEL\n🇪🇨 Ronald ZABALA G.\n🇬🇧
+  Rosalind CANTER\n🇨🇳 SUN Huadong\n🇫🇮 Sanna SILTAKORPI\n🇳🇱 Sanne de
+  JONG\n🇮🇪 Sarah ENNIS\n🇦🇺 Shane ROSE\n🇸🇪 Sofia SJOBORG\n🇫🇷
+  Stephane LANDOIS\n🇮🇪 Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim
+  PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
+SUMMARY:🏇 Eventing Individual Cross Country
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T083000Z-equestrian-EVENTING-TEAM-CROSS-COUNTRY
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T133000Z
+DESCRIPTION:Equestrian - Eventing Team Cross Country\n🇦🇺 AUS\n🇧🇪
+  BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇸🇪 SWE\n🇨🇭 SUI\n🇺🇸 USA
+SUMMARY:🏇 Eventing Team Cross Country
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T100000Z-skateboarding-WOMENS-STREET-PRELIMS
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
@@ -339,6 +352,51 @@ DESCRIPTION:Skateboarding - Women's Street Prelims\n🇯🇵 AKAMA Liz\n🇿🇦
   Yuanling
 SUMMARY:🛹 Women's Street Prelims
 LOCATION:La Concorde 3
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-MENS-DOUBLES-FIRST-ROUND-NED-HUN
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T190000Z
+DESCRIPTION:Tennis - Men's Doubles First Round
+SUMMARY:🎾 GRIEKSPOOR/KOOLHOF 🇳🇱 - 🇭🇺 FUCSOVICS/MAROZSAN
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-NED-AUT
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T130000Z
+DESCRIPTION:Tennis - Men's Singles First Round
+SUMMARY:🎾 Robin HAASE 🇳🇱 - 🇦🇹 Sebastian OFNER
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-NED-GBR
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T143000Z
+DESCRIPTION:Tennis - Men's Singles First Round
+SUMMARY:🎾 Tallon GRIEKSPOOR 🇳🇱 - 🇬🇧 Cameron NORRIE
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-WOMENS-DOUBLES-FIRST-ROUND-NED-FRA
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T190000Z
+DESCRIPTION:Tennis - Women's Doubles First Round
+SUMMARY:🎾 RUS/SCHUURS 🇳🇱 - 🇫🇷 GARCIA/PARRY
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-UKR-NED
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T160000Z
+DESCRIPTION:Tennis - Women's Singles First Round
+SUMMARY:🎾 Anhelina KALININA 🇺🇦 - 🇳🇱 Arantxa RUS
+LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T101300Z-sailing-WOMENS-WINDSURFING-RACE-1
@@ -603,6 +661,22 @@ DTEND:20240728T135000Z
 DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool E
 SUMMARY:🏐 STAM/SCHOON 🇳🇱 - 🇱🇹 PAULIKIENE/RAUPELYTE
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T133000Z-canoe-slalom-WOMENS-KAYAK-SINGLE-SEMIFINAL
+DTSTAMP:20240728T133000Z
+DTSTART:20240728T133000Z
+DTEND:20240728T141800Z
+DESCRIPTION:Canoe Slalom - Women's Kayak Single Semifinal\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇨🇿 Antonie GALUSKOVA\n🇫🇷 Camille PRIGENT\n🇩🇿
+  Carole Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮
+  Eva TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley
+  WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦 Lois
+  BETTERIDGE\n🇳🇿 Luuka JONES\n🇪🇸 Maialen CHOURRAUT\n🇳🇱 Martina
+  WEGMAN\n🇦🇩 Monica DORIA VILARRUBLA\n🇩🇪 Ricarda FUNK\n🇮🇹 Stefanie
+  HORN\n🇺🇦 Viktoriia US\n🇯🇵 YAZAWA Aki
+SUMMARY:🛶 Women's Kayak Single Semifinal
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T174500Z-hockey-MENS-POOL-A-NED-FRA
