@@ -113,6 +113,25 @@ SUMMARY:🥋 Baasankhuu BAVUUDORJ 🇲🇳 - 🇦🇹 Katharina TANZER
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T103000Z-judo-WOMEN-48-KG-QUARTERFINAL-MGL-PAR
+DTSTAMP:20240727T103000Z
+DTSTART:20240727T103000Z
+DTEND:20240727T103600Z
+DESCRIPTION:Judo - Women -48 kg Quarterfinal
+SUMMARY:🥋 Baasankhuu BAVUUDORJ 🇲🇳 - 🇵🇾 Gabriela NARVAEZ
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T141200Z-judo-WOMEN-48-KG-SEMIFINAL-OF-TABLE-B
+DTSTAMP:20240727T141200Z
+DTSTART:20240727T141200Z
+DTEND:20240727T141800Z
+DESCRIPTION:Judo - Women -48 kg Semifinal of Table B\n🇲🇳 Baasankhuu
+  BAVUUDORJ
+SUMMARY:🥋 Women -48 kg Semifinal of Table B
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
 DTSTAMP:20240727T143200Z
 DTSTART:20240727T143200Z
@@ -163,6 +182,17 @@ DESCRIPTION:Shooting - 10m Air Rifle Women's Qualification\n🇰🇿 Alexandra
   NEPAL\n🇳🇴 Synnoeve BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika
   BLAZICKOVA\n🇵🇷 Yarimar MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
 SUMMARY:🔫 10m Air Rifle Women's Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073000Z-shooting-10M-AIR-PISTOL-MENS-FINAL
+DTSTAMP:20240728T073000Z
+DTSTART:20240728T073000Z
+DTEND:20240728T081500Z
+DESCRIPTION:Shooting - 10m Air Pistol Men's Final\n🇩🇪 Christian
+  REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇮🇹 Federico Nilo
+  MALDINI\n🇰🇷 LEE Wonho\n🇮🇹 Paolo MONNA\n🇩🇪 Robin WALTER\n🇨🇳 XIE Yu
+SUMMARY:🔫 10m Air Pistol Men's Final
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT

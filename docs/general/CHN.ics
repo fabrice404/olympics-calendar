@@ -334,6 +334,15 @@ SUMMARY:🚴 Women's Individual Time Trial
 LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T123500Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-16-FRA-CHN
+DTSTAMP:20240727T123500Z
+DTSTART:20240727T123500Z
+DTEND:20240727T130000Z
+DESCRIPTION:Fencing - Women's Épée Individual Table of 16
+SUMMARY:🤺 Marie-Florence CANDASSAMY 🇫🇷 - 🇨🇳 YU Sihan
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T134000Z-badminton-MIXED-DOUBLES-GROUP-PLAY-STAGE-GROUP-A-CHN-F
 DTSTAMP:20240727T134000Z
 DTSTART:20240727T134000Z
@@ -444,6 +453,17 @@ DESCRIPTION:Shooting - 10m Air Rifle Women's Qualification\n🇰🇿 Alexandra
   NEPAL\n🇳🇴 Synnoeve BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika
   BLAZICKOVA\n🇵🇷 Yarimar MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
 SUMMARY:🔫 10m Air Rifle Women's Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073000Z-shooting-10M-AIR-PISTOL-MENS-FINAL
+DTSTAMP:20240728T073000Z
+DTSTART:20240728T073000Z
+DTEND:20240728T081500Z
+DESCRIPTION:Shooting - 10m Air Pistol Men's Final\n🇩🇪 Christian
+  REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇮🇹 Federico Nilo
+  MALDINI\n🇰🇷 LEE Wonho\n🇮🇹 Paolo MONNA\n🇩🇪 Robin WALTER\n🇨🇳 XIE Yu
+SUMMARY:🔫 10m Air Pistol Men's Final
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
@@ -914,7 +934,7 @@ BEGIN:VEVENT
 UID:20240729T073000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-1
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
-DTEND:20240729T123000Z
+DTEND:20240729T120000Z
 DESCRIPTION:Shooting - Trap Men's Qualification - Day 1\n🇪🇸 Alberto
   FERNANDEZ\n🇪🇸 Andres GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss
   HAFFARI\n🇩🇴 Eduardo Jose LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni
