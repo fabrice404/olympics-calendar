@@ -169,22 +169,6 @@ SUMMARY:🔫 10m Air Pistol Men's Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-skateboarding-MENS-STREET-PRELIMS
-DTSTAMP:20240727T100000Z
-DTSTART:20240727T100000Z
-DTEND:20240727T135000Z
-DESCRIPTION:Skateboarding - Men's Street Prelims\n🇫🇷 Aurelien
-  GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸 Chris JOSLIN\n🇨🇦 Cordano
-  RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni VIANNA\n🇵🇹 Gustavo
-  RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴 Jhancarlos
-  GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
-  OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah HUSTON\n🇯🇵
-  ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵 SHIRAI
-  Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
-SUMMARY:🛹 Men's Street Prelims
-LOCATION:La Concorde 3
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T100000Z-tennis-WOMENS-DOUBLES-FIRST-ROUND-CHN-BRA
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
@@ -728,6 +712,22 @@ DTEND:20240729T095400Z
 DESCRIPTION:Judo - Women -57 kg Elimination Round of 16\n🇧🇷 Rafaela SILVA
 SUMMARY:🥋 Women -57 kg Elimination Round of 16
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-skateboarding-MENS-STREET-PRELIMS
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T135000Z
+DESCRIPTION:Skateboarding - Men's Street Prelims\n🇫🇷 Aurelien
+  GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸 Chris JOSLIN\n🇨🇦 Cordano
+  RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni VIANNA\n🇵🇹 Gustavo
+  RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴 Jhancarlos
+  GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
+  OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah HUSTON\n🇯🇵
+  ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵 SHIRAI
+  Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
+SUMMARY:🛹 Men's Street Prelims
+LOCATION:La Concorde 3
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T100000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-AUS-BRA

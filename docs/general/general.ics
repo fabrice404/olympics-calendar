@@ -868,21 +868,21 @@ SUMMARY:🔫 10m Air Pistol Men's Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T083000Z-shooting-10M-AIR-RIFLE-MIXED-TEAM-BRONZE-MEDAL-MATCH
+UID:20240727T083000Z-shooting-10M-AIR-RIFLE-MIXED-TEAM-BRONZE-MEDAL-MATCH-K
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
 DTEND:20240727T085000Z
 DESCRIPTION:Shooting - 10m Air Rifle Mixed Team Bronze Medal Match
-SUMMARY:🔫 10m Air Rifle Mixed Team Bronze Medal Match
+SUMMARY:🔫 Kazakhstan 1 🇰🇿 - 🇩🇪 Germany
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T083000Z-shooting-10M-AIR-RIFLE-MIXED-TEAM-GOLD-MEDAL-MATCH
+UID:20240727T083000Z-shooting-10M-AIR-RIFLE-MIXED-TEAM-GOLD-MEDAL-MATCH-CHN
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
 DTEND:20240727T085000Z
 DESCRIPTION:Shooting - 10m Air Rifle Mixed Team Gold Medal Match
-SUMMARY:🔫 10m Air Rifle Mixed Team Gold Medal Match
+SUMMARY:🔫 China 1 🇨🇳 - 🇰🇷 Korea 1
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
@@ -944,8 +944,7 @@ UID:20240727T085000Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240727T085000Z
 DTSTART:20240727T085000Z
 DTEND:20240727T091500Z
-DESCRIPTION:Fencing - Women's Épée Individual Table of 32\n🇭🇰 KONG Man
-  Wai Vivian
+DESCRIPTION:Fencing - Women's Épée Individual Table of 32\n🇨🇳 SUN Yiwen
 SUMMARY:🤺 Women's Épée Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -954,7 +953,8 @@ UID:20240727T085000Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240727T085000Z
 DTSTART:20240727T085000Z
 DTEND:20240727T091500Z
-DESCRIPTION:Fencing - Women's Épée Individual Table of 32\n🇨🇳 SUN Yiwen
+DESCRIPTION:Fencing - Women's Épée Individual Table of 32\n🇭🇰 KONG Man
+  Wai Vivian
 SUMMARY:🤺 Women's Épée Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -1384,22 +1384,6 @@ DTEND:20240727T102700Z
 DESCRIPTION:Rowing - Women's Double Sculls Heats
 SUMMARY:🚣 Women's Double Sculls Heats
 LOCATION:Nautical St - Flat water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T100000Z-skateboarding-MENS-STREET-PRELIMS
-DTSTAMP:20240727T100000Z
-DTSTART:20240727T100000Z
-DTEND:20240727T135000Z
-DESCRIPTION:Skateboarding - Men's Street Prelims\n🇫🇷 Aurelien
-  GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸 Chris JOSLIN\n🇨🇦 Cordano
-  RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni VIANNA\n🇵🇹 Gustavo
-  RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴 Jhancarlos
-  GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
-  OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah HUSTON\n🇯🇵
-  ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵 SHIRAI
-  Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
-SUMMARY:🛹 Men's Street Prelims
-LOCATION:La Concorde 3
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T100000Z-tennis-MENS-DOUBLES-FIRST-ROUND-BEL-FRA
@@ -2939,15 +2923,6 @@ DTEND:20240727T151600Z
 DESCRIPTION:Rugby Sevens - Men's Placing 9-10
 SUMMARY:🏉 SAM 🇼🇸 - 🇰🇪 KEN
 LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T150000Z-skateboarding-MENS-STREET-FINAL
-DTSTAMP:20240727T150000Z
-DTSTART:20240727T150000Z
-DTEND:20240727T163000Z
-DESCRIPTION:Skateboarding - Men's Street Final
-SUMMARY:🛹 Men's Street Final
-LOCATION:La Concorde 3
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T150000Z-volleyball-MENS-PRELIMINARY-ROUND-POOL-B-POL-EGY
@@ -5307,8 +5282,7 @@ UID:20240728T102500Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240728T102500Z
 DTSTART:20240728T102500Z
 DTEND:20240728T105000Z
-DESCRIPTION:Fencing - Men's Épée Individual Table of 32\n🇭🇺 Mate Tamas
-  KOCH
+DESCRIPTION:Fencing - Men's Épée Individual Table of 32\n🇫🇷 Yannick BOREL
 SUMMARY:🤺 Men's Épée Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -5317,7 +5291,8 @@ UID:20240728T102500Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240728T102500Z
 DTSTART:20240728T102500Z
 DTEND:20240728T105000Z
-DESCRIPTION:Fencing - Men's Épée Individual Table of 32\n🇫🇷 Yannick BOREL
+DESCRIPTION:Fencing - Men's Épée Individual Table of 32\n🇭🇺 Mate Tamas
+  KOCH
 SUMMARY:🤺 Men's Épée Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -7787,8 +7762,8 @@ UID:20240729T082500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T082500Z
 DTSTART:20240729T082500Z
 DTEND:20240729T085000Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇫🇷 Sara
-  BALZER
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇫🇷 Manon
+  APITHY-BRUNET
 SUMMARY:🤺 Women's Sabre Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -7797,8 +7772,8 @@ UID:20240729T082500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T082500Z
 DTSTART:20240729T082500Z
 DTEND:20240729T085000Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇫🇷 Manon
-  APITHY-BRUNET
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇫🇷 Sara
+  BALZER
 SUMMARY:🤺 Women's Sabre Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -8353,8 +8328,8 @@ UID:20240729T094000Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T094000Z
 DTSTART:20240729T094000Z
 DTEND:20240729T100500Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇯🇵 EMURA
-  Misaki
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇪🇸 Lucia
+  MARTIN-PORTUGUES
 SUMMARY:🤺 Women's Sabre Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -8363,8 +8338,8 @@ UID:20240729T094000Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T094000Z
 DTSTART:20240729T094000Z
 DTEND:20240729T100500Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇪🇸 Lucia
-  MARTIN-PORTUGUES
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇯🇵 EMURA
+  Misaki
 SUMMARY:🤺 Women's Sabre Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -8506,6 +8481,22 @@ SUMMARY:🔫 10m Air Rifle Men's Final
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T100000Z-skateboarding-MENS-STREET-PRELIMS
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T135000Z
+DESCRIPTION:Skateboarding - Men's Street Prelims\n🇫🇷 Aurelien
+  GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸 Chris JOSLIN\n🇨🇦 Cordano
+  RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni VIANNA\n🇵🇹 Gustavo
+  RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴 Jhancarlos
+  GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
+  OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah HUSTON\n🇯🇵
+  ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵 SHIRAI
+  Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
+SUMMARY:🛹 Men's Street Prelims
+LOCATION:La Concorde 3
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T100000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-AUS-BRA
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
@@ -8604,6 +8595,15 @@ UID:20240729T100500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T100500Z
 DTSTART:20240729T100500Z
 DTEND:20240729T103500Z
+DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇪🇬 Mohamed HAMZA
+SUMMARY:🤺 Men's Foil Individual Table of 32
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32
+DTSTAMP:20240729T100500Z
+DTSTART:20240729T100500Z
+DTEND:20240729T103500Z
 DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇮🇹 Tommaso
   MARINI
 SUMMARY:🤺 Men's Foil Individual Table of 32
@@ -8615,15 +8615,6 @@ DTSTAMP:20240729T100500Z
 DTSTART:20240729T100500Z
 DTEND:20240729T103500Z
 DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇫🇷 Enzo LEFORT
-SUMMARY:🤺 Men's Foil Individual Table of 32
-LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T100500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32
-DTSTAMP:20240729T100500Z
-DTSTART:20240729T100500Z
-DTEND:20240729T103500Z
-DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇪🇬 Mohamed HAMZA
 SUMMARY:🤺 Men's Foil Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -8916,7 +8907,8 @@ UID:20240729T113500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T113500Z
 DTSTART:20240729T113500Z
 DTEND:20240729T120500Z
-DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇺🇸 Nick ITKIN
+DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇭🇰 CHEUNG Ka
+  Long
 SUMMARY:🤺 Men's Foil Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -8925,8 +8917,7 @@ UID:20240729T113500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T113500Z
 DTSTART:20240729T113500Z
 DTEND:20240729T120500Z
-DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇭🇰 CHEUNG Ka
-  Long
+DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇺🇸 Nick ITKIN
 SUMMARY:🤺 Men's Foil Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -9779,6 +9770,15 @@ DTEND:20240729T150600Z
 DESCRIPTION:Judo - Women -57 kg Final
 SUMMARY:🥋 Women -57 kg Final
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T150000Z-skateboarding-MENS-STREET-FINAL
+DTSTAMP:20240729T150000Z
+DTSTART:20240729T150000Z
+DTEND:20240729T163000Z
+DESCRIPTION:Skateboarding - Men's Street Final
+SUMMARY:🛹 Men's Street Final
+LOCATION:La Concorde 3
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T150000Z-table-tennis-MIXED-DOUBLES-SEMIFINAL

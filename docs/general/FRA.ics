@@ -248,22 +248,6 @@ SUMMARY:🤺 Renata KNAPIK-MIAZGA 🇵🇱 - 🇫🇷 Coraline VITALIS
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100000Z-skateboarding-MENS-STREET-PRELIMS
-DTSTAMP:20240727T100000Z
-DTSTART:20240727T100000Z
-DTEND:20240727T135000Z
-DESCRIPTION:Skateboarding - Men's Street Prelims\n🇫🇷 Aurelien
-  GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸 Chris JOSLIN\n🇨🇦 Cordano
-  RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni VIANNA\n🇵🇹 Gustavo
-  RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴 Jhancarlos
-  GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
-  OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah HUSTON\n🇯🇵
-  ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵 SHIRAI
-  Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
-SUMMARY:🛹 Men's Street Prelims
-LOCATION:La Concorde 3
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T100000Z-tennis-MENS-DOUBLES-FIRST-ROUND-BEL-FRA
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
@@ -1187,8 +1171,8 @@ UID:20240729T082500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T082500Z
 DTSTART:20240729T082500Z
 DTEND:20240729T085000Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇫🇷 Sara
-  BALZER
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇫🇷 Manon
+  APITHY-BRUNET
 SUMMARY:🤺 Women's Sabre Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -1197,8 +1181,8 @@ UID:20240729T082500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T082500Z
 DTSTART:20240729T082500Z
 DTEND:20240729T085000Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇫🇷 Manon
-  APITHY-BRUNET
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇫🇷 Sara
+  BALZER
 SUMMARY:🤺 Women's Sabre Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -1248,6 +1232,22 @@ DESCRIPTION:Judo - Women -57 kg Elimination Round of 16\n🇫🇷 Sarah Leonie
   CYSIQUE
 SUMMARY:🥋 Women -57 kg Elimination Round of 16
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-skateboarding-MENS-STREET-PRELIMS
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T135000Z
+DESCRIPTION:Skateboarding - Men's Street Prelims\n🇫🇷 Aurelien
+  GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸 Chris JOSLIN\n🇨🇦 Cordano
+  RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni VIANNA\n🇵🇹 Gustavo
+  RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴 Jhancarlos
+  GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL
+  OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah HUSTON\n🇯🇵
+  ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵 SHIRAI
+  Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
+SUMMARY:🛹 Men's Street Prelims
+LOCATION:La Concorde 3
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T100500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32
