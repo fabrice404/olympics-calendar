@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//surfing/POR//EN
+X-WR-CALNAME:🇵🇹 Portugal Surfing | Paris 2024
+NAME:🇵🇹 Portugal Surfing | Paris 2024
+BEGIN:VEVENT
+UID:20240727T214800Z-surfing-WOMENS-ROUND-1-HEAT-1
+DTSTAMP:20240727T214800Z
+DTSTART:20240727T214800Z
+DTEND:20240727T221800Z
+DESCRIPTION:Surfing - Women's Round 1 - Heat 1\n🇺🇸 Caroline MARKS\n🇿🇦
+  Sarah BAUM\n🇵🇹 Yolanda HOPKINS
+SUMMARY:🏄 Women's Round 1 - Heat 1
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T020000Z-surfing-WOMENS-ROUND-1-HEAT-8
+DTSTAMP:20240728T020000Z
+DTSTART:20240728T020000Z
+DTEND:20240728T023000Z
+DESCRIPTION:Surfing - Women's Round 1 - Heat 8\n🇺🇸 Carissa MOORE\n🇯🇵
+  MATSUDA Shino\n🇵🇹 Teresa BONVALOT
+SUMMARY:🏄 Women's Round 1 - Heat 8
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+END:VCALENDAR
