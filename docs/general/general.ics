@@ -944,7 +944,8 @@ UID:20240727T085000Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240727T085000Z
 DTSTART:20240727T085000Z
 DTEND:20240727T091500Z
-DESCRIPTION:Fencing - Women's Épée Individual Table of 32\n🇨🇳 SUN Yiwen
+DESCRIPTION:Fencing - Women's Épée Individual Table of 32\n🇭🇰 KONG Man
+  Wai Vivian
 SUMMARY:🤺 Women's Épée Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -953,8 +954,7 @@ UID:20240727T085000Z-fencing-WOMENS-PE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240727T085000Z
 DTSTART:20240727T085000Z
 DTEND:20240727T091500Z
-DESCRIPTION:Fencing - Women's Épée Individual Table of 32\n🇭🇰 KONG Man
-  Wai Vivian
+DESCRIPTION:Fencing - Women's Épée Individual Table of 32\n🇨🇳 SUN Yiwen
 SUMMARY:🤺 Women's Épée Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -5307,7 +5307,8 @@ UID:20240728T102500Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240728T102500Z
 DTSTART:20240728T102500Z
 DTEND:20240728T105000Z
-DESCRIPTION:Fencing - Men's Épée Individual Table of 32\n🇫🇷 Yannick BOREL
+DESCRIPTION:Fencing - Men's Épée Individual Table of 32\n🇭🇺 Mate Tamas
+  KOCH
 SUMMARY:🤺 Men's Épée Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -5316,8 +5317,7 @@ UID:20240728T102500Z-fencing-MENS-PE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240728T102500Z
 DTSTART:20240728T102500Z
 DTEND:20240728T105000Z
-DESCRIPTION:Fencing - Men's Épée Individual Table of 32\n🇭🇺 Mate Tamas
-  KOCH
+DESCRIPTION:Fencing - Men's Épée Individual Table of 32\n🇫🇷 Yannick BOREL
 SUMMARY:🤺 Men's Épée Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -7422,25 +7422,6 @@ SUMMARY:🤾 JPN 🇯🇵 - 🇩🇪 GER
 LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T070000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-1
-DTSTAMP:20240729T070000Z
-DTSTART:20240729T070000Z
-DTEND:20240729T120000Z
-DESCRIPTION:Shooting - Trap Men's Qualification - Day 1\n🇪🇸 Alberto
-  FERNANDEZ\n🇪🇸 Andres GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss
-  HAFFARI\n🇩🇴 Eduardo Jose LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni
-  CERNOGORAZ\n🇮🇹 Giovanni PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre
-  BROL CARDENAS\n🇨🇿 Jiri LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel
-  MARTINEZ\n🇸🇰 Marian KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹
-  Mauro de FILIPPIS\n🇦🇺 Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧
-  Nathan HALES\n🇹🇷 Oguzhan TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj
-  TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪 Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed
-  ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
-  HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
-SUMMARY:🔫 Trap Men's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T070000Z-volleyball-WOMENS-PRELIMINARY-ROUND-POOL-C-TUR-NED
 DTSTAMP:20240729T070000Z
 DTSTART:20240729T070000Z
@@ -7546,6 +7527,25 @@ DTSTART:20240729T073000Z
 DTEND:20240729T081500Z
 DESCRIPTION:Shooting - 10m Air Rifle Women's Final
 SUMMARY:🔫 10m Air Rifle Women's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T073000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-1
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T123000Z
+DESCRIPTION:Shooting - Trap Men's Qualification - Day 1\n🇪🇸 Alberto
+  FERNANDEZ\n🇪🇸 Andres GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss
+  HAFFARI\n🇩🇴 Eduardo Jose LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni
+  CERNOGORAZ\n🇮🇹 Giovanni PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre
+  BROL CARDENAS\n🇨🇿 Jiri LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel
+  MARTINEZ\n🇸🇰 Marian KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹
+  Mauro de FILIPPIS\n🇦🇺 Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧
+  Nathan HALES\n🇹🇷 Oguzhan TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj
+  TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪 Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed
+  ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
+  HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
+SUMMARY:🔫 Trap Men's Qualification - Day 1
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
@@ -7787,8 +7787,8 @@ UID:20240729T082500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T082500Z
 DTSTART:20240729T082500Z
 DTEND:20240729T085000Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇫🇷 Manon
-  APITHY-BRUNET
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇫🇷 Sara
+  BALZER
 SUMMARY:🤺 Women's Sabre Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -7797,8 +7797,8 @@ UID:20240729T082500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T082500Z
 DTSTART:20240729T082500Z
 DTEND:20240729T085000Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇫🇷 Sara
-  BALZER
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇫🇷 Manon
+  APITHY-BRUNET
 SUMMARY:🤺 Women's Sabre Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -8353,8 +8353,8 @@ UID:20240729T094000Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T094000Z
 DTSTART:20240729T094000Z
 DTEND:20240729T100500Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇪🇸 Lucia
-  MARTIN-PORTUGUES
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇯🇵 EMURA
+  Misaki
 SUMMARY:🤺 Women's Sabre Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -8363,8 +8363,8 @@ UID:20240729T094000Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T094000Z
 DTSTART:20240729T094000Z
 DTEND:20240729T100500Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇯🇵 EMURA
-  Misaki
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 32\n🇪🇸 Lucia
+  MARTIN-PORTUGUES
 SUMMARY:🤺 Women's Sabre Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -8604,15 +8604,6 @@ UID:20240729T100500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T100500Z
 DTSTART:20240729T100500Z
 DTEND:20240729T103500Z
-DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇪🇬 Mohamed HAMZA
-SUMMARY:🤺 Men's Foil Individual Table of 32
-LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T100500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32
-DTSTAMP:20240729T100500Z
-DTSTART:20240729T100500Z
-DTEND:20240729T103500Z
 DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇮🇹 Tommaso
   MARINI
 SUMMARY:🤺 Men's Foil Individual Table of 32
@@ -8624,6 +8615,15 @@ DTSTAMP:20240729T100500Z
 DTSTART:20240729T100500Z
 DTEND:20240729T103500Z
 DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇫🇷 Enzo LEFORT
+SUMMARY:🤺 Men's Foil Individual Table of 32
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32
+DTSTAMP:20240729T100500Z
+DTSTART:20240729T100500Z
+DTEND:20240729T103500Z
+DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇪🇬 Mohamed HAMZA
 SUMMARY:🤺 Men's Foil Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -8916,8 +8916,7 @@ UID:20240729T113500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T113500Z
 DTSTART:20240729T113500Z
 DTEND:20240729T120500Z
-DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇭🇰 CHEUNG Ka
-  Long
+DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇺🇸 Nick ITKIN
 SUMMARY:🤺 Men's Foil Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -8926,7 +8925,8 @@ UID:20240729T113500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-32
 DTSTAMP:20240729T113500Z
 DTSTART:20240729T113500Z
 DTEND:20240729T120500Z
-DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇺🇸 Nick ITKIN
+DESCRIPTION:Fencing - Men's Foil Individual Table of 32\n🇭🇰 CHEUNG Ka
+  Long
 SUMMARY:🤺 Men's Foil Individual Table of 32
 LOCATION:Grand Palais
 END:VEVENT
@@ -18242,25 +18242,6 @@ SUMMARY:🔫 25m Pistol Women's Qualification Precision
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T070000Z-shooting-SKEET-MENS-QUALIFICATION-DAY-1
-DTSTAMP:20240802T070000Z
-DTSTART:20240802T070000Z
-DTEND:20240802T120000Z
-DESCRIPTION:Shooting - Skeet Men's Qualification - Day 1\n🇮🇳 Anant Jeet
-  Singh NARUKA\n🇪🇬 Azmy MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸
-  Conner Lynn PRINCE\n🇰🇿 Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷
-  Efthimios MITAS\n🇫🇷 Eric DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico
-  GIL\n🇮🇹 Gabriele ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub
-  TOMECEK\n🇩🇰 Jesper HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua
-  BELL\n🇰🇷 KIM Minsu\n🇹🇼 LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus
-  SVENSSON\n🇰🇼 Mohammad ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬
-  Omar IBRAHIM\n🇪🇪 Peeter JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹
-  Sebastian BERMUDEZ LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹
-  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
-SUMMARY:🔫 Skeet Men's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
 UID:20240802T070000Z-volleyball-MENS-PRELIMINARY-ROUND-POOL-C-ARG-GER
 DTSTAMP:20240802T070000Z
 DTSTART:20240802T070000Z
@@ -18303,6 +18284,25 @@ DTSTART:20240802T073000Z
 DTEND:20240802T083000Z
 DESCRIPTION:Shooting - 50m Rifle 3 Positions Women's Final
 SUMMARY:🔫 50m Rifle 3 Positions Women's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-shooting-SKEET-MENS-QUALIFICATION-DAY-1
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T120000Z
+DESCRIPTION:Shooting - Skeet Men's Qualification - Day 1\n🇮🇳 Anant Jeet
+  Singh NARUKA\n🇪🇬 Azmy MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸
+  Conner Lynn PRINCE\n🇰🇿 Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷
+  Efthimios MITAS\n🇫🇷 Eric DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico
+  GIL\n🇮🇹 Gabriele ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub
+  TOMECEK\n🇩🇰 Jesper HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua
+  BELL\n🇰🇷 KIM Minsu\n🇹🇼 LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus
+  SVENSSON\n🇰🇼 Mohammad ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬
+  Omar IBRAHIM\n🇪🇪 Peeter JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹
+  Sebastian BERMUDEZ LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹
+  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
+SUMMARY:🔫 Skeet Men's Qualification - Day 1
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
