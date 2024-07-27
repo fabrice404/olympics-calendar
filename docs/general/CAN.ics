@@ -340,7 +340,7 @@ BEGIN:VEVENT
 UID:20240727T161000Z-canoe-slalom-WOMENS-KAYAK-SINGLE-HEATS-2ND-RUN
 DTSTAMP:20240727T161000Z
 DTSTART:20240727T161000Z
-DTEND:20240727T170200Z
+DTEND:20240727T171200Z
 DESCRIPTION:Canoe Slalom - Women's Kayak Single Heats 2nd Run\n🇨🇭 Alena
   MARX\n🇧🇷 Ana SATILA\n🇨🇿 Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷
   Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇸🇰
@@ -885,6 +885,20 @@ DTEND:20240729T135000Z
 DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool D
 SUMMARY:🏐 MELISSA/BRANDIE 🇨🇦 - 🇵🇾 POLETTI/MICHELLE
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T133000Z-canoe-slalom-MENS-CANOE-SINGLE-SEMIFINAL
+DTSTAMP:20240729T133000Z
+DTSTART:20240729T133000Z
+DTEND:20240729T141800Z
+DESCRIPTION:Canoe Slalom - Men's Canoe Single Semifinal\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🇸🇮 Benjamin SAVSEK\n🇺🇸 Casey
+  EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇯🇵 HANEDA Takuya\n🇮🇪 Liam JEGOU\n🇨🇿
+  Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel
+  TRAVE\n🇫🇷 Nicolas GESTIN\n🇮🇹 Raffaello IVALDI\n🇩🇪 Sideris
+  TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Canoe Single Semifinal
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T134000Z-badminton-MENS-SINGLES-GROUP-PLAY-STAGE-GROUP-D-CAN-KA
