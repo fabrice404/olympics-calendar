@@ -303,7 +303,7 @@ BEGIN:VEVENT
 UID:20240727T130000Z-canoe-slalom-MENS-CANOE-SINGLE-HEATS-1ST-RUN
 DTSTAMP:20240727T130000Z
 DTSTART:20240727T130000Z
-DTEND:20240727T134500Z
+DTEND:20240727T135200Z
 DESCRIPTION:Canoe Slalom - Men's Canoe Single Heats 1st Run\n🇬🇧 Adam
   BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇸🇮 Benjamin
   SAVSEK\n🇺🇸 Casey EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇯🇵 HANEDA
@@ -439,6 +439,30 @@ SUMMARY:🎾 OSAKA Naomi 🇯🇵 - 🇩🇪 Angelique KERBER
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T184200Z-swimming-MENS-400M-FREESTYLE-FINAL
+DTSTAMP:20240727T184200Z
+DTSTART:20240727T184200Z
+DTEND:20240727T185200Z
+DESCRIPTION:Swimming - Men's 400m Freestyle Final\n🇺🇸 Aaron
+  SHACKELL\n🇦🇺 Elijah WINNINGTON\n🇨🇳 FEI Liwei\n🇧🇷 Guilherme
+  COSTA\n🇰🇷 KIM Woomin\n🇩🇪 Lukas MAERTENS\n🇩🇪 Oliver KLEMET\n🇦🇺
+  Samuel SHORT
+SUMMARY:🏊 Men's 400m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T185200Z-swimming-WOMENS-400M-FREESTYLE-FINAL
+DTSTAMP:20240727T185200Z
+DTSTART:20240727T185200Z
+DTEND:20240727T190200Z
+DESCRIPTION:Swimming - Women's 400m Freestyle Final\n🇦🇺 Ariarne
+  TITMUS\n🇳🇿 Erika FAIRWEATHER\n🇩🇪 Isabel GOSE\n🇦🇺 Jamie
+  PERKINS\n🇺🇸 Katie LEDECKY\n🇧🇷 Maria Fernanda COSTA\n🇺🇸 Paige
+  MADDEN\n🇨🇦 Summer McINTOSH
+SUMMARY:🏊 Women's 400m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T193000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-MEX-GER
 DTSTAMP:20240727T193000Z
 DTSTART:20240727T193000Z
@@ -446,6 +470,16 @@ DTEND:20240727T201500Z
 DESCRIPTION:Table Tennis - Men's Singles Round of 64
 SUMMARY:🏓 Marcos MADRID 🇲🇽 - 🇩🇪 Dimitrij OVTCHAROV
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T194400Z-swimming-MENS-4-X-100M-FREESTYLE-RELAY-FINAL
+DTSTAMP:20240727T194400Z
+DTSTART:20240727T194400Z
+DTEND:20240727T195400Z
+DESCRIPTION:Swimming - Men's 4 x 100m Freestyle Relay Final\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇹 ITA\n🇺🇸 USA
+SUMMARY:🏊 Men's 4 x 100m Freestyle Relay Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T201500Z-table-tennis-WOMENS-SINGLES-ROUND-OF-64-HUN-GER
