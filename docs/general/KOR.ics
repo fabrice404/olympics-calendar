@@ -292,6 +292,15 @@ SUMMARY:🏸 KIM/JEONG 🇰🇷 - 🇮🇩 RIVALDY/MENTARI
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T141500Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-8-CAN-KOR
+DTSTAMP:20240727T141500Z
+DTSTART:20240727T141500Z
+DTEND:20240727T144000Z
+DESCRIPTION:Fencing - Men's Sabre Individual Table of 8
+SUMMARY:🤺 Fares ARFA 🇨🇦 - 🇰🇷 OH Sanguk
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T143000Z-judo-MEN-60-KG-REPECHAGE-CONTEST-GEO-KOR
 DTSTAMP:20240727T143000Z
 DTSTART:20240727T143000Z
@@ -393,12 +402,12 @@ SUMMARY:🔫 10m Air Pistol Men's Final
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T080000Z-table-tennis-MENS-SINGLES-ROUND-OF-64
+UID:20240728T080000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-KOR-USA
 DTSTAMP:20240728T080000Z
 DTSTART:20240728T080000Z
 DTEND:20240728T084500Z
-DESCRIPTION:Table Tennis - Men's Singles Round of 64\n🇰🇷 CHO Daeseong
-SUMMARY:🏓 Men's Singles Round of 64
+DESCRIPTION:Table Tennis - Men's Singles Round of 64
+SUMMARY:🏓 CHO Daeseong 🇰🇷 - 🇺🇸 Kanak JHA
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
@@ -535,6 +544,18 @@ DTEND:20240728T210000Z
 DESCRIPTION:Badminton - Mixed Doubles Group Play Stage - Group B
 SUMMARY:🏸 SEO/CHAE 🇰🇷 - 🇳🇱 TABELING/PIEK
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T071500Z-shooting-10M-AIR-PISTOL-MIXED-TEAM-QUALIFICATION
+DTSTAMP:20240729T071500Z
+DTSTART:20240729T071500Z
+DTEND:20240729T074500Z
+DESCRIPTION:Shooting - 10m Air Pistol Mixed Team Qualification\n🇧🇬
+  BUL\n🇨🇳 China 1\n🇨🇳 China 2\n🇫🇷 FRA\n🇩🇪 Germany 1\n🇩🇪 Germany
+  2\n🇮🇳 India 1\n🇮🇳 India 2\n🇰🇿 KAZ\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇱🇻
+  LAT\n🇵🇰 PAK\n🇷🇸 SRB\n🇹🇷 Türkiye 1\n🇹🇷 Türkiye 2\n🇺🇦 UKR
+SUMMARY:🔫 10m Air Pistol Mixed Team Qualification
+LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T072000Z-badminton-MIXED-DOUBLES-GROUP-PLAY-STAGE-GROUP-A-CHN-K

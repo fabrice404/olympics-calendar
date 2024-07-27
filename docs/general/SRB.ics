@@ -42,6 +42,15 @@ SUMMARY:🥋 Milica NIKOLIC 🇷🇸 - 🇸🇮 Marusa STANGAR
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-SRB-AUS
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T130000Z
+DESCRIPTION:Tennis - Men's Singles First Round
+SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇦🇺 Matthew EBDEN
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T101200Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-16-SRB-ESP
 DTSTAMP:20240727T101200Z
 DTSTART:20240727T101200Z
@@ -72,15 +81,6 @@ DESCRIPTION:Shooting - 10m Air Pistol Women's Qualification\n🇱🇻 Agate
   TEH\n🇹🇼 YU Ai Wen\n🇾🇪 Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
 SUMMARY:🔫 10m Air Pistol Women's Qualification
 LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T110000Z-tennis-MENS-SINGLES-FIRST-ROUND-SRB-AUS
-DTSTAMP:20240727T110000Z
-DTSTART:20240727T110000Z
-DTEND:20240727T140000Z
-DESCRIPTION:Tennis - Men's Singles First Round
-SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇦🇺 Matthew EBDEN
-LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T134600Z-boxing-WOMENS-54KG-PRELIMINARIES-ROUND-OF-32-THA-SRB
@@ -180,6 +180,18 @@ DTEND:20240728T204500Z
 DESCRIPTION:Basketball - Women's Group Phase - Group A
 SUMMARY:🏀 SRB 🇷🇸 - 🇵🇷 PUR
 LOCATION:Pierre Mauroy Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T071500Z-shooting-10M-AIR-PISTOL-MIXED-TEAM-QUALIFICATION
+DTSTAMP:20240729T071500Z
+DTSTART:20240729T071500Z
+DTEND:20240729T074500Z
+DESCRIPTION:Shooting - 10m Air Pistol Mixed Team Qualification\n🇧🇬
+  BUL\n🇨🇳 China 1\n🇨🇳 China 2\n🇫🇷 FRA\n🇩🇪 Germany 1\n🇩🇪 Germany
+  2\n🇮🇳 India 1\n🇮🇳 India 2\n🇰🇿 KAZ\n🇰🇷 Korea 1\n🇰🇷 Korea 2\n🇱🇻
+  LAT\n🇵🇰 PAK\n🇷🇸 SRB\n🇹🇷 Türkiye 1\n🇹🇷 Türkiye 2\n🇺🇦 UKR
+SUMMARY:🔫 10m Air Pistol Mixed Team Qualification
+LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T080600Z-judo-WOMEN-57-KG-ELIMINATION-ROUND-OF-32-SRB-NEP
