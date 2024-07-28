@@ -4,38 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//sailing/SUI//EN
 X-WR-CALNAME:🇨🇭 Switzerland Sailing | Paris 2024
 NAME:🇨🇭 Switzerland Sailing | Paris 2024
 BEGIN:VEVENT
-UID:20240728T103300Z-sailing-MENS-WINDSURFING-RACE-1
-DTSTAMP:20240728T103300Z
-DTSTART:20240728T103300Z
-DTEND:20240728T104200Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 1\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 1
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T110700Z-sailing-MENS-WINDSURFING-RACE-2
-DTSTAMP:20240728T110700Z
-DTSTART:20240728T110700Z
-DTEND:20240728T111600Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 2\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 2
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T111500Z-sailing-MENS-SKIFF-RACE-1
 DTSTAMP:20240728T111500Z
 DTSTART:20240728T111500Z
@@ -48,22 +16,6 @@ DESCRIPTION:Sailing - Men's Skiff - Race 1\n🇨🇦 BARNES/JONES\n🇺🇸
   FANTELA/M FANTELA\n🇭🇰 SAKAI/ALYSWORTH\n🇨🇭 SCHNEITER/de PLANTA\n🇧🇷
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
 SUMMARY:⛵ Men's Skiff - Race 1
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T114100Z-sailing-MENS-WINDSURFING-RACE-3
-DTSTAMP:20240728T114100Z
-DTSTART:20240728T114100Z
-DTEND:20240728T115000Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 3\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 3
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -82,22 +34,6 @@ SUMMARY:⛵ Men's Skiff - Race 2
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T121500Z-sailing-MENS-WINDSURFING-RACE-4
-DTSTAMP:20240728T121500Z
-DTSTART:20240728T121500Z
-DTEND:20240728T122400Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 4\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 4
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T125900Z-sailing-MENS-SKIFF-RACE-3
 DTSTAMP:20240728T125900Z
 DTSTART:20240728T125900Z
@@ -113,10 +49,10 @@ SUMMARY:⛵ Men's Skiff - Race 3
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T120500Z-sailing-MENS-SKIFF-RACE-4
-DTSTAMP:20240729T120500Z
-DTSTART:20240729T120500Z
-DTEND:20240729T124000Z
+UID:20240729T100500Z-sailing-MENS-SKIFF-RACE-4
+DTSTAMP:20240729T100500Z
+DTSTART:20240729T100500Z
+DTEND:20240729T104000Z
 DESCRIPTION:Sailing - Men's Skiff - Race 4\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
@@ -128,10 +64,26 @@ SUMMARY:⛵ Men's Skiff - Race 4
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T125700Z-sailing-MENS-SKIFF-RACE-5
-DTSTAMP:20240729T125700Z
-DTSTART:20240729T125700Z
-DTEND:20240729T133200Z
+UID:20240729T102300Z-sailing-MENS-WINDSURFING-RACE-1
+DTSTAMP:20240729T102300Z
+DTSTART:20240729T102300Z
+DTEND:20240729T103200Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 1\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 1
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T105700Z-sailing-MENS-SKIFF-RACE-5
+DTSTAMP:20240729T105700Z
+DTSTART:20240729T105700Z
+DTEND:20240729T113200Z
 DESCRIPTION:Sailing - Men's Skiff - Race 5\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
@@ -143,10 +95,42 @@ SUMMARY:⛵ Men's Skiff - Race 5
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T134900Z-sailing-MENS-SKIFF-RACE-6
-DTSTAMP:20240729T134900Z
-DTSTART:20240729T134900Z
-DTEND:20240729T142400Z
+UID:20240729T105700Z-sailing-MENS-WINDSURFING-RACE-2
+DTSTAMP:20240729T105700Z
+DTSTART:20240729T105700Z
+DTEND:20240729T110600Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 2\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 2
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T113100Z-sailing-MENS-WINDSURFING-RACE-3
+DTSTAMP:20240729T113100Z
+DTSTART:20240729T113100Z
+DTEND:20240729T114000Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 3\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 3
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T114900Z-sailing-MENS-SKIFF-RACE-6
+DTSTAMP:20240729T114900Z
+DTSTART:20240729T114900Z
+DTEND:20240729T122400Z
 DESCRIPTION:Sailing - Men's Skiff - Race 6\n🇨🇦 BARNES/JONES\n🇺🇸
   BARROWS/HENKEN\n🇦🇹 BILDSTEIN/HUSSL\n🇪🇸 BOTIN/TRITTEL\n🇵🇱
   BUKSAK/WIERZBICKI\n🇦🇺 COLLEY/CONNOR\n🇫🇷 FISCHER/PEQUIN\n🇳🇱
@@ -158,10 +142,26 @@ SUMMARY:⛵ Men's Skiff - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T140100Z-sailing-MENS-WINDSURFING-RACE-5
-DTSTAMP:20240729T140100Z
-DTSTART:20240729T140100Z
-DTEND:20240729T141000Z
+UID:20240729T120500Z-sailing-MENS-WINDSURFING-RACE-4
+DTSTAMP:20240729T120500Z
+DTSTART:20240729T120500Z
+DTEND:20240729T121400Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 4\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 4
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T123900Z-sailing-MENS-WINDSURFING-RACE-5
+DTSTAMP:20240729T123900Z
+DTSTART:20240729T123900Z
+DTEND:20240729T124800Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 5\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
@@ -174,10 +174,10 @@ SUMMARY:⛵ Men's Windsurfing - Race 5
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T143500Z-sailing-MENS-WINDSURFING-RACE-6
-DTSTAMP:20240729T143500Z
-DTSTART:20240729T143500Z
-DTEND:20240729T144400Z
+UID:20240730T121700Z-sailing-MENS-WINDSURFING-RACE-6
+DTSTAMP:20240730T121700Z
+DTSTART:20240730T121700Z
+DTEND:20240730T123800Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 6\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
@@ -190,10 +190,10 @@ SUMMARY:⛵ Men's Windsurfing - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T150900Z-sailing-MENS-WINDSURFING-RACE-7
-DTSTAMP:20240729T150900Z
-DTSTART:20240729T150900Z
-DTEND:20240729T151800Z
+UID:20240730T124800Z-sailing-MENS-WINDSURFING-RACE-7
+DTSTAMP:20240730T124800Z
+DTSTART:20240730T124800Z
+DTEND:20240730T130900Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 7\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
@@ -206,10 +206,10 @@ SUMMARY:⛵ Men's Windsurfing - Race 7
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T154300Z-sailing-MENS-WINDSURFING-RACE-8
-DTSTAMP:20240729T154300Z
-DTSTART:20240729T154300Z
-DTEND:20240729T155200Z
+UID:20240730T131900Z-sailing-MENS-WINDSURFING-RACE-8
+DTSTAMP:20240730T131900Z
+DTSTART:20240730T131900Z
+DTEND:20240730T134000Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 8\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
@@ -222,10 +222,10 @@ SUMMARY:⛵ Men's Windsurfing - Race 8
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T121700Z-sailing-MENS-WINDSURFING-RACE-9
-DTSTAMP:20240730T121700Z
-DTSTART:20240730T121700Z
-DTEND:20240730T123800Z
+UID:20240730T135000Z-sailing-MENS-WINDSURFING-RACE-9
+DTSTAMP:20240730T135000Z
+DTSTART:20240730T135000Z
+DTEND:20240730T141100Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 9\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
@@ -238,10 +238,10 @@ SUMMARY:⛵ Men's Windsurfing - Race 9
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T124800Z-sailing-MENS-WINDSURFING-RACE-10
-DTSTAMP:20240730T124800Z
-DTSTART:20240730T124800Z
-DTEND:20240730T130900Z
+UID:20240730T142100Z-sailing-MENS-WINDSURFING-RACE-10
+DTSTAMP:20240730T142100Z
+DTSTART:20240730T142100Z
+DTEND:20240730T144200Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 10\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
@@ -251,38 +251,6 @@ DESCRIPTION:Sailing - Men's Windsurfing - Race 10\n🇭🇰 CHENG Ching
   Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
   KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
 SUMMARY:⛵ Men's Windsurfing - Race 10
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T131900Z-sailing-MENS-WINDSURFING-RACE-11
-DTSTAMP:20240730T131900Z
-DTSTART:20240730T131900Z
-DTEND:20240730T134000Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 11\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 11
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T135000Z-sailing-MENS-WINDSURFING-RACE-12
-DTSTAMP:20240730T135000Z
-DTSTART:20240730T135000Z
-DTEND:20240730T141100Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 12\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 12
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -331,11 +299,11 @@ SUMMARY:⛵ Men's Skiff - Race 9
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T120300Z-sailing-MENS-WINDSURFING-RACE-13
+UID:20240731T120300Z-sailing-MENS-WINDSURFING-RACE-11
 DTSTAMP:20240731T120300Z
 DTSTART:20240731T120300Z
 DTEND:20240731T122400Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 13\n🇭🇰 CHENG Ching
+DESCRIPTION:Sailing - Men's Windsurfing - Race 11\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
   Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
@@ -343,15 +311,15 @@ DESCRIPTION:Sailing - Men's Windsurfing - Race 13\n🇭🇰 CHENG Ching
   RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
   Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
   KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 13
+SUMMARY:⛵ Men's Windsurfing - Race 11
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T123400Z-sailing-MENS-WINDSURFING-RACE-14
+UID:20240731T123400Z-sailing-MENS-WINDSURFING-RACE-12
 DTSTAMP:20240731T123400Z
 DTSTART:20240731T123400Z
 DTEND:20240731T125500Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 14\n🇭🇰 CHENG Ching
+DESCRIPTION:Sailing - Men's Windsurfing - Race 12\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
   Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
@@ -359,7 +327,7 @@ DESCRIPTION:Sailing - Men's Windsurfing - Race 14\n🇭🇰 CHENG Ching
   RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
   Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
   KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 14
+SUMMARY:⛵ Men's Windsurfing - Race 12
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -378,11 +346,11 @@ SUMMARY:⛵ Men's Skiff - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T130500Z-sailing-MENS-WINDSURFING-RACE-15
+UID:20240731T130500Z-sailing-MENS-WINDSURFING-RACE-13
 DTSTAMP:20240731T130500Z
 DTSTART:20240731T130500Z
 DTEND:20240731T132600Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 15\n🇭🇰 CHENG Ching
+DESCRIPTION:Sailing - Men's Windsurfing - Race 13\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
   Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
@@ -390,15 +358,15 @@ DESCRIPTION:Sailing - Men's Windsurfing - Race 15\n🇭🇰 CHENG Ching
   RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
   Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
   KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 15
+SUMMARY:⛵ Men's Windsurfing - Race 13
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T133600Z-sailing-MENS-WINDSURFING-RACE-16
+UID:20240731T133600Z-sailing-MENS-WINDSURFING-RACE-14
 DTSTAMP:20240731T133600Z
 DTSTART:20240731T133600Z
 DTEND:20240731T135700Z
-DESCRIPTION:Sailing - Men's Windsurfing - Race 16\n🇭🇰 CHENG Ching
+DESCRIPTION:Sailing - Men's Windsurfing - Race 14\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
   Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
@@ -406,7 +374,7 @@ DESCRIPTION:Sailing - Men's Windsurfing - Race 16\n🇭🇰 CHENG Ching
   RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
   Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
   KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Men's Windsurfing - Race 16
+SUMMARY:⛵ Men's Windsurfing - Race 14
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -425,6 +393,22 @@ SUMMARY:⛵ Men's Skiff - Race 11
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T140700Z-sailing-MENS-WINDSURFING-RACE-15
+DTSTAMP:20240731T140700Z
+DTSTART:20240731T140700Z
+DTEND:20240731T142800Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 15\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 15
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T143700Z-sailing-MENS-SKIFF-RACE-12
 DTSTAMP:20240731T143700Z
 DTSTART:20240731T143700Z
@@ -440,10 +424,26 @@ SUMMARY:⛵ Men's Skiff - Race 12
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T135300Z-sailing-MENS-WINDSURFING-RACE-17
+UID:20240801T135300Z-sailing-MENS-WINDSURFING-RACE-16
 DTSTAMP:20240801T135300Z
 DTSTART:20240801T135300Z
 DTEND:20240801T141400Z
+DESCRIPTION:Sailing - Men's Windsurfing - Race 16\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Men's Windsurfing - Race 16
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T142400Z-sailing-MENS-WINDSURFING-RACE-17
+DTSTAMP:20240801T142400Z
+DTSTART:20240801T142400Z
+DTEND:20240801T144500Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 17\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
@@ -456,10 +456,10 @@ SUMMARY:⛵ Men's Windsurfing - Race 17
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T142400Z-sailing-MENS-WINDSURFING-RACE-18
-DTSTAMP:20240801T142400Z
-DTSTART:20240801T142400Z
-DTEND:20240801T144500Z
+UID:20240801T145500Z-sailing-MENS-WINDSURFING-RACE-18
+DTSTAMP:20240801T145500Z
+DTSTART:20240801T145500Z
+DTEND:20240801T151600Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 18\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
@@ -472,10 +472,10 @@ SUMMARY:⛵ Men's Windsurfing - Race 18
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T145500Z-sailing-MENS-WINDSURFING-RACE-19
-DTSTAMP:20240801T145500Z
-DTSTART:20240801T145500Z
-DTEND:20240801T151600Z
+UID:20240801T152600Z-sailing-MENS-WINDSURFING-RACE-19
+DTSTAMP:20240801T152600Z
+DTSTART:20240801T152600Z
+DTEND:20240801T154700Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 19\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
@@ -488,10 +488,10 @@ SUMMARY:⛵ Men's Windsurfing - Race 19
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T152600Z-sailing-MENS-WINDSURFING-RACE-20
-DTSTAMP:20240801T152600Z
-DTSTART:20240801T152600Z
-DTEND:20240801T154700Z
+UID:20240801T155700Z-sailing-MENS-WINDSURFING-RACE-20
+DTSTAMP:20240801T155700Z
+DTSTART:20240801T155700Z
+DTEND:20240801T161800Z
 DESCRIPTION:Sailing - Men's Windsurfing - Race 20\n🇭🇰 CHENG Ching
   Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
   BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
