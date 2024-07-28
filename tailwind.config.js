@@ -2,7 +2,11 @@
 module.exports = {
   content: ["./docs/**/*.html"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        gmono: ["'Anonymous'", "monospace"],
+      },
+    },
   },
   plugins: [],
 };
