@@ -226,7 +226,7 @@ const generateOutputPage = () => {
   html.push("<td class=\"text-center\">");
   html.push(`<a href="general/general.ics" class="${linkClass}">Full schedule</a>`);
   if (fs.existsSync(`${__dirname}/../docs/medals/general.ics`)) {
-    html.push(`<br/><a href="general/general.ics" class="${linkClass}">🏅 Medal events</a>`);
+    html.push(`<br/><a href="medals/general.ics" class="${linkClass}">🏅 Medal events</a>`);
   }
   html.push("</td>");
   html.push("<td>");
