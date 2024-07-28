@@ -991,13 +991,12 @@ SUMMARY:⛵ Men's Windsurfing - Race 4
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T123500Z-fencing-WOMENS-FOIL-INDIVIDUAL-TABLE-OF-16
+UID:20240728T123500Z-fencing-WOMENS-FOIL-INDIVIDUAL-TABLE-OF-16-CHN-USA
 DTSTAMP:20240728T123500Z
 DTSTART:20240728T123500Z
 DTEND:20240728T130500Z
-DESCRIPTION:Fencing - Women's Foil Individual Table of 16\n🇨🇳 HUANG
-  Qianqian
-SUMMARY:🤺 Women's Foil Individual Table of 16
+DESCRIPTION:Fencing - Women's Foil Individual Table of 16
+SUMMARY:🤺 HUANG Qianqian 🇨🇳 - 🇺🇸 Lee KIEFER
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -1241,6 +1240,18 @@ DESCRIPTION:Diving - Men's Synchronised 10m Platform Final\n🇦🇺 AUS\n🇨�
   CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇲🇽 MEX\n🇺🇦 UKR
 SUMMARY:🏊 Men's Synchronised 10m Platform Final
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-shooting-10M-AIR-RIFLE-MENS-FINAL
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T104500Z
+DESCRIPTION:Shooting - 10m Air Rifle Men's Final\n🇮🇳 Arjun BABUTA\n🇰🇷
+  CHOE Daehan\n🇮🇹 Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo Julian
+  GUTIERREZ\n🇭🇷 Miran MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG Lihao\n🇸🇪
+  Victor LINDGREN
+SUMMARY:🔫 10m Air Rifle Men's Final
+LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T100000Z-table-tennis-MENS-SINGLES-ROUND-OF-64-UKR-CHN
