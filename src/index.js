@@ -279,13 +279,6 @@ const generateOutputPage = () => {
     .replace("{{calendars}}", html.join("\r\n"))
     .replace("{{todays}}", todays.join("\r\n"));
   fs.writeFileSync("docs/index.html", output);
-
-  postcss([autoprefixer, tailwindcss])
-    .process(fs.readFileSync(`${__dirname}/index/template.css`, "utf-8"), { from: "index/template.css", to: "docs/style.css" })
-    .then((result) => {
-      fs.writeFileSync("docs/style.css", result.css);
-    });
-  ;
 };
 
 const generateTodayPage = () => {
@@ -302,7 +295,7 @@ const generateTodayPage = () => {
     const summary = event.SUMMARY.match(/ceremony/gi) ? event.SUMMARY : event.SUMMARY.split(" ").slice(1).join(" ");
 
     html.push(`<div class="event py-4" data-start="${event.DTSTART}" data-end="${event.DTEND}" data-noc="${event._NOCS.join(",")}">`);
-    html.push(" <div class=\"time w-1/4 align-top text-right inline-block text-5xl text-center pr-2 border-r font-bold border-slate-900/10\">__:__</div>");
+    html.push(" <div class=\"time w-1/4 align-top text-right inline-block text-5xl text-center pr-2 border-r font-bold font-mono border-slate-900/10\">__:__</div>");
     html.push(" <div class=\"w-3/5 align-top inline-block text-black pl-2\">");
     html.push(`   <div class="text-2xl">${sport.name.toUpperCase()} ${event._MEDAL ? "🏅" : ""}</div>`);
     html.push(`   <div class="">${summary}`);
@@ -321,6 +314,15 @@ const generateTodayPage = () => {
   const output = template
     .replace("{{events}}", html.join("\r\n"));
   fs.writeFileSync("docs/today.html", output);
+};
+
+const generateCSS = () => {
+  postcss([autoprefixer, tailwindcss])
+    .process(fs.readFileSync(`${__dirname}/index/template.css`, "utf-8"), { from: "index/template.css", to: "docs/style.css" })
+    .then((result) => {
+      fs.writeFileSync("docs/style.css", result.css);
+    });
+  ;
 };
 
 const main = async () => {
@@ -378,6 +380,7 @@ const main = async () => {
   generateCalendars();
   generateOutputPage();
   generateTodayPage();
+  generateCSS();
 };
 
 main();
