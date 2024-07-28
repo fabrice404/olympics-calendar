@@ -138,6 +138,7 @@ const extractSportCalendar = async (sportKey) => {
       _COMPETITORS: [],
       _UNITNAME: unit.eventUnitName,
       _MEDAL: !!unit.medalFlag,
+      _GENDER: unit.genderCode,
     };
 
     if (unit.competitors) {
@@ -297,7 +298,7 @@ const generateTodayPage = () => {
     html.push(`<div class="event py-4" data-start="${event.DTSTART}" data-end="${event.DTEND}" data-noc="${event._NOCS.join(",")}">`);
     html.push(" <div class=\"time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10\">__:__</div>");
     html.push(" <div class=\"w-3/5 align-top inline-block text-black pl-2\">");
-    html.push(`   <div class="text-2xl">${sport.name.toUpperCase()} ${event._MEDAL ? "🏅" : ""}</div>`);
+    html.push(`   <div class="text-2xl"${event._MEDAL ? "🏅" : ""} ${sport.name.toUpperCase()} ${event._GENDER === "M" ? "♂" : event._GENDER === "F" ? "♀" : ""}</div>`);
     html.push(`   <div class="">${summary}`);
     if (event._COMPETITORS) {
       event._COMPETITORS.forEach((competitor) => {
