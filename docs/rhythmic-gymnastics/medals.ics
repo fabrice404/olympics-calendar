@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rhythmic-gymnastics/medals//EN
+X-WR-CALNAME:🤸 Rhythmic Gymnastics 🏅 | Paris 2024
+NAME:🤸 Rhythmic Gymnastics 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240809T123000Z-rhythmic-gymnastics-INDIVIDUAL-ALL-AROUND-FINAL
+DTSTAMP:20240809T123000Z
+DTSTART:20240809T123000Z
+DTEND:20240809T150300Z
+DESCRIPTION:Rhythmic Gymnastics - Individual All-Around Final
+SUMMARY:🤸 Individual All-Around Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T120000Z-rhythmic-gymnastics-GROUP-ALL-AROUND-FINAL
+DTSTAMP:20240810T120000Z
+DTSTART:20240810T120000Z
+DTEND:20240810T132600Z
+DESCRIPTION:Rhythmic Gymnastics - Group All-Around Final
+SUMMARY:🤸 Group All-Around Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+END:VCALENDAR

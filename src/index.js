@@ -59,6 +59,13 @@ const generateCalendars = () => {
       let title = `${getSportIcon(sport.key)} ${sport.name} | Paris 2024`;
       generateICS(title, key, events);
 
+      events = EVENTS
+        .filter((event) => event._SPORT === sport.key && event._MEDAL)
+        .sort((a, b) => a.UID > b.UID ? 1 : -1);
+      key = `${sport.key}/medals`;
+      title = `${getSportIcon(sport.key)} ${sport.name} 🏅 | Paris 2024`;
+      generateICS(title, key, events);
+
       sport.NOCS.forEach((noc) => {
         events = EVENTS
           .filter((event) => event._SPORT === sport.key && event._NOCS.includes(noc))
@@ -210,36 +217,50 @@ const generateCeremoniesEvents = () => {
 const generateOutputPage = () => {
   const html = [];
 
-  const linkClass = "inline-block bg-slate-400 hover:bg-blue-400 text-white px-2 py-1 my-px rounded-lg text-base";
+  const linkClass = "inline-block bg-slate-400 hover:bg-blue-400 text-white px-2 py-1 my-px whitespace-nowrap rounded-lg text-base";
 
   html.push("<table>");
 
   html.push("<tr class=\"even:bg-slate-200\">");
   html.push("<th class=\"font-bold text-left whitespace-nowrap\">All sports</td>");
-  html.push("<td>");
+  html.push("<td class=\"text-center\">");
   html.push(`<a href="general/general.ics" class="${linkClass}">Full schedule</a>`);
+  if (fs.existsSync(`${__dirname}/../docs/medals/general.ics`)) {
+    html.push(`<br/><a href="general/general.ics" class="${linkClass}">🏅 Medal events</a>`);
+  }
+  html.push("</td>");
+  html.push("<td>");
   NOCS.sort().forEach((noc) => {
     html.push(`<a href="general/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
   });
+  html.push("</td>");
   html.push("</tr>");
 
   html.push("<tr class=\"even:bg-slate-200\">");
   html.push("<th class=\"font-bold text-left whitespace-nowrap\">🏅 Medal events</td>");
-  html.push("<td>");
+  html.push("<td class=\"text-center\">");
   html.push(`<a href="medals/general.ics" class="${linkClass}">Full schedule</a>`);
+  html.push("</td>");
+  html.push("<td>");
   fs.readdirSync(`${__dirname}/../docs/medals`)
     .filter((ics) => ics !== "general.ics")
     .forEach((ics) => {
       const noc = ics.replace(".ics", "");
       html.push(`<a href="medals/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
     });
+  html.push("</td>");
   html.push("</tr>");
 
   SPORTS.map((sport) => {
     html.push("<tr class=\"even:bg-slate-200\">");
     html.push(`<th class="font-bold text-left whitespace-nowrap">${getSportIcon(sport.key)} ${sport.name}</td>`);
-    html.push("<td>");
+    html.push("<td class=\"text-center\">");
     html.push(`<a href="${sport.key}/general.ics" class="${linkClass}">Full schedule</a>`);
+    if (fs.existsSync(`${__dirname}/../docs/${sport.key}/medals.ics`)) {
+      html.push(`<br/><a href="general/general.ics" class="${linkClass}">🏅 Medal events</a>`);
+    }
+    html.push("</td>");
+    html.push("<td>");
     sport.NOCS.sort().forEach((noc) => {
       html.push(`<a href="${sport.key}/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
     });
