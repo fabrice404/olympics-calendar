@@ -9,9 +9,11 @@ const { isValidNOC, getNOCName, getNOCFlag } = require("./nocs");
 const { generateICS } = require("./ics");
 
 const downloadSchedule = async (sportKey) => {
+  console.log(`Checking schedule for ${sportKey}`);
   const cacheFile = `${__dirname}/../cache/${sportKey}.html`;
 
   if (!fs.existsSync(cacheFile)) {
+    console.log(`Downloading schedule for ${sportKey}`);
     const response = await fetch(`https://olympics.com/en/paris-2024/schedule/${sportKey}`);
     const content = await response.text();
     fs.writeFileSync(cacheFile, content);
@@ -69,12 +71,21 @@ const generateCalendars = () => {
 
   NOCS.sort()
     .forEach((noc) => {
-      const events = EVENTS
+      let events = EVENTS
         .filter((event) => event._NOCS.includes(noc))
         .sort((a, b) => a.UID > b.UID ? 1 : -1);
-      const key = `general/${noc}`;
-      const title = `${getNOCFlag(noc)} ${getNOCName(noc)} | Paris 2024`;
+      let key = `general/${noc}`;
+      let title = `${getNOCFlag(noc)} ${getNOCName(noc)} | Paris 2024`;
       generateICS(title, key, events);
+
+      events = EVENTS
+        .filter((event) => event._NOCS.includes(noc) && event._MEDAL)
+        .sort((a, b) => a.UID > b.UID ? 1 : -1);
+      if (events.length) {
+        key = `medals/${noc}`;
+        title = `${getNOCFlag(noc)} ${getNOCName(noc)} 🏅 | Paris 2024`;
+        generateICS(title, key, events);
+      }
     });
 
   const events = EVENTS
@@ -82,6 +93,15 @@ const generateCalendars = () => {
   const key = "general/general";
   const title = "Paris 2024";
   generateICS(title, key, events);
+
+  const medalEvents = EVENTS
+    .filter((event) => event._MEDAL)
+    .sort((a, b) => a.UID > b.UID ? 1 : -1);
+  const medalKey = "medals/general";
+  const medalTitle = "🏅 Paris 2024";
+  if (medalEvents.length) {
+    generateICS(medalTitle, medalKey, medalEvents);
+  }
 };
 
 const slugify = (text) => text.toLowerCase().replace(/\s/g, "-")
@@ -110,6 +130,7 @@ const extractSportCalendar = async (sportKey) => {
       _NOCS: [],
       _COMPETITORS: [],
       _UNITNAME: unit.eventUnitName,
+      _MEDAL: !!unit.medalFlag,
     };
 
     if (unit.competitors) {
@@ -164,6 +185,7 @@ const generateCeremoniesEvents = () => {
     SUMMARY: "Paris 2024 - Opening ceremony",
     Location: "Paris",
     _NOCS: NOCS,
+    _MEDAL: false,
   };
 
   startDateUtc = new Date("2024-08-11T19:00:00Z").toISOString().replace(".000", "");
@@ -178,6 +200,7 @@ const generateCeremoniesEvents = () => {
     SUMMARY: "Paris 2024 - Closing ceremony",
     Location: "Stade de France, Saint-Denis",
     _NOCS: NOCS,
+    _MEDAL: false,
   };
 
   EVENTS.push(openingCeremony);
@@ -190,6 +213,28 @@ const generateOutputPage = () => {
   const linkClass = "inline-block bg-slate-400 hover:bg-blue-400 text-white px-2 py-1 my-px rounded-lg text-base";
 
   html.push("<table>");
+
+  html.push("<tr class=\"even:bg-slate-200\">");
+  html.push("<th class=\"font-bold text-left whitespace-nowrap\">All sports</td>");
+  html.push("<td>");
+  html.push(`<a href="general/general.ics" class="${linkClass}">Full schedule</a>`);
+  NOCS.sort().forEach((noc) => {
+    html.push(`<a href="general/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
+  });
+  html.push("</tr>");
+
+  html.push("<tr class=\"even:bg-slate-200\">");
+  html.push("<th class=\"font-bold text-left whitespace-nowrap\">🏅 Medal events</td>");
+  html.push("<td>");
+  html.push(`<a href="medals/general.ics" class="${linkClass}">Full schedule</a>`);
+  fs.readdirSync(`${__dirname}/../docs/medals`)
+    .filter((ics) => ics !== "general.ics")
+    .forEach((ics) => {
+      const noc = ics.replace(".ics", "");
+      html.push(`<a href="medals/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
+    });
+  html.push("</tr>");
+
   SPORTS.map((sport) => {
     html.push("<tr class=\"even:bg-slate-200\">");
     html.push(`<th class="font-bold text-left whitespace-nowrap">${getSportIcon(sport.key)} ${sport.name}</td>`);
@@ -201,15 +246,6 @@ const generateOutputPage = () => {
     html.push("</td>");
     html.push("</tr>");
   });
-
-  html.push("<tr class=\"even:bg-slate-200\">");
-  html.push("<th class=\"font-bold text-left whitespace-nowrap\">All sports</td>");
-  html.push("<td>");
-  html.push(`<a href="general/general.ics" class="${linkClass}">Full schedule</a>`);
-  NOCS.sort().forEach((noc) => {
-    html.push(`<a href="general/${noc}.ics" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
-  });
-  html.push("</tr>");
   html.push("</table>");
 
   const todays = [];
@@ -254,7 +290,7 @@ const generateTodayPage = () => {
         html.push(`<div class="competitor ${competitor.noc}">${competitor.name}</div>`);
       });
     }
-    html.push(`   </div>`);
+    html.push("   </div>");
     html.push(" </div>");
     html.push("</div>");
 

@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//medals/KOR//EN
+X-WR-CALNAME:🇰🇷 Korea 🏅 | Paris 2024
+NAME:🇰🇷 Korea 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T083000Z-shooting-10M-AIR-RIFLE-MIXED-TEAM-GOLD-MEDAL-MATCH-CHN
+DTSTAMP:20240727T083000Z
+DTSTART:20240727T083000Z
+DTEND:20240727T085000Z
+DESCRIPTION:Shooting - 10m Air Rifle Mixed Team Gold Medal Match
+SUMMARY:🔫 China 1 🇨🇳 - 🇰🇷 Korea 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T184200Z-swimming-MENS-400M-FREESTYLE-FINAL
+DTSTAMP:20240727T184200Z
+DTSTART:20240727T184200Z
+DTEND:20240727T185200Z
+DESCRIPTION:Swimming - Men's 400m Freestyle Final\n🇺🇸 Aaron
+  SHACKELL\n🇦🇺 Elijah WINNINGTON\n🇨🇳 FEI Liwei\n🇧🇷 Guilherme
+  COSTA\n🇰🇷 KIM Woomin\n🇩🇪 Lukas MAERTENS\n🇩🇪 Oliver KLEMET\n🇦🇺
+  Samuel SHORT
+SUMMARY:🏊 Men's 400m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T195500Z-fencing-MENS-SABRE-INDIVIDUAL-GOLD-MEDAL-BOUT-KOR-TUN
+DTSTAMP:20240727T195500Z
+DTSTART:20240727T195500Z
+DTEND:20240727T202000Z
+DESCRIPTION:Fencing - Men's Sabre Individual Gold Medal Bout
+SUMMARY:🤺 OH Sanguk 🇰🇷 - 🇹🇳 Fares FERJANI
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073000Z-shooting-10M-AIR-PISTOL-MENS-FINAL
+DTSTAMP:20240728T073000Z
+DTSTART:20240728T073000Z
+DTEND:20240728T081500Z
+DESCRIPTION:Shooting - 10m Air Pistol Men's Final\n🇩🇪 Christian
+  REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇮🇹 Federico Nilo
+  MALDINI\n🇰🇷 LEE Wonho\n🇮🇹 Paolo MONNA\n🇩🇪 Robin WALTER\n🇨🇳 XIE Yu
+SUMMARY:🔫 10m Air Pistol Men's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-shooting-10M-AIR-PISTOL-WOMENS-FINAL
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T104500Z
+DESCRIPTION:Shooting - 10m Air Pistol Women's Final\n🇨🇳 JIANG
+  Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye
+  Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
+SUMMARY:🔫 10m Air Pistol Women's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+END:VCALENDAR

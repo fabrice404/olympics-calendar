@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
-    "start": "find ./cache/*.html -mmin +60 -exec rm -f {} \\; | node src/index.js",
+    "start": "find ./cache/*.html -mmin +10 -exec rm -f {} \\; | node src/index.js",
     "dev": "nodemon src/index.js",
     "lint": "eslint . --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
