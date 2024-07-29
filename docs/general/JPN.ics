@@ -1259,6 +1259,15 @@ SUMMARY:🎾 AOYAMA/SHIBAHARA 🇯🇵 - 🇷🇴 BOGDAN/CRISTIAN
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T100600Z-judo-WOMEN-57-KG-QUARTERFINAL-FRA-JPN
+DTSTAMP:20240729T100600Z
+DTSTART:20240729T100600Z
+DTEND:20240729T101200Z
+DESCRIPTION:Judo - Women -57 kg Quarterfinal
+SUMMARY:🥋 Sarah Leonie CYSIQUE 🇫🇷 - 🇯🇵 FUNAKUBO Haruka
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T101500Z-sailing-WOMENS-SKIFF-RACE-4
 DTSTAMP:20240729T101500Z
 DTSTART:20240729T101500Z
@@ -1407,6 +1416,15 @@ SUMMARY:⛵ Men's Windsurfing - Race 4
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T123000Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-16-KOR-JPN
+DTSTAMP:20240729T123000Z
+DTSTART:20240729T123000Z
+DTEND:20240729T125500Z
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 16
+SUMMARY:🤺 CHOI Sebin 🇰🇷 - 🇯🇵 EMURA Misaki
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T123800Z-archery-MENS-TEAM-QUARTERFINAL-KOR-JPN
 DTSTAMP:20240729T123800Z
 DTSTART:20240729T123800Z
@@ -1490,6 +1508,18 @@ DTEND:20240729T190000Z
 DESCRIPTION:Badminton - Mixed Doubles Group Play Stage - Group C
 SUMMARY:🏸 WATANABE/HIGASHINO 🇯🇵 - 🇭🇰 TANG/TSE
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T183000Z-swimming-WOMENS-400M-INDIVIDUAL-MEDLEY-FINAL
+DTSTAMP:20240729T183000Z
+DTSTART:20240729T183000Z
+DTEND:20240729T184000Z
+DESCRIPTION:Swimming - Women's 400m Individual Medley Final\n🇦🇺 Ella
+  RAMSAY\n🇮🇪 Ellen WALSHE\n🇺🇸 Emma WEYANT\n🇬🇧 Freya Constance
+  COLBERT\n🇺🇸 Katie GRIMES\n🇬🇧 Katie SHANAHAN\n🇯🇵 NARITA Mio\n🇨🇦
+  Summer McINTOSH
+SUMMARY:🏊 Women's 400m Individual Medley Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T184000Z-swimming-MENS-200M-FREESTYLE-FINAL
@@ -1860,6 +1890,32 @@ DTEND:20240730T205000Z
 DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool E
 SUMMARY:🏐 STAM/SCHOON 🇳🇱 - 🇯🇵 AKIKO/ISHII
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T060000Z-triathlon-WOMENS-INDIVIDUAL
+DTSTAMP:20240731T060000Z
+DTSTART:20240731T060000Z
+DTEND:20240731T080500Z
+DESCRIPTION:Triathlon - Women's Individual\n🇳🇿 Ainsley THORPE\n🇩🇰
+  Alberte KJAER PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧
+  Beth POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
+  SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
+  HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
+  LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
+  Georgia TAYLOR-BROWN\n🇱🇺 Jeanne LEHAIR\n🇧🇪 Jolien VERMEYLEN\n🇦🇹
+  Julia HAUSER\n🇨🇭 Julie DERRON\n🇬🇧 Kate WAUGH\n🇺🇸 Kirsten
+  KASPER\n🇨🇳 LIN Xinyu\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇦🇹
+  Lisa PERTERER\n🇩🇪 Lisa TERTSCH\n🇲🇽 Lizeth RUEDA SANTOS\n🇳🇴 Lotte
+  MILLER\n🇬🇺 Manami IIJIMA\n🇨🇴 Maria Carolina VELASQUEZ SOTO\n🇵🇹
+  Maria TOME\n🇳🇱 Maya KINGMA\n🇵🇹 Melanie SANTOS\n🇪🇸 Miriam CASILLAS
+  GARCIA\n🇦🇺 Natalie van COEVORDEN\n🇳🇿 Nicole van der KAAY\n🇩🇪 Nina
+  EIM\n🇨🇿 Petra KURIKOVA\n🇳🇱 Rachel KLAMER\n🇵🇱 Roksana SLUPEK\n🇦🇷
+  Romina BIAGIOLI\n🇲🇽 Rosa Maria TAPIA VIDAL\n🇳🇴 Solveig LOVSETH\n🇦🇺
+  Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
+  SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
+  MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
+SUMMARY:🏊 Women's Individual
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T063000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-C-JPN-
