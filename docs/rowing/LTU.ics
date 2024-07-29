@@ -1,18 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//rowing/ESP//EN
-X-WR-CALNAME:🇪🇸 Spain Rowing | Paris 2024
-NAME:🇪🇸 Spain Rowing | Paris 2024
-BEGIN:VEVENT
-UID:20240730T091000Z-rowing-MENS-DOUBLE-SCULLS-SEMIFINAL-AB-1
-DTSTAMP:20240730T091000Z
-DTSTART:20240730T091000Z
-DTEND:20240730T091700Z
-DESCRIPTION:Rowing - Men's Double Sculls Semifinal A/B 1\n🇨🇳 CHN\n🇭🇷
-  CRO\n🇳🇱 NED\n🇷🇴 ROU\n🇷🇸 SRB\n🇪🇸 ESP
-SUMMARY:🚣 Men's Double Sculls Semifinal A/B 1
-LOCATION:Nautical St - Flat water
-END:VEVENT
+PRODID:-//fabrice404//olympics-calendar//rowing/LTU//EN
+X-WR-CALNAME:🇱🇹 Lithuania Rowing | Paris 2024
+NAME:🇱🇹 Lithuania Rowing | Paris 2024
 BEGIN:VEVENT
 UID:20240731T083400Z-rowing-MENS-PAIR-SEMIFINAL-AB-1
 DTSTAMP:20240731T083400Z

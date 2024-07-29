@@ -23,4 +23,24 @@ DESCRIPTION:Rowing - Men's Double Sculls Semifinal A/B 2\n🇫🇷 FRA\n🇩🇪
 SUMMARY:🚣 Men's Double Sculls Semifinal A/B 2
 LOCATION:Nautical St - Flat water
 END:VEVENT
+BEGIN:VEVENT
+UID:20240731T083400Z-rowing-MENS-PAIR-SEMIFINAL-AB-1
+DTSTAMP:20240731T083400Z
+DTSTART:20240731T083400Z
+DTEND:20240731T084100Z
+DESCRIPTION:Rowing - Men's Pair Semifinal A/B 1\n🇭🇷 CRO\n🇱🇹 LTU\n🇿🇦
+  RSA\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇸 USA
+SUMMARY:🚣 Men's Pair Semifinal A/B 1
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090400Z-rowing-WOMENS-PAIR-SEMIFINAL-AB-2
+DTSTAMP:20240731T090400Z
+DTSTART:20240731T090400Z
+DTEND:20240731T091100Z
+DESCRIPTION:Rowing - Women's Pair Semifinal A/B 2\n🇦🇺 AUS\n🇨🇱 CHI\n🇮🇪
+  IRL\n🇱🇹 LTU\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🚣 Women's Pair Semifinal A/B 2
+LOCATION:Nautical St - Flat water
+END:VEVENT
 END:VCALENDAR
