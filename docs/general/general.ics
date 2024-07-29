@@ -7740,9 +7740,9 @@ UID:20240729T075400Z-rowing-WOMENS-SINGLE-SCULLS-SEMIFINAL-EF-1
 DTSTAMP:20240729T075400Z
 DTSTART:20240729T075400Z
 DTEND:20240729T080100Z
-DESCRIPTION:Rowing - Women's Single Sculls Semifinal E/F 1\n🇹🇬 Akoko
-  KOMLANVI\n🇸🇬 Saiyidah Aisy. BINTE MOHAMED RAFAEE\n🇰🇼 Soaad
-  ALFAQAAN\n🇨🇺 Yariulvis COBAS GARCIA
+DESCRIPTION:Rowing - Women's Single Sculls Semifinal E/F 1\n🇸🇬 Aisyah
+  RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇰🇼 Soaad ALFAQAAN\n🇨🇺 Yariulvis COBAS
+  GARCIA
 SUMMARY:🚣 Women's Single Sculls Semifinal E/F 1
 LOCATION:Nautical St - Flat water
 END:VEVENT
@@ -9847,12 +9847,12 @@ SUMMARY:🔫 Trap Women's Pre-Event Training
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T123800Z-archery-MENS-TEAM-QUARTERFINAL
+UID:20240729T123800Z-archery-MENS-TEAM-QUARTERFINAL-KOR-JPN
 DTSTAMP:20240729T123800Z
 DTSTART:20240729T123800Z
 DTEND:20240729T130100Z
-DESCRIPTION:Archery - Men's Team Quarterfinal\n🇰🇷 KOR
-SUMMARY:🏹 Men's Team Quarterfinal
+DESCRIPTION:Archery - Men's Team Quarterfinal
+SUMMARY:🏹 KOR 🇰🇷 - 🇯🇵 JPN
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
@@ -19408,7 +19408,8 @@ UID:20240802T073000Z-rowing-MENS-SINGLE-SCULLS-FINAL-F
 DTSTAMP:20240802T073000Z
 DTSTART:20240802T073000Z
 DTEND:20240802T073700Z
-DESCRIPTION:Rowing - Men's Single Sculls Final F
+DESCRIPTION:Rowing - Men's Single Sculls Final F\n🇸🇩 Abdalla AHMED\n🇦🇴
+  Andre MATIAS\n🇱🇾 Mohamed BUKRAH
 SUMMARY:🚣 Men's Single Sculls Final F
 LOCATION:Nautical St - Flat water
 END:VEVENT
@@ -19463,7 +19464,9 @@ UID:20240802T075400Z-rowing-MENS-SINGLE-SCULLS-FINAL-E
 DTSTAMP:20240802T075400Z
 DTSTART:20240802T075400Z
 DTEND:20240802T080100Z
-DESCRIPTION:Rowing - Men's Single Sculls Final E
+DESCRIPTION:Rowing - Men's Single Sculls Final E\n🇧🇲 Dara ALIZADEH\n🇮🇩
+  MEMO\n🇹🇳 Mohamed TAIEB\n🇹🇭 Premanut WATTANANUSITH\n🇿🇼 Stephen
+  COX\n🇰🇿 Vladislav YAKOVLEV
 SUMMARY:🚣 Men's Single Sculls Final E
 LOCATION:Nautical St - Flat water
 END:VEVENT
