@@ -1535,24 +1535,24 @@ DTSTART:20240729T090000Z
 DTEND:20240729T114000Z
 DESCRIPTION:Equestrian - Eventing Individual Jumping Qualifier\n🇿🇦
   Alexander PETERNELL\n🇮🇪 Aoife CLARK\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs
-  KAIZINGER\n🇺🇸 Boyd MARTIN\n🇪🇸 Carlos DIAZ FERNANDEZ\n🇺🇸 Caroline
-  PAMUKCU\n🇩🇪 Christoph WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
-  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹
-  Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni
-  UGOLOTTI\n🇨🇳 HUA TIAN Alex\n🇦🇹 Harald AMBROS\n🇳🇱 Janneke
-  BOONZAAIJER\n🇨🇦 Jessica PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia
-  KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇨🇦 Karl
-  SLEZAK\n🇧🇪 Lara de LIEDEKERKE - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise
-  ROMEIKE\n🇵🇱 Malgorzata KORYCKA\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody
-  JOHNER\n🇩🇪 Michael JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miroslav
-  TRUNDA\n🇫🇷 Nicolas TOUZAINT\n🇪🇨 Nicolas WETTSTEIN\n🇲🇦 Noor
-  SLAOUI\n🇯🇵 OIWA Yoshiaki\n🇩🇰 Peter T. FLARUP\n🇮🇹 Pietro
-  SANDEI\n🇳🇱 Raf KOOREMANS\n🇧🇷 Rafael MAMPRIN LOSANO\n🇵🇱 Robert
-  POWALA\n🇨🇭 Robin GODEL\n🇬🇧 Rosalind CANTER\n🇧🇷 Ruy FONSECA\n🇫🇮
-  Sanna SILTAKORPI\n🇳🇱 Sanne de JONG\n🇦🇺 Shane ROSE\n🇦🇺 Shenae
-  LOWINGS\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane LANDOIS\n🇮🇪 Susannah
-  BERRY\n🇯🇵 TANAKA Toshiyuki\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇧🇪
-  Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN\n🇵🇱 Wiktoria KNAP
+  KAIZINGER\n🇺🇸 Boyd MARTIN\n🇺🇸 Caroline PAMUKCU\n🇩🇪 Christoph
+  WAHLER\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
+  HALLIDAY\n🇪🇸 Esteban BENITEZ VALLE\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix
+  VOGG\n🇸🇪 Frida ANDERSEN\n🇮🇹 Giovanni UGOLOTTI\n🇨🇳 HUA TIAN
+  Alex\n🇦🇹 Harald AMBROS\n🇳🇱 Janneke BOONZAAIJER\n🇨🇦 Jessica
+  PHOENIX\n🇳🇿 Jonelle PRICE\n🇩🇪 Julia KRAJEWSKI\n🇫🇷 Karim Florent
+  LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇨🇦 Karl SLEZAK\n🇧🇪 Lara de LIEDEKERKE
+  - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇵🇱 Malgorzata
+  KORYCKA\n🇧🇷 Marcio CARVALHO JORGE\n🇨🇭 Melody JOHNER\n🇩🇪 Michael
+  JUNG\n🇨🇦 Michael WINTER\n🇨🇿 Miroslav TRUNDA\n🇫🇷 Nicolas
+  TOUZAINT\n🇪🇨 Nicolas WETTSTEIN\n🇲🇦 Noor SLAOUI\n🇯🇵 OIWA
+  Yoshiaki\n🇩🇰 Peter T. FLARUP\n🇮🇹 Pietro SANDEI\n🇳🇱 Raf
+  KOOREMANS\n🇧🇷 Rafael MAMPRIN LOSANO\n🇵🇱 Robert POWALA\n🇨🇭 Robin
+  GODEL\n🇬🇧 Rosalind CANTER\n🇧🇷 Ruy FONSECA\n🇳🇱 Sanne de JONG\n🇦🇺
+  Shane ROSE\n🇦🇺 Shenae LOWINGS\n🇸🇪 Sofia SJOBORG\n🇫🇷 Stephane
+  LANDOIS\n🇮🇪 Susannah BERRY\n🇯🇵 TANAKA Toshiyuki\n🇯🇵 TOMOTO
+  Kazuma\n🇳🇿 Tim PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera
+  MANNINEN\n🇵🇱 Wiktoria KNAP
 SUMMARY:🏇 Eventing Individual Jumping Qualifier
 LOCATION:Château de Versailles
 END:VEVENT
@@ -1583,6 +1583,16 @@ DTSTART:20240729T092400Z
 DTEND:20240729T093000Z
 DESCRIPTION:Judo - Women -57 kg Elimination Round of 16
 SUMMARY:🥋 Sarah Leonie CYSIQUE 🇫🇷 - 🇬🇳 Mariana ESTEVES
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T095400Z-judo-MEN-73-KG-ELIMINATION-ROUND-OF-16
+DTSTAMP:20240729T095400Z
+DTSTART:20240729T095400Z
+DTEND:20240729T100000Z
+DESCRIPTION:Judo - Men -73 kg Elimination Round of 16\n🇫🇷 Joan-Benjamin
+  GABA
+SUMMARY:🥋 Men -73 kg Elimination Round of 16
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1910,23 +1920,21 @@ SUMMARY:🤽 FRA 🇫🇷 - 🇮🇹 ITA
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T120500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-16
+UID:20240729T120500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-16-FRA-TUR
 DTSTAMP:20240729T120500Z
 DTSTART:20240729T120500Z
 DTEND:20240729T123000Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 16\n🇫🇷 Sara
-  BALZER
-SUMMARY:🤺 Women's Sabre Individual Table of 16
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 16
+SUMMARY:🤺 Sara BALZER 🇫🇷 - 🇹🇷 Nisanur ERBIL
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T120500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-16
+UID:20240729T120500Z-fencing-WOMENS-SABRE-INDIVIDUAL-TABLE-OF-16-KOR-FRA
 DTSTAMP:20240729T120500Z
 DTSTART:20240729T120500Z
 DTEND:20240729T123000Z
-DESCRIPTION:Fencing - Women's Sabre Individual Table of 16\n🇫🇷 Manon
-  APITHY-BRUNET
-SUMMARY:🤺 Women's Sabre Individual Table of 16
+DESCRIPTION:Fencing - Women's Sabre Individual Table of 16
+SUMMARY:🤺 YOON Jisu 🇰🇷 - 🇫🇷 Manon APITHY-BRUNET
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
