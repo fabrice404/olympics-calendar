@@ -1586,13 +1586,12 @@ SUMMARY:🥋 Sarah Leonie CYSIQUE 🇫🇷 - 🇬🇳 Mariana ESTEVES
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T095400Z-judo-MEN-73-KG-ELIMINATION-ROUND-OF-16
+UID:20240729T095400Z-judo-MEN-73-KG-ELIMINATION-ROUND-OF-16-FRA-TAN
 DTSTAMP:20240729T095400Z
 DTSTART:20240729T095400Z
 DTEND:20240729T100000Z
-DESCRIPTION:Judo - Men -73 kg Elimination Round of 16\n🇫🇷 Joan-Benjamin
-  GABA
-SUMMARY:🥋 Men -73 kg Elimination Round of 16
+DESCRIPTION:Judo - Men -73 kg Elimination Round of 16
+SUMMARY:🥋 Joan-Benjamin GABA 🇫🇷 - 🇹🇿 Andrew Thomas MLUGU
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2833,6 +2832,16 @@ DESCRIPTION:Diving - Women's Synchronised 10m Platform Final\n🇨🇦
   UKR\n🇺🇸 USA
 SUMMARY:🏊 Women's Synchronised 10m Platform Final
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T091400Z-rowing-LIGHTWEIGHT-MENS-DOUBLE-SCULLS-SEMIFINAL-AB-1
+DTSTAMP:20240731T091400Z
+DTSTART:20240731T091400Z
+DTEND:20240731T092100Z
+DESCRIPTION:Rowing - Lightweight Men's Double Sculls Semifinal A/B 1\n🇦🇷
+  ARG\n🇧🇪 BEL\n🇨🇿 CZE\n🇫🇷 FRA\n🇮🇪 IRL\n🇨🇭 SUI
+SUMMARY:🚣 Lightweight Men's Double Sculls Semifinal A/B 1
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T093000Z-judo-WOMEN-70-KG-ELIMINATION-ROUND-OF-16
