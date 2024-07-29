@@ -1556,6 +1556,23 @@ SUMMARY:⛵ Men's Windsurfing - Race 5
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T130000Z-equestrian-EVENTING-INDIVIDUAL-JUMPING-FINAL
+DTSTAMP:20240729T130000Z
+DTSTART:20240729T130000Z
+DTEND:20240729T140000Z
+DESCRIPTION:Equestrian - Eventing Individual Jumping Final\n🇮🇪 Austin
+  O'CONNOR\n🇺🇸 Boyd MARTIN\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
+  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix
+  VOGG\n🇸🇪 Frida ANDERSEN\n🇨🇳 HUA TIAN Alex\n🇳🇱 Janneke
+  BOONZAAIJER\n🇩🇪 Julia KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪
+  Karin DONCKERS\n🇧🇪 Lara de LIEDEKERKE - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪
+  Louise ROMEIKE\n🇩🇪 Michael JUNG\n🇫🇷 Nicolas TOUZAINT\n🇯🇵 OIWA
+  Yoshiaki\n🇬🇧 Rosalind CANTER\n🇦🇺 Shane ROSE\n🇫🇷 Stephane
+  LANDOIS\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇬🇧 Tom McEWEN
+SUMMARY:🏇 Eventing Individual Jumping Final
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T132500Z-fencing-MENS-FOIL-INDIVIDUAL-TABLE-OF-16-HKG-CHN
 DTSTAMP:20240729T132500Z
 DTSTART:20240729T132500Z
@@ -1572,6 +1589,15 @@ DTEND:20240729T153000Z
 DESCRIPTION:Badminton - Men's Doubles Group Play Stage - Group D
 SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇨🇳 LIU/OU
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T134700Z-archery-MENS-TEAM-SEMIFINAL
+DTSTAMP:20240729T134700Z
+DTSTART:20240729T134700Z
+DTEND:20240729T141000Z
+DESCRIPTION:Archery - Men's Team Semifinal\n🇨🇳 CHN
+SUMMARY:🏹 Men's Team Semifinal
+LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T140000Z-rugby-sevens-WOMENS-POOL-A-CAN-CHN
