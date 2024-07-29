@@ -931,12 +931,12 @@ SUMMARY:🥊 Wyatt SANFORD 🇨🇦 - 🇧🇬 Radoslav Simeonov ROSENOV
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T100000Z-judo-WOMEN-57-KG-QUARTERFINAL
+UID:20240729T100000Z-judo-WOMEN-57-KG-QUARTERFINAL-CAN-SRB
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
 DTEND:20240729T100600Z
-DESCRIPTION:Judo - Women -57 kg Quarterfinal\n🇨🇦 Christa DEGUCHI
-SUMMARY:🥋 Women -57 kg Quarterfinal
+DESCRIPTION:Judo - Women -57 kg Quarterfinal
+SUMMARY:🥋 Christa DEGUCHI 🇨🇦 - 🇷🇸 Marica PERISIC
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1526,6 +1526,16 @@ DESCRIPTION:Diving - Women's Synchronised 10m Platform Final\n🇨🇦
   UKR\n🇺🇸 USA
 SUMMARY:🏊 Women's Synchronised 10m Platform Final
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T093400Z-rowing-LIGHTWEIGHT-WOMENS-DOUBLE-SCULLS-SEMIFINAL-AB-1
+DTSTAMP:20240731T093400Z
+DTSTART:20240731T093400Z
+DTEND:20240731T094100Z
+DESCRIPTION:Rowing - Lightweight Women's Double Sculls Semifinal A/B
+  1\n🇦🇷 ARG\n🇨🇦 CAN\n🇬🇧 GBR\n🇳🇿 NZL\n🇵🇱 POL\n🇺🇸 USA
+SUMMARY:🚣 Lightweight Women's Double Sculls Semifinal A/B 1
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T101500Z-sailing-WOMENS-SKIFF-RACE-10
