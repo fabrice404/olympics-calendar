@@ -1,19 +1,25 @@
-const cheerio = require("cheerio");
-const fs = require("fs");
-const autoprefixer = require("autoprefixer");
-const postcss = require("postcss");
-const tailwindcss = require("tailwindcss");
 
-const { getSportIcon } = require("./sports");
-const { isValidNOC, getNOCName, getNOCFlag } = require("./nocs");
-const { generateICS } = require("./ics");
+import cheerio from "cheerio";
+import Debug from "debug";
+import fs from "fs";
+import autoprefixer from "autoprefixer";
+import postcss from "postcss";
+import tailwindcss from "tailwindcss";
 
-const downloadSchedule = async (sportKey) => {
-  console.log(`Checking schedule for ${sportKey}`);
+import { Event, Sport } from "./types";
+
+import { getSportIcon } from "./sports";
+import { isValidNOC, getNOCName, getNOCFlag } from "./nocs";
+import { generateICS } from "./ics";
+
+const debug = Debug("paris2024:index");
+
+const downloadSchedule = async (sportKey: string) => {
+  debug(`Checking schedule for ${sportKey}`);
   const cacheFile = `${__dirname}/../cache/${sportKey}.html`;
 
   if (!fs.existsSync(cacheFile)) {
-    console.log(`Downloading schedule for ${sportKey}`);
+    debug(`Downloading schedule for ${sportKey} https://olympics.com/en/paris-2024/schedule/${sportKey}`);
     const response = await fetch(`https://olympics.com/en/paris-2024/schedule/${sportKey}`);
     const content = await response.text();
     fs.writeFileSync(cacheFile, content);
@@ -24,25 +30,28 @@ const downloadSchedule = async (sportKey) => {
   return JSON.parse($("#__NEXT_DATA__").text());
 };
 
-const EVENTS = [];
-const NOCS = [];
-const SPORTS = [];
+const EVENTS: Event[] = [];
+const NOCS: string[] = [];
+const SPORTS: Sport[] = [];
 
-const addNOC = (noc) => {
+const addNOC = (noc: string) => {
+  debug(`Adding NOC ${noc}`);
   if (!NOCS.includes(noc)) {
     NOCS.push(noc);
   }
 };
 
-const addSport = (sportKey, sportName) => {
+const addSport = (sportKey: string, sportName: string) => {
+  debug(`Adding sport ${sportKey}`);
   if (!SPORTS.find((sport) => sport.key === sportKey)) {
     SPORTS.push({ key: sportKey, name: sportName, NOCS: [] });
   }
 };
 
-const addSportNOC = (sportKey, sportName, noc) => {
+const addSportNOC = (sportKey: string, sportName: string, noc: string) => {
+  debug(`Adding NOC ${noc} to sport ${sportKey}`);
   addSport(sportKey, sportName);
-  const sport = SPORTS.find((sport) => sport.key === sportKey);
+  const sport = SPORTS.find((sport) => sport.key === sportKey)!;
   if (!sport.NOCS.includes(noc)) {
     sport.NOCS.push(noc);
   }
@@ -111,21 +120,21 @@ const generateCalendars = () => {
   }
 };
 
-const slugify = (text) => text.toLowerCase().replace(/\s/g, "-")
+const slugify = (text: string) => text.toLowerCase().replace(/\s/g, "-")
   .replace(/[^a-z0-9-]/g, "")
   .replace(/-+/g, "-");
 
-const extractSportCalendar = async (sportKey) => {
+const extractSportCalendar = async (sportKey: string) => {
   const data = await downloadSchedule(sportKey);
   const sportName = data.query.pDisciplineLabel;
   const sportIcon = getSportIcon(sportKey);
   addSport(sportKey, sportName);
 
-  data.props.pageProps.scheduleDataSource.initialSchedule.units.forEach(unit => {
+  data.props.pageProps.scheduleDataSource.initialSchedule.units.forEach((unit: any) => {
     unit.startDateTimeUtc = new Date(unit.startDate).toISOString().replace(".000", "");
     unit.endDateTimeUtc = new Date(unit.endDate).toISOString().replace(".000", "");
 
-    const event = {
+    const event: Event = {
       UID: `${unit.startDateTimeUtc.replace(/[:-]/g, "")}-${sportKey}-${slugify(unit.eventUnitName).toUpperCase()}`,
       DTSTAMP: unit.startDateTimeUtc.replace(/[:-]/g, ""),
       DTSTART: unit.startDateTimeUtc.replace(/[:-]/g, ""),
@@ -143,9 +152,9 @@ const extractSportCalendar = async (sportKey) => {
 
     if (unit.competitors) {
       const competitors = unit.competitors
-        .filter((competitor) => competitor.noc && isValidNOC(competitor.noc))
-        .sort((a, b) => a.order > b.order ? 1 : -1);
-      event._NOCS = competitors.map((competitor) => {
+        .filter((competitor: any) => competitor.noc && isValidNOC(competitor.noc))
+        .sort((a: any, b: any) => a.order > b.order ? 1 : -1);
+      event._NOCS = competitors.map((competitor: any) => {
         addSportNOC(sportKey, sportName, competitor.noc);
         addNOC(competitor.noc);
         return competitor.noc;
@@ -165,8 +174,8 @@ const extractSportCalendar = async (sportKey) => {
       } else if (competitors.length !== 0) {
         // more than two, we put them in the description
         competitors
-          .sort((a, b) => a.name > b.name ? 1 : -1)
-          .forEach((competitor) => {
+          .sort((a: any, b: any) => a.name > b.name ? 1 : -1)
+          .forEach((competitor: any) => {
             if (competitor.name !== getNOCName(competitor.noc)) {
               event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.name}`;
               event._COMPETITORS.push({ noc: competitor.noc, name: `${getNOCFlag(competitor.noc)} ${competitor.name}` });
@@ -184,31 +193,39 @@ const generateCeremoniesEvents = () => {
   let startDateUtc = new Date("2024-07-26T17:30:00Z").toISOString().replace(".000", "");
   let endDateUtc = new Date("2024-07-26T21:00:00Z").toISOString().replace(".000", "");
 
-  const openingCeremony = {
+  const openingCeremony: Event = {
     UID: `${startDateUtc.replace(/[:-]/g, "")}-opening-ceremony`,
     DTSTAMP: startDateUtc.replace(/[:-]/g, ""),
     DTSTART: startDateUtc.replace(/[:-]/g, ""),
     DTEND: endDateUtc.replace(/[:-]/g, ""),
     DESCRIPTION: "Paris 2024 - Opening ceremony",
     SUMMARY: "Paris 2024 - Opening ceremony",
-    Location: "Paris",
+    LOCATION: "Paris",
     _NOCS: NOCS,
     _MEDAL: false,
+    _COMPETITORS: [],
+    _GENDER: "",
+    _SPORT: "",
+    _UNITNAME: "",
   };
 
   startDateUtc = new Date("2024-08-11T19:00:00Z").toISOString().replace(".000", "");
   endDateUtc = new Date("2024-08-11T21:15:00Z").toISOString().replace(".000", "");
 
-  const closingCeremony = {
+  const closingCeremony: Event = {
     UID: `${startDateUtc.replace(/[:-]/g, "")}-closing-ceremony`,
     DTSTAMP: startDateUtc.replace(/[:-]/g, ""),
     DTSTART: startDateUtc.replace(/[:-]/g, ""),
     DTEND: endDateUtc.replace(/[:-]/g, ""),
     DESCRIPTION: "Paris 2024 - Closing ceremony",
     SUMMARY: "Paris 2024 - Closing ceremony",
-    Location: "Stade de France, Saint-Denis",
+    LOCATION: "Stade de France, Saint-Denis",
     _NOCS: NOCS,
     _MEDAL: false,
+    _COMPETITORS: [],
+    _GENDER: "",
+    _SPORT: "",
+    _UNITNAME: "",
   };
 
   EVENTS.push(openingCeremony);
@@ -270,7 +287,7 @@ const generateOutputPage = () => {
   });
   html.push("</table>");
 
-  const todays = [];
+  const todays: string[] = [];
   NOCS.sort().forEach((noc) => {
     todays.push(`<a href="./today.html?noc=${noc}" class="${linkClass}">${getNOCFlag(noc)} ${noc}</a>`);
   });
@@ -283,7 +300,7 @@ const generateOutputPage = () => {
 };
 
 const generateTodayPage = () => {
-  const html = [];
+  const html: string[] = [];
 
   EVENTS.forEach((event) => {
     let sport = SPORTS.find((sport) => sport.key === event._SPORT);
@@ -291,6 +308,7 @@ const generateTodayPage = () => {
       sport = {
         name: "Ceremony",
         key: "",
+        NOCS: [],
       };
     }
     const summary = event.SUMMARY.match(/ceremony/gi) ? event.SUMMARY : event.SUMMARY.split(" ").slice(1).join(" ");
@@ -302,9 +320,9 @@ const generateTodayPage = () => {
     html.push(`   ${event._MEDAL ? "🏅" : ""}`);
     html.push(`   ${sport.name.toUpperCase()}`);
     if (event._GENDER === "M") {
-      html.push(`   <span class=\"text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl\">M</span>`);
+      html.push("   <span class=\"text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl\">M</span>");
     } else if (event._GENDER === "W") {
-      html.push(`   <span class=\"text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl\">W</span>`);
+      html.push("   <span class=\"text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl\">W</span>");
     }
     html.push("   </div>");
     html.push(`   <div class="">${summary}`);

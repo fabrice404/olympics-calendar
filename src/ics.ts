@@ -1,4 +1,9 @@
-const fs = require("fs");
+import * as fs from "node:fs";
+import Debug from "debug";
+
+import { Event } from "./types";
+
+const debug = Debug("paris2024:ics");
 
 /**
  * generateICS generates the calendar for given events on ICS format
@@ -6,8 +11,9 @@ const fs = require("fs");
  * @param {string} key 
  * @param {object[]} events 
  */
-const generateICS = (title, key, events) => {
-  const lines = [];
+export const generateICS = (title: string, key: string, events: Event[]): void => {
+  debug(`Generating ICS file for ${title} (${key}) with ${events.length} events`);
+  const lines: string[] = [];
   lines.push("BEGIN:VCALENDAR");
   lines.push("VERSION:2.0");
   lines.push(`PRODID:-//fabrice404//olympics-calendar//${key}//EN`);
@@ -52,6 +58,3 @@ const generateICS = (title, key, events) => {
   fs.writeFileSync(calendarPath, lines.join("\r\n"));
 };
 
-module.exports = {
-  generateICS,
-};

@@ -3,22 +3,29 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
-    "start": "find ./cache/*.html -mmin +10 -exec rm -f {} \\; | node src/index.js",
-    "dev": "nodemon src/index.js",
+    "start": "find ./cache/*.html -mmin +10 -exec rm -f {} \\; | ts-node src/index.ts",
+    "dev": "nodemon src/index.ts",
     "lint": "eslint . --fix",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest run --coverage"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
     "@eslint/js": "^9.6.0",
+    "@types/debug": "^4.1.12",
+    "@types/node": "^22.0.0",
+    "@vitest/coverage-istanbul": "^2.0.4",
     "autoprefixer": "^10.4.19",
     "cheerio": "^1.0.0-rc.12",
+    "debug": "^4.3.6",
     "eslint": "^9.6.0",
     "globals": "^15.8.0",
     "nodemon": "^3.1.4",
     "postcss": "^8.4.39",
-    "tailwindcss": "^3.4.4"
+    "tailwindcss": "^3.4.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4",
+    "vitest": "^2.0.4"
   }
 }
