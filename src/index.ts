@@ -325,10 +325,15 @@ const generateTodayPage = () => {
       html.push("   <span class=\"text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl\">W</span>");
     }
     html.push("   </div>");
-    html.push(`   <div class="">${summary}`);
+    if (event._UNITNAME.match(summary)) {
+      html.push(`   <div class="">${summary}`);
+    } else {
+      html.push(`   <div class="">${event._UNITNAME}`);
+      html.push(`   <div class="">${summary}</div>`);
+    }
     if (event._COMPETITORS) {
       event._COMPETITORS.forEach((competitor) => {
-        html.push(`<div class="competitor ${competitor.noc}">${competitor.name}</div>`);
+        html.push(`<div class= "competitor ${competitor.noc}"> ${competitor.name} </div>`);
       });
     }
     html.push("   </div>");
