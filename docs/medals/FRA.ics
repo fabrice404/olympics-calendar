@@ -243,10 +243,23 @@ SUMMARY:🏇 Eventing Individual Jumping Final
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T191900Z-swimming-MENS-100M-BACKSTROKE-FINAL
-DTSTAMP:20240729T191900Z
-DTSTART:20240729T191900Z
-DTEND:20240729T192500Z
+UID:20240729T152000Z-canoe-slalom-MENS-CANOE-SINGLE-FINAL
+DTSTAMP:20240729T152000Z
+DTSTART:20240729T152000Z
+DTEND:20240729T155800Z
+DESCRIPTION:Canoe Slalom - Men's Canoe Single Final\n🇬🇧 Adam
+  BURGESS\n🇸🇮 Benjamin SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam
+  JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸
+  Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan
+  CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Canoe Single Final
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T192700Z-swimming-MENS-100M-BACKSTROKE-FINAL
+DTSTAMP:20240729T192700Z
+DTSTART:20240729T192700Z
+DTEND:20240729T193400Z
 DESCRIPTION:Swimming - Men's 100m Backstroke Final\n🇬🇷 Apostolos
   CHRISTOU\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
   COETZE\n🇺🇸 Ryan MURPHY\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷 Yohann
