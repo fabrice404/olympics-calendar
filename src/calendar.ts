@@ -204,29 +204,29 @@ export class Calendar {
     return `${sportKey}/${this.language}/${noc}`;
   }
 
-  private generateCalendars() {
-    const sortEvents = (a: Event, b: Event) => {
-      if (a.DTSTART !== b.DTSTART) {
-        return a.DTSTART > b.DTSTART ? 1 : -1;
-      }
-      if (a.DTEND !== b.DTEND) {
-        return a.DTEND > b.DTEND ? 1 : -1;
-      }
-      if (a.SUMMARY !== b.SUMMARY) {
-        return a.SUMMARY > b.SUMMARY ? 1 : -1;
-      }
-      if (a.DESCRIPTION !== b.DESCRIPTION) {
-        return a.DESCRIPTION > b.DESCRIPTION ? 1 : -1;
-      }
-      return 0;
+  private sortEvents(a: Event, b: Event) {
+    if (a.DTSTART !== b.DTSTART) {
+      return a.DTSTART > b.DTSTART ? 1 : -1;
     }
+    if (a.DTEND !== b.DTEND) {
+      return a.DTEND > b.DTEND ? 1 : -1;
+    }
+    if (a.SUMMARY !== b.SUMMARY) {
+      return a.SUMMARY > b.SUMMARY ? 1 : -1;
+    }
+    if (a.DESCRIPTION !== b.DESCRIPTION) {
+      return a.DESCRIPTION > b.DESCRIPTION ? 1 : -1;
+    }
+    return 0;
+  }
 
+  private generateCalendars() {
     // sports
     for (const sport of this.sports) {
       // sport/general
       let events = this.events
         .filter((event) => event._SPORT === sport.key)
-        .sort(sortEvents);
+        .sort(this.sortEvents);
       let key = this.getKey(sport.key, "general");
       let title = `${getSportIcon(sport.key)} ${sport.name} | Paris 2024`;
       if (events.length > 0) {
@@ -236,7 +236,7 @@ export class Calendar {
       // sport/medals
       events = this.events
         .filter((event) => event._SPORT === sport.key && event._MEDAL)
-        .sort(sortEvents);
+        .sort(this.sortEvents);
       key = this.getKey(sport.key, "medals");
       title = `${getSportIcon(sport.key)} ${sport.name} 🏅 | Paris 2024`;
       if (events.length > 0) {
@@ -247,7 +247,7 @@ export class Calendar {
       for (const noc of sport.NOCS) {
         events = this.events
           .filter((event) => event._SPORT === sport.key && event._NOCS.includes(noc))
-          .sort(sortEvents);
+          .sort(this.sortEvents);
         key = this.getKey(sport.key, noc);
         title = `${getNOCFlag(noc)} ${getNOCName(noc)} ${sport.name} | Paris 2024`;
         if (events.length > 0) {
@@ -261,7 +261,7 @@ export class Calendar {
       // general/noc
       let events = this.events
         .filter((event) => event._NOCS.includes(noc))
-        .sort(sortEvents);
+        .sort(this.sortEvents);
       let key = this.getKey("general", noc);
       let title = `${getNOCFlag(noc)} ${getNOCName(noc)} | Paris 2024`;
       if (events.length > 0) {
@@ -271,7 +271,7 @@ export class Calendar {
       // medals/noc
       events = this.events
         .filter((event) => event._NOCS.includes(noc) && event._MEDAL)
-        .sort(sortEvents);
+        .sort(this.sortEvents);
       key = this.getKey("medals", noc);
       title = `${getNOCFlag(noc)} ${getNOCName(noc)} 🏅 | Paris 2024`
       if (events.length > 0) {
@@ -281,7 +281,7 @@ export class Calendar {
 
     // general/general
     const events = this.events
-      .sort(sortEvents);
+      .sort(this.sortEvents);
     const key = this.getKey("general", "general");
     const title = `Paris 2024`;
     if (events.length > 0) {
@@ -291,7 +291,7 @@ export class Calendar {
     // medals/general
     const medals = this.events
       .filter((event) => event._MEDAL)
-      .sort(sortEvents);
+      .sort(this.sortEvents);
     const medalsKey = this.getKey("medals", "general");
     const medalsTitle = `🏅 Paris 2024`;
     if (medals.length > 0) {
@@ -373,7 +373,7 @@ export class Calendar {
   private generateTodaysPage() {
     const content: string[] = [];
 
-    for (const event of this.events) {
+    for (const event of this.events.sort(this.sortEvents)) {
       let sport = this.sports.find((sport) => sport.key === event._SPORT);
       if (!sport) {
         sport = {
@@ -382,7 +382,6 @@ export class Calendar {
           NOCS: [],
         };
       }
-      const summary = event.SUMMARY.match(/ceremony/gi) ? event.SUMMARY : event.SUMMARY.split(" ").slice(1).join(" ");
 
       content.push(`<div class="event py-4" data-start="${event.DTSTART}" data-end="${event.DTEND}" data-noc="${event._NOCS.join(",")}">`);
       content.push(" <div class=\"time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10\">__:__</div>");
@@ -391,23 +390,23 @@ export class Calendar {
       content.push(`   ${event._MEDAL ? "🏅" : ""}`);
       content.push(`   ${sport.name.toUpperCase()}`);
       if (event._GENDER === "M") {
-        content.push("   <span class=\"text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl\">M</span>");
+        content.push(`   <span class=\"text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl\">${translate.genderMen.get(this.language)}</span>`);
       } else if (event._GENDER === "W") {
-        content.push("   <span class=\"text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl\">W</span>");
+        content.push(`   <span class=\"text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl\">${translate.genderWomen.get(this.language)}</span>`);
       }
       content.push("   </div>");
-      if (event._UNITNAME.match(summary)) {
-        content.push(`   <div class="">${summary}`);
-      } else {
-        content.push(`   <div class="">${event._UNITNAME}`);
-        content.push(`   <div class="">${summary}</div>`);
-      }
+      content.push(`   <div>${event._UNITNAME}</div>`);
       if (event._COMPETITORS) {
-        event._COMPETITORS.forEach((competitor) => {
-          content.push(`<div class= "competitor ${competitor.noc}"> ${competitor.name} </div>`);
-        });
+        if (event._COMPETITORS.length === 2) {
+          content.push(`    <div class="competitor">`);
+          content.push(`      ${event._COMPETITORS[0].name} ${getNOCFlag(event._COMPETITORS[0].noc)} - ${getNOCFlag(event._COMPETITORS[1].noc)} ${event._COMPETITORS[1].name}`);
+          content.push(`    </div>`);
+        } else {
+          event._COMPETITORS.forEach((competitor) => {
+            content.push(`    <div class="competitor ${competitor.noc}"> ${competitor.name} </div>`);
+          });
+        }
       }
-      content.push("   </div>");
       content.push(" </div>");
       content.push("</div>");
 
