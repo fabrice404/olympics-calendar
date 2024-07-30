@@ -81,13 +81,19 @@
     document.querySelectorAll('.event').forEach((element) => {
       const start = DateTime.fromISO(element.getAttribute('data-start'));
       const end = DateTime.fromISO(element.getAttribute('data-end'));
+      const fifteenMinuteAgo = now.minus({ minutes: 15 });
       const nocs = element.getAttribute('data-noc').split(",");
 
       if (!noc || nocs.includes(noc)) {
         if (now.day === start.day) {
           element.querySelector(".time").textContent = start.toLocaleString(DateTime.TIME_24_SIMPLE);
           if (end < now) {
-            element.remove();
+            if (end > fifteenMinuteAgo) {
+              element.classList.add(cycleColor());
+              element.classList.add('opacity-50');
+            } else {
+              element.remove();
+            }
           } else {
             element.classList.add(cycleColor());
           }
