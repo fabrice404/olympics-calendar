@@ -1667,6 +1667,9 @@ details.collapse summary::-webkit-details-marker {
 .collapse {
   visibility: collapse;
 }
+.z-50 {
+  z-index: 50;
+}
 .z-\[1\] {
   z-index: 1;
 }
