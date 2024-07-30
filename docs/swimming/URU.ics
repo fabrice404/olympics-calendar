@@ -4,10 +4,10 @@ PRODID:-//fabrice404//olympics-calendar//swimming/URU//EN
 X-WR-CALNAME:🇺🇾 Uruguay Swimming | Paris 2024
 NAME:🇺🇾 Uruguay Swimming | Paris 2024
 BEGIN:VEVENT
-UID:20240730T091751Z-swimming-MENS-100M-FREESTYLE-HEATS
-DTSTAMP:20240730T091751Z
-DTSTART:20240730T091751Z
-DTEND:20240730T095131Z
+UID:20240730T091700Z-swimming-MENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T091700Z
+DTSTART:20240730T091700Z
+DTEND:20240730T094800Z
 DESCRIPTION:Swimming - Men's 100m Freestyle - Heats\n🇽🇰 Adell
   SABOVIC\n🇰🇿 Adilbek MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro
   MIRESSI\n🇳🇵 Alexander SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭
@@ -43,18 +43,11 @@ UID:20240802T091400Z-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-HEATS
 DTSTAMP:20240802T091400Z
 DTSTART:20240802T091400Z
 DTEND:20240802T093400Z
-DESCRIPTION:Swimming - Women's 200m Individual Medley - Heats\n🇬🇧 Abbie
-  WOOD\n🇺🇸 Alex WALSH\n🇮🇱 Anastasia GORBENKO\n🇮🇩 Azzahra
-  PERMATAHANI\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma
-  SEBESTYEN\n🇦🇺 Ella RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO
-  CADENS\n🇬🇧 Freya Constance COLBERT\n🇹🇼 HAN An-Chi\n🇱🇻 Ieva
-  MALUKA\n🇨🇻 Jayla PINA\n🇰🇷 KIM Seoyeong\n🇺🇸 Kate DOUGLASS\n🇦🇺
-  Kaylee McKEOWN\n🇵🇷 Kristen Elena ROMANO\n🇮🇱 Lea POLONSKY\n🇦🇹 Lena
-  KREUNDL\n🇯🇵 MATSUMOTO Shiho\n🇳🇱 Marrit STEENBERGEN\n🇵🇪 McKenna de
-  BEVER\n🇺🇾 Nicole FRANK\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇮🇹 Sara
-  FRANCESCHI\n🇨🇦 Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇸🇰 Tamara
-  POTOCKA\n🇻🇳 Thi My Tien VO\n🇵🇸 Valerie Rose TARAZI\n🇨🇳 YE
-  Shiwen\n🇨🇳 YU Yiting
+DESCRIPTION:Swimming - Women's 200m Individual Medley - Heats\n🇦🇺
+  AUS\n🇦🇹 AUT\n🇨🇻 CPV\n🇨🇦 CAN\n🇨🇳 CHN\n🇹🇼 TPE\n🇨🇿 CZE\n🇫🇷
+  FRA\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇩 INA\n🇮🇪 IRL\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵
+  JPN\n🇰🇷 KOR\n🇱🇻 LAT\n🇳🇱 NED\n🇵🇸 PLE\n🇵🇪 PER\n🇵🇷 PUR\n🇸🇰
+  SVK\n🇿🇦 RSA\n🇪🇸 ESP\n🇺🇸 USA\n🇺🇾 URU\n🇻🇳 VIE
 SUMMARY:🏊 Women's 200m Individual Medley - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT

@@ -4,10 +4,10 @@ PRODID:-//fabrice404//olympics-calendar//swimming/ANG//EN
 X-WR-CALNAME:🇦🇴 Angola Swimming | Paris 2024
 NAME:🇦🇴 Angola Swimming | Paris 2024
 BEGIN:VEVENT
-UID:20240730T091751Z-swimming-MENS-100M-FREESTYLE-HEATS
-DTSTAMP:20240730T091751Z
-DTSTART:20240730T091751Z
-DTEND:20240730T095131Z
+UID:20240730T091700Z-swimming-MENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T091700Z
+DTSTART:20240730T091700Z
+DTEND:20240730T094800Z
 DESCRIPTION:Swimming - Men's 100m Freestyle - Heats\n🇽🇰 Adell
   SABOVIC\n🇰🇿 Adilbek MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro
   MIRESSI\n🇳🇵 Alexander SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭
@@ -43,13 +43,9 @@ UID:20240731T094600Z-swimming-WOMENS-200M-BUTTERFLY-HEATS
 DTSTAMP:20240731T094600Z
 DTSTART:20240731T094600Z
 DTEND:20240731T100600Z
-DESCRIPTION:Swimming - Women's 200m Butterfly - Heats\n🇦🇺 Abbey Lee
-  CONNOR\n🇺🇸 Alex SHACKELL\n🇨🇷 Alondra ORTIZ\n🇷🇸 Anja CREVAR\n🇭🇺
-  Boglarka KAPAS\n🇨🇳 CHEN Luying\n🇦🇺 Elizabeth DEKKERS\n🇬🇷 Georgia
-  DAMASIOTI\n🇩🇰 Helena Rosendahl BACH\n🇬🇧 Keanna Louise MACINNES\n🇧🇦
-  Lana PUDAR\n🇪🇸 Laura CABANES GARZAS\n🇬🇧 Laura STEPHENS\n🇦🇴 Lia
-  LIMA\n🇯🇵 MAKINO Hiroko\n🇯🇵 MITSUI Airi\n🇺🇸 Regan SMITH\n🇨🇦 Summer
-  McINTOSH\n🇨🇳 ZHANG Yufei
+DESCRIPTION:Swimming - Women's 200m Butterfly - Heats\n🇦🇴 ANG\n🇦🇺
+  AUS\n🇧🇦 Bosnia & Herzegovina\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇷 CRC\n🇩🇰
+  DEN\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺 HUN\n🇯🇵 JPN\n🇷🇸 SRB\n🇪🇸 ESP\n🇺🇸 USA
 SUMMARY:🏊 Women's 200m Butterfly - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT

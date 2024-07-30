@@ -4,10 +4,10 @@ PRODID:-//fabrice404//olympics-calendar//swimming/ZIM//EN
 X-WR-CALNAME:🇿🇼 Zimbabwe Swimming | Paris 2024
 NAME:🇿🇼 Zimbabwe Swimming | Paris 2024
 BEGIN:VEVENT
-UID:20240730T104759Z-swimming-WOMENS-100M-FREESTYLE-HEATS
-DTSTAMP:20240730T104759Z
-DTSTART:20240730T104759Z
-DTEND:20240730T110153Z
+UID:20240730T104700Z-swimming-WOMENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T104700Z
+DTSTART:20240730T104700Z
+DTEND:20240730T110000Z
 DESCRIPTION:Swimming - Women's 100m Freestyle - Heats\n🇬🇾 Aleka Kylela
   PERSAUD\n🇬🇧 Anna HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl
   GASTALDELLO\n🇺🇬 Gloria Anna MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY
@@ -27,16 +27,10 @@ UID:20240731T092100Z-swimming-MENS-200M-BACKSTROKE-HEATS
 DTSTAMP:20240731T092100Z
 DTSTART:20240731T092100Z
 DTEND:20240731T094600Z
-DESCRIPTION:Swimming - Men's 200m Backstroke - Heats\n🇭🇺 Adam
-  TELEGDY\n🇬🇷 Apostolos CHRISTOU\n🇬🇷 Apostolos SISKOS\n🇨🇦 Blake
-  TIERNEY\n🇦🇺 Bradley WOODWARD\n🇮🇱 David GERCHIK\n🇿🇼 Denilson
-  CYPRIANOS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇳🇱 Kai van
-  WESTERING\n🇳🇿 Kane FOLLOWS\n🇺🇸 Keaton JONES\n🇵🇱 Ksawery
-  MASIUK\n🇰🇷 LEE Juho\n🇩🇪 Lukas MAERTENS\n🇬🇧 Luke GREENBANK\n🇮🇹
-  Matteo RESTIVO\n🇫🇷 Mewen TOMAC\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver
-  MORGAN\n🇿🇦 Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇦🇺
-  Se-Bom LEE\n🇯🇵 TAKEHARA Hidekazu\n🇮🇹 Thomas CECCON\n🇨🇳 XU
-  Jiayu\n🇵🇷 Yeziel MORALES\n🇫🇷 Yohann NDOYE-BROUARD\n🇸🇩 Ziyad SALEEM
+DESCRIPTION:Swimming - Men's 200m Backstroke - Heats\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇬🇷 GRE\n🇭🇺 HUN\n🇮🇱
+  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇵🇷
+  PUR\n🇿🇦 RSA\n🇪🇸 ESP\n🇸🇩 SUD\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA\n🇿🇼 ZIM
 SUMMARY:🏊 Men's 200m Backstroke - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
