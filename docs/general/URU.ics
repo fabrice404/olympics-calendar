@@ -49,6 +49,25 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T070000Z-rowing-MENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Heats\n🇯🇵 ARAKAWA Ryuta\n🇸🇩
+  Abdalla AHMED\n🇪🇬 Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj
+  PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO
+  BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹
+  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
+  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
+  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
+  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
+  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 Men's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T143000Z-rugby-sevens-MENS-PLACING-11-12-JPN-URU
 DTSTAMP:20240727T143000Z
 DTSTART:20240727T143000Z
@@ -148,6 +167,23 @@ SUMMARY:⛵ Men's Skiff - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T081000Z-rowing-MENS-SINGLE-SCULLS-QUARTERFINALS
+DTSTAMP:20240730T081000Z
+DTSTART:20240730T081000Z
+DTEND:20240730T084700Z
+DESCRIPTION:Rowing - Men's Single Sculls Quarterfinals\n🇯🇵 ARAKAWA
+  Ryuta\n🇪🇬 Abdelkhalek ELBANNA\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal
+  PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷
+  Damir MARTIN\n🇱🇹 Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸
+  Jacob PLIHAL\n🇵🇾 Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas
+  VERTHEIN FERREIRA\n🇷🇴 Mihai CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas
+  MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 Men's Single Sculls Quarterfinals
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T081800Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-32-JPN-URU
 DTSTAMP:20240730T081800Z
 DTSTART:20240730T081800Z
@@ -155,6 +191,41 @@ DTEND:20240730T082400Z
 DESCRIPTION:Judo - Men -81 kg Elimination Round of 32
 SUMMARY:🥋 NAGASE Takanori 🇯🇵 - 🇺🇾 Alain APRAHAMIAN
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T091751Z-swimming-MENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T091751Z
+DTSTART:20240730T091751Z
+DTEND:20240730T095131Z
+DESCRIPTION:Swimming - Men's 100m Freestyle - Heats\n🇽🇰 Adell
+  SABOVIC\n🇰🇿 Adilbek MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro
+  MIRESSI\n🇳🇵 Alexander SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭
+  Antoine de LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿
+  Cameron GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas
+  RAPSYS\n🇨🇿 Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS
+  RIBEIRO\n🇹🇭 Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir
+  BATBAYAR\n🇨🇲 Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi
+  KOXHAKU\n🇧🇷 Guilherme SANTOS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG
+  Sunwoo\n🇰🇲 Hadji HASSANE\n🇬🇭 Harry STACEY\n🇦🇴 Henrique
+  MASCARENHAS\n🇸🇷 Irvin HOOST\n🇴🇲 Issa Samir Hamed AL ADAWI\n🇺🇸 Jack
+  ALEXY\n🇧🇧 Jack KIRBY\n🇬🇧 Jacob Henry WHITTLE\n🇵🇱 Jakub
+  MAJERSKI\n🇩🇴 Javier NUNEZ\n🇱🇨 Jayhan Jamaud ODLUM-SMITH\n🇼🇸 Johann
+  STICKLAND\n🇻🇺 Johnathan SILAS\n🇸🇬 Jonathan Eu Jin TAN\n🇰🇾 Jordan
+  CROOKS\n🇲🇽 Jorge IGA\n🇨🇦 Josh LIENDO\n🇵🇬 Josh TARERE\n🇩🇪 Josha
+  SALCHOW\n🇱🇰 Kyle ABEYSINGHE\n🇦🇺 Kyle CHALMERS\n🇧🇸 Lamar
+  TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹 Leonardo DEPLANO\n🇧🇷 Marcelo
+  CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳 Matthieu SEYE\n🇫🇷 Maxime
+  GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad ZUBAID\n🇹🇲 Musa
+  ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola MILJENIC\n🇨🇾 Nikolas
+  ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲
+  Phone Pyae HAN\n🇫🇷 Rafael FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN
+  CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷 Samyar ABDOLI\n🇧🇹 Sangay
+  TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇱🇧 Simon
+  DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇨🇳 WANG
+  Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef ABUBAKER\n🇦🇪 Yousuf
+  ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
+SUMMARY:🏊 Men's 100m Freestyle - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T123500Z-sailing-MENS-SKIFF-RACE-7
@@ -245,6 +316,26 @@ DESCRIPTION:Sailing - Men's Skiff - Race 12\n🇨🇦 BARNES/JONES\n🇺🇸
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
 SUMMARY:⛵ Men's Skiff - Race 12
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T091400Z-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-HEATS
+DTSTAMP:20240802T091400Z
+DTSTART:20240802T091400Z
+DTEND:20240802T093400Z
+DESCRIPTION:Swimming - Women's 200m Individual Medley - Heats\n🇬🇧 Abbie
+  WOOD\n🇺🇸 Alex WALSH\n🇮🇱 Anastasia GORBENKO\n🇮🇩 Azzahra
+  PERMATAHANI\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma
+  SEBESTYEN\n🇦🇺 Ella RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO
+  CADENS\n🇬🇧 Freya Constance COLBERT\n🇹🇼 HAN An-Chi\n🇱🇻 Ieva
+  MALUKA\n🇨🇻 Jayla PINA\n🇰🇷 KIM Seoyeong\n🇺🇸 Kate DOUGLASS\n🇦🇺
+  Kaylee McKEOWN\n🇵🇷 Kristen Elena ROMANO\n🇮🇱 Lea POLONSKY\n🇦🇹 Lena
+  KREUNDL\n🇯🇵 MATSUMOTO Shiho\n🇳🇱 Marrit STEENBERGEN\n🇵🇪 McKenna de
+  BEVER\n🇺🇾 Nicole FRANK\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇮🇹 Sara
+  FRANCESCHI\n🇨🇦 Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇸🇰 Tamara
+  POTOCKA\n🇻🇳 Thi My Tien VO\n🇵🇸 Valerie Rose TARAZI\n🇨🇳 YE
+  Shiwen\n🇨🇳 YU Yiting
+SUMMARY:🏊 Women's 200m Individual Medley - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

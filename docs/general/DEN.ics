@@ -52,6 +52,25 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T070000Z-rowing-MENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Heats\n🇯🇵 ARAKAWA Ryuta\n🇸🇩
+  Abdalla AHMED\n🇪🇬 Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj
+  PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO
+  BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹
+  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
+  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
+  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
+  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
+  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 Men's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T073000Z-equestrian-EVENTING-INDIVIDUAL-DRESSAGE
 DTSTAMP:20240727T073000Z
 DTSTART:20240727T073000Z
@@ -80,6 +99,55 @@ DESCRIPTION:Equestrian - Eventing Individual Dressage\n🇿🇦 Alexander
   MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
 SUMMARY:🏇 Eventing Individual Dressage
 LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T090000Z-swimming-WOMENS-100M-BUTTERFLY-HEATS
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T091100Z
+DESCRIPTION:Swimming - Women's 100m Butterfly - Heats\n🇦🇺 Alexandria
+  PERKINS\n🇬🇪 Ana NIZHARADZE\n🇩🇪 Angelina KOEHLER\n🇬🇷 Anna
+  NTOUNTOUNAKI\n🇨🇿 Barbora SEEMANOVA\n🇮🇹 Costanza COCCONCELLI\n🇮🇪
+  Ellen WALSHE\n🇦🇺 Emma McKEON\n🇿🇦 Erin GALLAGHER\n🇬🇷 Georgia
+  DAMASIOTI\n🇺🇸 Gretchen WALSH\n🇯🇵 HIRAI Mizuki\n🇸🇿 Hayley HOY\n🇩🇰
+  Helena Rosendahl BACH\n🇯🇵 IKEE Rikako\n🇬🇧 Keanna Louise
+  MACINNES\n🇧🇦 Lana PUDAR\n🇪🇸 Laura CABANES GARZAS\n🇸🇪 Louise
+  HANSSON\n🇵🇾 Luana ALONSO\n🇨🇦 Margaret MAC NEIL\n🇳🇮 Maria Victoria
+  SCHUTZMEIER\n🇫🇷 Marie WATTEL\n🇸🇳 Oumy DIOP\n🇨🇦 Rebecca SMITH\n🇧🇪
+  Roos VANOTTERDIJK\n🇳🇱 Tessa GIELE\n🇺🇸 Torri HUSKE\n🇳🇿 Vanessa Hazel
+  OUWEHAND\n🇦🇲 Varsenik MANUCHARYAN\n🇮🇹 Viola SCOTTO di CARLO\n🇨🇳
+  ZHANG Yufei
+SUMMARY:🏊 Women's 100m Butterfly - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T101500Z-swimming-WOMENS-4-X-100M-FREESTYLE-RELAY-HEATS
+DTSTAMP:20240727T101500Z
+DTSTART:20240727T101500Z
+DTEND:20240727T102600Z
+DESCRIPTION:Swimming - Women's 4 x 100m Freestyle Relay - Heats\n🇭🇰 AU
+  Hoi Shun Stephanie\n🇺🇸 Abbey WEITZEIL\n🇧🇷 Ana Carolina VIEIRA\n🇬🇧
+  Anna HOPKIN\n🇫🇷 Beryl GASTALDELLO\n🇦🇺 Bronte CAMPBELL\n🇨🇦 Brooklyn
+  DOUTHWRIGHT\n🇭🇰 CHENG Camille Lily Mei\n🇨🇳 CHENG Yujie\n🇫🇷
+  Charlotte BONNET\n🇮🇹 Chiara TARANTINO\n🇮🇪 Danielle HILL\n🇩🇰
+  Elisabeth Sabroe EBBESEN\n🇦🇺 Emma McKEON\n🇮🇹 Emma Virginia
+  MENICUCCI\n🇺🇸 Erika CONNOLLY\n🇮🇪 Erin RIORDAN\n🇬🇧 Eva OKARO\n🇬🇧
+  Freya ANDERSON\n🇧🇷 Giovana MEDEIROS\n🇮🇪 Grace DAVISON\n🇸🇮 Janja
+  SEGEL\n🇵🇱 Julia MAIK\n🇩🇰 Julie Kepp JENSEN\n🇭🇰 KAN Cheuk Tung
+  Natalie\n🇵🇱 Katarzyna WASICK\n🇺🇸 Kate DOUGLASS\n🇸🇮 Katja FAIN\n🇳🇱
+  Kim BUSCH\n🇵🇱 Kornelia FIEDKIEWICZ\n🇭🇺 Lilla Minna ABRAHAM\n🇫🇷
+  Lison NOWACZYK\n🇬🇧 Lucy HOPE\n🇧🇷 Maria Paula HEITMANN\n🇳🇱 Marrit
+  STEENBERGEN\n🇩🇰 Martine DAMBORG\n🇫🇷 Mary-Ambre MOLUH\n🇨🇦
+  Mary-Sophie HARVEY\n🇦🇺 Meg HARRIS\n🇸🇪 Michelle COLEMAN\n🇸🇮 Neza
+  KLANCAR\n🇭🇺 Nikolett PADAR\n🇦🇺 Olivia WUNSCH\n🇭🇺 Panna UGRAI\n🇨🇦
+  Penny OLEKSIAK\n🇭🇺 Petra SENANSZKY\n🇳🇱 Sam van NUNEN\n🇮🇹 Sara
+  CURTIS\n🇸🇪 Sara JUNEVIK\n🇸🇪 Sarah SJOESTROEM\n🇩🇰 Signe BRO\n🇺🇸
+  Simone MANUEL\n🇸🇪 Sofia AASTEDT\n🇮🇹 Sofia MORINI\n🇧🇷 Stephanie
+  BALDUCCINI\n🇭🇰 TAM Hoi Lam\n🇨🇦 Taylor RUCK\n🇳🇱 Tessa GIELE\n🇸🇮
+  Tjasa PINTAR\n🇮🇪 Victoria CATTERSON\n🇨🇳 WU Qingfeng\n🇨🇳 YANG
+  Junxuan\n🇨🇳 YU Yiting\n🇵🇱 Zuzanna FAMULOK
+SUMMARY:🏊 Women's 4 x 100m Freestyle Relay - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T123000Z-cycling-road-WOMENS-INDIVIDUAL-TIME-TRIAL
@@ -220,6 +288,23 @@ SUMMARY:🏇 Eventing Individual Cross Country
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T083000Z-rowing-WOMENS-PAIR-HEATS
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T085700Z
+DESCRIPTION:Rowing - Women's Pair Heats\n🇮🇪 Aifric KEOGH\n🇪🇸 Aina CID I
+  CENTELLES\n🇳🇿 Alana SHERMAN\n🇦🇺 Annabelle McINTYRE\n🇨🇱 Antonia
+  ABRAHAM\n🇺🇸 Azja CZAJKOWSKI\n🇬🇧 Chloe BREW\n🇬🇷 Christina
+  BOURMPOU\n🇪🇸 Esther BRIZ ZAMORANO\n🇬🇷 Evangelia ANASTASIADOU\n🇩🇰
+  Fie Udby ERICHSEN\n🇮🇪 Fiona MURTAGH\n🇩🇰 Hedvig RASMUSSEN\n🇱🇹 Ieva
+  ADOMAVICIUTE\n🇷🇴 Ioana VRINCEANU\n🇦🇺 Jess MORRISON\n🇺🇸 Jess
+  THOENNES\n🇱🇹 Kamile KRALIKAITE\n🇳🇿 Kate HAINES\n🇨🇱 Melita
+  ABRAHAM\n🇨🇿 Pavlina FLAMIKOVA\n🇨🇿 Radka NOVOTNIKOVA\n🇬🇧 Rebecca
+  EDWARDS\n🇷🇴 Roxana ANGHEL\n🇳🇱 Veronique MEESTER\n🇳🇱 Ymkje CLEVERING
+SUMMARY:🚣 Women's Pair Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T100000Z-tennis-WOMENS-SINGLES-FIRST-ROUND-CAN-DEN
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
@@ -236,6 +321,26 @@ DTEND:20240728T173000Z
 DESCRIPTION:Tennis - Women's Singles First Round
 SUMMARY:🎾 Mayar SHERIF 🇪🇬 - 🇩🇰 Caroline WOZNIACKI
 LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T103000Z-rowing-WOMENS-FOUR-HEATS
+DTSTAMP:20240728T103000Z
+DTSTART:20240728T103000Z
+DTEND:20240728T104700Z
+DESCRIPTION:Rowing - Women's Four Heats\n🇷🇴 Adriana ADAM\n🇷🇴 Amalia
+  BERES\n🇩🇰 Astrid STEENSBERG\n🇳🇱 Benthe BOONSTRA\n🇺🇸 Daisy
+  MAZZIO-MANSON\n🇳🇿 Davina WADDY\n🇮🇪 Eimear LAMBE\n🇮🇪 Emily
+  HEGARTY\n🇺🇸 Emily KALLFELZ\n🇬🇧 Esme BOOTH\n🇩🇰 Frida Sanggaard
+  NIELSEN\n🇬🇧 Helen GLOVER\n🇳🇱 Hermijntje DRENTH\n🇮🇪 Imogen
+  MAGNER\n🇳🇿 Jackie GOWLER\n🇦🇺 Jean MITCHELL\n🇩🇰 Julie POULSEN\n🇺🇸
+  Kate KNIFTON\n🇺🇸 Kelsey REELICK\n🇳🇿 Kerri WILLIAMS\n🇨🇳 LIU
+  Xiaoxin\n🇦🇺 Lily ALTON\n🇷🇴 Maria LEHACI\n🇷🇴 Maria Magdalena
+  RUSU\n🇩🇰 Marie Skytte Hauberg JOHANNESEN\n🇳🇱 Marloes OLDENBURG\n🇦🇺
+  Molly GOODMAN\n🇮🇪 Natalie LONG\n🇦🇺 Olympia ALDERSEY\n🇳🇿 Phoebe
+  SPOORS\n🇬🇧 Rebecca SHORTEN\n🇬🇧 Sam REDGRAVE\n🇳🇱 Tinka
+  OFFEREINS\n🇨🇳 WANG Zifeng\n🇨🇳 XU Xingye\n🇨🇳 ZHANG Shuxian
+SUMMARY:🚣 Women's Four Heats
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T103500Z-sailing-WOMENS-SKIFF-RACE-1
@@ -379,6 +484,18 @@ SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇹🇼 LEE/WANG
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T083000Z-rowing-WOMENS-PAIR-REPECHAGES
+DTSTAMP:20240729T083000Z
+DTSTART:20240729T083000Z
+DTEND:20240729T083700Z
+DESCRIPTION:Rowing - Women's Pair Repechages\n🇪🇸 Aina CID I
+  CENTELLES\n🇳🇿 Alana SHERMAN\n🇬🇧 Chloe BREW\n🇪🇸 Esther BRIZ
+  ZAMORANO\n🇩🇰 Fie Udby ERICHSEN\n🇩🇰 Hedvig RASMUSSEN\n🇳🇿 Kate
+  HAINES\n🇬🇧 Rebecca EDWARDS
+SUMMARY:🚣 Women's Pair Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T090000Z-equestrian-EVENTING-INDIVIDUAL-JUMPING-QUALIFIER
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
@@ -405,6 +522,35 @@ DESCRIPTION:Equestrian - Eventing Individual Jumping Qualifier\n🇿🇦
   MANNINEN\n🇵🇱 Wiktoria KNAP
 SUMMARY:🏇 Eventing Individual Jumping Qualifier
 LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-rowing-WOMENS-EIGHT-HEATS
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T101700Z
+DESCRIPTION:Rowing - Women's Eight Heats\n🇨🇦 Abby DENT\n🇷🇴 Adriana
+  ADAM\n🇮🇹 Aisha ROCEK\n🇮🇹 Alice CODATO\n🇮🇹 Alice GNATTA\n🇷🇴 Amalia
+  BERES\n🇷🇴 Ancuta BODNAR\n🇬🇧 Annie CAMPBELL-ORDE\n🇨🇦 Avalon
+  WASTENEYS\n🇦🇺 Bronwyn COX\n🇨🇦 Caileigh FILMER\n🇩🇰 Caroline
+  MUNCH\n🇺🇸 Charlotte BUCK\n🇺🇸 Claire COLLINS\n🇩🇰 Clara
+  HORNNAESS\n🇮🇹 Elisa MONDELLI\n🇮🇹 Emanuele CAPPONI\n🇬🇧 Emily
+  FORD\n🇬🇧 Eve STEWART\n🇩🇰 Frida Werner FOLDAGER\n🇦🇺 Georgie
+  ROWE\n🇦🇺 Giorgia PATTEN\n🇮🇹 Giorgia PELACCHI\n🇬🇧 Harriet
+  TAYLOR\n🇦🇺 Hayley VERBUNT\n🇬🇧 Heidi LONG\n🇬🇧 Henry FIELDMAN\n🇬🇧
+  Holly DUNFORD\n🇷🇴 Ioana VRINCEANU\n🇦🇺 Jacqui SWICK\n🇨🇦 Jessica
+  SEVICK\n🇩🇰 Karen MORTENSEN\n🇨🇦 Kasia GRUCHALLA-WESIERSKI\n🇦🇺
+  Katrina WERRY\n🇨🇦 Kristen KIT\n🇨🇦 Kristina WALKER\n🇬🇧 Lauren
+  IRWIN\n🇮🇹 Linda de FILIPPIS\n🇦🇺 Lucy STEPHAN\n🇺🇸 Maddie
+  WANAMAKER\n🇺🇸 Margaret HEDEMAN\n🇷🇴 Maria LEHACI\n🇷🇴 Maria Magdalena
+  RUSU\n🇨🇦 Maya MESCHKULEIT\n🇺🇸 Meghan MUSNICKI\n🇺🇸 Molly
+  BRUGGEMAN\n🇩🇰 Nanna VIGILD\n🇩🇰 Nikoline LAIDLAW\n🇺🇸 Nina
+  CASTAGNA\n🇺🇸 Olivia COFFEY\n🇦🇺 Paige BARR\n🇺🇸 Regina SALMONS\n🇬🇧
+  Rowan McKELLAR\n🇷🇴 Roxana ANGHEL\n🇩🇰 Sara Maria JOHANSEN\n🇦🇺 Sarah
+  HAWE\n🇮🇹 Silvia TERRAZZI\n🇷🇴 Simona RADIS\n🇩🇰 Sofie
+  VIKKELSOEE\n🇩🇰 Sophie OESTERGAARD\n🇨🇦 Sydney PAYNE\n🇮🇹 Veronica
+  BUMBACA\n🇷🇴 Victoria Stefania PETREANU
+SUMMARY:🚣 Women's Eight Heats
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T100000Z-tennis-WOMENS-SINGLES-SECOND-ROUND-DEN-USA
@@ -625,6 +771,23 @@ DESCRIPTION:Triathlon - Men's Individual\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Albe
   Bergsvik THORN
 SUMMARY:🏊 Men's Individual
 LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T081000Z-rowing-MENS-SINGLE-SCULLS-QUARTERFINALS
+DTSTAMP:20240730T081000Z
+DTSTART:20240730T081000Z
+DTEND:20240730T084700Z
+DESCRIPTION:Rowing - Men's Single Sculls Quarterfinals\n🇯🇵 ARAKAWA
+  Ryuta\n🇪🇬 Abdelkhalek ELBANNA\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal
+  PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷
+  Damir MARTIN\n🇱🇹 Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸
+  Jacob PLIHAL\n🇵🇾 Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas
+  VERTHEIN FERREIRA\n🇷🇴 Mihai CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas
+  MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 Men's Single Sculls Quarterfinals
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T100500Z-sailing-WOMENS-SKIFF-RACE-7
@@ -890,6 +1053,37 @@ SUMMARY:🚣 Women's Pair Semifinal A/B 1
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T090000Z-swimming-WOMENS-200M-BREASTSTROKE-HEATS
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T092100Z
+DESCRIPTION:Swimming - Women's 200m Breaststroke - Heats\n🇦🇺 Ella
+  RAMSAY\n🇸🇬 En Yi Letitia SIM\n🇪🇪 Eneli JEFIMOVA\n🇮🇹 Francesca
+  FANGIO\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL MONTERO\n🇺🇸 Kate
+  DOUGLASS\n🇿🇦 Kaylene CORBETT\n🇨🇦 Kelsey WOG\n🇱🇹 Kotryna
+  TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇺🇸 Lilly KING\n🇨🇭 Lisa MAMIE\n🇦🇷
+  Macarena CEBALLOS\n🇮🇪 Mona Mc SHARRY\n🇯🇵 SUZUKI Satomi\n🇸🇪 Sophie
+  HANSSON\n🇨🇦 Sydney PICKREM\n🇿🇦 Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇩🇰
+  Thea BLOMSTERBERG\n🇨🇳 YE Shiwen
+SUMMARY:🏊 Women's 200m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T094600Z-swimming-WOMENS-200M-BUTTERFLY-HEATS
+DTSTAMP:20240731T094600Z
+DTSTART:20240731T094600Z
+DTEND:20240731T100600Z
+DESCRIPTION:Swimming - Women's 200m Butterfly - Heats\n🇦🇺 Abbey Lee
+  CONNOR\n🇺🇸 Alex SHACKELL\n🇨🇷 Alondra ORTIZ\n🇷🇸 Anja CREVAR\n🇭🇺
+  Boglarka KAPAS\n🇨🇳 CHEN Luying\n🇦🇺 Elizabeth DEKKERS\n🇬🇷 Georgia
+  DAMASIOTI\n🇩🇰 Helena Rosendahl BACH\n🇬🇧 Keanna Louise MACINNES\n🇧🇦
+  Lana PUDAR\n🇪🇸 Laura CABANES GARZAS\n🇬🇧 Laura STEPHENS\n🇦🇴 Lia
+  LIMA\n🇯🇵 MAKINO Hiroko\n🇯🇵 MITSUI Airi\n🇺🇸 Regan SMITH\n🇨🇦 Summer
+  McINTOSH\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 Women's 200m Butterfly - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T101500Z-sailing-WOMENS-SKIFF-RACE-10
 DTSTAMP:20240731T101500Z
 DTSTART:20240731T101500Z
@@ -1108,6 +1302,30 @@ SUMMARY:🏹 LI Jiaman 🇨🇳 - 🇩🇰 Kirstine DANSTRUP ANDERSEN
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T081000Z-rowing-WOMENS-EIGHT-REPECHAGES
+DTSTAMP:20240801T081000Z
+DTSTART:20240801T081000Z
+DTEND:20240801T081700Z
+DESCRIPTION:Rowing - Women's Eight Repechages\n🇨🇦 Abby DENT\n🇮🇹 Aisha
+  ROCEK\n🇮🇹 Alice CODATO\n🇮🇹 Alice GNATTA\n🇨🇦 Avalon WASTENEYS\n🇦🇺
+  Bronwyn COX\n🇨🇦 Caileigh FILMER\n🇩🇰 Caroline MUNCH\n🇺🇸 Charlotte
+  BUCK\n🇺🇸 Claire COLLINS\n🇩🇰 Clara HORNNAESS\n🇮🇹 Elisa
+  MONDELLI\n🇮🇹 Emanuele CAPPONI\n🇩🇰 Frida Werner FOLDAGER\n🇦🇺 Georgie
+  ROWE\n🇦🇺 Giorgia PATTEN\n🇮🇹 Giorgia PELACCHI\n🇦🇺 Hayley
+  VERBUNT\n🇦🇺 Jacqui SWICK\n🇨🇦 Jessica SEVICK\n🇩🇰 Karen
+  MORTENSEN\n🇨🇦 Kasia GRUCHALLA-WESIERSKI\n🇦🇺 Katrina WERRY\n🇨🇦
+  Kristen KIT\n🇨🇦 Kristina WALKER\n🇮🇹 Linda de FILIPPIS\n🇦🇺 Lucy
+  STEPHAN\n🇺🇸 Maddie WANAMAKER\n🇺🇸 Margaret HEDEMAN\n🇨🇦 Maya
+  MESCHKULEIT\n🇺🇸 Meghan MUSNICKI\n🇺🇸 Molly BRUGGEMAN\n🇩🇰 Nanna
+  VIGILD\n🇩🇰 Nikoline LAIDLAW\n🇺🇸 Nina CASTAGNA\n🇺🇸 Olivia
+  COFFEY\n🇦🇺 Paige BARR\n🇺🇸 Regina SALMONS\n🇩🇰 Sara Maria
+  JOHANSEN\n🇦🇺 Sarah HAWE\n🇮🇹 Silvia TERRAZZI\n🇩🇰 Sofie
+  VIKKELSOEE\n🇩🇰 Sophie OESTERGAARD\n🇨🇦 Sydney PAYNE\n🇮🇹 Veronica
+  BUMBACA
+SUMMARY:🚣 Women's Eight Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T100000Z-shooting-50M-RIFLE-3-POSITIONS-WOMENS-QUALIFICATION
 DTSTAMP:20240801T100000Z
 DTSTART:20240801T100000Z
@@ -1306,6 +1524,53 @@ DESCRIPTION:Shooting - Skeet Men's Qualification - Day 1\n🇮🇳 Anant Jeet
   Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
 SUMMARY:🔫 Skeet Men's Qualification - Day 1
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-swimming-WOMENS-50M-FREESTYLE-HEATS
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T092200Z
+DESCRIPTION:Swimming - Women's 50m Freestyle - Heats\n🇳🇬 Adaku
+  NWANDU\n🇹🇬 Adele Sodalo Agnes GAITOU\n🇲🇱 Aichata DIABATE\n🇲🇻
+  Aishath Ulya SHAIG\n🇫🇯 Anahira McCUTCHEON\n🇪🇨 Anicka DELGADO\n🇬🇧
+  Anna HOPKIN\n🇲🇬 Antsa RABEJAONA\n🇰🇭 Apsara Katarina SAKBUM\n🇫🇷
+  Beryl GASTALDELLO\n🇦🇼 Chloe FARRO\n🇪🇷 Christina RACH\n🇮🇪 Danielle
+  HILL\n🇨🇩 Divine MIANSADI\n🇬🇳 Djenabou Jolie BAH\n🇹🇯 Ekaterina
+  BORDACHYOVA\n🇰🇬 Elizaveta PECHERSKIKH\n🇧🇪 Florine GASPARD\n🇵🇬
+  Georgia-Leigh VELE\n🇨🇲 Grace Manuela NGUELO'O MABEU\n🇺🇸 Gretchen
+  WALSH\n🇽🇰 Hana BEIQI\n🇧🇳 Hayley WONG\n🇧🇫 Iman KOURAOGO\n🇹🇱 Imelda
+  XIMENES BELO\n🇧🇯 Ionnah Eliane DOUILLET\n🇸🇧 Isabella MILLAR\n🇭🇷
+  Jana PAVALIC\n🇩🇲 Jasmine SCHOFIELD\n🇹🇭 Jenjira SRISA - ARD\n🇬🇭
+  Joselle MENSAH\n🇲🇪 Jovana KULJACA\n🇩🇰 Julie Kepp JENSEN\n🇸🇷 Kaelyn
+  Ciara Suryanti DJOPARTO\n🇼🇸 Kaiya BROWN\n🇵🇱 Katarzyna WASICK\n🇲🇭
+  Kayla HEPLER\n🇻🇨 Kennice Aphenie GREENE\n🇫🇲 Kestra KIHLENG\n🇸🇨
+  Khema ELIZABETH\n🇳🇱 Kim BUSCH\n🇵🇱 Kornelia FIEDKIEWICZ\n🇷🇼 Lidwine
+  UMUHOZA UWASE\n🇪🇹 Lina Alemayehu SELO\n🇻🇺 Loane RUSSET\n🇧🇮 Lois
+  Eliora IRISHURA\n🇰🇲 Maesha SAADI\n🇰🇪 Maria BRUNLEHNER\n🇧🇴 Maria
+  Jose RIBERA\n🇦🇿 Mariam SHEIKHALIZADEHKHANGHAH\n🇭🇹 Mayah
+  CHOULOUTE\n🇦🇺 Meg HARRIS\n🇫🇷 Melanie HENIQUE\n🇿🇲 Mia PHIRI\n🇸🇪
+  Michelle COLEMAN\n🇧🇩 Mst Sonia KHATUN\n🇩🇯 Naima-Zahra AMISON\n🇸🇮
+  Neza KLANCAR\n🇹🇴 Noelani Malia DAY\n🇬🇦 Noelie Annette LACOUR\n🇸🇱
+  Olamide SAM\n🇭🇺 Petra SENANSZKY\n🇧🇸 Rhanishka GIBBS\n🇯🇲 Sabrina
+  LYN\n🇳🇪 Salima AHMADOU YOUSSOUFOU\n🇮🇹 Sara CURTIS\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Simone MANUEL\n🇹🇿 Sophia
+  LATIFF\n🇲🇼 Tayamika CHANGANAMUNO\n🇨🇦 Taylor RUCK\n🇬🇷 Theodora
+  DRAKOU\n🇨🇫 Tracy Marine ANDET\n🇳🇱 Valerie van ROON\n🇨🇬 Vanessa
+  BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 Women's 50m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T104400Z-swimming-WOMENS-4-X-100M-MEDLEY-RELAY-HEATS
+DTSTAMP:20240803T104400Z
+DTSTART:20240803T104400Z
+DTEND:20240803T105600Z
+DESCRIPTION:Swimming - Women's 4 x 100m Medley Relay - Heats\n🇦🇺
+  AUS\n🇨🇦 CAN\n🇨🇳 CHN\n🇩🇰 DEN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇰
+  Hong Kong, China\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇵🇱 POL\n🇸🇬
+  SGP\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Women's 4 x 100m Medley Relay - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T190000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-DEN-KOR

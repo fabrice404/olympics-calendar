@@ -13,6 +13,26 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T091300Z-swimming-WOMENS-100M-BACKSTROKE-HEATS
+DTSTAMP:20240729T091300Z
+DTSTART:20240729T091300Z
+DTEND:20240729T092700Z
+DESCRIPTION:Swimming - Women's 100m Backstroke - Heats\n🇵🇱 Adela
+  PISKORSKA\n🇧🇭 Amani ALOBAIDLI\n🇮🇱 Aviv BARZELAY\n🇹🇲 Aynura
+  PRIMOVA\n🇫🇷 Beryl GASTALDELLO\n🇭🇰 CHEUNG Sum Yuet Cindy\n🇪🇸 Carmen
+  WEILER SASTRE\n🇲🇽 Celia PULIDO ORTIZ\n🇸🇻 Celina MARQUEZ\n🇮🇪
+  Danielle HILL\n🇲🇿 Denise DONELLI\n🇩🇴 Elizabeth JIMENEZ\n🇧🇲 Emma
+  HARVEY\n🇫🇷 Emma TEREBO\n🇧🇬 Gabriela GEORGIEVA\n🇱🇰 Ganga
+  SENAVIRATHNE\n🇨🇦 Ingrid WILM\n🇦🇺 Iona ANDERSON\n🇺🇸 Katharine
+  BERKOFF\n🇬🇧 Kathleen DAWSON\n🇦🇺 Kaylee McKEOWN\n🇳🇱 Kira
+  TOUSSAINT\n🇨🇦 Kylie MASSE\n🇸🇪 Louise HANSSON\n🇬🇹 Lucero MEJIA\n🇳🇱
+  Maaike de WAARD\n🇬🇧 Medi Eira HARRIS\n🇱🇾 Mek ALMUKHTAR\n🇺🇦 Nika
+  SHARAFUTDINOVA\n🇺🇸 Regan SMITH\n🇧🇪 Roos VANOTTERDIJK\n🇨🇳 WAN
+  Letian\n🇨🇳 WANG Xueer\n🇰🇿 Xeniya IGNATOVA\n🇹🇹 Zuri FERGUSON
+SUMMARY:🏊 Women's 100m Backstroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T082400Z-judo-MEN-81-KG-ELIMINATION-ROUND-OF-32-BRN-TUR
 DTSTAMP:20240730T082400Z
 DTSTART:20240730T082400Z
@@ -20,6 +40,23 @@ DTEND:20240730T083000Z
 DESCRIPTION:Judo - Men -81 kg Elimination Round of 32
 SUMMARY:🥋 Askerbii GERBEKOV 🇧🇭 - 🇹🇷 Vedat ALBAYRAK
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110153Z-swimming-MENS-200M-BREASTSTROKE-HEATS
+DTSTAMP:20240730T110153Z
+DTSTART:20240730T110153Z
+DTEND:20240730T112042Z
+DESCRIPTION:Swimming - Men's 200m Breaststroke - Heats\n🇱🇹 Aleksas
+  SAVICKAS\n🇯🇴 Amro AL-WIR\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦
+  Bernhard Tyler CHRISTIANSON\n🇰🇷 CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳
+  DONG Zhihao\n🇱🇻 Daniils BOBROVS\n🇰🇬 Denis PETRASHOV\n🇸🇪 Erik
+  PERSSON\n🇯🇵 HANAGURUMA Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺
+  Joshua YONG\n🇭🇳 Julio HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
+  EPITROPOV\n🇺🇸 Matt FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro
+  de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE
+  Ippei\n🇦🇺 Zac STUBBLETY-COOK
+SUMMARY:🏊 Men's 200m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

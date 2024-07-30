@@ -13,6 +13,40 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T081200Z-rowing-WOMENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T081200Z
+DTSTART:20240727T081200Z
+DTEND:20240727T091900Z
+DESCRIPTION:Rowing - Women's Single Sculls Heats\n🇵🇪 Adriana
+  SANGUINETI\n🇸🇬 Aisyah RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra
+  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
+  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
+  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
+  TWIGG\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇮🇷 Fatemeh
+  MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸 Jovana ARSIC\n🇺🇸 Kara
+  KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen NOBLE\n🇲🇽 Kenia LECHUGA
+  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline EL ALLAOUI\n🇩🇿 Nihed
+  BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige BADENHORST\n🇰🇼 Soaad
+  ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
+  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 Women's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T070000Z-rowing-WOMENS-SINGLE-SCULLS-REPECHAGES
+DTSTAMP:20240728T070000Z
+DTSTART:20240728T070000Z
+DTEND:20240728T073100Z
+DESCRIPTION:Rowing - Women's Single Sculls Repechages\n🇵🇪 Adriana
+  SANGUINETI\n🇸🇬 Aisyah RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra
+  ALONSO ALDERETE\n🇹🇷 Elis OZBAY\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇮🇷
+  Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇺🇬 Kathleen
+  NOBLE\n🇲🇦 Majdouline EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇰🇼 Soaad
+  ALFAQAAN\n🇻🇳 Thi Hue PHAM\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 Women's Single Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T073000Z-fencing-WOMENS-FOIL-INDIVIDUAL-TABLE-OF-64-BRA-PHI
 DTSTAMP:20240728T073000Z
 DTSTART:20240728T073000Z
@@ -40,6 +74,23 @@ SUMMARY:🥊 Yasmine MOUTTAKI 🇲🇦 - 🇵🇭 Aira VILLEGAS
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T073000Z-rowing-WOMENS-SINGLE-SCULLS-QUARTERFINALS
+DTSTAMP:20240730T073000Z
+DTSTART:20240730T073000Z
+DTEND:20240730T080700Z
+DESCRIPTION:Rowing - Women's Single Sculls Quarterfinals\n🇵🇪 Adriana
+  SANGUINETI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿
+  Anna PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA
+  TAVARES CARDOSO\n🇧🇬 Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis
+  OZBAY\n🇳🇿 Emma TWIGG\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie
+  DELGACO\n🇷🇸 Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇲🇽
+  Kenia LECHUGA ALANIS\n🇦🇹 Magdalena LOBNIG\n🇸🇮 Nina KOSTANJSEK\n🇿🇦
+  Paige BADENHORST\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
+  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS
+SUMMARY:🚣 Women's Single Sculls Quarterfinals
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T090000Z-judo-WOMEN-63-KG-ELIMINATION-ROUND-OF-32-CHN-PHI
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
@@ -47,6 +98,25 @@ DTEND:20240730T090600Z
 DESCRIPTION:Judo - Women -63 kg Elimination Round of 32
 SUMMARY:🥋 TANG Jing 🇨🇳 - 🇵🇭 Kiyomi WATANABE
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T104759Z-swimming-WOMENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T104759Z
+DTSTART:20240730T104759Z
+DTEND:20240730T110153Z
+DESCRIPTION:Swimming - Women's 100m Freestyle - Heats\n🇬🇾 Aleka Kylela
+  PERSAUD\n🇬🇧 Anna HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl
+  GASTALDELLO\n🇺🇬 Gloria Anna MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY
+  Siobhan Bernadette\n🇭🇷 Jana PAVALIC\n🇰🇾 Jillian Janis Geohagan
+  CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭 Kayla SANCHEZ\n🇵🇱 Kornelia
+  FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷 Marie WATTEL\n🇳🇱 Marrit
+  STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle COLEMAN\n🇦🇺 Mollie
+  O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza KLANCAR\n🇿🇼 Paige van der
+  WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah SJOESTROEM\n🇦🇺 Shayna
+  JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩 Tilly COLLYMORE\n🇺🇸
+  Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 Women's 100m Freestyle - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T155400Z-boxing-WOMENS-57KG-PRELIMINARIES-ROUND-OF-32-IND-PHI
@@ -92,6 +162,27 @@ DTEND:20240801T182700Z
 DESCRIPTION:Boxing - Women's 50kg - Preliminaries - Round of 16
 SUMMARY:🥊 Aira VILLEGAS 🇵🇭 - 🇩🇿 Roumaysa BOUALAM
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T090000Z-swimming-MENS-100M-BUTTERFLY-HEATS
+DTSTAMP:20240802T090000Z
+DTSTART:20240802T090000Z
+DTEND:20240802T091300Z
+DESCRIPTION:Swimming - Men's 100m Butterfly - Heats\n🇰🇿 Adilbek
+  MUSSIN\n🇦🇺 Ben ARMBRUSTER\n🇺🇸 Caeleb DRESSEL\n🇳🇿 Cameron GRAY\n🇿🇦
+  Chad le CLOS\n🇫🇷 Clement SECCHI\n🇨🇿 Daniel GRACIK\n🇵🇹 Diogo MATOS
+  RIBEIRO\n🇮🇱 Gal COHEN GROUMI\n🇮🇶 Hasan Ali Khaleel AL-ZINKEE\n🇭🇺
+  Hubert KOS\n🇨🇦 Ilya KHARUN\n🇵🇱 Jakub MAJERSKI\n🇬🇧 James GUY\n🇵🇭
+  Jarod HATCH\n🇺🇬 Jesse Ssuubi SSENGONZI\n🇮🇩 Joe KURNIAWAN\n🇯🇲 Josh
+  KIRLEW\n🇨🇦 Josh LIENDO\n🇧🇬 Josif MILADINOV\n🇩🇪 Kaii WINKLER\n🇧🇷
+  Kayky MOTA\n🇭🇺 Kristof MILAK\n🇯🇵 MATSUMOTO Katsuhiro\n🇯🇵 MIZUNUMA
+  Naoki\n🇪🇸 Mario MOLLA YANES\n🇿🇦 Matthew SATES\n🇦🇺 Matthew
+  TEMPLE\n🇫🇷 Maxime GROUSSET\n🇲🇪 Milos MILENKOVIC\n🇭🇷 Nikola
+  MILJENIC\n🇨🇭 Noe PONTI\n🇳🇱 Nyls KORSTANJE\n🇷🇼 Oscar Cyusa PEYRE
+  MITILLA\n🇨🇳 SUN Jiajun\n🇦🇹 Simon BUCHER\n🇺🇸 Thomas HEILMAN\n🇮🇱
+  Tomer FRANKEL\n🇨🇳 WANG Changhao\n🇾🇪 Yusuf Marwan Abdullah NASSER
+SUMMARY:🏊 Men's 100m Butterfly - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

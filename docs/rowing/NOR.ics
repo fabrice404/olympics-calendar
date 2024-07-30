@@ -4,6 +4,108 @@ PRODID:-//fabrice404//olympics-calendar//rowing/NOR//EN
 X-WR-CALNAME:🇳🇴 Norway Rowing | Paris 2024
 NAME:🇳🇴 Norway Rowing | Paris 2024
 BEGIN:VEVENT
+UID:20240727T093000Z-rowing-MENS-DOUBLE-SCULLS-HEATS
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T095700Z
+DESCRIPTION:Rowing - Men's Double Sculls Heats\n🇪🇸 Aleix GARCIA I
+  PUJOLAR\n🇷🇴 Andrei Sebastian CORNEA\n🇭🇷 Anton LONCARIC\n🇺🇸 Ben
+  DAVISON\n🇮🇪 Daire LYNCH\n🇫🇷 Hugo BOUCHERON\n🇩🇪 Jonas GELSEN\n🇳🇿
+  Jordan PARRY\n🇳🇴 Kjetil BORCH\n🇨🇳 LIU Zhiyu\n🇩🇪 Marc WEBER\n🇷🇴
+  Marian Florian ENACHE\n🇳🇴 Martin HELSETH\n🇷🇸 Martin MACKOVIC\n🇮🇹
+  Matteo SARTORI\n🇫🇷 Matthieu ANDRODIAS\n🇳🇱 Melvin TWELLAAR\n🇮🇹
+  Nicolo' CARUCCI\n🇷🇸 Nikolaj PIMENOV\n🇭🇷 Patrik LONCARIC\n🇮🇪 Philip
+  DOYLE\n🇳🇿 Robbie MANSON\n🇪🇸 Rodrigo CONDE ROMERO\n🇨🇳 SULITAN
+  Adilijiang\n🇺🇸 Sorin KOSZYK\n🇳🇱 Stef BROENINK
+SUMMARY:🚣 Men's Double Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-rowing-WOMENS-DOUBLE-SCULLS-HEATS
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T102700Z
+DESCRIPTION:Rowing - Women's Double Sculls Heats\n🇮🇪 Alison BERGIN\n🇦🇺
+  Amanda BATEMAN\n🇷🇴 Ancuta BODNAR\n🇨🇿 Anna SANTRUCKOVA\n🇳🇿 Brooke
+  FRANCIS\n🇮🇹 Clara GUERRA\n🇱🇹 Donata KARALIENE\n🇱🇹 Dovile
+  RIMKUTE\n🇫🇷 Elodie RAVERA SCARAMOZZINO\n🇫🇷 Emma LUNATTI\n🇦🇺 Harriet
+  HUDSON\n🇳🇴 Inger Seim KAVLIE\n🇺🇸 Kristi WAGNER\n🇨🇳 LU Shiyu\n🇨🇿
+  Lenka LUKSOVA\n🇳🇱 Lisa SCHEENAARD\n🇳🇿 Lucy SPOORS\n🇳🇱 Martine
+  VELDHUIS\n🇬🇧 Mathilda HODGKINS BYRNE\n🇬🇧 Rebecca WILDE\n🇨🇳 SHEN
+  Shuangmei\n🇷🇴 Simona RADIS\n🇺🇸 Sophia VITAS\n🇮🇹 Stefania
+  GOBBI\n🇳🇴 Thea HELSETH\n🇮🇪 Zoe HYDE
+SUMMARY:🚣 Women's Double Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T103000Z-rowing-MENS-QUADRUPLE-SCULLS-HEATS
+DTSTAMP:20240727T103000Z
+DTSTART:20240727T103000Z
+DTEND:20240727T104700Z
+DESCRIPTION:Rowing - Men's Quadruple Sculls Heats\n🇪🇪 Allar RAJA\n🇮🇹
+  Andrea PANIZZA\n🇷🇴 Andrei LUNGU\n🇩🇪 Anton FINGER\n🇬🇧 Callum
+  DIXON\n🇨🇭 Dominic CONDRAU\n🇵🇱 Dominik CZAJA\n🇳🇴 Erik Andre
+  SOLBAKKEN\n🇵🇱 Fabian BARANSKI\n🇳🇱 Finn FLORIJN\n🇷🇴 Florin Bogdan
+  HORODISTEANU\n🇮🇹 Giacomo GENTILI\n🇬🇧 Graeme THOMAS\n🇷🇴 Ioan
+  PRUNDEANU\n🇳🇴 Jan Oscar Stabe HELVIG\n🇪🇪 Johann POOLAK\n🇨🇭 Jonah
+  PLOCK\n🇳🇴 Jonas Slettemark JUEL\n🇳🇱 Koen METSEMAKERS\n🇳🇴 Kristoffer
+  BRUN\n🇳🇱 Lennart van LIEROP\n🇷🇴 Leontin NUTESCU\n🇮🇹 Luca
+  CHIUMENTO\n🇮🇹 Luca RAMBALDI\n🇵🇱 Mateusz BISKUP\n🇬🇧 Matthew
+  HAYWOOD\n🇨🇭 Maurin LANGE\n🇩🇪 Max APPEL\n🇪🇪 Mikhail KUSHTEYN\n🇵🇱
+  Miroslaw ZIETARSKI\n🇩🇪 Moritz WOLFF\n🇨🇭 Scott BAERLOCHER\n🇬🇧 Thomas
+  BARRAS\n🇩🇪 Tim-Ole NASKE\n🇳🇱 Tone WIETEN\n🇪🇪 Tonu ENDREKSON
+SUMMARY:🚣 Men's Quadruple Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T081000Z-rowing-WOMENS-DOUBLE-SCULLS-REPECHAGES
+DTSTAMP:20240728T081000Z
+DTSTART:20240728T081000Z
+DTEND:20240728T081700Z
+DESCRIPTION:Rowing - Women's Double Sculls Repechages\n🇮🇹 Clara
+  GUERRA\n🇱🇹 Donata KARALIENE\n🇱🇹 Dovile RIMKUTE\n🇳🇴 Inger Seim
+  KAVLIE\n🇳🇱 Lisa SCHEENAARD\n🇳🇱 Martine VELDHUIS\n🇮🇹 Stefania
+  GOBBI\n🇳🇴 Thea HELSETH
+SUMMARY:🚣 Women's Double Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-rowing-LIGHTWEIGHT-MENS-DOUBLE-SCULLS-HEATS
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T102700Z
+DESCRIPTION:Rowing - Lightweight Men's Double Sculls Heats\n🇪🇬 Ahmed
+  ABDELAAL\n🇦🇷 Alejandro COLOMINO\n🇲🇽 Alexis LOPEZ GARCIA\n🇬🇷
+  Antonios PAPAKONSTANTINOU\n🇳🇴 Ask Jarl TJOEM\n🇪🇸 Caetano Xose HORTA
+  POMBO\n🇨🇱 Cesar ABAROA\n🇪🇸 Dennis CARRACEDO FERRERO\n🇨🇱 Eber
+  SANHUEZA\n🇯🇵 FURUTA Naoki\n🇫🇷 Ferdinand LUDWIG\n🇮🇪 Fintan Mc
+  CARTHY\n🇮🇹 Gabriel SOARES\n🇫🇷 Hugo BEUREY\n🇺🇦 Igor KHMARA\n🇨🇭 Jan
+  SCHAEUBLE\n🇨🇿 Jiri SIMANEK\n🇳🇴 Lars Martin BENSKE\n🇯🇵 MIYAURA
+  Masayuki\n🇲🇽 Miguel CARBALLO NIETO\n🇨🇿 Miroslav VRASTIL\n🇪🇬 Mohamed
+  MOHAMED KOTA\n🇧🇪 Niels van ZANDWEGHE\n🇮🇪 Paul O DONOVAN\n🇦🇷 Pedro
+  DICKSON\n🇬🇷 Petros GKAIDATZIS\n🇨🇭 Raphael AHUMADA\n🇺🇿 Shakhzod
+  NURMATOV\n🇺🇿 Sobirjon SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇮🇹 Stefano
+  OPPO\n🇧🇪 Tibo VYVEY
+SUMMARY:🚣 Lightweight Men's Double Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T092000Z-rowing-MENS-QUADRUPLE-SCULLS-REPECHAGES
+DTSTAMP:20240729T092000Z
+DTSTART:20240729T092000Z
+DTEND:20240729T092700Z
+DESCRIPTION:Rowing - Men's Quadruple Sculls Repechages\n🇪🇪 Allar
+  RAJA\n🇷🇴 Andrei LUNGU\n🇩🇪 Anton FINGER\n🇨🇭 Dominic CONDRAU\n🇳🇴
+  Erik Andre SOLBAKKEN\n🇷🇴 Florin Bogdan HORODISTEANU\n🇷🇴 Ioan
+  PRUNDEANU\n🇳🇴 Jan Oscar Stabe HELVIG\n🇪🇪 Johann POOLAK\n🇨🇭 Jonah
+  PLOCK\n🇳🇴 Jonas Slettemark JUEL\n🇳🇴 Kristoffer BRUN\n🇷🇴 Leontin
+  NUTESCU\n🇨🇭 Maurin LANGE\n🇩🇪 Max APPEL\n🇪🇪 Mikhail KUSHTEYN\n🇩🇪
+  Moritz WOLFF\n🇨🇭 Scott BAERLOCHER\n🇩🇪 Tim-Ole NASKE\n🇪🇪 Tonu
+  ENDREKSON
+SUMMARY:🚣 Men's Quadruple Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T090000Z-rowing-WOMENS-DOUBLE-SCULLS-SEMIFINAL-AB-2
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z

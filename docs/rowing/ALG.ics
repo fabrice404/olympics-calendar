@@ -4,6 +4,73 @@ PRODID:-//fabrice404//olympics-calendar//rowing/ALG//EN
 X-WR-CALNAME:🇩🇿 Algeria Rowing | Paris 2024
 NAME:🇩🇿 Algeria Rowing | Paris 2024
 BEGIN:VEVENT
+UID:20240727T070000Z-rowing-MENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Heats\n🇯🇵 ARAKAWA Ryuta\n🇸🇩
+  Abdalla AHMED\n🇪🇬 Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj
+  PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO
+  BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹
+  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
+  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
+  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
+  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
+  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 Men's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T081200Z-rowing-WOMENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T081200Z
+DTSTART:20240727T081200Z
+DTEND:20240727T091900Z
+DESCRIPTION:Rowing - Women's Single Sculls Heats\n🇵🇪 Adriana
+  SANGUINETI\n🇸🇬 Aisyah RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra
+  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
+  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
+  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
+  TWIGG\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇮🇷 Fatemeh
+  MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸 Jovana ARSIC\n🇺🇸 Kara
+  KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen NOBLE\n🇲🇽 Kenia LECHUGA
+  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline EL ALLAOUI\n🇩🇿 Nihed
+  BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige BADENHORST\n🇰🇼 Soaad
+  ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
+  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 Women's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T070000Z-rowing-WOMENS-SINGLE-SCULLS-REPECHAGES
+DTSTAMP:20240728T070000Z
+DTSTART:20240728T070000Z
+DTEND:20240728T073100Z
+DESCRIPTION:Rowing - Women's Single Sculls Repechages\n🇵🇪 Adriana
+  SANGUINETI\n🇸🇬 Aisyah RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra
+  ALONSO ALDERETE\n🇹🇷 Elis OZBAY\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇮🇷
+  Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇺🇬 Kathleen
+  NOBLE\n🇲🇦 Majdouline EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇰🇼 Soaad
+  ALFAQAAN\n🇻🇳 Thi Hue PHAM\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 Women's Single Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073600Z-rowing-MENS-SINGLE-SCULLS-REPECHAGES
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Repechages\n🇸🇩 Abdalla
+  AHMED\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj PANWAR\n🇭🇰 CHIU Hin Chun\n🇧🇲
+  Dara ALIZADEH\n🇸🇮 Isak Ivan ZVEGELJ\n🇵🇾 Javier INSFRAN\n🇮🇩
+  MEMO\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇹🇭 Premanut
+  WATTANANUSITH\n🇲🇨 Quentin ANTOGNELLI\n🇩🇿 Sid Ali BOUDINA\n🇿🇼
+  Stephen COX\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 Men's Single Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T080600Z-rowing-WOMENS-SINGLE-SCULLS-SEMIFINAL-EF-2
 DTSTAMP:20240729T080600Z
 DTSTART:20240729T080600Z
@@ -12,6 +79,23 @@ DESCRIPTION:Rowing - Women's Single Sculls Semifinal E/F 2\n🇳🇮 Evidelia
   GONZALEZ JARQUIN\n🇺🇬 Kathleen NOBLE\n🇲🇦 Majdouline EL ALLAOUI\n🇩🇿
   Nihed BENCHADLI
 SUMMARY:🚣 Women's Single Sculls Semifinal E/F 2
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T081000Z-rowing-MENS-SINGLE-SCULLS-QUARTERFINALS
+DTSTAMP:20240730T081000Z
+DTSTART:20240730T081000Z
+DTEND:20240730T084700Z
+DESCRIPTION:Rowing - Men's Single Sculls Quarterfinals\n🇯🇵 ARAKAWA
+  Ryuta\n🇪🇬 Abdelkhalek ELBANNA\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal
+  PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷
+  Damir MARTIN\n🇱🇹 Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸
+  Jacob PLIHAL\n🇵🇾 Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas
+  VERTHEIN FERREIRA\n🇷🇴 Mihai CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas
+  MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 Men's Single Sculls Quarterfinals
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT

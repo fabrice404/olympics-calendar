@@ -13,6 +13,30 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T094300Z-swimming-MENS-100M-BACKSTROKE-HEATS
+DTSTAMP:20240728T094300Z
+DTSTART:20240728T094300Z
+DTEND:20240728T095900Z
+DESCRIPTION:Swimming - Men's 100m Backstroke - Heats\n🇭🇺 Adam JASZO\n🇮🇱
+  Adam MARAANA\n🇹🇴 Alan Koti Lopeti UHI\n🇧🇯 Alexis Michel Roger Dodji
+  KPADE\n🇨🇴 Anthony RINCON VELASCO\n🇬🇷 Apostolos CHRISTOU\n🇹🇷 Berke
+  SAKA\n🇦🇹 Bernhard REITSHAMMER\n🇨🇦 Blake TIERNEY\n🇦🇺 Bradley
+  WOODWARD\n🇬🇷 Evangelos MAKRYGIANNIS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo
+  GONZALEZ de OLIVEIRA\n🇺🇸 Hunter ARMSTRONG\n🇦🇺 Isaac COOPER\n🇧🇲 Jack
+  HARVEY\n🇨🇦 Javier ACEVEDO\n🇵🇹 Joao COSTA\n🇬🇧 Jonny MARSHALL\n🇳🇱
+  Kai van WESTERING\n🇳🇿 Kane FOLLOWS\n🇵🇱 Ksawery MASIUK\n🇰🇷 LEE
+  Juho\n🇯🇵 MATSUYAMA Riku\n🇩🇪 Marek ULRICH\n🇻🇮 Maximillian
+  WILSON\n🇫🇷 Mewen TOMAC\n🇮🇹 Michele LAMBERTI\n🇨🇿 Miroslav
+  KNEDLA\n🇬🇪 Noe PANSTKHAVA\n🇩🇪 Ole BRAUNSCHWEIG\n🇺🇦 Oleksandr
+  ZHELTIAKOV\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter COETZE\n🇨🇭 Roman
+  MITYUKOV\n🇺🇸 Ryan MURPHY\n🇮🇳 Srihari NATARAJ\n🇨🇭 Thierry
+  BOLLIN\n🇮🇹 Thomas CECCON\n🇦🇷 Ulises SARAVIA\n🇨🇳 XU Jiayu\n🇵🇸
+  Yazan AL BAWWAB\n🇵🇷 Yeziel MORALES\n🇫🇷 Yohann NDOYE-BROUARD\n🇬🇩
+  Zackary GRESHAM\n🇧🇳 Zeke CHAN
+SUMMARY:🏊 Men's 100m Backstroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T133000Z-boxing-MENS-57KG-PRELIMINARIES-ROUND-OF-32-SWE-PLE
 DTSTAMP:20240728T133000Z
 DTSTART:20240728T133000Z
@@ -48,6 +72,26 @@ DESCRIPTION:Shooting - Skeet Men's Qualification - Day 1\n🇮🇳 Anant Jeet
   Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
 SUMMARY:🔫 Skeet Men's Qualification - Day 1
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T091400Z-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-HEATS
+DTSTAMP:20240802T091400Z
+DTSTART:20240802T091400Z
+DTEND:20240802T093400Z
+DESCRIPTION:Swimming - Women's 200m Individual Medley - Heats\n🇬🇧 Abbie
+  WOOD\n🇺🇸 Alex WALSH\n🇮🇱 Anastasia GORBENKO\n🇮🇩 Azzahra
+  PERMATAHANI\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma
+  SEBESTYEN\n🇦🇺 Ella RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO
+  CADENS\n🇬🇧 Freya Constance COLBERT\n🇹🇼 HAN An-Chi\n🇱🇻 Ieva
+  MALUKA\n🇨🇻 Jayla PINA\n🇰🇷 KIM Seoyeong\n🇺🇸 Kate DOUGLASS\n🇦🇺
+  Kaylee McKEOWN\n🇵🇷 Kristen Elena ROMANO\n🇮🇱 Lea POLONSKY\n🇦🇹 Lena
+  KREUNDL\n🇯🇵 MATSUMOTO Shiho\n🇳🇱 Marrit STEENBERGEN\n🇵🇪 McKenna de
+  BEVER\n🇺🇾 Nicole FRANK\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇮🇹 Sara
+  FRANCESCHI\n🇨🇦 Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇸🇰 Tamara
+  POTOCKA\n🇻🇳 Thi My Tien VO\n🇵🇸 Valerie Rose TARAZI\n🇨🇳 YE
+  Shiwen\n🇨🇳 YU Yiting
+SUMMARY:🏊 Women's 200m Individual Medley - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

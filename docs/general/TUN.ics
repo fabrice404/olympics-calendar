@@ -43,6 +43,25 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T070000Z-rowing-MENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Heats\n🇯🇵 ARAKAWA Ryuta\n🇸🇩
+  Abdalla AHMED\n🇪🇬 Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj
+  PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO
+  BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹
+  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
+  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
+  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
+  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
+  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 Men's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T083600Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-32-VIE-TUN
 DTSTAMP:20240727T083600Z
 DTSTART:20240727T083600Z
@@ -50,6 +69,27 @@ DTEND:20240727T084200Z
 DESCRIPTION:Judo - Women -48 kg Elimination Round of 32
 SUMMARY:🥋 Thi Tinh HOANG 🇻🇳 - 🇹🇳 Oumaima BEDIOUI
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T094500Z-swimming-MENS-400M-FREESTYLE-HEATS
+DTSTAMP:20240727T094500Z
+DTSTART:20240727T094500Z
+DTEND:20240727T101400Z
+DESCRIPTION:Swimming - Men's 400m Freestyle - Heats\n🇺🇸 Aaron
+  SHACKELL\n🇹🇳 Ahmed JAOUADI\n🇨🇷 Alberto VEGA\n🇻🇪 Alfonso Enrique
+  MESTRE VIVAS\n🇨🇭 Antonio DJAKOVIC\n🇱🇹 Danas RAPSYS\n🇫🇷 David
+  AUBRY\n🇨🇱 Eduardo CISTERNAS\n🇧🇷 Eduardo OLIVEIRA de MORAES\n🇦🇺
+  Elijah WINNINGTON\n🇨🇳 FEI Liwei\n🇦🇹 Felix AUBOECK\n🇧🇷 Guilherme
+  COSTA\n🇲🇾 Hoe Yean KHIEW\n🇲🇦 Ilias EL FALLAKI\n🇺🇿 Ilya
+  SIBIRTSEV\n🇵🇪 Joaquin VARGAS\n🇧🇦 Jovan LEKIC\n🇰🇷 KIM Woomin\n🇬🇧
+  Kieran BIRD\n🇺🇸 Kieran SMITH\n🇪🇪 Kregor ZIRK\n🇸🇲 Loris
+  BIANCHI\n🇧🇪 Lucas HENVEAUX\n🇩🇪 Lukas MAERTENS\n🇮🇹 Marco de
+  TULLIO\n🇮🇹 Matteo LAMBERTI\n🇲🇰 Nikola GJURETANOVIKJ\n🇩🇪 Oliver
+  KLEMET\n🇲🇩 Pavel ALOVATKI\n🇧🇬 Petar Petrov MITSIN\n🇬🇾 Raekwon
+  Jibril NOEL\n🇰🇪 Ridhwan Abubakar Bwana MOHAMED\n🇦🇺 Samuel SHORT\n🇸🇪
+  Victor JOHANSSON\n🇨🇳 ZHANG Zhanshuo\n🇭🇺 Zalan SARKANY
+SUMMARY:🏊 Men's 400m Freestyle - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T094800Z-judo-WOMEN-48-KG-ELIMINATION-ROUND-OF-16-FRA-TUN
@@ -159,6 +199,39 @@ SUMMARY:🤺 OH Sanguk 🇰🇷 - 🇹🇳 Fares FERJANI
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T073600Z-rowing-MENS-SINGLE-SCULLS-REPECHAGES
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:Rowing - Men's Single Sculls Repechages\n🇸🇩 Abdalla
+  AHMED\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj PANWAR\n🇭🇰 CHIU Hin Chun\n🇧🇲
+  Dara ALIZADEH\n🇸🇮 Isak Ivan ZVEGELJ\n🇵🇾 Javier INSFRAN\n🇮🇩
+  MEMO\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇹🇭 Premanut
+  WATTANANUSITH\n🇲🇨 Quentin ANTOGNELLI\n🇩🇿 Sid Ali BOUDINA\n🇿🇼
+  Stephen COX\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 Men's Single Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T093000Z-rowing-LIGHTWEIGHT-WOMENS-DOUBLE-SCULLS-HEATS
+DTSTAMP:20240728T093000Z
+DTSTART:20240728T093000Z
+DTEND:20240728T095700Z
+DESCRIPTION:Rowing - Lightweight Women's Double Sculls Heats\n🇵🇪 Alessia
+  PALACIOS\n🇮🇪 Aoife CASEY\n🇫🇷 Claire BOVE\n🇬🇷 Dimitra KONTOU\n🇬🇧
+  Emily CRAIG\n🇦🇷 Evelyn SILVESTRO\n🇷🇴 Gianina Elena van
+  GRONINGEN\n🇯🇵 HIROUCHI Emi\n🇬🇧 Imogen GRANT\n🇷🇴 Ionela Livia
+  COZMIUC\n🇳🇿 Jackie KIDDLE\n🇨🇦 Jenny CASSON\n🇨🇦 Jill MOFFATT\n🇵🇱
+  Katarzyna WELNA\n🇹🇳 Khadija KRIMI\n🇦🇹 Lara TIEFENTHALER\n🇫🇷 Laura
+  TARANTOLA\n🇦🇹 Louisa ALTENHUBER\n🇮🇷 Mahsa JAVER\n🇮🇪 Margaret
+  CREMEN\n🇵🇱 Martyna RADOSZ\n🇺🇸 Michelle SECHSER\n🇺🇸 Molly
+  RECKFORD\n🇯🇵 OISHI Ayami\n🇨🇳 QIU Xiuping\n🇹🇳 Selma DHAOUADI\n🇳🇿
+  Shannon COX\n🇦🇷 Sonia BALUZZO CHIARUZZO\n🇵🇪 Valeria PALACIOS\n🇨🇳
+  ZOU Jiaqi\n🇮🇷 Zeinab NOROUZI TAZEH KAND\n🇬🇷 Zoi FITSIOU
+SUMMARY:🚣 Lightweight Women's Double Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T100000Z-tennis-MENS-SINGLES-FIRST-ROUND-TUN-GBR
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
@@ -194,6 +267,40 @@ DTEND:20240729T085000Z
 DESCRIPTION:Fencing - Women's Sabre Individual Table of 32
 SUMMARY:🤺 Sara BALZER 🇫🇷 - 🇹🇳 Yasmine DAGHFOUS
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-rowing-LIGHTWEIGHT-WOMENS-DOUBLE-SCULLS-REPECHAGES
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T091700Z
+DESCRIPTION:Rowing - Lightweight Women's Double Sculls Repechages\n🇵🇪
+  Alessia PALACIOS\n🇮🇪 Aoife CASEY\n🇦🇷 Evelyn SILVESTRO\n🇯🇵 HIROUCHI
+  Emi\n🇨🇦 Jenny CASSON\n🇨🇦 Jill MOFFATT\n🇵🇱 Katarzyna WELNA\n🇹🇳
+  Khadija KRIMI\n🇦🇹 Lara TIEFENTHALER\n🇦🇹 Louisa ALTENHUBER\n🇮🇷 Mahsa
+  JAVER\n🇮🇪 Margaret CREMEN\n🇵🇱 Martyna RADOSZ\n🇯🇵 OISHI Ayami\n🇨🇳
+  QIU Xiuping\n🇹🇳 Selma DHAOUADI\n🇦🇷 Sonia BALUZZO CHIARUZZO\n🇵🇪
+  Valeria PALACIOS\n🇨🇳 ZOU Jiaqi\n🇮🇷 Zeinab NOROUZI TAZEH KAND
+SUMMARY:🚣 Lightweight Women's Double Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T092800Z-swimming-MENS-800M-FREESTYLE-HEATS
+DTSTAMP:20240729T092800Z
+DTSTART:20240729T092800Z
+DTEND:20240729T100700Z
+DESCRIPTION:Swimming - Men's 800m Freestyle - Heats\n🇹🇳 Ahmed
+  JAOUADI\n🇻🇪 Alfonso Enrique MESTRE VIVAS\n🇺🇸 Bobby FINKE\n🇪🇸 Carlos
+  GARACH BENITO\n🇮🇪 Daniel WIFFEN\n🇫🇷 David AUBRY\n🇬🇷 Dimitrios
+  MARKOS\n🇦🇺 Elijah WINNINGTON\n🇨🇳 FEI Liwei\n🇦🇹 Felix AUBOECK\n🇩🇪
+  Florian WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇳🇴
+  Henrik CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇺🇿 Ilya SIBIRTSEV\n🇳🇴 Jon
+  JOENTVEDT\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇧🇪 Lucas
+  HENVEAUX\n🇺🇸 Luke WHITLOCK\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo
+  ROMANCHUK\n🇫🇷 Pacome BRICOUT\n🇦🇺 Samuel SHORT\n🇩🇪 Sven
+  SCHWARZ\n🇲🇨 Theo DRUENNE\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan
+  STANCU\n🇨🇳 ZHANG Zhanshuo\n🇭🇺 Zalan SARKANY
+SUMMARY:🏊 Men's 800m Freestyle - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T140000Z-canoe-slalom-MENS-KAYAK-SINGLE-HEATS-1ST-RUN
@@ -279,6 +386,20 @@ SUMMARY:🥋 Rochele NUNES 🇵🇹 - 🇹🇳 Sarra MZOUGUI
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T093500Z-swimming-WOMENS-800M-FREESTYLE-HEATS
+DTSTAMP:20240802T093500Z
+DTSTART:20240802T093500Z
+DTEND:20240802T095700Z
+DESCRIPTION:Swimming - Women's 800m Freestyle - Heats\n🇦🇷 Agostina
+  HEIN\n🇭🇺 Ajna KESELY\n🇫🇷 Anastasiia KIRPICHNIKOVA\n🇦🇺 Ariarne
+  TITMUS\n🇸🇬 Ching Hwee GAN\n🇳🇿 Erika FAIRWEATHER\n🇳🇿 Eve
+  THOMAS\n🇩🇪 Isabel GOSE\n🇹🇳 Jamila BOULAKBECH\n🇺🇸 Katie
+  LEDECKY\n🇨🇱 Kristel KOBRICH\n🇨🇳 LI Bingjie\n🇦🇺 Lani PALLISTER\n🇧🇷
+  Maria Fernanda COSTA\n🇺🇸 Paige MADDEN\n🇮🇹 Simona QUADARELLA
+SUMMARY:🏊 Women's 800m Freestyle - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T133000Z-canoe-slalom-MENS-KAYAK-CROSS-TIME-TRIAL
 DTSTAMP:20240802T133000Z
 DTSTART:20240802T133000Z
@@ -307,6 +428,24 @@ DESCRIPTION:Boxing - Women's 57kg - Preliminaries - Round of 16\n🇹🇳
   Khouloud HLIMI
 SUMMARY:🥊 Women's 57kg - Preliminaries - Round of 16
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T092500Z-swimming-MENS-1500M-FREESTYLE-HEATS
+DTSTAMP:20240803T092500Z
+DTSTART:20240803T092500Z
+DTEND:20240803T103200Z
+DESCRIPTION:Swimming - Men's 1500m Freestyle - Heats\n🇹🇳 Ahmed
+  JAOUADI\n🇺🇸 Bobby FINKE\n🇪🇸 Carlos GARACH BENITO\n🇫🇷 Damien
+  JOLY\n🇬🇧 Daniel JERVIS\n🇮🇪 Daniel WIFFEN\n🇫🇷 David AUBRY\n🇭🇺
+  David BETLEHEM\n🇺🇸 David JOHNSTON\n🇬🇷 Dimitrios MARKOS\n🇹🇷 Emir
+  Batur ALBAYRAK\n🇨🇳 FEI Liwei\n🇩🇪 Florian WELLBROCK\n🇮🇹 Gregorio
+  PALTRINIERI\n🇳🇴 Henrik CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇵🇱
+  Krzysztof CHMIELEWSKI\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇪🇬
+  Marwan ELKAMASH\n🇺🇦 Mykhailo ROMANCHUK\n🇨🇺 Rodolfo FALCON JR\n🇦🇺
+  Samuel SHORT\n🇩🇪 Sven SCHWARZ\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan
+  STANCU\n🇭🇺 Zalan SARKANY
+SUMMARY:🏊 Men's 1500m Freestyle - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

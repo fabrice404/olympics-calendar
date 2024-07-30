@@ -13,6 +13,26 @@ SUMMARY:Paris 2024 - Opening ceremony
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T081200Z-rowing-WOMENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240727T081200Z
+DTSTART:20240727T081200Z
+DTEND:20240727T091900Z
+DESCRIPTION:Rowing - Women's Single Sculls Heats\n🇵🇪 Adriana
+  SANGUINETI\n🇸🇬 Aisyah RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra
+  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
+  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
+  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
+  TWIGG\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇮🇷 Fatemeh
+  MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸 Jovana ARSIC\n🇺🇸 Kara
+  KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen NOBLE\n🇲🇽 Kenia LECHUGA
+  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline EL ALLAOUI\n🇩🇿 Nihed
+  BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige BADENHORST\n🇰🇼 Soaad
+  ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
+  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 Women's Single Sculls Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T112000Z-fencing-MENS-SABRE-INDIVIDUAL-TABLE-OF-32-KUW-GER
 DTSTAMP:20240727T112000Z
 DTSTART:20240727T112000Z
@@ -20,6 +40,40 @@ DTEND:20240727T114500Z
 DESCRIPTION:Fencing - Men's Sabre Individual Table of 32
 SUMMARY:🤺 Yousef ALSHAMLAN 🇰🇼 - 🇩🇪 Matyas SZABO
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T070000Z-rowing-WOMENS-SINGLE-SCULLS-REPECHAGES
+DTSTAMP:20240728T070000Z
+DTSTART:20240728T070000Z
+DTEND:20240728T073100Z
+DESCRIPTION:Rowing - Women's Single Sculls Repechages\n🇵🇪 Adriana
+  SANGUINETI\n🇸🇬 Aisyah RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra
+  ALONSO ALDERETE\n🇹🇷 Elis OZBAY\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇮🇷
+  Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇺🇬 Kathleen
+  NOBLE\n🇲🇦 Majdouline EL ALLAOUI\n🇩🇿 Nihed BENCHADLI\n🇰🇼 Soaad
+  ALFAQAAN\n🇻🇳 Thi Hue PHAM\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 Women's Single Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T092700Z-swimming-WOMENS-100M-BREASTSTROKE-HEATS
+DTSTAMP:20240728T092700Z
+DTSTART:20240728T092700Z
+DTEND:20240728T094200Z
+DESCRIPTION:Swimming - Women's 100m Breaststroke - Heats\n🇯🇵 AOKI
+  Reona\n🇬🇲 Aminata Nia-Maria BARROW\n🇮🇱 Anastasia GORBENKO\n🇬🇧
+  Angharad EVANS\n🇩🇪 Anna ELENDT\n🇮🇹 Benedetta PILATO\n🇵🇱 Dominika
+  SZTANDERA\n🇦🇬 Ellie SHAW\n🇵🇦 Emily SANTOS SILVA\n🇺🇸 Emma
+  WEBER\n🇸🇬 En Yi Letitia SIM\n🇪🇪 Eneli JEFIMOVA\n🇫🇮 Ida HULKKO\n🇲🇦
+  Imane Houda EL BARODI\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL
+  MONTERO\n🇱🇹 Kotryna TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇨🇰 Lanihei
+  CONNOLLY\n🇰🇼 Lara DASHTI\n🇺🇸 Lilly KING\n🇮🇹 Lisa ANGIOLINI\n🇨🇭
+  Lisa MAMIE\n🇱🇧 Lynn EL HAJJ\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc
+  SHARRY\n🇲🇾 Rouxin TAN\n🇱🇹 Ruta MEILUTYTE\n🇯🇵 SUZUKI Satomi\n🇨🇦
+  Sophie ANGUS\n🇸🇪 Sophie HANSSON\n🇨🇴 Stefania GOMEZ HURTADO\n🇨🇳 TANG
+  Qianting\n🇿🇦 Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YANG Chang
+SUMMARY:🏊 Women's 100m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T073000Z-shooting-TRAP-MENS-QUALIFICATION-DAY-1
@@ -69,6 +123,41 @@ DESCRIPTION:Shooting - Trap Men's Qualification - Day 2\n🇪🇸 Alberto
   HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
 SUMMARY:🔫 Trap Men's Qualification - Day 2
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T091751Z-swimming-MENS-100M-FREESTYLE-HEATS
+DTSTAMP:20240730T091751Z
+DTSTART:20240730T091751Z
+DTEND:20240730T095131Z
+DESCRIPTION:Swimming - Men's 100m Freestyle - Heats\n🇽🇰 Adell
+  SABOVIC\n🇰🇿 Adilbek MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro
+  MIRESSI\n🇳🇵 Alexander SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭
+  Antoine de LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿
+  Cameron GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas
+  RAPSYS\n🇨🇿 Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS
+  RIBEIRO\n🇹🇭 Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir
+  BATBAYAR\n🇨🇲 Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi
+  KOXHAKU\n🇧🇷 Guilherme SANTOS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG
+  Sunwoo\n🇰🇲 Hadji HASSANE\n🇬🇭 Harry STACEY\n🇦🇴 Henrique
+  MASCARENHAS\n🇸🇷 Irvin HOOST\n🇴🇲 Issa Samir Hamed AL ADAWI\n🇺🇸 Jack
+  ALEXY\n🇧🇧 Jack KIRBY\n🇬🇧 Jacob Henry WHITTLE\n🇵🇱 Jakub
+  MAJERSKI\n🇩🇴 Javier NUNEZ\n🇱🇨 Jayhan Jamaud ODLUM-SMITH\n🇼🇸 Johann
+  STICKLAND\n🇻🇺 Johnathan SILAS\n🇸🇬 Jonathan Eu Jin TAN\n🇰🇾 Jordan
+  CROOKS\n🇲🇽 Jorge IGA\n🇨🇦 Josh LIENDO\n🇵🇬 Josh TARERE\n🇩🇪 Josha
+  SALCHOW\n🇱🇰 Kyle ABEYSINGHE\n🇦🇺 Kyle CHALMERS\n🇧🇸 Lamar
+  TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹 Leonardo DEPLANO\n🇧🇷 Marcelo
+  CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳 Matthieu SEYE\n🇫🇷 Maxime
+  GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad ZUBAID\n🇹🇲 Musa
+  ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola MILJENIC\n🇨🇾 Nikolas
+  ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲
+  Phone Pyae HAN\n🇫🇷 Rafael FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN
+  CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷 Samyar ABDOLI\n🇧🇹 Sangay
+  TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇱🇧 Simon
+  DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇨🇳 WANG
+  Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef ABUBAKER\n🇦🇪 Yousuf
+  ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
+SUMMARY:🏊 Men's 100m Freestyle - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T073000Z-shooting-SKEET-MENS-QUALIFICATION-DAY-1
