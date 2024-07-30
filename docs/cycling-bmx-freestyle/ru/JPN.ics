@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//cycling-bmx-freestyle/ru/JPN//EN
+X-WR-CALNAME:🇯🇵 Japan ВМХ-фристайл | Paris 2024
+NAME:🇯🇵 Japan ВМХ-фристайл | Paris 2024
+BEGIN:VEVENT
+UID:20240730T131145Z-cycling-bmx-freestyle--
+DTSTAMP:20240730T131145Z
+DTSTART:20240730T131145Z
+DTEND:20240730T142745Z
+DESCRIPTION:ВМХ-фристайл - Парк, квалификация (м)\n🇫🇷 Anthony
+  JEANJEAN\n🇱🇻 Ernests ZEBOLDS\n🇧🇷 Gustavo BATISTA de OLIVEIRA\n🇨🇦
+  Jeffrey WHALEY\n🇦🇷 Jose TORRES GIL\n🇺🇸 Justin DOWELL\n🇬🇧 Kieran
+  Darren David REILLY\n🇦🇺 Logan MARTIN\n🇺🇸 Marcus CHRISTOPHER\n🇭🇷
+  Marin RANTES\n🇯🇵 NAKAMURA Rimu\n🇿🇦 Vincent LEYGONIE
+SUMMARY:🚴 Парк, квалификация (м)
+LOCATION:Площадь Согласия 2
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T124445Z-cycling-bmx-freestyle--
+DTSTAMP:20240731T124445Z
+DTSTART:20240731T124445Z
+DTEND:20240731T133945Z
+DESCRIPTION:ВМХ-фристайл - Парк, финал (м)\n🇫🇷 Anthony JEANJEAN\n🇱🇻
+  Ernests ZEBOLDS\n🇧🇷 Gustavo BATISTA de OLIVEIRA\n🇦🇷 Jose TORRES
+  GIL\n🇺🇸 Justin DOWELL\n🇬🇧 Kieran Darren David REILLY\n🇦🇺 Logan
+  MARTIN\n🇺🇸 Marcus CHRISTOPHER\n🇯🇵 NAKAMURA Rimu
+SUMMARY:🚴 Парк, финал (м)
+LOCATION:Площадь Согласия 2
+END:VEVENT
+END:VCALENDAR

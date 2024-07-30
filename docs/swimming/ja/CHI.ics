@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/ja/CHI//EN
+X-WR-CALNAME:🇨🇱 Chile 競泳 | Paris 2024
+NAME:🇨🇱 Chile 競泳 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T094500Z-swimming-400M
+DTSTAMP:20240727T094500Z
+DTSTART:20240727T094500Z
+DTEND:20240727T101400Z
+DESCRIPTION:競泳 - 男子400m自由形予選\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇺🇿 ウズベキスタン\n🇪🇪
+  エストニア\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇬🇾 ガイアナ\n🇰🇪 ケニア\n🇨🇷 コスタリカ\n🇸🇲
+  サンマリノ\n🇨🇭 スイス\n🇸🇪 スウェーデン\n🇹🇳 チュニジア\n🇨🇱 チリ\n🇩🇪 ドイツ\n🇭🇺
+  ハンガリー\n🇫🇷 フランス\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇻🇪 ベネズエラ\n🇧🇪 ベルギー\n🇵🇪
+  ペルー\n🇧🇦 ボスニア・ヘルツェゴビナ\n🇲🇾 マレーシア\n🇲🇩 モルドバ共和国\n🇲🇦 モロッコ\n🇱🇹
+  リトアニア\n🇨🇳 中国\n🇲🇰 北マケドニア\n🇰🇷 大韓民国\n🇬🇧 英国
+SUMMARY:🏊 男子400m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T095100Z-swimming-1500M
+DTSTAMP:20240730T095100Z
+DTSTART:20240730T095100Z
+DTEND:20240730T104700Z
+DESCRIPTION:競泳 - 女子1500m自由形予選\n🇫🇷 Anastasiia KIRPICHNIKOVA\n🇧🇷 Beatriz
+  DIZOTTI\n🇸🇬 Ching Hwee GAN\n🇳🇿 Eve THOMAS\n🇨🇳 GAO Weizhong\n🇮🇹
+  Ginevra TADDEUCCI\n🇩🇪 Isabel GOSE\n🇺🇸 Katie GRIMES\n🇺🇸 Katie
+  LEDECKY\n🇨🇱 Kristel KOBRICH\n🇨🇳 LI Bingjie\n🇦🇺 Lani PALLISTER\n🇩🇪
+  Leonie MAERTENS\n🇦🇺 Moesha JOHNSON\n🇲🇹 Sasha GATT\n🇮🇹 Simona
+  QUADARELLA\n🇭🇺 Vivien JACKL
+SUMMARY:🏊 女子1500m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T094000Z-swimming-800M
+DTSTAMP:20240802T094000Z
+DTSTART:20240802T094000Z
+DTEND:20240802T100300Z
+DESCRIPTION:競泳 - 女子800m自由形予選\n🇦🇷 Agostina HEIN\n🇭🇺 Ajna KESELY\n🇫🇷
+  Anastasiia KIRPICHNIKOVA\n🇦🇺 Ariarne TITMUS\n🇸🇬 Ching Hwee GAN\n🇳🇿
+  Erika FAIRWEATHER\n🇳🇿 Eve THOMAS\n🇩🇪 Isabel GOSE\n🇹🇳 Jamila
+  BOULAKBECH\n🇺🇸 Katie LEDECKY\n🇨🇱 Kristel KOBRICH\n🇨🇳 LI
+  Bingjie\n🇦🇺 Lani PALLISTER\n🇧🇷 Maria Fernanda COSTA\n🇺🇸 Paige
+  MADDEN\n🇮🇹 Simona QUADARELLA
+SUMMARY:🏊 女子800m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+END:VCALENDAR

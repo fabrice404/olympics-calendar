@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ru/ASA//EN
+X-WR-CALNAME:🇦🇸 American Samoa | Paris 2024
+NAME:🇦🇸 American Samoa | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Церемония открытия
+SUMMARY:Paris 2024 - Церемония открытия
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T093000Z-swimming-100-
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T094400Z
+DESCRIPTION:Плавание - 100м брассом, квалификация (м)\n🇶🇦 Abdulaziz
+  AL-OBAIDLY\n🇬🇧 Adam PEATY\n🇧🇼 Adrian ROBINSON\n🇭🇹 Alexandre
+  GRAND'PIERRE\n🇱🇹 Andrius SIDLAUSKAS\n🇮🇸 Anton McKEE\n🇳🇱 Arno
+  KAMMINGA\n🇹🇷 Berkay OGRETIR\n🇦🇹 Bernhard REITSHAMMER\n🇰🇷 CHOI
+  Dongyeol\n🇳🇱 Caspar CORBEAU\n🇸🇿 Chadd NG CHIU HING NING\n🇺🇸 Charlie
+  SWANSON\n🇰🇬 Denis PETRASHOV\n🇦🇬 Jadon WUILLIEZ\n🇬🇧 James
+  WILBY\n🇵🇱 Jan KALUSOWSKI\n🇲🇬 Jonathan RAHARVEL\n🇦🇺 Joshua
+  YONG\n🇩🇪 Lucas MATZERATH\n🇮🇹 Ludovico Blu Art VIBERTI\n🇲🇿 Matthew
+  LAWRENCE\n🇩🇪 Melvin IMOUDU\n🇦🇸 Micah MASEI\n🇲🇽 Miguel Alejandro de
+  LARA OJEDA\n🇺🇸 Nic FINK\n🇮🇹 Nicolo MARTINENGHI\n🇨🇳 QIN
+  Haiyang\n🇮🇱 Ron POLONSKY\n🇨🇳 SUN Jiajun\n🇦🇺 Sam WILLIAMSON\n🇱🇦
+  Steven INSIXIENGMAY\n🇯🇵 TANIGUCHI Taku\n🇫🇲 Tasi LIMTIACO
+SUMMARY:🏊 100м брассом, квалификация (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

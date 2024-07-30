@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ja/KUW//EN
+X-WR-CALNAME:🇰🇼 Kuwait | Paris 2024
+NAME:🇰🇼 Kuwait | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 開会式
+SUMMARY:Paris 2024 - 開会式
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T081200Z-rowing-
+DTSTAMP:20240727T081200Z
+DTSTART:20240727T081200Z
+DTEND:20240727T091900Z
+DESCRIPTION:ローイング - 女子シングルスカル予選\n🇦🇿 アゼルバイジャン\n🇺🇸 アメリカ合衆国\n🇩🇿
+  アルジェリア\n🇮🇷 イラン・イスラム共和国\n🇺🇬 ウガンダ\n🇺🇿 ウズベキスタン\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇦🇹 オーストリア\n🇨🇺 キューバ\n🇰🇼 クウェート\n🇸🇬 シンガポール\n🇨🇭 スイス\n🇪🇸
+  スペイン\n🇸🇮 スロベニア\n🇷🇸 セルビア\n🇹🇷 トルコ\n🇹🇬 トーゴ\n🇩🇪 ドイツ\n🇳🇮
+  ニカラグア\n🇳🇿 ニュージーランド\n🇵🇾 パラグアイ\n🇵🇭 フィリピン\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇻🇳
+  ベトナム\n🇵🇪 ペルー\n🇲🇽 メキシコ\n🇲🇦 モロッコ\n🇱🇹 リトアニア\n🇿🇦 南アフリカ
+SUMMARY:🚣 女子シングルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T112000Z-fencing-T32-KUW-GER
+DTSTAMP:20240727T112000Z
+DTSTART:20240727T112000Z
+DTEND:20240727T114500Z
+DESCRIPTION:フェンシング - 男子サーブル個人T32
+SUMMARY:🤺 Yousef ALSHAMLAN 🇰🇼 - 🇩🇪 Matyas SZABO
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T070000Z-rowing-
+DTSTAMP:20240728T070000Z
+DTSTART:20240728T070000Z
+DTEND:20240728T073100Z
+DESCRIPTION:ローイング - 女子シングルスカル敗者復活戦\n🇩🇿 アルジェリア\n🇮🇷 イラン・イスラム共和国\n🇺🇬
+  ウガンダ\n🇨🇺 キューバ\n🇰🇼 クウェート\n🇸🇬 シンガポール\n🇹🇷 トルコ\n🇹🇬 トーゴ\n🇳🇮
+  ニカラグア\n🇵🇾 パラグアイ\n🇵🇭 フィリピン\n🇻🇳 ベトナム\n🇵🇪 ペルー\n🇲🇦 モロッコ
+SUMMARY:🚣 女子シングルスカル敗者復活戦
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T092700Z-swimming-100M
+DTSTAMP:20240728T092700Z
+DTSTART:20240728T092700Z
+DTEND:20240728T094200Z
+DESCRIPTION:競泳 - 女子100m平泳ぎ予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇦🇷 アルゼンチン\n🇦🇬
+  アンティグア・バーブーダ\n🇮🇱 イスラエル\n🇮🇹 イタリア\n🇪🇪 エストニア\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇨🇦 カナダ\n🇬🇲 ガンビア\n🇰🇼 クウェート\n🇨🇰 クック諸島\n🇨🇴 コロンビア\n🇸🇬
+  シンガポール\n🇨🇭 スイス\n🇸🇪 スウェーデン\n🇪🇸 スペイン\n🇨🇿 チェコ\n🇩🇪 ドイツ\n🇵🇦
+  パナマ\n🇫🇮 フィンランド\n🇵🇱 ポーランド\n🇲🇾 マレーシア\n🇲🇦 モロッコ\n🇱🇹 リトアニア\n🇱🇧
+  レバノン\n🇨🇳 中国\n🇿🇦 南アフリカ\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 女子100m平泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T073000Z-shooting--1
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T120000Z
+DESCRIPTION:射撃 - 男子トラップ個人本選 1日目\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+  GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
+  LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
+  PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
+  LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel MARTINEZ\n🇸🇰 Marian
+  KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹 Mauro de FILIPPIS\n🇦🇺
+  Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧 Nathan HALES\n🇹🇷 Oguzhan
+  TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪
+  Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
+  Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
+  Haicheng
+SUMMARY:🔫 男子トラップ個人本選 1日目
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T075400Z-rowing-EF-1
+DTSTAMP:20240729T075400Z
+DTSTART:20240729T075400Z
+DTEND:20240729T080100Z
+DESCRIPTION:ローイング - 女子シングルスカル準決勝E/F - 1組\n🇸🇬 Aisyah RAFAEE\n🇹🇬 Akoko
+  KOMLANVI\n🇰🇼 Soaad ALFAQAAN\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 女子シングルスカル準決勝E/F - 1組
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T070000Z-shooting--2
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T100000Z
+DESCRIPTION:射撃 - 男子トラップ個人本選 2日目\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+  GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
+  LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
+  PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
+  LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel MARTINEZ\n🇸🇰 Marian
+  KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹 Mauro de FILIPPIS\n🇦🇺
+  Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧 Nathan HALES\n🇹🇷 Oguzhan
+  TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪
+  Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
+  Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
+  Haicheng
+SUMMARY:🔫 男子トラップ個人本選 2日目
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T091700Z-swimming-100M
+DTSTAMP:20240730T091700Z
+DTSTART:20240730T091700Z
+DTEND:20240730T094800Z
+DESCRIPTION:競泳 - 男子100m自由形予選\n🇽🇰 Adell SABOVIC\n🇰🇿 Adilbek MUSSIN\n🇻🇪
+  Alberto MESTRE\n🇮🇹 Alessandro MIRESSI\n🇳🇵 Alexander SHAH\n🇲🇱
+  Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭 Antoine de LAPPARENT\n🇦🇲 Artur
+  BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿 Cameron GRAY\n🇺🇸 Chris
+  GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas RAPSYS\n🇨🇿 Daniel
+  GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇭 Dulyawat
+  KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir BATBAYAR\n🇨🇲 Giorgio Ar.
+  NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi KOXHAKU\n🇧🇷 Guilherme SANTOS\n🇭🇰
+  HO Ian Yentou\n🇰🇷 HWANG Sunwoo\n🇰🇲 Hadji HASSANE\n🇬🇭 Harry
+  STACEY\n🇦🇴 Henrique MASCARENHAS\n🇸🇷 Irvin HOOST\n🇴🇲 Issa Samir
+  Hamed AL ADAWI\n🇺🇸 Jack ALEXY\n🇧🇧 Jack KIRBY\n🇬🇧 Jacob Henry
+  WHITTLE\n🇵🇱 Jakub MAJERSKI\n🇩🇴 Javier NUNEZ\n🇱🇨 Jayhan Jamaud
+  ODLUM-SMITH\n🇼🇸 Johann STICKLAND\n🇻🇺 Johnathan SILAS\n🇸🇬 Jonathan
+  Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇲🇽 Jorge IGA\n🇨🇦 Josh LIENDO\n🇵🇬
+  Josh TARERE\n🇩🇪 Josha SALCHOW\n🇱🇰 Kyle ABEYSINGHE\n🇦🇺 Kyle
+  CHALMERS\n🇧🇸 Lamar TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹 Leonardo DEPLANO\n🇧🇷
+  Marcelo CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳 Matthieu SEYE\n🇫🇷
+  Maxime GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad ZUBAID\n🇹🇲 Musa
+  ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola MILJENIC\n🇨🇾 Nikolas
+  ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲
+  Phone Pyae HAN\n🇫🇷 Rafael FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN
+  CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷 Samyar ABDOLI\n🇧🇹 Sangay
+  TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇱🇧 Simon
+  DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇨🇳 WANG
+  Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef ABUBAKER\n🇦🇪 Yousuf
+  ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
+SUMMARY:🏊 男子100m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-shooting--1
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T120000Z
+DESCRIPTION:射撃 - 男子スキート個人本選 1日目\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
+  MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸 Conner Lynn PRINCE\n🇰🇿
+  Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷 Efthimios MITAS\n🇫🇷 Eric
+  DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico GIL\n🇮🇹 Gabriele
+  ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub TOMECEK\n🇩🇰 Jesper
+  HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua BELL\n🇰🇷 KIM Minsu\n🇹🇼
+  LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus SVENSSON\n🇰🇼 Mohammad
+  ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬 Omar IBRAHIM\n🇪🇪 Peeter
+  JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹 Sebastian BERMUDEZ
+  LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹 Tammaro CASSANDRO\n🇺🇸
+  Vincent HANCOCK
+SUMMARY:🔫 男子スキート個人本選 1日目
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T080600Z-rowing-E
+DTSTAMP:20240802T080600Z
+DTSTART:20240802T080600Z
+DTEND:20240802T081300Z
+DESCRIPTION:ローイング - 女子シングルスカル決勝E\n🇸🇬 Aisyah RAFAEE\n🇳🇮 Evidelia
+  GONZALEZ JARQUIN\n🇺🇬 Kathleen NOBLE\n🇩🇿 Nihed BENCHADLI\n🇰🇼 Soaad
+  ALFAQAAN\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 女子シングルスカル決勝E
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

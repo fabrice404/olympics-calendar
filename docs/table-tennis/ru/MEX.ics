@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//table-tennis/ru/MEX//EN
+X-WR-CALNAME:🇲🇽 Mexico Настольный теннис | Paris 2024
+NAME:🇲🇽 Mexico Настольный теннис | Paris 2024
+BEGIN:VEVENT
+UID:20240727T193000Z-table-tennis-132--MEX-GER
+DTSTAMP:20240727T193000Z
+DTSTART:20240727T193000Z
+DTEND:20240727T201500Z
+DESCRIPTION:Настольный теннис - 1/32 финала, одиночный разряд (м)
+SUMMARY:🏓 Marcos MADRID 🇲🇽 - 🇩🇪 Dimitrij OVTCHAROV
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T190000Z-table-tennis-132--MEX-AUT
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T200000Z
+DESCRIPTION:Настольный теннис - 1/32 финала, одиночный разряд (ж)
+SUMMARY:🏓 Arantxa COSSIO ACEVES 🇲🇽 - 🇦🇹 Sofia POLCANOVA
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//water-polo/ru/FRA//EN
+X-WR-CALNAME:🇫🇷 France Водное поло | Paris 2024
+NAME:🇫🇷 France Водное поло | Paris 2024
+BEGIN:VEVENT
+UID:20240727T163000Z-water-polo--B--ESP-FRA
+DTSTAMP:20240727T163000Z
+DTSTART:20240727T163000Z
+DTEND:20240727T175500Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (ж)
+SUMMARY:🤽 Испания 🇪🇸 - 🇫🇷 Франция
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T173000Z-water-polo--B--FRA-HUN
+DTSTAMP:20240728T173000Z
+DTSTART:20240728T173000Z
+DTEND:20240728T185500Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
+SUMMARY:🤽 Франция 🇫🇷 - 🇭🇺 Венгрия
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T120000Z-water-polo--B--FRA-ITA
+DTSTAMP:20240729T120000Z
+DTSTART:20240729T120000Z
+DTEND:20240729T132500Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (ж)
+SUMMARY:🤽 Франция 🇫🇷 - 🇮🇹 Италия
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T130000Z-water-polo--B--JPN-FRA
+DTSTAMP:20240730T130000Z
+DTSTART:20240730T130000Z
+DTEND:20240730T142500Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
+SUMMARY:🤽 Япония 🇯🇵 - 🇫🇷 Франция
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T130000Z-water-polo--B--FRA-AUS
+DTSTAMP:20240801T130000Z
+DTSTART:20240801T130000Z
+DTEND:20240801T142500Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
+SUMMARY:🤽 Франция 🇫🇷 - 🇦🇺 Австралия
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T163000Z-water-polo--B--USA-FRA
+DTSTAMP:20240802T163000Z
+DTSTART:20240802T163000Z
+DTEND:20240802T175500Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (ж)
+SUMMARY:🤽 США 🇺🇸 - 🇫🇷 Франция
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T173000Z-water-polo--B--SRB-FRA
+DTSTAMP:20240803T173000Z
+DTSTART:20240803T173000Z
+DTEND:20240803T185500Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
+SUMMARY:🤽 Сербия 🇷🇸 - 🇫🇷 Франция
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T180500Z-water-polo--B--FRA-GRE
+DTSTAMP:20240804T180500Z
+DTSTART:20240804T180500Z
+DTEND:20240804T193000Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (ж)
+SUMMARY:🤽 Франция 🇫🇷 - 🇬🇷 Греция
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T180500Z-water-polo--B--FRA-ESP
+DTSTAMP:20240805T180500Z
+DTSTART:20240805T180500Z
+DTEND:20240805T193000Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
+SUMMARY:🤽 Франция 🇫🇷 - 🇪🇸 Испания
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+END:VCALENDAR

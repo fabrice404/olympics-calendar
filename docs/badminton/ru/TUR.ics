@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ru/TUR//EN
+X-WR-CALNAME:🇹🇷 Türkiye Бадминтон | Paris 2024
+NAME:🇹🇷 Türkiye Бадминтон | Paris 2024
+BEGIN:VEVENT
+UID:20240728T090000Z-badminton--J--JPN-TUR
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T100000Z
+DESCRIPTION:Бадминтон - Групповой этап, одиночный, группа J (ж)
+SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇹🇷 Neslihan ARIN
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T072000Z-badminton--J--PER-TUR
+DTSTAMP:20240730T072000Z
+DTSTART:20240730T072000Z
+DTEND:20240730T080000Z
+DESCRIPTION:Бадминтон - Групповой этап, одиночный, группа J (ж)
+SUMMARY:🏸 Ines Lucia CASTILLO 🇵🇪 - 🇹🇷 Neslihan ARIN
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+END:VCALENDAR

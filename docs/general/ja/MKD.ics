@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ja/MKD//EN
+X-WR-CALNAME:🇲🇰 North Macedonia | Paris 2024
+NAME:🇲🇰 North Macedonia | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 開会式
+SUMMARY:Paris 2024 - 開会式
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T094500Z-swimming-400M
+DTSTAMP:20240727T094500Z
+DTSTART:20240727T094500Z
+DTEND:20240727T101400Z
+DESCRIPTION:競泳 - 男子400m自由形予選\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇺🇿 ウズベキスタン\n🇪🇪
+  エストニア\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇬🇾 ガイアナ\n🇰🇪 ケニア\n🇨🇷 コスタリカ\n🇸🇲
+  サンマリノ\n🇨🇭 スイス\n🇸🇪 スウェーデン\n🇹🇳 チュニジア\n🇨🇱 チリ\n🇩🇪 ドイツ\n🇭🇺
+  ハンガリー\n🇫🇷 フランス\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇻🇪 ベネズエラ\n🇧🇪 ベルギー\n🇵🇪
+  ペルー\n🇧🇦 ボスニア・ヘルツェゴビナ\n🇲🇾 マレーシア\n🇲🇩 モルドバ共和国\n🇲🇦 モロッコ\n🇱🇹
+  リトアニア\n🇨🇳 中国\n🇲🇰 北マケドニア\n🇰🇷 大韓民国\n🇬🇧 英国
+SUMMARY:🏊 男子400m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T071500Z-shooting-10M
+DTSTAMP:20240728T071500Z
+DTSTART:20240728T071500Z
+DTEND:20240728T083000Z
+DESCRIPTION:射撃 - 女子10mエアライフル個人本選\n🇰🇿 Alexandra Le\n🇲🇰 Anastasija
+  MOJSOVSKA\n🇵🇱 Aneta STANKIEWICZ\n🇩🇪 Anna JANSSEN\n🇰🇿 Arina
+  ALTUKHOVA\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇮🇹 Barbara
+  GAMBARO\n🇮🇳 Elavenil VALARIVAN\n🇭🇺 Eszter MESZAROS\n🇮🇷 Fatemeh
+  AMINI POZVEH\n🇦🇷 Fernanda RUSSO\n🇧🇷 Geovana MEYER\n🇲🇽 Goretti
+  Alejandra ZUMAYA FLORES\n🇨🇳 HAN Jiayu\n🇨🇳 HUANG Yuting\n🇩🇿 Houda
+  CHAABI\n🇳🇴 Jeanette Hegg DUESTAD\n🇵🇱 Julia Ewa PIOTROWSKA\n🇰🇷 KEUM
+  Jihyeon\n🇩🇪 Lisa MUELLER\n🇨🇺 Lisbet HERNANDEZ HERNANDEZ\n🏳️ Luna
+  SOLOMON\n🇪🇬 Mai Magdy ELSAYED ABUQARN\n🇫🇷 Manon HERBULOT\n🇳🇮 Mariel
+  Jose LOPEZ PAVON\n🇺🇸 Mary Carolynn TUCKER\n🇯🇵 NOBATA Misaki\n🇦🇹
+  Nadine UNGERANK\n🇨🇭 Nina CHRISTEN\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
+  RAMITA\n🇪🇬 Remas KHALIL\n🇩🇰 Rikke Maeng IBSEN\n🇺🇸 Sagen
+  MADDALENA\n🇬🇧 Seonaid McINTOSH\n🇮🇷 Shermineh CHEHEL AMIRANI\n🇩🇰
+  Stephanie Laura Scurrah GRUNDSOEE\n🇳🇵 Sushmita NEPAL\n🇳🇴 Synnoeve
+  BERG\n🇻🇳 Thi Mong Tuyen Le\n🇨🇿 Veronika BLAZICKOVA\n🇵🇷 Yarimar
+  MERCADO MARTINEZ\n🇲🇳 Yesugen OYUNBAT
+SUMMARY:🔫 女子10mエアライフル個人本選
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T083000Z-judo-81KG2-BRA-MKD
+DTSTAMP:20240730T083000Z
+DTSTART:20240730T083000Z
+DTEND:20240730T083600Z
+DESCRIPTION:柔道 - 男子81kg級2回戦
+SUMMARY:🥋 Guilherme SCHIMIDT 🇧🇷 - 🇲🇰 Edi SHERIFOVSKI
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

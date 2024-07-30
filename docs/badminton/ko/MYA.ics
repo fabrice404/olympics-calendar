@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ko/MYA//EN
+X-WR-CALNAME:🇲🇲 Myanmar 배드민턴 | Paris 2024
+NAME:🇲🇲 Myanmar 배드민턴 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T173000Z-badminton--C-JPN-MYA
+DTSTAMP:20240727T173000Z
+DTSTART:20240727T173000Z
+DTEND:20240727T181000Z
+DESCRIPTION:배드민턴 - 여자 단식 조별예선 - C조
+SUMMARY:🏸 YAMAGUCHI Akane 🇯🇵 - 🇲🇲 Thuzar THET HTAR
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T173000Z-badminton--C-CAN-MYA
+DTSTAMP:20240729T173000Z
+DTSTART:20240729T173000Z
+DTEND:20240729T181000Z
+DESCRIPTION:배드민턴 - 여자 단식 조별예선 - C조
+SUMMARY:🏸 Michelle LI 🇨🇦 - 🇲🇲 Thuzar THET HTAR
+LOCATION:라 샤펠 아레나
+END:VEVENT
+END:VCALENDAR

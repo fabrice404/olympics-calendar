@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//volleyball/ja/CAN//EN
+X-WR-CALNAME:🇨🇦 Canada バレーボール | Paris 2024
+NAME:🇨🇦 Canada バレーボール | Paris 2024
+BEGIN:VEVENT
+UID:20240728T190000Z-volleyball--A-SLO-CAN
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T211500Z
+DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 スロベニア 🇸🇮 - 🇨🇦 カナダ
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T190000Z-volleyball--A-FRA-CAN
+DTSTAMP:20240730T190000Z
+DTSTART:20240730T190000Z
+DTEND:20240730T211500Z
+DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 フランス 🇫🇷 - 🇨🇦 カナダ
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T190000Z-volleyball--A-CAN-SRB
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T211500Z
+DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 カナダ 🇨🇦 - 🇷🇸 セルビア
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/ja/LAO//EN
+X-WR-CALNAME:🇱🇦 Laos 競泳 | Paris 2024
+NAME:🇱🇦 Laos 競泳 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T093000Z-swimming-100M
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T094400Z
+DESCRIPTION:競泳 - 男子100m平泳ぎ予選\n🇮🇸 アイスランド\n🇺🇸 アメリカ合衆国\n🇦🇬
+  アンティグア・バーブーダ\n🇮🇱 イスラエル\n🇮🇹 イタリア\n🇸🇿 エスワティニ\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇦🇹 オーストリア\n🇶🇦 カタール\n🇰🇬 キルギス\n🇹🇷 トルコ\n🇩🇪 ドイツ\n🇭🇹
+  ハイチ\n🇧🇼 ボツワナ\n🇵🇱 ポーランド\n🇲🇬 マダガスカル\n🇫🇲 ミクロネシア\n🇲🇽 メキシコ\n🇲🇿
+  モザンビーク\n🇱🇦 ラオス人民民主共和国\n🇱🇹 リトアニア\n🇨🇳 中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇦🇸
+  米領サモア\n🇬🇧 英国
+SUMMARY:🏊 男子100m平泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-swimming-200M
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T101600Z
+DESCRIPTION:競泳 - 女子200m自由形予選\n🇮🇸 アイスランド\n🇺🇸 アメリカ合衆国\n🇦🇪
+  アラブ首長国連邦\n🇦🇱 アルバニア\n🇮🇱 イスラエル\n🇮🇳 インド\n🇪🇬 エジプト\n🇦🇺 オーストラリア\n🇨🇦
+  カナダ\n🇨🇺 キューバ\n🇸🇦 サウジアラビア\n🇨🇿 チェコ\n🇩🇪 ドイツ\n🇳🇿 ニュージーランド\n🇳🇵
+  ネパール\n🇭🇺 ハンガリー\n🇵🇰 パキスタン\n🇧🇷 ブラジル\n🇻🇪 ベネズエラ\n🇧🇪 ベルギー\n🇭🇰
+  ホンコン・チャイナ\n🇭🇳 ホンジュラス\n🇲🇳 モンゴル\n🇱🇦 ラオス人民民主共和国\n🇷🇴 ルーマニア\n🇨🇳
+  中国\n🇿🇦 南アフリカ
+SUMMARY:🏊 女子200m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+END:VCALENDAR

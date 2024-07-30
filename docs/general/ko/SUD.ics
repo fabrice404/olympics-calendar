@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ko/SUD//EN
+X-WR-CALNAME:🇸🇩 Sudan | Paris 2024
+NAME:🇸🇩 Sudan | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 개막식
+SUMMARY:Paris 2024 - 개막식
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T070000Z-rowing--
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:조정 - 남자 싱글스컬 예선\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇩🇰 덴마크\n🇩🇪
+  독일\n🇷🇴 루마니아\n🇱🇾 리비아\n🇱🇹 리투아니아\n🇲🇨 모나코\n🇺🇸 미국\n🇧🇲 버뮤다\n🇧🇪
+  벨기에\n🇧🇬 불가리아\n🇧🇷 브라질\n🇸🇩 수단\n🇸🇮 슬로베니아\n🇩🇿 알제리\n🇦🇴 앙골라\n🇺🇾
+  우루과이\n🇪🇬 이집트\n🇮🇳 인도\n🇮🇩 인도네시아\n🇯🇵 일본\n🇿🇼 짐바브웨\n🇰🇿 카자흐스탄\n🇨🇺
+  쿠바\n🇭🇷 크로아티아\n🇹🇭 태국\n🇹🇳 튀니지\n🇵🇾 파라과이\n🇭🇺 헝가리\n🇭🇰 홍콩, 차이나
+SUMMARY:🚣 남자 싱글스컬 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073600Z-rowing--
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:조정 - 남자 싱글스컬 패자부활전\n🇱🇾 리비아\n🇲🇨 모나코\n🇧🇲 버뮤다\n🇸🇩 수단\n🇸🇮
+  슬로베니아\n🇩🇿 알제리\n🇦🇴 앙골라\n🇮🇳 인도\n🇮🇩 인도네시아\n🇿🇼 짐바브웨\n🇰🇿
+  카자흐스탄\n🇹🇭 태국\n🇹🇳 튀니지\n🇵🇾 파라과이\n🇭🇰 홍콩, 차이나
+SUMMARY:🚣 남자 싱글스컬 패자부활전
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T074200Z-rowing--EF-2
+DTSTAMP:20240729T074200Z
+DTSTART:20240729T074200Z
+DTEND:20240729T074900Z
+DESCRIPTION:조정 - 남자 싱글스컬 준결승 E/F 2\n🇸🇩 Abdalla AHMED\n🇧🇲 Dara
+  ALIZADEH\n🇱🇾 Mohamed BUKRAH\n🇹🇭 Premanut WATTANANUSITH\n🇿🇼 Stephen
+  COX
+SUMMARY:🚣 남자 싱글스컬 준결승 E/F 2
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T104700Z-swimming--100M-
+DTSTAMP:20240730T104700Z
+DTSTART:20240730T104700Z
+DTEND:20240730T110000Z
+DESCRIPTION:경영 - 여자 100m 자유형 - 예선\n🇬🇾 Aleka Kylela PERSAUD\n🇬🇧 Anna
+  HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇬 Gloria Anna
+  MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇭🇷 Jana
+  PAVALIC\n🇰🇾 Jillian Janis Geohagan CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭
+  Kayla SANCHEZ\n🇵🇱 Kornelia FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷
+  Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle
+  COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza
+  KLANCAR\n🇿🇼 Paige van der WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩
+  Tilly COLLYMORE\n🇺🇸 Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 여자 100m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T092100Z-swimming--200M-
+DTSTAMP:20240731T092100Z
+DTSTART:20240731T092100Z
+DTEND:20240731T094600Z
+DESCRIPTION:경영 - 남자 200m 배영 - 예선\n🇬🇷 그리스\n🇿🇦 남아프리카공화국\n🇳🇱 네덜란드\n🇳🇿
+  뉴질랜드\n🇰🇷 대한민국\n🇩🇪 독일\n🇺🇸 미국\n🇸🇩 수단\n🇨🇭 스위스\n🇪🇸 스페인\n🇬🇧
+  영국\n🇦🇺 오스트레일리아\n🇺🇦 우크라이나\n🇮🇱 이스라엘\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳
+  중국\n🇿🇼 짐바브웨\n🇨🇦 캐나다\n🇵🇱 폴란드\n🇵🇷 푸에르토리코\n🇫🇷 프랑스\n🇭🇺 헝가리
+SUMMARY:🏊 남자 200m 배영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-rowing--F
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T073700Z
+DESCRIPTION:조정 - 남자 싱글스컬 결승 F\n🇸🇩 Abdalla AHMED\n🇦🇴 Andre MATIAS\n🇱🇾
+  Mohamed BUKRAH
+SUMMARY:🚣 남자 싱글스컬 결승 F
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

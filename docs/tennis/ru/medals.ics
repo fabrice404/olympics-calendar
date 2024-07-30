@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//tennis/ru/medals//EN
+X-WR-CALNAME:🎾 Теннис 🏅 | Paris 2024
+NAME:🎾 Теннис 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240802T100000Z-tennis--
+DTSTAMP:20240802T100000Z
+DTSTART:20240802T100000Z
+DTEND:20240802T200000Z
+DESCRIPTION:Теннис - Матч за бронзу (микст)
+SUMMARY:🎾 Матч за бронзу (микст)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100000Z-tennis--
+DTSTAMP:20240802T100000Z
+DTSTART:20240802T100000Z
+DTEND:20240802T200000Z
+DESCRIPTION:Теннис - Матч за бронзу, пары (м)
+SUMMARY:🎾 Матч за бронзу, пары (м)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T170000Z-tennis--
+DTSTAMP:20240802T170000Z
+DTSTART:20240802T170000Z
+DTEND:20240803T030000Z
+DESCRIPTION:Теннис - Финал (микст)
+SUMMARY:🎾 Финал (микст)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100000Z-tennis--
+DTSTAMP:20240803T100000Z
+DTSTART:20240803T100000Z
+DTEND:20240803T200000Z
+DESCRIPTION:Теннис - Финал, пары (м)
+SUMMARY:🎾 Финал, пары (м)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100000Z-tennis--
+DTSTAMP:20240803T100000Z
+DTSTART:20240803T100000Z
+DTEND:20240803T200000Z
+DESCRIPTION:Теннис - Финал, одиночный разряд (ж)
+SUMMARY:🎾 Финал, одиночный разряд (ж)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100000Z-tennis--
+DTSTAMP:20240803T100000Z
+DTSTART:20240803T100000Z
+DTEND:20240803T200000Z
+DESCRIPTION:Теннис - Матч за бронзу, одиночный разряд (м)
+SUMMARY:🎾 Матч за бронзу, одиночный разряд (м)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T100000Z-tennis--
+DTSTAMP:20240804T100000Z
+DTSTART:20240804T100000Z
+DTEND:20240804T200000Z
+DESCRIPTION:Теннис - Финал, пары (ж)
+SUMMARY:🎾 Финал, пары (ж)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T100000Z-tennis--
+DTSTAMP:20240804T100000Z
+DTSTART:20240804T100000Z
+DTEND:20240804T200000Z
+DESCRIPTION:Теннис - Финал, одиночный разряд (м)
+SUMMARY:🎾 Финал, одиночный разряд (м)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T100000Z-tennis--
+DTSTAMP:20240804T100000Z
+DTSTART:20240804T100000Z
+DTEND:20240804T200000Z
+DESCRIPTION:Теннис - Матч за бронзу, пары (ж)
+SUMMARY:🎾 Матч за бронзу, пары (ж)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+END:VCALENDAR

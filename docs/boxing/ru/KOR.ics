@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/KOR//EN
+X-WR-CALNAME:🇰🇷 Korea Бокс | Paris 2024
+NAME:🇰🇷 Korea Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240727T145000Z-boxing--116-60--TPE-KOR
+DTSTAMP:20240727T145000Z
+DTSTART:20240727T145000Z
+DTEND:20240727T150100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 60кг (ж)
+SUMMARY:🥊 WU Shih Yi 🇹🇼 - 🇰🇷 OH Yeonji
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T193600Z-boxing--18-54--BRA-KOR
+DTSTAMP:20240730T193600Z
+DTSTART:20240730T193600Z
+DTEND:20240730T194700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 54кг (ж)
+SUMMARY:🥊 Tatiana Regina de JESUS CHAGAS 🇧🇷 - 🇰🇷 IM Aeji
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

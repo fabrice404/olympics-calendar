@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ja/MON//EN
+X-WR-CALNAME:🇲🇨 Monaco | Paris 2024
+NAME:🇲🇨 Monaco | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 開会式
+SUMMARY:Paris 2024 - 開会式
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T070000Z-rowing-
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:ローイング - 男子シングルスカル予選\n🇺🇸 アメリカ合衆国\n🇩🇿 アルジェリア\n🇦🇴 アンゴラ\n🇮🇳
+  インド\n🇮🇩 インドネシア\n🇺🇾 ウルグアイ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇰🇿 カザフスタン\n🇨🇺
+  キューバ\n🇬🇷 ギリシャ\n🇭🇷 クロアチア\n🇿🇼 ジンバブエ\n🇸🇮 スロベニア\n🇸🇩 スーダン\n🇹🇭
+  タイ\n🇹🇳 チュニジア\n🇩🇰 デンマーク\n🇩🇪 ドイツ\n🇳🇿 ニュージーランド\n🇭🇺 ハンガリー\n🇧🇲
+  バミューダ\n🇵🇾 パラグアイ\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇧🇪 ベルギー\n🇭🇰 ホンコン・チャイナ\n🇲🇨
+  モナコ\n🇱🇹 リトアニア\n🇱🇾 リビア\n🇷🇴 ルーマニア\n🇯🇵 日本
+SUMMARY:🚣 男子シングルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073600Z-rowing-
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:ローイング - 男子シングルスカル敗者復活戦\n🇩🇿 アルジェリア\n🇦🇴 アンゴラ\n🇮🇳 インド\n🇮🇩
+  インドネシア\n🇰🇿 カザフスタン\n🇿🇼 ジンバブエ\n🇸🇮 スロベニア\n🇸🇩 スーダン\n🇹🇭 タイ\n🇹🇳
+  チュニジア\n🇧🇲 バミューダ\n🇵🇾 パラグアイ\n🇭🇰 ホンコン・チャイナ\n🇲🇨 モナコ\n🇱🇾 リビア
+SUMMARY:🚣 男子シングルスカル敗者復活戦
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T190000Z-table-tennis-1-MON-CZE
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T200000Z
+DESCRIPTION:卓球 - 女子シングルス1回戦
+SUMMARY:🏓 Xiaoxin YANG 🇲🇨 - 🇨🇿 Hana MATELOVA
+LOCATION:サウス・パリ・アリーナ4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T092800Z-swimming-800M
+DTSTAMP:20240729T092800Z
+DTSTART:20240729T092800Z
+DTEND:20240729T100700Z
+DESCRIPTION:競泳 - 男子800m自由形予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇺🇦
+  ウクライナ\n🇺🇿 ウズベキスタン\n🇪🇬 エジプト\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇬🇷
+  ギリシャ\n🇸🇪 スウェーデン\n🇪🇸 スペイン\n🇹🇳 チュニジア\n🇹🇷 トルコ\n🇩🇪 ドイツ\n🇳🇴
+  ノルウェー\n🇭🇺 ハンガリー\n🇫🇷 フランス\n🇧🇷 ブラジル\n🇻🇳 ベトナム\n🇻🇪 ベネズエラ\n🇧🇪
+  ベルギー\n🇲🇨 モナコ\n🇷🇴 ルーマニア\n🇨🇳 中国
+SUMMARY:🏊 男子800m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T081000Z-rowing-
+DTSTAMP:20240730T081000Z
+DTSTART:20240730T081000Z
+DTEND:20240730T084700Z
+DESCRIPTION:ローイング - 男子シングルスカル準々決勝\n🇯🇵 ARAKAWA Ryuta\n🇪🇬 Abdelkhalek
+  ELBANNA\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾
+  Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇱🇹
+  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
+  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇷🇴
+  Mihai CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin ANTOGNELLI\n🇨🇺 Reidy
+  CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos
+  NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 男子シングルスカル準々決勝
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T085400Z-judo-100KG3-CUB-MON
+DTSTAMP:20240802T085400Z
+DTSTART:20240802T085400Z
+DTEND:20240802T090000Z
+DESCRIPTION:柔道 - 男子100kg超級3回戦
+SUMMARY:🥋 Andy GRANDA 🇨🇺 - 🇲🇨 Marvin GADEAU
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

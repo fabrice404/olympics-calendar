@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ru/medals//EN
+X-WR-CALNAME:🏸 Бадминтон 🏅 | Paris 2024
+NAME:🏸 Бадминтон 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240802T130000Z-badminton--
+DTSTAMP:20240802T130000Z
+DTSTART:20240802T130000Z
+DTEND:20240802T150000Z
+DESCRIPTION:Бадминтон - Финалы, парный (микст)
+SUMMARY:🏸 Финалы, парный (микст)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T130000Z-badminton--
+DTSTAMP:20240803T130000Z
+DTSTART:20240803T130000Z
+DTEND:20240803T150000Z
+DESCRIPTION:Бадминтон - Финалы, парный (ж)
+SUMMARY:🏸 Финалы, парный (ж)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T130000Z-badminton--
+DTSTAMP:20240804T130000Z
+DTSTART:20240804T130000Z
+DTEND:20240804T150000Z
+DESCRIPTION:Бадминтон - Финалы, парный (м)
+SUMMARY:🏸 Финалы, парный (м)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T074500Z-badminton--
+DTSTAMP:20240805T074500Z
+DTSTART:20240805T074500Z
+DTEND:20240805T094500Z
+DESCRIPTION:Бадминтон - Финалы, одиночный (ж)
+SUMMARY:🏸 Финалы, одиночный (ж)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T123000Z-badminton--
+DTSTAMP:20240805T123000Z
+DTSTART:20240805T123000Z
+DTEND:20240805T143000Z
+DESCRIPTION:Бадминтон - Финалы, одиночный (м)
+SUMMARY:🏸 Финалы, одиночный (м)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+END:VCALENDAR

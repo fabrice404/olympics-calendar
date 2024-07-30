@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/ja/GEO//EN
+X-WR-CALNAME:🇬🇪 Georgia 競泳 | Paris 2024
+NAME:🇬🇪 Georgia 競泳 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T090000Z-swimming-100M
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T091100Z
+DESCRIPTION:競泳 - 女子100mバタフライ予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇦🇲 アルメニア\n🇮🇹
+  イタリア\n🇸🇿 エスワティニ\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇬🇷 ギリシャ\n🇬🇪
+  ジョージア\n🇸🇪 スウェーデン\n🇪🇸 スペイン\n🇸🇳 セネガル\n🇨🇿 チェコ\n🇩🇰 デンマーク\n🇩🇪
+  ドイツ\n🇳🇮 ニカラグア\n🇳🇿 ニュージーランド\n🇵🇾 パラグアイ\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇧🇦
+  ボスニア・ヘルツェゴビナ\n🇨🇳 中国\n🇿🇦 南アフリカ\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 女子100mバタフライ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T094300Z-swimming-100M
+DTSTAMP:20240728T094300Z
+DTSTART:20240728T094300Z
+DTEND:20240728T095900Z
+DESCRIPTION:競泳 - 男子100m背泳ぎ予選\n🇺🇸 アメリカ合衆国\n🇦🇷 アルゼンチン\n🇮🇱 イスラエル\n🇮🇹
+  イタリア\n🇮🇳 インド\n🇺🇦 ウクライナ\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇬🇷 ギリシャ\n🇬🇩 グレナダ\n🇨🇴 コロンビア\n🇬🇪 ジョージア\n🇨🇭 スイス\n🇪🇸
+  スペイン\n🇨🇿 チェコ\n🇹🇷 トルコ\n🇹🇴 トンガ\n🇩🇪 ドイツ\n🇳🇿 ニュージーランド\n🇭🇺
+  ハンガリー\n🇧🇲 バミューダ\n🇵🇸 パレスチナ\n🇫🇷 フランス\n🇧🇳 ブルネイ・ダルサラーム\n🇵🇷
+  プエルトリコ\n🇧🇯 ベナン\n🇵🇹 ポルトガル\n🇵🇱 ポーランド\n🇨🇳 中国\n🇿🇦 南アフリカ\n🇰🇷
+  大韓民国\n🇯🇵 日本\n🇻🇮 米領バージン諸島\n🇬🇧 英国
+SUMMARY:🏊 男子100m背泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+END:VCALENDAR

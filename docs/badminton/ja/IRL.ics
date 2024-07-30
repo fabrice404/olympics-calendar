@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ja/IRL//EN
+X-WR-CALNAME:🇮🇪 Ireland バドミントン | Paris 2024
+NAME:🇮🇪 Ireland バドミントン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T191000Z-badminton--P-IRL-ISR
+DTSTAMP:20240727T191000Z
+DTSTART:20240727T191000Z
+DTEND:20240727T195000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループP
+SUMMARY:🏸 Nhat NGUYEN 🇮🇪 - 🇮🇱 Misha ZILBERMAN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T191000Z-badminton--P-IRL-NEP
+DTSTAMP:20240729T191000Z
+DTSTART:20240729T191000Z
+DTEND:20240729T210000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループP
+SUMMARY:🏸 Nhat NGUYEN 🇮🇪 - 🇳🇵 Prince DAHAL
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T143000Z-badminton--L-IRL-SUI
+DTSTAMP:20240730T143000Z
+DTSTART:20240730T143000Z
+DTEND:20240730T151000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループL
+SUMMARY:🏸 Rachael DARRAGH 🇮🇪 - 🇨🇭 Jenjira STADELMANN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T072000Z-badminton--P-DEN-IRL
+DTSTAMP:20240731T072000Z
+DTSTART:20240731T072000Z
+DTEND:20240731T080000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループP
+SUMMARY:🏸 Viktor AXELSEN 🇩🇰 - 🇮🇪 Nhat NGUYEN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T120000Z-badminton--L-ESP-IRL
+DTSTAMP:20240731T120000Z
+DTSTART:20240731T120000Z
+DTEND:20240731T124000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループL
+SUMMARY:🏸 Carolina MARIN 🇪🇸 - 🇮🇪 Rachael DARRAGH
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+END:VCALENDAR

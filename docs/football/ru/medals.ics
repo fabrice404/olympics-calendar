@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//football/ru/medals//EN
+X-WR-CALNAME:⚽ Футбол 🏅 | Paris 2024
+NAME:⚽ Футбол 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240808T150000Z-football--3-
+DTSTAMP:20240808T150000Z
+DTSTART:20240808T150000Z
+DTEND:20240808T180000Z
+DESCRIPTION:Футбол - Матч за 3-е место (м)
+SUMMARY:⚽ Матч за 3-е место (м)
+LOCATION:Стадион «Божуар»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-football--3-
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T160000Z
+DESCRIPTION:Футбол - Матч за 3-е место (ж)
+SUMMARY:⚽ Матч за 3-е место (ж)
+LOCATION:Стадион «Лион»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T160000Z-football--
+DTSTAMP:20240809T160000Z
+DTSTART:20240809T160000Z
+DTEND:20240809T193000Z
+DESCRIPTION:Футбол - Финал (м)
+SUMMARY:⚽ Финал (м)
+LOCATION:«Парк-де-Пренс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T150000Z-football--
+DTSTAMP:20240810T150000Z
+DTSTART:20240810T150000Z
+DTEND:20240810T183000Z
+DESCRIPTION:Футбол - Финал (ж)
+SUMMARY:⚽ Финал (ж)
+LOCATION:«Парк-де-Пренс»
+END:VEVENT
+END:VCALENDAR

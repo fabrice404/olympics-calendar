@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/COD//EN
+X-WR-CALNAME:🇨🇩 Democratic Republic of the Congo ボクシング | Paris 2024
+NAME:🇨🇩 Democratic Republic of the Congo ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240730T110800Z-boxing-57KG-32-COD-UZB
+DTSTAMP:20240730T110800Z
+DTSTART:20240730T110800Z
+DTEND:20240730T111900Z
+DESCRIPTION:ボクシング - 女子57kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Marcelat SAKOBI 🇨🇩 - 🇺🇿 Sitora TURDIBEKOVA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T100400Z-boxing-66KG-16-COD-THA
+DTSTAMP:20240801T100400Z
+DTSTART:20240801T100400Z
+DTEND:20240801T101500Z
+DESCRIPTION:ボクシング - 女子66kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Brigitte MBABI 🇨🇩 - 🇹🇭 Janjaem SUWANNAPHENG
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

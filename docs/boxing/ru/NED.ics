@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/NED//EN
+X-WR-CALNAME:🇳🇱 Netherlands Бокс | Paris 2024
+NAME:🇳🇱 Netherlands Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240729T181600Z-boxing--18-60--PRK-NED
+DTSTAMP:20240729T181600Z
+DTSTART:20240729T181600Z
+DTEND:20240729T182700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 60кг (ж)
+SUMMARY:🥊 WON Ungyong 🇰🇵 - 🇳🇱 Chelsey HEIJNEN
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T200800Z-boxing--60--NED-BRA
+DTSTAMP:20240731T200800Z
+DTSTART:20240731T200800Z
+DTEND:20240731T201900Z
+DESCRIPTION:Бокс - Четвертьфинал, до 60кг (ж)
+SUMMARY:🥊 Chelsey HEIJNEN 🇳🇱 - 🇧🇷 Beatriz Iasmin SOARES FERREIRA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/SWE//EN
+X-WR-CALNAME:🇸🇪 Sweden Бокс | Paris 2024
+NAME:🇸🇪 Sweden Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240727T143400Z-boxing--116-60--ECU-SWE
+DTSTAMP:20240727T143400Z
+DTSTART:20240727T143400Z
+DTEND:20240727T144500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 60кг (ж)
+SUMMARY:🥊 Maria Jose PALACIOS ESPINOZA 🇪🇨 - 🇸🇪 Agnes ALEXIUSSON
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T133000Z-boxing--116-57--SWE-PLE
+DTSTAMP:20240728T133000Z
+DTSTART:20240728T133000Z
+DTEND:20240728T134100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 57кг (м)
+SUMMARY:🥊 Nebil IBRAHIM 🇸🇪 - 🇵🇸 Wasim ABUSAL
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-boxing--18-57--UZB-SWE
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T091100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 57кг (м)
+SUMMARY:🥊 Abdumalik KHALOKOV 🇺🇿 - 🇸🇪 Nebil IBRAHIM
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

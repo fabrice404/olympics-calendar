@@ -1,0 +1,371 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ko/SGP//EN
+X-WR-CALNAME:🇸🇬 Singapore | Paris 2024
+NAME:🇸🇬 Singapore | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 개막식
+SUMMARY:Paris 2024 - 개막식
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T072000Z-badminton--D-MAS-SGP
+DTSTAMP:20240727T072000Z
+DTSTART:20240727T072000Z
+DTEND:20240727T080000Z
+DESCRIPTION:배드민턴 - 혼합복식 조별예선 - D조
+SUMMARY:🏸 CHEN/TOH 🇲🇾 - 🇸🇬 HEE/TAN
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T072000Z-badminton--I-SGP-EOR
+DTSTAMP:20240727T072000Z
+DTSTART:20240727T072000Z
+DTEND:20240727T080000Z
+DESCRIPTION:배드민턴 - 여자 단식 조별예선 - I조
+SUMMARY:🏸 Jia Min YEO 🇸🇬 - 🏳️ Dorsa YAVARIVAFA
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T080000Z-fencing--64-PER-SGP
+DTSTAMP:20240727T080000Z
+DTSTART:20240727T080000Z
+DTEND:20240727T082500Z
+DESCRIPTION:펜싱 - 여자 에페 개인 64강
+SUMMARY:🤺 Maria Luisa DOIG CALDERON 🇵🇪 - 🇸🇬 Kiria Tikanah ABDUL RAHMAN
+LOCATION:그랑 팔레
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T081200Z-rowing--
+DTSTAMP:20240727T081200Z
+DTSTART:20240727T081200Z
+DTEND:20240727T091900Z
+DESCRIPTION:조정 - 여자 싱글스컬 예선\n🇿🇦 남아프리카공화국\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇳🇮
+  니카라과\n🇩🇪 독일\n🇱🇹 리투아니아\n🇲🇽 멕시코\n🇲🇦 모로코\n🇺🇸 미국\n🇻🇳 베트남\n🇧🇬
+  불가리아\n🇧🇷 브라질\n🇷🇸 세르비아\n🇨🇭 스위스\n🇪🇸 스페인\n🇸🇮 슬로베니아\n🇸🇬
+  싱가포르\n🇦🇿 아제르바이잔\n🇩🇿 알제리\n🇦🇺 오스트레일리아\n🇦🇹 오스트리아\n🇺🇬 우간다\n🇺🇿
+  우즈베키스탄\n🇮🇷 이란\n🇨🇺 쿠바\n🇰🇼 쿠웨이트\n🇹🇬 토고\n🇹🇷 튀르키예\n🇵🇾 파라과이\n🇵🇪
+  페루\n🇵🇭 필리핀
+SUMMARY:🚣 여자 싱글스컬 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100500Z-fencing--32-ITA-SGP
+DTSTAMP:20240727T100500Z
+DTSTART:20240727T100500Z
+DTEND:20240727T103000Z
+DESCRIPTION:펜싱 - 여자 에페 개인 32강
+SUMMARY:🤺 Alberta SANTUCCIO 🇮🇹 - 🇸🇬 Kiria Tikanah ABDUL RAHMAN
+LOCATION:그랑 팔레
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T103000Z-shooting--10M-
+DTSTAMP:20240727T103000Z
+DTSTART:20240727T103000Z
+DTEND:20240727T114500Z
+DESCRIPTION:사격 - 여자 10m 공기권총 예선\n🇱🇻 Agate RASMANE\n🇲🇽 Alejandra ZAVALA
+  VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨 Andrea PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷
+  Anna KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷 Camille
+  JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana DURANGO FLORES\n🇩🇪
+  Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲 Elmira KARAPETYAN\n🇪🇬
+  Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿 Irina YUNUSMETOVA\n🇨🇳
+  JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak
+  SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia
+  BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina PEREZ\n🇦🇱 Manjola
+  KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas
+  MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa CHARNI\n🇮🇳
+  Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷
+  Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn PRUCKSAKORN\n🇻🇳 Thu
+  Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong TEH\n🇹🇼 YU Ai Wen\n🇾🇪
+  Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
+SUMMARY:🔫 여자 10m 공기권총 예선
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T063000Z-badminton--D-CHN-SGP
+DTSTAMP:20240728T063000Z
+DTSTART:20240728T063000Z
+DTEND:20240728T071000Z
+DESCRIPTION:배드민턴 - 혼합복식 조별예선 - D조
+SUMMARY:🏸 FENG/HUANG 🇨🇳 - 🇸🇬 HEE/TAN
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T070000Z-rowing--
+DTSTAMP:20240728T070000Z
+DTSTART:20240728T070000Z
+DTEND:20240728T073100Z
+DESCRIPTION:조정 - 여자 싱글스컬 패자부활전\n🇳🇮 니카라과\n🇲🇦 모로코\n🇻🇳 베트남\n🇸🇬
+  싱가포르\n🇩🇿 알제리\n🇺🇬 우간다\n🇮🇷 이란\n🇨🇺 쿠바\n🇰🇼 쿠웨이트\n🇹🇬 토고\n🇹🇷
+  튀르키예\n🇵🇾 파라과이\n🇵🇪 페루\n🇵🇭 필리핀
+SUMMARY:🚣 여자 싱글스컬 패자부활전
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T080000Z-table-tennis--64-ROU-SGP
+DTSTAMP:20240728T080000Z
+DTSTART:20240728T080000Z
+DTEND:20240728T084500Z
+DESCRIPTION:탁구 - 여자 단식 64강
+SUMMARY:🏓 Bernadette SZOCS 🇷🇴 - 🇸🇬 ZHOU Jingyi
+LOCATION:사우스 파리 아레나 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T092500Z-fencing--32-SGP-USA
+DTSTAMP:20240728T092500Z
+DTSTART:20240728T092500Z
+DTEND:20240728T095500Z
+DESCRIPTION:펜싱 - 여자 플뢰레 개인 32강
+SUMMARY:🤺 Amita BERTHIER 🇸🇬 - 🇺🇸 Lauren SCRUGGS
+LOCATION:그랑 팔레
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T092700Z-swimming--100M-
+DTSTAMP:20240728T092700Z
+DTSTART:20240728T092700Z
+DTEND:20240728T094200Z
+DESCRIPTION:경영 - 여자 100m 평영 - 예선\n🇬🇲 감비아\n🇿🇦 남아프리카공화국\n🇳🇱 네덜란드\n🇩🇪
+  독일\n🇱🇧 레바논\n🇱🇹 리투아니아\n🇲🇾 말레이시아\n🇲🇦 모로코\n🇺🇸 미국\n🇸🇪 스웨덴\n🇨🇭
+  스위스\n🇪🇸 스페인\n🇸🇬 싱가포르\n🇦🇷 아르헨티나\n🇮🇪 아일랜드\n🇦🇬 앤티가바부다\n🇪🇪
+  에스토니아\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇮🇱 이스라엘\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳
+  중국\n🇨🇿 체코\n🇨🇦 캐나다\n🇨🇴 콜롬비아\n🇰🇼 쿠웨이트\n🇨🇰 쿡 제도\n🇵🇦 파나마\n🇵🇱
+  폴란드\n🇫🇮 핀란드
+SUMMARY:🏊 여자 100m 평영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T101500Z-table-tennis--64-SGP-CRO
+DTSTAMP:20240728T101500Z
+DTSTART:20240728T101500Z
+DTEND:20240728T110000Z
+DESCRIPTION:탁구 - 여자 단식 64강
+SUMMARY:🏓 ZENG Jian 🇸🇬 - 🇭🇷 Ivana MALOBABIC
+LOCATION:사우스 파리 아레나 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T110000Z-table-tennis--64-SLO-SGP
+DTSTAMP:20240728T110000Z
+DTSTART:20240728T110000Z
+DTEND:20240728T120000Z
+DESCRIPTION:탁구 - 남자 단식 64강
+SUMMARY:🏓 Darko JORGIC 🇸🇮 - 🇸🇬 QUEK Izaac
+LOCATION:사우스 파리 아레나 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T182000Z-badminton--M-SGP-CZE
+DTSTAMP:20240728T182000Z
+DTSTART:20240728T182000Z
+DTEND:20240728T190000Z
+DESCRIPTION:배드민턴 - 남자 단식 조별예선 - M조
+SUMMARY:🏸 Kean Yew LOH 🇸🇬 - 🇨🇿 Jan LOUDA
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T075400Z-rowing--EF-1
+DTSTAMP:20240729T075400Z
+DTSTART:20240729T075400Z
+DTEND:20240729T080100Z
+DESCRIPTION:조정 - 여자 싱글스컬 준결승 E/F 1\n🇸🇬 Aisyah RAFAEE\n🇹🇬 Akoko
+  KOMLANVI\n🇰🇼 Soaad ALFAQAAN\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 여자 싱글스컬 준결승 E/F 1
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-badminton--D-SGP-USA
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T100000Z
+DESCRIPTION:배드민턴 - 혼합복식 조별예선 - D조
+SUMMARY:🏸 HEE/TAN 🇸🇬 - 🇺🇸 CHIU/GAI
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T091700Z-swimming--100M-
+DTSTAMP:20240730T091700Z
+DTSTART:20240730T091700Z
+DTEND:20240730T094800Z
+DESCRIPTION:경영 - 남자 100m 자유형 - 예선\n🇽🇰 Adell SABOVIC\n🇰🇿 Adilbek
+  MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro MIRESSI\n🇳🇵 Alexander
+  SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭 Antoine de
+  LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿 Cameron
+  GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas RAPSYS\n🇨🇿
+  Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇭
+  Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir BATBAYAR\n🇨🇲
+  Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi KOXHAKU\n🇧🇷 Guilherme
+  SANTOS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG Sunwoo\n🇰🇲 Hadji HASSANE\n🇬🇭
+  Harry STACEY\n🇦🇴 Henrique MASCARENHAS\n🇸🇷 Irvin HOOST\n🇴🇲 Issa
+  Samir Hamed AL ADAWI\n🇺🇸 Jack ALEXY\n🇧🇧 Jack KIRBY\n🇬🇧 Jacob Henry
+  WHITTLE\n🇵🇱 Jakub MAJERSKI\n🇩🇴 Javier NUNEZ\n🇱🇨 Jayhan Jamaud
+  ODLUM-SMITH\n🇼🇸 Johann STICKLAND\n🇻🇺 Johnathan SILAS\n🇸🇬 Jonathan
+  Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇲🇽 Jorge IGA\n🇨🇦 Josh LIENDO\n🇵🇬
+  Josh TARERE\n🇩🇪 Josha SALCHOW\n🇱🇰 Kyle ABEYSINGHE\n🇦🇺 Kyle
+  CHALMERS\n🇧🇸 Lamar TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹 Leonardo DEPLANO\n🇧🇷
+  Marcelo CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳 Matthieu SEYE\n🇫🇷
+  Maxime GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad ZUBAID\n🇹🇲 Musa
+  ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola MILJENIC\n🇨🇾 Nikolas
+  ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲
+  Phone Pyae HAN\n🇫🇷 Rafael FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN
+  CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷 Samyar ABDOLI\n🇧🇹 Sangay
+  TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇱🇧 Simon
+  DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇨🇳 WANG
+  Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef ABUBAKER\n🇦🇪 Yousuf
+  ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
+SUMMARY:🏊 남자 100m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T095100Z-swimming--1500M-
+DTSTAMP:20240730T095100Z
+DTSTART:20240730T095100Z
+DTEND:20240730T104700Z
+DESCRIPTION:경영 - 여자 1500m 자유형 - 예선\n🇫🇷 Anastasiia KIRPICHNIKOVA\n🇧🇷
+  Beatriz DIZOTTI\n🇸🇬 Ching Hwee GAN\n🇳🇿 Eve THOMAS\n🇨🇳 GAO
+  Weizhong\n🇮🇹 Ginevra TADDEUCCI\n🇩🇪 Isabel GOSE\n🇺🇸 Katie
+  GRIMES\n🇺🇸 Katie LEDECKY\n🇨🇱 Kristel KOBRICH\n🇨🇳 LI Bingjie\n🇦🇺
+  Lani PALLISTER\n🇩🇪 Leonie MAERTENS\n🇦🇺 Moesha JOHNSON\n🇲🇹 Sasha
+  GATT\n🇮🇹 Simona QUADARELLA\n🇭🇺 Vivien JACKL
+SUMMARY:🏊 여자 1500m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T182000Z-badminton--I-SGP-MRI
+DTSTAMP:20240730T182000Z
+DTSTART:20240730T182000Z
+DTEND:20240730T190000Z
+DESCRIPTION:배드민턴 - 여자 단식 조별예선 - I조
+SUMMARY:🏸 Jia Min YEO 🇸🇬 - 🇲🇺 Kate FOO KUNE
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-swimming--200M-
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T092100Z
+DESCRIPTION:경영 - 여자 200m 평영 - 예선\n🇿🇦 남아프리카공화국\n🇳🇱 네덜란드\n🇩🇰 덴마크\n🇱🇹
+  리투아니아\n🇺🇸 미국\n🇸🇪 스웨덴\n🇨🇭 스위스\n🇪🇸 스페인\n🇸🇬 싱가포르\n🇦🇷 아르헨티나\n🇮🇪
+  아일랜드\n🇪🇪 에스토니아\n🇦🇺 오스트레일리아\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇿
+  체코\n🇨🇦 캐나다
+SUMMARY:🏊 여자 200m 평영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-table-tennis--32-SGP-IND
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T100000Z
+DESCRIPTION:탁구 - 여자 단식 32강
+SUMMARY:🏓 ZENG Jian 🇸🇬 - 🇮🇳 Sreeja AKULA
+LOCATION:사우스 파리 아레나 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T182000Z-badminton--M-SGP-ESA
+DTSTAMP:20240731T182000Z
+DTSTART:20240731T182000Z
+DTEND:20240731T190000Z
+DESCRIPTION:배드민턴 - 남자 단식 조별예선 - M조
+SUMMARY:🏸 Kean Yew LOH 🇸🇬 - 🇸🇻 Uriel Francisco CANJURA ARTIGA
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T091800Z-swimming--50M-
+DTSTAMP:20240801T091800Z
+DTSTART:20240801T091800Z
+DTEND:20240801T094700Z
+DESCRIPTION:경영 - 남자 50m 자유형 - 예선\n🇪🇷 Aaron Ghebre OWUSU\n🇬🇦 Adam
+  MPALI\n🏳️ Alaa MASO\n🇻🇪 Alberto MESTRE\n🇻🇨 Alex JOACHIM\n🇬🇧
+  Alexander COHOON\n🇷🇸 Andrej BARNA\n🇨🇩 Aristote NDOMBE IMPELENGA\n🇩🇪
+  Artem SELIN\n🇧🇮 Belly-Cresus GANIRA\n🇦🇺 Ben ARMBRUSTER\n🇬🇧 Benjamin
+  PROUD\n🇸🇪 Bjoern SEELIGER\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron
+  McEVOY\n🇲🇷 Camil DOUA\n🇺🇸 Chris GUILIANO\n🇿🇲 Damien SHAMAMBO\n🇫🇯
+  David YOUNG\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇹 Dylan CARTER\n🇬🇳 Elhadj
+  N'gnane DIALLO\n🇦🇫 Fahim ANWARI\n🇹🇯 Fakhriddin MADKAMOV\n🇲🇼 Filipe
+  GOMES\n🇫🇷 Florent MANAUDOU\n🇨🇬 Freddy MAYALA\n🇲🇽 Gabriel CASTANO
+  GARCIA\n🇧🇷 Guilherme SANTOS\n🇭🇰 HO Ian Yentou\n🇬🇶 Higinio NDONG
+  OBAMA\n🇩🇯 Houmed HOUSSEIN BARKAT\n🇰🇷 JI Yuchan\n🇭🇷 Jere
+  HRIBAR\n🇵🇼 Jion HOSEI\n🇹🇱 Jolanio GUTERRES\n🇸🇬 Jonathan Eu Jin
+  TAN\n🇰🇾 Jordan CROOKS\n🇨🇻 Jose TATI\n🇨🇦 Josh LIENDO\n🇸🇱 Joshua
+  WYSE\n🇳🇱 Kenzo SIMONS\n🇬🇷 Kristian GKOLOMEEV\n🇲🇹 Kyle
+  MICALLEF\n🇮🇹 Leonardo DEPLANO\n🇮🇹 Lorenzo ZAZZERI\n🇹🇬 Magnim
+  Jordano DAOU\n🇳🇪 Marouane MAMANE HAMISSOU ABBA\n🇮🇱 Martin
+  KARTAVI\n🇸🇰 Matej DUSA\n🇫🇷 Maxime GROUSSET\n🇮🇱 Meiron Amir
+  CHERUTI\n🇵🇹 Miguel NASCIMENTO\n🇦🇼 Mikel SCHREUDERS\n🇲🇻 Mohamed Aan
+  HUSSAIN\n🇳🇴 Nicholas LIA\n🇬🇲 Ousman JOBE\n🇬🇼 Pedro ROGERY\n🇲🇭
+  Phillip KINONO\n🇵🇱 Piotr LUDWICZAK\n🇳🇱 Renzo TJON-A-JOE\n🇮🇪 Shane
+  RYAN\n🇧🇫 Souleymane NAPARE\n🇬🇷 Stergios Marios BILAS\n🇭🇺
+  Szebasztian SZABO\n🇳🇿 Taiko TOREPE-ORMSBY\n🇨🇫 Terence TENGUE\n🇨🇭
+  Thierry BOLLIN\n🇮🇪 Thomas FANNON\n🇳🇬 Tobi SIJUADE\n🇰🇳 Troy
+  NISBETT\n🇺🇦 Vladyslav BUKHOV\n🇩🇲 Warren Adam LAWRENCE
+SUMMARY:🏊 남자 50m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T070000Z-shooting--25M-
+DTSTAMP:20240802T070000Z
+DTSTART:20240802T070000Z
+DTEND:20240802T093000Z
+DESCRIPTION:사격 - 여자 25m 권총 예선 완사\n🇺🇸 Ada Claudia KORKHIN\n🇱🇻 Agate
+  RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇪🇨 Andrea PEREZ PENA\n🇬🇷 Anna
+  KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇪🇨
+  Diana DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena
+  GALIABOVITCH\n🇮🇳 Esha SINGH\n🇮🇷 Haniyeh ROSTAMIYAN\n🇩🇪 Josefin
+  EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan
+  ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LIANG Xiaoya\n🇨🇺
+  Laina PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇫🇷 Mathilde
+  LAMOLLE\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas MOHAMMED\n🇺🇦 Olena
+  KOSTEVYCH\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷 Simal
+  YILMAZ\n🇸🇪 Stina LAWNER\n🇦🇹 Sylvia STEINER\n🇹🇼 TIEN Chia Chen\n🇹🇭
+  Tanyaporn PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇹🇼 WU
+  Chia Ying\n🇸🇬 Xiu Hong TEH\n🇰🇷 YANG Jiin\n🇨🇳 ZHAO Nan
+SUMMARY:🔫 여자 25m 권총 예선 완사
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T080600Z-rowing--E
+DTSTAMP:20240802T080600Z
+DTSTART:20240802T080600Z
+DTEND:20240802T081300Z
+DESCRIPTION:조정 - 여자 싱글스컬 결승 E\n🇸🇬 Aisyah RAFAEE\n🇳🇮 Evidelia GONZALEZ
+  JARQUIN\n🇺🇬 Kathleen NOBLE\n🇩🇿 Nihed BENCHADLI\n🇰🇼 Soaad
+  ALFAQAAN\n🇨🇺 Yariulvis COBAS GARCIA
+SUMMARY:🚣 여자 싱글스컬 결승 E
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T094000Z-swimming--800M-
+DTSTAMP:20240802T094000Z
+DTSTART:20240802T094000Z
+DTEND:20240802T100300Z
+DESCRIPTION:경영 - 여자 800m 자유형 - 예선\n🇦🇷 Agostina HEIN\n🇭🇺 Ajna
+  KESELY\n🇫🇷 Anastasiia KIRPICHNIKOVA\n🇦🇺 Ariarne TITMUS\n🇸🇬 Ching
+  Hwee GAN\n🇳🇿 Erika FAIRWEATHER\n🇳🇿 Eve THOMAS\n🇩🇪 Isabel GOSE\n🇹🇳
+  Jamila BOULAKBECH\n🇺🇸 Katie LEDECKY\n🇨🇱 Kristel KOBRICH\n🇨🇳 LI
+  Bingjie\n🇦🇺 Lani PALLISTER\n🇧🇷 Maria Fernanda COSTA\n🇺🇸 Paige
+  MADDEN\n🇮🇹 Simona QUADARELLA
+SUMMARY:🏊 여자 800m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T105200Z-swimming--4-X-100M-
+DTSTAMP:20240803T105200Z
+DTSTART:20240803T105200Z
+DTEND:20240803T110500Z
+DESCRIPTION:경영 - 여자 4 x 100m 혼계영 - 예선\n🇳🇱 네덜란드\n🇩🇰 덴마크\n🇩🇪 독일\n🇺🇸
+  미국\n🇸🇪 스웨덴\n🇸🇬 싱가포르\n🇮🇪 아일랜드\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇮🇹
+  이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇵🇱 폴란드\n🇫🇷 프랑스\n🇭🇰 홍콩, 차이나
+SUMMARY:🏊 여자 4 x 100m 혼계영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

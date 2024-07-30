@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ko/NGR//EN
+X-WR-CALNAME:🇳🇬 Nigeria 배드민턴 | Paris 2024
+NAME:🇳🇬 Nigeria 배드민턴 | Paris 2024
+BEGIN:VEVENT
+UID:20240730T173000Z-badminton--N-NGR-SUI
+DTSTAMP:20240730T173000Z
+DTSTART:20240730T173000Z
+DTEND:20240730T181000Z
+DESCRIPTION:배드민턴 - 남자 단식 조별예선 - N조
+SUMMARY:🏸 Anuoluwapo Juwon OPEYORI 🇳🇬 - 🇨🇭 Tobias KUENZI
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T182000Z-badminton--N-CHN-NGR
+DTSTAMP:20240731T182000Z
+DTSTART:20240731T182000Z
+DTEND:20240731T190000Z
+DESCRIPTION:배드민턴 - 남자 단식 조별예선 - N조
+SUMMARY:🏸 LI Shi Feng 🇨🇳 - 🇳🇬 Anuoluwapo Juwon OPEYORI
+LOCATION:라 샤펠 아레나
+END:VEVENT
+END:VCALENDAR

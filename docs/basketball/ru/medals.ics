@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//basketball/ru/medals//EN
+X-WR-CALNAME:🏀 Баскетбол 🏅 | Paris 2024
+NAME:🏀 Баскетбол 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240810T090000Z-basketball--3-
+DTSTAMP:20240810T090000Z
+DTSTART:20240810T090000Z
+DTEND:20240810T104500Z
+DESCRIPTION:Баскетбол - Матч за 3-е место (м)
+SUMMARY:🏀 Матч за 3-е место (м)
+LOCATION:Арена «Берси»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T193000Z-basketball--
+DTSTAMP:20240810T193000Z
+DTSTART:20240810T193000Z
+DTEND:20240810T211500Z
+DESCRIPTION:Баскетбол - Финал (м)
+SUMMARY:🏀 Финал (м)
+LOCATION:Арена «Берси»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T093000Z-basketball--3-
+DTSTAMP:20240811T093000Z
+DTSTART:20240811T093000Z
+DTEND:20240811T111500Z
+DESCRIPTION:Баскетбол - Матч за 3-е место (ж)
+SUMMARY:🏀 Матч за 3-е место (ж)
+LOCATION:Арена «Берси»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T133000Z-basketball--
+DTSTAMP:20240811T133000Z
+DTSTART:20240811T133000Z
+DTEND:20240811T151500Z
+DESCRIPTION:Баскетбол - Финал (ж)
+SUMMARY:🏀 Финал (ж)
+LOCATION:Арена «Берси»
+END:VEVENT
+END:VCALENDAR

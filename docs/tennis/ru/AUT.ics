@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//tennis/ru/AUT//EN
+X-WR-CALNAME:🇦🇹 Austria Теннис | Paris 2024
+NAME:🇦🇹 Austria Теннис | Paris 2024
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis---NED-AUT
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T130000Z
+DESCRIPTION:Теннис - Первый раунд, одиночный разряд (м)
+SUMMARY:🎾 Robin HAASE 🇳🇱 - 🇦🇹 Sebastian OFNER
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis---USA-AUT
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T173000Z
+DESCRIPTION:Теннис - Первый раунд, одиночный разряд (ж)
+SUMMARY:🎾 Emma NAVARRO 🇺🇸 - 🇦🇹 Julia GRABHER
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T170000Z-tennis--
+DTSTAMP:20240730T170000Z
+DTSTART:20240730T170000Z
+DTEND:20240730T200000Z
+DESCRIPTION:Теннис - Второй раунд, одиночный разряд (м)\n🇦🇹 Sebastian
+  OFNER
+SUMMARY:🎾 Второй раунд, одиночный разряд (м)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+END:VCALENDAR

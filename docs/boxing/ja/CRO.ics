@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/CRO//EN
+X-WR-CALNAME:🇭🇷 Croatia ボクシング | Paris 2024
+NAME:🇭🇷 Croatia ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240730T100400Z-boxing-80KG-16-JOR-CRO
+DTSTAMP:20240730T100400Z
+DTSTART:20240730T100400Z
+DTEND:20240730T101500Z
+DESCRIPTION:ボクシング - 男子80kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Hussein IASHAISH 🇯🇴 - 🇭🇷 Gabrijel VEOCIC
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T150600Z-boxing-80KG--DOM-CRO
+DTSTAMP:20240802T150600Z
+DTSTART:20240802T150600Z
+DTEND:20240802T151700Z
+DESCRIPTION:ボクシング - 男子80kg級 - 準々決勝
+SUMMARY:🥊 Cristian Javier PINALES 🇩🇴 - 🇭🇷 Gabrijel VEOCIC
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

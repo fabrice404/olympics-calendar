@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ko/BIH//EN
+X-WR-CALNAME:🇧🇦 Bosnia and Herzegovina | Paris 2024
+NAME:🇧🇦 Bosnia and Herzegovina | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 개막식
+SUMMARY:Paris 2024 - 개막식
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T090000Z-swimming--100M-
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T091100Z
+DESCRIPTION:경영 - 여자 100m 접영 - 예선\n🇬🇷 그리스\n🇿🇦 남아프리카공화국\n🇳🇱 네덜란드\n🇳🇿
+  뉴질랜드\n🇳🇮 니카라과\n🇩🇰 덴마크\n🇩🇪 독일\n🇺🇸 미국\n🇧🇪 벨기에\n🇧🇦
+  보스니아헤르체고비나\n🇸🇳 세네갈\n🇸🇪 스웨덴\n🇪🇸 스페인\n🇦🇲 아르메니아\n🇮🇪 아일랜드\n🇸🇿
+  에스와티니\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇮🇹 이탈리아\n🇯🇵 일본\n🇬🇪 조지아\n🇨🇳 중국\n🇨🇿
+  체코\n🇨🇦 캐나다\n🇵🇾 파라과이\n🇫🇷 프랑스
+SUMMARY:🏊 여자 100m 접영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T094500Z-swimming--400M-
+DTSTAMP:20240727T094500Z
+DTSTART:20240727T094500Z
+DTEND:20240727T101400Z
+DESCRIPTION:경영 - 남자 400m 자유형 - 예선\n🇬🇾 가이아나\n🇰🇷 대한민국\n🇩🇪 독일\n🇱🇹
+  리투아니아\n🇲🇾 말레이시아\n🇲🇦 모로코\n🇲🇩 몰도바\n🇺🇸 미국\n🇻🇪 베네수엘라\n🇧🇪
+  벨기에\n🇧🇦 보스니아헤르체고비나\n🇲🇰 북마케도니아\n🇧🇬 불가리아\n🇧🇷 브라질\n🇸🇲 산마리노\n🇸🇪
+  스웨덴\n🇨🇭 스위스\n🇪🇪 에스토니아\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇦🇹 오스트리아\n🇺🇿
+  우즈베키스탄\n🇮🇹 이탈리아\n🇨🇳 중국\n🇨🇱 칠레\n🇰🇪 케냐\n🇨🇷 코스타리카\n🇹🇳 튀니지\n🇵🇪
+  페루\n🇫🇷 프랑스\n🇭🇺 헝가리
+SUMMARY:🏊 남자 400m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T081200Z-judo--70KG-32--BIH-DEN
+DTSTAMP:20240731T081200Z
+DTSTART:20240731T081200Z
+DTEND:20240731T081800Z
+DESCRIPTION:유도 - 여자 -70kg 32강 엘리미네이션 라운드
+SUMMARY:🥋 Aleksandra SAMARDZIC 🇧🇦 - 🇩🇰 Laerke OLSEN
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T094600Z-swimming--200M-
+DTSTAMP:20240731T094600Z
+DTSTART:20240731T094600Z
+DTEND:20240731T100600Z
+DESCRIPTION:경영 - 여자 200m 접영 - 예선\n🇬🇷 그리스\n🇩🇰 덴마크\n🇺🇸 미국\n🇧🇦
+  보스니아헤르체고비나\n🇷🇸 세르비아\n🇪🇸 스페인\n🇦🇴 앙골라\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇯🇵
+  일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇨🇷 코스타리카\n🇭🇺 헝가리
+SUMMARY:🏊 여자 200m 접영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T081200Z-judo--78KG-32--NZL-BIH
+DTSTAMP:20240802T081200Z
+DTSTART:20240802T081200Z
+DTEND:20240802T081800Z
+DESCRIPTION:유도 - 여자 +78kg 32강 엘리미네이션 라운드
+SUMMARY:🥋 Sydnee ANDREWS 🇳🇿 - 🇧🇦 Larisa CERIC
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

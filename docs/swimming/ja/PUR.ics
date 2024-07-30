@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/ja/PUR//EN
+X-WR-CALNAME:🇵🇷 Puerto Rico 競泳 | Paris 2024
+NAME:🇵🇷 Puerto Rico 競泳 | Paris 2024
+BEGIN:VEVENT
+UID:20240728T094300Z-swimming-100M
+DTSTAMP:20240728T094300Z
+DTSTART:20240728T094300Z
+DTEND:20240728T095900Z
+DESCRIPTION:競泳 - 男子100m背泳ぎ予選\n🇺🇸 アメリカ合衆国\n🇦🇷 アルゼンチン\n🇮🇱 イスラエル\n🇮🇹
+  イタリア\n🇮🇳 インド\n🇺🇦 ウクライナ\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇬🇷 ギリシャ\n🇬🇩 グレナダ\n🇨🇴 コロンビア\n🇬🇪 ジョージア\n🇨🇭 スイス\n🇪🇸
+  スペイン\n🇨🇿 チェコ\n🇹🇷 トルコ\n🇹🇴 トンガ\n🇩🇪 ドイツ\n🇳🇿 ニュージーランド\n🇭🇺
+  ハンガリー\n🇧🇲 バミューダ\n🇵🇸 パレスチナ\n🇫🇷 フランス\n🇧🇳 ブルネイ・ダルサラーム\n🇵🇷
+  プエルトリコ\n🇧🇯 ベナン\n🇵🇹 ポルトガル\n🇵🇱 ポーランド\n🇨🇳 中国\n🇿🇦 南アフリカ\n🇰🇷
+  大韓民国\n🇯🇵 日本\n🇻🇮 米領バージン諸島\n🇬🇧 英国
+SUMMARY:🏊 男子100m背泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T092100Z-swimming-200M
+DTSTAMP:20240731T092100Z
+DTSTART:20240731T092100Z
+DTEND:20240731T094600Z
+DESCRIPTION:競泳 - 男子200m背泳ぎ予選\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹 イタリア\n🇺🇦
+  ウクライナ\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇬🇷 ギリシャ\n🇿🇼 ジンバブエ\n🇨🇭
+  スイス\n🇪🇸 スペイン\n🇸🇩 スーダン\n🇩🇪 ドイツ\n🇳🇿 ニュージーランド\n🇭🇺 ハンガリー\n🇫🇷
+  フランス\n🇵🇷 プエルトリコ\n🇵🇱 ポーランド\n🇨🇳 中国\n🇿🇦 南アフリカ\n🇰🇷 大韓民国\n🇯🇵
+  日本\n🇬🇧 英国
+SUMMARY:🏊 男子200m背泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T091700Z-swimming-200M
+DTSTAMP:20240802T091700Z
+DTSTART:20240802T091700Z
+DTEND:20240802T094000Z
+DESCRIPTION:競泳 - 女子200m個人メドレー予選\n🇬🇧 Abbie WOOD\n🇺🇸 Alex WALSH\n🇮🇱
+  Anastasia GORBENKO\n🇮🇩 Azzahra PERMATAHANI\n🇨🇿 Barbora
+  SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma SEBESTYEN\n🇦🇺 Ella
+  RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇬🇧 Freya
+  Constance COLBERT\n🇹🇼 HAN An-Chi\n🇱🇻 Ieva MALUKA\n🇨🇻 Jayla
+  PINA\n🇰🇷 KIM Seoyeong\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee McKEOWN\n🇵🇷
+  Kristen Elena ROMANO\n🇮🇱 Lea POLONSKY\n🇦🇹 Lena KREUNDL\n🇯🇵
+  MATSUMOTO Shiho\n🇳🇱 Marrit STEENBERGEN\n🇵🇪 McKenna de BEVER\n🇺🇾
+  Nicole FRANK\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇮🇹 Sara
+  FRANCESCHI\n🇨🇦 Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇸🇰 Tamara
+  POTOCKA\n🇻🇳 Thi My Tien VO\n🇵🇸 Valerie Rose TARAZI\n🇨🇳 YE
+  Shiwen\n🇨🇳 YU Yiting
+SUMMARY:🏊 女子200m個人メドレー予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+END:VCALENDAR

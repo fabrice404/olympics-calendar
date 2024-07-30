@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/ko/LBA//EN
+X-WR-CALNAME:🇱🇾 Libya 조정 | Paris 2024
+NAME:🇱🇾 Libya 조정 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T070000Z-rowing--
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:조정 - 남자 싱글스컬 예선\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇩🇰 덴마크\n🇩🇪
+  독일\n🇷🇴 루마니아\n🇱🇾 리비아\n🇱🇹 리투아니아\n🇲🇨 모나코\n🇺🇸 미국\n🇧🇲 버뮤다\n🇧🇪
+  벨기에\n🇧🇬 불가리아\n🇧🇷 브라질\n🇸🇩 수단\n🇸🇮 슬로베니아\n🇩🇿 알제리\n🇦🇴 앙골라\n🇺🇾
+  우루과이\n🇪🇬 이집트\n🇮🇳 인도\n🇮🇩 인도네시아\n🇯🇵 일본\n🇿🇼 짐바브웨\n🇰🇿 카자흐스탄\n🇨🇺
+  쿠바\n🇭🇷 크로아티아\n🇹🇭 태국\n🇹🇳 튀니지\n🇵🇾 파라과이\n🇭🇺 헝가리\n🇭🇰 홍콩, 차이나
+SUMMARY:🚣 남자 싱글스컬 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073600Z-rowing--
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:조정 - 남자 싱글스컬 패자부활전\n🇱🇾 리비아\n🇲🇨 모나코\n🇧🇲 버뮤다\n🇸🇩 수단\n🇸🇮
+  슬로베니아\n🇩🇿 알제리\n🇦🇴 앙골라\n🇮🇳 인도\n🇮🇩 인도네시아\n🇿🇼 짐바브웨\n🇰🇿
+  카자흐스탄\n🇹🇭 태국\n🇹🇳 튀니지\n🇵🇾 파라과이\n🇭🇰 홍콩, 차이나
+SUMMARY:🚣 남자 싱글스컬 패자부활전
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T074200Z-rowing--EF-2
+DTSTAMP:20240729T074200Z
+DTSTART:20240729T074200Z
+DTEND:20240729T074900Z
+DESCRIPTION:조정 - 남자 싱글스컬 준결승 E/F 2\n🇸🇩 Abdalla AHMED\n🇧🇲 Dara
+  ALIZADEH\n🇱🇾 Mohamed BUKRAH\n🇹🇭 Premanut WATTANANUSITH\n🇿🇼 Stephen
+  COX
+SUMMARY:🚣 남자 싱글스컬 준결승 E/F 2
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-rowing--F
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T073700Z
+DESCRIPTION:조정 - 남자 싱글스컬 결승 F\n🇸🇩 Abdalla AHMED\n🇦🇴 Andre MATIAS\n🇱🇾
+  Mohamed BUKRAH
+SUMMARY:🚣 남자 싱글스컬 결승 F
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/NED//EN
+X-WR-CALNAME:🇳🇱 Netherlands ボクシング | Paris 2024
+NAME:🇳🇱 Netherlands ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240729T181600Z-boxing-60KG-16-PRK-NED
+DTSTAMP:20240729T181600Z
+DTSTART:20240729T181600Z
+DTEND:20240729T182700Z
+DESCRIPTION:ボクシング - 女子60kg級 - 予選 - ラウンド16
+SUMMARY:🥊 WON Ungyong 🇰🇵 - 🇳🇱 Chelsey HEIJNEN
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T200800Z-boxing-60KG--NED-BRA
+DTSTAMP:20240731T200800Z
+DTSTART:20240731T200800Z
+DTEND:20240731T201900Z
+DESCRIPTION:ボクシング - 女子60kg級 - 準々決勝
+SUMMARY:🥊 Chelsey HEIJNEN 🇳🇱 - 🇧🇷 Beatriz Iasmin SOARES FERREIRA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

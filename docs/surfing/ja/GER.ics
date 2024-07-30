@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//surfing/ja/GER//EN
+X-WR-CALNAME:🇩🇪 Germany サーフィン | Paris 2024
+NAME:🇩🇪 Germany サーフィン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T170000Z-surfing-1-1
+DTSTAMP:20240727T170000Z
+DTSTART:20240727T170000Z
+DTEND:20240727T173000Z
+DESCRIPTION:サーフィン - 男子第1ラウンド - 第1ヒート\n🇦🇺 Ethan EWING\n🇿🇦 Jordy
+  SMITH\n🇩🇪 Tim ELTER
+SUMMARY:🏄 男子第1ラウンド - 第1ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T004800Z-surfing-1-6
+DTSTAMP:20240728T004800Z
+DTSTART:20240728T004800Z
+DTEND:20240728T011800Z
+DESCRIPTION:サーフィン - 女子第1ラウンド - 第6ヒート\n🇩🇪 Camilla KEMP\n🇧🇷 Luana
+  SILVA\n🇧🇷 Taina HINCKEL
+SUMMARY:🏄 女子第1ラウンド - 第6ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T173600Z-surfing-2-2-RSA-GER
+DTSTAMP:20240728T173600Z
+DTSTART:20240728T173600Z
+DTEND:20240728T180600Z
+DESCRIPTION:サーフィン - 女子第2ラウンド - 第2ヒート
+SUMMARY:🏄 Sarah BAUM 🇿🇦 - 🇩🇪 Camilla KEMP
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T222400Z-surfing-2-2-JPN-GER
+DTSTAMP:20240728T222400Z
+DTSTART:20240728T222400Z
+DTEND:20240728T230400Z
+DESCRIPTION:サーフィン - 男子第2ラウンド - 第2ヒート
+SUMMARY:🏄 O'LEARY Connor 🇯🇵 - 🇩🇪 Tim ELTER
+LOCATION:タウポ、タヒチ
+END:VEVENT
+END:VCALENDAR

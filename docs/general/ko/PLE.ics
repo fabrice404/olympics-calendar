@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ko/PLE//EN
+X-WR-CALNAME:🇵🇸 Palestine | Paris 2024
+NAME:🇵🇸 Palestine | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 개막식
+SUMMARY:Paris 2024 - 개막식
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T094300Z-swimming--100M-
+DTSTAMP:20240728T094300Z
+DTSTART:20240728T094300Z
+DTEND:20240728T095900Z
+DESCRIPTION:경영 - 남자 100m 배영 - 예선\n🇬🇩 그레나다\n🇬🇷 그리스\n🇿🇦 남아프리카공화국\n🇳🇱
+  네덜란드\n🇳🇿 뉴질랜드\n🇰🇷 대한민국\n🇩🇪 독일\n🇺🇸 미국\n🇻🇮 미국령 버진아일랜드\n🇧🇲
+  버뮤다\n🇧🇯 베냉\n🇧🇳 브루나이\n🇨🇭 스위스\n🇪🇸 스페인\n🇦🇷 아르헨티나\n🇬🇧 영국\n🇦🇺
+  오스트레일리아\n🇦🇹 오스트리아\n🇺🇦 우크라이나\n🇮🇱 이스라엘\n🇮🇹 이탈리아\n🇮🇳 인도\n🇯🇵
+  일본\n🇬🇪 조지아\n🇨🇳 중국\n🇨🇿 체코\n🇨🇦 캐나다\n🇨🇴 콜롬비아\n🇹🇴 통가\n🇹🇷
+  튀르키예\n🇵🇸 팔레스타인\n🇵🇹 포르투갈\n🇵🇱 폴란드\n🇵🇷 푸에르토리코\n🇫🇷 프랑스\n🇭🇺 헝가리
+SUMMARY:🏊 남자 100m 배영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T133000Z-boxing--57KG-32-SWE-PLE
+DTSTAMP:20240728T133000Z
+DTSTART:20240728T133000Z
+DTEND:20240728T134100Z
+DESCRIPTION:복싱 - 남자 57kg - 예선 - 32강
+SUMMARY:🥊 Nebil IBRAHIM 🇸🇪 - 🇵🇸 Wasim ABUSAL
+LOCATION:노스 파리 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T090600Z-judo--81KG-32--TJK-PLE
+DTSTAMP:20240730T090600Z
+DTSTART:20240730T090600Z
+DTEND:20240730T091200Z
+DESCRIPTION:유도 - 남자 -81kg 32강 엘리미네이션 라운드
+SUMMARY:🥋 Somon MAKHMADBEKOV 🇹🇯 - 🇵🇸 Fares BADAWI
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-shooting--1
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T120000Z
+DESCRIPTION:사격 - 남자 스키트 예선 - 1일차\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
+  MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸 Conner Lynn PRINCE\n🇰🇿
+  Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷 Efthimios MITAS\n🇫🇷 Eric
+  DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico GIL\n🇮🇹 Gabriele
+  ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub TOMECEK\n🇩🇰 Jesper
+  HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua BELL\n🇰🇷 KIM Minsu\n🇹🇼
+  LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus SVENSSON\n🇰🇼 Mohammad
+  ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬 Omar IBRAHIM\n🇪🇪 Peeter
+  JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹 Sebastian BERMUDEZ
+  LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹 Tammaro CASSANDRO\n🇺🇸
+  Vincent HANCOCK
+SUMMARY:🔫 남자 스키트 예선 - 1일차
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T091700Z-swimming--200M-
+DTSTAMP:20240802T091700Z
+DTSTART:20240802T091700Z
+DTEND:20240802T094000Z
+DESCRIPTION:경영 - 여자 200m 개인 혼영 - 예선\n🇬🇧 Abbie WOOD\n🇺🇸 Alex WALSH\n🇮🇱
+  Anastasia GORBENKO\n🇮🇩 Azzahra PERMATAHANI\n🇨🇿 Barbora
+  SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma SEBESTYEN\n🇦🇺 Ella
+  RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇬🇧 Freya
+  Constance COLBERT\n🇹🇼 HAN An-Chi\n🇱🇻 Ieva MALUKA\n🇨🇻 Jayla
+  PINA\n🇰🇷 KIM Seoyeong\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee McKEOWN\n🇵🇷
+  Kristen Elena ROMANO\n🇮🇱 Lea POLONSKY\n🇦🇹 Lena KREUNDL\n🇯🇵
+  MATSUMOTO Shiho\n🇳🇱 Marrit STEENBERGEN\n🇵🇪 McKenna de BEVER\n🇺🇾
+  Nicole FRANK\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇮🇹 Sara
+  FRANCESCHI\n🇨🇦 Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇸🇰 Tamara
+  POTOCKA\n🇻🇳 Thi My Tien VO\n🇵🇸 Valerie Rose TARAZI\n🇨🇳 YE
+  Shiwen\n🇨🇳 YU Yiting
+SUMMARY:🏊 여자 200m 개인 혼영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

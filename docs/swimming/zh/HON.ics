@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/zh/HON//EN
+X-WR-CALNAME:🇭🇳 Honduras 游泳 | Paris 2024
+NAME:🇭🇳 Honduras 游泳 | Paris 2024
+BEGIN:VEVENT
+UID:20240728T100000Z-swimming-200
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T101600Z
+DESCRIPTION:游泳 - 女子200米自由泳分组预赛\n🇨🇳 中国\n🇭🇰 中国香港\n🇮🇱 以色列\n🇮🇸 冰岛\n🇨🇦
+  加拿大\n🇭🇺 匈牙利\n🇿🇦 南非\n🇮🇳 印度\n🇨🇺 古巴\n🇪🇬 埃及\n🇻🇪 委内瑞拉\n🇳🇵
+  尼泊尔\n🇵🇰 巴基斯坦\n🇧🇷 巴西\n🇩🇪 德国\n🇨🇿 捷克\n🇳🇿 新西兰\n🇧🇪 比利时\n🇸🇦
+  沙特阿拉伯\n🇭🇳 洪都拉斯\n🇦🇺 澳大利亚\n🇷🇴 罗马尼亚\n🇺🇸 美国\n🇱🇦 老挝\n🇲🇳 蒙古\n🇦🇱
+  阿尔巴尼亚\n🇦🇪 阿联酋
+SUMMARY:🏊 女子200米自由泳分组预赛
+LOCATION:拉德芳斯体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110100Z-swimming-200
+DTSTAMP:20240730T110100Z
+DTSTART:20240730T110100Z
+DTEND:20240730T111900Z
+DESCRIPTION:游泳 - 男子200米蛙泳分组预赛\n🇱🇹 Aleksas SAVICKAS\n🇯🇴 Amro
+  AL-WIR\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦 Bernhard Tyler
+  CHRISTIANSON\n🇰🇷 CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳 DONG
+  Zhihao\n🇱🇻 Daniils BOBROVS\n🇰🇬 Denis PETRASHOV\n🇸🇪 Erik
+  PERSSON\n🇯🇵 HANAGURUMA Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺
+  Joshua YONG\n🇭🇳 Julio HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
+  EPITROPOV\n🇺🇸 Matt FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro
+  de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE
+  Ippei\n🇦🇺 Zac STUBBLETY-COOK
+SUMMARY:🏊 男子200米蛙泳分组预赛
+LOCATION:拉德芳斯体育馆
+END:VEVENT
+END:VCALENDAR

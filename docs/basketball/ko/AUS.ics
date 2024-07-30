@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//basketball/ko/AUS//EN
+X-WR-CALNAME:🇦🇺 Australia 농구 | Paris 2024
+NAME:🇦🇺 Australia 농구 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T090000Z-basketball--A-AUS-ESP
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T104500Z
+DESCRIPTION:농구 - 남자 조별예선 A조
+SUMMARY:🏀 오스트레일리아 🇦🇺 - 🇪🇸 스페인
+LOCATION:피에르 모루아 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-basketball--B-NGR-AUS
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T104500Z
+DESCRIPTION:농구 - 여자 조별예선 B조
+SUMMARY:🏀 나이지리아 🇳🇬 - 🇦🇺 오스트레일리아
+LOCATION:피에르 모루아 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T113000Z-basketball--A-CAN-AUS
+DTSTAMP:20240730T113000Z
+DTSTART:20240730T113000Z
+DTEND:20240730T131500Z
+DESCRIPTION:농구 - 남자 조별예선 A조
+SUMMARY:🏀 캐나다 🇨🇦 - 🇦🇺 오스트레일리아
+LOCATION:피에르 모루아 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T113000Z-basketball--B-AUS-CAN
+DTSTAMP:20240801T113000Z
+DTSTART:20240801T113000Z
+DTEND:20240801T131500Z
+DESCRIPTION:농구 - 여자 조별예선 B조
+SUMMARY:🏀 오스트레일리아 🇦🇺 - 🇨🇦 캐나다
+LOCATION:피에르 모루아 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T113000Z-basketball--A-AUS-GRE
+DTSTAMP:20240802T113000Z
+DTSTART:20240802T113000Z
+DTEND:20240802T131500Z
+DESCRIPTION:농구 - 남자 조별예선 A조
+SUMMARY:🏀 오스트레일리아 🇦🇺 - 🇬🇷 그리스
+LOCATION:피에르 모루아 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T190000Z-basketball--B-AUS-FRA
+DTSTAMP:20240804T190000Z
+DTSTART:20240804T190000Z
+DTEND:20240804T204500Z
+DESCRIPTION:농구 - 여자 조별예선 B조
+SUMMARY:🏀 오스트레일리아 🇦🇺 - 🇫🇷 프랑스
+LOCATION:피에르 모루아 스타디움
+END:VEVENT
+END:VCALENDAR

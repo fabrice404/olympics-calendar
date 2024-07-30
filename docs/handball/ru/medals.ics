@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//handball/ru/medals//EN
+X-WR-CALNAME:🤾 Гандбол 🏅 | Paris 2024
+NAME:🤾 Гандбол 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240810T080000Z-handball--3-
+DTSTAMP:20240810T080000Z
+DTSTART:20240810T080000Z
+DTEND:20240810T100000Z
+DESCRIPTION:Гандбол - Матч за 3-е место (ж)
+SUMMARY:🤾 Матч за 3-е место (ж)
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T130000Z-handball--
+DTSTAMP:20240810T130000Z
+DTSTART:20240810T130000Z
+DTEND:20240810T150000Z
+DESCRIPTION:Гандбол - Финал (ж)
+SUMMARY:🤾 Финал (ж)
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T070000Z-handball--3-
+DTSTAMP:20240811T070000Z
+DTSTART:20240811T070000Z
+DTEND:20240811T090000Z
+DESCRIPTION:Гандбол - Матч за 3-е место (м)
+SUMMARY:🤾 Матч за 3-е место (м)
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T113000Z-handball--
+DTSTAMP:20240811T113000Z
+DTSTART:20240811T113000Z
+DTEND:20240811T133000Z
+DESCRIPTION:Гандбол - Финал (м)
+SUMMARY:🤾 Финал (м)
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+END:VCALENDAR

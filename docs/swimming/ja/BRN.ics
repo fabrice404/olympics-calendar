@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/ja/BRN//EN
+X-WR-CALNAME:🇧🇭 Bahrain 競泳 | Paris 2024
+NAME:🇧🇭 Bahrain 競泳 | Paris 2024
+BEGIN:VEVENT
+UID:20240729T091300Z-swimming-100M
+DTSTAMP:20240729T091300Z
+DTSTART:20240729T091300Z
+DTEND:20240729T092700Z
+DESCRIPTION:競泳 - 女子100m背泳ぎ予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇺🇦
+  ウクライナ\n🇸🇻 エルサルバドル\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇰🇿 カザフスタン\n🇨🇦 カナダ\n🇬🇹
+  グアテマラ\n🇸🇪 スウェーデン\n🇪🇸 スペイン\n🇱🇰 スリランカ\n🇹🇹 トリニダード・トバゴ\n🇹🇲
+  トルクメニスタン\n🇩🇴 ドミニカ共和国\n🇧🇲 バミューダ\n🇧🇭 バーレーン\n🇫🇷 フランス\n🇧🇬
+  ブルガリア\n🇧🇪 ベルギー\n🇭🇰 ホンコン・チャイナ\n🇵🇱 ポーランド\n🇲🇽 メキシコ\n🇲🇿
+  モザンビーク\n🇱🇾 リビア\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🏊 女子100m背泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110100Z-swimming-200M
+DTSTAMP:20240730T110100Z
+DTSTART:20240730T110100Z
+DTEND:20240730T111900Z
+DESCRIPTION:競泳 - 男子200m平泳ぎ予選\n🇱🇹 Aleksas SAVICKAS\n🇯🇴 Amro AL-WIR\n🇮🇸
+  Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦 Bernhard Tyler CHRISTIANSON\n🇰🇷
+  CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳 DONG Zhihao\n🇱🇻 Daniils
+  BOBROVS\n🇰🇬 Denis PETRASHOV\n🇸🇪 Erik PERSSON\n🇯🇵 HANAGURUMA
+  Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺 Joshua YONG\n🇭🇳 Julio
+  HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir EPITROPOV\n🇺🇸 Matt
+  FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro de LARA OJEDA\n🇨🇳
+  QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE Ippei\n🇦🇺 Zac
+  STUBBLETY-COOK
+SUMMARY:🏊 男子200m平泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+END:VCALENDAR

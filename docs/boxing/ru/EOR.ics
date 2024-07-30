@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/EOR//EN
+X-WR-CALNAME:🏳️ Refugee Olympic Team Бокс | Paris 2024
+NAME:🏳️ Refugee Olympic Team Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240728T090000Z-boxing--116-51--EOR-USA
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T091100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 51кг (м)
+SUMMARY:🥊 Omid AHMADISAFA 🏳️ - 🇺🇸 Roscoe HILL
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T150600Z-boxing--18-75--CAN-EOR
+DTSTAMP:20240731T150600Z
+DTSTART:20240731T150600Z
+DTEND:20240731T151700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 75кг (ж)
+SUMMARY:🥊 Tammara Amanda THIBEAULT 🇨🇦 - 🏳️ Cindy Winner DJANKEU NGAMBA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

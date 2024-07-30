@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//beach-volleyball/ru/medals//EN
+X-WR-CALNAME:🏐 Пляжный волейбол 🏅 | Paris 2024
+NAME:🏐 Пляжный волейбол 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240809T190000Z-beach-volleyball--
+DTSTAMP:20240809T190000Z
+DTSTART:20240809T190000Z
+DTEND:20240809T195000Z
+DESCRIPTION:Пляжный волейбол - Матч за бронзу (ж)
+SUMMARY:🏐 Матч за бронзу (ж)
+LOCATION:Стадион у Эйфелевой башни
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T203000Z-beach-volleyball--
+DTSTAMP:20240809T203000Z
+DTSTART:20240809T203000Z
+DTEND:20240809T212000Z
+DESCRIPTION:Пляжный волейбол - Финал (ж)
+SUMMARY:🏐 Финал (ж)
+LOCATION:Стадион у Эйфелевой башни
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T190000Z-beach-volleyball--
+DTSTAMP:20240810T190000Z
+DTSTART:20240810T190000Z
+DTEND:20240810T195000Z
+DESCRIPTION:Пляжный волейбол - Матч за бронзу (м)
+SUMMARY:🏐 Матч за бронзу (м)
+LOCATION:Стадион у Эйфелевой башни
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T203000Z-beach-volleyball--
+DTSTAMP:20240810T203000Z
+DTSTART:20240810T203000Z
+DTEND:20240810T212000Z
+DESCRIPTION:Пляжный волейбол - Финал (м)
+SUMMARY:🏐 Финал (м)
+LOCATION:Стадион у Эйфелевой башни
+END:VEVENT
+END:VCALENDAR

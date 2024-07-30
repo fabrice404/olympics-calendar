@@ -1,0 +1,734 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ko/LTU//EN
+X-WR-CALNAME:🇱🇹 Lithuania | Paris 2024
+NAME:🇱🇹 Lithuania | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 개막식
+SUMMARY:Paris 2024 - 개막식
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T070000Z-rowing--
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:조정 - 남자 싱글스컬 예선\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇩🇰 덴마크\n🇩🇪
+  독일\n🇷🇴 루마니아\n🇱🇾 리비아\n🇱🇹 리투아니아\n🇲🇨 모나코\n🇺🇸 미국\n🇧🇲 버뮤다\n🇧🇪
+  벨기에\n🇧🇬 불가리아\n🇧🇷 브라질\n🇸🇩 수단\n🇸🇮 슬로베니아\n🇩🇿 알제리\n🇦🇴 앙골라\n🇺🇾
+  우루과이\n🇪🇬 이집트\n🇮🇳 인도\n🇮🇩 인도네시아\n🇯🇵 일본\n🇿🇼 짐바브웨\n🇰🇿 카자흐스탄\n🇨🇺
+  쿠바\n🇭🇷 크로아티아\n🇹🇭 태국\n🇹🇳 튀니지\n🇵🇾 파라과이\n🇭🇺 헝가리\n🇭🇰 홍콩, 차이나
+SUMMARY:🚣 남자 싱글스컬 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T081200Z-rowing--
+DTSTAMP:20240727T081200Z
+DTSTART:20240727T081200Z
+DTEND:20240727T091900Z
+DESCRIPTION:조정 - 여자 싱글스컬 예선\n🇿🇦 남아프리카공화국\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇳🇮
+  니카라과\n🇩🇪 독일\n🇱🇹 리투아니아\n🇲🇽 멕시코\n🇲🇦 모로코\n🇺🇸 미국\n🇻🇳 베트남\n🇧🇬
+  불가리아\n🇧🇷 브라질\n🇷🇸 세르비아\n🇨🇭 스위스\n🇪🇸 스페인\n🇸🇮 슬로베니아\n🇸🇬
+  싱가포르\n🇦🇿 아제르바이잔\n🇩🇿 알제리\n🇦🇺 오스트레일리아\n🇦🇹 오스트리아\n🇺🇬 우간다\n🇺🇿
+  우즈베키스탄\n🇮🇷 이란\n🇨🇺 쿠바\n🇰🇼 쿠웨이트\n🇹🇬 토고\n🇹🇷 튀르키예\n🇵🇾 파라과이\n🇵🇪
+  페루\n🇵🇭 필리핀
+SUMMARY:🚣 여자 싱글스컬 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T093000Z-swimming--100M-
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T094400Z
+DESCRIPTION:경영 - 남자 100m 평영 - 예선\n🇳🇱 네덜란드\n🇰🇷 대한민국\n🇩🇪 독일\n🇱🇦
+  라오스\n🇱🇹 리투아니아\n🇲🇬 마다가스카르\n🇲🇽 멕시코\n🇲🇿 모잠비크\n🇺🇸 미국\n🇫🇲
+  미크로네시아\n🇧🇼 보츠와나\n🇦🇸 아메리칸사모아\n🇮🇸 아이슬란드\n🇭🇹 아이티\n🇦🇬 앤티가바부다\n🇸🇿
+  에스와티니\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇦🇹 오스트리아\n🇮🇱 이스라엘\n🇮🇹 이탈리아\n🇯🇵
+  일본\n🇨🇳 중국\n🇶🇦 카타르\n🇰🇬 키르기스스탄\n🇹🇷 튀르키예\n🇵🇱 폴란드
+SUMMARY:🏊 남자 100m 평영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T094500Z-swimming--400M-
+DTSTAMP:20240727T094500Z
+DTSTART:20240727T094500Z
+DTEND:20240727T101400Z
+DESCRIPTION:경영 - 남자 400m 자유형 - 예선\n🇬🇾 가이아나\n🇰🇷 대한민국\n🇩🇪 독일\n🇱🇹
+  리투아니아\n🇲🇾 말레이시아\n🇲🇦 모로코\n🇲🇩 몰도바\n🇺🇸 미국\n🇻🇪 베네수엘라\n🇧🇪
+  벨기에\n🇧🇦 보스니아헤르체고비나\n🇲🇰 북마케도니아\n🇧🇬 불가리아\n🇧🇷 브라질\n🇸🇲 산마리노\n🇸🇪
+  스웨덴\n🇨🇭 스위스\n🇪🇪 에스토니아\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇦🇹 오스트리아\n🇺🇿
+  우즈베키스탄\n🇮🇹 이탈리아\n🇨🇳 중국\n🇨🇱 칠레\n🇰🇪 케냐\n🇨🇷 코스타리카\n🇹🇳 튀니지\n🇵🇪
+  페루\n🇫🇷 프랑스\n🇭🇺 헝가리
+SUMMARY:🏊 남자 400m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-rowing--
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T102700Z
+DESCRIPTION:조정 - 여자 더블스컬 예선\n🇳🇱 네덜란드\n🇳🇴 노르웨이\n🇳🇿 뉴질랜드\n🇷🇴
+  루마니아\n🇱🇹 리투아니아\n🇺🇸 미국\n🇮🇪 아일랜드\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇮🇹
+  이탈리아\n🇨🇳 중국\n🇨🇿 체코\n🇫🇷 프랑스
+SUMMARY:🚣 여자 더블스컬 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T081000Z-rowing--
+DTSTAMP:20240728T081000Z
+DTSTART:20240728T081000Z
+DTEND:20240728T081700Z
+DESCRIPTION:조정 - 여자 더블스컬 패자부활전\n🇳🇱 네덜란드\n🇳🇴 노르웨이\n🇱🇹 리투아니아\n🇮🇹 이탈리아
+SUMMARY:🚣 여자 더블스컬 패자부활전
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T083000Z-rowing--
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T085700Z
+DESCRIPTION:조정 - 여자 무타페어 예선\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇩🇰 덴마크\n🇷🇴
+  루마니아\n🇱🇹 리투아니아\n🇺🇸 미국\n🇪🇸 스페인\n🇮🇪 아일랜드\n🇬🇧 영국\n🇦🇺
+  오스트레일리아\n🇨🇿 체코\n🇨🇱 칠레
+SUMMARY:🚣 여자 무타페어 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T090000Z-rowing--
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T092700Z
+DESCRIPTION:조정 - 남자 무타페어 예선\n🇿🇦 남아프리카공화국\n🇳🇿 뉴질랜드\n🇩🇪 독일\n🇷🇴
+  루마니아\n🇱🇹 리투아니아\n🇺🇸 미국\n🇨🇭 스위스\n🇪🇸 스페인\n🇮🇪 아일랜드\n🇬🇧 영국\n🇦🇺
+  오스트레일리아\n🇮🇹 이탈리아\n🇭🇷 크로아티아
+SUMMARY:🚣 남자 무타페어 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T090000Z-swimming--200M-
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T091400Z
+DESCRIPTION:경영 - 남자 200m 자유형 - 예선\n🇰🇷 대한민국\n🇩🇪 독일\n🇷🇴 루마니아\n🇱🇹
+  리투아니아\n🇲🇽 멕시코\n🇺🇸 미국\n🇧🇪 벨기에\n🇧🇷 브라질\n🇷🇸 세르비아\n🇨🇭 스위스\n🇸🇮
+  슬로베니아\n🇸🇾 시리아\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇦🇹 오스트리아\n🇮🇱 이스라엘\n🇮🇹
+  이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇵🇰 파키스탄\n🇭🇺 헝가리
+SUMMARY:🏊 남자 200m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T092700Z-swimming--100M-
+DTSTAMP:20240728T092700Z
+DTSTART:20240728T092700Z
+DTEND:20240728T094200Z
+DESCRIPTION:경영 - 여자 100m 평영 - 예선\n🇬🇲 감비아\n🇿🇦 남아프리카공화국\n🇳🇱 네덜란드\n🇩🇪
+  독일\n🇱🇧 레바논\n🇱🇹 리투아니아\n🇲🇾 말레이시아\n🇲🇦 모로코\n🇺🇸 미국\n🇸🇪 스웨덴\n🇨🇭
+  스위스\n🇪🇸 스페인\n🇸🇬 싱가포르\n🇦🇷 아르헨티나\n🇮🇪 아일랜드\n🇦🇬 앤티가바부다\n🇪🇪
+  에스토니아\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇮🇱 이스라엘\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳
+  중국\n🇨🇿 체코\n🇨🇦 캐나다\n🇨🇴 콜롬비아\n🇰🇼 쿠웨이트\n🇨🇰 쿡 제도\n🇵🇦 파나마\n🇵🇱
+  폴란드\n🇫🇮 핀란드
+SUMMARY:🏊 여자 100m 평영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T130000Z-beach-volleyball--E-NED-LTU
+DTSTAMP:20240728T130000Z
+DTSTART:20240728T130000Z
+DTEND:20240728T135000Z
+DESCRIPTION:비치발리볼 - 여자 예선 -E조
+SUMMARY:🏐 STAM/SCHOON 🇳🇱 - 🇱🇹 PAULIKIENE/RAUPELYTE
+LOCATION:에펠탑 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T184600Z-swimming--200M-
+DTSTAMP:20240728T184600Z
+DTSTART:20240728T184600Z
+DTEND:20240728T190000Z
+DESCRIPTION:경영 - 남자 200m 자유형 준결승\n🇰🇷 대한민국\n🇩🇪 독일\n🇷🇴 루마니아\n🇱🇹
+  리투아니아\n🇺🇸 미국\n🇧🇪 벨기에\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇮🇱 이스라엘\n🇮🇹
+  이탈리아\n🇯🇵 일본
+SUMMARY:🏊 남자 200m 자유형 준결승
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T191000Z-swimming--100M-
+DTSTAMP:20240728T191000Z
+DTSTART:20240728T191000Z
+DTEND:20240728T192200Z
+DESCRIPTION:경영 - 여자 100m 평영 준결승\n🇿🇦 남아프리카공화국\n🇳🇱 네덜란드\n🇱🇹 리투아니아\n🇺🇸
+  미국\n🇸🇪 스웨덴\n🇦🇷 아르헨티나\n🇮🇪 아일랜드\n🇪🇪 에스토니아\n🇬🇧 영국\n🇮🇹 이탈리아\n🇯🇵
+  일본\n🇨🇳 중국
+SUMMARY:🏊 여자 100m 평영 준결승
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T102300Z-sailing--1
+DTSTAMP:20240729T102300Z
+DTSTART:20240729T102300Z
+DTEND:20240729T103200Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 1\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 1
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T184100Z-swimming--200M-
+DTSTAMP:20240729T184100Z
+DTSTART:20240729T184100Z
+DTEND:20240729T184900Z
+DESCRIPTION:경영 - 남자 200m 자유형 결승\n🇱🇹 Danas RAPSYS\n🇷🇴 David
+  POPOVICI\n🇬🇧 Duncan SCOTT\n🇩🇪 Lukas MAERTENS\n🇺🇸 Luke HOBSON\n🇯🇵
+  MATSUMOTO Katsuhiro\n🇬🇧 Matthew RICHARDS\n🇦🇺 Maximillian GIULIANI
+SUMMARY:🏊 남자 200m 자유형 결승
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T073000Z-rowing--8
+DTSTAMP:20240730T073000Z
+DTSTART:20240730T073000Z
+DTEND:20240730T080700Z
+DESCRIPTION:조정 - 여자 싱글스컬 8강\n🇵🇪 Adriana SANGUINETI\n🇵🇾 Alejandra ALONSO
+  ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭 Aurelia-Maxima
+  Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬 Desislava
+  ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma TWIGG\n🇮🇷
+  Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸 Jovana
+  ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇲🇽 Kenia LECHUGA
+  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
+  BADENHORST\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
+  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS
+SUMMARY:🚣 여자 싱글스컬 8강
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T081000Z-rowing--8
+DTSTAMP:20240730T081000Z
+DTSTART:20240730T081000Z
+DTEND:20240730T084700Z
+DESCRIPTION:조정 - 남자 싱글스컬 8강\n🇯🇵 ARAKAWA Ryuta\n🇪🇬 Abdelkhalek
+  ELBANNA\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾
+  Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇱🇹
+  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
+  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇷🇴
+  Mihai CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin ANTOGNELLI\n🇨🇺 Reidy
+  CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos
+  NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 남자 싱글스컬 8강
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T091700Z-swimming--100M-
+DTSTAMP:20240730T091700Z
+DTSTART:20240730T091700Z
+DTEND:20240730T094800Z
+DESCRIPTION:경영 - 남자 100m 자유형 - 예선\n🇽🇰 Adell SABOVIC\n🇰🇿 Adilbek
+  MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro MIRESSI\n🇳🇵 Alexander
+  SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭 Antoine de
+  LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿 Cameron
+  GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas RAPSYS\n🇨🇿
+  Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇭
+  Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir BATBAYAR\n🇨🇲
+  Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi KOXHAKU\n🇧🇷 Guilherme
+  SANTOS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG Sunwoo\n🇰🇲 Hadji HASSANE\n🇬🇭
+  Harry STACEY\n🇦🇴 Henrique MASCARENHAS\n🇸🇷 Irvin HOOST\n🇴🇲 Issa
+  Samir Hamed AL ADAWI\n🇺🇸 Jack ALEXY\n🇧🇧 Jack KIRBY\n🇬🇧 Jacob Henry
+  WHITTLE\n🇵🇱 Jakub MAJERSKI\n🇩🇴 Javier NUNEZ\n🇱🇨 Jayhan Jamaud
+  ODLUM-SMITH\n🇼🇸 Johann STICKLAND\n🇻🇺 Johnathan SILAS\n🇸🇬 Jonathan
+  Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇲🇽 Jorge IGA\n🇨🇦 Josh LIENDO\n🇵🇬
+  Josh TARERE\n🇩🇪 Josha SALCHOW\n🇱🇰 Kyle ABEYSINGHE\n🇦🇺 Kyle
+  CHALMERS\n🇧🇸 Lamar TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹 Leonardo DEPLANO\n🇧🇷
+  Marcelo CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳 Matthieu SEYE\n🇫🇷
+  Maxime GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad ZUBAID\n🇹🇲 Musa
+  ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola MILJENIC\n🇨🇾 Nikolas
+  ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲
+  Phone Pyae HAN\n🇫🇷 Rafael FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN
+  CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷 Samyar ABDOLI\n🇧🇹 Sangay
+  TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇱🇧 Simon
+  DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇨🇳 WANG
+  Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef ABUBAKER\n🇦🇪 Yousuf
+  ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
+SUMMARY:🏊 남자 100m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T101300Z-sailing--2
+DTSTAMP:20240730T101300Z
+DTSTART:20240730T101300Z
+DTEND:20240730T103400Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 2\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 2
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T104400Z-sailing--3
+DTSTAMP:20240730T104400Z
+DTSTART:20240730T104400Z
+DTEND:20240730T110500Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 3\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 3
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110100Z-swimming--200M-
+DTSTAMP:20240730T110100Z
+DTSTART:20240730T110100Z
+DTEND:20240730T111900Z
+DESCRIPTION:경영 - 남자 200m 평영 - 예선\n🇱🇹 Aleksas SAVICKAS\n🇯🇴 Amro
+  AL-WIR\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦 Bernhard Tyler
+  CHRISTIANSON\n🇰🇷 CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳 DONG
+  Zhihao\n🇱🇻 Daniils BOBROVS\n🇰🇬 Denis PETRASHOV\n🇸🇪 Erik
+  PERSSON\n🇯🇵 HANAGURUMA Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺
+  Joshua YONG\n🇭🇳 Julio HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
+  EPITROPOV\n🇺🇸 Matt FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro
+  de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE
+  Ippei\n🇦🇺 Zac STUBBLETY-COOK
+SUMMARY:🏊 남자 200m 평영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T111500Z-sailing--4
+DTSTAMP:20240730T111500Z
+DTSTART:20240730T111500Z
+DTEND:20240730T113600Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 4\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 4
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T112000Z-swimming--4-X-200M-
+DTSTAMP:20240730T112000Z
+DTSTART:20240730T112000Z
+DTEND:20240730T113900Z
+DESCRIPTION:경영 - 남자 4 x 200m 자유형 계영 - 예선\n🇮🇹 Alessandro RAGAINI\n🇨🇦
+  Alex AXON\n🇬🇷 Andreas VAZAIOS\n🇱🇹 Andrius SIDLAUSKAS\n🇨🇭 Antonio
+  DJAKOVIC\n🇮🇱 Bar SOLOVEYCHIK\n🇺🇸 Blake PIERONI\n🇺🇸 Brooks
+  CURRY\n🇮🇹 Carlos D'AMBROSIO\n🇪🇸 Carlos GARACH BENITO\n🇪🇸 Cesar
+  CASTRO VALLE\n🇺🇸 Chris GUILIANO\n🇱🇹 Danas RAPSYS\n🇮🇱 Denis
+  LOKTEV\n🇬🇷 Dimitrios MARKOS\n🇺🇸 Drew KIBLER\n🇧🇷 Eduardo OLIVEIRA de
+  MORAES\n🇮🇱 Eitan BEN SHITRIT\n🇨🇳 FEI Liwei\n🇧🇷 Fernando
+  SCHEFFER\n🇪🇸 Ferran JULIA TOUS\n🇮🇹 Filippo MEGLI\n🇦🇺 Flynn
+  SOUTHAM\n🇮🇱 Gal COHEN GROUMI\n🇮🇹 Giovanni CASERTA\n🇧🇷 Guilherme
+  COSTA\n🇫🇷 Hadrien SALVAN\n🇨🇳 JI Xinjie\n🇬🇧 Jack McMILLAN\n🇬🇧
+  James GUY\n🇨🇦 Jeremy BAGSHAW\n🇨🇭 Jeremy DESPLANCHES\n🇩🇪 Josha
+  SALCHOW\n🇰🇷 KIM Woomin\n🇰🇷 KIM Yeonghyeon\n🇦🇺 Kai TAYLOR\n🇬🇧
+  Kieran BIRD\n🇬🇷 Konstantinos ENGLEZAKIS\n🇬🇷 Konstantinos Emmanouil
+  STAMOU\n🇰🇷 LEE Hojoon\n🇰🇷 LEE Yooyeon\n🇨🇦 Lorne WIGGINTON\n🇪🇸
+  Luis DOMINGUEZ\n🇩🇪 Lukas MAERTENS\n🇯🇵 MANO Hidenari\n🇯🇵 MATSUMOTO
+  Katsuhiro\n🇯🇵 MURASA Tatsuya\n🇧🇷 Murilo SETIN SARTORI\n🇨🇳 NIU
+  Guangsheng\n🇨🇭 Nils LIESS\n🇨🇦 Patrick HUSSEY\n🇩🇪 Rafael
+  MIROSLAW\n🇫🇷 Roman FUCHS\n🇦🇺 Thomas NEILL\n🇨🇭 Tiago BEHAR\n🇩🇪
+  Timo SORGIUS\n🇬🇧 Tom DEAN\n🇱🇹 Tomas LUKMINAS\n🇱🇹 Tomas
+  NAVIKONIS\n🇫🇷 W. Amazigh YEBBA\n🇯🇵 YANAGIMOTO Konosuke\n🇫🇷 Yann le
+  GOFF\n🇨🇳 ZHANG Zhanshuo\n🇦🇺 Zac INCERTI
+SUMMARY:🏊 남자 4 x 200m 자유형 계영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T114600Z-sailing--5
+DTSTAMP:20240730T114600Z
+DTSTART:20240730T114600Z
+DTEND:20240730T120700Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 5\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 5
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T121700Z-sailing--6
+DTSTAMP:20240730T121700Z
+DTSTART:20240730T121700Z
+DTEND:20240730T123800Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 6\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 6
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T140000Z-beach-volleyball--E-BRA-LTU
+DTSTAMP:20240730T140000Z
+DTSTART:20240730T140000Z
+DTEND:20240730T145000Z
+DESCRIPTION:비치발리볼 - 여자 예선 -E조
+SUMMARY:🏐 CAROL/BARBARA 🇧🇷 - 🇱🇹 PAULIKIENE/RAUPELYTE
+LOCATION:에펠탑 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T163500Z-3x3-basketball---LAT-LTU
+DTSTAMP:20240730T163500Z
+DTSTART:20240730T163500Z
+DTEND:20240730T170000Z
+DESCRIPTION:3X3 농구 - 남자 예선 라운드
+SUMMARY:🏀 라트비아 🇱🇻 - 🇱🇹 리투아니아
+LOCATION:라 콩코르드 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T083400Z-rowing--AB-1
+DTSTAMP:20240731T083400Z
+DTSTART:20240731T083400Z
+DTEND:20240731T084100Z
+DESCRIPTION:조정 - 남자 무타페어 준결승 A/B 1\n🇿🇦 남아프리카공화국\n🇱🇹 리투아니아\n🇺🇸
+  미국\n🇨🇭 스위스\n🇪🇸 스페인\n🇭🇷 크로아티아
+SUMMARY:🚣 남자 무타페어 준결승 A/B 1
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-swimming--200M-
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T092100Z
+DESCRIPTION:경영 - 여자 200m 평영 - 예선\n🇿🇦 남아프리카공화국\n🇳🇱 네덜란드\n🇩🇰 덴마크\n🇱🇹
+  리투아니아\n🇺🇸 미국\n🇸🇪 스웨덴\n🇨🇭 스위스\n🇪🇸 스페인\n🇸🇬 싱가포르\n🇦🇷 아르헨티나\n🇮🇪
+  아일랜드\n🇪🇪 에스토니아\n🇦🇺 오스트레일리아\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇿
+  체코\n🇨🇦 캐나다
+SUMMARY:🏊 여자 200m 평영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090400Z-rowing--AB-2
+DTSTAMP:20240731T090400Z
+DTSTART:20240731T090400Z
+DTEND:20240731T091100Z
+DESCRIPTION:조정 - 여자 무타페어 준결승 A/B 2\n🇱🇹 리투아니아\n🇺🇸 미국\n🇪🇸 스페인\n🇮🇪
+  아일랜드\n🇦🇺 오스트레일리아\n🇨🇱 칠레
+SUMMARY:🚣 여자 무타페어 준결승 A/B 2
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T114300Z-sailing--7
+DTSTAMP:20240731T114300Z
+DTSTART:20240731T114300Z
+DTEND:20240731T124300Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 7\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 7
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T114300Z-sailing--8
+DTSTAMP:20240731T114300Z
+DTSTART:20240731T114300Z
+DTEND:20240731T124300Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 8\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 8
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T141500Z-sailing--9
+DTSTAMP:20240731T141500Z
+DTSTART:20240731T141500Z
+DTEND:20240731T143600Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 9\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 9
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T144600Z-sailing--10
+DTSTAMP:20240731T144600Z
+DTSTART:20240731T144600Z
+DTEND:20240731T150700Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 10\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 10
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T200500Z-3x3-basketball---LTU-FRA
+DTSTAMP:20240731T200500Z
+DTSTART:20240731T200500Z
+DTEND:20240731T203000Z
+DESCRIPTION:3X3 농구 - 남자 예선 라운드
+SUMMARY:🏀 리투아니아 🇱🇹 - 🇫🇷 프랑스
+LOCATION:라 콩코르드 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T113500Z-3x3-basketball---LTU-POL
+DTSTAMP:20240801T113500Z
+DTSTART:20240801T113500Z
+DTEND:20240801T120000Z
+DESCRIPTION:3X3 농구 - 남자 예선 라운드
+SUMMARY:🏀 리투아니아 🇱🇹 - 🇵🇱 폴란드
+LOCATION:라 콩코르드 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T135300Z-sailing--11
+DTSTAMP:20240801T135300Z
+DTSTART:20240801T135300Z
+DTEND:20240801T141400Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 11\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 11
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T142400Z-sailing--12
+DTSTAMP:20240801T142400Z
+DTSTART:20240801T142400Z
+DTEND:20240801T144500Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 12\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 12
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T145500Z-sailing--13
+DTSTAMP:20240801T145500Z
+DTSTART:20240801T145500Z
+DTEND:20240801T151600Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 13\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 13
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T152600Z-sailing--14
+DTSTAMP:20240801T152600Z
+DTSTART:20240801T152600Z
+DTEND:20240801T154700Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 14\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 14
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T155700Z-sailing--15
+DTSTAMP:20240801T155700Z
+DTSTART:20240801T155700Z
+DTEND:20240801T161800Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 15\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 15
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T162800Z-sailing--16
+DTSTAMP:20240801T162800Z
+DTSTART:20240801T162800Z
+DTEND:20240801T164900Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 16\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 16
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T162800Z-sailing--17
+DTSTAMP:20240801T162800Z
+DTSTART:20240801T162800Z
+DTEND:20240801T164900Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 17\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 17
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T165900Z-sailing--18
+DTSTAMP:20240801T165900Z
+DTSTART:20240801T165900Z
+DTEND:20240801T172000Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 18\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 18
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T170500Z-3x3-basketball---USA-LTU
+DTSTAMP:20240801T170500Z
+DTSTART:20240801T170500Z
+DTEND:20240801T173000Z
+DESCRIPTION:3X3 농구 - 남자 예선 라운드
+SUMMARY:🏀 미국 🇺🇸 - 🇱🇹 리투아니아
+LOCATION:라 콩코르드 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T173000Z-sailing--19
+DTSTAMP:20240801T173000Z
+DTSTART:20240801T173000Z
+DTEND:20240801T175100Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 19\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 19
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T180100Z-sailing--20
+DTSTAMP:20240801T180100Z
+DTSTART:20240801T180100Z
+DTEND:20240801T182200Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 20\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 20
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T070000Z-beach-volleyball--E-LTU-JPN
+DTSTAMP:20240802T070000Z
+DTSTART:20240802T070000Z
+DTEND:20240802T075000Z
+DESCRIPTION:비치발리볼 - 여자 예선 -E조
+SUMMARY:🏐 PAULIKIENE/RAUPELYTE 🇱🇹 - 🇯🇵 AKIKO/ISHII
+LOCATION:에펠탑 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T080500Z-3x3-basketball---LTU-CHN
+DTSTAMP:20240802T080500Z
+DTSTART:20240802T080500Z
+DTEND:20240802T083000Z
+DESCRIPTION:3X3 농구 - 남자 예선 라운드
+SUMMARY:🏀 리투아니아 🇱🇹 - 🇨🇳 중국
+LOCATION:라 콩코르드 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T113500Z-3x3-basketball---NED-LTU
+DTSTAMP:20240802T113500Z
+DTSTART:20240802T113500Z
+DTEND:20240802T120000Z
+DESCRIPTION:3X3 농구 - 남자 예선 라운드
+SUMMARY:🏀 네덜란드 🇳🇱 - 🇱🇹 리투아니아
+LOCATION:라 콩코르드 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T163500Z-3x3-basketball---LTU-SRB
+DTSTAMP:20240804T163500Z
+DTSTART:20240804T163500Z
+DTEND:20240804T170000Z
+DESCRIPTION:3X3 농구 - 남자 예선 라운드
+SUMMARY:🏀 리투아니아 🇱🇹 - 🇷🇸 세르비아
+LOCATION:라 콩코르드 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

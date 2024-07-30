@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//medals/ru/TUR//EN
+X-WR-CALNAME:🇹🇷 Türkiye 🏅 | Paris 2024
+NAME:🇹🇷 Türkiye 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T150600Z-judo--60--JPN-TUR
+DTSTAMP:20240727T150600Z
+DTSTART:20240727T150600Z
+DTEND:20240727T151200Z
+DESCRIPTION:Дзюдо - Поединок за бронзу А, до 60кг (м)
+SUMMARY:🥋 NAGAYAMA Ryuju 🇯🇵 - 🇹🇷 Salih YILDIZ
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-shooting--10-
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T104500Z
+DESCRIPTION:Стрельба - Пневматический пистолет 10м, финал (ж)\n🇨🇳 JIANG
+  Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye
+  Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
+SUMMARY:🔫 Пневматический пистолет 10м, финал (ж)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T144800Z-archery--3--CHN-TUR
+DTSTAMP:20240729T144800Z
+DTSTART:20240729T144800Z
+DTEND:20240729T151100Z
+DESCRIPTION:Стрельба из лука - Матч за 3-е место, команды (м)
+SUMMARY:🏹 Китай 🇨🇳 - 🇹🇷 Турция
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T073000Z-shooting--10--SRB-TUR
+DTSTAMP:20240730T073000Z
+DTSTART:20240730T073000Z
+DTEND:20240730T075000Z
+DESCRIPTION:Стрельба - Пневматический пистолет 10м, золото (микст)
+SUMMARY:🔫 SRB 🇷🇸 - 🇹🇷 TUR
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+END:VCALENDAR

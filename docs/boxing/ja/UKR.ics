@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/UKR//EN
+X-WR-CALNAME:🇺🇦 Ukraine ボクシング | Paris 2024
+NAME:🇺🇦 Ukraine ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240729T145000Z-boxing-92KG-16-AUS-UKR
+DTSTAMP:20240729T145000Z
+DTSTART:20240729T145000Z
+DTEND:20240729T150100Z
+DESCRIPTION:ボクシング - 男子92kg超級 - 予選 - ラウンド16
+SUMMARY:🥊 Teremoana TEREMOANA 🇦🇺 - 🇺🇦 Dmytro LOVCHYNSKYI
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T183200Z-boxing-80KG-16-UKR-HUN
+DTSTAMP:20240730T183200Z
+DTSTART:20240730T183200Z
+DTEND:20240730T184300Z
+DESCRIPTION:ボクシング - 男子80kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Oleksandr KHYZHNIAK 🇺🇦 - 🇭🇺 Pylyp AKILOV
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T183200Z-boxing-57KG-16-UKR-BUL
+DTSTAMP:20240731T183200Z
+DTSTART:20240731T183200Z
+DTEND:20240731T184300Z
+DESCRIPTION:ボクシング - 男子57kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Aider ABDURAIMOV 🇺🇦 - 🇧🇬 Javier IBANEZ DIAZ
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

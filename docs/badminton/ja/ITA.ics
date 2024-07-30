@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ja/ITA//EN
+X-WR-CALNAME:🇮🇹 Italy バドミントン | Paris 2024
+NAME:🇮🇹 Italy バドミントン | Paris 2024
+BEGIN:VEVENT
+UID:20240729T081000Z-badminton--A-ITA-SUR
+DTSTAMP:20240729T081000Z
+DTSTART:20240729T081000Z
+DTEND:20240729T085000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループA
+SUMMARY:🏸 Giovanni TOTI 🇮🇹 - 🇸🇷 Soren OPTI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-badminton--A-CHN-ITA
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T094000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループA
+SUMMARY:🏸 SHI Yu Qi 🇨🇳 - 🇮🇹 Giovanni TOTI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+END:VCALENDAR

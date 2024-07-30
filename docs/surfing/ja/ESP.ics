@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//surfing/ja/ESP//EN
+X-WR-CALNAME:🇪🇸 Spain サーフィン | Paris 2024
+NAME:🇪🇸 Spain サーフィン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T200000Z-surfing-1-6
+DTSTAMP:20240727T200000Z
+DTSTART:20240727T200000Z
+DTEND:20240727T203000Z
+DESCRIPTION:サーフィン - 男子第1ラウンド - 第6ヒート\n🇲🇽 Alan CLELAND QUINONEZ\n🇪🇸 Andy
+  CRIERE\n🇺🇸 John John FLORENCE
+SUMMARY:🏄 男子第1ラウンド - 第6ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T222400Z-surfing-1-2
+DTSTAMP:20240727T222400Z
+DTSTART:20240727T222400Z
+DTEND:20240727T225400Z
+DESCRIPTION:サーフィン - 女子第1ラウンド - 第2ヒート\n🇪🇸 Janire GONZALEZ ETXABARRI\n🇵🇪
+  Sol AGUIRRE\n🇫🇷 Vahine FIERRO
+SUMMARY:🏄 女子第1ラウンド - 第2ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T012400Z-surfing-1-7
+DTSTAMP:20240728T012400Z
+DTSTART:20240728T012400Z
+DTEND:20240728T015400Z
+DESCRIPTION:サーフィン - 女子第1ラウンド - 第7ヒート\n🇪🇸 Nadia EROSTARBE\n🇳🇿 Saffi
+  VETTE\n🇨🇳 YANG Siqi
+SUMMARY:🏄 女子第1ラウンド - 第7ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T211200Z-surfing-2-8-ISR-ESP
+DTSTAMP:20240728T211200Z
+DTSTART:20240728T211200Z
+DTEND:20240728T214200Z
+DESCRIPTION:サーフィン - 女子第2ラウンド - 第8ヒート
+SUMMARY:🏄 Anat LELIOR 🇮🇱 - 🇪🇸 Janire GONZALEZ ETXABARRI
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T005800Z-surfing-2-6-MEX-ESP
+DTSTAMP:20240729T005800Z
+DTSTART:20240729T005800Z
+DTEND:20240729T012800Z
+DESCRIPTION:サーフィン - 男子第2ラウンド - 第6ヒート
+SUMMARY:🏄 Alan CLELAND QUINONEZ 🇲🇽 - 🇪🇸 Andy CRIERE
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T001200Z-surfing-3-5-ESP-JPN
+DTSTAMP:20240730T001200Z
+DTSTART:20240730T001200Z
+DTEND:20240730T004200Z
+DESCRIPTION:サーフィン - 女子第3ラウンド - 第5ヒート
+SUMMARY:🏄 Nadia EROSTARBE 🇪🇸 - 🇯🇵 MATSUDA Shino
+LOCATION:タウポ、タヒチ
+END:VEVENT
+END:VCALENDAR

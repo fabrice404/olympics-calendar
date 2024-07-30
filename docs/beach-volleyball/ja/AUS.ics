@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//beach-volleyball/ja/AUS//EN
+X-WR-CALNAME:🇦🇺 Australia ビーチバレーボール | Paris 2024
+NAME:🇦🇺 Australia ビーチバレーボール | Paris 2024
+BEGIN:VEVENT
+UID:20240727T130000Z-beach-volleyball--A-SWE-AUS
+DTSTAMP:20240727T130000Z
+DTSTART:20240727T130000Z
+DTEND:20240727T135000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 AHMAN/HELLVIG 🇸🇪 - 🇦🇺 NICOLAIDIS/CARRACHER
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T160000Z-beach-volleyball--B-CHN-AUS
+DTSTAMP:20240727T160000Z
+DTSTART:20240727T160000Z
+DTEND:20240727T165000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールB
+SUMMARY:🏐 XUE/X.Y.XIA 🇨🇳 - 🇦🇺 MARIAFE/CLANCY
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T070000Z-beach-volleyball--A-ITA-AUS
+DTSTAMP:20240729T070000Z
+DTSTART:20240729T070000Z
+DTEND:20240729T075000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 COTTAFAVA/NICOLAI 🇮🇹 - 🇦🇺 NICOLAIDIS/CARRACHER
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T200000Z-beach-volleyball--B-USA-AUS
+DTSTAMP:20240729T200000Z
+DTSTART:20240729T200000Z
+DTEND:20240729T205000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールB
+SUMMARY:🏐 NUSS/KLOTH 🇺🇸 - 🇦🇺 MARIAFE/CLANCY
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T070000Z-beach-volleyball--C-POL-AUS
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T075000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールC
+SUMMARY:🏐 BRYL/LOSIAK 🇵🇱 - 🇦🇺 HODGES/SCHUBERT
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T070000Z-beach-volleyball--C-GER-AUS
+DTSTAMP:20240801T070000Z
+DTSTART:20240801T070000Z
+DTEND:20240801T075000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールC
+SUMMARY:🏐 EHLERS/WICKLER 🇩🇪 - 🇦🇺 HODGES/SCHUBERT
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T080000Z-beach-volleyball--A-QAT-AUS
+DTSTAMP:20240801T080000Z
+DTSTART:20240801T080000Z
+DTEND:20240801T085000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 CHERIF/AHMED 🇶🇦 - 🇦🇺 NICOLAIDIS/CARRACHER
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T140000Z-beach-volleyball--B-AUS-CAN
+DTSTAMP:20240801T140000Z
+DTSTART:20240801T140000Z
+DTEND:20240801T145000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールB
+SUMMARY:🏐 MARIAFE/CLANCY 🇦🇺 - 🇨🇦 BANSLEY/BUKOVEC
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T080000Z-beach-volleyball--C-AUS-FRA
+DTSTAMP:20240803T080000Z
+DTSTART:20240803T080000Z
+DTEND:20240803T085000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールC
+SUMMARY:🏐 HODGES/SCHUBERT 🇦🇺 - 🇫🇷 BASSEREAU/LYNEEL
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+END:VCALENDAR

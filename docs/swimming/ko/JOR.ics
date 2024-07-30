@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/ko/JOR//EN
+X-WR-CALNAME:🇯🇴 Jordan 경영 | Paris 2024
+NAME:🇯🇴 Jordan 경영 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T091200Z-swimming--400M-
+DTSTAMP:20240727T091200Z
+DTSTART:20240727T091200Z
+DTEND:20240727T093000Z
+DESCRIPTION:경영 - 여자 400m 자유형 - 예선\n🇳🇿 뉴질랜드\n🇩🇪 독일\n🇺🇸 미국\n🇻🇮 미국령
+  버진아일랜드\n🇧🇪 벨기에\n🇧🇷 브라질\n🇦🇷 아르헨티나\n🇦🇺 오스트레일리아\n🇯🇴 요르단\n🇺🇿
+  우즈베키스탄\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇫🇷 프랑스\n🇭🇺 헝가리
+SUMMARY:🏊 여자 400m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110100Z-swimming--200M-
+DTSTAMP:20240730T110100Z
+DTSTART:20240730T110100Z
+DTEND:20240730T111900Z
+DESCRIPTION:경영 - 남자 200m 평영 - 예선\n🇱🇹 Aleksas SAVICKAS\n🇯🇴 Amro
+  AL-WIR\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦 Bernhard Tyler
+  CHRISTIANSON\n🇰🇷 CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳 DONG
+  Zhihao\n🇱🇻 Daniils BOBROVS\n🇰🇬 Denis PETRASHOV\n🇸🇪 Erik
+  PERSSON\n🇯🇵 HANAGURUMA Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺
+  Joshua YONG\n🇭🇳 Julio HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
+  EPITROPOV\n🇺🇸 Matt FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro
+  de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE
+  Ippei\n🇦🇺 Zac STUBBLETY-COOK
+SUMMARY:🏊 남자 200m 평영 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+END:VCALENDAR

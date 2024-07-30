@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/KOS//EN
+X-WR-CALNAME:🇽🇰 Kosovo Бокс | Paris 2024
+NAME:🇽🇰 Kosovo Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240727T190400Z-boxing--116-60--THA-KOS
+DTSTAMP:20240727T190400Z
+DTSTART:20240727T190400Z
+DTEND:20240727T191500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 60кг (ж)
+SUMMARY:🥊 Thananya SOMNUEK 🇹🇭 - 🇽🇰 Donjeta SADIKU
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T180000Z-boxing--18-60--KOS-COL
+DTSTAMP:20240729T180000Z
+DTSTART:20240729T180000Z
+DTEND:20240729T181100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 60кг (ж)
+SUMMARY:🥊 Donjeta SADIKU 🇽🇰 - 🇨🇴 Angie Paola VALDES PANA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

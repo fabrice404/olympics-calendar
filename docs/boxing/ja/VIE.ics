@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/VIE//EN
+X-WR-CALNAME:🇻🇳 Vietnam ボクシング | Paris 2024
+NAME:🇻🇳 Vietnam ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240727T141800Z-boxing-60KG-32-TGA-VIE
+DTSTAMP:20240727T141800Z
+DTSTART:20240727T141800Z
+DTEND:20240727T142900Z
+DESCRIPTION:ボクシング - 女子60kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Feofaaki EPENISA 🇹🇴 - 🇻🇳 Thi Linh HA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T183200Z-boxing-54KG-32-IND-VIE
+DTSTAMP:20240727T183200Z
+DTSTART:20240727T183200Z
+DTEND:20240727T184300Z
+DESCRIPTION:ボクシング - 女子54kg級 - 予選 - ラウンド32
+SUMMARY:🥊 PREETI 🇮🇳 - 🇻🇳 Thi Kim Anh VO
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-boxing-60KG-16-CHN-VIE
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T091100Z
+DESCRIPTION:ボクシング - 女子60kg級 - 予選 - ラウンド16
+SUMMARY:🥊 YANG Wenlu 🇨🇳 - 🇻🇳 Thi Linh HA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

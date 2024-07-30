@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//cycling-bmx-racing/ru/medals//EN
+X-WR-CALNAME:🚴 ВМХ-гонки 🏅 | Paris 2024
+NAME:🚴 ВМХ-гонки 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240802T193500Z-cycling-bmx-racing--
+DTSTAMP:20240802T193500Z
+DTSTART:20240802T193500Z
+DTEND:20240802T194500Z
+DESCRIPTION:ВМХ-гонки - Финал (м)
+SUMMARY:🚴 Финал (м)
+LOCATION:Стадион BMX
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T195000Z-cycling-bmx-racing--
+DTSTAMP:20240802T195000Z
+DTSTART:20240802T195000Z
+DTEND:20240802T200000Z
+DESCRIPTION:ВМХ-гонки - Финал (ж)
+SUMMARY:🚴 Финал (ж)
+LOCATION:Стадион BMX
+END:VEVENT
+END:VCALENDAR

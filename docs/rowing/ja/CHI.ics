@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/ja/CHI//EN
+X-WR-CALNAME:🇨🇱 Chile ローイング | Paris 2024
+NAME:🇨🇱 Chile ローイング | Paris 2024
+BEGIN:VEVENT
+UID:20240728T083000Z-rowing-
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T085700Z
+DESCRIPTION:ローイング - 女子ペア予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇨🇿 チェコ\n🇨🇱 チリ\n🇩🇰 デンマーク\n🇳🇿
+  ニュージーランド\n🇱🇹 リトアニア\n🇷🇴 ルーマニア\n🇬🇧 英国
+SUMMARY:🚣 女子ペア予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-rowing-
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T102700Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル予選\n🇮🇪 アイルランド\n🇦🇷 アルゼンチン\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇺🇿 ウズベキスタン\n🇪🇬 エジプト\n🇬🇷 ギリシャ\n🇨🇭 スイス\n🇪🇸
+  スペイン\n🇨🇿 チェコ\n🇨🇱 チリ\n🇳🇴 ノルウェー\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽
+  メキシコ\n🇯🇵 日本
+SUMMARY:🚣 男子軽量級ダブルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T084000Z-rowing-
+DTSTAMP:20240729T084000Z
+DTSTART:20240729T084000Z
+DTEND:20240729T085700Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル敗者復活戦\n🇦🇷 アルゼンチン\n🇺🇦 ウクライナ\n🇺🇿
+  ウズベキスタン\n🇪🇬 エジプト\n🇬🇷 ギリシャ\n🇨🇱 チリ\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽
+  メキシコ\n🇯🇵 日本
+SUMMARY:🚣 男子軽量級ダブルスカル敗者復活戦
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T073000Z-rowing-C
+DTSTAMP:20240731T073000Z
+DTSTART:20240731T073000Z
+DTEND:20240731T073700Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル決勝C\n🇺🇿 ウズベキスタン\n🇪🇬 エジプト\n🇨🇱 チリ\n🇯🇵
+  日本
+SUMMARY:🚣 男子軽量級ダブルスカル決勝C
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090400Z-rowing-AB-2
+DTSTAMP:20240731T090400Z
+DTSTART:20240731T090400Z
+DTEND:20240731T091100Z
+DESCRIPTION:ローイング - 女子ペア準決勝A/B - 2組\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇦🇺
+  オーストラリア\n🇪🇸 スペイン\n🇨🇱 チリ\n🇱🇹 リトアニア
+SUMMARY:🚣 女子ペア準決勝A/B - 2組
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+END:VCALENDAR

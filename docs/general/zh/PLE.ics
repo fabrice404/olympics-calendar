@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/zh/PLE//EN
+X-WR-CALNAME:🇵🇸 Palestine | Paris 2024
+NAME:🇵🇸 Palestine | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 开幕式
+SUMMARY:Paris 2024 - 开幕式
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T094300Z-swimming-100
+DTSTAMP:20240728T094300Z
+DTSTART:20240728T094300Z
+DTEND:20240728T095900Z
+DESCRIPTION:游泳 - 男子100米仰泳分组预赛\n🇨🇳 中国\n🇺🇦 乌克兰\n🇮🇱 以色列\n🇨🇦 加拿大\n🇭🇺
+  匈牙利\n🇿🇦 南非\n🇮🇳 印度\n🇨🇴 哥伦比亚\n🇹🇷 土耳其\n🇦🇹 奥地利\n🇵🇸 巴勒斯坦\n🇬🇷
+  希腊\n🇩🇪 德国\n🇮🇹 意大利\n🇨🇿 捷克\n🇧🇳 文莱\n🇳🇿 新西兰\n🇯🇵 日本\n🇬🇩
+  格林纳达\n🇬🇪 格鲁吉亚\n🇹🇴 汤加\n🇫🇷 法国\n🇵🇱 波兰\n🇵🇷 波多黎各\n🇦🇺 澳大利亚\n🇨🇭
+  瑞士\n🇧🇲 百慕大\n🇺🇸 美国\n🇻🇮 美属维尔京群岛\n🇬🇧 英国\n🇳🇱 荷兰\n🇵🇹 葡萄牙\n🇪🇸
+  西班牙\n🇧🇯 贝宁\n🇦🇷 阿根廷\n🇰🇷 韩国
+SUMMARY:🏊 男子100米仰泳分组预赛
+LOCATION:拉德芳斯体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T133000Z-boxing-57-32-SWE-PLE
+DTSTAMP:20240728T133000Z
+DTSTART:20240728T133000Z
+DTEND:20240728T134100Z
+DESCRIPTION:拳击 - 男子57公斤级 - 预赛 - 32强赛
+SUMMARY:🥊 Nebil IBRAHIM 🇸🇪 - 🇵🇸 Wasim ABUSAL
+LOCATION:北巴黎竞技场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T090600Z-judo-8132-TJK-PLE
+DTSTAMP:20240730T090600Z
+DTSTART:20240730T090600Z
+DTEND:20240730T091200Z
+DESCRIPTION:柔道 - 男子81公斤级32强淘汰赛
+SUMMARY:🥋 Somon MAKHMADBEKOV 🇹🇯 - 🇵🇸 Fares BADAWI
+LOCATION:战神广场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-shooting--1
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T120000Z
+DESCRIPTION:射击 - 男子双向飞碟资格赛 - 第1天\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
+  MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸 Conner Lynn PRINCE\n🇰🇿
+  Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷 Efthimios MITAS\n🇫🇷 Eric
+  DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico GIL\n🇮🇹 Gabriele
+  ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub TOMECEK\n🇩🇰 Jesper
+  HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua BELL\n🇰🇷 KIM Minsu\n🇹🇼
+  LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus SVENSSON\n🇰🇼 Mohammad
+  ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬 Omar IBRAHIM\n🇪🇪 Peeter
+  JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹 Sebastian BERMUDEZ
+  LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹 Tammaro CASSANDRO\n🇺🇸
+  Vincent HANCOCK
+SUMMARY:🔫 男子双向飞碟资格赛 - 第1天
+LOCATION:沙托鲁射击中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T091700Z-swimming-200
+DTSTAMP:20240802T091700Z
+DTSTART:20240802T091700Z
+DTEND:20240802T094000Z
+DESCRIPTION:游泳 - 女子200米个人混合泳分组预赛\n🇬🇧 Abbie WOOD\n🇺🇸 Alex WALSH\n🇮🇱
+  Anastasia GORBENKO\n🇮🇩 Azzahra PERMATAHANI\n🇨🇿 Barbora
+  SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma SEBESTYEN\n🇦🇺 Ella
+  RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇬🇧 Freya
+  Constance COLBERT\n🇹🇼 HAN An-Chi\n🇱🇻 Ieva MALUKA\n🇨🇻 Jayla
+  PINA\n🇰🇷 KIM Seoyeong\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee McKEOWN\n🇵🇷
+  Kristen Elena ROMANO\n🇮🇱 Lea POLONSKY\n🇦🇹 Lena KREUNDL\n🇯🇵
+  MATSUMOTO Shiho\n🇳🇱 Marrit STEENBERGEN\n🇵🇪 McKenna de BEVER\n🇺🇾
+  Nicole FRANK\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇮🇹 Sara
+  FRANCESCHI\n🇨🇦 Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇸🇰 Tamara
+  POTOCKA\n🇻🇳 Thi My Tien VO\n🇵🇸 Valerie Rose TARAZI\n🇨🇳 YE
+  Shiwen\n🇨🇳 YU Yiting
+SUMMARY:🏊 女子200米个人混合泳分组预赛
+LOCATION:拉德芳斯体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

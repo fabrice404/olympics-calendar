@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ru/MON//EN
+X-WR-CALNAME:🇲🇨 Monaco | Paris 2024
+NAME:🇲🇨 Monaco | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Церемония открытия
+SUMMARY:Paris 2024 - Церемония открытия
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T070000Z-rowing--
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Академическая гребля - Одиночки, заезды (м)\n🇩🇿 Алжир\n🇦🇴
+  Ангола\n🇧🇪 Бельгия\n🇧🇲 Бермудские острова\n🇧🇬 Болгария\n🇧🇷
+  Бразилия\n🇭🇺 Венгрия\n🇩🇪 Германия\n🇭🇰 Гонконг, Китай\n🇬🇷
+  Греция\n🇩🇰 Дания\n🇪🇬 Египет\n🇿🇼 Зимбабве\n🇮🇳 Индия\n🇮🇩
+  Индонезия\n🇰🇿 Казахстан\n🇨🇺 Куба\n🇱🇾 Ливия\n🇱🇹 Литва\n🇲🇨
+  Монако\n🇳🇱 Нидерланды\n🇳🇿 Новая Зеландия\n🇵🇾 Парагвай\n🇷🇴
+  Румыния\n🇺🇸 США\n🇸🇮 Словения\n🇸🇩 Судан\n🇹🇭 Таиланд\n🇹🇳
+  Тунис\n🇺🇾 Уругвай\n🇭🇷 Хорватия\n🇯🇵 Япония
+SUMMARY:🚣 Одиночки, заезды (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073600Z-rowing--
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:Академическая гребля - Одиночки, утешительные заезды (м)\n🇩🇿
+  Алжир\n🇦🇴 Ангола\n🇧🇲 Бермудские острова\n🇭🇰 Гонконг, Китай\n🇿🇼
+  Зимбабве\n🇮🇳 Индия\n🇮🇩 Индонезия\n🇰🇿 Казахстан\n🇱🇾 Ливия\n🇲🇨
+  Монако\n🇵🇾 Парагвай\n🇸🇮 Словения\n🇸🇩 Судан\n🇹🇭 Таиланд\n🇹🇳
+  Тунис
+SUMMARY:🚣 Одиночки, утешительные заезды (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T190000Z-table-tennis-132--MON-CZE
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T200000Z
+DESCRIPTION:Настольный теннис - 1/32 финала, одиночный разряд (ж)
+SUMMARY:🏓 Xiaoxin YANG 🇲🇨 - 🇨🇿 Hana MATELOVA
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T092800Z-swimming-800-
+DTSTAMP:20240729T092800Z
+DTSTART:20240729T092800Z
+DTEND:20240729T100700Z
+DESCRIPTION:Плавание - 800м вольным стилем, квалификация (м)\n🇹🇳 Ahmed
+  JAOUADI\n🇻🇪 Alfonso Enrique MESTRE VIVAS\n🇺🇸 Bobby FINKE\n🇪🇸 Carlos
+  GARACH BENITO\n🇮🇪 Daniel WIFFEN\n🇫🇷 David AUBRY\n🇬🇷 Dimitrios
+  MARKOS\n🇦🇺 Elijah WINNINGTON\n🇨🇳 FEI Liwei\n🇦🇹 Felix AUBOECK\n🇩🇪
+  Florian WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇳🇴
+  Henrik CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇺🇿 Ilya SIBIRTSEV\n🇳🇴 Jon
+  JOENTVEDT\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇧🇪 Lucas
+  HENVEAUX\n🇺🇸 Luke WHITLOCK\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo
+  ROMANCHUK\n🇫🇷 Pacome BRICOUT\n🇦🇺 Samuel SHORT\n🇩🇪 Sven
+  SCHWARZ\n🇲🇨 Theo DRUENNE\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan
+  STANCU\n🇨🇳 ZHANG Zhanshuo\n🇭🇺 Zalan SARKANY
+SUMMARY:🏊 800м вольным стилем, квалификация (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T081000Z-rowing--14-
+DTSTAMP:20240730T081000Z
+DTSTART:20240730T081000Z
+DTEND:20240730T084700Z
+DESCRIPTION:Академическая гребля - Одиночки, 1/4 финала (м)\n🇯🇵 ARAKAWA
+  Ryuta\n🇪🇬 Abdelkhalek ELBANNA\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal
+  PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷
+  Damir MARTIN\n🇱🇹 Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸
+  Jacob PLIHAL\n🇵🇾 Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas
+  VERTHEIN FERREIRA\n🇷🇴 Mihai CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas
+  MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 Одиночки, 1/4 финала (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T085400Z-judo-18-100--CUB-MON
+DTSTAMP:20240802T085400Z
+DTSTART:20240802T085400Z
+DTEND:20240802T090000Z
+DESCRIPTION:Дзюдо - 1/8 финала, свыше 100кг (м)
+SUMMARY:🥋 Andy GRANDA 🇨🇺 - 🇲🇨 Marvin GADEAU
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

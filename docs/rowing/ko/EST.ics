@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/ko/EST//EN
+X-WR-CALNAME:🇪🇪 Estonia 조정 | Paris 2024
+NAME:🇪🇪 Estonia 조정 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T103000Z-rowing--
+DTSTAMP:20240727T103000Z
+DTSTART:20240727T103000Z
+DTEND:20240727T104700Z
+DESCRIPTION:조정 - 남자 쿼드러플스컬 예선\n🇳🇱 네덜란드\n🇳🇴 노르웨이\n🇩🇪 독일\n🇷🇴
+  루마니아\n🇨🇭 스위스\n🇪🇪 에스토니아\n🇬🇧 영국\n🇮🇹 이탈리아\n🇵🇱 폴란드
+SUMMARY:🚣 남자 쿼드러플스컬 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T092000Z-rowing--
+DTSTAMP:20240729T092000Z
+DTSTART:20240729T092000Z
+DTEND:20240729T092700Z
+DESCRIPTION:조정 - 남자 쿼드러플스컬 패자부활전\n🇳🇴 노르웨이\n🇩🇪 독일\n🇷🇴 루마니아\n🇨🇭
+  스위스\n🇪🇪 에스토니아
+SUMMARY:🚣 남자 쿼드러플스컬 패자부활전
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T100200Z-rowing--B
+DTSTAMP:20240731T100200Z
+DTSTART:20240731T100200Z
+DTEND:20240731T100900Z
+DESCRIPTION:조정 - 남자 쿼드러플스컬 결승 B\n🇳🇴 노르웨이\n🇷🇴 루마니아\n🇪🇪 에스토니아
+SUMMARY:🚣 남자 쿼드러플스컬 결승 B
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+END:VCALENDAR

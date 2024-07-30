@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/NOR//EN
+X-WR-CALNAME:🇳🇴 Norway Бокс | Paris 2024
+NAME:🇳🇴 Norway Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240729T150600Z-boxing--18-92--NOR-UZB
+DTSTAMP:20240729T150600Z
+DTSTART:20240729T150600Z
+DTEND:20240729T151700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, свыше 92кг (м)
+SUMMARY:🥊 Omar SHIHA 🇳🇴 - 🇺🇿 Bakhodir JALOLOV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T102000Z-boxing--18-75--NOR-IND
+DTSTAMP:20240731T102000Z
+DTSTART:20240731T102000Z
+DTEND:20240731T103100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 75кг (ж)
+SUMMARY:🥊 Sunniva HOFSTAD 🇳🇴 - 🇮🇳 Lovlina BORGOHAIN
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

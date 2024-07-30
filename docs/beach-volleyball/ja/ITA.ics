@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//beach-volleyball/ja/ITA//EN
+X-WR-CALNAME:🇮🇹 Italy ビーチバレーボール | Paris 2024
+NAME:🇮🇹 Italy ビーチバレーボール | Paris 2024
+BEGIN:VEVENT
+UID:20240727T210000Z-beach-volleyball--A-ITA-QAT
+DTSTAMP:20240727T210000Z
+DTSTART:20240727T210000Z
+DTEND:20240727T215000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 COTTAFAVA/NICOLAI 🇮🇹 - 🇶🇦 CHERIF/AHMED
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T070000Z-beach-volleyball--A-ITA-ESP
+DTSTAMP:20240728T070000Z
+DTSTART:20240728T070000Z
+DTEND:20240728T075000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールA
+SUMMARY:🏐 GOTTARDI/MENEGATTI 🇮🇹 - 🇪🇸 LILIANA/PAULA
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T080000Z-beach-volleyball--B-NED-ITA
+DTSTAMP:20240728T080000Z
+DTSTART:20240728T080000Z
+DTEND:20240728T085000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールB
+SUMMARY:🏐 VAN DE VELDE/IMMERS 🇳🇱 - 🇮🇹 RANGHIERI/CARAMBULA
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T070000Z-beach-volleyball--A-ITA-AUS
+DTSTAMP:20240729T070000Z
+DTSTART:20240729T070000Z
+DTEND:20240729T075000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 COTTAFAVA/NICOLAI 🇮🇹 - 🇦🇺 NICOLAIDIS/CARRACHER
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T090000Z-beach-volleyball--A-ITA-EGY
+DTSTAMP:20240730T090000Z
+DTSTART:20240730T090000Z
+DTEND:20240730T095000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールA
+SUMMARY:🏐 GOTTARDI/MENEGATTI 🇮🇹 - 🇪🇬 MARWA/D. ELGHOBASHY
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T200000Z-beach-volleyball--B-NOR-ITA
+DTSTAMP:20240731T200000Z
+DTSTART:20240731T200000Z
+DTEND:20240731T205000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールB
+SUMMARY:🏐 MOL/SORUM 🇳🇴 - 🇮🇹 RANGHIERI/CARAMBULA
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T150000Z-beach-volleyball--A-SWE-ITA
+DTSTAMP:20240801T150000Z
+DTSTART:20240801T150000Z
+DTEND:20240801T155000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 AHMAN/HELLVIG 🇸🇪 - 🇮🇹 COTTAFAVA/NICOLAI
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T180000Z-beach-volleyball--A-BRA-ITA
+DTSTAMP:20240801T180000Z
+DTSTART:20240801T180000Z
+DTEND:20240801T185000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールA
+SUMMARY:🏐 ANA PATRICIA/DUDA 🇧🇷 - 🇮🇹 GOTTARDI/MENEGATTI
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T080000Z-beach-volleyball--B-ITA-CHI
+DTSTAMP:20240802T080000Z
+DTSTART:20240802T080000Z
+DTEND:20240802T085000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールB
+SUMMARY:🏐 RANGHIERI/CARAMBULA 🇮🇹 - 🇨🇱 M.GRIMALT/E.GRIMALT
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+END:VCALENDAR

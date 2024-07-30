@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//handball/ja/BRA//EN
+X-WR-CALNAME:🇧🇷 Brazil ハンドボール | Paris 2024
+NAME:🇧🇷 Brazil ハンドボール | Paris 2024
+BEGIN:VEVENT
+UID:20240725T120000Z-handball--B-ESP-BRA
+DTSTAMP:20240725T120000Z
+DTSTART:20240725T120000Z
+DTEND:20240725T133000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 スペイン 🇪🇸 - 🇧🇷 ブラジル
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T070000Z-handball--B-BRA-HUN
+DTSTAMP:20240728T070000Z
+DTSTART:20240728T070000Z
+DTEND:20240728T083000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 ブラジル 🇧🇷 - 🇭🇺 ハンガリー
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T170000Z-handball--B-FRA-BRA
+DTSTAMP:20240730T170000Z
+DTSTART:20240730T170000Z
+DTEND:20240730T183000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 フランス 🇫🇷 - 🇧🇷 ブラジル
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T070000Z-handball--B-NED-BRA
+DTSTAMP:20240801T070000Z
+DTSTART:20240801T070000Z
+DTEND:20240801T083000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 オランダ 🇳🇱 - 🇧🇷 ブラジル
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T120000Z-handball--B-BRA-ANG
+DTSTAMP:20240803T120000Z
+DTSTART:20240803T120000Z
+DTEND:20240803T133000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 ブラジル 🇧🇷 - 🇦🇴 アンゴラ
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+END:VCALENDAR

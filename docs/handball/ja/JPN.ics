@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//handball/ja/JPN//EN
+X-WR-CALNAME:🇯🇵 Japan ハンドボール | Paris 2024
+NAME:🇯🇵 Japan ハンドボール | Paris 2024
+BEGIN:VEVENT
+UID:20240727T120000Z-handball--A-CRO-JPN
+DTSTAMP:20240727T120000Z
+DTSTART:20240727T120000Z
+DTEND:20240727T133000Z
+DESCRIPTION:ハンドボール - 男子予選ラウンド - グループA
+SUMMARY:🤾 クロアチア 🇭🇷 - 🇯🇵 日本
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T070000Z-handball--A-JPN-GER
+DTSTAMP:20240729T070000Z
+DTSTART:20240729T070000Z
+DTEND:20240729T083000Z
+DESCRIPTION:ハンドボール - 男子予選ラウンド - グループA
+SUMMARY:🤾 日本 🇯🇵 - 🇩🇪 ドイツ
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T120000Z-handball--A-ESP-JPN
+DTSTAMP:20240731T120000Z
+DTSTART:20240731T120000Z
+DTEND:20240731T133000Z
+DESCRIPTION:ハンドボール - 男子予選ラウンド - グループA
+SUMMARY:🤾 スペイン 🇪🇸 - 🇯🇵 日本
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T170000Z-handball--A-JPN-SLO
+DTSTAMP:20240802T170000Z
+DTSTART:20240802T170000Z
+DTEND:20240802T183000Z
+DESCRIPTION:ハンドボール - 男子予選ラウンド - グループA
+SUMMARY:🤾 日本 🇯🇵 - 🇸🇮 スロベニア
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T070000Z-handball--A-SWE-JPN
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T083000Z
+DESCRIPTION:ハンドボール - 男子予選ラウンド - グループA
+SUMMARY:🤾 スウェーデン 🇸🇪 - 🇯🇵 日本
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//volleyball/ja/SRB//EN
+X-WR-CALNAME:🇷🇸 Serbia バレーボール | Paris 2024
+NAME:🇷🇸 Serbia バレーボール | Paris 2024
+BEGIN:VEVENT
+UID:20240728T150000Z-volleyball--A-FRA-SRB
+DTSTAMP:20240728T150000Z
+DTSTART:20240728T150000Z
+DTEND:20240728T171500Z
+DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 フランス 🇫🇷 - 🇷🇸 セルビア
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T190000Z-volleyball--A-FRA-SRB
+DTSTAMP:20240729T190000Z
+DTSTART:20240729T190000Z
+DTEND:20240729T211500Z
+DESCRIPTION:バレーボール - 女子予選ラウンド - プールA
+SUMMARY:🏐 フランス 🇫🇷 - 🇷🇸 セルビア
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T150000Z-volleyball--A-SLO-SRB
+DTSTAMP:20240730T150000Z
+DTSTART:20240730T150000Z
+DTEND:20240730T171500Z
+DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 スロベニア 🇸🇮 - 🇷🇸 セルビア
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T150000Z-volleyball--A-USA-SRB
+DTSTAMP:20240731T150000Z
+DTSTART:20240731T150000Z
+DTEND:20240731T171500Z
+DESCRIPTION:バレーボール - 女子予選ラウンド - プールA
+SUMMARY:🏐 アメリカ合衆国 🇺🇸 - 🇷🇸 セルビア
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T190000Z-volleyball--A-CAN-SRB
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T211500Z
+DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 カナダ 🇨🇦 - 🇷🇸 セルビア
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T150000Z-volleyball--A-CHN-SRB
+DTSTAMP:20240804T150000Z
+DTSTART:20240804T150000Z
+DTEND:20240804T171500Z
+DESCRIPTION:バレーボール - 女子予選ラウンド - プールA
+SUMMARY:🏐 中国 🇨🇳 - 🇷🇸 セルビア
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+END:VCALENDAR

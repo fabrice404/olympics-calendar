@@ -1,0 +1,796 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ru/SRB//EN
+X-WR-CALNAME:🇷🇸 Serbia | Paris 2024
+NAME:🇷🇸 Serbia | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Церемония открытия
+SUMMARY:Paris 2024 - Церемония открытия
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T081200Z-rowing--
+DTSTAMP:20240727T081200Z
+DTSTART:20240727T081200Z
+DTEND:20240727T091900Z
+DESCRIPTION:Академическая гребля - Одиночки, заезды (ж)\n🇦🇺
+  Австралия\n🇦🇹 Австрия\n🇦🇿 Азербайджан\n🇩🇿 Алжир\n🇧🇬
+  Болгария\n🇧🇷 Бразилия\n🇻🇳 Вьетнам\n🇩🇪 Германия\n🇮🇷 Иран\n🇪🇸
+  Испания\n🇨🇺 Куба\n🇰🇼 Кувейт\n🇱🇹 Литва\n🇲🇦 Марокко\n🇲🇽
+  Мексика\n🇳🇱 Нидерланды\n🇳🇮 Никарагуа\n🇳🇿 Новая Зеландия\n🇵🇾
+  Парагвай\n🇵🇪 Перу\n🇺🇸 США\n🇷🇸 Сербия\n🇸🇬 Сингапур\n🇸🇮
+  Словения\n🇹🇬 Того\n🇹🇷 Турция\n🇺🇬 Уганда\n🇺🇿 Узбекистан\n🇵🇭
+  Филиппины\n🇨🇭 Швейцария\n🇿🇦 Южная Африка
+SUMMARY:🚣 Одиночки, заезды (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T083000Z-shooting--10-
+DTSTAMP:20240727T083000Z
+DTSTART:20240727T083000Z
+DTEND:20240727T094500Z
+DESCRIPTION:Стрельба - Пневматический пистолет 10м, квалификация (м)\n🇮🇳
+  Arjun Singh CHEEMA\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇷🇸 Damir
+  MIKEC\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇨🇱 Diego Santiago Andres PARRA
+  VERGARA\n🏳️ Edilio Francisco CENTENO NIEVES\n🇮🇹 Federico Nilo
+  MALDINI\n🇫🇷 Florian FOUQUET\n🇲🇾 Guanjie Johnathan WONG\n🇵🇰 Gulfam
+  JOSEPH\n🇹🇷 Ismail KELES\n🇨🇭 Jason SOLARI\n🇸🇰 Juraj TUZINSKY\n🇧🇬
+  Kiril KIROV\n🇰🇷 LEE Wonho\n🇱🇻 Lauris STRAUTMANIS\n🇨🇿 Matej
+  RAMPULA\n🇨🇦 Michele ESERCITATO\n🇱🇾 Mohammed BIN DALLAH\n🇰🇿 Nikita
+  CHIRYUKIN\n🇮🇹 Paolo MONNA\n🇺🇦 Pavlo KOROSTYLOV\n🇦🇼 Philip
+  ELHAGE\n🇧🇷 Philipe CHATEAUBRIAN\n🇩🇪 Robin WALTER\n🇦🇿 Ruslan
+  LUNEV\n🇩🇿 Samir BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor
+  BANKIN\n🇨🇳 XIE Yu\n🇹🇷 Yusuf DIKEC\n🇨🇳 ZHANG Bowen
+SUMMARY:🔫 Пневматический пистолет 10м, квалификация (м)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T091800Z-judo-116-48--SRB-SLO
+DTSTAMP:20240727T091800Z
+DTSTART:20240727T091800Z
+DTEND:20240727T092400Z
+DESCRIPTION:Дзюдо - 1/16 финала, до 48кг (ж)
+SUMMARY:🥋 Milica NIKOLIC 🇷🇸 - 🇸🇮 Marusa STANGAR
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T093000Z-rowing--
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T095700Z
+DESCRIPTION:Академическая гребля - Двойки парные, заезды (м)\n🇩🇪
+  Германия\n🇮🇪 Ирландия\n🇪🇸 Испания\n🇮🇹 Италия\n🇨🇳 Китай\n🇳🇱
+  Нидерланды\n🇳🇿 Новая Зеландия\n🇳🇴 Норвегия\n🇷🇴 Румыния\n🇺🇸
+  США\n🇷🇸 Сербия\n🇫🇷 Франция\n🇭🇷 Хорватия
+SUMMARY:🚣 Двойки парные, заезды (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100000Z-tennis---SRB-AUS
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T130000Z
+DESCRIPTION:Теннис - Первый раунд, одиночный разряд (м)
+SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇦🇺 Matthew EBDEN
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T101200Z-judo-18-48--SRB-ESP
+DTSTAMP:20240727T101200Z
+DTSTART:20240727T101200Z
+DTEND:20240727T101800Z
+DESCRIPTION:Дзюдо - 1/8 финала, до 48кг (ж)
+SUMMARY:🥋 Milica NIKOLIC 🇷🇸 - 🇪🇸 Laura MARTINEZ ABELENDA
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T102600Z-swimming--4X100-
+DTSTAMP:20240727T102600Z
+DTSTART:20240727T102600Z
+DTEND:20240727T103600Z
+DESCRIPTION:Плавание - Эстафета 4x100м вольным стилем, квалификация
+  (м)\n🇭🇺 Adam JASZO\n🇬🇧 Alexander COHOON\n🇮🇱 Alexey GLIVINSKIY\n🇬🇷
+  Andreas VAZAIOS\n🇷🇸 Andrej BARNA\n🇵🇱 Bartosz PISZCZOROWICZ\n🇸🇪
+  Bjoern SEELIGER\n🇧🇷 Breno CORREIA\n🇨🇳 CHEN Juner\n🇺🇸 Caeleb
+  DRESSEL\n🇪🇸 Cesar CASTRO VALLE\n🇮🇱 Denis LOKTEV\n🇵🇱 Dominik
+  DUDYS\n🇬🇧 Duncan SCOTT\n🇸🇪 Elias PERSSON\n🇨🇦 Finlay KNOX\n🇦🇺
+  Flynn SOUTHAM\n🇧🇷 Gabriel SANTOS\n🇮🇱 Gal COHEN GROUMI\n🇧🇷 Guilherme
+  SANTOS\n🇫🇷 Guillaume GUTH\n🇫🇷 Hadrien SALVAN\n🇭🇺 Hubert KOS\n🇺🇸
+  Hunter ARMSTRONG\n🇸🇪 Isak ELIASSON\n🇨🇳 JI Xinjie\n🇦🇺 Jack
+  CARTWRIGHT\n🇬🇧 Jacob Henry WHITTLE\n🇨🇦 Javier ACEVEDO\n🇨🇦 Josh
+  LIENDO\n🇩🇪 Josha SALCHOW\n🇷🇸 Justin CVETKOV\n🇵🇱 Kamil
+  SIERADZKI\n🇦🇺 Kyle CHALMERS\n🇮🇹 Leonardo DEPLANO\n🇮🇹 Lorenzo
+  ZAZZERI\n🇩🇪 Luca ARMBRUSTER\n🇪🇸 Luis DOMINGUEZ\n🇮🇹 Manuel
+  FRIGO\n🇧🇷 Marcelo CHIERIGHINI\n🇪🇸 Mario MOLLA YANES\n🇵🇱 Mateusz
+  CHOWANIEC\n🇺🇸 Matt KING\n🇭🇺 Nandor NEMETH\n🇷🇸 Nikola ACIN\n🇬🇷
+  Odyssefs MELADINIS\n🇨🇳 PAN Zhanle\n🇬🇷 Panagiotis BOLANOS\n🇮🇹 Paolo
+  CONTE BONIN\n🇩🇪 Peter VARJASI\n🇫🇷 Rafael FENTE--DAMERS\n🇩🇪 Rafael
+  MIROSLAW\n🇸🇪 Robin HANSON\n🇺🇸 Ryan HELD\n🇪🇸 Sergio de CELIS
+  MONTALBAN\n🇬🇷 Stergios Marios BILAS\n🇭🇺 Szebasztian SZABO\n🇬🇧 Tom
+  DEAN\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇫🇷 W. Amazigh
+  YEBBA\n🇨🇳 WANG Haoyu\n🇦🇺 William YANG\n🇨🇦 Yuri KISIL
+SUMMARY:🏊 Эстафета 4x100м вольным стилем, квалификация (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T103000Z-shooting--10-
+DTSTAMP:20240727T103000Z
+DTSTART:20240727T103000Z
+DTEND:20240727T114500Z
+DESCRIPTION:Стрельба - Пневматический пистолет 10м, квалификация (ж)\n🇱🇻
+  Agate RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇺🇸 Alexis LAGAN\n🇪🇨
+  Andrea PEREZ PENA\n🇲🇩 Anna DULCE\n🇬🇷 Anna KORAKAKI\n🇧🇬 Antoaneta
+  KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇬🇷 Christina MOSCHI\n🇪🇨 Diana
+  DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena GALIABOVITCH\n🇦🇲
+  Elmira KARAPETYAN\n🇪🇬 Hala ELGOHARI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇰🇿
+  Irina YUNUSMETOVA\n🇨🇳 JIANG Ranxin\n🇩🇪 Josefin EDER\n🇰🇷 KIM
+  Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan ABELN\n🇵🇰 Kishmala
+  TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LI Xue\n🇹🇼 LIU Heng Yu\n🇨🇺 Laina
+  PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇬🇪 Nino SALUKVADZE\n🇪🇬
+  Nour Abbas MOHAMMED\n🇰🇷 OH Ye Jin\n🇺🇦 Olena KOSTEVYCH\n🇹🇳 Olfa
+  CHARNI\n🇮🇳 Rhythm SANGWAN\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda
+  TARHAN\n🇹🇷 Simal YILMAZ\n🇦🇹 Sylvia STEINER\n🇹🇭 Tanyaporn
+  PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇸🇬 Xiu Hong
+  TEH\n🇹🇼 YU Ai Wen\n🇾🇪 Yasameen AL RAIMI\n🇷🇸 Zorana ARUNOVIC
+SUMMARY:🔫 Пневматический пистолет 10м, квалификация (ж)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T134600Z-boxing--116-54--THA-SRB
+DTSTAMP:20240727T134600Z
+DTSTART:20240727T134600Z
+DTEND:20240727T135700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 54кг (ж)
+SUMMARY:🥊 Jutamas JITPONG 🇹🇭 - 🇷🇸 Sara CIRKOVIC
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T184500Z-table-tennis-132--PUR-SRB
+DTSTAMP:20240727T184500Z
+DTSTART:20240727T184500Z
+DTEND:20240727T193000Z
+DESCRIPTION:Настольный теннис - 1/32 финала, одиночный разряд (ж)
+SUMMARY:🏓 Adriana DIAZ 🇵🇷 - 🇷🇸 Izabela LUPULESKU
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073000Z-shooting--10-
+DTSTAMP:20240728T073000Z
+DTSTART:20240728T073000Z
+DTEND:20240728T081500Z
+DESCRIPTION:Стрельба - Пневматический пистолет 10м, финал (м)\n🇩🇪
+  Christian REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇮🇹
+  Federico Nilo MALDINI\n🇰🇷 LEE Wonho\n🇮🇹 Paolo MONNA\n🇩🇪 Robin
+  WALTER\n🇨🇳 XIE Yu
+SUMMARY:🔫 Пневматический пистолет 10м, финал (м)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T081200Z-judo-116-66--AZE-SRB
+DTSTAMP:20240728T081200Z
+DTSTART:20240728T081200Z
+DTEND:20240728T081800Z
+DESCRIPTION:Дзюдо - 1/16 финала, до 66кг (м)
+SUMMARY:🥋 Yashar NAJAFOV 🇦🇿 - 🇷🇸 Strahinja BUNCIC
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T082000Z-rowing--
+DTSTAMP:20240728T082000Z
+DTSTART:20240728T082000Z
+DTEND:20240728T082700Z
+DESCRIPTION:Академическая гребля - Двойки парные, утешительные заезды
+  (м)\n🇩🇪 Германия\n🇮🇹 Италия\n🇨🇳 Китай\n🇷🇸 Сербия
+SUMMARY:🚣 Двойки парные, утешительные заезды (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T090000Z-swimming-200-
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T091400Z
+DESCRIPTION:Плавание - 200м вольным стилем, квалификация (м)\n🇮🇹
+  Alessandro RAGAINI\n🇨🇭 Antonio DJAKOVIC\n🇺🇸 Chris GUILIANO\n🇱🇹
+  Danas RAPSYS\n🇷🇴 David POPOVICI\n🇮🇱 Denis LOKTEV\n🇬🇧 Duncan
+  SCOTT\n🇦🇹 Felix AUBOECK\n🇮🇹 Filippo MEGLI\n🇧🇷 Guilherme COSTA\n🇰🇷
+  HWANG Sunwoo\n🇨🇳 JI Xinjie\n🇲🇽 Jorge IGA\n🇰🇷 KIM Woomin\n🇧🇪 Lucas
+  HENVEAUX\n🇩🇪 Lukas MAERTENS\n🇺🇸 Luke HOBSON\n🇯🇵 MATSUMOTO
+  Katsuhiro\n🇬🇧 Matthew RICHARDS\n🇦🇺 Maximillian GIULIANI\n🇵🇰
+  Muhammad Ahmed DURRANI\n🇭🇺 Nandor NEMETH\n🇸🇾 Omar ABBAS\n🇨🇳 PAN
+  Zhanle\n🇩🇪 Rafael MIROSLAW\n🇸🇮 Saso BOSKAN\n🇦🇺 Thomas NEILL\n🇷🇸
+  Velimir STJEPANOVIC
+SUMMARY:🏊 200м вольным стилем, квалификация (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T091200Z-judo-18-66--ITA-SRB
+DTSTAMP:20240728T091200Z
+DTSTART:20240728T091200Z
+DTEND:20240728T091800Z
+DESCRIPTION:Дзюдо - 1/8 финала, до 66кг (м)
+SUMMARY:🥋 Matteo PIRAS 🇮🇹 - 🇷🇸 Strahinja BUNCIC
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T091500Z-shooting--10-
+DTSTAMP:20240728T091500Z
+DTSTART:20240728T091500Z
+DTEND:20240728T103000Z
+DESCRIPTION:Стрельба - Пневматическая винтовка 10м, квалификация (м)\n🇫🇮
+  Aleksi LEPPA\n🇦🇹 Alexander SCHMIRL\n🇮🇳 Arjun BABUTA\n🇲🇳 Bayaraa
+  NYANTAI\n🇰🇷 CHOE Daehan\n🇲🇽 Carlos QUEZADA MARQUEZ\n🇦🇺 Dane
+  SAMPSON\n🇮🇹 Danilo Dennis SOLLAZZO\n🇨🇳 Du Linshu\n🇮🇹 Edoardo
+  BONAZZI\n🇲🇽 Edson Ismael RAMIREZ RAMOS\n🇮🇩 Fathur GUSTAFIAN\n🇨🇿
+  Frantisek SMETANA\n🇪🇬 Ibrahim Ahmad Mohammad KORAYIEM\n🇰🇿 Islam
+  SATPAYEV\n🇸🇻 Israel GUTIERREZ\n🇭🇺 Istvan PENI\n🇺🇸 Ivan ROE\n🇦🇺
+  Jack ROSSITER\n🇨🇿 Jiri PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇩🇿 Koceila
+  ADOUL\n🇰🇿 Konstantin MALINOVSKIY\n🇷🇸 Lazar KOVACEVIC\n🇫🇷 Lucas
+  Bernard Denis KRYZS\n🇵🇱 Maciej KOWALEWICZ\n🇦🇷 Marcelo Julian
+  GUTIERREZ\n🇸🇪 Marcus MADSEN\n🇦🇹 Martin STREMPFL\n🇩🇪 Maximilian
+  ULBRICH\n🇧🇩 Md Robiul Islam ROBIUL\n🇬🇧 Michael BARGERON\n🇭🇷 Miran
+  MARICIC\n🇪🇬 Mohamed HAMDY ABDELKADER\n🇯🇵 OKADA Naoya\n🇳🇴 Ole Martin
+  HALVORSEN\n🇰🇷 PARK Hajun\n🇸🇰 Patrik JANY\n🇭🇷 Petar GORSA\n🇫🇷
+  Romain AUFRERE\n🇺🇸 Rylan William KISSELL\n🇨🇳 SHENG Lihao\n🇮🇳
+  Sandeep SINGH\n🇮🇱 Sergey RICHTER\n🇺🇦 Serhiy KULISH\n🇵🇱 Tomasz
+  BARTNIK\n🇨🇦 Tye IKEDA\n🇸🇪 Victor LINDGREN\n🇭🇺 Zalan PEKLER
+SUMMARY:🔫 Пневматическая винтовка 10м, квалификация (м)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T095400Z-judo--66--MDA-SRB
+DTSTAMP:20240728T095400Z
+DTSTART:20240728T095400Z
+DTEND:20240728T100000Z
+DESCRIPTION:Дзюдо - Четвертьфинал, до 66кг (м)
+SUMMARY:🥋 Denis VIERU 🇲🇩 - 🇷🇸 Strahinja BUNCIC
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis---SRB-GER
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T160000Z
+DESCRIPTION:Теннис - Первый раунд, одиночный разряд (м)
+SUMMARY:🎾 Dusan LAJOVIC 🇷🇸 - 🇩🇪 Maximilian MARTERER
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100500Z-water-polo--B--SRB-JPN
+DTSTAMP:20240728T100500Z
+DTSTART:20240728T100500Z
+DTEND:20240728T113000Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
+SUMMARY:🤽 Сербия 🇷🇸 - 🇯🇵 Япония
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T140000Z-judo--66--SRB-TJK
+DTSTAMP:20240728T140000Z
+DTSTART:20240728T140000Z
+DTEND:20240728T140600Z
+DESCRIPTION:Дзюдо - Утешительный поединок, до 66кг (м)
+SUMMARY:🥋 Strahinja BUNCIC 🇷🇸 - 🇹🇯 Nurali EMOMALI
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T144800Z-judo--66--SRB-KAZ
+DTSTAMP:20240728T144800Z
+DTSTART:20240728T144800Z
+DTEND:20240728T145400Z
+DESCRIPTION:Дзюдо - Поединок за бронзу А, до 66кг (м)
+SUMMARY:🥋 Strahinja BUNCIC 🇷🇸 - 🇰🇿 Gusman KYRGYZBAYEV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T150000Z-volleyball--A--FRA-SRB
+DTSTAMP:20240728T150000Z
+DTSTART:20240728T150000Z
+DTEND:20240728T171500Z
+DESCRIPTION:Волейбол - Групповой этап - Группа A (м)
+SUMMARY:🏐 Франция 🇫🇷 - 🇷🇸 Сербия
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T151500Z-basketball---SRB-USA
+DTSTAMP:20240728T151500Z
+DTSTART:20240728T151500Z
+DTEND:20240728T170000Z
+DESCRIPTION:Баскетбол - Групповой этап, группа С (м)
+SUMMARY:🏀 Сербия 🇷🇸 - 🇺🇸 США
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T190000Z-basketball---SRB-PUR
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T204500Z
+DESCRIPTION:Баскетбол - Групповой этап, группа А (ж)
+SUMMARY:🏀 Сербия 🇷🇸 - 🇵🇷 Пуэрто-Рико
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T071500Z-shooting--10-1-
+DTSTAMP:20240729T071500Z
+DTSTART:20240729T071500Z
+DTEND:20240729T074500Z
+DESCRIPTION:Стрельба - Пневматический пистолет 10м, квалификация, часть 1
+  (микст)\n🇧🇬 BUL\n🇨🇳 China 1\n🇨🇳 China 2\n🇫🇷 FRA\n🇩🇪 Germany
+  1\n🇩🇪 Germany 2\n🇮🇳 India 1\n🇮🇳 India 2\n🇰🇿 KAZ\n🇰🇷 Korea
+  1\n🇰🇷 Korea 2\n🇱🇻 LAT\n🇵🇰 PAK\n🇷🇸 SRB\n🇹🇷 Türkiye 1\n🇹🇷
+  Türkiye 2\n🇺🇦 UKR
+SUMMARY:🔫 Пневматический пистолет 10м, квалификация, часть 1 (микст)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T080600Z-judo-116-57--SRB-NEP
+DTSTAMP:20240729T080600Z
+DTSTART:20240729T080600Z
+DTEND:20240729T081200Z
+DESCRIPTION:Дзюдо - 1/16 финала, до 57кг (ж)
+SUMMARY:🥋 Marica PERISIC 🇷🇸 - 🇳🇵 Manita SHRESTHA PRADHAN
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-swimming-400-
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T091200Z
+DESCRIPTION:Плавание - 400м комплексом, квалификация (ж)\n🇮🇱 Anastasia
+  GORBENKO\n🇷🇸 Anja CREVAR\n🇨🇦 Ella JANSEN\n🇦🇺 Ella RAMSAY\n🇮🇪
+  Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇺🇸 Emma WEYANT\n🇬🇧 Freya
+  Constance COLBERT\n🇦🇺 Jenna FORRESTER\n🇺🇸 Katie GRIMES\n🇬🇧 Katie
+  SHANAHAN\n🇯🇵 NARITA Mio\n🇮🇹 Sara FRANCESCHI\n🇨🇦 Summer
+  McINTOSH\n🇯🇵 TANIGAWA Ageha\n🇭🇺 Vivien JACKL
+SUMMARY:🏊 400м комплексом, квалификация (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T091600Z-boxing--18-60--ALG-SRB
+DTSTAMP:20240729T091600Z
+DTSTART:20240729T091600Z
+DTEND:20240729T092700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 60кг (ж)
+SUMMARY:🥊 Dounia KHELIF 🇩🇿 - 🇷🇸 Natalia SHADRINA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T091800Z-judo-18-57--SRB-TPE
+DTSTAMP:20240729T091800Z
+DTSTART:20240729T091800Z
+DTEND:20240729T092400Z
+DESCRIPTION:Дзюдо - 1/8 финала, до 57кг (ж)
+SUMMARY:🥋 Marica PERISIC 🇷🇸 - 🇹🇼 LIEN Chen-Ling
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-judo--57--CAN-SRB
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T100600Z
+DESCRIPTION:Дзюдо - Четвертьфинал, до 57кг (ж)
+SUMMARY:🥋 Christa DEGUCHI 🇨🇦 - 🇷🇸 Marica PERISIC
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-tennis---SRB-ESP
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T130000Z
+DESCRIPTION:Теннис - Второй раунд, одиночный разряд (м)
+SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇪🇸 Rafael NADAL
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T140000Z-judo--57--SRB-JPN
+DTSTAMP:20240729T140000Z
+DTSTART:20240729T140000Z
+DTEND:20240729T140600Z
+DESCRIPTION:Дзюдо - Утешительный поединок, до 57кг (ж)
+SUMMARY:🥋 Marica PERISIC 🇷🇸 - 🇯🇵 FUNAKUBO Haruka
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T190000Z-volleyball--A--FRA-SRB
+DTSTAMP:20240729T190000Z
+DTSTART:20240729T190000Z
+DTEND:20240729T211500Z
+DESCRIPTION:Волейбол - Групповой этап - Группа A (ж)
+SUMMARY:🏐 Франция 🇫🇷 - 🇷🇸 Сербия
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T073000Z-rowing--14-
+DTSTAMP:20240730T073000Z
+DTSTART:20240730T073000Z
+DTEND:20240730T080700Z
+DESCRIPTION:Академическая гребля - Одиночки, 1/4 финала (ж)\n🇵🇪 Adriana
+  SANGUINETI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿
+  Anna PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA
+  TAVARES CARDOSO\n🇧🇬 Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis
+  OZBAY\n🇳🇿 Emma TWIGG\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie
+  DELGACO\n🇷🇸 Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇲🇽
+  Kenia LECHUGA ALANIS\n🇦🇹 Magdalena LOBNIG\n🇸🇮 Nina KOSTANJSEK\n🇿🇦
+  Paige BADENHORST\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
+  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS
+SUMMARY:🚣 Одиночки, 1/4 финала (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T073000Z-shooting--10--SRB-TUR
+DTSTAMP:20240730T073000Z
+DTSTART:20240730T073000Z
+DTEND:20240730T075000Z
+DESCRIPTION:Стрельба - Пневматический пистолет 10м, золото (микст)
+SUMMARY:🔫 SRB 🇷🇸 - 🇹🇷 TUR
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T083000Z-water-polo--B--AUS-SRB
+DTSTAMP:20240730T083000Z
+DTSTART:20240730T083000Z
+DTEND:20240730T095500Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
+SUMMARY:🤽 Австралия 🇦🇺 - 🇷🇸 Сербия
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T091000Z-rowing--AB-1-
+DTSTAMP:20240730T091000Z
+DTSTART:20240730T091000Z
+DTEND:20240730T091700Z
+DESCRIPTION:Академическая гребля - Двойки парные, полуфинал A/B 1 (м)\n🇪🇸
+  Испания\n🇨🇳 Китай\n🇳🇱 Нидерланды\n🇷🇴 Румыния\n🇷🇸 Сербия\n🇭🇷
+  Хорватия
+SUMMARY:🚣 Двойки парные, полуфинал A/B 1 (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T091700Z-swimming-100-
+DTSTAMP:20240730T091700Z
+DTSTART:20240730T091700Z
+DTEND:20240730T094800Z
+DESCRIPTION:Плавание - 100м вольным стилем, квалификация (м)\n🇽🇰 Adell
+  SABOVIC\n🇰🇿 Adilbek MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro
+  MIRESSI\n🇳🇵 Alexander SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭
+  Antoine de LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿
+  Cameron GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas
+  RAPSYS\n🇨🇿 Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS
+  RIBEIRO\n🇹🇭 Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir
+  BATBAYAR\n🇨🇲 Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi
+  KOXHAKU\n🇧🇷 Guilherme SANTOS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG
+  Sunwoo\n🇰🇲 Hadji HASSANE\n🇬🇭 Harry STACEY\n🇦🇴 Henrique
+  MASCARENHAS\n🇸🇷 Irvin HOOST\n🇴🇲 Issa Samir Hamed AL ADAWI\n🇺🇸 Jack
+  ALEXY\n🇧🇧 Jack KIRBY\n🇬🇧 Jacob Henry WHITTLE\n🇵🇱 Jakub
+  MAJERSKI\n🇩🇴 Javier NUNEZ\n🇱🇨 Jayhan Jamaud ODLUM-SMITH\n🇼🇸 Johann
+  STICKLAND\n🇻🇺 Johnathan SILAS\n🇸🇬 Jonathan Eu Jin TAN\n🇰🇾 Jordan
+  CROOKS\n🇲🇽 Jorge IGA\n🇨🇦 Josh LIENDO\n🇵🇬 Josh TARERE\n🇩🇪 Josha
+  SALCHOW\n🇱🇰 Kyle ABEYSINGHE\n🇦🇺 Kyle CHALMERS\n🇧🇸 Lamar
+  TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹 Leonardo DEPLANO\n🇧🇷 Marcelo
+  CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳 Matthieu SEYE\n🇫🇷 Maxime
+  GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad ZUBAID\n🇹🇲 Musa
+  ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola MILJENIC\n🇨🇾 Nikolas
+  ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲
+  Phone Pyae HAN\n🇫🇷 Rafael FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN
+  CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷 Samyar ABDOLI\n🇧🇹 Sangay
+  TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇱🇧 Simon
+  DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇨🇳 WANG
+  Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef ABUBAKER\n🇦🇪 Yousuf
+  ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
+SUMMARY:🏊 100м вольным стилем, квалификация (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T150000Z-volleyball--A--SLO-SRB
+DTSTAMP:20240730T150000Z
+DTSTART:20240730T150000Z
+DTEND:20240730T171500Z
+DESCRIPTION:Волейбол - Групповой этап - Группа A (м)
+SUMMARY:🏐 Словения 🇸🇮 - 🇷🇸 Сербия
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T183000Z-swimming-100-
+DTSTAMP:20240730T183000Z
+DTSTART:20240730T183000Z
+DTEND:20240730T184400Z
+DESCRIPTION:Плавание - 100м вольным стилем, полуфиналы (м)\n🇮🇹 Alessandro
+  MIRESSI\n🇷🇸 Andrej BARNA\n🇺🇸 Chris GUILIANO\n🇷🇴 David
+  POPOVICI\n🇧🇷 Guilherme SANTOS\n🇺🇸 Jack ALEXY\n🇰🇾 Jordan
+  CROOKS\n🇨🇦 Josh LIENDO\n🇩🇪 Josha SALCHOW\n🇦🇺 Kyle CHALMERS\n🇬🇧
+  Matthew RICHARDS\n🇫🇷 Maxime GROUSSET\n🇭🇺 Nandor NEMETH\n🇨🇳 PAN
+  Zhanle\n🇷🇸 Velimir STJEPANOVIC\n🇦🇺 William YANG
+SUMMARY:🏊 100м вольным стилем, полуфиналы (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T203500Z-3x3-basketball---SRB-USA
+DTSTAMP:20240730T203500Z
+DTSTART:20240730T203500Z
+DTEND:20240730T210000Z
+DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
+SUMMARY:🏀 Сербия 🇷🇸 - 🇺🇸 США
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T070000Z-shooting--50-3-
+DTSTAMP:20240731T070000Z
+DTSTART:20240731T070000Z
+DTEND:20240731T083000Z
+DESCRIPTION:Стрельба - Винтовка 50м из 3 положений, квалификация (м)\n🇮🇳
+  Aishwary Pratap Singh TOMAR\n🇫🇮 Aleksi LEPPA\n🇦🇹 Alexander
+  SCHMIRL\n🇦🇹 Andreas THUM\n🇲🇳 Bayaraa NYANTAI\n🇲🇽 Carlos QUEZADA
+  MARQUEZ\n🇨🇭 Christoph DUERR\n🇦🇺 Dane SAMPSON\n🇮🇹 Danilo Dennis
+  SOLLAZZO\n🇨🇳 Du Linshu\n🇮🇹 Edoardo BONAZZI\n🇮🇩 Fathur
+  GUSTAFIAN\n🇪🇬 Ibrahim Ahmad Mohammad KORAYIEM\n🇰🇿 Islam
+  SATPAYEV\n🇸🇻 Israel GUTIERREZ\n🇭🇺 Istvan PENI\n🇺🇸 Ivan ROE\n🇦🇺
+  Jack ROSSITER\n🇨🇿 Jiri PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇰🇿
+  Konstantin MALINOVSKIY\n🇨🇳 LIU Yukun\n🇷🇸 Lazar KOVACEVIC\n🇫🇷 Lucas
+  Bernard Denis KRYZS\n🇵🇱 Maciej KOWALEWICZ\n🇸🇪 Marcus MADSEN\n🇩🇪
+  Maximilian ULBRICH\n🇬🇧 Michael BARGERON\n🇭🇷 Miran MARICIC\n🇯🇵 OKADA
+  Naoya\n🇳🇴 Ole Martin HALVORSEN\n🇰🇷 PARK Hajun\n🇸🇰 Patrik JANY\n🇭🇷
+  Petar GORSA\n🇨🇿 Petr NYMBURSKY\n🇫🇷 Romain AUFRERE\n🇺🇸 Rylan William
+  KISSELL\n🇺🇦 Serhiy KULISH\n🇮🇳 Swapnil KUSALE\n🇹🇭 Thongphaphum
+  VONGSUKDEE\n🇵🇱 Tomasz BARTNIK\n🇨🇦 Tye IKEDA\n🇸🇪 Victor
+  LINDGREN\n🇭🇺 Zalan PEKLER
+SUMMARY:🔫 Винтовка 50м из 3 положений, квалификация (м)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T094200Z-judo-18-90-
+DTSTAMP:20240731T094200Z
+DTSTART:20240731T094200Z
+DTEND:20240731T094800Z
+DESCRIPTION:Дзюдо - 1/8 финала, до 90кг (м)\n🇷🇸 Nemanja MAJDOV
+SUMMARY:🥋 1/8 финала, до 90кг (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T094600Z-swimming-200-
+DTSTAMP:20240731T094600Z
+DTSTART:20240731T094600Z
+DTEND:20240731T100600Z
+DESCRIPTION:Плавание - 200м баттерфляем, квалификация (ж)\n🇦🇺 Abbey Lee
+  CONNOR\n🇺🇸 Alex SHACKELL\n🇨🇷 Alondra ORTIZ\n🇷🇸 Anja CREVAR\n🇭🇺
+  Boglarka KAPAS\n🇨🇳 CHEN Luying\n🇦🇺 Elizabeth DEKKERS\n🇬🇷 Georgia
+  DAMASIOTI\n🇩🇰 Helena Rosendahl BACH\n🇬🇧 Keanna Louise MACINNES\n🇧🇦
+  Lana PUDAR\n🇪🇸 Laura CABANES GARZAS\n🇬🇧 Laura STEPHENS\n🇦🇴 Lia
+  LIMA\n🇯🇵 MAKINO Hiroko\n🇯🇵 MITSUI Airi\n🇺🇸 Regan SMITH\n🇨🇦 Summer
+  McINTOSH\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 200м баттерфляем, квалификация (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T110800Z-boxing--60--CHN-SRB
+DTSTAMP:20240731T110800Z
+DTSTART:20240731T110800Z
+DTEND:20240731T111900Z
+DESCRIPTION:Бокс - Четвертьфинал, до 60кг (ж)
+SUMMARY:🥊 YANG Wenlu 🇨🇳 - 🇷🇸 Natalia SHADRINA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T113000Z-basketball---CHN-SRB
+DTSTAMP:20240731T113000Z
+DTSTART:20240731T113000Z
+DTEND:20240731T131500Z
+DESCRIPTION:Баскетбол - Групповой этап, группа А (ж)
+SUMMARY:🏀 Китай 🇨🇳 - 🇷🇸 Сербия
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T150000Z-volleyball--A--USA-SRB
+DTSTAMP:20240731T150000Z
+DTSTART:20240731T150000Z
+DTEND:20240731T171500Z
+DESCRIPTION:Волейбол - Групповой этап - Группа A (ж)
+SUMMARY:🏐 США 🇺🇸 - 🇷🇸 Сербия
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T151500Z-basketball---PUR-SRB
+DTSTAMP:20240731T151500Z
+DTSTART:20240731T151500Z
+DTEND:20240731T170000Z
+DESCRIPTION:Баскетбол - Групповой этап, группа С (м)
+SUMMARY:🏀 Пуэрто-Рико 🇵🇷 - 🇷🇸 Сербия
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T170500Z-3x3-basketball---SRB-CHN
+DTSTAMP:20240731T170500Z
+DTSTART:20240731T170500Z
+DTEND:20240731T173000Z
+DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
+SUMMARY:🏀 Сербия 🇷🇸 - 🇨🇳 Китай
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T184800Z-boxing--18-71--GBR-SRB
+DTSTAMP:20240731T184800Z
+DTSTART:20240731T184800Z
+DTEND:20240731T185900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 71кг (м)
+SUMMARY:🥊 Lewis RICHARDSON 🇬🇧 - 🇷🇸 Vakhid ABBASOV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T080500Z-3x3-basketball---NED-SRB
+DTSTAMP:20240801T080500Z
+DTSTART:20240801T080500Z
+DTEND:20240801T083000Z
+DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
+SUMMARY:🏀 Нидерланды 🇳🇱 - 🇷🇸 Сербия
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T084800Z-judo-116-100--HUN-SRB
+DTSTAMP:20240801T084800Z
+DTSTART:20240801T084800Z
+DTEND:20240801T085400Z
+DESCRIPTION:Дзюдо - 1/16 финала, до 100кг (м)
+SUMMARY:🥋 Zsombor VEG 🇭🇺 - 🇷🇸 Aleksandar KUKOLJ
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T091800Z-swimming-50-
+DTSTAMP:20240801T091800Z
+DTSTART:20240801T091800Z
+DTEND:20240801T094700Z
+DESCRIPTION:Плавание - 50м вольным стилем, квалификация (м)\n🇪🇷 Aaron
+  Ghebre OWUSU\n🇬🇦 Adam MPALI\n🏳️ Alaa MASO\n🇻🇪 Alberto MESTRE\n🇻🇨
+  Alex JOACHIM\n🇬🇧 Alexander COHOON\n🇷🇸 Andrej BARNA\n🇨🇩 Aristote
+  NDOMBE IMPELENGA\n🇩🇪 Artem SELIN\n🇧🇮 Belly-Cresus GANIRA\n🇦🇺 Ben
+  ARMBRUSTER\n🇬🇧 Benjamin PROUD\n🇸🇪 Bjoern SEELIGER\n🇺🇸 Caeleb
+  DRESSEL\n🇦🇺 Cameron McEVOY\n🇲🇷 Camil DOUA\n🇺🇸 Chris GUILIANO\n🇿🇲
+  Damien SHAMAMBO\n🇫🇯 David YOUNG\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇹 Dylan
+  CARTER\n🇬🇳 Elhadj N'gnane DIALLO\n🇦🇫 Fahim ANWARI\n🇹🇯 Fakhriddin
+  MADKAMOV\n🇲🇼 Filipe GOMES\n🇫🇷 Florent MANAUDOU\n🇨🇬 Freddy
+  MAYALA\n🇲🇽 Gabriel CASTANO GARCIA\n🇧🇷 Guilherme SANTOS\n🇭🇰 HO Ian
+  Yentou\n🇬🇶 Higinio NDONG OBAMA\n🇩🇯 Houmed HOUSSEIN BARKAT\n🇰🇷 JI
+  Yuchan\n🇭🇷 Jere HRIBAR\n🇵🇼 Jion HOSEI\n🇹🇱 Jolanio GUTERRES\n🇸🇬
+  Jonathan Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇨🇻 Jose TATI\n🇨🇦 Josh
+  LIENDO\n🇸🇱 Joshua WYSE\n🇳🇱 Kenzo SIMONS\n🇬🇷 Kristian
+  GKOLOMEEV\n🇲🇹 Kyle MICALLEF\n🇮🇹 Leonardo DEPLANO\n🇮🇹 Lorenzo
+  ZAZZERI\n🇹🇬 Magnim Jordano DAOU\n🇳🇪 Marouane MAMANE HAMISSOU
+  ABBA\n🇮🇱 Martin KARTAVI\n🇸🇰 Matej DUSA\n🇫🇷 Maxime GROUSSET\n🇮🇱
+  Meiron Amir CHERUTI\n🇵🇹 Miguel NASCIMENTO\n🇦🇼 Mikel SCHREUDERS\n🇲🇻
+  Mohamed Aan HUSSAIN\n🇳🇴 Nicholas LIA\n🇬🇲 Ousman JOBE\n🇬🇼 Pedro
+  ROGERY\n🇲🇭 Phillip KINONO\n🇵🇱 Piotr LUDWICZAK\n🇳🇱 Renzo
+  TJON-A-JOE\n🇮🇪 Shane RYAN\n🇧🇫 Souleymane NAPARE\n🇬🇷 Stergios Marios
+  BILAS\n🇭🇺 Szebasztian SZABO\n🇳🇿 Taiko TOREPE-ORMSBY\n🇨🇫 Terence
+  TENGUE\n🇨🇭 Thierry BOLLIN\n🇮🇪 Thomas FANNON\n🇳🇬 Tobi SIJUADE\n🇰🇳
+  Troy NISBETT\n🇺🇦 Vladyslav BUKHOV\n🇩🇲 Warren Adam LAWRENCE
+SUMMARY:🏊 50м вольным стилем, квалификация (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T100500Z-water-polo--B--SRB-ESP
+DTSTAMP:20240801T100500Z
+DTSTART:20240801T100500Z
+DTEND:20240801T113000Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
+SUMMARY:🤽 Сербия 🇷🇸 - 🇪🇸 Испания
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T203500Z-3x3-basketball---SRB-FRA
+DTSTAMP:20240801T203500Z
+DTSTART:20240801T203500Z
+DTEND:20240801T210000Z
+DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
+SUMMARY:🏀 Сербия 🇷🇸 - 🇫🇷 Франция
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T083600Z-judo-116-78--ITA-SRB
+DTSTAMP:20240802T083600Z
+DTSTART:20240802T083600Z
+DTEND:20240802T084200Z
+DESCRIPTION:Дзюдо - 1/16 финала, свыше 78кг (ж)
+SUMMARY:🥋 Asya TAVANO 🇮🇹 - 🇷🇸 Milica ZABIC
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T170500Z-3x3-basketball---LAT-SRB
+DTSTAMP:20240802T170500Z
+DTSTART:20240802T170500Z
+DTEND:20240802T173000Z
+DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
+SUMMARY:🏀 Латвия 🇱🇻 - 🇷🇸 Сербия
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T200500Z-3x3-basketball---SRB-POL
+DTSTAMP:20240802T200500Z
+DTSTART:20240802T200500Z
+DTEND:20240802T203000Z
+DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
+SUMMARY:🏀 Сербия 🇷🇸 - 🇵🇱 Польша
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T064200Z-judo-18--NED-SRB
+DTSTAMP:20240803T064200Z
+DTSTART:20240803T064200Z
+DTEND:20240803T073100Z
+DESCRIPTION:Дзюдо - 1/8 финала (микст)
+SUMMARY:🥋 Нидерланды 🇳🇱 - 🇷🇸 Сербия
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T113000Z-basketball---SRB-ESP
+DTSTAMP:20240803T113000Z
+DTSTART:20240803T113000Z
+DTEND:20240803T131500Z
+DESCRIPTION:Баскетбол - Групповой этап, группа А (ж)
+SUMMARY:🏀 Сербия 🇷🇸 - 🇪🇸 Испания
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T173000Z-water-polo--B--SRB-FRA
+DTSTAMP:20240803T173000Z
+DTSTART:20240803T173000Z
+DTEND:20240803T185500Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
+SUMMARY:🤽 Сербия 🇷🇸 - 🇫🇷 Франция
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T190000Z-basketball---SRB-SSD
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T204500Z
+DESCRIPTION:Баскетбол - Групповой этап, группа С (м)
+SUMMARY:🏀 Сербия 🇷🇸 - 🇸🇸 Южный Судан
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T190000Z-volleyball--A--CAN-SRB
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T211500Z
+DESCRIPTION:Волейбол - Групповой этап - Группа A (м)
+SUMMARY:🏐 Канада 🇨🇦 - 🇷🇸 Сербия
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T150000Z-volleyball--A--CHN-SRB
+DTSTAMP:20240804T150000Z
+DTSTART:20240804T150000Z
+DTEND:20240804T171500Z
+DESCRIPTION:Волейбол - Групповой этап - Группа A (ж)
+SUMMARY:🏐 Китай 🇨🇳 - 🇷🇸 Сербия
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T163500Z-3x3-basketball---LTU-SRB
+DTSTAMP:20240804T163500Z
+DTSTART:20240804T163500Z
+DTEND:20240804T170000Z
+DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
+SUMMARY:🏀 Литва 🇱🇹 - 🇷🇸 Сербия
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T100000Z-water-polo--B--HUN-SRB
+DTSTAMP:20240805T100000Z
+DTSTART:20240805T100000Z
+DTEND:20240805T112500Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
+SUMMARY:🤽 Венгрия 🇭🇺 - 🇷🇸 Сербия
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

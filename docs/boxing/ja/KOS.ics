@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/KOS//EN
+X-WR-CALNAME:🇽🇰 Kosovo ボクシング | Paris 2024
+NAME:🇽🇰 Kosovo ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240727T190400Z-boxing-60KG-32-THA-KOS
+DTSTAMP:20240727T190400Z
+DTSTART:20240727T190400Z
+DTEND:20240727T191500Z
+DESCRIPTION:ボクシング - 女子60kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Thananya SOMNUEK 🇹🇭 - 🇽🇰 Donjeta SADIKU
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T180000Z-boxing-60KG-16-KOS-COL
+DTSTAMP:20240729T180000Z
+DTSTART:20240729T180000Z
+DTEND:20240729T181100Z
+DESCRIPTION:ボクシング - 女子60kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Donjeta SADIKU 🇽🇰 - 🇨🇴 Angie Paola VALDES PANA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//surfing/ru/POR//EN
+X-WR-CALNAME:🇵🇹 Portugal Серфинг | Paris 2024
+NAME:🇵🇹 Portugal Серфинг | Paris 2024
+BEGIN:VEVENT
+UID:20240727T214800Z-surfing--1-1-
+DTSTAMP:20240727T214800Z
+DTSTART:20240727T214800Z
+DTEND:20240727T221800Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 1 (ж)\n🇺🇸 Caroline MARKS\n🇿🇦 Sarah
+  BAUM\n🇵🇹 Yolanda HOPKINS
+SUMMARY:🏄 Раунд 1, заезд 1 (ж)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T020000Z-surfing--1-8-
+DTSTAMP:20240728T020000Z
+DTSTART:20240728T020000Z
+DTEND:20240728T023000Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 8 (ж)\n🇺🇸 Carissa MOORE\n🇯🇵
+  MATSUDA Shino\n🇵🇹 Teresa BONVALOT
+SUMMARY:🏄 Раунд 1, заезд 8 (ж)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T181200Z-surfing--2-3--JPN-POR
+DTSTAMP:20240728T181200Z
+DTSTART:20240728T181200Z
+DTEND:20240728T184200Z
+DESCRIPTION:Серфинг - Раунд 2, заезд 3 (ж)
+SUMMARY:🏄 MATSUDA Shino 🇯🇵 - 🇵🇹 Teresa BONVALOT
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T200000Z-surfing--2-6--POR-NZL
+DTSTAMP:20240728T200000Z
+DTSTART:20240728T200000Z
+DTEND:20240728T203000Z
+DESCRIPTION:Серфинг - Раунд 2, заезд 6 (ж)
+SUMMARY:🏄 Yolanda HOPKINS 🇵🇹 - 🇳🇿 Saffi VETTE
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T020000Z-surfing--3-8--CRC-POR
+DTSTAMP:20240730T020000Z
+DTSTART:20240730T020000Z
+DTEND:20240730T023000Z
+DESCRIPTION:Серфинг - Раунд 3, заезд 8 (ж)
+SUMMARY:🏄 Brisa HENNESSY 🇨🇷 - 🇵🇹 Yolanda HOPKINS
+LOCATION:Теахупоо, Таити
+END:VEVENT
+END:VCALENDAR

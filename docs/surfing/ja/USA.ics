@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//surfing/ja/USA//EN
+X-WR-CALNAME:🇺🇸 United States サーフィン | Paris 2024
+NAME:🇺🇸 United States サーフィン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T200000Z-surfing-1-6
+DTSTAMP:20240727T200000Z
+DTSTART:20240727T200000Z
+DTEND:20240727T203000Z
+DESCRIPTION:サーフィン - 男子第1ラウンド - 第6ヒート\n🇲🇽 Alan CLELAND QUINONEZ\n🇪🇸 Andy
+  CRIERE\n🇺🇸 John John FLORENCE
+SUMMARY:🏄 男子第1ラウンド - 第6ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T203600Z-surfing-1-7
+DTSTAMP:20240727T203600Z
+DTSTART:20240727T203600Z
+DTEND:20240727T210600Z
+DESCRIPTION:サーフィン - 男子第1ラウンド - 第7ヒート\n🇺🇸 Griffin COLAPINTO\n🇫🇷 Kauli
+  VAAST\n🇵🇪 Lucca MESINAS
+SUMMARY:🏄 男子第1ラウンド - 第7ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T214800Z-surfing-1-1
+DTSTAMP:20240727T214800Z
+DTSTART:20240727T214800Z
+DTEND:20240727T221800Z
+DESCRIPTION:サーフィン - 女子第1ラウンド - 第1ヒート\n🇺🇸 Caroline MARKS\n🇿🇦 Sarah
+  BAUM\n🇵🇹 Yolanda HOPKINS
+SUMMARY:🏄 女子第1ラウンド - 第1ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T233600Z-surfing-1-4
+DTSTAMP:20240727T233600Z
+DTSTART:20240727T233600Z
+DTEND:20240728T000600Z
+DESCRIPTION:サーフィン - 女子第1ラウンド - 第4ヒート\n🇺🇸 Caitlin SIMMERS\n🇦🇺 Molly
+  PICKLUM\n🇧🇷 Tatiana WESTON-WEBB
+SUMMARY:🏄 女子第1ラウンド - 第4ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T020000Z-surfing-1-8
+DTSTAMP:20240728T020000Z
+DTSTART:20240728T020000Z
+DTEND:20240728T023000Z
+DESCRIPTION:サーフィン - 女子第1ラウンド - 第8ヒート\n🇺🇸 Carissa MOORE\n🇯🇵 MATSUDA
+  Shino\n🇵🇹 Teresa BONVALOT
+SUMMARY:🏄 女子第1ラウンド - 第8ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T181200Z-surfing-3-3-FRA-USA
+DTSTAMP:20240729T181200Z
+DTSTART:20240729T181200Z
+DTEND:20240729T184200Z
+DESCRIPTION:サーフィン - 男子第3ラウンド - 第3ヒート
+SUMMARY:🏄 Kauli VAAST 🇫🇷 - 🇺🇸 Griffin COLAPINTO
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T203600Z-surfing-3-7-AUS-USA
+DTSTAMP:20240729T203600Z
+DTSTART:20240729T203600Z
+DTEND:20240729T210600Z
+DESCRIPTION:サーフィン - 男子第3ラウンド - 第7ヒート
+SUMMARY:🏄 Jack ROBINSON 🇦🇺 - 🇺🇸 John John FLORENCE
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T214800Z-surfing-3-1-USA-CHN
+DTSTAMP:20240729T214800Z
+DTSTART:20240729T214800Z
+DTEND:20240729T221800Z
+DESCRIPTION:サーフィン - 女子第3ラウンド - 第1ヒート
+SUMMARY:🏄 Caroline MARKS 🇺🇸 - 🇨🇳 YANG Siqi
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T233600Z-surfing-3-4-USA-RSA
+DTSTAMP:20240729T233600Z
+DTSTART:20240729T233600Z
+DTEND:20240730T000600Z
+DESCRIPTION:サーフィン - 女子第3ラウンド - 第4ヒート
+SUMMARY:🏄 Carissa MOORE 🇺🇸 - 🇿🇦 Sarah BAUM
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T004800Z-surfing-3-6-USA-BRA
+DTSTAMP:20240730T004800Z
+DTSTART:20240730T004800Z
+DTEND:20240730T011800Z
+DESCRIPTION:サーフィン - 女子第3ラウンド - 第6ヒート
+SUMMARY:🏄 Caitlin SIMMERS 🇺🇸 - 🇧🇷 Tatiana WESTON-WEBB
+LOCATION:タウポ、タヒチ
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/POL//EN
+X-WR-CALNAME:🇵🇱 Poland ボクシング | Paris 2024
+NAME:🇵🇱 Poland ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240728T091600Z-boxing-71KG-32-POL-BUL
+DTSTAMP:20240728T091600Z
+DTSTART:20240728T091600Z
+DTEND:20240728T092700Z
+DESCRIPTION:ボクシング - 男子71kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Damian DURKACZ 🇵🇱 - 🇧🇬 Rami Mofid KIWAN
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T105200Z-boxing-66KG-32-GBR-POL
+DTSTAMP:20240728T105200Z
+DTSTART:20240728T105200Z
+DTEND:20240728T110300Z
+DESCRIPTION:ボクシング - 女子66kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Rosie ECCLES 🇬🇧 - 🇵🇱 Aneta RYGIELSKA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T183200Z-boxing-92KG-16-IRL-POL
+DTSTAMP:20240728T183200Z
+DTSTART:20240728T183200Z
+DTEND:20240728T184300Z
+DESCRIPTION:ボクシング - 男子92kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Jack MARLEY 🇮🇪 - 🇵🇱 Mateusz BEREZNICKI
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T202400Z-boxing-57KG-32-VEN-POL
+DTSTAMP:20240730T202400Z
+DTSTART:20240730T202400Z
+DTEND:20240730T203500Z
+DESCRIPTION:ボクシング - 女子57kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Omailyn Carolina ALCALA CEGOVIA 🇻🇪 - 🇵🇱 Julia SZEREMETA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T195200Z-boxing-75KG-16-POL-IRL
+DTSTAMP:20240731T195200Z
+DTSTART:20240731T195200Z
+DTEND:20240731T200300Z
+DESCRIPTION:ボクシング - 女子75kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Elzbieta WOJCIK 🇵🇱 - 🇮🇪 Aoife O'ROURKE
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T094800Z-boxing-66KG-16-TUR-POL
+DTSTAMP:20240801T094800Z
+DTSTART:20240801T094800Z
+DTEND:20240801T095900Z
+DESCRIPTION:ボクシング - 女子66kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Busenaz SURMENELI 🇹🇷 - 🇵🇱 Aneta RYGIELSKA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/SRB//EN
+X-WR-CALNAME:🇷🇸 Serbia ボクシング | Paris 2024
+NAME:🇷🇸 Serbia ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240727T134600Z-boxing-54KG-32-THA-SRB
+DTSTAMP:20240727T134600Z
+DTSTART:20240727T134600Z
+DTEND:20240727T135700Z
+DESCRIPTION:ボクシング - 女子54kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Jutamas JITPONG 🇹🇭 - 🇷🇸 Sara CIRKOVIC
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T091600Z-boxing-60KG-16-ALG-SRB
+DTSTAMP:20240729T091600Z
+DTSTART:20240729T091600Z
+DTEND:20240729T092700Z
+DESCRIPTION:ボクシング - 女子60kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Dounia KHELIF 🇩🇿 - 🇷🇸 Natalia SHADRINA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T110800Z-boxing-60KG--CHN-SRB
+DTSTAMP:20240731T110800Z
+DTSTART:20240731T110800Z
+DTEND:20240731T111900Z
+DESCRIPTION:ボクシング - 女子60kg級 - 準々決勝
+SUMMARY:🥊 YANG Wenlu 🇨🇳 - 🇷🇸 Natalia SHADRINA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T184800Z-boxing-71KG-16-GBR-SRB
+DTSTAMP:20240731T184800Z
+DTSTART:20240731T184800Z
+DTEND:20240731T185900Z
+DESCRIPTION:ボクシング - 男子71kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Lewis RICHARDSON 🇬🇧 - 🇷🇸 Vakhid ABBASOV
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

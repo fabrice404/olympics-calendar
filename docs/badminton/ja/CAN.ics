@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ja/CAN//EN
+X-WR-CALNAME:🇨🇦 Canada バドミントン | Paris 2024
+NAME:🇨🇦 Canada バドミントン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T072000Z-badminton--A-CHN-CAN
+DTSTAMP:20240727T072000Z
+DTSTART:20240727T072000Z
+DTEND:20240727T080000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇨🇦 DONG/YAKURA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T072000Z-badminton--A-MAS-CAN
+DTSTAMP:20240728T072000Z
+DTSTART:20240728T072000Z
+DTEND:20240728T080000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 CHIA/SOH 🇲🇾 - 🇨🇦 DONG/YAKURA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T134000Z-badminton--D-CAN-KAZ
+DTSTAMP:20240729T134000Z
+DTSTART:20240729T134000Z
+DTEND:20240729T153000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループD
+SUMMARY:🏸 Brian YANG 🇨🇦 - 🇰🇿 Dmitriy PANARIN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T173000Z-badminton--C-CAN-MYA
+DTSTAMP:20240729T173000Z
+DTSTART:20240729T173000Z
+DTEND:20240729T181000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループC
+SUMMARY:🏸 Michelle LI 🇨🇦 - 🇲🇲 Thuzar THET HTAR
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T182000Z-badminton--A-GBR-CAN
+DTSTAMP:20240729T182000Z
+DTSTART:20240729T182000Z
+DTEND:20240729T190000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 LANE/VENDY 🇬🇧 - 🇨🇦 DONG/YAKURA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T063000Z-badminton--C-JPN-CAN
+DTSTAMP:20240731T063000Z
+DTSTART:20240731T063000Z
+DTEND:20240731T071000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループC
+SUMMARY:🏸 YAMAGUCHI Akane 🇯🇵 - 🇨🇦 Michelle LI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T125000Z-badminton--D-JPN-CAN
+DTSTAMP:20240731T125000Z
+DTSTART:20240731T125000Z
+DTEND:20240731T133000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループD
+SUMMARY:🏸 NISHIMOTO Kenta 🇯🇵 - 🇨🇦 Brian YANG
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+END:VCALENDAR

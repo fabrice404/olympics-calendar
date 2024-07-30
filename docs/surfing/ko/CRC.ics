@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//surfing/ko/CRC//EN
+X-WR-CALNAME:🇨🇷 Costa Rica 서핑 | Paris 2024
+NAME:🇨🇷 Costa Rica 서핑 | Paris 2024
+BEGIN:VEVENT
+UID:20240728T001200Z-surfing--1-5
+DTSTAMP:20240728T001200Z
+DTSTART:20240728T001200Z
+DTEND:20240728T004200Z
+DESCRIPTION:서핑 - 여자 1라운드 - 5조\n🇨🇷 Brisa HENNESSY\n🇳🇮 Candelaria
+  RESANO\n🇫🇷 Johanne DEFAY
+SUMMARY:🏄 여자 1라운드 - 5조
+LOCATION:타히티, 테아후푸
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T020000Z-surfing--3-8-CRC-POR
+DTSTAMP:20240730T020000Z
+DTSTART:20240730T020000Z
+DTEND:20240730T023000Z
+DESCRIPTION:서핑 - 여자 3라운드 - 8조
+SUMMARY:🏄 Brisa HENNESSY 🇨🇷 - 🇵🇹 Yolanda HOPKINS
+LOCATION:타히티, 테아후푸
+END:VEVENT
+END:VCALENDAR

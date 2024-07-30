@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/ECU//EN
+X-WR-CALNAME:🇪🇨 Ecuador ボクシング | Paris 2024
+NAME:🇪🇨 Ecuador ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240727T143400Z-boxing-60KG-32-ECU-SWE
+DTSTAMP:20240727T143400Z
+DTSTART:20240727T143400Z
+DTEND:20240727T144500Z
+DESCRIPTION:ボクシング - 女子60kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Maria Jose PALACIOS ESPINOZA 🇪🇨 - 🇸🇪 Agnes ALEXIUSSON
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T093200Z-boxing-60KG-16-AUS-ECU
+DTSTAMP:20240729T093200Z
+DTSTART:20240729T093200Z
+DTEND:20240729T094300Z
+DESCRIPTION:ボクシング - 女子60kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Tyla McDONALD 🇦🇺 - 🇪🇨 Maria Jose PALACIOS ESPINOZA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T192000Z-boxing-92KG-16-ECU-BRA
+DTSTAMP:20240729T192000Z
+DTSTART:20240729T192000Z
+DTEND:20240729T193100Z
+DESCRIPTION:ボクシング - 男子92kg超級 - 予選 - ラウンド16
+SUMMARY:🥊 Gerlon Gilmar CONGO CHALA 🇪🇨 - 🇧🇷 Abner TEIXEIRA da SILVA JU
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T153800Z-boxing-60KG--ECU-TPE
+DTSTAMP:20240731T153800Z
+DTSTART:20240731T153800Z
+DTEND:20240731T154900Z
+DESCRIPTION:ボクシング - 女子60kg級 - 準々決勝
+SUMMARY:🥊 Maria Jose PALACIOS ESPINOZA 🇪🇨 - 🇹🇼 WU Shih Yi
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T190400Z-boxing-71KG-16-ECU-IND
+DTSTAMP:20240731T190400Z
+DTSTART:20240731T190400Z
+DTEND:20240731T191500Z
+DESCRIPTION:ボクシング - 男子71kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Jose Gabriel RODRIGUEZ TENORIO 🇪🇨 - 🇮🇳 NISHANT DEV
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T200800Z-boxing-92KG--FRA-ECU
+DTSTAMP:20240802T200800Z
+DTSTART:20240802T200800Z
+DTEND:20240802T201900Z
+DESCRIPTION:ボクシング - 男子92kg超級 - 準々決勝
+SUMMARY:🥊 Djamili-Dini ABOUDOU MOINDZE 🇫🇷 - 🇪🇨 Gerlon Gilmar CONGO CHA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

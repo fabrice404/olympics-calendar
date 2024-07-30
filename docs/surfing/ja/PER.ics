@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//surfing/ja/PER//EN
+X-WR-CALNAME:🇵🇪 Peru サーフィン | Paris 2024
+NAME:🇵🇪 Peru サーフィン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T181200Z-surfing-1-3
+DTSTAMP:20240727T181200Z
+DTSTART:20240727T181200Z
+DTEND:20240727T184200Z
+DESCRIPTION:サーフィン - 男子第1ラウンド - 第3ヒート\n🇵🇪 Alonso CORREA\n🇧🇷 Filipe
+  TOLEDO\n🇯🇵 IGARASHI Kanoa
+SUMMARY:🏄 男子第1ラウンド - 第3ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T203600Z-surfing-1-7
+DTSTAMP:20240727T203600Z
+DTSTART:20240727T203600Z
+DTEND:20240727T210600Z
+DESCRIPTION:サーフィン - 男子第1ラウンド - 第7ヒート\n🇺🇸 Griffin COLAPINTO\n🇫🇷 Kauli
+  VAAST\n🇵🇪 Lucca MESINAS
+SUMMARY:🏄 男子第1ラウンド - 第7ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T222400Z-surfing-1-2
+DTSTAMP:20240727T222400Z
+DTSTART:20240727T222400Z
+DTEND:20240727T225400Z
+DESCRIPTION:サーフィン - 女子第1ラウンド - 第2ヒート\n🇪🇸 Janire GONZALEZ ETXABARRI\n🇵🇪
+  Sol AGUIRRE\n🇫🇷 Vahine FIERRO
+SUMMARY:🏄 女子第1ラウンド - 第2ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T170000Z-surfing-2-1-CHN-PER
+DTSTAMP:20240728T170000Z
+DTSTART:20240728T170000Z
+DTEND:20240728T173000Z
+DESCRIPTION:サーフィン - 女子第2ラウンド - 第1ヒート
+SUMMARY:🏄 YANG Siqi 🇨🇳 - 🇵🇪 Sol AGUIRRE
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T013400Z-surfing-2-7-AUS-PER
+DTSTAMP:20240729T013400Z
+DTSTART:20240729T013400Z
+DTEND:20240729T021400Z
+DESCRIPTION:サーフィン - 男子第2ラウンド - 第7ヒート
+SUMMARY:🏄 Jack ROBINSON 🇦🇺 - 🇵🇪 Lucca MESINAS
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T170000Z-surfing-3-1-PER-RSA
+DTSTAMP:20240729T170000Z
+DTSTART:20240729T170000Z
+DTEND:20240729T173000Z
+DESCRIPTION:サーフィン - 男子第3ラウンド - 第1ヒート
+SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇿🇦 Jordy SMITH
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T170000Z-surfing--1-PER-JPN
+DTSTAMP:20240730T170000Z
+DTSTART:20240730T170000Z
+DTEND:20240730T173000Z
+DESCRIPTION:サーフィン - 男子準々決勝 - 第1ヒート
+SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇯🇵 INABA Reo
+LOCATION:タウポ、タヒチ
+END:VEVENT
+END:VCALENDAR

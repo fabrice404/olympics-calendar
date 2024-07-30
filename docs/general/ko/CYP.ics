@@ -1,0 +1,450 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ko/CYP//EN
+X-WR-CALNAME:🇨🇾 Cyprus | Paris 2024
+NAME:🇨🇾 Cyprus | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 개막식
+SUMMARY:Paris 2024 - 개막식
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T081800Z-judo--52KG-32--MAR-CYP
+DTSTAMP:20240728T081800Z
+DTSTART:20240728T081800Z
+DTEND:20240728T082400Z
+DESCRIPTION:유도 - 여자 -52kg 32강 엘리미네이션 라운드
+SUMMARY:🥋 Soumiya IRAOUI 🇲🇦 - 🇨🇾 Sofia ASVESTA
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T091200Z-judo--52KG-16--FRA-CYP
+DTSTAMP:20240728T091200Z
+DTSTART:20240728T091200Z
+DTEND:20240728T091800Z
+DESCRIPTION:유도 - 여자 -52kg 16강 엘리미네이션 라운드
+SUMMARY:🥋 Amandine BUCHARD 🇫🇷 - 🇨🇾 Sofia ASVESTA
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T072500Z-fencing--64-CYP-POL
+DTSTAMP:20240729T072500Z
+DTSTART:20240729T072500Z
+DTEND:20240729T075500Z
+DESCRIPTION:펜싱 - 남자 플뢰레 개인 64강
+SUMMARY:🤺 Alex TOFALIDES 🇨🇾 - 🇵🇱 Adrian WOJTKOWIAK
+LOCATION:그랑 팔레
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100300Z-sailing--1
+DTSTAMP:20240729T100300Z
+DTSTART:20240729T100300Z
+DTEND:20240729T101200Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 1\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 1
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T103700Z-sailing--2
+DTSTAMP:20240729T103700Z
+DTSTART:20240729T103700Z
+DTEND:20240729T104600Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 2\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 2
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T113500Z-fencing--32-CYP-USA
+DTSTAMP:20240729T113500Z
+DTSTART:20240729T113500Z
+DTEND:20240729T120500Z
+DESCRIPTION:펜싱 - 남자 플뢰레 개인 32강
+SUMMARY:🤺 Alex TOFALIDES 🇨🇾 - 🇺🇸 Nick ITKIN
+LOCATION:그랑 팔레
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T091700Z-swimming--100M-
+DTSTAMP:20240730T091700Z
+DTSTART:20240730T091700Z
+DTEND:20240730T094800Z
+DESCRIPTION:경영 - 남자 100m 자유형 - 예선\n🇽🇰 Adell SABOVIC\n🇰🇿 Adilbek
+  MUSSIN\n🇻🇪 Alberto MESTRE\n🇮🇹 Alessandro MIRESSI\n🇳🇵 Alexander
+  SHAH\n🇲🇱 Alexien KOUMA\n🇷🇸 Andrej BARNA\n🇰🇭 Antoine de
+  LAPPARENT\n🇦🇲 Artur BARSEGHYAN\n🇸🇪 Bjoern SEELIGER\n🇳🇿 Cameron
+  GRAY\n🇺🇸 Chris GUILIANO\n🇹🇿 Collins SALIBOKO\n🇱🇹 Danas RAPSYS\n🇨🇿
+  Daniel GRACIK\n🇷🇴 David POPOVICI\n🇵🇹 Diogo MATOS RIBEIRO\n🇹🇭
+  Dulyawat KAEWSRIYONG\n🇹🇹 Dylan CARTER\n🇲🇳 Enkhtamir BATBAYAR\n🇨🇲
+  Giorgio Ar. NGUICHIE KAMSEU KAMOGNE\n🇦🇱 Grisi KOXHAKU\n🇧🇷 Guilherme
+  SANTOS\n🇭🇰 HO Ian Yentou\n🇰🇷 HWANG Sunwoo\n🇰🇲 Hadji HASSANE\n🇬🇭
+  Harry STACEY\n🇦🇴 Henrique MASCARENHAS\n🇸🇷 Irvin HOOST\n🇴🇲 Issa
+  Samir Hamed AL ADAWI\n🇺🇸 Jack ALEXY\n🇧🇧 Jack KIRBY\n🇬🇧 Jacob Henry
+  WHITTLE\n🇵🇱 Jakub MAJERSKI\n🇩🇴 Javier NUNEZ\n🇱🇨 Jayhan Jamaud
+  ODLUM-SMITH\n🇼🇸 Johann STICKLAND\n🇻🇺 Johnathan SILAS\n🇸🇬 Jonathan
+  Eu Jin TAN\n🇰🇾 Jordan CROOKS\n🇲🇽 Jorge IGA\n🇨🇦 Josh LIENDO\n🇵🇬
+  Josh TARERE\n🇩🇪 Josha SALCHOW\n🇱🇰 Kyle ABEYSINGHE\n🇦🇺 Kyle
+  CHALMERS\n🇧🇸 Lamar TAYLOR\n🇺🇾 Leo NOLLES\n🇮🇹 Leonardo DEPLANO\n🇧🇷
+  Marcelo CHIERIGHINI\n🇬🇧 Matthew RICHARDS\n🇸🇳 Matthieu SEYE\n🇫🇷
+  Maxime GROUSSET\n🇦🇼 Mikel SCHREUDERS\n🇰🇼 Mohamad ZUBAID\n🇹🇲 Musa
+  ZHALAYEV\n🇭🇺 Nandor NEMETH\n🇭🇷 Nikola MILJENIC\n🇨🇾 Nikolas
+  ANTONIOU\n🇸🇻 Nixon HERNANDEZ\n🇲🇺 Ovesh PURAHOO\n🇨🇳 PAN Zhanle\n🇲🇲
+  Phone Pyae HAN\n🇫🇷 Rafael FENTE--DAMERS\n🇱🇺 Ralph DALEIDEN
+  CIUFERRI\n🇧🇩 Samiul Islam RAFI\n🇮🇷 Samyar ABDOLI\n🇧🇹 Sangay
+  TENZIN\n🇳🇱 Sean NIEWOLD\n🇪🇸 Sergio de CELIS MONTALBAN\n🇱🇧 Simon
+  DOUEIHY\n🇮🇱 Tomer FRANKEL\n🇷🇸 Velimir STJEPANOVIC\n🇨🇳 WANG
+  Haoyu\n🇦🇺 William YANG\n🇱🇾 Yousef ABUBAKER\n🇦🇪 Yousuf
+  ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
+SUMMARY:🏊 남자 100m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T103300Z-sailing--3
+DTSTAMP:20240730T103300Z
+DTSTART:20240730T103300Z
+DTEND:20240730T105400Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 3\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 3
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T104700Z-swimming--100M-
+DTSTAMP:20240730T104700Z
+DTSTART:20240730T104700Z
+DTEND:20240730T110000Z
+DESCRIPTION:경영 - 여자 100m 자유형 - 예선\n🇬🇾 Aleka Kylela PERSAUD\n🇬🇧 Anna
+  HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇬 Gloria Anna
+  MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇭🇷 Jana
+  PAVALIC\n🇰🇾 Jillian Janis Geohagan CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭
+  Kayla SANCHEZ\n🇵🇱 Kornelia FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷
+  Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle
+  COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza
+  KLANCAR\n🇿🇼 Paige van der WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩
+  Tilly COLLYMORE\n🇺🇸 Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 여자 100m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110400Z-sailing--4
+DTSTAMP:20240730T110400Z
+DTSTART:20240730T110400Z
+DTEND:20240730T112500Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 4\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 4
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T113500Z-sailing--5
+DTSTAMP:20240730T113500Z
+DTSTART:20240730T113500Z
+DTEND:20240730T115600Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 5\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 5
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T120600Z-sailing--6
+DTSTAMP:20240730T120600Z
+DTSTART:20240730T120600Z
+DTEND:20240730T122700Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 6\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 6
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T123700Z-sailing--7
+DTSTAMP:20240730T123700Z
+DTSTART:20240730T123700Z
+DTEND:20240730T125800Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 7\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 7
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T101300Z-sailing--8
+DTSTAMP:20240731T101300Z
+DTSTART:20240731T101300Z
+DTEND:20240731T111300Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 8\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 8
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T101300Z-sailing--9
+DTSTAMP:20240731T101300Z
+DTSTART:20240731T101300Z
+DTEND:20240731T111300Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 9\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 9
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T131300Z-sailing--10
+DTSTAMP:20240731T131300Z
+DTSTART:20240731T131300Z
+DTEND:20240731T133400Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 10\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 10
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T134400Z-sailing--11
+DTSTAMP:20240731T134400Z
+DTSTART:20240731T134400Z
+DTEND:20240731T140500Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 11\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 11
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T130300Z-sailing--12
+DTSTAMP:20240801T130300Z
+DTSTART:20240801T130300Z
+DTEND:20240801T132400Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 12\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 12
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T133400Z-sailing--13
+DTSTAMP:20240801T133400Z
+DTSTART:20240801T133400Z
+DTEND:20240801T135500Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 13\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 13
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T140500Z-sailing--14
+DTSTAMP:20240801T140500Z
+DTSTART:20240801T140500Z
+DTEND:20240801T142600Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 14\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 14
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T143600Z-sailing--15
+DTSTAMP:20240801T143600Z
+DTSTART:20240801T143600Z
+DTEND:20240801T145700Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 15\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 15
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T150700Z-sailing--16
+DTSTAMP:20240801T150700Z
+DTSTART:20240801T150700Z
+DTEND:20240801T152800Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 16\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 16
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T153800Z-sailing--17
+DTSTAMP:20240801T153800Z
+DTSTART:20240801T153800Z
+DTEND:20240801T155900Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 17\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 17
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T153800Z-sailing--18
+DTSTAMP:20240801T153800Z
+DTSTART:20240801T153800Z
+DTEND:20240801T155900Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 18\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 18
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T160900Z-sailing--19
+DTSTAMP:20240801T160900Z
+DTSTART:20240801T160900Z
+DTEND:20240801T163000Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 19\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 19
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T164000Z-sailing--20
+DTSTAMP:20240801T164000Z
+DTSTART:20240801T164000Z
+DTEND:20240801T170100Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 20\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 20
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-shooting--1
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T123000Z
+DESCRIPTION:사격 - 여자 스키트 예선 - 1일차\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
+  RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem ORYNBAY\n🇺🇸 Austen Jewell
+  SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪
+  Daniella BORDA OLAECHEA\n🇸🇰 Danka BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷
+  Emmanouela KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇲🇽 Gabriela
+  RODRIGUEZ\n🇧🇷 Georgia FURQUIM BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG
+  Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾 Konstantia NIKOLAOU\n🇫🇷 Lucie
+  ANASTASSIOU\n🇮🇳 Maheshwari CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪
+  Nadine MESSERSCHMIDT\n🇩🇪 Nele WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena
+  CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 여자 스키트 예선 - 1일차
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

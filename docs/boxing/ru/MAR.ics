@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/MAR//EN
+X-WR-CALNAME:🇲🇦 Morocco Бокс | Paris 2024
+NAME:🇲🇦 Morocco Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240728T192000Z-boxing--116-50--MAR-PHI
+DTSTAMP:20240728T192000Z
+DTSTART:20240728T192000Z
+DTEND:20240728T193100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 50кг (ж)
+SUMMARY:🥊 Yasmine MOUTTAKI 🇲🇦 - 🇵🇭 Aira VILLEGAS
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T105200Z-boxing--18-54--MAR-THA
+DTSTAMP:20240730T105200Z
+DTSTART:20240730T105200Z
+DTEND:20240730T110300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 54кг (ж)
+SUMMARY:🥊 Widad BERTAL 🇲🇦 - 🇹🇭 Jutamas JITPONG
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T105200Z-boxing--18-75--GBR-MAR
+DTSTAMP:20240731T105200Z
+DTSTART:20240731T105200Z
+DTEND:20240731T110300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 75кг (ж)
+SUMMARY:🥊 Chantelle Jordan REID 🇬🇧 - 🇲🇦 Khadija MARDI
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T150600Z-boxing--54--MAR-PRK
+DTSTAMP:20240801T150600Z
+DTSTART:20240801T150600Z
+DTEND:20240801T151700Z
+DESCRIPTION:Бокс - Четвертьфинал, до 54кг (ж)
+SUMMARY:🥊 Widad BERTAL 🇲🇦 - 🇰🇵 PANG Cholmi
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

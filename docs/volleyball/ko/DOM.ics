@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//volleyball/ko/DOM//EN
+X-WR-CALNAME:🇩🇴 Dominican Republic 배구 | Paris 2024
+NAME:🇩🇴 Dominican Republic 배구 | Paris 2024
+BEGIN:VEVENT
+UID:20240728T070000Z-volleyball--C-ITA-DOM
+DTSTAMP:20240728T070000Z
+DTSTART:20240728T070000Z
+DTEND:20240728T091500Z
+DESCRIPTION:배구 - 여자 예선 - C조
+SUMMARY:🏐 이탈리아 🇮🇹 - 🇩🇴 도미니카공화국
+LOCATION:사우스 파리 아레나 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T070000Z-volleyball--C-TUR-DOM
+DTSTAMP:20240801T070000Z
+DTSTART:20240801T070000Z
+DTEND:20240801T091500Z
+DESCRIPTION:배구 - 여자 예선 - C조
+SUMMARY:🏐 튀르키예 🇹🇷 - 🇩🇴 도미니카공화국
+LOCATION:사우스 파리 아레나 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-volleyball--C-NED-DOM
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T091500Z
+DESCRIPTION:배구 - 여자 예선 - C조
+SUMMARY:🏐 네덜란드 🇳🇱 - 🇩🇴 도미니카공화국
+LOCATION:사우스 파리 아레나 1
+END:VEVENT
+END:VCALENDAR

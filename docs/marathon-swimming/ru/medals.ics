@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//marathon-swimming/ru/medals//EN
+X-WR-CALNAME:🏊 Марафонское плавание 🏅 | Paris 2024
+NAME:🏊 Марафонское плавание 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240808T053000Z-marathon-swimming-10-
+DTSTAMP:20240808T053000Z
+DTSTART:20240808T053000Z
+DTEND:20240808T075000Z
+DESCRIPTION:Марафонское плавание - 10км (ж)
+SUMMARY:🏊 10км (ж)
+LOCATION:Мост Александра III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T053000Z-marathon-swimming-10-
+DTSTAMP:20240809T053000Z
+DTSTART:20240809T053000Z
+DTEND:20240809T075000Z
+DESCRIPTION:Марафонское плавание - 10км (м)
+SUMMARY:🏊 10км (м)
+LOCATION:Мост Александра III
+END:VEVENT
+END:VCALENDAR

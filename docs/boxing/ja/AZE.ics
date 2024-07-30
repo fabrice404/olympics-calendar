@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/AZE//EN
+X-WR-CALNAME:🇦🇿 Azerbaijan ボクシング | Paris 2024
+NAME:🇦🇿 Azerbaijan ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240728T141800Z-boxing-92KG-16-AZE-CUB
+DTSTAMP:20240728T141800Z
+DTSTART:20240728T141800Z
+DTEND:20240728T142900Z
+DESCRIPTION:ボクシング - 男子92kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Loren Berto ALFONSO DOMINGUEZ 🇦🇿 - 🇨🇺 Julio Cesar la CRUZ PE
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T105200Z-boxing-92KG-16-GER-AZE
+DTSTAMP:20240729T105200Z
+DTSTART:20240729T105200Z
+DTEND:20240729T110300Z
+DESCRIPTION:ボクシング - 男子92kg超級 - 予選 - ラウンド16
+SUMMARY:🥊 Nelvie Raman TIAFACK 🇩🇪 - 🇦🇿 Mahammad ABDULLAYEV
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T184800Z-boxing-635KG-16-GEO-AZE
+DTSTAMP:20240729T184800Z
+DTSTART:20240729T184800Z
+DTEND:20240729T185900Z
+DESCRIPTION:ボクシング - 男子63.5kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Lasha GURULI 🇬🇪 - 🇦🇿 Malik HASANOV
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T133000Z-boxing-51KG-16-AZE-DOM
+DTSTAMP:20240730T133000Z
+DTSTART:20240730T133000Z
+DTEND:20240730T134100Z
+DESCRIPTION:ボクシング - 男子51kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Nijat HUSEYNOV 🇦🇿 - 🇩🇴 Yunior ALCANTARA REYES
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T143400Z-boxing-80KG-16-AZE-EGY
+DTSTAMP:20240730T143400Z
+DTSTART:20240730T143400Z
+DTEND:20240730T144500Z
+DESCRIPTION:ボクシング - 男子80kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Murad ALLAHVERDIYEV 🇦🇿 - 🇪🇬 Abdelrahman ABDELGAWWAD
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T155400Z-boxing-92KG--KAZ-AZE
+DTSTAMP:20240801T155400Z
+DTSTART:20240801T155400Z
+DTEND:20240801T160500Z
+DESCRIPTION:ボクシング - 男子92kg級 - 準々決勝
+SUMMARY:🥊 Aibek ORALBAY 🇰🇿 - 🇦🇿 Loren Berto ALFONSO DOMINGUEZ
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T152200Z-boxing-80KG--KAZ-AZE
+DTSTAMP:20240802T152200Z
+DTSTART:20240802T152200Z
+DTEND:20240802T153300Z
+DESCRIPTION:ボクシング - 男子80kg級 - 準々決勝
+SUMMARY:🥊 Nurbek ORALBAY 🇰🇿 - 🇦🇿 Murad ALLAHVERDIYEV
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

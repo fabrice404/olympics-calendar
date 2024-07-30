@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ko/MDV//EN
+X-WR-CALNAME:🇲🇻 Maldives 배드민턴 | Paris 2024
+NAME:🇲🇻 Maldives 배드민턴 | Paris 2024
+BEGIN:VEVENT
+UID:20240728T072000Z-badminton--M-IND-MDV
+DTSTAMP:20240728T072000Z
+DTSTART:20240728T072000Z
+DTEND:20240728T080000Z
+DESCRIPTION:배드민턴 - 여자 단식 조별예선 - M조
+SUMMARY:🏸 V. Sindhu PUSARLA 🇮🇳 - 🇲🇻 Fathimath Nabaaha ABDUL RAZZAQ
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T063000Z-badminton--M-EST-MDV
+DTSTAMP:20240730T063000Z
+DTSTART:20240730T063000Z
+DTEND:20240730T071000Z
+DESCRIPTION:배드민턴 - 여자 단식 조별예선 - M조
+SUMMARY:🏸 Kristin KUUBA 🇪🇪 - 🇲🇻 Fathimath Nabaaha ABDUL RAZZAQ
+LOCATION:라 샤펠 아레나
+END:VEVENT
+END:VCALENDAR

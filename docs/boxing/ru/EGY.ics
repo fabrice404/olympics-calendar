@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/EGY//EN
+X-WR-CALNAME:🇪🇬 Egypt Бокс | Paris 2024
+NAME:🇪🇬 Egypt Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240727T140200Z-boxing--116-54--UZB-EGY
+DTSTAMP:20240727T140200Z
+DTSTART:20240727T140200Z
+DTEND:20240727T141300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 54кг (ж)
+SUMMARY:🥊 Nigina UKTAMOVA 🇺🇿 - 🇪🇬 Yomna AYYAD
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T143400Z-boxing--18-80--AZE-EGY
+DTSTAMP:20240730T143400Z
+DTSTART:20240730T143400Z
+DTEND:20240730T144500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 80кг (м)
+SUMMARY:🥊 Murad ALLAHVERDIYEV 🇦🇿 - 🇪🇬 Abdelrahman ABDELGAWWAD
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T141800Z-boxing--18-71--EGY-UZB
+DTSTAMP:20240731T141800Z
+DTSTART:20240731T141800Z
+DTEND:20240731T142900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 71кг (м)
+SUMMARY:🥊 Omar ELAWADY 🇪🇬 - 🇺🇿 Asadkhuja MUYDINKHUJAEV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

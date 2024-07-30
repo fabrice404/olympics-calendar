@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//handball/ja/ESP//EN
+X-WR-CALNAME:🇪🇸 Spain ハンドボール | Paris 2024
+NAME:🇪🇸 Spain ハンドボール | Paris 2024
+BEGIN:VEVENT
+UID:20240725T120000Z-handball--B-ESP-BRA
+DTSTAMP:20240725T120000Z
+DTSTART:20240725T120000Z
+DTEND:20240725T133000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 スペイン 🇪🇸 - 🇧🇷 ブラジル
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T070000Z-handball--A-ESP-SLO
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T083000Z
+DESCRIPTION:ハンドボール - 男子予選ラウンド - グループA
+SUMMARY:🤾 スペイン 🇪🇸 - 🇸🇮 スロベニア
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T170000Z-handball--B-ANG-ESP
+DTSTAMP:20240728T170000Z
+DTSTART:20240728T170000Z
+DTEND:20240728T183000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 アンゴラ 🇦🇴 - 🇪🇸 スペイン
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T140000Z-handball--A-SWE-ESP
+DTSTAMP:20240729T140000Z
+DTSTART:20240729T140000Z
+DTEND:20240729T153000Z
+DESCRIPTION:ハンドボール - 男子予選ラウンド - グループA
+SUMMARY:🤾 スウェーデン 🇸🇪 - 🇪🇸 スペイン
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T120000Z-handball--B-NED-ESP
+DTSTAMP:20240730T120000Z
+DTSTART:20240730T120000Z
+DTEND:20240730T133000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 オランダ 🇳🇱 - 🇪🇸 スペイン
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T120000Z-handball--A-ESP-JPN
+DTSTAMP:20240731T120000Z
+DTSTART:20240731T120000Z
+DTEND:20240731T133000Z
+DESCRIPTION:ハンドボール - 男子予選ラウンド - グループA
+SUMMARY:🤾 スペイン 🇪🇸 - 🇯🇵 日本
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T120000Z-handball--B-ESP-HUN
+DTSTAMP:20240801T120000Z
+DTSTART:20240801T120000Z
+DTEND:20240801T133000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 スペイン 🇪🇸 - 🇭🇺 ハンガリー
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T140000Z-handball--A-GER-ESP
+DTSTAMP:20240802T140000Z
+DTSTART:20240802T140000Z
+DTEND:20240802T153000Z
+DESCRIPTION:ハンドボール - 男子予選ラウンド - グループA
+SUMMARY:🤾 ドイツ 🇩🇪 - 🇪🇸 スペイン
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-handball--B-ESP-FRA
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T103000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 スペイン 🇪🇸 - 🇫🇷 フランス
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T190000Z-handball--A-ESP-CRO
+DTSTAMP:20240804T190000Z
+DTSTART:20240804T190000Z
+DTEND:20240804T203000Z
+DESCRIPTION:ハンドボール - 男子予選ラウンド - グループA
+SUMMARY:🤾 スペイン 🇪🇸 - 🇭🇷 クロアチア
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+END:VCALENDAR

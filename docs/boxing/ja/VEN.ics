@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/VEN//EN
+X-WR-CALNAME:🇻🇪 Venezuela ボクシング | Paris 2024
+NAME:🇻🇪 Venezuela ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240729T143400Z-boxing-635KG-16-VEN-THA
+DTSTAMP:20240729T143400Z
+DTSTART:20240729T143400Z
+DTEND:20240729T144500Z
+DESCRIPTION:ボクシング - 男子63.5kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Jesus Nazaret COVA ROMERO 🇻🇪 - 🇹🇭 Bunjong SINSIRI
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T202400Z-boxing-57KG-32-VEN-POL
+DTSTAMP:20240730T202400Z
+DTSTART:20240730T202400Z
+DTEND:20240730T203500Z
+DESCRIPTION:ボクシング - 女子57kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Omailyn Carolina ALCALA CEGOVIA 🇻🇪 - 🇵🇱 Julia SZEREMETA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

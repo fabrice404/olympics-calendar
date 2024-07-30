@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/ECU//EN
+X-WR-CALNAME:🇪🇨 Ecuador Бокс | Paris 2024
+NAME:🇪🇨 Ecuador Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240727T143400Z-boxing--116-60--ECU-SWE
+DTSTAMP:20240727T143400Z
+DTSTART:20240727T143400Z
+DTEND:20240727T144500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 60кг (ж)
+SUMMARY:🥊 Maria Jose PALACIOS ESPINOZA 🇪🇨 - 🇸🇪 Agnes ALEXIUSSON
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T093200Z-boxing--18-60--AUS-ECU
+DTSTAMP:20240729T093200Z
+DTSTART:20240729T093200Z
+DTEND:20240729T094300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 60кг (ж)
+SUMMARY:🥊 Tyla McDONALD 🇦🇺 - 🇪🇨 Maria Jose PALACIOS ESPINOZA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T192000Z-boxing--18-92--ECU-BRA
+DTSTAMP:20240729T192000Z
+DTSTART:20240729T192000Z
+DTEND:20240729T193100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, свыше 92кг (м)
+SUMMARY:🥊 Gerlon Gilmar CONGO CHALA 🇪🇨 - 🇧🇷 Abner TEIXEIRA da SILVA JU
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T153800Z-boxing--60--ECU-TPE
+DTSTAMP:20240731T153800Z
+DTSTART:20240731T153800Z
+DTEND:20240731T154900Z
+DESCRIPTION:Бокс - Четвертьфинал, до 60кг (ж)
+SUMMARY:🥊 Maria Jose PALACIOS ESPINOZA 🇪🇨 - 🇹🇼 WU Shih Yi
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T190400Z-boxing--18-71--ECU-IND
+DTSTAMP:20240731T190400Z
+DTSTART:20240731T190400Z
+DTEND:20240731T191500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 71кг (м)
+SUMMARY:🥊 Jose Gabriel RODRIGUEZ TENORIO 🇪🇨 - 🇮🇳 NISHANT DEV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T200800Z-boxing--92--FRA-ECU
+DTSTAMP:20240802T200800Z
+DTSTART:20240802T200800Z
+DTEND:20240802T201900Z
+DESCRIPTION:Бокс - Четвертьфинал, свыше 92кг (м)
+SUMMARY:🥊 Djamili-Dini ABOUDOU MOINDZE 🇫🇷 - 🇪🇨 Gerlon Gilmar CONGO CHA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

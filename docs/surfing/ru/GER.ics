@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//surfing/ru/GER//EN
+X-WR-CALNAME:🇩🇪 Germany Серфинг | Paris 2024
+NAME:🇩🇪 Germany Серфинг | Paris 2024
+BEGIN:VEVENT
+UID:20240727T170000Z-surfing--1-1-
+DTSTAMP:20240727T170000Z
+DTSTART:20240727T170000Z
+DTEND:20240727T173000Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 1 (м)\n🇦🇺 Ethan EWING\n🇿🇦 Jordy
+  SMITH\n🇩🇪 Tim ELTER
+SUMMARY:🏄 Раунд 1, заезд 1 (м)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T004800Z-surfing--1-6-
+DTSTAMP:20240728T004800Z
+DTSTART:20240728T004800Z
+DTEND:20240728T011800Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 6 (ж)\n🇩🇪 Camilla KEMP\n🇧🇷 Luana
+  SILVA\n🇧🇷 Taina HINCKEL
+SUMMARY:🏄 Раунд 1, заезд 6 (ж)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T173600Z-surfing--2-2--RSA-GER
+DTSTAMP:20240728T173600Z
+DTSTART:20240728T173600Z
+DTEND:20240728T180600Z
+DESCRIPTION:Серфинг - Раунд 2, заезд 2 (ж)
+SUMMARY:🏄 Sarah BAUM 🇿🇦 - 🇩🇪 Camilla KEMP
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T222400Z-surfing--2-2--JPN-GER
+DTSTAMP:20240728T222400Z
+DTSTART:20240728T222400Z
+DTEND:20240728T230400Z
+DESCRIPTION:Серфинг - Раунд 2, заезд 2 (м)
+SUMMARY:🏄 O'LEARY Connor 🇯🇵 - 🇩🇪 Tim ELTER
+LOCATION:Теахупоо, Таити
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/CPV//EN
+X-WR-CALNAME:🇨🇻 Cabo Verde Бокс | Paris 2024
+NAME:🇨🇻 Cabo Verde Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240730T140200Z-boxing--18-51--CPV-THA
+DTSTAMP:20240730T140200Z
+DTSTART:20240730T140200Z
+DTEND:20240730T141300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 51кг (м)
+SUMMARY:🥊 David de PINA 🇨🇻 - 🇹🇭 Thitisan PANMOT
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T183200Z-boxing--18-66--BEL-CPV
+DTSTAMP:20240801T183200Z
+DTSTART:20240801T183200Z
+DTEND:20240801T184300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 66кг (ж)
+SUMMARY:🥊 Oshin DERIEUW 🇧🇪 - 🇨🇻 Ivanusa MOREIRA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T190400Z-boxing--51--ZAM-CPV
+DTSTAMP:20240802T190400Z
+DTSTART:20240802T190400Z
+DTEND:20240802T191500Z
+DESCRIPTION:Бокс - Четвертьфинал, до 51кг (м)
+SUMMARY:🥊 Patrick CHINYEMBA 🇿🇲 - 🇨🇻 David de PINA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

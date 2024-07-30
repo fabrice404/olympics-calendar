@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ja/NEP//EN
+X-WR-CALNAME:🇳🇵 Nepal バドミントン | Paris 2024
+NAME:🇳🇵 Nepal バドミントン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T191000Z-badminton--P-DEN-NEP
+DTSTAMP:20240727T191000Z
+DTSTART:20240727T191000Z
+DTEND:20240727T195000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループP
+SUMMARY:🏸 Viktor AXELSEN 🇩🇰 - 🇳🇵 Prince DAHAL
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T191000Z-badminton--P-IRL-NEP
+DTSTAMP:20240729T191000Z
+DTSTART:20240729T191000Z
+DTEND:20240729T210000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループP
+SUMMARY:🏸 Nhat NGUYEN 🇮🇪 - 🇳🇵 Prince DAHAL
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T072000Z-badminton--P-ISR-NEP
+DTSTAMP:20240731T072000Z
+DTSTART:20240731T072000Z
+DTEND:20240731T080000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループP
+SUMMARY:🏸 Misha ZILBERMAN 🇮🇱 - 🇳🇵 Prince DAHAL
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+END:VCALENDAR

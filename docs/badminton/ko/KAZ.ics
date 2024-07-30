@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ko/KAZ//EN
+X-WR-CALNAME:🇰🇿 Kazakhstan 배드민턴 | Paris 2024
+NAME:🇰🇿 Kazakhstan 배드민턴 | Paris 2024
+BEGIN:VEVENT
+UID:20240728T063000Z-badminton--D-JPN-KAZ
+DTSTAMP:20240728T063000Z
+DTSTART:20240728T063000Z
+DTEND:20240728T071000Z
+DESCRIPTION:배드민턴 - 남자 단식 조별예선 - D조
+SUMMARY:🏸 NISHIMOTO Kenta 🇯🇵 - 🇰🇿 Dmitriy PANARIN
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T134000Z-badminton--D-CAN-KAZ
+DTSTAMP:20240729T134000Z
+DTSTART:20240729T134000Z
+DTEND:20240729T153000Z
+DESCRIPTION:배드민턴 - 남자 단식 조별예선 - D조
+SUMMARY:🏸 Brian YANG 🇨🇦 - 🇰🇿 Dmitriy PANARIN
+LOCATION:라 샤펠 아레나
+END:VEVENT
+END:VCALENDAR

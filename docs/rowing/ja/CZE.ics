@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/ja/CZE//EN
+X-WR-CALNAME:🇨🇿 Czechia ローイング | Paris 2024
+NAME:🇨🇿 Czechia ローイング | Paris 2024
+BEGIN:VEVENT
+UID:20240727T100000Z-rowing-
+DTSTAMP:20240727T100000Z
+DTSTART:20240727T100000Z
+DTEND:20240727T102700Z
+DESCRIPTION:ローイング - 女子ダブルスカル予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇳🇱
+  オランダ\n🇦🇺 オーストラリア\n🇨🇿 チェコ\n🇳🇿 ニュージーランド\n🇳🇴 ノルウェー\n🇫🇷 フランス\n🇱🇹
+  リトアニア\n🇷🇴 ルーマニア\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🚣 女子ダブルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T083000Z-rowing-
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T085700Z
+DESCRIPTION:ローイング - 女子ペア予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇨🇿 チェコ\n🇨🇱 チリ\n🇩🇰 デンマーク\n🇳🇿
+  ニュージーランド\n🇱🇹 リトアニア\n🇷🇴 ルーマニア\n🇬🇧 英国
+SUMMARY:🚣 女子ペア予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-rowing-
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T102700Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル予選\n🇮🇪 アイルランド\n🇦🇷 アルゼンチン\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇺🇿 ウズベキスタン\n🇪🇬 エジプト\n🇬🇷 ギリシャ\n🇨🇭 スイス\n🇪🇸
+  スペイン\n🇨🇿 チェコ\n🇨🇱 チリ\n🇳🇴 ノルウェー\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽
+  メキシコ\n🇯🇵 日本
+SUMMARY:🚣 男子軽量級ダブルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T085000Z-rowing-AB-1
+DTSTAMP:20240730T085000Z
+DTSTART:20240730T085000Z
+DTEND:20240730T085700Z
+DESCRIPTION:ローイング - 女子ダブルスカル準決勝A/B - 1組\n🇮🇪 アイルランド\n🇮🇹 イタリア\n🇳🇱
+  オランダ\n🇨🇿 チェコ\n🇳🇿 ニュージーランド\n🇫🇷 フランス
+SUMMARY:🚣 女子ダブルスカル準決勝A/B - 1組
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T085400Z-rowing-AB-1
+DTSTAMP:20240731T085400Z
+DTSTART:20240731T085400Z
+DTEND:20240731T090100Z
+DESCRIPTION:ローイング - 女子ペア準決勝A/B - 1組\n🇳🇱 オランダ\n🇬🇷 ギリシャ\n🇨🇿 チェコ\n🇩🇰
+  デンマーク\n🇷🇴 ルーマニア\n🇬🇧 英国
+SUMMARY:🚣 女子ペア準決勝A/B - 1組
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T091400Z-rowing-AB-1
+DTSTAMP:20240731T091400Z
+DTSTART:20240731T091400Z
+DTEND:20240731T092100Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル準決勝A/B - 1組\n🇮🇪 アイルランド\n🇦🇷 アルゼンチン\n🇨🇭
+  スイス\n🇨🇿 チェコ\n🇫🇷 フランス\n🇧🇪 ベルギー
+SUMMARY:🚣 男子軽量級ダブルスカル準決勝A/B - 1組
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+END:VCALENDAR

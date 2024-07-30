@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ja/BRA//EN
+X-WR-CALNAME:🇧🇷 Brazil バドミントン | Paris 2024
+NAME:🇧🇷 Brazil バドミントン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T125000Z-badminton--D-THA-BRA
+DTSTAMP:20240727T125000Z
+DTSTART:20240727T125000Z
+DTEND:20240727T133000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループD
+SUMMARY:🏸 Supanida KATETHONG 🇹🇭 - 🇧🇷 Juliana VIANA VIERA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T134000Z-badminton--J-JPN-BRA
+DTSTAMP:20240728T134000Z
+DTSTART:20240728T134000Z
+DTEND:20240728T142000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループJ
+SUMMARY:🏸 NARAOKA Kodai 🇯🇵 - 🇧🇷 Ygor COELHO
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T125000Z-badminton--D-HKG-BRA
+DTSTAMP:20240729T125000Z
+DTSTART:20240729T125000Z
+DTEND:20240729T133000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループD
+SUMMARY:🏸 LO Sin Yan Happy 🇭🇰 - 🇧🇷 Juliana VIANA VIERA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T125000Z-badminton--J-KOR-BRA
+DTSTAMP:20240730T125000Z
+DTSTART:20240730T125000Z
+DTEND:20240730T133000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループJ
+SUMMARY:🏸 JEON Hyeok Jin 🇰🇷 - 🇧🇷 Ygor COELHO
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+END:VCALENDAR

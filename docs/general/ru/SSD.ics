@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ru/SSD//EN
+X-WR-CALNAME:🇸🇸 South Sudan | Paris 2024
+NAME:🇸🇸 South Sudan | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Церемония открытия
+SUMMARY:Paris 2024 - Церемония открытия
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T090000Z-basketball---SSD-PUR
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T104500Z
+DESCRIPTION:Баскетбол - Групповой этап, группа С (м)
+SUMMARY:🏀 Южный Судан 🇸🇸 - 🇵🇷 Пуэрто-Рико
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T190000Z-basketball---USA-SSD
+DTSTAMP:20240731T190000Z
+DTSTART:20240731T190000Z
+DTEND:20240731T204500Z
+DESCRIPTION:Баскетбол - Групповой этап, группа С (м)
+SUMMARY:🏀 США 🇺🇸 - 🇸🇸 Южный Судан
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T190000Z-basketball---SRB-SSD
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T204500Z
+DESCRIPTION:Баскетбол - Групповой этап, группа С (м)
+SUMMARY:🏀 Сербия 🇷🇸 - 🇸🇸 Южный Судан
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

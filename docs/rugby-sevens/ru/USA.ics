@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rugby-sevens/ru/USA//EN
+X-WR-CALNAME:🇺🇸 United States Регби-7 | Paris 2024
+NAME:🇺🇸 United States Регби-7 | Paris 2024
+BEGIN:VEVENT
+UID:20240724T143000Z-rugby-sevens--C--FRA-USA
+DTSTAMP:20240724T143000Z
+DTSTART:20240724T143000Z
+DTEND:20240724T144600Z
+DESCRIPTION:Регби-7 - Группа C (м)
+SUMMARY:🏉 Франция 🇫🇷 - 🇺🇸 США
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240724T183000Z-rugby-sevens--C--FIJ-USA
+DTSTAMP:20240724T183000Z
+DTSTART:20240724T183000Z
+DTEND:20240724T184600Z
+DESCRIPTION:Регби-7 - Группа C (м)
+SUMMARY:🏉 Фиджи 🇫🇯 - 🇺🇸 США
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T130000Z-rugby-sevens--C--USA-URU
+DTSTAMP:20240725T130000Z
+DTSTART:20240725T130000Z
+DTEND:20240725T131600Z
+DESCRIPTION:Регби-7 - Группа C (м)
+SUMMARY:🏉 США 🇺🇸 - 🇺🇾 Уругвай
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T203000Z-rugby-sevens---AUS-USA
+DTSTAMP:20240725T203000Z
+DTSTART:20240725T203000Z
+DTEND:20240725T204600Z
+DESCRIPTION:Регби-7 - Четвертьфинал (м)
+SUMMARY:🏉 Австралия 🇦🇺 - 🇺🇸 США
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T130000Z-rugby-sevens--5-8--IRL-USA
+DTSTAMP:20240727T130000Z
+DTSTART:20240727T130000Z
+DTEND:20240727T131600Z
+DESCRIPTION:Регби-7 - Матчи за 5-8 места (м)
+SUMMARY:🏉 Ирландия 🇮🇪 - 🇺🇸 США
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T160000Z-rugby-sevens--7-8--ARG-USA
+DTSTAMP:20240727T160000Z
+DTSTART:20240727T160000Z
+DTEND:20240727T161600Z
+DESCRIPTION:Регби-7 - Матч за 7-8 места (м)
+SUMMARY:🏉 Аргентина 🇦🇷 - 🇺🇸 США
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T143000Z-rugby-sevens--C--USA-JPN
+DTSTAMP:20240728T143000Z
+DTSTART:20240728T143000Z
+DTEND:20240728T144600Z
+DESCRIPTION:Регби-7 - Группа C (ж)
+SUMMARY:🏉 США 🇺🇸 - 🇯🇵 Япония
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T180000Z-rugby-sevens--C--USA-BRA
+DTSTAMP:20240728T180000Z
+DTSTART:20240728T180000Z
+DTEND:20240728T181600Z
+DESCRIPTION:Регби-7 - Группа C (ж)
+SUMMARY:🏉 США 🇺🇸 - 🇧🇷 Бразилия
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T133000Z-rugby-sevens--C--FRA-USA
+DTSTAMP:20240729T133000Z
+DTSTART:20240729T133000Z
+DTEND:20240729T134600Z
+DESCRIPTION:Регби-7 - Группа C (ж)
+SUMMARY:🏉 Франция 🇫🇷 - 🇺🇸 США
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T193000Z-rugby-sevens---GBR-USA
+DTSTAMP:20240729T193000Z
+DTSTART:20240729T193000Z
+DTEND:20240729T194600Z
+DESCRIPTION:Регби-7 - Четвертьфинал (ж)
+SUMMARY:🏉 Великобритания 🇬🇧 - 🇺🇸 США
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T133000Z-rugby-sevens---NZL-USA
+DTSTAMP:20240730T133000Z
+DTSTART:20240730T133000Z
+DTEND:20240730T134600Z
+DESCRIPTION:Регби-7 - Полуфинал (ж)
+SUMMARY:🏉 Новая Зеландия 🇳🇿 - 🇺🇸 США
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T170000Z-rugby-sevens---USA-AUS
+DTSTAMP:20240730T170000Z
+DTSTART:20240730T170000Z
+DTEND:20240730T171600Z
+DESCRIPTION:Регби-7 - Матч за бронзу (ж)
+SUMMARY:🏉 США 🇺🇸 - 🇦🇺 Австралия
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+END:VCALENDAR

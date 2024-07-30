@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/PHI//EN
+X-WR-CALNAME:🇵🇭 Philippines Бокс | Paris 2024
+NAME:🇵🇭 Philippines Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240728T192000Z-boxing--116-50--MAR-PHI
+DTSTAMP:20240728T192000Z
+DTSTART:20240728T192000Z
+DTEND:20240728T193100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 50кг (ж)
+SUMMARY:🥊 Yasmine MOUTTAKI 🇲🇦 - 🇵🇭 Aira VILLEGAS
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T155400Z-boxing--116-57--IND-PHI
+DTSTAMP:20240730T155400Z
+DTSTART:20240730T155400Z
+DTEND:20240730T160500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 57кг (ж)
+SUMMARY:🥊 JAISMINE 🇮🇳 - 🇵🇭 Nesthy PETECIO
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T190400Z-boxing--18-80--PHI-UZB
+DTSTAMP:20240730T190400Z
+DTSTART:20240730T190400Z
+DTEND:20240730T191500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 80кг (м)
+SUMMARY:🥊 Eumir Felix MARCIAL 🇵🇭 - 🇺🇿 Turabek KHABIBULLAEV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T100400Z-boxing--18-75--CHN-PHI
+DTSTAMP:20240731T100400Z
+DTSTART:20240731T100400Z
+DTEND:20240731T101500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 75кг (ж)
+SUMMARY:🥊 LI Qian 🇨🇳 - 🇵🇭 Hergie BACYADAN
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T133000Z-boxing--18-57--PHI-IRL
+DTSTAMP:20240731T133000Z
+DTSTART:20240731T133000Z
+DTEND:20240731T134100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 57кг (м)
+SUMMARY:🥊 Carlo PAALAM 🇵🇭 - 🇮🇪 Jude GALLAGHER
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T181600Z-boxing--18-50--PHI-ALG
+DTSTAMP:20240801T181600Z
+DTSTART:20240801T181600Z
+DTEND:20240801T182700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 50кг (ж)
+SUMMARY:🥊 Aira VILLEGAS 🇵🇭 - 🇩🇿 Roumaysa BOUALAM
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T180000Z-boxing--18-57--FRA-PHI
+DTSTAMP:20240802T180000Z
+DTSTART:20240802T180000Z
+DTEND:20240802T181100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 57кг (ж)
+SUMMARY:🥊 Amina ZIDANI 🇫🇷 - 🇵🇭 Nesthy PETECIO
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

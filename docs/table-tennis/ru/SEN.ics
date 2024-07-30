@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//table-tennis/ru/SEN//EN
+X-WR-CALNAME:🇸🇳 Senegal Настольный теннис | Paris 2024
+NAME:🇸🇳 Senegal Настольный теннис | Paris 2024
+BEGIN:VEVENT
+UID:20240727T134500Z-table-tennis---SEN-NEP
+DTSTAMP:20240727T134500Z
+DTSTART:20240727T134500Z
+DTEND:20240727T143000Z
+DESCRIPTION:Настольный теннис - Предварительный раунд, одиночный разряд (м)
+SUMMARY:🏓 Ibrahima DIAW 🇸🇳 - 🇳🇵 Santoo SHRESTHA
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-table-tennis-132--HKG-SEN
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T100000Z
+DESCRIPTION:Настольный теннис - 1/32 финала, одиночный разряд (м)
+SUMMARY:🏓 WONG Chun Ting 🇭🇰 - 🇸🇳 Ibrahima DIAW
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+END:VCALENDAR

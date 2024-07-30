@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ja/GBR//EN
+X-WR-CALNAME:🇬🇧 Great Britain バドミントン | Paris 2024
+NAME:🇬🇧 Great Britain バドミントン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T081000Z-badminton--A-MAS-GBR
+DTSTAMP:20240727T081000Z
+DTSTART:20240727T081000Z
+DTEND:20240727T085000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 CHIA/SOH 🇲🇾 - 🇬🇧 LANE/VENDY
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T081000Z-badminton--A-CHN-GBR
+DTSTAMP:20240728T081000Z
+DTSTART:20240728T081000Z
+DTEND:20240728T085000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇬🇧 LANE/VENDY
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T063000Z-badminton--N-GBR-AZE
+DTSTAMP:20240729T063000Z
+DTSTART:20240729T063000Z
+DTEND:20240729T071000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループN
+SUMMARY:🏸 Kirsty GILMOUR 🇬🇧 - 🇦🇿 Keisha Fatimah AZZAHRA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T182000Z-badminton--A-GBR-CAN
+DTSTAMP:20240729T182000Z
+DTSTART:20240729T182000Z
+DTEND:20240729T190000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 LANE/VENDY 🇬🇧 - 🇨🇦 DONG/YAKURA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T173000Z-badminton--N-CHN-GBR
+DTSTAMP:20240730T173000Z
+DTSTART:20240730T173000Z
+DTEND:20240730T181000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループN
+SUMMARY:🏸 HE Bing Jiao 🇨🇳 - 🇬🇧 Kirsty GILMOUR
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+END:VCALENDAR

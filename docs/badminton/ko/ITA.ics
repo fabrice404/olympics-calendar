@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ko/ITA//EN
+X-WR-CALNAME:🇮🇹 Italy 배드민턴 | Paris 2024
+NAME:🇮🇹 Italy 배드민턴 | Paris 2024
+BEGIN:VEVENT
+UID:20240729T081000Z-badminton--A-ITA-SUR
+DTSTAMP:20240729T081000Z
+DTSTART:20240729T081000Z
+DTEND:20240729T085000Z
+DESCRIPTION:배드민턴 - 남자 단식 조별예선 - A조
+SUMMARY:🏸 Giovanni TOTI 🇮🇹 - 🇸🇷 Soren OPTI
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-badminton--A-CHN-ITA
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T094000Z
+DESCRIPTION:배드민턴 - 남자 단식 조별예선 - A조
+SUMMARY:🏸 SHI Yu Qi 🇨🇳 - 🇮🇹 Giovanni TOTI
+LOCATION:라 샤펠 아레나
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ja/AZE//EN
+X-WR-CALNAME:🇦🇿 Azerbaijan バドミントン | Paris 2024
+NAME:🇦🇿 Azerbaijan バドミントン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T063000Z-badminton--N-CHN-AZE
+DTSTAMP:20240727T063000Z
+DTSTART:20240727T063000Z
+DTEND:20240727T071000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループN
+SUMMARY:🏸 HE Bing Jiao 🇨🇳 - 🇦🇿 Keisha Fatimah AZZAHRA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T063000Z-badminton--N-GBR-AZE
+DTSTAMP:20240729T063000Z
+DTSTART:20240729T063000Z
+DTEND:20240729T071000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループN
+SUMMARY:🏸 Kirsty GILMOUR 🇬🇧 - 🇦🇿 Keisha Fatimah AZZAHRA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T182000Z-badminton--E-AZE-AUT
+DTSTAMP:20240729T182000Z
+DTSTART:20240729T182000Z
+DTEND:20240729T190000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループE
+SUMMARY:🏸 Ade Resky DWICAHYO 🇦🇿 - 🇦🇹 Collins Valentine FILIMON
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T143000Z-badminton--E-DEN-AZE
+DTSTAMP:20240731T143000Z
+DTSTART:20240731T143000Z
+DTEND:20240731T151000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループE
+SUMMARY:🏸 Anders ANTONSEN 🇩🇰 - 🇦🇿 Ade Resky DWICAHYO
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ru/AUT//EN
+X-WR-CALNAME:🇦🇹 Austria Бадминтон | Paris 2024
+NAME:🇦🇹 Austria Бадминтон | Paris 2024
+BEGIN:VEVENT
+UID:20240728T173000Z-badminton---DEN-AUT
+DTSTAMP:20240728T173000Z
+DTSTART:20240728T173000Z
+DTEND:20240728T181000Z
+DESCRIPTION:Бадминтон - Групповой этап, одиночный, группа Е (м)
+SUMMARY:🏸 Anders ANTONSEN 🇩🇰 - 🇦🇹 Collins Valentine FILIMON
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T182000Z-badminton---AZE-AUT
+DTSTAMP:20240729T182000Z
+DTSTART:20240729T182000Z
+DTEND:20240729T190000Z
+DESCRIPTION:Бадминтон - Групповой этап, одиночный, группа Е (м)
+SUMMARY:🏸 Ade Resky DWICAHYO 🇦🇿 - 🇦🇹 Collins Valentine FILIMON
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+END:VCALENDAR

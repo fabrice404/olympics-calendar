@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/COD//EN
+X-WR-CALNAME:🇨🇩 Democratic Republic of the Congo Бокс | Paris 2024
+NAME:🇨🇩 Democratic Republic of the Congo Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240730T110800Z-boxing--116-57--COD-UZB
+DTSTAMP:20240730T110800Z
+DTSTART:20240730T110800Z
+DTEND:20240730T111900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 57кг (ж)
+SUMMARY:🥊 Marcelat SAKOBI 🇨🇩 - 🇺🇿 Sitora TURDIBEKOVA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T100400Z-boxing--18-66--COD-THA
+DTSTAMP:20240801T100400Z
+DTSTART:20240801T100400Z
+DTEND:20240801T101500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 66кг (ж)
+SUMMARY:🥊 Brigitte MBABI 🇨🇩 - 🇹🇭 Janjaem SUWANNAPHENG
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

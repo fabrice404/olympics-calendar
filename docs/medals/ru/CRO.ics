@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//medals/ru/CRO//EN
+X-WR-CALNAME:🇭🇷 Croatia 🏅 | Paris 2024
+NAME:🇭🇷 Croatia 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240729T100000Z-shooting--10-
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T104500Z
+DESCRIPTION:Стрельба - Пневматическая винтовка 10м, финал (м)\n🇮🇳 Arjun
+  BABUTA\n🇰🇷 CHOE Daehan\n🇮🇹 Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo
+  Julian GUTIERREZ\n🇭🇷 Miran MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG
+  Lihao\n🇸🇪 Victor LINDGREN
+SUMMARY:🔫 Пневматическая винтовка 10м, финал (м)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T152000Z-canoe-slalom--
+DTSTAMP:20240729T152000Z
+DTSTART:20240729T152000Z
+DTEND:20240729T160400Z
+DESCRIPTION:Гребной слалом - Каноэ-одиночки, финал (м)\n🇬🇧 Adam
+  BURGESS\n🇸🇮 Benjamin SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam
+  JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸
+  Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan
+  CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Каноэ-одиночки, финал (м)
+LOCATION:Водный ст. - Белая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T151200Z-judo--B-63--KOS-CRO
+DTSTAMP:20240730T151200Z
+DTSTART:20240730T151200Z
+DTEND:20240730T151800Z
+DESCRIPTION:Дзюдо - Поединок за бронзу B, до 63кг (ж)
+SUMMARY:🥋 Laura FAZLIU 🇽🇰 - 🇭🇷 Katarina KRISTO
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+END:VCALENDAR

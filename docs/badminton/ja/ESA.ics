@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ja/ESA//EN
+X-WR-CALNAME:🇸🇻 El Salvador バドミントン | Paris 2024
+NAME:🇸🇻 El Salvador バドミントン | Paris 2024
+BEGIN:VEVENT
+UID:20240730T173000Z-badminton--M-ESA-CZE
+DTSTAMP:20240730T173000Z
+DTSTART:20240730T173000Z
+DTEND:20240730T181000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループM
+SUMMARY:🏸 Uriel Francisco CANJURA ARTIGA 🇸🇻 - 🇨🇿 Jan LOUDA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T182000Z-badminton--M-SGP-ESA
+DTSTAMP:20240731T182000Z
+DTSTART:20240731T182000Z
+DTEND:20240731T190000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループM
+SUMMARY:🏸 Kean Yew LOH 🇸🇬 - 🇸🇻 Uriel Francisco CANJURA ARTIGA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+END:VCALENDAR

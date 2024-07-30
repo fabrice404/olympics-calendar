@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ja/GUA//EN
+X-WR-CALNAME:🇬🇹 Guatemala バドミントン | Paris 2024
+NAME:🇬🇹 Guatemala バドミントン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T134000Z-badminton--L-IND-GUA
+DTSTAMP:20240727T134000Z
+DTSTART:20240727T134000Z
+DTEND:20240727T142000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループL
+SUMMARY:🏸 Lakshya SEN 🇮🇳 - 🇬🇹 Kevin CORDON
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T120000Z-badminton--L-INA-GUA
+DTSTAMP:20240729T120000Z
+DTSTART:20240729T120000Z
+DTEND:20240729T120000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループL
+SUMMARY:🏸 Jonatan CHRISTIE 🇮🇩 - 🇬🇹 Kevin CORDON
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T072000Z-badminton--L-GUA-BEL
+DTSTAMP:20240731T072000Z
+DTSTART:20240731T072000Z
+DTEND:20240731T080000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループL
+SUMMARY:🏸 Kevin CORDON 🇬🇹 - 🇧🇪 Julien CARRAGGI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+END:VCALENDAR

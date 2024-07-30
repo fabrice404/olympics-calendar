@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/ja/GUA//EN
+X-WR-CALNAME:🇬🇹 Guatemala 競泳 | Paris 2024
+NAME:🇬🇹 Guatemala 競泳 | Paris 2024
+BEGIN:VEVENT
+UID:20240729T091300Z-swimming-100M
+DTSTAMP:20240729T091300Z
+DTSTART:20240729T091300Z
+DTEND:20240729T092700Z
+DESCRIPTION:競泳 - 女子100m背泳ぎ予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇺🇦
+  ウクライナ\n🇸🇻 エルサルバドル\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇰🇿 カザフスタン\n🇨🇦 カナダ\n🇬🇹
+  グアテマラ\n🇸🇪 スウェーデン\n🇪🇸 スペイン\n🇱🇰 スリランカ\n🇹🇹 トリニダード・トバゴ\n🇹🇲
+  トルクメニスタン\n🇩🇴 ドミニカ共和国\n🇧🇲 バミューダ\n🇧🇭 バーレーン\n🇫🇷 フランス\n🇧🇬
+  ブルガリア\n🇧🇪 ベルギー\n🇭🇰 ホンコン・チャイナ\n🇵🇱 ポーランド\n🇲🇽 メキシコ\n🇲🇿
+  モザンビーク\n🇱🇾 リビア\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🏊 女子100m背泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T094700Z-swimming-200M
+DTSTAMP:20240801T094700Z
+DTSTART:20240801T094700Z
+DTEND:20240801T100500Z
+DESCRIPTION:競泳 - 男子200m個人メドレー予選\n🇮🇹 Alberto RAZZETTI\n🇬🇷 Apostolos
+  PAPASTAMOS\n🇹🇷 Berke SAKA\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇬🇹
+  Erick GORDILLO\n🇧🇴 Esteban NUNEZ del PRADO\n🇨🇦 Finlay KNOX\n🇭🇺
+  Gabor ZOMBORI\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇩🇿 Jaouad SYOUD\n🇨🇭
+  Jeremy DESPLANCHES\n🇫🇷 Leon MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇵🇾 Matheo
+  MATEOS\n🇿🇦 Matthew SATES\n🇮🇱 Ron POLONSKY\n🇯🇵 SETO Daiya\n🇺🇸
+  Shaine CASAS\n🇸🇨 Simon BACHMANN\n🇦🇺 Thomas NEILL\n🇬🇧 Tom DEAN\n🇪🇨
+  Tomas PERIBONIO AVILA\n🇨🇳 WANG Shun\n🇦🇺 William Campbell PETRIC
+SUMMARY:🏊 男子200m個人メドレー予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+END:VCALENDAR

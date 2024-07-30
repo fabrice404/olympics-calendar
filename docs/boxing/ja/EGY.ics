@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/EGY//EN
+X-WR-CALNAME:🇪🇬 Egypt ボクシング | Paris 2024
+NAME:🇪🇬 Egypt ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240727T140200Z-boxing-54KG-32-UZB-EGY
+DTSTAMP:20240727T140200Z
+DTSTART:20240727T140200Z
+DTEND:20240727T141300Z
+DESCRIPTION:ボクシング - 女子54kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Nigina UKTAMOVA 🇺🇿 - 🇪🇬 Yomna AYYAD
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T143400Z-boxing-80KG-16-AZE-EGY
+DTSTAMP:20240730T143400Z
+DTSTART:20240730T143400Z
+DTEND:20240730T144500Z
+DESCRIPTION:ボクシング - 男子80kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Murad ALLAHVERDIYEV 🇦🇿 - 🇪🇬 Abdelrahman ABDELGAWWAD
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T141800Z-boxing-71KG-16-EGY-UZB
+DTSTAMP:20240731T141800Z
+DTSTART:20240731T141800Z
+DTEND:20240731T142900Z
+DESCRIPTION:ボクシング - 男子71kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Omar ELAWADY 🇪🇬 - 🇺🇿 Asadkhuja MUYDINKHUJAEV
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

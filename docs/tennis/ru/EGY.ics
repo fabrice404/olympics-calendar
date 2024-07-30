@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//tennis/ru/EGY//EN
+X-WR-CALNAME:🇪🇬 Egypt Теннис | Paris 2024
+NAME:🇪🇬 Egypt Теннис | Paris 2024
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis---EGY-DEN
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T173000Z
+DESCRIPTION:Теннис - Первый раунд, одиночный разряд (ж)
+SUMMARY:🎾 Mayar SHERIF 🇪🇬 - 🇩🇰 Caroline WOZNIACKI
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+END:VCALENDAR

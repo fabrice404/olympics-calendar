@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//diving/ko/USA//EN
+X-WR-CALNAME:🇺🇸 United States 다이빙 | Paris 2024
+NAME:🇺🇸 United States 다이빙 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T090000Z-diving--3M-
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T094600Z
+DESCRIPTION:다이빙 - 여자 싱크로나이즈드 3m 스프링보드\n🇩🇪 독일\n🇺🇸 미국\n🇬🇧 영국\n🇦🇺
+  오스트레일리아\n🇺🇦 우크라이나\n🇮🇹 이탈리아\n🇨🇳 중국\n🇫🇷 프랑스
+SUMMARY:🏊 여자 싱크로나이즈드 3m 스프링보드
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-diving--10M-
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T094700Z
+DESCRIPTION:다이빙 - 여자 싱크로나이즈드 10m 플랫폼\n🇲🇽 멕시코\n🇺🇸 미국\n🇬🇧 영국\n🇺🇦
+  우크라이나\n🇰🇵 조선민주주의인민공화국\n🇨🇳 중국\n🇨🇦 캐나다\n🇫🇷 프랑스
+SUMMARY:🏊 여자 싱크로나이즈드 10m 플랫폼
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T090000Z-diving--3M-
+DTSTAMP:20240802T090000Z
+DTSTART:20240802T090000Z
+DTEND:20240802T095500Z
+DESCRIPTION:다이빙 - 남자 싱크로나이즈드 3m 스프링보드\n🇲🇽 멕시코\n🇺🇸 미국\n🇪🇸 스페인\n🇬🇧
+  영국\n🇺🇦 우크라이나\n🇮🇹 이탈리아\n🇨🇳 중국\n🇫🇷 프랑스
+SUMMARY:🏊 남자 싱크로나이즈드 3m 스프링보드
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080000Z-diving--10M-
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T101300Z
+DESCRIPTION:다이빙 - 여자 10m 플랫폼 예선\n🇯🇵 ARAI Matsuri\n🇲🇽 Alejandra OROZCO
+  LOZA\n🇪🇸 Ana CARVAJAL\n🇬🇧 Andrea SPENDOLINI SIRIEIX\n🇨🇺 Anisley
+  GARCIA NAVARRO\n🇨🇳 CHEN Yuxi\n🇨🇦 Caeli McKAY\n🇩🇪 Christina
+  WASSEN\n🇮🇪 Ciara McGING\n🇺🇸 Daryn WRIGHT\n🇺🇸 Delaney SCHNELL\n🇱🇻
+  Dzeja Delanija PATRIKA\n🇦🇺 Ellie COLE\n🇳🇱 Else PRAASTERINK\n🇲🇽
+  Gabriela AGUNDEZ GARCIA\n🇧🇷 Ingrid OLIVEIRA\n🇰🇵 KIM Mi Rae\n🇰🇷 KIM
+  Nahyun\n🇨🇦 Kate MILLER\n🇬🇧 Lois TOULSON\n🇮🇹 Maia BIGINELLI\n🇪🇬
+  Malak TAWFIK\n🇵🇷 Maycey Adrianne VIETA\n🇦🇺 Melissa WU\n🇩🇪 Pauline
+  Alexandra PFEIF\n🇨🇳 QUAN Hongchan\n🇮🇹 Sarah JODOIN di MARIA\n🇺🇦
+  Sofiia LYSKUN\n🇩🇴 Victoria GARZA
+SUMMARY:🏊 여자 10m 플랫폼 예선
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080000Z-diving--3M-
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T100900Z
+DESCRIPTION:다이빙 - 남자 3m 스프링보드 예선\n🇺🇸 Andrew CAPOBIANCO\n🇺🇸 Carson
+  TYLER\n🇨🇴 Daniel RESTREPO GARCIA\n🇩🇴 Frandiel GOMEZ\n🇮🇹 Giovanni
+  TOCCI\n🇫🇷 Gwendal BISCH\n🇬🇧 Jack LAUGHER\n🇮🇪 Jake PASSMORE\n🇩🇴
+  Jonathan RUVALCABA\n🇬🇧 Jordan HOULDEN\n🇫🇷 Jules BOUYER\n🇲🇽 Kevin
+  Alexander MUNOZ HEREDIA\n🇦🇺 Kurtis MATHEWS\n🇩🇪 Lars RUDIGER\n🇮🇹
+  Lorenzo MARSAGLIA\n🇨🇴 Luis Felipe URIBE BERMUDEZ\n🇪🇬 Mohamed
+  FAROUK\n🇩🇪 Moritz WESEMANN\n🇲🇽 Osmar OLVERA IBARRA\n🇯🇵 SAKAI
+  Sho\n🇨🇳 WANG Zongyuan\n🇰🇷 WOO Haram\n🇨🇳 XIE Siyi\n🇰🇷 YI
+  Jaegyeong\n🇯🇲 Yona KNIGHT-WISDOM
+SUMMARY:🏊 남자 3m 스프링보드 예선
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T130000Z-diving--3M-
+DTSTAMP:20240807T130000Z
+DTSTART:20240807T130000Z
+DTEND:20240807T145700Z
+DESCRIPTION:다이빙 - 여자 3m 스프링보드 예선\n🇲🇽 Alejandra ESTUDILLO TORRES\n🇺🇸
+  Alison GIBSON\n🇦🇺 Alysha KOLOI\n🇨🇺 Anisley GARCIA NAVARRO\n🇲🇽
+  Aranza VAZQUEZ MONTANO\n🇨🇳 CHANG Yani\n🇨🇳 CHEN Yiwen\n🇮🇹 Chiara
+  PELLACANI\n🇯🇵 ENOMOTO Haruka\n🇮🇹 Elena BERTOCCHI\n🇸🇪 Emilia NILSSON
+  GARIP\n🇬🇧 Grace REID\n🇳🇴 Helle TUXEN\n🇩🇪 Jette MULLER\n🇿🇦 Julia
+  VINCENT\n🇰🇷 KIM Suji\n🇳🇿 Lizzie ROUSSEL\n🇯🇵 MIKAMI Sayaka\n🇦🇺
+  Maddison KEENEY\n🇪🇬 Maha AMER\n🇨🇦 Margo ERLAM\n🇲🇾 Nur Dhabitah
+  SABRI\n🇨🇺 Prisis RUIZ\n🇺🇸 Sarah BACON\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸
+  Valeria ANTOLINO\n🇺🇦 Viktoriya KESAR\n🇬🇧 Yasmin HARPER
+SUMMARY:🏊 여자 3m 스프링보드 예선
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T080000Z-diving--10M-
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T103900Z
+DESCRIPTION:다이빙 - 남자 10m 플랫폼 예선\n🇨🇴 Alejandro SOLARTE\n🇮🇹 Andreas
+  Sargent LARSEN\n🇦🇹 Anton KNOLL\n🇲🇾 Bertrand Rhodict ANAK LISES\n🇺🇸
+  Brandon LOSCHIAVO\n🇨🇳 CAO Yuan\n🇺🇸 Carson TYLER\n🇦🇺 Cassiel
+  ROUSSEAU\n🇰🇵 IM Yong Myong\n🇺🇿 Igor MYALIN\n🇦🇺 Jaxon BOWSHIRE\n🇰🇷
+  KIM Yeongtaek\n🇲🇽 Kevin BERLIN REYES\n🇬🇧 Kyle KOTHARI\n🇺🇦 Mark
+  HRYTSENKO\n🇨🇦 Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇪🇬 Ramez
+  SOBHY\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo GIOVANNINI\n🇵🇱 Robert
+  LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪
+  Timo BARTHEL\n🇨🇳 YANG Hao
+SUMMARY:🏊 남자 10m 플랫폼 예선
+LOCATION:아쿠아틱 센터
+END:VEVENT
+END:VCALENDAR

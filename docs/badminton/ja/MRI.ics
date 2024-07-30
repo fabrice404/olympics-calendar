@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ja/MRI//EN
+X-WR-CALNAME:🇲🇺 Mauritius バドミントン | Paris 2024
+NAME:🇲🇺 Mauritius バドミントン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T090000Z-badminton--C-THA-MRI
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T100000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループC
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇲🇺 Georges Julien PAUL
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T072000Z-badminton--C-FIN-MRI
+DTSTAMP:20240729T072000Z
+DTSTART:20240729T072000Z
+DTEND:20240729T080000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループC
+SUMMARY:🏸 Kalle KOLJONEN 🇫🇮 - 🇲🇺 Georges Julien PAUL
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-badminton--I-MRI-EOR
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T100000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループI
+SUMMARY:🏸 Kate FOO KUNE 🇲🇺 - 🏳️ Dorsa YAVARIVAFA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T182000Z-badminton--I-SGP-MRI
+DTSTAMP:20240730T182000Z
+DTSTART:20240730T182000Z
+DTEND:20240730T190000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループI
+SUMMARY:🏸 Jia Min YEO 🇸🇬 - 🇲🇺 Kate FOO KUNE
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+END:VCALENDAR

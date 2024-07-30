@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/ru/ANG//EN
+X-WR-CALNAME:🇦🇴 Angola Академическая гребля | Paris 2024
+NAME:🇦🇴 Angola Академическая гребля | Paris 2024
+BEGIN:VEVENT
+UID:20240727T070000Z-rowing--
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Академическая гребля - Одиночки, заезды (м)\n🇩🇿 Алжир\n🇦🇴
+  Ангола\n🇧🇪 Бельгия\n🇧🇲 Бермудские острова\n🇧🇬 Болгария\n🇧🇷
+  Бразилия\n🇭🇺 Венгрия\n🇩🇪 Германия\n🇭🇰 Гонконг, Китай\n🇬🇷
+  Греция\n🇩🇰 Дания\n🇪🇬 Египет\n🇿🇼 Зимбабве\n🇮🇳 Индия\n🇮🇩
+  Индонезия\n🇰🇿 Казахстан\n🇨🇺 Куба\n🇱🇾 Ливия\n🇱🇹 Литва\n🇲🇨
+  Монако\n🇳🇱 Нидерланды\n🇳🇿 Новая Зеландия\n🇵🇾 Парагвай\n🇷🇴
+  Румыния\n🇺🇸 США\n🇸🇮 Словения\n🇸🇩 Судан\n🇹🇭 Таиланд\n🇹🇳
+  Тунис\n🇺🇾 Уругвай\n🇭🇷 Хорватия\n🇯🇵 Япония
+SUMMARY:🚣 Одиночки, заезды (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073600Z-rowing--
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:Академическая гребля - Одиночки, утешительные заезды (м)\n🇩🇿
+  Алжир\n🇦🇴 Ангола\n🇧🇲 Бермудские острова\n🇭🇰 Гонконг, Китай\n🇿🇼
+  Зимбабве\n🇮🇳 Индия\n🇮🇩 Индонезия\n🇰🇿 Казахстан\n🇱🇾 Ливия\n🇲🇨
+  Монако\n🇵🇾 Парагвай\n🇸🇮 Словения\n🇸🇩 Судан\n🇹🇭 Таиланд\n🇹🇳
+  Тунис
+SUMMARY:🚣 Одиночки, утешительные заезды (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T073000Z-rowing--EF-1-
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T073700Z
+DESCRIPTION:Академическая гребля - Одиночки, полуфинал E/F 1 (м)\n🇦🇴
+  Andre MATIAS\n🇮🇩 MEMO\n🇹🇳 Mohamed TAIEB\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 Одиночки, полуфинал E/F 1 (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-rowing--F-
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T073700Z
+DESCRIPTION:Академическая гребля - Одиночки, финал F (м)\n🇸🇩 Abdalla
+  AHMED\n🇦🇴 Andre MATIAS\n🇱🇾 Mohamed BUKRAH
+SUMMARY:🚣 Одиночки, финал F (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+END:VCALENDAR

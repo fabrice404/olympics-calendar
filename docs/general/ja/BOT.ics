@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ja/BOT//EN
+X-WR-CALNAME:🇧🇼 Botswana | Paris 2024
+NAME:🇧🇼 Botswana | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 開会式
+SUMMARY:Paris 2024 - 開会式
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T093000Z-swimming-100M
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T094400Z
+DESCRIPTION:競泳 - 男子100m平泳ぎ予選\n🇮🇸 アイスランド\n🇺🇸 アメリカ合衆国\n🇦🇬
+  アンティグア・バーブーダ\n🇮🇱 イスラエル\n🇮🇹 イタリア\n🇸🇿 エスワティニ\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇦🇹 オーストリア\n🇶🇦 カタール\n🇰🇬 キルギス\n🇹🇷 トルコ\n🇩🇪 ドイツ\n🇭🇹
+  ハイチ\n🇧🇼 ボツワナ\n🇵🇱 ポーランド\n🇲🇬 マダガスカル\n🇫🇲 ミクロネシア\n🇲🇽 メキシコ\n🇲🇿
+  モザンビーク\n🇱🇦 ラオス人民民主共和国\n🇱🇹 リトアニア\n🇨🇳 中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇦🇸
+  米領サモア\n🇬🇧 英国
+SUMMARY:🏊 男子100m平泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T104700Z-swimming-100M
+DTSTAMP:20240730T104700Z
+DTSTART:20240730T104700Z
+DTEND:20240730T110000Z
+DESCRIPTION:競泳 - 女子100m自由形予選\n🇬🇾 Aleka Kylela PERSAUD\n🇬🇧 Anna
+  HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇬 Gloria Anna
+  MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇭🇷 Jana
+  PAVALIC\n🇰🇾 Jillian Janis Geohagan CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭
+  Kayla SANCHEZ\n🇵🇱 Kornelia FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷
+  Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle
+  COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza
+  KLANCAR\n🇿🇼 Paige van der WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩
+  Tilly COLLYMORE\n🇺🇸 Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 女子100m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

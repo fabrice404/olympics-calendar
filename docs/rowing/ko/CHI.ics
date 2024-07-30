@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/ko/CHI//EN
+X-WR-CALNAME:🇨🇱 Chile 조정 | Paris 2024
+NAME:🇨🇱 Chile 조정 | Paris 2024
+BEGIN:VEVENT
+UID:20240728T083000Z-rowing--
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T085700Z
+DESCRIPTION:조정 - 여자 무타페어 예선\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇩🇰 덴마크\n🇷🇴
+  루마니아\n🇱🇹 리투아니아\n🇺🇸 미국\n🇪🇸 스페인\n🇮🇪 아일랜드\n🇬🇧 영국\n🇦🇺
+  오스트레일리아\n🇨🇿 체코\n🇨🇱 칠레
+SUMMARY:🚣 여자 무타페어 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-rowing--
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T102700Z
+DESCRIPTION:조정 - 남자 경량급 더블스컬 예선\n🇬🇷 그리스\n🇳🇴 노르웨이\n🇲🇽 멕시코\n🇧🇪
+  벨기에\n🇨🇭 스위스\n🇪🇸 스페인\n🇦🇷 아르헨티나\n🇮🇪 아일랜드\n🇺🇿 우즈베키스탄\n🇺🇦
+  우크라이나\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇿 체코\n🇨🇱 칠레\n🇫🇷 프랑스
+SUMMARY:🚣 남자 경량급 더블스컬 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T084000Z-rowing--
+DTSTAMP:20240729T084000Z
+DTSTART:20240729T084000Z
+DTEND:20240729T085700Z
+DESCRIPTION:조정 - 남자 경량급 더블스컬 패자부활전\n🇬🇷 그리스\n🇲🇽 멕시코\n🇧🇪 벨기에\n🇦🇷
+  아르헨티나\n🇺🇿 우즈베키스탄\n🇺🇦 우크라이나\n🇪🇬 이집트\n🇯🇵 일본\n🇨🇱 칠레\n🇫🇷 프랑스
+SUMMARY:🚣 남자 경량급 더블스컬 패자부활전
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T073000Z-rowing--C
+DTSTAMP:20240731T073000Z
+DTSTART:20240731T073000Z
+DTEND:20240731T073700Z
+DESCRIPTION:조정 - 남자 경량급 더블스컬 결승 C\n🇺🇿 우즈베키스탄\n🇪🇬 이집트\n🇯🇵 일본\n🇨🇱 칠레
+SUMMARY:🚣 남자 경량급 더블스컬 결승 C
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090400Z-rowing--AB-2
+DTSTAMP:20240731T090400Z
+DTSTART:20240731T090400Z
+DTEND:20240731T091100Z
+DESCRIPTION:조정 - 여자 무타페어 준결승 A/B 2\n🇱🇹 리투아니아\n🇺🇸 미국\n🇪🇸 스페인\n🇮🇪
+  아일랜드\n🇦🇺 오스트레일리아\n🇨🇱 칠레
+SUMMARY:🚣 여자 무타페어 준결승 A/B 2
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+END:VCALENDAR

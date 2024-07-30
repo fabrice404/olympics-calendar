@@ -1,0 +1,612 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ja/PER//EN
+X-WR-CALNAME:🇵🇪 Peru | Paris 2024
+NAME:🇵🇪 Peru | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 開会式
+SUMMARY:Paris 2024 - 開会式
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T080000Z-fencing-T64-PER-SGP
+DTSTAMP:20240727T080000Z
+DTSTART:20240727T080000Z
+DTEND:20240727T082500Z
+DESCRIPTION:フェンシング - 女子エペ個人T64
+SUMMARY:🤺 Maria Luisa DOIG CALDERON 🇵🇪 - 🇸🇬 Kiria Tikanah ABDUL RAHMAN
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T081200Z-rowing-
+DTSTAMP:20240727T081200Z
+DTSTART:20240727T081200Z
+DTEND:20240727T091900Z
+DESCRIPTION:ローイング - 女子シングルスカル予選\n🇦🇿 アゼルバイジャン\n🇺🇸 アメリカ合衆国\n🇩🇿
+  アルジェリア\n🇮🇷 イラン・イスラム共和国\n🇺🇬 ウガンダ\n🇺🇿 ウズベキスタン\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇦🇹 オーストリア\n🇨🇺 キューバ\n🇰🇼 クウェート\n🇸🇬 シンガポール\n🇨🇭 スイス\n🇪🇸
+  スペイン\n🇸🇮 スロベニア\n🇷🇸 セルビア\n🇹🇷 トルコ\n🇹🇬 トーゴ\n🇩🇪 ドイツ\n🇳🇮
+  ニカラグア\n🇳🇿 ニュージーランド\n🇵🇾 パラグアイ\n🇵🇭 フィリピン\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇻🇳
+  ベトナム\n🇵🇪 ペルー\n🇲🇽 メキシコ\n🇲🇦 モロッコ\n🇱🇹 リトアニア\n🇿🇦 南アフリカ
+SUMMARY:🚣 女子シングルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T094500Z-swimming-400M
+DTSTAMP:20240727T094500Z
+DTSTART:20240727T094500Z
+DTEND:20240727T101400Z
+DESCRIPTION:競泳 - 男子400m自由形予選\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇺🇿 ウズベキスタン\n🇪🇪
+  エストニア\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇬🇾 ガイアナ\n🇰🇪 ケニア\n🇨🇷 コスタリカ\n🇸🇲
+  サンマリノ\n🇨🇭 スイス\n🇸🇪 スウェーデン\n🇹🇳 チュニジア\n🇨🇱 チリ\n🇩🇪 ドイツ\n🇭🇺
+  ハンガリー\n🇫🇷 フランス\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇻🇪 ベネズエラ\n🇧🇪 ベルギー\n🇵🇪
+  ペルー\n🇧🇦 ボスニア・ヘルツェゴビナ\n🇲🇾 マレーシア\n🇲🇩 モルドバ共和国\n🇲🇦 モロッコ\n🇱🇹
+  リトアニア\n🇨🇳 中国\n🇲🇰 北マケドニア\n🇰🇷 大韓民国\n🇬🇧 英国
+SUMMARY:🏊 男子400m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T181200Z-surfing-1-3
+DTSTAMP:20240727T181200Z
+DTSTART:20240727T181200Z
+DTEND:20240727T184200Z
+DESCRIPTION:サーフィン - 男子第1ラウンド - 第3ヒート\n🇵🇪 Alonso CORREA\n🇧🇷 Filipe
+  TOLEDO\n🇯🇵 IGARASHI Kanoa
+SUMMARY:🏄 男子第1ラウンド - 第3ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T203600Z-surfing-1-7
+DTSTAMP:20240727T203600Z
+DTSTART:20240727T203600Z
+DTEND:20240727T210600Z
+DESCRIPTION:サーフィン - 男子第1ラウンド - 第7ヒート\n🇺🇸 Griffin COLAPINTO\n🇫🇷 Kauli
+  VAAST\n🇵🇪 Lucca MESINAS
+SUMMARY:🏄 男子第1ラウンド - 第7ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T222400Z-surfing-1-2
+DTSTAMP:20240727T222400Z
+DTSTART:20240727T222400Z
+DTEND:20240727T225400Z
+DESCRIPTION:サーフィン - 女子第1ラウンド - 第2ヒート\n🇪🇸 Janire GONZALEZ ETXABARRI\n🇵🇪
+  Sol AGUIRRE\n🇫🇷 Vahine FIERRO
+SUMMARY:🏄 女子第1ラウンド - 第2ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T070000Z-rowing-
+DTSTAMP:20240728T070000Z
+DTSTART:20240728T070000Z
+DTEND:20240728T073100Z
+DESCRIPTION:ローイング - 女子シングルスカル敗者復活戦\n🇩🇿 アルジェリア\n🇮🇷 イラン・イスラム共和国\n🇺🇬
+  ウガンダ\n🇨🇺 キューバ\n🇰🇼 クウェート\n🇸🇬 シンガポール\n🇹🇷 トルコ\n🇹🇬 トーゴ\n🇳🇮
+  ニカラグア\n🇵🇾 パラグアイ\n🇵🇭 フィリピン\n🇻🇳 ベトナム\n🇵🇪 ペルー\n🇲🇦 モロッコ
+SUMMARY:🚣 女子シングルスカル敗者復活戦
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T080600Z-judo-66KG2-ITA-PER
+DTSTAMP:20240728T080600Z
+DTSTART:20240728T080600Z
+DTEND:20240728T081200Z
+DESCRIPTION:柔道 - 男子66kg級2回戦
+SUMMARY:🥋 Matteo PIRAS 🇮🇹 - 🇵🇪 Juan POSTIGOS
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T093000Z-rowing-
+DTSTAMP:20240728T093000Z
+DTSTART:20240728T093000Z
+DTEND:20240728T095700Z
+DESCRIPTION:ローイング - 女子軽量級ダブルスカル予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇦🇷
+  アルゼンチン\n🇮🇷 イラン・イスラム共和国\n🇦🇹 オーストリア\n🇨🇦 カナダ\n🇬🇷 ギリシャ\n🇹🇳
+  チュニジア\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇵🇪 ペルー\n🇵🇱 ポーランド\n🇷🇴 ルーマニア\n🇨🇳
+  中国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🚣 女子軽量級ダブルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T170000Z-surfing-2-1-CHN-PER
+DTSTAMP:20240728T170000Z
+DTSTART:20240728T170000Z
+DTEND:20240728T173000Z
+DESCRIPTION:サーフィン - 女子第2ラウンド - 第1ヒート
+SUMMARY:🏄 YANG Siqi 🇨🇳 - 🇵🇪 Sol AGUIRRE
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T013400Z-surfing-2-7-AUS-PER
+DTSTAMP:20240729T013400Z
+DTSTART:20240729T013400Z
+DTEND:20240729T021400Z
+DESCRIPTION:サーフィン - 男子第2ラウンド - 第7ヒート
+SUMMARY:🏄 Jack ROBINSON 🇦🇺 - 🇵🇪 Lucca MESINAS
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-rowing-
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T091700Z
+DESCRIPTION:ローイング - 女子軽量級ダブルスカル敗者復活戦\n🇮🇪 アイルランド\n🇦🇷 アルゼンチン\n🇮🇷
+  イラン・イスラム共和国\n🇦🇹 オーストリア\n🇨🇦 カナダ\n🇹🇳 チュニジア\n🇵🇪 ペルー\n🇵🇱
+  ポーランド\n🇨🇳 中国\n🇯🇵 日本
+SUMMARY:🚣 女子軽量級ダブルスカル敗者復活戦
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100300Z-sailing--1
+DTSTAMP:20240729T100300Z
+DTSTART:20240729T100300Z
+DTEND:20240729T101200Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース1\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース1
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T103700Z-sailing--2
+DTSTAMP:20240729T103700Z
+DTSTART:20240729T103700Z
+DTEND:20240729T104600Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース2\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース2
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T170000Z-surfing-3-1-PER-RSA
+DTSTAMP:20240729T170000Z
+DTSTART:20240729T170000Z
+DTEND:20240729T173000Z
+DESCRIPTION:サーフィン - 男子第3ラウンド - 第1ヒート
+SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇿🇦 Jordy SMITH
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T072000Z-badminton--J-PER-TUR
+DTSTAMP:20240730T072000Z
+DTSTART:20240730T072000Z
+DTEND:20240730T080000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループJ
+SUMMARY:🏸 Ines Lucia CASTILLO 🇵🇪 - 🇹🇷 Neslihan ARIN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T073000Z-rowing-
+DTSTAMP:20240730T073000Z
+DTSTART:20240730T073000Z
+DTEND:20240730T080700Z
+DESCRIPTION:ローイング - 女子シングルスカル準々決勝\n🇵🇪 Adriana SANGUINETI\n🇵🇾 Alejandra
+  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
+  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
+  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
+  TWIGG\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
+  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇲🇽 Kenia LECHUGA
+  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
+  BADENHORST\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
+  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS
+SUMMARY:🚣 女子シングルスカル準々決勝
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T103300Z-sailing--3
+DTSTAMP:20240730T103300Z
+DTSTART:20240730T103300Z
+DTEND:20240730T105400Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース3\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース3
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110400Z-sailing--4
+DTSTAMP:20240730T110400Z
+DTSTART:20240730T110400Z
+DTEND:20240730T112500Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース4\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース4
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T113500Z-sailing--5
+DTSTAMP:20240730T113500Z
+DTSTART:20240730T113500Z
+DTEND:20240730T115600Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース5\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース5
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T120600Z-sailing--6
+DTSTAMP:20240730T120600Z
+DTSTART:20240730T120600Z
+DTEND:20240730T122700Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース6\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース6
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T123700Z-sailing--7
+DTSTAMP:20240730T123700Z
+DTSTART:20240730T123700Z
+DTEND:20240730T125800Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース7\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース7
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T170000Z-surfing--1-PER-JPN
+DTSTAMP:20240730T170000Z
+DTSTART:20240730T170000Z
+DTEND:20240730T173000Z
+DESCRIPTION:サーフィン - 男子準々決勝 - 第1ヒート
+SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇯🇵 INABA Reo
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T074200Z-rowing-C
+DTSTAMP:20240731T074200Z
+DTSTART:20240731T074200Z
+DTEND:20240731T074900Z
+DESCRIPTION:ローイング - 女子軽量級ダブルスカル決勝C\n🇮🇷 イラン・イスラム共和国\n🇵🇪 ペルー\n🇨🇳
+  中国\n🇯🇵 日本
+SUMMARY:🚣 女子軽量級ダブルスカル決勝C
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T101300Z-sailing--8
+DTSTAMP:20240731T101300Z
+DTSTART:20240731T101300Z
+DTEND:20240731T111300Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース8\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース8
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T101300Z-sailing--9
+DTSTAMP:20240731T101300Z
+DTSTART:20240731T101300Z
+DTEND:20240731T111300Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース9\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース9
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T131300Z-sailing--10
+DTSTAMP:20240731T131300Z
+DTSTART:20240731T131300Z
+DTEND:20240731T133400Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース10\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース10
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T134000Z-badminton--J-JPN-PER
+DTSTAMP:20240731T134000Z
+DTSTART:20240731T134000Z
+DTEND:20240731T142000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループJ
+SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇵🇪 Ines Lucia CASTILLO
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T134400Z-sailing--11
+DTSTAMP:20240731T134400Z
+DTSTART:20240731T134400Z
+DTEND:20240731T140500Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース11\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース11
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T130300Z-sailing--12
+DTSTAMP:20240801T130300Z
+DTSTART:20240801T130300Z
+DTEND:20240801T132400Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース12\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース12
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T133400Z-sailing--13
+DTSTAMP:20240801T133400Z
+DTSTART:20240801T133400Z
+DTEND:20240801T135500Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース13\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース13
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T140500Z-sailing--14
+DTSTAMP:20240801T140500Z
+DTSTART:20240801T140500Z
+DTEND:20240801T142600Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース14\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース14
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T143600Z-sailing--15
+DTSTAMP:20240801T143600Z
+DTSTART:20240801T143600Z
+DTEND:20240801T145700Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース15\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース15
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T150700Z-sailing--16
+DTSTAMP:20240801T150700Z
+DTSTART:20240801T150700Z
+DTEND:20240801T152800Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース16\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース16
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T153800Z-sailing--17
+DTSTAMP:20240801T153800Z
+DTSTART:20240801T153800Z
+DTEND:20240801T155900Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース17\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース17
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T153800Z-sailing--18
+DTSTAMP:20240801T153800Z
+DTSTART:20240801T153800Z
+DTEND:20240801T155900Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース18\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース18
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T160900Z-sailing--19
+DTSTAMP:20240801T160900Z
+DTSTART:20240801T160900Z
+DTEND:20240801T163000Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース19\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース19
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T164000Z-sailing--20
+DTSTAMP:20240801T164000Z
+DTSTART:20240801T164000Z
+DTEND:20240801T170100Z
+DESCRIPTION:セーリング - 女子ウインドサーフィン - レース20\n🇦🇷 Chiara FERRETTI\n🇺🇸
+  Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid
+  PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina
+  ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja
+  DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ
+  PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾
+  Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID TRUEBA\n🇳🇱 Sara
+  WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle
+  TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子ウインドサーフィン - レース20
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-shooting--1
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T120000Z
+DESCRIPTION:射撃 - 男子スキート個人本選 1日目\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
+  MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸 Conner Lynn PRINCE\n🇰🇿
+  Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷 Efthimios MITAS\n🇫🇷 Eric
+  DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico GIL\n🇮🇹 Gabriele
+  ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub TOMECEK\n🇩🇰 Jesper
+  HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua BELL\n🇰🇷 KIM Minsu\n🇹🇼
+  LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus SVENSSON\n🇰🇼 Mohammad
+  ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬 Omar IBRAHIM\n🇪🇪 Peeter
+  JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹 Sebastian BERMUDEZ
+  LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹 Tammaro CASSANDRO\n🇺🇸
+  Vincent HANCOCK
+SUMMARY:🔫 男子スキート個人本選 1日目
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T091700Z-swimming-200M
+DTSTAMP:20240802T091700Z
+DTSTART:20240802T091700Z
+DTEND:20240802T094000Z
+DESCRIPTION:競泳 - 女子200m個人メドレー予選\n🇬🇧 Abbie WOOD\n🇺🇸 Alex WALSH\n🇮🇱
+  Anastasia GORBENKO\n🇮🇩 Azzahra PERMATAHANI\n🇨🇿 Barbora
+  SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma SEBESTYEN\n🇦🇺 Ella
+  RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇬🇧 Freya
+  Constance COLBERT\n🇹🇼 HAN An-Chi\n🇱🇻 Ieva MALUKA\n🇨🇻 Jayla
+  PINA\n🇰🇷 KIM Seoyeong\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee McKEOWN\n🇵🇷
+  Kristen Elena ROMANO\n🇮🇱 Lea POLONSKY\n🇦🇹 Lena KREUNDL\n🇯🇵
+  MATSUMOTO Shiho\n🇳🇱 Marrit STEENBERGEN\n🇵🇪 McKenna de BEVER\n🇺🇾
+  Nicole FRANK\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇮🇹 Sara
+  FRANCESCHI\n🇨🇦 Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇸🇰 Tamara
+  POTOCKA\n🇻🇳 Thi My Tien VO\n🇵🇸 Valerie Rose TARAZI\n🇨🇳 YE
+  Shiwen\n🇨🇳 YU Yiting
+SUMMARY:🏊 女子200m個人メドレー予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-shooting-1
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T123000Z
+DESCRIPTION:射撃 - 女子スキート個人本選1日目\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
+  RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem ORYNBAY\n🇺🇸 Austen Jewell
+  SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪
+  Daniella BORDA OLAECHEA\n🇸🇰 Danka BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷
+  Emmanouela KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇲🇽 Gabriela
+  RODRIGUEZ\n🇧🇷 Georgia FURQUIM BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG
+  Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾 Konstantia NIKOLAOU\n🇫🇷 Lucie
+  ANASTASSIOU\n🇮🇳 Maheshwari CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪
+  Nadine MESSERSCHMIDT\n🇩🇪 Nele WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena
+  CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 女子スキート個人本選1日目
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

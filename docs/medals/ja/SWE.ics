@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//medals/ja/SWE//EN
+X-WR-CALNAME:🇸🇪 Sweden 🏅 | Paris 2024
+NAME:🇸🇪 Sweden 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T145400Z-judo-48KG3B-KAZ-SWE
+DTSTAMP:20240727T145400Z
+DTSTART:20240727T145400Z
+DTEND:20240727T150000Z
+DESCRIPTION:柔道 - 女子48kg級3位決定戦B
+SUMMARY:🥋 Abiba ABUZHAKYNOVA 🇰🇿 - 🇸🇪 Tara BABULFATH
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T193400Z-swimming-4100M
+DTSTAMP:20240727T193400Z
+DTSTART:20240727T193400Z
+DTEND:20240727T194400Z
+DESCRIPTION:競泳 - 女子4×100mフリーリレー決勝\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇦🇺
+  オーストラリア\n🇨🇦 カナダ\n🇸🇪 スウェーデン\n🇫🇷 フランス\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🏊 女子4×100mフリーリレー決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T121000Z-cycling-mountain-bike-
+DTSTAMP:20240728T121000Z
+DTSTART:20240728T121000Z
+DTEND:20240728T134000Z
+DESCRIPTION:自転車マウンテンバイク - 女子クロスカントリー\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
+  KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
+  Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
+  MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
+  SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella
+  HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla MWAMIKAZI\n🇸🇪 Jenny
+  RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷 Loana
+  LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
+  BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND PREVOT\n🇳🇱 Puck
+  PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel QUEIROS\n🇦🇺 Rebecca
+  HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
+  Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳 WU Zhifan\n🇺🇦 Yana
+  BELOMOINA
+SUMMARY:🚴 女子クロスカントリー
+LOCATION:エランクールの丘
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T184000Z-swimming-100M
+DTSTAMP:20240728T184000Z
+DTSTART:20240728T184000Z
+DTEND:20240728T184600Z
+DESCRIPTION:競泳 - 女子100mバタフライ決勝\n🇩🇪 Angelina KOEHLER\n🇦🇺 Emma
+  McKEON\n🇺🇸 Gretchen WALSH\n🇯🇵 HIRAI Mizuki\n🇸🇪 Louise HANSSON\n🇨🇦
+  Margaret MAC NEIL\n🇺🇸 Torri HUSKE\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 女子100mバタフライ決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-equestrian-
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T114000Z
+DESCRIPTION:馬術 - 総合馬術障害団体決勝\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇳🇱
+  オランダ\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇨🇭 スイス\n🇸🇪 スウェーデン\n🇩🇪 ドイツ\n🇳🇿
+  ニュージーランド\n🇫🇷 フランス\n🇧🇷 ブラジル\n🇧🇪 ベルギー\n🇵🇱 ポーランド\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏇 総合馬術障害団体決勝
+LOCATION:ベルサイユ宮殿
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-shooting-10M
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T104500Z
+DESCRIPTION:射撃 - 男子10mエアライフル個人ファイナル\n🇮🇳 Arjun BABUTA\n🇰🇷 CHOE
+  Daehan\n🇮🇹 Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo Julian GUTIERREZ\n🇭🇷
+  Miran MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG Lihao\n🇸🇪 Victor LINDGREN
+SUMMARY:🔫 男子10mエアライフル個人ファイナル
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T130000Z-equestrian-
+DTSTAMP:20240729T130000Z
+DTSTART:20240729T130000Z
+DTEND:20240729T140000Z
+DESCRIPTION:馬術 - 総合馬術障害個人決勝\n🇮🇪 Austin O'CONNOR\n🇺🇸 Boyd MARTIN\n🇦🇺
+  Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇮🇹
+  Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida ANDERSEN\n🇨🇳 HUA TIAN
+  Alex\n🇳🇱 Janneke BOONZAAIJER\n🇩🇪 Julia KRAJEWSKI\n🇫🇷 Karim Florent
+  LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇧🇪 Lara de LIEDEKERKE - MEIER\n🇬🇧
+  Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇩🇪 Michael JUNG\n🇫🇷 Nicolas
+  TOUZAINT\n🇯🇵 OIWA Yoshiaki\n🇬🇧 Rosalind CANTER\n🇦🇺 Shane ROSE\n🇫🇷
+  Stephane LANDOIS\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇬🇧 Tom McEWEN
+SUMMARY:🏇 総合馬術障害個人決勝
+LOCATION:ベルサイユ宮殿
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T133000Z-shooting-
+DTSTAMP:20240730T133000Z
+DTSTART:20240730T133000Z
+DTEND:20240730T144500Z
+DESCRIPTION:射撃 - 男子トラップ個人ファイナル\n🇺🇸 Derrick Scott MEIN\n🇦🇺 James
+  WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇬🇧 Nathan HALES\n🇨🇳 QI
+  Ying\n🇸🇪 Rickard LEVIN-ANDERSSON
+SUMMARY:🔫 男子トラップ個人ファイナル
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T060000Z-triathlon-
+DTSTAMP:20240731T060000Z
+DTSTART:20240731T060000Z
+DTEND:20240731T080500Z
+DESCRIPTION:トライアスロン - 女子個人\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
+  PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧 Beth
+  POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
+  SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
+  HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
+  LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
+  Georgia TAYLOR-BROWN\n🇱🇺 Jeanne LEHAIR\n🇧🇪 Jolien VERMEYLEN\n🇦🇹
+  Julia HAUSER\n🇨🇭 Julie DERRON\n🇬🇧 Kate WAUGH\n🇺🇸 Kirsten
+  KASPER\n🇨🇳 LIN Xinyu\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇦🇹
+  Lisa PERTERER\n🇩🇪 Lisa TERTSCH\n🇲🇽 Lizeth RUEDA SANTOS\n🇳🇴 Lotte
+  MILLER\n🇬🇺 Manami IIJIMA\n🇨🇴 Maria Carolina VELASQUEZ SOTO\n🇵🇹
+  Maria TOME\n🇳🇱 Maya KINGMA\n🇵🇹 Melanie SANTOS\n🇪🇸 Miriam CASILLAS
+  GARCIA\n🇦🇺 Natalie van COEVORDEN\n🇳🇿 Nicole van der KAAY\n🇩🇪 Nina
+  EIM\n🇨🇿 Petra KURIKOVA\n🇳🇱 Rachel KLAMER\n🇵🇱 Roksana SLUPEK\n🇦🇷
+  Romina BIAGIOLI\n🇲🇽 Rosa Maria TAPIA VIDAL\n🇳🇴 Solveig LOVSETH\n🇦🇺
+  Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
+  SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
+  MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
+SUMMARY:🏊 女子個人
+LOCATION:アレクサンドル3世橋
+END:VEVENT
+END:VCALENDAR

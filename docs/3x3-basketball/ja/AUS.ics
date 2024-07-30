@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//3x3-basketball/ja/AUS//EN
+X-WR-CALNAME:🇦🇺 Australia 3x3 バスケットボール | Paris 2024
+NAME:🇦🇺 Australia 3x3 バスケットボール | Paris 2024
+BEGIN:VEVENT
+UID:20240730T160000Z-3x3-basketball--AUS-CAN
+DTSTAMP:20240730T160000Z
+DTSTART:20240730T160000Z
+DTEND:20240730T162500Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 オーストラリア 🇦🇺 - 🇨🇦 カナダ
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T153000Z-3x3-basketball--GER-AUS
+DTSTAMP:20240731T153000Z
+DTSTART:20240731T153000Z
+DTEND:20240731T155500Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 ドイツ 🇩🇪 - 🇦🇺 オーストラリア
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T070000Z-3x3-basketball--CHN-AUS
+DTSTAMP:20240801T070000Z
+DTSTART:20240801T070000Z
+DTEND:20240801T072500Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 中国 🇨🇳 - 🇦🇺 オーストラリア
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T110000Z-3x3-basketball--USA-AUS
+DTSTAMP:20240801T110000Z
+DTSTART:20240801T110000Z
+DTEND:20240801T112500Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 アメリカ合衆国 🇺🇸 - 🇦🇺 オーストラリア
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-3x3-basketball--AUS-AZE
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T075500Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 オーストラリア 🇦🇺 - 🇦🇿 アゼルバイジャン
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T103000Z-3x3-basketball--AUS-ESP
+DTSTAMP:20240802T103000Z
+DTSTART:20240802T103000Z
+DTEND:20240802T105500Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 オーストラリア 🇦🇺 - 🇪🇸 スペイン
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T163500Z-3x3-basketball--FRA-AUS
+DTSTAMP:20240803T163500Z
+DTSTART:20240803T163500Z
+DTEND:20240803T170000Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 フランス 🇫🇷 - 🇦🇺 オーストラリア
+LOCATION:コンコルド広場1
+END:VEVENT
+END:VCALENDAR

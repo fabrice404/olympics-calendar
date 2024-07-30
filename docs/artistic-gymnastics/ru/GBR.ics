@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/ru/GBR//EN
+X-WR-CALNAME:🇬🇧 Great Britain Спортивная гимнастика | Paris 2024
+NAME:🇬🇧 Great Britain Спортивная гимнастика | Paris 2024
+BEGIN:VEVENT
+UID:20240729T153000Z-artistic-gymnastics--
+DTSTAMP:20240729T153000Z
+DTSTART:20240729T153000Z
+DTEND:20240729T180000Z
+DESCRIPTION:Спортивная гимнастика - Командный финал (м)\n🇬🇧
+  Великобритания\n🇮🇹 Италия\n🇨🇦 Канада\n🇨🇳 Китай\n🇺🇸 США\n🇺🇦
+  Украина\n🇨🇭 Швейцария\n🇯🇵 Япония
+SUMMARY:🤸 Командный финал (м)
+LOCATION:Арена «Берси»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T161500Z-artistic-gymnastics--
+DTSTAMP:20240730T161500Z
+DTSTART:20240730T161500Z
+DTEND:20240730T181000Z
+DESCRIPTION:Спортивная гимнастика - Командный финал (ж)\n🇧🇷
+  Бразилия\n🇬🇧 Великобритания\n🇮🇹 Италия\n🇨🇦 Канада\n🇨🇳 Китай\n🇷🇴
+  Румыния\n🇺🇸 США\n🇯🇵 Япония
+SUMMARY:🤸 Командный финал (ж)
+LOCATION:Арена «Берси»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T153000Z-artistic-gymnastics--
+DTSTAMP:20240731T153000Z
+DTSTART:20240731T153000Z
+DTEND:20240731T180000Z
+DESCRIPTION:Спортивная гимнастика - Многоборье, финал (м)\n🇵🇭 Carlos
+  Edriel YULO\n🇳🇱 Casimir SCHMIDT\n🇧🇷 Diogo SOARES\n🇨🇦 Felix
+  DOLCI\n🇨🇭 Florian LANGENEGGER\n🇳🇱 Frank RIJKEN\n🇺🇸 Frederick
+  RICHARD\n🇯🇵 HASHIMOTO Daiki\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇦🇺
+  Jesse MOORE\n🇬🇧 Joe FRASER\n🇭🇺 Krisztofer MESZAROS\n🇮🇹 Mario
+  MACCHIATI\n🇨🇭 Matteo GIUBELLINI\n🇰🇿 Milad KARIMI\n🇩🇪 Nils
+  DUNKEL\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇺🇸 Paul JUDA\n🇨🇦
+  Rene COURNOYER\n🇨🇳 XIAO Ruoteng\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
+SUMMARY:🤸 Многоборье, финал (м)
+LOCATION:Арена «Берси»
+END:VEVENT
+END:VCALENDAR

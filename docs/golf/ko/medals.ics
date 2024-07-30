@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//golf/ko/medals//EN
+X-WR-CALNAME:⛳ 골프 🏅 | Paris 2024
+NAME:⛳ 골프 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240804T070000Z-golf--4
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T160000Z
+DESCRIPTION:골프 - 남자 개인 스트로크 플레이 4라운드
+SUMMARY:⛳ 남자 개인 스트로크 플레이 4라운드
+LOCATION:골프 나시오날
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T070000Z-golf--4
+DTSTAMP:20240810T070000Z
+DTSTART:20240810T070000Z
+DTEND:20240810T160000Z
+DESCRIPTION:골프 - 여자 개인 스트로크 플레이 4라운드
+SUMMARY:⛳ 여자 개인 스트로크 플레이 4라운드
+LOCATION:골프 나시오날
+END:VEVENT
+END:VCALENDAR

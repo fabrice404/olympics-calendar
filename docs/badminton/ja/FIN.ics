@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ja/FIN//EN
+X-WR-CALNAME:🇫🇮 Finland バドミントン | Paris 2024
+NAME:🇫🇮 Finland バドミントン | Paris 2024
+BEGIN:VEVENT
+UID:20240729T072000Z-badminton--C-FIN-MRI
+DTSTAMP:20240729T072000Z
+DTSTART:20240729T072000Z
+DTEND:20240729T080000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループC
+SUMMARY:🏸 Kalle KOLJONEN 🇫🇮 - 🇲🇺 Georges Julien PAUL
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T081000Z-badminton--C-THA-FIN
+DTSTAMP:20240731T081000Z
+DTSTART:20240731T081000Z
+DTEND:20240731T085000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループC
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇫🇮 Kalle KOLJONEN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ru/BRN//EN
+X-WR-CALNAME:🇧🇭 Bahrain | Paris 2024
+NAME:🇧🇭 Bahrain | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Церемония открытия
+SUMMARY:Paris 2024 - Церемония открытия
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T091300Z-swimming-100-
+DTSTAMP:20240729T091300Z
+DTSTART:20240729T091300Z
+DTEND:20240729T092700Z
+DESCRIPTION:Плавание - 100м на спине, квалификация (ж)\n🇵🇱 Adela
+  PISKORSKA\n🇧🇭 Amani ALOBAIDLI\n🇮🇱 Aviv BARZELAY\n🇹🇲 Aynura
+  PRIMOVA\n🇫🇷 Beryl GASTALDELLO\n🇭🇰 CHEUNG Sum Yuet Cindy\n🇪🇸 Carmen
+  WEILER SASTRE\n🇲🇽 Celia PULIDO ORTIZ\n🇸🇻 Celina MARQUEZ\n🇮🇪
+  Danielle HILL\n🇲🇿 Denise DONELLI\n🇩🇴 Elizabeth JIMENEZ\n🇧🇲 Emma
+  HARVEY\n🇫🇷 Emma TEREBO\n🇧🇬 Gabriela GEORGIEVA\n🇱🇰 Ganga
+  SENAVIRATHNE\n🇨🇦 Ingrid WILM\n🇦🇺 Iona ANDERSON\n🇺🇸 Katharine
+  BERKOFF\n🇬🇧 Kathleen DAWSON\n🇦🇺 Kaylee McKEOWN\n🇳🇱 Kira
+  TOUSSAINT\n🇨🇦 Kylie MASSE\n🇸🇪 Louise HANSSON\n🇬🇹 Lucero MEJIA\n🇳🇱
+  Maaike de WAARD\n🇬🇧 Medi Eira HARRIS\n🇱🇾 Mek ALMUKHTAR\n🇺🇦 Nika
+  SHARAFUTDINOVA\n🇺🇸 Regan SMITH\n🇧🇪 Roos VANOTTERDIJK\n🇨🇳 WAN
+  Letian\n🇨🇳 WANG Xueer\n🇰🇿 Xeniya IGNATOVA\n🇹🇹 Zuri FERGUSON
+SUMMARY:🏊 100м на спине, квалификация (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T082400Z-judo-116-81--BRN-TUR
+DTSTAMP:20240730T082400Z
+DTSTART:20240730T082400Z
+DTEND:20240730T083000Z
+DESCRIPTION:Дзюдо - 1/16 финала, до 81кг (м)
+SUMMARY:🥋 Askerbii GERBEKOV 🇧🇭 - 🇹🇷 Vedat ALBAYRAK
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110100Z-swimming-200-
+DTSTAMP:20240730T110100Z
+DTSTART:20240730T110100Z
+DTEND:20240730T111900Z
+DESCRIPTION:Плавание - 200м брассом, квалификация (м)\n🇱🇹 Aleksas
+  SAVICKAS\n🇯🇴 Amro AL-WIR\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦
+  Bernhard Tyler CHRISTIANSON\n🇰🇷 CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳
+  DONG Zhihao\n🇱🇻 Daniils BOBROVS\n🇰🇬 Denis PETRASHOV\n🇸🇪 Erik
+  PERSSON\n🇯🇵 HANAGURUMA Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺
+  Joshua YONG\n🇭🇳 Julio HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
+  EPITROPOV\n🇺🇸 Matt FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro
+  de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE
+  Ippei\n🇦🇺 Zac STUBBLETY-COOK
+SUMMARY:🏊 200м брассом, квалификация (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

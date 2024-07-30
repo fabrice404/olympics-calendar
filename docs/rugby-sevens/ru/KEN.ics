@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rugby-sevens/ru/KEN//EN
+X-WR-CALNAME:🇰🇪 Kenya Регби-7 | Paris 2024
+NAME:🇰🇪 Kenya Регби-7 | Paris 2024
+BEGIN:VEVENT
+UID:20240724T140000Z-rugby-sevens--B--ARG-KEN
+DTSTAMP:20240724T140000Z
+DTSTART:20240724T140000Z
+DTEND:20240724T141600Z
+DESCRIPTION:Регби-7 - Группа B (м)
+SUMMARY:🏉 Аргентина 🇦🇷 - 🇰🇪 Кения
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240724T170000Z-rugby-sevens--B--AUS-KEN
+DTSTAMP:20240724T170000Z
+DTSTART:20240724T170000Z
+DTEND:20240724T171600Z
+DESCRIPTION:Регби-7 - Группа B (м)
+SUMMARY:🏉 Австралия 🇦🇺 - 🇰🇪 Кения
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T120000Z-rugby-sevens--B--SAM-KEN
+DTSTAMP:20240725T120000Z
+DTSTART:20240725T120000Z
+DTEND:20240725T121600Z
+DESCRIPTION:Регби-7 - Группа B (м)
+SUMMARY:🏉 Самоа 🇼🇸 - 🇰🇪 Кения
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T183000Z-rugby-sevens--9-12--URU-KEN
+DTSTAMP:20240725T183000Z
+DTSTART:20240725T183000Z
+DTEND:20240725T184600Z
+DESCRIPTION:Регби-7 - Матчи за 9-12 места (м)
+SUMMARY:🏉 Уругвай 🇺🇾 - 🇰🇪 Кения
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T150000Z-rugby-sevens--9-10--SAM-KEN
+DTSTAMP:20240727T150000Z
+DTSTART:20240727T150000Z
+DTEND:20240727T151600Z
+DESCRIPTION:Регби-7 - Матч за 9-10 места (м)
+SUMMARY:🏉 Самоа 🇼🇸 - 🇰🇪 Кения
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+END:VCALENDAR

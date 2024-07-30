@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/ja/UKR//EN
+X-WR-CALNAME:🇺🇦 Ukraine ローイング | Paris 2024
+NAME:🇺🇦 Ukraine ローイング | Paris 2024
+BEGIN:VEVENT
+UID:20240727T105000Z-rowing-
+DTSTAMP:20240727T105000Z
+DTSTART:20240727T105000Z
+DTEND:20240727T110700Z
+DESCRIPTION:ローイング - 女子クオドルプルスカル予選\n🇺🇸 アメリカ合衆国\n🇺🇦 ウクライナ\n🇳🇱
+  オランダ\n🇦🇺 オーストラリア\n🇨🇭 スイス\n🇩🇪 ドイツ\n🇷🇴 ルーマニア\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🚣 女子クオドルプルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-rowing-
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T102700Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル予選\n🇮🇪 アイルランド\n🇦🇷 アルゼンチン\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇺🇿 ウズベキスタン\n🇪🇬 エジプト\n🇬🇷 ギリシャ\n🇨🇭 スイス\n🇪🇸
+  スペイン\n🇨🇿 チェコ\n🇨🇱 チリ\n🇳🇴 ノルウェー\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽
+  メキシコ\n🇯🇵 日本
+SUMMARY:🚣 男子軽量級ダブルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T084000Z-rowing-
+DTSTAMP:20240729T084000Z
+DTSTART:20240729T084000Z
+DTEND:20240729T085700Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル敗者復活戦\n🇦🇷 アルゼンチン\n🇺🇦 ウクライナ\n🇺🇿
+  ウズベキスタン\n🇪🇬 エジプト\n🇬🇷 ギリシャ\n🇨🇱 チリ\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽
+  メキシコ\n🇯🇵 日本
+SUMMARY:🚣 男子軽量級ダブルスカル敗者復活戦
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T092400Z-rowing-AB-2
+DTSTAMP:20240731T092400Z
+DTSTART:20240731T092400Z
+DTEND:20240731T093100Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル準決勝A/B - 2組\n🇮🇹 イタリア\n🇺🇦 ウクライナ\n🇬🇷
+  ギリシャ\n🇪🇸 スペイン\n🇳🇴 ノルウェー\n🇲🇽 メキシコ
+SUMMARY:🚣 男子軽量級ダブルスカル準決勝A/B - 2組
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T103800Z-rowing-A
+DTSTAMP:20240731T103800Z
+DTSTART:20240731T103800Z
+DTEND:20240731T104500Z
+DESCRIPTION:ローイング - 女子クオドルプルスカル決勝A\n🇺🇦 ウクライナ\n🇳🇱 オランダ\n🇨🇭 スイス\n🇩🇪
+  ドイツ\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🚣 女子クオドルプルスカル決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+END:VCALENDAR

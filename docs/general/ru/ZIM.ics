@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ru/ZIM//EN
+X-WR-CALNAME:🇿🇼 Zimbabwe | Paris 2024
+NAME:🇿🇼 Zimbabwe | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - Церемония открытия
+SUMMARY:Paris 2024 - Церемония открытия
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T070000Z-rowing--
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Академическая гребля - Одиночки, заезды (м)\n🇩🇿 Алжир\n🇦🇴
+  Ангола\n🇧🇪 Бельгия\n🇧🇲 Бермудские острова\n🇧🇬 Болгария\n🇧🇷
+  Бразилия\n🇭🇺 Венгрия\n🇩🇪 Германия\n🇭🇰 Гонконг, Китай\n🇬🇷
+  Греция\n🇩🇰 Дания\n🇪🇬 Египет\n🇿🇼 Зимбабве\n🇮🇳 Индия\n🇮🇩
+  Индонезия\n🇰🇿 Казахстан\n🇨🇺 Куба\n🇱🇾 Ливия\n🇱🇹 Литва\n🇲🇨
+  Монако\n🇳🇱 Нидерланды\n🇳🇿 Новая Зеландия\n🇵🇾 Парагвай\n🇷🇴
+  Румыния\n🇺🇸 США\n🇸🇮 Словения\n🇸🇩 Судан\n🇹🇭 Таиланд\n🇹🇳
+  Тунис\n🇺🇾 Уругвай\n🇭🇷 Хорватия\n🇯🇵 Япония
+SUMMARY:🚣 Одиночки, заезды (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073600Z-rowing--
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:Академическая гребля - Одиночки, утешительные заезды (м)\n🇩🇿
+  Алжир\n🇦🇴 Ангола\n🇧🇲 Бермудские острова\n🇭🇰 Гонконг, Китай\n🇿🇼
+  Зимбабве\n🇮🇳 Индия\n🇮🇩 Индонезия\n🇰🇿 Казахстан\n🇱🇾 Ливия\n🇲🇨
+  Монако\n🇵🇾 Парагвай\n🇸🇮 Словения\n🇸🇩 Судан\n🇹🇭 Таиланд\n🇹🇳
+  Тунис
+SUMMARY:🚣 Одиночки, утешительные заезды (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T074200Z-rowing--EF-2-
+DTSTAMP:20240729T074200Z
+DTSTART:20240729T074200Z
+DTEND:20240729T074900Z
+DESCRIPTION:Академическая гребля - Одиночки, полуфинал E/F 2 (м)\n🇸🇩
+  Abdalla AHMED\n🇧🇲 Dara ALIZADEH\n🇱🇾 Mohamed BUKRAH\n🇹🇭 Premanut
+  WATTANANUSITH\n🇿🇼 Stephen COX
+SUMMARY:🚣 Одиночки, полуфинал E/F 2 (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T104700Z-swimming-100-
+DTSTAMP:20240730T104700Z
+DTSTART:20240730T104700Z
+DTEND:20240730T110000Z
+DESCRIPTION:Плавание - 100м вольным стилем, квалификация (ж)\n🇬🇾 Aleka
+  Kylela PERSAUD\n🇬🇧 Anna HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl
+  GASTALDELLO\n🇺🇬 Gloria Anna MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY
+  Siobhan Bernadette\n🇭🇷 Jana PAVALIC\n🇰🇾 Jillian Janis Geohagan
+  CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭 Kayla SANCHEZ\n🇵🇱 Kornelia
+  FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷 Marie WATTEL\n🇳🇱 Marrit
+  STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle COLEMAN\n🇦🇺 Mollie
+  O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza KLANCAR\n🇿🇼 Paige van der
+  WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah SJOESTROEM\n🇦🇺 Shayna
+  JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩 Tilly COLLYMORE\n🇺🇸
+  Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 100м вольным стилем, квалификация (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T092100Z-swimming-200-
+DTSTAMP:20240731T092100Z
+DTSTART:20240731T092100Z
+DTEND:20240731T094600Z
+DESCRIPTION:Плавание - 200м на спине, квалификация (м)\n🇭🇺 Adam
+  TELEGDY\n🇬🇷 Apostolos CHRISTOU\n🇬🇷 Apostolos SISKOS\n🇨🇦 Blake
+  TIERNEY\n🇦🇺 Bradley WOODWARD\n🇮🇱 David GERCHIK\n🇿🇼 Denilson
+  CYPRIANOS\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇳🇱 Kai van
+  WESTERING\n🇳🇿 Kane FOLLOWS\n🇺🇸 Keaton JONES\n🇵🇱 Ksawery
+  MASIUK\n🇰🇷 LEE Juho\n🇩🇪 Lukas MAERTENS\n🇬🇧 Luke GREENBANK\n🇮🇹
+  Matteo RESTIVO\n🇫🇷 Mewen TOMAC\n🇺🇦 Oleksandr ZHELTIAKOV\n🇬🇧 Oliver
+  MORGAN\n🇿🇦 Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇦🇺
+  Se-Bom LEE\n🇯🇵 TAKEHARA Hidekazu\n🇮🇹 Thomas CECCON\n🇨🇳 XU
+  Jiayu\n🇵🇷 Yeziel MORALES\n🇫🇷 Yohann NDOYE-BROUARD\n🇸🇩 Ziyad SALEEM
+SUMMARY:🏊 200м на спине, квалификация (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T075400Z-rowing--E-
+DTSTAMP:20240802T075400Z
+DTSTART:20240802T075400Z
+DTEND:20240802T080100Z
+DESCRIPTION:Академическая гребля - Одиночки, финал E (м)\n🇧🇲 Dara
+  ALIZADEH\n🇮🇩 MEMO\n🇹🇳 Mohamed TAIEB\n🇹🇭 Premanut
+  WATTANANUSITH\n🇿🇼 Stephen COX\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 Одиночки, финал E (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

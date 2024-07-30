@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//artistic-swimming/ko/medals//EN
+X-WR-CALNAME:🏊 아티스틱 스위밍 🏅 | Paris 2024
+NAME:🏊 아티스틱 스위밍 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming--
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:아티스틱 스위밍 - 단체 아크로바틱루틴
+SUMMARY:🏊 단체 아크로바틱루틴
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming--
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:아티스틱 스위밍 - 듀엣 프리루틴
+SUMMARY:🏊 듀엣 프리루틴
+LOCATION:아쿠아틱 센터
+END:VEVENT
+END:VCALENDAR

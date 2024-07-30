@@ -11,6 +11,7 @@ import { Event, Sport } from "./types";
 import { getSportIcon } from "./sports";
 import { isValidNOC, getNOCName, getNOCFlag } from "./nocs";
 import { generateICS } from "./ics";
+import { Calendar } from "./calendar";
 
 const debug = Debug("paris2024:index");
 
@@ -358,61 +359,66 @@ const generateCSS = () => {
 };
 
 const main = async () => {
-  await Promise.all(
-    [
-      "3x3-basketball",
-      "archery",
-      "artistic-gymnastics",
-      "artistic-swimming",
-      "athletics",
-      "badminton",
-      "basketball",
-      "beach-volleyball",
-      "boxing",
-      "breaking",
-      "canoe-slalom",
-      "canoe-sprint",
-      "cycling-bmx-freestyle",
-      "cycling-bmx-racing",
-      "cycling-mountain-bike",
-      "cycling-road",
-      "cycling-track",
-      "diving",
-      "equestrian",
-      "fencing",
-      "football",
-      "golf",
-      "handball",
-      "hockey",
-      "judo",
-      "marathon-swimming",
-      "modern-pentathlon",
-      "rhythmic-gymnastics",
-      "rowing",
-      "rugby-sevens",
-      "sailing",
-      "shooting",
-      "skateboarding",
-      "sport-climbing",
-      "surfing",
-      "swimming",
-      "table-tennis",
-      "taekwondo",
-      "tennis",
-      "trampoline-gymnastics",
-      "triathlon",
-      "volleyball",
-      "water-polo",
-      "weightlifting",
-      "wrestling",
-    ]
-      .map((key) => extractSportCalendar(key)),
-  );
-  generateCeremoniesEvents();
-  generateCalendars();
-  generateOutputPage();
-  generateTodayPage();
-  generateCSS();
+  // await Promise.all(
+  //   [
+  //     "3x3-basketball",
+  //     "archery",
+  //     "artistic-gymnastics",
+  //     "artistic-swimming",
+  //     "athletics",
+  //     "badminton",
+  //     "basketball",
+  //     "beach-volleyball",
+  //     "boxing",
+  //     "breaking",
+  //     "canoe-slalom",
+  //     "canoe-sprint",
+  //     "cycling-bmx-freestyle",
+  //     "cycling-bmx-racing",
+  //     "cycling-mountain-bike",
+  //     "cycling-road",
+  //     "cycling-track",
+  //     "diving",
+  //     "equestrian",
+  //     "fencing",
+  //     "football",
+  //     "golf",
+  //     "handball",
+  //     "hockey",
+  //     "judo",
+  //     "marathon-swimming",
+  //     "modern-pentathlon",
+  //     "rhythmic-gymnastics",
+  //     "rowing",
+  //     "rugby-sevens",
+  //     "sailing",
+  //     "shooting",
+  //     "skateboarding",
+  //     "sport-climbing",
+  //     "surfing",
+  //     "swimming",
+  //     "table-tennis",
+  //     "taekwondo",
+  //     "tennis",
+  //     "trampoline-gymnastics",
+  //     "triathlon",
+  //     "volleyball",
+  //     "water-polo",
+  //     "weightlifting",
+  //     "wrestling",
+  //   ]
+  //     .map((key) => extractSportCalendar(key)),
+  // );
+  // generateCeremoniesEvents();
+  // generateCalendars();
+  // generateOutputPage();
+  // generateTodayPage();
+  // generateCSS();
+
+  for (const language of ["en", "ja", "ko", "ru", "zh"]) {
+    const cal = new Calendar(language)
+    await cal.generate();
+  }
 };
 
 main();

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//judo/ko/GRE//EN
+X-WR-CALNAME:🇬🇷 Greece 유도 | Paris 2024
+NAME:🇬🇷 Greece 유도 | Paris 2024
+BEGIN:VEVENT
+UID:20240731T084200Z-judo--90KG-32--DOM-GRE
+DTSTAMP:20240731T084200Z
+DTSTART:20240731T084200Z
+DTEND:20240731T084800Z
+DESCRIPTION:유도 - 남자 -90kg 32강 엘리미네이션 라운드
+SUMMARY:🥋 Robert FLORENTINO 🇩🇴 - 🇬🇷 Theodoros TSELIDIS
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T091200Z-judo--70KG-16-
+DTSTAMP:20240731T091200Z
+DTSTART:20240731T091200Z
+DTEND:20240731T091800Z
+DESCRIPTION:유도 - 여자 -70kg 16강 엘리미네이션 라운드\n🇬🇷 Elisavet TELTSIDOU
+SUMMARY:🥋 여자 -70kg 16강 엘리미네이션 라운드
+LOCATION:샹드마르 아레나
+END:VEVENT
+END:VCALENDAR

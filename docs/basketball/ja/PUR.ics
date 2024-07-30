@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//basketball/ja/PUR//EN
+X-WR-CALNAME:🇵🇷 Puerto Rico バスケットボール | Paris 2024
+NAME:🇵🇷 Puerto Rico バスケットボール | Paris 2024
+BEGIN:VEVENT
+UID:20240728T090000Z-basketball--C-SSD-PUR
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T104500Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループC
+SUMMARY:🏀 南スーダン 🇸🇸 - 🇵🇷 プエルトリコ
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T190000Z-basketball--A-SRB-PUR
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T204500Z
+DESCRIPTION:バスケットボール - 女子予選ラウンド - グループA
+SUMMARY:🏀 セルビア 🇷🇸 - 🇵🇷 プエルトリコ
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-basketball--A-PUR-ESP
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T104500Z
+DESCRIPTION:バスケットボール - 女子予選ラウンド - グループA
+SUMMARY:🏀 プエルトリコ 🇵🇷 - 🇪🇸 スペイン
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T151500Z-basketball--C-PUR-SRB
+DTSTAMP:20240731T151500Z
+DTSTART:20240731T151500Z
+DTEND:20240731T170000Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループC
+SUMMARY:🏀 プエルトリコ 🇵🇷 - 🇷🇸 セルビア
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-basketball--A-CHN-PUR
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T104500Z
+DESCRIPTION:バスケットボール - 女子予選ラウンド - グループA
+SUMMARY:🏀 中国 🇨🇳 - 🇵🇷 プエルトリコ
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T151500Z-basketball--C-PUR-USA
+DTSTAMP:20240803T151500Z
+DTSTART:20240803T151500Z
+DTEND:20240803T170000Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループC
+SUMMARY:🏀 プエルトリコ 🇵🇷 - 🇺🇸 アメリカ合衆国
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/ja/ARG//EN
+X-WR-CALNAME:🇦🇷 Argentina ローイング | Paris 2024
+NAME:🇦🇷 Argentina ローイング | Paris 2024
+BEGIN:VEVENT
+UID:20240728T093000Z-rowing-
+DTSTAMP:20240728T093000Z
+DTSTART:20240728T093000Z
+DTEND:20240728T095700Z
+DESCRIPTION:ローイング - 女子軽量級ダブルスカル予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇦🇷
+  アルゼンチン\n🇮🇷 イラン・イスラム共和国\n🇦🇹 オーストリア\n🇨🇦 カナダ\n🇬🇷 ギリシャ\n🇹🇳
+  チュニジア\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇵🇪 ペルー\n🇵🇱 ポーランド\n🇷🇴 ルーマニア\n🇨🇳
+  中国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🚣 女子軽量級ダブルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-rowing-
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T102700Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル予選\n🇮🇪 アイルランド\n🇦🇷 アルゼンチン\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇺🇿 ウズベキスタン\n🇪🇬 エジプト\n🇬🇷 ギリシャ\n🇨🇭 スイス\n🇪🇸
+  スペイン\n🇨🇿 チェコ\n🇨🇱 チリ\n🇳🇴 ノルウェー\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽
+  メキシコ\n🇯🇵 日本
+SUMMARY:🚣 男子軽量級ダブルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T084000Z-rowing-
+DTSTAMP:20240729T084000Z
+DTSTART:20240729T084000Z
+DTEND:20240729T085700Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル敗者復活戦\n🇦🇷 アルゼンチン\n🇺🇦 ウクライナ\n🇺🇿
+  ウズベキスタン\n🇪🇬 エジプト\n🇬🇷 ギリシャ\n🇨🇱 チリ\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽
+  メキシコ\n🇯🇵 日本
+SUMMARY:🚣 男子軽量級ダブルスカル敗者復活戦
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-rowing-
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T091700Z
+DESCRIPTION:ローイング - 女子軽量級ダブルスカル敗者復活戦\n🇮🇪 アイルランド\n🇦🇷 アルゼンチン\n🇮🇷
+  イラン・イスラム共和国\n🇦🇹 オーストリア\n🇨🇦 カナダ\n🇹🇳 チュニジア\n🇵🇪 ペルー\n🇵🇱
+  ポーランド\n🇨🇳 中国\n🇯🇵 日本
+SUMMARY:🚣 女子軽量級ダブルスカル敗者復活戦
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T091400Z-rowing-AB-1
+DTSTAMP:20240731T091400Z
+DTSTART:20240731T091400Z
+DTEND:20240731T092100Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル準決勝A/B - 1組\n🇮🇪 アイルランド\n🇦🇷 アルゼンチン\n🇨🇭
+  スイス\n🇨🇿 チェコ\n🇫🇷 フランス\n🇧🇪 ベルギー
+SUMMARY:🚣 男子軽量級ダブルスカル準決勝A/B - 1組
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T093400Z-rowing-AB-1
+DTSTAMP:20240731T093400Z
+DTSTART:20240731T093400Z
+DTEND:20240731T094100Z
+DESCRIPTION:ローイング - 女子軽量級ダブルスカル準決勝A/B - 1組\n🇺🇸 アメリカ合衆国\n🇦🇷 アルゼンチン\n🇨🇦
+  カナダ\n🇳🇿 ニュージーランド\n🇵🇱 ポーランド\n🇬🇧 英国
+SUMMARY:🚣 女子軽量級ダブルスカル準決勝A/B - 1組
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+END:VCALENDAR

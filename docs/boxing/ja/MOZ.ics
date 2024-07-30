@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/MOZ//EN
+X-WR-CALNAME:🇲🇿 Mozambique ボクシング | Paris 2024
+NAME:🇲🇿 Mozambique ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240728T180000Z-boxing-71KG-32-GER-MOZ
+DTSTAMP:20240728T180000Z
+DTSTART:20240728T180000Z
+DTEND:20240728T181100Z
+DESCRIPTION:ボクシング - 男子71kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Magomed Elim Sultanovic SCHACHIDOV 🇩🇪 - 🇲🇿 Tiago MUXANGA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T195200Z-boxing-66KG-32-MOZ-SVK
+DTSTAMP:20240728T195200Z
+DTSTART:20240728T195200Z
+DTEND:20240728T200300Z
+DESCRIPTION:ボクシング - 女子66kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Alcinda Lucas dos SANTOS 🇲🇿 - 🇸🇰 Triebelova JESSICA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T192000Z-boxing-71KG-16-MOZ-MEX
+DTSTAMP:20240731T192000Z
+DTSTART:20240731T192000Z
+DTEND:20240731T193100Z
+DESCRIPTION:ボクシング - 男子71kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Tiago MUXANGA 🇲🇿 - 🇲🇽 Marco Alonso VERDE ALVAREZ
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T184800Z-boxing-66KG-16-MOZ-CHN
+DTSTAMP:20240801T184800Z
+DTSTART:20240801T184800Z
+DTEND:20240801T185900Z
+DESCRIPTION:ボクシング - 女子66kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Alcinda Lucas dos SANTOS 🇲🇿 - 🇨🇳 YANG Liu
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

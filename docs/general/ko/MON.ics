@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ko/MON//EN
+X-WR-CALNAME:🇲🇨 Monaco | Paris 2024
+NAME:🇲🇨 Monaco | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 개막식
+SUMMARY:Paris 2024 - 개막식
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T070000Z-rowing--
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:조정 - 남자 싱글스컬 예선\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇩🇰 덴마크\n🇩🇪
+  독일\n🇷🇴 루마니아\n🇱🇾 리비아\n🇱🇹 리투아니아\n🇲🇨 모나코\n🇺🇸 미국\n🇧🇲 버뮤다\n🇧🇪
+  벨기에\n🇧🇬 불가리아\n🇧🇷 브라질\n🇸🇩 수단\n🇸🇮 슬로베니아\n🇩🇿 알제리\n🇦🇴 앙골라\n🇺🇾
+  우루과이\n🇪🇬 이집트\n🇮🇳 인도\n🇮🇩 인도네시아\n🇯🇵 일본\n🇿🇼 짐바브웨\n🇰🇿 카자흐스탄\n🇨🇺
+  쿠바\n🇭🇷 크로아티아\n🇹🇭 태국\n🇹🇳 튀니지\n🇵🇾 파라과이\n🇭🇺 헝가리\n🇭🇰 홍콩, 차이나
+SUMMARY:🚣 남자 싱글스컬 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073600Z-rowing--
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:조정 - 남자 싱글스컬 패자부활전\n🇱🇾 리비아\n🇲🇨 모나코\n🇧🇲 버뮤다\n🇸🇩 수단\n🇸🇮
+  슬로베니아\n🇩🇿 알제리\n🇦🇴 앙골라\n🇮🇳 인도\n🇮🇩 인도네시아\n🇿🇼 짐바브웨\n🇰🇿
+  카자흐스탄\n🇹🇭 태국\n🇹🇳 튀니지\n🇵🇾 파라과이\n🇭🇰 홍콩, 차이나
+SUMMARY:🚣 남자 싱글스컬 패자부활전
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T190000Z-table-tennis--64-MON-CZE
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T200000Z
+DESCRIPTION:탁구 - 여자 단식 64강
+SUMMARY:🏓 Xiaoxin YANG 🇲🇨 - 🇨🇿 Hana MATELOVA
+LOCATION:사우스 파리 아레나 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T092800Z-swimming--800M-
+DTSTAMP:20240729T092800Z
+DTSTART:20240729T092800Z
+DTEND:20240729T100700Z
+DESCRIPTION:경영 - 남자 800m 자유형 - 예선\n🇬🇷 그리스\n🇳🇴 노르웨이\n🇩🇪 독일\n🇷🇴
+  루마니아\n🇲🇨 모나코\n🇺🇸 미국\n🇻🇪 베네수엘라\n🇻🇳 베트남\n🇧🇪 벨기에\n🇧🇷 브라질\n🇸🇪
+  스웨덴\n🇪🇸 스페인\n🇮🇪 아일랜드\n🇦🇺 오스트레일리아\n🇦🇹 오스트리아\n🇺🇿 우즈베키스탄\n🇺🇦
+  우크라이나\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇨🇳 중국\n🇹🇳 튀니지\n🇹🇷 튀르키예\n🇫🇷 프랑스\n🇭🇺
+  헝가리
+SUMMARY:🏊 남자 800m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T081000Z-rowing--8
+DTSTAMP:20240730T081000Z
+DTSTART:20240730T081000Z
+DTEND:20240730T084700Z
+DESCRIPTION:조정 - 남자 싱글스컬 8강\n🇯🇵 ARAKAWA Ryuta\n🇪🇬 Abdelkhalek
+  ELBANNA\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾
+  Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇱🇹
+  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
+  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇷🇴
+  Mihai CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin ANTOGNELLI\n🇨🇺 Reidy
+  CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos
+  NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 남자 싱글스컬 8강
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T085400Z-judo--100KG-16--CUB-MON
+DTSTAMP:20240802T085400Z
+DTSTART:20240802T085400Z
+DTEND:20240802T090000Z
+DESCRIPTION:유도 - 남자 +100kg 16강 엘리미네이션 라운드
+SUMMARY:🥋 Andy GRANDA 🇨🇺 - 🇲🇨 Marvin GADEAU
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

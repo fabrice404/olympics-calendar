@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//table-tennis/ru/BEL//EN
+X-WR-CALNAME:🇧🇪 Belgium Настольный теннис | Paris 2024
+NAME:🇧🇪 Belgium Настольный теннис | Paris 2024
+BEGIN:VEVENT
+UID:20240727T180000Z-table-tennis-132--BEL-SWE
+DTSTAMP:20240727T180000Z
+DTSTART:20240727T180000Z
+DTEND:20240727T184500Z
+DESCRIPTION:Настольный теннис - 1/32 финала, одиночный разряд (м)
+SUMMARY:🏓 Cedric NUYTINCK 🇧🇪 - 🇸🇪 Truls MOREGARD
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T080000Z-table-tennis-132--JPN-BEL
+DTSTAMP:20240729T080000Z
+DTSTART:20240729T080000Z
+DTEND:20240729T090000Z
+DESCRIPTION:Настольный теннис - 1/32 финала, одиночный разряд (м)
+SUMMARY:🏓 Tomokazu HARIMOTO 🇯🇵 - 🇧🇪 Martin ALLEGRO
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+END:VCALENDAR

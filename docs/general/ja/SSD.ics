@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ja/SSD//EN
+X-WR-CALNAME:🇸🇸 South Sudan | Paris 2024
+NAME:🇸🇸 South Sudan | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 開会式
+SUMMARY:Paris 2024 - 開会式
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T090000Z-basketball--C-SSD-PUR
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T104500Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループC
+SUMMARY:🏀 南スーダン 🇸🇸 - 🇵🇷 プエルトリコ
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T190000Z-basketball--C-USA-SSD
+DTSTAMP:20240731T190000Z
+DTSTART:20240731T190000Z
+DTEND:20240731T204500Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループC
+SUMMARY:🏀 アメリカ合衆国 🇺🇸 - 🇸🇸 南スーダン
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T190000Z-basketball--C-SRB-SSD
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T204500Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループC
+SUMMARY:🏀 セルビア 🇷🇸 - 🇸🇸 南スーダン
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

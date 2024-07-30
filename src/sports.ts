@@ -53,3 +53,5 @@ export const getSportIcon = (sport: string): string => {
   console.error(`No icon set for ${sport}`);
   return "";
 };
+
+export const getAllSportsKeys = (): string[] => [...SPORTS.keys()];

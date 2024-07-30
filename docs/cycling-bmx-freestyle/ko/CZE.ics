@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//cycling-bmx-freestyle/ko/CZE//EN
+X-WR-CALNAME:🇨🇿 Czechia 사이클 BMX 프리스타일 | Paris 2024
+NAME:🇨🇿 Czechia 사이클 BMX 프리스타일 | Paris 2024
+BEGIN:VEVENT
+UID:20240730T112500Z-cycling-bmx-freestyle--
+DTSTAMP:20240730T112500Z
+DTSTART:20240730T112500Z
+DTEND:20240730T124100Z
+DESCRIPTION:사이클 BMX 프리스타일 - 여자 파크 예선\n🇬🇧 Charlotte Elizabeth
+  WORTHINGTON\n🇨🇳 DENG Yawen\n🇺🇸 Hannah ROBERTS\n🇨🇿 Iveta
+  MICULYCOVA\n🇩🇪 Kim Lea MUELLER\n🇫🇷 Laury PEREZ\n🇨🇱 Macarena PEREZ
+  GRASSET\n🇦🇺 Natalya DIEHM\n🇨🇭 Nikita DUCARROZ\n🇺🇸 Perris
+  BENEGAS\n🇨🇴 Queen Saray VILLEGAS SERNA\n🇨🇳 SUN Jiaqi
+SUMMARY:🚴 여자 파크 예선
+LOCATION:라 콩코르드 2
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T111000Z-cycling-bmx-freestyle--
+DTSTAMP:20240731T111000Z
+DTSTART:20240731T111000Z
+DTEND:20240731T120500Z
+DESCRIPTION:사이클 BMX 프리스타일 - 여자 파크 결승\n🇨🇳 DENG Yawen\n🇺🇸 Hannah
+  ROBERTS\n🇨🇿 Iveta MICULYCOVA\n🇫🇷 Laury PEREZ\n🇨🇱 Macarena PEREZ
+  GRASSET\n🇦🇺 Natalya DIEHM\n🇺🇸 Perris BENEGAS\n🇨🇴 Queen Saray
+  VILLEGAS SERNA\n🇨🇳 SUN Jiaqi
+SUMMARY:🚴 여자 파크 결승
+LOCATION:라 콩코르드 2
+END:VEVENT
+END:VCALENDAR

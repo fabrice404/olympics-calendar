@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//beach-volleyball/ja/CHI//EN
+X-WR-CALNAME:🇨🇱 Chile ビーチバレーボール | Paris 2024
+NAME:🇨🇱 Chile ビーチバレーボール | Paris 2024
+BEGIN:VEVENT
+UID:20240728T190000Z-beach-volleyball--B-NOR-CHI
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T195000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールB
+SUMMARY:🏐 MOL/SORUM 🇳🇴 - 🇨🇱 M.GRIMALT/E.GRIMALT
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T140000Z-beach-volleyball--B-NED-CHI
+DTSTAMP:20240731T140000Z
+DTSTART:20240731T140000Z
+DTEND:20240731T145000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールB
+SUMMARY:🏐 VAN DE VELDE/IMMERS 🇳🇱 - 🇨🇱 M.GRIMALT/E.GRIMALT
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T080000Z-beach-volleyball--B-ITA-CHI
+DTSTAMP:20240802T080000Z
+DTSTART:20240802T080000Z
+DTEND:20240802T085000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールB
+SUMMARY:🏐 RANGHIERI/CARAMBULA 🇮🇹 - 🇨🇱 M.GRIMALT/E.GRIMALT
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+END:VCALENDAR

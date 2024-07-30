@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ja/MGL//EN
+X-WR-CALNAME:🇲🇳 Mongolia ボクシング | Paris 2024
+NAME:🇲🇳 Mongolia ボクシング | Paris 2024
+BEGIN:VEVENT
+UID:20240727T181600Z-boxing-54KG-32-MGL-ITA
+DTSTAMP:20240727T181600Z
+DTSTART:20240727T181600Z
+DTEND:20240727T182700Z
+DESCRIPTION:ボクシング - 女子54kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Enkhjargal MUNGUNTSETSEG 🇲🇳 - 🇮🇹 Sirine CHARAABI
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T103600Z-boxing-50KG-32-MGL-COL
+DTSTAMP:20240728T103600Z
+DTSTART:20240728T103600Z
+DTEND:20240728T104700Z
+DESCRIPTION:ボクシング - 女子50kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Yesugen OYUNTSETSEG 🇲🇳 - 🇨🇴 Ingrit Lorena VALENCIA VICTORIA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T152200Z-boxing-54KG-16-MGL-ROU
+DTSTAMP:20240730T152200Z
+DTSTART:20240730T152200Z
+DTEND:20240730T153300Z
+DESCRIPTION:ボクシング - 女子54kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Enkhjargal MUNGUNTSETSEG 🇲🇳 - 🇷🇴 Lenuta Lacramioara PERIJOC
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T152200Z-boxing-54KG--TUR-MGL
+DTSTAMP:20240801T152200Z
+DTSTART:20240801T152200Z
+DTEND:20240801T153300Z
+DESCRIPTION:ボクシング - 女子54kg級 - 準々決勝
+SUMMARY:🥊 Hatice AKBAS 🇹🇷 - 🇲🇳 Enkhjargal MUNGUNTSETSEG
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+END:VCALENDAR

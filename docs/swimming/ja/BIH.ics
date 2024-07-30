@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/ja/BIH//EN
+X-WR-CALNAME:🇧🇦 Bosnia and Herzegovina 競泳 | Paris 2024
+NAME:🇧🇦 Bosnia and Herzegovina 競泳 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T090000Z-swimming-100M
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T091100Z
+DESCRIPTION:競泳 - 女子100mバタフライ予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇦🇲 アルメニア\n🇮🇹
+  イタリア\n🇸🇿 エスワティニ\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇬🇷 ギリシャ\n🇬🇪
+  ジョージア\n🇸🇪 スウェーデン\n🇪🇸 スペイン\n🇸🇳 セネガル\n🇨🇿 チェコ\n🇩🇰 デンマーク\n🇩🇪
+  ドイツ\n🇳🇮 ニカラグア\n🇳🇿 ニュージーランド\n🇵🇾 パラグアイ\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇧🇦
+  ボスニア・ヘルツェゴビナ\n🇨🇳 中国\n🇿🇦 南アフリカ\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 女子100mバタフライ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T094500Z-swimming-400M
+DTSTAMP:20240727T094500Z
+DTSTART:20240727T094500Z
+DTEND:20240727T101400Z
+DESCRIPTION:競泳 - 男子400m自由形予選\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇺🇿 ウズベキスタン\n🇪🇪
+  エストニア\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇬🇾 ガイアナ\n🇰🇪 ケニア\n🇨🇷 コスタリカ\n🇸🇲
+  サンマリノ\n🇨🇭 スイス\n🇸🇪 スウェーデン\n🇹🇳 チュニジア\n🇨🇱 チリ\n🇩🇪 ドイツ\n🇭🇺
+  ハンガリー\n🇫🇷 フランス\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇻🇪 ベネズエラ\n🇧🇪 ベルギー\n🇵🇪
+  ペルー\n🇧🇦 ボスニア・ヘルツェゴビナ\n🇲🇾 マレーシア\n🇲🇩 モルドバ共和国\n🇲🇦 モロッコ\n🇱🇹
+  リトアニア\n🇨🇳 中国\n🇲🇰 北マケドニア\n🇰🇷 大韓民国\n🇬🇧 英国
+SUMMARY:🏊 男子400m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T094600Z-swimming-200M
+DTSTAMP:20240731T094600Z
+DTSTART:20240731T094600Z
+DTEND:20240731T100600Z
+DESCRIPTION:競泳 - 女子200mバタフライ予選\n🇺🇸 アメリカ合衆国\n🇦🇴 アンゴラ\n🇦🇺 オーストラリア\n🇨🇦
+  カナダ\n🇬🇷 ギリシャ\n🇨🇷 コスタリカ\n🇪🇸 スペイン\n🇷🇸 セルビア\n🇩🇰 デンマーク\n🇭🇺
+  ハンガリー\n🇧🇦 ボスニア・ヘルツェゴビナ\n🇨🇳 中国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 女子200mバタフライ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+END:VCALENDAR

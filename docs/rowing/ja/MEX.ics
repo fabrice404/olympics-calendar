@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/ja/MEX//EN
+X-WR-CALNAME:🇲🇽 Mexico ローイング | Paris 2024
+NAME:🇲🇽 Mexico ローイング | Paris 2024
+BEGIN:VEVENT
+UID:20240727T081200Z-rowing-
+DTSTAMP:20240727T081200Z
+DTSTART:20240727T081200Z
+DTEND:20240727T091900Z
+DESCRIPTION:ローイング - 女子シングルスカル予選\n🇦🇿 アゼルバイジャン\n🇺🇸 アメリカ合衆国\n🇩🇿
+  アルジェリア\n🇮🇷 イラン・イスラム共和国\n🇺🇬 ウガンダ\n🇺🇿 ウズベキスタン\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇦🇹 オーストリア\n🇨🇺 キューバ\n🇰🇼 クウェート\n🇸🇬 シンガポール\n🇨🇭 スイス\n🇪🇸
+  スペイン\n🇸🇮 スロベニア\n🇷🇸 セルビア\n🇹🇷 トルコ\n🇹🇬 トーゴ\n🇩🇪 ドイツ\n🇳🇮
+  ニカラグア\n🇳🇿 ニュージーランド\n🇵🇾 パラグアイ\n🇵🇭 フィリピン\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇻🇳
+  ベトナム\n🇵🇪 ペルー\n🇲🇽 メキシコ\n🇲🇦 モロッコ\n🇱🇹 リトアニア\n🇿🇦 南アフリカ
+SUMMARY:🚣 女子シングルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-rowing-
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T102700Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル予選\n🇮🇪 アイルランド\n🇦🇷 アルゼンチン\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇺🇿 ウズベキスタン\n🇪🇬 エジプト\n🇬🇷 ギリシャ\n🇨🇭 スイス\n🇪🇸
+  スペイン\n🇨🇿 チェコ\n🇨🇱 チリ\n🇳🇴 ノルウェー\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽
+  メキシコ\n🇯🇵 日本
+SUMMARY:🚣 男子軽量級ダブルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T084000Z-rowing-
+DTSTAMP:20240729T084000Z
+DTSTART:20240729T084000Z
+DTEND:20240729T085700Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル敗者復活戦\n🇦🇷 アルゼンチン\n🇺🇦 ウクライナ\n🇺🇿
+  ウズベキスタン\n🇪🇬 エジプト\n🇬🇷 ギリシャ\n🇨🇱 チリ\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽
+  メキシコ\n🇯🇵 日本
+SUMMARY:🚣 男子軽量級ダブルスカル敗者復活戦
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T073000Z-rowing-
+DTSTAMP:20240730T073000Z
+DTSTART:20240730T073000Z
+DTEND:20240730T080700Z
+DESCRIPTION:ローイング - 女子シングルスカル準々決勝\n🇵🇪 Adriana SANGUINETI\n🇵🇾 Alejandra
+  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
+  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
+  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
+  TWIGG\n🇮🇷 Fatemeh MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸
+  Jovana ARSIC\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇲🇽 Kenia LECHUGA
+  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige
+  BADENHORST\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
+  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS
+SUMMARY:🚣 女子シングルスカル準々決勝
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T092400Z-rowing-AB-2
+DTSTAMP:20240731T092400Z
+DTSTART:20240731T092400Z
+DTEND:20240731T093100Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル準決勝A/B - 2組\n🇮🇹 イタリア\n🇺🇦 ウクライナ\n🇬🇷
+  ギリシャ\n🇪🇸 スペイン\n🇳🇴 ノルウェー\n🇲🇽 メキシコ
+SUMMARY:🚣 男子軽量級ダブルスカル準決勝A/B - 2組
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//golf/ja/medals//EN
+X-WR-CALNAME:⛳ ゴルフ 🏅 | Paris 2024
+NAME:⛳ ゴルフ 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240804T070000Z-golf-4
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T160000Z
+DESCRIPTION:ゴルフ - 男子第4ラウンド
+SUMMARY:⛳ 男子第4ラウンド
+LOCATION:国立ゴルフ場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T070000Z-golf-4
+DTSTAMP:20240810T070000Z
+DTSTART:20240810T070000Z
+DTEND:20240810T160000Z
+DESCRIPTION:ゴルフ - 女子第4ラウンド
+SUMMARY:⛳ 女子第4ラウンド
+LOCATION:国立ゴルフ場
+END:VEVENT
+END:VCALENDAR

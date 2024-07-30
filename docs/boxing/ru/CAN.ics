@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//boxing/ru/CAN//EN
+X-WR-CALNAME:🇨🇦 Canada Бокс | Paris 2024
+NAME:🇨🇦 Canada Бокс | Paris 2024
+BEGIN:VEVENT
+UID:20240729T094800Z-boxing--18-635--CAN-BUL
+DTSTAMP:20240729T094800Z
+DTSTART:20240729T094800Z
+DTEND:20240729T095900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 63,5кг (м)
+SUMMARY:🥊 Wyatt SANFORD 🇨🇦 - 🇧🇬 Radoslav Simeonov ROSENOV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T150600Z-boxing--18-75--CAN-EOR
+DTSTAMP:20240731T150600Z
+DTSTART:20240731T150600Z
+DTEND:20240731T151700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 75кг (ж)
+SUMMARY:🥊 Tammara Amanda THIBEAULT 🇨🇦 - 🏳️ Cindy Winner DJANKEU NGAMBA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T105200Z-boxing--635--CAN-UZB
+DTSTAMP:20240801T105200Z
+DTSTART:20240801T105200Z
+DTEND:20240801T110300Z
+DESCRIPTION:Бокс - Четвертьфинал, до 63,5кг (м)
+SUMMARY:🥊 Wyatt SANFORD 🇨🇦 - 🇺🇿 Ruslan ABDULLAEV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//surfing/ko/NCA//EN
+X-WR-CALNAME:🇳🇮 Nicaragua 서핑 | Paris 2024
+NAME:🇳🇮 Nicaragua 서핑 | Paris 2024
+BEGIN:VEVENT
+UID:20240728T001200Z-surfing--1-5
+DTSTAMP:20240728T001200Z
+DTSTART:20240728T001200Z
+DTEND:20240728T004200Z
+DESCRIPTION:서핑 - 여자 1라운드 - 5조\n🇨🇷 Brisa HENNESSY\n🇳🇮 Candelaria
+  RESANO\n🇫🇷 Johanne DEFAY
+SUMMARY:🏄 여자 1라운드 - 5조
+LOCATION:타히티, 테아후푸
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T192400Z-surfing--2-5-BRA-NCA
+DTSTAMP:20240728T192400Z
+DTSTART:20240728T192400Z
+DTEND:20240728T195400Z
+DESCRIPTION:서핑 - 여자 2라운드 - 5조
+SUMMARY:🏄 Tatiana WESTON-WEBB 🇧🇷 - 🇳🇮 Candelaria RESANO
+LOCATION:타히티, 테아후푸
+END:VEVENT
+END:VCALENDAR

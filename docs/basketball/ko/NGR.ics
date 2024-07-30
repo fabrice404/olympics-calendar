@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//basketball/ko/NGR//EN
+X-WR-CALNAME:🇳🇬 Nigeria 농구 | Paris 2024
+NAME:🇳🇬 Nigeria 농구 | Paris 2024
+BEGIN:VEVENT
+UID:20240729T090000Z-basketball--B-NGR-AUS
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T104500Z
+DESCRIPTION:농구 - 여자 조별예선 B조
+SUMMARY:🏀 나이지리아 🇳🇬 - 🇦🇺 오스트레일리아
+LOCATION:피에르 모루아 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T151500Z-basketball--B-FRA-NGR
+DTSTAMP:20240801T151500Z
+DTSTART:20240801T151500Z
+DTEND:20240801T170000Z
+DESCRIPTION:농구 - 여자 조별예선 B조
+SUMMARY:🏀 프랑스 🇫🇷 - 🇳🇬 나이지리아
+LOCATION:피에르 모루아 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T113000Z-basketball--B-CAN-NGR
+DTSTAMP:20240804T113000Z
+DTSTART:20240804T113000Z
+DTEND:20240804T131500Z
+DESCRIPTION:농구 - 여자 조별예선 B조
+SUMMARY:🏀 캐나다 🇨🇦 - 🇳🇬 나이지리아
+LOCATION:피에르 모루아 스타디움
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ru/ITA//EN
+X-WR-CALNAME:🇮🇹 Italy Бадминтон | Paris 2024
+NAME:🇮🇹 Italy Бадминтон | Paris 2024
+BEGIN:VEVENT
+UID:20240729T081000Z-badminton---ITA-SUR
+DTSTAMP:20240729T081000Z
+DTSTART:20240729T081000Z
+DTEND:20240729T085000Z
+DESCRIPTION:Бадминтон - Групповой этап, одиночный, группа А (м)
+SUMMARY:🏸 Giovanni TOTI 🇮🇹 - 🇸🇷 Soren OPTI
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-badminton---CHN-ITA
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T094000Z
+DESCRIPTION:Бадминтон - Групповой этап, одиночный, группа А (м)
+SUMMARY:🏸 SHI Yu Qi 🇨🇳 - 🇮🇹 Giovanni TOTI
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+END:VCALENDAR

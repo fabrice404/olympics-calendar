@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//surfing/ru/AUS//EN
+X-WR-CALNAME:🇦🇺 Australia Серфинг | Paris 2024
+NAME:🇦🇺 Australia Серфинг | Paris 2024
+BEGIN:VEVENT
+UID:20240727T170000Z-surfing--1-1-
+DTSTAMP:20240727T170000Z
+DTSTART:20240727T170000Z
+DTEND:20240727T173000Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 1 (м)\n🇦🇺 Ethan EWING\n🇿🇦 Jordy
+  SMITH\n🇩🇪 Tim ELTER
+SUMMARY:🏄 Раунд 1, заезд 1 (м)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T173600Z-surfing--1-2-
+DTSTAMP:20240727T173600Z
+DTSTART:20240727T173600Z
+DTEND:20240727T180600Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 2 (м)\n🇦🇺 Jack ROBINSON\n🇫🇷 Joan
+  DURU\n🇿🇦 Matthew McGILLIVRAY
+SUMMARY:🏄 Раунд 1, заезд 2 (м)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T230000Z-surfing--1-3-
+DTSTAMP:20240727T230000Z
+DTSTART:20240727T230000Z
+DTEND:20240727T233000Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 3 (ж)\n🇮🇱 Anat LELIOR\n🇨🇦 Sanoa
+  DEMPFLE-OLIN\n🇦🇺 Tyler WRIGHT
+SUMMARY:🏄 Раунд 1, заезд 3 (ж)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T233600Z-surfing--1-4-
+DTSTAMP:20240727T233600Z
+DTSTART:20240727T233600Z
+DTEND:20240728T000600Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 4 (ж)\n🇺🇸 Caitlin SIMMERS\n🇦🇺
+  Molly PICKLUM\n🇧🇷 Tatiana WESTON-WEBB
+SUMMARY:🏄 Раунд 1, заезд 4 (ж)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T184800Z-surfing--2-4--FRA-AUS
+DTSTAMP:20240728T184800Z
+DTSTART:20240728T184800Z
+DTEND:20240728T191800Z
+DESCRIPTION:Серфинг - Раунд 2, заезд 4 (ж)
+SUMMARY:🏄 Johanne DEFAY 🇫🇷 - 🇦🇺 Molly PICKLUM
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T013400Z-surfing--2-7--AUS-PER
+DTSTAMP:20240729T013400Z
+DTSTART:20240729T013400Z
+DTEND:20240729T021400Z
+DESCRIPTION:Серфинг - Раунд 2, заезд 7 (м)
+SUMMARY:🏄 Jack ROBINSON 🇦🇺 - 🇵🇪 Lucca MESINAS
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T203600Z-surfing--3-7--AUS-USA
+DTSTAMP:20240729T203600Z
+DTSTART:20240729T203600Z
+DTEND:20240729T210600Z
+DESCRIPTION:Серфинг - Раунд 3, заезд 7 (м)
+SUMMARY:🏄 Jack ROBINSON 🇦🇺 - 🇺🇸 John John FLORENCE
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T211200Z-surfing--3-8--AUS-JPN
+DTSTAMP:20240729T211200Z
+DTSTART:20240729T211200Z
+DTEND:20240729T214200Z
+DESCRIPTION:Серфинг - Раунд 3, заезд 8 (м)
+SUMMARY:🏄 Ethan EWING 🇦🇺 - 🇯🇵 O'LEARY Connor
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T222400Z-surfing--3-2--AUS-ISR
+DTSTAMP:20240729T222400Z
+DTSTART:20240729T222400Z
+DTEND:20240729T225400Z
+DESCRIPTION:Серфинг - Раунд 3, заезд 2 (ж)
+SUMMARY:🏄 Tyler WRIGHT 🇦🇺 - 🇮🇱 Anat LELIOR
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T184800Z-surfing-14-4--AUS-AUS
+DTSTAMP:20240730T184800Z
+DTSTART:20240730T184800Z
+DTEND:20240730T191800Z
+DESCRIPTION:Серфинг - 1/4 финала, заезд 4 (м)
+SUMMARY:🏄 Jack ROBINSON 🇦🇺 - 🇦🇺 Ethan EWING
+LOCATION:Теахупоо, Таити
+END:VEVENT
+END:VCALENDAR

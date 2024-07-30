@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//golf/ru/medals//EN
+X-WR-CALNAME:⛳ Гольф 🏅 | Paris 2024
+NAME:⛳ Гольф 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240804T070000Z-golf--4-
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T160000Z
+DESCRIPTION:Гольф - Личный зачет, раунд 4 (м)
+SUMMARY:⛳ Личный зачет, раунд 4 (м)
+LOCATION:Центр «Гольф-Насьональ»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T070000Z-golf--4-
+DTSTAMP:20240810T070000Z
+DTSTART:20240810T070000Z
+DTEND:20240810T160000Z
+DESCRIPTION:Гольф - Личный зачет, раунд 4 (ж)
+SUMMARY:⛳ Личный зачет, раунд 4 (ж)
+LOCATION:Центр «Гольф-Насьональ»
+END:VEVENT
+END:VCALENDAR

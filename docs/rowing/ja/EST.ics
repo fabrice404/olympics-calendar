@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rowing/ja/EST//EN
+X-WR-CALNAME:🇪🇪 Estonia ローイング | Paris 2024
+NAME:🇪🇪 Estonia ローイング | Paris 2024
+BEGIN:VEVENT
+UID:20240727T103000Z-rowing-
+DTSTAMP:20240727T103000Z
+DTSTART:20240727T103000Z
+DTEND:20240727T104700Z
+DESCRIPTION:ローイング - 男子クオドルプルスカル予選\n🇮🇹 イタリア\n🇪🇪 エストニア\n🇳🇱 オランダ\n🇨🇭
+  スイス\n🇩🇪 ドイツ\n🇳🇴 ノルウェー\n🇵🇱 ポーランド\n🇷🇴 ルーマニア\n🇬🇧 英国
+SUMMARY:🚣 男子クオドルプルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T092000Z-rowing-
+DTSTAMP:20240729T092000Z
+DTSTART:20240729T092000Z
+DTEND:20240729T092700Z
+DESCRIPTION:ローイング - 男子クオドルプルスカル敗者復活戦\n🇪🇪 エストニア\n🇨🇭 スイス\n🇩🇪 ドイツ\n🇳🇴
+  ノルウェー\n🇷🇴 ルーマニア
+SUMMARY:🚣 男子クオドルプルスカル敗者復活戦
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T100200Z-rowing-B
+DTSTAMP:20240731T100200Z
+DTSTART:20240731T100200Z
+DTEND:20240731T100900Z
+DESCRIPTION:ローイング - 男子クオドルプルスカル決勝B\n🇪🇪 エストニア\n🇳🇴 ノルウェー\n🇷🇴 ルーマニア
+SUMMARY:🚣 男子クオドルプルスカル決勝B
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+END:VCALENDAR

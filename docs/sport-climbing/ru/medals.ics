@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//sport-climbing/ru/medals//EN
+X-WR-CALNAME:🧗 Спортивное скалолазание 🏅 | Paris 2024
+NAME:🧗 Спортивное скалолазание 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240807T105430Z-sport-climbing--
+DTSTAMP:20240807T105430Z
+DTSTART:20240807T105430Z
+DTEND:20240807T105930Z
+DESCRIPTION:Спортивное скалолазание - Скорость, финал (ж)
+SUMMARY:🧗 Скорость, финал (ж)
+LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T105430Z-sport-climbing--
+DTSTAMP:20240808T105430Z
+DTSTART:20240808T105430Z
+DTEND:20240808T105930Z
+DESCRIPTION:Спортивное скалолазание - Скорость, финал (м)
+SUMMARY:🧗 Скорость, финал (м)
+LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103500Z-sport-climbing--
+DTSTAMP:20240809T103500Z
+DTSTART:20240809T103500Z
+DTEND:20240809T112000Z
+DESCRIPTION:Спортивное скалолазание - Трудность, финал (м)
+SUMMARY:🧗 Трудность, финал (м)
+LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T103500Z-sport-climbing--
+DTSTAMP:20240810T103500Z
+DTSTART:20240810T103500Z
+DTEND:20240810T112000Z
+DESCRIPTION:Спортивное скалолазание - Трудность, финал (м)
+SUMMARY:🧗 Трудность, финал (м)
+LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ja/ZIM//EN
+X-WR-CALNAME:🇿🇼 Zimbabwe | Paris 2024
+NAME:🇿🇼 Zimbabwe | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 開会式
+SUMMARY:Paris 2024 - 開会式
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T070000Z-rowing-
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:ローイング - 男子シングルスカル予選\n🇺🇸 アメリカ合衆国\n🇩🇿 アルジェリア\n🇦🇴 アンゴラ\n🇮🇳
+  インド\n🇮🇩 インドネシア\n🇺🇾 ウルグアイ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇰🇿 カザフスタン\n🇨🇺
+  キューバ\n🇬🇷 ギリシャ\n🇭🇷 クロアチア\n🇿🇼 ジンバブエ\n🇸🇮 スロベニア\n🇸🇩 スーダン\n🇹🇭
+  タイ\n🇹🇳 チュニジア\n🇩🇰 デンマーク\n🇩🇪 ドイツ\n🇳🇿 ニュージーランド\n🇭🇺 ハンガリー\n🇧🇲
+  バミューダ\n🇵🇾 パラグアイ\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇧🇪 ベルギー\n🇭🇰 ホンコン・チャイナ\n🇲🇨
+  モナコ\n🇱🇹 リトアニア\n🇱🇾 リビア\n🇷🇴 ルーマニア\n🇯🇵 日本
+SUMMARY:🚣 男子シングルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073600Z-rowing-
+DTSTAMP:20240728T073600Z
+DTSTART:20240728T073600Z
+DTEND:20240728T080700Z
+DESCRIPTION:ローイング - 男子シングルスカル敗者復活戦\n🇩🇿 アルジェリア\n🇦🇴 アンゴラ\n🇮🇳 インド\n🇮🇩
+  インドネシア\n🇰🇿 カザフスタン\n🇿🇼 ジンバブエ\n🇸🇮 スロベニア\n🇸🇩 スーダン\n🇹🇭 タイ\n🇹🇳
+  チュニジア\n🇧🇲 バミューダ\n🇵🇾 パラグアイ\n🇭🇰 ホンコン・チャイナ\n🇲🇨 モナコ\n🇱🇾 リビア
+SUMMARY:🚣 男子シングルスカル敗者復活戦
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T074200Z-rowing-EF-2
+DTSTAMP:20240729T074200Z
+DTSTART:20240729T074200Z
+DTEND:20240729T074900Z
+DESCRIPTION:ローイング - 男子シングルスカル準決勝E/F - 2組\n🇸🇩 Abdalla AHMED\n🇧🇲 Dara
+  ALIZADEH\n🇱🇾 Mohamed BUKRAH\n🇹🇭 Premanut WATTANANUSITH\n🇿🇼 Stephen
+  COX
+SUMMARY:🚣 男子シングルスカル準決勝E/F - 2組
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T104700Z-swimming-100M
+DTSTAMP:20240730T104700Z
+DTSTART:20240730T104700Z
+DTEND:20240730T110000Z
+DESCRIPTION:競泳 - 女子100m自由形予選\n🇬🇾 Aleka Kylela PERSAUD\n🇬🇧 Anna
+  HOPKIN\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Beryl GASTALDELLO\n🇺🇬 Gloria Anna
+  MUZITO\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇭🇷 Jana
+  PAVALIC\n🇰🇾 Jillian Janis Geohagan CROOKS\n🇨🇾 Kalia ANTONIOU\n🇵🇭
+  Kayla SANCHEZ\n🇵🇱 Kornelia FIEDKIEWICZ\n🇨🇦 Margaret MAC NEIL\n🇫🇷
+  Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇧🇼 Maxine EGNER\n🇸🇪 Michelle
+  COLEMAN\n🇦🇺 Mollie O'CALLAGHAN\n🇩🇿 Nesrine MEDJAHED\n🇸🇮 Neza
+  KLANCAR\n🇿🇼 Paige van der WESTHUIZEN\n🇸🇩 Rana SAADELDIN\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇮🇸 Snaefridur Sol JORUNNARDOTTIR\n🇬🇩
+  Tilly COLLYMORE\n🇺🇸 Torri HUSKE\n🇨🇳 WU Qingfeng\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 女子100m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T092100Z-swimming-200M
+DTSTAMP:20240731T092100Z
+DTSTART:20240731T092100Z
+DTEND:20240731T094600Z
+DESCRIPTION:競泳 - 男子200m背泳ぎ予選\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹 イタリア\n🇺🇦
+  ウクライナ\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇬🇷 ギリシャ\n🇿🇼 ジンバブエ\n🇨🇭
+  スイス\n🇪🇸 スペイン\n🇸🇩 スーダン\n🇩🇪 ドイツ\n🇳🇿 ニュージーランド\n🇭🇺 ハンガリー\n🇫🇷
+  フランス\n🇵🇷 プエルトリコ\n🇵🇱 ポーランド\n🇨🇳 中国\n🇿🇦 南アフリカ\n🇰🇷 大韓民国\n🇯🇵
+  日本\n🇬🇧 英国
+SUMMARY:🏊 男子200m背泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T075400Z-rowing-E
+DTSTAMP:20240802T075400Z
+DTSTART:20240802T075400Z
+DTEND:20240802T080100Z
+DESCRIPTION:ローイング - 男子シングルスカル決勝E\n🇧🇲 Dara ALIZADEH\n🇮🇩 MEMO\n🇹🇳
+  Mohamed TAIEB\n🇹🇭 Premanut WATTANANUSITH\n🇿🇼 Stephen COX\n🇰🇿
+  Vladislav YAKOVLEV
+SUMMARY:🚣 男子シングルスカル決勝E
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

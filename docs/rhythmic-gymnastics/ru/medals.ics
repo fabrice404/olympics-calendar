@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//rhythmic-gymnastics/ru/medals//EN
+X-WR-CALNAME:🤸 Художественная гимнастика 🏅 | Paris 2024
+NAME:🤸 Художественная гимнастика 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240809T123000Z-rhythmic-gymnastics--
+DTSTAMP:20240809T123000Z
+DTSTART:20240809T123000Z
+DTEND:20240809T150300Z
+DESCRIPTION:Художественная гимнастика - Личное многоборье, финал
+SUMMARY:🤸 Личное многоборье, финал
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T120000Z-rhythmic-gymnastics--
+DTSTAMP:20240810T120000Z
+DTSTART:20240810T120000Z
+DTEND:20240810T132600Z
+DESCRIPTION:Художественная гимнастика - Групповое многоборье, финал
+SUMMARY:🤸 Групповое многоборье, финал
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+END:VCALENDAR

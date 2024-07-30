@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//judo/ko/BIH//EN
+X-WR-CALNAME:🇧🇦 Bosnia and Herzegovina 유도 | Paris 2024
+NAME:🇧🇦 Bosnia and Herzegovina 유도 | Paris 2024
+BEGIN:VEVENT
+UID:20240731T081200Z-judo--70KG-32--BIH-DEN
+DTSTAMP:20240731T081200Z
+DTSTART:20240731T081200Z
+DTEND:20240731T081800Z
+DESCRIPTION:유도 - 여자 -70kg 32강 엘리미네이션 라운드
+SUMMARY:🥋 Aleksandra SAMARDZIC 🇧🇦 - 🇩🇰 Laerke OLSEN
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T081200Z-judo--78KG-32--NZL-BIH
+DTSTAMP:20240802T081200Z
+DTSTART:20240802T081200Z
+DTEND:20240802T081800Z
+DESCRIPTION:유도 - 여자 +78kg 32강 엘리미네이션 라운드
+SUMMARY:🥋 Sydnee ANDREWS 🇳🇿 - 🇧🇦 Larisa CERIC
+LOCATION:샹드마르 아레나
+END:VEVENT
+END:VCALENDAR

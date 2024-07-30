@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//trampoline-gymnastics/ru/medals//EN
+X-WR-CALNAME:🤸 Прыжки на батуте 🏅 | Paris 2024
+NAME:🤸 Прыжки на батуте 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240802T115000Z-trampoline-gymnastics--
+DTSTAMP:20240802T115000Z
+DTSTART:20240802T115000Z
+DTEND:20240802T122000Z
+DESCRIPTION:Прыжки на батуте - Финал (ж)
+SUMMARY:🤸 Финал (ж)
+LOCATION:Арена «Берси»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T175000Z-trampoline-gymnastics--
+DTSTAMP:20240802T175000Z
+DTSTART:20240802T175000Z
+DTEND:20240802T182000Z
+DESCRIPTION:Прыжки на батуте - Финал (м)
+SUMMARY:🤸 Финал (м)
+LOCATION:Арена «Берси»
+END:VEVENT
+END:VCALENDAR

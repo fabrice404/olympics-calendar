@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ru/RSA//EN
+X-WR-CALNAME:🇿🇦 South Africa Бадминтон | Paris 2024
+NAME:🇿🇦 South Africa Бадминтон | Paris 2024
+BEGIN:VEVENT
+UID:20240727T125000Z-badminton--H--KOR-RSA
+DTSTAMP:20240727T125000Z
+DTSTART:20240727T125000Z
+DTEND:20240727T133000Z
+DESCRIPTION:Бадминтон - Групповой этап, одиночный, группа H (ж)
+SUMMARY:🏸 KIM Ga Eun 🇰🇷 - 🇿🇦 Johanita SCHOLTZ
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T120000Z-badminton--H--MAS-RSA
+DTSTAMP:20240729T120000Z
+DTSTART:20240729T120000Z
+DTEND:20240729T124000Z
+DESCRIPTION:Бадминтон - Групповой этап, одиночный, группа H (ж)
+SUMMARY:🏸 Jin Wei GOH 🇲🇾 - 🇿🇦 Johanita SCHOLTZ
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+END:VCALENDAR

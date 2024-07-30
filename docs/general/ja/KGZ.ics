@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ja/KGZ//EN
+X-WR-CALNAME:🇰🇬 Kyrgyzstan | Paris 2024
+NAME:🇰🇬 Kyrgyzstan | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 開会式
+SUMMARY:Paris 2024 - 開会式
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T093000Z-swimming-100M
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T094400Z
+DESCRIPTION:競泳 - 男子100m平泳ぎ予選\n🇮🇸 アイスランド\n🇺🇸 アメリカ合衆国\n🇦🇬
+  アンティグア・バーブーダ\n🇮🇱 イスラエル\n🇮🇹 イタリア\n🇸🇿 エスワティニ\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇦🇹 オーストリア\n🇶🇦 カタール\n🇰🇬 キルギス\n🇹🇷 トルコ\n🇩🇪 ドイツ\n🇭🇹
+  ハイチ\n🇧🇼 ボツワナ\n🇵🇱 ポーランド\n🇲🇬 マダガスカル\n🇫🇲 ミクロネシア\n🇲🇽 メキシコ\n🇲🇿
+  モザンビーク\n🇱🇦 ラオス人民民主共和国\n🇱🇹 リトアニア\n🇨🇳 中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇦🇸
+  米領サモア\n🇬🇧 英国
+SUMMARY:🏊 男子100m平泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T084800Z-judo-66KG2-KGZ-UKR
+DTSTAMP:20240728T084800Z
+DTSTART:20240728T084800Z
+DTEND:20240728T085400Z
+DESCRIPTION:柔道 - 男子66kg級2回戦
+SUMMARY:🥋 Kubanychbek AIBEK UULU 🇰🇬 - 🇺🇦 Bogdan IADOV
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110100Z-swimming-200M
+DTSTAMP:20240730T110100Z
+DTSTART:20240730T110100Z
+DTEND:20240730T111900Z
+DESCRIPTION:競泳 - 男子200m平泳ぎ予選\n🇱🇹 Aleksas SAVICKAS\n🇯🇴 Amro AL-WIR\n🇮🇸
+  Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦 Bernhard Tyler CHRISTIANSON\n🇰🇷
+  CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳 DONG Zhihao\n🇱🇻 Daniils
+  BOBROVS\n🇰🇬 Denis PETRASHOV\n🇸🇪 Erik PERSSON\n🇯🇵 HANAGURUMA
+  Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺 Joshua YONG\n🇭🇳 Julio
+  HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir EPITROPOV\n🇺🇸 Matt
+  FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro de LARA OJEDA\n🇨🇳
+  QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE Ippei\n🇦🇺 Zac
+  STUBBLETY-COOK
+SUMMARY:🏊 男子200m平泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T195900Z-swimming-200M
+DTSTAMP:20240730T195900Z
+DTSTART:20240730T195900Z
+DTEND:20240730T201500Z
+DESCRIPTION:競泳 - 男子200m平泳ぎ準決勝\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇰🇷
+  CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳 DONG Zhihao\n🇰🇬 Denis
+  PETRASHOV\n🇸🇪 Erik PERSSON\n🇯🇵 HANAGURUMA Yu\n🇺🇸 Josh MATHENY\n🇦🇺
+  Joshua YONG\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir EPITROPOV\n🇺🇸 Matt
+  FALLON\n🇨🇳 QIN Haiyang\n🇯🇵 WATANABE Ippei\n🇦🇺 Zac STUBBLETY-COOK
+SUMMARY:🏊 男子200m平泳ぎ準決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T081800Z-judo-90KG2-KGZ-CUB
+DTSTAMP:20240731T081800Z
+DTSTART:20240731T081800Z
+DTEND:20240731T082400Z
+DESCRIPTION:柔道 - 男子90kg級2回戦
+SUMMARY:🥋 Erlan SHEROV 🇰🇬 - 🇨🇺 Ivan Felipe SILVA MORALES
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T180000Z-boxing-57KG-16-KGZ-CUB
+DTSTAMP:20240731T180000Z
+DTSTART:20240731T180000Z
+DTEND:20240731T181100Z
+DESCRIPTION:ボクシング - 男子57kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Munarbek SEIITBEK UULU 🇰🇬 - 🇨🇺 Saidel Ivan HORTA RODRIGUEZ d
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-swimming-50M
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T093000Z
+DESCRIPTION:競泳 - 女子50m自由形予選\n🇳🇬 Adaku NWANDU\n🇹🇬 Adele Sodalo Agnes
+  GAITOU\n🇲🇱 Aichata DIABATE\n🇲🇻 Aishath Ulya SHAIG\n🇫🇯 Anahira
+  McCUTCHEON\n🇪🇨 Anicka DELGADO\n🇬🇧 Anna HOPKIN\n🇲🇬 Antsa
+  RABEJAONA\n🇰🇭 Apsara Katarina SAKBUM\n🇫🇷 Beryl GASTALDELLO\n🇦🇼
+  Chloe FARRO\n🇪🇷 Christina RACH\n🇮🇪 Danielle HILL\n🇨🇩 Divine
+  MIANSADI\n🇬🇳 Djenabou Jolie BAH\n🇹🇯 Ekaterina BORDACHYOVA\n🇰🇬
+  Elizaveta PECHERSKIKH\n🇧🇪 Florine GASPARD\n🇵🇬 Georgia-Leigh
+  VELE\n🇨🇲 Grace Manuela NGUELO'O MABEU\n🇺🇸 Gretchen WALSH\n🇽🇰 Hana
+  BEIQI\n🇧🇳 Hayley WONG\n🇧🇫 Iman KOURAOGO\n🇹🇱 Imelda XIMENES
+  BELO\n🇧🇯 Ionnah Eliane DOUILLET\n🇸🇧 Isabella MILLAR\n🇭🇷 Jana
+  PAVALIC\n🇩🇲 Jasmine SCHOFIELD\n🇹🇭 Jenjira SRISA - ARD\n🇬🇭 Joselle
+  MENSAH\n🇲🇪 Jovana KULJACA\n🇩🇰 Julie Kepp JENSEN\n🇸🇷 Kaelyn Ciara
+  Suryanti DJOPARTO\n🇼🇸 Kaiya BROWN\n🇵🇱 Katarzyna WASICK\n🇲🇭 Kayla
+  HEPLER\n🇻🇨 Kennice Aphenie GREENE\n🇫🇲 Kestra KIHLENG\n🇸🇨 Khema
+  ELIZABETH\n🇳🇱 Kim BUSCH\n🇵🇱 Kornelia FIEDKIEWICZ\n🇷🇼 Lidwine
+  UMUHOZA UWASE\n🇪🇹 Lina Alemayehu SELO\n🇻🇺 Loane RUSSET\n🇧🇮 Lois
+  Eliora IRISHURA\n🇰🇲 Maesha SAADI\n🇰🇪 Maria BRUNLEHNER\n🇧🇴 Maria
+  Jose RIBERA\n🇦🇿 Mariam SHEIKHALIZADEHKHANGHAH\n🇭🇹 Mayah
+  CHOULOUTE\n🇦🇺 Meg HARRIS\n🇫🇷 Melanie HENIQUE\n🇿🇲 Mia PHIRI\n🇸🇪
+  Michelle COLEMAN\n🇧🇩 Mst Sonia KHATUN\n🇩🇯 Naima-Zahra AMISON\n🇸🇮
+  Neza KLANCAR\n🇹🇴 Noelani Malia DAY\n🇬🇦 Noelie Annette LACOUR\n🇸🇱
+  Olamide SAM\n🇭🇺 Petra SENANSZKY\n🇧🇸 Rhanishka GIBBS\n🇯🇲 Sabrina
+  LYN\n🇳🇪 Salima AHMADOU YOUSSOUFOU\n🇮🇹 Sara CURTIS\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Simone MANUEL\n🇹🇿 Sophia
+  LATIFF\n🇲🇼 Tayamika CHANGANAMUNO\n🇨🇦 Taylor RUCK\n🇬🇷 Theodora
+  DRAKOU\n🇨🇫 Tracy Marine ANDET\n🇳🇱 Valerie van ROON\n🇨🇬 Vanessa
+  BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 女子50m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

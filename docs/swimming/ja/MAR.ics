@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/ja/MAR//EN
+X-WR-CALNAME:🇲🇦 Morocco 競泳 | Paris 2024
+NAME:🇲🇦 Morocco 競泳 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T094500Z-swimming-400M
+DTSTAMP:20240727T094500Z
+DTSTART:20240727T094500Z
+DTEND:20240727T101400Z
+DESCRIPTION:競泳 - 男子400m自由形予選\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇺🇿 ウズベキスタン\n🇪🇪
+  エストニア\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇬🇾 ガイアナ\n🇰🇪 ケニア\n🇨🇷 コスタリカ\n🇸🇲
+  サンマリノ\n🇨🇭 スイス\n🇸🇪 スウェーデン\n🇹🇳 チュニジア\n🇨🇱 チリ\n🇩🇪 ドイツ\n🇭🇺
+  ハンガリー\n🇫🇷 フランス\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇻🇪 ベネズエラ\n🇧🇪 ベルギー\n🇵🇪
+  ペルー\n🇧🇦 ボスニア・ヘルツェゴビナ\n🇲🇾 マレーシア\n🇲🇩 モルドバ共和国\n🇲🇦 モロッコ\n🇱🇹
+  リトアニア\n🇨🇳 中国\n🇲🇰 北マケドニア\n🇰🇷 大韓民国\n🇬🇧 英国
+SUMMARY:🏊 男子400m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T092700Z-swimming-100M
+DTSTAMP:20240728T092700Z
+DTSTART:20240728T092700Z
+DTEND:20240728T094200Z
+DESCRIPTION:競泳 - 女子100m平泳ぎ予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇦🇷 アルゼンチン\n🇦🇬
+  アンティグア・バーブーダ\n🇮🇱 イスラエル\n🇮🇹 イタリア\n🇪🇪 エストニア\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇨🇦 カナダ\n🇬🇲 ガンビア\n🇰🇼 クウェート\n🇨🇰 クック諸島\n🇨🇴 コロンビア\n🇸🇬
+  シンガポール\n🇨🇭 スイス\n🇸🇪 スウェーデン\n🇪🇸 スペイン\n🇨🇿 チェコ\n🇩🇪 ドイツ\n🇵🇦
+  パナマ\n🇫🇮 フィンランド\n🇵🇱 ポーランド\n🇲🇾 マレーシア\n🇲🇦 モロッコ\n🇱🇹 リトアニア\n🇱🇧
+  レバノン\n🇨🇳 中国\n🇿🇦 南アフリカ\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 女子100m平泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+END:VCALENDAR

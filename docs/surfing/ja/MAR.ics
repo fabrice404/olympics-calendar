@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//surfing/ja/MAR//EN
+X-WR-CALNAME:🇲🇦 Morocco サーフィン | Paris 2024
+NAME:🇲🇦 Morocco サーフィン | Paris 2024
+BEGIN:VEVENT
+UID:20240727T192400Z-surfing-1-5
+DTSTAMP:20240727T192400Z
+DTSTART:20240727T192400Z
+DTEND:20240727T195400Z
+DESCRIPTION:サーフィン - 男子第1ラウンド - 第5ヒート\n🇳🇿 Billy STAIRMAND\n🇧🇷 Joao
+  CHIANCA\n🇲🇦 Ramzi BOUKHIAM
+SUMMARY:🏄 男子第1ラウンド - 第5ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T002200Z-surfing-2-5-MAR-ESA
+DTSTAMP:20240729T002200Z
+DTSTART:20240729T002200Z
+DTEND:20240729T005200Z
+DESCRIPTION:サーフィン - 男子第2ラウンド - 第5ヒート
+SUMMARY:🏄 Ramzi BOUKHIAM 🇲🇦 - 🇸🇻 Bryan PEREZ
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T200000Z-surfing-3-6-BRA-MAR
+DTSTAMP:20240729T200000Z
+DTSTART:20240729T200000Z
+DTEND:20240729T203000Z
+DESCRIPTION:サーフィン - 男子第3ラウンド - 第6ヒート
+SUMMARY:🏄 Joao CHIANCA 🇧🇷 - 🇲🇦 Ramzi BOUKHIAM
+LOCATION:タウポ、タヒチ
+END:VEVENT
+END:VCALENDAR

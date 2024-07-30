@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//swimming/ko/CUB//EN
+X-WR-CALNAME:🇨🇺 Cuba 경영 | Paris 2024
+NAME:🇨🇺 Cuba 경영 | Paris 2024
+BEGIN:VEVENT
+UID:20240728T100000Z-swimming--200M-
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T101600Z
+DESCRIPTION:경영 - 여자 200m 자유형 - 예선\n🇿🇦 남아프리카공화국\n🇳🇵 네팔\n🇳🇿 뉴질랜드\n🇩🇪
+  독일\n🇱🇦 라오스\n🇷🇴 루마니아\n🇲🇳 몽골\n🇺🇸 미국\n🇻🇪 베네수엘라\n🇧🇪 벨기에\n🇧🇷
+  브라질\n🇸🇦 사우디 아라비아\n🇦🇪 아랍에미리트\n🇮🇸 아이슬란드\n🇦🇱 알바니아\n🇦🇺
+  오스트레일리아\n🇭🇳 온두라스\n🇮🇱 이스라엘\n🇪🇬 이집트\n🇮🇳 인도\n🇨🇳 중국\n🇨🇿 체코\n🇨🇦
+  캐나다\n🇨🇺 쿠바\n🇵🇰 파키스탄\n🇭🇺 헝가리\n🇭🇰 홍콩, 차이나
+SUMMARY:🏊 여자 200m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T093000Z-swimming--1500M-
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T104000Z
+DESCRIPTION:경영 - 남자 1500m 자유형 - 예선\n🇹🇳 Ahmed JAOUADI\n🇺🇸 Bobby
+  FINKE\n🇪🇸 Carlos GARACH BENITO\n🇫🇷 Damien JOLY\n🇬🇧 Daniel
+  JERVIS\n🇮🇪 Daniel WIFFEN\n🇫🇷 David AUBRY\n🇭🇺 David BETLEHEM\n🇺🇸
+  David JOHNSTON\n🇬🇷 Dimitrios MARKOS\n🇹🇷 Emir Batur ALBAYRAK\n🇨🇳 FEI
+  Liwei\n🇩🇪 Florian WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇳🇴 Henrik
+  CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇵🇱 Krzysztof CHMIELEWSKI\n🇹🇷
+  Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo
+  ROMANCHUK\n🇨🇺 Rodolfo FALCON JR\n🇦🇺 Samuel SHORT\n🇩🇪 Sven
+  SCHWARZ\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan STANCU\n🇭🇺 Zalan
+  SARKANY
+SUMMARY:🏊 남자 1500m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+END:VCALENDAR

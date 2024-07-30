@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//medals/ja/SVK//EN
+X-WR-CALNAME:🇸🇰 Slovakia 🏅 | Paris 2024
+NAME:🇸🇰 Slovakia 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240727T123000Z-cycling-road-
+DTSTAMP:20240727T123000Z
+DTSTART:20240727T123000Z
+DTEND:20240727T135900Z
+DESCRIPTION:自転車ロードレース - 女子個人タイムトライアル\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧
+  Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪
+  Antonia NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup
+  LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi
+  VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO
+  BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia
+  BUJAK\n🇦🇺 Grace BROWN\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿
+  Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸
+  Mireia BENITO PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦
+  Olivia BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇺🇸 Taylor
+  KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 女子個人タイムトライアル
+LOCATION:アレクサンドル3世橋
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T154500Z-canoe-slalom-
+DTSTAMP:20240728T154500Z
+DTSTART:20240728T154500Z
+DTEND:20240728T162900Z
+DESCRIPTION:カヌー・スラローム - 女子カヤックシングル決勝\n🇧🇷 Ana SATILA\n🇫🇷 Camille
+  PRIGENT\n🇦🇹 Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva
+  TERCELJ\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia
+  ZWOLINSKA\n🇳🇿 Luuka JONES\n🇪🇸 Maialen CHOURRAUT\n🇩🇪 Ricarda
+  FUNK\n🇮🇹 Stefanie HORN
+SUMMARY:🛶 女子カヤックシングル決勝
+LOCATION:ノーティカル ST - ホワイトウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T150000Z-skateboarding-
+DTSTAMP:20240729T150000Z
+DTSTART:20240729T150000Z
+DTEND:20240729T163000Z
+DESCRIPTION:スケートボード - 男子ストリート決勝\n🇨🇦 Cordano RUSSELL\n🇯🇵 HORIGOME
+  Yuto\n🇺🇸 Jagger EATON\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL OLIO\n🇺🇸
+  Nyjah HUSTON\n🇸🇰 Richard TURY\n🇯🇵 SHIRAI Sora
+SUMMARY:🛹 男子ストリート決勝
+LOCATION:コンコルド広場3
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T152000Z-canoe-slalom-
+DTSTAMP:20240729T152000Z
+DTSTART:20240729T152000Z
+DTEND:20240729T160400Z
+DESCRIPTION:カヌー・スラローム - 男子カナディアンシングル決勝\n🇬🇧 Adam BURGESS\n🇸🇮 Benjamin
+  SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰
+  Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas
+  GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 男子カナディアンシングル決勝
+LOCATION:ノーティカル ST - ホワイトウォーター
+END:VEVENT
+END:VCALENDAR

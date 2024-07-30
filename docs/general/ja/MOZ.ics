@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//general/ja/MOZ//EN
+X-WR-CALNAME:🇲🇿 Mozambique | Paris 2024
+NAME:🇲🇿 Mozambique | Paris 2024
+BEGIN:VEVENT
+UID:20240726T173000Z-opening-ceremony
+DTSTAMP:20240726T173000Z
+DTSTART:20240726T173000Z
+DTEND:20240726T210000Z
+DESCRIPTION:Paris 2024 - 開会式
+SUMMARY:Paris 2024 - 開会式
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T093000Z-swimming-100M
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T094400Z
+DESCRIPTION:競泳 - 男子100m平泳ぎ予選\n🇮🇸 アイスランド\n🇺🇸 アメリカ合衆国\n🇦🇬
+  アンティグア・バーブーダ\n🇮🇱 イスラエル\n🇮🇹 イタリア\n🇸🇿 エスワティニ\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇦🇹 オーストリア\n🇶🇦 カタール\n🇰🇬 キルギス\n🇹🇷 トルコ\n🇩🇪 ドイツ\n🇭🇹
+  ハイチ\n🇧🇼 ボツワナ\n🇵🇱 ポーランド\n🇲🇬 マダガスカル\n🇫🇲 ミクロネシア\n🇲🇽 メキシコ\n🇲🇿
+  モザンビーク\n🇱🇦 ラオス人民民主共和国\n🇱🇹 リトアニア\n🇨🇳 中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇦🇸
+  米領サモア\n🇬🇧 英国
+SUMMARY:🏊 男子100m平泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T083000Z-judo-52KG2-INA-MOZ
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T083600Z
+DESCRIPTION:柔道 - 女子52kg級2回戦
+SUMMARY:🥋 Maryam March MAHARANI 🇮🇩 - 🇲🇿 Jacira FERREIRA
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T180000Z-boxing-71KG-32-GER-MOZ
+DTSTAMP:20240728T180000Z
+DTSTART:20240728T180000Z
+DTEND:20240728T181100Z
+DESCRIPTION:ボクシング - 男子71kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Magomed Elim Sultanovic SCHACHIDOV 🇩🇪 - 🇲🇿 Tiago MUXANGA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T195200Z-boxing-66KG-32-MOZ-SVK
+DTSTAMP:20240728T195200Z
+DTSTART:20240728T195200Z
+DTEND:20240728T200300Z
+DESCRIPTION:ボクシング - 女子66kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Alcinda Lucas dos SANTOS 🇲🇿 - 🇸🇰 Triebelova JESSICA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T091300Z-swimming-100M
+DTSTAMP:20240729T091300Z
+DTSTART:20240729T091300Z
+DTEND:20240729T092700Z
+DESCRIPTION:競泳 - 女子100m背泳ぎ予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇺🇦
+  ウクライナ\n🇸🇻 エルサルバドル\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇰🇿 カザフスタン\n🇨🇦 カナダ\n🇬🇹
+  グアテマラ\n🇸🇪 スウェーデン\n🇪🇸 スペイン\n🇱🇰 スリランカ\n🇹🇹 トリニダード・トバゴ\n🇹🇲
+  トルクメニスタン\n🇩🇴 ドミニカ共和国\n🇧🇲 バミューダ\n🇧🇭 バーレーン\n🇫🇷 フランス\n🇧🇬
+  ブルガリア\n🇧🇪 ベルギー\n🇭🇰 ホンコン・チャイナ\n🇵🇱 ポーランド\n🇲🇽 メキシコ\n🇲🇿
+  モザンビーク\n🇱🇾 リビア\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🏊 女子100m背泳ぎ予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T192000Z-boxing-71KG-16-MOZ-MEX
+DTSTAMP:20240731T192000Z
+DTSTART:20240731T192000Z
+DTEND:20240731T193100Z
+DESCRIPTION:ボクシング - 男子71kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Tiago MUXANGA 🇲🇿 - 🇲🇽 Marco Alonso VERDE ALVAREZ
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T184800Z-boxing-66KG-16-MOZ-CHN
+DTSTAMP:20240801T184800Z
+DTSTART:20240801T184800Z
+DTEND:20240801T185900Z
+DESCRIPTION:ボクシング - 女子66kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Alcinda Lucas dos SANTOS 🇲🇿 - 🇨🇳 YANG Liu
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T190000Z-closing-ceremony
+DTSTAMP:20240811T190000Z
+DTSTART:20240811T190000Z
+DTEND:20240811T211500Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

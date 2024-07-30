@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//fencing/ja/BEL//EN
+X-WR-CALNAME:🇧🇪 Belgium フェンシング | Paris 2024
+NAME:🇧🇪 Belgium フェンシング | Paris 2024
+BEGIN:VEVENT
+UID:20240728T111500Z-fencing-T32-SUI-BEL
+DTSTAMP:20240728T111500Z
+DTSTART:20240728T111500Z
+DTEND:20240728T114000Z
+DESCRIPTION:フェンシング - 男子エペ個人T32
+SUMMARY:🤺 Alexis BAYARD 🇨🇭 - 🇧🇪 Neisser LOYOLA
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T133000Z-fencing-T16-HUN-BEL
+DTSTAMP:20240728T133000Z
+DTSTART:20240728T133000Z
+DTEND:20240728T135500Z
+DESCRIPTION:フェンシング - 男子エペ個人T16
+SUMMARY:🤺 Gergely SIKLOSI 🇭🇺 - 🇧🇪 Neisser LOYOLA
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T142500Z-fencing--4-BEL-EGY
+DTSTAMP:20240728T142500Z
+DTSTART:20240728T142500Z
+DTEND:20240728T145000Z
+DESCRIPTION:フェンシング - 男子エペ個人準々決勝 4
+SUMMARY:🤺 Neisser LOYOLA 🇧🇪 - 🇪🇬 Mohamed ELSAYED
+LOCATION:グラン・パレ
+END:VEVENT
+END:VCALENDAR

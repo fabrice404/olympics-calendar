@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//surfing/ru/NCA//EN
+X-WR-CALNAME:🇳🇮 Nicaragua Серфинг | Paris 2024
+NAME:🇳🇮 Nicaragua Серфинг | Paris 2024
+BEGIN:VEVENT
+UID:20240728T001200Z-surfing--1-5-
+DTSTAMP:20240728T001200Z
+DTSTART:20240728T001200Z
+DTEND:20240728T004200Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 5 (ж)\n🇨🇷 Brisa HENNESSY\n🇳🇮
+  Candelaria RESANO\n🇫🇷 Johanne DEFAY
+SUMMARY:🏄 Раунд 1, заезд 5 (ж)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T192400Z-surfing--2-5--BRA-NCA
+DTSTAMP:20240728T192400Z
+DTSTART:20240728T192400Z
+DTEND:20240728T195400Z
+DESCRIPTION:Серфинг - Раунд 2, заезд 5 (ж)
+SUMMARY:🏄 Tatiana WESTON-WEBB 🇧🇷 - 🇳🇮 Candelaria RESANO
+LOCATION:Теахупоо, Таити
+END:VEVENT
+END:VCALENDAR

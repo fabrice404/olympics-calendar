@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//badminton/ko/PER//EN
+X-WR-CALNAME:🇵🇪 Peru 배드민턴 | Paris 2024
+NAME:🇵🇪 Peru 배드민턴 | Paris 2024
+BEGIN:VEVENT
+UID:20240730T072000Z-badminton--J-PER-TUR
+DTSTAMP:20240730T072000Z
+DTSTART:20240730T072000Z
+DTEND:20240730T080000Z
+DESCRIPTION:배드민턴 - 여자 단식 조별예선 - J조
+SUMMARY:🏸 Ines Lucia CASTILLO 🇵🇪 - 🇹🇷 Neslihan ARIN
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T134000Z-badminton--J-JPN-PER
+DTSTAMP:20240731T134000Z
+DTSTART:20240731T134000Z
+DTEND:20240731T142000Z
+DESCRIPTION:배드민턴 - 여자 단식 조별예선 - J조
+SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇵🇪 Ines Lucia CASTILLO
+LOCATION:라 샤펠 아레나
+END:VEVENT
+END:VCALENDAR
