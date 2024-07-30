@@ -205,12 +205,28 @@ export class Calendar {
   }
 
   private generateCalendars() {
+    const sortEvents = (a: Event, b: Event) => {
+      if (a.DTSTART !== b.DTSTART) {
+        return a.DTSTART > b.DTSTART ? 1 : -1;
+      }
+      if (a.DTEND !== b.DTEND) {
+        return a.DTEND > b.DTEND ? 1 : -1;
+      }
+      if (a.SUMMARY !== b.SUMMARY) {
+        return a.SUMMARY > b.SUMMARY ? 1 : -1;
+      }
+      if (a.DESCRIPTION !== b.DESCRIPTION) {
+        return a.DESCRIPTION > b.DESCRIPTION ? 1 : -1;
+      }
+      return 0;
+    }
+
     // sports
     for (const sport of this.sports) {
       // sport/general
       let events = this.events
         .filter((event) => event._SPORT === sport.key)
-        .sort((a, b) => a.UID > b.UID ? 1 : -1);
+        .sort(sortEvents);
       let key = this.getKey(sport.key, "general");
       let title = `${getSportIcon(sport.key)} ${sport.name} | Paris 2024`;
       if (events.length > 0) {
@@ -220,7 +236,7 @@ export class Calendar {
       // sport/medals
       events = this.events
         .filter((event) => event._SPORT === sport.key && event._MEDAL)
-        .sort((a, b) => a.UID > b.UID ? 1 : -1);
+        .sort(sortEvents);
       key = this.getKey(sport.key, "medals");
       title = `${getSportIcon(sport.key)} ${sport.name} 🏅 | Paris 2024`;
       if (events.length > 0) {
@@ -231,7 +247,7 @@ export class Calendar {
       for (const noc of sport.NOCS) {
         events = this.events
           .filter((event) => event._SPORT === sport.key && event._NOCS.includes(noc))
-          .sort((a, b) => a.UID > b.UID ? 1 : -1);
+          .sort(sortEvents);
         key = this.getKey(sport.key, noc);
         title = `${getNOCFlag(noc)} ${getNOCName(noc)} ${sport.name} | Paris 2024`;
         if (events.length > 0) {
@@ -245,7 +261,7 @@ export class Calendar {
       // general/noc
       let events = this.events
         .filter((event) => event._NOCS.includes(noc))
-        .sort((a, b) => a.UID > b.UID ? 1 : -1);
+        .sort(sortEvents);
       let key = this.getKey("general", noc);
       let title = `${getNOCFlag(noc)} ${getNOCName(noc)} | Paris 2024`;
       if (events.length > 0) {
@@ -255,7 +271,7 @@ export class Calendar {
       // medals/noc
       events = this.events
         .filter((event) => event._NOCS.includes(noc) && event._MEDAL)
-        .sort((a, b) => a.UID > b.UID ? 1 : -1);
+        .sort(sortEvents);
       key = this.getKey("medals", noc);
       title = `${getNOCFlag(noc)} ${getNOCName(noc)} 🏅 | Paris 2024`
       if (events.length > 0) {
@@ -265,7 +281,7 @@ export class Calendar {
 
     // general/general
     const events = this.events
-      .sort((a, b) => a.UID > b.UID ? 1 : -1);
+      .sort(sortEvents);
     const key = this.getKey("general", "general");
     const title = `Paris 2024`;
     if (events.length > 0) {
@@ -275,7 +291,7 @@ export class Calendar {
     // medals/general
     const medals = this.events
       .filter((event) => event._MEDAL)
-      .sort((a, b) => a.UID > b.UID ? 1 : -1);
+      .sort(sortEvents);
     const medalsKey = this.getKey("medals", "general");
     const medalsTitle = `🏅 Paris 2024`;
     if (medals.length > 0) {
