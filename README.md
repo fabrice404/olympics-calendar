@@ -10,6 +10,9 @@ Use the provided URLs to sync with your Google Calendar instead of downloading t
 - **Customizable**: Select specific sports or teams you're interested in.
 - **Easy Integration**: Sync directly with Google Calendar using provided URLs.
 
+## Translation
+The translations have been generated automatically. If you notice any incorrect translations, please accept my apologies and feel free to open an issue with the correct translation.
+
 ## Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
