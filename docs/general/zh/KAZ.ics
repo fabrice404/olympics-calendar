@@ -41,6 +41,20 @@ SUMMARY:Paris 2024 - 开幕式
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T070000Z-shooting-10
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T073000Z
+DESCRIPTION:射击 - 混合团体10米气步枪资格赛\n🇦🇷 ARG\n🇦🇹 AUT\n🇨🇳 China 1\n🇨🇳
+  China 2\n🇨🇿 CZE\n🇪🇬 EGY\n🇪🇬 Egypt 1\n🇫🇷 France 1\n🇫🇷 France
+  2\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇳 India 1\n🇮🇳 India 2\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇰🇿 Kazakhstan 1\n🇰🇿 Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷
+  Korea 2\n🇲🇽 MEX\n🇲🇳 MGL\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland
+  1\n🇵🇱 Poland 2\n🇺🇸 United States 1\n🇺🇸 United States 2
+SUMMARY:🔫 混合团体10米气步枪资格赛
+LOCATION:沙托鲁射击中心
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
@@ -60,20 +74,6 @@ SUMMARY:🚣 男子单人双桨分组预赛
 LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T070000Z-shooting-10
-DTSTAMP:20240727T070000Z
-DTSTART:20240727T070000Z
-DTEND:20240727T073000Z
-DESCRIPTION:射击 - 混合团体10米气步枪资格赛\n🇦🇷 ARG\n🇦🇹 AUT\n🇨🇳 China 1\n🇨🇳
-  China 2\n🇨🇿 CZE\n🇪🇬 EGY\n🇪🇬 Egypt 1\n🇫🇷 France 1\n🇫🇷 France
-  2\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇳 India 1\n🇮🇳 India 2\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇰🇿 Kazakhstan 1\n🇰🇿 Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷
-  Korea 2\n🇲🇽 MEX\n🇲🇳 MGL\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland
-  1\n🇵🇱 Poland 2\n🇺🇸 United States 1\n🇺🇸 United States 2
-SUMMARY:🔫 混合团体10米气步枪资格赛
-LOCATION:沙托鲁射击中心
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T081200Z-judo-6032-KAZ-NED
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
@@ -81,6 +81,15 @@ DTEND:20240727T081800Z
 DESCRIPTION:柔道 - 男子60公斤级32强淘汰赛
 SUMMARY:🥋 Yeldos SMETOV 🇰🇿 - 🇳🇱 Tornike TSJAKADOEA
 LOCATION:战神广场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T083000Z-shooting-10-KAZ-GER
+DTSTAMP:20240727T083000Z
+DTSTART:20240727T083000Z
+DTEND:20240727T085000Z
+DESCRIPTION:射击 - 混合团体10米气步枪铜牌赛
+SUMMARY:🔫 Kazakhstan 1 🇰🇿 - 🇩🇪 Germany
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T083000Z-shooting-10
@@ -100,15 +109,6 @@ DESCRIPTION:射击 - 男子10米气手枪资格赛\n🇮🇳 Arjun Singh CHEEMA\
   BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor BANKIN\n🇨🇳 XIE Yu\n🇹🇷
   Yusuf DIKEC\n🇨🇳 ZHANG Bowen
 SUMMARY:🔫 男子10米气手枪资格赛
-LOCATION:沙托鲁射击中心
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T083000Z-shooting-10-KAZ-GER
-DTSTAMP:20240727T083000Z
-DTSTART:20240727T083000Z
-DTEND:20240727T085000Z
-DESCRIPTION:射击 - 混合团体10米气步枪铜牌赛
-SUMMARY:🔫 Kazakhstan 1 🇰🇿 - 🇩🇪 Germany
 LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT

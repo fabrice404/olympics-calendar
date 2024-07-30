@@ -376,6 +376,29 @@ SUMMARY:🏊 200м баттерфляем, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T183700Z-swimming-200-
+DTSTAMP:20240731T183700Z
+DTSTART:20240731T183700Z
+DTEND:20240731T184500Z
+DESCRIPTION:Плавание - 200м баттерфляем, финал (м)\n🇮🇹 Alberto
+  RAZZETTI\n🇨🇦 Ilya KHARUN\n🇪🇪 Kregor ZIRK\n🇭🇺 Kristof MILAK\n🇵🇱
+  Krzysztof CHMIELEWSKI\n🇫🇷 Leon MARCHAND\n🇦🇹 Martin ESPERNBERGER\n🇨🇭
+  Noe PONTI
+SUMMARY:🏊 200м баттерфляем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T203900Z-swimming-100-
+DTSTAMP:20240731T203900Z
+DTSTART:20240731T203900Z
+DTEND:20240731T204600Z
+DESCRIPTION:Плавание - 100м вольным стилем, финал (м)\n🇺🇸 Chris
+  GUILIANO\n🇷🇴 David POPOVICI\n🇺🇸 Jack ALEXY\n🇩🇪 Josha SALCHOW\n🇦🇺
+  Kyle CHALMERS\n🇫🇷 Maxime GROUSSET\n🇭🇺 Nandor NEMETH\n🇨🇳 PAN Zhanle
+SUMMARY:🏊 100м вольным стилем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T090000Z-swimming-200-
 DTSTAMP:20240801T090000Z
 DTSTART:20240801T090000Z

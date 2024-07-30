@@ -138,23 +138,6 @@ SUMMARY:🚣 女子ペア予選
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T090000Z-rowing-
-DTSTAMP:20240728T090000Z
-DTSTART:20240728T090000Z
-DTEND:20240728T092700Z
-DESCRIPTION:ローイング - 男子ペア予選\n🇨🇭 Andrin GULICH\n🇺🇸 Billy BENDER\n🇿🇦
-  Christopher BAXTER\n🇳🇿 Daniel WILLIAMSON\n🇮🇹 Davide COMINI\n🇱🇹
-  Domantas STANKUNAS\n🇱🇹 Dovydas STANKUNAS\n🇷🇴 Florin ARTENI\n🇷🇴
-  Florin Sorin LEHACI\n🇮🇹 Giovanni CODATO\n🇪🇸 Jaime CANALEJO
-  PAZOS\n🇪🇸 Javier GARCIA ORDONEZ\n🇿🇦 John SMITH\n🇩🇪 Julius
-  CHRIST\n🇭🇷 Martin SINKOVIC\n🇮🇪 Nathan TIMONEY\n🇺🇸 Oliver BUB\n🇬🇧
-  Oliver WYNNE-GRIFFITH\n🇦🇺 Patrick HOLT\n🇳🇿 Phillip WILSON\n🇨🇭 Roman
-  ROEOESLI\n🇮🇪 Ross CORRIGAN\n🇦🇺 Simon KEENAN\n🇩🇪 Soenke KRUSE\n🇬🇧
-  Tom GEORGE\n🇭🇷 Valent SINKOVIC
-SUMMARY:🚣 男子ペア予選
-LOCATION:ノーティカル ST - フラットウォーター
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T090000Z-swimming-200M
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
@@ -170,6 +153,23 @@ DESCRIPTION:競泳 - 男子200m自由形予選\n🇮🇹 Alessandro RAGAINI\n�
   MIROSLAW\n🇸🇮 Saso BOSKAN\n🇦🇺 Thomas NEILL\n🇷🇸 Velimir STJEPANOVIC
 SUMMARY:🏊 男子200m自由形予選
 LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T090000Z-rowing-
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T092700Z
+DESCRIPTION:ローイング - 男子ペア予選\n🇨🇭 Andrin GULICH\n🇺🇸 Billy BENDER\n🇿🇦
+  Christopher BAXTER\n🇳🇿 Daniel WILLIAMSON\n🇮🇹 Davide COMINI\n🇱🇹
+  Domantas STANKUNAS\n🇱🇹 Dovydas STANKUNAS\n🇷🇴 Florin ARTENI\n🇷🇴
+  Florin Sorin LEHACI\n🇮🇹 Giovanni CODATO\n🇪🇸 Jaime CANALEJO
+  PAZOS\n🇪🇸 Javier GARCIA ORDONEZ\n🇿🇦 John SMITH\n🇩🇪 Julius
+  CHRIST\n🇭🇷 Martin SINKOVIC\n🇮🇪 Nathan TIMONEY\n🇺🇸 Oliver BUB\n🇬🇧
+  Oliver WYNNE-GRIFFITH\n🇦🇺 Patrick HOLT\n🇳🇿 Phillip WILSON\n🇨🇭 Roman
+  ROEOESLI\n🇮🇪 Ross CORRIGAN\n🇦🇺 Simon KEENAN\n🇩🇪 Soenke KRUSE\n🇬🇧
+  Tom GEORGE\n🇭🇷 Valent SINKOVIC
+SUMMARY:🚣 男子ペア予選
+LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T092700Z-swimming-100M

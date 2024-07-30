@@ -122,6 +122,17 @@ SUMMARY:🔫 混合10mエアピストル団体本選
 LOCATION:シャトールー射撃センター
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T073000Z-shooting-10M
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T081500Z
+DESCRIPTION:射撃 - 女子10mエアライフル個人ファイナル\n🇰🇿 Alexandra Le\n🇨🇭 Audrey
+  GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg
+  DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
+SUMMARY:🔫 女子10mエアライフル個人ファイナル
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T073000Z-shooting--1
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
@@ -138,17 +149,6 @@ DESCRIPTION:射撃 - 男子トラップ個人本選 1日目\n🇪🇸 Alberto FE
   Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
   Haicheng
 SUMMARY:🔫 男子トラップ個人本選 1日目
-LOCATION:シャトールー射撃センター
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T073000Z-shooting-10M
-DTSTAMP:20240729T073000Z
-DTSTART:20240729T073000Z
-DTEND:20240729T081500Z
-DESCRIPTION:射撃 - 女子10mエアライフル個人ファイナル\n🇰🇿 Alexandra Le\n🇨🇭 Audrey
-  GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg
-  DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
-SUMMARY:🔫 女子10mエアライフル個人ファイナル
 LOCATION:シャトールー射撃センター
 END:VEVENT
 BEGIN:VEVENT

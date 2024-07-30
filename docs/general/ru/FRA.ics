@@ -154,6 +154,19 @@ UID:20240727T073000Z-equestrian--
 DTSTAMP:20240727T073000Z
 DTSTART:20240727T073000Z
 DTEND:20240727T163000Z
+DESCRIPTION:Конный спорт - Командное троеборье, выездка\n🇦🇺
+  Австралия\n🇧🇪 Бельгия\n🇧🇷 Бразилия\n🇬🇧 Великобритания\n🇩🇪
+  Германия\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇱 Нидерланды\n🇳🇿
+  Новая Зеландия\n🇵🇱 Польша\n🇺🇸 США\n🇫🇷 Франция\n🇨🇭 Швейцария\n🇸🇪
+  Швеция\n🇯🇵 Япония
+SUMMARY:🏇 Командное троеборье, выездка
+LOCATION:Версаль
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T073000Z-equestrian--
+DTSTAMP:20240727T073000Z
+DTSTART:20240727T073000Z
+DTEND:20240727T163000Z
 DESCRIPTION:Конный спорт - Личное троеборье, выездка\n🇿🇦 Alexander
   PETERNELL\n🇮🇪 Austin O'CONNOR\n🇭🇺 Balazs KAIZINGER\n🇺🇸 Boyd
   MARTIN\n🇪🇸 Carlos DIAZ FERNANDEZ\n🇧🇷 Carlos PARRO\n🇺🇸 Caroline
@@ -177,19 +190,6 @@ DESCRIPTION:Конный спорт - Личное троеборье, выез�
   Susannah BERRY\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇧🇪 Tine
   MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera MANNINEN
 SUMMARY:🏇 Личное троеборье, выездка
-LOCATION:Версаль
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T073000Z-equestrian--
-DTSTAMP:20240727T073000Z
-DTSTART:20240727T073000Z
-DTEND:20240727T163000Z
-DESCRIPTION:Конный спорт - Командное троеборье, выездка\n🇦🇺
-  Австралия\n🇧🇪 Бельгия\n🇧🇷 Бразилия\n🇬🇧 Великобритания\n🇩🇪
-  Германия\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇱 Нидерланды\n🇳🇿
-  Новая Зеландия\n🇵🇱 Польша\n🇺🇸 США\n🇫🇷 Франция\n🇨🇭 Швейцария\n🇸🇪
-  Швеция\n🇯🇵 Япония
-SUMMARY:🏇 Командное троеборье, выездка
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
@@ -222,17 +222,6 @@ SUMMARY:🔫 Пневматический пистолет 10м, квалифи�
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T090000Z-diving--3-
-DTSTAMP:20240727T090000Z
-DTSTART:20240727T090000Z
-DTEND:20240727T094600Z
-DESCRIPTION:Прыжки в воду - Синхронный трамплин 3м, финал (ж)\n🇦🇺
-  Австралия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇮🇹 Италия\n🇨🇳
-  Китай\n🇺🇸 США\n🇺🇦 Украина\n🇫🇷 Франция
-SUMMARY:🏊 Синхронный трамплин 3м, финал (ж)
-LOCATION:Центр водных видов спорта
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T090000Z-swimming-100-
 DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
@@ -251,6 +240,17 @@ DESCRIPTION:Плавание - 100м баттерфляем, квалифика�
   ZHANG Yufei
 SUMMARY:🏊 100м баттерфляем, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T090000Z-diving--3-
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T094600Z
+DESCRIPTION:Прыжки в воду - Синхронный трамплин 3м, финал (ж)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇮🇹 Италия\n🇨🇳
+  Китай\n🇺🇸 США\n🇺🇦 Украина\n🇫🇷 Франция
+SUMMARY:🏊 Синхронный трамплин 3м, финал (ж)
+LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T091200Z-swimming-400-
@@ -282,15 +282,10 @@ UID:20240727T093000Z-rowing--
 DTSTAMP:20240727T093000Z
 DTSTART:20240727T093000Z
 DTEND:20240727T095700Z
-DESCRIPTION:Академическая гребля - Двойки парные, заезды (м)\n🇪🇸 Aleix
-  GARCIA I PUJOLAR\n🇷🇴 Andrei Sebastian CORNEA\n🇭🇷 Anton LONCARIC\n🇺🇸
-  Ben DAVISON\n🇮🇪 Daire LYNCH\n🇫🇷 Hugo BOUCHERON\n🇩🇪 Jonas
-  GELSEN\n🇳🇿 Jordan PARRY\n🇳🇴 Kjetil BORCH\n🇨🇳 LIU Zhiyu\n🇩🇪 Marc
-  WEBER\n🇷🇴 Marian Florian ENACHE\n🇳🇴 Martin HELSETH\n🇷🇸 Martin
-  MACKOVIC\n🇮🇹 Matteo SARTORI\n🇫🇷 Matthieu ANDRODIAS\n🇳🇱 Melvin
-  TWELLAAR\n🇮🇹 Nicolo' CARUCCI\n🇷🇸 Nikolaj PIMENOV\n🇭🇷 Patrik
-  LONCARIC\n🇮🇪 Philip DOYLE\n🇳🇿 Robbie MANSON\n🇪🇸 Rodrigo CONDE
-  ROMERO\n🇨🇳 SULITAN Adilijiang\n🇺🇸 Sorin KOSZYK\n🇳🇱 Stef BROENINK
+DESCRIPTION:Академическая гребля - Двойки парные, заезды (м)\n🇩🇪
+  Германия\n🇮🇪 Ирландия\n🇪🇸 Испания\n🇮🇹 Италия\n🇨🇳 Китай\n🇳🇱
+  Нидерланды\n🇳🇿 Новая Зеландия\n🇳🇴 Норвегия\n🇷🇴 Румыния\n🇺🇸
+  США\n🇷🇸 Сербия\n🇫🇷 Франция\n🇭🇷 Хорватия
 SUMMARY:🚣 Двойки парные, заезды (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
@@ -347,15 +342,10 @@ UID:20240727T100000Z-rowing--
 DTSTAMP:20240727T100000Z
 DTSTART:20240727T100000Z
 DTEND:20240727T102700Z
-DESCRIPTION:Академическая гребля - Двойки парные, заезды (ж)\n🇮🇪 Alison
-  BERGIN\n🇦🇺 Amanda BATEMAN\n🇷🇴 Ancuta BODNAR\n🇨🇿 Anna
-  SANTRUCKOVA\n🇳🇿 Brooke FRANCIS\n🇮🇹 Clara GUERRA\n🇱🇹 Donata
-  KARALIENE\n🇱🇹 Dovile RIMKUTE\n🇫🇷 Elodie RAVERA SCARAMOZZINO\n🇫🇷
-  Emma LUNATTI\n🇦🇺 Harriet HUDSON\n🇳🇴 Inger Seim KAVLIE\n🇺🇸 Kristi
-  WAGNER\n🇨🇳 LU Shiyu\n🇨🇿 Lenka LUKSOVA\n🇳🇱 Lisa SCHEENAARD\n🇳🇿
-  Lucy SPOORS\n🇳🇱 Martine VELDHUIS\n🇬🇧 Mathilda HODGKINS BYRNE\n🇬🇧
-  Rebecca WILDE\n🇨🇳 SHEN Shuangmei\n🇷🇴 Simona RADIS\n🇺🇸 Sophia
-  VITAS\n🇮🇹 Stefania GOBBI\n🇳🇴 Thea HELSETH\n🇮🇪 Zoe HYDE
+DESCRIPTION:Академическая гребля - Двойки парные, заезды (ж)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇨🇳
+  Китай\n🇱🇹 Литва\n🇳🇱 Нидерланды\n🇳🇿 Новая Зеландия\n🇳🇴
+  Норвегия\n🇷🇴 Румыния\n🇺🇸 США\n🇫🇷 Франция\n🇨🇿 Чехия
 SUMMARY:🚣 Двойки парные, заезды (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
@@ -369,21 +359,21 @@ SUMMARY:🎾 Caroline GARCIA 🇫🇷 - 🇷🇴 Jaqueline Adina CRISTIAN
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T100500Z-fencing--116--FRA-EGY
-DTSTAMP:20240727T100500Z
-DTSTART:20240727T100500Z
-DTEND:20240727T103000Z
-DESCRIPTION:Фехтование - Личная шпага, 1/16 финала (ж)
-SUMMARY:🤺 Marie-Florence CANDASSAMY 🇫🇷 - 🇪🇬 Nardin EHAB
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T100500Z-fencing--116--FRA-UKR
 DTSTAMP:20240727T100500Z
 DTSTART:20240727T100500Z
 DTEND:20240727T103000Z
 DESCRIPTION:Фехтование - Личная шпага, 1/16 финала (ж)
 SUMMARY:🤺 Auriane MALLO-BRETON 🇫🇷 - 🇺🇦 Dzhoan Feybi BEZHURA
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T100500Z-fencing--116--FRA-EGY
+DTSTAMP:20240727T100500Z
+DTSTART:20240727T100500Z
+DTEND:20240727T103000Z
+DESCRIPTION:Фехтование - Личная шпага, 1/16 финала (ж)
+SUMMARY:🤺 Marie-Florence CANDASSAMY 🇫🇷 - 🇪🇬 Nardin EHAB
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -524,12 +514,12 @@ SUMMARY:🚴 Раздельная гонка, индивидуальная (ж)
 LOCATION:Мост Александра III
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T123500Z-fencing--18--FRA-CHN
+UID:20240727T123500Z-fencing--18--ITA-FRA
 DTSTAMP:20240727T123500Z
 DTSTART:20240727T123500Z
 DTEND:20240727T130000Z
 DESCRIPTION:Фехтование - Личная шпага, 1/8 финала (ж)
-SUMMARY:🤺 Marie-Florence CANDASSAMY 🇫🇷 - 🇨🇳 YU Sihan
+SUMMARY:🤺 Alberta SANTUCCIO 🇮🇹 - 🇫🇷 Coraline VITALIS
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -542,12 +532,12 @@ SUMMARY:🤺 Auriane MALLO-BRETON 🇫🇷 - 🇺🇸 Anne CEBULA
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T123500Z-fencing--18--ITA-FRA
+UID:20240727T123500Z-fencing--18--FRA-CHN
 DTSTAMP:20240727T123500Z
 DTSTART:20240727T123500Z
 DTEND:20240727T130000Z
 DESCRIPTION:Фехтование - Личная шпага, 1/8 финала (ж)
-SUMMARY:🤺 Alberta SANTUCCIO 🇮🇹 - 🇫🇷 Coraline VITALIS
+SUMMARY:🤺 Marie-Florence CANDASSAMY 🇫🇷 - 🇨🇳 YU Sihan
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -611,6 +601,15 @@ SUMMARY:🤺 Auriane MALLO-BRETON 🇫🇷 - 🇺🇦 Vlada KHARKOVA
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T140000Z-judo--48--ITA-FRA
+DTSTAMP:20240727T140000Z
+DTSTART:20240727T140000Z
+DTEND:20240727T140600Z
+DESCRIPTION:Дзюдо - Утешительный поединок, до 48кг (ж)
+SUMMARY:🥋 Assunta SCUTTO 🇮🇹 - 🇫🇷 Shirine BOUKLI
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T140000Z-canoe-slalom--1-
 DTSTAMP:20240727T140000Z
 DTSTART:20240727T140000Z
@@ -626,15 +625,6 @@ DESCRIPTION:Гребной слалом - Байдарки-одиночки, к�
   HORN\n🇺🇦 Viktoriia US\n🇯🇵 YAZAWA Aki
 SUMMARY:🛶 Байдарки-одиночки, квалификация, заезд 1 (ж)
 LOCATION:Водный ст. - Белая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T140000Z-judo--48--ITA-FRA
-DTSTAMP:20240727T140000Z
-DTSTART:20240727T140000Z
-DTEND:20240727T140600Z
-DESCRIPTION:Дзюдо - Утешительный поединок, до 48кг (ж)
-SUMMARY:🥋 Assunta SCUTTO 🇮🇹 - 🇫🇷 Shirine BOUKLI
-LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T143000Z-badminton---IND-FRA
@@ -708,15 +698,6 @@ SUMMARY:🛶 Каноэ-одиночки, квалификация, заезд 2
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T151500Z-basketball---FRA-BRA
-DTSTAMP:20240727T151500Z
-DTSTART:20240727T151500Z
-DTEND:20240727T170000Z
-DESCRIPTION:Баскетбол - Групповой этап, группа В (м)
-SUMMARY:🏀 Франция 🇫🇷 - 🇧🇷 Бразилия
-LOCATION:Стадион «Пьер Моруа»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T151500Z-table-tennis-18--FRA-TPE
 DTSTAMP:20240727T151500Z
 DTSTART:20240727T151500Z
@@ -724,6 +705,15 @@ DTEND:20240727T160000Z
 DESCRIPTION:Настольный теннис - 1/8 финала (микст)
 SUMMARY:🏓 LEBRUN/YUAN 🇫🇷 - 🇹🇼 LIN/CHEN
 LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T151500Z-basketball---FRA-BRA
+DTSTAMP:20240727T151500Z
+DTSTART:20240727T151500Z
+DTEND:20240727T170000Z
+DESCRIPTION:Баскетбол - Групповой этап, группа В (м)
+SUMMARY:🏀 Франция 🇫🇷 - 🇧🇷 Бразилия
+LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T151800Z-judo--60--KAZ-FRA
@@ -821,15 +811,6 @@ SUMMARY:🏊 100м баттерфляем, полуфиналы (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T190000Z-football--A--FRA-GUI
-DTSTAMP:20240727T190000Z
-DTSTART:20240727T190000Z
-DTEND:20240727T204500Z
-DESCRIPTION:Футбол - Группа A (м)
-SUMMARY:⚽ Франция 🇫🇷 - 🇬🇳 Гвинея
-LOCATION:Стадион «Ницца»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T190000Z-handball--B--DEN-FRA
 DTSTAMP:20240727T190000Z
 DTSTART:20240727T190000Z
@@ -837,6 +818,15 @@ DTEND:20240727T203000Z
 DESCRIPTION:Гандбол - Предварительный этап, группа B (м)
 SUMMARY:🤾 Дания 🇩🇰 - 🇫🇷 Франция
 LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T190000Z-football--A--FRA-GUI
+DTSTAMP:20240727T190000Z
+DTSTART:20240727T190000Z
+DTEND:20240727T204500Z
+DESCRIPTION:Футбол - Группа A (м)
+SUMMARY:⚽ Франция 🇫🇷 - 🇬🇳 Гвинея
+LOCATION:Стадион «Ницца»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T192000Z-boxing--116-60--FRA-USA
@@ -958,6 +948,28 @@ SUMMARY:🤺 Ysaora THIBUS 🇫🇷 - 🇵🇱 Julia WALCZYK-KLIMASZYK
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T083000Z-judo-116-66--EOR-FRA
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T083600Z
+DESCRIPTION:Дзюдо - 1/16 финала, до 66кг (м)
+SUMMARY:🥋 Mohammad RASHNONEZHAD 🏳️ - 🇫🇷 Walide KHYAR
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T083000Z-equestrian--
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T133000Z
+DESCRIPTION:Конный спорт - Командное троеборье, кросс\n🇦🇺 Австралия\n🇧🇪
+  Бельгия\n🇧🇷 Бразилия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇮🇪
+  Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇱 Нидерланды\n🇳🇿 Новая
+  Зеландия\n🇵🇱 Польша\n🇺🇸 США\n🇫🇷 Франция\n🇨🇭 Швейцария\n🇸🇪
+  Швеция\n🇯🇵 Япония
+SUMMARY:🏇 Командное троеборье, кросс
+LOCATION:Версаль
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T083000Z-equestrian--
 DTSTAMP:20240728T083000Z
 DTSTART:20240728T083000Z
@@ -987,28 +999,6 @@ SUMMARY:🏇 Личное троеборье, кросс
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T083000Z-equestrian--
-DTSTAMP:20240728T083000Z
-DTSTART:20240728T083000Z
-DTEND:20240728T133000Z
-DESCRIPTION:Конный спорт - Командное троеборье, кросс\n🇦🇺 Австралия\n🇧🇪
-  Бельгия\n🇧🇷 Бразилия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇮🇪
-  Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇱 Нидерланды\n🇳🇿 Новая
-  Зеландия\n🇵🇱 Польша\n🇺🇸 США\n🇫🇷 Франция\n🇨🇭 Швейцария\n🇸🇪
-  Швеция\n🇯🇵 Япония
-SUMMARY:🏇 Командное троеборье, кросс
-LOCATION:Версаль
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T083000Z-judo-116-66--EOR-FRA
-DTSTAMP:20240728T083000Z
-DTSTART:20240728T083000Z
-DTEND:20240728T083600Z
-DESCRIPTION:Дзюдо - 1/16 финала, до 66кг (м)
-SUMMARY:🥋 Mohammad RASHNONEZHAD 🏳️ - 🇫🇷 Walide KHYAR
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T085500Z-fencing--116--FRA-JPN
 DTSTAMP:20240728T085500Z
 DTSTART:20240728T085500Z
@@ -1025,6 +1015,20 @@ DTEND:20240728T091800Z
 DESCRIPTION:Дзюдо - 1/8 финала, до 52кг (ж)
 SUMMARY:🥋 Amandine BUCHARD 🇫🇷 - 🇨🇾 Sofia ASVESTA
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T091500Z-swimming-400-
+DTSTAMP:20240728T091500Z
+DTSTART:20240728T091500Z
+DTEND:20240728T092700Z
+DESCRIPTION:Плавание - 400м комплексом, квалификация (м)\n🇮🇹 Alberto
+  RAZZETTI\n🇬🇷 Apostolos PAPASTAMOS\n🇭🇺 Balazs HOLLO\n🇦🇺 Brendon
+  SMITH\n🇺🇸 Carson FOSTER\n🇩🇪 Cedric BUESSING\n🇺🇸 Chase KALISZ\n🇭🇺
+  Gabor ZOMBORI\n🇫🇷 Leon MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇯🇵 MATSUSHITA
+  Tomoyuki\n🇬🇧 Max LITCHFIELD\n🇯🇵 SETO Daiya\n🇨🇦 Tristan
+  JANKOVICS\n🇦🇺 William Campbell PETRIC\n🇨🇳 ZHANG Zhanshuo
+SUMMARY:🏊 400м комплексом, квалификация (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T091500Z-shooting--10-
@@ -1052,20 +1056,6 @@ SUMMARY:🔫 Пневматическая винтовка 10м, квалифи�
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T091500Z-swimming-400-
-DTSTAMP:20240728T091500Z
-DTSTART:20240728T091500Z
-DTEND:20240728T092700Z
-DESCRIPTION:Плавание - 400м комплексом, квалификация (м)\n🇮🇹 Alberto
-  RAZZETTI\n🇬🇷 Apostolos PAPASTAMOS\n🇭🇺 Balazs HOLLO\n🇦🇺 Brendon
-  SMITH\n🇺🇸 Carson FOSTER\n🇩🇪 Cedric BUESSING\n🇺🇸 Chase KALISZ\n🇭🇺
-  Gabor ZOMBORI\n🇫🇷 Leon MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇯🇵 MATSUSHITA
-  Tomoyuki\n🇬🇧 Max LITCHFIELD\n🇯🇵 SETO Daiya\n🇨🇦 Tristan
-  JANKOVICS\n🇦🇺 William Campbell PETRIC\n🇨🇳 ZHANG Zhanshuo
-SUMMARY:🏊 400м комплексом, квалификация (м)
-LOCATION:Арена «Пари-Ла-Дефанс»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T092500Z-fencing--116--CIV-FRA
 DTSTAMP:20240728T092500Z
 DTSTART:20240728T092500Z
@@ -1089,17 +1079,10 @@ DTSTAMP:20240728T093000Z
 DTSTART:20240728T093000Z
 DTEND:20240728T095700Z
 DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, заезды
-  (ж)\n🇵🇪 Alessia PALACIOS\n🇮🇪 Aoife CASEY\n🇫🇷 Claire BOVE\n🇬🇷
-  Dimitra KONTOU\n🇬🇧 Emily CRAIG\n🇦🇷 Evelyn SILVESTRO\n🇷🇴 Gianina
-  Elena van GRONINGEN\n🇯🇵 HIROUCHI Emi\n🇬🇧 Imogen GRANT\n🇷🇴 Ionela
-  Livia COZMIUC\n🇳🇿 Jackie KIDDLE\n🇨🇦 Jenny CASSON\n🇨🇦 Jill
-  MOFFATT\n🇵🇱 Katarzyna WELNA\n🇹🇳 Khadija KRIMI\n🇦🇹 Lara
-  TIEFENTHALER\n🇫🇷 Laura TARANTOLA\n🇦🇹 Louisa ALTENHUBER\n🇮🇷 Mahsa
-  JAVER\n🇮🇪 Margaret CREMEN\n🇵🇱 Martyna RADOSZ\n🇺🇸 Michelle
-  SECHSER\n🇺🇸 Molly RECKFORD\n🇯🇵 OISHI Ayami\n🇨🇳 QIU Xiuping\n🇹🇳
-  Selma DHAOUADI\n🇳🇿 Shannon COX\n🇦🇷 Sonia BALUZZO CHIARUZZO\n🇵🇪
-  Valeria PALACIOS\n🇨🇳 ZOU Jiaqi\n🇮🇷 Zeinab NOROUZI TAZEH KAND\n🇬🇷
-  Zoi FITSIOU
+  (ж)\n🇦🇹 Австрия\n🇦🇷 Аргентина\n🇬🇧 Великобритания\n🇬🇷 Греция\n🇮🇷
+  Иран\n🇮🇪 Ирландия\n🇨🇦 Канада\n🇨🇳 Китай\n🇳🇿 Новая Зеландия\n🇵🇪
+  Перу\n🇵🇱 Польша\n🇷🇴 Румыния\n🇺🇸 США\n🇹🇳 Тунис\n🇫🇷 Франция\n🇯🇵
+  Япония
 SUMMARY:🚣 Двойки парные, легкий вес, заезды (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
@@ -1146,6 +1129,19 @@ SUMMARY:🥋 Amandine BUCHARD 🇫🇷 - 🇧🇷 Larissa PIMENTA
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T100000Z-rowing--
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T102700Z
+DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, заезды
+  (м)\n🇦🇷 Аргентина\n🇧🇪 Бельгия\n🇬🇷 Греция\n🇪🇬 Египет\n🇮🇪
+  Ирландия\n🇪🇸 Испания\n🇮🇹 Италия\n🇲🇽 Мексика\n🇳🇴 Норвегия\n🇺🇿
+  Узбекистан\n🇺🇦 Украина\n🇫🇷 Франция\n🇨🇿 Чехия\n🇨🇱 Чили\n🇨🇭
+  Швейцария\n🇯🇵 Япония
+SUMMARY:🚣 Двойки парные, легкий вес, заезды (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T100000Z-beach-volleyball--C--GER-FRA
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
@@ -1155,24 +1151,13 @@ SUMMARY:🏐 MULLER/TILLMANN 🇩🇪 - 🇫🇷 VIEIRA/CHAMEREAU
 LOCATION:Стадион у Эйфелевой башни
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-rowing--
+UID:20240728T100000Z-tennis---FRA-IND
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
-DTEND:20240728T102700Z
-DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, заезды
-  (м)\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro COLOMINO\n🇲🇽 Alexis LOPEZ
-  GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇳🇴 Ask Jarl TJOEM\n🇪🇸 Caetano
-  Xose HORTA POMBO\n🇨🇱 Cesar ABAROA\n🇪🇸 Dennis CARRACEDO FERRERO\n🇨🇱
-  Eber SANHUEZA\n🇯🇵 FURUTA Naoki\n🇫🇷 Ferdinand LUDWIG\n🇮🇪 Fintan Mc
-  CARTHY\n🇮🇹 Gabriel SOARES\n🇫🇷 Hugo BEUREY\n🇺🇦 Igor KHMARA\n🇨🇭 Jan
-  SCHAEUBLE\n🇨🇿 Jiri SIMANEK\n🇳🇴 Lars Martin BENSKE\n🇯🇵 MIYAURA
-  Masayuki\n🇲🇽 Miguel CARBALLO NIETO\n🇨🇿 Miroslav VRASTIL\n🇪🇬 Mohamed
-  MOHAMED KOTA\n🇧🇪 Niels van ZANDWEGHE\n🇮🇪 Paul O DONOVAN\n🇦🇷 Pedro
-  DICKSON\n🇬🇷 Petros GKAIDATZIS\n🇨🇭 Raphael AHUMADA\n🇺🇿 Shakhzod
-  NURMATOV\n🇺🇿 Sobirjon SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇮🇹 Stefano
-  OPPO\n🇧🇪 Tibo VYVEY
-SUMMARY:🚣 Двойки парные, легкий вес, заезды (м)
-LOCATION:Водный ст. - Гладкая вода
+DTEND:20240728T113000Z
+DESCRIPTION:Теннис - Первый раунд, одиночный разряд (м)
+SUMMARY:🎾 Corentin MOUTET 🇫🇷 - 🇮🇳 Sumit NAGAL
+LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100000Z-skateboarding--
@@ -1189,6 +1174,15 @@ DESCRIPTION:Скейтбординг - Стрит, предварительны�
   Yuanling
 SUMMARY:🛹 Стрит, предварительные заезды (ж)
 LOCATION:Площадь Согласия 3
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis---HUN-FRA
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T143000Z
+DESCRIPTION:Теннис - Первый раунд, одиночный разряд (м)
+SUMMARY:🎾 Fabian MAROZSAN 🇭🇺 - 🇫🇷 Ugo HUMBERT
+LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100000Z-tennis---ARG-FRA
@@ -1218,30 +1212,12 @@ SUMMARY:🎾 Clara BUREL 🇫🇷 - 🇨🇿 Katerina SINIAKOVA
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-tennis---FRA-IND
+UID:20240728T100000Z-tennis---ITA-FRA
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
-DTEND:20240728T113000Z
+DTEND:20240728T160000Z
 DESCRIPTION:Теннис - Первый раунд, одиночный разряд (м)
-SUMMARY:🎾 Corentin MOUTET 🇫🇷 - 🇮🇳 Sumit NAGAL
-LOCATION:Стадион «Ролан Гаррос»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T100000Z-tennis---HUN-FRA
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T143000Z
-DESCRIPTION:Теннис - Первый раунд, одиночный разряд (м)
-SUMMARY:🎾 Fabian MAROZSAN 🇭🇺 - 🇫🇷 Ugo HUMBERT
-LOCATION:Стадион «Ролан Гаррос»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T100000Z-tennis---IND-FRA
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T190000Z
-DESCRIPTION:Теннис - Первый раунд, пары (м)
-SUMMARY:🎾 BALAJI/BOPANNA 🇮🇳 - 🇫🇷 MONFILS/ROGER-VASSELI
+SUMMARY:🎾 Lorenzo MUSETTI 🇮🇹 - 🇫🇷 Gael MONFILS
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
@@ -1254,12 +1230,12 @@ SUMMARY:🎾 Matteo ARNALDI 🇮🇹 - 🇫🇷 Arthur FILS
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-tennis---ITA-FRA
+UID:20240728T100000Z-tennis---IND-FRA
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
-DTEND:20240728T160000Z
-DESCRIPTION:Теннис - Первый раунд, одиночный разряд (м)
-SUMMARY:🎾 Lorenzo MUSETTI 🇮🇹 - 🇫🇷 Gael MONFILS
+DTEND:20240728T190000Z
+DESCRIPTION:Теннис - Первый раунд, пары (м)
+SUMMARY:🎾 BALAJI/BOPANNA 🇮🇳 - 🇫🇷 MONFILS/ROGER-VASSELI
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
@@ -1310,18 +1286,9 @@ UID:20240728T105000Z-rowing--
 DTSTAMP:20240728T105000Z
 DTSTART:20240728T105000Z
 DTEND:20240728T110700Z
-DESCRIPTION:Академическая гребля - Четверки, заезды (м)\n🇦🇺 Alex
-  HILL\n🇷🇴 Andrei MANDRILA\n🇫🇷 Benoit BRUNET\n🇷🇴 Ciprian TUDOSA\n🇬🇧
-  David AMBLER\n🇳🇱 Eli BROUWER\n🇦🇺 Fergus HAMILTON\n🇬🇧 Freddie
-  DAVIDSON\n🇮🇹 Giovanni ABAGNALE\n🇮🇹 Giuseppe VICINO\n🇫🇷 Guillaume
-  TURLAN\n🇳🇱 Guus MOLLEE\n🇦🇺 Jack ROBERTSON\n🇨🇭 Joel SCHUERCH\n🇺🇸
-  Justin BEST\n🇨🇭 Kai SCHAETZLE\n🇺🇸 Liam CORRIGAN\n🇳🇿 Logan
-  ULLRICH\n🇬🇧 Matt ALDRIDGE\n🇳🇿 Matt MACDONALD\n🇮🇹 Matteo LODO\n🇺🇸
-  Michael GRADY\n🇳🇱 Nelson RITSEMA\n🇮🇹 Nicholas KOHL\n🇺🇸 Nick
-  MEAD\n🇬🇧 Oliver WILKES\n🇳🇿 Ollie MACLEAN\n🇨🇭 Patrick BRUNNER\n🇳🇱
-  Rik RIENKS\n🇷🇴 Sergiu Vasile BEJAN\n🇷🇴 Stefan Constantin
-  BERARIU\n🇫🇷 Teo RAYET\n🇫🇷 Thibaud TURLAN\n🇨🇭 Tim ROTH\n🇦🇺 Timothy
-  MASTERS\n🇳🇿 Tom MURRAY
+DESCRIPTION:Академическая гребля - Четверки, заезды (м)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇮🇹 Италия\n🇳🇱 Нидерланды\n🇳🇿 Новая
+  Зеландия\n🇷🇴 Румыния\n🇺🇸 США\n🇫🇷 Франция\n🇨🇭 Швейцария
 SUMMARY:🚣 Четверки, заезды (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
@@ -1615,15 +1582,6 @@ SUMMARY:🤺 Mohamed ELSAYED 🇪🇬 - 🇫🇷 Yannick BOREL
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T183000Z-rugby-sevens--C--FRA-JPN
-DTSTAMP:20240728T183000Z
-DTSTART:20240728T183000Z
-DTEND:20240728T184600Z
-DESCRIPTION:Регби-7 - Группа C (ж)
-SUMMARY:🏉 Франция 🇫🇷 - 🇯🇵 Япония
-LOCATION:«Стад-де-Франс»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T183000Z-swimming-400-
 DTSTAMP:20240728T183000Z
 DTSTART:20240728T183000Z
@@ -1636,6 +1594,15 @@ SUMMARY:🏊 400м комплексом, финал (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T183000Z-rugby-sevens--C--FRA-JPN
+DTSTAMP:20240728T183000Z
+DTSTART:20240728T183000Z
+DTEND:20240728T184600Z
+DESCRIPTION:Регби-7 - Группа C (ж)
+SUMMARY:🏉 Франция 🇫🇷 - 🇯🇵 Япония
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T184800Z-surfing--2-4--FRA-AUS
 DTSTAMP:20240728T184800Z
 DTSTART:20240728T184800Z
@@ -1645,15 +1612,6 @@ SUMMARY:🏄 Johanne DEFAY 🇫🇷 - 🇦🇺 Molly PICKLUM
 LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T190000Z-football--A--FRA-CAN
-DTSTAMP:20240728T190000Z
-DTSTART:20240728T190000Z
-DTEND:20240728T204500Z
-DESCRIPTION:Футбол - Группа A (ж)
-SUMMARY:⚽ Франция 🇫🇷 - 🇨🇦 Канада
-LOCATION:Стадион «Жоффруа Гишар»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T190000Z-handball--B--FRA-NED
 DTSTAMP:20240728T190000Z
 DTSTART:20240728T190000Z
@@ -1661,6 +1619,15 @@ DTEND:20240728T203000Z
 DESCRIPTION:Гандбол - Предварительный этап, группа B (ж)
 SUMMARY:🤾 Франция 🇫🇷 - 🇳🇱 Нидерланды
 LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T190000Z-football--A--FRA-CAN
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T204500Z
+DESCRIPTION:Футбол - Группа A (ж)
+SUMMARY:⚽ Франция 🇫🇷 - 🇨🇦 Канада
+LOCATION:Стадион «Жоффруа Гишар»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T193200Z-swimming-100-
@@ -1717,6 +1684,18 @@ SUMMARY:🔫 Пневматический пистолет 10м, квалифи�
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T073000Z-shooting--10-
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T081500Z
+DESCRIPTION:Стрельба - Пневматическая винтовка 10м, финал (ж)\n🇰🇿
+  Alexandra Le\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG
+  Yuting\n🇳🇴 Jeanette Hegg DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
+  RAMITA\n🇺🇸 Sagen MADDALENA
+SUMMARY:🔫 Пневматическая винтовка 10м, финал (ж)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T073000Z-shooting--1-
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
@@ -1733,18 +1712,6 @@ DESCRIPTION:Стрельба - Трап, квалификация, день 1 (�
   ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
   HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
 SUMMARY:🔫 Трап, квалификация, день 1 (м)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T073000Z-shooting--10-
-DTSTAMP:20240729T073000Z
-DTSTART:20240729T073000Z
-DTEND:20240729T081500Z
-DESCRIPTION:Стрельба - Пневматическая винтовка 10м, финал (ж)\n🇰🇿
-  Alexandra Le\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG
-  Yuting\n🇳🇴 Jeanette Hegg DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
-  RAMITA\n🇺🇸 Sagen MADDALENA
-SUMMARY:🔫 Пневматическая винтовка 10м, финал (ж)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
@@ -1766,15 +1733,6 @@ SUMMARY:🏸 RIVALDY/MENTARI 🇮🇩 - 🇫🇷 GICQUEL/DELRUE
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T082500Z-fencing--116--FRA-TUN
-DTSTAMP:20240729T082500Z
-DTSTART:20240729T082500Z
-DTEND:20240729T085000Z
-DESCRIPTION:Фехтование - Личная сабля, 1/16 финала (ж)
-SUMMARY:🤺 Sara BALZER 🇫🇷 - 🇹🇳 Yasmine DAGHFOUS
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T082500Z-fencing--116--KAZ-FRA
 DTSTAMP:20240729T082500Z
 DTSTART:20240729T082500Z
@@ -1784,18 +1742,23 @@ SUMMARY:🤺 Aigerim SARYBAY 🇰🇿 - 🇫🇷 Manon APITHY-BRUNET
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T082500Z-fencing--116--FRA-TUN
+DTSTAMP:20240729T082500Z
+DTSTART:20240729T082500Z
+DTEND:20240729T085000Z
+DESCRIPTION:Фехтование - Личная сабля, 1/16 финала (ж)
+SUMMARY:🤺 Sara BALZER 🇫🇷 - 🇹🇳 Yasmine DAGHFOUS
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T084000Z-rowing--
 DTSTAMP:20240729T084000Z
 DTSTART:20240729T084000Z
 DTEND:20240729T085700Z
 DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, утешительные
-  заезды (м)\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro COLOMINO\n🇲🇽 Alexis
-  LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇨🇱 Cesar ABAROA\n🇨🇱
-  Eber SANHUEZA\n🇯🇵 FURUTA Naoki\n🇫🇷 Ferdinand LUDWIG\n🇫🇷 Hugo
-  BEUREY\n🇺🇦 Igor KHMARA\n🇯🇵 MIYAURA Masayuki\n🇲🇽 Miguel CARBALLO
-  NIETO\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van ZANDWEGHE\n🇦🇷 Pedro
-  DICKSON\n🇬🇷 Petros GKAIDATZIS\n🇺🇿 Shakhzod NURMATOV\n🇺🇿 Sobirjon
-  SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇧🇪 Tibo VYVEY
+  заезды (м)\n🇦🇷 Аргентина\n🇧🇪 Бельгия\n🇬🇷 Греция\n🇪🇬 Египет\n🇲🇽
+  Мексика\n🇺🇿 Узбекистан\n🇺🇦 Украина\n🇫🇷 Франция\n🇨🇱 Чили\n🇯🇵
+  Япония
 SUMMARY:🚣 Двойки парные, легкий вес, утешительные заезды (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
@@ -1809,15 +1772,6 @@ SUMMARY:🥋 Lasha SHAVDATUASHVILI 🇬🇪 - 🇫🇷 Joan-Benjamin GABA
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T090000Z-badminton---INA-FRA
-DTSTAMP:20240729T090000Z
-DTSTART:20240729T090000Z
-DTEND:20240729T100000Z
-DESCRIPTION:Бадминтон - Групповой этап, парный, группа С (м)
-SUMMARY:🏸 ALFIAN/ARDIANTO 🇮🇩 - 🇫🇷 CORVEE/LABAR
-LOCATION:Арена «Ла-Шапель»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T090000Z-diving--10-
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
@@ -1827,6 +1781,28 @@ DESCRIPTION:Прыжки в воду - Синхронная вышка 10м, ф�
   Китай\n🇲🇽 Мексика\n🇺🇦 Украина\n🇫🇷 Франция
 SUMMARY:🏊 Синхронная вышка 10м, финал (м)
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-badminton---INA-FRA
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T100000Z
+DESCRIPTION:Бадминтон - Групповой этап, парный, группа С (м)
+SUMMARY:🏸 ALFIAN/ARDIANTO 🇮🇩 - 🇫🇷 CORVEE/LABAR
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-equestrian--
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T114000Z
+DESCRIPTION:Конный спорт - Командное троеборье, конкур, финал\n🇦🇺
+  Австралия\n🇧🇪 Бельгия\n🇧🇷 Бразилия\n🇬🇧 Великобритания\n🇩🇪
+  Германия\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇱 Нидерланды\n🇳🇿
+  Новая Зеландия\n🇵🇱 Польша\n🇺🇸 США\n🇫🇷 Франция\n🇨🇭 Швейцария\n🇸🇪
+  Швеция\n🇯🇵 Япония
+SUMMARY:🏇 Командное троеборье, конкур, финал
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T090000Z-equestrian--
@@ -1854,19 +1830,6 @@ DESCRIPTION:Конный спорт - Личное троеборье, конк�
   Kazuma\n🇳🇿 Tim PRICE\n🇧🇪 Tine MAGNUS\n🇬🇧 Tom McEWEN\n🇫🇮 Veera
   MANNINEN\n🇵🇱 Wiktoria KNAP
 SUMMARY:🏇 Личное троеборье, конкур, квалификация
-LOCATION:Версаль
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T090000Z-equestrian--
-DTSTAMP:20240729T090000Z
-DTSTART:20240729T090000Z
-DTEND:20240729T114000Z
-DESCRIPTION:Конный спорт - Командное троеборье, конкур, финал\n🇦🇺
-  Австралия\n🇧🇪 Бельгия\n🇧🇷 Бразилия\n🇬🇧 Великобритания\n🇩🇪
-  Германия\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇱 Нидерланды\n🇳🇿
-  Новая Зеландия\n🇵🇱 Польша\n🇺🇸 США\n🇫🇷 Франция\n🇨🇭 Швейцария\n🇸🇪
-  Швеция\n🇯🇵 Япония
-SUMMARY:🏇 Командное троеборье, конкур, финал
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
@@ -1936,6 +1899,33 @@ SUMMARY:🥋 Joan-Benjamin GABA 🇫🇷 - 🇹🇿 Andrew Thomas MLUGU
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T100000Z-tennis---POL-FRA
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T113000Z
+DESCRIPTION:Теннис - Второй раунд, одиночный разряд (ж)
+SUMMARY:🎾 Iga SWIATEK 🇵🇱 - 🇫🇷 Diane PARRY
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-tennis---FRA-UKR
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T130000Z
+DESCRIPTION:Теннис - Второй раунд, одиночный разряд (ж)
+SUMMARY:🎾 Clara BUREL 🇫🇷 - 🇺🇦 Marta KOSTYUK
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-tennis---ARG-FRA
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T130000Z
+DESCRIPTION:Теннис - Второй раунд, одиночный разряд (м)
+SUMMARY:🎾 Francisco CERUNDOLO 🇦🇷 - 🇫🇷 Ugo HUMBERT
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T100000Z-skateboarding--
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
@@ -1952,21 +1942,12 @@ SUMMARY:🛹 Стрит, предварительные заезды (м)
 LOCATION:Площадь Согласия 3
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T100000Z-tennis---ARG-FRA
+UID:20240729T100000Z-tennis---NED-FRA
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
-DTEND:20240729T130000Z
-DESCRIPTION:Теннис - Второй раунд, одиночный разряд (м)
-SUMMARY:🎾 Francisco CERUNDOLO 🇦🇷 - 🇫🇷 Ugo HUMBERT
-LOCATION:Стадион «Ролан Гаррос»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T100000Z-tennis---BEL-FRA
-DTSTAMP:20240729T100000Z
-DTSTART:20240729T100000Z
-DTEND:20240729T173000Z
-DESCRIPTION:Теннис - Первый раунд, пары (м)
-SUMMARY:🎾 GILLE/VLIEGEN 🇧🇪 - 🇫🇷 FILS/HUMBERT
+DTEND:20240729T143000Z
+DESCRIPTION:Теннис - Первый раунд, пары (ж)
+SUMMARY:🎾 RUS/SCHUURS 🇳🇱 - 🇫🇷 GARCIA/PARRY
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
@@ -1988,30 +1969,12 @@ SUMMARY:🎾 GARCIA/ROGER-VASSELIN 🇫🇷 - 🇯🇵 SHIBAHARA/NISHIKORI
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T100000Z-tennis---FRA-UKR
+UID:20240729T100000Z-tennis---BEL-FRA
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
-DTEND:20240729T130000Z
-DESCRIPTION:Теннис - Второй раунд, одиночный разряд (ж)
-SUMMARY:🎾 Clara BUREL 🇫🇷 - 🇺🇦 Marta KOSTYUK
-LOCATION:Стадион «Ролан Гаррос»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T100000Z-tennis---NED-FRA
-DTSTAMP:20240729T100000Z
-DTSTART:20240729T100000Z
-DTEND:20240729T143000Z
-DESCRIPTION:Теннис - Первый раунд, пары (ж)
-SUMMARY:🎾 RUS/SCHUURS 🇳🇱 - 🇫🇷 GARCIA/PARRY
-LOCATION:Стадион «Ролан Гаррос»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T100000Z-tennis---POL-FRA
-DTSTAMP:20240729T100000Z
-DTSTART:20240729T100000Z
-DTEND:20240729T113000Z
-DESCRIPTION:Теннис - Второй раунд, одиночный разряд (ж)
-SUMMARY:🎾 Iga SWIATEK 🇵🇱 - 🇫🇷 Diane PARRY
+DTEND:20240729T173000Z
+DESCRIPTION:Теннис - Первый раунд, пары (м)
+SUMMARY:🎾 GILLE/VLIEGEN 🇧🇪 - 🇫🇷 FILS/HUMBERT
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
@@ -2269,21 +2232,21 @@ SUMMARY:🏸 BAEK/LEE 🇰🇷 - 🇫🇷 LAMBERT/TRAN
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T125500Z-fencing--18--FRA-ITA
-DTSTAMP:20240729T125500Z
-DTSTART:20240729T125500Z
-DTEND:20240729T132500Z
-DESCRIPTION:Фехтование - Личная рапира, 1/8 финала (м)
-SUMMARY:🤺 Maxime PAUTY 🇫🇷 - 🇮🇹 Tommaso MARINI
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T125500Z-fencing--18--USA-FRA
 DTSTAMP:20240729T125500Z
 DTSTART:20240729T125500Z
 DTEND:20240729T132500Z
 DESCRIPTION:Фехтование - Личная рапира, 1/8 финала (м)
 SUMMARY:🤺 Gerek MEINHARDT 🇺🇸 - 🇫🇷 Enzo LEFORT
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T125500Z-fencing--18--FRA-ITA
+DTSTAMP:20240729T125500Z
+DTSTART:20240729T125500Z
+DTEND:20240729T132500Z
+DESCRIPTION:Фехтование - Личная рапира, 1/8 финала (м)
+SUMMARY:🤺 Maxime PAUTY 🇫🇷 - 🇮🇹 Tommaso MARINI
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -2313,6 +2276,15 @@ SUMMARY:🏹 Италия 🇮🇹 - 🇫🇷 Франция
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T133000Z-rugby-sevens--C--FRA-USA
+DTSTAMP:20240729T133000Z
+DTSTART:20240729T133000Z
+DTEND:20240729T134600Z
+DESCRIPTION:Регби-7 - Группа C (ж)
+SUMMARY:🏉 Франция 🇫🇷 - 🇺🇸 США
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T133000Z-canoe-slalom--
 DTSTAMP:20240729T133000Z
 DTSTART:20240729T133000Z
@@ -2327,13 +2299,13 @@ SUMMARY:🛶 Каноэ-одиночки, полуфинал (м)
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T133000Z-rugby-sevens--C--FRA-USA
-DTSTAMP:20240729T133000Z
-DTSTART:20240729T133000Z
-DTEND:20240729T134600Z
-DESCRIPTION:Регби-7 - Группа C (ж)
-SUMMARY:🏉 Франция 🇫🇷 - 🇺🇸 США
-LOCATION:«Стад-де-Франс»
+UID:20240729T135500Z-fencing--14--HUN-FRA
+DTSTAMP:20240729T135500Z
+DTSTART:20240729T135500Z
+DTEND:20240729T142000Z
+DESCRIPTION:Фехтование - Личная сабля, 1/4 финала (ж)
+SUMMARY:🤺 Luca Virag SZUCS 🇭🇺 - 🇫🇷 Sara BALZER
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T135500Z-fencing--14--GRE-FRA
@@ -2342,15 +2314,6 @@ DTSTART:20240729T135500Z
 DTEND:20240729T142000Z
 DESCRIPTION:Фехтование - Личная сабля, 1/4 финала (ж)
 SUMMARY:🤺 Theodora GKOUNTOURA 🇬🇷 - 🇫🇷 Manon APITHY-BRUNET
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T135500Z-fencing--14--HUN-FRA
-DTSTAMP:20240729T135500Z
-DTSTART:20240729T135500Z
-DTEND:20240729T142000Z
-DESCRIPTION:Фехтование - Личная сабля, 1/4 финала (ж)
-SUMMARY:🤺 Luca Virag SZUCS 🇭🇺 - 🇫🇷 Sara BALZER
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -2627,25 +2590,6 @@ SUMMARY:🏄 Vahine FIERRO 🇫🇷 - 🇫🇷 Johanne DEFAY
 LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T070000Z-shooting--1-
-DTSTAMP:20240730T070000Z
-DTSTART:20240730T070000Z
-DTEND:20240730T120000Z
-DESCRIPTION:Стрельба - Трап, квалификация, день 1 (ж)\n🇬🇹 Adriana RUANO
-  OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole
-  CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica
-  ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi
-  Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸
-  Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya
-  DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny
-  SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray
-  BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi
-  SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰
-  Zuzana REHAK STEFECEKOVA
-SUMMARY:🔫 Трап, квалификация, день 1 (ж)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
 UID:20240730T070000Z-shooting--2-
 DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
@@ -2665,6 +2609,34 @@ SUMMARY:🔫 Трап, квалификация, день 2 (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T070000Z-shooting--1-
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T120000Z
+DESCRIPTION:Стрельба - Трап, квалификация, день 1 (ж)\n🇬🇹 Adriana RUANO
+  OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole
+  CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica
+  ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi
+  Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸
+  Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya
+  DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny
+  SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray
+  BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi
+  SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰
+  Zuzana REHAK STEFECEKOVA
+SUMMARY:🔫 Трап, квалификация, день 1 (ж)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T080000Z-judo-132-81--FRA-EGY
+DTSTAMP:20240730T080000Z
+DTSTART:20240730T080000Z
+DTEND:20240730T080600Z
+DESCRIPTION:Дзюдо - 1/32 финала, до 81кг (м)
+SUMMARY:🥋 Alpha Oumar DJALO 🇫🇷 - 🇪🇬 Abdelrahman ABDELGHANY
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T080000Z-beach-volleyball--C--GER-FRA
 DTSTAMP:20240730T080000Z
 DTSTART:20240730T080000Z
@@ -2681,15 +2653,6 @@ DTEND:20240730T093000Z
 DESCRIPTION:Хоккей на траве - Группа A (м)
 SUMMARY:🏑 Испания 🇪🇸 - 🇫🇷 Франция
 LOCATION:Стадион «Ив дю Мануар»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T080000Z-judo-132-81--FRA-EGY
-DTSTAMP:20240730T080000Z
-DTSTART:20240730T080000Z
-DTEND:20240730T080600Z
-DESCRIPTION:Дзюдо - 1/32 финала, до 81кг (м)
-SUMMARY:🥋 Alpha Oumar DJALO 🇫🇷 - 🇪🇬 Abdelrahman ABDELGHANY
-LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T081000Z-badminton--H--FRA-USA
@@ -2832,15 +2795,6 @@ SUMMARY:🏊 1500м вольным стилем, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T100000Z-archery-132--FRA-COL
-DTSTAMP:20240730T100000Z
-DTSTART:20240730T100000Z
-DTEND:20240730T101300Z
-DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (м)
-SUMMARY:🏹 Thomas CHIRAULT 🇫🇷 - 🇨🇴 Andres HERNANDEZ VERA
-LOCATION:Дом инвалидов
-END:VEVENT
-BEGIN:VEVENT
 UID:20240730T100000Z-judo-18-63--FRA-BRA
 DTSTAMP:20240730T100000Z
 DTSTART:20240730T100000Z
@@ -2850,12 +2804,21 @@ SUMMARY:🥋 Clarisse AGBEGNENOU 🇫🇷 - 🇧🇷 Ketleyn QUADROS
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T100000Z-tennis---FRA-GER
+UID:20240730T100000Z-archery-132--FRA-COL
 DTSTAMP:20240730T100000Z
 DTSTART:20240730T100000Z
-DTEND:20240730T160000Z
-DESCRIPTION:Теннис - Второй раунд, пары (м)
-SUMMARY:🎾 MONFILS/ROGER-VASSELI 🇫🇷 - 🇩🇪 KRAWIETZ/PUETZ
+DTEND:20240730T101300Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (м)
+SUMMARY:🏹 Thomas CHIRAULT 🇫🇷 - 🇨🇴 Andres HERNANDEZ VERA
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T100000Z-tennis---ITA-FRA
+DTSTAMP:20240730T100000Z
+DTSTART:20240730T100000Z
+DTEND:20240730T143000Z
+DESCRIPTION:Теннис - Второй раунд, пары (ж)
+SUMMARY:🎾 ERRANI/PAOLINI 🇮🇹 - 🇫🇷 GARCIA/PARRY
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
@@ -2868,12 +2831,12 @@ SUMMARY:🎾 Jan-Lennard STRUFF 🇩🇪 - 🇫🇷 Corentin MOUTET
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T100000Z-tennis---ITA-FRA
+UID:20240730T100000Z-tennis---FRA-GER
 DTSTAMP:20240730T100000Z
 DTSTART:20240730T100000Z
-DTEND:20240730T143000Z
-DESCRIPTION:Теннис - Второй раунд, пары (ж)
-SUMMARY:🎾 ERRANI/PAOLINI 🇮🇹 - 🇫🇷 GARCIA/PARRY
+DTEND:20240730T160000Z
+DESCRIPTION:Теннис - Второй раунд, пары (м)
+SUMMARY:🎾 MONFILS/ROGER-VASSELI 🇫🇷 - 🇩🇪 KRAWIETZ/PUETZ
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
@@ -2909,21 +2872,21 @@ SUMMARY:⛵ Виндсерфинг, гонка 02 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T102400Z-judo--63--KOS-FRA
-DTSTAMP:20240730T102400Z
-DTSTART:20240730T102400Z
-DTEND:20240730T103000Z
-DESCRIPTION:Дзюдо - Четвертьфинал, до 63кг (ж)
-SUMMARY:🥋 Laura FAZLIU 🇽🇰 - 🇫🇷 Clarisse AGBEGNENOU
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240730T102400Z-judo-18-81--FRA-UZB
 DTSTAMP:20240730T102400Z
 DTSTART:20240730T102400Z
 DTEND:20240730T103000Z
 DESCRIPTION:Дзюдо - 1/8 финала, до 81кг (м)
 SUMMARY:🥋 Alpha Oumar DJALO 🇫🇷 - 🇺🇿 Sharofiddin BOLTABOEV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T102400Z-judo--63--KOS-FRA
+DTSTAMP:20240730T102400Z
+DTSTART:20240730T102400Z
+DTEND:20240730T103000Z
+DESCRIPTION:Дзюдо - Четвертьфинал, до 63кг (ж)
+SUMMARY:🥋 Laura FAZLIU 🇽🇰 - 🇫🇷 Clarisse AGBEGNENOU
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -3083,19 +3046,6 @@ SUMMARY:🏊 Эстафета 4x200м вольным стилем, квалиф�
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T112500Z-cycling-bmx-freestyle--
-DTSTAMP:20240730T112500Z
-DTSTART:20240730T112500Z
-DTEND:20240730T124100Z
-DESCRIPTION:ВМХ-фристайл - Парк, квалификация (ж)\n🇬🇧 Charlotte Elizabeth
-  WORTHINGTON\n🇨🇳 DENG Yawen\n🇺🇸 Hannah ROBERTS\n🇨🇿 Iveta
-  MICULYCOVA\n🇩🇪 Kim Lea MUELLER\n🇫🇷 Laury PEREZ\n🇨🇱 Macarena PEREZ
-  GRASSET\n🇦🇺 Natalya DIEHM\n🇨🇭 Nikita DUCARROZ\n🇺🇸 Perris
-  BENEGAS\n🇨🇴 Queen Saray VILLEGAS SERNA\n🇨🇳 SUN Jiaqi
-SUMMARY:🚴 Парк, квалификация (ж)
-LOCATION:Площадь Согласия 2
-END:VEVENT
-BEGIN:VEVENT
 UID:20240730T112500Z-sailing--09-
 DTSTAMP:20240730T112500Z
 DTSTART:20240730T112500Z
@@ -3110,6 +3060,19 @@ DESCRIPTION:Парусный спорт - Скиф, гонка 09 (ж)\n🇳🇱
   TANAKA/NAGAMATSU
 SUMMARY:⛵ Скиф, гонка 09 (ж)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T112500Z-cycling-bmx-freestyle--
+DTSTAMP:20240730T112500Z
+DTSTART:20240730T112500Z
+DTEND:20240730T124100Z
+DESCRIPTION:ВМХ-фристайл - Парк, квалификация (ж)\n🇬🇧 Charlotte Elizabeth
+  WORTHINGTON\n🇨🇳 DENG Yawen\n🇺🇸 Hannah ROBERTS\n🇨🇿 Iveta
+  MICULYCOVA\n🇩🇪 Kim Lea MUELLER\n🇫🇷 Laury PEREZ\n🇨🇱 Macarena PEREZ
+  GRASSET\n🇦🇺 Natalya DIEHM\n🇨🇭 Nikita DUCARROZ\n🇺🇸 Perris
+  BENEGAS\n🇨🇴 Queen Saray VILLEGAS SERNA\n🇨🇳 SUN Jiaqi
+SUMMARY:🚴 Парк, квалификация (ж)
+LOCATION:Площадь Согласия 2
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T113000Z-fencing--14--KOR-FRA
@@ -3237,6 +3200,15 @@ SUMMARY:🏸 LAMSFUSS/SEIDEL 🇩🇪 - 🇫🇷 CORVEE/LABAR
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T130000Z-rugby-sevens--5-8--FRA-IRL
+DTSTAMP:20240730T130000Z
+DTSTART:20240730T130000Z
+DTEND:20240730T131600Z
+DESCRIPTION:Регби-7 - Матчи за 5-8 места (ж)
+SUMMARY:🏉 Франция 🇫🇷 - 🇮🇪 Ирландия
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T130000Z-canoe-slalom--1-
 DTSTAMP:20240730T130000Z
 DTSTART:20240730T130000Z
@@ -3251,15 +3223,6 @@ DESCRIPTION:Гребной слалом - Каноэ-одиночки, квал�
   Viktoriia US\n🇸🇰 Zuzana PANKOVA
 SUMMARY:🛶 Каноэ-одиночки, квалификация, заезд 1 (ж)
 LOCATION:Водный ст. - Белая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T130000Z-rugby-sevens--5-8--FRA-IRL
-DTSTAMP:20240730T130000Z
-DTSTART:20240730T130000Z
-DTEND:20240730T131600Z
-DESCRIPTION:Регби-7 - Матчи за 5-8 места (ж)
-SUMMARY:🏉 Франция 🇫🇷 - 🇮🇪 Ирландия
-LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T130000Z-water-polo--B--JPN-FRA
@@ -3416,15 +3379,6 @@ SUMMARY:🏉 Китай 🇨🇳 - 🇫🇷 Франция
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T170000Z-football--A--NZL-FRA
-DTSTAMP:20240730T170000Z
-DTSTART:20240730T170000Z
-DTEND:20240730T184500Z
-DESCRIPTION:Футбол - Группа A (м)
-SUMMARY:⚽ Новая Зеландия 🇳🇿 - 🇫🇷 Франция
-LOCATION:Стадион «Марсель»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240730T170000Z-handball--B--FRA-BRA
 DTSTAMP:20240730T170000Z
 DTSTART:20240730T170000Z
@@ -3432,6 +3386,15 @@ DTEND:20240730T183000Z
 DESCRIPTION:Гандбол - Предварительный этап, группа B (ж)
 SUMMARY:🤾 Франция 🇫🇷 - 🇧🇷 Бразилия
 LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T170000Z-football--A--NZL-FRA
+DTSTAMP:20240730T170000Z
+DTSTART:20240730T170000Z
+DTEND:20240730T184500Z
+DESCRIPTION:Футбол - Группа A (м)
+SUMMARY:⚽ Новая Зеландия 🇳🇿 - 🇫🇷 Франция
+LOCATION:Стадион «Марсель»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T173600Z-surfing-14-2--FRA-FRA
@@ -3461,15 +3424,6 @@ SUMMARY:🏹 YANG Xiaolei 🇨🇳 - 🇫🇷 Lisa BARBELIN
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T183000Z-fencing---FRA-ITA
-DTSTAMP:20240730T183000Z
-DTSTART:20240730T183000Z
-DTEND:20240730T192000Z
-DESCRIPTION:Фехтование - Командная шпага, финал (ж)
-SUMMARY:🤺 Франция 🇫🇷 - 🇮🇹 Италия
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
 UID:20240730T183000Z-swimming-100-
 DTSTAMP:20240730T183000Z
 DTSTART:20240730T183000Z
@@ -3482,6 +3436,15 @@ DESCRIPTION:Плавание - 100м вольным стилем, полуфин
   Zhanle\n🇷🇸 Velimir STJEPANOVIC\n🇦🇺 William YANG
 SUMMARY:🏊 100м вольным стилем, полуфиналы (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T183000Z-fencing---FRA-ITA
+DTSTAMP:20240730T183000Z
+DTSTART:20240730T183000Z
+DTEND:20240730T192000Z
+DESCRIPTION:Фехтование - Командная шпага, финал (ж)
+SUMMARY:🤺 Франция 🇫🇷 - 🇮🇹 Италия
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T184400Z-swimming-200-
@@ -4151,6 +4114,18 @@ SUMMARY:🏸 AN Se Young 🇰🇷 - 🇫🇷 Xuefei QI
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T183700Z-swimming-200-
+DTSTAMP:20240731T183700Z
+DTSTART:20240731T183700Z
+DTEND:20240731T184500Z
+DESCRIPTION:Плавание - 200м баттерфляем, финал (м)\n🇮🇹 Alberto
+  RAZZETTI\n🇨🇦 Ilya KHARUN\n🇪🇪 Kregor ZIRK\n🇭🇺 Kristof MILAK\n🇵🇱
+  Krzysztof CHMIELEWSKI\n🇫🇷 Leon MARCHAND\n🇦🇹 Martin ESPERNBERGER\n🇨🇭
+  Noe PONTI
+SUMMARY:🏊 200м баттерфляем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T190000Z-3x3-basketball---FRA-ESP
 DTSTAMP:20240731T190000Z
 DTSTART:20240731T190000Z
@@ -4188,6 +4163,28 @@ DTEND:20240731T203000Z
 DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
 SUMMARY:🏀 Литва 🇱🇹 - 🇫🇷 Франция
 LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T203100Z-swimming-200-
+DTSTAMP:20240731T203100Z
+DTSTART:20240731T203100Z
+DTEND:20240731T203900Z
+DESCRIPTION:Плавание - 200м брассом, финал (м)\n🇳🇱 Caspar CORBEAU\n🇨🇳
+  DONG Zhihao\n🇯🇵 HANAGURUMA Yu\n🇺🇸 Josh MATHENY\n🇦🇺 Joshua
+  YONG\n🇫🇷 Leon MARCHAND\n🇯🇵 WATANABE Ippei\n🇦🇺 Zac STUBBLETY-COOK
+SUMMARY:🏊 200м брассом, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T203900Z-swimming-100-
+DTSTAMP:20240731T203900Z
+DTSTART:20240731T203900Z
+DTEND:20240731T204600Z
+DESCRIPTION:Плавание - 100м вольным стилем, финал (м)\n🇺🇸 Chris
+  GUILIANO\n🇷🇴 David POPOVICI\n🇺🇸 Jack ALEXY\n🇩🇪 Josha SALCHOW\n🇦🇺
+  Kyle CHALMERS\n🇫🇷 Maxime GROUSSET\n🇭🇺 Nandor NEMETH\n🇨🇳 PAN Zhanle
+SUMMARY:🏊 100м вольным стилем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T081200Z-judo-116-100--FRA-TJK
@@ -4828,26 +4825,6 @@ SUMMARY:🔫 Скит, квалификация, день 1 (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T090000Z-diving--3-
-DTSTAMP:20240802T090000Z
-DTSTART:20240802T090000Z
-DTEND:20240802T095500Z
-DESCRIPTION:Прыжки в воду - Синхронный трамплин 3м, финал (м)\n🇬🇧
-  Великобритания\n🇪🇸 Испания\n🇮🇹 Италия\n🇨🇳 Китай\n🇲🇽 Мексика\n🇺🇸
-  США\n🇺🇦 Украина\n🇫🇷 Франция
-SUMMARY:🏊 Синхронный трамплин 3м, финал (м)
-LOCATION:Центр водных видов спорта
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T090000Z-handball--B--ARG-FRA
-DTSTAMP:20240802T090000Z
-DTSTART:20240802T090000Z
-DTEND:20240802T103000Z
-DESCRIPTION:Гандбол - Предварительный этап, группа B (м)
-SUMMARY:🤾 Аргентина 🇦🇷 - 🇫🇷 Франция
-LOCATION:Арена «Париж-Юг» 6
-END:VEVENT
-BEGIN:VEVENT
 UID:20240802T090000Z-judo-18-78-
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
@@ -4876,6 +4853,26 @@ DESCRIPTION:Плавание - 100м баттерфляем, квалифика�
   Tomer FRANKEL\n🇨🇳 WANG Changhao\n🇾🇪 Yusuf Marwan Abdullah NASSER
 SUMMARY:🏊 100м баттерфляем, квалификация (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T090000Z-diving--3-
+DTSTAMP:20240802T090000Z
+DTSTART:20240802T090000Z
+DTEND:20240802T095500Z
+DESCRIPTION:Прыжки в воду - Синхронный трамплин 3м, финал (м)\n🇬🇧
+  Великобритания\n🇪🇸 Испания\n🇮🇹 Италия\n🇨🇳 Китай\n🇲🇽 Мексика\n🇺🇸
+  США\n🇺🇦 Украина\n🇫🇷 Франция
+SUMMARY:🏊 Синхронный трамплин 3м, финал (м)
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T090000Z-handball--B--ARG-FRA
+DTSTAMP:20240802T090000Z
+DTSTART:20240802T090000Z
+DTEND:20240802T103000Z
+DESCRIPTION:Гандбол - Предварительный этап, группа B (м)
+SUMMARY:🤾 Аргентина 🇦🇷 - 🇫🇷 Франция
+LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T091700Z-swimming-200-
@@ -5074,15 +5071,6 @@ SUMMARY:🥊 Amina ZIDANI 🇫🇷 - 🇵🇭 Nesthy PETECIO
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T190000Z-basketball---FRA-GER
-DTSTAMP:20240802T190000Z
-DTSTART:20240802T190000Z
-DTEND:20240802T204500Z
-DESCRIPTION:Баскетбол - Групповой этап, группа В (м)
-SUMMARY:🏀 Франция 🇫🇷 - 🇩🇪 Германия
-LOCATION:Стадион «Пьер Моруа»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240802T190000Z-football---FRA-ARG
 DTSTAMP:20240802T190000Z
 DTSTART:20240802T190000Z
@@ -5090,6 +5078,15 @@ DTEND:20240802T204500Z
 DESCRIPTION:Футбол - Четвертьфинал (м)
 SUMMARY:⚽ Франция 🇫🇷 - 🇦🇷 Аргентина
 LOCATION:Стадион «Бордо»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T190000Z-basketball---FRA-GER
+DTSTAMP:20240802T190000Z
+DTSTART:20240802T190000Z
+DTEND:20240802T204500Z
+DESCRIPTION:Баскетбол - Групповой этап, группа В (м)
+SUMMARY:🏀 Франция 🇫🇷 - 🇩🇪 Германия
+LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T193000Z-3x3-basketball---FRA-GER
@@ -5156,15 +5153,6 @@ SUMMARY:🏹 Lisa BARBELIN 🇫🇷 - 🇧🇷 Ana Luiza SLIACHTICAS CAETANO
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T090000Z-handball--B--ESP-FRA
-DTSTAMP:20240803T090000Z
-DTSTART:20240803T090000Z
-DTEND:20240803T103000Z
-DESCRIPTION:Гандбол - Предварительный этап, группа B (ж)
-SUMMARY:🤾 Испания 🇪🇸 - 🇫🇷 Франция
-LOCATION:Арена «Париж-Юг» 6
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T090000Z-swimming-50-
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -5198,6 +5186,15 @@ DESCRIPTION:Плавание - 50м вольным стилем, квалифи�
   BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
 SUMMARY:🏊 50м вольным стилем, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-handball--B--ESP-FRA
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T103000Z
+DESCRIPTION:Гандбол - Предварительный этап, группа B (ж)
+SUMMARY:🤾 Испания 🇪🇸 - 🇫🇷 Франция
+LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T093000Z-swimming-1500-

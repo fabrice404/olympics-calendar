@@ -76,21 +76,21 @@ SUMMARY:🏸 FENG/HUANG 🇨🇳 - 🇸🇬 HEE/TAN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T081000Z-badminton--A-CHN-GBR
-DTSTAMP:20240728T081000Z
-DTSTART:20240728T081000Z
-DTEND:20240728T085000Z
-DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
-SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇬🇧 LANE/VENDY
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T081000Z-badminton--A-CHN-INA
 DTSTAMP:20240728T081000Z
 DTSTART:20240728T081000Z
 DTEND:20240728T085000Z
 DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループA
 SUMMARY:🏸 CHEN/JIA 🇨🇳 - 🇮🇩 RAHAYU/RAMADHANTI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T081000Z-badminton--A-CHN-GBR
+DTSTAMP:20240728T081000Z
+DTSTART:20240728T081000Z
+DTEND:20240728T085000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇬🇧 LANE/VENDY
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT

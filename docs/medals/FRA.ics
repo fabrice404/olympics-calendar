@@ -444,6 +444,18 @@ SUMMARY:🚴 Men's Park Final
 LOCATION:La Concorde 2
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T183700Z-swimming-MENS-200M-BUTTERFLY-FINAL
+DTSTAMP:20240731T183700Z
+DTSTART:20240731T183700Z
+DTEND:20240731T184500Z
+DESCRIPTION:Swimming - Men's 200m Butterfly Final\n🇮🇹 Alberto
+  RAZZETTI\n🇨🇦 Ilya KHARUN\n🇪🇪 Kregor ZIRK\n🇭🇺 Kristof MILAK\n🇵🇱
+  Krzysztof CHMIELEWSKI\n🇫🇷 Leon MARCHAND\n🇦🇹 Martin ESPERNBERGER\n🇨🇭
+  Noe PONTI
+SUMMARY:🏊 Men's 200m Butterfly Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T191300Z-swimming-WOMENS-1500M-FREESTYLE-FINAL
 DTSTAMP:20240731T191300Z
 DTSTART:20240731T191300Z
@@ -453,6 +465,29 @@ DESCRIPTION:Swimming - Women's 1500m Freestyle Final\n🇫🇷 Anastasiia
   LEDECKY\n🇨🇳 LI Bingjie\n🇩🇪 Leonie MAERTENS\n🇦🇺 Moesha JOHNSON\n🇮🇹
   Simona QUADARELLA
 SUMMARY:🏊 Women's 1500m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T203100Z-swimming-MENS-200M-BREASTSTROKE-FINAL
+DTSTAMP:20240731T203100Z
+DTSTART:20240731T203100Z
+DTEND:20240731T203900Z
+DESCRIPTION:Swimming - Men's 200m Breaststroke Final\n🇳🇱 Caspar
+  CORBEAU\n🇨🇳 DONG Zhihao\n🇯🇵 HANAGURUMA Yu\n🇺🇸 Josh MATHENY\n🇦🇺
+  Joshua YONG\n🇫🇷 Leon MARCHAND\n🇯🇵 WATANABE Ippei\n🇦🇺 Zac
+  STUBBLETY-COOK
+SUMMARY:🏊 Men's 200m Breaststroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T203900Z-swimming-MENS-100M-FREESTYLE-FINAL
+DTSTAMP:20240731T203900Z
+DTSTART:20240731T203900Z
+DTEND:20240731T204600Z
+DESCRIPTION:Swimming - Men's 100m Freestyle Final\n🇺🇸 Chris
+  GUILIANO\n🇷🇴 David POPOVICI\n🇺🇸 Jack ALEXY\n🇩🇪 Josha SALCHOW\n🇦🇺
+  Kyle CHALMERS\n🇫🇷 Maxime GROUSSET\n🇭🇺 Nandor NEMETH\n🇨🇳 PAN Zhanle
+SUMMARY:🏊 Men's 100m Freestyle Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT

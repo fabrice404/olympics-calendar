@@ -138,23 +138,6 @@ SUMMARY:🚣 女子双人单桨分组预赛
 LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T090000Z-rowing-
-DTSTAMP:20240728T090000Z
-DTSTART:20240728T090000Z
-DTEND:20240728T092700Z
-DESCRIPTION:赛艇 - 男子双人单桨分组预赛\n🇨🇭 Andrin GULICH\n🇺🇸 Billy BENDER\n🇿🇦
-  Christopher BAXTER\n🇳🇿 Daniel WILLIAMSON\n🇮🇹 Davide COMINI\n🇱🇹
-  Domantas STANKUNAS\n🇱🇹 Dovydas STANKUNAS\n🇷🇴 Florin ARTENI\n🇷🇴
-  Florin Sorin LEHACI\n🇮🇹 Giovanni CODATO\n🇪🇸 Jaime CANALEJO
-  PAZOS\n🇪🇸 Javier GARCIA ORDONEZ\n🇿🇦 John SMITH\n🇩🇪 Julius
-  CHRIST\n🇭🇷 Martin SINKOVIC\n🇮🇪 Nathan TIMONEY\n🇺🇸 Oliver BUB\n🇬🇧
-  Oliver WYNNE-GRIFFITH\n🇦🇺 Patrick HOLT\n🇳🇿 Phillip WILSON\n🇨🇭 Roman
-  ROEOESLI\n🇮🇪 Ross CORRIGAN\n🇦🇺 Simon KEENAN\n🇩🇪 Soenke KRUSE\n🇬🇧
-  Tom GEORGE\n🇭🇷 Valent SINKOVIC
-SUMMARY:🚣 男子双人单桨分组预赛
-LOCATION:马恩河畔韦尔水上体育场 - 静水
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T090000Z-swimming-200
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
@@ -170,6 +153,23 @@ DESCRIPTION:游泳 - 男子200米自由泳分组预赛\n🇮🇹 Alessandro RAGA
   MIROSLAW\n🇸🇮 Saso BOSKAN\n🇦🇺 Thomas NEILL\n🇷🇸 Velimir STJEPANOVIC
 SUMMARY:🏊 男子200米自由泳分组预赛
 LOCATION:拉德芳斯体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T090000Z-rowing-
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T092700Z
+DESCRIPTION:赛艇 - 男子双人单桨分组预赛\n🇨🇭 Andrin GULICH\n🇺🇸 Billy BENDER\n🇿🇦
+  Christopher BAXTER\n🇳🇿 Daniel WILLIAMSON\n🇮🇹 Davide COMINI\n🇱🇹
+  Domantas STANKUNAS\n🇱🇹 Dovydas STANKUNAS\n🇷🇴 Florin ARTENI\n🇷🇴
+  Florin Sorin LEHACI\n🇮🇹 Giovanni CODATO\n🇪🇸 Jaime CANALEJO
+  PAZOS\n🇪🇸 Javier GARCIA ORDONEZ\n🇿🇦 John SMITH\n🇩🇪 Julius
+  CHRIST\n🇭🇷 Martin SINKOVIC\n🇮🇪 Nathan TIMONEY\n🇺🇸 Oliver BUB\n🇬🇧
+  Oliver WYNNE-GRIFFITH\n🇦🇺 Patrick HOLT\n🇳🇿 Phillip WILSON\n🇨🇭 Roman
+  ROEOESLI\n🇮🇪 Ross CORRIGAN\n🇦🇺 Simon KEENAN\n🇩🇪 Soenke KRUSE\n🇬🇧
+  Tom GEORGE\n🇭🇷 Valent SINKOVIC
+SUMMARY:🚣 男子双人单桨分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T092700Z-swimming-100

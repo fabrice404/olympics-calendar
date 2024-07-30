@@ -49,6 +49,24 @@ SUMMARY:🔫 Пневматическая винтовка 10м, квалифи�
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T083000Z-shooting--10--CHN-KOR
+DTSTAMP:20240727T083000Z
+DTSTART:20240727T083000Z
+DTEND:20240727T085000Z
+DESCRIPTION:Стрельба - Пневматическая винтовка 10м, золото (микст)
+SUMMARY:🔫 China 1 🇨🇳 - 🇰🇷 Korea 1
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T083000Z-shooting--10--KAZ-GER
+DTSTAMP:20240727T083000Z
+DTSTART:20240727T083000Z
+DTEND:20240727T085000Z
+DESCRIPTION:Стрельба - Пневматическая винтовка 10м, бронза (микст)
+SUMMARY:🔫 Kazakhstan 1 🇰🇿 - 🇩🇪 Germany
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T083000Z-shooting--10-
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
@@ -66,24 +84,6 @@ DESCRIPTION:Стрельба - Пневматический пистолет 10�
   LUNEV\n🇩🇿 Samir BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor
   BANKIN\n🇨🇳 XIE Yu\n🇹🇷 Yusuf DIKEC\n🇨🇳 ZHANG Bowen
 SUMMARY:🔫 Пневматический пистолет 10м, квалификация (м)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T083000Z-shooting--10--CHN-KOR
-DTSTAMP:20240727T083000Z
-DTSTART:20240727T083000Z
-DTEND:20240727T085000Z
-DESCRIPTION:Стрельба - Пневматическая винтовка 10м, золото (микст)
-SUMMARY:🔫 China 1 🇨🇳 - 🇰🇷 Korea 1
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T083000Z-shooting--10--KAZ-GER
-DTSTAMP:20240727T083000Z
-DTSTART:20240727T083000Z
-DTEND:20240727T085000Z
-DESCRIPTION:Стрельба - Пневматическая винтовка 10м, бронза (микст)
-SUMMARY:🔫 Kazakhstan 1 🇰🇿 - 🇩🇪 Germany
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
@@ -234,6 +234,18 @@ SUMMARY:🔫 Пневматический пистолет 10м, квалифи�
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T073000Z-shooting--10-
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T081500Z
+DESCRIPTION:Стрельба - Пневматическая винтовка 10м, финал (ж)\n🇰🇿
+  Alexandra Le\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG
+  Yuting\n🇳🇴 Jeanette Hegg DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
+  RAMITA\n🇺🇸 Sagen MADDALENA
+SUMMARY:🔫 Пневматическая винтовка 10м, финал (ж)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T073000Z-shooting--1-
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
@@ -250,18 +262,6 @@ DESCRIPTION:Стрельба - Трап, квалификация, день 1 (�
   ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
   HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
 SUMMARY:🔫 Трап, квалификация, день 1 (м)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T073000Z-shooting--10-
-DTSTAMP:20240729T073000Z
-DTSTART:20240729T073000Z
-DTEND:20240729T081500Z
-DESCRIPTION:Стрельба - Пневматическая винтовка 10м, финал (ж)\n🇰🇿
-  Alexandra Le\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG
-  Yuting\n🇳🇴 Jeanette Hegg DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
-  RAMITA\n🇺🇸 Sagen MADDALENA
-SUMMARY:🔫 Пневматическая винтовка 10м, финал (ж)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
@@ -286,25 +286,6 @@ SUMMARY:🔫 Трап, предтурнирная тренировка (ж)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T070000Z-shooting--1-
-DTSTAMP:20240730T070000Z
-DTSTART:20240730T070000Z
-DTEND:20240730T120000Z
-DESCRIPTION:Стрельба - Трап, квалификация, день 1 (ж)\n🇬🇹 Adriana RUANO
-  OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole
-  CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica
-  ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi
-  Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸
-  Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya
-  DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny
-  SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray
-  BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi
-  SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰
-  Zuzana REHAK STEFECEKOVA
-SUMMARY:🔫 Трап, квалификация, день 1 (ж)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
 UID:20240730T070000Z-shooting--2-
 DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
@@ -321,6 +302,25 @@ DESCRIPTION:Стрельба - Трап, квалификация, день 2 (�
   ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
   HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
 SUMMARY:🔫 Трап, квалификация, день 2 (м)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T070000Z-shooting--1-
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T120000Z
+DESCRIPTION:Стрельба - Трап, квалификация, день 1 (ж)\n🇬🇹 Adriana RUANO
+  OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole
+  CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica
+  ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi
+  Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸
+  Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya
+  DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny
+  SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray
+  BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi
+  SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰
+  Zuzana REHAK STEFECEKOVA
+SUMMARY:🔫 Трап, квалификация, день 1 (ж)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
@@ -363,15 +363,6 @@ SUMMARY:🔫 Винтовка 50м из 3 положений, предтурни
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T070000Z-shooting--2-
-DTSTAMP:20240731T070000Z
-DTSTART:20240731T070000Z
-DTEND:20240731T100000Z
-DESCRIPTION:Стрельба - Трап, квалификация, день 2 (ж)
-SUMMARY:🔫 Трап, квалификация, день 2 (ж)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
 UID:20240731T070000Z-shooting--50-3-
 DTSTAMP:20240731T070000Z
 DTSTART:20240731T070000Z
@@ -396,6 +387,15 @@ SUMMARY:🔫 Винтовка 50м из 3 положений, квалифика
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T070000Z-shooting--2-
+DTSTAMP:20240731T070000Z
+DTSTART:20240731T070000Z
+DTEND:20240731T100000Z
+DESCRIPTION:Стрельба - Трап, квалификация, день 2 (ж)
+SUMMARY:🔫 Трап, квалификация, день 2 (ж)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T133000Z-shooting--
 DTSTAMP:20240731T133000Z
 DTSTART:20240731T133000Z
@@ -415,21 +415,21 @@ SUMMARY:🔫 Винтовка 50м из 3 положений, предтурни
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T070000Z-shooting--
-DTSTAMP:20240801T070000Z
-DTSTART:20240801T070000Z
-DTEND:20240801T120000Z
-DESCRIPTION:Стрельба - Скит, предтурнирная тренировка (м)
-SUMMARY:🔫 Скит, предтурнирная тренировка (м)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T070000Z-shooting--25-
 DTSTAMP:20240801T070000Z
 DTSTART:20240801T070000Z
 DTEND:20240801T120000Z
 DESCRIPTION:Стрельба - Пистолет 25м, предтурнирная тренировка (ж)
 SUMMARY:🔫 Пистолет 25м, предтурнирная тренировка (ж)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T070000Z-shooting--
+DTSTAMP:20240801T070000Z
+DTSTART:20240801T070000Z
+DTEND:20240801T120000Z
+DESCRIPTION:Стрельба - Скит, предтурнирная тренировка (м)
+SUMMARY:🔫 Скит, предтурнирная тренировка (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
@@ -483,6 +483,15 @@ SUMMARY:🔫 Пистолет 25м, квалификация, точность (
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T073000Z-shooting--50-3-
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T083000Z
+DESCRIPTION:Стрельба - Винтовка 50м, 3 положения, финал (м)
+SUMMARY:🔫 Винтовка 50м, 3 положения, финал (м)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T073000Z-shooting--1-
 DTSTAMP:20240802T073000Z
 DTSTART:20240802T073000Z
@@ -499,15 +508,6 @@ DESCRIPTION:Стрельба - Скит, квалификация, день 1 (�
   Sebastian BERMUDEZ LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹
   Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
 SUMMARY:🔫 Скит, квалификация, день 1 (м)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T073000Z-shooting--50-3-
-DTSTAMP:20240802T073000Z
-DTSTART:20240802T073000Z
-DTEND:20240802T083000Z
-DESCRIPTION:Стрельба - Винтовка 50м, 3 положения, финал (м)
-SUMMARY:🔫 Винтовка 50м, 3 положения, финал (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
@@ -529,6 +529,15 @@ SUMMARY:🔫 Скит, предтурнирная тренировка (ж)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T070000Z-shooting--2-
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T120000Z
+DESCRIPTION:Стрельба - Скит, квалификация, день 2 (м)
+SUMMARY:🔫 Скит, квалификация, день 2 (м)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T070000Z-shooting--1-
 DTSTAMP:20240803T070000Z
 DTSTART:20240803T070000Z
@@ -545,15 +554,6 @@ DESCRIPTION:Стрельба - Скит, квалификация, день 1 (�
   WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
   Victoria LARSSON\n🇨🇳 WEI Meng
 SUMMARY:🔫 Скит, квалификация, день 1 (ж)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T070000Z-shooting--2-
-DTSTAMP:20240803T070000Z
-DTSTART:20240803T070000Z
-DTEND:20240803T120000Z
-DESCRIPTION:Стрельба - Скит, квалификация, день 2 (м)
-SUMMARY:🔫 Скит, квалификация, день 2 (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
@@ -653,8 +653,8 @@ UID:20240805T130000Z-shooting--
 DTSTAMP:20240805T130000Z
 DTSTART:20240805T130000Z
 DTEND:20240805T133000Z
-DESCRIPTION:Стрельба - Скит, финал (микст)
-SUMMARY:🔫 Скит, финал (микст)
+DESCRIPTION:Стрельба - Скит, матч за бронзу (микст)
+SUMMARY:🔫 Скит, матч за бронзу (микст)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
@@ -662,8 +662,8 @@ UID:20240805T130000Z-shooting--
 DTSTAMP:20240805T130000Z
 DTSTART:20240805T130000Z
 DTEND:20240805T133000Z
-DESCRIPTION:Стрельба - Скит, матч за бронзу (микст)
-SUMMARY:🔫 Скит, матч за бронзу (микст)
+DESCRIPTION:Стрельба - Скит, финал (микст)
+SUMMARY:🔫 Скит, финал (микст)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 END:VCALENDAR

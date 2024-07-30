@@ -4,15 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//badminton/ja/general//EN
 X-WR-CALNAME:🏸 バドミントン | Paris 2024
 NAME:🏸 バドミントン | Paris 2024
 BEGIN:VEVENT
-UID:20240727T063000Z-badminton--B-KOR-ALG
-DTSTAMP:20240727T063000Z
-DTSTART:20240727T063000Z
-DTEND:20240727T071000Z
-DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループB
-SUMMARY:🏸 SEO/CHAE 🇰🇷 - 🇩🇿 K. MAMMERI/T. MAMMERI
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T063000Z-badminton--D-CHN-USA
 DTSTAMP:20240727T063000Z
 DTSTART:20240727T063000Z
@@ -31,12 +22,12 @@ SUMMARY:🏸 HE Bing Jiao 🇨🇳 - 🇦🇿 Keisha Fatimah AZZAHRA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T072000Z-badminton--A-CHN-CAN
-DTSTAMP:20240727T072000Z
-DTSTART:20240727T072000Z
-DTEND:20240727T080000Z
-DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
-SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇨🇦 DONG/YAKURA
+UID:20240727T063000Z-badminton--B-KOR-ALG
+DTSTAMP:20240727T063000Z
+DTSTART:20240727T063000Z
+DTEND:20240727T071000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループB
+SUMMARY:🏸 SEO/CHAE 🇰🇷 - 🇩🇿 K. MAMMERI/T. MAMMERI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -55,6 +46,15 @@ DTSTART:20240727T072000Z
 DTEND:20240727T080000Z
 DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループI
 SUMMARY:🏸 Jia Min YEO 🇸🇬 - 🏳️ Dorsa YAVARIVAFA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T072000Z-badminton--A-CHN-CAN
+DTSTAMP:20240727T072000Z
+DTSTART:20240727T072000Z
+DTEND:20240727T080000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇨🇦 DONG/YAKURA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -85,12 +85,12 @@ SUMMARY:🏸 PUAVARANUK/TAERATTANA 🇹🇭 - 🇳🇱 TABELING/PIEK
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T090000Z-badminton--A-CHN-SUR
+UID:20240727T090000Z-badminton--C-THA-MRI
 DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
 DTEND:20240727T100000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループA
-SUMMARY:🏸 SHI Yu Qi 🇨🇳 - 🇸🇷 Soren OPTI
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループC
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇲🇺 Georges Julien PAUL
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +103,12 @@ SUMMARY:🏸 MATSUMOTO/NAGAHARA 🇯🇵 - 🇮🇩 RAHAYU/RAMADHANTI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T090000Z-badminton--C-THA-MRI
+UID:20240727T090000Z-badminton--A-CHN-SUR
 DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
 DTEND:20240727T100000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループC
-SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇲🇺 Georges Julien PAUL
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループA
+SUMMARY:🏸 SHI Yu Qi 🇨🇳 - 🇸🇷 Soren OPTI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -121,21 +121,21 @@ SUMMARY:🏸 LIU/TAN 🇨🇳 - 🇺🇸 A. XU/K. XU
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T120000Z-badminton--B-HKG-BUL
-DTSTAMP:20240727T120000Z
-DTSTART:20240727T120000Z
-DTEND:20240727T124000Z
-DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループB
-SUMMARY:🏸 YEUNG NT/YEUNG PL 🇭🇰 - 🇧🇬 G. STOEVA/S. STOEVA
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T120000Z-badminton--C-HKG-TPE
 DTSTAMP:20240727T120000Z
 DTSTART:20240727T120000Z
 DTEND:20240727T124000Z
 DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループC
 SUMMARY:🏸 TANG/TSE 🇭🇰 - 🇹🇼 YE/LEE
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T120000Z-badminton--B-HKG-BUL
+DTSTAMP:20240727T120000Z
+DTSTART:20240727T120000Z
+DTEND:20240727T124000Z
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループB
+SUMMARY:🏸 YEUNG NT/YEUNG PL 🇭🇰 - 🇧🇬 G. STOEVA/S. STOEVA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -148,15 +148,6 @@ SUMMARY:🏸 ALFIAN/ARDIANTO 🇮🇩 - 🇩🇪 LAMSFUSS/SEIDEL
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T125000Z-badminton--D-THA-BRA
-DTSTAMP:20240727T125000Z
-DTSTART:20240727T125000Z
-DTEND:20240727T133000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループD
-SUMMARY:🏸 Supanida KATETHONG 🇹🇭 - 🇧🇷 Juliana VIANA VIERA
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T125000Z-badminton--H-KOR-RSA
 DTSTAMP:20240727T125000Z
 DTSTART:20240727T125000Z
@@ -166,12 +157,12 @@ SUMMARY:🏸 KIM Ga Eun 🇰🇷 - 🇿🇦 Johanita SCHOLTZ
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T134000Z-badminton--A-CHN-FRA
-DTSTAMP:20240727T134000Z
-DTSTART:20240727T134000Z
-DTEND:20240727T142000Z
-DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
-SUMMARY:🏸 ZHENG/HUANG 🇨🇳 - 🇫🇷 GICQUEL/DELRUE
+UID:20240727T125000Z-badminton--D-THA-BRA
+DTSTAMP:20240727T125000Z
+DTSTART:20240727T125000Z
+DTEND:20240727T133000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループD
+SUMMARY:🏸 Supanida KATETHONG 🇹🇭 - 🇧🇷 Juliana VIANA VIERA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -193,12 +184,12 @@ SUMMARY:🏸 Lakshya SEN 🇮🇳 - 🇬🇹 Kevin CORDON
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T143000Z-badminton--C-IND-FRA
-DTSTAMP:20240727T143000Z
-DTSTART:20240727T143000Z
-DTEND:20240727T153000Z
-DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループC
-SUMMARY:🏸 RANKIREDDY/SHETTY 🇮🇳 - 🇫🇷 CORVEE/LABAR
+UID:20240727T134000Z-badminton--A-CHN-FRA
+DTSTAMP:20240727T134000Z
+DTSTART:20240727T134000Z
+DTEND:20240727T142000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
+SUMMARY:🏸 ZHENG/HUANG 🇨🇳 - 🇫🇷 GICQUEL/DELRUE
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -208,6 +199,24 @@ DTSTART:20240727T143000Z
 DTEND:20240727T153000Z
 DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループL
 SUMMARY:🏸 Jonatan CHRISTIE 🇮🇩 - 🇧🇪 Julien CARRAGGI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T143000Z-badminton--C-IND-FRA
+DTSTAMP:20240727T143000Z
+DTSTART:20240727T143000Z
+DTEND:20240727T153000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループC
+SUMMARY:🏸 RANKIREDDY/SHETTY 🇮🇳 - 🇫🇷 CORVEE/LABAR
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T173000Z-badminton--K-USA-AUS
+DTSTAMP:20240727T173000Z
+DTSTART:20240727T173000Z
+DTEND:20240727T181000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループK
+SUMMARY:🏸 Beiwen ZHANG 🇺🇸 - 🇦🇺 Tiffany HO
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -229,21 +238,12 @@ SUMMARY:🏸 YAMAGUCHI Akane 🇯🇵 - 🇲🇲 Thuzar THET HTAR
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T173000Z-badminton--K-USA-AUS
-DTSTAMP:20240727T173000Z
-DTSTART:20240727T173000Z
-DTEND:20240727T181000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループK
-SUMMARY:🏸 Beiwen ZHANG 🇺🇸 - 🇦🇺 Tiffany HO
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T182000Z-badminton--C-JPN-AUS
+UID:20240727T182000Z-badminton--D-KOR-DEN
 DTSTAMP:20240727T182000Z
 DTSTART:20240727T182000Z
 DTEND:20240727T190000Z
-DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループC
-SUMMARY:🏸 MATSUYAMA/SHIDA 🇯🇵 - 🇦🇺 MAPASA/YU
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 BAEK/LEE 🇰🇷 - 🇩🇰 FRUERGAARD/THYGESEN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -256,12 +256,12 @@ SUMMARY:🏸 KIM/KONG 🇰🇷 - 🇮🇳 CRASTO/PONNAPPA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T182000Z-badminton--D-KOR-DEN
+UID:20240727T182000Z-badminton--C-JPN-AUS
 DTSTAMP:20240727T182000Z
 DTSTART:20240727T182000Z
 DTEND:20240727T190000Z
-DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループD
-SUMMARY:🏸 BAEK/LEE 🇰🇷 - 🇩🇰 FRUERGAARD/THYGESEN
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループC
+SUMMARY:🏸 MATSUYAMA/SHIDA 🇯🇵 - 🇦🇺 MAPASA/YU
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -274,15 +274,6 @@ SUMMARY:🏸 HOKI/KOBAYASHI 🇯🇵 - 🇹🇼 LEE/WANG
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T191000Z-badminton--P-DEN-NEP
-DTSTAMP:20240727T191000Z
-DTSTART:20240727T191000Z
-DTEND:20240727T195000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループP
-SUMMARY:🏸 Viktor AXELSEN 🇩🇰 - 🇳🇵 Prince DAHAL
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T191000Z-badminton--P-IRL-ISR
 DTSTAMP:20240727T191000Z
 DTSTART:20240727T191000Z
@@ -292,12 +283,12 @@ SUMMARY:🏸 Nhat NGUYEN 🇮🇪 - 🇮🇱 Misha ZILBERMAN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T200000Z-badminton--B-KOR-CZE
-DTSTAMP:20240727T200000Z
-DTSTART:20240727T200000Z
-DTEND:20240727T210000Z
-DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループB
-SUMMARY:🏸 KANG/SEO 🇰🇷 - 🇨🇿 KRAL/MENDREK
+UID:20240727T191000Z-badminton--P-DEN-NEP
+DTSTAMP:20240727T191000Z
+DTSTART:20240727T191000Z
+DTEND:20240727T195000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループP
+SUMMARY:🏸 Viktor AXELSEN 🇩🇰 - 🇳🇵 Prince DAHAL
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -310,6 +301,15 @@ SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇺🇸 CHIU/YUAN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T200000Z-badminton--B-KOR-CZE
+DTSTAMP:20240727T200000Z
+DTSTART:20240727T200000Z
+DTEND:20240727T210000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループB
+SUMMARY:🏸 KANG/SEO 🇰🇷 - 🇨🇿 KRAL/MENDREK
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T200000Z-badminton--D-THA-FRA
 DTSTAMP:20240727T200000Z
 DTSTART:20240727T200000Z
@@ -319,21 +319,21 @@ SUMMARY:🏸 KITITHARAK/PRAJONGJAI 🇹🇭 - 🇫🇷 LAMBERT/TRAN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T063000Z-badminton--A-JPN-MAS
-DTSTAMP:20240728T063000Z
-DTSTART:20240728T063000Z
-DTEND:20240728T071000Z
-DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループA
-SUMMARY:🏸 MATSUMOTO/NAGAHARA 🇯🇵 - 🇲🇾 TAN/THINAAH
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T063000Z-badminton--D-CHN-SGP
 DTSTAMP:20240728T063000Z
 DTSTART:20240728T063000Z
 DTEND:20240728T071000Z
 DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループD
 SUMMARY:🏸 FENG/HUANG 🇨🇳 - 🇸🇬 HEE/TAN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T063000Z-badminton--A-JPN-MAS
+DTSTAMP:20240728T063000Z
+DTSTART:20240728T063000Z
+DTEND:20240728T071000Z
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 MATSUMOTO/NAGAHARA 🇯🇵 - 🇲🇾 TAN/THINAAH
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -373,21 +373,21 @@ SUMMARY:🏸 V. Sindhu PUSARLA 🇮🇳 - 🇲🇻 Fathimath Nabaaha ABDUL RAZZA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T081000Z-badminton--A-CHN-GBR
-DTSTAMP:20240728T081000Z
-DTSTART:20240728T081000Z
-DTEND:20240728T085000Z
-DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
-SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇬🇧 LANE/VENDY
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T081000Z-badminton--A-CHN-INA
 DTSTAMP:20240728T081000Z
 DTSTART:20240728T081000Z
 DTEND:20240728T085000Z
 DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループA
 SUMMARY:🏸 CHEN/JIA 🇨🇳 - 🇮🇩 RAHAYU/RAMADHANTI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T081000Z-badminton--A-CHN-GBR
+DTSTAMP:20240728T081000Z
+DTSTART:20240728T081000Z
+DTEND:20240728T085000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇬🇧 LANE/VENDY
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -409,15 +409,6 @@ SUMMARY:🏸 CHEN/TOH 🇲🇾 - 🇺🇸 CHIU/GAI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T090000Z-badminton--J-JPN-TUR
-DTSTAMP:20240728T090000Z
-DTSTART:20240728T090000Z
-DTEND:20240728T100000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループJ
-SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇹🇷 Neslihan ARIN
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T090000Z-badminton--N-CHN-SUI
 DTSTAMP:20240728T090000Z
 DTSTART:20240728T090000Z
@@ -427,21 +418,12 @@ SUMMARY:🏸 LI Shi Feng 🇨🇳 - 🇨🇭 Tobias KUENZI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T120000Z-badminton--A-CHN-INA
-DTSTAMP:20240728T120000Z
-DTSTART:20240728T120000Z
-DTEND:20240728T124000Z
-DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
-SUMMARY:🏸 ZHENG/HUANG 🇨🇳 - 🇮🇩 RIVALDY/MENTARI
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T120000Z-badminton--B-KOR-FRA
-DTSTAMP:20240728T120000Z
-DTSTART:20240728T120000Z
-DTEND:20240728T124000Z
-DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループB
-SUMMARY:🏸 KANG/SEO 🇰🇷 - 🇫🇷 C. POPOV/TJ POPOV
+UID:20240728T090000Z-badminton--J-JPN-TUR
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T100000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループJ
+SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇹🇷 Neslihan ARIN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -454,12 +436,30 @@ SUMMARY:🏸 Anthony Sinisuka GINTING 🇮🇩 - 🇺🇸 Howard SHU
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T125000Z-badminton--A-KOR-FRA
+UID:20240728T120000Z-badminton--B-KOR-FRA
+DTSTAMP:20240728T120000Z
+DTSTART:20240728T120000Z
+DTEND:20240728T124000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループB
+SUMMARY:🏸 KANG/SEO 🇰🇷 - 🇫🇷 C. POPOV/TJ POPOV
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T120000Z-badminton--A-CHN-INA
+DTSTAMP:20240728T120000Z
+DTSTART:20240728T120000Z
+DTEND:20240728T124000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
+SUMMARY:🏸 ZHENG/HUANG 🇨🇳 - 🇮🇩 RIVALDY/MENTARI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T125000Z-badminton--P-CHN-GER
 DTSTAMP:20240728T125000Z
 DTSTART:20240728T125000Z
 DTEND:20240728T133000Z
-DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
-SUMMARY:🏸 KIM/JEONG 🇰🇷 - 🇫🇷 GICQUEL/DELRUE
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループP
+SUMMARY:🏸 CHEN Yu Fei 🇨🇳 - 🇩🇪 Yvonne LI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -472,12 +472,12 @@ SUMMARY:🏸 Gregoria Mariska TUNJUNG 🇮🇩 - 🇺🇦 Polina BUHROVA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T125000Z-badminton--P-CHN-GER
+UID:20240728T125000Z-badminton--A-KOR-FRA
 DTSTAMP:20240728T125000Z
 DTSTART:20240728T125000Z
 DTEND:20240728T133000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループP
-SUMMARY:🏸 CHEN Yu Fei 🇨🇳 - 🇩🇪 Yvonne LI
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
+SUMMARY:🏸 KIM/JEONG 🇰🇷 - 🇫🇷 GICQUEL/DELRUE
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -508,15 +508,6 @@ SUMMARY:🏸 NARAOKA Kodai 🇯🇵 - 🇧🇷 Ygor COELHO
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T143000Z-badminton--B-THA-CZE
-DTSTAMP:20240728T143000Z
-DTSTART:20240728T143000Z
-DTEND:20240728T153000Z
-DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループB
-SUMMARY:🏸 JOMKOH/KEDREN 🇹🇭 - 🇨🇿 KRAL/MENDREK
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T143000Z-badminton--I-TPE-MEX
 DTSTAMP:20240728T143000Z
 DTSTART:20240728T143000Z
@@ -535,12 +526,12 @@ SUMMARY:🏸 H. S. PRANNOY 🇮🇳 - 🇩🇪 Fabian ROTH
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T173000Z-badminton--B-THA-ALG
-DTSTAMP:20240728T173000Z
-DTSTART:20240728T173000Z
-DTEND:20240728T181000Z
-DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループB
-SUMMARY:🏸 PUAVARANUK/TAERATTANA 🇹🇭 - 🇩🇿 K. MAMMERI/T. MAMMERI
+UID:20240728T143000Z-badminton--B-THA-CZE
+DTSTAMP:20240728T143000Z
+DTSTART:20240728T143000Z
+DTEND:20240728T153000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループB
+SUMMARY:🏸 JOMKOH/KEDREN 🇹🇭 - 🇨🇿 KRAL/MENDREK
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -562,12 +553,12 @@ SUMMARY:🏸 Carolina MARIN 🇪🇸 - 🇨🇭 Jenjira STADELMANN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T182000Z-badminton--B-HKG-USA
-DTSTAMP:20240728T182000Z
-DTSTART:20240728T182000Z
-DTEND:20240728T190000Z
-DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループB
-SUMMARY:🏸 YEUNG NT/YEUNG PL 🇭🇰 - 🇺🇸 A. XU/K. XU
+UID:20240728T173000Z-badminton--B-THA-ALG
+DTSTAMP:20240728T173000Z
+DTSTART:20240728T173000Z
+DTEND:20240728T181000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループB
+SUMMARY:🏸 PUAVARANUK/TAERATTANA 🇹🇭 - 🇩🇿 K. MAMMERI/T. MAMMERI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -589,6 +580,24 @@ SUMMARY:🏸 Kean Yew LOH 🇸🇬 - 🇨🇿 Jan LOUDA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T182000Z-badminton--B-HKG-USA
+DTSTAMP:20240728T182000Z
+DTSTART:20240728T182000Z
+DTEND:20240728T190000Z
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループB
+SUMMARY:🏸 YEUNG NT/YEUNG PL 🇭🇰 - 🇺🇸 A. XU/K. XU
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T191000Z-badminton--D-CHN-USA
+DTSTAMP:20240728T191000Z
+DTSTART:20240728T191000Z
+DTEND:20240728T210000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 LIU/OU 🇨🇳 - 🇺🇸 CHIU/YUAN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T191000Z-badminton--B-KOR-NED
 DTSTAMP:20240728T191000Z
 DTSTART:20240728T191000Z
@@ -604,15 +613,6 @@ DTSTART:20240728T191000Z
 DTEND:20240728T210000Z
 DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループC
 SUMMARY:🏸 WATANABE/HIGASHINO 🇯🇵 - 🇹🇼 YE/LEE
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T191000Z-badminton--D-CHN-USA
-DTSTAMP:20240728T191000Z
-DTSTART:20240728T191000Z
-DTEND:20240728T210000Z
-DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
-SUMMARY:🏸 LIU/OU 🇨🇳 - 🇺🇸 CHIU/YUAN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -643,15 +643,6 @@ SUMMARY:🏸 Kirsty GILMOUR 🇬🇧 - 🇦🇿 Keisha Fatimah AZZAHRA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T072000Z-badminton--A-CHN-KOR
-DTSTAMP:20240729T072000Z
-DTSTART:20240729T072000Z
-DTEND:20240729T080000Z
-DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
-SUMMARY:🏸 ZHENG/HUANG 🇨🇳 - 🇰🇷 KIM/JEONG
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T072000Z-badminton--C-FIN-MRI
 DTSTAMP:20240729T072000Z
 DTSTART:20240729T072000Z
@@ -670,12 +661,12 @@ SUMMARY:🏸 MATSUYAMA/SHIDA 🇯🇵 - 🇮🇳 CRASTO/PONNAPPA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T081000Z-badminton--A-INA-FRA
-DTSTAMP:20240729T081000Z
-DTSTART:20240729T081000Z
-DTEND:20240729T085000Z
+UID:20240729T072000Z-badminton--A-CHN-KOR
+DTSTAMP:20240729T072000Z
+DTSTART:20240729T072000Z
+DTEND:20240729T080000Z
 DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
-SUMMARY:🏸 RIVALDY/MENTARI 🇮🇩 - 🇫🇷 GICQUEL/DELRUE
+SUMMARY:🏸 ZHENG/HUANG 🇨🇳 - 🇰🇷 KIM/JEONG
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -694,6 +685,15 @@ DTSTART:20240729T081000Z
 DTEND:20240729T085000Z
 DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループC
 SUMMARY:🏸 KIM/KONG 🇰🇷 - 🇦🇺 MAPASA/YU
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T081000Z-badminton--A-INA-FRA
+DTSTAMP:20240729T081000Z
+DTSTART:20240729T081000Z
+DTEND:20240729T085000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
+SUMMARY:🏸 RIVALDY/MENTARI 🇮🇩 - 🇫🇷 GICQUEL/DELRUE
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -724,12 +724,12 @@ SUMMARY:🏸 Kate FOO KUNE 🇲🇺 - 🏳️ Dorsa YAVARIVAFA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T120000Z-badminton--B-KOR-THA
+UID:20240729T120000Z-badminton--L-INA-GUA
 DTSTAMP:20240729T120000Z
 DTSTART:20240729T120000Z
-DTEND:20240729T124000Z
-DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループB
-SUMMARY:🏸 SEO/CHAE 🇰🇷 - 🇹🇭 PUAVARANUK/TAERATTANA
+DTEND:20240729T120000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループL
+SUMMARY:🏸 Jonatan CHRISTIE 🇮🇩 - 🇬🇹 Kevin CORDON
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -742,15 +742,6 @@ SUMMARY:🏸 Jin Wei GOH 🇲🇾 - 🇿🇦 Johanita SCHOLTZ
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T120000Z-badminton--L-INA-GUA
-DTSTAMP:20240729T120000Z
-DTSTART:20240729T120000Z
-DTEND:20240729T120000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループL
-SUMMARY:🏸 Jonatan CHRISTIE 🇮🇩 - 🇬🇹 Kevin CORDON
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T120000Z-badminton--L-IND-BEL
 DTSTAMP:20240729T120000Z
 DTSTART:20240729T120000Z
@@ -760,21 +751,12 @@ SUMMARY:🏸 Lakshya SEN 🇮🇳 - 🇧🇪 Julien CARRAGGI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T125000Z-badminton--B-NED-ALG
-DTSTAMP:20240729T125000Z
-DTSTART:20240729T125000Z
-DTEND:20240729T133000Z
+UID:20240729T120000Z-badminton--B-KOR-THA
+DTSTAMP:20240729T120000Z
+DTSTART:20240729T120000Z
+DTEND:20240729T124000Z
 DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループB
-SUMMARY:🏸 TABELING/PIEK 🇳🇱 - 🇩🇿 K. MAMMERI/T. MAMMERI
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T125000Z-badminton--D-HKG-BRA
-DTSTAMP:20240729T125000Z
-DTSTART:20240729T125000Z
-DTEND:20240729T133000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループD
-SUMMARY:🏸 LO Sin Yan Happy 🇭🇰 - 🇧🇷 Juliana VIANA VIERA
+SUMMARY:🏸 SEO/CHAE 🇰🇷 - 🇹🇭 PUAVARANUK/TAERATTANA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -787,12 +769,21 @@ SUMMARY:🏸 BAEK/LEE 🇰🇷 - 🇫🇷 LAMBERT/TRAN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T134000Z-badminton--D-CAN-KAZ
-DTSTAMP:20240729T134000Z
-DTSTART:20240729T134000Z
-DTEND:20240729T153000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループD
-SUMMARY:🏸 Brian YANG 🇨🇦 - 🇰🇿 Dmitriy PANARIN
+UID:20240729T125000Z-badminton--D-HKG-BRA
+DTSTAMP:20240729T125000Z
+DTSTART:20240729T125000Z
+DTEND:20240729T133000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループD
+SUMMARY:🏸 LO Sin Yan Happy 🇭🇰 - 🇧🇷 Juliana VIANA VIERA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T125000Z-badminton--B-NED-ALG
+DTSTAMP:20240729T125000Z
+DTSTART:20240729T125000Z
+DTEND:20240729T133000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループB
+SUMMARY:🏸 TABELING/PIEK 🇳🇱 - 🇩🇿 K. MAMMERI/T. MAMMERI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -805,12 +796,12 @@ SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇨🇳 LIU/OU
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T173000Z-badminton--C-CAN-MYA
-DTSTAMP:20240729T173000Z
-DTSTART:20240729T173000Z
-DTEND:20240729T181000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループC
-SUMMARY:🏸 Michelle LI 🇨🇦 - 🇲🇲 Thuzar THET HTAR
+UID:20240729T134000Z-badminton--D-CAN-KAZ
+DTSTAMP:20240729T134000Z
+DTSTART:20240729T134000Z
+DTEND:20240729T153000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループD
+SUMMARY:🏸 Brian YANG 🇨🇦 - 🇰🇿 Dmitriy PANARIN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -832,6 +823,24 @@ SUMMARY:🏸 KITITHARAK/PRAJONGJAI 🇹🇭 - 🇩🇰 FRUERGAARD/THYGESEN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T173000Z-badminton--C-CAN-MYA
+DTSTAMP:20240729T173000Z
+DTSTART:20240729T173000Z
+DTEND:20240729T181000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループC
+SUMMARY:🏸 Michelle LI 🇨🇦 - 🇲🇲 Thuzar THET HTAR
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T182000Z-badminton--E-AZE-AUT
+DTSTAMP:20240729T182000Z
+DTSTART:20240729T182000Z
+DTEND:20240729T190000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループE
+SUMMARY:🏸 Ade Resky DWICAHYO 🇦🇿 - 🇦🇹 Collins Valentine FILIMON
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T182000Z-badminton--A-GBR-CAN
 DTSTAMP:20240729T182000Z
 DTSTART:20240729T182000Z
@@ -850,30 +859,12 @@ SUMMARY:🏸 WATANABE/HIGASHINO 🇯🇵 - 🇭🇰 TANG/TSE
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T182000Z-badminton--E-AZE-AUT
-DTSTAMP:20240729T182000Z
-DTSTART:20240729T182000Z
-DTEND:20240729T190000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループE
-SUMMARY:🏸 Ade Resky DWICAHYO 🇦🇿 - 🇦🇹 Collins Valentine FILIMON
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T191000Z-badminton--A-CHN-MAS
 DTSTAMP:20240729T191000Z
 DTSTART:20240729T191000Z
 DTEND:20240729T195000Z
 DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループA
 SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇲🇾 CHIA/SOH
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T191000Z-badminton--K-VIE-AUS
-DTSTAMP:20240729T191000Z
-DTSTART:20240729T191000Z
-DTEND:20240729T210000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループK
-SUMMARY:🏸 Thuy Linh NGUYEN 🇻🇳 - 🇦🇺 Tiffany HO
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -886,6 +877,15 @@ SUMMARY:🏸 Nhat NGUYEN 🇮🇪 - 🇳🇵 Prince DAHAL
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T191000Z-badminton--K-VIE-AUS
+DTSTAMP:20240729T191000Z
+DTSTART:20240729T191000Z
+DTEND:20240729T210000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループK
+SUMMARY:🏸 Thuy Linh NGUYEN 🇻🇳 - 🇦🇺 Tiffany HO
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T200000Z-badminton--P-DEN-ISR
 DTSTAMP:20240729T200000Z
 DTSTART:20240729T200000Z
@@ -895,12 +895,12 @@ SUMMARY:🏸 Viktor AXELSEN 🇩🇰 - 🇮🇱 Misha ZILBERMAN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T063000Z-badminton--E-THA-BEL
+UID:20240730T063000Z-badminton--M-EST-MDV
 DTSTAMP:20240730T063000Z
 DTSTART:20240730T063000Z
 DTEND:20240730T071000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループE
-SUMMARY:🏸 Ratchanok INTANON 🇹🇭 - 🇧🇪 Lianne TAN
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループM
+SUMMARY:🏸 Kristin KUUBA 🇪🇪 - 🇲🇻 Fathimath Nabaaha ABDUL RAZZAQ
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -913,12 +913,12 @@ SUMMARY:🏸 Pablo ABIAN 🇪🇸 - 🇱🇰 Viren NETTASINGHE
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T063000Z-badminton--M-EST-MDV
+UID:20240730T063000Z-badminton--E-THA-BEL
 DTSTAMP:20240730T063000Z
 DTSTART:20240730T063000Z
 DTEND:20240730T071000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループM
-SUMMARY:🏸 Kristin KUUBA 🇪🇪 - 🇲🇻 Fathimath Nabaaha ABDUL RAZZAQ
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループE
+SUMMARY:🏸 Ratchanok INTANON 🇹🇭 - 🇧🇪 Lianne TAN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -949,21 +949,21 @@ SUMMARY:🏸 Ines Lucia CASTILLO 🇵🇪 - 🇹🇷 Neslihan ARIN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T081000Z-badminton--A-INA-MAS
-DTSTAMP:20240730T081000Z
-DTSTART:20240730T081000Z
-DTEND:20240730T085000Z
-DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループA
-SUMMARY:🏸 RAHAYU/RAMADHANTI 🇮🇩 - 🇲🇾 TAN/THINAAH
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240730T081000Z-badminton--B-CHN-HKG
 DTSTAMP:20240730T081000Z
 DTSTART:20240730T081000Z
 DTEND:20240730T085000Z
 DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループB
 SUMMARY:🏸 LIU/TAN 🇨🇳 - 🇭🇰 YEUNG NT/YEUNG PL
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T081000Z-badminton--A-INA-MAS
+DTSTAMP:20240730T081000Z
+DTSTART:20240730T081000Z
+DTEND:20240730T085000Z
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 RAHAYU/RAMADHANTI 🇮🇩 - 🇲🇾 TAN/THINAAH
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -994,12 +994,12 @@ SUMMARY:🏸 Tereza SVABIKOVA 🇨🇿 - 🇺🇦 Polina BUHROVA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T120000Z-badminton--A-FRA-BUL
+UID:20240730T120000Z-badminton--C-JPN-KOR
 DTSTAMP:20240730T120000Z
 DTSTART:20240730T120000Z
 DTEND:20240730T124000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループA
-SUMMARY:🏸 Xuefei QI 🇫🇷 - 🇧🇬 Kaloyana NALBANTOVA
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループC
+SUMMARY:🏸 MATSUYAMA/SHIDA 🇯🇵 - 🇰🇷 KIM/KONG
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1012,12 +1012,12 @@ SUMMARY:🏸 RANKIREDDY/SHETTY 🇮🇳 - 🇮🇩 ALFIAN/ARDIANTO
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T120000Z-badminton--C-JPN-KOR
+UID:20240730T120000Z-badminton--A-FRA-BUL
 DTSTAMP:20240730T120000Z
 DTSTART:20240730T120000Z
 DTEND:20240730T124000Z
-DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループC
-SUMMARY:🏸 MATSUYAMA/SHIDA 🇯🇵 - 🇰🇷 KIM/KONG
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループA
+SUMMARY:🏸 Xuefei QI 🇫🇷 - 🇧🇬 Kaloyana NALBANTOVA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1057,21 +1057,21 @@ SUMMARY:🏸 Mia BLICHFELDT 🇩🇰 - 🇩🇪 Yvonne LI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T134000Z-badminton--B-KOR-THA
-DTSTAMP:20240730T134000Z
-DTSTART:20240730T134000Z
-DTEND:20240730T142000Z
-DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループB
-SUMMARY:🏸 KANG/SEO 🇰🇷 - 🇹🇭 JOMKOH/KEDREN
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240730T134000Z-badminton--D-JPN-CHN
 DTSTAMP:20240730T134000Z
 DTSTART:20240730T134000Z
 DTEND:20240730T142000Z
 DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
 SUMMARY:🏸 HOKI/KOBAYASHI 🇯🇵 - 🇨🇳 LIU/OU
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T134000Z-badminton--B-KOR-THA
+DTSTAMP:20240730T134000Z
+DTSTART:20240730T134000Z
+DTEND:20240730T142000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループB
+SUMMARY:🏸 KANG/SEO 🇰🇷 - 🇹🇭 JOMKOH/KEDREN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1093,12 +1093,12 @@ SUMMARY:🏸 Rachael DARRAGH 🇮🇪 - 🇨🇭 Jenjira STADELMANN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T173000Z-badminton--M-ESA-CZE
+UID:20240730T173000Z-badminton--N-NGR-SUI
 DTSTAMP:20240730T173000Z
 DTSTART:20240730T173000Z
 DTEND:20240730T181000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループM
-SUMMARY:🏸 Uriel Francisco CANJURA ARTIGA 🇸🇻 - 🇨🇿 Jan LOUDA
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループN
+SUMMARY:🏸 Anuoluwapo Juwon OPEYORI 🇳🇬 - 🇨🇭 Tobias KUENZI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1111,21 +1111,21 @@ SUMMARY:🏸 HE Bing Jiao 🇨🇳 - 🇬🇧 Kirsty GILMOUR
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T173000Z-badminton--N-NGR-SUI
+UID:20240730T173000Z-badminton--M-ESA-CZE
 DTSTAMP:20240730T173000Z
 DTSTART:20240730T173000Z
 DTEND:20240730T181000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループN
-SUMMARY:🏸 Anuoluwapo Juwon OPEYORI 🇳🇬 - 🇨🇭 Tobias KUENZI
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループM
+SUMMARY:🏸 Uriel Francisco CANJURA ARTIGA 🇸🇻 - 🇨🇿 Jan LOUDA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T182000Z-badminton--D-THA-HKG
+UID:20240730T182000Z-badminton--K-VIE-GER
 DTSTAMP:20240730T182000Z
 DTSTART:20240730T182000Z
 DTEND:20240730T190000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループD
-SUMMARY:🏸 Supanida KATETHONG 🇹🇭 - 🇭🇰 LO Sin Yan Happy
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループK
+SUMMARY:🏸 Duc Phat LE 🇻🇳 - 🇩🇪 Fabian ROTH
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1138,12 +1138,21 @@ SUMMARY:🏸 Jia Min YEO 🇸🇬 - 🇲🇺 Kate FOO KUNE
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T182000Z-badminton--K-VIE-GER
+UID:20240730T182000Z-badminton--D-THA-HKG
 DTSTAMP:20240730T182000Z
 DTSTART:20240730T182000Z
 DTEND:20240730T190000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループK
-SUMMARY:🏸 Duc Phat LE 🇻🇳 - 🇩🇪 Fabian ROTH
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループD
+SUMMARY:🏸 Supanida KATETHONG 🇹🇭 - 🇭🇰 LO Sin Yan Happy
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T191000Z-badminton--D-KOR-THA
+DTSTAMP:20240730T191000Z
+DTSTART:20240730T191000Z
+DTEND:20240730T201000Z
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 BAEK/LEE 🇰🇷 - 🇹🇭 KITITHARAK/PRAJONGJAI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1165,21 +1174,12 @@ SUMMARY:🏸 LAMBERT/TRAN 🇫🇷 - 🇩🇰 FRUERGAARD/THYGESEN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T191000Z-badminton--D-KOR-THA
-DTSTAMP:20240730T191000Z
-DTSTART:20240730T191000Z
-DTEND:20240730T201000Z
-DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループD
-SUMMARY:🏸 BAEK/LEE 🇰🇷 - 🇹🇭 KITITHARAK/PRAJONGJAI
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T063000Z-badminton--C-JPN-CAN
+UID:20240731T063000Z-badminton--K-USA-VIE
 DTSTAMP:20240731T063000Z
 DTSTART:20240731T063000Z
 DTEND:20240731T071000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループC
-SUMMARY:🏸 YAMAGUCHI Akane 🇯🇵 - 🇨🇦 Michelle LI
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループK
+SUMMARY:🏸 Beiwen ZHANG 🇺🇸 - 🇻🇳 Thuy Linh NGUYEN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1192,12 +1192,12 @@ SUMMARY:🏸 KIM Ga Eun 🇰🇷 - 🇲🇾 Jin Wei GOH
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T063000Z-badminton--K-USA-VIE
+UID:20240731T063000Z-badminton--C-JPN-CAN
 DTSTAMP:20240731T063000Z
 DTSTART:20240731T063000Z
 DTEND:20240731T071000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループK
-SUMMARY:🏸 Beiwen ZHANG 🇺🇸 - 🇻🇳 Thuy Linh NGUYEN
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループC
+SUMMARY:🏸 YAMAGUCHI Akane 🇯🇵 - 🇨🇦 Michelle LI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1207,6 +1207,15 @@ DTSTART:20240731T072000Z
 DTEND:20240731T072000Z
 DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループL
 SUMMARY:🏸 Kevin CORDON 🇬🇹 - 🇧🇪 Julien CARRAGGI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T072000Z-badminton--P-ISR-NEP
+DTSTAMP:20240731T072000Z
+DTSTART:20240731T072000Z
+DTEND:20240731T080000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループP
+SUMMARY:🏸 Misha ZILBERMAN 🇮🇱 - 🇳🇵 Prince DAHAL
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1228,21 +1237,12 @@ SUMMARY:🏸 Viktor AXELSEN 🇩🇰 - 🇮🇪 Nhat NGUYEN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T072000Z-badminton--P-ISR-NEP
-DTSTAMP:20240731T072000Z
-DTSTART:20240731T072000Z
-DTEND:20240731T080000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループP
-SUMMARY:🏸 Misha ZILBERMAN 🇮🇱 - 🇳🇵 Prince DAHAL
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T081000Z-badminton--A-CHN-ITA
+UID:20240731T081000Z-badminton--L-INA-IND
 DTSTAMP:20240731T081000Z
 DTSTART:20240731T081000Z
 DTEND:20240731T085000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループA
-SUMMARY:🏸 SHI Yu Qi 🇨🇳 - 🇮🇹 Giovanni TOTI
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループL
+SUMMARY:🏸 Jonatan CHRISTIE 🇮🇩 - 🇮🇳 Lakshya SEN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1255,21 +1255,12 @@ SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇫🇮 Kalle KOLJONEN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T081000Z-badminton--L-INA-IND
+UID:20240731T081000Z-badminton--A-CHN-ITA
 DTSTAMP:20240731T081000Z
 DTSTART:20240731T081000Z
 DTEND:20240731T085000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループL
-SUMMARY:🏸 Jonatan CHRISTIE 🇮🇩 - 🇮🇳 Lakshya SEN
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T120000Z-badminton--D-CHN-TPE
-DTSTAMP:20240731T120000Z
-DTSTART:20240731T120000Z
-DTEND:20240731T124000Z
-DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
-SUMMARY:🏸 LIU/OU 🇨🇳 - 🇹🇼 LEE/WANG
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループA
+SUMMARY:🏸 SHI Yu Qi 🇨🇳 - 🇮🇹 Giovanni TOTI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1288,6 +1279,15 @@ DTSTART:20240731T120000Z
 DTEND:20240731T124000Z
 DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループL
 SUMMARY:🏸 Carolina MARIN 🇪🇸 - 🇮🇪 Rachael DARRAGH
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T120000Z-badminton--D-CHN-TPE
+DTSTAMP:20240731T120000Z
+DTSTART:20240731T120000Z
+DTEND:20240731T124000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 LIU/OU 🇨🇳 - 🇹🇼 LEE/WANG
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1318,21 +1318,21 @@ SUMMARY:🏸 Zii Jia LEE 🇲🇾 - 🇪🇸 Pablo ABIAN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T134000Z-badminton--G-INA-CZE
-DTSTAMP:20240731T134000Z
-DTSTART:20240731T134000Z
-DTEND:20240731T142000Z
-DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループG
-SUMMARY:🏸 Gregoria Mariska TUNJUNG 🇮🇩 - 🇨🇿 Tereza SVABIKOVA
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240731T134000Z-badminton--I-TPE-HKG
 DTSTAMP:20240731T134000Z
 DTSTART:20240731T134000Z
 DTEND:20240731T142000Z
 DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループI
 SUMMARY:🏸 CHOU Tien Chen 🇹🇼 - 🇭🇰 LEE Cheuk Yiu
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T134000Z-badminton--G-INA-CZE
+DTSTAMP:20240731T134000Z
+DTSTART:20240731T134000Z
+DTEND:20240731T142000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループG
+SUMMARY:🏸 Gregoria Mariska TUNJUNG 🇮🇩 - 🇨🇿 Tereza SVABIKOVA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1381,15 +1381,6 @@ SUMMARY:🏸 AN Se Young 🇰🇷 - 🇫🇷 Xuefei QI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T173000Z-badminton--K-IND-VIE
-DTSTAMP:20240731T173000Z
-DTSTART:20240731T173000Z
-DTEND:20240731T181000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループK
-SUMMARY:🏸 H. S. PRANNOY 🇮🇳 - 🇻🇳 Duc Phat LE
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240731T173000Z-badminton--P-CHN-DEN
 DTSTAMP:20240731T173000Z
 DTSTART:20240731T173000Z
@@ -1399,12 +1390,12 @@ SUMMARY:🏸 CHEN Yu Fei 🇨🇳 - 🇩🇰 Mia BLICHFELDT
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T182000Z-badminton--HKG-KOR
-DTSTAMP:20240731T182000Z
-DTSTART:20240731T182000Z
-DTEND:20240731T192000Z
-DESCRIPTION:バドミントン - 混合ダブルス準々決勝
-SUMMARY:🏸 TANG/TSE 🇭🇰 - 🇰🇷 SEO/CHAE
+UID:20240731T173000Z-badminton--K-IND-VIE
+DTSTAMP:20240731T173000Z
+DTSTART:20240731T173000Z
+DTEND:20240731T181000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループK
+SUMMARY:🏸 H. S. PRANNOY 🇮🇳 - 🇻🇳 Duc Phat LE
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1426,12 +1417,12 @@ SUMMARY:🏸 LI Shi Feng 🇨🇳 - 🇳🇬 Anuoluwapo Juwon OPEYORI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T191000Z-badminton--CHN-CHN
-DTSTAMP:20240731T191000Z
-DTSTART:20240731T191000Z
-DTEND:20240731T201000Z
+UID:20240731T182000Z-badminton--HKG-KOR
+DTSTAMP:20240731T182000Z
+DTSTART:20240731T182000Z
+DTEND:20240731T192000Z
 DESCRIPTION:バドミントン - 混合ダブルス準々決勝
-SUMMARY:🏸 ZHENG/HUANG 🇨🇳 - 🇨🇳 FENG/HUANG
+SUMMARY:🏸 TANG/TSE 🇭🇰 - 🇰🇷 SEO/CHAE
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1444,21 +1435,21 @@ SUMMARY:🏸 WATANABE/HIGASHINO 🇯🇵 - 🇹🇭 PUAVARANUK/TAERATTANA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T191000Z-badminton--CHN-CHN
+DTSTAMP:20240731T191000Z
+DTSTART:20240731T191000Z
+DTEND:20240731T201000Z
+DESCRIPTION:バドミントン - 混合ダブルス準々決勝
+SUMMARY:🏸 ZHENG/HUANG 🇨🇳 - 🇨🇳 FENG/HUANG
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T193000Z-badminton--KOR-MAS
 DTSTAMP:20240731T193000Z
 DTSTART:20240731T193000Z
 DTEND:20240731T203000Z
 DESCRIPTION:バドミントン - 混合ダブルス準々決勝
 SUMMARY:🏸 KIM/JEONG 🇰🇷 - 🇲🇾 CHEN/TOH
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T063000Z-badminton-
-DTSTAMP:20240801T063000Z
-DTSTART:20240801T063000Z
-DTEND:20240801T103000Z
-DESCRIPTION:バドミントン - 女子ダブルス準々決勝
-SUMMARY:🏸 女子ダブルス準々決勝
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1471,12 +1462,12 @@ SUMMARY:🏸 男子シングルス1回戦
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T110000Z-badminton-
-DTSTAMP:20240801T110000Z
-DTSTART:20240801T110000Z
-DTEND:20240801T150000Z
-DESCRIPTION:バドミントン - 男子ダブルス準々決勝
-SUMMARY:🏸 男子ダブルス準々決勝
+UID:20240801T063000Z-badminton-
+DTSTAMP:20240801T063000Z
+DTSTART:20240801T063000Z
+DTEND:20240801T103000Z
+DESCRIPTION:バドミントン - 女子ダブルス準々決勝
+SUMMARY:🏸 女子ダブルス準々決勝
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1486,6 +1477,15 @@ DTSTART:20240801T110000Z
 DTEND:20240801T133000Z
 DESCRIPTION:バドミントン - 男子シングルス1回戦
 SUMMARY:🏸 男子シングルス1回戦
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T110000Z-badminton-
+DTSTAMP:20240801T110000Z
+DTSTART:20240801T110000Z
+DTEND:20240801T150000Z
+DESCRIPTION:バドミントン - 男子ダブルス準々決勝
+SUMMARY:🏸 男子ダブルス準々決勝
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1525,21 +1525,21 @@ SUMMARY:🏸 男子ダブルス準決勝
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T130000Z-badminton-
-DTSTAMP:20240802T130000Z
-DTSTART:20240802T130000Z
-DTEND:20240802T170000Z
-DESCRIPTION:バドミントン - 男子シングルス準々決勝
-SUMMARY:🏸 男子シングルス準々決勝
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240802T130000Z-badminton-3
 DTSTAMP:20240802T130000Z
 DTSTART:20240802T130000Z
 DTEND:20240802T150000Z
 DESCRIPTION:バドミントン - 混合ダブルス決勝・3位決定戦
 SUMMARY:🏸 混合ダブルス決勝・3位決定戦
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T130000Z-badminton-
+DTSTAMP:20240802T130000Z
+DTSTART:20240802T130000Z
+DTEND:20240802T170000Z
+DESCRIPTION:バドミントン - 男子シングルス準々決勝
+SUMMARY:🏸 男子シングルス準々決勝
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT

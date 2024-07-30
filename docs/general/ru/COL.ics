@@ -179,6 +179,15 @@ SUMMARY:🏹 Колумбия 🇨🇴 - 🇹🇷 Турция
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T100000Z-tennis---COL-UKR
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T130000Z
+DESCRIPTION:Теннис - Второй раунд, одиночный разряд (ж)
+SUMMARY:🎾 Camila OSORIO 🇨🇴 - 🇺🇦 Dayana YASTREMSKA
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T100000Z-skateboarding--
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
@@ -193,15 +202,6 @@ DESCRIPTION:Скейтбординг - Стрит, предварительны�
   Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
 SUMMARY:🛹 Стрит, предварительные заезды (м)
 LOCATION:Площадь Согласия 3
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T100000Z-tennis---COL-UKR
-DTSTAMP:20240729T100000Z
-DTSTART:20240729T100000Z
-DTEND:20240729T130000Z
-DESCRIPTION:Теннис - Второй раунд, одиночный разряд (ж)
-SUMMARY:🎾 Camila OSORIO 🇨🇴 - 🇺🇦 Dayana YASTREMSKA
-LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T121000Z-cycling-mountain-bike--

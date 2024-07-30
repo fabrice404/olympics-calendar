@@ -22,25 +22,6 @@ SUMMARY:Paris 2024 - Церемония открытия
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T070000Z-rowing--
-DTSTAMP:20240727T070000Z
-DTSTART:20240727T070000Z
-DTEND:20240727T080700Z
-DESCRIPTION:Академическая гребля - Одиночки, заезды (м)\n🇯🇵 ARAKAWA
-  Ryuta\n🇸🇩 Abdalla AHMED\n🇪🇬 Abdelkhalek ELBANNA\n🇦🇴 Andre
-  MATIAS\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾
-  Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara
-  ALIZADEH\n🇱🇹 Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob
-  PLIHAL\n🇵🇾 Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN
-  FERREIRA\n🇮🇩 MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳
-  Mohamed TAIEB\n🇩🇪 Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨
-  Quentin ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱
-  Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
-  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
-SUMMARY:🚣 Одиночки, заезды (м)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T070000Z-shooting--10-1-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
@@ -54,6 +35,22 @@ DESCRIPTION:Стрельба - Пневматическая винтовка 10�
   United States 1\n🇺🇸 United States 2
 SUMMARY:🔫 Пневматическая винтовка 10м, квалификация, часть 1 (микст)
 LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T070000Z-rowing--
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Академическая гребля - Одиночки, заезды (м)\n🇩🇿 Алжир\n🇦🇴
+  Ангола\n🇧🇪 Бельгия\n🇧🇲 Бермудские острова\n🇧🇬 Болгария\n🇧🇷
+  Бразилия\n🇭🇺 Венгрия\n🇩🇪 Германия\n🇭🇰 Гонконг, Китай\n🇬🇷
+  Греция\n🇩🇰 Дания\n🇪🇬 Египет\n🇿🇼 Зимбабве\n🇮🇳 Индия\n🇮🇩
+  Индонезия\n🇰🇿 Казахстан\n🇨🇺 Куба\n🇱🇾 Ливия\n🇱🇹 Литва\n🇲🇨
+  Монако\n🇳🇱 Нидерланды\n🇳🇿 Новая Зеландия\n🇵🇾 Парагвай\n🇷🇴
+  Румыния\n🇺🇸 США\n🇸🇮 Словения\n🇸🇩 Судан\n🇹🇭 Таиланд\n🇹🇳
+  Тунис\n🇺🇾 Уругвай\n🇭🇷 Хорватия\n🇯🇵 Япония
+SUMMARY:🚣 Одиночки, заезды (м)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T073000Z-equestrian--
@@ -450,6 +447,20 @@ SUMMARY:🏊 200м вольным стилем, квалификация (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T091500Z-swimming-400-
+DTSTAMP:20240728T091500Z
+DTSTART:20240728T091500Z
+DTEND:20240728T092700Z
+DESCRIPTION:Плавание - 400м комплексом, квалификация (м)\n🇮🇹 Alberto
+  RAZZETTI\n🇬🇷 Apostolos PAPASTAMOS\n🇭🇺 Balazs HOLLO\n🇦🇺 Brendon
+  SMITH\n🇺🇸 Carson FOSTER\n🇩🇪 Cedric BUESSING\n🇺🇸 Chase KALISZ\n🇭🇺
+  Gabor ZOMBORI\n🇫🇷 Leon MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇯🇵 MATSUSHITA
+  Tomoyuki\n🇬🇧 Max LITCHFIELD\n🇯🇵 SETO Daiya\n🇨🇦 Tristan
+  JANKOVICS\n🇦🇺 William Campbell PETRIC\n🇨🇳 ZHANG Zhanshuo
+SUMMARY:🏊 400м комплексом, квалификация (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T091500Z-shooting--10-
 DTSTAMP:20240728T091500Z
 DTSTART:20240728T091500Z
@@ -473,20 +484,6 @@ DESCRIPTION:Стрельба - Пневматическая винтовка 10�
   BARTNIK\n🇨🇦 Tye IKEDA\n🇸🇪 Victor LINDGREN\n🇭🇺 Zalan PEKLER
 SUMMARY:🔫 Пневматическая винтовка 10м, квалификация (м)
 LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T091500Z-swimming-400-
-DTSTAMP:20240728T091500Z
-DTSTART:20240728T091500Z
-DTEND:20240728T092700Z
-DESCRIPTION:Плавание - 400м комплексом, квалификация (м)\n🇮🇹 Alberto
-  RAZZETTI\n🇬🇷 Apostolos PAPASTAMOS\n🇭🇺 Balazs HOLLO\n🇦🇺 Brendon
-  SMITH\n🇺🇸 Carson FOSTER\n🇩🇪 Cedric BUESSING\n🇺🇸 Chase KALISZ\n🇭🇺
-  Gabor ZOMBORI\n🇫🇷 Leon MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇯🇵 MATSUSHITA
-  Tomoyuki\n🇬🇧 Max LITCHFIELD\n🇯🇵 SETO Daiya\n🇨🇦 Tristan
-  JANKOVICS\n🇦🇺 William Campbell PETRIC\n🇨🇳 ZHANG Zhanshuo
-SUMMARY:🏊 400м комплексом, квалификация (м)
-LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T091800Z-judo-18-66--JPN-HUN
@@ -531,17 +528,6 @@ SUMMARY:🏊 100м на спине, квалификация (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-shooting--10-
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T104500Z
-DESCRIPTION:Стрельба - Пневматический пистолет 10м, финал (ж)\n🇨🇳 JIANG
-  Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye
-  Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
-SUMMARY:🔫 Пневматический пистолет 10м, финал (ж)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T100000Z-swimming-200-
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
@@ -560,6 +546,17 @@ DESCRIPTION:Плавание - 200м вольным стилем, квалифи
   JORUNNARDOTTIR\n🇧🇪 Valentine DUMONT\n🇨🇳 YANG Junxuan
 SUMMARY:🏊 200м вольным стилем, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-shooting--10-
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T104500Z
+DESCRIPTION:Стрельба - Пневматический пистолет 10м, финал (ж)\n🇨🇳 JIANG
+  Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye
+  Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
+SUMMARY:🔫 Пневматический пистолет 10м, финал (ж)
+LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100000Z-tennis---HUN-ESP
@@ -783,6 +780,20 @@ SUMMARY:🤺 Katherine F PAREDES TORRES 🇻🇪 - 🇭🇺 Anna MARTON
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T090000Z-swimming-400-
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T091200Z
+DESCRIPTION:Плавание - 400м комплексом, квалификация (ж)\n🇮🇱 Anastasia
+  GORBENKO\n🇷🇸 Anja CREVAR\n🇨🇦 Ella JANSEN\n🇦🇺 Ella RAMSAY\n🇮🇪
+  Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇺🇸 Emma WEYANT\n🇬🇧 Freya
+  Constance COLBERT\n🇦🇺 Jenna FORRESTER\n🇺🇸 Katie GRIMES\n🇬🇧 Katie
+  SHANAHAN\n🇯🇵 NARITA Mio\n🇮🇹 Sara FRANCESCHI\n🇨🇦 Summer
+  McINTOSH\n🇯🇵 TANIGAWA Ageha\n🇭🇺 Vivien JACKL
+SUMMARY:🏊 400м комплексом, квалификация (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T090000Z-equestrian--
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
@@ -809,20 +820,6 @@ DESCRIPTION:Конный спорт - Личное троеборье, конк�
   MANNINEN\n🇵🇱 Wiktoria KNAP
 SUMMARY:🏇 Личное троеборье, конкур, квалификация
 LOCATION:Версаль
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T090000Z-swimming-400-
-DTSTAMP:20240729T090000Z
-DTSTART:20240729T090000Z
-DTEND:20240729T091200Z
-DESCRIPTION:Плавание - 400м комплексом, квалификация (ж)\n🇮🇱 Anastasia
-  GORBENKO\n🇷🇸 Anja CREVAR\n🇨🇦 Ella JANSEN\n🇦🇺 Ella RAMSAY\n🇮🇪
-  Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇺🇸 Emma WEYANT\n🇬🇧 Freya
-  Constance COLBERT\n🇦🇺 Jenna FORRESTER\n🇺🇸 Katie GRIMES\n🇬🇧 Katie
-  SHANAHAN\n🇯🇵 NARITA Mio\n🇮🇹 Sara FRANCESCHI\n🇨🇦 Summer
-  McINTOSH\n🇯🇵 TANIGAWA Ageha\n🇭🇺 Vivien JACKL
-SUMMARY:🏊 400м комплексом, квалификация (ж)
-LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T091500Z-fencing--116--HUN-ITA
@@ -889,15 +886,6 @@ SUMMARY:🤺 Daniel DOSA 🇭🇺 - 🇪🇬 Abdelrahman Hussein TOLBA
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T123000Z-fencing--18--BUL-HUN
-DTSTAMP:20240729T123000Z
-DTSTART:20240729T123000Z
-DTEND:20240729T125500Z
-DESCRIPTION:Фехтование - Личная сабля, 1/8 финала (ж)
-SUMMARY:🤺 Yoana ILIEVA 🇧🇬 - 🇭🇺 Luca Virag SZUCS
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T123000Z-fencing--18--HUN-HUN
 DTSTAMP:20240729T123000Z
 DTSTART:20240729T123000Z
@@ -907,12 +895,12 @@ SUMMARY:🤺 Anna MARTON 🇭🇺 - 🇭🇺 Liza PUSZTAI
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T135500Z-fencing--14--HUN-FRA
-DTSTAMP:20240729T135500Z
-DTSTART:20240729T135500Z
-DTEND:20240729T142000Z
-DESCRIPTION:Фехтование - Личная сабля, 1/4 финала (ж)
-SUMMARY:🤺 Luca Virag SZUCS 🇭🇺 - 🇫🇷 Sara BALZER
+UID:20240729T123000Z-fencing--18--BUL-HUN
+DTSTAMP:20240729T123000Z
+DTSTART:20240729T123000Z
+DTEND:20240729T125500Z
+DESCRIPTION:Фехтование - Личная сабля, 1/8 финала (ж)
+SUMMARY:🤺 Yoana ILIEVA 🇧🇬 - 🇭🇺 Luca Virag SZUCS
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -922,6 +910,15 @@ DTSTART:20240729T135500Z
 DTEND:20240729T142000Z
 DESCRIPTION:Фехтование - Личная сабля, 1/4 финала (ж)
 SUMMARY:🤺 Anna MARTON 🇭🇺 - 🇺🇦 Olga KHARLAN
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T135500Z-fencing--14--HUN-FRA
+DTSTAMP:20240729T135500Z
+DTSTART:20240729T135500Z
+DTEND:20240729T142000Z
+DESCRIPTION:Фехтование - Личная сабля, 1/4 финала (ж)
+SUMMARY:🤺 Luca Virag SZUCS 🇭🇺 - 🇫🇷 Sara BALZER
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -1144,15 +1141,6 @@ SUMMARY:🏊 Личный зачет (ж)
 LOCATION:Мост Александра III
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T070000Z-handball--B--NOR-HUN
-DTSTAMP:20240731T070000Z
-DTSTART:20240731T070000Z
-DTEND:20240731T083000Z
-DESCRIPTION:Гандбол - Предварительный этап, группа B (м)
-SUMMARY:🤾 Норвегия 🇳🇴 - 🇭🇺 Венгрия
-LOCATION:Арена «Париж-Юг» 6
-END:VEVENT
-BEGIN:VEVENT
 UID:20240731T070000Z-shooting--50-3-
 DTSTAMP:20240731T070000Z
 DTSTART:20240731T070000Z
@@ -1175,6 +1163,15 @@ DESCRIPTION:Стрельба - Винтовка 50м из 3 положений, 
   LINDGREN\n🇭🇺 Zalan PEKLER
 SUMMARY:🔫 Винтовка 50м из 3 положений, квалификация (м)
 LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T070000Z-handball--B--NOR-HUN
+DTSTAMP:20240731T070000Z
+DTSTART:20240731T070000Z
+DTEND:20240731T083000Z
+DESCRIPTION:Гандбол - Предварительный этап, группа B (м)
+SUMMARY:🤾 Норвегия 🇳🇴 - 🇭🇺 Венгрия
+LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T080000Z-table-tennis-116--KOR-HUN
@@ -1287,6 +1284,29 @@ DESCRIPTION:Спортивная гимнастика - Многоборье, ф
   Rene COURNOYER\n🇨🇳 XIAO Ruoteng\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
 SUMMARY:🤸 Многоборье, финал (м)
 LOCATION:Арена «Берси»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T183700Z-swimming-200-
+DTSTAMP:20240731T183700Z
+DTSTART:20240731T183700Z
+DTEND:20240731T184500Z
+DESCRIPTION:Плавание - 200м баттерфляем, финал (м)\n🇮🇹 Alberto
+  RAZZETTI\n🇨🇦 Ilya KHARUN\n🇪🇪 Kregor ZIRK\n🇭🇺 Kristof MILAK\n🇵🇱
+  Krzysztof CHMIELEWSKI\n🇫🇷 Leon MARCHAND\n🇦🇹 Martin ESPERNBERGER\n🇨🇭
+  Noe PONTI
+SUMMARY:🏊 200м баттерфляем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T203900Z-swimming-100-
+DTSTAMP:20240731T203900Z
+DTSTART:20240731T203900Z
+DTEND:20240731T204600Z
+DESCRIPTION:Плавание - 100м вольным стилем, финал (м)\n🇺🇸 Chris
+  GUILIANO\n🇷🇴 David POPOVICI\n🇺🇸 Jack ALEXY\n🇩🇪 Josha SALCHOW\n🇦🇺
+  Kyle CHALMERS\n🇫🇷 Maxime GROUSSET\n🇭🇺 Nandor NEMETH\n🇨🇳 PAN Zhanle
+SUMMARY:🏊 100м вольным стилем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T084800Z-judo-116-100--HUN-SRB

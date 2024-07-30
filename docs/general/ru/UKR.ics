@@ -110,6 +110,15 @@ SUMMARY:🔫 Пневматический пистолет 10м, квалифи�
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T090000Z-judo-18-60--UKR-KAZ
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T090600Z
+DESCRIPTION:Дзюдо - 1/8 финала, до 60кг (м)
+SUMMARY:🥋 Dilshot KHALMATOV 🇺🇦 - 🇰🇿 Yeldos SMETOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T090000Z-diving--3-
 DTSTAMP:20240727T090000Z
 DTSTART:20240727T090000Z
@@ -119,15 +128,6 @@ DESCRIPTION:Прыжки в воду - Синхронный трамплин 3м
   Китай\n🇺🇸 США\n🇺🇦 Украина\n🇫🇷 Франция
 SUMMARY:🏊 Синхронный трамплин 3м, финал (ж)
 LOCATION:Центр водных видов спорта
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T090000Z-judo-18-60--UKR-KAZ
-DTSTAMP:20240727T090000Z
-DTSTART:20240727T090000Z
-DTEND:20240727T090600Z
-DESCRIPTION:Дзюдо - 1/8 финала, до 60кг (м)
-SUMMARY:🥋 Dilshot KHALMATOV 🇺🇦 - 🇰🇿 Yeldos SMETOV
-LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T091500Z-fencing--116--USA-UKR
@@ -184,18 +184,9 @@ UID:20240727T105000Z-rowing--
 DTSTAMP:20240727T105000Z
 DTSTART:20240727T105000Z
 DTEND:20240727T110700Z
-DESCRIPTION:Академическая гребля - Четверки парные, заезды (ж)\n🇷🇴
-  Alexandra UNGUREANU\n🇺🇦 Anastasiia KOZHENKOVA\n🇳🇱 Bente PAULIS\n🇨🇳
-  CHEN Yunxia\n🇨🇳 CUI Xiaotong\n🇦🇺 Caitlin CRONIN\n🇨🇭 Celia
-  DUPRE\n🇺🇦 Daryna VERKHOGLIAD\n🇷🇴 Emanuela Ioana CIOTAU\n🇺🇸 Emily
-  DELLEMAN\n🇨🇭 Fabienne SCHWEIZER\n🇬🇧 Georgina BRAYSHAW\n🇺🇸 Grace
-  JOYCE\n🇬🇧 Hannah SCOTT\n🇷🇴 Ioana Madalina MOROSAN\n🇺🇦 Kateryna
-  DUDCHENKO\n🇨🇳 LYU Yang\n🇳🇱 Laila YOUSSIFOU\n🇦🇺 Laura GOURLEY\n🇬🇧
-  Lauren HENRY\n🇺🇸 Lauren O'CONNOR\n🇩🇪 Leonie MENZEL\n🇨🇭 Lisa
-  LOETSCHER\n🇬🇧 Lola ANDERSON\n🇩🇪 Maren VOELZ\n🇨🇭 Pascale
-  WALKER\n🇷🇴 Patricia CIRES\n🇩🇪 Pia GREITEN\n🇦🇺 Ria THOMPSON\n🇳🇱
-  Roos de JONG\n🇦🇺 Rowena MEREDITH\n🇩🇪 Tabea SCHENDEKEHL\n🇺🇸 Teal
-  COHEN\n🇳🇱 Tessa DULLEMANS\n🇺🇦 Yevheniia DOVHODKO\n🇨🇳 ZHANG Ling
+DESCRIPTION:Академическая гребля - Четверки парные, заезды (ж)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇨🇳 Китай\n🇳🇱
+  Нидерланды\n🇷🇴 Румыния\n🇺🇸 США\n🇺🇦 Украина\n🇨🇭 Швейцария
 SUMMARY:🚣 Четверки парные, заезды (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
@@ -389,28 +380,12 @@ DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T102700Z
 DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, заезды
-  (м)\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro COLOMINO\n🇲🇽 Alexis LOPEZ
-  GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇳🇴 Ask Jarl TJOEM\n🇪🇸 Caetano
-  Xose HORTA POMBO\n🇨🇱 Cesar ABAROA\n🇪🇸 Dennis CARRACEDO FERRERO\n🇨🇱
-  Eber SANHUEZA\n🇯🇵 FURUTA Naoki\n🇫🇷 Ferdinand LUDWIG\n🇮🇪 Fintan Mc
-  CARTHY\n🇮🇹 Gabriel SOARES\n🇫🇷 Hugo BEUREY\n🇺🇦 Igor KHMARA\n🇨🇭 Jan
-  SCHAEUBLE\n🇨🇿 Jiri SIMANEK\n🇳🇴 Lars Martin BENSKE\n🇯🇵 MIYAURA
-  Masayuki\n🇲🇽 Miguel CARBALLO NIETO\n🇨🇿 Miroslav VRASTIL\n🇪🇬 Mohamed
-  MOHAMED KOTA\n🇧🇪 Niels van ZANDWEGHE\n🇮🇪 Paul O DONOVAN\n🇦🇷 Pedro
-  DICKSON\n🇬🇷 Petros GKAIDATZIS\n🇨🇭 Raphael AHUMADA\n🇺🇿 Shakhzod
-  NURMATOV\n🇺🇿 Sobirjon SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇮🇹 Stefano
-  OPPO\n🇧🇪 Tibo VYVEY
+  (м)\n🇦🇷 Аргентина\n🇧🇪 Бельгия\n🇬🇷 Греция\n🇪🇬 Египет\n🇮🇪
+  Ирландия\n🇪🇸 Испания\n🇮🇹 Италия\n🇲🇽 Мексика\n🇳🇴 Норвегия\n🇺🇿
+  Узбекистан\n🇺🇦 Украина\n🇫🇷 Франция\n🇨🇿 Чехия\n🇨🇱 Чили\n🇨🇭
+  Швейцария\n🇯🇵 Япония
 SUMMARY:🚣 Двойки парные, легкий вес, заезды (м)
 LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T100000Z-tennis---BRA-UKR
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T173000Z
-DESCRIPTION:Теннис - Первый раунд, одиночный разряд (ж)
-SUMMARY:🎾 Laura PIGOSSI 🇧🇷 - 🇺🇦 Dayana YASTREMSKA
-LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100000Z-tennis---JPN-UKR
@@ -428,6 +403,15 @@ DTSTART:20240728T100000Z
 DTEND:20240728T143000Z
 DESCRIPTION:Теннис - Первый раунд, одиночный разряд (ж)
 SUMMARY:🎾 Lulu SUN 🇳🇿 - 🇺🇦 Marta KOSTYUK
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis---BRA-UKR
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T173000Z
+DESCRIPTION:Теннис - Первый раунд, одиночный разряд (ж)
+SUMMARY:🎾 Laura PIGOSSI 🇧🇷 - 🇺🇦 Dayana YASTREMSKA
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
@@ -522,13 +506,9 @@ DTSTAMP:20240729T084000Z
 DTSTART:20240729T084000Z
 DTEND:20240729T085700Z
 DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, утешительные
-  заезды (м)\n🇪🇬 Ahmed ABDELAAL\n🇦🇷 Alejandro COLOMINO\n🇲🇽 Alexis
-  LOPEZ GARCIA\n🇬🇷 Antonios PAPAKONSTANTINOU\n🇨🇱 Cesar ABAROA\n🇨🇱
-  Eber SANHUEZA\n🇯🇵 FURUTA Naoki\n🇫🇷 Ferdinand LUDWIG\n🇫🇷 Hugo
-  BEUREY\n🇺🇦 Igor KHMARA\n🇯🇵 MIYAURA Masayuki\n🇲🇽 Miguel CARBALLO
-  NIETO\n🇪🇬 Mohamed MOHAMED KOTA\n🇧🇪 Niels van ZANDWEGHE\n🇦🇷 Pedro
-  DICKSON\n🇬🇷 Petros GKAIDATZIS\n🇺🇿 Shakhzod NURMATOV\n🇺🇿 Sobirjon
-  SAFAROLIYEV\n🇺🇦 Stanislav KOVALOV\n🇧🇪 Tibo VYVEY
+  заезды (м)\n🇦🇷 Аргентина\n🇧🇪 Бельгия\n🇬🇷 Греция\n🇪🇬 Египет\n🇲🇽
+  Мексика\n🇺🇿 Узбекистан\n🇺🇦 Украина\n🇫🇷 Франция\n🇨🇱 Чили\n🇯🇵
+  Япония
 SUMMARY:🚣 Двойки парные, легкий вес, утешительные заезды (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
@@ -637,21 +617,21 @@ SUMMARY:🎾 Clara BUREL 🇫🇷 - 🇺🇦 Marta KOSTYUK
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T100000Z-tennis---POL-UKR
-DTSTAMP:20240729T100000Z
-DTSTART:20240729T100000Z
-DTEND:20240729T160000Z
-DESCRIPTION:Теннис - Первый раунд, пары (ж)
-SUMMARY:🎾 LINETTE/ROSOLSKA 🇵🇱 - 🇺🇦 KOSTYUK/YASTREMSKA
-LOCATION:Стадион «Ролан Гаррос»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T100000Z-tennis---UKR-CHN
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
 DTEND:20240729T143000Z
 DESCRIPTION:Теннис - Первый раунд, пары (ж)
 SUMMARY:🎾 KICHENOK/KICHENOK 🇺🇦 - 🇨🇳 WANG/ZHENG
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-tennis---POL-UKR
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T160000Z
+DESCRIPTION:Теннис - Первый раунд, пары (ж)
+SUMMARY:🎾 LINETTE/ROSOLSKA 🇵🇱 - 🇺🇦 KOSTYUK/YASTREMSKA
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
@@ -750,15 +730,6 @@ SUMMARY:🏓 Bernadette SZOCS 🇷🇴 - 🇺🇦 Margaryta PESOTSKA
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T090000Z-badminton--G--CZE-UKR
-DTSTAMP:20240730T090000Z
-DTSTART:20240730T090000Z
-DTEND:20240730T100000Z
-DESCRIPTION:Бадминтон - Групповой этап, одиночный, группа G (ж)
-SUMMARY:🏸 Tereza SVABIKOVA 🇨🇿 - 🇺🇦 Polina BUHROVA
-LOCATION:Арена «Ла-Шапель»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240730T090000Z-swimming-200-
 DTSTAMP:20240730T090000Z
 DTSTART:20240730T090000Z
@@ -775,6 +746,15 @@ DESCRIPTION:Плавание - 200м баттерфляем, квалифика�
   Genki\n🇺🇸 Thomas HEILMAN\n🇹🇼 WANG Kuan-Hung
 SUMMARY:🏊 200м баттерфляем, квалификация (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T090000Z-badminton--G--CZE-UKR
+DTSTAMP:20240730T090000Z
+DTSTART:20240730T090000Z
+DTEND:20240730T100000Z
+DESCRIPTION:Бадминтон - Групповой этап, одиночный, группа G (ж)
+SUMMARY:🏸 Tereza SVABIKOVA 🇨🇿 - 🇺🇦 Polina BUHROVA
+LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T100000Z-tennis---GRE-UKR

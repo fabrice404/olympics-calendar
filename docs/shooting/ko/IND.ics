@@ -133,6 +133,17 @@ SUMMARY:🔫 혼성 단체 10m 공기권총  예선
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T073000Z-shooting--10M-
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T081500Z
+DESCRIPTION:사격 - 여자 10m 공기소총 결승\n🇰🇿 Alexandra Le\n🇨🇭 Audrey
+  GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg
+  DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
+SUMMARY:🔫 여자 10m 공기소총 결승
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T073000Z-shooting--1
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
@@ -152,17 +163,6 @@ SUMMARY:🔫 남자 트랩 예선 - 1일차
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T073000Z-shooting--10M-
-DTSTAMP:20240729T073000Z
-DTSTART:20240729T073000Z
-DTEND:20240729T081500Z
-DESCRIPTION:사격 - 여자 10m 공기소총 결승\n🇰🇿 Alexandra Le\n🇨🇭 Audrey
-  GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg
-  DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
-SUMMARY:🔫 여자 10m 공기소총 결승
-LOCATION:샤토루 사격 센터
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T100000Z-shooting--10M-
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
@@ -171,25 +171,6 @@ DESCRIPTION:사격 - 남자 10m 공기소총 결승\n🇮🇳 Arjun BABUTA\n🇰
   Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo Julian GUTIERREZ\n🇭🇷 Miran
   MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG Lihao\n🇸🇪 Victor LINDGREN
 SUMMARY:🔫 남자 10m 공기소총 결승
-LOCATION:샤토루 사격 센터
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T070000Z-shooting--1
-DTSTAMP:20240730T070000Z
-DTSTART:20240730T070000Z
-DTEND:20240730T120000Z
-DESCRIPTION:사격 - 여자 트랩 예선 - 1일차\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
-  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
-  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
-  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
-  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
-  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
-  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
-  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
-  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
-  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
-  STEFECEKOVA
-SUMMARY:🔫 여자 트랩 예선 - 1일차
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
@@ -209,6 +190,25 @@ DESCRIPTION:사격 - 남자 트랩 예선 - 2일차\n🇪🇸 Alberto FERNANDEZ\
   Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
   Haicheng
 SUMMARY:🔫 남자 트랩 예선 - 2일차
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T070000Z-shooting--1
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T120000Z
+DESCRIPTION:사격 - 여자 트랩 예선 - 1일차\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
+  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
+  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
+  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
+  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
+  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
+  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
+  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
+  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
+  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
+  STEFECEKOVA
+SUMMARY:🔫 여자 트랩 예선 - 1일차
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT

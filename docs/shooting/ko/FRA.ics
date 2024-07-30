@@ -122,6 +122,17 @@ SUMMARY:🔫 혼성 단체 10m 공기권총  예선
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T073000Z-shooting--10M-
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T081500Z
+DESCRIPTION:사격 - 여자 10m 공기소총 결승\n🇰🇿 Alexandra Le\n🇨🇭 Audrey
+  GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg
+  DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
+SUMMARY:🔫 여자 10m 공기소총 결승
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T073000Z-shooting--1
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
@@ -141,14 +152,22 @@ SUMMARY:🔫 남자 트랩 예선 - 1일차
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T073000Z-shooting--10M-
-DTSTAMP:20240729T073000Z
-DTSTART:20240729T073000Z
-DTEND:20240729T081500Z
-DESCRIPTION:사격 - 여자 10m 공기소총 결승\n🇰🇿 Alexandra Le\n🇨🇭 Audrey
-  GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg
-  DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
-SUMMARY:🔫 여자 10m 공기소총 결승
+UID:20240730T070000Z-shooting--2
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T100000Z
+DESCRIPTION:사격 - 남자 트랩 예선 - 2일차\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
+  GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
+  LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
+  PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
+  LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel MARTINEZ\n🇸🇰 Marian
+  KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹 Mauro de FILIPPIS\n🇦🇺
+  Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧 Nathan HALES\n🇹🇷 Oguzhan
+  TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪
+  Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
+  Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
+  Haicheng
+SUMMARY:🔫 남자 트랩 예선 - 2일차
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
@@ -168,25 +187,6 @@ DESCRIPTION:사격 - 여자 트랩 예선 - 1일차\n🇬🇹 Adriana RUANO OLIV
   Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
   STEFECEKOVA
 SUMMARY:🔫 여자 트랩 예선 - 1일차
-LOCATION:샤토루 사격 센터
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T070000Z-shooting--2
-DTSTAMP:20240730T070000Z
-DTSTART:20240730T070000Z
-DTEND:20240730T100000Z
-DESCRIPTION:사격 - 남자 트랩 예선 - 2일차\n🇪🇸 Alberto FERNANDEZ\n🇪🇸 Andres
-  GARCIA\n🇺🇸 Derrick Scott MEIN\n🇲🇦 Driss HAFFARI\n🇩🇴 Eduardo Jose
-  LORENZO\n🇲🇹 Gianluca CHETCUTI\n🇭🇷 Giovanni CERNOGORAZ\n🇮🇹 Giovanni
-  PELLIELO\n🇦🇺 James WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇨🇿 Jiri
-  LIPTAK\n🇰🇼 Khaled ALMUDHAF\n🇻🇪 Leonel MARTINEZ\n🇸🇰 Marian
-  KOVACOCY\n🇬🇧 Matthew John COWARD-HOLLEY\n🇮🇹 Mauro de FILIPPIS\n🇦🇺
-  Mitchell ILES\n🇮🇷 Mohammad BEYRANVAND\n🇬🇧 Nathan HALES\n🇹🇷 Oguzhan
-  TUZUN\n🇳🇿 Owen ROBINSON\n🇮🇳 Prithviraj TONDAIMAN\n🇨🇳 QI Ying\n🇸🇪
-  Rickard LEVIN-ANDERSSON\n🇶🇦 Saeed ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷
-  Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
-  Haicheng
-SUMMARY:🔫 남자 트랩 예선 - 2일차
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT

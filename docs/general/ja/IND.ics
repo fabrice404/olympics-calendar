@@ -71,6 +71,20 @@ SUMMARY:Paris 2024 - 開会式
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T070000Z-shooting-10M
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T073000Z
+DESCRIPTION:射撃 - 混合10mエアライフル団体本選\n🇦🇷 ARG\n🇦🇹 AUT\n🇨🇳 China 1\n🇨🇳
+  China 2\n🇨🇿 CZE\n🇪🇬 EGY\n🇪🇬 Egypt 1\n🇫🇷 France 1\n🇫🇷 France
+  2\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇳 India 1\n🇮🇳 India 2\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇰🇿 Kazakhstan 1\n🇰🇿 Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷
+  Korea 2\n🇲🇽 MEX\n🇲🇳 MGL\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland
+  1\n🇵🇱 Poland 2\n🇺🇸 United States 1\n🇺🇸 United States 2
+SUMMARY:🔫 混合10mエアライフル団体本選
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
@@ -88,20 +102,6 @@ DESCRIPTION:ローイング - 男子シングルスカル予選\n🇯🇵 ARAKAW
   NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
 SUMMARY:🚣 男子シングルスカル予選
 LOCATION:ノーティカル ST - フラットウォーター
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T070000Z-shooting-10M
-DTSTAMP:20240727T070000Z
-DTSTART:20240727T070000Z
-DTEND:20240727T073000Z
-DESCRIPTION:射撃 - 混合10mエアライフル団体本選\n🇦🇷 ARG\n🇦🇹 AUT\n🇨🇳 China 1\n🇨🇳
-  China 2\n🇨🇿 CZE\n🇪🇬 EGY\n🇪🇬 Egypt 1\n🇫🇷 France 1\n🇫🇷 France
-  2\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇳 India 1\n🇮🇳 India 2\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇰🇿 Kazakhstan 1\n🇰🇿 Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷
-  Korea 2\n🇲🇽 MEX\n🇲🇳 MGL\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland
-  1\n🇵🇱 Poland 2\n🇺🇸 United States 1\n🇺🇸 United States 2
-SUMMARY:🔫 混合10mエアライフル団体本選
-LOCATION:シャトールー射撃センター
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T083000Z-shooting-10M
@@ -314,17 +314,6 @@ SUMMARY:🏊 男子100m背泳ぎ予選
 LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-shooting-10M
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T104500Z
-DESCRIPTION:射撃 - 女子10mエアピストル個人ファイナル\n🇨🇳 JIANG Ranxin\n🇰🇷 KIM Yeji\n🇨🇳
-  LI Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳
-  Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
-SUMMARY:🔫 女子10mエアピストル個人ファイナル
-LOCATION:シャトールー射撃センター
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T100000Z-swimming-200M
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
@@ -343,6 +332,17 @@ DESCRIPTION:競泳 - 女子200m自由形予選\n🇿🇦 Aimee CANNY\n🇨🇺 A
   DUMONT\n🇨🇳 YANG Junxuan
 SUMMARY:🏊 女子200m自由形予選
 LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-shooting-10M
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T104500Z
+DESCRIPTION:射撃 - 女子10mエアピストル個人ファイナル\n🇨🇳 JIANG Ranxin\n🇰🇷 KIM Yeji\n🇨🇳
+  LI Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳
+  Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
+SUMMARY:🔫 女子10mエアピストル個人ファイナル
+LOCATION:シャトールー射撃センター
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100000Z-tennis-1-FRA-IND
@@ -438,6 +438,17 @@ SUMMARY:🏸 MATSUYAMA/SHIDA 🇯🇵 - 🇮🇳 CRASTO/PONNAPPA
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T073000Z-shooting-10M
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T081500Z
+DESCRIPTION:射撃 - 女子10mエアライフル個人ファイナル\n🇰🇿 Alexandra Le\n🇨🇭 Audrey
+  GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg
+  DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
+SUMMARY:🔫 女子10mエアライフル個人ファイナル
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T073000Z-shooting--1
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
@@ -454,17 +465,6 @@ DESCRIPTION:射撃 - 男子トラップ個人本選 1日目\n🇪🇸 Alberto FE
   Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
   Haicheng
 SUMMARY:🔫 男子トラップ個人本選 1日目
-LOCATION:シャトールー射撃センター
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T073000Z-shooting-10M
-DTSTAMP:20240729T073000Z
-DTSTART:20240729T073000Z
-DTEND:20240729T081500Z
-DESCRIPTION:射撃 - 女子10mエアライフル個人ファイナル\n🇰🇿 Alexandra Le\n🇨🇭 Audrey
-  GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg
-  DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
-SUMMARY:🔫 女子10mエアライフル個人ファイナル
 LOCATION:シャトールー射撃センター
 END:VEVENT
 BEGIN:VEVENT

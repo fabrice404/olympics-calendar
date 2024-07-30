@@ -19,6 +19,15 @@ SUMMARY:🔫 Пневматическая винтовка 10м, квалифи�
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T083000Z-shooting--10--CHN-KOR
+DTSTAMP:20240727T083000Z
+DTSTART:20240727T083000Z
+DTEND:20240727T085000Z
+DESCRIPTION:Стрельба - Пневматическая винтовка 10м, золото (микст)
+SUMMARY:🔫 China 1 🇨🇳 - 🇰🇷 Korea 1
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T083000Z-shooting--10-
 DTSTAMP:20240727T083000Z
 DTSTART:20240727T083000Z
@@ -36,15 +45,6 @@ DESCRIPTION:Стрельба - Пневматический пистолет 10�
   LUNEV\n🇩🇿 Samir BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor
   BANKIN\n🇨🇳 XIE Yu\n🇹🇷 Yusuf DIKEC\n🇨🇳 ZHANG Bowen
 SUMMARY:🔫 Пневматический пистолет 10м, квалификация (м)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T083000Z-shooting--10--CHN-KOR
-DTSTAMP:20240727T083000Z
-DTSTART:20240727T083000Z
-DTEND:20240727T085000Z
-DESCRIPTION:Стрельба - Пневматическая винтовка 10м, золото (микст)
-SUMMARY:🔫 China 1 🇨🇳 - 🇰🇷 Korea 1
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
@@ -156,6 +156,18 @@ SUMMARY:🔫 Пневматический пистолет 10м, квалифи�
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T073000Z-shooting--10-
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T081500Z
+DESCRIPTION:Стрельба - Пневматическая винтовка 10м, финал (ж)\n🇰🇿
+  Alexandra Le\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG
+  Yuting\n🇳🇴 Jeanette Hegg DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
+  RAMITA\n🇺🇸 Sagen MADDALENA
+SUMMARY:🔫 Пневматическая винтовка 10м, финал (ж)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T073000Z-shooting--1-
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
@@ -175,18 +187,6 @@ SUMMARY:🔫 Трап, квалификация, день 1 (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T073000Z-shooting--10-
-DTSTAMP:20240729T073000Z
-DTSTART:20240729T073000Z
-DTEND:20240729T081500Z
-DESCRIPTION:Стрельба - Пневматическая винтовка 10м, финал (ж)\n🇰🇿
-  Alexandra Le\n🇨🇭 Audrey GOGNIAT\n🇰🇷 BAN Hyojin\n🇨🇳 HUANG
-  Yuting\n🇳🇴 Jeanette Hegg DUESTAD\n🇫🇷 Oceanne MULLER\n🇮🇳 Ramita
-  RAMITA\n🇺🇸 Sagen MADDALENA
-SUMMARY:🔫 Пневматическая винтовка 10м, финал (ж)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T100000Z-shooting--10-
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
@@ -196,25 +196,6 @@ DESCRIPTION:Стрельба - Пневматическая винтовка 10�
   Julian GUTIERREZ\n🇭🇷 Miran MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG
   Lihao\n🇸🇪 Victor LINDGREN
 SUMMARY:🔫 Пневматическая винтовка 10м, финал (м)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T070000Z-shooting--1-
-DTSTAMP:20240730T070000Z
-DTSTART:20240730T070000Z
-DTEND:20240730T120000Z
-DESCRIPTION:Стрельба - Трап, квалификация, день 1 (ж)\n🇬🇹 Adriana RUANO
-  OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole
-  CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica
-  ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi
-  Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸
-  Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya
-  DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny
-  SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray
-  BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi
-  SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰
-  Zuzana REHAK STEFECEKOVA
-SUMMARY:🔫 Трап, квалификация, день 1 (ж)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
@@ -234,6 +215,25 @@ DESCRIPTION:Стрельба - Трап, квалификация, день 2 (�
   ABUSHARIB\n🇴🇲 Said AL KHATRI\n🇫🇷 Sebastien GUERRERO\n🇺🇸 William
   HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU Haicheng
 SUMMARY:🔫 Трап, квалификация, день 2 (м)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T070000Z-shooting--1-
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T120000Z
+DESCRIPTION:Стрельба - Трап, квалификация, день 1 (ж)\n🇬🇹 Adriana RUANO
+  OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole
+  CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica
+  ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi
+  Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸
+  Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya
+  DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny
+  SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray
+  BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi
+  SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰
+  Zuzana REHAK STEFECEKOVA
+SUMMARY:🔫 Трап, квалификация, день 1 (ж)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT

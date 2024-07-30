@@ -41,19 +41,6 @@ SUMMARY:Paris 2024 - 개막식
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T070000Z-rowing--
-DTSTAMP:20240727T070000Z
-DTSTART:20240727T070000Z
-DTEND:20240727T080700Z
-DESCRIPTION:조정 - 남자 싱글스컬 예선\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇩🇰 덴마크\n🇩🇪
-  독일\n🇷🇴 루마니아\n🇱🇾 리비아\n🇱🇹 리투아니아\n🇲🇨 모나코\n🇺🇸 미국\n🇧🇲 버뮤다\n🇧🇪
-  벨기에\n🇧🇬 불가리아\n🇧🇷 브라질\n🇸🇩 수단\n🇸🇮 슬로베니아\n🇩🇿 알제리\n🇦🇴 앙골라\n🇺🇾
-  우루과이\n🇪🇬 이집트\n🇮🇳 인도\n🇮🇩 인도네시아\n🇯🇵 일본\n🇿🇼 짐바브웨\n🇰🇿 카자흐스탄\n🇨🇺
-  쿠바\n🇭🇷 크로아티아\n🇹🇭 태국\n🇹🇳 튀니지\n🇵🇾 파라과이\n🇭🇺 헝가리\n🇭🇰 홍콩, 차이나
-SUMMARY:🚣 남자 싱글스컬 예선
-LOCATION:카누 경기장 - 플랫워터
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T070000Z-shooting--10M-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
@@ -68,6 +55,25 @@ SUMMARY:🔫 혼성 단체 10m 공기소총  예선
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T070000Z-rowing--
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:조정 - 남자 싱글스컬 예선\n🇯🇵 ARAKAWA Ryuta\n🇸🇩 Abdalla AHMED\n🇪🇬
+  Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz
+  Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin
+  Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹 Giedrius
+  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
+  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
+  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
+  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
+  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
+SUMMARY:🚣 남자 싱글스컬 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T081200Z-judo--60KG-32--KAZ-NED
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
@@ -75,6 +81,15 @@ DTEND:20240727T081800Z
 DESCRIPTION:유도 - 남자 -60kg 32강 엘리미네이션 라운드
 SUMMARY:🥋 Yeldos SMETOV 🇰🇿 - 🇳🇱 Tornike TSJAKADOEA
 LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T083000Z-shooting--10M--KAZ-GER
+DTSTAMP:20240727T083000Z
+DTSTART:20240727T083000Z
+DTEND:20240727T085000Z
+DESCRIPTION:사격 - 혼성 단체 10m 공기소총 동메달 결정전
+SUMMARY:🔫 Kazakhstan 1 🇰🇿 - 🇩🇪 Germany
+LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T083000Z-shooting--10M-
@@ -94,15 +109,6 @@ DESCRIPTION:사격 - 남자 10m 공기권총 예선\n🇮🇳 Arjun Singh CHEEMA
   BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor BANKIN\n🇨🇳 XIE Yu\n🇹🇷
   Yusuf DIKEC\n🇨🇳 ZHANG Bowen
 SUMMARY:🔫 남자 10m 공기권총 예선
-LOCATION:샤토루 사격 센터
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T083000Z-shooting--10M--KAZ-GER
-DTSTAMP:20240727T083000Z
-DTSTART:20240727T083000Z
-DTEND:20240727T085000Z
-DESCRIPTION:사격 - 혼성 단체 10m 공기소총 동메달 결정전
-SUMMARY:🔫 Kazakhstan 1 🇰🇿 - 🇩🇪 Germany
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
@@ -293,9 +299,11 @@ UID:20240728T073600Z-rowing--
 DTSTAMP:20240728T073600Z
 DTSTART:20240728T073600Z
 DTEND:20240728T080700Z
-DESCRIPTION:조정 - 남자 싱글스컬 패자부활전\n🇱🇾 리비아\n🇲🇨 모나코\n🇧🇲 버뮤다\n🇸🇩 수단\n🇸🇮
-  슬로베니아\n🇩🇿 알제리\n🇦🇴 앙골라\n🇮🇳 인도\n🇮🇩 인도네시아\n🇿🇼 짐바브웨\n🇰🇿
-  카자흐스탄\n🇹🇭 태국\n🇹🇳 튀니지\n🇵🇾 파라과이\n🇭🇰 홍콩, 차이나
+DESCRIPTION:조정 - 남자 싱글스컬 패자부활전\n🇸🇩 Abdalla AHMED\n🇦🇴 Andre MATIAS\n🇮🇳
+  Balraj PANWAR\n🇭🇰 CHIU Hin Chun\n🇧🇲 Dara ALIZADEH\n🇸🇮 Isak Ivan
+  ZVEGELJ\n🇵🇾 Javier INSFRAN\n🇮🇩 MEMO\n🇱🇾 Mohamed BUKRAH\n🇹🇳
+  Mohamed TAIEB\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin ANTOGNELLI\n🇩🇿
+  Sid Ali BOUDINA\n🇿🇼 Stephen COX\n🇰🇿 Vladislav YAKOVLEV
 SUMMARY:🚣 남자 싱글스컬 패자부활전
 LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
@@ -542,11 +550,18 @@ UID:20240729T091300Z-swimming--100M-
 DTSTAMP:20240729T091300Z
 DTSTART:20240729T091300Z
 DTEND:20240729T092700Z
-DESCRIPTION:경영 - 여자 100m 배영 - 예선\n🇬🇹 과테말라\n🇳🇱 네덜란드\n🇩🇴 도미니카공화국\n🇱🇾
-  리비아\n🇲🇽 멕시코\n🇲🇿 모잠비크\n🇺🇸 미국\n🇧🇭 바레인\n🇧🇲 버뮤다\n🇧🇪 벨기에\n🇧🇬
-  불가리아\n🇱🇰 스리랑카\n🇸🇪 스웨덴\n🇪🇸 스페인\n🇮🇪 아일랜드\n🇸🇻 엘살바도르\n🇬🇧 영국\n🇦🇺
-  오스트레일리아\n🇺🇦 우크라이나\n🇮🇱 이스라엘\n🇨🇳 중국\n🇰🇿 카자흐스탄\n🇨🇦 캐나다\n🇹🇲
-  투르크메니스탄\n🇹🇹 트리니다드토바고\n🇵🇱 폴란드\n🇫🇷 프랑스\n🇭🇰 홍콩, 차이나
+DESCRIPTION:경영 - 여자 100m 배영 - 예선\n🇵🇱 Adela PISKORSKA\n🇧🇭 Amani
+  ALOBAIDLI\n🇮🇱 Aviv BARZELAY\n🇹🇲 Aynura PRIMOVA\n🇫🇷 Beryl
+  GASTALDELLO\n🇭🇰 CHEUNG Sum Yuet Cindy\n🇪🇸 Carmen WEILER SASTRE\n🇲🇽
+  Celia PULIDO ORTIZ\n🇸🇻 Celina MARQUEZ\n🇮🇪 Danielle HILL\n🇲🇿 Denise
+  DONELLI\n🇩🇴 Elizabeth JIMENEZ\n🇧🇲 Emma HARVEY\n🇫🇷 Emma TEREBO\n🇧🇬
+  Gabriela GEORGIEVA\n🇱🇰 Ganga SENAVIRATHNE\n🇨🇦 Ingrid WILM\n🇦🇺 Iona
+  ANDERSON\n🇺🇸 Katharine BERKOFF\n🇬🇧 Kathleen DAWSON\n🇦🇺 Kaylee
+  McKEOWN\n🇳🇱 Kira TOUSSAINT\n🇨🇦 Kylie MASSE\n🇸🇪 Louise HANSSON\n🇬🇹
+  Lucero MEJIA\n🇳🇱 Maaike de WAARD\n🇬🇧 Medi Eira HARRIS\n🇱🇾 Mek
+  ALMUKHTAR\n🇺🇦 Nika SHARAFUTDINOVA\n🇺🇸 Regan SMITH\n🇧🇪 Roos
+  VANOTTERDIJK\n🇨🇳 WAN Letian\n🇨🇳 WANG Xueer\n🇰🇿 Xeniya
+  IGNATOVA\n🇹🇹 Zuri FERGUSON
 SUMMARY:🏊 여자 100m 배영 - 예선
 LOCATION:파리 라 데팡스 아레나
 END:VEVENT

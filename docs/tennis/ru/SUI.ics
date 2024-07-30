@@ -4,21 +4,21 @@ PRODID:-//fabrice404//olympics-calendar//tennis/ru/SUI//EN
 X-WR-CALNAME:🇨🇭 Switzerland Теннис | Paris 2024
 NAME:🇨🇭 Switzerland Теннис | Paris 2024
 BEGIN:VEVENT
-UID:20240728T100000Z-tennis--
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T160000Z
-DESCRIPTION:Теннис - Первый раунд, одиночный разряд (м)\n🇨🇭 Stan WAWRINKA
-SUMMARY:🎾 Первый раунд, одиночный разряд (м)
-LOCATION:Стадион «Ролан Гаррос»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T100000Z-tennis---USA-SUI
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
 DTEND:20240728T143000Z
 DESCRIPTION:Теннис - Первый раунд, одиночный разряд (ж)
 SUMMARY:🎾 Jessica PEGULA 🇺🇸 - 🇨🇭 Viktorija GOLUBIC
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-tennis--
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T160000Z
+DESCRIPTION:Теннис - Первый раунд, одиночный разряд (м)\n🇨🇭 Stan WAWRINKA
+SUMMARY:🎾 Первый раунд, одиночный разряд (м)
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT

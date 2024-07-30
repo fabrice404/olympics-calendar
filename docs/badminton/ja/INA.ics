@@ -49,21 +49,21 @@ SUMMARY:🏸 CHEN/JIA 🇨🇳 - 🇮🇩 RAHAYU/RAMADHANTI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T120000Z-badminton--A-CHN-INA
-DTSTAMP:20240728T120000Z
-DTSTART:20240728T120000Z
-DTEND:20240728T124000Z
-DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
-SUMMARY:🏸 ZHENG/HUANG 🇨🇳 - 🇮🇩 RIVALDY/MENTARI
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T120000Z-badminton--H-INA-USA
 DTSTAMP:20240728T120000Z
 DTSTART:20240728T120000Z
 DTEND:20240728T124000Z
 DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループH
 SUMMARY:🏸 Anthony Sinisuka GINTING 🇮🇩 - 🇺🇸 Howard SHU
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T120000Z-badminton--A-CHN-INA
+DTSTAMP:20240728T120000Z
+DTSTART:20240728T120000Z
+DTEND:20240728T124000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
+SUMMARY:🏸 ZHENG/HUANG 🇨🇳 - 🇮🇩 RIVALDY/MENTARI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT

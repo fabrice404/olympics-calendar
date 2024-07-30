@@ -201,4 +201,28 @@ DESCRIPTION:Artistic Gymnastics - Men's All-Around Final\n🇵🇭 Carlos
 SUMMARY:🤸 Men's All-Around Final
 LOCATION:Bercy Arena
 END:VEVENT
+BEGIN:VEVENT
+UID:20240731T183000Z-swimming-WOMENS-100M-FREESTYLE-FINAL
+DTSTAMP:20240731T183000Z
+DTSTART:20240731T183000Z
+DTEND:20240731T183700Z
+DESCRIPTION:Swimming - Women's 100m Freestyle Final\n🇺🇸 Gretchen
+  WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇳🇱 Marrit STEENBERGEN\n🇦🇺
+  Mollie O'CALLAGHAN\n🇸🇪 Sarah SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Torri
+  HUSKE\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 Women's 100m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T203100Z-swimming-MENS-200M-BREASTSTROKE-FINAL
+DTSTAMP:20240731T203100Z
+DTSTART:20240731T203100Z
+DTEND:20240731T203900Z
+DESCRIPTION:Swimming - Men's 200m Breaststroke Final\n🇳🇱 Caspar
+  CORBEAU\n🇨🇳 DONG Zhihao\n🇯🇵 HANAGURUMA Yu\n🇺🇸 Josh MATHENY\n🇦🇺
+  Joshua YONG\n🇫🇷 Leon MARCHAND\n🇯🇵 WATANABE Ippei\n🇦🇺 Zac
+  STUBBLETY-COOK
+SUMMARY:🏊 Men's 200m Breaststroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
 END:VCALENDAR

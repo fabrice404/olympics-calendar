@@ -444,25 +444,6 @@ SUMMARY:🥊 Bazarbay Uulu MUKHAMMEDSABYR 🇰🇿 - 🇹🇼 LAI Chu En
 LOCATION:노스 파리 아레나
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T070000Z-shooting--1
-DTSTAMP:20240730T070000Z
-DTSTART:20240730T070000Z
-DTEND:20240730T120000Z
-DESCRIPTION:사격 - 여자 트랩 예선 - 1일차\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
-  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
-  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
-  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
-  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
-  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
-  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
-  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
-  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
-  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
-  STEFECEKOVA
-SUMMARY:🔫 여자 트랩 예선 - 1일차
-LOCATION:샤토루 사격 센터
-END:VEVENT
-BEGIN:VEVENT
 UID:20240730T070000Z-shooting--2
 DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
@@ -482,13 +463,23 @@ SUMMARY:🔫 남자 트랩 예선 - 2일차
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T090000Z-badminton--D-TPE-USA
-DTSTAMP:20240730T090000Z
-DTSTART:20240730T090000Z
-DTEND:20240730T100000Z
-DESCRIPTION:배드민턴 - 남자 복식 조별예선 - D조
-SUMMARY:🏸 LEE/WANG 🇹🇼 - 🇺🇸 CHIU/YUAN
-LOCATION:라 샤펠 아레나
+UID:20240730T070000Z-shooting--1
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T120000Z
+DESCRIPTION:사격 - 여자 트랩 예선 - 1일차\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
+  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
+  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
+  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
+  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
+  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
+  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
+  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
+  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
+  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
+  STEFECEKOVA
+SUMMARY:🔫 여자 트랩 예선 - 1일차
+LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T090000Z-swimming--200M-
@@ -516,6 +507,15 @@ DTEND:20240730T100000Z
 DESCRIPTION:탁구 - 남자 단식 32강
 SUMMARY:🏓 Andrej GACINA 🇭🇷 - 🇹🇼 LIN Yun-Ju
 LOCATION:사우스 파리 아레나 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T090000Z-badminton--D-TPE-USA
+DTSTAMP:20240730T090000Z
+DTSTART:20240730T090000Z
+DTEND:20240730T100000Z
+DESCRIPTION:배드민턴 - 남자 복식 조별예선 - D조
+SUMMARY:🏸 LEE/WANG 🇹🇼 - 🇺🇸 CHIU/YUAN
+LOCATION:라 샤펠 아레나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T101300Z-archery--64--FIN-TPE

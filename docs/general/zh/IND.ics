@@ -70,6 +70,20 @@ SUMMARY:Paris 2024 - 开幕式
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T070000Z-shooting-10
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T073000Z
+DESCRIPTION:射击 - 混合团体10米气步枪资格赛\n🇦🇷 ARG\n🇦🇹 AUT\n🇨🇳 China 1\n🇨🇳
+  China 2\n🇨🇿 CZE\n🇪🇬 EGY\n🇪🇬 Egypt 1\n🇫🇷 France 1\n🇫🇷 France
+  2\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇳 India 1\n🇮🇳 India 2\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇰🇿 Kazakhstan 1\n🇰🇿 Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷
+  Korea 2\n🇲🇽 MEX\n🇲🇳 MGL\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland
+  1\n🇵🇱 Poland 2\n🇺🇸 United States 1\n🇺🇸 United States 2
+SUMMARY:🔫 混合团体10米气步枪资格赛
+LOCATION:沙托鲁射击中心
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
@@ -87,20 +101,6 @@ DESCRIPTION:赛艇 - 男子单人双桨分组预赛\n🇯🇵 ARAKAWA Ryuta\n�
   NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
 SUMMARY:🚣 男子单人双桨分组预赛
 LOCATION:马恩河畔韦尔水上体育场 - 静水
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T070000Z-shooting-10
-DTSTAMP:20240727T070000Z
-DTSTART:20240727T070000Z
-DTEND:20240727T073000Z
-DESCRIPTION:射击 - 混合团体10米气步枪资格赛\n🇦🇷 ARG\n🇦🇹 AUT\n🇨🇳 China 1\n🇨🇳
-  China 2\n🇨🇿 CZE\n🇪🇬 EGY\n🇪🇬 Egypt 1\n🇫🇷 France 1\n🇫🇷 France
-  2\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇳 India 1\n🇮🇳 India 2\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇰🇿 Kazakhstan 1\n🇰🇿 Kazakhstan 2\n🇰🇷 Korea 1\n🇰🇷
-  Korea 2\n🇲🇽 MEX\n🇲🇳 MGL\n🇳🇴 Norway 1\n🇳🇴 Norway 2\n🇵🇱 Poland
-  1\n🇵🇱 Poland 2\n🇺🇸 United States 1\n🇺🇸 United States 2
-SUMMARY:🔫 混合团体10米气步枪资格赛
-LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T083000Z-shooting-10
@@ -312,17 +312,6 @@ SUMMARY:🏊 男子100米仰泳分组预赛
 LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-shooting-10
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T104500Z
-DESCRIPTION:射击 - 女子10米气手枪决赛\n🇨🇳 JIANG Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI
-  Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳
-  Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
-SUMMARY:🔫 女子10米气手枪决赛
-LOCATION:沙托鲁射击中心
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T100000Z-swimming-200
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
@@ -341,6 +330,17 @@ DESCRIPTION:游泳 - 女子200米自由泳分组预赛\n🇿🇦 Aimee CANNY\n�
   DUMONT\n🇨🇳 YANG Junxuan
 SUMMARY:🏊 女子200米自由泳分组预赛
 LOCATION:拉德芳斯体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-shooting-10
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T104500Z
+DESCRIPTION:射击 - 女子10米气手枪决赛\n🇨🇳 JIANG Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI
+  Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳
+  Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
+SUMMARY:🔫 女子10米气手枪决赛
+LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T100000Z-tennis-1-FRA-IND
@@ -436,6 +436,17 @@ SUMMARY:🏸 MATSUYAMA/SHIDA 🇯🇵 - 🇮🇳 CRASTO/PONNAPPA
 LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T073000Z-shooting-10
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T081500Z
+DESCRIPTION:射击 - 女子10米气步枪决赛\n🇰🇿 Alexandra Le\n🇨🇭 Audrey GOGNIAT\n🇰🇷
+  BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg DUESTAD\n🇫🇷 Oceanne
+  MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
+SUMMARY:🔫 女子10米气步枪决赛
+LOCATION:沙托鲁射击中心
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T073000Z-shooting--1
 DTSTAMP:20240729T073000Z
 DTSTART:20240729T073000Z
@@ -452,17 +463,6 @@ DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第1天\n🇪🇸 Alberto FER
   Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
   Haicheng
 SUMMARY:🔫 男子多向飞碟资格赛 - 第1天
-LOCATION:沙托鲁射击中心
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T073000Z-shooting-10
-DTSTAMP:20240729T073000Z
-DTSTART:20240729T073000Z
-DTEND:20240729T081500Z
-DESCRIPTION:射击 - 女子10米气步枪决赛\n🇰🇿 Alexandra Le\n🇨🇭 Audrey GOGNIAT\n🇰🇷
-  BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg DUESTAD\n🇫🇷 Oceanne
-  MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
-SUMMARY:🔫 女子10米气步枪决赛
 LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
@@ -513,25 +513,6 @@ SUMMARY:🏓 Prithika PAVADE 🇫🇷 - 🇮🇳 Manika BATRA
 LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T070000Z-shooting--1
-DTSTAMP:20240730T070000Z
-DTSTART:20240730T070000Z
-DTEND:20240730T120000Z
-DESCRIPTION:射击 - 女子多向飞碟资格赛 - 第1天\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
-  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
-  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
-  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
-  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
-  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
-  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
-  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
-  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
-  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
-  STEFECEKOVA
-SUMMARY:🔫 女子多向飞碟资格赛 - 第1天
-LOCATION:沙托鲁射击中心
-END:VEVENT
-BEGIN:VEVENT
 UID:20240730T070000Z-shooting--2
 DTSTAMP:20240730T070000Z
 DTSTART:20240730T070000Z
@@ -548,6 +529,25 @@ DESCRIPTION:射击 - 男子多向飞碟资格赛 - 第2天\n🇪🇸 Alberto FER
   Sebastien GUERRERO\n🇺🇸 William HINTON\n🇹🇼 YANG Kun-Pi\n🇨🇳 YU
   Haicheng
 SUMMARY:🔫 男子多向飞碟资格赛 - 第2天
+LOCATION:沙托鲁射击中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T070000Z-shooting--1
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T120000Z
+DESCRIPTION:射击 - 女子多向飞碟资格赛 - 第1天\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
+  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
+  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
+  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
+  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
+  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
+  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
+  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
+  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
+  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
+  STEFECEKOVA
+SUMMARY:🔫 女子多向飞碟资格赛 - 第1天
 LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT

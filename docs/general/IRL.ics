@@ -170,6 +170,15 @@ SUMMARY:🏊 Women's 4 x 100m Freestyle Relay - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T130000Z-rugby-sevens-MENS-PLACING-5-8-IRL-USA
+DTSTAMP:20240727T130000Z
+DTSTART:20240727T130000Z
+DTEND:20240727T131600Z
+DESCRIPTION:Rugby Sevens - Men's Placing 5-8
+SUMMARY:🏉 IRL 🇮🇪 - 🇺🇸 USA
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T130000Z-canoe-slalom-MENS-CANOE-SINGLE-HEATS-1ST-RUN
 DTSTAMP:20240727T130000Z
 DTSTART:20240727T130000Z
@@ -183,15 +192,6 @@ DESCRIPTION:Canoe Slalom - Men's Canoe Single Heats 1st Run\n🇬🇧 Adam
   TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
 SUMMARY:🛶 Men's Canoe Single Heats 1st Run
 LOCATION:Nautical St - White water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T130000Z-rugby-sevens-MENS-PLACING-5-8-IRL-USA
-DTSTAMP:20240727T130000Z
-DTSTART:20240727T130000Z
-DTEND:20240727T131600Z
-DESCRIPTION:Rugby Sevens - Men's Placing 5-8
-SUMMARY:🏉 IRL 🇮🇪 - 🇺🇸 USA
-LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T140000Z-canoe-slalom-WOMENS-KAYAK-SINGLE-HEATS-1ST-RUN
@@ -290,6 +290,17 @@ SUMMARY:🏸 Nhat NGUYEN 🇮🇪 - 🇮🇱 Misha ZILBERMAN
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T083000Z-rowing-WOMENS-PAIR-HEATS
+DTSTAMP:20240728T083000Z
+DTSTART:20240728T083000Z
+DTEND:20240728T085700Z
+DESCRIPTION:Rowing - Women's Pair Heats\n🇦🇺 AUS\n🇨🇱 CHI\n🇨🇿 CZE\n🇩🇰
+  DEN\n🇬🇧 GBR\n🇬🇷 GRE\n🇮🇪 IRL\n🇱🇹 LTU\n🇳🇱 NED\n🇳🇿 NZL\n🇷🇴
+  ROU\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🚣 Women's Pair Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T083000Z-equestrian-EVENTING-INDIVIDUAL-CROSS-COUNTRY
 DTSTAMP:20240728T083000Z
 DTSTART:20240728T083000Z
@@ -328,17 +339,6 @@ DESCRIPTION:Equestrian - Eventing Team Cross Country\n🇦🇺 AUS\n🇧🇪
   ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇸🇪 SWE\n🇨🇭 SUI\n🇺🇸 USA
 SUMMARY:🏇 Eventing Team Cross Country
 LOCATION:Château de Versailles
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T083000Z-rowing-WOMENS-PAIR-HEATS
-DTSTAMP:20240728T083000Z
-DTSTART:20240728T083000Z
-DTEND:20240728T085700Z
-DESCRIPTION:Rowing - Women's Pair Heats\n🇦🇺 AUS\n🇨🇱 CHI\n🇨🇿 CZE\n🇩🇰
-  DEN\n🇬🇧 GBR\n🇬🇷 GRE\n🇮🇪 IRL\n🇱🇹 LTU\n🇳🇱 NED\n🇳🇿 NZL\n🇷🇴
-  ROU\n🇪🇸 ESP\n🇺🇸 USA
-SUMMARY:🚣 Women's Pair Heats
-LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T090000Z-rowing-MENS-PAIR-HEATS
@@ -518,6 +518,31 @@ SUMMARY:🏑 IRL 🇮🇪 - 🇦🇺 AUS
 LOCATION:Yves-du-Manoir Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240729T090000Z-swimming-WOMENS-400M-INDIVIDUAL-MEDLEY-HEATS
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T091200Z
+DESCRIPTION:Swimming - Women's 400m Individual Medley - Heats\n🇮🇱
+  Anastasia GORBENKO\n🇷🇸 Anja CREVAR\n🇨🇦 Ella JANSEN\n🇦🇺 Ella
+  RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇺🇸 Emma
+  WEYANT\n🇬🇧 Freya Constance COLBERT\n🇦🇺 Jenna FORRESTER\n🇺🇸 Katie
+  GRIMES\n🇬🇧 Katie SHANAHAN\n🇯🇵 NARITA Mio\n🇮🇹 Sara FRANCESCHI\n🇨🇦
+  Summer McINTOSH\n🇯🇵 TANIGAWA Ageha\n🇭🇺 Vivien JACKL
+SUMMARY:🏊 Women's 400m Individual Medley - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-rowing-LIGHTWEIGHT-WOMENS-DOUBLE-SCULLS-REPECHAGES
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T091700Z
+DESCRIPTION:Rowing - Lightweight Women's Double Sculls Repechages\n🇦🇷
+  ARG\n🇦🇹 AUT\n🇨🇦 CAN\n🇨🇳 CHN\n🇮🇷 IR Iran\n🇮🇪 IRL\n🇯🇵 JPN\n🇵🇪
+  PER\n🇵🇱 POL\n🇹🇳 TUN
+SUMMARY:🚣 Lightweight Women's Double Sculls Repechages
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T090000Z-equestrian-EVENTING-INDIVIDUAL-JUMPING-QUALIFIER
 DTSTAMP:20240729T090000Z
 DTSTART:20240729T090000Z
@@ -555,31 +580,6 @@ DESCRIPTION:Equestrian - Eventing Team Jumping Final\n🇦🇺 AUS\n🇧🇪
   ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇸🇪 SWE\n🇨🇭 SUI\n🇺🇸 USA
 SUMMARY:🏇 Eventing Team Jumping Final
 LOCATION:Château de Versailles
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T090000Z-rowing-LIGHTWEIGHT-WOMENS-DOUBLE-SCULLS-REPECHAGES
-DTSTAMP:20240729T090000Z
-DTSTART:20240729T090000Z
-DTEND:20240729T091700Z
-DESCRIPTION:Rowing - Lightweight Women's Double Sculls Repechages\n🇦🇷
-  ARG\n🇦🇹 AUT\n🇨🇦 CAN\n🇨🇳 CHN\n🇮🇷 IR Iran\n🇮🇪 IRL\n🇯🇵 JPN\n🇵🇪
-  PER\n🇵🇱 POL\n🇹🇳 TUN
-SUMMARY:🚣 Lightweight Women's Double Sculls Repechages
-LOCATION:Nautical St - Flat water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T090000Z-swimming-WOMENS-400M-INDIVIDUAL-MEDLEY-HEATS
-DTSTAMP:20240729T090000Z
-DTSTART:20240729T090000Z
-DTEND:20240729T091200Z
-DESCRIPTION:Swimming - Women's 400m Individual Medley - Heats\n🇮🇱
-  Anastasia GORBENKO\n🇷🇸 Anja CREVAR\n🇨🇦 Ella JANSEN\n🇦🇺 Ella
-  RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇺🇸 Emma
-  WEYANT\n🇬🇧 Freya Constance COLBERT\n🇦🇺 Jenna FORRESTER\n🇺🇸 Katie
-  GRIMES\n🇬🇧 Katie SHANAHAN\n🇯🇵 NARITA Mio\n🇮🇹 Sara FRANCESCHI\n🇨🇦
-  Summer McINTOSH\n🇯🇵 TANIGAWA Ageha\n🇭🇺 Vivien JACKL
-SUMMARY:🏊 Women's 400m Individual Medley - Heats
-LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T091300Z-swimming-WOMENS-100M-BACKSTROKE-HEATS
@@ -836,6 +836,15 @@ SUMMARY:⛵ Men's Skiff - Race 7
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240730T130000Z-rugby-sevens-WOMENS-PLACING-5-8-FRA-IRL
+DTSTAMP:20240730T130000Z
+DTSTART:20240730T130000Z
+DTEND:20240730T131600Z
+DESCRIPTION:Rugby Sevens - Women's Placing 5-8
+SUMMARY:🏉 FRA 🇫🇷 - 🇮🇪 IRL
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240730T130000Z-canoe-slalom-WOMENS-CANOE-SINGLE-HEATS-1ST-RUN
 DTSTAMP:20240730T130000Z
 DTSTART:20240730T130000Z
@@ -850,15 +859,6 @@ DESCRIPTION:Canoe Slalom - Women's Canoe Single Heats 1st Run\n🇨🇭 Alena
   PANKOVA
 SUMMARY:🛶 Women's Canoe Single Heats 1st Run
 LOCATION:Nautical St - White water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T130000Z-rugby-sevens-WOMENS-PLACING-5-8-FRA-IRL
-DTSTAMP:20240730T130000Z
-DTSTART:20240730T130000Z
-DTEND:20240730T131600Z
-DESCRIPTION:Rugby Sevens - Women's Placing 5-8
-SUMMARY:🏉 FRA 🇫🇷 - 🇮🇪 IRL
-LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240730T132700Z-sailing-MENS-SKIFF-RACE-8

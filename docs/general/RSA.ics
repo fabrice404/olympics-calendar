@@ -332,22 +332,6 @@ SUMMARY:🏊 Men's 100m Backstroke - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T100000Z-skateboarding-WOMENS-STREET-PRELIMS
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T135000Z
-DESCRIPTION:Skateboarding - Women's Street Prelims\n🇯🇵 AKAMA Liz\n🇿🇦
-  Boipelo AWUAH\n🇨🇳 CUI Chenxi\n🇦🇺 Chloe COVELL\n🇪🇸 Daniela
-  TEROL\n🇧🇷 Gabi MAZETTO\n🇦🇺 Haylie POWELL\n🇳🇱 Keet
-  OLDENBEUVING\n🇦🇺 Liv LOVELACE\n🇫🇷 Lucie SCHOONHEERE\n🇺🇸 Mariah
-  DURAN\n🇯🇵 NAKAYAMA Funa\n🇪🇸 Natalia MUNOZ\n🇺🇸 Paige HEYN\n🇧🇷
-  Pamela ROSA\n🇺🇸 Poe PINSON\n🇧🇷 Rayssa LEAL\n🇳🇱 Roos ZWETSLOOT\n🇹🇭
-  Vareeraya SUKASEM\n🇯🇵 YOSHIZAWA Coco\n🇨🇳 ZENG Wenhui\n🇨🇳 ZHU
-  Yuanling
-SUMMARY:🛹 Women's Street Prelims
-LOCATION:La Concorde 3
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T100000Z-swimming-WOMENS-200M-FREESTYLE-HEATS
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
@@ -366,6 +350,22 @@ DESCRIPTION:Swimming - Women's 200m Freestyle - Heats\n🇿🇦 Aimee
   JORUNNARDOTTIR\n🇧🇪 Valentine DUMONT\n🇨🇳 YANG Junxuan
 SUMMARY:🏊 Women's 200m Freestyle - Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T100000Z-skateboarding-WOMENS-STREET-PRELIMS
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T135000Z
+DESCRIPTION:Skateboarding - Women's Street Prelims\n🇯🇵 AKAMA Liz\n🇿🇦
+  Boipelo AWUAH\n🇨🇳 CUI Chenxi\n🇦🇺 Chloe COVELL\n🇪🇸 Daniela
+  TEROL\n🇧🇷 Gabi MAZETTO\n🇦🇺 Haylie POWELL\n🇳🇱 Keet
+  OLDENBEUVING\n🇦🇺 Liv LOVELACE\n🇫🇷 Lucie SCHOONHEERE\n🇺🇸 Mariah
+  DURAN\n🇯🇵 NAKAYAMA Funa\n🇪🇸 Natalia MUNOZ\n🇺🇸 Paige HEYN\n🇧🇷
+  Pamela ROSA\n🇺🇸 Poe PINSON\n🇧🇷 Rayssa LEAL\n🇳🇱 Roos ZWETSLOOT\n🇹🇭
+  Vareeraya SUKASEM\n🇯🇵 YOSHIZAWA Coco\n🇨🇳 ZENG Wenhui\n🇨🇳 ZHU
+  Yuanling
+SUMMARY:🛹 Women's Street Prelims
+LOCATION:La Concorde 3
 END:VEVENT
 BEGIN:VEVENT
 UID:20240728T104500Z-hockey-WOMENS-POOL-B-AUS-RSA
@@ -539,15 +539,6 @@ SUMMARY:🛹 Men's Street Prelims
 LOCATION:La Concorde 3
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T120000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-H-MAS-
-DTSTAMP:20240729T120000Z
-DTSTART:20240729T120000Z
-DTEND:20240729T124000Z
-DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group H
-SUMMARY:🏸 Jin Wei GOH 🇲🇾 - 🇿🇦 Johanita SCHOLTZ
-LOCATION:La Chapelle Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T120000Z-rugby-sevens-WOMENS-POOL-B-GBR-RSA
 DTSTAMP:20240729T120000Z
 DTSTART:20240729T120000Z
@@ -555,6 +546,15 @@ DTEND:20240729T121600Z
 DESCRIPTION:Rugby Sevens - Women's Pool B
 SUMMARY:🏉 GBR 🇬🇧 - 🇿🇦 RSA
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T120000Z-badminton-WOMENS-SINGLES-GROUP-PLAY-STAGE-GROUP-H-MAS-
+DTSTAMP:20240729T120000Z
+DTSTART:20240729T120000Z
+DTEND:20240729T124000Z
+DESCRIPTION:Badminton - Women's Singles Group Play Stage - Group H
+SUMMARY:🏸 Jin Wei GOH 🇲🇾 - 🇿🇦 Johanita SCHOLTZ
+LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T121000Z-cycling-mountain-bike-MENS-CROSS-COUNTRY

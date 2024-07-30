@@ -4,21 +4,21 @@ PRODID:-//fabrice404//olympics-calendar//fencing/ja/EGY//EN
 X-WR-CALNAME:🇪🇬 Egypt フェンシング | Paris 2024
 NAME:🇪🇬 Egypt フェンシング | Paris 2024
 BEGIN:VEVENT
-UID:20240727T080000Z-fencing-T64-EGY-EGY
-DTSTAMP:20240727T080000Z
-DTSTART:20240727T080000Z
-DTEND:20240727T082500Z
-DESCRIPTION:フェンシング - 女子エペ個人T64
-SUMMARY:🤺 Nardin EHAB 🇪🇬 - 🇪🇬 Shirwit GABER
-LOCATION:グラン・パレ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T080000Z-fencing-T64-EGY-SEN
 DTSTAMP:20240727T080000Z
 DTSTART:20240727T080000Z
 DTEND:20240727T082500Z
 DESCRIPTION:フェンシング - 女子エペ個人T64
 SUMMARY:🤺 Aya HUSSEIN 🇪🇬 - 🇸🇳 Ndeye Bineta DIONGUE
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T080000Z-fencing-T64-EGY-EGY
+DTSTAMP:20240727T080000Z
+DTSTART:20240727T080000Z
+DTEND:20240727T082500Z
+DESCRIPTION:フェンシング - 女子エペ個人T64
+SUMMARY:🤺 Nardin EHAB 🇪🇬 - 🇪🇬 Shirwit GABER
 LOCATION:グラン・パレ
 END:VEVENT
 BEGIN:VEVENT
@@ -76,21 +76,21 @@ SUMMARY:🤺 Sandro BAZADZE 🇬🇪 - 🇪🇬 Mohamed AMER
 LOCATION:グラン・パレ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T141500Z-fencing--1-GER-EGY
-DTSTAMP:20240727T141500Z
-DTSTART:20240727T141500Z
-DTEND:20240727T144000Z
-DESCRIPTION:フェンシング - 男子サーブル個人準々決勝 1
-SUMMARY:🤺 Matyas SZABO 🇩🇪 - 🇪🇬 Ziad ELSISSY
-LOCATION:グラン・パレ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T141500Z-fencing--4-ITA-EGY
 DTSTAMP:20240727T141500Z
 DTSTART:20240727T141500Z
 DTEND:20240727T144000Z
 DESCRIPTION:フェンシング - 男子サーブル個人準々決勝 4
 SUMMARY:🤺 Luigi SAMELE 🇮🇹 - 🇪🇬 Mohamed AMER
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T141500Z-fencing--1-GER-EGY
+DTSTAMP:20240727T141500Z
+DTSTART:20240727T141500Z
+DTEND:20240727T144000Z
+DESCRIPTION:フェンシング - 男子サーブル個人準々決勝 1
+SUMMARY:🤺 Matyas SZABO 🇩🇪 - 🇪🇬 Ziad ELSISSY
 LOCATION:グラン・パレ
 END:VEVENT
 BEGIN:VEVENT

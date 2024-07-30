@@ -42,25 +42,6 @@ SUMMARY:Paris 2024 - Церемония открытия
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T070000Z-rowing--
-DTSTAMP:20240727T070000Z
-DTSTART:20240727T070000Z
-DTEND:20240727T080700Z
-DESCRIPTION:Академическая гребля - Одиночки, заезды (м)\n🇯🇵 ARAKAWA
-  Ryuta\n🇸🇩 Abdalla AHMED\n🇪🇬 Abdelkhalek ELBANNA\n🇦🇴 Andre
-  MATIAS\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾
-  Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara
-  ALIZADEH\n🇱🇹 Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob
-  PLIHAL\n🇵🇾 Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN
-  FERREIRA\n🇮🇩 MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳
-  Mohamed TAIEB\n🇩🇪 Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨
-  Quentin ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱
-  Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
-  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
-SUMMARY:🚣 Одиночки, заезды (м)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
 UID:20240727T070000Z-shooting--10-1-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
@@ -76,6 +57,22 @@ SUMMARY:🔫 Пневматическая винтовка 10м, квалифи�
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240727T070000Z-rowing--
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:Академическая гребля - Одиночки, заезды (м)\n🇩🇿 Алжир\n🇦🇴
+  Ангола\n🇧🇪 Бельгия\n🇧🇲 Бермудские острова\n🇧🇬 Болгария\n🇧🇷
+  Бразилия\n🇭🇺 Венгрия\n🇩🇪 Германия\n🇭🇰 Гонконг, Китай\n🇬🇷
+  Греция\n🇩🇰 Дания\n🇪🇬 Египет\n🇿🇼 Зимбабве\n🇮🇳 Индия\n🇮🇩
+  Индонезия\n🇰🇿 Казахстан\n🇨🇺 Куба\n🇱🇾 Ливия\n🇱🇹 Литва\n🇲🇨
+  Монако\n🇳🇱 Нидерланды\n🇳🇿 Новая Зеландия\n🇵🇾 Парагвай\n🇷🇴
+  Румыния\n🇺🇸 США\n🇸🇮 Словения\n🇸🇩 Судан\n🇹🇭 Таиланд\n🇹🇳
+  Тунис\n🇺🇾 Уругвай\n🇭🇷 Хорватия\n🇯🇵 Япония
+SUMMARY:🚣 Одиночки, заезды (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240727T081200Z-judo-116-60--KAZ-NED
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
@@ -83,6 +80,15 @@ DTEND:20240727T081800Z
 DESCRIPTION:Дзюдо - 1/16 финала, до 60кг (м)
 SUMMARY:🥋 Yeldos SMETOV 🇰🇿 - 🇳🇱 Tornike TSJAKADOEA
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T083000Z-shooting--10--KAZ-GER
+DTSTAMP:20240727T083000Z
+DTSTART:20240727T083000Z
+DTEND:20240727T085000Z
+DESCRIPTION:Стрельба - Пневматическая винтовка 10м, бронза (микст)
+SUMMARY:🔫 Kazakhstan 1 🇰🇿 - 🇩🇪 Germany
+LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
 UID:20240727T083000Z-shooting--10-
@@ -102,15 +108,6 @@ DESCRIPTION:Стрельба - Пневматический пистолет 10�
   LUNEV\n🇩🇿 Samir BOUCHIREB\n🇮🇳 Sarabjot SINGH\n🇺🇦 Viktor
   BANKIN\n🇨🇳 XIE Yu\n🇹🇷 Yusuf DIKEC\n🇨🇳 ZHANG Bowen
 SUMMARY:🔫 Пневматический пистолет 10м, квалификация (м)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T083000Z-shooting--10--KAZ-GER
-DTSTAMP:20240727T083000Z
-DTSTART:20240727T083000Z
-DTEND:20240727T085000Z
-DESCRIPTION:Стрельба - Пневматическая винтовка 10м, бронза (микст)
-SUMMARY:🔫 Kazakhstan 1 🇰🇿 - 🇩🇪 Germany
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
@@ -302,12 +299,11 @@ UID:20240728T073600Z-rowing--
 DTSTAMP:20240728T073600Z
 DTSTART:20240728T073600Z
 DTEND:20240728T080700Z
-DESCRIPTION:Академическая гребля - Одиночки, утешительные заезды (м)\n🇸🇩
-  Abdalla AHMED\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj PANWAR\n🇭🇰 CHIU Hin
-  Chun\n🇧🇲 Dara ALIZADEH\n🇸🇮 Isak Ivan ZVEGELJ\n🇵🇾 Javier
-  INSFRAN\n🇮🇩 MEMO\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇹🇭
-  Premanut WATTANANUSITH\n🇲🇨 Quentin ANTOGNELLI\n🇩🇿 Sid Ali
-  BOUDINA\n🇿🇼 Stephen COX\n🇰🇿 Vladislav YAKOVLEV
+DESCRIPTION:Академическая гребля - Одиночки, утешительные заезды (м)\n🇩🇿
+  Алжир\n🇦🇴 Ангола\n🇧🇲 Бермудские острова\n🇭🇰 Гонконг, Китай\n🇿🇼
+  Зимбабве\n🇮🇳 Индия\n🇮🇩 Индонезия\n🇰🇿 Казахстан\n🇱🇾 Ливия\n🇲🇨
+  Монако\n🇵🇾 Парагвай\n🇸🇮 Словения\n🇸🇩 Судан\n🇹🇭 Таиланд\n🇹🇳
+  Тунис
 SUMMARY:🚣 Одиночки, утешительные заезды (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
