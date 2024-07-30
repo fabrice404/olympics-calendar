@@ -53,11 +53,17 @@ UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T080700Z
-DESCRIPTION:赛艇 - 男子单人双桨分组预赛\n🇭🇰 中国香港\n🇩🇰 丹麦\n🇺🇾 乌拉圭\n🇧🇬 保加利亚\n🇭🇷
-  克罗地亚\n🇱🇾 利比亚\n🇭🇺 匈牙利\n🇮🇳 印度\n🇮🇩 印度尼西亚\n🇨🇺 古巴\n🇰🇿 哈萨克斯坦\n🇪🇬
-  埃及\n🇦🇴 安哥拉\n🇵🇾 巴拉圭\n🇧🇷 巴西\n🇬🇷 希腊\n🇩🇪 德国\n🇲🇨 摩纳哥\n🇸🇮
-  斯洛文尼亚\n🇳🇿 新西兰\n🇯🇵 日本\n🇧🇪 比利时\n🇹🇭 泰国\n🇿🇼 津巴布韦\n🇧🇲 百慕大\n🇹🇳
-  突尼斯\n🇱🇹 立陶宛\n🇷🇴 罗马尼亚\n🇺🇸 美国\n🇸🇩 苏丹\n🇳🇱 荷兰\n🇩🇿 阿尔及利亚
+DESCRIPTION:赛艇 - 男子单人双桨分组预赛\n🇯🇵 ARAKAWA Ryuta\n🇸🇩 Abdalla AHMED\n🇪🇬
+  Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz
+  Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin
+  Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹 Giedrius
+  BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier
+  INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
+  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
+  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
+  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
 SUMMARY:🚣 男子单人双桨分组预赛
 LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
@@ -308,6 +314,17 @@ DESCRIPTION:帆船 - 男子帆船49人级 - 比赛12\n🇨🇦 BARNES/JONES\n�
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
 SUMMARY:⛵ 男子帆船49人级 - 比赛12
 LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-rowing--AB-1
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T075700Z
+DESCRIPTION:赛艇 - 男子单人双桨半决赛 A/B 1\n🇯🇵 ARAKAWA Ryuta\n🇺🇾 Bruno CETRARO
+  BERRIOLO\n🇱🇹 Giedrius BIELIAUSKAS\n🇳🇱 Simon van DORP\n🇳🇿 Thomas
+  MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 男子单人双桨半决赛 A/B 1
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T091700Z-swimming-200

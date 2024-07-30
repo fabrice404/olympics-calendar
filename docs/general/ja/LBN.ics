@@ -35,12 +35,18 @@ UID:20240728T092700Z-swimming-100M
 DTSTAMP:20240728T092700Z
 DTSTART:20240728T092700Z
 DTEND:20240728T094200Z
-DESCRIPTION:競泳 - 女子100m平泳ぎ予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇦🇷 アルゼンチン\n🇦🇬
-  アンティグア・バーブーダ\n🇮🇱 イスラエル\n🇮🇹 イタリア\n🇪🇪 エストニア\n🇳🇱 オランダ\n🇦🇺
-  オーストラリア\n🇨🇦 カナダ\n🇬🇲 ガンビア\n🇰🇼 クウェート\n🇨🇰 クック諸島\n🇨🇴 コロンビア\n🇸🇬
-  シンガポール\n🇨🇭 スイス\n🇸🇪 スウェーデン\n🇪🇸 スペイン\n🇨🇿 チェコ\n🇩🇪 ドイツ\n🇵🇦
-  パナマ\n🇫🇮 フィンランド\n🇵🇱 ポーランド\n🇲🇾 マレーシア\n🇲🇦 モロッコ\n🇱🇹 リトアニア\n🇱🇧
-  レバノン\n🇨🇳 中国\n🇿🇦 南アフリカ\n🇯🇵 日本\n🇬🇧 英国
+DESCRIPTION:競泳 - 女子100m平泳ぎ予選\n🇯🇵 AOKI Reona\n🇬🇲 Aminata Nia-Maria
+  BARROW\n🇮🇱 Anastasia GORBENKO\n🇬🇧 Angharad EVANS\n🇩🇪 Anna
+  ELENDT\n🇮🇹 Benedetta PILATO\n🇵🇱 Dominika SZTANDERA\n🇦🇬 Ellie
+  SHAW\n🇵🇦 Emily SANTOS SILVA\n🇺🇸 Emma WEBER\n🇸🇬 En Yi Letitia
+  SIM\n🇪🇪 Eneli JEFIMOVA\n🇫🇮 Ida HULKKO\n🇲🇦 Imane Houda EL
+  BARODI\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL MONTERO\n🇱🇹 Kotryna
+  TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇨🇰 Lanihei CONNOLLY\n🇰🇼 Lara
+  DASHTI\n🇺🇸 Lilly KING\n🇮🇹 Lisa ANGIOLINI\n🇨🇭 Lisa MAMIE\n🇱🇧 Lynn
+  EL HAJJ\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc SHARRY\n🇲🇾 Rouxin
+  TAN\n🇱🇹 Ruta MEILUTYTE\n🇯🇵 SUZUKI Satomi\n🇨🇦 Sophie ANGUS\n🇸🇪
+  Sophie HANSSON\n🇨🇴 Stefania GOMEZ HURTADO\n🇨🇳 TANG Qianting\n🇿🇦
+  Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YANG Chang
 SUMMARY:🏊 女子100m平泳ぎ予選
 LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
@@ -141,6 +147,25 @@ DESCRIPTION:競泳 - 男子100m自由形予選\n🇽🇰 Adell SABOVIC\n🇰🇿
   ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
 SUMMARY:🏊 男子100m自由形予選
 LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T070000Z-shooting-2
+DTSTAMP:20240731T070000Z
+DTSTART:20240731T070000Z
+DTEND:20240731T100000Z
+DESCRIPTION:射撃 - 女子トラップ個人本選2日目\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
+  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
+  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
+  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
+  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
+  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
+  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
+  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
+  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
+  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
+  STEFECEKOVA
+SUMMARY:🔫 女子トラップ個人本選2日目
+LOCATION:シャトールー射撃センター
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T080000Z-judo-90KG2-BUL-LBN

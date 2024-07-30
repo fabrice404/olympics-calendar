@@ -432,4 +432,14 @@ DESCRIPTION:경영 - 남자 100m 자유형 결승\n🇺🇸 Chris GUILIANO\n🇷
 SUMMARY:🏊 남자 100m 자유형 결승
 LOCATION:파리 라 데팡스 아레나
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T101000Z-rowing--A
+DTSTAMP:20240801T101000Z
+DTSTART:20240801T101000Z
+DTEND:20240801T101700Z
+DESCRIPTION:조정 - 남자 무타포어 결승 A\n🇳🇿 뉴질랜드\n🇷🇴 루마니아\n🇺🇸 미국\n🇬🇧 영국\n🇦🇺
+  오스트레일리아\n🇮🇹 이탈리아
+SUMMARY:🚣 남자 무타포어 결승 A
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
 END:VCALENDAR

@@ -65,11 +65,18 @@ UID:20240727T081200Z-rowing-WOMENS-SINGLE-SCULLS-HEATS
 DTSTAMP:20240727T081200Z
 DTSTART:20240727T081200Z
 DTEND:20240727T091900Z
-DESCRIPTION:Rowing - Women's Single Sculls Heats\n🇩🇿 ALG\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇺 CUB\n🇩🇪 GER\n🇮🇷 IR Iran\n🇰🇼
-  KUW\n🇱🇹 LTU\n🇲🇽 MEX\n🇲🇦 MAR\n🇳🇱 NED\n🇳🇿 NZL\n🇳🇮 NCA\n🇵🇾
-  PAR\n🇵🇪 PER\n🇵🇭 PHI\n🇷🇸 SRB\n🇸🇬 SGP\n🇸🇮 SLO\n🇿🇦 RSA\n🇪🇸
-  ESP\n🇨🇭 SUI\n🇹🇬 TOG\n🇹🇷 TUR\n🇺🇬 UGA\n🇺🇸 USA\n🇺🇿 UZB\n🇻🇳 VIE
+DESCRIPTION:Rowing - Women's Single Sculls Heats\n🇵🇪 Adriana
+  SANGUINETI\n🇸🇬 Aisyah RAFAEE\n🇹🇬 Akoko KOMLANVI\n🇵🇾 Alejandra
+  ALONSO ALDERETE\n🇩🇪 Alexandra FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭
+  Aurelia-Maxima Katharina JANZEN\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇧🇬
+  Desislava ANGELOVA\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇳🇿 Emma
+  TWIGG\n🇳🇮 Evidelia GONZALEZ JARQUIN\n🇮🇷 Fatemeh
+  MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇷🇸 Jovana ARSIC\n🇺🇸 Kara
+  KOHLER\n🇳🇱 Karolien FLORIJN\n🇺🇬 Kathleen NOBLE\n🇲🇽 Kenia LECHUGA
+  ALANIS\n🇦🇹 Magdalena LOBNIG\n🇲🇦 Majdouline EL ALLAOUI\n🇩🇿 Nihed
+  BENCHADLI\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige BADENHORST\n🇰🇼 Soaad
+  ALFAQAAN\n🇦🇺 Tara RIGNEY\n🇻🇳 Thi Hue PHAM\n🇱🇹 Viktorija
+  SENKUTE\n🇪🇸 Virginia DIAZ RIVAS\n🇨🇺 Yariulvis COBAS GARCIA
 SUMMARY:🚣 Women's Single Sculls Heats
 LOCATION:Nautical St - Flat water
 END:VEVENT
@@ -307,6 +314,17 @@ DTEND:20240730T192500Z
 DESCRIPTION:3x3 Basketball - Women's Pool Round
 SUMMARY:🏀 ESP 🇪🇸 - 🇦🇿 AZE
 LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T082400Z-rowing-WOMENS-SINGLE-SCULLS-SEMIFINAL-CD-2
+DTSTAMP:20240731T082400Z
+DTSTART:20240731T082400Z
+DTEND:20240731T083100Z
+DESCRIPTION:Rowing - Women's Single Sculls Semifinal C/D 2\n🇵🇪 Adriana
+  SANGUINETI\n🇦🇿 Diana DYMCHENKO\n🇹🇷 Elis OZBAY\n🇲🇽 Kenia LECHUGA
+  ALANIS\n🇿🇦 Paige BADENHORST\n🇻🇳 Thi Hue PHAM
+SUMMARY:🚣 Women's Single Sculls Semifinal C/D 2
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T084500Z-triathlon-MENS-INDIVIDUAL

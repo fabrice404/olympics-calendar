@@ -57,4 +57,13 @@ DESCRIPTION:축구 - 여자 C조
 SUMMARY:⚽ 일본 🇯🇵 - 🇳🇬 나이지리아
 LOCATION:라 보주아르 스타디움
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T150000Z-football--8-JPN-ESP
+DTSTAMP:20240802T150000Z
+DTSTART:20240802T150000Z
+DTEND:20240802T164500Z
+DESCRIPTION:축구 - 남자 8강
+SUMMARY:⚽ 일본 🇯🇵 - 🇪🇸 스페인
+LOCATION:리옹 스타디움
+END:VEVENT
 END:VCALENDAR

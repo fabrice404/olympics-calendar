@@ -47,14 +47,19 @@ UID:20240727T094500Z-swimming-400-
 DTSTAMP:20240727T094500Z
 DTSTART:20240727T094500Z
 DTEND:20240727T101400Z
-DESCRIPTION:Плавание - 400м вольным стилем, квалификация (м)\n🇦🇺
-  Австралия\n🇦🇹 Австрия\n🇧🇪 Бельгия\n🇧🇬 Болгария\n🇧🇦 Босния и
-  Герцеговина\n🇧🇷 Бразилия\n🇬🇧 Великобритания\n🇭🇺 Венгрия\n🇻🇪
-  Венесуэла\n🇬🇾 Гайана\n🇩🇪 Германия\n🇮🇹 Италия\n🇰🇪 Кения\n🇨🇳
-  Китай\n🇨🇷 Коста-Рика\n🇱🇹 Литва\n🇲🇾 Малайзия\n🇲🇦 Марокко\n🇲🇩
-  Молдова\n🇵🇪 Перу\n🇺🇸 США\n🇸🇲 Сан-Марино\n🇲🇰 Северная
-  Македония\n🇹🇳 Тунис\n🇺🇿 Узбекистан\n🇫🇷 Франция\n🇨🇱 Чили\n🇨🇭
-  Швейцария\n🇸🇪 Швеция\n🇪🇪 Эстония\n🇰🇷 Южная Корея
+DESCRIPTION:Плавание - 400м вольным стилем, квалификация (м)\n🇺🇸 Aaron
+  SHACKELL\n🇹🇳 Ahmed JAOUADI\n🇨🇷 Alberto VEGA\n🇻🇪 Alfonso Enrique
+  MESTRE VIVAS\n🇨🇭 Antonio DJAKOVIC\n🇱🇹 Danas RAPSYS\n🇫🇷 David
+  AUBRY\n🇨🇱 Eduardo CISTERNAS\n🇧🇷 Eduardo OLIVEIRA de MORAES\n🇦🇺
+  Elijah WINNINGTON\n🇨🇳 FEI Liwei\n🇦🇹 Felix AUBOECK\n🇧🇷 Guilherme
+  COSTA\n🇲🇾 Hoe Yean KHIEW\n🇲🇦 Ilias EL FALLAKI\n🇺🇿 Ilya
+  SIBIRTSEV\n🇵🇪 Joaquin VARGAS\n🇧🇦 Jovan LEKIC\n🇰🇷 KIM Woomin\n🇬🇧
+  Kieran BIRD\n🇺🇸 Kieran SMITH\n🇪🇪 Kregor ZIRK\n🇸🇲 Loris
+  BIANCHI\n🇧🇪 Lucas HENVEAUX\n🇩🇪 Lukas MAERTENS\n🇮🇹 Marco de
+  TULLIO\n🇮🇹 Matteo LAMBERTI\n🇲🇰 Nikola GJURETANOVIKJ\n🇩🇪 Oliver
+  KLEMET\n🇲🇩 Pavel ALOVATKI\n🇧🇬 Petar Petrov MITSIN\n🇬🇾 Raekwon
+  Jibril NOEL\n🇰🇪 Ridhwan Abubakar Bwana MOHAMED\n🇦🇺 Samuel SHORT\n🇸🇪
+  Victor JOHANSSON\n🇨🇳 ZHANG Zhanshuo\n🇭🇺 Zalan SARKANY
 SUMMARY:🏊 400м вольным стилем, квалификация (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
@@ -85,6 +90,25 @@ DTEND:20240730T162400Z
 DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (ж)
 SUMMARY:🏹 Michelle KROPPEN 🇩🇪 - 🇸🇲 Giorgia CESARINI
 LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T070000Z-shooting--2-
+DTSTAMP:20240731T070000Z
+DTSTART:20240731T070000Z
+DTEND:20240731T100000Z
+DESCRIPTION:Стрельба - Трап, квалификация, день 2 (ж)\n🇬🇹 Adriana RUANO
+  OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole
+  CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica
+  ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi
+  Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸
+  Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya
+  DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny
+  SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray
+  BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi
+  SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰
+  Zuzana REHAK STEFECEKOVA
+SUMMARY:🔫 Трап, квалификация, день 2 (ж)
+LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

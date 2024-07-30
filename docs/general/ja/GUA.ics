@@ -54,12 +54,18 @@ UID:20240729T091300Z-swimming-100M
 DTSTAMP:20240729T091300Z
 DTSTART:20240729T091300Z
 DTEND:20240729T092700Z
-DESCRIPTION:競泳 - 女子100m背泳ぎ予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇺🇦
-  ウクライナ\n🇸🇻 エルサルバドル\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇰🇿 カザフスタン\n🇨🇦 カナダ\n🇬🇹
-  グアテマラ\n🇸🇪 スウェーデン\n🇪🇸 スペイン\n🇱🇰 スリランカ\n🇹🇹 トリニダード・トバゴ\n🇹🇲
-  トルクメニスタン\n🇩🇴 ドミニカ共和国\n🇧🇲 バミューダ\n🇧🇭 バーレーン\n🇫🇷 フランス\n🇧🇬
-  ブルガリア\n🇧🇪 ベルギー\n🇭🇰 ホンコン・チャイナ\n🇵🇱 ポーランド\n🇲🇽 メキシコ\n🇲🇿
-  モザンビーク\n🇱🇾 リビア\n🇨🇳 中国\n🇬🇧 英国
+DESCRIPTION:競泳 - 女子100m背泳ぎ予選\n🇵🇱 Adela PISKORSKA\n🇧🇭 Amani
+  ALOBAIDLI\n🇮🇱 Aviv BARZELAY\n🇹🇲 Aynura PRIMOVA\n🇫🇷 Beryl
+  GASTALDELLO\n🇭🇰 CHEUNG Sum Yuet Cindy\n🇪🇸 Carmen WEILER SASTRE\n🇲🇽
+  Celia PULIDO ORTIZ\n🇸🇻 Celina MARQUEZ\n🇮🇪 Danielle HILL\n🇲🇿 Denise
+  DONELLI\n🇩🇴 Elizabeth JIMENEZ\n🇧🇲 Emma HARVEY\n🇫🇷 Emma TEREBO\n🇧🇬
+  Gabriela GEORGIEVA\n🇱🇰 Ganga SENAVIRATHNE\n🇨🇦 Ingrid WILM\n🇦🇺 Iona
+  ANDERSON\n🇺🇸 Katharine BERKOFF\n🇬🇧 Kathleen DAWSON\n🇦🇺 Kaylee
+  McKEOWN\n🇳🇱 Kira TOUSSAINT\n🇨🇦 Kylie MASSE\n🇸🇪 Louise HANSSON\n🇬🇹
+  Lucero MEJIA\n🇳🇱 Maaike de WAARD\n🇬🇧 Medi Eira HARRIS\n🇱🇾 Mek
+  ALMUKHTAR\n🇺🇦 Nika SHARAFUTDINOVA\n🇺🇸 Regan SMITH\n🇧🇪 Roos
+  VANOTTERDIJK\n🇨🇳 WAN Letian\n🇨🇳 WANG Xueer\n🇰🇿 Xeniya
+  IGNATOVA\n🇹🇹 Zuri FERGUSON
 SUMMARY:🏊 女子100m背泳ぎ予選
 LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
@@ -119,6 +125,25 @@ DESCRIPTION:射撃 - 男子トラップ個人ファイナル\n🇺🇸 Derrick S
   WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇬🇧 Nathan HALES\n🇨🇳 QI
   Ying\n🇸🇪 Rickard LEVIN-ANDERSSON
 SUMMARY:🔫 男子トラップ個人ファイナル
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T070000Z-shooting-2
+DTSTAMP:20240731T070000Z
+DTSTART:20240731T070000Z
+DTEND:20240731T100000Z
+DESCRIPTION:射撃 - 女子トラップ個人本選2日目\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
+  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
+  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
+  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
+  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
+  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
+  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
+  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
+  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
+  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
+  STEFECEKOVA
+SUMMARY:🔫 女子トラップ個人本選2日目
 LOCATION:シャトールー射撃センター
 END:VEVENT
 BEGIN:VEVENT

@@ -94,4 +94,14 @@ DESCRIPTION:競泳 - 男子800m自由形決勝\n🇹🇳 Ahmed JAOUADI\n🇺🇸
 SUMMARY:🏊 男子800m自由形決勝
 LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T093000Z-rowing-A
+DTSTAMP:20240801T093000Z
+DTSTART:20240801T093000Z
+DTEND:20240801T093700Z
+DESCRIPTION:ローイング - 男子ダブルスカル決勝A\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇪🇸
+  スペイン\n🇳🇿 ニュージーランド\n🇷🇴 ルーマニア
+SUMMARY:🚣 男子ダブルスカル決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
 END:VCALENDAR

@@ -430,4 +430,14 @@ DESCRIPTION:競泳 - 男子100m自由形決勝\n🇺🇸 Chris GUILIANO\n🇷�
 SUMMARY:🏊 男子100m自由形決勝
 LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T101000Z-rowing-A
+DTSTAMP:20240801T101000Z
+DTSTART:20240801T101000Z
+DTEND:20240801T101700Z
+DESCRIPTION:ローイング - 男子フォア決勝A\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇦🇺 オーストラリア\n🇳🇿
+  ニュージーランド\n🇷🇴 ルーマニア\n🇬🇧 英国
+SUMMARY:🚣 男子フォア決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
 END:VCALENDAR

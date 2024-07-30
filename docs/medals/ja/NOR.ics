@@ -106,4 +106,14 @@ DESCRIPTION:トライアスロン - 男子個人\n🇨🇭 Adrien BRIFFOD\n🇪�
 SUMMARY:🏊 男子個人
 LOCATION:アレクサンドル3世橋
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T091800Z-rowing-A
+DTSTAMP:20240801T091800Z
+DTSTART:20240801T091800Z
+DTEND:20240801T092500Z
+DESCRIPTION:ローイング - 女子ダブルスカル決勝A\n🇳🇱 オランダ\n🇳🇿 ニュージーランド\n🇳🇴 ノルウェー\n🇫🇷
+  フランス\n🇷🇴 ルーマニア\n🇬🇧 英国
+SUMMARY:🚣 女子ダブルスカル決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
 END:VCALENDAR

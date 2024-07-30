@@ -35,14 +35,18 @@ UID:20240728T092700Z-swimming-100-
 DTSTAMP:20240728T092700Z
 DTSTART:20240728T092700Z
 DTEND:20240728T094200Z
-DESCRIPTION:Плавание - 100м брассом, квалификация (ж)\n🇦🇺 Австралия\n🇦🇬
-  Антигуа и Барбуда\n🇦🇷 Аргентина\n🇬🇧 Великобритания\n🇬🇲 Гамбия\n🇩🇪
-  Германия\n🇮🇱 Израиль\n🇮🇪 Ирландия\n🇪🇸 Испания\n🇮🇹 Италия\n🇨🇦
-  Канада\n🇨🇳 Китай\n🇨🇴 Колумбия\n🇰🇼 Кувейт\n🇱🇧 Ливан\n🇱🇹
-  Литва\n🇲🇾 Малайзия\n🇲🇦 Марокко\n🇳🇱 Нидерланды\n🇨🇰 Острова
-  Кука\n🇵🇦 Панама\n🇵🇱 Польша\n🇺🇸 США\n🇸🇬 Сингапур\n🇫🇮
-  Финляндия\n🇨🇿 Чехия\n🇨🇭 Швейцария\n🇸🇪 Швеция\n🇪🇪 Эстония\n🇿🇦
-  Южная Африка\n🇯🇵 Япония
+DESCRIPTION:Плавание - 100м брассом, квалификация (ж)\n🇯🇵 AOKI
+  Reona\n🇬🇲 Aminata Nia-Maria BARROW\n🇮🇱 Anastasia GORBENKO\n🇬🇧
+  Angharad EVANS\n🇩🇪 Anna ELENDT\n🇮🇹 Benedetta PILATO\n🇵🇱 Dominika
+  SZTANDERA\n🇦🇬 Ellie SHAW\n🇵🇦 Emily SANTOS SILVA\n🇺🇸 Emma
+  WEBER\n🇸🇬 En Yi Letitia SIM\n🇪🇪 Eneli JEFIMOVA\n🇫🇮 Ida HULKKO\n🇲🇦
+  Imane Houda EL BARODI\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL
+  MONTERO\n🇱🇹 Kotryna TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇨🇰 Lanihei
+  CONNOLLY\n🇰🇼 Lara DASHTI\n🇺🇸 Lilly KING\n🇮🇹 Lisa ANGIOLINI\n🇨🇭
+  Lisa MAMIE\n🇱🇧 Lynn EL HAJJ\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc
+  SHARRY\n🇲🇾 Rouxin TAN\n🇱🇹 Ruta MEILUTYTE\n🇯🇵 SUZUKI Satomi\n🇨🇦
+  Sophie ANGUS\n🇸🇪 Sophie HANSSON\n🇨🇴 Stefania GOMEZ HURTADO\n🇨🇳 TANG
+  Qianting\n🇿🇦 Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YANG Chang
 SUMMARY:🏊 100м брассом, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
@@ -144,6 +148,25 @@ DESCRIPTION:Плавание - 100м вольным стилем, квалифи
   ALMATROOSHI\n🇨🇦 Yuri KISIL\n🇸🇦 Zaid Faisal M ALSARRAJ
 SUMMARY:🏊 100м вольным стилем, квалификация (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T070000Z-shooting--2-
+DTSTAMP:20240731T070000Z
+DTSTART:20240731T070000Z
+DTEND:20240731T100000Z
+DESCRIPTION:Стрельба - Трап, квалификация, день 2 (ж)\n🇬🇹 Adriana RUANO
+  OLIVA\n🇸🇲 Alessandra PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole
+  CORMENIER\n🇦🇺 Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica
+  ROSSI\n🇰🇷 KANG Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi
+  Chun\n🇹🇼 LIU Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸
+  Mar MOLNE MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya
+  DMITRIYENKO\n🇫🇷 Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny
+  SMITH\n🇺🇸 Rachel Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray
+  BASSIL\n🇹🇷 Rumeysa Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi
+  SINGH\n🇮🇹 Silvana Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰
+  Zuzana REHAK STEFECEKOVA
+SUMMARY:🔫 Трап, квалификация, день 2 (ж)
+LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T080000Z-judo-116-90--BUL-LBN

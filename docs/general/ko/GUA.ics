@@ -54,11 +54,18 @@ UID:20240729T091300Z-swimming--100M-
 DTSTAMP:20240729T091300Z
 DTSTART:20240729T091300Z
 DTEND:20240729T092700Z
-DESCRIPTION:경영 - 여자 100m 배영 - 예선\n🇬🇹 과테말라\n🇳🇱 네덜란드\n🇩🇴 도미니카공화국\n🇱🇾
-  리비아\n🇲🇽 멕시코\n🇲🇿 모잠비크\n🇺🇸 미국\n🇧🇭 바레인\n🇧🇲 버뮤다\n🇧🇪 벨기에\n🇧🇬
-  불가리아\n🇱🇰 스리랑카\n🇸🇪 스웨덴\n🇪🇸 스페인\n🇮🇪 아일랜드\n🇸🇻 엘살바도르\n🇬🇧 영국\n🇦🇺
-  오스트레일리아\n🇺🇦 우크라이나\n🇮🇱 이스라엘\n🇨🇳 중국\n🇰🇿 카자흐스탄\n🇨🇦 캐나다\n🇹🇲
-  투르크메니스탄\n🇹🇹 트리니다드토바고\n🇵🇱 폴란드\n🇫🇷 프랑스\n🇭🇰 홍콩, 차이나
+DESCRIPTION:경영 - 여자 100m 배영 - 예선\n🇵🇱 Adela PISKORSKA\n🇧🇭 Amani
+  ALOBAIDLI\n🇮🇱 Aviv BARZELAY\n🇹🇲 Aynura PRIMOVA\n🇫🇷 Beryl
+  GASTALDELLO\n🇭🇰 CHEUNG Sum Yuet Cindy\n🇪🇸 Carmen WEILER SASTRE\n🇲🇽
+  Celia PULIDO ORTIZ\n🇸🇻 Celina MARQUEZ\n🇮🇪 Danielle HILL\n🇲🇿 Denise
+  DONELLI\n🇩🇴 Elizabeth JIMENEZ\n🇧🇲 Emma HARVEY\n🇫🇷 Emma TEREBO\n🇧🇬
+  Gabriela GEORGIEVA\n🇱🇰 Ganga SENAVIRATHNE\n🇨🇦 Ingrid WILM\n🇦🇺 Iona
+  ANDERSON\n🇺🇸 Katharine BERKOFF\n🇬🇧 Kathleen DAWSON\n🇦🇺 Kaylee
+  McKEOWN\n🇳🇱 Kira TOUSSAINT\n🇨🇦 Kylie MASSE\n🇸🇪 Louise HANSSON\n🇬🇹
+  Lucero MEJIA\n🇳🇱 Maaike de WAARD\n🇬🇧 Medi Eira HARRIS\n🇱🇾 Mek
+  ALMUKHTAR\n🇺🇦 Nika SHARAFUTDINOVA\n🇺🇸 Regan SMITH\n🇧🇪 Roos
+  VANOTTERDIJK\n🇨🇳 WAN Letian\n🇨🇳 WANG Xueer\n🇰🇿 Xeniya
+  IGNATOVA\n🇹🇹 Zuri FERGUSON
 SUMMARY:🏊 여자 100m 배영 - 예선
 LOCATION:파리 라 데팡스 아레나
 END:VEVENT
@@ -118,6 +125,25 @@ DESCRIPTION:사격 - 남자 트랩 결승\n🇺🇸 Derrick Scott MEIN\n🇦🇺
   WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇬🇧 Nathan HALES\n🇨🇳 QI
   Ying\n🇸🇪 Rickard LEVIN-ANDERSSON
 SUMMARY:🔫 남자 트랩 결승
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T070000Z-shooting--2
+DTSTAMP:20240731T070000Z
+DTSTART:20240731T070000Z
+DTEND:20240731T100000Z
+DESCRIPTION:사격 - 여자 트랩 예선 - 2일차\n🇬🇹 Adriana RUANO OLIVA\n🇸🇲 Alessandra
+  PERILLI\n🇬🇹 Ana Waleska SOTO ABRIL\n🇫🇷 Carole CORMENIER\n🇦🇺
+  Catherine SKINNER\n🇪🇸 Fatima GALVEZ\n🇮🇹 Jessica ROSSI\n🇰🇷 KANG
+  Geeeun\n🇩🇪 Kathrin MURCHE\n🇰🇷 LEE Bo Na\n🇹🇼 LIN Yi Chun\n🇹🇼 LIU
+  Wan-Yu\n🇬🇧 Lucy Charlotte HALL\n🇪🇬 Maggy ASHMAWY\n🇪🇸 Mar MOLNE
+  MAGRINA\n🇵🇹 Maria Ines COELHO de BARROS\n🇰🇿 Mariya DMITRIYENKO\n🇫🇷
+  Melanie COUZY\n🇫🇮 Noora ANTIKAINEN\n🇦🇺 Penny SMITH\n🇺🇸 Rachel
+  Leighanne TOZIER\n🇮🇳 Rajeshwari KUMARI\n🇱🇧 Ray BASSIL\n🇹🇷 Rumeysa
+  Pelin KAYA\n🇺🇸 Ryann Paige PHILLIPS\n🇮🇳 Shreyasi SINGH\n🇮🇹 Silvana
+  Maria STANCO\n🇨🇳 WU Cuicui\n🇨🇳 ZHANG Xinqiu\n🇸🇰 Zuzana REHAK
+  STEFECEKOVA
+SUMMARY:🔫 여자 트랩 예선 - 2일차
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT

@@ -8,12 +8,17 @@ UID:20240727T070000Z-rowing-
 DTSTAMP:20240727T070000Z
 DTSTART:20240727T070000Z
 DTEND:20240727T080700Z
-DESCRIPTION:ローイング - 男子シングルスカル予選\n🇺🇸 アメリカ合衆国\n🇩🇿 アルジェリア\n🇦🇴 アンゴラ\n🇮🇳
-  インド\n🇮🇩 インドネシア\n🇺🇾 ウルグアイ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇰🇿 カザフスタン\n🇨🇺
-  キューバ\n🇬🇷 ギリシャ\n🇭🇷 クロアチア\n🇿🇼 ジンバブエ\n🇸🇮 スロベニア\n🇸🇩 スーダン\n🇹🇭
-  タイ\n🇹🇳 チュニジア\n🇩🇰 デンマーク\n🇩🇪 ドイツ\n🇳🇿 ニュージーランド\n🇭🇺 ハンガリー\n🇧🇲
-  バミューダ\n🇵🇾 パラグアイ\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇧🇪 ベルギー\n🇭🇰 ホンコン・チャイナ\n🇲🇨
-  モナコ\n🇱🇹 リトアニア\n🇱🇾 リビア\n🇷🇴 ルーマニア\n🇯🇵 日本
+DESCRIPTION:ローイング - 男子シングルスカル予選\n🇯🇵 ARAKAWA Ryuta\n🇸🇩 Abdalla
+  AHMED\n🇪🇬 Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj
+  PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO
+  BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹
+  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
+  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
+  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
+  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
+  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav YAKOVLEV
 SUMMARY:🚣 男子シングルスカル予選
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
@@ -31,6 +36,17 @@ DESCRIPTION:ローイング - 男子シングルスカル準々決勝\n🇯🇵 
   CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos
   NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS
 SUMMARY:🚣 男子シングルスカル準々決勝
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-rowing-AB-1
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T075700Z
+DESCRIPTION:ローイング - 男子シングルスカル準決勝A/B - 1組\n🇯🇵 ARAKAWA Ryuta\n🇺🇾 Bruno
+  CETRARO BERRIOLO\n🇱🇹 Giedrius BIELIAUSKAS\n🇳🇱 Simon van DORP\n🇳🇿
+  Thomas MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 男子シングルスカル準決勝A/B - 1組
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
 END:VCALENDAR
