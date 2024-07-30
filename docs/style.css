@@ -1670,9 +1670,6 @@ details.collapse summary::-webkit-details-marker {
 .z-50 {
   z-index: 50;
 }
-.z-\[1\] {
-  z-index: 1;
-}
 .my-10 {
   margin-top: 2.5rem;
   margin-bottom: 2.5rem;
