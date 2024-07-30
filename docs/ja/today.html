@@ -24948,19 +24948,6 @@
    </div>
  </div>
 </div>
-<div class="event py-4" data-start="20240731T100000Z" data-end="20240731T143000Z" data-noc="USA">
- <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
- <div class="w-3/5 align-top inline-block text-black pl-2">
-   <div class="text-2xl">
-   
-   テニス
-   <span class="text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl">W</span>
-   </div>
-   <div class="">女子シングルス準々決勝
-<div class= "competitor USA"> 🇺🇸 Danielle COLLINS </div>
-   </div>
- </div>
-</div>
 <div class="event py-4" data-start="20240731T100000Z" data-end="20240731T200000Z" data-noc="">
  <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
  <div class="w-3/5 align-top inline-block text-black pl-2">
@@ -24995,6 +24982,19 @@
    </div>
    <div class="">女子シングルス準々決勝
    <div class="">Angelique KERBER 🇩🇪 - 🇨🇳 ZHENG Qinwen</div>
+   </div>
+ </div>
+</div>
+<div class="event py-4" data-start="20240731T100000Z" data-end="20240731T143000Z" data-noc="POL,USA">
+ <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
+ <div class="w-3/5 align-top inline-block text-black pl-2">
+   <div class="text-2xl">
+   
+   テニス
+   <span class="text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl">W</span>
+   </div>
+   <div class="">女子シングルス準々決勝
+   <div class="">Iga SWIATEK 🇵🇱 - 🇺🇸 Danielle COLLINS</div>
    </div>
  </div>
 </div>
@@ -47662,18 +47662,6 @@
    </div>
  </div>
 </div>
-<div class="event py-4" data-start="20240809T140000Z" data-end="20240809T160000Z" data-noc="">
- <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
- <div class="w-3/5 align-top inline-block text-black pl-2">
-   <div class="text-2xl">
-   
-   ブレイキン
-   <span class="text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl">W</span>
-   </div>
-   <div class="">Bガール予選
-   </div>
- </div>
-</div>
 <div class="event py-4" data-start="20240809T140000Z" data-end="20240809T140700Z" data-noc="">
  <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
  <div class="w-3/5 align-top inline-block text-black pl-2">
@@ -47683,6 +47671,18 @@
    <span class="text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl">W</span>
    </div>
    <div class="">Bガール予備予選
+   </div>
+ </div>
+</div>
+<div class="event py-4" data-start="20240809T140000Z" data-end="20240809T160000Z" data-noc="">
+ <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
+ <div class="w-3/5 align-top inline-block text-black pl-2">
+   <div class="text-2xl">
+   
+   ブレイキン
+   <span class="text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl">W</span>
+   </div>
+   <div class="">Bガール予選
    </div>
  </div>
 </div>
@@ -50838,13 +50838,19 @@
     document.querySelectorAll('.event').forEach((element) => {
       const start = DateTime.fromISO(element.getAttribute('data-start'));
       const end = DateTime.fromISO(element.getAttribute('data-end'));
+      const fifteenMinuteAgo = now.minus({ minutes: 15 });
       const nocs = element.getAttribute('data-noc').split(",");
 
       if (!noc || nocs.includes(noc)) {
         if (now.day === start.day) {
           element.querySelector(".time").textContent = start.toLocaleString(DateTime.TIME_24_SIMPLE);
           if (end < now) {
-            element.remove();
+            if (end > fifteenMinuteAgo) {
+              element.classList.add(cycleColor());
+              element.classList.add('opacity-50');
+            } else {
+              element.remove();
+            }
           } else {
             element.classList.add(cycleColor());
           }

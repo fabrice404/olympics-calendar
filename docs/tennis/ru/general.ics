@@ -1426,16 +1426,6 @@ BEGIN:VEVENT
 UID:20240731T100000Z-tennis--
 DTSTAMP:20240731T100000Z
 DTSTART:20240731T100000Z
-DTEND:20240731T143000Z
-DESCRIPTION:Теннис - Четвертьфинал, одиночный разряд (ж)\n🇺🇸 Danielle
-  COLLINS
-SUMMARY:🎾 Четвертьфинал, одиночный разряд (ж)
-LOCATION:Стадион «Ролан Гаррос»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T100000Z-tennis--
-DTSTAMP:20240731T100000Z
-DTSTART:20240731T100000Z
 DTEND:20240731T130000Z
 DESCRIPTION:Теннис - Третий раунд, одиночный разряд (м)\n🇪🇸 Carlos
   ALCARAZ
@@ -1503,6 +1493,15 @@ DTSTART:20240731T100000Z
 DTEND:20240731T160000Z
 DESCRIPTION:Теннис - Третий раунд, одиночный разряд (м)
 SUMMARY:🎾 Casper RUUD 🇳🇴 - 🇦🇷 Francisco CERUNDOLO
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T100000Z-tennis---POL-USA
+DTSTAMP:20240731T100000Z
+DTSTART:20240731T100000Z
+DTEND:20240731T143000Z
+DESCRIPTION:Теннис - Четвертьфинал, одиночный разряд (ж)
+SUMMARY:🎾 Iga SWIATEK 🇵🇱 - 🇺🇸 Danielle COLLINS
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT

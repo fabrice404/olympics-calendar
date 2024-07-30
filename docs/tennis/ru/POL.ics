@@ -66,4 +66,13 @@ DESCRIPTION:Теннис - Третий раунд, одиночный разр�
 SUMMARY:🎾 Iga SWIATEK 🇵🇱 - 🇨🇳 WANG Xiyu
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240731T100000Z-tennis---POL-USA
+DTSTAMP:20240731T100000Z
+DTSTART:20240731T100000Z
+DTEND:20240731T143000Z
+DESCRIPTION:Теннис - Четвертьфинал, одиночный разряд (ж)
+SUMMARY:🎾 Iga SWIATEK 🇵🇱 - 🇺🇸 Danielle COLLINS
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
 END:VCALENDAR
