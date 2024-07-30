@@ -21,20 +21,42 @@
 
 <body>
   <div class="p-4">
-    <div class="border-b pb-4 border-slate-900/10">
-      <h1 class="text-4xl text-center">Paris 2024 - Today's events</h1>
+    <div class="navbar bg-base-100">
+      <div class="navbar-start">
+        <div class="dropdown">
+          <div tabindex="0" role="button" class="btn btn-ghost btn-circle">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24"
+              stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7" />
+            </svg>
+          </div>
+          <ul tabindex="0" class="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
+            <li><a href="https://fabrice404.github.io/olympics-calendar/today.html">English</a></li>
+            <li><a href="https://fabrice404.github.io/olympics-calendar/ja/today.html">日本語</a></li>
+            <li><a href="https://fabrice404.github.io/olympics-calendar/ko/today.html">한국어</a></li>
+            <li><a href="https://fabrice404.github.io/olympics-calendar/ru/today.html">Русский</a></li>
+            <li><a href="https://fabrice404.github.io/olympics-calendar/zh/today.html">中文</a></li>
+            <li><a href="https://github.com/fabrice404/olympics-calendar">Source code</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="navbar-center">
+        <a class="btn btn-ghost text-xl" href="./">Paris 2024 - {{title}}</a>
+      </div>
+      <div class="navbar-end">
+      </div>
     </div>
 
     <div>
       {{events}}
     </div>
+
     <div class="no-event my-10 text-center text-2xl hidden">
-      No event today, come back tomorrow! :)
+      {{noEventToday}}
     </div>
 
     <div class="text-sm my-10 text-center">
-      This webiste is not affiliated with the International Olympic Committee.
-      All trademarks, logos and brand names are the property of their respective owners.
+      {{disclaimer}}
     </div>
   </div>
   <script type="text/javascript">
@@ -61,7 +83,7 @@
       const end = DateTime.fromISO(element.getAttribute('data-end'));
       const nocs = element.getAttribute('data-noc').split(",");
 
-      if (nocs.includes(noc)) {
+      if (!noc || nocs.includes(noc)) {
         if (now.day === start.day) {
           element.querySelector(".time").textContent = start.toLocaleString(DateTime.TIME_24_SIMPLE);
           if (end < now) {

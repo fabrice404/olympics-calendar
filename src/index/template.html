@@ -27,11 +27,13 @@
             <li><a href="https://fabrice404.github.io/olympics-calendar/ko/index.html">한국어</a></li>
             <li><a href="https://fabrice404.github.io/olympics-calendar/ru/index.html">Русский</a></li>
             <li><a href="https://fabrice404.github.io/olympics-calendar/zh/index.html">中文</a></li>
+            <hr />
+            <li><a href="https://github.com/fabrice404/olympics-calendar">Source code</a></li>
           </ul>
         </div>
       </div>
       <div class="navbar-center">
-        <a class="btn btn-ghost text-xl" href="./">Paris 2024 calendars</a>
+        <a class="btn btn-ghost text-xl" href="./">Paris 2024 - {{title}}</a>
       </div>
       <div class="navbar-end">
       </div>
@@ -53,14 +55,8 @@
       </div>
     </dialog>
 
-    <div class="text-sm my-10">
-      <h2 class="text-3xl pb-4 pt-8">View today's events by NOC</h2>
-      {{todays}}
-    </div>
-
     <div class="text-sm my-10 text-center">
-      This webiste is not affiliated with the International Olympic Committee.
-      All trademarks, logos and brand names are the property of their respective owners.
+      {{disclaimer}}
     </div>
   </div>
   <script>

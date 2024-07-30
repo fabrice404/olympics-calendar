@@ -21,8 +21,30 @@
 
 <body>
   <div class="p-4">
-    <div class="border-b pb-4 border-slate-900/10">
-      <h1 class="text-4xl text-center">Paris 2024 - Today's events</h1>
+    <div class="navbar bg-base-100">
+      <div class="navbar-start">
+        <div class="dropdown">
+          <div tabindex="0" role="button" class="btn btn-ghost btn-circle">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24"
+              stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7" />
+            </svg>
+          </div>
+          <ul tabindex="0" class="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
+            <li><a href="https://fabrice404.github.io/olympics-calendar/today.html">English</a></li>
+            <li><a href="https://fabrice404.github.io/olympics-calendar/ja/today.html">日本語</a></li>
+            <li><a href="https://fabrice404.github.io/olympics-calendar/ko/today.html">한국어</a></li>
+            <li><a href="https://fabrice404.github.io/olympics-calendar/ru/today.html">Русский</a></li>
+            <li><a href="https://fabrice404.github.io/olympics-calendar/zh/today.html">中文</a></li>
+            <li><a href="https://github.com/fabrice404/olympics-calendar">Source code</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="navbar-center">
+        <a class="btn btn-ghost text-xl" href="./">Paris 2024 - События сегодня</a>
+      </div>
+      <div class="navbar-end">
+      </div>
     </div>
 
     <div>
@@ -35430,7 +35452,7 @@
    </div>
  </div>
 </div>
-<div class="event py-4" data-start="20240802T193600Z" data-end="20240802T194700Z" data-noc="">
+<div class="event py-4" data-start="20240802T193600Z" data-end="20240802T194700Z" data-noc="UKR">
  <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
  <div class="w-3/5 align-top inline-block text-black pl-2">
    <div class="text-2xl">
@@ -35440,6 +35462,7 @@
    </div>
    <div class="">Четвертьфинал, до 80кг (м)
    <div class="">Четвертьфинал, до 80кг (м)</div>
+<div class= "competitor UKR"> 🇺🇦 Oleksandr KHYZHNIAK </div>
    </div>
  </div>
 </div>
@@ -48461,18 +48484,6 @@
    </div>
  </div>
 </div>
-<div class="event py-4" data-start="20240809T140000Z" data-end="20240809T140700Z" data-noc="">
- <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
- <div class="w-3/5 align-top inline-block text-black pl-2">
-   <div class="text-2xl">
-   
-   БРЕЙКИНГ
-   <span class="text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl">W</span>
-   </div>
-   <div class="">Би-герлз пре-квалификац. баттл
-   </div>
- </div>
-</div>
 <div class="event py-4" data-start="20240809T140000Z" data-end="20240809T160000Z" data-noc="">
  <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
  <div class="w-3/5 align-top inline-block text-black pl-2">
@@ -48483,6 +48494,18 @@
    </div>
    <div class="">Групповой этап (ж)
    <div class="">Групповой этап (ж)</div>
+   </div>
+ </div>
+</div>
+<div class="event py-4" data-start="20240809T140000Z" data-end="20240809T140700Z" data-noc="">
+ <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
+ <div class="w-3/5 align-top inline-block text-black pl-2">
+   <div class="text-2xl">
+   
+   БРЕЙКИНГ
+   <span class="text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl">W</span>
+   </div>
+   <div class="">Би-герлз пре-квалификац. баттл
    </div>
  </div>
 </div>
@@ -51861,13 +51884,13 @@
  </div>
 </div>
     </div>
+
     <div class="no-event my-10 text-center text-2xl hidden">
-      No event today, come back tomorrow! :)
+      Сегодня нет событий, вернитесь завтра! :)
     </div>
 
     <div class="text-sm my-10 text-center">
-      This webiste is not affiliated with the International Olympic Committee.
-      All trademarks, logos and brand names are the property of their respective owners.
+      Этот сайт не связан с Международным олимпийским комитетом. Все товарные знаки, логотипы и бренды являются собственностью их соответствующих владельцев.
     </div>
   </div>
   <script type="text/javascript">
@@ -51894,7 +51917,7 @@
       const end = DateTime.fromISO(element.getAttribute('data-end'));
       const nocs = element.getAttribute('data-noc').split(",");
 
-      if (nocs.includes(noc)) {
+      if (!noc || nocs.includes(noc)) {
         if (now.day === start.day) {
           element.querySelector(".time").textContent = start.toLocaleString(DateTime.TIME_24_SIMPLE);
           if (end < now) {

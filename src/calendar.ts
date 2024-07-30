@@ -55,9 +55,8 @@ export class Calendar {
 
   public async generate() {
     this.debug(`Generating calendar for ${this.language}`);
-    for (const sportKey of getAllSportsKeys()) {
-      await this.getSportCalendar(sportKey);
-    }
+    await Promise.all(getAllSportsKeys().map((sportKey) => this.getSportCalendar(sportKey)));
+
     this.genereateEventsCeremonies();
     this.generateCalendars();
 
@@ -289,7 +288,6 @@ export class Calendar {
     const buttonClass = "btn btn-sm bg-gray-300 min-w-24 mb-1";
 
     const calendars: string[] = [];
-    const todays: string[] = [];
 
     calendars.push(`<div class="${accordionClass}">`);
     calendars.push(`  <input type="radio" name="accordion" checked="checked">`);
@@ -317,6 +315,16 @@ export class Calendar {
     calendars.push(`  </div>`);
     calendars.push(`</div>`);
 
+    calendars.push(`<div class="${accordionClass}">`);
+    calendars.push(`  <input type="radio" name="accordion">`);
+    calendars.push(`  <div class="collapse-title text-xl font-medium">📅 ${translate.todaysEvents.get(this.language)}</div>`);
+    calendars.push(`  <div class="collapse-content text-center">`)
+    for (const noc of this.nocs.sort()) {
+      calendars.push(`    <a class="${buttonClass}" href="./today.html?noc=NOC">${getNOCFlag(noc)} ${noc}</a>`);
+    }
+    calendars.push(`  </div>`);
+    calendars.push(`</div>`);
+
     for (const sport of this.sports.sort()) {
       calendars.push(`<div class="${accordionClass}">`);
       calendars.push(`  <input type="radio" name="accordion">`);
@@ -336,7 +344,9 @@ export class Calendar {
     const template = readFile(`${__dirname}/index/template.html`);
     const output = template
       .replace("{{calendars}}", calendars.join("\r\n"))
-      .replace("{{todays}}", [todays].join("\r\n"));
+      .replace("{{title}}", translate.calendars.get(this.language)!)
+      .replace("{{disclaimer}}", translate.disclaimer.get(this.language)!)
+      ;
     saveFile(
       this.language === "en" ?
         "docs/index.html" :
@@ -389,7 +399,11 @@ export class Calendar {
 
     const template = readFile(`${__dirname}/today/template.html`);
     const output = template
-      .replace("{{events}}", content.join("\r\n"));
+      .replace("{{events}}", content.join("\r\n"))
+      .replace("{{title}}", translate.todaysEvents.get(this.language)!)
+      .replace("{{disclaimer}}", translate.disclaimer.get(this.language)!)
+      .replace("{{noEventToday}}", translate.noEventToday.get(this.language)!)
+      ;
     saveFile(
       this.language === "en" ?
         "docs/today.html" :
