@@ -400,7 +400,7 @@ export class Calendar {
     const template = readFile(`${__dirname}/today/template.html`);
     const output = template
       .replace("{{events}}", content.join("\r\n"))
-      .replace(/\{\{title}}/gi, translate.calendars.get(this.language)!)
+      .replace(/\{\{title}}/gi, translate.todaysEvents.get(this.language)!)
       .replace("{{disclaimer}}", translate.disclaimer.get(this.language)!)
       .replace("{{noEventToday}}", translate.noEventToday.get(this.language)!)
       ;
