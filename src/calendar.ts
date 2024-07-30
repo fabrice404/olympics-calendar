@@ -120,6 +120,7 @@ export class Calendar {
           .filter((competitor: any) => competitor.noc && isValidNOC(competitor.noc))
           .sort((a: any, b: any) => a.order > b.order ? 1 : -1);
         event._NOCS = competitors.map((competitor: any) => {
+          event._COMPETITORS.push({ noc: competitor.noc, name: competitor.name });
           this.addSportNOC(sportKey, sportName, competitor.noc);
           this.addNOC(competitor.noc);
           return competitor.noc;
@@ -143,7 +144,6 @@ export class Calendar {
             .forEach((competitor: any) => {
               if (competitor.name !== getNOCName(competitor.noc)) {
                 event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.name}`;
-                event._COMPETITORS.push({ noc: competitor.noc, name: `${getNOCFlag(competitor.noc)} ${competitor.name}` });
               } else {
                 event.DESCRIPTION += `\\n${getNOCFlag(competitor.noc)} ${competitor.noc}`;
               }
@@ -398,12 +398,16 @@ export class Calendar {
       content.push(`   <div>${event._UNITNAME}</div>`);
       if (event._COMPETITORS) {
         if (event._COMPETITORS.length === 2) {
-          content.push(`    <div class="competitor">`);
-          content.push(`      ${event._COMPETITORS[0].name} ${getNOCFlag(event._COMPETITORS[0].noc)} - ${getNOCFlag(event._COMPETITORS[1].noc)} ${event._COMPETITORS[1].name}`);
+          content.push(`    <div class="competitors">`);
+          content.push(`      ${event._COMPETITORS[0].name}`);
+          content.push(`      ${getNOCFlag(event._COMPETITORS[0].noc)}`);
+          content.push(`      -`);
+          content.push(`      ${getNOCFlag(event._COMPETITORS[1].noc)}`);
+          content.push(`      ${event._COMPETITORS[1].name}`);
           content.push(`    </div>`);
         } else {
-          event._COMPETITORS.forEach((competitor) => {
-            content.push(`    <div class="competitor ${competitor.noc}"> ${competitor.name} </div>`);
+          event._COMPETITORS.sort((a, b) => a.name > b.name ? 1 : -1).forEach((competitor) => {
+            content.push(`    <div class="competitor ${competitor.noc}">${getNOCFlag(competitor.noc)} ${competitor.name} </div>`);
           });
         }
       }
