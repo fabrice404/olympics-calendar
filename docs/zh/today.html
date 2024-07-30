@@ -19728,7 +19728,7 @@
    </div>
  </div>
 </div>
-<div class="event py-4" data-start="20240730T110400Z" data-end="20240730T112500Z" data-noc="ISR,GBR,TUR,CRO,HKG,USA,SLO,NZL,FRA,CZE,EST,PER,POL,ESP,NED,GER,CYP,NOR,CHN,SWE,ITA,ARG,AUT,MEX">
+<div class="event py-4" data-start="20240730T110400Z" data-end="20240730T112500Z" data-noc="ISR,GBR,TUR,CRO,HKG,USA,SLO,NZL,FRA,CZE,EST,PER,POL,ESP,NED,GER,CYP,NOR,SWE,ITA,ARG,AUT,MEX,CHN">
  <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
  <div class="w-3/5 align-top inline-block text-black pl-2">
    <div class="text-2xl">
@@ -23104,7 +23104,7 @@
    
    马术
    </div>
-   <div class="">个人盛装舞步大奖赛 - 第2天
+   <div class="">盛装舞步团体大奖赛 - 第2天
    </div>
  </div>
 </div>
@@ -23115,7 +23115,7 @@
    
    马术
    </div>
-   <div class="">盛装舞步团体大奖赛 - 第2天
+   <div class="">个人盛装舞步大奖赛 - 第2天
    </div>
  </div>
 </div>
@@ -24414,7 +24414,7 @@
    </div>
  </div>
 </div>
-<div class="event py-4" data-start="20240731T100000Z" data-end="20240731T173000Z" data-noc="UKR">
+<div class="event py-4" data-start="20240731T100000Z" data-end="20240731T173000Z" data-noc="UKR,USA">
  <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
  <div class="w-3/5 align-top inline-block text-black pl-2">
    <div class="text-2xl">
@@ -24423,7 +24423,7 @@
    <span class="text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl">W</span>
    </div>
    <div class="">女子双打第2轮
-<div class= "competitor UKR"> 🇺🇦 KICHENOK/KICHENOK </div>
+   <div class="">KICHENOK/KICHENOK 🇺🇦 - 🇺🇸 COLLINS/KRAWCZYK</div>
    </div>
  </div>
 </div>
@@ -33480,7 +33480,7 @@
    </div>
  </div>
 </div>
-<div class="event py-4" data-start="20240802T130000Z" data-end="20240802T144500Z" data-noc="MAR">
+<div class="event py-4" data-start="20240802T130000Z" data-end="20240802T144500Z" data-noc="MAR,USA">
  <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
  <div class="w-3/5 align-top inline-block text-black pl-2">
    <div class="text-2xl">
@@ -33489,7 +33489,7 @@
    <span class="text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl">M</span>
    </div>
    <div class="">男子1/4决赛
-<div class= "competitor MAR"> 🇲🇦 摩洛哥 </div>
+   <div class="">摩洛哥 🇲🇦 - 🇺🇸 美国</div>
    </div>
  </div>
 </div>
@@ -34688,7 +34688,7 @@
    </div>
  </div>
 </div>
-<div class="event py-4" data-start="20240802T190000Z" data-end="20240802T204500Z" data-noc="ARG">
+<div class="event py-4" data-start="20240802T190000Z" data-end="20240802T204500Z" data-noc="FRA,ARG">
  <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
  <div class="w-3/5 align-top inline-block text-black pl-2">
    <div class="text-2xl">
@@ -34697,7 +34697,7 @@
    <span class="text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl">M</span>
    </div>
    <div class="">男子1/4决赛
-<div class= "competitor ARG"> 🇦🇷 阿根廷 </div>
+   <div class="">法国 🇫🇷 - 🇦🇷 阿根廷</div>
    </div>
  </div>
 </div>
@@ -50183,12 +50183,15 @@
           if (end < now) {
             if (end > fifteenMinuteAgo) {
               element.classList.add(cycleColor());
-              element.classList.add('opacity-50');
+              element.classList.add('opacity-30');
             } else {
               element.remove();
             }
           } else {
             element.classList.add(cycleColor());
+            if (now < start) {
+              element.classList.add('opacity-30');
+            }
           }
         } else {
           element.remove();

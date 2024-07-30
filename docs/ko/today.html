@@ -19728,7 +19728,7 @@
    </div>
  </div>
 </div>
-<div class="event py-4" data-start="20240730T110400Z" data-end="20240730T112500Z" data-noc="ISR,GBR,TUR,CRO,HKG,USA,SLO,NZL,FRA,CZE,EST,PER,POL,ESP,NED,GER,CYP,NOR,CHN,SWE,ITA,ARG,AUT,MEX">
+<div class="event py-4" data-start="20240730T110400Z" data-end="20240730T112500Z" data-noc="ISR,GBR,TUR,CRO,HKG,USA,SLO,NZL,FRA,CZE,EST,PER,POL,ESP,NED,GER,CYP,NOR,SWE,ITA,ARG,AUT,MEX,CHN">
  <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
  <div class="w-3/5 align-top inline-block text-black pl-2">
    <div class="text-2xl">
@@ -23104,7 +23104,7 @@
    
    승마
    </div>
-   <div class="">마장마술 개인 그랑프리 2일차
+   <div class="">마장마술 단체 그랑프리 2일차
    </div>
  </div>
 </div>
@@ -23115,7 +23115,7 @@
    
    승마
    </div>
-   <div class="">마장마술 단체 그랑프리 2일차
+   <div class="">마장마술 개인 그랑프리 2일차
    </div>
  </div>
 </div>
@@ -33503,7 +33503,7 @@
    </div>
  </div>
 </div>
-<div class="event py-4" data-start="20240802T130000Z" data-end="20240802T144500Z" data-noc="MAR">
+<div class="event py-4" data-start="20240802T130000Z" data-end="20240802T144500Z" data-noc="MAR,USA">
  <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
  <div class="w-3/5 align-top inline-block text-black pl-2">
    <div class="text-2xl">
@@ -33512,7 +33512,7 @@
    <span class="text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl">M</span>
    </div>
    <div class="">남자 8강
-<div class= "competitor MAR"> 🇲🇦 모로코 </div>
+   <div class="">모로코 🇲🇦 - 🇺🇸 미국</div>
    </div>
  </div>
 </div>
@@ -34725,7 +34725,7 @@
    </div>
  </div>
 </div>
-<div class="event py-4" data-start="20240802T190000Z" data-end="20240802T204500Z" data-noc="ARG">
+<div class="event py-4" data-start="20240802T190000Z" data-end="20240802T204500Z" data-noc="FRA,ARG">
  <div class="time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10">__:__</div>
  <div class="w-3/5 align-top inline-block text-black pl-2">
    <div class="text-2xl">
@@ -34734,7 +34734,7 @@
    <span class="text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl">M</span>
    </div>
    <div class="">남자 8강
-<div class= "competitor ARG"> 🇦🇷 아르헨티나 </div>
+   <div class="">프랑스 🇫🇷 - 🇦🇷 아르헨티나</div>
    </div>
  </div>
 </div>
@@ -50264,12 +50264,15 @@
           if (end < now) {
             if (end > fifteenMinuteAgo) {
               element.classList.add(cycleColor());
-              element.classList.add('opacity-50');
+              element.classList.add('opacity-30');
             } else {
               element.remove();
             }
           } else {
             element.classList.add(cycleColor());
+            if (now < start) {
+              element.classList.add('opacity-30');
+            }
           }
         } else {
           element.remove();

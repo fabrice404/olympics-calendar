@@ -57,4 +57,13 @@ DESCRIPTION:Футбол - Группа A (ж)
 SUMMARY:⚽ Новая Зеландия 🇳🇿 - 🇫🇷 Франция
 LOCATION:Стадион «Лион»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T190000Z-football---FRA-ARG
+DTSTAMP:20240802T190000Z
+DTSTART:20240802T190000Z
+DTEND:20240802T204500Z
+DESCRIPTION:Футбол - Четвертьфинал (м)
+SUMMARY:⚽ Франция 🇫🇷 - 🇦🇷 Аргентина
+LOCATION:Стадион «Бордо»
+END:VEVENT
 END:VCALENDAR
