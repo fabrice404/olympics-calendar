@@ -90,12 +90,15 @@
           if (end < now) {
             if (end > fifteenMinuteAgo) {
               element.classList.add(cycleColor());
-              element.classList.add('opacity-50');
+              element.classList.add('opacity-30');
             } else {
               element.remove();
             }
           } else {
             element.classList.add(cycleColor());
+            if (now < start) {
+              element.classList.add('opacity-30');
+            }
           }
         } else {
           element.remove();
