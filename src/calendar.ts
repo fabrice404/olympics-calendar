@@ -320,7 +320,7 @@ export class Calendar {
     calendars.push(`  <div class="collapse-title text-xl font-medium">📅 ${translate.todaysEvents.get(this.language)}</div>`);
     calendars.push(`  <div class="collapse-content text-center">`)
     for (const noc of this.nocs.sort()) {
-      calendars.push(`    <a class="${buttonClass}" href="./today.html?noc=NOC">${getNOCFlag(noc)} ${noc}</a>`);
+      calendars.push(`    <a class="${buttonClass}" href="./today.html?noc=${noc}">${getNOCFlag(noc)} ${noc}</a>`);
     }
     calendars.push(`  </div>`);
     calendars.push(`</div>`);
