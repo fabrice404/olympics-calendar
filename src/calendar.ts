@@ -341,7 +341,7 @@ export class Calendar {
     calendars.push(`  </div>`);
     calendars.push(`</div>`);
 
-    for (const sport of this.sports.sort()) {
+    for (const sport of this.sports.sort((a: Sport, b: Sport) => a.name > b.name ? 1 : -1)) {
       calendars.push(`<div class="${accordionClass}">`);
       calendars.push(`  <input type="radio" name="accordion">`);
       calendars.push(`  <div class="collapse-title text-xl font-medium">${getSportIcon(sport.key)} ${sport.name}</div>`);
