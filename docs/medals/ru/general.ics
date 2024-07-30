@@ -3267,7 +3267,7 @@ BEGIN:VEVENT
 UID:20240808T150000Z-football--3-
 DTSTAMP:20240808T150000Z
 DTSTART:20240808T150000Z
-DTEND:20240808T180000Z
+DTEND:20240808T164500Z
 DESCRIPTION:Футбол - Матч за 3-е место (м)
 SUMMARY:⚽ Матч за 3-е место (м)
 LOCATION:Стадион «Божуар»
@@ -3669,6 +3669,15 @@ SUMMARY:🏊 Трамплин 3м, финал (ж)
 LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T130000Z-football--3-
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T144500Z
+DESCRIPTION:Футбол - Матч за 3-е место (ж)
+SUMMARY:⚽ Матч за 3-е место (ж)
+LOCATION:Стадион «Лион»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T130000Z-weightlifting-89-
 DTSTAMP:20240809T130000Z
 DTSTART:20240809T130000Z
@@ -3676,15 +3685,6 @@ DTEND:20240809T153000Z
 DESCRIPTION:Тяжелая атлетика - 89кг (м)
 SUMMARY:🏋 89кг (м)
 LOCATION:Арена «Париж-Юг» 6
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T130000Z-football--3-
-DTSTAMP:20240809T130000Z
-DTSTART:20240809T130000Z
-DTEND:20240809T160000Z
-DESCRIPTION:Футбол - Матч за 3-е место (ж)
-SUMMARY:⚽ Матч за 3-е место (ж)
-LOCATION:Стадион «Лион»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T130000Z-table-tennis--
@@ -3708,7 +3708,7 @@ BEGIN:VEVENT
 UID:20240809T160000Z-football--
 DTSTAMP:20240809T160000Z
 DTSTART:20240809T160000Z
-DTEND:20240809T193000Z
+DTEND:20240809T174500Z
 DESCRIPTION:Футбол - Финал (м)
 SUMMARY:⚽ Финал (м)
 LOCATION:«Парк-де-Пренс»
@@ -4203,7 +4203,7 @@ BEGIN:VEVENT
 UID:20240810T150000Z-football--
 DTSTAMP:20240810T150000Z
 DTSTART:20240810T150000Z
-DTEND:20240810T183000Z
+DTEND:20240810T164500Z
 DESCRIPTION:Футбол - Финал (ж)
 SUMMARY:⚽ Финал (ж)
 LOCATION:«Парк-де-Пренс»
