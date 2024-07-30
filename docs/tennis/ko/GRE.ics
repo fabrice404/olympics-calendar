@@ -84,4 +84,13 @@ DESCRIPTION:테니스 - 여자 단식 3라운드
 SUMMARY:🎾 Maria SAKKARI 🇬🇷 - 🇺🇦 Marta KOSTYUK
 LOCATION:롤랑가로스 스타디움
 END:VEVENT
+BEGIN:VEVENT
+UID:20240731T100000Z-tennis--3-ARG-GRE
+DTSTAMP:20240731T100000Z
+DTSTART:20240731T100000Z
+DTEND:20240731T113000Z
+DESCRIPTION:테니스 - 남자 단식 3라운드
+SUMMARY:🎾 Sebastian BAEZ 🇦🇷 - 🇬🇷 Stefanos TSITSIPAS
+LOCATION:롤랑가로스 스타디움
+END:VEVENT
 END:VCALENDAR

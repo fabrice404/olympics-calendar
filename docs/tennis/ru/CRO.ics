@@ -48,4 +48,13 @@ DESCRIPTION:Теннис - Третий раунд, одиночный разр�
 SUMMARY:🎾 Donna VEKIC 🇭🇷 - 🇺🇸 Coco GAUFF
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240731T170000Z-tennis---UKR-CRO
+DTSTAMP:20240731T170000Z
+DTSTART:20240731T170000Z
+DTEND:20240731T200000Z
+DESCRIPTION:Теннис - Четвертьфинал, одиночный разряд (ж)
+SUMMARY:🎾 Marta KOSTYUK 🇺🇦 - 🇭🇷 Donna VEKIC
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
 END:VCALENDAR
