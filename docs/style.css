@@ -1754,9 +1754,6 @@ details.collapse summary::-webkit-details-marker {
 .rounded-xl {
   border-radius: 0.75rem;
 }
-.border-b {
-  border-bottom-width: 1px;
-}
 .border-r {
   border-right-width: 1px;
 }
@@ -1801,17 +1798,11 @@ details.collapse summary::-webkit-details-marker {
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
-.pb-4 {
-  padding-bottom: 1rem;
-}
 .pl-2 {
   padding-left: 0.5rem;
 }
 .pr-2 {
   padding-right: 0.5rem;
-}
-.pt-8 {
-  padding-top: 2rem;
 }
 .text-center {
   text-align: center;
@@ -1828,14 +1819,6 @@ details.collapse summary::-webkit-details-marker {
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
-}
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-}
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
 }
 .text-5xl {
   font-size: 3rem;
