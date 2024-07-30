@@ -113,6 +113,15 @@ SUMMARY:🎾 Третий раунд, одиночный разряд (м)
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T100000Z-tennis---USA-CAN
+DTSTAMP:20240731T100000Z
+DTSTART:20240731T100000Z
+DTEND:20240731T173000Z
+DESCRIPTION:Теннис - Четвертьфинал (микст)
+SUMMARY:🎾 GAUFF/FRITZ 🇺🇸 - 🇨🇦 DABROWSKI/AUGER-ALIAS
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T113000Z-tennis--
 DTSTAMP:20240731T113000Z
 DTSTART:20240731T113000Z
