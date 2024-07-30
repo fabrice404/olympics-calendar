@@ -14339,13 +14339,12 @@ SUMMARY:🥊 Samet GUMUS 🇹🇷 - 🇰🇿 Saken BIBOSSINOV
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240730T180800Z-archery-116-
+UID:20240730T180800Z-archery-116--CHN-FRA
 DTSTAMP:20240730T180800Z
 DTSTART:20240730T180800Z
 DTEND:20240730T182100Z
-DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)\n🇨🇳 YANG
-  Xiaolei
-SUMMARY:🏹 1/16 финала, индивидуальные (ж)
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)
+SUMMARY:🏹 YANG Xiaolei 🇨🇳 - 🇫🇷 Lisa BARBELIN
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
@@ -14653,12 +14652,12 @@ UID:20240730T195900Z-swimming-200-
 DTSTAMP:20240730T195900Z
 DTSTART:20240730T195900Z
 DTEND:20240730T201500Z
-DESCRIPTION:Плавание - 200м брассом, полуфиналы (м)\n🇮🇸 Anton McKEE\n🇳🇱
-  Arno KAMMINGA\n🇰🇷 CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳 DONG
-  Zhihao\n🇰🇬 Denis PETRASHOV\n🇸🇪 Erik PERSSON\n🇯🇵 HANAGURUMA Yu\n🇺🇸
-  Josh MATHENY\n🇦🇺 Joshua YONG\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
-  EPITROPOV\n🇺🇸 Matt FALLON\n🇨🇳 QIN Haiyang\n🇯🇵 WATANABE Ippei\n🇦🇺
-  Zac STUBBLETY-COOK
+DESCRIPTION:Плавание - 200м брассом, полуфиналы (м)\n🇮🇸 Anton McKEE\n🇰🇷
+  CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳 DONG Zhihao\n🇰🇬 Denis
+  PETRASHOV\n🇸🇪 Erik PERSSON\n🇯🇵 HANAGURUMA Yu\n🇺🇸 Josh MATHENY\n🇦🇺
+  Joshua YONG\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir EPITROPOV\n🇺🇸 Matt
+  FALLON\n🇲🇽 Miguel Alejandro de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇯🇵
+  WATANABE Ippei\n🇦🇺 Zac STUBBLETY-COOK
 SUMMARY:🏊 200м брассом, полуфиналы (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
@@ -15009,8 +15008,8 @@ UID:20240731T080000Z-equestrian--2
 DTSTAMP:20240731T080000Z
 DTSTART:20240731T080000Z
 DTEND:20240731T133000Z
-DESCRIPTION:Конный спорт - Командная выездка, гран-при, день 2
-SUMMARY:🏇 Командная выездка, гран-при, день 2
+DESCRIPTION:Конный спорт - Личная выездка, гран-при, день 2
+SUMMARY:🏇 Личная выездка, гран-при, день 2
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
@@ -15018,8 +15017,8 @@ UID:20240731T080000Z-equestrian--2
 DTSTAMP:20240731T080000Z
 DTSTART:20240731T080000Z
 DTEND:20240731T133000Z
-DESCRIPTION:Конный спорт - Личная выездка, гран-при, день 2
-SUMMARY:🏇 Личная выездка, гран-при, день 2
+DESCRIPTION:Конный спорт - Командная выездка, гран-при, день 2
+SUMMARY:🏇 Командная выездка, гран-при, день 2
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
@@ -21737,10 +21736,10 @@ SUMMARY:⚽ Четвертьфинал (м)
 LOCATION:«Парк-де-Пренс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T130300Z-sailing--
-DTSTAMP:20240802T130300Z
-DTSTART:20240802T130300Z
-DTEND:20240802T130800Z
+UID:20240802T130800Z-sailing--
+DTSTAMP:20240802T130800Z
+DTSTART:20240802T130800Z
+DTEND:20240802T131300Z
 DESCRIPTION:Парусный спорт - Виндсерфинг, полуфинал (м)
 SUMMARY:⛵ Виндсерфинг, полуфинал (м)
 LOCATION:Марсельская гавань
@@ -21753,15 +21752,6 @@ DTEND:20240802T133100Z
 DESCRIPTION:Стрельба из лука - 1/4 финала, команды (микст)
 SUMMARY:🏹 1/4 финала, команды (микст)
 LOCATION:Дом инвалидов
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T132300Z-sailing--
-DTSTAMP:20240802T132300Z
-DTSTART:20240802T132300Z
-DTEND:20240802T132800Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, финал (ж)
-SUMMARY:⛵ Виндсерфинг, финал (ж)
-LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T133000Z-boxing--18-57--TPE-UZB
@@ -21802,6 +21792,15 @@ SUMMARY:🏹 1/2 финала, команды (микст)
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T133300Z-sailing--
+DTSTAMP:20240802T133300Z
+DTSTART:20240802T133300Z
+DTEND:20240802T133800Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, финал (ж)
+SUMMARY:⛵ Виндсерфинг, финал (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T133500Z-sailing--03-
 DTSTAMP:20240802T133500Z
 DTSTART:20240802T133500Z
@@ -21818,15 +21817,6 @@ DTEND:20240802T150000Z
 DESCRIPTION:Водное поло - Групповой этап - Группа B (ж)
 SUMMARY:🤽 Греция 🇬🇷 - 🇮🇹 Италия
 LOCATION:Центр водных видов спорта
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T134300Z-sailing--
-DTSTAMP:20240802T134300Z
-DTSTART:20240802T134300Z
-DTEND:20240802T134800Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, финал (м)
-SUMMARY:⛵ Виндсерфинг, финал (м)
-LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T134600Z-boxing--18-57--IRL-BUL
@@ -21908,6 +21898,15 @@ DTEND:20240802T141200Z
 DESCRIPTION:Дзюдо - Утешительный поединок, свыше 78кг (ж)
 SUMMARY:🥋 Утешительный поединок, свыше 78кг (ж)
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T140800Z-sailing--
+DTSTAMP:20240802T140800Z
+DTSTART:20240802T140800Z
+DTEND:20240802T141300Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, финал (м)
+SUMMARY:⛵ Виндсерфинг, финал (м)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T141200Z-judo--B-78-
@@ -22648,7 +22647,7 @@ UID:20240802T192000Z-boxing--51-
 DTSTAMP:20240802T192000Z
 DTSTART:20240802T192000Z
 DTEND:20240802T193100Z
-DESCRIPTION:Бокс - Четвертьфинал, до 51кг (м)
+DESCRIPTION:Бокс - Четвертьфинал, до 51кг (м)\n🇰🇿 Saken BIBOSSINOV
 SUMMARY:🥊 Четвертьфинал, до 51кг (м)
 LOCATION:Арена «Париж-Север»
 END:VEVENT
@@ -31698,18 +31697,18 @@ BEGIN:VEVENT
 UID:20240809T140000Z-breaking--
 DTSTAMP:20240809T140000Z
 DTSTART:20240809T140000Z
-DTEND:20240809T140700Z
-DESCRIPTION:Брейкинг - Би-герлз пре-квалификац. баттл
-SUMMARY:🤸 Би-герлз пре-квалификац. баттл
+DTEND:20240809T160000Z
+DESCRIPTION:Брейкинг - Групповой этап (ж)
+SUMMARY:🤸 Групповой этап (ж)
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T140000Z-breaking--
 DTSTAMP:20240809T140000Z
 DTSTART:20240809T140000Z
-DTEND:20240809T160000Z
-DESCRIPTION:Брейкинг - Групповой этап (ж)
-SUMMARY:🤸 Групповой этап (ж)
+DTEND:20240809T140700Z
+DESCRIPTION:Брейкинг - Би-герлз пре-квалификац. баттл
+SUMMARY:🤸 Би-герлз пре-квалификац. баттл
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
