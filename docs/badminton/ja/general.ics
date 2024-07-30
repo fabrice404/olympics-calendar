@@ -1237,21 +1237,21 @@ SUMMARY:🏸 Misha ZILBERMAN 🇮🇱 - 🇳🇵 Prince DAHAL
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T081000Z-badminton--A-CHN-ITA
+DTSTAMP:20240731T081000Z
+DTSTART:20240731T081000Z
+DTEND:20240731T085000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループA
+SUMMARY:🏸 SHI Yu Qi 🇨🇳 - 🇮🇹 Giovanni TOTI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T081000Z-badminton--C-THA-FIN
 DTSTAMP:20240731T081000Z
 DTSTART:20240731T081000Z
 DTEND:20240731T085000Z
 DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループC
 SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇫🇮 Kalle KOLJONEN
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T081000Z-badminton--D-DEN-JPN
-DTSTAMP:20240731T081000Z
-DTSTART:20240731T081000Z
-DTEND:20240731T085000Z
-DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
-SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇯🇵 HOKI/KOBAYASHI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1264,15 +1264,6 @@ SUMMARY:🏸 Jonatan CHRISTIE 🇮🇩 - 🇮🇳 Lakshya SEN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T090000Z-badminton--A-CHN-ITA
-DTSTAMP:20240731T090000Z
-DTSTART:20240731T090000Z
-DTEND:20240731T094000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループA
-SUMMARY:🏸 SHI Yu Qi 🇨🇳 - 🇮🇹 Giovanni TOTI
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240731T120000Z-badminton--D-CHN-TPE
 DTSTAMP:20240731T120000Z
 DTSTART:20240731T120000Z
@@ -1282,12 +1273,12 @@ SUMMARY:🏸 LIU/OU 🇨🇳 - 🇹🇼 LEE/WANG
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T120000Z-badminton--J-JPN-KOR
+UID:20240731T120000Z-badminton--D-DEN-JPN
 DTSTAMP:20240731T120000Z
 DTSTART:20240731T120000Z
 DTEND:20240731T124000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループJ
-SUMMARY:🏸 NARAOKA Kodai 🇯🇵 - 🇰🇷 JEON Hyeok Jin
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇯🇵 HOKI/KOBAYASHI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -1369,6 +1360,15 @@ DTSTART:20240731T143000Z
 DTEND:20240731T151000Z
 DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループH
 SUMMARY:🏸 Anthony Sinisuka GINTING 🇮🇩 - 🇫🇷 Toma Junior POPOV
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T143000Z-badminton--J-JPN-KOR
+DTSTAMP:20240731T143000Z
+DTSTART:20240731T143000Z
+DTEND:20240731T151000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループJ
+SUMMARY:🏸 NARAOKA Kodai 🇯🇵 - 🇰🇷 JEON Hyeok Jin
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT

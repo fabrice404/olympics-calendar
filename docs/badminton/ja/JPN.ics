@@ -148,21 +148,12 @@ SUMMARY:🏸 YAMAGUCHI Akane 🇯🇵 - 🇨🇦 Michelle LI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T081000Z-badminton--D-DEN-JPN
-DTSTAMP:20240731T081000Z
-DTSTART:20240731T081000Z
-DTEND:20240731T085000Z
-DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
-SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇯🇵 HOKI/KOBAYASHI
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T120000Z-badminton--J-JPN-KOR
+UID:20240731T120000Z-badminton--D-DEN-JPN
 DTSTAMP:20240731T120000Z
 DTSTART:20240731T120000Z
 DTEND:20240731T124000Z
-DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループJ
-SUMMARY:🏸 NARAOKA Kodai 🇯🇵 - 🇰🇷 JEON Hyeok Jin
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇯🇵 HOKI/KOBAYASHI
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -181,6 +172,15 @@ DTSTART:20240731T134000Z
 DTEND:20240731T142000Z
 DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループJ
 SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇵🇪 Ines Lucia CASTILLO
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T143000Z-badminton--J-JPN-KOR
+DTSTAMP:20240731T143000Z
+DTSTART:20240731T143000Z
+DTEND:20240731T151000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループJ
+SUMMARY:🏸 NARAOKA Kodai 🇯🇵 - 🇰🇷 JEON Hyeok Jin
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
