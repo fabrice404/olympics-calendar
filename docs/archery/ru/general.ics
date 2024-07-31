@@ -765,60 +765,6 @@ SUMMARY:🏹 Amelie CORDEAU 🇫🇷 - 🇬🇧 Megs HAVERS
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T170300Z-archery-132--SLO-ITA
-DTSTAMP:20240731T170300Z
-DTSTART:20240731T170300Z
-DTEND:20240731T170300Z
-DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (м)
-SUMMARY:🏹 Ziga RAVNIKAR 🇸🇮 - 🇮🇹 Federico MUSOLESI
-LOCATION:Дом инвалидов
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T171600Z-archery-132--RSA-KOR
-DTSTAMP:20240731T171600Z
-DTSTART:20240731T171600Z
-DTEND:20240731T171600Z
-DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (м)
-SUMMARY:🏹 Wian ROUX 🇿🇦 - 🇰🇷 KIM Je Deok
-LOCATION:Дом инвалидов
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T172900Z-archery-132--TUR-MAS
-DTSTAMP:20240731T172900Z
-DTSTART:20240731T172900Z
-DTEND:20240731T172900Z
-DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (ж)
-SUMMARY:🏹 Elif Berra GOKKIR 🇹🇷 - 🇲🇾 Nurul Azreena MOHAMAD FAZIL
-LOCATION:Дом инвалидов
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T174200Z-archery-132--VIE-IRI
-DTSTAMP:20240731T174200Z
-DTSTART:20240731T174200Z
-DTEND:20240731T174200Z
-DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (ж)
-SUMMARY:🏹 Thi Anh Nguyet DO 🇻🇳 - 🇮🇷 Mobina FALLAH
-LOCATION:Дом инвалидов
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T175500Z-archery-116-
-DTSTAMP:20240731T175500Z
-DTSTART:20240731T175500Z
-DTEND:20240731T175500Z
-DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (м)
-SUMMARY:🏹 1/16 финала, индивидуальные (м)
-LOCATION:Дом инвалидов
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T180800Z-archery-116-
-DTSTAMP:20240731T180800Z
-DTSTART:20240731T180800Z
-DTEND:20240731T180800Z
-DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)
-SUMMARY:🏹 1/16 финала, индивидуальные (ж)
-LOCATION:Дом инвалидов
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T073000Z-archery-132--MEX-MGL
 DTSTAMP:20240801T073000Z
 DTSTART:20240801T073000Z
@@ -1138,6 +1084,60 @@ UID:20240801T171100Z-archery-116-
 DTSTAMP:20240801T171100Z
 DTSTART:20240801T171100Z
 DTEND:20240801T172400Z
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)
+SUMMARY:🏹 1/16 финала, индивидуальные (ж)
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T172400Z-archery-132--SLO-ITA
+DTSTAMP:20240801T172400Z
+DTSTART:20240801T172400Z
+DTEND:20240801T173700Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (м)
+SUMMARY:🏹 Ziga RAVNIKAR 🇸🇮 - 🇮🇹 Federico MUSOLESI
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T173700Z-archery-132--RSA-KOR
+DTSTAMP:20240801T173700Z
+DTSTART:20240801T173700Z
+DTEND:20240801T175000Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (м)
+SUMMARY:🏹 Wian ROUX 🇿🇦 - 🇰🇷 KIM Je Deok
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T175000Z-archery-132--TUR-MAS
+DTSTAMP:20240801T175000Z
+DTSTART:20240801T175000Z
+DTEND:20240801T180300Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (ж)
+SUMMARY:🏹 Elif Berra GOKKIR 🇹🇷 - 🇲🇾 Nurul Azreena MOHAMAD FAZIL
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T180300Z-archery-132--VIE-IRI
+DTSTAMP:20240801T180300Z
+DTSTART:20240801T180300Z
+DTEND:20240801T181600Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (ж)
+SUMMARY:🏹 Thi Anh Nguyet DO 🇻🇳 - 🇮🇷 Mobina FALLAH
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T181600Z-archery-116-
+DTSTAMP:20240801T181600Z
+DTSTART:20240801T181600Z
+DTEND:20240801T182900Z
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (м)
+SUMMARY:🏹 1/16 финала, индивидуальные (м)
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T182900Z-archery-116-
+DTSTAMP:20240801T182900Z
+DTSTART:20240801T182900Z
+DTEND:20240801T184200Z
 DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)
 SUMMARY:🏹 1/16 финала, индивидуальные (ж)
 LOCATION:Дом инвалидов
