@@ -4558,6 +4558,22 @@ SUMMARY:🔫 Винтовка 50м из 3 положений, квалифика
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T100300Z-sailing--11-
+DTSTAMP:20240801T100300Z
+DTSTART:20240801T100300Z
+DTEND:20240801T102400Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 11 (м)\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Виндсерфинг, гонка 11 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T100500Z-swimming--4X200-
 DTSTAMP:20240801T100500Z
 DTSTART:20240801T100500Z
@@ -4582,37 +4598,10 @@ SUMMARY:🚣 Четверки, финал A (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T104500Z-archery-132--GUI-USA
-DTSTAMP:20240801T104500Z
-DTSTART:20240801T104500Z
-DTEND:20240801T105800Z
-DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (ж)
-SUMMARY:🏹 Fatoumata SYLLA 🇬🇳 - 🇺🇸 Casey KAUFHOLD
-LOCATION:Дом инвалидов
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T110000Z-3x3-basketball---USA-AUS
-DTSTAMP:20240801T110000Z
-DTSTART:20240801T110000Z
-DTEND:20240801T112500Z
-DESCRIPTION:Баскетбол 3х3 - Групповой этап (ж)
-SUMMARY:🏀 США 🇺🇸 - 🇦🇺 Австралия
-LOCATION:Площадь Согласия 1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T130000Z-beach-volleyball--D--BRA-USA
-DTSTAMP:20240801T130000Z
-DTSTART:20240801T130000Z
-DTEND:20240801T135000Z
-DESCRIPTION:Пляжный волейбол - Групповой этап - Группа D (м)
-SUMMARY:🏐 GEORGE/ANDRE 🇧🇷 - 🇺🇸 PARTAIN/BENESH
-LOCATION:Стадион у Эйфелевой башни
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T130300Z-sailing--12-
-DTSTAMP:20240801T130300Z
-DTSTART:20240801T130300Z
-DTEND:20240801T132400Z
+UID:20240801T102300Z-sailing--12-
+DTSTAMP:20240801T102300Z
+DTSTART:20240801T102300Z
+DTEND:20240801T104400Z
 DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 12 (ж)\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -4626,10 +4615,35 @@ SUMMARY:⛵ Виндсерфинг, гонка 12 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T133400Z-sailing--13-
-DTSTAMP:20240801T133400Z
-DTSTART:20240801T133400Z
-DTEND:20240801T135500Z
+UID:20240801T103400Z-sailing--12-
+DTSTAMP:20240801T103400Z
+DTSTART:20240801T103400Z
+DTEND:20240801T105500Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 12 (м)\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Виндсерфинг, гонка 12 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T104500Z-archery-132--GUI-USA
+DTSTAMP:20240801T104500Z
+DTSTART:20240801T104500Z
+DTEND:20240801T105800Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (ж)
+SUMMARY:🏹 Fatoumata SYLLA 🇬🇳 - 🇺🇸 Casey KAUFHOLD
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T105400Z-sailing--13-
+DTSTAMP:20240801T105400Z
+DTSTART:20240801T105400Z
+DTEND:20240801T111500Z
 DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 13 (ж)\n🇦🇷 Chiara
   FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
   NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
@@ -4641,6 +4655,123 @@ DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 13 
   STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
 SUMMARY:⛵ Виндсерфинг, гонка 13 (ж)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T110000Z-3x3-basketball---USA-AUS
+DTSTAMP:20240801T110000Z
+DTSTART:20240801T110000Z
+DTEND:20240801T112500Z
+DESCRIPTION:Баскетбол 3х3 - Групповой этап (ж)
+SUMMARY:🏀 США 🇺🇸 - 🇦🇺 Австралия
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T110500Z-sailing--13-
+DTSTAMP:20240801T110500Z
+DTSTART:20240801T110500Z
+DTEND:20240801T112600Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 13 (м)\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Виндсерфинг, гонка 13 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T112500Z-sailing--14-
+DTSTAMP:20240801T112500Z
+DTSTART:20240801T112500Z
+DTEND:20240801T114600Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 14 (ж)\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Виндсерфинг, гонка 14 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T113600Z-sailing--14-
+DTSTAMP:20240801T113600Z
+DTSTART:20240801T113600Z
+DTEND:20240801T115700Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 14 (м)\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Виндсерфинг, гонка 14 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T115600Z-sailing--15-
+DTSTAMP:20240801T115600Z
+DTSTART:20240801T115600Z
+DTEND:20240801T121700Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 15 (ж)\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Виндсерфинг, гонка 15 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T120700Z-sailing--15-
+DTSTAMP:20240801T120700Z
+DTSTART:20240801T120700Z
+DTEND:20240801T122800Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 15 (м)\n🇭🇰 CHENG Ching
+  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
+  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
+  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
+  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
+  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
+  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
+  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ Виндсерфинг, гонка 15 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T122700Z-sailing--16-
+DTSTAMP:20240801T122700Z
+DTSTART:20240801T122700Z
+DTEND:20240801T124800Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 16 (ж)\n🇦🇷 Chiara
+  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
+  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
+  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
+  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
+  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
+  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
+  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
+  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ Виндсерфинг, гонка 16 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T130000Z-beach-volleyball--D--BRA-USA
+DTSTAMP:20240801T130000Z
+DTSTART:20240801T130000Z
+DTEND:20240801T135000Z
+DESCRIPTION:Пляжный волейбол - Групповой этап - Группа D (м)
+SUMMARY:🏐 GEORGE/ANDRE 🇧🇷 - 🇺🇸 PARTAIN/BENESH
+LOCATION:Стадион у Эйфелевой башни
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T133500Z-sailing--01-
@@ -4666,22 +4797,6 @@ SUMMARY:⛵ Швертбот, гонка 01 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T135300Z-sailing--11-
-DTSTAMP:20240801T135300Z
-DTSTART:20240801T135300Z
-DTEND:20240801T141400Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 11 (м)\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Виндсерфинг, гонка 11 (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T140200Z-boxing--18-50--FIN-USA
 DTSTAMP:20240801T140200Z
 DTSTART:20240801T140200Z
@@ -4689,56 +4804,6 @@ DTEND:20240801T141300Z
 DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 50кг (ж)
 SUMMARY:🥊 Pihla KAIVO-OJA 🇫🇮 - 🇺🇸 Jennifer LOZANO
 LOCATION:Арена «Париж-Север»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T140500Z-sailing--14-
-DTSTAMP:20240801T140500Z
-DTSTART:20240801T140500Z
-DTEND:20240801T142600Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 14 (ж)\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Виндсерфинг, гонка 14 (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T142400Z-sailing--12-
-DTSTAMP:20240801T142400Z
-DTSTART:20240801T142400Z
-DTEND:20240801T144500Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 12 (м)\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Виндсерфинг, гонка 12 (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T143600Z-sailing--15-
-DTSTAMP:20240801T143600Z
-DTSTART:20240801T143600Z
-DTEND:20240801T145700Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 15 (ж)\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Виндсерфинг, гонка 15 (ж)
-LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T144300Z-sailing--02-
@@ -4773,22 +4838,6 @@ SUMMARY:🥊 Navbakhor KHAMIDOVA 🇺🇿 - 🇺🇸 Morelle McCANE
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T145500Z-sailing--13-
-DTSTAMP:20240801T145500Z
-DTSTART:20240801T145500Z
-DTEND:20240801T151600Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 13 (м)\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Виндсерфинг, гонка 13 (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T150000Z-hockey--B--USA-GBR
 DTSTAMP:20240801T150000Z
 DTSTART:20240801T150000Z
@@ -4796,39 +4845,6 @@ DTEND:20240801T163000Z
 DESCRIPTION:Хоккей на траве - Группа B (ж)
 SUMMARY:🏑 США 🇺🇸 - 🇬🇧 Великобритания
 LOCATION:Стадион «Ив дю Мануар»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T150700Z-sailing--16-
-DTSTAMP:20240801T150700Z
-DTSTART:20240801T150700Z
-DTEND:20240801T152800Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 16 (ж)\n🇦🇷 Chiara
-  FERRETTI\n🇺🇸 Dominique STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene
-  NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪 Johanna HJERTBERG\n🇨🇿 Katerina
-  SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱
-  Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇲🇽 Mariana AGUILAR
-  CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve VATAN\n🇳🇴 Mina
-  MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar LAMADRID
-  TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
-  STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ Виндсерфинг, гонка 16 (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T152600Z-sailing--14-
-DTSTAMP:20240801T152600Z
-DTSTART:20240801T152600Z
-DTEND:20240801T154700Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 14 (м)\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Виндсерфинг, гонка 14 (м)
-LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T153800Z-sailing--17-
@@ -4862,22 +4878,6 @@ DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 18 
   TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
   STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
 SUMMARY:⛵ Виндсерфинг, гонка 18 (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T155700Z-sailing--15-
-DTSTAMP:20240801T155700Z
-DTSTART:20240801T155700Z
-DTEND:20240801T161800Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 15 (м)\n🇭🇰 CHENG Ching
-  Yin\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET
-  BIRKNER\n🇦🇺 Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰
-  Johan SOE\n🇳🇿 Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus
-  ISAAC\n🇪🇸 Nacho BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo
-  RENNA\n🇺🇸 Noah LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰
-  Robert KUBIN\n🇱🇹 Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian
-  KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ Виндсерфинг, гонка 15 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT

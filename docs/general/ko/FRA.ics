@@ -4501,6 +4501,22 @@ SUMMARY:🔫 여자 50m 소총3자세 예선
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T100300Z-sailing--11
+DTSTAMP:20240801T100300Z
+DTSTART:20240801T100300Z
+DTEND:20240801T102400Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 11\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 11
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T100500Z-swimming--4-X-200M-
 DTSTAMP:20240801T100500Z
 DTSTART:20240801T100500Z
@@ -4535,6 +4551,22 @@ SUMMARY:⛵ 남자 딩기 - 레이스 1
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T102300Z-sailing--12
+DTSTAMP:20240801T102300Z
+DTSTART:20240801T102300Z
+DTEND:20240801T104400Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 12\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 12
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T103000Z-3x3-basketball---AZE-FRA
 DTSTAMP:20240801T103000Z
 DTSTART:20240801T103000Z
@@ -4542,6 +4574,22 @@ DTEND:20240801T105500Z
 DESCRIPTION:3X3 농구 - 여자 예선 라운드
 SUMMARY:🏀 아제르바이잔 🇦🇿 - 🇫🇷 프랑스
 LOCATION:라 콩코르드 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T103400Z-sailing--12
+DTSTAMP:20240801T103400Z
+DTSTART:20240801T103400Z
+DTEND:20240801T105500Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 12\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 12
+LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T104500Z-hockey--A-FRA-GBR
@@ -4553,6 +4601,86 @@ SUMMARY:🏑 프랑스 🇫🇷 - 🇬🇧 영국
 LOCATION:이브-뒤-마누아 스타디움
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T105400Z-sailing--13
+DTSTAMP:20240801T105400Z
+DTSTART:20240801T105400Z
+DTEND:20240801T111500Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 13\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 13
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T110500Z-sailing--13
+DTSTAMP:20240801T110500Z
+DTSTART:20240801T110500Z
+DTEND:20240801T112600Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 13\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 13
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T112500Z-sailing--14
+DTSTAMP:20240801T112500Z
+DTSTART:20240801T112500Z
+DTEND:20240801T114600Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 14\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 14
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T113600Z-sailing--14
+DTSTAMP:20240801T113600Z
+DTSTART:20240801T113600Z
+DTEND:20240801T115700Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 14\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 14
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T115600Z-sailing--15
+DTSTAMP:20240801T115600Z
+DTSTART:20240801T115600Z
+DTEND:20240801T121700Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 15\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 15
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T120500Z-3x3-basketball---NED-FRA
 DTSTAMP:20240801T120500Z
 DTSTART:20240801T120500Z
@@ -4560,6 +4688,22 @@ DTEND:20240801T123000Z
 DESCRIPTION:3X3 농구 - 남자 예선 라운드
 SUMMARY:🏀 네덜란드 🇳🇱 - 🇫🇷 프랑스
 LOCATION:라 콩코르드 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T120700Z-sailing--15
+DTSTAMP:20240801T120700Z
+DTSTART:20240801T120700Z
+DTEND:20240801T122800Z
+DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 15\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
+  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
+  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
+  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
+  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
+  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
+  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
+SUMMARY:⛵ 남자 윈드서핑 - 레이스 15
+LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T122000Z-sailing--2
@@ -4585,6 +4729,22 @@ SUMMARY:⛵ 남자 딩기 - 레이스 2
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T122700Z-sailing--16
+DTSTAMP:20240801T122700Z
+DTSTART:20240801T122700Z
+DTEND:20240801T124800Z
+DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 16\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
+  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
+  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
+  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
+  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
+  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
+  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
+  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 레이스 16
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T130000Z-table-tennis--8-FRA-TPE
 DTSTAMP:20240801T130000Z
 DTSTART:20240801T130000Z
@@ -4603,22 +4763,6 @@ SUMMARY:🤽 프랑스 🇫🇷 - 🇦🇺 오스트레일리아
 LOCATION:아쿠아틱 센터
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T130300Z-sailing--12
-DTSTAMP:20240801T130300Z
-DTSTART:20240801T130300Z
-DTEND:20240801T132400Z
-DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 12\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
-  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
-  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
-  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
-  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
-  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
-  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
-  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 여자 윈드서핑 - 레이스 12
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T133000Z-canoe-slalom--1-
 DTSTAMP:20240801T133000Z
 DTSTART:20240801T133000Z
@@ -4632,22 +4776,6 @@ DESCRIPTION:카누 슬라럼 - 남자 카약 1인승 준결승\n🇦🇹 Felix O
   ANDERSON\n🇫🇷 Titouan CASTRYCK
 SUMMARY:🛶 남자 카약 1인승 준결승
 LOCATION:카누 경기장 - 화이트워터
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T133400Z-sailing--13
-DTSTAMP:20240801T133400Z
-DTSTART:20240801T133400Z
-DTEND:20240801T135500Z
-DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 13\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
-  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
-  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
-  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
-  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
-  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
-  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
-  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 여자 윈드서핑 - 레이스 13
-LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T133500Z-sailing--1
@@ -4673,22 +4801,6 @@ SUMMARY:⛵ 여자 딩기 - 레이스 1
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T135300Z-sailing--11
-DTSTAMP:20240801T135300Z
-DTSTART:20240801T135300Z
-DTEND:20240801T141400Z
-DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 11\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
-  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
-  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
-  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
-  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
-  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 남자 윈드서핑 - 레이스 11
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T135600Z-archery--64--FRA-AUS
 DTSTAMP:20240801T135600Z
 DTSTART:20240801T135600Z
@@ -4705,54 +4817,6 @@ DTEND:20240801T153000Z
 DESCRIPTION:핸드볼 - 여자 예선 B조
 SUMMARY:🤾 앙골라 🇦🇴 - 🇫🇷 프랑스
 LOCATION:사우스 파리 아레나 6
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T140500Z-sailing--14
-DTSTAMP:20240801T140500Z
-DTSTART:20240801T140500Z
-DTEND:20240801T142600Z
-DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 14\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
-  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
-  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
-  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
-  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
-  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
-  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
-  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 여자 윈드서핑 - 레이스 14
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T142400Z-sailing--12
-DTSTAMP:20240801T142400Z
-DTSTART:20240801T142400Z
-DTEND:20240801T144500Z
-DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 12\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
-  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
-  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
-  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
-  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
-  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 남자 윈드서핑 - 레이스 12
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T143600Z-sailing--15
-DTSTAMP:20240801T143600Z
-DTSTART:20240801T143600Z
-DTEND:20240801T145700Z
-DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 15\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
-  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
-  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
-  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
-  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
-  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
-  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
-  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 여자 윈드서핑 - 레이스 15
-LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T144300Z-sailing--2
@@ -4778,38 +4842,6 @@ SUMMARY:⛵ 여자 딩기 - 레이스 2
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T145500Z-sailing--13
-DTSTAMP:20240801T145500Z
-DTSTART:20240801T145500Z
-DTEND:20240801T151600Z
-DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 13\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
-  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
-  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
-  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
-  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
-  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 남자 윈드서핑 - 레이스 13
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T150700Z-sailing--16
-DTSTAMP:20240801T150700Z
-DTSTART:20240801T150700Z
-DTEND:20240801T152800Z
-DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 16\n🇦🇷 Chiara FERRETTI\n🇺🇸 Dominique
-  STATER\n🇬🇧 Emma WILSON\n🇫🇷 Helene NOESMOEN\n🇪🇪 Ingrid PUUSTA\n🇸🇪
-  Johanna HJERTBERG\n🇨🇿 Katerina SVIKOVA\n🇸🇮 Lina ERZEN\n🇦🇹 Lorena
-  ABICHT\n🇭🇰 MA Kwan Ching\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO
-  GERMAN\n🇲🇽 Mariana AGUILAR CHAVEZ PEON\n🇮🇹 Marta MAGGETTI\n🇹🇷 Merve
-  VATAN\n🇳🇴 Mina MOBEKK\n🇨🇾 Natasa LAPPA\n🇭🇷 Palma CARGO\n🇪🇸 Pilar
-  LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
-  Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 여자 윈드서핑 - 레이스 16
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T151500Z-basketball--B-FRA-NGR
 DTSTAMP:20240801T151500Z
 DTSTART:20240801T151500Z
@@ -4817,22 +4849,6 @@ DTEND:20240801T170000Z
 DESCRIPTION:농구 - 여자 조별예선 B조
 SUMMARY:🏀 프랑스 🇫🇷 - 🇳🇬 나이지리아
 LOCATION:피에르 모루아 스타디움
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T152600Z-sailing--14
-DTSTAMP:20240801T152600Z
-DTSTART:20240801T152600Z
-DTEND:20240801T154700Z
-DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 14\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
-  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
-  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
-  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
-  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
-  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 남자 윈드서핑 - 레이스 14
-LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T153800Z-boxing--635KG-8-HUN-FRA
@@ -4873,22 +4889,6 @@ DESCRIPTION:요트 - 여자 윈드서핑 - 레이스 18\n🇦🇷 Chiara FERRETT
   LAMADRID TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa
   Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
 SUMMARY:⛵ 여자 윈드서핑 - 레이스 18
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T155700Z-sailing--15
-DTSTAMP:20240801T155700Z
-DTSTART:20240801T155700Z
-DTEND:20240801T161800Z
-DESCRIPTION:요트 - 남자 윈드서핑 - 레이스 15\n🇭🇰 CHENG Ching Yin\n🇨🇭 Elia
-  COLOMBO\n🇦🇼 Ethan WESTERA\n🇦🇷 Francisco CRUZ SAUBIDET BIRKNER\n🇦🇺
-  Grae MORRIS\n🇨🇳 HUANG Jingye\n🇫🇮 Jakob EKLUND\n🇩🇰 Johan SOE\n🇳🇿
-  Josh ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇧🇷 Mateus ISAAC\n🇪🇸 Nacho
-  BALTASAR SUMMERS\n🇫🇷 Nicolas GOYARD\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
-  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇩🇿 Rami BOUDROUMA\n🇸🇰 Robert KUBIN\n🇱🇹
-  Rytis JASIUNAS\n🇬🇧 Sam SILLS\n🇩🇪 Sebastian KOERDEL\n🇯🇵 TOMIZAWA
-  Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
-SUMMARY:⛵ 남자 윈드서핑 - 레이스 15
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
