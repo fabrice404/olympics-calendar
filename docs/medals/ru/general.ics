@@ -1038,22 +1038,21 @@ SUMMARY:🥋 Ai TSUNODA ROUSTANT 🇪🇸 - 🇦🇹 Michaela POLLERES
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T145400Z-judo--B-70-
+UID:20240731T145400Z-judo--B-70--BEL-NED
 DTSTAMP:20240731T145400Z
 DTSTART:20240731T145400Z
 DTEND:20240731T150000Z
-DESCRIPTION:Дзюдо - Поединок за бронзу B, до 70кг (ж)\n🇧🇪 Gabriella
-  WILLEMS
-SUMMARY:🥋 Поединок за бронзу B, до 70кг (ж)
+DESCRIPTION:Дзюдо - Поединок за бронзу B, до 70кг (ж)
+SUMMARY:🥋 Gabriella WILLEMS 🇧🇪 - 🇳🇱 Sanne van DIJKE
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T150000Z-judo--70-
+UID:20240731T150000Z-judo--70--CRO-GER
 DTSTAMP:20240731T150000Z
 DTSTART:20240731T150000Z
 DTEND:20240731T150600Z
-DESCRIPTION:Дзюдо - Финал, до 70кг (ж)\n🇩🇪 Miriam BUTKEREIT
-SUMMARY:🥋 Финал, до 70кг (ж)
+DESCRIPTION:Дзюдо - Финал, до 70кг (ж)
+SUMMARY:🥋 Barbara MATIC 🇭🇷 - 🇩🇪 Miriam BUTKEREIT
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -1088,7 +1087,11 @@ UID:20240731T152500Z-canoe-slalom--
 DTSTAMP:20240731T152500Z
 DTSTART:20240731T152500Z
 DTEND:20240731T160900Z
-DESCRIPTION:Гребной слалом - Каноэ-одиночки, финал (ж)
+DESCRIPTION:Гребной слалом - Каноэ-одиночки, финал (ж)\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇩🇪 Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy
+  LEIBFARTH\n🇨🇿 Gabriela SATKOVA\n🇦🇺 Jessica FOX\n🇬🇧 Mallory
+  FRANKLIN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇺🇦
+  Viktoriia US\n🇸🇰 Zuzana PANKOVA
 SUMMARY:🛶 Каноэ-одиночки, финал (ж)
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
@@ -1113,7 +1116,7 @@ UID:20240731T173000Z-fencing--3-
 DTSTAMP:20240731T173000Z
 DTSTART:20240731T173000Z
 DTEND:20240731T182000Z
-DESCRIPTION:Фехтование - Командная сабля, за 3-е место (м)
+DESCRIPTION:Фехтование - Командная сабля, за 3-е место (м)\n🇫🇷 Франция
 SUMMARY:🤺 Командная сабля, за 3-е место (м)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -1134,7 +1137,7 @@ UID:20240731T183000Z-fencing--
 DTSTAMP:20240731T183000Z
 DTSTART:20240731T183000Z
 DTEND:20240731T192000Z
-DESCRIPTION:Фехтование - Командная сабля, финал (м)
+DESCRIPTION:Фехтование - Командная сабля, финал (м)\n🇰🇷 Южная Корея
 SUMMARY:🤺 Командная сабля, финал (м)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -1728,7 +1731,16 @@ UID:20240802T192000Z-athletics-10000-
 DTSTAMP:20240802T192000Z
 DTSTART:20240802T192000Z
 DTEND:20240802T195000Z
-DESCRIPTION:Легкая атлетика - 10000м, финал (м)
+DESCRIPTION:Легкая атлетика - 10000м, финал (м)\n🇪🇸 Abdessamad
+  OUKHELFEN\n🇿🇦 Adriaan WILDSCHUTT\n🇰🇪 Benard KIBET\n🇪🇹 Berihu
+  AREGAWI\n🇧🇭 Birhanu BALEW\n🇧🇮 Celestin NDIKUMANA\n🇰🇪 Daniel
+  MATEIKO\n🇺🇸 Grant FISHER\n🇧🇪 Isaac KIMELI\n🇺🇬 Jacob KIPLIMO\n🏳️
+  Jamal Abdelmaji EISA MOHAMMED\n🇫🇷 Jimmy GRESSIER\n🇺🇬 Joshua
+  CHEPTEGEI\n🇯🇵 KASAI Jun\n🇺🇬 Martin KIPROTICH\n🇪🇷 Merhawi
+  MEBRAHTU\n🇨🇦 Mohammed AHMED\n🇰🇪 Nicholas KIPKORIR\n🇺🇸 Nico
+  YOUNG\n🇯🇵 OTA Tomoki\n🇧🇮 Rodrigue KWIZERA\n🇪🇹 Selemon BAREGA\n🇪🇸
+  Thierry NDIKUMWENAYO\n🇺🇸 William KINCAID\n🇫🇷 Yann SCHRUB\n🇪🇹 Yomif
+  KEJELCHA\n🇷🇼 Yves NIMUBONA
 SUMMARY:🏃 10000м, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

@@ -983,6 +983,19 @@ SUMMARY:🛶 Women's Canoe Single Semifinal
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T152500Z-canoe-slalom-WOMENS-CANOE-SINGLE-FINAL
+DTSTAMP:20240731T152500Z
+DTSTART:20240731T152500Z
+DTEND:20240731T160900Z
+DESCRIPTION:Canoe Slalom - Women's Canoe Single Final\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇩🇪 Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy
+  LEIBFARTH\n🇨🇿 Gabriela SATKOVA\n🇦🇺 Jessica FOX\n🇬🇧 Mallory
+  FRANKLIN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇺🇦
+  Viktoriia US\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 Women's Canoe Single Final
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T153000Z-artistic-gymnastics-MENS-ALL-AROUND-FINAL
 DTSTAMP:20240731T153000Z
 DTSTART:20240731T153000Z
@@ -1226,6 +1239,36 @@ DESCRIPTION:Athletics - Women's Triple Jump Qualification\n🇯🇲 Ackelia
   SALMINEN\n🇯🇲 Shanieka RICKETTS\n🇺🇿 Sharifa DAVRONOVA\n🇩🇲 Thea
   LAFOND\n🇺🇸 Tori FRANKLIN\n🇹🇷 Tugba DANISMAZ\n🇨🇳 ZENG Rui
 SUMMARY:🏃 Women's Triple Jump Qualification
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T171000Z-athletics-4-X-400M-RELAY-MIXED-ROUND-1
+DTSTAMP:20240802T171000Z
+DTSTART:20240802T171000Z
+DTEND:20240802T172600Z
+DESCRIPTION:Athletics - 4 x 400m Relay Mixed Round 1\n🇧🇸 BAH\n🇧🇪
+  BEL\n🇩🇴 DOM\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇲
+  JAM\n🇰🇪 KEN\n🇳🇱 NED\n🇳🇬 NGR\n🇵🇱 POL\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏃 4 x 400m Relay Mixed Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T181000Z-athletics-MENS-SHOT-PUT-QUALIFICATION
+DTSTAMP:20240802T181000Z
+DTSTART:20240802T181000Z
+DTEND:20240802T185800Z
+DESCRIPTION:Athletics - Men's Shot Put Qualification\n🇷🇴 Andrei Rares
+  TOADER\n🇷🇸 Armin SINANCEVIC\n🇱🇺 Bob BERTEMES\n🇳🇬 Chukwuebuka
+  Cornnell ENEKWECHI\n🇮🇪 Eric FAVORS\n🇭🇷 Filip MIHALJEVIC\n🇵🇹
+  Francisco BELO\n🇳🇿 Jacko GILL\n🇺🇸 Joe KOVACS\n🇵🇱 Konrad
+  BUKOWIECKI\n🇿🇦 Kyle BLIGNAUT\n🇮🇹 Leonardo FABBRI\n🇳🇴 Marcus
+  THOMSEN\n🇧🇦 Mesud PEZER\n🇵🇱 Michal HARATYK\n🇸🇦 Mohamed Daouda
+  TOLO\n🇪🇬 Mohamed KHALIFA\n🇪🇬 Mostafa Amr HASSAN\n🇦🇷 Nazareno
+  SASIA\n🇺🇸 Payton OTTERDAHL\n🇯🇲 Rajindra CAMPBELL\n🇺🇦 Roman
+  KOKOSHKO\n🇺🇸 Ryan CROUSER\n🇬🇧 Scott LINCOLN\n🇮🇳 Tajinderpal Singh
+  TOOR\n🇳🇿 Tom WALSH\n🇨🇿 Tomas STANEK\n🇵🇹 Tsanko ARNAUDOV\n🇲🇽 Uziel
+  MUNOZ\n🇧🇷 Welington MORAIS\n🇮🇹 Zane WEIR
+SUMMARY:🏃 Men's Shot Put Qualification
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

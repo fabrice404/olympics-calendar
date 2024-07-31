@@ -356,13 +356,26 @@ SUMMARY:🚣 Women's Quadruple Sculls Final A
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T150000Z-judo-WOMEN-70-KG-FINAL
+UID:20240731T150000Z-judo-WOMEN-70-KG-FINAL-CRO-GER
 DTSTAMP:20240731T150000Z
 DTSTART:20240731T150000Z
 DTEND:20240731T150600Z
-DESCRIPTION:Judo - Women -70 kg Final\n🇩🇪 Miriam BUTKEREIT
-SUMMARY:🥋 Women -70 kg Final
+DESCRIPTION:Judo - Women -70 kg Final
+SUMMARY:🥋 Barbara MATIC 🇭🇷 - 🇩🇪 Miriam BUTKEREIT
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T152500Z-canoe-slalom-WOMENS-CANOE-SINGLE-FINAL
+DTSTAMP:20240731T152500Z
+DTSTART:20240731T152500Z
+DTEND:20240731T160900Z
+DESCRIPTION:Canoe Slalom - Women's Canoe Single Final\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇩🇪 Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy
+  LEIBFARTH\n🇨🇿 Gabriela SATKOVA\n🇦🇺 Jessica FOX\n🇬🇧 Mallory
+  FRANKLIN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇺🇦
+  Viktoriia US\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 Women's Canoe Single Final
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T153000Z-artistic-gymnastics-MENS-ALL-AROUND-FINAL

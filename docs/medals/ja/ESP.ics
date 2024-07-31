@@ -189,6 +189,19 @@ SUMMARY:🥋 Ai TSUNODA ROUSTANT 🇪🇸 - 🇦🇹 Michaela POLLERES
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T152500Z-canoe-slalom-
+DTSTAMP:20240731T152500Z
+DTSTART:20240731T152500Z
+DTEND:20240731T160900Z
+DESCRIPTION:カヌー・スラローム - 女子カナディアンシングル決勝\n🇨🇭 Alena MARX\n🇧🇷 Ana
+  SATILA\n🇩🇪 Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy
+  LEIBFARTH\n🇨🇿 Gabriela SATKOVA\n🇦🇺 Jessica FOX\n🇬🇧 Mallory
+  FRANKLIN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇺🇦
+  Viktoriia US\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 女子カナディアンシングル決勝
+LOCATION:ノーティカル ST - ホワイトウォーター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T053000Z-athletics-20KM
 DTSTAMP:20240801T053000Z
 DTSTART:20240801T053000Z
@@ -255,5 +268,23 @@ DESCRIPTION:飛込 - 男子シンクロナイズドダイビング3m飛板飛込
   ウクライナ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳 中国\n🇬🇧 英国
 SUMMARY:🏊 男子シンクロナイズドダイビング3m飛板飛込
 LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T192000Z-athletics-10000M
+DTSTAMP:20240802T192000Z
+DTSTART:20240802T192000Z
+DTEND:20240802T195000Z
+DESCRIPTION:陸上競技 - 男子10000m決勝\n🇪🇸 Abdessamad OUKHELFEN\n🇿🇦 Adriaan
+  WILDSCHUTT\n🇰🇪 Benard KIBET\n🇪🇹 Berihu AREGAWI\n🇧🇭 Birhanu
+  BALEW\n🇧🇮 Celestin NDIKUMANA\n🇰🇪 Daniel MATEIKO\n🇺🇸 Grant
+  FISHER\n🇧🇪 Isaac KIMELI\n🇺🇬 Jacob KIPLIMO\n🏳️ Jamal Abdelmaji EISA
+  MOHAMMED\n🇫🇷 Jimmy GRESSIER\n🇺🇬 Joshua CHEPTEGEI\n🇯🇵 KASAI
+  Jun\n🇺🇬 Martin KIPROTICH\n🇪🇷 Merhawi MEBRAHTU\n🇨🇦 Mohammed
+  AHMED\n🇰🇪 Nicholas KIPKORIR\n🇺🇸 Nico YOUNG\n🇯🇵 OTA Tomoki\n🇧🇮
+  Rodrigue KWIZERA\n🇪🇹 Selemon BAREGA\n🇪🇸 Thierry NDIKUMWENAYO\n🇺🇸
+  William KINCAID\n🇫🇷 Yann SCHRUB\n🇪🇹 Yomif KEJELCHA\n🇷🇼 Yves
+  NIMUBONA
+SUMMARY:🏃 男子10000m決勝
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 END:VCALENDAR

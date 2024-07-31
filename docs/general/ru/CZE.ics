@@ -1710,6 +1710,19 @@ SUMMARY:⛵ Скиф, гонка 12 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T152500Z-canoe-slalom--
+DTSTAMP:20240731T152500Z
+DTSTART:20240731T152500Z
+DTEND:20240731T160900Z
+DESCRIPTION:Гребной слалом - Каноэ-одиночки, финал (ж)\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇩🇪 Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy
+  LEIBFARTH\n🇨🇿 Gabriela SATKOVA\n🇦🇺 Jessica FOX\n🇬🇧 Mallory
+  FRANKLIN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇺🇦
+  Viktoriia US\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 Каноэ-одиночки, финал (ж)
+LOCATION:Водный ст. - Белая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T200300Z-swimming-200-
 DTSTAMP:20240731T200300Z
 DTSTART:20240731T200300Z
@@ -2103,6 +2116,25 @@ DESCRIPTION:Гребной слалом - Экстрим-слалом, разд�
   Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
 SUMMARY:🛶 Экстрим-слалом, раздельный старт (ж)
 LOCATION:Водный ст. - Белая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T181000Z-athletics--
+DTSTAMP:20240802T181000Z
+DTSTART:20240802T181000Z
+DTEND:20240802T185800Z
+DESCRIPTION:Легкая атлетика - Толкание ядра, квалификация (м)\n🇷🇴 Andrei
+  Rares TOADER\n🇷🇸 Armin SINANCEVIC\n🇱🇺 Bob BERTEMES\n🇳🇬 Chukwuebuka
+  Cornnell ENEKWECHI\n🇮🇪 Eric FAVORS\n🇭🇷 Filip MIHALJEVIC\n🇵🇹
+  Francisco BELO\n🇳🇿 Jacko GILL\n🇺🇸 Joe KOVACS\n🇵🇱 Konrad
+  BUKOWIECKI\n🇿🇦 Kyle BLIGNAUT\n🇮🇹 Leonardo FABBRI\n🇳🇴 Marcus
+  THOMSEN\n🇧🇦 Mesud PEZER\n🇵🇱 Michal HARATYK\n🇸🇦 Mohamed Daouda
+  TOLO\n🇪🇬 Mohamed KHALIFA\n🇪🇬 Mostafa Amr HASSAN\n🇦🇷 Nazareno
+  SASIA\n🇺🇸 Payton OTTERDAHL\n🇯🇲 Rajindra CAMPBELL\n🇺🇦 Roman
+  KOKOSHKO\n🇺🇸 Ryan CROUSER\n🇬🇧 Scott LINCOLN\n🇮🇳 Tajinderpal Singh
+  TOOR\n🇳🇿 Tom WALSH\n🇨🇿 Tomas STANEK\n🇵🇹 Tsanko ARNAUDOV\n🇲🇽 Uziel
+  MUNOZ\n🇧🇷 Welington MORAIS\n🇮🇹 Zane WEIR
+SUMMARY:🏃 Толкание ядра, квалификация (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T190000Z-beach-volleyball--E--CZE-BRA

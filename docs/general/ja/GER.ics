@@ -3086,13 +3086,26 @@ SUMMARY:⛵ 男子ウインドサーフィン - レース10
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T150000Z-judo-70KG
+UID:20240731T150000Z-judo-70KG-CRO-GER
 DTSTAMP:20240731T150000Z
 DTSTART:20240731T150000Z
 DTEND:20240731T150600Z
-DESCRIPTION:柔道 - 女子70kg級決勝\n🇩🇪 Miriam BUTKEREIT
-SUMMARY:🥋 女子70kg級決勝
+DESCRIPTION:柔道 - 女子70kg級決勝
+SUMMARY:🥋 Barbara MATIC 🇭🇷 - 🇩🇪 Miriam BUTKEREIT
 LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T152500Z-canoe-slalom-
+DTSTAMP:20240731T152500Z
+DTSTART:20240731T152500Z
+DTEND:20240731T160900Z
+DESCRIPTION:カヌー・スラローム - 女子カナディアンシングル決勝\n🇨🇭 Alena MARX\n🇧🇷 Ana
+  SATILA\n🇩🇪 Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy
+  LEIBFARTH\n🇨🇿 Gabriela SATKOVA\n🇦🇺 Jessica FOX\n🇬🇧 Mallory
+  FRANKLIN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇺🇦
+  Viktoriia US\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 女子カナディアンシングル決勝
+LOCATION:ノーティカル ST - ホワイトウォーター
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T153000Z-3x3-basketball--GER-AUS
@@ -4235,6 +4248,43 @@ DESCRIPTION:陸上競技 - 女子5000m予選\n🇮🇳 ANKITA\n🇱🇻 Agate CA
   NOUR\n🇫🇷 Sarah MADELEINE\n🇳🇱 Sifan HASSAN\n🇯🇵 TANAKA Nozomi\n🇭🇺
   Viktoria WAGNER-GYURKES\n🇺🇸 Whittni MORGAN\n🇯🇵 YAMAMOTO Yuma
 SUMMARY:🏃 女子5000m予選
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T171000Z-athletics-4400M
+DTSTAMP:20240802T171000Z
+DTSTART:20240802T171000Z
+DTEND:20240802T172600Z
+DESCRIPTION:陸上競技 - 混合4×400mリレー予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇳🇱 オランダ\n🇰🇪 ケニア\n🇯🇲 ジャマイカ\n🇨🇭 スイス\n🇩🇪
+  ドイツ\n🇩🇴 ドミニカ共和国\n🇳🇬 ナイジェリア\n🇧🇸 バハマ\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇵🇱
+  ポーランド\n🇬🇧 英国
+SUMMARY:🏃 混合4×400mリレー予選
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T174500Z-athletics-800M
+DTSTAMP:20240802T174500Z
+DTSTART:20240802T174500Z
+DTEND:20240802T182700Z
+DESCRIPTION:陸上競技 - 女子800m予選\n🇦🇺 Abbey CALDWELL\n🇯🇲 Adelle TRACEY\n🇺🇸
+  Allie WILSON\n🇰🇼 Amal AL ROUMI\n🇫🇷 Anais BOURGOIN\n🇸🇮 Anita
+  HORVAT\n🇵🇱 Anna WIELGOSZ\n🇲🇦 Assia RAZIKI\n🇨🇭 Audrey WERRO\n🇦🇺
+  Catriona BISSET\n🇦🇺 Claudia HOLLINGSWORTH\n🇨🇺 Daily COOPER
+  GASPAR\n🇮🇹 Elena BELLO\n🇮🇹 Eloisa COIRO\n🇫🇮 Eveliina
+  MAATTANEN\n🇧🇷 Flavia Maria de LIMA\n🇱🇹 Gabija GALVYDYTE\n🇸🇰
+  Gabriela GAJANOVA\n🇽🇰 Gresa BAKRACI\n🇪🇹 Habitam ALEMU\n🇺🇬 Halimah
+  NAKAAYI\n🇨🇦 Jazz SHUKLA\n🇬🇧 Jemma REEKIE\n🇺🇸 Juliette
+  WHITTAKER\n🇬🇧 Keely HODGKINSON\n🇵🇸 Layla ALMASRI\n🇫🇷 Lena
+  KANDISSOUNON\n🇰🇪 Lilian ODIRA\n🇪🇸 Lorea IBARZABAL\n🇪🇸 Lorena
+  MARTIN\n🇩🇪 Majtie KOLBERG\n🇰🇪 Mary MORAA\n🇯🇲 Natoya
+  GOULE-TOPPIN\n🇧🇭 Nelly JEPKOSGEI\n🇺🇸 Nia AKINS\n🇧🇯 Noelie
+  YARIGO\n🇧🇼 Oratile NOWE\n🏳️ Perina Lokure NAKANG\n🇬🇧 Phoebe
+  GILL\n🇿🇦 Prudence SEKGODISO\n🇨🇭 Rachel PELLAUD\n🇫🇷 Renelle
+  LAMOTE\n🇨🇺 Rose Mary ALMANZA\n🇬🇲 Sanu JALLOW\n🇻🇨 Shafiqua
+  MALONEY\n🇱🇰 Tharushi KARUNARATHNA\n🇪🇹 Tsige DUGUMA\n🇨🇭 Valentina
+  ROSAMILIA\n🇰🇪 Vivian Chebet KIPROTICH\n🇪🇹 Worknesh MESELE
+SUMMARY:🏃 女子800m予選
 LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT

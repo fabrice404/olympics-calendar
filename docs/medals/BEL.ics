@@ -176,13 +176,30 @@ SUMMARY:🏊 Men's Individual
 LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T145400Z-judo-WOMEN-70-KG-CONTEST-FOR-BRONZE-MEDAL-B
+UID:20240731T145400Z-judo-WOMEN-70-KG-CONTEST-FOR-BRONZE-MEDAL-B-BEL-NED
 DTSTAMP:20240731T145400Z
 DTSTART:20240731T145400Z
 DTEND:20240731T150000Z
-DESCRIPTION:Judo - Women -70 kg Contest for Bronze Medal B\n🇧🇪 Gabriella
-  WILLEMS
-SUMMARY:🥋 Women -70 kg Contest for Bronze Medal B
+DESCRIPTION:Judo - Women -70 kg Contest for Bronze Medal B
+SUMMARY:🥋 Gabriella WILLEMS 🇧🇪 - 🇳🇱 Sanne van DIJKE
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T192000Z-athletics-MENS-10000M-FINAL
+DTSTAMP:20240802T192000Z
+DTSTART:20240802T192000Z
+DTEND:20240802T195000Z
+DESCRIPTION:Athletics - Men's 10,000m Final\n🇪🇸 Abdessamad
+  OUKHELFEN\n🇿🇦 Adriaan WILDSCHUTT\n🇰🇪 Benard KIBET\n🇪🇹 Berihu
+  AREGAWI\n🇧🇭 Birhanu BALEW\n🇧🇮 Celestin NDIKUMANA\n🇰🇪 Daniel
+  MATEIKO\n🇺🇸 Grant FISHER\n🇧🇪 Isaac KIMELI\n🇺🇬 Jacob KIPLIMO\n🏳️
+  Jamal Abdelmaji EISA MOHAMMED\n🇫🇷 Jimmy GRESSIER\n🇺🇬 Joshua
+  CHEPTEGEI\n🇯🇵 KASAI Jun\n🇺🇬 Martin KIPROTICH\n🇪🇷 Merhawi
+  MEBRAHTU\n🇨🇦 Mohammed AHMED\n🇰🇪 Nicholas KIPKORIR\n🇺🇸 Nico
+  YOUNG\n🇯🇵 OTA Tomoki\n🇧🇮 Rodrigue KWIZERA\n🇪🇹 Selemon BAREGA\n🇪🇸
+  Thierry NDIKUMWENAYO\n🇺🇸 William KINCAID\n🇫🇷 Yann SCHRUB\n🇪🇹 Yomif
+  KEJELCHA\n🇷🇼 Yves NIMUBONA
+SUMMARY:🏃 Men's 10,000m Final
+LOCATION:Stade de France
 END:VEVENT
 END:VCALENDAR

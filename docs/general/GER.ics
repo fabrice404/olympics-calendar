@@ -3118,13 +3118,26 @@ SUMMARY:⛵ Men's Windsurfing - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T150000Z-judo-WOMEN-70-KG-FINAL
+UID:20240731T150000Z-judo-WOMEN-70-KG-FINAL-CRO-GER
 DTSTAMP:20240731T150000Z
 DTSTART:20240731T150000Z
 DTEND:20240731T150600Z
-DESCRIPTION:Judo - Women -70 kg Final\n🇩🇪 Miriam BUTKEREIT
-SUMMARY:🥋 Women -70 kg Final
+DESCRIPTION:Judo - Women -70 kg Final
+SUMMARY:🥋 Barbara MATIC 🇭🇷 - 🇩🇪 Miriam BUTKEREIT
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T152500Z-canoe-slalom-WOMENS-CANOE-SINGLE-FINAL
+DTSTAMP:20240731T152500Z
+DTSTART:20240731T152500Z
+DTEND:20240731T160900Z
+DESCRIPTION:Canoe Slalom - Women's Canoe Single Final\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇩🇪 Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy
+  LEIBFARTH\n🇨🇿 Gabriela SATKOVA\n🇦🇺 Jessica FOX\n🇬🇧 Mallory
+  FRANKLIN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇺🇦
+  Viktoriia US\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 Women's Canoe Single Final
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T153000Z-3x3-basketball-WOMENS-POOL-ROUND-GER-AUS
@@ -4280,6 +4293,42 @@ DESCRIPTION:Athletics - Women's 5000m Round 1\n🇮🇳 ANKITA\n🇱🇻 Agate
   HASSAN\n🇯🇵 TANAKA Nozomi\n🇭🇺 Viktoria WAGNER-GYURKES\n🇺🇸 Whittni
   MORGAN\n🇯🇵 YAMAMOTO Yuma
 SUMMARY:🏃 Women's 5000m Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T171000Z-athletics-4-X-400M-RELAY-MIXED-ROUND-1
+DTSTAMP:20240802T171000Z
+DTSTART:20240802T171000Z
+DTEND:20240802T172600Z
+DESCRIPTION:Athletics - 4 x 400m Relay Mixed Round 1\n🇧🇸 BAH\n🇧🇪
+  BEL\n🇩🇴 DOM\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇲
+  JAM\n🇰🇪 KEN\n🇳🇱 NED\n🇳🇬 NGR\n🇵🇱 POL\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏃 4 x 400m Relay Mixed Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T174500Z-athletics-WOMENS-800M-ROUND-1
+DTSTAMP:20240802T174500Z
+DTSTART:20240802T174500Z
+DTEND:20240802T182700Z
+DESCRIPTION:Athletics - Women's 800m Round 1\n🇦🇺 Abbey CALDWELL\n🇯🇲
+  Adelle TRACEY\n🇺🇸 Allie WILSON\n🇰🇼 Amal AL ROUMI\n🇫🇷 Anais
+  BOURGOIN\n🇸🇮 Anita HORVAT\n🇵🇱 Anna WIELGOSZ\n🇲🇦 Assia RAZIKI\n🇨🇭
+  Audrey WERRO\n🇦🇺 Catriona BISSET\n🇦🇺 Claudia HOLLINGSWORTH\n🇨🇺
+  Daily COOPER GASPAR\n🇮🇹 Elena BELLO\n🇮🇹 Eloisa COIRO\n🇫🇮 Eveliina
+  MAATTANEN\n🇧🇷 Flavia Maria de LIMA\n🇱🇹 Gabija GALVYDYTE\n🇸🇰
+  Gabriela GAJANOVA\n🇽🇰 Gresa BAKRACI\n🇪🇹 Habitam ALEMU\n🇺🇬 Halimah
+  NAKAAYI\n🇨🇦 Jazz SHUKLA\n🇬🇧 Jemma REEKIE\n🇺🇸 Juliette
+  WHITTAKER\n🇬🇧 Keely HODGKINSON\n🇵🇸 Layla ALMASRI\n🇫🇷 Lena
+  KANDISSOUNON\n🇰🇪 Lilian ODIRA\n🇪🇸 Lorea IBARZABAL\n🇪🇸 Lorena
+  MARTIN\n🇩🇪 Majtie KOLBERG\n🇰🇪 Mary MORAA\n🇯🇲 Natoya
+  GOULE-TOPPIN\n🇧🇭 Nelly JEPKOSGEI\n🇺🇸 Nia AKINS\n🇧🇯 Noelie
+  YARIGO\n🇧🇼 Oratile NOWE\n🏳️ Perina Lokure NAKANG\n🇬🇧 Phoebe
+  GILL\n🇿🇦 Prudence SEKGODISO\n🇨🇭 Rachel PELLAUD\n🇫🇷 Renelle
+  LAMOTE\n🇨🇺 Rose Mary ALMANZA\n🇬🇲 Sanu JALLOW\n🇻🇨 Shafiqua
+  MALONEY\n🇱🇰 Tharushi KARUNARATHNA\n🇪🇹 Tsige DUGUMA\n🇨🇭 Valentina
+  ROSAMILIA\n🇰🇪 Vivian Chebet KIPROTICH\n🇪🇹 Worknesh MESELE
+SUMMARY:🏃 Women's 800m Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

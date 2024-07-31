@@ -194,6 +194,19 @@ SUMMARY:🥋 Ai TSUNODA ROUSTANT 🇪🇸 - 🇦🇹 Michaela POLLERES
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T152500Z-canoe-slalom-WOMENS-CANOE-SINGLE-FINAL
+DTSTAMP:20240731T152500Z
+DTSTART:20240731T152500Z
+DTEND:20240731T160900Z
+DESCRIPTION:Canoe Slalom - Women's Canoe Single Final\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇩🇪 Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy
+  LEIBFARTH\n🇨🇿 Gabriela SATKOVA\n🇦🇺 Jessica FOX\n🇬🇧 Mallory
+  FRANKLIN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇺🇦
+  Viktoriia US\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 Women's Canoe Single Final
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T053000Z-athletics-MENS-20KM-RACE-WALK
 DTSTAMP:20240801T053000Z
 DTSTART:20240801T053000Z
@@ -261,5 +274,23 @@ DESCRIPTION:Diving - Men's Synchronised 3m Springboard Final\n🇨🇳
   CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇮🇹 ITA\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇦 UKR\n🇺🇸 USA
 SUMMARY:🏊 Men's Synchronised 3m Springboard Final
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T192000Z-athletics-MENS-10000M-FINAL
+DTSTAMP:20240802T192000Z
+DTSTART:20240802T192000Z
+DTEND:20240802T195000Z
+DESCRIPTION:Athletics - Men's 10,000m Final\n🇪🇸 Abdessamad
+  OUKHELFEN\n🇿🇦 Adriaan WILDSCHUTT\n🇰🇪 Benard KIBET\n🇪🇹 Berihu
+  AREGAWI\n🇧🇭 Birhanu BALEW\n🇧🇮 Celestin NDIKUMANA\n🇰🇪 Daniel
+  MATEIKO\n🇺🇸 Grant FISHER\n🇧🇪 Isaac KIMELI\n🇺🇬 Jacob KIPLIMO\n🏳️
+  Jamal Abdelmaji EISA MOHAMMED\n🇫🇷 Jimmy GRESSIER\n🇺🇬 Joshua
+  CHEPTEGEI\n🇯🇵 KASAI Jun\n🇺🇬 Martin KIPROTICH\n🇪🇷 Merhawi
+  MEBRAHTU\n🇨🇦 Mohammed AHMED\n🇰🇪 Nicholas KIPKORIR\n🇺🇸 Nico
+  YOUNG\n🇯🇵 OTA Tomoki\n🇧🇮 Rodrigue KWIZERA\n🇪🇹 Selemon BAREGA\n🇪🇸
+  Thierry NDIKUMWENAYO\n🇺🇸 William KINCAID\n🇫🇷 Yann SCHRUB\n🇪🇹 Yomif
+  KEJELCHA\n🇷🇼 Yves NIMUBONA
+SUMMARY:🏃 Men's 10,000m Final
+LOCATION:Stade de France
 END:VEVENT
 END:VCALENDAR
