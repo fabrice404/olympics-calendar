@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//medals/TPE//EN
+PRODID:-//fabrice404//olympics-calendar//medals/zh/TPE//EN
 X-WR-CALNAME:🇹🇼 Chinese Taipei 🏅 | Paris 2024
 NAME:🇹🇼 Chinese Taipei 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240803T153800Z-boxing-WOMENS-60KG-SEMIFINAL-CHN-TPE
+UID:20240803T153800Z-boxing-60--CHN-TPE
 DTSTAMP:20240803T153800Z
 DTSTART:20240803T153800Z
 DTEND:20240803T154900Z
-DESCRIPTION:Boxing - Women's 60kg - Semifinal
+DESCRIPTION:拳击 - 女子60公斤级 - 半决赛
 SUMMARY:🥊 YANG Wenlu 🇨🇳 - 🇹🇼 WU Shih Yi
-LOCATION:North Paris Arena
+LOCATION:北巴黎竞技场
 END:VEVENT
 END:VCALENDAR
