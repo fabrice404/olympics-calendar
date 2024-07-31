@@ -3902,6 +3902,22 @@ SUMMARY:🏃 Women's High Jump Qualification
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T085500Z-athletics-MENS-DECATHLON-LONG-JUMP
+DTSTAMP:20240802T085500Z
+DTSTART:20240802T085500Z
+DTEND:20240802T093700Z
+DESCRIPTION:Athletics - Men's Decathlon Long Jump\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo
+  NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Men's Decathlon Long Jump
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T090000Z-swimming-MENS-100M-BUTTERFLY-HEATS
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
@@ -3988,6 +4004,22 @@ DESCRIPTION:Swimming - Mixed 4 x 100m Medley Relay - Heats\n🇦🇺 AUS\n🇧�
   ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇱 NED\n🇵🇱 POL\n🇸🇪 SWE\n🇺🇸 USA
 SUMMARY:🏊 Mixed 4 x 100m Medley Relay - Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T101500Z-athletics-MENS-DECATHLON-SHOT-PUT
+DTSTAMP:20240802T101500Z
+DTSTART:20240802T101500Z
+DTEND:20240802T105700Z
+DESCRIPTION:Athletics - Men's Decathlon Shot Put\n🇦🇺 Ashley MOLONEY\n🇵🇷
+  Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸
+  Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes
+  ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel
+  TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Men's Decathlon Shot Put
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T101500Z-sailing-WOMENS-DINGHY-RACE-3
@@ -4169,6 +4201,22 @@ SUMMARY:🥊 Teremoana TEREMOANA 🇦🇺 - 🇺🇿 Bakhodir JALOLOV
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T160000Z-athletics-MENS-DECATHLON-HIGH-JUMP
+DTSTAMP:20240802T160000Z
+DTSTART:20240802T160000Z
+DTEND:20240802T181000Z
+DESCRIPTION:Athletics - Men's Decathlon High Jump\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo
+  NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Men's Decathlon High Jump
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T161000Z-athletics-WOMENS-5000M-ROUND-1
 DTSTAMP:20240802T161000Z
 DTSTART:20240802T161000Z
@@ -4223,6 +4271,22 @@ DTEND:20240802T185900Z
 DESCRIPTION:Boxing - Women's 57kg - Preliminaries - Round of 16
 SUMMARY:🥊 Julia SZEREMETA 🇵🇱 - 🇦🇺 Tina RAHIMI
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T185000Z-athletics-MENS-DECATHLON-400M
+DTSTAMP:20240802T185000Z
+DTSTART:20240802T185000Z
+DTEND:20240802T190700Z
+DESCRIPTION:Athletics - Men's Decathlon 400m\n🇦🇺 Ashley MOLONEY\n🇵🇷
+  Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸
+  Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes
+  ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel
+  TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Men's Decathlon 400m
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1

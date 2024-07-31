@@ -17019,7 +17019,7 @@ UID:20240731T151200Z-judo--90KG-B
 DTSTAMP:20240731T151200Z
 DTSTART:20240731T151200Z
 DTEND:20240731T151800Z
-DESCRIPTION:유도 - 남자 -90kg 동메달 결정전 B
+DESCRIPTION:유도 - 남자 -90kg 동메달 결정전 B\n🇬🇷 Theodoros TSELIDIS
 SUMMARY:🥋 남자 -90kg 동메달 결정전 B
 LOCATION:샹드마르 아레나
 END:VEVENT
@@ -17314,12 +17314,12 @@ SUMMARY:🏸 H. S. PRANNOY 🇮🇳 - 🇻🇳 Duc Phat LE
 LOCATION:라 샤펠 아레나
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T173000Z-fencing--
+UID:20240731T173000Z-fencing---IRI-FRA
 DTSTAMP:20240731T173000Z
 DTSTART:20240731T173000Z
 DTEND:20240731T182000Z
-DESCRIPTION:펜싱 - 남자 사브르 단체 동메달 결정전\n🇫🇷 프랑스
-SUMMARY:🤺 남자 사브르 단체 동메달 결정전
+DESCRIPTION:펜싱 - 남자 사브르 단체 동메달 결정전
+SUMMARY:🤺 이란 🇮🇷 - 🇫🇷 프랑스
 LOCATION:그랑 팔레
 END:VEVENT
 BEGIN:VEVENT
@@ -17460,12 +17460,12 @@ SUMMARY:🏊 여자 100m 자유형 결승
 LOCATION:파리 라 데팡스 아레나
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T183000Z-fencing--
+UID:20240731T183000Z-fencing---HUN-KOR
 DTSTAMP:20240731T183000Z
 DTSTART:20240731T183000Z
 DTEND:20240731T192000Z
-DESCRIPTION:펜싱 - 남자 사브르 단체 금메달 결정전\n🇰🇷 대한민국
-SUMMARY:🤺 남자 사브르 단체 금메달 결정전
+DESCRIPTION:펜싱 - 남자 사브르 단체 금메달 결정전
+SUMMARY:🤺 헝가리 🇭🇺 - 🇰🇷 대한민국
 LOCATION:그랑 팔레
 END:VEVENT
 BEGIN:VEVENT
@@ -21339,7 +21339,14 @@ UID:20240802T085500Z-athletics--10-
 DTSTAMP:20240802T085500Z
 DTSTART:20240802T085500Z
 DTEND:20240802T093700Z
-DESCRIPTION:육상 - 남자 10종경기 멀리뛰기
+DESCRIPTION:육상 - 남자 10종경기 멀리뛰기\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
+  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
+  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
+  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
+  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
+  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
+  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 남자 10종경기 멀리뛰기
 LOCATION:스타드 드 프랑스
 END:VEVENT
@@ -21833,7 +21840,14 @@ UID:20240802T101500Z-athletics--10-
 DTSTAMP:20240802T101500Z
 DTSTART:20240802T101500Z
 DTEND:20240802T105700Z
-DESCRIPTION:육상 - 남자 10종경기 포환던지기
+DESCRIPTION:육상 - 남자 10종경기 포환던지기\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
+  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
+  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
+  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
+  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
+  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
+  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 남자 10종경기 포환던지기
 LOCATION:스타드 드 프랑스
 END:VEVENT
@@ -22703,7 +22717,14 @@ UID:20240802T160000Z-athletics--10-
 DTSTAMP:20240802T160000Z
 DTSTART:20240802T160000Z
 DTEND:20240802T181000Z
-DESCRIPTION:육상 - 남자 10종경기 높이뛰기
+DESCRIPTION:육상 - 남자 10종경기 높이뛰기\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
+  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
+  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
+  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
+  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
+  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
+  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 남자 10종경기 높이뛰기
 LOCATION:스타드 드 프랑스
 END:VEVENT
@@ -23059,7 +23080,14 @@ UID:20240802T185000Z-athletics--10-400M
 DTSTAMP:20240802T185000Z
 DTSTART:20240802T185000Z
 DTEND:20240802T190700Z
-DESCRIPTION:육상 - 남자 10종경기 400m
+DESCRIPTION:육상 - 남자 10종경기 400m\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
+  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
+  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
+  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
+  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
+  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
+  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 남자 10종경기 400m
 LOCATION:스타드 드 프랑스
 END:VEVENT

@@ -17134,7 +17134,8 @@ UID:20240731T151200Z-judo--90-
 DTSTAMP:20240731T151200Z
 DTSTART:20240731T151200Z
 DTEND:20240731T151800Z
-DESCRIPTION:Дзюдо - Поединок за бронзу В, до 90кг (м)
+DESCRIPTION:Дзюдо - Поединок за бронзу В, до 90кг (м)\n🇬🇷 Theodoros
+  TSELIDIS
 SUMMARY:🥋 Поединок за бронзу В, до 90кг (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -17430,12 +17431,12 @@ SUMMARY:🏸 H. S. PRANNOY 🇮🇳 - 🇻🇳 Duc Phat LE
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T173000Z-fencing--3-
+UID:20240731T173000Z-fencing--3--IRI-FRA
 DTSTAMP:20240731T173000Z
 DTSTART:20240731T173000Z
 DTEND:20240731T182000Z
-DESCRIPTION:Фехтование - Командная сабля, за 3-е место (м)\n🇫🇷 Франция
-SUMMARY:🤺 Командная сабля, за 3-е место (м)
+DESCRIPTION:Фехтование - Командная сабля, за 3-е место (м)
+SUMMARY:🤺 Иран 🇮🇷 - 🇫🇷 Франция
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -17577,12 +17578,12 @@ SUMMARY:🏊 100м вольным стилем, финал (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T183000Z-fencing--
+UID:20240731T183000Z-fencing---HUN-KOR
 DTSTAMP:20240731T183000Z
 DTSTART:20240731T183000Z
 DTEND:20240731T192000Z
-DESCRIPTION:Фехтование - Командная сабля, финал (м)\n🇰🇷 Южная Корея
-SUMMARY:🤺 Командная сабля, финал (м)
+DESCRIPTION:Фехтование - Командная сабля, финал (м)
+SUMMARY:🤺 Венгрия 🇭🇺 - 🇰🇷 Южная Корея
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -21488,7 +21489,14 @@ UID:20240802T085500Z-athletics--
 DTSTAMP:20240802T085500Z
 DTSTART:20240802T085500Z
 DTEND:20240802T093700Z
-DESCRIPTION:Легкая атлетика - Десятиборье, длина (м)
+DESCRIPTION:Легкая атлетика - Десятиборье, длина (м)\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo
+  NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 Десятиборье, длина (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
@@ -21987,7 +21995,14 @@ UID:20240802T101500Z-athletics--
 DTSTAMP:20240802T101500Z
 DTSTART:20240802T101500Z
 DTEND:20240802T105700Z
-DESCRIPTION:Легкая атлетика - Десятиборье, ядро (м)
+DESCRIPTION:Легкая атлетика - Десятиборье, ядро (м)\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo
+  NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 Десятиборье, ядро (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
@@ -22860,7 +22875,14 @@ UID:20240802T160000Z-athletics--
 DTSTAMP:20240802T160000Z
 DTSTART:20240802T160000Z
 DTEND:20240802T181000Z
-DESCRIPTION:Легкая атлетика - Десятиборье, высота (м)
+DESCRIPTION:Легкая атлетика - Десятиборье, высота (м)\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo
+  NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 Десятиборье, высота (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
@@ -23219,7 +23241,14 @@ UID:20240802T185000Z-athletics--400-
 DTSTAMP:20240802T185000Z
 DTSTART:20240802T185000Z
 DTEND:20240802T190700Z
-DESCRIPTION:Легкая атлетика - Десятиборье, 400м (м)
+DESCRIPTION:Легкая атлетика - Десятиборье, 400м (м)\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo
+  NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 Десятиборье, 400м (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
