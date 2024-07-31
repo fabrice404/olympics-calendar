@@ -138,4 +138,13 @@ DESCRIPTION:테니스 - 남자 단식 8강
 SUMMARY:🎾 Casper RUUD 🇳🇴 - 🇨🇦 Felix AUGER-ALIASSIME
 LOCATION:롤랑가로스 스타디움
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T110000Z-tennis--
+DTSTAMP:20240801T110000Z
+DTSTART:20240801T110000Z
+DTEND:20240801T170000Z
+DESCRIPTION:테니스 - 혼성 복식 준결승\n🇨🇦 DABROWSKI/AUGER-ALIAS
+SUMMARY:🎾 혼성 복식 준결승
+LOCATION:롤랑가로스 스타디움
+END:VEVENT
 END:VCALENDAR
