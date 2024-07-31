@@ -15681,7 +15681,7 @@ UID:20240731T094800Z-judo--70-
 DTSTAMP:20240731T094800Z
 DTSTART:20240731T094800Z
 DTEND:20240731T095400Z
-DESCRIPTION:Дзюдо - Четвертьфинал, до 70кг (ж)
+DESCRIPTION:Дзюдо - Четвертьфинал, до 70кг (ж)\n🇧🇪 Gabriella WILLEMS
 SUMMARY:🥋 Четвертьфинал, до 70кг (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -15695,12 +15695,12 @@ SUMMARY:🥊 Omari JONES 🇺🇸 - 🇹🇼 KAN Chia Wei
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T095400Z-judo-18-90-
+UID:20240731T095400Z-judo-18-90--JPN-EST
 DTSTAMP:20240731T095400Z
 DTSTART:20240731T095400Z
 DTEND:20240731T100000Z
-DESCRIPTION:Дзюдо - 1/8 финала, до 90кг (м)\n🇯🇵 MURAO Sanshiro
-SUMMARY:🥋 1/8 финала, до 90кг (м)
+DESCRIPTION:Дзюдо - 1/8 финала, до 90кг (м)
+SUMMARY:🥋 MURAO Sanshiro 🇯🇵 - 🇪🇪 Klen Kristofer KALJULAID
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -15717,7 +15717,7 @@ UID:20240731T100000Z-judo-18-90-
 DTSTAMP:20240731T100000Z
 DTSTART:20240731T100000Z
 DTEND:20240731T100600Z
-DESCRIPTION:Дзюдо - 1/8 финала, до 90кг (м)
+DESCRIPTION:Дзюдо - 1/8 финала, до 90кг (м)\n🇦🇪 Aram GRIGORIAN
 SUMMARY:🥋 1/8 финала, до 90кг (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -24125,12 +24125,12 @@ SUMMARY:🤺 Командная сабля, полуфинал 2 (ж)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T133000Z-boxing--57-
+UID:20240803T133000Z-boxing--57--UZB-ESP
 DTSTAMP:20240803T133000Z
 DTSTART:20240803T133000Z
 DTEND:20240803T134100Z
-DESCRIPTION:Бокс - Четвертьфинал, до 57кг (м)\n🇺🇿 Abdumalik KHALOKOV
-SUMMARY:🥊 Четвертьфинал, до 57кг (м)
+DESCRIPTION:Бокс - Четвертьфинал, до 57кг (м)
+SUMMARY:🥊 Abdumalik KHALOKOV 🇺🇿 - 🇪🇸 Jose QUILES BROTONS
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
