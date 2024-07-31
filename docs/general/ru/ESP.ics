@@ -2325,6 +2325,16 @@ SUMMARY:🎾 Третий раунд, одиночный разряд (м)
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T101200Z-judo--90-
+DTSTAMP:20240731T101200Z
+DTSTART:20240731T101200Z
+DTEND:20240731T101800Z
+DESCRIPTION:Дзюдо - Четвертьфинал, до 90кг (м)\n🇪🇸 Tristani
+  MOSAKHLISHVILI
+SUMMARY:🥋 Четвертьфинал, до 90кг (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T101300Z-sailing--08-
 DTSTAMP:20240731T101300Z
 DTSTART:20240731T101300Z
@@ -2542,6 +2552,16 @@ DESCRIPTION:Парусный спорт - Скиф, гонка 12 (м)\n🇨🇦
   SOFFIATTI/SIMOES\n🇺🇾 UMPIERRE/DIZ\n🇮🇪 WADDILOVE/DICKSON\n🇨🇳 WEN/LIU
 SUMMARY:⛵ Скиф, гонка 12 (м)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T140000Z-judo--70-
+DTSTAMP:20240731T140000Z
+DTSTART:20240731T140000Z
+DTEND:20240731T140600Z
+DESCRIPTION:Дзюдо - Утешительный поединок, до 70кг (ж)\n🇪🇸 Ai TSUNODA
+  ROUSTANT
+SUMMARY:🥋 Утешительный поединок, до 70кг (ж)
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T141500Z-sailing--09-
