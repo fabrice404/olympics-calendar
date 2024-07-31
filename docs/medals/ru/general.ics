@@ -908,42 +908,6 @@ SUMMARY:🏊 Эстафета 4x200м вольным стилем, финал (�
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T001200Z-surfing--
-DTSTAMP:20240731T001200Z
-DTSTART:20240731T001200Z
-DTEND:20240731T004700Z
-DESCRIPTION:Серфинг - Поединок за бронзу (м)
-SUMMARY:🏄 Поединок за бронзу (м)
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T005300Z-surfing--
-DTSTAMP:20240731T005300Z
-DTSTART:20240731T005300Z
-DTEND:20240731T012800Z
-DESCRIPTION:Серфинг - Поединок за бронзу (ж)
-SUMMARY:🏄 Поединок за бронзу (ж)
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T013400Z-surfing--
-DTSTAMP:20240731T013400Z
-DTSTART:20240731T013400Z
-DTEND:20240731T020900Z
-DESCRIPTION:Серфинг - Финал (м)
-SUMMARY:🏄 Финал (м)
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T021500Z-surfing--
-DTSTAMP:20240731T021500Z
-DTSTART:20240731T021500Z
-DTEND:20240731T025000Z
-DESCRIPTION:Серфинг - Финал (ж)
-SUMMARY:🏄 Финал (ж)
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
 UID:20240731T060000Z-triathlon--
 DTSTAMP:20240731T060000Z
 DTSTART:20240731T060000Z
@@ -1431,6 +1395,42 @@ DTEND:20240801T201700Z
 DESCRIPTION:Плавание - Эстафета 4x200м вольным стилем, финал (ж)
 SUMMARY:🏊 Эстафета 4x200м вольным стилем, финал (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T001200Z-surfing--
+DTSTAMP:20240802T001200Z
+DTSTART:20240802T001200Z
+DTEND:20240802T004700Z
+DESCRIPTION:Серфинг - Поединок за бронзу (м)
+SUMMARY:🏄 Поединок за бронзу (м)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T005300Z-surfing--
+DTSTAMP:20240802T005300Z
+DTSTART:20240802T005300Z
+DTEND:20240802T012800Z
+DESCRIPTION:Серфинг - Поединок за бронзу (ж)
+SUMMARY:🏄 Поединок за бронзу (ж)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T013400Z-surfing--
+DTSTAMP:20240802T013400Z
+DTSTART:20240802T013400Z
+DTEND:20240802T020900Z
+DESCRIPTION:Серфинг - Финал (м)
+SUMMARY:🏄 Финал (м)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T021500Z-surfing--
+DTSTAMP:20240802T021500Z
+DTSTART:20240802T021500Z
+DTEND:20240802T025000Z
+DESCRIPTION:Серфинг - Финал (ж)
+SUMMARY:🏄 Финал (ж)
+LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T073000Z-shooting--50-3-
