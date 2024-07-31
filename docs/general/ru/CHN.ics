@@ -3158,6 +3158,15 @@ SUMMARY:🚣 Четверки парные, финал A (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T105200Z-archery-116--CUB-CHN
+DTSTAMP:20240731T105200Z
+DTSTART:20240731T105200Z
+DTEND:20240731T110500Z
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (м)
+SUMMARY:🏹 Hugo FRANCO 🇨🇺 - 🇨🇳 WANG Yan
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T110000Z-tennis---CHN-AUS
 DTSTAMP:20240731T110000Z
 DTSTART:20240731T110000Z
@@ -4566,6 +4575,15 @@ DESCRIPTION:Стрельба - Скорострельный пистолет 25 
   SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
 SUMMARY:🔫 Скорострельный пистолет 25 м, Pаунд 1 (м)
 LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T093200Z-boxing--75-
+DTSTAMP:20240804T093200Z
+DTSTART:20240804T093200Z
+DTEND:20240804T094300Z
+DESCRIPTION:Бокс - Четвертьфинал, до 75кг (ж)\n🇨🇳 LI Qian
+SUMMARY:🥊 Четвертьфинал, до 75кг (ж)
+LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T095000Z-fencing--14--CHN-FRA
