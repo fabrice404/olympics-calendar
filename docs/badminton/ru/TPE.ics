@@ -93,4 +93,13 @@ DESCRIPTION:Бадминтон - Групповой этап, одиночный
 SUMMARY:🏸 CHOU Tien Chen 🇹🇼 - 🇭🇰 LEE Cheuk Yiu
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T074000Z-badminton-18--TPE-JPN
+DTSTAMP:20240801T074000Z
+DTSTART:20240801T074000Z
+DTEND:20240801T084000Z
+DESCRIPTION:Бадминтон - 1/8 финала, одиночный (м)
+SUMMARY:🏸 CHOU Tien Chen 🇹🇼 - 🇯🇵 NARAOKA Kodai
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
 END:VCALENDAR
