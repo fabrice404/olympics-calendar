@@ -4094,6 +4094,15 @@ SUMMARY:⛵ Швертбот, гонка 06 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T150000Z-football--
+DTSTAMP:20240803T150000Z
+DTSTART:20240803T150000Z
+DTEND:20240803T164500Z
+DESCRIPTION:Футбол - Четвертьфинал (ж)\n🇪🇸 Испания
+SUMMARY:⚽ Четвертьфинал (ж)
+LOCATION:Стадион «Лион»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T160000Z-3x3-basketball---ESP-GER
 DTSTAMP:20240803T160000Z
 DTSTART:20240803T160000Z
