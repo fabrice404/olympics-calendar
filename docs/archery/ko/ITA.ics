@@ -142,4 +142,13 @@ DESCRIPTION:양궁 - 혼성 단체 16강 엘리미네이션 라운드
 SUMMARY:🏹 이탈리아 🇮🇹 - 🇫🇷 프랑스
 LOCATION:앵발리드
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T075600Z-archery--16--ITA-CAN
+DTSTAMP:20240804T075600Z
+DTSTART:20240804T075600Z
+DTEND:20240804T080900Z
+DESCRIPTION:양궁 - 남자 개인 16강 엘리미네이션 라운드
+SUMMARY:🏹 Mauro NESPOLI 🇮🇹 - 🇨🇦 Eric PETERS
+LOCATION:앵발리드
+END:VEVENT
 END:VCALENDAR
