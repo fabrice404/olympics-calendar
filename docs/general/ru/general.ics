@@ -16388,7 +16388,8 @@ UID:20240731T121000Z-archery-116-
 DTSTAMP:20240731T121000Z
 DTSTART:20240731T121000Z
 DTEND:20240731T122300Z
-DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (м)
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (м)\n🇺🇿
+  Amirkhon SADIKOV
 SUMMARY:🏹 1/16 финала, индивидуальные (м)
 LOCATION:Дом инвалидов
 END:VEVENT
@@ -16898,13 +16899,12 @@ SUMMARY:🥋 HAN Juyeop 🇰🇷 - 🇧🇷 Rafael MACEDO
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T143000Z-judo--90-
+UID:20240731T143000Z-judo--90--GRE-UAE
 DTSTAMP:20240731T143000Z
 DTSTART:20240731T143000Z
 DTEND:20240731T143600Z
-DESCRIPTION:Дзюдо - Утешительный поединок, до 90кг (м)\n🇬🇷 Theodoros
-  TSELIDIS
-SUMMARY:🥋 Утешительный поединок, до 90кг (м)
+DESCRIPTION:Дзюдо - Утешительный поединок, до 90кг (м)
+SUMMARY:🥋 Theodoros TSELIDIS 🇬🇷 - 🇦🇪 Aram GRIGORIAN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -16960,13 +16960,12 @@ SUMMARY:⛵ Скиф, гонка 12 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T143600Z-judo--90-
+UID:20240731T143600Z-judo--90--FRA-JPN
 DTSTAMP:20240731T143600Z
 DTSTART:20240731T143600Z
 DTEND:20240731T144200Z
-DESCRIPTION:Дзюдо - Полуфинал В, до 90кг (м)\n🇫🇷 Maxime-Gael NGAYAP
-  HAMBOU
-SUMMARY:🥋 Полуфинал В, до 90кг (м)
+DESCRIPTION:Дзюдо - Полуфинал В, до 90кг (м)
+SUMMARY:🥋 Maxime-Gael NGAYAP HAMBOU 🇫🇷 - 🇯🇵 MURAO Sanshiro
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -24616,7 +24615,7 @@ UID:20240803T153800Z-boxing--60-
 DTSTAMP:20240803T153800Z
 DTSTART:20240803T153800Z
 DTEND:20240803T154900Z
-DESCRIPTION:Бокс - Полуфинал, до 60кг (ж)
+DESCRIPTION:Бокс - Полуфинал, до 60кг (ж)\n🇨🇳 YANG Wenlu
 SUMMARY:🥊 Полуфинал, до 60кг (ж)
 LOCATION:Арена «Париж-Север»
 END:VEVENT
