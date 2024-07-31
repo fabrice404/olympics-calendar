@@ -2764,12 +2764,12 @@ SUMMARY:🥋 Eduard TRIPPEL 🇩🇪 - 🇸🇪 Marcus NYMAN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T091800Z-judo-18-70-
+UID:20240731T091800Z-judo-18-70--GER-AUS
 DTSTAMP:20240731T091800Z
 DTSTART:20240731T091800Z
 DTEND:20240731T092400Z
-DESCRIPTION:Дзюдо - 1/8 финала, до 70кг (ж)\n🇩🇪 Miriam BUTKEREIT
-SUMMARY:🥋 1/8 финала, до 70кг (ж)
+DESCRIPTION:Дзюдо - 1/8 финала, до 70кг (ж)
+SUMMARY:🥋 Miriam BUTKEREIT 🇩🇪 - 🇦🇺 Aoife COUGHLAN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -4178,15 +4178,6 @@ SUMMARY:🏊 Вышка 10м, предварительный раунд (ж)
 LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T080000Z-table-tennis-18--USA-GER
-DTSTAMP:20240805T080000Z
-DTSTART:20240805T080000Z
-DTEND:20240805T110000Z
-DESCRIPTION:Настольный теннис - 1/8 финала, командный разряд (ж)
-SUMMARY:🏓 США 🇺🇸 - 🇩🇪 Германия
-LOCATION:Арена «Париж-Юг» 4
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T180000Z-table-tennis-18--CAN-GER
 DTSTAMP:20240805T180000Z
 DTSTART:20240805T180000Z
@@ -4211,6 +4202,15 @@ DESCRIPTION:Прыжки в воду - Трамплин 3м, предварит�
   Haram\n🇨🇳 XIE Siyi\n🇰🇷 YI Jaegyeong\n🇯🇲 Yona KNIGHT-WISDOM
 SUMMARY:🏊 Трамплин 3м, предварительный раунд (м)
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080000Z-table-tennis-18--USA-GER
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T110000Z
+DESCRIPTION:Настольный теннис - 1/8 финала, командный разряд (ж)
+SUMMARY:🏓 США 🇺🇸 - 🇩🇪 Германия
+LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T130000Z-diving--3-

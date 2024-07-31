@@ -560,12 +560,12 @@ SUMMARY:🚣 Women's Single Sculls Semifinal C/D 1
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T094200Z-judo-MEN-90-KG-ELIMINATION-ROUND-OF-16
+UID:20240731T094200Z-judo-MEN-90-KG-ELIMINATION-ROUND-OF-16-SRB-GRE
 DTSTAMP:20240731T094200Z
 DTSTART:20240731T094200Z
 DTEND:20240731T094800Z
-DESCRIPTION:Judo - Men -90 kg Elimination Round of 16\n🇷🇸 Nemanja MAJDOV
-SUMMARY:🥋 Men -90 kg Elimination Round of 16
+DESCRIPTION:Judo - Men -90 kg Elimination Round of 16
+SUMMARY:🥋 Nemanja MAJDOV 🇷🇸 - 🇬🇷 Theodoros TSELIDIS
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -645,6 +645,18 @@ DTEND:20240731T185900Z
 DESCRIPTION:Boxing - Men's 71kg - Preliminaries - Round of 16
 SUMMARY:🥊 Lewis RICHARDSON 🇬🇧 - 🇷🇸 Vakhid ABBASOV
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T073000Z-shooting-50M-RIFLE-3-POSITIONS-MENS-FINAL
+DTSTAMP:20240801T073000Z
+DTSTART:20240801T073000Z
+DTEND:20240801T083000Z
+DESCRIPTION:Shooting - 50m Rifle 3 Positions Men's Final\n🇨🇿 Jiri
+  PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇨🇳 LIU Yukun\n🇷🇸 Lazar
+  KOVACEVIC\n🇫🇷 Lucas Bernard Denis KRYZS\n🇺🇦 Serhiy KULISH\n🇮🇳
+  Swapnil KUSALE\n🇵🇱 Tomasz BARTNIK
+SUMMARY:🔫 50m Rifle 3 Positions Men's Final
+LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T080500Z-3x3-basketball-MENS-POOL-ROUND-NED-SRB
@@ -759,6 +771,17 @@ DTEND:20240803T073100Z
 DESCRIPTION:Judo - Mixed Team Elimination Round of 16
 SUMMARY:🥋 NED 🇳🇱 - 🇷🇸 SRB
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T073000Z-rowing-WOMENS-SINGLE-SCULLS-FINAL-C
+DTSTAMP:20240803T073000Z
+DTSTART:20240803T073000Z
+DTEND:20240803T073700Z
+DESCRIPTION:Rowing - Women's Single Sculls Final C\n🇧🇷 Beatriz CUNHA
+  TAVARES CARDOSO\n🇦🇿 Diana DYMCHENKO\n🇷🇸 Jovana ARSIC\n🇲🇽 Kenia
+  LECHUGA ALANIS\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige BADENHORST
+SUMMARY:🚣 Women's Single Sculls Final C
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T113000Z-basketball-WOMENS-GROUP-PHASE-GROUP-A-SRB-ESP

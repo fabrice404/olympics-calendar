@@ -3718,13 +3718,12 @@ SUMMARY:🏊 Men's 200m Backstroke - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T093000Z-judo-WOMEN-70-KG-ELIMINATION-ROUND-OF-16
+UID:20240731T093000Z-judo-WOMEN-70-KG-ELIMINATION-ROUND-OF-16-FRA-ISR
 DTSTAMP:20240731T093000Z
 DTSTART:20240731T093000Z
 DTEND:20240731T093600Z
-DESCRIPTION:Judo - Women -70 kg Elimination Round of 16\n🇫🇷 Marie Eve
-  GAHIE
-SUMMARY:🥋 Women -70 kg Elimination Round of 16
+DESCRIPTION:Judo - Women -70 kg Elimination Round of 16
+SUMMARY:🥋 Marie Eve GAHIE 🇫🇷 - 🇮🇱 Maya GOSHEN
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -3867,10 +3866,10 @@ SUMMARY:⛵ Men's Skiff - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T124445Z-cycling-bmx-freestyle-MENS-PARK-FINAL
-DTSTAMP:20240731T124445Z
-DTSTART:20240731T124445Z
-DTEND:20240731T133945Z
+UID:20240731T123245Z-cycling-bmx-freestyle-MENS-PARK-FINAL
+DTSTAMP:20240731T123245Z
+DTSTART:20240731T123245Z
+DTEND:20240731T132745Z
 DESCRIPTION:Cycling BMX Freestyle - Men's Park Final\n🇫🇷 Anthony
   JEANJEAN\n🇱🇻 Ernests ZEBOLDS\n🇧🇷 Gustavo BATISTA de OLIVEIRA\n🇦🇷
   Jose TORRES GIL\n🇺🇸 Justin DOWELL\n🇬🇧 Kieran Darren David
@@ -4246,6 +4245,18 @@ DESCRIPTION:Golf - Men's Individual Stroke Play Round 1\n🇰🇷 AN Byeong
   YUAN Yechun
 SUMMARY:⛳ Men's Individual Stroke Play Round 1
 LOCATION:Le Golf National
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T073000Z-shooting-50M-RIFLE-3-POSITIONS-MENS-FINAL
+DTSTAMP:20240801T073000Z
+DTSTART:20240801T073000Z
+DTEND:20240801T083000Z
+DESCRIPTION:Shooting - 50m Rifle 3 Positions Men's Final\n🇨🇿 Jiri
+  PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇨🇳 LIU Yukun\n🇷🇸 Lazar
+  KOVACEVIC\n🇫🇷 Lucas Bernard Denis KRYZS\n🇺🇦 Serhiy KULISH\n🇮🇳
+  Swapnil KUSALE\n🇵🇱 Tomasz BARTNIK
+SUMMARY:🔫 50m Rifle 3 Positions Men's Final
+LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T081200Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-32-FRA-TJK

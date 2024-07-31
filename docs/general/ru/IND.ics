@@ -784,13 +784,12 @@ SUMMARY:🏹 Deepika KUMARI 🇮🇳 - 🇪🇪 Reena PARNAT
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T150000Z-table-tennis-18-
+UID:20240731T150000Z-table-tennis-18--IND-JPN
 DTSTAMP:20240731T150000Z
 DTSTART:20240731T150000Z
 DTEND:20240731T160000Z
-DESCRIPTION:Настольный теннис - 1/8 финала, одиночный разряд (ж)\n🇮🇳
-  Manika BATRA
-SUMMARY:🏓 1/8 финала, одиночный разряд (ж)
+DESCRIPTION:Настольный теннис - 1/8 финала, одиночный разряд (ж)
+SUMMARY:🏓 Manika BATRA 🇮🇳 - 🇯🇵 Miu HIRANO
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
@@ -846,6 +845,18 @@ DESCRIPTION:Гольф - Личный зачет, раунд 1 (м)\n🇰🇷 AN
   CLARK\n🇺🇸 Xander SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳 YUAN Yechun
 SUMMARY:⛳ Личный зачет, раунд 1 (м)
 LOCATION:Центр «Гольф-Насьональ»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T073000Z-shooting--50-3-
+DTSTAMP:20240801T073000Z
+DTSTART:20240801T073000Z
+DTEND:20240801T083000Z
+DESCRIPTION:Стрельба - Винтовка 50м, 3 положения, финал (м)\n🇨🇿 Jiri
+  PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇨🇳 LIU Yukun\n🇷🇸 Lazar
+  KOVACEVIC\n🇫🇷 Lucas Bernard Denis KRYZS\n🇺🇦 Serhiy KULISH\n🇮🇳
+  Swapnil KUSALE\n🇵🇱 Tomasz BARTNIK
+SUMMARY:🔫 Винтовка 50м, 3 положения, финал (м)
+LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T080000Z-hockey--B--IND-BEL
@@ -971,6 +982,17 @@ SUMMARY:🏹 Индия 🇮🇳 - 🇮🇩 Индонезия
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T081800Z-rowing--D-
+DTSTAMP:20240802T081800Z
+DTSTART:20240802T081800Z
+DTEND:20240802T082500Z
+DESCRIPTION:Академическая гребля - Одиночки, финал D (м)\n🇪🇬 Abdelkhalek
+  ELBANNA\n🇮🇳 Balraj PANWAR\n🇭🇰 CHIU Hin Chun\n🇸🇮 Isak Ivan
+  ZVEGELJ\n🇲🇨 Quentin ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO
+SUMMARY:🚣 Одиночки, финал D (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T084200Z-judo-116-78--CUB-IND
 DTSTAMP:20240802T084200Z
 DTSTART:20240802T084200Z
@@ -1036,10 +1058,10 @@ SUMMARY:🔫 Скорострельный пистолет 25 м, Pаунд 1 (�
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T180000Z-table-tennis-18--ROU-IND
-DTSTAMP:20240805T180000Z
-DTSTART:20240805T180000Z
-DTEND:20240805T210000Z
+UID:20240805T080000Z-table-tennis-18--ROU-IND
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T110000Z
 DESCRIPTION:Настольный теннис - 1/8 финала, командный разряд (ж)
 SUMMARY:🏓 Румыния 🇷🇴 - 🇮🇳 Индия
 LOCATION:Арена «Париж-Юг» 4

@@ -309,6 +309,17 @@ SUMMARY:⛳ Личный зачет, раунд 2 (м)
 LOCATION:Центр «Гольф-Насьональ»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T083000Z-rowing--D-
+DTSTAMP:20240802T083000Z
+DTSTART:20240802T083000Z
+DTEND:20240802T083700Z
+DESCRIPTION:Академическая гребля - Одиночки, финал D (ж)\n🇵🇪 Adriana
+  SANGUINETI\n🇵🇾 Alejandra ALONSO ALDERETE\n🇹🇷 Elis OZBAY\n🇮🇷 Fatemeh
+  MOJALLALTOPRAGHGHALE\n🇵🇭 Joanie DELGACO\n🇻🇳 Thi Hue PHAM
+SUMMARY:🚣 Одиночки, финал D (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T170000Z-football---EGY-PAR
 DTSTAMP:20240802T170000Z
 DTSTART:20240802T170000Z
@@ -316,6 +327,17 @@ DTEND:20240802T184500Z
 DESCRIPTION:Футбол - Четвертьфинал (м)
 SUMMARY:⚽ Египет 🇪🇬 - 🇵🇾 Парагвай
 LOCATION:Стадион «Марсель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T074200Z-rowing--C-
+DTSTAMP:20240803T074200Z
+DTSTART:20240803T074200Z
+DTEND:20240803T074900Z
+DESCRIPTION:Академическая гребля - Одиночки, финал C (м)\n🇭🇺 Bendeguz Pal
+  PETERVARI MOLNAR\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier INSFRAN\n🇧🇬 Kristian
+  VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇩🇿 Sid Ali BOUDINA
+SUMMARY:🚣 Одиночки, финал C (м)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-beach-volleyball--D--SUI-PAR

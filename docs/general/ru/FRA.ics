@@ -3733,12 +3733,12 @@ SUMMARY:🏊 200м на спине, квалификация (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T093000Z-judo-18-70-
+UID:20240731T093000Z-judo-18-70--FRA-ISR
 DTSTAMP:20240731T093000Z
 DTSTART:20240731T093000Z
 DTEND:20240731T093600Z
-DESCRIPTION:Дзюдо - 1/8 финала, до 70кг (ж)\n🇫🇷 Marie Eve GAHIE
-SUMMARY:🥋 1/8 финала, до 70кг (ж)
+DESCRIPTION:Дзюдо - 1/8 финала, до 70кг (ж)
+SUMMARY:🥋 Marie Eve GAHIE 🇫🇷 - 🇮🇱 Maya GOSHEN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -3882,10 +3882,10 @@ SUMMARY:⛵ Скиф, гонка 10 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T124445Z-cycling-bmx-freestyle--
-DTSTAMP:20240731T124445Z
-DTSTART:20240731T124445Z
-DTEND:20240731T133945Z
+UID:20240731T123245Z-cycling-bmx-freestyle--
+DTSTAMP:20240731T123245Z
+DTSTART:20240731T123245Z
+DTEND:20240731T132745Z
 DESCRIPTION:ВМХ-фристайл - Парк, финал (м)\n🇫🇷 Anthony JEANJEAN\n🇱🇻
   Ernests ZEBOLDS\n🇧🇷 Gustavo BATISTA de OLIVEIRA\n🇦🇷 Jose TORRES
   GIL\n🇺🇸 Justin DOWELL\n🇬🇧 Kieran Darren David REILLY\n🇦🇺 Logan
@@ -4259,6 +4259,18 @@ DESCRIPTION:Гольф - Личный зачет, раунд 1 (м)\n🇰🇷 AN
   CLARK\n🇺🇸 Xander SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳 YUAN Yechun
 SUMMARY:⛳ Личный зачет, раунд 1 (м)
 LOCATION:Центр «Гольф-Насьональ»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T073000Z-shooting--50-3-
+DTSTAMP:20240801T073000Z
+DTSTART:20240801T073000Z
+DTEND:20240801T083000Z
+DESCRIPTION:Стрельба - Винтовка 50м, 3 положения, финал (м)\n🇨🇿 Jiri
+  PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇨🇳 LIU Yukun\n🇷🇸 Lazar
+  KOVACEVIC\n🇫🇷 Lucas Bernard Denis KRYZS\n🇺🇦 Serhiy KULISH\n🇮🇳
+  Swapnil KUSALE\n🇵🇱 Tomasz BARTNIK
+SUMMARY:🔫 Винтовка 50м, 3 положения, финал (м)
+LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T081200Z-judo-116-100--FRA-TJK

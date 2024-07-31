@@ -563,12 +563,12 @@ SUMMARY:🚣 Одиночки, полуфинал C/D 1 (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T094200Z-judo-18-90-
+UID:20240731T094200Z-judo-18-90--SRB-GRE
 DTSTAMP:20240731T094200Z
 DTSTART:20240731T094200Z
 DTEND:20240731T094800Z
-DESCRIPTION:Дзюдо - 1/8 финала, до 90кг (м)\n🇷🇸 Nemanja MAJDOV
-SUMMARY:🥋 1/8 финала, до 90кг (м)
+DESCRIPTION:Дзюдо - 1/8 финала, до 90кг (м)
+SUMMARY:🥋 Nemanja MAJDOV 🇷🇸 - 🇬🇷 Theodoros TSELIDIS
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -648,6 +648,18 @@ DTEND:20240731T185900Z
 DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 71кг (м)
 SUMMARY:🥊 Lewis RICHARDSON 🇬🇧 - 🇷🇸 Vakhid ABBASOV
 LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T073000Z-shooting--50-3-
+DTSTAMP:20240801T073000Z
+DTSTART:20240801T073000Z
+DTEND:20240801T083000Z
+DESCRIPTION:Стрельба - Винтовка 50м, 3 положения, финал (м)\n🇨🇿 Jiri
+  PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇨🇳 LIU Yukun\n🇷🇸 Lazar
+  KOVACEVIC\n🇫🇷 Lucas Bernard Denis KRYZS\n🇺🇦 Serhiy KULISH\n🇮🇳
+  Swapnil KUSALE\n🇵🇱 Tomasz BARTNIK
+SUMMARY:🔫 Винтовка 50м, 3 положения, финал (м)
+LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T080500Z-3x3-basketball---NED-SRB
@@ -763,6 +775,17 @@ DTEND:20240803T073100Z
 DESCRIPTION:Дзюдо - 1/8 финала (микст)
 SUMMARY:🥋 Нидерланды 🇳🇱 - 🇷🇸 Сербия
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T073000Z-rowing--C-
+DTSTAMP:20240803T073000Z
+DTSTART:20240803T073000Z
+DTEND:20240803T073700Z
+DESCRIPTION:Академическая гребля - Одиночки, финал C (ж)\n🇧🇷 Beatriz
+  CUNHA TAVARES CARDOSO\n🇦🇿 Diana DYMCHENKO\n🇷🇸 Jovana ARSIC\n🇲🇽
+  Kenia LECHUGA ALANIS\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige BADENHORST
+SUMMARY:🚣 Одиночки, финал C (ж)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T113000Z-basketball---SRB-ESP
