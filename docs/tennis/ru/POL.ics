@@ -75,4 +75,13 @@ DESCRIPTION:Теннис - Четвертьфинал, одиночный раз
 SUMMARY:🎾 Iga SWIATEK 🇵🇱 - 🇺🇸 Danielle COLLINS
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T100000Z-tennis---POL-CHN
+DTSTAMP:20240801T100000Z
+DTSTART:20240801T100000Z
+DTEND:20240801T113000Z
+DESCRIPTION:Теннис - Полуфинал, одиночный разряд (ж)
+SUMMARY:🎾 Iga SWIATEK 🇵🇱 - 🇨🇳 ZHENG Qinwen
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
 END:VCALENDAR

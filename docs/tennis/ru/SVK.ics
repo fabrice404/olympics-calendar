@@ -39,4 +39,14 @@ DESCRIPTION:Теннис - Четвертьфинал, одиночный раз
 SUMMARY:🎾 Barbora KREJCIKOVA 🇨🇿 - 🇸🇰 Anna Karolina SCHMIEDLOVA
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T170000Z-tennis--
+DTSTAMP:20240801T170000Z
+DTSTART:20240801T170000Z
+DTEND:20240801T200000Z
+DESCRIPTION:Теннис - Полуфинал, одиночный разряд (ж)\n🇸🇰 Anna Karolina
+  SCHMIEDLOVA
+SUMMARY:🎾 Полуфинал, одиночный разряд (ж)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
 END:VCALENDAR

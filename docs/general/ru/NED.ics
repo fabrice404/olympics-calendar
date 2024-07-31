@@ -2794,6 +2794,15 @@ SUMMARY:⛵ Виндсерфинг, гонка 15 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T120000Z-tennis--
+DTSTAMP:20240801T120000Z
+DTSTART:20240801T120000Z
+DTEND:20240801T133000Z
+DESCRIPTION:Теннис - Полуфинал (микст)\n🇳🇱 SCHUURS/KOOLHOF
+SUMMARY:🎾 Полуфинал (микст)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T120500Z-3x3-basketball---NED-FRA
 DTSTAMP:20240801T120500Z
 DTSTART:20240801T120500Z

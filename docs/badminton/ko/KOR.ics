@@ -228,4 +228,13 @@ DESCRIPTION:배드민턴 - 여자 복식 8강
 SUMMARY:🏸 BAEK/LEE 🇰🇷 - 🇨🇳 LIU/TAN
 LOCATION:라 샤펠 아레나
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T163000Z-badminton--
+DTSTAMP:20240801T163000Z
+DTSTART:20240801T163000Z
+DTEND:20240801T200000Z
+DESCRIPTION:배드민턴 - 혼합복식 준결승\n🇰🇷 SEO/CHAE
+SUMMARY:🏸 혼합복식 준결승
+LOCATION:라 샤펠 아레나
+END:VEVENT
 END:VCALENDAR

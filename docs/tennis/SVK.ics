@@ -39,4 +39,14 @@ DESCRIPTION:Tennis - Women's Singles Quarter-final
 SUMMARY:🎾 Barbora KREJCIKOVA 🇨🇿 - 🇸🇰 Anna Karolina SCHMIEDLOVA
 LOCATION:Roland-Garros Stadium
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T170000Z-tennis-WOMENS-SINGLES-SEMI-FINAL
+DTSTAMP:20240801T170000Z
+DTSTART:20240801T170000Z
+DTEND:20240801T200000Z
+DESCRIPTION:Tennis - Women's Singles Semi-final\n🇸🇰 Anna Karolina
+  SCHMIEDLOVA
+SUMMARY:🎾 Women's Singles Semi-final
+LOCATION:Roland-Garros Stadium
+END:VEVENT
 END:VCALENDAR

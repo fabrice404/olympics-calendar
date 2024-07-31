@@ -39,4 +39,13 @@ DESCRIPTION:Теннис - Третий раунд, одиночный разр�
 SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇩🇪 Dominik KOEPFER
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T170000Z-tennis---SRB-GRE
+DTSTAMP:20240801T170000Z
+DTSTART:20240801T170000Z
+DTEND:20240801T183000Z
+DESCRIPTION:Теннис - Четвертьфинал, одиночный разряд (м)
+SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇬🇷 Stefanos TSITSIPAS
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
 END:VCALENDAR
