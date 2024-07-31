@@ -676,6 +676,15 @@ SUMMARY:🎾 Sebastian BAEZ 🇦🇷 - 🇬🇷 Stefanos TSITSIPAS
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T101800Z-judo--90-
+DTSTAMP:20240731T101800Z
+DTSTART:20240731T101800Z
+DTEND:20240731T102400Z
+DESCRIPTION:Дзюдо - Четвертьфинал, до 90кг (м)\n🇬🇷 Theodoros TSELIDIS
+SUMMARY:🥋 Четвертьфинал, до 90кг (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T114300Z-sailing--07-
 DTSTAMP:20240731T114300Z
 DTSTART:20240731T114300Z
@@ -747,6 +756,34 @@ DTEND:20240731T193000Z
 DESCRIPTION:Водное поло - Групповой этап - Группа B (ж)
 SUMMARY:🤽 Испания 🇪🇸 - 🇬🇷 Греция
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T184500Z-swimming-200-
+DTSTAMP:20240731T184500Z
+DTSTART:20240731T184500Z
+DTEND:20240731T190100Z
+DESCRIPTION:Плавание - 200м баттерфляем, полуфиналы (ж)\n🇦🇺 Abbey Lee
+  CONNOR\n🇺🇸 Alex SHACKELL\n🇭🇺 Boglarka KAPAS\n🇨🇳 CHEN Luying\n🇦🇺
+  Elizabeth DEKKERS\n🇬🇷 Georgia DAMASIOTI\n🇩🇰 Helena Rosendahl
+  BACH\n🇬🇧 Keanna Louise MACINNES\n🇧🇦 Lana PUDAR\n🇪🇸 Laura CABANES
+  GARZAS\n🇬🇧 Laura STEPHENS\n🇯🇵 MAKINO Hiroko\n🇯🇵 MITSUI Airi\n🇺🇸
+  Regan SMITH\n🇨🇦 Summer McINTOSH\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 200м баттерфляем, полуфиналы (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T194700Z-swimming-200-
+DTSTAMP:20240731T194700Z
+DTSTART:20240731T194700Z
+DTEND:20240731T200300Z
+DESCRIPTION:Плавание - 200м на спине, полуфиналы (м)\n🇭🇺 Adam
+  TELEGDY\n🇬🇷 Apostolos CHRISTOU\n🇬🇷 Apostolos SISKOS\n🇭🇺 Hubert
+  KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸 Keaton JONES\n🇰🇷 LEE
+  Juho\n🇩🇪 Lukas MAERTENS\n🇫🇷 Mewen TOMAC\n🇬🇧 Oliver MORGAN\n🇿🇦
+  Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇯🇵 TAKEHARA
+  Hidekazu\n🇮🇹 Thomas CECCON\n🇫🇷 Yohann NDOYE-BROUARD
+SUMMARY:🏊 200м на спине, полуфиналы (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T080000Z-rowing--AB-2-

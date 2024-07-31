@@ -2891,6 +2891,20 @@ SUMMARY:🥊 HARADA Shudai 🇯🇵 - 🇨🇴 Yilmar Leandro GONZALEZ LANDAZURY
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T184500Z-swimming-200-
+DTSTAMP:20240731T184500Z
+DTSTART:20240731T184500Z
+DTEND:20240731T190100Z
+DESCRIPTION:Плавание - 200м баттерфляем, полуфиналы (ж)\n🇦🇺 Abbey Lee
+  CONNOR\n🇺🇸 Alex SHACKELL\n🇭🇺 Boglarka KAPAS\n🇨🇳 CHEN Luying\n🇦🇺
+  Elizabeth DEKKERS\n🇬🇷 Georgia DAMASIOTI\n🇩🇰 Helena Rosendahl
+  BACH\n🇬🇧 Keanna Louise MACINNES\n🇧🇦 Lana PUDAR\n🇪🇸 Laura CABANES
+  GARZAS\n🇬🇧 Laura STEPHENS\n🇯🇵 MAKINO Hiroko\n🇯🇵 MITSUI Airi\n🇺🇸
+  Regan SMITH\n🇨🇦 Summer McINTOSH\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 200м баттерфляем, полуфиналы (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T190000Z-table-tennis-18--JPN-DEN
 DTSTAMP:20240731T190000Z
 DTSTART:20240731T190000Z
@@ -2907,6 +2921,34 @@ DTEND:20240731T201000Z
 DESCRIPTION:Бадминтон - 1/4 финала, парный (микст)
 SUMMARY:🏸 WATANABE/HIGASHINO 🇯🇵 - 🇹🇭 PUAVARANUK/TAERATTANA
 LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T194700Z-swimming-200-
+DTSTAMP:20240731T194700Z
+DTSTART:20240731T194700Z
+DTEND:20240731T200300Z
+DESCRIPTION:Плавание - 200м на спине, полуфиналы (м)\n🇭🇺 Adam
+  TELEGDY\n🇬🇷 Apostolos CHRISTOU\n🇬🇷 Apostolos SISKOS\n🇭🇺 Hubert
+  KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸 Keaton JONES\n🇰🇷 LEE
+  Juho\n🇩🇪 Lukas MAERTENS\n🇫🇷 Mewen TOMAC\n🇬🇧 Oliver MORGAN\n🇿🇦
+  Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇯🇵 TAKEHARA
+  Hidekazu\n🇮🇹 Thomas CECCON\n🇫🇷 Yohann NDOYE-BROUARD
+SUMMARY:🏊 200м на спине, полуфиналы (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T200300Z-swimming-200-
+DTSTAMP:20240731T200300Z
+DTSTART:20240731T200300Z
+DTEND:20240731T201900Z
+DESCRIPTION:Плавание - 200м брассом, полуфиналы (ж)\n🇦🇺 Ella RAMSAY\n🇮🇹
+  Francesca FANGIO\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL MONTERO\n🇺🇸
+  Kate DOUGLASS\n🇿🇦 Kaylene CORBETT\n🇨🇦 Kelsey WOG\n🇱🇹 Kotryna
+  TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇺🇸 Lilly KING\n🇮🇪 Mona Mc
+  SHARRY\n🇯🇵 SUZUKI Satomi\n🇨🇦 Sydney PICKREM\n🇿🇦 Tatjana SMITH\n🇳🇱
+  Tes SCHOUTEN\n🇨🇳 YE Shiwen
+SUMMARY:🏊 200м брассом, полуфиналы (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T203100Z-swimming-200-

@@ -2881,6 +2881,20 @@ SUMMARY:🥊 HARADA Shudai 🇯🇵 - 🇨🇴 Yilmar Leandro GONZALEZ LANDAZURY
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T184500Z-swimming-WOMENS-200M-BUTTERFLY-SEMIFINALS
+DTSTAMP:20240731T184500Z
+DTSTART:20240731T184500Z
+DTEND:20240731T190100Z
+DESCRIPTION:Swimming - Women's 200m Butterfly Semifinals\n🇦🇺 Abbey Lee
+  CONNOR\n🇺🇸 Alex SHACKELL\n🇭🇺 Boglarka KAPAS\n🇨🇳 CHEN Luying\n🇦🇺
+  Elizabeth DEKKERS\n🇬🇷 Georgia DAMASIOTI\n🇩🇰 Helena Rosendahl
+  BACH\n🇬🇧 Keanna Louise MACINNES\n🇧🇦 Lana PUDAR\n🇪🇸 Laura CABANES
+  GARZAS\n🇬🇧 Laura STEPHENS\n🇯🇵 MAKINO Hiroko\n🇯🇵 MITSUI Airi\n🇺🇸
+  Regan SMITH\n🇨🇦 Summer McINTOSH\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 Women's 200m Butterfly Semifinals
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T190000Z-table-tennis-MENS-SINGLES-ROUND-OF-16-JPN-DEN
 DTSTAMP:20240731T190000Z
 DTSTART:20240731T190000Z
@@ -2897,6 +2911,34 @@ DTEND:20240731T201000Z
 DESCRIPTION:Badminton - Mixed Doubles Quarterfinal
 SUMMARY:🏸 WATANABE/HIGASHINO 🇯🇵 - 🇹🇭 PUAVARANUK/TAERATTANA
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T194700Z-swimming-MENS-200M-BACKSTROKE-SEMIFINALS
+DTSTAMP:20240731T194700Z
+DTSTART:20240731T194700Z
+DTEND:20240731T200300Z
+DESCRIPTION:Swimming - Men's 200m Backstroke Semifinals\n🇭🇺 Adam
+  TELEGDY\n🇬🇷 Apostolos CHRISTOU\n🇬🇷 Apostolos SISKOS\n🇭🇺 Hubert
+  KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸 Keaton JONES\n🇰🇷 LEE
+  Juho\n🇩🇪 Lukas MAERTENS\n🇫🇷 Mewen TOMAC\n🇬🇧 Oliver MORGAN\n🇿🇦
+  Pieter COETZE\n🇨🇭 Roman MITYUKOV\n🇺🇸 Ryan MURPHY\n🇯🇵 TAKEHARA
+  Hidekazu\n🇮🇹 Thomas CECCON\n🇫🇷 Yohann NDOYE-BROUARD
+SUMMARY:🏊 Men's 200m Backstroke Semifinals
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T200300Z-swimming-WOMENS-200M-BREASTSTROKE-SEMIFINALS
+DTSTAMP:20240731T200300Z
+DTSTART:20240731T200300Z
+DTEND:20240731T201900Z
+DESCRIPTION:Swimming - Women's 200m Breaststroke Semifinals\n🇦🇺 Ella
+  RAMSAY\n🇮🇹 Francesca FANGIO\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL
+  MONTERO\n🇺🇸 Kate DOUGLASS\n🇿🇦 Kaylene CORBETT\n🇨🇦 Kelsey WOG\n🇱🇹
+  Kotryna TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇺🇸 Lilly KING\n🇮🇪 Mona Mc
+  SHARRY\n🇯🇵 SUZUKI Satomi\n🇨🇦 Sydney PICKREM\n🇿🇦 Tatjana SMITH\n🇳🇱
+  Tes SCHOUTEN\n🇨🇳 YE Shiwen
+SUMMARY:🏊 Women's 200m Breaststroke Semifinals
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T203100Z-swimming-MENS-200M-BREASTSTROKE-FINAL
