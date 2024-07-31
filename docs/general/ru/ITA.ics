@@ -3545,6 +3545,30 @@ SUMMARY:🚣 Четверки, финал A (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T101500Z-sailing--01-
+DTSTAMP:20240801T101500Z
+DTSTART:20240801T101500Z
+DTEND:20240801T110600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 01 (м)\n🇪🇬 Aly BADAWY\n🇹🇭
+  Arthit Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇳🇱 Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON
+  PACAS\n🇼🇸 Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪
+  Finn LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰
+  HALLIDAY Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste
+  BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan
+  VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle
+  TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹
+  Lorenzo Brando CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧
+  Michael BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer
+  VERED VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ
+  GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬
+  Thad LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Швертбот, гонка 01 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T102000Z-boxing--18-66--ALG-ITA
 DTSTAMP:20240801T102000Z
 DTSTART:20240801T102000Z
@@ -3552,6 +3576,30 @@ DTEND:20240801T103100Z
 DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 66кг (ж)
 SUMMARY:🥊 Imane KHELIF 🇩🇿 - 🇮🇹 Angela CARINI
 LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T122000Z-sailing--02-
+DTSTAMP:20240801T122000Z
+DTSTART:20240801T122000Z
+DTEND:20240801T131100Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 02 (м)\n🇪🇬 Aly BADAWY\n🇹🇭
+  Arthit Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇳🇱 Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON
+  PACAS\n🇼🇸 Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪
+  Finn LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰
+  HALLIDAY Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste
+  BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan
+  VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle
+  TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹
+  Lorenzo Brando CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧
+  Michael BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer
+  VERED VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ
+  GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬
+  Thad LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Швертбот, гонка 02 (м)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T130300Z-sailing--12-
@@ -3600,6 +3648,29 @@ DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 13 
   TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
   STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
 SUMMARY:⛵ Виндсерфинг, гонка 13 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T133500Z-sailing--01-
+DTSTAMP:20240801T133500Z
+DTSTART:20240801T133500Z
+DTEND:20240801T142600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 01 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 01 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
@@ -3675,6 +3746,29 @@ DESCRIPTION:Парусный спорт - Виндсерфинг, гонка 15 
   TRUEBA\n🇳🇱 Sara WENNEKES\n🇮🇱 Sharon KANTOR\n🇩🇪 Theresa Marie
   STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
 SUMMARY:⛵ Виндсерфинг, гонка 15 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T144300Z-sailing--02-
+DTSTAMP:20240801T144300Z
+DTSTART:20240801T144300Z
+DTEND:20240801T153400Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 02 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 02 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
@@ -4049,6 +4143,52 @@ SUMMARY:🏊 Эстафета 4x100м комплексом, квалификац
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T101500Z-sailing--03-
+DTSTAMP:20240802T101500Z
+DTSTART:20240802T101500Z
+DTEND:20240802T110600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 03 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 03 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T112300Z-sailing--04-
+DTSTAMP:20240802T112300Z
+DTSTART:20240802T112300Z
+DTEND:20240802T121400Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 04 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 04 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T113000Z-fencing--14--ITA-CZE
 DTSTAMP:20240802T113000Z
 DTSTART:20240802T113000Z
@@ -4076,6 +4216,30 @@ DESCRIPTION:Гребной слалом - Экстрим-слалом, разд�
   CASTRYCK\n🇦🇺 Tristan CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
 SUMMARY:🛶 Экстрим-слалом, раздельный старт (м)
 LOCATION:Водный ст. - Белая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T133500Z-sailing--03-
+DTSTAMP:20240802T133500Z
+DTSTART:20240802T133500Z
+DTEND:20240802T142600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 03 (м)\n🇪🇬 Aly BADAWY\n🇹🇭
+  Arthit Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇳🇱 Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON
+  PACAS\n🇼🇸 Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪
+  Finn LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰
+  HALLIDAY Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste
+  BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan
+  VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle
+  TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹
+  Lorenzo Brando CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧
+  Michael BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer
+  VERED VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ
+  GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬
+  Thad LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Швертбот, гонка 03 (м)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T133500Z-water-polo--B--GRE-ITA
@@ -4106,6 +4270,30 @@ DESCRIPTION:Гребной слалом - Экстрим-слалом, разд�
   Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
 SUMMARY:🛶 Экстрим-слалом, раздельный старт (ж)
 LOCATION:Водный ст. - Белая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T144500Z-sailing--04-
+DTSTAMP:20240802T144500Z
+DTSTART:20240802T144500Z
+DTEND:20240802T153600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 04 (м)\n🇪🇬 Aly BADAWY\n🇹🇭
+  Arthit Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇳🇱 Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON
+  PACAS\n🇼🇸 Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪
+  Finn LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰
+  HALLIDAY Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste
+  BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan
+  VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle
+  TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹
+  Lorenzo Brando CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧
+  Michael BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer
+  VERED VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ
+  GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬
+  Thad LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Швертбот, гонка 04 (м)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T153800Z-boxing--92--ITA-GER
@@ -4198,6 +4386,30 @@ SUMMARY:🏊 1500м вольным стилем, квалификация (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T101500Z-sailing--05-
+DTSTAMP:20240803T101500Z
+DTSTART:20240803T101500Z
+DTEND:20240803T110600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 05 (м)\n🇪🇬 Aly BADAWY\n🇹🇭
+  Arthit Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇳🇱 Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON
+  PACAS\n🇼🇸 Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪
+  Finn LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰
+  HALLIDAY Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste
+  BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan
+  VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle
+  TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹
+  Lorenzo Brando CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧
+  Michael BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer
+  VERED VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ
+  GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬
+  Thad LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Швертбот, гонка 05 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T104000Z-swimming--4X100-
 DTSTAMP:20240803T104000Z
 DTSTART:20240803T104000Z
@@ -4231,6 +4443,76 @@ DTEND:20240803T115000Z
 DESCRIPTION:Фехтование - Командная сабля, 1/4 финала (ж)
 SUMMARY:🤺 Италия 🇮🇹 - 🇺🇦 Украина
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T112300Z-sailing--06-
+DTSTAMP:20240803T112300Z
+DTSTART:20240803T112300Z
+DTEND:20240803T121400Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 06 (м)\n🇪🇬 Aly BADAWY\n🇹🇭
+  Arthit Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇳🇱 Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON
+  PACAS\n🇼🇸 Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪
+  Finn LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰
+  HALLIDAY Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste
+  BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan
+  VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle
+  TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹
+  Lorenzo Brando CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧
+  Michael BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer
+  VERED VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ
+  GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬
+  Thad LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Швертбот, гонка 06 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T122500Z-sailing--05-
+DTSTAMP:20240803T122500Z
+DTSTART:20240803T122500Z
+DTEND:20240803T131600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 05 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 05 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T133300Z-sailing--06-
+DTSTAMP:20240803T133300Z
+DTSTART:20240803T133300Z
+DTEND:20240803T142400Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 06 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 06 (ж)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T150000Z-volleyball--B--POL-ITA
@@ -4288,6 +4570,77 @@ SUMMARY:🤺 Италия 🇮🇹 - 🇵🇱 Польша
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T100500Z-sailing--07-
+DTSTAMP:20240804T100500Z
+DTSTART:20240804T100500Z
+DTEND:20240804T105600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 07 (м)\n🇪🇬 Aly BADAWY\n🇹🇭
+  Arthit Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇳🇱 Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON
+  PACAS\n🇼🇸 Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪
+  Finn LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰
+  HALLIDAY Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste
+  BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan
+  VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle
+  TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹
+  Lorenzo Brando CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧
+  Michael BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer
+  VERED VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ
+  GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬
+  Thad LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Швертбот, гонка 07 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T111300Z-sailing--08-
+DTSTAMP:20240804T111300Z
+DTSTART:20240804T111300Z
+DTEND:20240804T120400Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 08 (м)\n🇪🇬 Aly BADAWY\n🇹🇭
+  Arthit Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇳🇱 Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON
+  PACAS\n🇼🇸 Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪
+  Finn LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰
+  HALLIDAY Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste
+  BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan
+  VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle
+  TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹
+  Lorenzo Brando CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧
+  Michael BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer
+  VERED VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ
+  GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬
+  Thad LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Швертбот, гонка 08 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T123500Z-sailing--07-
+DTSTAMP:20240804T123500Z
+DTSTART:20240804T123500Z
+DTEND:20240804T132600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 07 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 07 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T133500Z-water-polo--B--ITA-ESP
 DTSTAMP:20240804T133500Z
 DTSTART:20240804T133500Z
@@ -4295,6 +4648,29 @@ DTEND:20240804T150000Z
 DESCRIPTION:Водное поло - Групповой этап - Группа B (ж)
 SUMMARY:🤽 Италия 🇮🇹 - 🇪🇸 Испания
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T134500Z-sailing--08-
+DTSTAMP:20240804T134500Z
+DTSTART:20240804T134500Z
+DTEND:20240804T143600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 08 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 08 (ж)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T080000Z-diving--10-
@@ -4316,6 +4692,76 @@ SUMMARY:🏊 Вышка 10м, предварительный раунд (ж)
 LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T101500Z-sailing--09-
+DTSTAMP:20240805T101500Z
+DTSTART:20240805T101500Z
+DTEND:20240805T110600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 09 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 09 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T112300Z-sailing--10-
+DTSTAMP:20240805T112300Z
+DTSTART:20240805T112300Z
+DTEND:20240805T121400Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 10 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 10 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T124000Z-sailing--09-
+DTSTAMP:20240805T124000Z
+DTSTART:20240805T124000Z
+DTEND:20240805T133100Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 09 (м)\n🇪🇬 Aly BADAWY\n🇹🇭
+  Arthit Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇳🇱 Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON
+  PACAS\n🇼🇸 Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪
+  Finn LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰
+  HALLIDAY Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste
+  BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan
+  VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle
+  TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹
+  Lorenzo Brando CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧
+  Michael BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer
+  VERED VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ
+  GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬
+  Thad LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Швертбот, гонка 09 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T131000Z-water-polo--A--GRE-ITA
 DTSTAMP:20240805T131000Z
 DTSTART:20240805T131000Z
@@ -4323,6 +4769,30 @@ DTEND:20240805T143500Z
 DESCRIPTION:Водное поло - Групповой этап - Группа A (м)
 SUMMARY:🤽 Греция 🇬🇷 - 🇮🇹 Италия
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T134500Z-sailing--10-
+DTSTAMP:20240805T134500Z
+DTSTART:20240805T134500Z
+DTEND:20240805T143600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 10 (м)\n🇪🇬 Aly BADAWY\n🇹🇭
+  Arthit Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇳🇱 Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON
+  PACAS\n🇼🇸 Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪
+  Finn LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰
+  HALLIDAY Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste
+  BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan
+  VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle
+  TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹
+  Lorenzo Brando CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧
+  Michael BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer
+  VERED VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ
+  GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬
+  Thad LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Швертбот, гонка 10 (м)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T080000Z-diving--3-

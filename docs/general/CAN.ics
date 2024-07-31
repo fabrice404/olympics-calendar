@@ -2707,6 +2707,29 @@ SUMMARY:🏀 AUS 🇦🇺 - 🇨🇦 CAN
 LOCATION:Pierre Mauroy Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T133500Z-sailing-WOMENS-DINGHY-RACE-1
+DTSTAMP:20240801T133500Z
+DTSTART:20240801T133500Z
+DTEND:20240801T142600Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 1\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 1
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T140000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-B-AUS-C
 DTSTAMP:20240801T140000Z
 DTSTART:20240801T140000Z
@@ -2714,6 +2737,29 @@ DTEND:20240801T145000Z
 DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool B
 SUMMARY:🏐 MARIAFE/CLANCY 🇦🇺 - 🇨🇦 BANSLEY/BUKOVEC
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T144300Z-sailing-WOMENS-DINGHY-RACE-2
+DTSTAMP:20240801T144300Z
+DTSTART:20240801T144300Z
+DTEND:20240801T153400Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 2\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 2
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T164500Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-CAN-IN
@@ -2830,6 +2876,52 @@ DESCRIPTION:Swimming - Mixed 4 x 100m Medley Relay - Heats\n🇦🇺 AUS\n🇧�
   ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇳🇱 NED\n🇵🇱 POL\n🇸🇪 SWE\n🇺🇸 USA
 SUMMARY:🏊 Mixed 4 x 100m Medley Relay - Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T101500Z-sailing-WOMENS-DINGHY-RACE-3
+DTSTAMP:20240802T101500Z
+DTSTART:20240802T101500Z
+DTEND:20240802T110600Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 3\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 3
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T112300Z-sailing-WOMENS-DINGHY-RACE-4
+DTSTAMP:20240802T112300Z
+DTSTART:20240802T112300Z
+DTEND:20240802T121400Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 4\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 4
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T120000Z-water-polo-WOMENS-PRELIMINARY-ROUND-GROUP-A-AUS-CAN
@@ -2975,6 +3067,52 @@ SUMMARY:🏊 Women's 4 x 100m Medley Relay - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T122500Z-sailing-WOMENS-DINGHY-RACE-5
+DTSTAMP:20240803T122500Z
+DTSTART:20240803T122500Z
+DTEND:20240803T131600Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 5\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 5
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T133300Z-sailing-WOMENS-DINGHY-RACE-6
+DTSTAMP:20240803T133300Z
+DTSTART:20240803T133300Z
+DTEND:20240803T142400Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 6\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 6
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T150000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-D-CAN-L
 DTSTAMP:20240803T150000Z
 DTSTART:20240803T150000Z
@@ -3030,6 +3168,52 @@ SUMMARY:🏀 CAN 🇨🇦 - 🇳🇬 NGR
 LOCATION:Pierre Mauroy Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T123500Z-sailing-WOMENS-DINGHY-RACE-7
+DTSTAMP:20240804T123500Z
+DTSTART:20240804T123500Z
+DTEND:20240804T132600Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 7\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 7
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T134500Z-sailing-WOMENS-DINGHY-RACE-8
+DTSTAMP:20240804T134500Z
+DTSTART:20240804T134500Z
+DTEND:20240804T143600Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 8\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 8
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T163000Z-water-polo-WOMENS-PRELIMINARY-ROUND-GROUP-A-CAN-NED
 DTSTAMP:20240804T163000Z
 DTSTART:20240804T163000Z
@@ -3056,6 +3240,52 @@ DESCRIPTION:Diving - Women's 10m Platform Preliminary\n🇯🇵 ARAI
   GARZA
 SUMMARY:🏊 Women's 10m Platform Preliminary
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T101500Z-sailing-WOMENS-DINGHY-RACE-9
+DTSTAMP:20240805T101500Z
+DTSTART:20240805T101500Z
+DTEND:20240805T110600Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 9\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 9
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T112300Z-sailing-WOMENS-DINGHY-RACE-10
+DTSTAMP:20240805T112300Z
+DTSTART:20240805T112300Z
+DTEND:20240805T121400Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 10\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 10
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T180000Z-table-tennis-MENS-TEAM-ROUND-OF-16-CAN-GER

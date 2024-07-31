@@ -2721,6 +2721,29 @@ SUMMARY:🏀 Австралия 🇦🇺 - 🇨🇦 Канада
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T133500Z-sailing--01-
+DTSTAMP:20240801T133500Z
+DTSTART:20240801T133500Z
+DTEND:20240801T142600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 01 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 01 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T140000Z-beach-volleyball--B--AUS-CAN
 DTSTAMP:20240801T140000Z
 DTSTART:20240801T140000Z
@@ -2728,6 +2751,29 @@ DTEND:20240801T145000Z
 DESCRIPTION:Пляжный волейбол - Групповой этап - Группа B (ж)
 SUMMARY:🏐 MARIAFE/CLANCY 🇦🇺 - 🇨🇦 BANSLEY/BUKOVEC
 LOCATION:Стадион у Эйфелевой башни
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T144300Z-sailing--02-
+DTSTAMP:20240801T144300Z
+DTSTART:20240801T144300Z
+DTEND:20240801T153400Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 02 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 02 (ж)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T164500Z-archery-132--CAN-INA
@@ -2845,6 +2891,52 @@ DESCRIPTION:Плавание - Эстафета 4x100м комплексом, к
   Швеция\n🇰🇷 Южная Корея\n🇯🇵 Япония
 SUMMARY:🏊 Эстафета 4x100м комплексом, квалификация (микст)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T101500Z-sailing--03-
+DTSTAMP:20240802T101500Z
+DTSTART:20240802T101500Z
+DTEND:20240802T110600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 03 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 03 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T112300Z-sailing--04-
+DTSTAMP:20240802T112300Z
+DTSTART:20240802T112300Z
+DTEND:20240802T121400Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 04 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 04 (ж)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T120000Z-water-polo--A--AUS-CAN
@@ -2994,6 +3086,52 @@ SUMMARY:🏊 Эстафета 4x100м комплексом, квалификац
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T122500Z-sailing--05-
+DTSTAMP:20240803T122500Z
+DTSTART:20240803T122500Z
+DTEND:20240803T131600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 05 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 05 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T133300Z-sailing--06-
+DTSTAMP:20240803T133300Z
+DTSTART:20240803T133300Z
+DTEND:20240803T142400Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 06 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 06 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T150000Z-beach-volleyball--D--CAN-LAT
 DTSTAMP:20240803T150000Z
 DTSTART:20240803T150000Z
@@ -3049,6 +3187,52 @@ SUMMARY:🏀 Канада 🇨🇦 - 🇳🇬 Нигерия
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T123500Z-sailing--07-
+DTSTAMP:20240804T123500Z
+DTSTART:20240804T123500Z
+DTEND:20240804T132600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 07 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 07 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T134500Z-sailing--08-
+DTSTAMP:20240804T134500Z
+DTSTART:20240804T134500Z
+DTEND:20240804T143600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 08 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 08 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T163000Z-water-polo--A--CAN-NED
 DTSTAMP:20240804T163000Z
 DTSTART:20240804T163000Z
@@ -3075,6 +3259,52 @@ DESCRIPTION:Прыжки в воду - Вышка 10м, предваритель
   GARZA
 SUMMARY:🏊 Вышка 10м, предварительный раунд (ж)
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T101500Z-sailing--09-
+DTSTAMP:20240805T101500Z
+DTSTART:20240805T101500Z
+DTEND:20240805T110600Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 09 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 09 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T112300Z-sailing--10-
+DTSTAMP:20240805T112300Z
+DTSTART:20240805T112300Z
+DTEND:20240805T121400Z
+DESCRIPTION:Парусный спорт - Швертбот, гонка 10 (ж)\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Швертбот, гонка 10 (ж)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T180000Z-table-tennis-18--CAN-GER
