@@ -17377,15 +17377,6 @@ SUMMARY:🥊 Munarbek SEIITBEK UULU 🇰🇬 - 🇨🇺 Saidel Ivan HORTA RODRIG
 LOCATION:ノース・パリ・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T180000Z-beach-volleyball--E-BRA-CAN
-DTSTAMP:20240731T180000Z
-DTSTART:20240731T180000Z
-DTEND:20240731T185000Z
-DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールE
-SUMMARY:🏐 EVANDRO/ARTHUR 🇧🇷 - 🇨🇦 SCHACHTER/DEARING
-LOCATION:エッフェル塔スタジアム
-END:VEVENT
-BEGIN:VEVENT
 UID:20240731T180000Z-table-tennis-3-KOR-USA
 DTSTAMP:20240731T180000Z
 DTSTART:20240731T180000Z
@@ -17478,6 +17469,15 @@ SUMMARY:🏊 女子100m自由形決勝
 LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T183000Z-beach-volleyball--E-BRA-CAN
+DTSTAMP:20240731T183000Z
+DTSTART:20240731T183000Z
+DTEND:20240731T185000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールE
+SUMMARY:🏐 EVANDRO/ARTHUR 🇧🇷 - 🇨🇦 SCHACHTER/DEARING
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T183000Z-fencing--HUN-KOR
 DTSTAMP:20240731T183000Z
 DTSTART:20240731T183000Z
@@ -17537,15 +17537,6 @@ DTEND:20240731T192500Z
 DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
 SUMMARY:🏀 フランス 🇫🇷 - 🇪🇸 スペイン
 LOCATION:コンコルド広場1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T190000Z-beach-volleyball--D-CAN-SUI
-DTSTAMP:20240731T190000Z
-DTSTART:20240731T190000Z
-DTEND:20240731T195000Z
-DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールD
-SUMMARY:🏐 MELISSA/BRANDIE 🇨🇦 - 🇨🇭 ESMEE/ZOE
-LOCATION:エッフェル塔スタジアム
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T190000Z-table-tennis-3-CHN-IND
@@ -17658,6 +17649,15 @@ SUMMARY:🥊 Tiago MUXANGA 🇲🇿 - 🇲🇽 Marco Alonso VERDE ALVAREZ
 LOCATION:ノース・パリ・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240731T193000Z-beach-volleyball--D-CAN-SUI
+DTSTAMP:20240731T193000Z
+DTSTART:20240731T193000Z
+DTEND:20240731T195000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールD
+SUMMARY:🏐 MELISSA/BRANDIE 🇨🇦 - 🇨🇭 ESMEE/ZOE
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
 UID:20240731T193000Z-3x3-basketball--USA-AZE
 DTSTAMP:20240731T193000Z
 DTSTART:20240731T193000Z
@@ -17708,15 +17708,6 @@ SUMMARY:🥊 Elzbieta WOJCIK 🇵🇱 - 🇮🇪 Aoife O'ROURKE
 LOCATION:ノース・パリ・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T200000Z-beach-volleyball--B-NOR-ITA
-DTSTAMP:20240731T200000Z
-DTSTART:20240731T200000Z
-DTEND:20240731T205000Z
-DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールB
-SUMMARY:🏐 MOL/SORUM 🇳🇴 - 🇮🇹 RANGHIERI/CARAMBULA
-LOCATION:エッフェル塔スタジアム
-END:VEVENT
-BEGIN:VEVENT
 UID:20240731T200000Z-table-tennis-3-FRA-JPN
 DTSTAMP:20240731T200000Z
 DTSTART:20240731T200000Z
@@ -17765,6 +17756,15 @@ DTEND:20240731T201900Z
 DESCRIPTION:ボクシング - 女子60kg級 - 準々決勝
 SUMMARY:🥊 Chelsey HEIJNEN 🇳🇱 - 🇧🇷 Beatriz Iasmin SOARES FERREIRA
 LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T203000Z-beach-volleyball--B-NOR-ITA
+DTSTAMP:20240731T203000Z
+DTSTART:20240731T203000Z
+DTEND:20240731T205000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールB
+SUMMARY:🏐 MOL/SORUM 🇳🇴 - 🇮🇹 RANGHIERI/CARAMBULA
+LOCATION:エッフェル塔スタジアム
 END:VEVENT
 BEGIN:VEVENT
 UID:20240731T203100Z-swimming-200M
