@@ -39,4 +39,13 @@ DESCRIPTION:배드민턴 - 남자 단식 조별예선 - G조
 SUMMARY:🏸 Zii Jia LEE 🇲🇾 - 🇪🇸 Pablo ABIAN
 LOCATION:라 샤펠 아레나
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T163000Z-badminton--16-USA-ESP
+DTSTAMP:20240801T163000Z
+DTSTART:20240801T163000Z
+DTEND:20240801T172000Z
+DESCRIPTION:배드민턴 - 여자 단식 16강
+SUMMARY:🏸 Beiwen ZHANG 🇺🇸 - 🇪🇸 Carolina MARIN
+LOCATION:라 샤펠 아레나
+END:VEVENT
 END:VCALENDAR
