@@ -1661,6 +1661,28 @@ SUMMARY:🔫 남자 스키트 예선 - 1일차
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T091000Z-athletics--1500M-1
+DTSTAMP:20240802T091000Z
+DTSTART:20240802T091000Z
+DTEND:20240802T093600Z
+DESCRIPTION:육상 - 남자 1500m 1라운드\n🇪🇹 Abdisa FAYISA\n🇦🇺 Adam SPENCER\n🇪🇸
+  Adel MECHAAL\n🇲🇦 Anass ESSAYI\n🇮🇪 Andrew COSCORAN\n🇫🇷 Azeddine
+  HABZ\n🇰🇪 Brian KOMEN\n🇮🇪 Cathal DOYLE\n🇨🇦 Charles
+  PHILIBERT-THIBOUTOT\n🇺🇸 Cole HOCKER\n🇪🇹 Ermias GIRMA\n🇮🇹 Federico
+  RIVA\n🇵🇱 Filip RAK\n🇬🇧 George MILLS\n🇺🇸 Hobbs KESSLER\n🇪🇸 Ignacio
+  FONTES\n🇵🇹 Isaac NADER\n🇳🇴 Jakob INGEBRIGTSEN\n🇧🇪 Jochem
+  VERMEULEN\n🇬🇧 Josh KERR\n🇨🇦 Kieran LUMB\n🇮🇪 Luke McCANN\n🇵🇱
+  Maciej WYDERKA\n🇫🇷 Mael GOUYETTE\n🇪🇸 Mario GARCIA\n🇩🇪 Marius
+  PROBST\n🇳🇴 Narve Gilje NORDAS\n🇬🇧 Neil GOURLEY\n🇳🇱 Niels
+  LAROS\n🇦🇺 Oliver HOARE\n🇮🇹 Ossama MESLEK\n🇮🇹 Pietro ARESE\n🇦🇹
+  Raphael PALLITSCH\n🇰🇪 Reynold CHERUIYOT\n🇩🇪 Robert FARKEN\n🇧🇪 Ruben
+  VERHEYDEN\n🇿🇦 Ryan MPHAHLELE\n🇸🇪 Samuel PIHLSTROM\n🇳🇿 Samuel
+  TANNER\n🇪🇹 Samuel TEFERA\n🇳🇱 Stefan NILLESSEN\n🇦🇺 Stewart
+  McSWEYN\n🇰🇪 Timothy CHERUIYOT\n🇿🇦 Tshepo TSHITE\n🇺🇸 Yared NUGUSE
+SUMMARY:🏃 남자 1500m 1라운드
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T100300Z-swimming--4-X-100M-
 DTSTAMP:20240802T100300Z
 DTSTART:20240802T100300Z
@@ -1745,6 +1767,25 @@ DESCRIPTION:카누 슬라럼 - 남자 카약 크로스 타임 트라이얼\n🇬
   Shao-Hsuan\n🇸🇳 Yves BOURHIS
 SUMMARY:🛶 남자 카약 크로스 타임 트라이얼
 LOCATION:카누 경기장 - 화이트워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T161500Z-athletics--
+DTSTAMP:20240802T161500Z
+DTSTART:20240802T161500Z
+DTEND:20240802T171900Z
+DESCRIPTION:육상 - 여자 세단뛰기 예선\n🇯🇲 Ackelia SMITH\n🇪🇸 Ana
+  PELETEIRO-COMPAORE\n🇧🇸 Charisma TAYLOR\n🇮🇹 Dariya DERKACH\n🇷🇴 Diana
+  Ana Maria ION\n🇱🇹 Diana ZAGAINOVA\n🇱🇹 Dovile KILTY\n🇷🇴 Elena
+  Andreea TALOS\n🇧🇬 Gabriela PETROVA\n🇧🇷 Gabriele SANTOS\n🇫🇷 Ilionis
+  GUILLAUME\n🇺🇸 Jasmine MOORE\n🇺🇸 Keturah ORJI\n🇯🇲 Kimberly
+  WILLIAMS\n🇨🇺 Leyanis PEREZ HERNANDEZ\n🇨🇺 Liadagmis POVEA\n🇯🇵
+  MORIMOTO Mariko\n🇸🇪 Maja ASKAG\n🇺🇦 Maryna BEKH-ROMANCHUK\n🇸🇮 Neja
+  FILIPIC\n🇺🇦 Olha KORSUN\n🇮🇹 Ottavia CESTONARO\n🇱🇻 Ruta Kate
+  LASMANE\n🇸🇳 Saly SARR\n🇫🇮 Senni SALMINEN\n🇯🇲 Shanieka
+  RICKETTS\n🇺🇿 Sharifa DAVRONOVA\n🇩🇲 Thea LAFOND\n🇺🇸 Tori
+  FRANKLIN\n🇹🇷 Tugba DANISMAZ\n🇨🇳 ZENG Rui
+SUMMARY:🏃 여자 세단뛰기 예선
+LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T070000Z-shooting--1
