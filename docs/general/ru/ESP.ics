@@ -3529,6 +3529,17 @@ SUMMARY:🏑 Нидерланды 🇳🇱 - 🇪🇸 Испания
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T085400Z-rowing--B-
+DTSTAMP:20240802T085400Z
+DTSTART:20240802T085400Z
+DTEND:20240802T090100Z
+DESCRIPTION:Академическая гребля - Двойки, финал B (ж)\n🇬🇧
+  Великобритания\n🇩🇰 Дания\n🇮🇪 Ирландия\n🇪🇸 Испания\n🇨🇿 Чехия\n🇨🇱
+  Чили
+SUMMARY:🚣 Двойки, финал B (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T085500Z-athletics--
 DTSTAMP:20240802T085500Z
 DTSTART:20240802T085500Z
@@ -3577,6 +3588,17 @@ SUMMARY:🏊 Синхронный трамплин 3м, финал (м)
 LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T090600Z-rowing--B-
+DTSTAMP:20240802T090600Z
+DTSTART:20240802T090600Z
+DTEND:20240802T091300Z
+DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал B
+  (м)\n🇦🇷 Аргентина\n🇧🇪 Бельгия\n🇪🇸 Испания\n🇲🇽 Мексика\n🇺🇦
+  Украина\n🇫🇷 Франция
+SUMMARY:🚣 Двойки парные, легкий вес, финал B (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T091000Z-athletics-1500-1-
 DTSTAMP:20240802T091000Z
 DTSTART:20240802T091000Z
@@ -3618,6 +3640,17 @@ DESCRIPTION:Плавание - 200м комплексом, квалификац�
   Shiwen\n🇨🇳 YU Yiting
 SUMMARY:🏊 200м комплексом, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T093000Z-rowing--A-
+DTSTAMP:20240802T093000Z
+DTSTART:20240802T093000Z
+DTEND:20240802T093700Z
+DESCRIPTION:Академическая гребля - Двойки, финал A (м)\n🇬🇧
+  Великобритания\n🇮🇪 Ирландия\n🇪🇸 Испания\n🇷🇴 Румыния\n🇭🇷
+  Хорватия\n🇨🇭 Швейцария
+SUMMARY:🚣 Двойки, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T101500Z-athletics--

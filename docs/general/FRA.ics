@@ -5280,6 +5280,20 @@ SUMMARY:🏃 Men's Decathlon 100m
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T081000Z-athletics-MENS-HAMMER-THROW-QUALIFICATION-GROUP-A
+DTSTAMP:20240802T081000Z
+DTSTART:20240802T081000Z
+DTEND:20240802T090600Z
+DESCRIPTION:Athletics - Men's Hammer Throw Qualification - Group A\n🇺🇸
+  Daniel HAUGH\n🇭🇺 Donat VARGA\n🇨🇱 Humberto MANSILLA\n🇭🇷 Matija
+  GREGURIC\n🇬🇷 Michail ANASTASAKIS\n🇪🇬 Mostafa ELGAMEL\n🇺🇦 Mykhaylo
+  KOKHAN\n🇨🇿 Patrik HAJEK\n🇸🇪 Ragnar CARLSSON\n🇨🇦 Rowan
+  HAMILTON\n🇲🇩 Serghei MARGHIEV\n🇩🇪 Soeren KLOSE\n🇳🇴 Thomas
+  MARDAL\n🇨🇳 WANG Qi\n🇵🇱 Wojciech NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 Men's Hammer Throw Qualification - Group A
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T081500Z-athletics-WOMENS-HIGH-JUMP-QUALIFICATION
 DTSTAMP:20240802T081500Z
 DTSTART:20240802T081500Z
@@ -5365,6 +5379,16 @@ SUMMARY:🤾 ARG 🇦🇷 - 🇫🇷 FRA
 LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T090600Z-rowing-LIGHTWEIGHT-MENS-DOUBLE-SCULLS-FINAL-B
+DTSTAMP:20240802T090600Z
+DTSTART:20240802T090600Z
+DTEND:20240802T091300Z
+DESCRIPTION:Rowing - Lightweight Men's Double Sculls Final B\n🇦🇷
+  ARG\n🇧🇪 BEL\n🇫🇷 FRA\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇦 UKR
+SUMMARY:🚣 Lightweight Men's Double Sculls Final B
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T091000Z-athletics-MENS-1500M-ROUND-1
 DTSTAMP:20240802T091000Z
 DTSTART:20240802T091000Z
@@ -5405,6 +5429,16 @@ DESCRIPTION:Swimming - Women's 200m Individual Medley - Heats\n🇬🇧 Abbie
   Shiwen\n🇨🇳 YU Yiting
 SUMMARY:🏊 Women's 200m Individual Medley - Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T091800Z-rowing-LIGHTWEIGHT-WOMENS-DOUBLE-SCULLS-FINAL-B
+DTSTAMP:20240802T091800Z
+DTSTART:20240802T091800Z
+DTEND:20240802T092500Z
+DESCRIPTION:Rowing - Lightweight Women's Double Sculls Final B\n🇦🇷
+  ARG\n🇦🇹 AUT\n🇨🇦 CAN\n🇫🇷 FRA\n🇵🇱 POL\n🇹🇳 TUN
+SUMMARY:🚣 Lightweight Women's Double Sculls Final B
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T092400Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-16
@@ -5727,6 +5761,20 @@ DTEND:20240802T170000Z
 DESCRIPTION:3x3 Basketball - Men's Pool Round
 SUMMARY:🏀 FRA 🇫🇷 - 🇺🇸 USA
 LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T165500Z-athletics-WOMENS-DISCUS-THROW-QUALIFICATION-GROUP-A
+DTSTAMP:20240802T165500Z
+DTSTART:20240802T165500Z
+DTEND:20240802T174700Z
+DESCRIPTION:Athletics - Women's Discus Throw Qualification - Group A\n🇧🇷
+  Andressa de MORAIS\n🇳🇬 Ashley ANUMBA\n🇸🇪 Caisa-Marie LINDFORS\n🇮🇹
+  Daisy OSAKUE\n🇱🇹 Ieva GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱 Jorinde van
+  KLINKEN\n🇩🇪 Kristin PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix
+  PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷 Melina ROBERT-MICHON\n🇯🇲 Samantha
+  HALL\n🇨🇺 Silinda MORALES\n🇹🇭 Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
+SUMMARY:🏃 Women's Discus Throw Qualification - Group A
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T171000Z-athletics-4-X-400M-RELAY-MIXED-ROUND-1

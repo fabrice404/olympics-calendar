@@ -1225,6 +1225,20 @@ SUMMARY:🤽 루마니아 🇷🇴 - 🇭🇷 크로아티아
 LOCATION:아쿠아틱 센터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T081000Z-athletics--A
+DTSTAMP:20240802T081000Z
+DTSTART:20240802T081000Z
+DTEND:20240802T090600Z
+DESCRIPTION:육상 - 남자 해머던지기 예선 - A조\n🇺🇸 Daniel HAUGH\n🇭🇺 Donat
+  VARGA\n🇨🇱 Humberto MANSILLA\n🇭🇷 Matija GREGURIC\n🇬🇷 Michail
+  ANASTASAKIS\n🇪🇬 Mostafa ELGAMEL\n🇺🇦 Mykhaylo KOKHAN\n🇨🇿 Patrik
+  HAJEK\n🇸🇪 Ragnar CARLSSON\n🇨🇦 Rowan HAMILTON\n🇲🇩 Serghei
+  MARGHIEV\n🇩🇪 Soeren KLOSE\n🇳🇴 Thomas MARDAL\n🇨🇳 WANG Qi\n🇵🇱
+  Wojciech NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 남자 해머던지기 예선 - A조
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T090000Z-swimming--100M-
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
@@ -1244,6 +1258,16 @@ DESCRIPTION:경영 - 남자 100m 접영 - 예선\n🇰🇿 Adilbek MUSSIN\n🇦�
   Tomer FRANKEL\n🇨🇳 WANG Changhao\n🇾🇪 Yusuf Marwan Abdullah NASSER
 SUMMARY:🏊 남자 100m 접영 - 예선
 LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T093000Z-rowing--A
+DTSTAMP:20240802T093000Z
+DTSTART:20240802T093000Z
+DTEND:20240802T093700Z
+DESCRIPTION:조정 - 남자 무타페어 결승 A\n🇷🇴 루마니아\n🇨🇭 스위스\n🇪🇸 스페인\n🇮🇪
+  아일랜드\n🇬🇧 영국\n🇭🇷 크로아티아
+SUMMARY:🚣 남자 무타페어 결승 A
+LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T101500Z-sailing--3
@@ -1376,6 +1400,20 @@ SUMMARY:🥊 Cristian Javier PINALES 🇩🇴 - 🇭🇷 Gabrijel VEOCIC
 LOCATION:노스 파리 아레나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T165500Z-athletics--A
+DTSTAMP:20240802T165500Z
+DTSTART:20240802T165500Z
+DTEND:20240802T174700Z
+DESCRIPTION:육상 - 여자 원반던지기 예선 - A조\n🇧🇷 Andressa de MORAIS\n🇳🇬 Ashley
+  ANUMBA\n🇸🇪 Caisa-Marie LINDFORS\n🇮🇹 Daisy OSAKUE\n🇱🇹 Ieva
+  GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin
+  PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷
+  Melina ROBERT-MICHON\n🇯🇲 Samantha HALL\n🇨🇺 Silinda MORALES\n🇹🇭
+  Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
+SUMMARY:🏃 여자 원반던지기 예선 - A조
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T181000Z-athletics--
 DTSTAMP:20240802T181000Z
 DTSTART:20240802T181000Z
@@ -1392,6 +1430,20 @@ DESCRIPTION:육상 - 남자 포환던지기 예선\n🇷🇴 Andrei Rares TOADER
   STANEK\n🇵🇹 Tsanko ARNAUDOV\n🇲🇽 Uziel MUNOZ\n🇧🇷 Welington
   MORAIS\n🇮🇹 Zane WEIR
 SUMMARY:🏃 남자 포환던지기 예선
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T182000Z-athletics--B
+DTSTAMP:20240802T182000Z
+DTSTART:20240802T182000Z
+DTEND:20240802T191200Z
+DESCRIPTION:육상 - 여자 원반던지기 예선 - B조\n🇲🇩 Alexandra EMILIANOV\n🇳🇱 Alida van
+  DAALEN\n🇳🇬 Chioma ONYEKWERE\n🇩🇪 Claudine VITA\n🇵🇱 Daria
+  ZABAWSKA\n🇨🇳 FENG Bin\n🇵🇹 Irina RODRIGUES\n🇧🇷 Izabela da
+  SILVA\n🇺🇸 Jayden ULRICH\n🇩🇪 Marike STEINACKER\n🇨🇺 Melany del Pilar
+  MATHEUS\n🇳🇬 Obiageri Pamela AMAECHI\n🇭🇷 Sandra ELKASEVIC\n🇦🇺 Taryn
+  GOLLSHEWSKY\n🇸🇪 Vanessa KAMGA\n🇺🇸 Veronica FRALEY
+SUMMARY:🏃 여자 원반던지기 예선 - B조
 LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT

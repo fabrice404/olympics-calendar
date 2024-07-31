@@ -46,4 +46,15 @@ DESCRIPTION:Дзюдо - Финал, до 70кг (ж)
 SUMMARY:🥋 Barbara MATIC 🇭🇷 - 🇩🇪 Miriam BUTKEREIT
 LOCATION:Арена «Марсово поле»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T093000Z-rowing--A-
+DTSTAMP:20240802T093000Z
+DTSTART:20240802T093000Z
+DTEND:20240802T093700Z
+DESCRIPTION:Академическая гребля - Двойки, финал A (м)\n🇬🇧
+  Великобритания\n🇮🇪 Ирландия\n🇪🇸 Испания\n🇷🇴 Румыния\n🇭🇷
+  Хорватия\n🇨🇭 Швейцария
+SUMMARY:🚣 Двойки, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
 END:VCALENDAR

@@ -18975,15 +18975,6 @@ SUMMARY:🎾 FRITZ/PAUL 🇺🇸 - 🇬🇧 EVANS/MURRAY
 LOCATION:スタッド・ローラン・ギャロス
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T100000Z-tennis-
-DTSTAMP:20240801T100000Z
-DTSTART:20240801T100000Z
-DTEND:20240801T200000Z
-DESCRIPTION:テニス - 前日の日没後から試合順の確認が可能
-SUMMARY:🎾 前日の日没後から試合順の確認が可能
-LOCATION:スタッド・ローラン・ギャロス
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T100300Z-sailing--11
 DTSTAMP:20240801T100300Z
 DTSTART:20240801T100300Z
@@ -21334,7 +21325,12 @@ UID:20240802T081000Z-athletics--A
 DTSTAMP:20240802T081000Z
 DTSTART:20240802T081000Z
 DTEND:20240802T090600Z
-DESCRIPTION:陸上競技 - 男子ハンマー投予選 - グループA
+DESCRIPTION:陸上競技 - 男子ハンマー投予選 - グループA\n🇺🇸 Daniel HAUGH\n🇭🇺 Donat
+  VARGA\n🇨🇱 Humberto MANSILLA\n🇭🇷 Matija GREGURIC\n🇬🇷 Michail
+  ANASTASAKIS\n🇪🇬 Mostafa ELGAMEL\n🇺🇦 Mykhaylo KOKHAN\n🇨🇿 Patrik
+  HAJEK\n🇸🇪 Ragnar CARLSSON\n🇨🇦 Rowan HAMILTON\n🇲🇩 Serghei
+  MARGHIEV\n🇩🇪 Soeren KLOSE\n🇳🇴 Thomas MARDAL\n🇨🇳 WANG Qi\n🇵🇱
+  Wojciech NOWICKI\n🇫🇷 Yann CHAUSSINAND
 SUMMARY:🏃 男子ハンマー投予選 - グループA
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -21539,7 +21535,8 @@ UID:20240802T084200Z-rowing-B
 DTSTAMP:20240802T084200Z
 DTSTART:20240802T084200Z
 DTEND:20240802T084900Z
-DESCRIPTION:ローイング - 男子ペア決勝B
+DESCRIPTION:ローイング - 男子ペア決勝B\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇩🇪 ドイツ\n🇳🇿
+  ニュージーランド\n🇱🇹 リトアニア\n🇿🇦 南アフリカ
 SUMMARY:🚣 男子ペア決勝B
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
@@ -21593,7 +21590,8 @@ UID:20240802T085400Z-rowing-B
 DTSTAMP:20240802T085400Z
 DTSTART:20240802T085400Z
 DTEND:20240802T090100Z
-DESCRIPTION:ローイング - 女子ペア決勝B
+DESCRIPTION:ローイング - 女子ペア決勝B\n🇮🇪 アイルランド\n🇪🇸 スペイン\n🇨🇿 チェコ\n🇨🇱
+  チリ\n🇩🇰 デンマーク\n🇬🇧 英国
 SUMMARY:🚣 女子ペア決勝B
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
@@ -21730,7 +21728,8 @@ UID:20240802T090600Z-rowing-B
 DTSTAMP:20240802T090600Z
 DTSTART:20240802T090600Z
 DTEND:20240802T091300Z
-DESCRIPTION:ローイング - 男子軽量級ダブルスカル決勝B
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル決勝B\n🇦🇷 アルゼンチン\n🇺🇦 ウクライナ\n🇪🇸
+  スペイン\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽 メキシコ
 SUMMARY:🚣 男子軽量級ダブルスカル決勝B
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
@@ -21817,7 +21816,8 @@ UID:20240802T091800Z-rowing-B
 DTSTAMP:20240802T091800Z
 DTSTART:20240802T091800Z
 DTEND:20240802T092500Z
-DESCRIPTION:ローイング - 女子軽量級ダブルスカル決勝B
+DESCRIPTION:ローイング - 女子軽量級ダブルスカル決勝B\n🇦🇷 アルゼンチン\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇹🇳 チュニジア\n🇫🇷 フランス\n🇵🇱 ポーランド
 SUMMARY:🚣 女子軽量級ダブルスカル決勝B
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
@@ -21871,7 +21871,8 @@ UID:20240802T093000Z-rowing-A
 DTSTAMP:20240802T093000Z
 DTSTART:20240802T093000Z
 DTEND:20240802T093700Z
-DESCRIPTION:ローイング - 男子ペア決勝A
+DESCRIPTION:ローイング - 男子ペア決勝A\n🇮🇪 アイルランド\n🇭🇷 クロアチア\n🇨🇭 スイス\n🇪🇸
+  スペイン\n🇷🇴 ルーマニア\n🇬🇧 英国
 SUMMARY:🚣 男子ペア決勝A
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
@@ -21880,7 +21881,12 @@ UID:20240802T093500Z-athletics--B
 DTSTAMP:20240802T093500Z
 DTSTART:20240802T093500Z
 DTEND:20240802T103100Z
-DESCRIPTION:陸上競技 - 男子ハンマー投予選 - グループB
+DESCRIPTION:陸上競技 - 男子ハンマー投予選 - グループB\n🇨🇦 Adam KEENAN\n🇭🇺 Bence
+  HALASZ\n🇬🇷 Christos FRANTZESKAKIS\n🇭🇺 Daniel RABA\n🇳🇱 Denzel
+  COMENENTIA\n🇲🇽 Diego del REAL\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan
+  KATZBERG\n🇨🇱 Gabriel KEHR\n🇵🇷 Jerome VEGA\n🇦🇷 Joaquin GOMEZ\n🇩🇪
+  Merlin HUMMEL\n🇹🇷 Ozkan BALTACI\n🇵🇱 Pawel FAJDEK\n🇺🇸 Rudy
+  WINKLER\n🇨🇿 Volodymyr MYSLYVCUK
 SUMMARY:🏃 男子ハンマー投予選 - グループB
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -21939,7 +21945,8 @@ UID:20240802T094200Z-rowing-A
 DTSTAMP:20240802T094200Z
 DTSTART:20240802T094200Z
 DTEND:20240802T094900Z
-DESCRIPTION:ローイング - 女子ペア決勝A
+DESCRIPTION:ローイング - 女子ペア決勝A\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇬🇷
+  ギリシャ\n🇱🇹 リトアニア\n🇷🇴 ルーマニア
 SUMMARY:🚣 女子ペア決勝A
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
@@ -22065,7 +22072,8 @@ UID:20240802T100200Z-rowing-A
 DTSTAMP:20240802T100200Z
 DTSTART:20240802T100200Z
 DTEND:20240802T100900Z
-DESCRIPTION:ローイング - 男子軽量級ダブルスカル決勝A
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル決勝A\n🇮🇪 アイルランド\n🇮🇹 イタリア\n🇬🇷 ギリシャ\n🇨🇭
+  スイス\n🇨🇿 チェコ\n🇳🇴 ノルウェー
 SUMMARY:🚣 男子軽量級ダブルスカル決勝A
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
@@ -22143,7 +22151,8 @@ UID:20240802T102200Z-rowing-A
 DTSTAMP:20240802T102200Z
 DTSTART:20240802T102200Z
 DTEND:20240802T102900Z
-DESCRIPTION:ローイング - 女子軽量級ダブルスカル決勝A
+DESCRIPTION:ローイング - 女子軽量級ダブルスカル決勝A\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇬🇷
+  ギリシャ\n🇳🇿 ニュージーランド\n🇷🇴 ルーマニア\n🇬🇧 英国
 SUMMARY:🚣 女子軽量級ダブルスカル決勝A
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
@@ -23055,7 +23064,12 @@ UID:20240802T165500Z-athletics--A
 DTSTAMP:20240802T165500Z
 DTSTART:20240802T165500Z
 DTEND:20240802T174700Z
-DESCRIPTION:陸上競技 - 女子円盤投予選 - グループA
+DESCRIPTION:陸上競技 - 女子円盤投予選 - グループA\n🇧🇷 Andressa de MORAIS\n🇳🇬 Ashley
+  ANUMBA\n🇸🇪 Caisa-Marie LINDFORS\n🇮🇹 Daisy OSAKUE\n🇱🇹 Ieva
+  GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin
+  PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷
+  Melina ROBERT-MICHON\n🇯🇲 Samantha HALL\n🇨🇺 Silinda MORALES\n🇹🇭
+  Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
 SUMMARY:🏃 女子円盤投予選 - グループA
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -23264,7 +23278,12 @@ UID:20240802T182000Z-athletics--B
 DTSTAMP:20240802T182000Z
 DTSTART:20240802T182000Z
 DTEND:20240802T191200Z
-DESCRIPTION:陸上競技 - 女子円盤投予選 - グループB
+DESCRIPTION:陸上競技 - 女子円盤投予選 - グループB\n🇲🇩 Alexandra EMILIANOV\n🇳🇱 Alida
+  van DAALEN\n🇳🇬 Chioma ONYEKWERE\n🇩🇪 Claudine VITA\n🇵🇱 Daria
+  ZABAWSKA\n🇨🇳 FENG Bin\n🇵🇹 Irina RODRIGUES\n🇧🇷 Izabela da
+  SILVA\n🇺🇸 Jayden ULRICH\n🇩🇪 Marike STEINACKER\n🇨🇺 Melany del Pilar
+  MATHEUS\n🇳🇬 Obiageri Pamela AMAECHI\n🇭🇷 Sandra ELKASEVIC\n🇦🇺 Taryn
+  GOLLSHEWSKY\n🇸🇪 Vanessa KAMGA\n🇺🇸 Veronica FRALEY
 SUMMARY:🏃 女子円盤投予選 - グループB
 LOCATION:スタッド・ド・フランス
 END:VEVENT

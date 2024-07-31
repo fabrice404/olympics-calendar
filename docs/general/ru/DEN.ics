@@ -1760,6 +1760,17 @@ SUMMARY:🔫 Скит, квалификация, день 1 (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T085400Z-rowing--B-
+DTSTAMP:20240802T085400Z
+DTSTART:20240802T085400Z
+DTEND:20240802T090100Z
+DESCRIPTION:Академическая гребля - Двойки, финал B (ж)\n🇬🇧
+  Великобритания\n🇩🇰 Дания\n🇮🇪 Ирландия\n🇪🇸 Испания\n🇨🇿 Чехия\n🇨🇱
+  Чили
+SUMMARY:🚣 Двойки, финал B (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T101500Z-sailing--03-
 DTSTAMP:20240802T101500Z
 DTSTART:20240802T101500Z
@@ -1852,6 +1863,20 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 04 (м)\n
   ZELKO
 SUMMARY:⛵ Швертбот, гонка 04 (м)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T165500Z-athletics--
+DTSTAMP:20240802T165500Z
+DTSTART:20240802T165500Z
+DTEND:20240802T174700Z
+DESCRIPTION:Легкая атлетика - Метание диска, квалификация, группа А
+  (ж)\n🇧🇷 Andressa de MORAIS\n🇳🇬 Ashley ANUMBA\n🇸🇪 Caisa-Marie
+  LINDFORS\n🇮🇹 Daisy OSAKUE\n🇱🇹 Ieva GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱
+  Jorinde van KLINKEN\n🇩🇪 Kristin PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix
+  PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷 Melina ROBERT-MICHON\n🇯🇲 Samantha
+  HALL\n🇨🇺 Silinda MORALES\n🇹🇭 Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
+SUMMARY:🏃 Метание диска, квалификация, группа А (ж)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T080000Z-equestrian--

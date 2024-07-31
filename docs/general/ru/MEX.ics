@@ -1401,6 +1401,31 @@ SUMMARY:🏊 Синхронный трамплин 3м, финал (м)
 LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T090600Z-rowing--B-
+DTSTAMP:20240802T090600Z
+DTSTART:20240802T090600Z
+DTEND:20240802T091300Z
+DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал B
+  (м)\n🇦🇷 Аргентина\n🇧🇪 Бельгия\n🇪🇸 Испания\n🇲🇽 Мексика\n🇺🇦
+  Украина\n🇫🇷 Франция
+SUMMARY:🚣 Двойки парные, легкий вес, финал B (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T093500Z-athletics--
+DTSTAMP:20240802T093500Z
+DTSTART:20240802T093500Z
+DTEND:20240802T103100Z
+DESCRIPTION:Легкая атлетика - Метание молота, квалификация, группа В
+  (м)\n🇨🇦 Adam KEENAN\n🇭🇺 Bence HALASZ\n🇬🇷 Christos
+  FRANTZESKAKIS\n🇭🇺 Daniel RABA\n🇳🇱 Denzel COMENENTIA\n🇲🇽 Diego del
+  REAL\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇨🇱 Gabriel KEHR\n🇵🇷
+  Jerome VEGA\n🇦🇷 Joaquin GOMEZ\n🇩🇪 Merlin HUMMEL\n🇹🇷 Ozkan
+  BALTACI\n🇵🇱 Pawel FAJDEK\n🇺🇸 Rudy WINKLER\n🇨🇿 Volodymyr MYSLYVCUK
+SUMMARY:🏃 Метание молота, квалификация, группа В (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T101500Z-sailing--03-
 DTSTAMP:20240802T101500Z
 DTSTART:20240802T101500Z

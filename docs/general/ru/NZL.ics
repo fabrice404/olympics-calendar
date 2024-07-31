@@ -2521,6 +2521,16 @@ SUMMARY:🥋 Sydnee ANDREWS 🇳🇿 - 🇧🇦 Larisa CERIC
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T084200Z-rowing--B-
+DTSTAMP:20240802T084200Z
+DTSTART:20240802T084200Z
+DTEND:20240802T084900Z
+DESCRIPTION:Академическая гребля - Двойки, финал B (м)\n🇩🇪 Германия\n🇮🇹
+  Италия\n🇱🇹 Литва\n🇳🇿 Новая Зеландия\n🇺🇸 США\n🇿🇦 Южная Африка
+SUMMARY:🚣 Двойки, финал B (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T090000Z-swimming-100-
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
@@ -2600,6 +2610,17 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 03 (ж)\n
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Швертбот, гонка 03 (ж)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T102200Z-rowing--A-
+DTSTAMP:20240802T102200Z
+DTSTART:20240802T102200Z
+DTEND:20240802T102900Z
+DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал A
+  (ж)\n🇬🇧 Великобритания\n🇬🇷 Греция\n🇮🇪 Ирландия\n🇳🇿 Новая
+  Зеландия\n🇷🇴 Румыния\n🇺🇸 США
+SUMMARY:🚣 Двойки парные, легкий вес, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T112300Z-sailing--04-

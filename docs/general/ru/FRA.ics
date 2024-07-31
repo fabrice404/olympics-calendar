@@ -5299,6 +5299,20 @@ SUMMARY:🏃 Десятиборье, 100м (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T081000Z-athletics--
+DTSTAMP:20240802T081000Z
+DTSTART:20240802T081000Z
+DTEND:20240802T090600Z
+DESCRIPTION:Легкая атлетика - Метание молота, квалификация, группа А
+  (м)\n🇺🇸 Daniel HAUGH\n🇭🇺 Donat VARGA\n🇨🇱 Humberto MANSILLA\n🇭🇷
+  Matija GREGURIC\n🇬🇷 Michail ANASTASAKIS\n🇪🇬 Mostafa ELGAMEL\n🇺🇦
+  Mykhaylo KOKHAN\n🇨🇿 Patrik HAJEK\n🇸🇪 Ragnar CARLSSON\n🇨🇦 Rowan
+  HAMILTON\n🇲🇩 Serghei MARGHIEV\n🇩🇪 Soeren KLOSE\n🇳🇴 Thomas
+  MARDAL\n🇨🇳 WANG Qi\n🇵🇱 Wojciech NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 Метание молота, квалификация, группа А (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T081500Z-athletics--
 DTSTAMP:20240802T081500Z
 DTSTART:20240802T081500Z
@@ -5385,6 +5399,17 @@ SUMMARY:🤾 Аргентина 🇦🇷 - 🇫🇷 Франция
 LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T090600Z-rowing--B-
+DTSTAMP:20240802T090600Z
+DTSTART:20240802T090600Z
+DTEND:20240802T091300Z
+DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал B
+  (м)\n🇦🇷 Аргентина\n🇧🇪 Бельгия\n🇪🇸 Испания\n🇲🇽 Мексика\n🇺🇦
+  Украина\n🇫🇷 Франция
+SUMMARY:🚣 Двойки парные, легкий вес, финал B (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T091000Z-athletics-1500-1-
 DTSTAMP:20240802T091000Z
 DTSTART:20240802T091000Z
@@ -5426,6 +5451,17 @@ DESCRIPTION:Плавание - 200м комплексом, квалификац�
   Shiwen\n🇨🇳 YU Yiting
 SUMMARY:🏊 200м комплексом, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T091800Z-rowing--B-
+DTSTAMP:20240802T091800Z
+DTSTART:20240802T091800Z
+DTEND:20240802T092500Z
+DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал B
+  (ж)\n🇦🇹 Австрия\n🇦🇷 Аргентина\n🇨🇦 Канада\n🇵🇱 Польша\n🇹🇳
+  Тунис\n🇫🇷 Франция
+SUMMARY:🚣 Двойки парные, легкий вес, финал B (ж)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T092400Z-judo-18-100-
@@ -5751,6 +5787,20 @@ DTEND:20240802T170000Z
 DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
 SUMMARY:🏀 Франция 🇫🇷 - 🇺🇸 США
 LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T165500Z-athletics--
+DTSTAMP:20240802T165500Z
+DTSTART:20240802T165500Z
+DTEND:20240802T174700Z
+DESCRIPTION:Легкая атлетика - Метание диска, квалификация, группа А
+  (ж)\n🇧🇷 Andressa de MORAIS\n🇳🇬 Ashley ANUMBA\n🇸🇪 Caisa-Marie
+  LINDFORS\n🇮🇹 Daisy OSAKUE\n🇱🇹 Ieva GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱
+  Jorinde van KLINKEN\n🇩🇪 Kristin PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix
+  PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷 Melina ROBERT-MICHON\n🇯🇲 Samantha
+  HALL\n🇨🇺 Silinda MORALES\n🇹🇭 Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
+SUMMARY:🏃 Метание диска, квалификация, группа А (ж)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T171000Z-athletics--4400-1-

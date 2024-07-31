@@ -1041,6 +1041,28 @@ SUMMARY:🏃 Прыжки в высоту, квалификация (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T093000Z-rowing--A-
+DTSTAMP:20240802T093000Z
+DTSTART:20240802T093000Z
+DTEND:20240802T093700Z
+DESCRIPTION:Академическая гребля - Двойки, финал A (м)\n🇬🇧
+  Великобритания\n🇮🇪 Ирландия\n🇪🇸 Испания\n🇷🇴 Румыния\n🇭🇷
+  Хорватия\n🇨🇭 Швейцария
+SUMMARY:🚣 Двойки, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T094200Z-rowing--A-
+DTSTAMP:20240802T094200Z
+DTSTART:20240802T094200Z
+DTEND:20240802T094900Z
+DESCRIPTION:Академическая гребля - Двойки, финал A (ж)\n🇦🇺
+  Австралия\n🇬🇷 Греция\n🇱🇹 Литва\n🇳🇱 Нидерланды\n🇷🇴 Румыния\n🇺🇸
+  США
+SUMMARY:🚣 Двойки, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T101500Z-sailing--03-
 DTSTAMP:20240802T101500Z
 DTSTART:20240802T101500Z
@@ -1062,6 +1084,17 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 03 (ж)\n
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Швертбот, гонка 03 (ж)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T102200Z-rowing--A-
+DTSTAMP:20240802T102200Z
+DTSTART:20240802T102200Z
+DTEND:20240802T102900Z
+DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал A
+  (ж)\n🇬🇧 Великобритания\n🇬🇷 Греция\n🇮🇪 Ирландия\n🇳🇿 Новая
+  Зеландия\n🇷🇴 Румыния\n🇺🇸 США
+SUMMARY:🚣 Двойки парные, легкий вес, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T112300Z-sailing--04-

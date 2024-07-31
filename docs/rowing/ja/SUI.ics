@@ -251,4 +251,24 @@ DESCRIPTION:ローイング - 男子フォア決勝B\n🇳🇱 オランダ\n�
 SUMMARY:🚣 男子フォア決勝B
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T093000Z-rowing-A
+DTSTAMP:20240802T093000Z
+DTSTART:20240802T093000Z
+DTEND:20240802T093700Z
+DESCRIPTION:ローイング - 男子ペア決勝A\n🇮🇪 アイルランド\n🇭🇷 クロアチア\n🇨🇭 スイス\n🇪🇸
+  スペイン\n🇷🇴 ルーマニア\n🇬🇧 英国
+SUMMARY:🚣 男子ペア決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100200Z-rowing-A
+DTSTAMP:20240802T100200Z
+DTSTART:20240802T100200Z
+DTEND:20240802T100900Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル決勝A\n🇮🇪 アイルランド\n🇮🇹 イタリア\n🇬🇷 ギリシャ\n🇨🇭
+  スイス\n🇨🇿 チェコ\n🇳🇴 ノルウェー
+SUMMARY:🚣 男子軽量級ダブルスカル決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
 END:VCALENDAR

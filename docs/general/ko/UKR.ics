@@ -1162,6 +1162,20 @@ SUMMARY:🔫 여자 25m 권총 예선 완사
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T081000Z-athletics--A
+DTSTAMP:20240802T081000Z
+DTSTART:20240802T081000Z
+DTEND:20240802T090600Z
+DESCRIPTION:육상 - 남자 해머던지기 예선 - A조\n🇺🇸 Daniel HAUGH\n🇭🇺 Donat
+  VARGA\n🇨🇱 Humberto MANSILLA\n🇭🇷 Matija GREGURIC\n🇬🇷 Michail
+  ANASTASAKIS\n🇪🇬 Mostafa ELGAMEL\n🇺🇦 Mykhaylo KOKHAN\n🇨🇿 Patrik
+  HAJEK\n🇸🇪 Ragnar CARLSSON\n🇨🇦 Rowan HAMILTON\n🇲🇩 Serghei
+  MARGHIEV\n🇩🇪 Soeren KLOSE\n🇳🇴 Thomas MARDAL\n🇨🇳 WANG Qi\n🇵🇱
+  Wojciech NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 남자 해머던지기 예선 - A조
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T081500Z-athletics--
 DTSTAMP:20240802T081500Z
 DTSTART:20240802T081500Z
@@ -1198,6 +1212,16 @@ DESCRIPTION:다이빙 - 남자 싱크로나이즈드 3m 스프링보드\n🇲�
   영국\n🇺🇦 우크라이나\n🇮🇹 이탈리아\n🇨🇳 중국\n🇫🇷 프랑스
 SUMMARY:🏊 남자 싱크로나이즈드 3m 스프링보드
 LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T090600Z-rowing--B
+DTSTAMP:20240802T090600Z
+DTSTART:20240802T090600Z
+DTEND:20240802T091300Z
+DESCRIPTION:조정 - 남자 경량급 더블스컬 결승 B\n🇲🇽 멕시코\n🇧🇪 벨기에\n🇪🇸 스페인\n🇦🇷
+  아르헨티나\n🇺🇦 우크라이나\n🇫🇷 프랑스
+SUMMARY:🚣 남자 경량급 더블스컬 결승 B
+LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T144000Z-canoe-slalom--

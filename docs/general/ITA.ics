@@ -4218,6 +4218,16 @@ SUMMARY:🥋 Asya TAVANO 🇮🇹 - 🇷🇸 Milica ZABIC
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T084200Z-rowing-MENS-PAIR-FINAL-B
+DTSTAMP:20240802T084200Z
+DTSTART:20240802T084200Z
+DTEND:20240802T084900Z
+DESCRIPTION:Rowing - Men's Pair Final B\n🇩🇪 GER\n🇮🇹 ITA\n🇱🇹 LTU\n🇳🇿
+  NZL\n🇿🇦 RSA\n🇺🇸 USA
+SUMMARY:🚣 Men's Pair Final B
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T090000Z-diving-MENS-SYNCHRONISED-3M-SPRINGBOARD-FINAL
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
@@ -4282,6 +4292,16 @@ DESCRIPTION:Swimming - Women's 800m Freestyle - Heats\n🇦🇷 Agostina
   Maria Fernanda COSTA\n🇺🇸 Paige MADDEN\n🇮🇹 Simona QUADARELLA
 SUMMARY:🏊 Women's 800m Freestyle - Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100200Z-rowing-LIGHTWEIGHT-MENS-DOUBLE-SCULLS-FINAL-A
+DTSTAMP:20240802T100200Z
+DTSTART:20240802T100200Z
+DTEND:20240802T100900Z
+DESCRIPTION:Rowing - Lightweight Men's Double Sculls Final A\n🇨🇿
+  CZE\n🇬🇷 GRE\n🇮🇪 IRL\n🇮🇹 ITA\n🇳🇴 NOR\n🇨🇭 SUI
+SUMMARY:🚣 Lightweight Men's Double Sculls Final A
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T100300Z-swimming-MIXED-4-X-100M-MEDLEY-RELAY-HEATS
@@ -4494,6 +4514,20 @@ DESCRIPTION:Athletics - Women's Triple Jump Qualification\n🇯🇲 Ackelia
   SALMINEN\n🇯🇲 Shanieka RICKETTS\n🇺🇿 Sharifa DAVRONOVA\n🇩🇲 Thea
   LAFOND\n🇺🇸 Tori FRANKLIN\n🇹🇷 Tugba DANISMAZ\n🇨🇳 ZENG Rui
 SUMMARY:🏃 Women's Triple Jump Qualification
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T165500Z-athletics-WOMENS-DISCUS-THROW-QUALIFICATION-GROUP-A
+DTSTAMP:20240802T165500Z
+DTSTART:20240802T165500Z
+DTEND:20240802T174700Z
+DESCRIPTION:Athletics - Women's Discus Throw Qualification - Group A\n🇧🇷
+  Andressa de MORAIS\n🇳🇬 Ashley ANUMBA\n🇸🇪 Caisa-Marie LINDFORS\n🇮🇹
+  Daisy OSAKUE\n🇱🇹 Ieva GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱 Jorinde van
+  KLINKEN\n🇩🇪 Kristin PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix
+  PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷 Melina ROBERT-MICHON\n🇯🇲 Samantha
+  HALL\n🇨🇺 Silinda MORALES\n🇹🇭 Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
+SUMMARY:🏃 Women's Discus Throw Qualification - Group A
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

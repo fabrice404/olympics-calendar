@@ -4237,6 +4237,16 @@ SUMMARY:🥋 Asya TAVANO 🇮🇹 - 🇷🇸 Milica ZABIC
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T084200Z-rowing--B-
+DTSTAMP:20240802T084200Z
+DTSTART:20240802T084200Z
+DTEND:20240802T084900Z
+DESCRIPTION:Академическая гребля - Двойки, финал B (м)\n🇩🇪 Германия\n🇮🇹
+  Италия\n🇱🇹 Литва\n🇳🇿 Новая Зеландия\n🇺🇸 США\n🇿🇦 Южная Африка
+SUMMARY:🚣 Двойки, финал B (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T090000Z-diving--3-
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
@@ -4303,6 +4313,17 @@ DESCRIPTION:Плавание - 800м вольным стилем, квалифи
   Maria Fernanda COSTA\n🇺🇸 Paige MADDEN\n🇮🇹 Simona QUADARELLA
 SUMMARY:🏊 800м вольным стилем, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100200Z-rowing--A-
+DTSTAMP:20240802T100200Z
+DTSTART:20240802T100200Z
+DTEND:20240802T100900Z
+DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал A
+  (м)\n🇬🇷 Греция\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇳🇴 Норвегия\n🇨🇿
+  Чехия\n🇨🇭 Швейцария
+SUMMARY:🚣 Двойки парные, легкий вес, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T100300Z-swimming--4X100-
@@ -4518,6 +4539,20 @@ DESCRIPTION:Легкая атлетика - Тройной прыжок, ква�
   SALMINEN\n🇯🇲 Shanieka RICKETTS\n🇺🇿 Sharifa DAVRONOVA\n🇩🇲 Thea
   LAFOND\n🇺🇸 Tori FRANKLIN\n🇹🇷 Tugba DANISMAZ\n🇨🇳 ZENG Rui
 SUMMARY:🏃 Тройной прыжок, квалификация (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T165500Z-athletics--
+DTSTAMP:20240802T165500Z
+DTSTART:20240802T165500Z
+DTEND:20240802T174700Z
+DESCRIPTION:Легкая атлетика - Метание диска, квалификация, группа А
+  (ж)\n🇧🇷 Andressa de MORAIS\n🇳🇬 Ashley ANUMBA\n🇸🇪 Caisa-Marie
+  LINDFORS\n🇮🇹 Daisy OSAKUE\n🇱🇹 Ieva GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱
+  Jorinde van KLINKEN\n🇩🇪 Kristin PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix
+  PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷 Melina ROBERT-MICHON\n🇯🇲 Samantha
+  HALL\n🇨🇺 Silinda MORALES\n🇹🇭 Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
+SUMMARY:🏃 Метание диска, квалификация, группа А (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT

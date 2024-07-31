@@ -4154,6 +4154,16 @@ SUMMARY:🥋 Asya TAVANO 🇮🇹 - 🇷🇸 Milica ZABIC
 LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T084200Z-rowing--B
+DTSTAMP:20240802T084200Z
+DTSTART:20240802T084200Z
+DTEND:20240802T084900Z
+DESCRIPTION:조정 - 남자 무타페어 결승 B\n🇿🇦 남아프리카공화국\n🇳🇿 뉴질랜드\n🇩🇪 독일\n🇱🇹
+  리투아니아\n🇺🇸 미국\n🇮🇹 이탈리아
+SUMMARY:🚣 남자 무타페어 결승 B
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T090000Z-diving--3M-
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
@@ -4218,6 +4228,16 @@ DESCRIPTION:경영 - 여자 800m 자유형 - 예선\n🇦🇷 Agostina HEIN\n�
   MADDEN\n🇮🇹 Simona QUADARELLA
 SUMMARY:🏊 여자 800m 자유형 - 예선
 LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100200Z-rowing--A
+DTSTAMP:20240802T100200Z
+DTSTART:20240802T100200Z
+DTEND:20240802T100900Z
+DESCRIPTION:조정 - 남자 경량급 더블스컬 결승 A\n🇬🇷 그리스\n🇳🇴 노르웨이\n🇨🇭 스위스\n🇮🇪
+  아일랜드\n🇮🇹 이탈리아\n🇨🇿 체코
+SUMMARY:🚣 남자 경량급 더블스컬 결승 A
+LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T100300Z-swimming--4-X-100M-
@@ -4427,6 +4447,20 @@ DESCRIPTION:육상 - 여자 세단뛰기 예선\n🇯🇲 Ackelia SMITH\n🇪�
   RICKETTS\n🇺🇿 Sharifa DAVRONOVA\n🇩🇲 Thea LAFOND\n🇺🇸 Tori
   FRANKLIN\n🇹🇷 Tugba DANISMAZ\n🇨🇳 ZENG Rui
 SUMMARY:🏃 여자 세단뛰기 예선
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T165500Z-athletics--A
+DTSTAMP:20240802T165500Z
+DTSTART:20240802T165500Z
+DTEND:20240802T174700Z
+DESCRIPTION:육상 - 여자 원반던지기 예선 - A조\n🇧🇷 Andressa de MORAIS\n🇳🇬 Ashley
+  ANUMBA\n🇸🇪 Caisa-Marie LINDFORS\n🇮🇹 Daisy OSAKUE\n🇱🇹 Ieva
+  GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin
+  PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷
+  Melina ROBERT-MICHON\n🇯🇲 Samantha HALL\n🇨🇺 Silinda MORALES\n🇹🇭
+  Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
+SUMMARY:🏃 여자 원반던지기 예선 - A조
 LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT

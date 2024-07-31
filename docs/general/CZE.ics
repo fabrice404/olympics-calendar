@@ -2023,6 +2023,20 @@ SUMMARY:🔫 Skeet Men's Qualification - Day 1
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T081000Z-athletics-MENS-HAMMER-THROW-QUALIFICATION-GROUP-A
+DTSTAMP:20240802T081000Z
+DTSTART:20240802T081000Z
+DTEND:20240802T090600Z
+DESCRIPTION:Athletics - Men's Hammer Throw Qualification - Group A\n🇺🇸
+  Daniel HAUGH\n🇭🇺 Donat VARGA\n🇨🇱 Humberto MANSILLA\n🇭🇷 Matija
+  GREGURIC\n🇬🇷 Michail ANASTASAKIS\n🇪🇬 Mostafa ELGAMEL\n🇺🇦 Mykhaylo
+  KOKHAN\n🇨🇿 Patrik HAJEK\n🇸🇪 Ragnar CARLSSON\n🇨🇦 Rowan
+  HAMILTON\n🇲🇩 Serghei MARGHIEV\n🇩🇪 Soeren KLOSE\n🇳🇴 Thomas
+  MARDAL\n🇨🇳 WANG Qi\n🇵🇱 Wojciech NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 Men's Hammer Throw Qualification - Group A
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T081200Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-32-CZE-NED
 DTSTAMP:20240802T081200Z
 DTSTART:20240802T081200Z
@@ -2050,6 +2064,16 @@ DESCRIPTION:Athletics - Women's High Jump Qualification\n🇱🇹 Airine
   Yelizaveta MATVEYEVA\n🇺🇦 Yuliia LEVCHENKO
 SUMMARY:🏃 Women's High Jump Qualification
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T085400Z-rowing-WOMENS-PAIR-FINAL-B
+DTSTAMP:20240802T085400Z
+DTSTART:20240802T085400Z
+DTEND:20240802T090100Z
+DESCRIPTION:Rowing - Women's Pair Final B\n🇨🇱 CHI\n🇨🇿 CZE\n🇩🇰
+  DEN\n🇬🇧 GBR\n🇮🇪 IRL\n🇪🇸 ESP
+SUMMARY:🚣 Women's Pair Final B
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T090000Z-swimming-MENS-100M-BUTTERFLY-HEATS
@@ -2093,6 +2117,20 @@ SUMMARY:🏊 Women's 200m Individual Medley - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T093500Z-athletics-MENS-HAMMER-THROW-QUALIFICATION-GROUP-B
+DTSTAMP:20240802T093500Z
+DTSTART:20240802T093500Z
+DTEND:20240802T103100Z
+DESCRIPTION:Athletics - Men's Hammer Throw Qualification - Group B\n🇨🇦
+  Adam KEENAN\n🇭🇺 Bence HALASZ\n🇬🇷 Christos FRANTZESKAKIS\n🇭🇺 Daniel
+  RABA\n🇳🇱 Denzel COMENENTIA\n🇲🇽 Diego del REAL\n🇳🇴 Eivind
+  HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇨🇱 Gabriel KEHR\n🇵🇷 Jerome VEGA\n🇦🇷
+  Joaquin GOMEZ\n🇩🇪 Merlin HUMMEL\n🇹🇷 Ozkan BALTACI\n🇵🇱 Pawel
+  FAJDEK\n🇺🇸 Rudy WINKLER\n🇨🇿 Volodymyr MYSLYVCUK
+SUMMARY:🏃 Men's Hammer Throw Qualification - Group B
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T100000Z-beach-volleyball-WOMENS-PRELIMINARY-PHASE-POOL-C-FRA-C
 DTSTAMP:20240802T100000Z
 DTSTART:20240802T100000Z
@@ -2100,6 +2138,16 @@ DTEND:20240802T105000Z
 DESCRIPTION:Beach Volleyball - Women's Preliminary Phase - Pool C
 SUMMARY:🏐 VIEIRA/CHAMEREAU 🇫🇷 - 🇨🇿 HERMANNOVA/STOCHLOVA
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100200Z-rowing-LIGHTWEIGHT-MENS-DOUBLE-SCULLS-FINAL-A
+DTSTAMP:20240802T100200Z
+DTSTART:20240802T100200Z
+DTEND:20240802T100900Z
+DESCRIPTION:Rowing - Lightweight Men's Double Sculls Final A\n🇨🇿
+  CZE\n🇬🇷 GRE\n🇮🇪 IRL\n🇮🇹 ITA\n🇳🇴 NOR\n🇨🇭 SUI
+SUMMARY:🚣 Lightweight Men's Double Sculls Final A
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T113000Z-fencing-MENS-PE-TEAM-TABLE-OF-8-ITA-CZE

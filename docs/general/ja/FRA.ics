@@ -5236,6 +5236,20 @@ SUMMARY:🏃 男子十種競技100m
 LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T081000Z-athletics--A
+DTSTAMP:20240802T081000Z
+DTSTART:20240802T081000Z
+DTEND:20240802T090600Z
+DESCRIPTION:陸上競技 - 男子ハンマー投予選 - グループA\n🇺🇸 Daniel HAUGH\n🇭🇺 Donat
+  VARGA\n🇨🇱 Humberto MANSILLA\n🇭🇷 Matija GREGURIC\n🇬🇷 Michail
+  ANASTASAKIS\n🇪🇬 Mostafa ELGAMEL\n🇺🇦 Mykhaylo KOKHAN\n🇨🇿 Patrik
+  HAJEK\n🇸🇪 Ragnar CARLSSON\n🇨🇦 Rowan HAMILTON\n🇲🇩 Serghei
+  MARGHIEV\n🇩🇪 Soeren KLOSE\n🇳🇴 Thomas MARDAL\n🇨🇳 WANG Qi\n🇵🇱
+  Wojciech NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 男子ハンマー投予選 - グループA
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T081500Z-athletics-
 DTSTAMP:20240802T081500Z
 DTSTART:20240802T081500Z
@@ -5320,6 +5334,16 @@ SUMMARY:🤾 アルゼンチン 🇦🇷 - 🇫🇷 フランス
 LOCATION:サウス・パリ・アリーナ6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T090600Z-rowing-B
+DTSTAMP:20240802T090600Z
+DTSTART:20240802T090600Z
+DTEND:20240802T091300Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル決勝B\n🇦🇷 アルゼンチン\n🇺🇦 ウクライナ\n🇪🇸
+  スペイン\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽 メキシコ
+SUMMARY:🚣 男子軽量級ダブルスカル決勝B
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T091000Z-athletics-1500M
 DTSTAMP:20240802T091000Z
 DTSTART:20240802T091000Z
@@ -5360,6 +5384,16 @@ DESCRIPTION:競泳 - 女子200m個人メドレー予選\n🇬🇧 Abbie WOOD\n�
   Shiwen\n🇨🇳 YU Yiting
 SUMMARY:🏊 女子200m個人メドレー予選
 LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T091800Z-rowing-B
+DTSTAMP:20240802T091800Z
+DTSTART:20240802T091800Z
+DTEND:20240802T092500Z
+DESCRIPTION:ローイング - 女子軽量級ダブルスカル決勝B\n🇦🇷 アルゼンチン\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇹🇳 チュニジア\n🇫🇷 フランス\n🇵🇱 ポーランド
+SUMMARY:🚣 女子軽量級ダブルスカル決勝B
+LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T092400Z-judo-100KG3
@@ -5680,6 +5714,20 @@ DTEND:20240802T170000Z
 DESCRIPTION:3x3 バスケットボール - 男子予選ラウンド
 SUMMARY:🏀 フランス 🇫🇷 - 🇺🇸 アメリカ合衆国
 LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T165500Z-athletics--A
+DTSTAMP:20240802T165500Z
+DTSTART:20240802T165500Z
+DTEND:20240802T174700Z
+DESCRIPTION:陸上競技 - 女子円盤投予選 - グループA\n🇧🇷 Andressa de MORAIS\n🇳🇬 Ashley
+  ANUMBA\n🇸🇪 Caisa-Marie LINDFORS\n🇮🇹 Daisy OSAKUE\n🇱🇹 Ieva
+  GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin
+  PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷
+  Melina ROBERT-MICHON\n🇯🇲 Samantha HALL\n🇨🇺 Silinda MORALES\n🇹🇭
+  Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
+SUMMARY:🏃 女子円盤投予選 - グループA
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T171000Z-athletics-4400M

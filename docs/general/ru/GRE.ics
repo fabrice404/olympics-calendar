@@ -1119,6 +1119,20 @@ SUMMARY:🔫 Скит, квалификация, день 1 (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T081000Z-athletics--
+DTSTAMP:20240802T081000Z
+DTSTART:20240802T081000Z
+DTEND:20240802T090600Z
+DESCRIPTION:Легкая атлетика - Метание молота, квалификация, группа А
+  (м)\n🇺🇸 Daniel HAUGH\n🇭🇺 Donat VARGA\n🇨🇱 Humberto MANSILLA\n🇭🇷
+  Matija GREGURIC\n🇬🇷 Michail ANASTASAKIS\n🇪🇬 Mostafa ELGAMEL\n🇺🇦
+  Mykhaylo KOKHAN\n🇨🇿 Patrik HAJEK\n🇸🇪 Ragnar CARLSSON\n🇨🇦 Rowan
+  HAMILTON\n🇲🇩 Serghei MARGHIEV\n🇩🇪 Soeren KLOSE\n🇳🇴 Thomas
+  MARDAL\n🇨🇳 WANG Qi\n🇵🇱 Wojciech NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 Метание молота, квалификация, группа А (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T081500Z-athletics--
 DTSTAMP:20240802T081500Z
 DTSTART:20240802T081500Z
@@ -1139,6 +1153,42 @@ SUMMARY:🏃 Прыжки в высоту, квалификация (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T093500Z-athletics--
+DTSTAMP:20240802T093500Z
+DTSTART:20240802T093500Z
+DTEND:20240802T103100Z
+DESCRIPTION:Легкая атлетика - Метание молота, квалификация, группа В
+  (м)\n🇨🇦 Adam KEENAN\n🇭🇺 Bence HALASZ\n🇬🇷 Christos
+  FRANTZESKAKIS\n🇭🇺 Daniel RABA\n🇳🇱 Denzel COMENENTIA\n🇲🇽 Diego del
+  REAL\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇨🇱 Gabriel KEHR\n🇵🇷
+  Jerome VEGA\n🇦🇷 Joaquin GOMEZ\n🇩🇪 Merlin HUMMEL\n🇹🇷 Ozkan
+  BALTACI\n🇵🇱 Pawel FAJDEK\n🇺🇸 Rudy WINKLER\n🇨🇿 Volodymyr MYSLYVCUK
+SUMMARY:🏃 Метание молота, квалификация, группа В (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T094200Z-rowing--A-
+DTSTAMP:20240802T094200Z
+DTSTART:20240802T094200Z
+DTEND:20240802T094900Z
+DESCRIPTION:Академическая гребля - Двойки, финал A (ж)\n🇦🇺
+  Австралия\n🇬🇷 Греция\n🇱🇹 Литва\n🇳🇱 Нидерланды\n🇷🇴 Румыния\n🇺🇸
+  США
+SUMMARY:🚣 Двойки, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100200Z-rowing--A-
+DTSTAMP:20240802T100200Z
+DTSTART:20240802T100200Z
+DTEND:20240802T100900Z
+DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал A
+  (м)\n🇬🇷 Греция\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇳🇴 Норвегия\n🇨🇿
+  Чехия\n🇨🇭 Швейцария
+SUMMARY:🚣 Двойки парные, легкий вес, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T100300Z-swimming--4X100-
 DTSTAMP:20240802T100300Z
 DTSTART:20240802T100300Z
@@ -1150,6 +1200,17 @@ DESCRIPTION:Плавание - Эстафета 4x100м комплексом, к
   Швеция\n🇰🇷 Южная Корея\n🇯🇵 Япония
 SUMMARY:🏊 Эстафета 4x100м комплексом, квалификация (микст)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T102200Z-rowing--A-
+DTSTAMP:20240802T102200Z
+DTSTART:20240802T102200Z
+DTEND:20240802T102900Z
+DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал A
+  (ж)\n🇬🇧 Великобритания\n🇬🇷 Греция\n🇮🇪 Ирландия\n🇳🇿 Новая
+  Зеландия\n🇷🇴 Румыния\n🇺🇸 США
+SUMMARY:🚣 Двойки парные, легкий вес, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T113000Z-basketball---AUS-GRE

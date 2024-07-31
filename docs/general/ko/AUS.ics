@@ -3995,6 +3995,16 @@ SUMMARY:🏊 여자 800m 자유형 - 예선
 LOCATION:파리 라 데팡스 아레나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T094200Z-rowing--A
+DTSTAMP:20240802T094200Z
+DTSTART:20240802T094200Z
+DTEND:20240802T094900Z
+DESCRIPTION:조정 - 여자 무타페어 결승 A\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇷🇴 루마니아\n🇱🇹
+  리투아니아\n🇺🇸 미국\n🇦🇺 오스트레일리아
+SUMMARY:🚣 여자 무타페어 결승 A
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T100300Z-swimming--4-X-100M-
 DTSTAMP:20240802T100300Z
 DTSTART:20240802T100300Z
@@ -4258,6 +4268,20 @@ DESCRIPTION:육상 - 여자 800m 1라운드\n🇦🇺 Abbey CALDWELL\n🇯🇲 A
   MALONEY\n🇱🇰 Tharushi KARUNARATHNA\n🇪🇹 Tsige DUGUMA\n🇨🇭 Valentina
   ROSAMILIA\n🇰🇪 Vivian Chebet KIPROTICH\n🇪🇹 Worknesh MESELE
 SUMMARY:🏃 여자 800m 1라운드
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T182000Z-athletics--B
+DTSTAMP:20240802T182000Z
+DTSTART:20240802T182000Z
+DTEND:20240802T191200Z
+DESCRIPTION:육상 - 여자 원반던지기 예선 - B조\n🇲🇩 Alexandra EMILIANOV\n🇳🇱 Alida van
+  DAALEN\n🇳🇬 Chioma ONYEKWERE\n🇩🇪 Claudine VITA\n🇵🇱 Daria
+  ZABAWSKA\n🇨🇳 FENG Bin\n🇵🇹 Irina RODRIGUES\n🇧🇷 Izabela da
+  SILVA\n🇺🇸 Jayden ULRICH\n🇩🇪 Marike STEINACKER\n🇨🇺 Melany del Pilar
+  MATHEUS\n🇳🇬 Obiageri Pamela AMAECHI\n🇭🇷 Sandra ELKASEVIC\n🇦🇺 Taryn
+  GOLLSHEWSKY\n🇸🇪 Vanessa KAMGA\n🇺🇸 Veronica FRALEY
+SUMMARY:🏃 여자 원반던지기 예선 - B조
 LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT

@@ -271,4 +271,14 @@ DESCRIPTION:セーリング - 女子スキフ・メダルレース\n🇳🇱 AAN
 SUMMARY:⛵ 女子スキフ・メダルレース
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T102200Z-rowing-A
+DTSTAMP:20240802T102200Z
+DTSTART:20240802T102200Z
+DTEND:20240802T102900Z
+DESCRIPTION:ローイング - 女子軽量級ダブルスカル決勝A\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇬🇷
+  ギリシャ\n🇳🇿 ニュージーランド\n🇷🇴 ルーマニア\n🇬🇧 英国
+SUMMARY:🚣 女子軽量級ダブルスカル決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
 END:VCALENDAR

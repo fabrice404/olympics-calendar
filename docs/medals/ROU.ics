@@ -140,4 +140,34 @@ DESCRIPTION:Artistic Gymnastics - Women's All-Around Final\n🇮🇹 Alice
 SUMMARY:🤸 Women's All-Around Final
 LOCATION:Bercy Arena
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T093000Z-rowing-MENS-PAIR-FINAL-A
+DTSTAMP:20240802T093000Z
+DTSTART:20240802T093000Z
+DTEND:20240802T093700Z
+DESCRIPTION:Rowing - Men's Pair Final A\n🇭🇷 CRO\n🇬🇧 GBR\n🇮🇪 IRL\n🇷🇴
+  ROU\n🇪🇸 ESP\n🇨🇭 SUI
+SUMMARY:🚣 Men's Pair Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T094200Z-rowing-WOMENS-PAIR-FINAL-A
+DTSTAMP:20240802T094200Z
+DTSTART:20240802T094200Z
+DTEND:20240802T094900Z
+DESCRIPTION:Rowing - Women's Pair Final A\n🇦🇺 AUS\n🇬🇷 GRE\n🇱🇹
+  LTU\n🇳🇱 NED\n🇷🇴 ROU\n🇺🇸 USA
+SUMMARY:🚣 Women's Pair Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T102200Z-rowing-LIGHTWEIGHT-WOMENS-DOUBLE-SCULLS-FINAL-A
+DTSTAMP:20240802T102200Z
+DTSTART:20240802T102200Z
+DTEND:20240802T102900Z
+DESCRIPTION:Rowing - Lightweight Women's Double Sculls Final A\n🇬🇧
+  GBR\n🇬🇷 GRE\n🇮🇪 IRL\n🇳🇿 NZL\n🇷🇴 ROU\n🇺🇸 USA
+SUMMARY:🚣 Lightweight Women's Double Sculls Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
 END:VCALENDAR

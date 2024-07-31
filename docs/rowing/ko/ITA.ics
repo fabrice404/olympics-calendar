@@ -324,4 +324,24 @@ DESCRIPTION:조정 - 남자 무타포어 결승 A\n🇳🇿 뉴질랜드\n🇷�
 SUMMARY:🚣 남자 무타포어 결승 A
 LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T084200Z-rowing--B
+DTSTAMP:20240802T084200Z
+DTSTART:20240802T084200Z
+DTEND:20240802T084900Z
+DESCRIPTION:조정 - 남자 무타페어 결승 B\n🇿🇦 남아프리카공화국\n🇳🇿 뉴질랜드\n🇩🇪 독일\n🇱🇹
+  리투아니아\n🇺🇸 미국\n🇮🇹 이탈리아
+SUMMARY:🚣 남자 무타페어 결승 B
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100200Z-rowing--A
+DTSTAMP:20240802T100200Z
+DTSTART:20240802T100200Z
+DTEND:20240802T100900Z
+DESCRIPTION:조정 - 남자 경량급 더블스컬 결승 A\n🇬🇷 그리스\n🇳🇴 노르웨이\n🇨🇭 스위스\n🇮🇪
+  아일랜드\n🇮🇹 이탈리아\n🇨🇿 체코
+SUMMARY:🚣 남자 경량급 더블스컬 결승 A
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
 END:VCALENDAR

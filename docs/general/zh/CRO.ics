@@ -1224,6 +1224,20 @@ SUMMARY:🤽 罗马尼亚 🇷🇴 - 🇭🇷 克罗地亚
 LOCATION:水上运动中心
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T081000Z-athletics--A
+DTSTAMP:20240802T081000Z
+DTSTART:20240802T081000Z
+DTEND:20240802T090600Z
+DESCRIPTION:田径 - 男子链球资格赛 - A组\n🇺🇸 Daniel HAUGH\n🇭🇺 Donat VARGA\n🇨🇱
+  Humberto MANSILLA\n🇭🇷 Matija GREGURIC\n🇬🇷 Michail ANASTASAKIS\n🇪🇬
+  Mostafa ELGAMEL\n🇺🇦 Mykhaylo KOKHAN\n🇨🇿 Patrik HAJEK\n🇸🇪 Ragnar
+  CARLSSON\n🇨🇦 Rowan HAMILTON\n🇲🇩 Serghei MARGHIEV\n🇩🇪 Soeren
+  KLOSE\n🇳🇴 Thomas MARDAL\n🇨🇳 WANG Qi\n🇵🇱 Wojciech NOWICKI\n🇫🇷 Yann
+  CHAUSSINAND
+SUMMARY:🏃 男子链球资格赛 - A组
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T090000Z-swimming-100
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
@@ -1243,6 +1257,16 @@ DESCRIPTION:游泳 - 男子100米蝶泳分组预赛\n🇰🇿 Adilbek MUSSIN\n�
   Tomer FRANKEL\n🇨🇳 WANG Changhao\n🇾🇪 Yusuf Marwan Abdullah NASSER
 SUMMARY:🏊 男子100米蝶泳分组预赛
 LOCATION:拉德芳斯体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T093000Z-rowing-A
+DTSTAMP:20240802T093000Z
+DTSTART:20240802T093000Z
+DTEND:20240802T093700Z
+DESCRIPTION:赛艇 - 男子双人单桨决赛A\n🇭🇷 克罗地亚\n🇮🇪 爱尔兰\n🇨🇭 瑞士\n🇷🇴 罗马尼亚\n🇬🇧
+  英国\n🇪🇸 西班牙
+SUMMARY:🚣 男子双人单桨决赛A
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T101500Z-sailing--03
@@ -1375,6 +1399,20 @@ SUMMARY:🥊 Cristian Javier PINALES 🇩🇴 - 🇭🇷 Gabrijel VEOCIC
 LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T165500Z-athletics--A
+DTSTAMP:20240802T165500Z
+DTSTART:20240802T165500Z
+DTEND:20240802T174700Z
+DESCRIPTION:田径 - 女子铁饼资格赛 - A组\n🇧🇷 Andressa de MORAIS\n🇳🇬 Ashley
+  ANUMBA\n🇸🇪 Caisa-Marie LINDFORS\n🇮🇹 Daisy OSAKUE\n🇱🇹 Ieva
+  GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin
+  PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷
+  Melina ROBERT-MICHON\n🇯🇲 Samantha HALL\n🇨🇺 Silinda MORALES\n🇹🇭
+  Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
+SUMMARY:🏃 女子铁饼资格赛 - A组
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T181000Z-athletics-
 DTSTAMP:20240802T181000Z
 DTSTART:20240802T181000Z
@@ -1391,6 +1429,20 @@ DESCRIPTION:田径 - 男子铅球资格赛\n🇷🇴 Andrei Rares TOADER\n🇷�
   STANEK\n🇵🇹 Tsanko ARNAUDOV\n🇲🇽 Uziel MUNOZ\n🇧🇷 Welington
   MORAIS\n🇮🇹 Zane WEIR
 SUMMARY:🏃 男子铅球资格赛
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T182000Z-athletics--B
+DTSTAMP:20240802T182000Z
+DTSTART:20240802T182000Z
+DTEND:20240802T191200Z
+DESCRIPTION:田径 - 女子铁饼资格赛 - B组\n🇲🇩 Alexandra EMILIANOV\n🇳🇱 Alida van
+  DAALEN\n🇳🇬 Chioma ONYEKWERE\n🇩🇪 Claudine VITA\n🇵🇱 Daria
+  ZABAWSKA\n🇨🇳 FENG Bin\n🇵🇹 Irina RODRIGUES\n🇧🇷 Izabela da
+  SILVA\n🇺🇸 Jayden ULRICH\n🇩🇪 Marike STEINACKER\n🇨🇺 Melany del Pilar
+  MATHEUS\n🇳🇬 Obiageri Pamela AMAECHI\n🇭🇷 Sandra ELKASEVIC\n🇦🇺 Taryn
+  GOLLSHEWSKY\n🇸🇪 Vanessa KAMGA\n🇺🇸 Veronica FRALEY
+SUMMARY:🏃 女子铁饼资格赛 - B组
 LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT

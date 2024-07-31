@@ -891,6 +891,26 @@ SUMMARY:🏃 Women's High Jump Qualification
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T084200Z-rowing-MENS-PAIR-FINAL-B
+DTSTAMP:20240802T084200Z
+DTSTART:20240802T084200Z
+DTEND:20240802T084900Z
+DESCRIPTION:Rowing - Men's Pair Final B\n🇩🇪 GER\n🇮🇹 ITA\n🇱🇹 LTU\n🇳🇿
+  NZL\n🇿🇦 RSA\n🇺🇸 USA
+SUMMARY:🚣 Men's Pair Final B
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T094200Z-rowing-WOMENS-PAIR-FINAL-A
+DTSTAMP:20240802T094200Z
+DTSTART:20240802T094200Z
+DTEND:20240802T094900Z
+DESCRIPTION:Rowing - Women's Pair Final A\n🇦🇺 AUS\n🇬🇷 GRE\n🇱🇹
+  LTU\n🇳🇱 NED\n🇷🇴 ROU\n🇺🇸 USA
+SUMMARY:🚣 Women's Pair Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T101500Z-sailing-WOMENS-DINGHY-RACE-3
 DTSTAMP:20240802T101500Z
 DTSTART:20240802T101500Z
@@ -962,6 +982,20 @@ DESCRIPTION:Athletics - Women's Triple Jump Qualification\n🇯🇲 Ackelia
   SALMINEN\n🇯🇲 Shanieka RICKETTS\n🇺🇿 Sharifa DAVRONOVA\n🇩🇲 Thea
   LAFOND\n🇺🇸 Tori FRANKLIN\n🇹🇷 Tugba DANISMAZ\n🇨🇳 ZENG Rui
 SUMMARY:🏃 Women's Triple Jump Qualification
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T165500Z-athletics-WOMENS-DISCUS-THROW-QUALIFICATION-GROUP-A
+DTSTAMP:20240802T165500Z
+DTSTART:20240802T165500Z
+DTEND:20240802T174700Z
+DESCRIPTION:Athletics - Women's Discus Throw Qualification - Group A\n🇧🇷
+  Andressa de MORAIS\n🇳🇬 Ashley ANUMBA\n🇸🇪 Caisa-Marie LINDFORS\n🇮🇹
+  Daisy OSAKUE\n🇱🇹 Ieva GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱 Jorinde van
+  KLINKEN\n🇩🇪 Kristin PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix
+  PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷 Melina ROBERT-MICHON\n🇯🇲 Samantha
+  HALL\n🇨🇺 Silinda MORALES\n🇹🇭 Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
+SUMMARY:🏃 Women's Discus Throw Qualification - Group A
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

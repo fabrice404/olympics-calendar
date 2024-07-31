@@ -1733,6 +1733,16 @@ SUMMARY:🔫 男子スキート個人本選 1日目
 LOCATION:シャトールー射撃センター
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T085400Z-rowing-B
+DTSTAMP:20240802T085400Z
+DTSTART:20240802T085400Z
+DTEND:20240802T090100Z
+DESCRIPTION:ローイング - 女子ペア決勝B\n🇮🇪 アイルランド\n🇪🇸 スペイン\n🇨🇿 チェコ\n🇨🇱
+  チリ\n🇩🇰 デンマーク\n🇬🇧 英国
+SUMMARY:🚣 女子ペア決勝B
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T101500Z-sailing--3
 DTSTAMP:20240802T101500Z
 DTSTART:20240802T101500Z
@@ -1823,6 +1833,20 @@ DESCRIPTION:セーリング - 男子ディンギー - レース4\n🇪🇬 Aly B
   SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
 SUMMARY:⛵ 男子ディンギー - レース4
 LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T165500Z-athletics--A
+DTSTAMP:20240802T165500Z
+DTSTART:20240802T165500Z
+DTEND:20240802T174700Z
+DESCRIPTION:陸上競技 - 女子円盤投予選 - グループA\n🇧🇷 Andressa de MORAIS\n🇳🇬 Ashley
+  ANUMBA\n🇸🇪 Caisa-Marie LINDFORS\n🇮🇹 Daisy OSAKUE\n🇱🇹 Ieva
+  GUMBS\n🇨🇳 JIANG Zhichao\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin
+  PUDENZ\n🇵🇹 Liliana CA\n🇩🇰 Lisa Brix PEDERSEN\n🇭🇷 Marija TOLJ\n🇫🇷
+  Melina ROBERT-MICHON\n🇯🇲 Samantha HALL\n🇨🇺 Silinda MORALES\n🇹🇭
+  Subenrat INSAENG\n🇺🇸 Valarie ALLMAN
+SUMMARY:🏃 女子円盤投予選 - グループA
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T080000Z-equestrian-
