@@ -30,4 +30,13 @@ DESCRIPTION:Футбол - Группа B (ж)
 SUMMARY:⚽ Замбия 🇿🇲 - 🇩🇪 Германия
 LOCATION:Стадион «Жоффруа Гишар»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T170000Z-football--
+DTSTAMP:20240803T170000Z
+DTSTART:20240803T170000Z
+DTEND:20240803T184500Z
+DESCRIPTION:Футбол - Четвертьфинал (ж)\n🇩🇪 Германия
+SUMMARY:⚽ Четвертьфинал (ж)
+LOCATION:Стадион «Марсель»
+END:VEVENT
 END:VCALENDAR

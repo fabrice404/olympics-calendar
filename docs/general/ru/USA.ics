@@ -5778,6 +5778,15 @@ SUMMARY:⛵ Швертбот, гонка 05 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T130000Z-football---USA-JPN
+DTSTAMP:20240803T130000Z
+DTSTART:20240803T130000Z
+DTEND:20240803T144500Z
+DESCRIPTION:Футбол - Четвертьфинал (ж)
+SUMMARY:⚽ США 🇺🇸 - 🇯🇵 Япония
+LOCATION:«Парк-де-Пренс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T133300Z-sailing--06-
 DTSTAMP:20240803T133300Z
 DTSTART:20240803T133300Z
