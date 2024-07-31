@@ -1246,13 +1246,12 @@ SUMMARY:🏓 Felix LEBRUN 🇫🇷 - 🇹🇼 LIN Yun-Ju
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T140000Z-table-tennis-14-
+UID:20240801T140000Z-table-tennis-14--CHN-TPE
 DTSTAMP:20240801T140000Z
 DTSTART:20240801T140000Z
 DTEND:20240801T150000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, одиночный разряд (ж)\n🇹🇼
-  CHENG I-Ching
-SUMMARY:🏓 1/4 финала, одиночный разряд (ж)
+DESCRIPTION:Настольный теннис - 1/4 финала, одиночный разряд (ж)
+SUMMARY:🏓 SUN Yingsha 🇨🇳 - 🇹🇼 CHENG I-Ching
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
@@ -1260,7 +1259,8 @@ UID:20240801T150000Z-table-tennis-14-
 DTSTAMP:20240801T150000Z
 DTSTART:20240801T150000Z
 DTEND:20240801T160000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, одиночный разряд (м)
+DESCRIPTION:Настольный теннис - 1/4 финала, одиночный разряд (м)\n🇯🇵
+  Tomokazu HARIMOTO
 SUMMARY:🏓 1/4 финала, одиночный разряд (м)
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT

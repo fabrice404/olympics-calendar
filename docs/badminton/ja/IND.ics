@@ -120,4 +120,22 @@ DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グ�
 SUMMARY:🏸 H. S. PRANNOY 🇮🇳 - 🇻🇳 Duc Phat LE
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T110000Z-badminton--IND-MAS
+DTSTAMP:20240801T110000Z
+DTSTART:20240801T110000Z
+DTEND:20240801T120000Z
+DESCRIPTION:バドミントン - 男子ダブルス準々決勝
+SUMMARY:🏸 RANKIREDDY/SHETTY 🇮🇳 - 🇲🇾 CHIA/SOH
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T121000Z-badminton-1-IND-IND
+DTSTAMP:20240801T121000Z
+DTSTART:20240801T121000Z
+DTEND:20240801T130000Z
+DESCRIPTION:バドミントン - 男子シングルス1回戦
+SUMMARY:🏸 H. S. PRANNOY 🇮🇳 - 🇮🇳 Lakshya SEN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
 END:VCALENDAR
