@@ -30,4 +30,13 @@ DESCRIPTION:Футбол - Группа C (ж)
 SUMMARY:⚽ Бразилия 🇧🇷 - 🇪🇸 Испания
 LOCATION:Стадион «Бордо»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T190000Z-football---FRA-BRA
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T204500Z
+DESCRIPTION:Футбол - Четвертьфинал (ж)
+SUMMARY:⚽ Франция 🇫🇷 - 🇧🇷 Бразилия
+LOCATION:Стадион «Божуар»
+END:VEVENT
 END:VCALENDAR

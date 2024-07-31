@@ -3606,6 +3606,15 @@ SUMMARY:⛵ Швертбот, гонка 06 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T190000Z-football---FRA-BRA
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T204500Z
+DESCRIPTION:Футбол - Четвертьфинал (ж)
+SUMMARY:⚽ Франция 🇫🇷 - 🇧🇷 Бразилия
+LOCATION:Стадион «Божуар»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T200800Z-boxing--60--IRL-BRA
 DTSTAMP:20240803T200800Z
 DTSTART:20240803T200800Z
