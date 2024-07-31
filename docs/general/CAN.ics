@@ -2634,6 +2634,18 @@ SUMMARY:🏊 Women's 200m Backstroke - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T090000Z-equestrian-JUMPING-TEAM-QUALIFIER
+DTSTAMP:20240801T090000Z
+DTSTART:20240801T090000Z
+DTEND:20240801T120000Z
+DESCRIPTION:Equestrian - Jumping Team Qualifier\n🇦🇺 AUS\n🇦🇹 AUT\n🇧🇪
+  BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇱
+  ISR\n🇯🇵 JPN\n🇲🇽 MEX\n🇳🇱 NED\n🇵🇱 POL\n🇸🇦 KSA\n🇪🇸 ESP\n🇸🇪
+  SWE\n🇨🇭 SUI\n🇦🇪 UA Emirates\n🇺🇸 USA
+SUMMARY:🏇 Jumping Team Qualifier
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T091800Z-swimming-MENS-50M-FREESTYLE-HEATS
 DTSTAMP:20240801T091800Z
 DTSTART:20240801T091800Z
@@ -2750,12 +2762,12 @@ SUMMARY:🥊 Wyatt SANFORD 🇨🇦 - 🇺🇿 Ruslan ABDULLAEV
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T110000Z-tennis-MIXED-DOUBLES-SEMI-FINAL
+UID:20240801T110000Z-tennis-MIXED-DOUBLES-SEMI-FINAL-CZE-CAN
 DTSTAMP:20240801T110000Z
 DTSTART:20240801T110000Z
 DTEND:20240801T170000Z
-DESCRIPTION:Tennis - Mixed Doubles Semi-final\n🇨🇦 DABROWSKI/AUGER-ALIAS
-SUMMARY:🎾 Mixed Doubles Semi-final
+DESCRIPTION:Tennis - Mixed Doubles Semi-final
+SUMMARY:🎾 SINIAKOVA/MACHAC 🇨🇿 - 🇨🇦 DABROWSKI/AUGER-ALIAS
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
