@@ -3331,6 +3331,29 @@ SUMMARY:🚣 男子四人单桨决赛A
 LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T101500Z-sailing--01
+DTSTAMP:20240801T101500Z
+DTSTART:20240801T101500Z
+DTEND:20240801T110600Z
+DESCRIPTION:帆船 - 男子帆船激光级- 比赛01\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 男子帆船激光级- 比赛01
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T110000Z-3x3-basketball--USA-AUS
 DTSTAMP:20240801T110000Z
 DTSTART:20240801T110000Z
@@ -3347,6 +3370,29 @@ DTEND:20240801T131500Z
 DESCRIPTION:篮球 - 女子小组赛 - B组
 SUMMARY:🏀 澳大利亚 🇦🇺 - 🇨🇦 加拿大
 LOCATION:皮埃尔·莫鲁瓦体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T122000Z-sailing--02
+DTSTAMP:20240801T122000Z
+DTSTART:20240801T122000Z
+DTEND:20240801T131100Z
+DESCRIPTION:帆船 - 男子帆船激光级- 比赛02\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 男子帆船激光级- 比赛02
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T130000Z-water-polo-B-FRA-AUS
@@ -3958,6 +4004,15 @@ DESCRIPTION:射击 - 男子25米手枪速射资格赛第1轮\n🇮🇳 Anish ANI
   SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
 SUMMARY:🔫 男子25米手枪速射资格赛第1轮
 LOCATION:沙托鲁射击中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T094800Z-boxing-75-14
+DTSTAMP:20240804T094800Z
+DTSTART:20240804T094800Z
+DTEND:20240804T095900Z
+DESCRIPTION:拳击 - 女子75公斤级 - 1/4决赛\n🇦🇺 Caitlin PARKER
+SUMMARY:🥊 女子75公斤级 - 1/4决赛
+LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-water-polo-A-HUN-AUS
