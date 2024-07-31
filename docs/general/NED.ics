@@ -3031,6 +3031,22 @@ SUMMARY:⛵ Men's Windsurfing - Race 20
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T080500Z-athletics-MENS-DECATHLON-100M
+DTSTAMP:20240802T080500Z
+DTSTART:20240802T080500Z
+DTEND:20240802T082200Z
+DESCRIPTION:Athletics - Men's Decathlon 100m\n🇦🇺 Ashley MOLONEY\n🇵🇷
+  Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸
+  Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes
+  ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel
+  TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Men's Decathlon 100m
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T081200Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-32-CZE-NED
 DTSTAMP:20240802T081200Z
 DTSTART:20240802T081200Z
@@ -3378,6 +3394,17 @@ DTEND:20240803T091500Z
 DESCRIPTION:Volleyball - Women's Preliminary Round - Pool C
 SUMMARY:🏐 NED 🇳🇱 - 🇩🇴 DOM
 LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T080000Z-equestrian-DRESSAGE-TEAM-GRAND-PRIX-SPECIAL
+DTSTAMP:20240803T080000Z
+DTSTART:20240803T080000Z
+DTEND:20240803T133000Z
+DESCRIPTION:Equestrian - Dressage Team Grand Prix Special\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇩🇰 DEN\n🇫🇮 FIN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇳🇱
+  NED\n🇸🇪 SWE
+SUMMARY:🏇 Dressage Team Grand Prix Special
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T083000Z-hockey-WOMENS-POOL-A-NED-JPN

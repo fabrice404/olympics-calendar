@@ -5192,6 +5192,22 @@ SUMMARY:🔫 Skeet Men's Qualification - Day 1
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T080500Z-athletics-MENS-DECATHLON-100M
+DTSTAMP:20240802T080500Z
+DTSTART:20240802T080500Z
+DTEND:20240802T082200Z
+DESCRIPTION:Athletics - Men's Decathlon 100m\n🇦🇺 Ashley MOLONEY\n🇵🇷
+  Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸
+  Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes
+  ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel
+  TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Men's Decathlon 100m
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T081500Z-athletics-WOMENS-HIGH-JUMP-QUALIFICATION
 DTSTAMP:20240802T081500Z
 DTSTART:20240802T081500Z
@@ -5736,6 +5752,17 @@ DTEND:20240803T085000Z
 DESCRIPTION:Beach Volleyball - Men's Preliminary Phase - Pool C
 SUMMARY:🏐 HODGES/SCHUBERT 🇦🇺 - 🇫🇷 BASSEREAU/LYNEEL
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T080000Z-equestrian-DRESSAGE-TEAM-GRAND-PRIX-SPECIAL
+DTSTAMP:20240803T080000Z
+DTSTART:20240803T080000Z
+DTEND:20240803T133000Z
+DESCRIPTION:Equestrian - Dressage Team Grand Prix Special\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇩🇰 DEN\n🇫🇮 FIN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇳🇱
+  NED\n🇸🇪 SWE
+SUMMARY:🏇 Dressage Team Grand Prix Special
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T084800Z-archery-WOMENS-INDIVIDUAL-18-ELIMINATION-ROUND-FRA-BRA

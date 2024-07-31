@@ -5208,6 +5208,22 @@ SUMMARY:🔫 Скит, квалификация, день 1 (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T080500Z-athletics--100-
+DTSTAMP:20240802T080500Z
+DTSTART:20240802T080500Z
+DTEND:20240802T082200Z
+DESCRIPTION:Легкая атлетика - Десятиборье, 100м (м)\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo
+  NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Десятиборье, 100м (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T081500Z-athletics--
 DTSTAMP:20240802T081500Z
 DTSTART:20240802T081500Z
@@ -5759,6 +5775,18 @@ DTEND:20240803T085000Z
 DESCRIPTION:Пляжный волейбол - Групповой этап - Группа C (м)
 SUMMARY:🏐 HODGES/SCHUBERT 🇦🇺 - 🇫🇷 BASSEREAU/LYNEEL
 LOCATION:Стадион у Эйфелевой башни
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T080000Z-equestrian--
+DTSTAMP:20240803T080000Z
+DTSTART:20240803T080000Z
+DTEND:20240803T133000Z
+DESCRIPTION:Конный спорт - Командная выездка, гран-при, переездка\n🇦🇺
+  Австралия\n🇦🇹 Австрия\n🇧🇪 Бельгия\n🇬🇧 Великобритания\n🇩🇪
+  Германия\n🇩🇰 Дания\n🇳🇱 Нидерланды\n🇫🇮 Финляндия\n🇫🇷 Франция\n🇸🇪
+  Швеция
+SUMMARY:🏇 Командная выездка, гран-при, переездка
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T084800Z-archery-18--FRA-BRA
