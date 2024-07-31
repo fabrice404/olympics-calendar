@@ -16408,13 +16408,12 @@ SUMMARY:⛵ Скиф, гонка 10 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T122300Z-archery-116-
+UID:20240731T122300Z-archery-116--ITA-ROU
 DTSTAMP:20240731T122300Z
 DTSTART:20240731T122300Z
 DTEND:20240731T123600Z
-DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)\n🇮🇹 Chiara
-  REBAGLIATI
-SUMMARY:🏹 1/16 финала, индивидуальные (ж)
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)
+SUMMARY:🏹 Chiara REBAGLIATI 🇮🇹 - 🇷🇴 Madalina AMAISTROAIE
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
@@ -16484,21 +16483,21 @@ SUMMARY:🏐 HUGHES/CHENG 🇺🇸 - 🇫🇷 VIEIRA/CHAMEREAU
 LOCATION:Стадион у Эйфелевой башни
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T130000Z-fencing--5-8-
+UID:20240731T130000Z-fencing--5-8--EGY-CAN
 DTSTAMP:20240731T130000Z
 DTSTART:20240731T130000Z
 DTEND:20240731T135000Z
 DESCRIPTION:Фехтование - Командная сабля, за 5-8 места (м)
-SUMMARY:🤺 Командная сабля, за 5-8 места (м)
+SUMMARY:🤺 Египет 🇪🇬 - 🇨🇦 Канада
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T130000Z-fencing--5-8-
+UID:20240731T130000Z-fencing--5-8--USA-ITA
 DTSTAMP:20240731T130000Z
 DTSTART:20240731T130000Z
 DTEND:20240731T135000Z
-DESCRIPTION:Фехтование - Командная сабля, за 5-8 места (м)\n🇨🇦 Канада
-SUMMARY:🤺 Командная сабля, за 5-8 места (м)
+DESCRIPTION:Фехтование - Командная сабля, за 5-8 места (м)
+SUMMARY:🤺 США 🇺🇸 - 🇮🇹 Италия
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -16719,21 +16718,21 @@ SUMMARY:🥊 Vasile USTUROI 🇧🇪 - 🇦🇺 Charlie SENIOR
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240731T135000Z-fencing--1-
-DTSTAMP:20240731T135000Z
-DTSTART:20240731T135000Z
-DTEND:20240731T144000Z
-DESCRIPTION:Фехтование - Командная сабля, полуфинал 1 (м)\n🇰🇷 Южная Корея
-SUMMARY:🤺 Командная сабля, полуфинал 1 (м)
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T135000Z-fencing--2-
+UID:20240731T135000Z-fencing--2--IRI-HUN
 DTSTAMP:20240731T135000Z
 DTSTART:20240731T135000Z
 DTEND:20240731T144000Z
 DESCRIPTION:Фехтование - Командная сабля, полуфинал 2 (м)
-SUMMARY:🤺 Командная сабля, полуфинал 2 (м)
+SUMMARY:🤺 Иран 🇮🇷 - 🇭🇺 Венгрия
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T135000Z-fencing--1--FRA-KOR
+DTSTAMP:20240731T135000Z
+DTSTART:20240731T135000Z
+DTEND:20240731T144000Z
+DESCRIPTION:Фехтование - Командная сабля, полуфинал 1 (м)
+SUMMARY:🤺 Франция 🇫🇷 - 🇰🇷 Южная Корея
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
