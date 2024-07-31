@@ -17922,15 +17922,6 @@ SUMMARY:🏸 MATSUYAMA/SHIDA 🇯🇵 - 🇩🇰 FRUERGAARD/THYGESEN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T063000Z-badminton-1
-DTSTAMP:20240801T063000Z
-DTSTART:20240801T063000Z
-DTEND:20240801T081000Z
-DESCRIPTION:バドミントン - 男子シングルス1回戦
-SUMMARY:🏸 男子シングルス1回戦
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T070000Z-3x3-basketball--CHN-AUS
 DTSTAMP:20240801T070000Z
 DTSTART:20240801T070000Z
@@ -24887,12 +24878,12 @@ SUMMARY:🏃 男子十種競技やり投 - グループB
 LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T181600Z-boxing-57KG-
+UID:20240803T181600Z-boxing-57KG--JPN-BUL
 DTSTAMP:20240803T181600Z
 DTSTART:20240803T181600Z
 DTEND:20240803T182700Z
-DESCRIPTION:ボクシング - 男子57kg級 - 準々決勝\n🇯🇵 HARADA Shudai
-SUMMARY:🥊 男子57kg級 - 準々決勝
+DESCRIPTION:ボクシング - 男子57kg級 - 準々決勝
+SUMMARY:🥊 HARADA Shudai 🇯🇵 - 🇧🇬 Javier IBANEZ DIAZ
 LOCATION:ノース・パリ・アリーナ
 END:VEVENT
 BEGIN:VEVENT

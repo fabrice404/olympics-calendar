@@ -18023,15 +18023,6 @@ SUMMARY:🏸 MATSUYAMA/SHIDA 🇯🇵 - 🇩🇰 FRUERGAARD/THYGESEN
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T063000Z-badminton-18-
-DTSTAMP:20240801T063000Z
-DTSTART:20240801T063000Z
-DTEND:20240801T081000Z
-DESCRIPTION:Бадминтон - 1/8 финала, одиночный (м)
-SUMMARY:🏸 1/8 финала, одиночный (м)
-LOCATION:Арена «Ла-Шапель»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T070000Z-3x3-basketball---CHN-AUS
 DTSTAMP:20240801T070000Z
 DTSTART:20240801T070000Z
@@ -25030,12 +25021,12 @@ SUMMARY:🏃 Десятиборье, копье, группа В (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T181600Z-boxing--57-
+UID:20240803T181600Z-boxing--57--JPN-BUL
 DTSTAMP:20240803T181600Z
 DTSTART:20240803T181600Z
 DTEND:20240803T182700Z
-DESCRIPTION:Бокс - Четвертьфинал, до 57кг (м)\n🇯🇵 HARADA Shudai
-SUMMARY:🥊 Четвертьфинал, до 57кг (м)
+DESCRIPTION:Бокс - Четвертьфинал, до 57кг (м)
+SUMMARY:🥊 HARADA Shudai 🇯🇵 - 🇧🇬 Javier IBANEZ DIAZ
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
