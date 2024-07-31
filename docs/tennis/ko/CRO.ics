@@ -57,4 +57,13 @@ DESCRIPTION:테니스 - 여자 단식 8강
 SUMMARY:🎾 Marta KOSTYUK 🇺🇦 - 🇭🇷 Donna VEKIC
 LOCATION:롤랑가로스 스타디움
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T170000Z-tennis---SVK-CRO
+DTSTAMP:20240801T170000Z
+DTSTART:20240801T170000Z
+DTEND:20240801T200000Z
+DESCRIPTION:테니스 - 여자 단식 준결승
+SUMMARY:🎾 Anna Karolina SCHMIEDLOVA 🇸🇰 - 🇭🇷 Donna VEKIC
+LOCATION:롤랑가로스 스타디움
+END:VEVENT
 END:VCALENDAR
