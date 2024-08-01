@@ -19366,7 +19366,8 @@ UID:20240801T111100Z-archery-116-
 DTSTAMP:20240801T111100Z
 DTSTART:20240801T111100Z
 DTEND:20240801T112400Z
-DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)\n🇹🇼 LEI
+  Chien-Ying
 SUMMARY:🏹 1/16 финала, индивидуальные (ж)
 LOCATION:Дом инвалидов
 END:VEVENT
@@ -19455,12 +19456,12 @@ SUMMARY:⛵ Виндсерфинг, гонка 14 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T114000Z-fencing--5-8-
+UID:20240801T114000Z-fencing--5-8--EGY-POL
 DTSTAMP:20240801T114000Z
 DTSTART:20240801T114000Z
 DTEND:20240801T125000Z
-DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (ж)\n🇨🇳 Китай
-SUMMARY:🤺 Командная рапира, за 5-8 места (ж)
+DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (ж)
+SUMMARY:🤺 Египет 🇪🇬 - 🇵🇱 Польша
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -19468,7 +19469,7 @@ UID:20240801T114000Z-fencing--5-8-
 DTSTAMP:20240801T114000Z
 DTSTART:20240801T114000Z
 DTEND:20240801T125000Z
-DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (ж)\n🇪🇬 Египет
+DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (ж)\n🇨🇳 Китай
 SUMMARY:🤺 Командная рапира, за 5-8 места (ж)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -19599,12 +19600,12 @@ SUMMARY:⛵ Скиф, медальная гонка (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T125000Z-fencing--1-
+UID:20240801T125000Z-fencing--1--ITA-JPN
 DTSTAMP:20240801T125000Z
 DTSTART:20240801T125000Z
 DTEND:20240801T140000Z
-DESCRIPTION:Фехтование - Командная рапира, полуфинал 1 (ж)\n🇮🇹 Италия
-SUMMARY:🤺 Командная рапира, полуфинал 1 (ж)
+DESCRIPTION:Фехтование - Командная рапира, полуфинал 1 (ж)
+SUMMARY:🤺 Италия 🇮🇹 - 🇯🇵 Япония
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -19812,12 +19813,12 @@ SUMMARY:🥊 Pihla KAIVO-OJA 🇫🇮 - 🇺🇸 Jennifer LOZANO
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T140600Z-judo--100-
+UID:20240801T140600Z-judo--100--JPN-ESP
 DTSTAMP:20240801T140600Z
 DTSTART:20240801T140600Z
 DTEND:20240801T141200Z
-DESCRIPTION:Дзюдо - Утешительный поединок, до 100кг (м)\n🇯🇵 WOLF Aaron
-SUMMARY:🥋 Утешительный поединок, до 100кг (м)
+DESCRIPTION:Дзюдо - Утешительный поединок, до 100кг (м)
+SUMMARY:🥋 WOLF Aaron 🇯🇵 - 🇪🇸 Nikoloz SHERAZADISHVILI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -19830,12 +19831,12 @@ SUMMARY:🏹 CHIU Yi-Ching 🇹🇼 - 🇯🇵 NODA Satsuki
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T141200Z-judo--100-
+UID:20240801T141200Z-judo--100--GEO-SUI
 DTSTAMP:20240801T141200Z
 DTSTART:20240801T141200Z
 DTEND:20240801T141800Z
-DESCRIPTION:Дзюдо - Полуфинал В, до 100кг (м)\n🇬🇪 Ilia SULAMANIDZE
-SUMMARY:🥋 Полуфинал В, до 100кг (м)
+DESCRIPTION:Дзюдо - Полуфинал В, до 100кг (м)
+SUMMARY:🥋 Ilia SULAMANIDZE 🇬🇪 - 🇨🇭 Daniel EICH
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -25906,7 +25907,7 @@ UID:20240804T100400Z-boxing--54-
 DTSTAMP:20240804T100400Z
 DTSTART:20240804T100400Z
 DTEND:20240804T101500Z
-DESCRIPTION:Бокс - Полуфинал, до 54кг (ж)
+DESCRIPTION:Бокс - Полуфинал, до 54кг (ж)\n🇨🇳 CHANG Yuan
 SUMMARY:🥊 Полуфинал, до 54кг (ж)
 LOCATION:Арена «Париж-Север»
 END:VEVENT
