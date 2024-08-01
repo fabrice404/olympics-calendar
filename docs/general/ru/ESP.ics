@@ -3310,14 +3310,26 @@ SUMMARY:⛵ Швертбот, гонка 02 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T145400Z-judo--100-
+UID:20240801T145400Z-judo--100--ESP-UZB
 DTSTAMP:20240801T145400Z
 DTSTART:20240801T145400Z
 DTEND:20240801T150000Z
-DESCRIPTION:Дзюдо - Поединок за бронзу В, до 100кг (м)\n🇪🇸 Nikoloz
-  SHERAZADISHVILI
-SUMMARY:🥋 Поединок за бронзу В, до 100кг (м)
+DESCRIPTION:Дзюдо - Поединок за бронзу В, до 100кг (м)
+SUMMARY:🥋 Nikoloz SHERAZADISHVILI 🇪🇸 - 🇺🇿 Muzaffarbek TUROBOYEV
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T153000Z-canoe-slalom--
+DTSTAMP:20240801T153000Z
+DTSTART:20240801T153000Z
+DTEND:20240801T161400Z
+DESCRIPTION:Гребной слалом - Байдарки-одиночки, финал (м)\n🇦🇹 Felix
+  OSCHMAUTZ\n🇮🇹 Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub
+  GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇩🇪
+  Noah HEGGE\n🇪🇸 Pau ECHANIZ\n🇨🇳 QUAN Xin\n🇦🇺 Timothy ANDERSON\n🇫🇷
+  Titouan CASTRYCK
+SUMMARY:🛶 Байдарки-одиночки, финал (м)
+LOCATION:Водный ст. - Белая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T153000Z-hockey--B--ESP-RSA

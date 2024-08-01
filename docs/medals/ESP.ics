@@ -287,14 +287,26 @@ SUMMARY:⛵ Men's Skiff Medal Race
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T145400Z-judo-MEN-100-KG-CONTEST-FOR-BRONZE-MEDAL-B
+UID:20240801T145400Z-judo-MEN-100-KG-CONTEST-FOR-BRONZE-MEDAL-B-ESP-UZB
 DTSTAMP:20240801T145400Z
 DTSTART:20240801T145400Z
 DTEND:20240801T150000Z
-DESCRIPTION:Judo - Men -100 kg Contest for Bronze Medal B\n🇪🇸 Nikoloz
-  SHERAZADISHVILI
-SUMMARY:🥋 Men -100 kg Contest for Bronze Medal B
+DESCRIPTION:Judo - Men -100 kg Contest for Bronze Medal B
+SUMMARY:🥋 Nikoloz SHERAZADISHVILI 🇪🇸 - 🇺🇿 Muzaffarbek TUROBOYEV
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T153000Z-canoe-slalom-MENS-KAYAK-SINGLE-FINAL
+DTSTAMP:20240801T153000Z
+DTSTART:20240801T153000Z
+DTEND:20240801T161400Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Single Final\n🇦🇹 Felix
+  OSCHMAUTZ\n🇮🇹 Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub
+  GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇩🇪
+  Noah HEGGE\n🇪🇸 Pau ECHANIZ\n🇨🇳 QUAN Xin\n🇦🇺 Timothy ANDERSON\n🇫🇷
+  Titouan CASTRYCK
+SUMMARY:🛶 Men's Kayak Single Final
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T183800Z-swimming-MENS-200M-BACKSTROKE-FINAL

@@ -39,4 +39,13 @@ DESCRIPTION:Триатлон - Личный зачет (м)\n🇨🇭 Adrien BRI
 SUMMARY:🏊 Личный зачет (м)
 LOCATION:Мост Александра III
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T150000Z-judo--100--AZE-GEO
+DTSTAMP:20240801T150000Z
+DTSTART:20240801T150000Z
+DTEND:20240801T150600Z
+DESCRIPTION:Дзюдо - Финал, до 100кг (м)
+SUMMARY:🥋 Zelym KOTSOIEV 🇦🇿 - 🇬🇪 Ilia SULAMANIDZE
+LOCATION:Арена «Марсово поле»
+END:VEVENT
 END:VCALENDAR
