@@ -152,4 +152,14 @@ DESCRIPTION:Equestrian - Jumping Team Qualifier\n🇦🇺 AUS\n🇦🇹 AUT\n�
 SUMMARY:🏇 Jumping Team Qualifier
 LOCATION:Château de Versailles
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T120000Z-equestrian-JUMPING-TEAM-FINAL
+DTSTAMP:20240802T120000Z
+DTSTART:20240802T120000Z
+DTEND:20240802T134100Z
+DESCRIPTION:Equestrian - Jumping Team Final\n🇧🇪 BEL\n🇫🇷 FRA\n🇩🇪
+  GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇱 ISR\n🇲🇽 MEX\n🇳🇱 NED\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏇 Jumping Team Final
+LOCATION:Château de Versailles
+END:VEVENT
 END:VCALENDAR
