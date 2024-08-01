@@ -62,4 +62,13 @@ DESCRIPTION:Триатлон - Личный зачет (м)\n🇨🇭 Adrien BRI
 SUMMARY:🏊 Личный зачет (м)
 LOCATION:Мост Александра III
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T144800Z-judo--100-
+DTSTAMP:20240801T144800Z
+DTSTART:20240801T144800Z
+DTEND:20240801T145400Z
+DESCRIPTION:Дзюдо - Поединок за бронзу А, до 100кг (м)\n🇮🇱 Peter PALTCHIK
+SUMMARY:🥋 Поединок за бронзу А, до 100кг (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
 END:VCALENDAR
