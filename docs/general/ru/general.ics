@@ -18800,21 +18800,21 @@ SUMMARY:🏹 Brady ELLISON 🇺🇸 - 🇨🇳 KAO Wenchao
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T094200Z-judo--78--ISR-NED
+DTSTAMP:20240801T094200Z
+DTSTART:20240801T094200Z
+DTEND:20240801T094800Z
+DESCRIPTION:Дзюдо - Четвертьфинал, до 78кг (ж)
+SUMMARY:🥋 Inbar LANIR 🇮🇱 - 🇳🇱 Guusje STEENHUIS
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T094200Z-judo--100--AZE-ISR
 DTSTAMP:20240801T094200Z
 DTSTART:20240801T094200Z
 DTEND:20240801T094800Z
 DESCRIPTION:Дзюдо - Четвертьфинал, до 100кг (м)
 SUMMARY:🥋 Zelym KOTSOIEV 🇦🇿 - 🇮🇱 Peter PALTCHIK
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T094200Z-judo--78-
-DTSTAMP:20240801T094200Z
-DTSTART:20240801T094200Z
-DTEND:20240801T094800Z
-DESCRIPTION:Дзюдо - Четвертьфинал, до 78кг (ж)\n🇮🇱 Inbar LANIR
-SUMMARY:🥋 Четвертьфинал, до 78кг (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -18835,12 +18835,12 @@ SUMMARY:🏊 200м комплексом, квалификация (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T094800Z-judo--100-
+UID:20240801T094800Z-judo--100--UZB-NED
 DTSTAMP:20240801T094800Z
 DTSTART:20240801T094800Z
 DTEND:20240801T095400Z
-DESCRIPTION:Дзюдо - Четвертьфинал, до 100кг (м)\n🇺🇿 Muzaffarbek TUROBOYEV
-SUMMARY:🥋 Четвертьфинал, до 100кг (м)
+DESCRIPTION:Дзюдо - Четвертьфинал, до 100кг (м)
+SUMMARY:🥋 Muzaffarbek TUROBOYEV 🇺🇿 - 🇳🇱 Michael KORREL
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -18914,7 +18914,7 @@ UID:20240801T095400Z-judo--100-
 DTSTAMP:20240801T095400Z
 DTSTART:20240801T095400Z
 DTEND:20240801T100000Z
-DESCRIPTION:Дзюдо - Четвертьфинал, до 100кг (м)
+DESCRIPTION:Дзюдо - Четвертьфинал, до 100кг (м)\n🇬🇪 Ilia SULAMANIDZE
 SUMMARY:🥋 Четвертьфинал, до 100кг (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
