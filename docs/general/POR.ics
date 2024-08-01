@@ -485,6 +485,15 @@ SUMMARY:🥋 Zeddy CHEROTICH 🇰🇪 - 🇵🇹 Patricia SAMPAIO
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T085400Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-16-FRA-POR
+DTSTAMP:20240801T085400Z
+DTSTART:20240801T085400Z
+DTEND:20240801T090000Z
+DESCRIPTION:Judo - Women -78 kg Elimination Round of 16
+SUMMARY:🥋 Madeleine MALONGA 🇫🇷 - 🇵🇹 Patricia SAMPAIO
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T090000Z-swimming-WOMENS-200M-BACKSTROKE-HEATS
 DTSTAMP:20240801T090000Z
 DTSTART:20240801T090000Z
@@ -714,6 +723,20 @@ DESCRIPTION:Sailing - Men's Dinghy - Race 4\n🇪🇬 Aly BADAWY\n🇹🇭 Arthi
   ZELKO
 SUMMARY:⛵ Men's Dinghy - Race 4
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T160000Z-trampoline-gymnastics-MENS-QUALIFICATION
+DTSTAMP:20240802T160000Z
+DTSTART:20240802T160000Z
+DTEND:20240802T173000Z
+DESCRIPTION:Trampoline Gymnastics - Men's Qualification\n🇺🇸 Aliaksei
+  SHOSTAK\n🇨🇴 Angel HERNANDEZ\n🇦🇹 Benny WIZANI\n🇦🇺 Brock BATTY\n🇰🇿
+  Danil MUSSABAYEV\n🇪🇸 David VEGA\n🇳🇿 Dylan SCHMIDT\n🇩🇪 Fabian
+  VOGEL\n🇵🇹 Gabriel ALBUQUERQUE\n🇯🇵 NISHIOKA Ryusei\n🇫🇷 Pierre
+  GOUZOU\n🇧🇷 Rayan DUTRA\n🇨🇳 WANG Zisai\n🇨🇳 YAN Langyu\n🇬🇧 Zak
+  PERZAMANOS
+SUMMARY:🤸 Men's Qualification
+LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T161000Z-athletics-WOMENS-5000M-ROUND-1

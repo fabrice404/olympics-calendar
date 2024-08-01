@@ -18426,12 +18426,12 @@ SUMMARY:🚣 Двойки парные, финал B (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T084800Z-judo-18-78-
+UID:20240801T084800Z-judo-18-78--CHN-KOR
 DTSTAMP:20240801T084800Z
 DTSTART:20240801T084800Z
 DTEND:20240801T085400Z
-DESCRIPTION:Дзюдо - 1/8 финала, до 78кг (ж)\n🇨🇳 MA Zhenzhao
-SUMMARY:🥋 1/8 финала, до 78кг (ж)
+DESCRIPTION:Дзюдо - 1/8 финала, до 78кг (ж)
+SUMMARY:🥋 MA Zhenzhao 🇨🇳 - 🇰🇷 YOON Hyunji
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -18453,12 +18453,12 @@ SUMMARY:🏹 Brady ELLISON 🇺🇸 - 🇹🇷 Abdullah YILDIRMIS
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T085400Z-judo-18-78-
+UID:20240801T085400Z-judo-18-78--FRA-POR
 DTSTAMP:20240801T085400Z
 DTSTART:20240801T085400Z
 DTEND:20240801T090000Z
-DESCRIPTION:Дзюдо - 1/8 финала, до 78кг (ж)\n🇫🇷 Madeleine MALONGA
-SUMMARY:🥋 1/8 финала, до 78кг (ж)
+DESCRIPTION:Дзюдо - 1/8 финала, до 78кг (ж)
+SUMMARY:🥋 Madeleine MALONGA 🇫🇷 - 🇵🇹 Patricia SAMPAIO
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -18481,21 +18481,21 @@ SUMMARY:🚣 Четверки, финал B (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T090000Z-judo-18-100-
-DTSTAMP:20240801T090000Z
-DTSTART:20240801T090000Z
-DTEND:20240801T090600Z
-DESCRIPTION:Дзюдо - 1/8 финала, до 100кг (м)
-SUMMARY:🥋 1/8 финала, до 100кг (м)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T090000Z-judo-18-78-
 DTSTAMP:20240801T090000Z
 DTSTART:20240801T090000Z
 DTEND:20240801T090600Z
 DESCRIPTION:Дзюдо - 1/8 финала, до 78кг (ж)\n🇩🇪 Anna-Maria WAGNER
 SUMMARY:🥋 1/8 финала, до 78кг (ж)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T090000Z-judo-18-100--ISR-FRA
+DTSTAMP:20240801T090000Z
+DTSTART:20240801T090000Z
+DTEND:20240801T090600Z
+DESCRIPTION:Дзюдо - 1/8 финала, до 100кг (м)
+SUMMARY:🥋 Peter PALTCHIK 🇮🇱 - 🇫🇷 Aurelien DIESSE
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -22104,7 +22104,11 @@ UID:20240802T100000Z-trampoline-gymnastics--
 DTSTAMP:20240802T100000Z
 DTSTART:20240802T100000Z
 DTEND:20240802T113000Z
-DESCRIPTION:Прыжки на батуте - Квалификация (ж)
+DESCRIPTION:Прыжки на батуте - Квалификация (ж)\n🇬🇧 Bryony PAGE\n🇧🇷
+  Camilla GOMES\n🇨🇳 HU Yicheng\n🇬🇧 Isabelle SONGHURST\n🇺🇸 Jessica
+  STEVENS\n🇫🇷 Lea LABROUSSE\n🇬🇪 Luba GOLOVINA\n🇯🇵 MORI Hikaru\n🇳🇿
+  Madaline DAVIDSON\n🇪🇬 Malak HAMZA\n🇪🇸 Noemi ROMERO ROSARIO\n🇦🇿
+  Seljan MAHSUDOVA\n🇨🇦 Sophiane METHOT\n🇨🇳 ZHU Xueying
 SUMMARY:🤸 Квалификация (ж)
 LOCATION:Арена «Берси»
 END:VEVENT
@@ -23074,7 +23078,12 @@ UID:20240802T160000Z-trampoline-gymnastics--
 DTSTAMP:20240802T160000Z
 DTSTART:20240802T160000Z
 DTEND:20240802T173000Z
-DESCRIPTION:Прыжки на батуте - Квалификация (м)
+DESCRIPTION:Прыжки на батуте - Квалификация (м)\n🇺🇸 Aliaksei
+  SHOSTAK\n🇨🇴 Angel HERNANDEZ\n🇦🇹 Benny WIZANI\n🇦🇺 Brock BATTY\n🇰🇿
+  Danil MUSSABAYEV\n🇪🇸 David VEGA\n🇳🇿 Dylan SCHMIDT\n🇩🇪 Fabian
+  VOGEL\n🇵🇹 Gabriel ALBUQUERQUE\n🇯🇵 NISHIOKA Ryusei\n🇫🇷 Pierre
+  GOUZOU\n🇧🇷 Rayan DUTRA\n🇨🇳 WANG Zisai\n🇨🇳 YAN Langyu\n🇬🇧 Zak
+  PERZAMANOS
 SUMMARY:🤸 Квалификация (м)
 LOCATION:Арена «Берси»
 END:VEVENT

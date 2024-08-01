@@ -3728,6 +3728,19 @@ SUMMARY:🚣 Men's Pair Final A
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T100000Z-trampoline-gymnastics-WOMENS-QUALIFICATION
+DTSTAMP:20240802T100000Z
+DTSTART:20240802T100000Z
+DTEND:20240802T113000Z
+DESCRIPTION:Trampoline Gymnastics - Women's Qualification\n🇬🇧 Bryony
+  PAGE\n🇧🇷 Camilla GOMES\n🇨🇳 HU Yicheng\n🇬🇧 Isabelle SONGHURST\n🇺🇸
+  Jessica STEVENS\n🇫🇷 Lea LABROUSSE\n🇬🇪 Luba GOLOVINA\n🇯🇵 MORI
+  Hikaru\n🇳🇿 Madaline DAVIDSON\n🇪🇬 Malak HAMZA\n🇪🇸 Noemi ROMERO
+  ROSARIO\n🇦🇿 Seljan MAHSUDOVA\n🇨🇦 Sophiane METHOT\n🇨🇳 ZHU Xueying
+SUMMARY:🤸 Women's Qualification
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T100300Z-swimming-MIXED-4-X-100M-MEDLEY-RELAY-HEATS
 DTSTAMP:20240802T100300Z
 DTSTART:20240802T100300Z
@@ -3881,6 +3894,20 @@ DESCRIPTION:Sailing - Men's Dinghy - Race 4\n🇪🇬 Aly BADAWY\n🇹🇭 Arthi
   ZELKO
 SUMMARY:⛵ Men's Dinghy - Race 4
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T160000Z-trampoline-gymnastics-MENS-QUALIFICATION
+DTSTAMP:20240802T160000Z
+DTSTART:20240802T160000Z
+DTEND:20240802T173000Z
+DESCRIPTION:Trampoline Gymnastics - Men's Qualification\n🇺🇸 Aliaksei
+  SHOSTAK\n🇨🇴 Angel HERNANDEZ\n🇦🇹 Benny WIZANI\n🇦🇺 Brock BATTY\n🇰🇿
+  Danil MUSSABAYEV\n🇪🇸 David VEGA\n🇳🇿 Dylan SCHMIDT\n🇩🇪 Fabian
+  VOGEL\n🇵🇹 Gabriel ALBUQUERQUE\n🇯🇵 NISHIOKA Ryusei\n🇫🇷 Pierre
+  GOUZOU\n🇧🇷 Rayan DUTRA\n🇨🇳 WANG Zisai\n🇨🇳 YAN Langyu\n🇬🇧 Zak
+  PERZAMANOS
+SUMMARY:🤸 Men's Qualification
+LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T171000Z-athletics-4-X-400M-RELAY-MIXED-ROUND-1
