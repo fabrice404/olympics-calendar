@@ -1398,12 +1398,12 @@ SUMMARY:🤸 Многоборье, финал (ж)
 LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T171000Z-fencing--3-
+UID:20240801T171000Z-fencing--3--CAN-JPN
 DTSTAMP:20240801T171000Z
 DTSTART:20240801T171000Z
 DTEND:20240801T182000Z
-DESCRIPTION:Фехтование - Командная рапира, за 3-е место (ж)\n🇨🇦 Канада
-SUMMARY:🤺 Командная рапира, за 3-е место (ж)
+DESCRIPTION:Фехтование - Командная рапира, за 3-е место (ж)
+SUMMARY:🤺 Канада 🇨🇦 - 🇯🇵 Япония
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -1419,12 +1419,12 @@ SUMMARY:🏊 200м баттерфляем, финал (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T183000Z-fencing--
+UID:20240801T183000Z-fencing---ITA-USA
 DTSTAMP:20240801T183000Z
 DTSTART:20240801T183000Z
 DTEND:20240801T194000Z
-DESCRIPTION:Фехтование - Командная рапира, финал (ж)\n🇺🇸 США
-SUMMARY:🤺 Командная рапира, финал (ж)
+DESCRIPTION:Фехтование - Командная рапира, финал (ж)
+SUMMARY:🤺 Италия 🇮🇹 - 🇺🇸 США
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -1511,7 +1511,7 @@ UID:20240802T100000Z-tennis--
 DTSTAMP:20240802T100000Z
 DTSTART:20240802T100000Z
 DTEND:20240802T200000Z
-DESCRIPTION:Теннис - Матч за бронзу (микст)
+DESCRIPTION:Теннис - Матч за бронзу (микст)\n🇳🇱 SCHUURS/KOOLHOF
 SUMMARY:🎾 Матч за бронзу (микст)
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
@@ -1668,7 +1668,7 @@ UID:20240802T170000Z-tennis--
 DTSTAMP:20240802T170000Z
 DTSTART:20240802T170000Z
 DTEND:20240803T030000Z
-DESCRIPTION:Теннис - Финал (микст)
+DESCRIPTION:Теннис - Финал (микст)\n🇨🇳 WANG/ZHANG
 SUMMARY:🎾 Финал (микст)
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT

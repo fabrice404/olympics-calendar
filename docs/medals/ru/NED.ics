@@ -335,6 +335,15 @@ SUMMARY:🚣 Двойки, финал A (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T100000Z-tennis--
+DTSTAMP:20240802T100000Z
+DTSTART:20240802T100000Z
+DTEND:20240802T200000Z
+DESCRIPTION:Теннис - Матч за бронзу (микст)\n🇳🇱 SCHUURS/KOOLHOF
+SUMMARY:🎾 Матч за бронзу (микст)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T080000Z-equestrian--
 DTSTAMP:20240803T080000Z
 DTSTART:20240803T080000Z

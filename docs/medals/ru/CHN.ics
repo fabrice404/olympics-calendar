@@ -622,6 +622,15 @@ SUMMARY:🏊 Синхронный трамплин 3м, финал (м)
 LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T170000Z-tennis--
+DTSTAMP:20240802T170000Z
+DTSTART:20240802T170000Z
+DTEND:20240803T030000Z
+DESCRIPTION:Теннис - Финал (микст)\n🇨🇳 WANG/ZHANG
+SUMMARY:🎾 Финал (микст)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T100000Z-tennis--
 DTSTAMP:20240803T100000Z
 DTSTART:20240803T100000Z

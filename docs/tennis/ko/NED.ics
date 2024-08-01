@@ -120,4 +120,13 @@ DESCRIPTION:테니스 - 혼성 복식 준결승
 SUMMARY:🎾 SCHUURS/KOOLHOF 🇳🇱 - 🇨🇳 WANG/ZHANG
 LOCATION:롤랑가로스 스타디움
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100000Z-tennis--
+DTSTAMP:20240802T100000Z
+DTSTART:20240802T100000Z
+DTEND:20240802T200000Z
+DESCRIPTION:테니스 - 혼성 복식 동메달 결정전\n🇳🇱 SCHUURS/KOOLHOF
+SUMMARY:🎾 혼성 복식 동메달 결정전
+LOCATION:롤랑가로스 스타디움
+END:VEVENT
 END:VCALENDAR
