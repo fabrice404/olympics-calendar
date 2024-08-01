@@ -3064,21 +3064,21 @@ SUMMARY:🥋 Ilia SULAMANIDZE 🇬🇪 - 🇮🇹 Gennaro PIRELLI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T092400Z-judo--78--ITA-UKR
+DTSTAMP:20240801T092400Z
+DTSTART:20240801T092400Z
+DTEND:20240801T093000Z
+DESCRIPTION:Дзюдо - Четвертьфинал, до 78кг (ж)
+SUMMARY:🥋 Alice BELLANDI 🇮🇹 - 🇺🇦 Yelyzaveta LYTVYNENKO
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T092400Z-judo-18-100--POR-JPN
 DTSTAMP:20240801T092400Z
 DTSTART:20240801T092400Z
 DTEND:20240801T093000Z
 DESCRIPTION:Дзюдо - 1/8 финала, до 100кг (м)
 SUMMARY:🥋 Jorge FONSECA 🇵🇹 - 🇯🇵 WOLF Aaron
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T092400Z-judo--78-
-DTSTAMP:20240801T092400Z
-DTSTART:20240801T092400Z
-DTEND:20240801T093000Z
-DESCRIPTION:Дзюдо - Четвертьфинал, до 78кг (ж)\n🇮🇹 Alice BELLANDI
-SUMMARY:🥋 Четвертьфинал, до 78кг (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -3095,17 +3095,17 @@ UID:20240801T093000Z-judo--78-
 DTSTAMP:20240801T093000Z
 DTSTART:20240801T093000Z
 DTEND:20240801T093600Z
-DESCRIPTION:Дзюдо - Четвертьфинал, до 78кг (ж)
+DESCRIPTION:Дзюдо - Четвертьфинал, до 78кг (ж)\n🇨🇳 MA Zhenzhao
 SUMMARY:🥋 Четвертьфинал, до 78кг (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T093600Z-judo-18-100-
+UID:20240801T093600Z-judo-18-100--ESP-HUN
 DTSTAMP:20240801T093600Z
 DTSTART:20240801T093600Z
 DTEND:20240801T094200Z
-DESCRIPTION:Дзюдо - 1/8 финала, до 100кг (м)\n🇪🇸 Nikoloz SHERAZADISHVILI
-SUMMARY:🥋 1/8 финала, до 100кг (м)
+DESCRIPTION:Дзюдо - 1/8 финала, до 100кг (м)
+SUMMARY:🥋 Nikoloz SHERAZADISHVILI 🇪🇸 - 🇭🇺 Zsombor VEG
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
