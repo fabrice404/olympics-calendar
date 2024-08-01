@@ -935,13 +935,13 @@ DESCRIPTION:田径 - 女子100米预赛\n🇸🇲 Alessandra GASPARELLI\n🇸�
   Filomenaleonisa IAKOPO\n🇸🇱 Georgiana SESAY\n🇸🇹 Gorete SEMEDO\n🇧🇴
   Guadalupe TORREZ\n🇬🇩 Halle HAZZARD\n🇦🇫 Kimia YOUSOFI\n🇵🇬 Leonie
   BEU\n🇬🇪 Lika KHARCHILAVA\n🇸🇸 Lucia MORIS\n🇳🇮 Maria CARMONA\n🇦🇪
-  Mariam KAREEM\n🇬🇹 Mariandree CHACON\n🇲🇨 Marie-Charlotte GASTAUD\n🇴🇲
-  Mazoon AL ALAWI\n🇹🇬 Naomi AKAKPO\n🇨🇬 Natacha NGOYE\n🇬🇺 Regine
-  TUGADE-WATSON\n🇬🇳 Safiatou ACQUAVIVA\n🇲🇷 Salam Bouha AHAMDY\n🇳🇪
-  Samira AWALI BOUBACAR\n🇬🇶 Sefora ADA ETO\n🇶🇦 Shahd ASHRAF\n🇸🇧
-  Sharon FIRISUA\n🇱🇦 Silina PHA APHAY\n🇵🇼 Sydney FRANCISCO\n🇹🇻
-  Temalini MANATOA\n🇻🇳 Thi Nhi Yen TRAN\n🇹🇲 Valentina MEREDOVA\n🇵🇾
-  Xenia HIEBERT\n🇹🇼 ZHANG Bo-Ya\n🇰🇳 Zahria ALLERS-LIBURD
+  Mariam ALFARSI\n🇬🇹 Mariandree CHACON\n🇲🇨 Marie-Charlotte
+  GASTAUD\n🇴🇲 Mazoon AL ALAWI\n🇹🇬 Naomi AKAKPO\n🇨🇬 Natacha
+  NGOYE\n🇬🇺 Regine TUGADE-WATSON\n🇬🇳 Safiatou ACQUAVIVA\n🇲🇷 Salam
+  Bouha AHAMDY\n🇳🇪 Samira AWALI BOUBACAR\n🇬🇶 Sefora ADA ETO\n🇶🇦 Shahd
+  ASHRAF\n🇸🇧 Sharon FIRISUA\n🇱🇦 Silina PHA APHAY\n🇵🇼 Sydney
+  FRANCISCO\n🇹🇻 Temalini MANATOA\n🇻🇳 Thi Nhi Yen TRAN\n🇹🇲 Valentina
+  MEREDOVA\n🇵🇾 Xenia HIEBERT\n🇹🇼 ZHANG Bo-Ya\n🇰🇳 Zahria ALLERS-LIBURD
 SUMMARY:🏃 女子100米预赛
 LOCATION:法兰西体育场
 END:VEVENT
@@ -1022,6 +1022,15 @@ DESCRIPTION:皮划艇激流回旋 - 女子极限皮艇计时赛\n🇨🇭 Alena 
   Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
 SUMMARY:🛶 女子极限皮艇计时赛
 LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T075600Z-archery-18
+DTSTAMP:20240803T075600Z
+DTSTART:20240803T075600Z
+DTEND:20240803T080900Z
+DESCRIPTION:射箭 - 女子个人1/8淘汰赛\n🇹🇼 LEI Chien-Ying
+SUMMARY:🏹 女子个人1/8淘汰赛
+LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T153800Z-boxing-60--CHN-TPE
