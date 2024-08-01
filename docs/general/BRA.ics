@@ -2972,12 +2972,12 @@ SUMMARY:🥊 Lazizbek MULLOJONOV 🇺🇿 - 🇧🇷 Keno Marley MACHADO
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T200000Z-surfing-WOMENS-ROUND-3-HEAT-6-USA-BRA
+UID:20240801T200000Z-surfing-WOMENS-ROUND-3-HEAT-6-BRA-USA
 DTSTAMP:20240801T200000Z
 DTSTART:20240801T200000Z
 DTEND:20240801T203000Z
 DESCRIPTION:Surfing - Women's Round 3 - Heat 6
-SUMMARY:🏄 Caitlin SIMMERS 🇺🇸 - 🇧🇷 Tatiana WESTON-WEBB
+SUMMARY:🏄 Tatiana WESTON-WEBB 🇧🇷 - 🇺🇸 Caitlin SIMMERS
 LOCATION:Teahupo'o, Tahiti
 END:VEVENT
 BEGIN:VEVENT
@@ -2989,6 +2989,18 @@ DESCRIPTION:Swimming - Women's 4 x 200m Freestyle Relay Final\n🇦🇺
   AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇬🇧 GBR\n🇭🇺 HUN\n🇳🇿 NZL\n🇺🇸 USA
 SUMMARY:🏊 Women's 4 x 200m Freestyle Relay Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T201500Z-cycling-bmx-racing-WOMEN-LAST-CHANCE-RACE
+DTSTAMP:20240801T201500Z
+DTSTART:20240801T201500Z
+DTEND:20240801T202000Z
+DESCRIPTION:Cycling BMX Racing - Women, Last Chance Race\n🇧🇪 Aiko
+  GOMMERS\n🇨🇴 Gabriela BOLLE CARRILLO\n🇯🇵 HATAKEYAMA Sae\n🇳🇿 Leila
+  WALKER\n🇩🇰 Malene KEJLSTRUP\n🇨🇴 Mariana PAJON LONDONO\n🇧🇷 Paola
+  REIS SANTOS\n🇱🇻 Veronika Monika STURISKA
+SUMMARY:🚴 Women, Last Chance Race
+LOCATION:BMX Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T203600Z-surfing-WOMENS-ROUND-3-HEAT-7-BRA-BRA

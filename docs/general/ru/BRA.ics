@@ -2982,12 +2982,12 @@ SUMMARY:🥊 Lazizbek MULLOJONOV 🇺🇿 - 🇧🇷 Keno Marley MACHADO
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T200000Z-surfing--3-6--USA-BRA
+UID:20240801T200000Z-surfing--3-6--BRA-USA
 DTSTAMP:20240801T200000Z
 DTSTART:20240801T200000Z
 DTEND:20240801T203000Z
 DESCRIPTION:Серфинг - Раунд 3, заезд 6 (ж)
-SUMMARY:🏄 Caitlin SIMMERS 🇺🇸 - 🇧🇷 Tatiana WESTON-WEBB
+SUMMARY:🏄 Tatiana WESTON-WEBB 🇧🇷 - 🇺🇸 Caitlin SIMMERS
 LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
@@ -3000,6 +3000,18 @@ DESCRIPTION:Плавание - Эстафета 4x200м вольным стил�
   Канада\n🇨🇳 Китай\n🇳🇿 Новая Зеландия\n🇺🇸 США
 SUMMARY:🏊 Эстафета 4x200м вольным стилем, финал (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T201500Z-cycling-bmx-racing--
+DTSTAMP:20240801T201500Z
+DTSTART:20240801T201500Z
+DTEND:20240801T202000Z
+DESCRIPTION:ВМХ-гонки - Гонка последнего шанса (ж)\n🇧🇪 Aiko GOMMERS\n🇨🇴
+  Gabriela BOLLE CARRILLO\n🇯🇵 HATAKEYAMA Sae\n🇳🇿 Leila WALKER\n🇩🇰
+  Malene KEJLSTRUP\n🇨🇴 Mariana PAJON LONDONO\n🇧🇷 Paola REIS
+  SANTOS\n🇱🇻 Veronika Monika STURISKA
+SUMMARY:🚴 Гонка последнего шанса (ж)
+LOCATION:Стадион BMX
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T203600Z-surfing--3-7--BRA-BRA
