@@ -19464,12 +19464,12 @@ SUMMARY:🤺 Египет 🇪🇬 - 🇵🇱 Польша
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T114000Z-fencing--5-8-
+UID:20240801T114000Z-fencing--5-8--CHN-FRA
 DTSTAMP:20240801T114000Z
 DTSTART:20240801T114000Z
 DTEND:20240801T125000Z
-DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (ж)\n🇨🇳 Китай
-SUMMARY:🤺 Командная рапира, за 5-8 места (ж)
+DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (ж)
+SUMMARY:🤺 Китай 🇨🇳 - 🇫🇷 Франция
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -19608,12 +19608,12 @@ SUMMARY:🤺 Италия 🇮🇹 - 🇯🇵 Япония
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T125000Z-fencing--2-
+UID:20240801T125000Z-fencing--2--CAN-USA
 DTSTAMP:20240801T125000Z
 DTSTART:20240801T125000Z
 DTEND:20240801T140000Z
-DESCRIPTION:Фехтование - Командная рапира, полуфинал 2 (ж)\n🇺🇸 США
-SUMMARY:🤺 Командная рапира, полуфинал 2 (ж)
+DESCRIPTION:Фехтование - Командная рапира, полуфинал 2 (ж)
+SUMMARY:🤺 Канада 🇨🇦 - 🇺🇸 США
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -25723,13 +25723,12 @@ SUMMARY:🏹 1/8 финала, индивидуальные (м)
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T084800Z-archery-18-
+UID:20240804T084800Z-archery-18--GER-GBR
 DTSTAMP:20240804T084800Z
 DTSTART:20240804T084800Z
 DTEND:20240804T090100Z
-DESCRIPTION:Стрельба из лука - 1/8 финала, индивидуальные (м)\n🇬🇧 Tom
-  HALL
-SUMMARY:🏹 1/8 финала, индивидуальные (м)
+DESCRIPTION:Стрельба из лука - 1/8 финала, индивидуальные (м)
+SUMMARY:🏹 Florian UNRUH 🇩🇪 - 🇬🇧 Tom HALL
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
@@ -25995,7 +25994,7 @@ UID:20240804T103600Z-boxing--635-
 DTSTAMP:20240804T103600Z
 DTSTART:20240804T103600Z
 DTEND:20240804T104700Z
-DESCRIPTION:Бокс - Полуфинал, до 63,5кг (м)
+DESCRIPTION:Бокс - Полуфинал, до 63,5кг (м)\n🇨🇦 Wyatt SANFORD
 SUMMARY:🥊 Полуфинал, до 63,5кг (м)
 LOCATION:Арена «Париж-Север»
 END:VEVENT
