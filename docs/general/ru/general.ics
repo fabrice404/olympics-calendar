@@ -18900,22 +18900,21 @@ SUMMARY:🤺 Япония 🇯🇵 - 🇵🇱 Польша
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T095300Z-archery-116-
+UID:20240801T095300Z-archery-116--UKR-MEX
 DTSTAMP:20240801T095300Z
 DTSTART:20240801T095300Z
 DTEND:20240801T100600Z
-DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)\n🇺🇦
-  Veronika MARCHENKO
-SUMMARY:🏹 1/16 финала, индивидуальные (ж)
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)
+SUMMARY:🏹 Veronika MARCHENKO 🇺🇦 - 🇲🇽 Alejandra VALENCIA
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T095400Z-judo--100-
+UID:20240801T095400Z-judo--100--GEO-JPN
 DTSTAMP:20240801T095400Z
 DTSTART:20240801T095400Z
 DTEND:20240801T100000Z
-DESCRIPTION:Дзюдо - Четвертьфинал, до 100кг (м)\n🇬🇪 Ilia SULAMANIDZE
-SUMMARY:🥋 Четвертьфинал, до 100кг (м)
+DESCRIPTION:Дзюдо - Четвертьфинал, до 100кг (м)
+SUMMARY:🥋 Ilia SULAMANIDZE 🇬🇪 - 🇯🇵 WOLF Aaron
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -24915,7 +24914,8 @@ UID:20240803T145000Z-boxing--50-
 DTSTAMP:20240803T145000Z
 DTSTART:20240803T145000Z
 DTEND:20240803T150100Z
-DESCRIPTION:Бокс - Четвертьфинал, до 50кг (ж)
+DESCRIPTION:Бокс - Четвертьфинал, до 50кг (ж)\n🇨🇴 Ingrit Lorena VALENCIA
+  VICTORIA
 SUMMARY:🥊 Четвертьфинал, до 50кг (ж)
 LOCATION:Арена «Париж-Север»
 END:VEVENT
