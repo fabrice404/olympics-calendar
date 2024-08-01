@@ -19251,7 +19251,8 @@ UID:20240801T105800Z-archery-116-
 DTSTAMP:20240801T105800Z
 DTSTART:20240801T105800Z
 DTEND:20240801T111100Z
-DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (м)
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (м)\n🇩🇪
+  Florian UNRUH
 SUMMARY:🏹 1/16 финала, индивидуальные (м)
 LOCATION:Дом инвалидов
 END:VEVENT
@@ -19468,7 +19469,7 @@ UID:20240801T114000Z-fencing--5-8-
 DTSTAMP:20240801T114000Z
 DTSTART:20240801T114000Z
 DTEND:20240801T125000Z
-DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (ж)
+DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (ж)\n🇪🇬 Египет
 SUMMARY:🤺 Командная рапира, за 5-8 места (ж)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -19603,7 +19604,7 @@ UID:20240801T125000Z-fencing--1-
 DTSTAMP:20240801T125000Z
 DTSTART:20240801T125000Z
 DTEND:20240801T140000Z
-DESCRIPTION:Фехтование - Командная рапира, полуфинал 1 (ж)
+DESCRIPTION:Фехтование - Командная рапира, полуфинал 1 (ж)\n🇮🇹 Италия
 SUMMARY:🤺 Командная рапира, полуфинал 1 (ж)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -19749,12 +19750,12 @@ SUMMARY:🏹 Caroline LOPEZ 🇫🇷 - 🇦🇺 Laura PAEGLIS
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T140000Z-judo--100-
+UID:20240801T140000Z-judo--100--ISR-NED
 DTSTAMP:20240801T140000Z
 DTSTART:20240801T140000Z
 DTEND:20240801T140600Z
 DESCRIPTION:Дзюдо - Утешительный поединок, до 100кг (м)
-SUMMARY:🥋 Утешительный поединок, до 100кг (м)
+SUMMARY:🥋 Peter PALTCHIK 🇮🇱 - 🇳🇱 Michael KORREL
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -19839,12 +19840,12 @@ SUMMARY:🥋 Полуфинал В, до 100кг (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T141800Z-judo--100-
+UID:20240801T141800Z-judo--100--AZE-UZB
 DTSTAMP:20240801T141800Z
 DTSTART:20240801T141800Z
 DTEND:20240801T142400Z
 DESCRIPTION:Дзюдо - Полуфинал А, до 100кг (м)
-SUMMARY:🥋 Полуфинал А, до 100кг (м)
+SUMMARY:🥋 Zelym KOTSOIEV 🇦🇿 - 🇺🇿 Muzaffarbek TUROBOYEV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -20848,7 +20849,12 @@ UID:20240801T191900Z-swimming-200-
 DTSTAMP:20240801T191900Z
 DTSTART:20240801T191900Z
 DTEND:20240801T193500Z
-DESCRIPTION:Плавание - 200м на спине, полуфиналы (ж)
+DESCRIPTION:Плавание - 200м на спине, полуфиналы (ж)\n🇪🇸 Africa ZAMORANO
+  SANZ\n🇮🇱 Anastasia GORBENKO\n🇪🇸 Carmen WEILER SASTRE\n🇭🇺 Dora
+  MOLNAR\n🇫🇷 Emma TEREBO\n🇭🇺 Eszter SZABO-FELTOTHY\n🇬🇧 Honey
+  OSRIN\n🇬🇧 Katie SHANAHAN\n🇦🇺 Kaylee McKEOWN\n🇨🇦 Kylie MASSE\n🇰🇷
+  LEE Eunji\n🇨🇳 PENG Xuwei\n🇫🇷 Pauline MAHIEU\n🇺🇸 Phoebe BACON\n🇺🇸
+  Regan SMITH
 SUMMARY:🏊 200м на спине, полуфиналы (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
@@ -24964,12 +24970,12 @@ SUMMARY:⛵ Швертбот, гонка 03 (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T150600Z-boxing--66-
+UID:20240803T150600Z-boxing--66--TUR-THA
 DTSTAMP:20240803T150600Z
 DTSTART:20240803T150600Z
 DTEND:20240803T151700Z
-DESCRIPTION:Бокс - Четвертьфинал, до 66кг (ж)\n🇹🇷 Busenaz SURMENELI
-SUMMARY:🥊 Четвертьфинал, до 66кг (ж)
+DESCRIPTION:Бокс - Четвертьфинал, до 66кг (ж)
+SUMMARY:🥊 Busenaz SURMENELI 🇹🇷 - 🇹🇭 Janjaem SUWANNAPHENG
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
@@ -24995,7 +25001,7 @@ UID:20240803T152200Z-boxing--66-
 DTSTAMP:20240803T152200Z
 DTSTART:20240803T152200Z
 DTEND:20240803T153300Z
-DESCRIPTION:Бокс - Четвертьфинал, до 66кг (ж)
+DESCRIPTION:Бокс - Четвертьфинал, до 66кг (ж)\n🇩🇿 Imane KHELIF
 SUMMARY:🥊 Четвертьфинал, до 66кг (ж)
 LOCATION:Арена «Париж-Север»
 END:VEVENT

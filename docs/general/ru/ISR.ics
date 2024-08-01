@@ -1429,6 +1429,15 @@ SUMMARY:⛵ Швертбот, гонка 01 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T140000Z-judo--100--ISR-NED
+DTSTAMP:20240801T140000Z
+DTSTART:20240801T140000Z
+DTEND:20240801T140600Z
+DESCRIPTION:Дзюдо - Утешительный поединок, до 100кг (м)
+SUMMARY:🥋 Peter PALTCHIK 🇮🇱 - 🇳🇱 Michael KORREL
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T143600Z-judo--B-78--GER-ISR
 DTSTAMP:20240801T143600Z
 DTSTART:20240801T143600Z
@@ -1616,6 +1625,20 @@ DESCRIPTION:Парусный спорт - Виндсерфинг, марафон
   KOERDEL\n🇯🇵 TOMIZAWA Makoto\n🇮🇱 Tom REUVENY\n🇬🇷 Vyron KOKKALANIS
 SUMMARY:⛵ Виндсерфинг, марафон (м)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T191900Z-swimming-200-
+DTSTAMP:20240801T191900Z
+DTSTART:20240801T191900Z
+DTEND:20240801T193500Z
+DESCRIPTION:Плавание - 200м на спине, полуфиналы (ж)\n🇪🇸 Africa ZAMORANO
+  SANZ\n🇮🇱 Anastasia GORBENKO\n🇪🇸 Carmen WEILER SASTRE\n🇭🇺 Dora
+  MOLNAR\n🇫🇷 Emma TEREBO\n🇭🇺 Eszter SZABO-FELTOTHY\n🇬🇧 Honey
+  OSRIN\n🇬🇧 Katie SHANAHAN\n🇦🇺 Kaylee McKEOWN\n🇨🇦 Kylie MASSE\n🇰🇷
+  LEE Eunji\n🇨🇳 PENG Xuwei\n🇫🇷 Pauline MAHIEU\n🇺🇸 Phoebe BACON\n🇺🇸
+  Regan SMITH
+SUMMARY:🏊 200м на спине, полуфиналы (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T090000Z-swimming-100-
