@@ -20940,7 +20940,7 @@ DTSTAMP:20240801T203600Z
 DTSTART:20240801T203600Z
 DTEND:20240801T210600Z
 DESCRIPTION:Surfing - Women's Round 3 - Heat 7
-SUMMARY:🏄 Luana SILVA 🇧🇷 - 🇧🇷 Taina HINCKEL
+SUMMARY:🏄 Taina HINCKEL 🇧🇷 - 🇧🇷 Luana SILVA
 LOCATION:Teahupo'o, Tahiti
 END:VEVENT
 BEGIN:VEVENT
@@ -22488,7 +22488,10 @@ UID:20240802T120300Z-sailing-WOMENS-WINDSURFING-QUARTERFINAL
 DTSTAMP:20240802T120300Z
 DTSTART:20240802T120300Z
 DTEND:20240802T120800Z
-DESCRIPTION:Sailing - Women's Windsurfing - Quarterfinal
+DESCRIPTION:Sailing - Women's Windsurfing - Quarterfinal\n🇫🇷 Helene
+  NOESMOEN\n🇨🇿 Katerina SVIKOVA\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen
+  BAZO GERMAN\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN
+  Zheng
 SUMMARY:⛵ Women's Windsurfing - Quarterfinal
 LOCATION:Marseille Marina
 END:VEVENT
@@ -22570,12 +22573,12 @@ SUMMARY:🏹 Mixed Team Quarterfinal
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T124300Z-sailing-WOMENS-WINDSURFING-SEMIFINAL
+UID:20240802T124300Z-sailing-WOMENS-WINDSURFING-SEMIFINAL-ISR-ITA
 DTSTAMP:20240802T124300Z
 DTSTART:20240802T124300Z
 DTEND:20240802T124800Z
 DESCRIPTION:Sailing - Women's Windsurfing - Semifinal
-SUMMARY:⛵ Women's Windsurfing - Semifinal
+SUMMARY:⛵ Sharon KANTOR 🇮🇱 - 🇮🇹 Marta MAGGETTI
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -22693,7 +22696,7 @@ UID:20240802T133300Z-sailing-WOMENS-WINDSURFING-FINAL
 DTSTAMP:20240802T133300Z
 DTSTART:20240802T133300Z
 DTEND:20240802T133800Z
-DESCRIPTION:Sailing - Women's Windsurfing - Final
+DESCRIPTION:Sailing - Women's Windsurfing - Final\n🇬🇧 Emma WILSON
 SUMMARY:⛵ Women's Windsurfing - Final
 LOCATION:Marseille Marina
 END:VEVENT
@@ -23453,7 +23456,9 @@ UID:20240802T183000Z-swimming-MENS-50M-FREESTYLE-FINAL
 DTSTAMP:20240802T183000Z
 DTSTART:20240802T183000Z
 DTEND:20240802T183600Z
-DESCRIPTION:Swimming - Men's 50m Freestyle Final
+DESCRIPTION:Swimming - Men's 50m Freestyle Final\n🇬🇧 Benjamin PROUD\n🇺🇸
+  Caeleb DRESSEL\n🇦🇺 Cameron McEVOY\n🇫🇷 Florent MANAUDOU\n🇰🇾 Jordan
+  CROOKS\n🇨🇦 Josh LIENDO\n🇬🇷 Kristian GKOLOMEEV\n🇮🇹 Leonardo DEPLANO
 SUMMARY:🏊 Men's 50m Freestyle Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -23489,7 +23494,9 @@ UID:20240802T183600Z-swimming-WOMENS-200M-BACKSTROKE-FINAL
 DTSTAMP:20240802T183600Z
 DTSTART:20240802T183600Z
 DTEND:20240802T184300Z
-DESCRIPTION:Swimming - Women's 200m Backstroke Final
+DESCRIPTION:Swimming - Women's 200m Backstroke Final\n🇬🇧 Honey
+  OSRIN\n🇬🇧 Katie SHANAHAN\n🇦🇺 Kaylee McKEOWN\n🇨🇦 Kylie MASSE\n🇨🇳
+  PENG Xuwei\n🇺🇸 Phoebe BACON\n🇺🇸 Regan SMITH
 SUMMARY:🏊 Women's 200m Backstroke Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -23498,7 +23505,9 @@ UID:20240802T184300Z-swimming-MENS-200M-INDIVIDUAL-MEDLEY-FINAL
 DTSTAMP:20240802T184300Z
 DTSTART:20240802T184300Z
 DTEND:20240802T185000Z
-DESCRIPTION:Swimming - Men's 200m Individual Medley Final
+DESCRIPTION:Swimming - Men's 200m Individual Medley Final\n🇮🇹 Alberto
+  RAZZETTI\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇨🇦 Finlay KNOX\n🇫🇷
+  Leon MARCHAND\n🇯🇵 SETO Daiya\n🇬🇧 Tom DEAN\n🇨🇳 WANG Shun
 SUMMARY:🏊 Men's 200m Individual Medley Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -26704,12 +26713,12 @@ SUMMARY:🏑 Men's Quarter-final
 LOCATION:Yves-du-Manoir Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T153800Z-boxing-MENS-92KG-SEMIFINAL
+UID:20240804T153800Z-boxing-MENS-92KG-SEMIFINAL-UZB-TJK
 DTSTAMP:20240804T153800Z
 DTSTART:20240804T153800Z
 DTEND:20240804T154900Z
-DESCRIPTION:Boxing - Men's 92kg - Semifinal\n🇺🇿 Lazizbek MULLOJONOV
-SUMMARY:🥊 Men's 92kg - Semifinal
+DESCRIPTION:Boxing - Men's 92kg - Semifinal
+SUMMARY:🥊 Lazizbek MULLOJONOV 🇺🇿 - 🇹🇯 Davlat BOLTAEV
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT

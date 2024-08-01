@@ -1271,7 +1271,10 @@ UID:20240802T120300Z-sailing-WOMENS-WINDSURFING-QUARTERFINAL
 DTSTAMP:20240802T120300Z
 DTSTART:20240802T120300Z
 DTEND:20240802T120800Z
-DESCRIPTION:Sailing - Women's Windsurfing - Quarterfinal
+DESCRIPTION:Sailing - Women's Windsurfing - Quarterfinal\n🇫🇷 Helene
+  NOESMOEN\n🇨🇿 Katerina SVIKOVA\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen
+  BAZO GERMAN\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN
+  Zheng
 SUMMARY:⛵ Women's Windsurfing - Quarterfinal
 LOCATION:Marseille Marina
 END:VEVENT
@@ -1308,12 +1311,12 @@ SUMMARY:⛵ Men's Windsurfing - Quarterfinal
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T124300Z-sailing-WOMENS-WINDSURFING-SEMIFINAL
+UID:20240802T124300Z-sailing-WOMENS-WINDSURFING-SEMIFINAL-ISR-ITA
 DTSTAMP:20240802T124300Z
 DTSTART:20240802T124300Z
 DTEND:20240802T124800Z
 DESCRIPTION:Sailing - Women's Windsurfing - Semifinal
-SUMMARY:⛵ Women's Windsurfing - Semifinal
+SUMMARY:⛵ Sharon KANTOR 🇮🇱 - 🇮🇹 Marta MAGGETTI
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -1330,7 +1333,7 @@ UID:20240802T133300Z-sailing-WOMENS-WINDSURFING-FINAL
 DTSTAMP:20240802T133300Z
 DTSTART:20240802T133300Z
 DTEND:20240802T133800Z
-DESCRIPTION:Sailing - Women's Windsurfing - Final
+DESCRIPTION:Sailing - Women's Windsurfing - Final\n🇬🇧 Emma WILSON
 SUMMARY:⛵ Women's Windsurfing - Final
 LOCATION:Marseille Marina
 END:VEVENT

@@ -4909,6 +4909,18 @@ SUMMARY:⛵ Mixed Dinghy - Race 2
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T120300Z-sailing-WOMENS-WINDSURFING-QUARTERFINAL
+DTSTAMP:20240802T120300Z
+DTSTART:20240802T120300Z
+DTEND:20240802T120800Z
+DESCRIPTION:Sailing - Women's Windsurfing - Quarterfinal\n🇫🇷 Helene
+  NOESMOEN\n🇨🇿 Katerina SVIKOVA\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen
+  BAZO GERMAN\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN
+  Zheng
+SUMMARY:⛵ Women's Windsurfing - Quarterfinal
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T122100Z-sailing-WOMENS-DINGHY-RACE-4
 DTSTAMP:20240802T122100Z
 DTSTART:20240802T122100Z
@@ -5086,6 +5098,28 @@ DESCRIPTION:Athletics - Women's Discus Throw Qualification - Group B\n🇲🇩
   KAMGA\n🇺🇸 Veronica FRALEY
 SUMMARY:🏃 Women's Discus Throw Qualification - Group B
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T183600Z-swimming-WOMENS-200M-BACKSTROKE-FINAL
+DTSTAMP:20240802T183600Z
+DTSTART:20240802T183600Z
+DTEND:20240802T184300Z
+DESCRIPTION:Swimming - Women's 200m Backstroke Final\n🇬🇧 Honey
+  OSRIN\n🇬🇧 Katie SHANAHAN\n🇦🇺 Kaylee McKEOWN\n🇨🇦 Kylie MASSE\n🇨🇳
+  PENG Xuwei\n🇺🇸 Phoebe BACON\n🇺🇸 Regan SMITH
+SUMMARY:🏊 Women's 200m Backstroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T184300Z-swimming-MENS-200M-INDIVIDUAL-MEDLEY-FINAL
+DTSTAMP:20240802T184300Z
+DTSTART:20240802T184300Z
+DTEND:20240802T185000Z
+DESCRIPTION:Swimming - Men's 200m Individual Medley Final\n🇮🇹 Alberto
+  RAZZETTI\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇨🇦 Finlay KNOX\n🇫🇷
+  Leon MARCHAND\n🇯🇵 SETO Daiya\n🇬🇧 Tom DEAN\n🇨🇳 WANG Shun
+SUMMARY:🏊 Men's 200m Individual Medley Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T203500Z-3x3-basketball-MENS-POOL-ROUND-CHN-USA

@@ -20993,7 +20993,7 @@ DTSTAMP:20240801T203600Z
 DTSTART:20240801T203600Z
 DTEND:20240801T210600Z
 DESCRIPTION:Серфинг - Раунд 3, заезд 7 (ж)
-SUMMARY:🏄 Luana SILVA 🇧🇷 - 🇧🇷 Taina HINCKEL
+SUMMARY:🏄 Taina HINCKEL 🇧🇷 - 🇧🇷 Luana SILVA
 LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
@@ -22551,7 +22551,10 @@ UID:20240802T120300Z-sailing--14-
 DTSTAMP:20240802T120300Z
 DTSTART:20240802T120300Z
 DTEND:20240802T120800Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, 1/4 финала (ж)
+DESCRIPTION:Парусный спорт - Виндсерфинг, 1/4 финала (ж)\n🇫🇷 Helene
+  NOESMOEN\n🇨🇿 Katerina SVIKOVA\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen
+  BAZO GERMAN\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN
+  Zheng
 SUMMARY:⛵ Виндсерфинг, 1/4 финала (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
@@ -22633,12 +22636,12 @@ SUMMARY:🏹 1/4 финала, команды (микст)
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T124300Z-sailing--
+UID:20240802T124300Z-sailing---ISR-ITA
 DTSTAMP:20240802T124300Z
 DTSTART:20240802T124300Z
 DTEND:20240802T124800Z
 DESCRIPTION:Парусный спорт - Виндсерфинг, полуфинал (ж)
-SUMMARY:⛵ Виндсерфинг, полуфинал (ж)
+SUMMARY:⛵ Sharon KANTOR 🇮🇱 - 🇮🇹 Marta MAGGETTI
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
@@ -22756,7 +22759,7 @@ UID:20240802T133300Z-sailing--
 DTSTAMP:20240802T133300Z
 DTSTART:20240802T133300Z
 DTEND:20240802T133800Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, финал (ж)
+DESCRIPTION:Парусный спорт - Виндсерфинг, финал (ж)\n🇬🇧 Emma WILSON
 SUMMARY:⛵ Виндсерфинг, финал (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
@@ -23519,7 +23522,10 @@ UID:20240802T183000Z-swimming-50-
 DTSTAMP:20240802T183000Z
 DTSTART:20240802T183000Z
 DTEND:20240802T183600Z
-DESCRIPTION:Плавание - 50м вольным стилем, финал (м)
+DESCRIPTION:Плавание - 50м вольным стилем, финал (м)\n🇬🇧 Benjamin
+  PROUD\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron McEVOY\n🇫🇷 Florent
+  MANAUDOU\n🇰🇾 Jordan CROOKS\n🇨🇦 Josh LIENDO\n🇬🇷 Kristian
+  GKOLOMEEV\n🇮🇹 Leonardo DEPLANO
 SUMMARY:🏊 50м вольным стилем, финал (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
@@ -23555,7 +23561,9 @@ UID:20240802T183600Z-swimming-200-
 DTSTAMP:20240802T183600Z
 DTSTART:20240802T183600Z
 DTEND:20240802T184300Z
-DESCRIPTION:Плавание - 200м на спине, финал (ж)
+DESCRIPTION:Плавание - 200м на спине, финал (ж)\n🇬🇧 Honey OSRIN\n🇬🇧
+  Katie SHANAHAN\n🇦🇺 Kaylee McKEOWN\n🇨🇦 Kylie MASSE\n🇨🇳 PENG
+  Xuwei\n🇺🇸 Phoebe BACON\n🇺🇸 Regan SMITH
 SUMMARY:🏊 200м на спине, финал (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
@@ -23564,7 +23572,9 @@ UID:20240802T184300Z-swimming-200-
 DTSTAMP:20240802T184300Z
 DTSTART:20240802T184300Z
 DTEND:20240802T185000Z
-DESCRIPTION:Плавание - 200м комплексом, финал (м)
+DESCRIPTION:Плавание - 200м комплексом, финал (м)\n🇮🇹 Alberto
+  RAZZETTI\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇨🇦 Finlay KNOX\n🇫🇷
+  Leon MARCHAND\n🇯🇵 SETO Daiya\n🇬🇧 Tom DEAN\n🇨🇳 WANG Shun
 SUMMARY:🏊 200м комплексом, финал (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
@@ -26775,12 +26785,12 @@ SUMMARY:🏑 Четвертьфинал (м)
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T153800Z-boxing--92-
+UID:20240804T153800Z-boxing--92--UZB-TJK
 DTSTAMP:20240804T153800Z
 DTSTART:20240804T153800Z
 DTEND:20240804T154900Z
-DESCRIPTION:Бокс - Полуфинал, до 92кг (м)\n🇺🇿 Lazizbek MULLOJONOV
-SUMMARY:🥊 Полуфинал, до 92кг (м)
+DESCRIPTION:Бокс - Полуфинал, до 92кг (м)
+SUMMARY:🥊 Lazizbek MULLOJONOV 🇺🇿 - 🇹🇯 Davlat BOLTAEV
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT

@@ -4602,6 +4602,15 @@ SUMMARY:⛵ Швертбот, гонка 04 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T124300Z-sailing---ISR-ITA
+DTSTAMP:20240802T124300Z
+DTSTART:20240802T124300Z
+DTEND:20240802T124800Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, полуфинал (ж)
+SUMMARY:⛵ Sharon KANTOR 🇮🇱 - 🇮🇹 Marta MAGGETTI
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T133000Z-canoe-slalom--
 DTSTAMP:20240802T133000Z
 DTSTART:20240802T133000Z
@@ -4780,6 +4789,29 @@ DESCRIPTION:Легкая атлетика - Толкание ядра, квал�
   MUNOZ\n🇧🇷 Welington MORAIS\n🇮🇹 Zane WEIR
 SUMMARY:🏃 Толкание ядра, квалификация (м)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T183000Z-swimming-50-
+DTSTAMP:20240802T183000Z
+DTSTART:20240802T183000Z
+DTEND:20240802T183600Z
+DESCRIPTION:Плавание - 50м вольным стилем, финал (м)\n🇬🇧 Benjamin
+  PROUD\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron McEVOY\n🇫🇷 Florent
+  MANAUDOU\n🇰🇾 Jordan CROOKS\n🇨🇦 Josh LIENDO\n🇬🇷 Kristian
+  GKOLOMEEV\n🇮🇹 Leonardo DEPLANO
+SUMMARY:🏊 50м вольным стилем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T184300Z-swimming-200-
+DTSTAMP:20240802T184300Z
+DTSTART:20240802T184300Z
+DTEND:20240802T185000Z
+DESCRIPTION:Плавание - 200м комплексом, финал (м)\n🇮🇹 Alberto
+  RAZZETTI\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇨🇦 Finlay KNOX\n🇫🇷
+  Leon MARCHAND\n🇯🇵 SETO Daiya\n🇬🇧 Tom DEAN\n🇨🇳 WANG Shun
+SUMMARY:🏊 200м комплексом, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T064200Z-judo-116--ITA-HUN

@@ -4058,6 +4058,15 @@ SUMMARY:🛶 Экстрим-слалом, раздельный старт (м)
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T133300Z-sailing--
+DTSTAMP:20240802T133300Z
+DTSTART:20240802T133300Z
+DTEND:20240802T133800Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, финал (ж)\n🇬🇧 Emma WILSON
+SUMMARY:⛵ Виндсерфинг, финал (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T144000Z-canoe-slalom--
 DTSTAMP:20240802T144000Z
 DTSTART:20240802T144000Z
@@ -4157,6 +4166,40 @@ DTEND:20240802T194500Z
 DESCRIPTION:Хоккей на траве - Группа A (м)
 SUMMARY:🏑 Великобритания 🇬🇧 - 🇩🇪 Германия
 LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T183000Z-swimming-50-
+DTSTAMP:20240802T183000Z
+DTSTART:20240802T183000Z
+DTEND:20240802T183600Z
+DESCRIPTION:Плавание - 50м вольным стилем, финал (м)\n🇬🇧 Benjamin
+  PROUD\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron McEVOY\n🇫🇷 Florent
+  MANAUDOU\n🇰🇾 Jordan CROOKS\n🇨🇦 Josh LIENDO\n🇬🇷 Kristian
+  GKOLOMEEV\n🇮🇹 Leonardo DEPLANO
+SUMMARY:🏊 50м вольным стилем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T183600Z-swimming-200-
+DTSTAMP:20240802T183600Z
+DTSTART:20240802T183600Z
+DTEND:20240802T184300Z
+DESCRIPTION:Плавание - 200м на спине, финал (ж)\n🇬🇧 Honey OSRIN\n🇬🇧
+  Katie SHANAHAN\n🇦🇺 Kaylee McKEOWN\n🇨🇦 Kylie MASSE\n🇨🇳 PENG
+  Xuwei\n🇺🇸 Phoebe BACON\n🇺🇸 Regan SMITH
+SUMMARY:🏊 200м на спине, финал (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T184300Z-swimming-200-
+DTSTAMP:20240802T184300Z
+DTSTART:20240802T184300Z
+DTEND:20240802T185000Z
+DESCRIPTION:Плавание - 200м комплексом, финал (м)\n🇮🇹 Alberto
+  RAZZETTI\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇨🇦 Finlay KNOX\n🇫🇷
+  Leon MARCHAND\n🇯🇵 SETO Daiya\n🇬🇧 Tom DEAN\n🇨🇳 WANG Shun
+SUMMARY:🏊 200м комплексом, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T070000Z-shooting--1-

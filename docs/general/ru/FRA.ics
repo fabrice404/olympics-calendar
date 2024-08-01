@@ -5806,6 +5806,18 @@ SUMMARY:🏇 Командный конкур, финал
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T120300Z-sailing--14-
+DTSTAMP:20240802T120300Z
+DTSTART:20240802T120300Z
+DTEND:20240802T120800Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, 1/4 финала (ж)\n🇫🇷 Helene
+  NOESMOEN\n🇨🇿 Katerina SVIKOVA\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen
+  BAZO GERMAN\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN
+  Zheng
+SUMMARY:⛵ Виндсерфинг, 1/4 финала (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T120500Z-3x3-basketball---FRA-LAT
 DTSTAMP:20240802T120500Z
 DTSTART:20240802T120500Z
@@ -6063,6 +6075,29 @@ DTEND:20240802T181100Z
 DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 57кг (ж)
 SUMMARY:🥊 Amina ZIDANI 🇫🇷 - 🇵🇭 Nesthy PETECIO
 LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T183000Z-swimming-50-
+DTSTAMP:20240802T183000Z
+DTSTART:20240802T183000Z
+DTEND:20240802T183600Z
+DESCRIPTION:Плавание - 50м вольным стилем, финал (м)\n🇬🇧 Benjamin
+  PROUD\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron McEVOY\n🇫🇷 Florent
+  MANAUDOU\n🇰🇾 Jordan CROOKS\n🇨🇦 Josh LIENDO\n🇬🇷 Kristian
+  GKOLOMEEV\n🇮🇹 Leonardo DEPLANO
+SUMMARY:🏊 50м вольным стилем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T184300Z-swimming-200-
+DTSTAMP:20240802T184300Z
+DTSTART:20240802T184300Z
+DTEND:20240802T185000Z
+DESCRIPTION:Плавание - 200м комплексом, финал (м)\n🇮🇹 Alberto
+  RAZZETTI\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇨🇦 Finlay KNOX\n🇫🇷
+  Leon MARCHAND\n🇯🇵 SETO Daiya\n🇬🇧 Tom DEAN\n🇨🇳 WANG Shun
+SUMMARY:🏊 200м комплексом, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T185000Z-athletics--400-

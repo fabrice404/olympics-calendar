@@ -1273,7 +1273,10 @@ UID:20240802T120300Z-sailing--14-
 DTSTAMP:20240802T120300Z
 DTSTART:20240802T120300Z
 DTEND:20240802T120800Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, 1/4 финала (ж)
+DESCRIPTION:Парусный спорт - Виндсерфинг, 1/4 финала (ж)\n🇫🇷 Helene
+  NOESMOEN\n🇨🇿 Katerina SVIKOVA\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen
+  BAZO GERMAN\n🇩🇪 Theresa Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN
+  Zheng
 SUMMARY:⛵ Виндсерфинг, 1/4 финала (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
@@ -1310,12 +1313,12 @@ SUMMARY:⛵ Виндсерфинг, 1/4 финала (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T124300Z-sailing--
+UID:20240802T124300Z-sailing---ISR-ITA
 DTSTAMP:20240802T124300Z
 DTSTART:20240802T124300Z
 DTEND:20240802T124800Z
 DESCRIPTION:Парусный спорт - Виндсерфинг, полуфинал (ж)
-SUMMARY:⛵ Виндсерфинг, полуфинал (ж)
+SUMMARY:⛵ Sharon KANTOR 🇮🇱 - 🇮🇹 Marta MAGGETTI
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
@@ -1332,7 +1335,7 @@ UID:20240802T133300Z-sailing--
 DTSTAMP:20240802T133300Z
 DTSTART:20240802T133300Z
 DTEND:20240802T133800Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, финал (ж)
+DESCRIPTION:Парусный спорт - Виндсерфинг, финал (ж)\n🇬🇧 Emma WILSON
 SUMMARY:⛵ Виндсерфинг, финал (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
