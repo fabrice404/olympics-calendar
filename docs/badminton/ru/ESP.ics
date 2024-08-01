@@ -48,4 +48,13 @@ DESCRIPTION:Бадминтон - 1/8 финала, одиночный (ж)
 SUMMARY:🏸 Beiwen ZHANG 🇺🇸 - 🇪🇸 Carolina MARIN
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T063000Z-badminton-14-
+DTSTAMP:20240803T063000Z
+DTSTART:20240803T063000Z
+DTEND:20240803T110000Z
+DESCRIPTION:Бадминтон - 1/4 финала, одиночный (ж)\n🇪🇸 Carolina MARIN
+SUMMARY:🏸 1/4 финала, одиночный (ж)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
 END:VCALENDAR

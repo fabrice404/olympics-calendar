@@ -2857,18 +2857,6 @@ SUMMARY:⛵ 女子ウインドサーフィン - レース16
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T124300Z-sailing-
-DTSTAMP:20240801T124300Z
-DTSTART:20240801T124300Z
-DTEND:20240801T130500Z
-DESCRIPTION:セーリング - 男子スキフ・メダルレース\n🇺🇸 BARROWS/HENKEN\n🇪🇸
-  BOTIN/TRITTEL\n🇵🇱 BUKSAK/WIERZBICKI\n🇮🇪 DICKSON/WADDILOVE\n🇳🇱
-  LAMBRIEX/WERKEN\n🇳🇿 McHARDIE/McKENZIE\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
-  FANTELA/M FANTELA\n🇨🇭 SCHNEITER/de PLANTA\n🇺🇾 UMPIERRE/DIZ
-SUMMARY:⛵ 男子スキフ・メダルレース
-LOCATION:マルセイユ・マリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T133000Z-archery-1-NED-ISR
 DTSTAMP:20240801T133000Z
 DTSTART:20240801T133000Z
@@ -2901,18 +2889,6 @@ SUMMARY:⛵ 女子ディンギー - レース1
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T134300Z-sailing-
-DTSTAMP:20240801T134300Z
-DTSTART:20240801T134300Z
-DTEND:20240801T140800Z
-DESCRIPTION:セーリング - 女子スキフ・メダルレース\n🇳🇱 AANHOLT/DUETZ\n🇳🇿 ALEH/MEECH\n🇩🇪
-  BERGMANN/WILLE\n🇸🇪 BOBECK/NETZLER\n🇮🇹 GERMANI/BERTUZZI\n🇳🇴
-  NAESS/ROENNINGEN\n🇦🇺 PRICE/HASELDINE\n🇺🇸 ROBLE/SHEA\n🇧🇷
-  SOFFIATTI/KUNZE\n🇫🇷 STEYAERT/PICON
-SUMMARY:⛵ 女子スキフ・メダルレース
-LOCATION:マルセイユ・マリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T140000Z-judo-100KG-ISR-NED
 DTSTAMP:20240801T140000Z
 DTSTART:20240801T140000Z
@@ -2938,29 +2914,6 @@ DTEND:20240801T143600Z
 DESCRIPTION:柔道 - 女子78kg級敗者復活戦
 SUMMARY:🥋 TAKAYAMA Rika 🇯🇵 - 🇳🇱 Guusje STEENHUIS
 LOCATION:シャン・ド・マルス・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T144300Z-sailing--2
-DTSTAMP:20240801T144300Z
-DTSTART:20240801T144300Z
-DTEND:20240801T153400Z
-DESCRIPTION:セーリング - 女子ディンギー - レース2\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
-  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
-  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
-  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
-  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
-  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
-  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
-  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
-  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
-  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
-  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
-  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
-  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
-  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
-  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
-SUMMARY:⛵ 女子ディンギー - レース2
-LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T150000Z-volleyball--C-ITA-NED
@@ -3323,6 +3276,41 @@ SUMMARY:🏊 混合4×100mメドレーリレー予選
 LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T100500Z-sailing--2
+DTSTAMP:20240802T100500Z
+DTSTART:20240802T100500Z
+DTEND:20240802T105600Z
+DESCRIPTION:セーリング - 女子ディンギー - レース2\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 女子ディンギー - レース2
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T101300Z-sailing-
+DTSTAMP:20240802T101300Z
+DTSTART:20240802T101300Z
+DTEND:20240802T103800Z
+DESCRIPTION:セーリング - 女子スキフ・メダルレース\n🇳🇱 AANHOLT/DUETZ\n🇳🇿 ALEH/MEECH\n🇩🇪
+  BERGMANN/WILLE\n🇸🇪 BOBECK/NETZLER\n🇮🇹 GERMANI/BERTUZZI\n🇳🇴
+  NAESS/ROENNINGEN\n🇦🇺 PRICE/HASELDINE\n🇺🇸 ROBLE/SHEA\n🇧🇷
+  SOFFIATTI/KUNZE\n🇫🇷 STEYAERT/PICON
+SUMMARY:⛵ 女子スキフ・メダルレース
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T101500Z-athletics-
 DTSTAMP:20240802T101500Z
 DTSTART:20240802T101500Z
@@ -3339,10 +3327,54 @@ SUMMARY:🏃 男子十種競技砲丸投
 LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T101500Z-sailing--3
-DTSTAMP:20240802T101500Z
-DTSTART:20240802T101500Z
-DTEND:20240802T110600Z
+UID:20240802T102000Z-sailing--3
+DTSTAMP:20240802T102000Z
+DTSTART:20240802T102000Z
+DTEND:20240802T111100Z
+DESCRIPTION:セーリング - 男子ディンギー - レース3\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 男子ディンギー - レース3
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T104500Z-hockey--A-BEL-NED
+DTSTAMP:20240802T104500Z
+DTSTART:20240802T104500Z
+DTEND:20240802T121500Z
+DESCRIPTION:ホッケー - 女子予選ラウンド - プールA
+SUMMARY:🏑 ベルギー 🇧🇪 - 🇳🇱 オランダ
+LOCATION:イヴ＝ドゥ＝マノワール・スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T111300Z-sailing-
+DTSTAMP:20240802T111300Z
+DTSTART:20240802T111300Z
+DTEND:20240802T113500Z
+DESCRIPTION:セーリング - 男子スキフ・メダルレース\n🇺🇸 BARROWS/HENKEN\n🇪🇸
+  BOTIN/TRITTEL\n🇵🇱 BUKSAK/WIERZBICKI\n🇮🇪 DICKSON/WADDILOVE\n🇳🇱
+  LAMBRIEX/WERKEN\n🇳🇿 McHARDIE/McKENZIE\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  FANTELA/M FANTELA\n🇨🇭 SCHNEITER/de PLANTA\n🇺🇾 UMPIERRE/DIZ
+SUMMARY:⛵ 男子スキフ・メダルレース
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T111300Z-sailing--3
+DTSTAMP:20240802T111300Z
+DTSTART:20240802T111300Z
+DTEND:20240802T120400Z
 DESCRIPTION:セーリング - 女子ディンギー - レース3\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
   BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
   RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
@@ -3362,35 +3394,26 @@ SUMMARY:⛵ 女子ディンギー - レース3
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T104500Z-hockey--A-BEL-NED
-DTSTAMP:20240802T104500Z
-DTSTART:20240802T104500Z
-DTEND:20240802T121500Z
-DESCRIPTION:ホッケー - 女子予選ラウンド - プールA
-SUMMARY:🏑 ベルギー 🇧🇪 - 🇳🇱 オランダ
-LOCATION:イヴ＝ドゥ＝マノワール・スタジアム
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T112300Z-sailing--4
-DTSTAMP:20240802T112300Z
-DTSTART:20240802T112300Z
-DTEND:20240802T121400Z
-DESCRIPTION:セーリング - 女子ディンギー - レース4\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
-  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
-  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
-  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
-  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
-  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
-  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
-  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
-  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
-  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
-  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
-  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
-  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
-  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
-  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
-SUMMARY:⛵ 女子ディンギー - レース4
+UID:20240802T113000Z-sailing--4
+DTSTAMP:20240802T113000Z
+DTSTART:20240802T113000Z
+DTEND:20240802T122100Z
+DESCRIPTION:セーリング - 男子ディンギー - レース4\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 男子ディンギー - レース4
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -3413,6 +3436,29 @@ SUMMARY:🏇 障害馬術団体決勝
 LOCATION:ベルサイユ宮殿
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T122100Z-sailing--4
+DTSTAMP:20240802T122100Z
+DTSTART:20240802T122100Z
+DTEND:20240802T131200Z
+DESCRIPTION:セーリング - 女子ディンギー - レース4\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 女子ディンギー - レース4
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T133000Z-canoe-slalom-
 DTSTAMP:20240802T133000Z
 DTSTART:20240802T133000Z
@@ -3431,29 +3477,6 @@ DESCRIPTION:カヌー・スラローム - 男子カヤッククロス・タイ�
   Shao-Hsuan\n🇸🇳 Yves BOURHIS
 SUMMARY:🛶 男子カヤッククロス・タイムトライアル
 LOCATION:ノーティカル ST - ホワイトウォーター
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T133500Z-sailing--3
-DTSTAMP:20240802T133500Z
-DTSTART:20240802T133500Z
-DTEND:20240802T142600Z
-DESCRIPTION:セーリング - 男子ディンギー - レース3\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
-  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
-  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
-  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
-  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
-  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
-  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
-  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
-  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
-  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
-  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
-  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
-  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
-  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
-  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
-SUMMARY:⛵ 男子ディンギー - レース3
-LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T140000Z-beach-volleyball--F-FRA-NED
@@ -3483,29 +3506,6 @@ DESCRIPTION:カヌー・スラローム - 女子カヤッククロスタイム�
   Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
 SUMMARY:🛶 女子カヤッククロスタイムトライアル
 LOCATION:ノーティカル ST - ホワイトウォーター
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T144500Z-sailing--4
-DTSTAMP:20240802T144500Z
-DTSTART:20240802T144500Z
-DTEND:20240802T153600Z
-DESCRIPTION:セーリング - 男子ディンギー - レース4\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
-  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
-  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
-  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
-  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
-  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
-  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
-  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
-  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
-  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
-  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
-  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
-  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
-  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
-  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
-SUMMARY:⛵ 男子ディンギー - レース4
-LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T150000Z-beach-volleyball--E-BRA-NED
