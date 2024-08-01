@@ -509,10 +509,10 @@ SUMMARY:🏊 Men's 100m Freestyle Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T053000Z-athletics-MENS-20KM-RACE-WALK
-DTSTAMP:20240801T053000Z
-DTSTART:20240801T053000Z
-DTEND:20240801T070500Z
+UID:20240801T060000Z-athletics-MENS-20KM-RACE-WALK
+DTSTAMP:20240801T060000Z
+DTSTART:20240801T060000Z
+DTEND:20240801T073500Z
 DESCRIPTION:Athletics - Men's 20km Race Walk\n🇮🇳 Akshdeep SINGH\n🇪🇸
   Alvaro MARTIN\n🇵🇱 Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence
   VENYERCSAN\n🇪🇨 Brian Daniel PINTADO\n🇰🇷 CHOE Byeongkwang\n🇧🇷 Caio
@@ -534,10 +534,22 @@ SUMMARY:🏃 Men's 20km Race Walk
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T072000Z-athletics-WOMENS-20KM-RACE-WALK
-DTSTAMP:20240801T072000Z
-DTSTART:20240801T072000Z
-DTEND:20240801T090500Z
+UID:20240801T073000Z-shooting-50M-RIFLE-3-POSITIONS-MENS-FINAL
+DTSTAMP:20240801T073000Z
+DTSTART:20240801T073000Z
+DTEND:20240801T083000Z
+DESCRIPTION:Shooting - 50m Rifle 3 Positions Men's Final\n🇨🇿 Jiri
+  PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇨🇳 LIU Yukun\n🇷🇸 Lazar
+  KOVACEVIC\n🇫🇷 Lucas Bernard Denis KRYZS\n🇺🇦 Serhiy KULISH\n🇮🇳
+  Swapnil KUSALE\n🇵🇱 Tomasz BARTNIK
+SUMMARY:🔫 50m Rifle 3 Positions Men's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-athletics-WOMENS-20KM-RACE-WALK
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
 DESCRIPTION:Athletics - Women's 20km Race Walk\n🇲🇽 Alegna GONZALEZ\n🇲🇽
   Alejandra ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹
   Antonella PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸
@@ -556,18 +568,6 @@ DESCRIPTION:Athletics - Women's 20km Race Walk\n🇲🇽 Alegna GONZALEZ\n🇲�
   LYRA\n🇨🇳 YANG Jiayu
 SUMMARY:🏃 Women's 20km Race Walk
 LOCATION:Trocadéro
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T073000Z-shooting-50M-RIFLE-3-POSITIONS-MENS-FINAL
-DTSTAMP:20240801T073000Z
-DTSTART:20240801T073000Z
-DTEND:20240801T083000Z
-DESCRIPTION:Shooting - 50m Rifle 3 Positions Men's Final\n🇨🇿 Jiri
-  PRIVRATSKY\n🇳🇴 Jon-Hermann HEGG\n🇨🇳 LIU Yukun\n🇷🇸 Lazar
-  KOVACEVIC\n🇫🇷 Lucas Bernard Denis KRYZS\n🇺🇦 Serhiy KULISH\n🇮🇳
-  Swapnil KUSALE\n🇵🇱 Tomasz BARTNIK
-SUMMARY:🔫 50m Rifle 3 Positions Men's Final
-LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T091800Z-rowing-WOMENS-DOUBLE-SCULLS-FINAL-A

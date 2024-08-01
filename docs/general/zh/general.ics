@@ -17728,10 +17728,10 @@ SUMMARY:🏊 男子100米自由泳决赛
 LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T053000Z-athletics-20
-DTSTAMP:20240801T053000Z
-DTSTART:20240801T053000Z
-DTEND:20240801T070500Z
+UID:20240801T060000Z-athletics-20
+DTSTAMP:20240801T060000Z
+DTSTART:20240801T060000Z
+DTEND:20240801T073500Z
 DESCRIPTION:田径 - 男子20公里竞走决赛\n🇮🇳 Akshdeep SINGH\n🇪🇸 Alvaro MARTIN\n🇵🇱
   Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence VENYERCSAN\n🇪🇨
   Brian Daniel PINTADO\n🇰🇷 CHOE Byeongkwang\n🇧🇷 Caio BONFIM\n🇬🇧
@@ -17861,29 +17861,6 @@ SUMMARY:⛳ 男子第1回合
 LOCATION:国家高尔夫球场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T072000Z-athletics-20
-DTSTAMP:20240801T072000Z
-DTSTART:20240801T072000Z
-DTEND:20240801T090500Z
-DESCRIPTION:田径 - 女子20公里竞走决赛\n🇲🇽 Alegna GONZALEZ\n🇲🇽 Alejandra
-  ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹 Antonella
-  PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸 Cristina
-  MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica
-  SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨
-  Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima
-  MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇨🇳 LIU
-  Hong\n🇪🇸 Laura GARCIA-CARO\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila
-  OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria
-  KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz
-  ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳
-  PRIYANKA\n🇪🇨 Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de
-  ORBETA\n🇦🇺 Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹
-  Valentina TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷
-  Viviane LYRA\n🇨🇳 YANG Jiayu
-SUMMARY:🏃 女子20公里竞走决赛
-LOCATION:特罗卡德罗
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T073000Z-rowing--AB-1
 DTSTAMP:20240801T073000Z
 DTSTART:20240801T073000Z
@@ -17979,6 +17956,29 @@ DESCRIPTION:赛艇 - 男子单人双桨半决赛 A/B 1\n🇯🇵 ARAKAWA Ryuta\n
   MACKINTOSH\n🇧🇪 Tim BRYS
 SUMMARY:🚣 男子单人双桨半决赛 A/B 1
 LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-athletics-20
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
+DESCRIPTION:田径 - 女子20公里竞走决赛\n🇲🇽 Alegna GONZALEZ\n🇲🇽 Alejandra
+  ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹 Antonella
+  PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸 Cristina
+  MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica
+  SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨
+  Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima
+  MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇨🇳 LIU
+  Hong\n🇪🇸 Laura GARCIA-CARO\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila
+  OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria
+  KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz
+  ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳
+  PRIYANKA\n🇪🇨 Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de
+  ORBETA\n🇦🇺 Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹
+  Valentina TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷
+  Viviane LYRA\n🇨🇳 YANG Jiayu
+SUMMARY:🏃 女子20公里竞走决赛
+LOCATION:特罗卡德罗
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T075600Z-archery-132-CHN-DEN

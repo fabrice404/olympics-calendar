@@ -2761,10 +2761,10 @@ SUMMARY:🏊 Women's 200m Breaststroke Semifinals
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T053000Z-athletics-MENS-20KM-RACE-WALK
-DTSTAMP:20240801T053000Z
-DTSTART:20240801T053000Z
-DTEND:20240801T070500Z
+UID:20240801T060000Z-athletics-MENS-20KM-RACE-WALK
+DTSTAMP:20240801T060000Z
+DTSTART:20240801T060000Z
+DTEND:20240801T073500Z
 DESCRIPTION:Athletics - Men's 20km Race Walk\n🇮🇳 Akshdeep SINGH\n🇪🇸
   Alvaro MARTIN\n🇵🇱 Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence
   VENYERCSAN\n🇪🇨 Brian Daniel PINTADO\n🇰🇷 CHOE Byeongkwang\n🇧🇷 Caio
@@ -2814,10 +2814,22 @@ SUMMARY:⛳ Men's Individual Stroke Play Round 1
 LOCATION:Le Golf National
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T072000Z-athletics-WOMENS-20KM-RACE-WALK
-DTSTAMP:20240801T072000Z
-DTSTART:20240801T072000Z
-DTEND:20240801T090500Z
+UID:20240801T073000Z-rowing-WOMENS-SINGLE-SCULLS-SEMIFINAL-AB-1
+DTSTAMP:20240801T073000Z
+DTSTART:20240801T073000Z
+DTEND:20240801T073700Z
+DESCRIPTION:Rowing - Women's Single Sculls Semifinal A/B 1\n🇺🇿 Anna
+  PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina JANZEN\n🇧🇬 Desislava
+  ANGELOVA\n🇳🇱 Karolien FLORIJN\n🇦🇺 Tara RIGNEY\n🇪🇸 Virginia DIAZ
+  RIVAS
+SUMMARY:🚣 Women's Single Sculls Semifinal A/B 1
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-athletics-WOMENS-20KM-RACE-WALK
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
 DESCRIPTION:Athletics - Women's 20km Race Walk\n🇲🇽 Alegna GONZALEZ\n🇲🇽
   Alejandra ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹
   Antonella PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸
@@ -2836,18 +2848,6 @@ DESCRIPTION:Athletics - Women's 20km Race Walk\n🇲🇽 Alegna GONZALEZ\n🇲�
   LYRA\n🇨🇳 YANG Jiayu
 SUMMARY:🏃 Women's 20km Race Walk
 LOCATION:Trocadéro
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T073000Z-rowing-WOMENS-SINGLE-SCULLS-SEMIFINAL-AB-1
-DTSTAMP:20240801T073000Z
-DTSTART:20240801T073000Z
-DTEND:20240801T073700Z
-DESCRIPTION:Rowing - Women's Single Sculls Semifinal A/B 1\n🇺🇿 Anna
-  PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina JANZEN\n🇧🇬 Desislava
-  ANGELOVA\n🇳🇱 Karolien FLORIJN\n🇦🇺 Tara RIGNEY\n🇪🇸 Virginia DIAZ
-  RIVAS
-SUMMARY:🚣 Women's Single Sculls Semifinal A/B 1
-LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T090000Z-swimming-WOMENS-200M-BACKSTROKE-HEATS

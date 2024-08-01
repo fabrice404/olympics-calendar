@@ -2766,10 +2766,10 @@ SUMMARY:🏊 200м брассом, полуфиналы (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T053000Z-athletics--20-
-DTSTAMP:20240801T053000Z
-DTSTART:20240801T053000Z
-DTEND:20240801T070500Z
+UID:20240801T060000Z-athletics--20-
+DTSTAMP:20240801T060000Z
+DTSTART:20240801T060000Z
+DTEND:20240801T073500Z
 DESCRIPTION:Легкая атлетика - Ходьба 20км, финал (м)\n🇮🇳 Akshdeep
   SINGH\n🇪🇸 Alvaro MARTIN\n🇵🇱 Artur BRZOZOWSKI\n🇫🇷 Aurelien
   QUINION\n🇭🇺 Bence VENYERCSAN\n🇪🇨 Brian Daniel PINTADO\n🇰🇷 CHOE
@@ -2818,10 +2818,22 @@ SUMMARY:⛳ Личный зачет, раунд 1 (м)
 LOCATION:Центр «Гольф-Насьональ»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T072000Z-athletics--20-
-DTSTAMP:20240801T072000Z
-DTSTART:20240801T072000Z
-DTEND:20240801T090500Z
+UID:20240801T073000Z-rowing--AB-1-
+DTSTAMP:20240801T073000Z
+DTSTART:20240801T073000Z
+DTEND:20240801T073700Z
+DESCRIPTION:Академическая гребля - Одиночки, полуфинал A/B 1 (ж)\n🇺🇿 Anna
+  PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina JANZEN\n🇧🇬 Desislava
+  ANGELOVA\n🇳🇱 Karolien FLORIJN\n🇦🇺 Tara RIGNEY\n🇪🇸 Virginia DIAZ
+  RIVAS
+SUMMARY:🚣 Одиночки, полуфинал A/B 1 (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-athletics--20-
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
 DESCRIPTION:Легкая атлетика - Ходьба 20км, финал (ж)\n🇲🇽 Alegna
   GONZALEZ\n🇲🇽 Alejandra ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni
   NTRISMPIOTI\n🇮🇹 Antonella PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷
@@ -2840,18 +2852,6 @@ DESCRIPTION:Легкая атлетика - Ходьба 20км, финал (ж)
   LYRA\n🇨🇳 YANG Jiayu
 SUMMARY:🏃 Ходьба 20км, финал (ж)
 LOCATION:Трокадеро
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T073000Z-rowing--AB-1-
-DTSTAMP:20240801T073000Z
-DTSTART:20240801T073000Z
-DTEND:20240801T073700Z
-DESCRIPTION:Академическая гребля - Одиночки, полуфинал A/B 1 (ж)\n🇺🇿 Anna
-  PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina JANZEN\n🇧🇬 Desislava
-  ANGELOVA\n🇳🇱 Karolien FLORIJN\n🇦🇺 Tara RIGNEY\n🇪🇸 Virginia DIAZ
-  RIVAS
-SUMMARY:🚣 Одиночки, полуфинал A/B 1 (ж)
-LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T090000Z-swimming-200-

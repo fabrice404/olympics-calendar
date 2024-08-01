@@ -17799,10 +17799,10 @@ SUMMARY:🏊 Men's 100m Freestyle Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T053000Z-athletics-MENS-20KM-RACE-WALK
-DTSTAMP:20240801T053000Z
-DTSTART:20240801T053000Z
-DTEND:20240801T070500Z
+UID:20240801T060000Z-athletics-MENS-20KM-RACE-WALK
+DTSTAMP:20240801T060000Z
+DTSTART:20240801T060000Z
+DTEND:20240801T073500Z
 DESCRIPTION:Athletics - Men's 20km Race Walk\n🇮🇳 Akshdeep SINGH\n🇪🇸
   Alvaro MARTIN\n🇵🇱 Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence
   VENYERCSAN\n🇪🇨 Brian Daniel PINTADO\n🇰🇷 CHOE Byeongkwang\n🇧🇷 Caio
@@ -17933,30 +17933,6 @@ SUMMARY:⛳ Men's Individual Stroke Play Round 1
 LOCATION:Le Golf National
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T072000Z-athletics-WOMENS-20KM-RACE-WALK
-DTSTAMP:20240801T072000Z
-DTSTART:20240801T072000Z
-DTEND:20240801T090500Z
-DESCRIPTION:Athletics - Women's 20km Race Walk\n🇲🇽 Alegna GONZALEZ\n🇲🇽
-  Alejandra ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹
-  Antonella PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸
-  Cristina MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska
-  MARTINKOVA\n🇧🇷 Erica SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷
-  Gabriela de SOUSA\n🇪🇨 Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse
-  GUERRERO\n🇦🇺 Jemima MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly
-  GARCIA LEON\n🇨🇳 LIU Hong\n🇪🇸 Laura GARCIA-CARO\n🇨🇴 Lorena
-  ARENAS\n🇺🇦 Lyudmila OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz
-  BONILLA\n🇸🇰 Maria KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia
-  SAKHARUK\n🇵🇪 Mary Luz ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena
-  SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳 PRIYANKA\n🇪🇨 Paula Milena
-  TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de ORBETA\n🇦🇺 Rebecca
-  HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹 Valentina
-  TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷 Viviane
-  LYRA\n🇨🇳 YANG Jiayu
-SUMMARY:🏃 Women's 20km Race Walk
-LOCATION:Trocadéro
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T073000Z-rowing-WOMENS-SINGLE-SCULLS-SEMIFINAL-AB-1
 DTSTAMP:20240801T073000Z
 DTSTART:20240801T073000Z
@@ -18055,6 +18031,30 @@ DESCRIPTION:Rowing - Men's Single Sculls Semifinal A/B 1\n🇯🇵 ARAKAWA
   van DORP\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS
 SUMMARY:🚣 Men's Single Sculls Semifinal A/B 1
 LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-athletics-WOMENS-20KM-RACE-WALK
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
+DESCRIPTION:Athletics - Women's 20km Race Walk\n🇲🇽 Alegna GONZALEZ\n🇲🇽
+  Alejandra ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹
+  Antonella PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸
+  Cristina MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska
+  MARTINKOVA\n🇧🇷 Erica SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷
+  Gabriela de SOUSA\n🇪🇨 Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse
+  GUERRERO\n🇦🇺 Jemima MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly
+  GARCIA LEON\n🇨🇳 LIU Hong\n🇪🇸 Laura GARCIA-CARO\n🇨🇴 Lorena
+  ARENAS\n🇺🇦 Lyudmila OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz
+  BONILLA\n🇸🇰 Maria KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia
+  SAKHARUK\n🇵🇪 Mary Luz ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena
+  SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳 PRIYANKA\n🇪🇨 Paula Milena
+  TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de ORBETA\n🇦🇺 Rebecca
+  HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹 Valentina
+  TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷 Viviane
+  LYRA\n🇨🇳 YANG Jiayu
+SUMMARY:🏃 Women's 20km Race Walk
+LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T075600Z-archery-WOMENS-INDIVIDUAL-132-ELIMINATION-ROUND-CHN-DE
