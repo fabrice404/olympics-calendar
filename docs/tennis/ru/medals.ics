@@ -4,12 +4,12 @@ PRODID:-//fabrice404//olympics-calendar//tennis/ru/medals//EN
 X-WR-CALNAME:🎾 Теннис 🏅 | Paris 2024
 NAME:🎾 Теннис 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240802T100000Z-tennis--
+UID:20240802T100000Z-tennis---CAN-NED
 DTSTAMP:20240802T100000Z
 DTSTART:20240802T100000Z
 DTEND:20240802T143000Z
-DESCRIPTION:Теннис - Матч за бронзу (микст)\n🇳🇱 SCHUURS/KOOLHOF
-SUMMARY:🎾 Матч за бронзу (микст)
+DESCRIPTION:Теннис - Матч за бронзу (микст)
+SUMMARY:🎾 DABROWSKI/AUGER-ALIAS 🇨🇦 - 🇳🇱 SCHUURS/KOOLHOF
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
@@ -22,12 +22,12 @@ SUMMARY:🎾 Матч за бронзу, одиночный разряд (ж)
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T170000Z-tennis--
+UID:20240802T170000Z-tennis---CZE-CHN
 DTSTAMP:20240802T170000Z
 DTSTART:20240802T170000Z
 DTEND:20240802T200000Z
-DESCRIPTION:Теннис - Финал (микст)\n🇨🇳 WANG/ZHANG
-SUMMARY:🎾 Финал (микст)
+DESCRIPTION:Теннис - Финал (микст)
+SUMMARY:🎾 SINIAKOVA/MACHAC 🇨🇿 - 🇨🇳 WANG/ZHANG
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
