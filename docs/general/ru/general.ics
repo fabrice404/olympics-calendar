@@ -18773,21 +18773,21 @@ SUMMARY:🥊 Monique SURACI 🇦🇺 - 🇨🇴 Ingrit Lorena VALENCIA VICTORIA
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T093600Z-judo--78--GER-JPN
+DTSTAMP:20240801T093600Z
+DTSTART:20240801T093600Z
+DTEND:20240801T094200Z
+DESCRIPTION:Дзюдо - Четвертьфинал, до 78кг (ж)
+SUMMARY:🥋 Anna-Maria WAGNER 🇩🇪 - 🇯🇵 TAKAYAMA Rika
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T093600Z-judo-18-100--ESP-HUN
 DTSTAMP:20240801T093600Z
 DTSTART:20240801T093600Z
 DTEND:20240801T094200Z
 DESCRIPTION:Дзюдо - 1/8 финала, до 100кг (м)
 SUMMARY:🥋 Nikoloz SHERAZADISHVILI 🇪🇸 - 🇭🇺 Zsombor VEG
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T093600Z-judo--78-
-DTSTAMP:20240801T093600Z
-DTSTART:20240801T093600Z
-DTEND:20240801T094200Z
-DESCRIPTION:Дзюдо - Четвертьфинал, до 78кг (ж)\n🇩🇪 Anna-Maria WAGNER
-SUMMARY:🥋 Четвертьфинал, до 78кг (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -18800,12 +18800,12 @@ SUMMARY:🏹 Brady ELLISON 🇺🇸 - 🇨🇳 KAO Wenchao
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T094200Z-judo--100-
+UID:20240801T094200Z-judo--100--AZE-ISR
 DTSTAMP:20240801T094200Z
 DTSTART:20240801T094200Z
 DTEND:20240801T094800Z
-DESCRIPTION:Дзюдо - Четвертьфинал, до 100кг (м)\n🇦🇿 Zelym KOTSOIEV
-SUMMARY:🥋 Четвертьфинал, до 100кг (м)
+DESCRIPTION:Дзюдо - Четвертьфинал, до 100кг (м)
+SUMMARY:🥋 Zelym KOTSOIEV 🇦🇿 - 🇮🇱 Peter PALTCHIK
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -18813,7 +18813,7 @@ UID:20240801T094200Z-judo--78-
 DTSTAMP:20240801T094200Z
 DTSTART:20240801T094200Z
 DTEND:20240801T094800Z
-DESCRIPTION:Дзюдо - Четвертьфинал, до 78кг (ж)
+DESCRIPTION:Дзюдо - Четвертьфинал, до 78кг (ж)\n🇮🇱 Inbar LANIR
 SUMMARY:🥋 Четвертьфинал, до 78кг (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -19590,7 +19590,11 @@ UID:20240801T124300Z-sailing--
 DTSTAMP:20240801T124300Z
 DTSTART:20240801T124300Z
 DTEND:20240801T130500Z
-DESCRIPTION:Парусный спорт - Скиф, медальная гонка (м)
+DESCRIPTION:Парусный спорт - Скиф, медальная гонка (м)\n🇺🇸
+  BARROWS/HENKEN\n🇪🇸 BOTIN/TRITTEL\n🇵🇱 BUKSAK/WIERZBICKI\n🇳🇱
+  LAMBRIEX/WERKEN\n🇳🇿 McHARDIE/McKENZIE\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  FANTELA/M FANTELA\n🇨🇭 SCHNEITER/de PLANTA\n🇺🇾 UMPIERRE/DIZ\n🇮🇪
+  WADDILOVE/DICKSON
 SUMMARY:⛵ Скиф, медальная гонка (м)
 LOCATION:Марсельская гавань
 END:VEVENT
