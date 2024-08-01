@@ -18242,13 +18242,12 @@ SUMMARY:🚣 Men's Eight Repechages
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T082200Z-archery-MENS-INDIVIDUAL-116-ELIMINATION-ROUND
+UID:20240801T082200Z-archery-MENS-INDIVIDUAL-116-ELIMINATION-ROUND-MEX-COL
 DTSTAMP:20240801T082200Z
 DTSTART:20240801T082200Z
 DTEND:20240801T083500Z
-DESCRIPTION:Archery - Men's Individual 1/16 Elimination Round\n🇲🇽 Matias
-  GRANDE
-SUMMARY:🏹 Men's Individual 1/16 Elimination Round
+DESCRIPTION:Archery - Men's Individual 1/16 Elimination Round
+SUMMARY:🏹 Matias GRANDE 🇲🇽 - 🇨🇴 Jorge ENRIQUEZ
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
@@ -18320,7 +18319,8 @@ UID:20240801T083500Z-archery-WOMENS-INDIVIDUAL-116-ELIMINATION-ROUND
 DTSTAMP:20240801T083500Z
 DTSTART:20240801T083500Z
 DTEND:20240801T084800Z
-DESCRIPTION:Archery - Women's Individual 1/16 Elimination Round
+DESCRIPTION:Archery - Women's Individual 1/16 Elimination Round\n🇨🇳 LI
+  Jiaman
 SUMMARY:🏹 Women's Individual 1/16 Elimination Round
 LOCATION:Invalides
 END:VEVENT
@@ -18361,13 +18361,12 @@ SUMMARY:🥋 Daniel EICH 🇨🇭 - 🏳️ Adnan KHANKAN
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T084200Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-16
+UID:20240801T084200Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-16-UKR-KOS
 DTSTAMP:20240801T084200Z
 DTSTART:20240801T084200Z
 DTEND:20240801T084800Z
-DESCRIPTION:Judo - Women -78 kg Elimination Round of 16\n🇺🇦 Yelyzaveta
-  LYTVYNENKO
-SUMMARY:🥋 Women -78 kg Elimination Round of 16
+DESCRIPTION:Judo - Women -78 kg Elimination Round of 16
+SUMMARY:🥋 Yelyzaveta LYTVYNENKO 🇺🇦 - 🇽🇰 Loriana KUKA
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -18408,15 +18407,6 @@ SUMMARY:🏹 Brady ELLISON 🇺🇸 - 🇹🇷 Abdullah YILDIRMIS
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T085400Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-16
-DTSTAMP:20240801T085400Z
-DTSTART:20240801T085400Z
-DTEND:20240801T090000Z
-DESCRIPTION:Judo - Men -100 kg Elimination Round of 16\n🇦🇿 Zelym KOTSOIEV
-SUMMARY:🥋 Men -100 kg Elimination Round of 16
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240801T085400Z-judo-WOMEN-78-KG-ELIMINATION-ROUND-OF-16
 DTSTAMP:20240801T085400Z
 DTSTART:20240801T085400Z
@@ -18424,6 +18414,15 @@ DTEND:20240801T090000Z
 DESCRIPTION:Judo - Women -78 kg Elimination Round of 16\n🇫🇷 Madeleine
   MALONGA
 SUMMARY:🥋 Women -78 kg Elimination Round of 16
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T085400Z-judo-MEN-100-KG-ELIMINATION-ROUND-OF-16-AZE-POL
+DTSTAMP:20240801T085400Z
+DTSTART:20240801T085400Z
+DTEND:20240801T090000Z
+DESCRIPTION:Judo - Men -100 kg Elimination Round of 16
+SUMMARY:🥋 Zelym KOTSOIEV 🇦🇿 - 🇵🇱 Piotr KUCZERA
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -19002,10 +19001,27 @@ UID:20240801T100500Z-swimming-WOMENS-4-X-200M-FREESTYLE-RELAY-HEATS
 DTSTAMP:20240801T100500Z
 DTSTART:20240801T100500Z
 DTEND:20240801T102600Z
-DESCRIPTION:Swimming - Women's 4 x 200m Freestyle Relay - Heats\n🇦🇺
-  AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺
-  HUN\n🇮🇱 ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇪🇸 ESP\n🇹🇷
-  TUR\n🇺🇸 USA
+DESCRIPTION:Swimming - Women's 4 x 200m Freestyle Relay - Heats\n🇬🇧 Abbie
+  WOOD\n🇪🇸 Ainhoa CAMPABADAL AMEZCUA\n🇭🇺 Ajna KESELY\n🇪🇸 Alba HERRERO
+  LAZARO\n🇺🇸 Alex SHACKELL\n🇮🇱 Anastasia GORBENKO\n🇫🇷 Anastasiia
+  KIRPICHNIKOVA\n🇺🇸 Anna PEPLOWSKI\n🇫🇷 Assia TOUATI\n🇮🇱 Ayla
+  SPITZ\n🇦🇺 Brianna THROSSELL\n🇳🇿 Caitlin DEANS\n🇮🇱 Daria
+  GOLOVATY\n🇹🇷 Ecem DONMEZ\n🇹🇷 Ela Naz OZDEMIR\n🇨🇦 Ella JANSEN\n🇨🇦
+  Emma O'CROININ\n🇳🇿 Erika FAIRWEATHER\n🇺🇸 Erin GEMMELL\n🇳🇿 Eve
+  THOMAS\n🇬🇧 Freya ANDERSON\n🇨🇳 GE Chutong\n🇧🇷 Gabrielle
+  RONCATTO\n🇮🇹 Giulia D'INNOCENZO\n🇮🇹 Giulia RAMATELLI\n🇹🇷 Gizem
+  GUVENC\n🇯🇵 IKEMOTO Nagisa\n🇳🇱 Imani de JONG\n🇩🇪 Isabel GOSE\n🇦🇺
+  Jamie PERKINS\n🇳🇱 Janna van KOOTEN\n🇩🇪 Julia MROZINSKI\n🇨🇦 Julie
+  BROUSSEAU\n🇯🇵 KOBORI Waka\n🇨🇳 KONG Yaqi\n🇨🇳 LIU Yaxin\n🇦🇺 Lani
+  PALLISTER\n🇳🇿 Laticia-Leigh TRANSOM\n🇮🇱 Lea POLONSKY\n🇭🇺 Lilla
+  Minna ABRAHAM\n🇫🇷 Lucile TESSARIOL\n🇬🇧 Lucy HOPE\n🇯🇵 MAKINO
+  Hiroko\n🇪🇸 Maria DAZA GARCIA\n🇧🇷 Maria Fernanda COSTA\n🇧🇷 Maria
+  Paula HEITMANN\n🇫🇷 Marina JEHL\n🇳🇱 Marrit STEENBERGEN\n🇨🇦
+  Mary-Sophie HARVEY\n🇮🇹 Matilde BIAGIOTTI\n🇬🇧 Medi Eira HARRIS\n🇩🇪
+  Nele SCHULZE\n🇩🇪 Nicole MAIER\n🇭🇺 Nikolett PADAR\n🇭🇺 Panna
+  UGRAI\n🇪🇸 Paula JUSTE SANCHEZ\n🇯🇵 SHIRAI Rio\n🇦🇺 Shayna JACK\n🇳🇱
+  Silke HOLKENBORG\n🇺🇸 Simone MANUEL\n🇮🇹 Sofia MORINI\n🇧🇷 Stephanie
+  BALDUCCINI\n🇨🇳 TANG Muhan\n🇹🇷 Zehra BILGIN
 SUMMARY:🏊 Women's 4 x 200m Freestyle Relay - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
