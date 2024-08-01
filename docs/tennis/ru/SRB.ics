@@ -48,4 +48,13 @@ DESCRIPTION:Теннис - Четвертьфинал, одиночный раз
 SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇬🇷 Stefanos TSITSIPAS
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240802T170000Z-tennis---SRB-ITA
+DTSTAMP:20240802T170000Z
+DTSTART:20240802T170000Z
+DTEND:20240802T183000Z
+DESCRIPTION:Теннис - Полуфинал, одиночный разряд (м)
+SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇮🇹 Lorenzo MUSETTI
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
 END:VCALENDAR

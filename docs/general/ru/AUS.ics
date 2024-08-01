@@ -4136,6 +4136,15 @@ SUMMARY:🚣 Двойки, финал A (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T100000Z-tennis--
+DTSTAMP:20240802T100000Z
+DTSTART:20240802T100000Z
+DTEND:20240802T130000Z
+DESCRIPTION:Теннис - Полуфинал, пары (м)\n🇦🇺 EBDEN/PEERS
+SUMMARY:🎾 Полуфинал, пары (м)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T100300Z-swimming--4X100-
 DTSTAMP:20240802T100300Z
 DTSTART:20240802T100300Z
