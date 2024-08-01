@@ -676,4 +676,13 @@ DESCRIPTION:Конный спорт - Командная выездка, гра�
 SUMMARY:🏇 Командная выездка, гран-при, переездка
 LOCATION:Версаль
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T103600Z-boxing--635--CAN-FRA
+DTSTAMP:20240804T103600Z
+DTSTART:20240804T103600Z
+DTEND:20240804T104700Z
+DESCRIPTION:Бокс - Полуфинал, до 63,5кг (м)
+SUMMARY:🥊 Wyatt SANFORD 🇨🇦 - 🇫🇷 Sofiane OUMIHA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
 END:VCALENDAR
