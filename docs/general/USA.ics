@@ -4793,6 +4793,15 @@ SUMMARY:⛵ Men's Skiff Medal Race
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T125000Z-fencing-WOMENS-FOIL-TEAM-SEMIFINAL-2
+DTSTAMP:20240801T125000Z
+DTSTART:20240801T125000Z
+DTEND:20240801T140000Z
+DESCRIPTION:Fencing - Women's Foil Team Semifinal 2\n🇺🇸 USA
+SUMMARY:🤺 Women's Foil Team Semifinal 2
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T130000Z-beach-volleyball-MENS-PRELIMINARY-PHASE-POOL-D-BRA-USA
 DTSTAMP:20240801T130000Z
 DTSTART:20240801T130000Z
@@ -5102,6 +5111,21 @@ SUMMARY:🏊 Men's 200m Backstroke Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T184600Z-swimming-MENS-50M-FREESTYLE-SEMIFINALS
+DTSTAMP:20240801T184600Z
+DTSTART:20240801T184600Z
+DTEND:20240801T185900Z
+DESCRIPTION:Swimming - Men's 50m Freestyle Semifinals\n🇦🇺 Ben
+  ARMBRUSTER\n🇬🇧 Benjamin PROUD\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron
+  McEVOY\n🇵🇹 Diogo MATOS RIBEIRO\n🇫🇷 Florent MANAUDOU\n🇲🇽 Gabriel
+  CASTANO GARCIA\n🇰🇾 Jordan CROOKS\n🇨🇦 Josh LIENDO\n🇬🇷 Kristian
+  GKOLOMEEV\n🇮🇹 Leonardo DEPLANO\n🇮🇹 Lorenzo ZAZZERI\n🇫🇷 Maxime
+  GROUSSET\n🇮🇱 Meiron Amir CHERUTI\n🇮🇪 Thomas FANNON\n🇺🇦 Vladyslav
+  BUKHOV
+SUMMARY:🏊 Men's 50m Freestyle Semifinals
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T184800Z-surfing-WOMENS-ROUND-3-HEAT-4-USA-RSA
 DTSTAMP:20240801T184800Z
 DTSTART:20240801T184800Z
@@ -5153,6 +5177,20 @@ DTEND:20240801T195500Z
 DESCRIPTION:3x3 Basketball - Women's Pool Round
 SUMMARY:🏀 ESP 🇪🇸 - 🇺🇸 USA
 LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T194700Z-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SEMIFINALS
+DTSTAMP:20240801T194700Z
+DTSTART:20240801T194700Z
+DTEND:20240801T200300Z
+DESCRIPTION:Swimming - Men's 200m Individual Medley Semifinals\n🇮🇹
+  Alberto RAZZETTI\n🇬🇷 Apostolos PAPASTAMOS\n🇺🇸 Carson FOSTER\n🇬🇧
+  Duncan SCOTT\n🇨🇦 Finlay KNOX\n🇩🇿 Jaouad SYOUD\n🇨🇭 Jeremy
+  DESPLANCHES\n🇫🇷 Leon MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇮🇱 Ron
+  POLONSKY\n🇯🇵 SETO Daiya\n🇺🇸 Shaine CASAS\n🇦🇺 Thomas NEILL\n🇬🇧 Tom
+  DEAN\n🇨🇳 WANG Shun\n🇦🇺 William Campbell PETRIC
+SUMMARY:🏊 Men's 200m Individual Medley Semifinals
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T200000Z-surfing-WOMENS-ROUND-3-HEAT-6-USA-BRA

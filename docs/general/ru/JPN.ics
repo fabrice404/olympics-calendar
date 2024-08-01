@@ -3285,6 +3285,15 @@ SUMMARY:⛵ Виндсерфинг, гонка 12 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T105800Z-archery-116--GER-JPN
+DTSTAMP:20240801T105800Z
+DTSTART:20240801T105800Z
+DTEND:20240801T111100Z
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (м)
+SUMMARY:🏹 Florian UNRUH 🇩🇪 - 🇯🇵 NAKANISHI Junya
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T110000Z-volleyball--B--BRA-JPN
 DTSTAMP:20240801T110000Z
 DTSTART:20240801T110000Z
@@ -3355,6 +3364,15 @@ DESCRIPTION:Гребной слалом - Байдарки-одиночки, п�
   Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK
 SUMMARY:🛶 Байдарки-одиночки, полуфинал (м)
 LOCATION:Водный ст. - Белая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T140600Z-judo--100-
+DTSTAMP:20240801T140600Z
+DTSTART:20240801T140600Z
+DTEND:20240801T141200Z
+DESCRIPTION:Дзюдо - Утешительный поединок, до 100кг (м)\n🇯🇵 WOLF Aaron
+SUMMARY:🥋 Утешительный поединок, до 100кг (м)
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T140900Z-archery-132--TPE-JPN
@@ -3552,6 +3570,20 @@ DTEND:20240801T195400Z
 DESCRIPTION:Серфинг - Раунд 3, заезд 5 (ж)
 SUMMARY:🏄 Nadia EROSTARBE 🇪🇸 - 🇯🇵 MATSUDA Shino
 LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T194700Z-swimming-200-
+DTSTAMP:20240801T194700Z
+DTSTART:20240801T194700Z
+DTEND:20240801T200300Z
+DESCRIPTION:Плавание - 200м комплексом, полуфиналы (м)\n🇮🇹 Alberto
+  RAZZETTI\n🇬🇷 Apostolos PAPASTAMOS\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan
+  SCOTT\n🇨🇦 Finlay KNOX\n🇩🇿 Jaouad SYOUD\n🇨🇭 Jeremy DESPLANCHES\n🇫🇷
+  Leon MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇮🇱 Ron POLONSKY\n🇯🇵 SETO
+  Daiya\n🇺🇸 Shaine CASAS\n🇦🇺 Thomas NEILL\n🇬🇧 Tom DEAN\n🇨🇳 WANG
+  Shun\n🇦🇺 William Campbell PETRIC
+SUMMARY:🏊 200м комплексом, полуфиналы (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240801T214800Z-surfing-14-1--PER-JPN

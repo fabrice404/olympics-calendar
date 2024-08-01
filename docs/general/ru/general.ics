@@ -19247,13 +19247,12 @@ SUMMARY:⛵ Виндсерфинг, гонка 13 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T105800Z-archery-116-
+UID:20240801T105800Z-archery-116--GER-JPN
 DTSTAMP:20240801T105800Z
 DTSTART:20240801T105800Z
 DTEND:20240801T111100Z
-DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (м)\n🇩🇪
-  Florian UNRUH
-SUMMARY:🏹 1/16 финала, индивидуальные (м)
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (м)
+SUMMARY:🏹 Florian UNRUH 🇩🇪 - 🇯🇵 NAKANISHI Junya
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
@@ -19460,7 +19459,7 @@ UID:20240801T114000Z-fencing--5-8-
 DTSTAMP:20240801T114000Z
 DTSTART:20240801T114000Z
 DTEND:20240801T125000Z
-DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (ж)
+DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (ж)\n🇨🇳 Китай
 SUMMARY:🤺 Командная рапира, за 5-8 места (ж)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -19613,7 +19612,7 @@ UID:20240801T125000Z-fencing--2-
 DTSTAMP:20240801T125000Z
 DTSTART:20240801T125000Z
 DTEND:20240801T140000Z
-DESCRIPTION:Фехтование - Командная рапира, полуфинал 2 (ж)
+DESCRIPTION:Фехтование - Командная рапира, полуфинал 2 (ж)\n🇺🇸 США
 SUMMARY:🤺 Командная рапира, полуфинал 2 (ж)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -19817,7 +19816,7 @@ UID:20240801T140600Z-judo--100-
 DTSTAMP:20240801T140600Z
 DTSTART:20240801T140600Z
 DTEND:20240801T141200Z
-DESCRIPTION:Дзюдо - Утешительный поединок, до 100кг (м)
+DESCRIPTION:Дзюдо - Утешительный поединок, до 100кг (м)\n🇯🇵 WOLF Aaron
 SUMMARY:🥋 Утешительный поединок, до 100кг (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -19835,7 +19834,7 @@ UID:20240801T141200Z-judo--100-
 DTSTAMP:20240801T141200Z
 DTSTART:20240801T141200Z
 DTEND:20240801T141800Z
-DESCRIPTION:Дзюдо - Полуфинал В, до 100кг (м)
+DESCRIPTION:Дзюдо - Полуфинал В, до 100кг (м)\n🇬🇪 Ilia SULAMANIDZE
 SUMMARY:🥋 Полуфинал В, до 100кг (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -20739,7 +20738,13 @@ UID:20240801T184600Z-swimming-50-
 DTSTAMP:20240801T184600Z
 DTSTART:20240801T184600Z
 DTEND:20240801T185900Z
-DESCRIPTION:Плавание - 50м вольным стилем, полуфиналы (м)
+DESCRIPTION:Плавание - 50м вольным стилем, полуфиналы (м)\n🇦🇺 Ben
+  ARMBRUSTER\n🇬🇧 Benjamin PROUD\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron
+  McEVOY\n🇵🇹 Diogo MATOS RIBEIRO\n🇫🇷 Florent MANAUDOU\n🇲🇽 Gabriel
+  CASTANO GARCIA\n🇰🇾 Jordan CROOKS\n🇨🇦 Josh LIENDO\n🇬🇷 Kristian
+  GKOLOMEEV\n🇮🇹 Leonardo DEPLANO\n🇮🇹 Lorenzo ZAZZERI\n🇫🇷 Maxime
+  GROUSSET\n🇮🇱 Meiron Amir CHERUTI\n🇮🇪 Thomas FANNON\n🇺🇦 Vladyslav
+  BUKHOV
 SUMMARY:🏊 50м вольным стилем, полуфиналы (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
@@ -20917,7 +20922,12 @@ UID:20240801T194700Z-swimming-200-
 DTSTAMP:20240801T194700Z
 DTSTART:20240801T194700Z
 DTEND:20240801T200300Z
-DESCRIPTION:Плавание - 200м комплексом, полуфиналы (м)
+DESCRIPTION:Плавание - 200м комплексом, полуфиналы (м)\n🇮🇹 Alberto
+  RAZZETTI\n🇬🇷 Apostolos PAPASTAMOS\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan
+  SCOTT\n🇨🇦 Finlay KNOX\n🇩🇿 Jaouad SYOUD\n🇨🇭 Jeremy DESPLANCHES\n🇫🇷
+  Leon MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇮🇱 Ron POLONSKY\n🇯🇵 SETO
+  Daiya\n🇺🇸 Shaine CASAS\n🇦🇺 Thomas NEILL\n🇬🇧 Tom DEAN\n🇨🇳 WANG
+  Shun\n🇦🇺 William Campbell PETRIC
 SUMMARY:🏊 200м комплексом, полуфиналы (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
