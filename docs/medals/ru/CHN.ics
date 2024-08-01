@@ -599,6 +599,18 @@ SUMMARY:🏊 Эстафета 4x200м вольным стилем, финал (�
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T073000Z-shooting--50-3-
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T083000Z
+DESCRIPTION:Стрельба - Винтовка 50м, 3 положения, финал (м)\n🇨🇭 Chiara
+  LEONE\n🇳🇴 Jeanette Hegg DUESTAD\n🇦🇹 Nadine UNGERANK\n🇵🇱 Natalia
+  KOCHANSKA\n🇺🇸 Sagen MADDALENA\n🇩🇰 Stephanie Laura Scurrah
+  GRUNDSOEE\n🇲🇳 Yesugen OYUNBAT\n🇨🇳 ZHANG Qiongyue
+SUMMARY:🔫 Винтовка 50м, 3 положения, финал (м)
+LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T090000Z-diving--3-
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
@@ -608,6 +620,15 @@ DESCRIPTION:Прыжки в воду - Синхронный трамплин 3м
   США\n🇺🇦 Украина\n🇫🇷 Франция
 SUMMARY:🏊 Синхронный трамплин 3м, финал (м)
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100000Z-tennis--
+DTSTAMP:20240803T100000Z
+DTSTART:20240803T100000Z
+DTEND:20240803T200000Z
+DESCRIPTION:Теннис - Финал, одиночный разряд (ж)\n🇨🇳 ZHENG Qinwen
+SUMMARY:🎾 Финал, одиночный разряд (ж)
+LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T153800Z-boxing--60--CHN-TPE

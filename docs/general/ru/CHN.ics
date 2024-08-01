@@ -4554,6 +4554,15 @@ SUMMARY:🏸 CHEN/JIA 🇨🇳 - 🇲🇾 TAN/THINAAH
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T063000Z-badminton-12--CHN-MAS
+DTSTAMP:20240802T063000Z
+DTSTART:20240802T063000Z
+DTEND:20240802T110000Z
+DESCRIPTION:Бадминтон - 1/2 финала, парный (м)
+SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇲🇾 CHIA/SOH
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T063000Z-badminton-12--CHN-JPN
 DTSTAMP:20240802T063000Z
 DTSTART:20240802T063000Z
@@ -4619,6 +4628,18 @@ DESCRIPTION:Гольф - Личный зачет, раунд 2 (м)\n🇰🇷 AN
   CLARK\n🇺🇸 Xander SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳 YUAN Yechun
 SUMMARY:⛳ Личный зачет, раунд 2 (м)
 LOCATION:Центр «Гольф-Насьональ»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-shooting--50-3-
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T083000Z
+DESCRIPTION:Стрельба - Винтовка 50м, 3 положения, финал (м)\n🇨🇭 Chiara
+  LEONE\n🇳🇴 Jeanette Hegg DUESTAD\n🇦🇹 Nadine UNGERANK\n🇵🇱 Natalia
+  KOCHANSKA\n🇺🇸 Sagen MADDALENA\n🇩🇰 Stephanie Laura Scurrah
+  GRUNDSOEE\n🇲🇳 Yesugen OYUNBAT\n🇨🇳 ZHANG Qiongyue
+SUMMARY:🔫 Винтовка 50м, 3 положения, финал (м)
+LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T073000Z-shooting--1-
@@ -5064,6 +5085,15 @@ DESCRIPTION:Плавание - 1500м вольным стилем, квалиф�
   STANCU\n🇭🇺 Zalan SARKANY
 SUMMARY:🏊 1500м вольным стилем, квалификация (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100000Z-tennis--
+DTSTAMP:20240803T100000Z
+DTSTART:20240803T100000Z
+DTEND:20240803T200000Z
+DESCRIPTION:Теннис - Финал, одиночный разряд (ж)\n🇨🇳 ZHENG Qinwen
+SUMMARY:🎾 Финал, одиночный разряд (ж)
+LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T104000Z-swimming--4X100-
