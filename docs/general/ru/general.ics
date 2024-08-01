@@ -21006,12 +21006,12 @@ SUMMARY:🏀 США 🇺🇸 - 🇱🇻 Латвия
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T211200Z-surfing--3-8--CRC-POR
+UID:20240801T211200Z-surfing--3-8--POR-CRC
 DTSTAMP:20240801T211200Z
 DTSTART:20240801T211200Z
 DTEND:20240801T214200Z
 DESCRIPTION:Серфинг - Раунд 3, заезд 8 (ж)
-SUMMARY:🏄 Brisa HENNESSY 🇨🇷 - 🇵🇹 Yolanda HOPKINS
+SUMMARY:🏄 Yolanda HOPKINS 🇵🇹 - 🇨🇷 Brisa HENNESSY
 LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
@@ -22161,15 +22161,6 @@ DTSTART:20240802T100000Z
 DTEND:20240802T160000Z
 DESCRIPTION:Теннис - Полуфинал, пары (ж)\n🇪🇸 BUCSA/SORRIBES TORMO
 SUMMARY:🎾 Полуфинал, пары (ж)
-LOCATION:Стадион «Ролан Гаррос»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T100000Z-tennis--
-DTSTAMP:20240802T100000Z
-DTSTART:20240802T100000Z
-DTEND:20240802T200000Z
-DESCRIPTION:Теннис - Порядок игр определяется накануне вечером
-SUMMARY:🎾 Порядок игр определяется накануне вечером
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
