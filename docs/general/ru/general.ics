@@ -20460,13 +20460,12 @@ SUMMARY:🤺 Канада 🇨🇦 - 🇯🇵 Япония
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240801T171100Z-archery-116-
+UID:20240801T171100Z-archery-116--KOR-INA
 DTSTAMP:20240801T171100Z
 DTSTART:20240801T171100Z
 DTEND:20240801T172400Z
-DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)\n🇰🇷 LIM
-  Sihyeon
-SUMMARY:🏹 1/16 финала, индивидуальные (ж)
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)
+SUMMARY:🏹 LIM Sihyeon 🇰🇷 - 🇮🇩 Rezza OCTAVIA
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
@@ -23812,6 +23811,15 @@ DTSTART:20240803T063000Z
 DTEND:20240803T103000Z
 DESCRIPTION:Бадминтон - Четвертьфиналы, одиночный (ж)
 SUMMARY:🏸 Четвертьфиналы, одиночный (ж)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T063000Z-badminton-14--KOR-JPN
+DTSTAMP:20240803T063000Z
+DTSTART:20240803T063000Z
+DTEND:20240803T110000Z
+DESCRIPTION:Бадминтон - 1/4 финала, одиночный (ж)
+SUMMARY:🏸 AN Se Young 🇰🇷 - 🇯🇵 YAMAGUCHI Akane
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
