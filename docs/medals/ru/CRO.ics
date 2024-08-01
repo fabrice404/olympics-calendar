@@ -70,4 +70,13 @@ DESCRIPTION:Парусный спорт - Скиф, медальная гонк�
 SUMMARY:⛵ Скиф, медальная гонка (м)
 LOCATION:Марсельская гавань
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100000Z-tennis---CHN-CRO
+DTSTAMP:20240803T100000Z
+DTSTART:20240803T100000Z
+DTEND:20240803T200000Z
+DESCRIPTION:Теннис - Финал, одиночный разряд (ж)
+SUMMARY:🎾 ZHENG Qinwen 🇨🇳 - 🇭🇷 Donna VEKIC
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
 END:VCALENDAR

@@ -20993,7 +20993,7 @@ DTSTAMP:20240801T203600Z
 DTSTART:20240801T203600Z
 DTEND:20240801T210600Z
 DESCRIPTION:Серфинг - Раунд 3, заезд 7 (ж)
-SUMMARY:🏄 Taina HINCKEL 🇧🇷 - 🇧🇷 Luana SILVA
+SUMMARY:🏄 Luana SILVA 🇧🇷 - 🇧🇷 Taina HINCKEL
 LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
@@ -22476,12 +22476,12 @@ SUMMARY:🏀 Австралия 🇦🇺 - 🇬🇷 Греция
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T113000Z-tennis--
+UID:20240802T113000Z-tennis---POL-SVK
 DTSTAMP:20240802T113000Z
 DTSTART:20240802T113000Z
 DTEND:20240802T143000Z
-DESCRIPTION:Теннис - Матч за бронзу, одиночный разряд (ж)\n🇵🇱 Iga SWIATEK
-SUMMARY:🎾 Матч за бронзу, одиночный разряд (ж)
+DESCRIPTION:Теннис - Матч за бронзу, одиночный разряд (ж)
+SUMMARY:🎾 Iga SWIATEK 🇵🇱 - 🇸🇰 Anna Karolina SCHMIEDLOVA
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
@@ -24413,6 +24413,15 @@ SUMMARY:🏐 ALVAREZ M/MORENO 🇪🇸 - 🇩🇪 LUDWIG/LIPPMANN
 LOCATION:Стадион у Эйфелевой башни
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T100000Z-tennis---CHN-CRO
+DTSTAMP:20240803T100000Z
+DTSTART:20240803T100000Z
+DTEND:20240803T200000Z
+DESCRIPTION:Теннис - Финал, одиночный разряд (ж)
+SUMMARY:🎾 ZHENG Qinwen 🇨🇳 - 🇭🇷 Donna VEKIC
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T100000Z-tennis--
 DTSTAMP:20240803T100000Z
 DTSTART:20240803T100000Z
@@ -24428,15 +24437,6 @@ DTSTART:20240803T100000Z
 DTEND:20240803T200000Z
 DESCRIPTION:Теннис - Порядок игр определяется накануне вечером
 SUMMARY:🎾 Порядок игр определяется накануне вечером
-LOCATION:Стадион «Ролан Гаррос»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T100000Z-tennis--
-DTSTAMP:20240803T100000Z
-DTSTART:20240803T100000Z
-DTEND:20240803T200000Z
-DESCRIPTION:Теннис - Финал, одиночный разряд (ж)\n🇨🇳 ZHENG Qinwen
-SUMMARY:🎾 Финал, одиночный разряд (ж)
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
