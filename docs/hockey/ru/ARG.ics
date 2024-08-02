@@ -93,4 +93,13 @@ DESCRIPTION:Хоккей на траве - Группа B (ж)
 SUMMARY:🏑 Великобритания 🇬🇧 - 🇦🇷 Аргентина
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T180000Z-hockey---GER-ARG
+DTSTAMP:20240804T180000Z
+DTSTART:20240804T180000Z
+DTEND:20240804T094500Z
+DESCRIPTION:Хоккей на траве - Четвертьфинал (м)
+SUMMARY:🏑 Германия 🇩🇪 - 🇦🇷 Аргентина
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
 END:VCALENDAR

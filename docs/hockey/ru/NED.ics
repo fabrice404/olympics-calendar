@@ -93,4 +93,13 @@ DESCRIPTION:Хоккей на траве - Группа A (ж)
 SUMMARY:🏑 Нидерланды 🇳🇱 - 🇯🇵 Япония
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T153000Z-hockey---NED-AUS
+DTSTAMP:20240804T153000Z
+DTSTART:20240804T153000Z
+DTEND:20240804T171500Z
+DESCRIPTION:Хоккей на траве - Четвертьфинал (м)
+SUMMARY:🏑 Нидерланды 🇳🇱 - 🇦🇺 Австралия
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
 END:VCALENDAR

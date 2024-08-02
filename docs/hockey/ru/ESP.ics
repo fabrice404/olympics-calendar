@@ -93,4 +93,13 @@ DESCRIPTION:Хоккей на траве - Группа B (ж)
 SUMMARY:🏑 Австралия 🇦🇺 - 🇪🇸 Испания
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T103000Z-hockey---BEL-ESP
+DTSTAMP:20240804T103000Z
+DTSTART:20240804T103000Z
+DTEND:20240804T194500Z
+DESCRIPTION:Хоккей на траве - Четвертьфинал (м)
+SUMMARY:🏑 Бельгия 🇧🇪 - 🇪🇸 Испания
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
 END:VCALENDAR

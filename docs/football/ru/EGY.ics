@@ -39,4 +39,13 @@ DESCRIPTION:Футбол - Четвертьфинал (м)
 SUMMARY:⚽ Египет 🇪🇬 - 🇵🇾 Парагвай
 LOCATION:Стадион «Марсель»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T190000Z-football--
+DTSTAMP:20240805T190000Z
+DTSTART:20240805T190000Z
+DTEND:20240805T204500Z
+DESCRIPTION:Футбол - Полуфинал (м)\n🇪🇬 Египет
+SUMMARY:⚽ Полуфинал (м)
+LOCATION:Стадион «Лион»
+END:VEVENT
 END:VCALENDAR
