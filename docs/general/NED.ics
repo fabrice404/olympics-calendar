@@ -3815,6 +3815,19 @@ SUMMARY:🏑 NED 🇳🇱 - 🇯🇵 JPN
 LOCATION:Yves-du-Manoir Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T085500Z-athletics-MENS-DECATHLON-DISCUS-THROW-GROUP-A
+DTSTAMP:20240803T085500Z
+DTSTART:20240803T085500Z
+DTEND:20240803T093100Z
+DESCRIPTION:Athletics - Men's Decathlon Discus Throw - Group A\n🇺🇸
+  Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes
+  ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel
+  TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Makenson GLETTY\n🇳🇱 Rik TAAM\n🇩🇪 Till
+  STEINFORTH
+SUMMARY:🏃 Men's Decathlon Discus Throw - Group A
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-swimming-WOMENS-50M-FREESTYLE-HEATS
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -3895,6 +3908,18 @@ DESCRIPTION:Rowing - Men's Eight Final A\n🇦🇺 AUS\n🇩🇪 GER\n🇬🇧
   GBR\n🇳🇱 NED\n🇷🇴 ROU\n🇺🇸 USA
 SUMMARY:🚣 Men's Eight Final A
 LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100500Z-athletics-MENS-DECATHLON-DISCUS-THROW-GROUP-B
+DTSTAMP:20240803T100500Z
+DTSTART:20240803T100500Z
+DTEND:20240803T104100Z
+DESCRIPTION:Athletics - Men's Decathlon Discus Throw - Group B\n🇵🇷 Ayden
+  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇩🇪 Leo
+  NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇴
+  Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Men's Decathlon Discus Throw - Group B
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T100500Z-sailing-WOMENS-DINGHY-RACE-4

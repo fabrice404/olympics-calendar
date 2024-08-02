@@ -4792,6 +4792,25 @@ SUMMARY:🥋 이탈리아 🇮🇹 - 🇭🇺 헝가리
 LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T070000Z-shooting--2
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T120000Z
+DESCRIPTION:사격 - 남자 스키트 예선 - 2일차\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
+  MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸 Conner Lynn PRINCE\n🇰🇿
+  Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷 Efthimios MITAS\n🇫🇷 Eric
+  DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico GIL\n🇮🇹 Gabriele
+  ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub TOMECEK\n🇩🇰 Jesper
+  HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua BELL\n🇰🇷 KIM Minsu\n🇹🇼
+  LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus SVENSSON\n🇰🇼 Mohammad
+  ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬 Omar IBRAHIM\n🇪🇪 Peeter
+  JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹 Sebastian BERMUDEZ
+  LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹 Tammaro CASSANDRO\n🇺🇸
+  Vincent HANCOCK
+SUMMARY:🔫 남자 스키트 예선 - 2일차
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T070000Z-shooting--1
 DTSTAMP:20240803T070000Z
 DTSTART:20240803T070000Z
@@ -4808,6 +4827,33 @@ DESCRIPTION:사격 - 여자 스키트 예선 - 1일차\n🇦🇺 Aislin JONES\n�
   CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
 SUMMARY:🔫 여자 스키트 예선 - 1일차
 LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-golf--3
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T160000Z
+DESCRIPTION:골프 - 남자 개인 스트로크 플레이 3라운드\n🇰🇷 AN Byeong Hun\n🇲🇽 Abraham
+  ANCER\n🇵🇱 Adrian MERONK\n🇧🇪 Adrien DUMONT de CHASSART\n🇦🇷 Alejandro
+  TOSTI\n🇸🇪 Alex NOREN\n🇨🇴 Camilo VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦
+  Christiaan BEZUIDENHOUT\n🇺🇸 Collin MORIKAWA\n🇨🇦 Corey CONNERS\n🇨🇳
+  DOU Zecheng\n🇳🇿 Daniel HILLIER\n🇪🇸 David PUIG\n🇦🇷 Emiliano
+  GRILLO\n🇿🇦 Erik van ROOYEN\n🇵🇾 Fabrizio ZANOTTI\n🇮🇳 Gaganjeet
+  BHULLAR\n🇲🇾 Gavin GREEN\n🇮🇹 Guido MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱
+  Joaquin NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸 Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭
+  Kiradech APHIBARNRAT\n🇳🇴 Kristoffer VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵
+  MATSUYAMA Hideki\n🇬🇧 Matt FITZPATRICK\n🇮🇹 Matteo MANASSERO\n🇩🇪
+  Matthias SCHMID\n🇫🇷 Matthieu PAVON\n🇦🇺 Min Woo LEE\n🇨🇱 Mito
+  PEREIRA\n🇯🇵 NAKAJIMA Keita\n🇨🇦 Nick TAYLOR\n🇨🇴 Nico
+  ECHAVARRIA\n🇩🇰 Nicolai HOJGAARD\n🇹🇼 PAN C.T.\n🇹🇭 Phachara
+  KHONGWATMAI\n🇵🇷 Rafa CAMPOS\n🇮🇪 Rory McILROY\n🇳🇿 Ryan FOX\n🇫🇮
+  Sami VALIMAKI\n🇺🇸 Scottie SCHEFFLER\n🇦🇹 Sepp STRAKA\n🇮🇪 Shane
+  LOWRY\n🇮🇳 Shubhankar SHARMA\n🇩🇪 Stephan JAEGER\n🇫🇮 Tapio
+  PULKKANEN\n🇧🇪 Thomas DETRY\n🇩🇰 Thorbjorn OLESEN\n🇬🇧 Tommy
+  FLEETWOOD\n🇫🇷 Victor PEREZ\n🇳🇴 Viktor HOVLAND\n🇺🇸 Wyndham
+  CLARK\n🇺🇸 Xander SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳 YUAN Yechun
+SUMMARY:⛳ 남자 개인 스트로크 플레이 3라운드
+LOCATION:골프 나시오날
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T081000Z-athletics--

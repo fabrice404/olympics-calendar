@@ -3840,6 +3840,19 @@ SUMMARY:🏑 Нидерланды 🇳🇱 - 🇯🇵 Япония
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T085500Z-athletics--
+DTSTAMP:20240803T085500Z
+DTSTART:20240803T085500Z
+DTEND:20240803T093100Z
+DESCRIPTION:Легкая атлетика - Десятиборье, диск, группа А (м)\n🇺🇸
+  Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes
+  ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel
+  TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Makenson GLETTY\n🇳🇱 Rik TAAM\n🇩🇪 Till
+  STEINFORTH
+SUMMARY:🏃 Десятиборье, диск, группа А (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-swimming-50-
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -3921,6 +3934,18 @@ DESCRIPTION:Академическая гребля - Восьмерки, фин
   Румыния\n🇺🇸 США
 SUMMARY:🚣 Восьмерки, финал A (м)
 LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100500Z-athletics--
+DTSTAMP:20240803T100500Z
+DTSTART:20240803T100500Z
+DTEND:20240803T104100Z
+DESCRIPTION:Легкая атлетика - Десятиборье, диск, группа В (м)\n🇵🇷 Ayden
+  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇩🇪 Leo
+  NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇴
+  Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Десятиборье, диск, группа В (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T100500Z-sailing--04-
