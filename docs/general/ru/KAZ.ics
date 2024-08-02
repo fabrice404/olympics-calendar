@@ -212,10 +212,10 @@ DESCRIPTION:Шоссейные велогонки - Раздельная гон�
   TARLING\n🇫🇷 Kevin VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas
   PLAPP\n🇺🇸 Magnus SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias
   SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰
-  Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO
-  LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴
-  Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴
-  Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
+  Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias
+  FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
 SUMMARY:🚴 Раздельная гонка, индивидуальная (м)
 LOCATION:Мост Александра III
 END:VEVENT
@@ -1138,6 +1138,15 @@ DESCRIPTION:Стрельба - Скорострельный пистолет 25 
   SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
 SUMMARY:🔫 Скорострельный пистолет 25 м, Pаунд 1 (м)
 LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T105200Z-boxing--80--DOM-KAZ
+DTSTAMP:20240804T105200Z
+DTSTART:20240804T105200Z
+DTEND:20240804T110300Z
+DESCRIPTION:Бокс - Полуфинал, до 80кг (м)
+SUMMARY:🥊 Cristian Javier PINALES 🇩🇴 - 🇰🇿 Nurbek ORALBAY
+LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

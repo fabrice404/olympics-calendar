@@ -25,9 +25,9 @@ DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n
   PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰
   Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇵🇱 Michal
   KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇪🇸 Oier
-  LAZKANO LOPEZ\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan
-  MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan
-  KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
+  LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴
+  Soeren WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴
+  Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
 SUMMARY:🚴 男子个人计时赛
 LOCATION:亚历山大三世桥
 END:VEVENT
@@ -134,5 +134,14 @@ DESCRIPTION:竞技体操 - 男子鞍马决赛\n🇰🇷 HUR Woong\n🇳🇱 Lora
   Takaaki\n🇺🇸 Stephen NEDOROSCIK\n🇨🇳 ZOU Jingyuan
 SUMMARY:🤸 男子鞍马决赛
 LOCATION:贝尔西体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T105200Z-boxing-80--DOM-KAZ
+DTSTAMP:20240804T105200Z
+DTSTART:20240804T105200Z
+DTEND:20240804T110300Z
+DESCRIPTION:拳击 - 男子80公斤级 - 半决赛
+SUMMARY:🥊 Cristian Javier PINALES 🇩🇴 - 🇰🇿 Nurbek ORALBAY
+LOCATION:北巴黎竞技场
 END:VEVENT
 END:VCALENDAR
