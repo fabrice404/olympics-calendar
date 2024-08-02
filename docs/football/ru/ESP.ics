@@ -75,4 +75,13 @@ DESCRIPTION:Футбол - Четвертьфинал (ж)
 SUMMARY:⚽ Испания 🇪🇸 - 🇨🇴 Колумбия
 LOCATION:Стадион «Лион»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T160000Z-football---MAR-ESP
+DTSTAMP:20240805T160000Z
+DTSTART:20240805T160000Z
+DTEND:20240805T174500Z
+DESCRIPTION:Футбол - Полуфинал (м)
+SUMMARY:⚽ Марокко 🇲🇦 - 🇪🇸 Испания
+LOCATION:Стадион «Марсель»
+END:VEVENT
 END:VCALENDAR
