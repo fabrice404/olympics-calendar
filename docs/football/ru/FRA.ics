@@ -75,4 +75,13 @@ DESCRIPTION:Футбол - Четвертьфинал (ж)
 SUMMARY:⚽ Франция 🇫🇷 - 🇧🇷 Бразилия
 LOCATION:Стадион «Божуар»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T190000Z-football---FRA-EGY
+DTSTAMP:20240805T190000Z
+DTSTART:20240805T190000Z
+DTEND:20240805T204500Z
+DESCRIPTION:Футбол - Полуфинал (м)
+SUMMARY:⚽ Франция 🇫🇷 - 🇪🇬 Египет
+LOCATION:Стадион «Лион»
+END:VEVENT
 END:VCALENDAR
