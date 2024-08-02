@@ -202,4 +202,13 @@ DESCRIPTION:Теннис - Полуфинал, одиночный разряд (
 SUMMARY:🎾 Felix AUGER-ALIASSIME 🇨🇦 - 🇪🇸 Carlos ALCARAZ
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T100000Z-tennis--
+DTSTAMP:20240804T100000Z
+DTSTART:20240804T100000Z
+DTEND:20240804T200000Z
+DESCRIPTION:Теннис - Финал, одиночный разряд (м)\n🇪🇸 Carlos ALCARAZ
+SUMMARY:🎾 Финал, одиночный разряд (м)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
 END:VCALENDAR
