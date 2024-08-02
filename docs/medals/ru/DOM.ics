@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//medals/DOM//EN
+PRODID:-//fabrice404//olympics-calendar//medals/ru/DOM//EN
 X-WR-CALNAME:🇩🇴 Dominican Republic 🏅 | Paris 2024
 NAME:🇩🇴 Dominican Republic 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240804T102000Z-boxing-MENS-51KG-SEMIFINAL-FRA-DOM
+UID:20240804T102000Z-boxing--51--FRA-DOM
 DTSTAMP:20240804T102000Z
 DTSTART:20240804T102000Z
 DTEND:20240804T103100Z
-DESCRIPTION:Boxing - Men's 51kg - Semifinal
+DESCRIPTION:Бокс - Полуфинал, до 51кг (м)
 SUMMARY:🥊 Billal BENNAMA 🇫🇷 - 🇩🇴 Yunior ALCANTARA REYES
-LOCATION:North Paris Arena
+LOCATION:Арена «Париж-Север»
 END:VEVENT
 END:VCALENDAR
