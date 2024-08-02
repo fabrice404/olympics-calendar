@@ -518,7 +518,7 @@ BEGIN:VEVENT
 UID:20240801T091800Z-swimming-50M
 DTSTAMP:20240801T091800Z
 DTSTART:20240801T091800Z
-DTEND:20240801T094700Z
+DTEND:20240801T094500Z
 DESCRIPTION:競泳 - 男子50m自由形予選\n🇪🇷 Aaron Ghebre OWUSU\n🇬🇦 Adam MPALI\n🏳️
   Alaa MASO\n🇻🇪 Alberto MESTRE\n🇻🇨 Alex JOACHIM\n🇬🇧 Alexander
   COHOON\n🇷🇸 Andrej BARNA\n🇨🇩 Aristote NDOMBE IMPELENGA\n🇩🇪 Artem
@@ -590,7 +590,7 @@ BEGIN:VEVENT
 UID:20240802T090000Z-swimming-100M
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
-DTEND:20240802T091700Z
+DTEND:20240802T091500Z
 DESCRIPTION:競泳 - 男子100mバタフライ予選\n🇰🇿 Adilbek MUSSIN\n🇦🇺 Ben
   ARMBRUSTER\n🇺🇸 Caeleb DRESSEL\n🇳🇿 Cameron GRAY\n🇿🇦 Chad le
   CLOS\n🇫🇷 Clement SECCHI\n🇨🇿 Daniel GRACIK\n🇵🇹 Diogo MATOS
@@ -625,11 +625,28 @@ BEGIN:VEVENT
 UID:20240802T100300Z-swimming-4100M
 DTSTAMP:20240802T100300Z
 DTSTART:20240802T100300Z
-DTEND:20240802T101600Z
-DESCRIPTION:競泳 - 混合4×100mメドレーリレー予選\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹
-  イタリア\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇬🇷 ギリシャ\n🇸🇪 スウェーデン\n🇩🇪
-  ドイツ\n🇫🇷 フランス\n🇧🇷 ブラジル\n🇵🇱 ポーランド\n🇨🇳 中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧
-  英国
+DTEND:20240802T101500Z
+DESCRIPTION:競泳 - 混合4×100mメドレーリレー予選\n🇺🇸 Abbey WEITZEIL\n🇵🇱 Adrian
+  JASKIEWICZ\n🇮🇱 Anastasia GORBENKO\n🇮🇱 Andrea MUREZ\n🇩🇪 Angelina
+  KOEHLER\n🇬🇧 Anna HOPKIN\n🇬🇷 Anna NTOUNTOUNAKI\n🇫🇷 Antoine
+  VIQUERAT\n🇨🇦 Apollo HESS\n🇬🇷 Apostolos CHRISTOU\n🇨🇦 Blake
+  TIERNEY\n🇰🇷 CHOI Dongyeol\n🇺🇸 Caeleb DRESSEL\n🇳🇱 Caspar
+  CORBEAU\n🇺🇸 Charlie SWANSON\n🇮🇹 Costanza COCCONCELLI\n🇵🇱 Dominika
+  SZTANDERA\n🇦🇺 Emma McKEON\n🇸🇪 Erik PERSSON\n🇬🇷 Evangelos Efraim
+  NTOUMAS\n🇧🇷 Gabrielle RONCATTO\n🇮🇱 Gal COHEN GROUMI\n🇧🇷 Guilherme
+  BASSETO\n🇯🇵 HIRAI Mizuki\n🇰🇷 HUR Yeonkyung\n🇸🇪 Hanna ROSVALL\n🇯🇵
+  IKEE Rikako\n🇦🇺 Iona ANDERSON\n🇬🇧 James WILBY\n🇬🇧 Joe Richard
+  LITCHFIELD\n🇰🇷 KIM Jihun\n🇵🇱 Kacper STOKOWSKI\n🇳🇱 Kai van
+  WESTERING\n🇬🇧 Kathleen DAWSON\n🇵🇱 Kornelia FIEDKIEWICZ\n🇦🇺 Kyle
+  CHALMERS\n🇰🇷 LEE Eunji\n🇫🇷 Lilou RESSENCOURT\n🇯🇵 MATSUYAMA
+  Riku\n🇨🇦 Margaret MAC NEIL\n🇫🇷 Marie WATTEL\n🇳🇱 Marrit
+  STEENBERGEN\n🇩🇪 Melvin IMOUDU\n🇮🇹 Michele LAMBERTI\n🇧🇷 Nicolas
+  ALBIERO\n🇮🇹 Nicolo MARTINENGHI\n🇩🇪 Nina HOLT\n🇩🇪 Ole
+  BRAUNSCHWEIG\n🇨🇳 PAN Zhanle\n🇺🇸 Regan SMITH\n🇸🇪 Robin HANSON\n🇮🇱
+  Ron POLONSKY\n🇸🇪 Sara JUNEVIK\n🇮🇹 Sofia MORINI\n🇧🇷 Stephanie
+  BALDUCCINI\n🇨🇳 TANG Qianting\n🇯🇵 TANIGUCHI Taku\n🇨🇦 Taylor
+  RUCK\n🇳🇱 Tessa GIELE\n🇬🇷 Theodora DRAKOU\n🇨🇳 XU Jiayu\n🇫🇷 Yohann
+  NDOYE-BROUARD\n🇨🇳 ZHANG Yufei\n🇦🇺 Zac STUBBLETY-COOK
 SUMMARY:🏊 混合4×100mメドレーリレー予選
 LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
@@ -637,7 +654,7 @@ BEGIN:VEVENT
 UID:20240803T093000Z-swimming-1500M
 DTSTAMP:20240803T093000Z
 DTSTART:20240803T093000Z
-DTEND:20240803T104000Z
+DTEND:20240803T103900Z
 DESCRIPTION:競泳 - 男子1500m自由形予選\n🇹🇳 Ahmed JAOUADI\n🇺🇸 Bobby FINKE\n🇪🇸
   Carlos GARACH BENITO\n🇫🇷 Damien JOLY\n🇬🇧 Daniel JERVIS\n🇮🇪 Daniel
   WIFFEN\n🇫🇷 David AUBRY\n🇭🇺 David BETLEHEM\n🇺🇸 David JOHNSTON\n🇬🇷

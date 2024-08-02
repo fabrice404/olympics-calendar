@@ -589,7 +589,7 @@ BEGIN:VEVENT
 UID:20240801T090000Z-swimming-200-
 DTSTAMP:20240801T090000Z
 DTSTART:20240801T090000Z
-DTEND:20240801T091800Z
+DTEND:20240801T091700Z
 DESCRIPTION:Плавание - 200м на спине, квалификация (ж)\n🇵🇱 Adela
   PISKORSKA\n🇪🇸 Africa ZAMORANO SANZ\n🇮🇱 Anastasia GORBENKO\n🇲🇺
   Anishta TEELUCK\n🇮🇱 Aviv BARZELAY\n🇭🇰 CHEUNG Sum Yuet Cindy\n🇵🇹
@@ -606,7 +606,7 @@ BEGIN:VEVENT
 UID:20240801T091800Z-swimming-50-
 DTSTAMP:20240801T091800Z
 DTSTART:20240801T091800Z
-DTEND:20240801T094700Z
+DTEND:20240801T094500Z
 DESCRIPTION:Плавание - 50м вольным стилем, квалификация (м)\n🇪🇷 Aaron
   Ghebre OWUSU\n🇬🇦 Adam MPALI\n🏳️ Alaa MASO\n🇻🇪 Alberto MESTRE\n🇻🇨
   Alex JOACHIM\n🇬🇧 Alexander COHOON\n🇷🇸 Andrej BARNA\n🇨🇩 Aristote
@@ -638,7 +638,7 @@ BEGIN:VEVENT
 UID:20240801T094700Z-swimming-200-
 DTSTAMP:20240801T094700Z
 DTSTART:20240801T094700Z
-DTEND:20240801T100500Z
+DTEND:20240801T100400Z
 DESCRIPTION:Плавание - 200м комплексом, квалификация (м)\n🇮🇹 Alberto
   RAZZETTI\n🇬🇷 Apostolos PAPASTAMOS\n🇹🇷 Berke SAKA\n🇺🇸 Carson
   FOSTER\n🇬🇧 Duncan SCOTT\n🇬🇹 Erick GORDILLO\n🇧🇴 Esteban NUNEZ del
@@ -713,7 +713,7 @@ BEGIN:VEVENT
 UID:20240802T091700Z-swimming-200-
 DTSTAMP:20240802T091700Z
 DTSTART:20240802T091700Z
-DTEND:20240802T094000Z
+DTEND:20240802T093900Z
 DESCRIPTION:Плавание - 200м комплексом, квалификация (ж)\n🇬🇧 Abbie
   WOOD\n🇺🇸 Alex WALSH\n🇮🇱 Anastasia GORBENKO\n🇮🇩 Azzahra
   PERMATAHANI\n🇨🇿 Barbora SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma
@@ -747,12 +747,29 @@ BEGIN:VEVENT
 UID:20240802T100300Z-swimming--4X100-
 DTSTAMP:20240802T100300Z
 DTSTART:20240802T100300Z
-DTEND:20240802T101600Z
+DTEND:20240802T101500Z
 DESCRIPTION:Плавание - Эстафета 4x100м комплексом, квалификация
-  (микст)\n🇦🇺 Австралия\n🇧🇷 Бразилия\n🇬🇧 Великобритания\n🇩🇪
-  Германия\n🇬🇷 Греция\n🇮🇱 Израиль\n🇮🇹 Италия\n🇨🇦 Канада\n🇨🇳
-  Китай\n🇳🇱 Нидерланды\n🇵🇱 Польша\n🇺🇸 США\n🇫🇷 Франция\n🇸🇪
-  Швеция\n🇰🇷 Южная Корея\n🇯🇵 Япония
+  (микст)\n🇺🇸 Abbey WEITZEIL\n🇵🇱 Adrian JASKIEWICZ\n🇮🇱 Anastasia
+  GORBENKO\n🇮🇱 Andrea MUREZ\n🇩🇪 Angelina KOEHLER\n🇬🇧 Anna
+  HOPKIN\n🇬🇷 Anna NTOUNTOUNAKI\n🇫🇷 Antoine VIQUERAT\n🇨🇦 Apollo
+  HESS\n🇬🇷 Apostolos CHRISTOU\n🇨🇦 Blake TIERNEY\n🇰🇷 CHOI
+  Dongyeol\n🇺🇸 Caeleb DRESSEL\n🇳🇱 Caspar CORBEAU\n🇺🇸 Charlie
+  SWANSON\n🇮🇹 Costanza COCCONCELLI\n🇵🇱 Dominika SZTANDERA\n🇦🇺 Emma
+  McKEON\n🇸🇪 Erik PERSSON\n🇬🇷 Evangelos Efraim NTOUMAS\n🇧🇷 Gabrielle
+  RONCATTO\n🇮🇱 Gal COHEN GROUMI\n🇧🇷 Guilherme BASSETO\n🇯🇵 HIRAI
+  Mizuki\n🇰🇷 HUR Yeonkyung\n🇸🇪 Hanna ROSVALL\n🇯🇵 IKEE Rikako\n🇦🇺
+  Iona ANDERSON\n🇬🇧 James WILBY\n🇬🇧 Joe Richard LITCHFIELD\n🇰🇷 KIM
+  Jihun\n🇵🇱 Kacper STOKOWSKI\n🇳🇱 Kai van WESTERING\n🇬🇧 Kathleen
+  DAWSON\n🇵🇱 Kornelia FIEDKIEWICZ\n🇦🇺 Kyle CHALMERS\n🇰🇷 LEE
+  Eunji\n🇫🇷 Lilou RESSENCOURT\n🇯🇵 MATSUYAMA Riku\n🇨🇦 Margaret MAC
+  NEIL\n🇫🇷 Marie WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇩🇪 Melvin
+  IMOUDU\n🇮🇹 Michele LAMBERTI\n🇧🇷 Nicolas ALBIERO\n🇮🇹 Nicolo
+  MARTINENGHI\n🇩🇪 Nina HOLT\n🇩🇪 Ole BRAUNSCHWEIG\n🇨🇳 PAN Zhanle\n🇺🇸
+  Regan SMITH\n🇸🇪 Robin HANSON\n🇮🇱 Ron POLONSKY\n🇸🇪 Sara
+  JUNEVIK\n🇮🇹 Sofia MORINI\n🇧🇷 Stephanie BALDUCCINI\n🇨🇳 TANG
+  Qianting\n🇯🇵 TANIGUCHI Taku\n🇨🇦 Taylor RUCK\n🇳🇱 Tessa GIELE\n🇬🇷
+  Theodora DRAKOU\n🇨🇳 XU Jiayu\n🇫🇷 Yohann NDOYE-BROUARD\n🇨🇳 ZHANG
+  Yufei\n🇦🇺 Zac STUBBLETY-COOK
 SUMMARY:🏊 Эстафета 4x100м комплексом, квалификация (микст)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
@@ -760,7 +777,7 @@ BEGIN:VEVENT
 UID:20240802T183000Z-swimming-50-
 DTSTAMP:20240802T183000Z
 DTSTART:20240802T183000Z
-DTEND:20240802T183600Z
+DTEND:20240802T183700Z
 DESCRIPTION:Плавание - 50м вольным стилем, финал (м)\n🇬🇧 Benjamin
   PROUD\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron McEVOY\n🇫🇷 Florent
   MANAUDOU\n🇰🇾 Jordan CROOKS\n🇨🇦 Josh LIENDO\n🇬🇷 Kristian
@@ -769,10 +786,10 @@ SUMMARY:🏊 50м вольным стилем, финал (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T184300Z-swimming-200-
-DTSTAMP:20240802T184300Z
-DTSTART:20240802T184300Z
-DTEND:20240802T185000Z
+UID:20240802T184500Z-swimming-200-
+DTSTAMP:20240802T184500Z
+DTSTART:20240802T184500Z
+DTEND:20240802T185300Z
 DESCRIPTION:Плавание - 200м комплексом, финал (м)\n🇮🇹 Alberto
   RAZZETTI\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇨🇦 Finlay KNOX\n🇫🇷
   Leon MARCHAND\n🇯🇵 SETO Daiya\n🇬🇧 Tom DEAN\n🇨🇳 WANG Shun
@@ -783,7 +800,7 @@ BEGIN:VEVENT
 UID:20240803T090000Z-swimming-50-
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
-DTEND:20240803T093000Z
+DTEND:20240803T092700Z
 DESCRIPTION:Плавание - 50м вольным стилем, квалификация (ж)\n🇳🇬 Adaku
   NWANDU\n🇹🇬 Adele Sodalo Agnes GAITOU\n🇲🇱 Aichata DIABATE\n🇲🇻
   Aishath Ulya SHAIG\n🇫🇯 Anahira McCUTCHEON\n🇪🇨 Anicka DELGADO\n🇬🇧
@@ -818,7 +835,7 @@ BEGIN:VEVENT
 UID:20240803T093000Z-swimming-1500-
 DTSTAMP:20240803T093000Z
 DTSTART:20240803T093000Z
-DTEND:20240803T104000Z
+DTEND:20240803T103900Z
 DESCRIPTION:Плавание - 1500м вольным стилем, квалификация (м)\n🇹🇳 Ahmed
   JAOUADI\n🇺🇸 Bobby FINKE\n🇪🇸 Carlos GARACH BENITO\n🇫🇷 Damien
   JOLY\n🇬🇧 Daniel JERVIS\n🇮🇪 Daniel WIFFEN\n🇫🇷 David AUBRY\n🇭🇺

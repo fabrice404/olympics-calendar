@@ -439,7 +439,7 @@ BEGIN:VEVENT
 UID:20240801T094700Z-swimming--200M-
 DTSTAMP:20240801T094700Z
 DTSTART:20240801T094700Z
-DTEND:20240801T100500Z
+DTEND:20240801T100400Z
 DESCRIPTION:경영 - 남자 200m 개인 혼영 - 예선\n🇮🇹 Alberto RAZZETTI\n🇬🇷 Apostolos
   PAPASTAMOS\n🇹🇷 Berke SAKA\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇬🇹
   Erick GORDILLO\n🇧🇴 Esteban NUNEZ del PRADO\n🇨🇦 Finlay KNOX\n🇭🇺
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 UID:20240802T090000Z-swimming--100M-
 DTSTAMP:20240802T090000Z
 DTSTART:20240802T090000Z
-DTEND:20240802T091700Z
+DTEND:20240802T091500Z
 DESCRIPTION:경영 - 남자 100m 접영 - 예선\n🇰🇿 Adilbek MUSSIN\n🇦🇺 Ben
   ARMBRUSTER\n🇺🇸 Caeleb DRESSEL\n🇳🇿 Cameron GRAY\n🇿🇦 Chad le
   CLOS\n🇫🇷 Clement SECCHI\n🇨🇿 Daniel GRACIK\n🇵🇹 Diogo MATOS
@@ -529,7 +529,7 @@ BEGIN:VEVENT
 UID:20240802T091700Z-swimming--200M-
 DTSTAMP:20240802T091700Z
 DTSTART:20240802T091700Z
-DTEND:20240802T094000Z
+DTEND:20240802T093900Z
 DESCRIPTION:경영 - 여자 200m 개인 혼영 - 예선\n🇬🇧 Abbie WOOD\n🇺🇸 Alex WALSH\n🇮🇱
   Anastasia GORBENKO\n🇮🇩 Azzahra PERMATAHANI\n🇨🇿 Barbora
   SEEMANOVA\n🇫🇷 Charlotte BONNET\n🇭🇺 Dalma SEBESTYEN\n🇦🇺 Ella
@@ -549,18 +549,36 @@ BEGIN:VEVENT
 UID:20240802T100300Z-swimming--4-X-100M-
 DTSTAMP:20240802T100300Z
 DTSTART:20240802T100300Z
-DTEND:20240802T101600Z
-DESCRIPTION:경영 - 혼성 4 x 100m 혼계영 - 예선\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇰🇷 대한민국\n🇩🇪
-  독일\n🇺🇸 미국\n🇧🇷 브라질\n🇸🇪 스웨덴\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇮🇱 이스라엘\n🇮🇹
-  이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇵🇱 폴란드\n🇫🇷 프랑스
+DTEND:20240802T101500Z
+DESCRIPTION:경영 - 혼성 4 x 100m 혼계영 - 예선\n🇺🇸 Abbey WEITZEIL\n🇵🇱 Adrian
+  JASKIEWICZ\n🇮🇱 Anastasia GORBENKO\n🇮🇱 Andrea MUREZ\n🇩🇪 Angelina
+  KOEHLER\n🇬🇧 Anna HOPKIN\n🇬🇷 Anna NTOUNTOUNAKI\n🇫🇷 Antoine
+  VIQUERAT\n🇨🇦 Apollo HESS\n🇬🇷 Apostolos CHRISTOU\n🇨🇦 Blake
+  TIERNEY\n🇰🇷 CHOI Dongyeol\n🇺🇸 Caeleb DRESSEL\n🇳🇱 Caspar
+  CORBEAU\n🇺🇸 Charlie SWANSON\n🇮🇹 Costanza COCCONCELLI\n🇵🇱 Dominika
+  SZTANDERA\n🇦🇺 Emma McKEON\n🇸🇪 Erik PERSSON\n🇬🇷 Evangelos Efraim
+  NTOUMAS\n🇧🇷 Gabrielle RONCATTO\n🇮🇱 Gal COHEN GROUMI\n🇧🇷 Guilherme
+  BASSETO\n🇯🇵 HIRAI Mizuki\n🇰🇷 HUR Yeonkyung\n🇸🇪 Hanna ROSVALL\n🇯🇵
+  IKEE Rikako\n🇦🇺 Iona ANDERSON\n🇬🇧 James WILBY\n🇬🇧 Joe Richard
+  LITCHFIELD\n🇰🇷 KIM Jihun\n🇵🇱 Kacper STOKOWSKI\n🇳🇱 Kai van
+  WESTERING\n🇬🇧 Kathleen DAWSON\n🇵🇱 Kornelia FIEDKIEWICZ\n🇦🇺 Kyle
+  CHALMERS\n🇰🇷 LEE Eunji\n🇫🇷 Lilou RESSENCOURT\n🇯🇵 MATSUYAMA
+  Riku\n🇨🇦 Margaret MAC NEIL\n🇫🇷 Marie WATTEL\n🇳🇱 Marrit
+  STEENBERGEN\n🇩🇪 Melvin IMOUDU\n🇮🇹 Michele LAMBERTI\n🇧🇷 Nicolas
+  ALBIERO\n🇮🇹 Nicolo MARTINENGHI\n🇩🇪 Nina HOLT\n🇩🇪 Ole
+  BRAUNSCHWEIG\n🇨🇳 PAN Zhanle\n🇺🇸 Regan SMITH\n🇸🇪 Robin HANSON\n🇮🇱
+  Ron POLONSKY\n🇸🇪 Sara JUNEVIK\n🇮🇹 Sofia MORINI\n🇧🇷 Stephanie
+  BALDUCCINI\n🇨🇳 TANG Qianting\n🇯🇵 TANIGUCHI Taku\n🇨🇦 Taylor
+  RUCK\n🇳🇱 Tessa GIELE\n🇬🇷 Theodora DRAKOU\n🇨🇳 XU Jiayu\n🇫🇷 Yohann
+  NDOYE-BROUARD\n🇨🇳 ZHANG Yufei\n🇦🇺 Zac STUBBLETY-COOK
 SUMMARY:🏊 혼성 4 x 100m 혼계영 - 예선
 LOCATION:파리 라 데팡스 아레나
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T184300Z-swimming--200M-
-DTSTAMP:20240802T184300Z
-DTSTART:20240802T184300Z
-DTEND:20240802T185000Z
+UID:20240802T184500Z-swimming--200M-
+DTSTAMP:20240802T184500Z
+DTSTART:20240802T184500Z
+DTEND:20240802T185300Z
 DESCRIPTION:경영 - 남자 200m 개인 혼영 결승\n🇮🇹 Alberto RAZZETTI\n🇺🇸 Carson
   FOSTER\n🇬🇧 Duncan SCOTT\n🇨🇦 Finlay KNOX\n🇫🇷 Leon MARCHAND\n🇯🇵
   SETO Daiya\n🇬🇧 Tom DEAN\n🇨🇳 WANG Shun
