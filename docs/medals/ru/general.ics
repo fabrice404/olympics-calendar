@@ -2121,7 +2121,9 @@ UID:20240803T183000Z-swimming-100-
 DTSTAMP:20240803T183000Z
 DTSTART:20240803T183000Z
 DTEND:20240803T183700Z
-DESCRIPTION:Плавание - 100м баттерфляем, финал (м)
+DESCRIPTION:Плавание - 100м баттерфляем, финал (м)\n🇨🇦 Ilya KHARUN\n🇨🇦
+  Josh LIENDO\n🇭🇺 Kristof MILAK\n🇯🇵 MIZUNUMA Naoki\n🇦🇺 Matthew
+  TEMPLE\n🇫🇷 Maxime GROUSSET\n🇨🇭 Noe PONTI\n🇳🇱 Nyls KORSTANJE
 SUMMARY:🏊 100м баттерфляем, финал (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
@@ -2141,7 +2143,9 @@ UID:20240803T190800Z-swimming-200-
 DTSTAMP:20240803T190800Z
 DTSTART:20240803T190800Z
 DTEND:20240803T191500Z
-DESCRIPTION:Плавание - 200м комплексом, финал (ж)
+DESCRIPTION:Плавание - 200м комплексом, финал (ж)\n🇬🇧 Abbie WOOD\n🇺🇸
+  Alex WALSH\n🇦🇺 Ella RAMSAY\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee
+  McKEOWN\n🇨🇦 Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇨🇳 YU Yiting
 SUMMARY:🏊 200м комплексом, финал (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
@@ -2477,12 +2481,12 @@ SUMMARY:🥊 Erislandy ALVAREZ BORGES 🇨🇺 - 🇬🇪 Lasha GURULI
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T152200Z-boxing--80-
+UID:20240804T152200Z-boxing--80--UKR-CUB
 DTSTAMP:20240804T152200Z
 DTSTART:20240804T152200Z
 DTEND:20240804T153300Z
-DESCRIPTION:Бокс - Полуфинал, до 80кг (м)\n🇺🇦 Oleksandr KHYZHNIAK
-SUMMARY:🥊 Полуфинал, до 80кг (м)
+DESCRIPTION:Бокс - Полуфинал, до 80кг (м)
+SUMMARY:🥊 Oleksandr KHYZHNIAK 🇺🇦 - 🇨🇺 Arlen LOPEZ CARDONA
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
