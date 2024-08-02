@@ -12,4 +12,13 @@ DESCRIPTION:배드민턴 - 여자 복식 동메달 결정전
 SUMMARY:🏸 TAN/THINAAH 🇲🇾 - 🇯🇵 MATSUYAMA/SHIDA
 LOCATION:라 샤펠 아레나
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T130000Z-badminton--
+DTSTAMP:20240804T130000Z
+DTSTART:20240804T130000Z
+DTEND:20240804T153000Z
+DESCRIPTION:배드민턴 - 남자 복식 동메달 결정전\n🇲🇾 CHIA/SOH
+SUMMARY:🏸 남자 복식 동메달 결정전
+LOCATION:라 샤펠 아레나
+END:VEVENT
 END:VCALENDAR
