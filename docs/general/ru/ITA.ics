@@ -5006,6 +5006,25 @@ SUMMARY:🚴 Групповая гонка (м)
 LOCATION:Трокадеро
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T092000Z-athletics-800-
+DTSTAMP:20240803T092000Z
+DTSTART:20240803T092000Z
+DTEND:20240803T094600Z
+DESCRIPTION:Легкая атлетика - 800м, утешительный раунд (ж)\n🇦🇺 Abbey
+  CALDWELL\n🇯🇲 Adelle TRACEY\n🇺🇸 Allie WILSON\n🇰🇼 Amal AL ROUMI\n🇫🇷
+  Anais BOURGOIN\n🇸🇮 Anita HORVAT\n🇵🇱 Anna WIELGOSZ\n🇨🇭 Audrey
+  WERRO\n🇦🇺 Catriona BISSET\n🇮🇹 Elena BELLO\n🇮🇹 Eloisa COIRO\n🇫🇮
+  Eveliina MAATTANEN\n🇧🇷 Flavia Maria de LIMA\n🇱🇹 Gabija
+  GALVYDYTE\n🇽🇰 Gresa BAKRACI\n🇪🇹 Habitam ALEMU\n🇺🇬 Halimah
+  NAKAAYI\n🇨🇦 Jazz SHUKLA\n🇵🇸 Layla ALMASRI\n🇫🇷 Lena
+  KANDISSOUNON\n🇪🇸 Lorea IBARZABAL\n🇪🇸 Lorena MARTIN\n🇩🇪 Majtie
+  KOLBERG\n🇧🇭 Nelly JEPKOSGEI\n🇧🇼 Oratile NOWE\n🏳️ Perina Lokure
+  NAKANG\n🇨🇺 Rose Mary ALMANZA\n🇬🇲 Sanu JALLOW\n🇱🇰 Tharushi
+  KARUNARATHNA\n🇨🇭 Valentina ROSAMILIA\n🇰🇪 Vivian Chebet KIPROTICH
+SUMMARY:🏃 800м, утешительный раунд (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T093000Z-swimming-1500-
 DTSTAMP:20240803T093000Z
 DTSTART:20240803T093000Z
@@ -5022,6 +5041,15 @@ DESCRIPTION:Плавание - 1500м вольным стилем, квалиф�
   STANCU\n🇭🇺 Zalan SARKANY
 SUMMARY:🏊 1500м вольным стилем, квалификация (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100000Z-tennis---ITA-CAN
+DTSTAMP:20240803T100000Z
+DTSTART:20240803T100000Z
+DTEND:20240803T160000Z
+DESCRIPTION:Теннис - Матч за бронзу, одиночный разряд (м)
+SUMMARY:🎾 Lorenzo MUSETTI 🇮🇹 - 🇨🇦 Felix AUGER-ALIASSIME
+LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T100500Z-sailing--04-
