@@ -4262,6 +4262,17 @@ SUMMARY:🏹 LIM Sihyeon 🇰🇷 - 🇬🇧 Megs HAVERS
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T085000Z-rowing--A-
+DTSTAMP:20240803T085000Z
+DTSTART:20240803T085000Z
+DTEND:20240803T085700Z
+DESCRIPTION:Академическая гребля - Восьмерки, финал A (ж)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇮🇹 Италия\n🇨🇦 Канада\n🇷🇴
+  Румыния\n🇺🇸 США
+SUMMARY:🚣 Восьмерки, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-swimming-50-
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -4295,6 +4306,17 @@ DESCRIPTION:Плавание - 50м вольным стилем, квалифи�
   BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
 SUMMARY:🏊 50м вольным стилем, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T091000Z-rowing--A-
+DTSTAMP:20240803T091000Z
+DTSTART:20240803T091000Z
+DTEND:20240803T091700Z
+DESCRIPTION:Академическая гребля - Восьмерки, финал A (м)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇳🇱 Нидерланды\n🇷🇴
+  Румыния\n🇺🇸 США
+SUMMARY:🚣 Восьмерки, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T093000Z-swimming-1500-

@@ -308,4 +308,26 @@ DESCRIPTION:Sailing - Men's Skiff Medal Race\n🇺🇸 BARROWS/HENKEN\n🇪🇸
 SUMMARY:⛵ Men's Skiff Medal Race
 LOCATION:Marseille Marina
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T081800Z-rowing-WOMENS-SINGLE-SCULLS-FINAL-A
+DTSTAMP:20240803T081800Z
+DTSTART:20240803T081800Z
+DTEND:20240803T082500Z
+DESCRIPTION:Rowing - Women's Single Sculls Final A\n🇧🇬 Desislava
+  ANGELOVA\n🇳🇿 Emma TWIGG\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇦🇺
+  Tara RIGNEY\n🇱🇹 Viktorija SENKUTE
+SUMMARY:🚣 Women's Single Sculls Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T083000Z-rowing-MENS-SINGLE-SCULLS-FINAL-A
+DTSTAMP:20240803T083000Z
+DTSTART:20240803T083000Z
+DTEND:20240803T083700Z
+DESCRIPTION:Rowing - Men's Single Sculls Final A\n🇩🇪 Oliver ZEIDLER\n🇳🇱
+  Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim
+  BRYS
+SUMMARY:🚣 Men's Single Sculls Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
 END:VCALENDAR

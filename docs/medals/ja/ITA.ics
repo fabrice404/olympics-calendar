@@ -582,4 +582,14 @@ DESCRIPTION:競泳 - 男子200m個人メドレー決勝\n🇮🇹 Alberto RAZZET
 SUMMARY:🏊 男子200m個人メドレー決勝
 LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T085000Z-rowing-A
+DTSTAMP:20240803T085000Z
+DTSTART:20240803T085000Z
+DTEND:20240803T085700Z
+DESCRIPTION:ローイング - 女子エイト決勝A\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇦🇺 オーストラリア\n🇨🇦
+  カナダ\n🇷🇴 ルーマニア\n🇬🇧 英国
+SUMMARY:🚣 女子エイト決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
 END:VCALENDAR

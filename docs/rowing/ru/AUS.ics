@@ -372,4 +372,37 @@ DESCRIPTION:Академическая гребля - Двойки, финал A
 SUMMARY:🚣 Двойки, финал A (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T081800Z-rowing--A-
+DTSTAMP:20240803T081800Z
+DTSTART:20240803T081800Z
+DTEND:20240803T082500Z
+DESCRIPTION:Академическая гребля - Одиночки, финал A (ж)\n🇧🇬 Desislava
+  ANGELOVA\n🇳🇿 Emma TWIGG\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇦🇺
+  Tara RIGNEY\n🇱🇹 Viktorija SENKUTE
+SUMMARY:🚣 Одиночки, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T085000Z-rowing--A-
+DTSTAMP:20240803T085000Z
+DTSTART:20240803T085000Z
+DTEND:20240803T085700Z
+DESCRIPTION:Академическая гребля - Восьмерки, финал A (ж)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇮🇹 Италия\n🇨🇦 Канада\n🇷🇴
+  Румыния\n🇺🇸 США
+SUMMARY:🚣 Восьмерки, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T091000Z-rowing--A-
+DTSTAMP:20240803T091000Z
+DTSTART:20240803T091000Z
+DTEND:20240803T091700Z
+DESCRIPTION:Академическая гребля - Восьмерки, финал A (м)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇳🇱 Нидерланды\n🇷🇴
+  Румыния\n🇺🇸 США
+SUMMARY:🚣 Восьмерки, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
 END:VCALENDAR

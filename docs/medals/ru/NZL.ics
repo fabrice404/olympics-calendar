@@ -318,4 +318,26 @@ DESCRIPTION:Парусный спорт - Скиф, медальная гонк�
 SUMMARY:⛵ Скиф, медальная гонка (м)
 LOCATION:Марсельская гавань
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T081800Z-rowing--A-
+DTSTAMP:20240803T081800Z
+DTSTART:20240803T081800Z
+DTEND:20240803T082500Z
+DESCRIPTION:Академическая гребля - Одиночки, финал A (ж)\n🇧🇬 Desislava
+  ANGELOVA\n🇳🇿 Emma TWIGG\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇦🇺
+  Tara RIGNEY\n🇱🇹 Viktorija SENKUTE
+SUMMARY:🚣 Одиночки, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T083000Z-rowing--A-
+DTSTAMP:20240803T083000Z
+DTSTART:20240803T083000Z
+DTEND:20240803T083700Z
+DESCRIPTION:Академическая гребля - Одиночки, финал A (м)\n🇩🇪 Oliver
+  ZEIDLER\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas
+  MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 Одиночки, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
 END:VCALENDAR

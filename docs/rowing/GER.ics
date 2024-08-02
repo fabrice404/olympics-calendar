@@ -313,4 +313,36 @@ DESCRIPTION:Rowing - Men's Pair Final B\n🇩🇪 GER\n🇮🇹 ITA\n🇱🇹 LT
 SUMMARY:🚣 Men's Pair Final B
 LOCATION:Nautical St - Flat water
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T075400Z-rowing-WOMENS-SINGLE-SCULLS-FINAL-B
+DTSTAMP:20240803T075400Z
+DTSTART:20240803T075400Z
+DTEND:20240803T080100Z
+DESCRIPTION:Rowing - Women's Single Sculls Final B\n🇩🇪 Alexandra
+  FOESTER\n🇺🇿 Anna PRAKATEN\n🇨🇭 Aurelia-Maxima Katharina JANZEN\n🇦🇹
+  Magdalena LOBNIG\n🇪🇸 Virginia DIAZ RIVAS
+SUMMARY:🚣 Women's Single Sculls Final B
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T083000Z-rowing-MENS-SINGLE-SCULLS-FINAL-A
+DTSTAMP:20240803T083000Z
+DTSTART:20240803T083000Z
+DTEND:20240803T083700Z
+DESCRIPTION:Rowing - Men's Single Sculls Final A\n🇩🇪 Oliver ZEIDLER\n🇳🇱
+  Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim
+  BRYS
+SUMMARY:🚣 Men's Single Sculls Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T091000Z-rowing-MENS-EIGHT-FINAL-A
+DTSTAMP:20240803T091000Z
+DTSTART:20240803T091000Z
+DTEND:20240803T091700Z
+DESCRIPTION:Rowing - Men's Eight Final A\n🇦🇺 AUS\n🇩🇪 GER\n🇬🇧
+  GBR\n🇳🇱 NED\n🇷🇴 ROU\n🇺🇸 USA
+SUMMARY:🚣 Men's Eight Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
 END:VCALENDAR

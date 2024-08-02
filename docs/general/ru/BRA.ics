@@ -3848,6 +3848,24 @@ SUMMARY:⛵ Швертбот, гонка 04 (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T173600Z-surfing--2--BRA-AUS
+DTSTAMP:20240803T173600Z
+DTSTART:20240803T173600Z
+DTEND:20240803T180600Z
+DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (м)
+SUMMARY:🏄 Gabriel MEDINA 🇧🇷 - 🇦🇺 Jack ROBINSON
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T184800Z-surfing--2--BRA-CRC
+DTSTAMP:20240803T184800Z
+DTSTART:20240803T184800Z
+DTEND:20240803T191800Z
+DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (ж)
+SUMMARY:🏄 Tatiana WESTON-WEBB 🇧🇷 - 🇨🇷 Brisa HENNESSY
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T190000Z-football---FRA-BRA
 DTSTAMP:20240803T190000Z
 DTSTART:20240803T190000Z

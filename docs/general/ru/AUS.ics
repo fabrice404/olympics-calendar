@@ -4618,6 +4618,28 @@ SUMMARY:🏇 Командная выездка, гран-при, переезд�
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T081800Z-rowing--A-
+DTSTAMP:20240803T081800Z
+DTSTART:20240803T081800Z
+DTEND:20240803T082500Z
+DESCRIPTION:Академическая гребля - Одиночки, финал A (ж)\n🇧🇬 Desislava
+  ANGELOVA\n🇳🇿 Emma TWIGG\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇦🇺
+  Tara RIGNEY\n🇱🇹 Viktorija SENKUTE
+SUMMARY:🚣 Одиночки, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T085000Z-rowing--A-
+DTSTAMP:20240803T085000Z
+DTSTART:20240803T085000Z
+DTEND:20240803T085700Z
+DESCRIPTION:Академическая гребля - Восьмерки, финал A (ж)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇮🇹 Италия\n🇨🇦 Канада\n🇷🇴
+  Румыния\n🇺🇸 США
+SUMMARY:🚣 Восьмерки, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-swimming-50-
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -4651,6 +4673,17 @@ DESCRIPTION:Плавание - 50м вольным стилем, квалифи�
   BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
 SUMMARY:🏊 50м вольным стилем, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T091000Z-rowing--A-
+DTSTAMP:20240803T091000Z
+DTSTART:20240803T091000Z
+DTEND:20240803T091700Z
+DESCRIPTION:Академическая гребля - Восьмерки, финал A (м)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇳🇱 Нидерланды\n🇷🇴
+  Румыния\n🇺🇸 США
+SUMMARY:🚣 Восьмерки, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T093000Z-swimming-1500-
@@ -4903,6 +4936,15 @@ DTEND:20240803T170000Z
 DESCRIPTION:Баскетбол 3х3 - Групповой этап (ж)
 SUMMARY:🏀 Франция 🇫🇷 - 🇦🇺 Австралия
 LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T173600Z-surfing--2--BRA-AUS
+DTSTAMP:20240803T173600Z
+DTSTART:20240803T173600Z
+DTEND:20240803T180600Z
+DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (м)
+SUMMARY:🏄 Gabriel MEDINA 🇧🇷 - 🇦🇺 Jack ROBINSON
+LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T070000Z-shooting--25-P-1-
