@@ -4190,15 +4190,6 @@ SUMMARY:🥋 ESP 🇪🇸 - 🏳️ EOR
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T063000Z-badminton-WOMENS-SINGLES-QUARTERFINAL-JPN-ESP
-DTSTAMP:20240803T063000Z
-DTSTART:20240803T063000Z
-DTEND:20240803T110000Z
-DESCRIPTION:Badminton - Women's Singles Quarterfinal
-SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇪🇸 Carolina MARIN
-LOCATION:La Chapelle Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T075400Z-rowing-WOMENS-SINGLE-SCULLS-FINAL-B
 DTSTAMP:20240803T075400Z
 DTSTART:20240803T075400Z
@@ -4217,6 +4208,15 @@ DTEND:20240803T095500Z
 DESCRIPTION:Water Polo - Men's Preliminary Round - Group B
 SUMMARY:🤽 ESP 🇪🇸 - 🇯🇵 JPN
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T085000Z-badminton-WOMENS-SINGLES-QUARTERFINAL-JPN-ESP
+DTSTAMP:20240803T085000Z
+DTSTART:20240803T085000Z
+DTEND:20240803T095000Z
+DESCRIPTION:Badminton - Women's Singles Quarterfinal
+SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇪🇸 Carolina MARIN
+LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-B-ESP-FRA
@@ -4481,6 +4481,23 @@ DESCRIPTION:Sailing - Mixed Dinghy - Race 4\n🇬🇷 A SPANAKI/O
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ Mixed Dinghy - Race 4
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T171500Z-athletics-MENS-1500M-REPECHAGE-ROUND
+DTSTAMP:20240803T171500Z
+DTSTART:20240803T171500Z
+DTEND:20240803T173000Z
+DESCRIPTION:Athletics - Men's 1500m Repechage Round\n🇪🇹 Abdisa
+  FAYISA\n🇦🇺 Adam SPENCER\n🇪🇸 Adel MECHAAL\n🇮🇪 Andrew COSCORAN\n🇫🇷
+  Azeddine HABZ\n🇮🇪 Cathal DOYLE\n🇨🇦 Charles PHILIBERT-THIBOUTOT\n🇮🇹
+  Federico RIVA\n🇵🇱 Filip RAK\n🇬🇧 George MILLS\n🇪🇸 Ignacio
+  FONTES\n🇧🇪 Jochem VERMEULEN\n🇨🇦 Kieran LUMB\n🇮🇪 Luke McCANN\n🇵🇱
+  Maciej WYDERKA\n🇫🇷 Mael GOUYETTE\n🇪🇸 Mario GARCIA\n🇩🇪 Marius
+  PROBST\n🇦🇺 Oliver HOARE\n🇮🇹 Ossama MESLEK\n🇦🇹 Raphael
+  PALLITSCH\n🇧🇪 Ruben VERHEYDEN\n🇿🇦 Ryan MPHAHLELE\n🇸🇪 Samuel
+  PIHLSTROM\n🇳🇿 Samuel TANNER\n🇦🇺 Stewart McSWEYN\n🇿🇦 Tshepo TSHITE
+SUMMARY:🏃 Men's 1500m Repechage Round
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T100500Z-sailing-MIXED-MULTIHULL-RACE-4

@@ -4203,15 +4203,6 @@ SUMMARY:🥋 Испания 🇪🇸 - 🏳️ Ол. сборная беженц
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T063000Z-badminton-14--JPN-ESP
-DTSTAMP:20240803T063000Z
-DTSTART:20240803T063000Z
-DTEND:20240803T110000Z
-DESCRIPTION:Бадминтон - 1/4 финала, одиночный (ж)
-SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇪🇸 Carolina MARIN
-LOCATION:Арена «Ла-Шапель»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T075400Z-rowing--B-
 DTSTAMP:20240803T075400Z
 DTSTART:20240803T075400Z
@@ -4230,6 +4221,15 @@ DTEND:20240803T095500Z
 DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
 SUMMARY:🤽 Испания 🇪🇸 - 🇯🇵 Япония
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T085000Z-badminton-14--JPN-ESP
+DTSTAMP:20240803T085000Z
+DTSTART:20240803T085000Z
+DTEND:20240803T095000Z
+DESCRIPTION:Бадминтон - 1/4 финала, одиночный (ж)
+SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇪🇸 Carolina MARIN
+LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-handball--B--ESP-FRA
@@ -4496,6 +4496,23 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 04 (ми�
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ Швертбот, гонка 04 (микст)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T171500Z-athletics-1500-
+DTSTAMP:20240803T171500Z
+DTSTART:20240803T171500Z
+DTEND:20240803T173000Z
+DESCRIPTION:Легкая атлетика - 1500м, утешительный раунд (м)\n🇪🇹 Abdisa
+  FAYISA\n🇦🇺 Adam SPENCER\n🇪🇸 Adel MECHAAL\n🇮🇪 Andrew COSCORAN\n🇫🇷
+  Azeddine HABZ\n🇮🇪 Cathal DOYLE\n🇨🇦 Charles PHILIBERT-THIBOUTOT\n🇮🇹
+  Federico RIVA\n🇵🇱 Filip RAK\n🇬🇧 George MILLS\n🇪🇸 Ignacio
+  FONTES\n🇧🇪 Jochem VERMEULEN\n🇨🇦 Kieran LUMB\n🇮🇪 Luke McCANN\n🇵🇱
+  Maciej WYDERKA\n🇫🇷 Mael GOUYETTE\n🇪🇸 Mario GARCIA\n🇩🇪 Marius
+  PROBST\n🇦🇺 Oliver HOARE\n🇮🇹 Ossama MESLEK\n🇦🇹 Raphael
+  PALLITSCH\n🇧🇪 Ruben VERHEYDEN\n🇿🇦 Ryan MPHAHLELE\n🇸🇪 Samuel
+  PIHLSTROM\n🇳🇿 Samuel TANNER\n🇦🇺 Stewart McSWEYN\n🇿🇦 Tshepo TSHITE
+SUMMARY:🏃 1500м, утешительный раунд (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T100500Z-sailing--04-

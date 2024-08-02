@@ -5996,6 +5996,15 @@ SUMMARY:🥊 Billal BENNAMA 🇫🇷 - 🇨🇺 Alejandro CLARO FIZ
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T143600Z-judo--100--TJK-FRA
+DTSTAMP:20240802T143600Z
+DTSTART:20240802T143600Z
+DTEND:20240802T144200Z
+DESCRIPTION:Дзюдо - Полуфинал В, свыше 100кг (м)
+SUMMARY:🥋 Temur RAKHIMOV 🇹🇯 - 🇫🇷 Teddy RINER
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T144000Z-canoe-slalom--
 DTSTAMP:20240802T144000Z
 DTSTART:20240802T144000Z
@@ -6686,6 +6695,23 @@ DTEND:20240803T173000Z
 DESCRIPTION:Серфинг - Полуфиналы, заезд 1 (м)
 SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇫🇷 Kauli VAAST
 LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T171500Z-athletics-1500-
+DTSTAMP:20240803T171500Z
+DTSTART:20240803T171500Z
+DTEND:20240803T173000Z
+DESCRIPTION:Легкая атлетика - 1500м, утешительный раунд (м)\n🇪🇹 Abdisa
+  FAYISA\n🇦🇺 Adam SPENCER\n🇪🇸 Adel MECHAAL\n🇮🇪 Andrew COSCORAN\n🇫🇷
+  Azeddine HABZ\n🇮🇪 Cathal DOYLE\n🇨🇦 Charles PHILIBERT-THIBOUTOT\n🇮🇹
+  Federico RIVA\n🇵🇱 Filip RAK\n🇬🇧 George MILLS\n🇪🇸 Ignacio
+  FONTES\n🇧🇪 Jochem VERMEULEN\n🇨🇦 Kieran LUMB\n🇮🇪 Luke McCANN\n🇵🇱
+  Maciej WYDERKA\n🇫🇷 Mael GOUYETTE\n🇪🇸 Mario GARCIA\n🇩🇪 Marius
+  PROBST\n🇦🇺 Oliver HOARE\n🇮🇹 Ossama MESLEK\n🇦🇹 Raphael
+  PALLITSCH\n🇧🇪 Ruben VERHEYDEN\n🇿🇦 Ryan MPHAHLELE\n🇸🇪 Samuel
+  PIHLSTROM\n🇳🇿 Samuel TANNER\n🇦🇺 Stewart McSWEYN\n🇿🇦 Tshepo TSHITE
+SUMMARY:🏃 1500м, утешительный раунд (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T173000Z-water-polo--B--SRB-FRA

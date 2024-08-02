@@ -5972,6 +5972,15 @@ SUMMARY:🥊 Billal BENNAMA 🇫🇷 - 🇨🇺 Alejandro CLARO FIZ
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T143600Z-judo-MEN-100-KG-SEMIFINAL-OF-TABLE-B-TJK-FRA
+DTSTAMP:20240802T143600Z
+DTSTART:20240802T143600Z
+DTEND:20240802T144200Z
+DESCRIPTION:Judo - Men +100 kg Semifinal of Table B
+SUMMARY:🥋 Temur RAKHIMOV 🇹🇯 - 🇫🇷 Teddy RINER
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T144000Z-canoe-slalom-WOMENS-KAYAK-CROSS-TIME-TRIAL
 DTSTAMP:20240802T144000Z
 DTSTART:20240802T144000Z
@@ -6654,6 +6663,23 @@ DTEND:20240803T173000Z
 DESCRIPTION:Surfing - Men's Semifinals - Heat 1
 SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇫🇷 Kauli VAAST
 LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T171500Z-athletics-MENS-1500M-REPECHAGE-ROUND
+DTSTAMP:20240803T171500Z
+DTSTART:20240803T171500Z
+DTEND:20240803T173000Z
+DESCRIPTION:Athletics - Men's 1500m Repechage Round\n🇪🇹 Abdisa
+  FAYISA\n🇦🇺 Adam SPENCER\n🇪🇸 Adel MECHAAL\n🇮🇪 Andrew COSCORAN\n🇫🇷
+  Azeddine HABZ\n🇮🇪 Cathal DOYLE\n🇨🇦 Charles PHILIBERT-THIBOUTOT\n🇮🇹
+  Federico RIVA\n🇵🇱 Filip RAK\n🇬🇧 George MILLS\n🇪🇸 Ignacio
+  FONTES\n🇧🇪 Jochem VERMEULEN\n🇨🇦 Kieran LUMB\n🇮🇪 Luke McCANN\n🇵🇱
+  Maciej WYDERKA\n🇫🇷 Mael GOUYETTE\n🇪🇸 Mario GARCIA\n🇩🇪 Marius
+  PROBST\n🇦🇺 Oliver HOARE\n🇮🇹 Ossama MESLEK\n🇦🇹 Raphael
+  PALLITSCH\n🇧🇪 Ruben VERHEYDEN\n🇿🇦 Ryan MPHAHLELE\n🇸🇪 Samuel
+  PIHLSTROM\n🇳🇿 Samuel TANNER\n🇦🇺 Stewart McSWEYN\n🇿🇦 Tshepo TSHITE
+SUMMARY:🏃 Men's 1500m Repechage Round
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T173000Z-water-polo-MENS-PRELIMINARY-ROUND-GROUP-B-SRB-FRA
