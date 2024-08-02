@@ -292,6 +292,19 @@ SUMMARY:🏃 Men's 1500m Repechage Round
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T173500Z-athletics-MENS-SHOT-PUT-FINAL
+DTSTAMP:20240803T173500Z
+DTSTART:20240803T173500Z
+DTEND:20240803T184500Z
+DESCRIPTION:Athletics - Men's Shot Put Final\n🇳🇬 Chukwuebuka Cornnell
+  ENEKWECHI\n🇳🇿 Jacko GILL\n🇺🇸 Joe KOVACS\n🇮🇹 Leonardo FABBRI\n🇳🇴
+  Marcus THOMSEN\n🇺🇸 Payton OTTERDAHL\n🇯🇲 Rajindra CAMPBELL\n🇺🇸 Ryan
+  CROUSER\n🇳🇿 Tom WALSH\n🇨🇿 Tomas STANEK\n🇲🇽 Uziel MUNOZ\n🇮🇹 Zane
+  WEIR
+SUMMARY:🏃 Men's Shot Put Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T175000Z-athletics-WOMENS-100M-SEMI-FINAL
 DTSTAMP:20240803T175000Z
 DTSTART:20240803T175000Z
@@ -330,6 +343,19 @@ DTEND:20240803T185900Z
 DESCRIPTION:Athletics - 4 x 400m Relay Mixed Final\n🇧🇪 BEL\n🇫🇷
   FRA\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇲 JAM\n🇳🇱 NED\n🇵🇱 POL\n🇺🇸 USA
 SUMMARY:🏃 4 x 400m Relay Mixed Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T183000Z-athletics-WOMENS-DISCUS-THROW-FINAL
+DTSTAMP:20240805T183000Z
+DTSTART:20240805T183000Z
+DTEND:20240805T194000Z
+DESCRIPTION:Athletics - Women's Discus Throw Final\n🇲🇩 Alexandra
+  EMILIANOV\n🇩🇪 Claudine VITA\n🇮🇹 Daisy OSAKUE\n🇨🇳 FENG Bin\n🇵🇹
+  Irina RODRIGUES\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin PUDENZ\n🇩🇪
+  Marike STEINACKER\n🇫🇷 Melina ROBERT-MICHON\n🇭🇷 Sandra ELKASEVIC\n🇺🇸
+  Valarie ALLMAN\n🇸🇪 Vanessa KAMGA
+SUMMARY:🏃 Women's Discus Throw Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

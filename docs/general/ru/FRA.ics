@@ -6336,6 +6336,17 @@ SUMMARY:🏊 200м комплексом, полуфиналы (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T193500Z-cycling-bmx-racing--
+DTSTAMP:20240802T193500Z
+DTSTART:20240802T193500Z
+DTEND:20240802T194500Z
+DESCRIPTION:ВМХ-гонки - Финал (м)\n🇺🇸 Cameron WOOD\n🇨🇭 Cedric
+  BUTTI\n🇦🇺 Izaac KENNEDY\n🇫🇷 Joris DAUDET\n🇨🇴 Mateo CARMONA
+  GARCIA\n🇫🇷 Romain MAHIEU\n🇨🇭 Simon M. MARQUART\n🇫🇷 Sylvain ANDRE
+SUMMARY:🚴 Финал (м)
+LOCATION:Стадион BMX
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T200800Z-boxing--92--FRA-ECU
 DTSTAMP:20240802T200800Z
 DTSTART:20240802T200800Z
@@ -7576,6 +7587,19 @@ DTEND:20240805T193000Z
 DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
 SUMMARY:🤽 Франция 🇫🇷 - 🇪🇸 Испания
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T183000Z-athletics--
+DTSTAMP:20240805T183000Z
+DTSTART:20240805T183000Z
+DTEND:20240805T194000Z
+DESCRIPTION:Легкая атлетика - Метание диска, финал (ж)\n🇲🇩 Alexandra
+  EMILIANOV\n🇩🇪 Claudine VITA\n🇮🇹 Daisy OSAKUE\n🇨🇳 FENG Bin\n🇵🇹
+  Irina RODRIGUES\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin PUDENZ\n🇩🇪
+  Marike STEINACKER\n🇫🇷 Melina ROBERT-MICHON\n🇭🇷 Sandra ELKASEVIC\n🇺🇸
+  Valarie ALLMAN\n🇸🇪 Vanessa KAMGA
+SUMMARY:🏃 Метание диска, финал (ж)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T080000Z-diving--3-

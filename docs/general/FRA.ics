@@ -6310,6 +6310,17 @@ SUMMARY:🏊 Women's 200m Individual Medley Semifinals
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T193500Z-cycling-bmx-racing-MEN-FINAL
+DTSTAMP:20240802T193500Z
+DTSTART:20240802T193500Z
+DTEND:20240802T194500Z
+DESCRIPTION:Cycling BMX Racing - Men, Final\n🇺🇸 Cameron WOOD\n🇨🇭 Cedric
+  BUTTI\n🇦🇺 Izaac KENNEDY\n🇫🇷 Joris DAUDET\n🇨🇴 Mateo CARMONA
+  GARCIA\n🇫🇷 Romain MAHIEU\n🇨🇭 Simon M. MARQUART\n🇫🇷 Sylvain ANDRE
+SUMMARY:🚴 Men, Final
+LOCATION:BMX Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T200800Z-boxing-MENS-92KG-QUARTERFINAL-FRA-ECU
 DTSTAMP:20240802T200800Z
 DTSTART:20240802T200800Z
@@ -7543,6 +7554,19 @@ DTEND:20240805T193000Z
 DESCRIPTION:Water Polo - Men's Preliminary Round - Group B
 SUMMARY:🤽 FRA 🇫🇷 - 🇪🇸 ESP
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T183000Z-athletics-WOMENS-DISCUS-THROW-FINAL
+DTSTAMP:20240805T183000Z
+DTSTART:20240805T183000Z
+DTEND:20240805T194000Z
+DESCRIPTION:Athletics - Women's Discus Throw Final\n🇲🇩 Alexandra
+  EMILIANOV\n🇩🇪 Claudine VITA\n🇮🇹 Daisy OSAKUE\n🇨🇳 FENG Bin\n🇵🇹
+  Irina RODRIGUES\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin PUDENZ\n🇩🇪
+  Marike STEINACKER\n🇫🇷 Melina ROBERT-MICHON\n🇭🇷 Sandra ELKASEVIC\n🇺🇸
+  Valarie ALLMAN\n🇸🇪 Vanessa KAMGA
+SUMMARY:🏃 Women's Discus Throw Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T080000Z-diving-MENS-3M-SPRINGBOARD-PRELIMINARY

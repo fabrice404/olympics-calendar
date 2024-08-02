@@ -6202,6 +6202,17 @@ SUMMARY:🏊 200м комплексом, полуфиналы (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T193500Z-cycling-bmx-racing--
+DTSTAMP:20240802T193500Z
+DTSTART:20240802T193500Z
+DTEND:20240802T194500Z
+DESCRIPTION:ВМХ-гонки - Финал (м)\n🇺🇸 Cameron WOOD\n🇨🇭 Cedric
+  BUTTI\n🇦🇺 Izaac KENNEDY\n🇫🇷 Joris DAUDET\n🇨🇴 Mateo CARMONA
+  GARCIA\n🇫🇷 Romain MAHIEU\n🇨🇭 Simon M. MARQUART\n🇫🇷 Sylvain ANDRE
+SUMMARY:🚴 Финал (м)
+LOCATION:Стадион BMX
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T200000Z-beach-volleyball--C--USA-GER
 DTSTAMP:20240802T200000Z
 DTSTART:20240802T200000Z
@@ -6786,6 +6797,19 @@ SUMMARY:🏀 Китай 🇨🇳 - 🇺🇸 США
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T173500Z-athletics--
+DTSTAMP:20240803T173500Z
+DTSTART:20240803T173500Z
+DTEND:20240803T184500Z
+DESCRIPTION:Легкая атлетика - Толкание ядра, финал (м)\n🇳🇬 Chukwuebuka
+  Cornnell ENEKWECHI\n🇳🇿 Jacko GILL\n🇺🇸 Joe KOVACS\n🇮🇹 Leonardo
+  FABBRI\n🇳🇴 Marcus THOMSEN\n🇺🇸 Payton OTTERDAHL\n🇯🇲 Rajindra
+  CAMPBELL\n🇺🇸 Ryan CROUSER\n🇳🇿 Tom WALSH\n🇨🇿 Tomas STANEK\n🇲🇽
+  Uziel MUNOZ\n🇮🇹 Zane WEIR
+SUMMARY:🏃 Толкание ядра, финал (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T175000Z-athletics-100-
 DTSTAMP:20240803T175000Z
 DTSTART:20240803T175000Z
@@ -7272,6 +7296,19 @@ DTEND:20240805T175500Z
 DESCRIPTION:Водное поло - Групповой этап - Группа A (м)
 SUMMARY:🤽 Хорватия 🇭🇷 - 🇺🇸 США
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T183000Z-athletics--
+DTSTAMP:20240805T183000Z
+DTSTART:20240805T183000Z
+DTEND:20240805T194000Z
+DESCRIPTION:Легкая атлетика - Метание диска, финал (ж)\n🇲🇩 Alexandra
+  EMILIANOV\n🇩🇪 Claudine VITA\n🇮🇹 Daisy OSAKUE\n🇨🇳 FENG Bin\n🇵🇹
+  Irina RODRIGUES\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin PUDENZ\n🇩🇪
+  Marike STEINACKER\n🇫🇷 Melina ROBERT-MICHON\n🇭🇷 Sandra ELKASEVIC\n🇺🇸
+  Valarie ALLMAN\n🇸🇪 Vanessa KAMGA
+SUMMARY:🏃 Метание диска, финал (ж)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T191500Z-athletics-5000-
