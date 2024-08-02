@@ -1201,17 +1201,6 @@ SUMMARY:⛵ 男子帆船激光级- 比赛04
 LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T120300Z-sailing-IQFOIL14
-DTSTAMP:20240802T120300Z
-DTSTART:20240802T120300Z
-DTEND:20240802T120800Z
-DESCRIPTION:帆船 - 女子水翼帆板iQFoil级1/4决赛\n🇫🇷 Helene NOESMOEN\n🇨🇿 Katerina
-  SVIKOVA\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇩🇪
-  Theresa Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
-SUMMARY:⛵ 女子水翼帆板iQFoil级1/4决赛
-LOCATION:马赛港
-END:VEVENT
-BEGIN:VEVENT
 UID:20240802T122100Z-sailing--04
 DTSTAMP:20240802T122100Z
 DTSTART:20240802T122100Z
@@ -1235,67 +1224,10 @@ SUMMARY:⛵ 女子帆船激光雷迪尔级 - 比赛04
 LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T122300Z-sailing-IQFOIL14
-DTSTAMP:20240802T122300Z
-DTSTART:20240802T122300Z
-DTEND:20240802T122800Z
-DESCRIPTION:帆船 - 男子水翼帆板iQFoil级1/4决赛\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan
-  WESTERA\n🇳🇱 Luuc van OPZEELAND\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
-  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇬🇧 Sam SILLS
-SUMMARY:⛵ 男子水翼帆板iQFoil级1/4决赛
-LOCATION:马赛港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T101500Z-sailing--05
-DTSTAMP:20240803T101500Z
-DTSTART:20240803T101500Z
-DTEND:20240803T110600Z
-DESCRIPTION:帆船 - 男子帆船激光级- 比赛05\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
-  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
-  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
-  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
-  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
-  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
-  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
-  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
-  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
-  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
-  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
-  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
-  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
-  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
-  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
-SUMMARY:⛵ 男子帆船激光级- 比赛05
-LOCATION:马赛港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T112300Z-sailing--06
-DTSTAMP:20240803T112300Z
-DTSTART:20240803T112300Z
-DTEND:20240803T121400Z
-DESCRIPTION:帆船 - 男子帆船激光级- 比赛06\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
-  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
-  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
-  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
-  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
-  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
-  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
-  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
-  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
-  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
-  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
-  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
-  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
-  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
-  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
-SUMMARY:⛵ 男子帆船激光级- 比赛06
-LOCATION:马赛港
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T122500Z-sailing--05
-DTSTAMP:20240803T122500Z
-DTSTART:20240803T122500Z
-DTEND:20240803T131600Z
+UID:20240803T100500Z-sailing--05
+DTSTAMP:20240803T100500Z
+DTSTART:20240803T100500Z
+DTEND:20240803T105600Z
 DESCRIPTION:帆船 - 女子帆船激光雷迪尔级 - 比赛05\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
   BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
   RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
@@ -1315,10 +1247,55 @@ SUMMARY:⛵ 女子帆船激光雷迪尔级 - 比赛05
 LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T133300Z-sailing--06
-DTSTAMP:20240803T133300Z
-DTSTART:20240803T133300Z
-DTEND:20240803T142400Z
+UID:20240803T101300Z-sailing-IQFOIL14
+DTSTAMP:20240803T101300Z
+DTSTART:20240803T101300Z
+DTEND:20240803T101800Z
+DESCRIPTION:帆船 - 女子水翼帆板iQFoil级1/4决赛\n🇫🇷 Helene NOESMOEN\n🇨🇿 Katerina
+  SVIKOVA\n🇵🇱 Maja DZIARNOWSKA\n🇵🇪 Maria Belen BAZO GERMAN\n🇩🇪
+  Theresa Marie STEINLEIN\n🇳🇿 Veerle TEN HAVE\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 女子水翼帆板iQFoil级1/4决赛
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T102000Z-sailing--05
+DTSTAMP:20240803T102000Z
+DTSTART:20240803T102000Z
+DTEND:20240803T111100Z
+DESCRIPTION:帆船 - 男子帆船激光级- 比赛05\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 男子帆船激光级- 比赛05
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T103300Z-sailing-IQFOIL14
+DTSTAMP:20240803T103300Z
+DTSTART:20240803T103300Z
+DTEND:20240803T103800Z
+DESCRIPTION:帆船 - 男子水翼帆板iQFoil级1/4决赛\n🇨🇭 Elia COLOMBO\n🇦🇼 Ethan
+  WESTERA\n🇳🇱 Luuc van OPZEELAND\n🇮🇹 Nicolo RENNA\n🇺🇸 Noah
+  LYONS\n🇵🇱 Pawel TARNOWSKI\n🇬🇧 Sam SILLS
+SUMMARY:⛵ 男子水翼帆板iQFoil级1/4决赛
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T111300Z-sailing--06
+DTSTAMP:20240803T111300Z
+DTSTART:20240803T111300Z
+DTEND:20240803T120400Z
 DESCRIPTION:帆船 - 女子帆船激光雷迪尔级 - 比赛06\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
   BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
   RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
@@ -1335,6 +1312,29 @@ DESCRIPTION:帆船 - 女子帆船激光雷迪尔级 - 比赛06\n🇧🇲 Adriana
   MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
   Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ 女子帆船激光雷迪尔级 - 比赛06
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T112800Z-sailing--06
+DTSTAMP:20240803T112800Z
+DTSTART:20240803T112800Z
+DTEND:20240803T121900Z
+DESCRIPTION:帆船 - 男子帆船激光级- 比赛06\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 男子帆船激光级- 比赛06
 LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT

@@ -610,15 +610,6 @@ SUMMARY:⛵ Скиф, медальная гонка (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T140800Z-sailing--
-DTSTAMP:20240802T140800Z
-DTSTART:20240802T140800Z
-DTEND:20240802T141300Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, финал (м)\n🇦🇺 Grae MORRIS
-SUMMARY:⛵ Виндсерфинг, финал (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240802T183000Z-swimming-50-
 DTSTAMP:20240802T183000Z
 DTSTART:20240802T183000Z
@@ -694,6 +685,15 @@ DTEND:20240803T200000Z
 DESCRIPTION:Теннис - Финал, пары (м)
 SUMMARY:🎾 EBDEN/PEERS 🇦🇺 - 🇺🇸 KRAJICEK/RAM
 LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T120300Z-sailing--
+DTSTAMP:20240803T120300Z
+DTSTART:20240803T120300Z
+DTEND:20240803T120800Z
+DESCRIPTION:Парусный спорт - Виндсерфинг, финал (м)\n🇦🇺 Grae MORRIS
+SUMMARY:⛵ Виндсерфинг, финал (м)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T192800Z-swimming-800-
