@@ -3989,6 +3989,15 @@ SUMMARY:⚽ Япония 🇯🇵 - 🇪🇸 Испания
 LOCATION:Стадион «Лион»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T151200Z-judo--100--UZB-JPN
+DTSTAMP:20240802T151200Z
+DTSTART:20240802T151200Z
+DTEND:20240802T151800Z
+DESCRIPTION:Дзюдо - Поединок за бронзу В, свыше 100кг (м)
+SUMMARY:🥋 Alisher YUSUPOV 🇺🇿 - 🇯🇵 SAITO Tatsuru
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T160000Z-trampoline-gymnastics--
 DTSTAMP:20240802T160000Z
 DTSTART:20240802T160000Z
@@ -4262,6 +4271,19 @@ DTEND:20240803T144500Z
 DESCRIPTION:Футбол - Четвертьфинал (ж)
 SUMMARY:⚽ США 🇺🇸 - 🇯🇵 Япония
 LOCATION:«Парк-де-Пренс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T133000Z-artistic-gymnastics--
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T140500Z
+DESCRIPTION:Спортивная гимнастика - Вольные упражнения, финал (м)\n🇮🇱
+  Artem DOLGOPYAT\n🇵🇭 Carlos Edriel YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake
+  JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵
+  OKA Shinnosuke\n🇰🇷 RYU Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG
+  Boheng
+SUMMARY:🤸 Вольные упражнения, финал (м)
+LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T134500Z-sailing--01-

@@ -2201,6 +2201,15 @@ SUMMARY:🥋 KIM Hayun 🇰🇷 - 🇹🇷 Kayra OZDEMIR
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T151800Z-judo--100--KOR-FRA
+DTSTAMP:20240802T151800Z
+DTSTART:20240802T151800Z
+DTEND:20240802T152400Z
+DESCRIPTION:Дзюдо - Финал, свыше 100кг (м)
+SUMMARY:🥋 KIM Minjong 🇰🇷 - 🇫🇷 Teddy RINER
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T063000Z-badminton-14--KOR-JPN
 DTSTAMP:20240803T063000Z
 DTSTART:20240803T063000Z
@@ -2354,6 +2363,19 @@ DTEND:20240803T123000Z
 DESCRIPTION:Настольный теннис - Матч за бронзу, одиночный разряд (ж)
 SUMMARY:🏓 Hina HAYATA 🇯🇵 - 🇰🇷 SHIN Yubin
 LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T133000Z-artistic-gymnastics--
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T140500Z
+DESCRIPTION:Спортивная гимнастика - Вольные упражнения, финал (м)\n🇮🇱
+  Artem DOLGOPYAT\n🇵🇭 Carlos Edriel YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake
+  JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵
+  OKA Shinnosuke\n🇰🇷 RYU Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG
+  Boheng
+SUMMARY:🤸 Вольные упражнения, финал (м)
+LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T190000Z-handball---DEN-KOR

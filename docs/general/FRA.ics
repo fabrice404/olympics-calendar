@@ -6028,12 +6028,12 @@ SUMMARY:🏐 FRA 🇫🇷 - 🇸🇮 SLO
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T151800Z-judo-MEN-100-KG-FINAL
+UID:20240802T151800Z-judo-MEN-100-KG-FINAL-KOR-FRA
 DTSTAMP:20240802T151800Z
 DTSTART:20240802T151800Z
 DTEND:20240802T152400Z
-DESCRIPTION:Judo - Men +100 kg Final\n🇫🇷 Teddy RINER
-SUMMARY:🥋 Men +100 kg Final
+DESCRIPTION:Judo - Men +100 kg Final
+SUMMARY:🥋 KIM Minjong 🇰🇷 - 🇫🇷 Teddy RINER
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -6672,6 +6672,26 @@ SUMMARY:⛵ Mixed Multihull - Race 2
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T144000Z-canoe-slalom-MENS-KAYAK-CROSS-ROUND-1
+DTSTAMP:20240803T144000Z
+DTSTART:20240803T144000Z
+DTEND:20240803T153500Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Cross Round 1\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮
+  Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix
+  OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz
+  HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱
+  Joris OTTEN\n🇬🇧 Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸
+  Manuel OCHOA\n🇨🇭 Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪
+  Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter
+  KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA
+  Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
+  CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Kayak Cross Round 1
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T150000Z-hockey-WOMENS-POOL-A-CHN-FRA
 DTSTAMP:20240803T150000Z
 DTSTART:20240803T150000Z
@@ -6904,6 +6924,15 @@ DESCRIPTION:Sailing - Men's Dinghy - Race 7\n🇪🇬 Aly BADAWY\n🇹🇭 Arthi
   ZELKO
 SUMMARY:⛵ Men's Dinghy - Race 7
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T102000Z-boxing-MENS-51KG-SEMIFINAL
+DTSTAMP:20240804T102000Z
+DTSTART:20240804T102000Z
+DTEND:20240804T103100Z
+DESCRIPTION:Boxing - Men's 51kg - Semifinal\n🇫🇷 Billal BENNAMA
+SUMMARY:🥊 Men's 51kg - Semifinal
+LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T103600Z-boxing-MENS-635KG-SEMIFINAL-CAN-FRA
