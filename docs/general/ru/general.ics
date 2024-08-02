@@ -23126,7 +23126,7 @@ UID:20240802T150600Z-judo--100-
 DTSTAMP:20240802T150600Z
 DTSTART:20240802T150600Z
 DTEND:20240802T151200Z
-DESCRIPTION:Дзюдо - Поединок за бронзу А, свыше 100кг (м)
+DESCRIPTION:Дзюдо - Поединок за бронзу А, свыше 100кг (м)\n🇨🇺 Andy GRANDA
 SUMMARY:🥋 Поединок за бронзу А, свыше 100кг (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -24130,7 +24130,14 @@ UID:20240803T080500Z-athletics--110-
 DTSTAMP:20240803T080500Z
 DTSTART:20240803T080500Z
 DTEND:20240803T082200Z
-DESCRIPTION:Легкая атлетика - Десятиборье, 110м с/б (м)
+DESCRIPTION:Легкая атлетика - Десятиборье, 110м с/б (м)\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 Десятиборье, 110м с/б (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
@@ -26067,12 +26074,12 @@ SUMMARY:🏹 Santiago ARCILA 🇨🇴 - 🇰🇷 KIM Je Deok
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T091600Z-boxing--57-
+UID:20240804T091600Z-boxing--57--TUR-BRA
 DTSTAMP:20240804T091600Z
 DTSTART:20240804T091600Z
 DTEND:20240804T092700Z
-DESCRIPTION:Бокс - Четвертьфинал, до 57кг (ж)\n🇹🇷 Esra YILDIZ KAHRAMAN
-SUMMARY:🥊 Четвертьфинал, до 57кг (ж)
+DESCRIPTION:Бокс - Четвертьфинал, до 57кг (ж)
+SUMMARY:🥊 Esra YILDIZ KAHRAMAN 🇹🇷 - 🇧🇷 Jucielen CERQUEIRA ROMEU
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
