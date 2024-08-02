@@ -5969,6 +5969,15 @@ SUMMARY:🛶 Экстрим-слалом, раздельный старт (м)
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T135000Z-fencing--1-
+DTSTAMP:20240802T135000Z
+DTSTART:20240802T135000Z
+DTEND:20240802T144000Z
+DESCRIPTION:Фехтование - Командная шпага, полуфинал 1 (м)\n🇫🇷 Франция
+SUMMARY:🤺 Командная шпага, полуфинал 1 (м)
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T140000Z-beach-volleyball--F--FRA-NED
 DTSTAMP:20240802T140000Z
 DTSTART:20240802T140000Z
@@ -7055,6 +7064,19 @@ DTEND:20240804T193000Z
 DESCRIPTION:Водное поло - Групповой этап - Группа B (ж)
 SUMMARY:🤽 Франция 🇫🇷 - 🇬🇷 Греция
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T183000Z-athletics--
+DTSTAMP:20240804T183000Z
+DTSTART:20240804T183000Z
+DTEND:20240804T194000Z
+DESCRIPTION:Легкая атлетика - Метание молота, финал (м)\n🇭🇺 Bence
+  HALASZ\n🇬🇷 Christos FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan
+  KATZBERG\n🇩🇪 Merlin HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel
+  FAJDEK\n🇨🇦 Rowan HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱
+  Wojciech NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 Метание молота, финал (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T190000Z-basketball---AUS-FRA

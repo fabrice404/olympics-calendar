@@ -22652,7 +22652,7 @@ UID:20240802T130000Z-fencing-MENS-PE-TEAM-CLASSIFICATIONS-5-8
 DTSTAMP:20240802T130000Z
 DTSTART:20240802T130000Z
 DTEND:20240802T135000Z
-DESCRIPTION:Fencing - Men's Épée Team Classifications 5-8
+DESCRIPTION:Fencing - Men's Épée Team Classifications 5-8\n🇪🇬 EGY
 SUMMARY:🤺 Men's Épée Team Classifications 5-8
 LOCATION:Grand Palais
 END:VEVENT
@@ -22661,7 +22661,7 @@ UID:20240802T130000Z-fencing-MENS-PE-TEAM-CLASSIFICATIONS-5-8
 DTSTAMP:20240802T130000Z
 DTSTART:20240802T130000Z
 DTEND:20240802T135000Z
-DESCRIPTION:Fencing - Men's Épée Team Classifications 5-8
+DESCRIPTION:Fencing - Men's Épée Team Classifications 5-8\n🇻🇪 VEN
 SUMMARY:🤺 Men's Épée Team Classifications 5-8
 LOCATION:Grand Palais
 END:VEVENT
@@ -22780,7 +22780,7 @@ UID:20240802T135000Z-fencing-MENS-PE-TEAM-SEMIFINAL-1
 DTSTAMP:20240802T135000Z
 DTSTART:20240802T135000Z
 DTEND:20240802T144000Z
-DESCRIPTION:Fencing - Men's Épée Team Semifinal 1
+DESCRIPTION:Fencing - Men's Épée Team Semifinal 1\n🇫🇷 FRA
 SUMMARY:🤺 Men's Épée Team Semifinal 1
 LOCATION:Grand Palais
 END:VEVENT
@@ -22789,7 +22789,7 @@ UID:20240802T135000Z-fencing-MENS-PE-TEAM-SEMIFINAL-2
 DTSTAMP:20240802T135000Z
 DTSTART:20240802T135000Z
 DTEND:20240802T144000Z
-DESCRIPTION:Fencing - Men's Épée Team Semifinal 2
+DESCRIPTION:Fencing - Men's Épée Team Semifinal 2\n🇯🇵 JPN
 SUMMARY:🤺 Men's Épée Team Semifinal 2
 LOCATION:Grand Palais
 END:VEVENT
@@ -24185,7 +24185,23 @@ UID:20240803T083500Z-athletics-MENS-100M-PRELIMINARY-ROUND
 DTSTAMP:20240803T083500Z
 DTSTART:20240803T083500Z
 DTEND:20240803T090000Z
-DESCRIPTION:Athletics - Men's 100m Preliminary Round
+DESCRIPTION:Athletics - Men's 100m Preliminary Round\n🇱🇾 Ahmed
+  ESSABAI\n🇵🇦 Arturo Harmodio DELISER ESPINOSA\n🇲🇹 Beppe GRILLO\n🇭🇹
+  Christopher BORZOR\n🇭🇰 DIU Felix Chun Hei\n🇲🇪 Darko PESIC\n🇰🇾
+  Davonte HOWELL\n🇧🇯 Didier KIKI\n🇨🇩 Dominique Lasconi MULAMBA\n🇸🇨
+  Dylan SICOBO\n🇬🇲 Ebrahima CAMARA\n🇹🇯 Favoris MUZRAPOV\n🇲🇱 Fode
+  SISSOKO\n🇦🇱 Franko BURRAJ\n🇲🇺 Gary Noa Jerrel BIBI\n🇰🇲 Hachim
+  MAAROUFOU\n🇨🇫 Herve TOUMANDJI\n🇲🇻 Ibadulla ADAM\n🇧🇩 Imranur
+  RAHMAN\n🇸🇷 Jalen LISSE\n🇬🇺 Joseph GREEN\n🇹🇻 Karalo Hepoiteloto
+  MAIBUCA\n🇰🇮 Kenaz KANIWETE\n🇮🇩 Lalu Muhammad ZOHRI\n🇹🇴 Maleselo
+  FUKOFUKA\n🇹🇱 Manuel ATAIDE\n🇸🇬 Marc Brian LOUIS\n🇦🇴 Marcos
+  SANTOS\n🇭🇳 Melique GARCIA\n🇲🇾 Muhd Azeem FAHMI\n🇧🇳 Muhd Noor
+  Firdaus AR-RASYID\n🇰🇳 Naquille HARRIS\n🇬🇶 Remigio SANTANDER
+  VILLARUBIA\n🇲🇬 Rija Vatomanga GARDINER\n🇾🇪 Samer AL-YAFAEE\n🇫🇲
+  Scott James FITI\n🇬🇼 Seco CAMARA\n🇦🇫 Sha Mahmood NOOR ZAHI\n🇧🇿
+  Shaun GILL\n🇸🇿 Sibusiso MATSENJWA\n🇲🇿 Steven SABINO\n🇮🇶 Taha
+  Hussein YASEEN\n🇫🇯 Waisake TEWA\n🇲🇭 William REED\n🇳🇷 Winzar
+  KAKIOUEA\n🇬🇦 Wissy Frank HOYE YENDA MOUKOULA
 SUMMARY:🏃 Men's 100m Preliminary Round
 LOCATION:Stade de France
 END:VEVENT
@@ -24667,12 +24683,12 @@ SUMMARY:🏹 Women's Individual Quarterfinal
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T113000Z-table-tennis-WOMENS-SINGLES-BRONZE-MEDAL-MATCH
+UID:20240803T113000Z-table-tennis-WOMENS-SINGLES-BRONZE-MEDAL-MATCH-JPN-KOR
 DTSTAMP:20240803T113000Z
 DTSTART:20240803T113000Z
 DTEND:20240803T123000Z
 DESCRIPTION:Table Tennis - Women's Singles Bronze Medal Match
-SUMMARY:🏓 Women's Singles Bronze Medal Match
+SUMMARY:🏓 Hina HAYATA 🇯🇵 - 🇰🇷 SHIN Yubin
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
@@ -24798,12 +24814,12 @@ SUMMARY:🤺 Women's Sabre Team Classifications 5-8
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T123000Z-table-tennis-WOMENS-SINGLES-GOLD-MEDAL-MATCH
+UID:20240803T123000Z-table-tennis-WOMENS-SINGLES-GOLD-MEDAL-MATCH-CHN-CHN
 DTSTAMP:20240803T123000Z
 DTSTART:20240803T123000Z
 DTEND:20240803T133000Z
 DESCRIPTION:Table Tennis - Women's Singles Gold Medal Match
-SUMMARY:🏓 Women's Singles Gold Medal Match
+SUMMARY:🏓 SUN Yingsha 🇨🇳 - 🇨🇳 CHEN Meng
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
@@ -26988,7 +27004,11 @@ UID:20240804T183000Z-athletics-MENS-HAMMER-THROW-FINAL
 DTSTAMP:20240804T183000Z
 DTSTART:20240804T183000Z
 DTEND:20240804T194000Z
-DESCRIPTION:Athletics - Men's Hammer Throw Final
+DESCRIPTION:Athletics - Men's Hammer Throw Final\n🇭🇺 Bence HALASZ\n🇬🇷
+  Christos FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇩🇪
+  Merlin HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel FAJDEK\n🇨🇦 Rowan
+  HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱 Wojciech
+  NOWICKI\n🇫🇷 Yann CHAUSSINAND
 SUMMARY:🏃 Men's Hammer Throw Final
 LOCATION:Stade de France
 END:VEVENT

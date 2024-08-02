@@ -1891,21 +1891,21 @@ SUMMARY:🎾 Финал, пары (м)
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T113000Z-table-tennis--
+UID:20240803T113000Z-table-tennis---JPN-KOR
 DTSTAMP:20240803T113000Z
 DTSTART:20240803T113000Z
 DTEND:20240803T123000Z
 DESCRIPTION:Настольный теннис - Матч за бронзу, одиночный разряд (ж)
-SUMMARY:🏓 Матч за бронзу, одиночный разряд (ж)
+SUMMARY:🏓 Hina HAYATA 🇯🇵 - 🇰🇷 SHIN Yubin
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T123000Z-table-tennis--
+UID:20240803T123000Z-table-tennis---CHN-CHN
 DTSTAMP:20240803T123000Z
 DTSTART:20240803T123000Z
 DTEND:20240803T133000Z
 DESCRIPTION:Настольный теннис - Финал, одиночный разряд (ж)
-SUMMARY:🏓 Финал, одиночный разряд (ж)
+SUMMARY:🏓 SUN Yingsha 🇨🇳 - 🇨🇳 CHEN Meng
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
@@ -2458,7 +2458,11 @@ UID:20240804T183000Z-athletics--
 DTSTAMP:20240804T183000Z
 DTSTART:20240804T183000Z
 DTEND:20240804T194000Z
-DESCRIPTION:Легкая атлетика - Метание молота, финал (м)
+DESCRIPTION:Легкая атлетика - Метание молота, финал (м)\n🇭🇺 Bence
+  HALASZ\n🇬🇷 Christos FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan
+  KATZBERG\n🇩🇪 Merlin HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel
+  FAJDEK\n🇨🇦 Rowan HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱
+  Wojciech NOWICKI\n🇫🇷 Yann CHAUSSINAND
 SUMMARY:🏃 Метание молота, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
