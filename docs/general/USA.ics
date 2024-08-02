@@ -6322,9 +6322,18 @@ BEGIN:VEVENT
 UID:20240803T100000Z-tennis-MENS-DOUBLES-GOLD-MEDAL-MATCH-AUS-USA
 DTSTAMP:20240803T100000Z
 DTSTART:20240803T100000Z
-DTEND:20240803T200000Z
+DTEND:20240803T113000Z
 DESCRIPTION:Tennis - Men's Doubles Gold Medal Match
 SUMMARY:🎾 EBDEN/PEERS 🇦🇺 - 🇺🇸 KRAJICEK/RAM
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100000Z-tennis-MENS-DOUBLES-BRONZE-MEDAL-MATCH-USA-CZE
+DTSTAMP:20240803T100000Z
+DTSTART:20240803T100000Z
+DTEND:20240803T130000Z
+DESCRIPTION:Tennis - Men's Doubles Bronze Medal Match
+SUMMARY:🎾 FRITZ/PAUL 🇺🇸 - 🇨🇿 MACHAC/PAVLASEK
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
@@ -6522,6 +6531,26 @@ SUMMARY:⚽ USA 🇺🇸 - 🇯🇵 JPN
 LOCATION:Parc des Princes
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T133000Z-canoe-slalom-WOMENS-KAYAK-CROSS-ROUND-1
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T142500Z
+DESCRIPTION:Canoe Slalom - Women's Kayak Cross Round 1\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇫🇷 Angele HUG\n🇨🇿 Antonie GALUSKOVA\n🇹🇼
+  CHANG Chu-Han\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹
+  Corinna KUHNLE\n🇩🇪 Elena LILIK\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva Alina
+  HOCEVAR\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧
+  Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇳🇱 Lena
+  TEUNISSEN\n🇨🇦 Lois BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison
+  CORCORAN\n🇪🇸 Maialen CHOURRAUT\n🇬🇧 Mallory FRANKLIN\n🇮🇹 Marta
+  BERTONCELLI\n🇳🇱 Martina WEGMAN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA
+  VILARRUBLA\n🇦🇺 Noemie FOX\n🇯🇵 OKAZAKI Haruka\n🇩🇪 Ricarda FUNK\n🇲🇽
+  Sofia REINOSO\n🇮🇹 Stefanie HORN\n🇨🇿 Tereza FISEROVA\n🇦🇹 Viktoria
+  WOLFFHARDT\n🇺🇦 Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 Women's Kayak Cross Round 1
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T134500Z-sailing-MIXED-DINGHY-RACE-3
 DTSTAMP:20240803T134500Z
 DTSTART:20240803T134500Z
@@ -6632,6 +6661,24 @@ DTEND:20240803T173000Z
 DESCRIPTION:3x3 Basketball - Women's Pool Round
 SUMMARY:🏀 CHN 🇨🇳 - 🇺🇸 USA
 LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T175000Z-athletics-WOMENS-100M-SEMI-FINAL
+DTSTAMP:20240803T175000Z
+DTSTART:20240803T175000Z
+DTEND:20240803T180700Z
+DESCRIPTION:Athletics - Women's 100m Semi-Final\n🇨🇦 Audrey LEDUC\n🇭🇺
+  Boglarka TAKACS\n🇦🇺 Bree MASTERS\n🇬🇧 Daryll NEITA\n🇧🇪 Delphine
+  NKANSA\n🇬🇧 Dina ASHER-SMITH\n🇵🇱 Ewa SWOBODA\n🇩🇪 Gina
+  LUECKENKEMPER\n🇬🇲 Gina Mariam BASS BITTAYE\n🇵🇷 Gladymar TORRES\n🇬🇧
+  Imani LANSIQUOT\n🇱🇨 Julien ALFRED\n🇨🇿 Karolina MANASOVA\n🇹🇹 Leah
+  BERTRAND\n🇨🇮 Marie-Josee TA LOU-SMITH\n🇺🇸 Melissa JEFFERSON\n🇨🇭
+  Mujinga KAMBUNDJI\n🇱🇺 Patrizia van der WEKEN\n🇧🇪 Rani ROSIUS\n🇳🇬
+  Rosemary CHUKWUMA\n🇺🇸 Sha'carri RICHARDSON\n🇯🇲 Shashalee FORBES\n🇯🇲
+  Shelly-Ann FRASER-PRYCE\n🇯🇲 Tia CLAYTON\n🇺🇸 Twanisha TERRY\n🇮🇹
+  Zaynab DOSSO\n🇳🇿 Zoe HOBBS
+SUMMARY:🏃 Women's 100m Semi-Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T180000Z-boxing-MENS-57KG-QUARTERFINAL-USA-KGZ

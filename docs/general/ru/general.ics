@@ -24432,16 +24432,25 @@ BEGIN:VEVENT
 UID:20240803T100000Z-tennis---AUS-USA
 DTSTAMP:20240803T100000Z
 DTSTART:20240803T100000Z
-DTEND:20240803T200000Z
+DTEND:20240803T113000Z
 DESCRIPTION:Теннис - Финал, пары (м)
 SUMMARY:🎾 EBDEN/PEERS 🇦🇺 - 🇺🇸 KRAJICEK/RAM
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100000Z-tennis---USA-CZE
+DTSTAMP:20240803T100000Z
+DTSTART:20240803T100000Z
+DTEND:20240803T130000Z
+DESCRIPTION:Теннис - Матч за бронзу, пары (м)
+SUMMARY:🎾 FRITZ/PAUL 🇺🇸 - 🇨🇿 MACHAC/PAVLASEK
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T100000Z-tennis---CHN-CRO
 DTSTAMP:20240803T100000Z
 DTSTART:20240803T100000Z
-DTEND:20240803T200000Z
+DTEND:20240803T143000Z
 DESCRIPTION:Теннис - Финал, одиночный разряд (ж)
 SUMMARY:🎾 ZHENG Qinwen 🇨🇳 - 🇭🇷 Donna VEKIC
 LOCATION:Стадион «Ролан Гаррос»
@@ -24450,7 +24459,7 @@ BEGIN:VEVENT
 UID:20240803T100000Z-tennis--
 DTSTAMP:20240803T100000Z
 DTSTART:20240803T100000Z
-DTEND:20240803T200000Z
+DTEND:20240803T160000Z
 DESCRIPTION:Теннис - Матч за бронзу, одиночный разряд (м)\n🇨🇦 Felix
   AUGER-ALIASSIME
 SUMMARY:🎾 Матч за бронзу, одиночный разряд (м)
@@ -25073,7 +25082,18 @@ UID:20240803T133000Z-canoe-slalom--1
 DTSTAMP:20240803T133000Z
 DTSTART:20240803T133000Z
 DTEND:20240803T142500Z
-DESCRIPTION:Гребной слалом - Экстрим-слалом (ж) Раунд 1
+DESCRIPTION:Гребной слалом - Экстрим-слалом (ж) Раунд 1\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇫🇷 Angele HUG\n🇨🇿 Antonie GALUSKOVA\n🇹🇼
+  CHANG Chu-Han\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹
+  Corinna KUHNLE\n🇩🇪 Elena LILIK\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva Alina
+  HOCEVAR\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧
+  Kimberley WOODS\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇳🇱 Lena
+  TEUNISSEN\n🇨🇦 Lois BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison
+  CORCORAN\n🇪🇸 Maialen CHOURRAUT\n🇬🇧 Mallory FRANKLIN\n🇮🇹 Marta
+  BERTONCELLI\n🇳🇱 Martina WEGMAN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA
+  VILARRUBLA\n🇦🇺 Noemie FOX\n🇯🇵 OKAZAKI Haruka\n🇩🇪 Ricarda FUNK\n🇲🇽
+  Sofia REINOSO\n🇮🇹 Stefanie HORN\n🇨🇿 Tereza FISEROVA\n🇦🇹 Viktoria
+  WOLFFHARDT\n🇺🇦 Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
 SUMMARY:🛶 Экстрим-слалом (ж) Раунд 1
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
@@ -25526,7 +25546,16 @@ UID:20240803T175000Z-athletics-100-
 DTSTAMP:20240803T175000Z
 DTSTART:20240803T175000Z
 DTEND:20240803T180700Z
-DESCRIPTION:Легкая атлетика - 100м, полуфинал (ж)
+DESCRIPTION:Легкая атлетика - 100м, полуфинал (ж)\n🇨🇦 Audrey LEDUC\n🇭🇺
+  Boglarka TAKACS\n🇦🇺 Bree MASTERS\n🇬🇧 Daryll NEITA\n🇧🇪 Delphine
+  NKANSA\n🇬🇧 Dina ASHER-SMITH\n🇵🇱 Ewa SWOBODA\n🇩🇪 Gina
+  LUECKENKEMPER\n🇬🇲 Gina Mariam BASS BITTAYE\n🇵🇷 Gladymar TORRES\n🇬🇧
+  Imani LANSIQUOT\n🇱🇨 Julien ALFRED\n🇨🇿 Karolina MANASOVA\n🇹🇹 Leah
+  BERTRAND\n🇨🇮 Marie-Josee TA LOU-SMITH\n🇺🇸 Melissa JEFFERSON\n🇨🇭
+  Mujinga KAMBUNDJI\n🇱🇺 Patrizia van der WEKEN\n🇧🇪 Rani ROSIUS\n🇳🇬
+  Rosemary CHUKWUMA\n🇺🇸 Sha'carri RICHARDSON\n🇯🇲 Shashalee FORBES\n🇯🇲
+  Shelly-Ann FRASER-PRYCE\n🇯🇲 Tia CLAYTON\n🇺🇸 Twanisha TERRY\n🇮🇹
+  Zaynab DOSSO\n🇳🇿 Zoe HOBBS
 SUMMARY:🏃 100м, полуфинал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
@@ -30945,7 +30974,7 @@ UID:20240807T200200Z-boxing--92-
 DTSTAMP:20240807T200200Z
 DTSTART:20240807T200200Z
 DTEND:20240807T201300Z
-DESCRIPTION:Бокс - Полуфинал, свыше 92кг (м)
+DESCRIPTION:Бокс - Полуфинал, свыше 92кг (м)\n🇩🇪 Nelvie Raman TIAFACK
 SUMMARY:🥊 Полуфинал, свыше 92кг (м)
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT

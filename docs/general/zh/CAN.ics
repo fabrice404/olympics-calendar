@@ -3567,7 +3567,7 @@ BEGIN:VEVENT
 UID:20240803T100000Z-tennis-
 DTSTAMP:20240803T100000Z
 DTSTART:20240803T100000Z
-DTEND:20240803T200000Z
+DTEND:20240803T160000Z
 DESCRIPTION:网球 - 男子单打铜牌赛\n🇨🇦 Felix AUGER-ALIASSIME
 SUMMARY:🎾 男子单打铜牌赛
 LOCATION:罗兰·加洛斯体育场
@@ -3679,6 +3679,26 @@ SUMMARY:⛵ 女子帆船激光雷迪尔级 - 比赛06
 LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T133000Z-canoe-slalom-1
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T142500Z
+DESCRIPTION:皮划艇激流回旋 - 女子极限皮艇第1轮\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇫🇷
+  Angele HUG\n🇨🇿 Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷 Camille
+  PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇩🇪 Elena
+  LILIK\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva Alina HOCEVAR\n🇸🇮 Eva
+  TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱
+  Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇳🇱 Lena TEUNISSEN\n🇨🇦 Lois
+  BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen
+  CHOURRAUT\n🇬🇧 Mallory FRANKLIN\n🇮🇹 Marta BERTONCELLI\n🇳🇱 Martina
+  WEGMAN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇦🇺 Noemie
+  FOX\n🇯🇵 OKAZAKI Haruka\n🇩🇪 Ricarda FUNK\n🇲🇽 Sofia REINOSO\n🇮🇹
+  Stefanie HORN\n🇨🇿 Tereza FISEROVA\n🇦🇹 Viktoria WOLFFHARDT\n🇺🇦
+  Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 女子极限皮艇第1轮
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T142000Z-artistic-gymnastics-
 DTSTAMP:20240803T142000Z
 DTSTART:20240803T142000Z
@@ -3752,6 +3772,23 @@ DESCRIPTION:田径 - 男子1500米复活赛\n🇪🇹 Abdisa FAYISA\n🇦🇺 Ad
   MPHAHLELE\n🇸🇪 Samuel PIHLSTROM\n🇳🇿 Samuel TANNER\n🇦🇺 Stewart
   McSWEYN\n🇿🇦 Tshepo TSHITE
 SUMMARY:🏃 男子1500米复活赛
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T175000Z-athletics-100
+DTSTAMP:20240803T175000Z
+DTSTART:20240803T175000Z
+DTEND:20240803T180700Z
+DESCRIPTION:田径 - 女子100米半决赛\n🇨🇦 Audrey LEDUC\n🇭🇺 Boglarka TAKACS\n🇦🇺
+  Bree MASTERS\n🇬🇧 Daryll NEITA\n🇧🇪 Delphine NKANSA\n🇬🇧 Dina
+  ASHER-SMITH\n🇵🇱 Ewa SWOBODA\n🇩🇪 Gina LUECKENKEMPER\n🇬🇲 Gina Mariam
+  BASS BITTAYE\n🇵🇷 Gladymar TORRES\n🇬🇧 Imani LANSIQUOT\n🇱🇨 Julien
+  ALFRED\n🇨🇿 Karolina MANASOVA\n🇹🇹 Leah BERTRAND\n🇨🇮 Marie-Josee TA
+  LOU-SMITH\n🇺🇸 Melissa JEFFERSON\n🇨🇭 Mujinga KAMBUNDJI\n🇱🇺 Patrizia
+  van der WEKEN\n🇧🇪 Rani ROSIUS\n🇳🇬 Rosemary CHUKWUMA\n🇺🇸 Sha'carri
+  RICHARDSON\n🇯🇲 Shashalee FORBES\n🇯🇲 Shelly-Ann FRASER-PRYCE\n🇯🇲 Tia
+  CLAYTON\n🇺🇸 Twanisha TERRY\n🇮🇹 Zaynab DOSSO\n🇳🇿 Zoe HOBBS
+SUMMARY:🏃 女子100米半决赛
 LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
