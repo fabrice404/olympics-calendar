@@ -3,4 +3,13 @@ VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/CPV//EN
 X-WR-CALNAME:🇨🇻 Cabo Verde 🏅 | Paris 2024
 NAME:🇨🇻 Cabo Verde 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240804T145000Z-boxing-MENS-51KG-SEMIFINAL
+DTSTAMP:20240804T145000Z
+DTSTART:20240804T145000Z
+DTEND:20240804T150100Z
+DESCRIPTION:Boxing - Men's 51kg - Semifinal\n🇨🇻 David de PINA
+SUMMARY:🥊 Men's 51kg - Semifinal
+LOCATION:North Paris Arena
+END:VEVENT
 END:VCALENDAR
