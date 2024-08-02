@@ -681,10 +681,10 @@ SUMMARY:⛵ Men's Dinghy - Race 4
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T122100Z-sailing-WOMENS-DINGHY-RACE-4
-DTSTAMP:20240802T122100Z
-DTSTART:20240802T122100Z
-DTEND:20240802T131200Z
+UID:20240803T100500Z-sailing-WOMENS-DINGHY-RACE-4
+DTSTAMP:20240803T100500Z
+DTSTART:20240803T100500Z
+DTEND:20240803T105600Z
 DESCRIPTION:Sailing - Women's Dinghy - Race 4\n🇧🇲 Adriana
   PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
   SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
@@ -701,29 +701,6 @@ DESCRIPTION:Sailing - Women's Dinghy - Race 4\n🇧🇲 Adriana
   KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Women's Dinghy - Race 4
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T100500Z-sailing-WOMENS-DINGHY-RACE-5
-DTSTAMP:20240803T100500Z
-DTSTART:20240803T100500Z
-DTEND:20240803T105600Z
-DESCRIPTION:Sailing - Women's Dinghy - Race 5\n🇧🇲 Adriana
-  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
-  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
-  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
-  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
-  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
-  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
-  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
-  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
-  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
-  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
-  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
-  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
-  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
-  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
-SUMMARY:⛵ Women's Dinghy - Race 5
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -767,11 +744,11 @@ SUMMARY:⛵ Mixed Multihull - Race 1
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T111300Z-sailing-WOMENS-DINGHY-RACE-6
+UID:20240803T111300Z-sailing-WOMENS-DINGHY-RACE-5
 DTSTAMP:20240803T111300Z
 DTSTART:20240803T111300Z
 DTEND:20240803T120400Z
-DESCRIPTION:Sailing - Women's Dinghy - Race 6\n🇧🇲 Adriana
+DESCRIPTION:Sailing - Women's Dinghy - Race 5\n🇧🇲 Adriana
   PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
   SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
   BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
@@ -786,7 +763,7 @@ DESCRIPTION:Sailing - Women's Dinghy - Race 6\n🇧🇲 Adriana
   KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
   KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
-SUMMARY:⛵ Women's Dinghy - Race 6
+SUMMARY:⛵ Women's Dinghy - Race 5
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -827,6 +804,29 @@ DESCRIPTION:Sailing - Mixed Multihull - Race 2\n🇧🇪
   SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
   WILKINSON/DAWSON
 SUMMARY:⛵ Mixed Multihull - Race 2
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T122100Z-sailing-WOMENS-DINGHY-RACE-6
+DTSTAMP:20240803T122100Z
+DTSTART:20240803T122100Z
+DTEND:20240803T131200Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 6\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT

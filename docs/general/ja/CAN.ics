@@ -3273,29 +3273,6 @@ SUMMARY:🤽 オーストラリア 🇦🇺 - 🇨🇦 カナダ
 LOCATION:アクアティックス・センター
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T122100Z-sailing--4
-DTSTAMP:20240802T122100Z
-DTSTART:20240802T122100Z
-DTEND:20240802T131200Z
-DESCRIPTION:セーリング - 女子ディンギー - レース4\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
-  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
-  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
-  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
-  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
-  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
-  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
-  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
-  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
-  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
-  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
-  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
-  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
-  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
-  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
-SUMMARY:⛵ 女子ディンギー - レース4
-LOCATION:マルセイユ・マリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240802T133000Z-canoe-slalom-
 DTSTAMP:20240802T133000Z
 DTSTART:20240802T133000Z
@@ -3595,11 +3572,11 @@ SUMMARY:🎾 男子シングルス3位決定戦
 LOCATION:スタッド・ローラン・ギャロス
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T100500Z-sailing--5
+UID:20240803T100500Z-sailing--4
 DTSTAMP:20240803T100500Z
 DTSTART:20240803T100500Z
 DTEND:20240803T105600Z
-DESCRIPTION:セーリング - 女子ディンギー - レース5\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+DESCRIPTION:セーリング - 女子ディンギー - レース4\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
   BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
   RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
   NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
@@ -3614,7 +3591,7 @@ DESCRIPTION:セーリング - 女子ディンギー - レース5\n🇧🇲 Adria
   LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
   MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
   Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
-SUMMARY:⛵ 女子ディンギー - レース5
+SUMMARY:⛵ 女子ディンギー - レース4
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -3642,10 +3619,48 @@ SUMMARY:🏊 女子4×100mメドレーリレー予選
 LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T111300Z-sailing--6
+UID:20240803T111300Z-sailing--5
 DTSTAMP:20240803T111300Z
 DTSTART:20240803T111300Z
 DTEND:20240803T120400Z
+DESCRIPTION:セーリング - 女子ディンギー - レース5\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 女子ディンギー - レース5
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T114000Z-athletics-
+DTSTAMP:20240803T114000Z
+DTSTART:20240803T114000Z
+DTEND:20240803T135600Z
+DESCRIPTION:陸上競技 - 男子十種競技棒高跳\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
+  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
+  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
+  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
+  Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson
+  GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander
+  SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 男子十種競技棒高跳
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T122100Z-sailing--6
+DTSTAMP:20240803T122100Z
+DTSTART:20240803T122100Z
+DTEND:20240803T131200Z
 DESCRIPTION:セーリング - 女子ディンギー - レース6\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
   BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
   RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
@@ -3663,21 +3678,6 @@ DESCRIPTION:セーリング - 女子ディンギー - レース6\n🇧🇲 Adria
   Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ 女子ディンギー - レース6
 LOCATION:マルセイユ・マリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T114000Z-athletics-
-DTSTAMP:20240803T114000Z
-DTSTART:20240803T114000Z
-DTEND:20240803T135600Z
-DESCRIPTION:陸上競技 - 男子十種競技棒高跳\n🇦🇺 Ashley MOLONEY\n🇵🇷 Ayden
-  OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
-  WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
-  Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
-  Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson
-  GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander
-  SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
-SUMMARY:🏃 男子十種競技棒高跳
-LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T142000Z-artistic-gymnastics-
