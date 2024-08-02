@@ -2374,6 +2374,15 @@ SUMMARY:🔫 Скорострельный пистолет 25 м, Pаунд 1 (�
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T100000Z-tennis--
+DTSTAMP:20240804T100000Z
+DTSTART:20240804T100000Z
+DTEND:20240804T200000Z
+DESCRIPTION:Теннис - Матч за бронзу, пары (ж)\n🇨🇿 MUCHOVA/NOSKOVA
+SUMMARY:🎾 Матч за бронзу, пары (ж)
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z
