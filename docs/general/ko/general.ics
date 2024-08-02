@@ -21842,21 +21842,21 @@ SUMMARY:🏊 여자 800m 자유형 - 예선
 LOCATION:파리 라 데팡스 아레나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T094200Z-judo--100KG-8-TJK-UZB
+DTSTAMP:20240802T094200Z
+DTSTART:20240802T094200Z
+DTEND:20240802T094800Z
+DESCRIPTION:유도 - 남자 +100kg 8강
+SUMMARY:🥋 Temur RAKHIMOV 🇹🇯 - 🇺🇿 Alisher YUSUPOV
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T094200Z-judo--78KG-16--CHN-JPN
 DTSTAMP:20240802T094200Z
 DTSTART:20240802T094200Z
 DTEND:20240802T094800Z
 DESCRIPTION:유도 - 여자 +78kg 16강 엘리미네이션 라운드
 SUMMARY:🥋 XU Shiyan 🇨🇳 - 🇯🇵 SONE Akira
-LOCATION:샹드마르 아레나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T094200Z-judo--100KG-8
-DTSTAMP:20240802T094200Z
-DTSTART:20240802T094200Z
-DTEND:20240802T094800Z
-DESCRIPTION:유도 - 남자 +100kg 8강
-SUMMARY:🥋 남자 +100kg 8강
 LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT
@@ -21892,7 +21892,7 @@ UID:20240802T094800Z-judo--100KG-8
 DTSTAMP:20240802T094800Z
 DTSTART:20240802T094800Z
 DTEND:20240802T095400Z
-DESCRIPTION:유도 - 남자 +100kg 8강
+DESCRIPTION:유도 - 남자 +100kg 8강\n🇬🇪 Guram TUSHISHVILI
 SUMMARY:🥋 남자 +100kg 8강
 LOCATION:샹드마르 아레나
 END:VEVENT
@@ -21930,12 +21930,12 @@ SUMMARY:🏃 여자 100m 1라운드
 LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T095400Z-judo--78KG-8
+UID:20240802T095400Z-judo--78KG-8-KOR-BRA
 DTSTAMP:20240802T095400Z
 DTSTART:20240802T095400Z
 DTEND:20240802T100000Z
-DESCRIPTION:유도 - 여자 +78kg 8강\n🇰🇷 KIM Hayun
-SUMMARY:🥋 여자 +78kg 8강
+DESCRIPTION:유도 - 여자 +78kg 8강
+SUMMARY:🥋 KIM Hayun 🇰🇷 - 🇧🇷 Beatriz SOUZA
 LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT
@@ -21943,7 +21943,7 @@ UID:20240802T100000Z-judo--78KG-8
 DTSTAMP:20240802T100000Z
 DTSTART:20240802T100000Z
 DTEND:20240802T100600Z
-DESCRIPTION:유도 - 여자 +78kg 8강
+DESCRIPTION:유도 - 여자 +78kg 8강\n🇮🇱 Raz HERSHKO
 SUMMARY:🥋 여자 +78kg 8강
 LOCATION:샹드마르 아레나
 END:VEVENT
@@ -21992,7 +21992,19 @@ UID:20240802T100000Z-shooting--25M-
 DTSTAMP:20240802T100000Z
 DTSTART:20240802T100000Z
 DTEND:20240802T120000Z
-DESCRIPTION:사격 - 여자 25m 권총 예선 속사
+DESCRIPTION:사격 - 여자 25m 권총 예선 속사\n🇺🇸 Ada Claudia KORKHIN\n🇱🇻 Agate
+  RASMANE\n🇲🇽 Alejandra ZAVALA VAZQUEZ\n🇪🇨 Andrea PEREZ PENA\n🇬🇷 Anna
+  KORAKAKI\n🇧🇬 Antoaneta KOSTADINOVA\n🇫🇷 Camille JEDRZEJEWSKI\n🇪🇨
+  Diana DURANGO FLORES\n🇩🇪 Doreen VENNEKAMP\n🇦🇺 Elena
+  GALIABOVITCH\n🇮🇳 Esha SINGH\n🇮🇷 Haniyeh ROSTAMIYAN\n🇩🇪 Josefin
+  EDER\n🇰🇷 KIM Yeji\n🇹🇭 Kamonlak SAENCHA\n🇺🇸 Katelyn Morgan
+  ABELN\n🇵🇰 Kishmala TALAT\n🇵🇱 Klaudia BRES\n🇨🇳 LIANG Xiaoya\n🇨🇺
+  Laina PEREZ\n🇦🇱 Manjola KONINI\n🇮🇳 Manu BHAKER\n🇫🇷 Mathilde
+  LAMOLLE\n🇬🇪 Nino SALUKVADZE\n🇪🇬 Nour Abbas MOHAMMED\n🇺🇦 Olena
+  KOSTEVYCH\n🇭🇺 Sara Rahel FABIAN\n🇹🇷 Sevval Ilayda TARHAN\n🇹🇷 Simal
+  YILMAZ\n🇸🇪 Stina LAWNER\n🇦🇹 Sylvia STEINER\n🇹🇼 TIEN Chia Chen\n🇹🇭
+  Tanyaporn PRUCKSAKORN\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇹🇼 WU
+  Chia Ying\n🇸🇬 Xiu Hong TEH\n🇰🇷 YANG Jiin\n🇨🇳 ZHAO Nan
 SUMMARY:🔫 여자 25m 권총 예선 속사
 LOCATION:샤토루 사격 센터
 END:VEVENT
@@ -22510,7 +22522,7 @@ UID:20240802T125300Z-archery--8
 DTSTAMP:20240802T125300Z
 DTSTART:20240802T125300Z
 DTEND:20240802T131200Z
-DESCRIPTION:양궁 - 혼성 단체 8강
+DESCRIPTION:양궁 - 혼성 단체 8강\n🇯🇵 일본
 SUMMARY:🏹 혼성 단체 8강
 LOCATION:앵발리드
 END:VEVENT

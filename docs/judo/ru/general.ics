@@ -3595,21 +3595,21 @@ SUMMARY:🥋 Kayra OZDEMIR 🇹🇷 - 🇲🇳 Adiyasuren AMARSAIKHAN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T094200Z-judo--100--TJK-UZB
+DTSTAMP:20240802T094200Z
+DTSTART:20240802T094200Z
+DTEND:20240802T094800Z
+DESCRIPTION:Дзюдо - Четвертьфинал, свыше 100кг (м)
+SUMMARY:🥋 Temur RAKHIMOV 🇹🇯 - 🇺🇿 Alisher YUSUPOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T094200Z-judo-18-78--CHN-JPN
 DTSTAMP:20240802T094200Z
 DTSTART:20240802T094200Z
 DTEND:20240802T094800Z
 DESCRIPTION:Дзюдо - 1/8 финала, свыше 78кг (ж)
 SUMMARY:🥋 XU Shiyan 🇨🇳 - 🇯🇵 SONE Akira
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T094200Z-judo--100-
-DTSTAMP:20240802T094200Z
-DTSTART:20240802T094200Z
-DTEND:20240802T094800Z
-DESCRIPTION:Дзюдо - Четвертьфинал, свыше 100кг (м)
-SUMMARY:🥋 Четвертьфинал, свыше 100кг (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -3626,17 +3626,17 @@ UID:20240802T094800Z-judo--100-
 DTSTAMP:20240802T094800Z
 DTSTART:20240802T094800Z
 DTEND:20240802T095400Z
-DESCRIPTION:Дзюдо - Четвертьфинал, свыше 100кг (м)
+DESCRIPTION:Дзюдо - Четвертьфинал, свыше 100кг (м)\n🇬🇪 Guram TUSHISHVILI
 SUMMARY:🥋 Четвертьфинал, свыше 100кг (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T095400Z-judo--78-
+UID:20240802T095400Z-judo--78--KOR-BRA
 DTSTAMP:20240802T095400Z
 DTSTART:20240802T095400Z
 DTEND:20240802T100000Z
-DESCRIPTION:Дзюдо - Четвертьфинал, свыше 78кг (ж)\n🇰🇷 KIM Hayun
-SUMMARY:🥋 Четвертьфинал, свыше 78кг (ж)
+DESCRIPTION:Дзюдо - Четвертьфинал, свыше 78кг (ж)
+SUMMARY:🥋 KIM Hayun 🇰🇷 - 🇧🇷 Beatriz SOUZA
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -3644,7 +3644,7 @@ UID:20240802T100000Z-judo--78-
 DTSTAMP:20240802T100000Z
 DTSTART:20240802T100000Z
 DTEND:20240802T100600Z
-DESCRIPTION:Дзюдо - Четвертьфинал, свыше 78кг (ж)
+DESCRIPTION:Дзюдо - Четвертьфинал, свыше 78кг (ж)\n🇮🇱 Raz HERSHKO
 SUMMARY:🥋 Четвертьфинал, свыше 78кг (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
