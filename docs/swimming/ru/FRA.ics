@@ -938,4 +938,27 @@ DESCRIPTION:Плавание - Эстафета 4x100м комплексом, к
 SUMMARY:🏊 Эстафета 4x100м комплексом, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T192800Z-swimming-800-
+DTSTAMP:20240803T192800Z
+DTSTART:20240803T192800Z
+DTEND:20240803T194300Z
+DESCRIPTION:Плавание - 800м вольным стилем, финал (ж)\n🇫🇷 Anastasiia
+  KIRPICHNIKOVA\n🇦🇺 Ariarne TITMUS\n🇳🇿 Erika FAIRWEATHER\n🇩🇪 Isabel
+  GOSE\n🇺🇸 Katie LEDECKY\n🇦🇺 Lani PALLISTER\n🇺🇸 Paige MADDEN\n🇮🇹
+  Simona QUADARELLA
+SUMMARY:🏊 800м вольным стилем, финал (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T195800Z-swimming--4X100-
+DTSTAMP:20240803T195800Z
+DTSTART:20240803T195800Z
+DTEND:20240803T200800Z
+DESCRIPTION:Плавание - Эстафета 4x100м комплексом, финал (микст)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇨🇦 Канада\n🇨🇳 Китай\n🇳🇱
+  Нидерланды\n🇺🇸 США\n🇫🇷 Франция\n🇯🇵 Япония
+SUMMARY:🏊 Эстафета 4x100м комплексом, финал (микст)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
 END:VCALENDAR

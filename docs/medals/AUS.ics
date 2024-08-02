@@ -673,4 +673,26 @@ DESCRIPTION:Rowing - Men's Eight Final A\n🇦🇺 AUS\n🇩🇪 GER\n🇬🇧
 SUMMARY:🚣 Men's Eight Final A
 LOCATION:Nautical St - Flat water
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T192800Z-swimming-WOMENS-800M-FREESTYLE-FINAL
+DTSTAMP:20240803T192800Z
+DTSTART:20240803T192800Z
+DTEND:20240803T194300Z
+DESCRIPTION:Swimming - Women's 800m Freestyle Final\n🇫🇷 Anastasiia
+  KIRPICHNIKOVA\n🇦🇺 Ariarne TITMUS\n🇳🇿 Erika FAIRWEATHER\n🇩🇪 Isabel
+  GOSE\n🇺🇸 Katie LEDECKY\n🇦🇺 Lani PALLISTER\n🇺🇸 Paige MADDEN\n🇮🇹
+  Simona QUADARELLA
+SUMMARY:🏊 Women's 800m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T195800Z-swimming-MIXED-4-X-100M-MEDLEY-RELAY-FINAL
+DTSTAMP:20240803T195800Z
+DTSTART:20240803T195800Z
+DTEND:20240803T200800Z
+DESCRIPTION:Swimming - Mixed 4 x 100m Medley Relay Final\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇯🇵 JPN\n🇳🇱 NED\n🇺🇸 USA
+SUMMARY:🏊 Mixed 4 x 100m Medley Relay Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
 END:VCALENDAR
