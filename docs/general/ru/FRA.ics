@@ -5598,6 +5598,15 @@ SUMMARY:🏊 800м вольным стилем, квалификация (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T094800Z-judo--100--GEO-FRA
+DTSTAMP:20240802T094800Z
+DTSTART:20240802T094800Z
+DTEND:20240802T095400Z
+DESCRIPTION:Дзюдо - Четвертьфинал, свыше 100кг (м)
+SUMMARY:🥋 Guram TUSHISHVILI 🇬🇪 - 🇫🇷 Teddy RINER
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T094800Z-judo--78--FRA-BIH
 DTSTAMP:20240802T094800Z
 DTSTART:20240802T094800Z
@@ -5773,10 +5782,10 @@ DESCRIPTION:Легкая атлетика - Десятиборье, ядро (м
   MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
   GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
   OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
-  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo
-  NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
-  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
-  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 Десятиборье, ядро (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
@@ -6222,6 +6231,20 @@ DTEND:20240802T204500Z
 DESCRIPTION:Баскетбол - Групповой этап, группа В (м)
 SUMMARY:🏀 Франция 🇫🇷 - 🇩🇪 Германия
 LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T190500Z-swimming-100-
+DTSTAMP:20240802T190500Z
+DTSTART:20240802T190500Z
+DTEND:20240802T191900Z
+DESCRIPTION:Плавание - 100м баттерфляем, полуфиналы (м)\n🇦🇺 Ben
+  ARMBRUSTER\n🇺🇸 Caeleb DRESSEL\n🇫🇷 Clement SECCHI\n🇮🇱 Gal COHEN
+  GROUMI\n🇭🇺 Hubert KOS\n🇨🇦 Ilya KHARUN\n🇵🇱 Jakub MAJERSKI\n🇨🇦 Josh
+  LIENDO\n🇭🇺 Kristof MILAK\n🇯🇵 MATSUMOTO Katsuhiro\n🇯🇵 MIZUNUMA
+  Naoki\n🇦🇺 Matthew TEMPLE\n🇫🇷 Maxime GROUSSET\n🇨🇭 Noe PONTI\n🇳🇱
+  Nyls KORSTANJE\n🇦🇹 Simon BUCHER
+SUMMARY:🏊 100м баттерфляем, полуфиналы (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T192000Z-athletics-10000-

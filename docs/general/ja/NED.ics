@@ -3355,10 +3355,9 @@ DESCRIPTION:陸上競技 - 男子十種競技砲丸投\n🇦🇺 Ashley MOLONEY\
   OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
   WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
   Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
-  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
-  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
-  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
-  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+  Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson
+  GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander
+  SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 男子十種競技砲丸投
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -3662,6 +3661,20 @@ DESCRIPTION:陸上競技 - 男子十種競技400m\n🇦🇺 Ashley MOLONEY\n🇵
   SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 男子十種競技400m
 LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T190500Z-swimming-100M
+DTSTAMP:20240802T190500Z
+DTSTART:20240802T190500Z
+DTEND:20240802T191900Z
+DESCRIPTION:競泳 - 男子100mバタフライ準決勝\n🇦🇺 Ben ARMBRUSTER\n🇺🇸 Caeleb
+  DRESSEL\n🇫🇷 Clement SECCHI\n🇮🇱 Gal COHEN GROUMI\n🇭🇺 Hubert
+  KOS\n🇨🇦 Ilya KHARUN\n🇵🇱 Jakub MAJERSKI\n🇨🇦 Josh LIENDO\n🇭🇺
+  Kristof MILAK\n🇯🇵 MATSUMOTO Katsuhiro\n🇯🇵 MIZUNUMA Naoki\n🇦🇺
+  Matthew TEMPLE\n🇫🇷 Maxime GROUSSET\n🇨🇭 Noe PONTI\n🇳🇱 Nyls
+  KORSTANJE\n🇦🇹 Simon BUCHER
+SUMMARY:🏊 男子100mバタフライ準決勝
+LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T064200Z-judo-1-NED-SRB

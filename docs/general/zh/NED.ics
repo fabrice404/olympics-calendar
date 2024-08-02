@@ -3338,10 +3338,9 @@ DESCRIPTION:田径 - 男子十项全能铅球\n🇦🇺 Ashley MOLONEY\n🇵🇷
   OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison
   WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸
   Jorge URENA\n🇧🇷 Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸
-  Ken MULLINGS\n🇫🇷 Kevin MAYER\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
-  VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱
-  Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
-  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+  Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson
+  GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander
+  SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 男子十项全能铅球
 LOCATION:法兰西体育场
 END:VEVENT
@@ -3644,6 +3643,20 @@ DESCRIPTION:田径 - 男子十项全能400米\n🇦🇺 Ashley MOLONEY\n🇵🇷
   SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 男子十项全能400米
 LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T190500Z-swimming-100
+DTSTAMP:20240802T190500Z
+DTSTART:20240802T190500Z
+DTEND:20240802T191900Z
+DESCRIPTION:游泳 - 男子100米蝶泳半决赛\n🇦🇺 Ben ARMBRUSTER\n🇺🇸 Caeleb
+  DRESSEL\n🇫🇷 Clement SECCHI\n🇮🇱 Gal COHEN GROUMI\n🇭🇺 Hubert
+  KOS\n🇨🇦 Ilya KHARUN\n🇵🇱 Jakub MAJERSKI\n🇨🇦 Josh LIENDO\n🇭🇺
+  Kristof MILAK\n🇯🇵 MATSUMOTO Katsuhiro\n🇯🇵 MIZUNUMA Naoki\n🇦🇺
+  Matthew TEMPLE\n🇫🇷 Maxime GROUSSET\n🇨🇭 Noe PONTI\n🇳🇱 Nyls
+  KORSTANJE\n🇦🇹 Simon BUCHER
+SUMMARY:🏊 男子100米蝶泳半决赛
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T064200Z-judo-16-NED-SRB
