@@ -5978,12 +5978,12 @@ SUMMARY:🏐 KROU/GAUTHIER-RAT 🇫🇷 - 🇳🇱 BOERMANS/DE GROOT
 LOCATION:Стадион у Эйфелевой башни
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T141800Z-judo--A-78-
+UID:20240802T141800Z-judo--A-78--FRA-BRA
 DTSTAMP:20240802T141800Z
 DTSTART:20240802T141800Z
 DTEND:20240802T142400Z
-DESCRIPTION:Дзюдо - Полуфинал A, свыше 78кг (ж)\n🇫🇷 Romane DICKO
-SUMMARY:🥋 Полуфинал A, свыше 78кг (ж)
+DESCRIPTION:Дзюдо - Полуфинал A, свыше 78кг (ж)
+SUMMARY:🥋 Romane DICKO 🇫🇷 - 🇧🇷 Beatriz SOUZA
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -6281,6 +6281,20 @@ DTEND:20240802T195500Z
 DESCRIPTION:Баскетбол 3х3 - Групповой этап (ж)
 SUMMARY:🏀 Франция 🇫🇷 - 🇩🇪 Германия
 LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T193100Z-swimming-200-
+DTSTAMP:20240802T193100Z
+DTSTART:20240802T193100Z
+DTEND:20240802T194700Z
+DESCRIPTION:Плавание - 200м комплексом, полуфиналы (ж)\n🇬🇧 Abbie
+  WOOD\n🇺🇸 Alex WALSH\n🇮🇱 Anastasia GORBENKO\n🇫🇷 Charlotte
+  BONNET\n🇦🇺 Ella RAMSAY\n🇮🇪 Ellen WALSHE\n🇪🇸 Emma CARRASCO
+  CADENS\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee McKEOWN\n🇯🇵 MATSUMOTO
+  Shiho\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇨🇦 Summer McINTOSH\n🇨🇦
+  Sydney PICKREM\n🇨🇳 YE Shiwen\n🇨🇳 YU Yiting
+SUMMARY:🏊 200м комплексом, полуфиналы (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T200800Z-boxing--92--FRA-ECU

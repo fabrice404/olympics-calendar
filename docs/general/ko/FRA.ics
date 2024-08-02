@@ -5875,12 +5875,12 @@ SUMMARY:🏐 KROU/GAUTHIER-RAT 🇫🇷 - 🇳🇱 BOERMANS/DE GROOT
 LOCATION:에펠탑 스타디움
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T141800Z-judo--78KG-A
+UID:20240802T141800Z-judo--78KG-A-FRA-BRA
 DTSTAMP:20240802T141800Z
 DTSTART:20240802T141800Z
 DTEND:20240802T142400Z
-DESCRIPTION:유도 - 여자 +78kg 준결승 A\n🇫🇷 Romane DICKO
-SUMMARY:🥋 여자 +78kg 준결승 A
+DESCRIPTION:유도 - 여자 +78kg 준결승 A
+SUMMARY:🥋 Romane DICKO 🇫🇷 - 🇧🇷 Beatriz SOUZA
 LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT
@@ -6170,6 +6170,19 @@ DTEND:20240802T195500Z
 DESCRIPTION:3X3 농구 - 여자 예선 라운드
 SUMMARY:🏀 프랑스 🇫🇷 - 🇩🇪 독일
 LOCATION:라 콩코르드 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T193100Z-swimming--200M-
+DTSTAMP:20240802T193100Z
+DTSTART:20240802T193100Z
+DTEND:20240802T194700Z
+DESCRIPTION:경영 - 여자 200m 개인 혼영 준결승\n🇬🇧 Abbie WOOD\n🇺🇸 Alex WALSH\n🇮🇱
+  Anastasia GORBENKO\n🇫🇷 Charlotte BONNET\n🇦🇺 Ella RAMSAY\n🇮🇪 Ellen
+  WALSHE\n🇪🇸 Emma CARRASCO CADENS\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee
+  McKEOWN\n🇯🇵 MATSUMOTO Shiho\n🇯🇵 OHASHI Yui\n🇿🇦 Rebecca MEDER\n🇨🇦
+  Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇨🇳 YE Shiwen\n🇨🇳 YU Yiting
+SUMMARY:🏊 여자 200m 개인 혼영 준결승
+LOCATION:파리 라 데팡스 아레나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T200800Z-boxing--92KG-8-FRA-ECU
