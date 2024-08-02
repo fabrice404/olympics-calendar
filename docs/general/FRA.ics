@@ -6028,6 +6028,15 @@ SUMMARY:🏐 FRA 🇫🇷 - 🇸🇮 SLO
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T151800Z-judo-MEN-100-KG-FINAL
+DTSTAMP:20240802T151800Z
+DTSTART:20240802T151800Z
+DTEND:20240802T152400Z
+DESCRIPTION:Judo - Men +100 kg Final\n🇫🇷 Teddy RINER
+SUMMARY:🥋 Men +100 kg Final
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T160000Z-trampoline-gymnastics-MENS-QUALIFICATION
 DTSTAMP:20240802T160000Z
 DTSTART:20240802T160000Z
@@ -6140,6 +6149,15 @@ DESCRIPTION:Athletics - 4 x 400m Relay Mixed Round 1\n🇧🇸 BAH\n🇧🇪
   JAM\n🇰🇪 KEN\n🇳🇱 NED\n🇳🇬 NGR\n🇵🇱 POL\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA
 SUMMARY:🏃 4 x 400m Relay Mixed Round 1
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T173000Z-fencing-MENS-PE-TEAM-BRONZE-MEDAL-MATCH-CZE-FRA
+DTSTAMP:20240802T173000Z
+DTSTART:20240802T173000Z
+DTEND:20240802T182000Z
+DESCRIPTION:Fencing - Men's Épée Team Bronze Medal Match
+SUMMARY:🤺 CZE 🇨🇿 - 🇫🇷 FRA
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T174500Z-athletics-WOMENS-800M-ROUND-1
@@ -6365,6 +6383,22 @@ SUMMARY:🏇 Dressage Team Grand Prix Special
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T080500Z-athletics-MENS-DECATHLON-110M-HURDLES
+DTSTAMP:20240803T080500Z
+DTSTART:20240803T080500Z
+DTEND:20240803T082200Z
+DESCRIPTION:Athletics - Men's Decathlon 110m Hurdles\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Men's Decathlon 110m Hurdles
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T081000Z-athletics-MENS-POLE-VAULT-QUALIFICATION
 DTSTAMP:20240803T081000Z
 DTSTART:20240803T081000Z
@@ -6533,6 +6567,22 @@ DESCRIPTION:Sailing - Men's Dinghy - Race 6\n🇪🇬 Aly BADAWY\n🇹🇭 Arthi
   ZELKO
 SUMMARY:⛵ Men's Dinghy - Race 6
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T114000Z-athletics-MENS-DECATHLON-POLE-VAULT
+DTSTAMP:20240803T114000Z
+DTSTART:20240803T114000Z
+DTEND:20240803T135600Z
+DESCRIPTION:Athletics - Men's Decathlon Pole Vault\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Men's Decathlon Pole Vault
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T122500Z-sailing-WOMENS-DINGHY-RACE-5

@@ -3713,6 +3713,22 @@ SUMMARY:🚣 Men's Single Sculls Final C
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T080500Z-athletics-MENS-DECATHLON-110M-HURDLES
+DTSTAMP:20240803T080500Z
+DTSTART:20240803T080500Z
+DTEND:20240803T082200Z
+DESCRIPTION:Athletics - Men's Decathlon 110m Hurdles\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Men's Decathlon 110m Hurdles
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T084800Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-16-KAZ-BRA
 DTSTAMP:20240803T084800Z
 DTSTART:20240803T084800Z
@@ -3777,6 +3793,22 @@ DESCRIPTION:Sailing - Men's Dinghy - Race 6\n🇪🇬 Aly BADAWY\n🇹🇭 Arthi
   ZELKO
 SUMMARY:⛵ Men's Dinghy - Race 6
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T114000Z-athletics-MENS-DECATHLON-POLE-VAULT
+DTSTAMP:20240803T114000Z
+DTSTART:20240803T114000Z
+DTEND:20240803T135600Z
+DESCRIPTION:Athletics - Men's Decathlon Pole Vault\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Men's Decathlon Pole Vault
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T120000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-B-BRA-ANG
@@ -3955,6 +3987,15 @@ DTEND:20240804T082200Z
 DESCRIPTION:Archery - Men's Individual 1/8 Elimination Round
 SUMMARY:🏹 KIM Woojin 🇰🇷 - 🇧🇷 Marcus D'ALMEIDA
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T091600Z-boxing-WOMENS-57KG-QUARTERFINAL-TUR-BRA
+DTSTAMP:20240804T091600Z
+DTSTART:20240804T091600Z
+DTEND:20240804T092700Z
+DESCRIPTION:Boxing - Women's 57kg - Quarterfinal
+SUMMARY:🥊 Esra YILDIZ KAHRAMAN 🇹🇷 - 🇧🇷 Jucielen CERQUEIRA ROMEU
+LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T100500Z-sailing-MIXED-MULTIHULL-RACE-4

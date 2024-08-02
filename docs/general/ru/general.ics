@@ -23122,12 +23122,12 @@ SUMMARY:🏐 Франция 🇫🇷 - 🇸🇮 Словения
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T150600Z-judo--100-
+UID:20240802T150600Z-judo--100--CUB-TJK
 DTSTAMP:20240802T150600Z
 DTSTART:20240802T150600Z
 DTEND:20240802T151200Z
-DESCRIPTION:Дзюдо - Поединок за бронзу А, свыше 100кг (м)\n🇨🇺 Andy GRANDA
-SUMMARY:🥋 Поединок за бронзу А, свыше 100кг (м)
+DESCRIPTION:Дзюдо - Поединок за бронзу А, свыше 100кг (м)
+SUMMARY:🥋 Andy GRANDA 🇨🇺 - 🇹🇯 Temur RAKHIMOV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -23144,7 +23144,8 @@ UID:20240802T151200Z-judo--100-
 DTSTAMP:20240802T151200Z
 DTSTART:20240802T151200Z
 DTEND:20240802T151800Z
-DESCRIPTION:Дзюдо - Поединок за бронзу В, свыше 100кг (м)
+DESCRIPTION:Дзюдо - Поединок за бронзу В, свыше 100кг (м)\n🇺🇿 Alisher
+  YUSUPOV
 SUMMARY:🥋 Поединок за бронзу В, свыше 100кг (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -23162,7 +23163,7 @@ UID:20240802T151800Z-judo--100-
 DTSTAMP:20240802T151800Z
 DTSTART:20240802T151800Z
 DTEND:20240802T152400Z
-DESCRIPTION:Дзюдо - Финал, свыше 100кг (м)
+DESCRIPTION:Дзюдо - Финал, свыше 100кг (м)\n🇫🇷 Teddy RINER
 SUMMARY:🥋 Финал, свыше 100кг (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -23400,12 +23401,12 @@ SUMMARY:🏃 Эстафета 4х400м, раунд 1 (микст)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T173000Z-fencing--3-
+UID:20240802T173000Z-fencing--3--CZE-FRA
 DTSTAMP:20240802T173000Z
 DTSTART:20240802T173000Z
 DTEND:20240802T182000Z
 DESCRIPTION:Фехтование - Командная шпага, за 3-е место (м)
-SUMMARY:🤺 Командная шпага, за 3-е место (м)
+SUMMARY:🤺 Чехия 🇨🇿 - 🇫🇷 Франция
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -23579,12 +23580,12 @@ SUMMARY:🚴 Полуфиналы, раунд 2 (м)
 LOCATION:Стадион BMX
 END:VEVENT
 BEGIN:VEVENT
-UID:20240802T183000Z-fencing--
+UID:20240802T183000Z-fencing---JPN-HUN
 DTSTAMP:20240802T183000Z
 DTSTART:20240802T183000Z
 DTEND:20240802T192000Z
 DESCRIPTION:Фехтование - Командная шпага, финал (м)
-SUMMARY:🤺 Командная шпага, финал (м)
+SUMMARY:🤺 Япония 🇯🇵 - 🇭🇺 Венгрия
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -24815,7 +24816,14 @@ UID:20240803T114000Z-athletics--
 DTSTAMP:20240803T114000Z
 DTSTART:20240803T114000Z
 DTEND:20240803T135600Z
-DESCRIPTION:Легкая атлетика - Десятиборье, шест (м)
+DESCRIPTION:Легкая атлетика - Десятиборье, шест (м)\n🇦🇺 Ashley
+  MOLONEY\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian WARNER\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 Десятиборье, шест (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
@@ -25172,7 +25180,18 @@ UID:20240803T144000Z-canoe-slalom--1
 DTSTAMP:20240803T144000Z
 DTSTART:20240803T144000Z
 DTEND:20240803T153500Z
-DESCRIPTION:Гребной слалом - Экстрим-слалом (м) Раунд 1
+DESCRIPTION:Гребной слалом - Экстрим-слалом (м) Раунд 1\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮
+  Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix
+  OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz
+  HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱
+  Joris OTTEN\n🇬🇧 Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸
+  Manuel OCHOA\n🇨🇭 Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪
+  Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter
+  KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA
+  Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
+  CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
 SUMMARY:🛶 Экстрим-слалом (м) Раунд 1
 LOCATION:Водный ст. - Белая вода
 END:VEVENT

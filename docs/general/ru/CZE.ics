@@ -2298,6 +2298,15 @@ SUMMARY:🎾 SINIAKOVA/MACHAC 🇨🇿 - 🇨🇳 WANG/ZHANG
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T173000Z-fencing--3--CZE-FRA
+DTSTAMP:20240802T173000Z
+DTSTART:20240802T173000Z
+DTEND:20240802T182000Z
+DESCRIPTION:Фехтование - Командная шпага, за 3-е место (м)
+SUMMARY:🤺 Чехия 🇨🇿 - 🇫🇷 Франция
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T181000Z-athletics--
 DTSTAMP:20240802T181000Z
 DTSTART:20240802T181000Z
@@ -2362,6 +2371,26 @@ DESCRIPTION:Легкая атлетика - Прыжки с шестом, ква
   ZHONG Tao
 SUMMARY:🏃 Прыжки с шестом, квалификация (м)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T144000Z-canoe-slalom--1
+DTSTAMP:20240803T144000Z
+DTSTART:20240803T144000Z
+DTEND:20240803T153500Z
+DESCRIPTION:Гребной слалом - Экстрим-слалом (м) Раунд 1\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮
+  Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix
+  OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz
+  HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱
+  Joris OTTEN\n🇬🇧 Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸
+  Manuel OCHOA\n🇨🇭 Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪
+  Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter
+  KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA
+  Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
+  CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Экстрим-слалом (м) Раунд 1
+LOCATION:Водный ст. - Белая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T070000Z-shooting--25-P-1-
