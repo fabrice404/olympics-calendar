@@ -156,4 +156,13 @@ DESCRIPTION:Бадминтон - 1/4 финала, одиночный (м)
 SUMMARY:🏸 CHOU Tien Chen 🇹🇼 - 🇮🇳 Lakshya SEN
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T063000Z-badminton-12-
+DTSTAMP:20240804T063000Z
+DTSTART:20240804T063000Z
+DTEND:20240804T110000Z
+DESCRIPTION:Бадминтон - 1/2 финала, одиночный (м)\n🇮🇳 Lakshya SEN
+SUMMARY:🏸 1/2 финала, одиночный (м)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
 END:VCALENDAR
