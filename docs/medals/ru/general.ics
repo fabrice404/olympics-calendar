@@ -1555,7 +1555,9 @@ UID:20240802T115000Z-trampoline-gymnastics--
 DTSTAMP:20240802T115000Z
 DTSTART:20240802T115000Z
 DTEND:20240802T122000Z
-DESCRIPTION:Прыжки на батуте - Финал (ж)
+DESCRIPTION:Прыжки на батуте - Финал (ж)\n🇬🇧 Bryony PAGE\n🇨🇳 HU
+  Yicheng\n🇯🇵 MORI Hikaru\n🇳🇿 Madaline DAVIDSON\n🇪🇸 Noemi ROMERO
+  ROSARIO\n🇦🇿 Seljan MAHSUDOVA\n🇨🇦 Sophiane METHOT\n🇨🇳 ZHU Xueying
 SUMMARY:🤸 Финал (ж)
 LOCATION:Арена «Берси»
 END:VEVENT
@@ -2305,21 +2307,21 @@ SUMMARY:🤸 Кольца, финал (м)
 LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T130000Z-badminton--3-
+UID:20240804T130000Z-badminton--3--MAS-DEN
 DTSTAMP:20240804T130000Z
 DTSTART:20240804T130000Z
 DTEND:20240804T153000Z
-DESCRIPTION:Бадминтон - Матч за 3-е место, парный (м)\n🇲🇾 CHIA/SOH
-SUMMARY:🏸 Матч за 3-е место, парный (м)
+DESCRIPTION:Бадминтон - Матч за 3-е место, парный (м)
+SUMMARY:🏸 CHIA/SOH 🇲🇾 - 🇩🇰 ASTRUP/RASMUSSEN
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T130000Z-badminton--
+UID:20240804T130000Z-badminton---CHN-TPE
 DTSTAMP:20240804T130000Z
 DTSTART:20240804T130000Z
 DTEND:20240804T153000Z
-DESCRIPTION:Бадминтон - Финал, парный (м)\n🇨🇳 LIANG/WANG
-SUMMARY:🏸 Финал, парный (м)
+DESCRIPTION:Бадминтон - Финал, парный (м)
+SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇹🇼 LEE/WANG
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
