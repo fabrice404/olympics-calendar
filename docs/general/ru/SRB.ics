@@ -920,6 +920,15 @@ SUMMARY:🚴 Групповая гонка (м)
 LOCATION:Трокадеро
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T093000Z-judo--
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T094500Z
+DESCRIPTION:Дзюдо - Четвертьфинал (микст)\n🇷🇸 Сербия
+SUMMARY:🥋 Четвертьфинал (микст)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T113000Z-basketball---SRB-ESP
 DTSTAMP:20240803T113000Z
 DTSTART:20240803T113000Z

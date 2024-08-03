@@ -291,4 +291,13 @@ DESCRIPTION:Дзюдо - 1/16 финала (микст)
 SUMMARY:🥋 Монголия 🇲🇳 - 🇮🇱 Израиль
 LOCATION:Арена «Марсово поле»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T072400Z-judo-18--FRA-ISR
+DTSTAMP:20240803T072400Z
+DTSTART:20240803T072400Z
+DTEND:20240803T074500Z
+DESCRIPTION:Дзюдо - 1/8 финала (микст)
+SUMMARY:🥋 Франция 🇫🇷 - 🇮🇱 Израиль
+LOCATION:Арена «Марсово поле»
+END:VEVENT
 END:VCALENDAR
