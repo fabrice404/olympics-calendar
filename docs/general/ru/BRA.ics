@@ -4077,24 +4077,6 @@ SUMMARY:⛵ Швертбот, гонка 04 (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T173600Z-surfing--2--BRA-AUS
-DTSTAMP:20240803T173600Z
-DTSTART:20240803T173600Z
-DTEND:20240803T180600Z
-DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (м)
-SUMMARY:🏄 Gabriel MEDINA 🇧🇷 - 🇦🇺 Jack ROBINSON
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T184800Z-surfing--2--BRA-CRC
-DTSTAMP:20240803T184800Z
-DTSTART:20240803T184800Z
-DTEND:20240803T191800Z
-DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (ж)
-SUMMARY:🏄 Tatiana WESTON-WEBB 🇧🇷 - 🇨🇷 Brisa HENNESSY
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T190000Z-football---FRA-BRA
 DTSTAMP:20240803T190000Z
 DTSTART:20240803T190000Z
@@ -4111,6 +4093,24 @@ DTEND:20240803T201900Z
 DESCRIPTION:Бокс - Полуфинал, до 60кг (ж)
 SUMMARY:🥊 Kellie HARRINGTON 🇮🇪 - 🇧🇷 Beatriz Iasmin SOARES FERREIRA
 LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T223600Z-surfing--2--BRA-AUS
+DTSTAMP:20240803T223600Z
+DTSTART:20240803T223600Z
+DTEND:20240803T230600Z
+DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (м)
+SUMMARY:🏄 Gabriel MEDINA 🇧🇷 - 🇦🇺 Jack ROBINSON
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T234800Z-surfing--2--BRA-CRC
+DTSTAMP:20240803T234800Z
+DTSTART:20240803T234800Z
+DTEND:20240804T001800Z
+DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (ж)
+SUMMARY:🏄 Tatiana WESTON-WEBB 🇧🇷 - 🇨🇷 Brisa HENNESSY
+LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T080900Z-archery-18--KOR-BRA

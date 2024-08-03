@@ -25520,15 +25520,6 @@ SUMMARY:🛶 Экстрим-слалом, утешительный раунд (�
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T170000Z-surfing--1--PER-FRA
-DTSTAMP:20240803T170000Z
-DTSTART:20240803T170000Z
-DTEND:20240803T173000Z
-DESCRIPTION:Серфинг - Полуфиналы, заезд 1 (м)
-SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇫🇷 Kauli VAAST
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T170000Z-fencing--3-
 DTSTAMP:20240803T170000Z
 DTSTART:20240803T170000Z
@@ -25613,15 +25604,6 @@ SUMMARY:🏃 Толкание ядра, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T173600Z-surfing--2--BRA-AUS
-DTSTAMP:20240803T173600Z
-DTSTART:20240803T173600Z
-DTEND:20240803T180600Z
-DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (м)
-SUMMARY:🏄 Gabriel MEDINA 🇧🇷 - 🇦🇺 Jack ROBINSON
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T174500Z-hockey--A--GER-BEL
 DTSTAMP:20240803T174500Z
 DTSTART:20240803T174500Z
@@ -25674,15 +25656,6 @@ DTEND:20240803T184600Z
 DESCRIPTION:Легкая атлетика - Десятиборье, копье, группа В (м)
 SUMMARY:🏃 Десятиборье, копье, группа В (м)
 LOCATION:«Стад-де-Франс»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T181200Z-surfing--1--USA-FRA
-DTSTAMP:20240803T181200Z
-DTSTART:20240803T181200Z
-DTEND:20240803T184200Z
-DESCRIPTION:Серфинг - Полуфиналы, заезд 1 (ж)
-SUMMARY:🏄 Caroline MARKS 🇺🇸 - 🇫🇷 Johanne DEFAY
-LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T181600Z-boxing--57--JPN-BUL
@@ -25743,15 +25716,6 @@ DTEND:20240803T185900Z
 DESCRIPTION:Бокс - Четвертьфинал, до 71кг (м)
 SUMMARY:🥊 NISHANT DEV 🇮🇳 - 🇲🇽 Marco Alonso VERDE ALVAREZ
 LOCATION:Арена «Париж-Север»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T184800Z-surfing--2--BRA-CRC
-DTSTAMP:20240803T184800Z
-DTSTART:20240803T184800Z
-DTEND:20240803T191800Z
-DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (ж)
-SUMMARY:🏄 Tatiana WESTON-WEBB 🇧🇷 - 🇨🇷 Brisa HENNESSY
-LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T185500Z-athletics--4400-
@@ -25857,15 +25821,6 @@ SUMMARY:🥊 Wassila LKHADIRI 🇫🇷 - 🇵🇭 Aira VILLEGAS
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T192400Z-surfing--
-DTSTAMP:20240803T192400Z
-DTSTART:20240803T192400Z
-DTEND:20240803T195400Z
-DESCRIPTION:Серфинг - Поединок за бронзу (м)
-SUMMARY:🏄 Поединок за бронзу (м)
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T192800Z-swimming-800-
 DTSTAMP:20240803T192800Z
 DTSTART:20240803T192800Z
@@ -25925,15 +25880,6 @@ SUMMARY:🏊 Эстафета 4x100м комплексом, финал (микс
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T200000Z-surfing--
-DTSTAMP:20240803T200000Z
-DTSTART:20240803T200000Z
-DTEND:20240803T203000Z
-DESCRIPTION:Серфинг - Финал (м)
-SUMMARY:🏄 Финал (м)
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T200000Z-beach-volleyball--
 DTSTAMP:20240803T200000Z
 DTSTART:20240803T200000Z
@@ -25961,15 +25907,6 @@ SUMMARY:🥊 Kellie HARRINGTON 🇮🇪 - 🇧🇷 Beatriz Iasmin SOARES FERREIR
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T203600Z-surfing--
-DTSTAMP:20240803T203600Z
-DTSTART:20240803T203600Z
-DTEND:20240803T210600Z
-DESCRIPTION:Серфинг - Поединок за бронзу (ж)
-SUMMARY:🏄 Поединок за бронзу (ж)
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T210000Z-beach-volleyball--
 DTSTAMP:20240803T210000Z
 DTSTART:20240803T210000Z
@@ -25979,10 +25916,73 @@ SUMMARY:🏐 Стыковой матч, (м) или (ж)
 LOCATION:Стадион у Эйфелевой башни
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T211200Z-surfing--
-DTSTAMP:20240803T211200Z
-DTSTART:20240803T211200Z
-DTEND:20240803T214200Z
+UID:20240803T220000Z-surfing--1--PER-FRA
+DTSTAMP:20240803T220000Z
+DTSTART:20240803T220000Z
+DTEND:20240803T223000Z
+DESCRIPTION:Серфинг - Полуфиналы, заезд 1 (м)
+SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇫🇷 Kauli VAAST
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T223600Z-surfing--2--BRA-AUS
+DTSTAMP:20240803T223600Z
+DTSTART:20240803T223600Z
+DTEND:20240803T230600Z
+DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (м)
+SUMMARY:🏄 Gabriel MEDINA 🇧🇷 - 🇦🇺 Jack ROBINSON
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T231200Z-surfing--1--USA-FRA
+DTSTAMP:20240803T231200Z
+DTSTART:20240803T231200Z
+DTEND:20240803T234200Z
+DESCRIPTION:Серфинг - Полуфиналы, заезд 1 (ж)
+SUMMARY:🏄 Caroline MARKS 🇺🇸 - 🇫🇷 Johanne DEFAY
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T234800Z-surfing--2--BRA-CRC
+DTSTAMP:20240803T234800Z
+DTSTART:20240803T234800Z
+DTEND:20240804T001800Z
+DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (ж)
+SUMMARY:🏄 Tatiana WESTON-WEBB 🇧🇷 - 🇨🇷 Brisa HENNESSY
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T002400Z-surfing--
+DTSTAMP:20240804T002400Z
+DTSTART:20240804T002400Z
+DTEND:20240804T005900Z
+DESCRIPTION:Серфинг - Поединок за бронзу (м)
+SUMMARY:🏄 Поединок за бронзу (м)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T010500Z-surfing--
+DTSTAMP:20240804T010500Z
+DTSTART:20240804T010500Z
+DTEND:20240804T014000Z
+DESCRIPTION:Серфинг - Поединок за бронзу (ж)
+SUMMARY:🏄 Поединок за бронзу (ж)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T014600Z-surfing--
+DTSTAMP:20240804T014600Z
+DTSTART:20240804T014600Z
+DTEND:20240804T022100Z
+DESCRIPTION:Серфинг - Финал (м)
+SUMMARY:🏄 Финал (м)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T022700Z-surfing--
+DTSTAMP:20240804T022700Z
+DTSTART:20240804T022700Z
+DTEND:20240804T030200Z
 DESCRIPTION:Серфинг - Финал (ж)
 SUMMARY:🏄 Финал (ж)
 LOCATION:Теахупоо, Таити

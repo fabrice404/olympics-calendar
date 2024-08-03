@@ -5289,15 +5289,6 @@ SUMMARY:🏃 1500м, утешительный раунд (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T173600Z-surfing--2--BRA-AUS
-DTSTAMP:20240803T173600Z
-DTSTART:20240803T173600Z
-DTEND:20240803T180600Z
-DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (м)
-SUMMARY:🏄 Gabriel MEDINA 🇧🇷 - 🇦🇺 Jack ROBINSON
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T175000Z-athletics-100-
 DTSTAMP:20240803T175000Z
 DTSTART:20240803T175000Z
@@ -5359,6 +5350,15 @@ DESCRIPTION:Плавание - Эстафета 4x100м комплексом, ф
   Нидерланды\n🇺🇸 США\n🇫🇷 Франция\n🇯🇵 Япония
 SUMMARY:🏊 Эстафета 4x100м комплексом, финал (микст)
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T223600Z-surfing--2--BRA-AUS
+DTSTAMP:20240803T223600Z
+DTSTART:20240803T223600Z
+DTEND:20240803T230600Z
+DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (м)
+SUMMARY:🏄 Gabriel MEDINA 🇧🇷 - 🇦🇺 Jack ROBINSON
+LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T070000Z-shooting--25-P-1-
