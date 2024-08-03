@@ -93,4 +93,13 @@ DESCRIPTION:Гандбол - Предварительный этап, групп
 SUMMARY:🤾 Германия 🇩🇪 - 🇸🇮 Словения
 LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T113000Z-handball---FRA-GER
+DTSTAMP:20240806T113000Z
+DTSTART:20240806T113000Z
+DTEND:20240806T213000Z
+DESCRIPTION:Гандбол - Четвертьфинал (ж)
+SUMMARY:🤾 Франция 🇫🇷 - 🇩🇪 Германия
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
 END:VCALENDAR

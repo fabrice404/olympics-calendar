@@ -93,4 +93,13 @@ DESCRIPTION:Гандбол - Предварительный этап, групп
 SUMMARY:🤾 Венгрия 🇭🇺 - 🇫🇷 Франция
 LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T153000Z-handball---HUN-SWE
+DTSTAMP:20240806T153000Z
+DTSTART:20240806T153000Z
+DTEND:20240806T133000Z
+DESCRIPTION:Гандбол - Четвертьфинал (ж)
+SUMMARY:🤾 Венгрия 🇭🇺 - 🇸🇪 Швеция
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
 END:VCALENDAR

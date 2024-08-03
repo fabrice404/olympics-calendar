@@ -66,4 +66,13 @@ DESCRIPTION:Баскетбол 3х3 - Групповой этап (ж)
 SUMMARY:🏀 Испания 🇪🇸 - 🇩🇪 Германия
 LOCATION:Площадь Согласия 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T163000Z-3x3-basketball-12--GER-CAN
+DTSTAMP:20240805T163000Z
+DTSTART:20240805T163000Z
+DTEND:20240805T155500Z
+DESCRIPTION:Баскетбол 3х3 - 1/2 финала (ж)
+SUMMARY:🏀 Германия 🇩🇪 - 🇨🇦 Канада
+LOCATION:Площадь Согласия 1
+END:VEVENT
 END:VCALENDAR

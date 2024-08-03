@@ -93,4 +93,13 @@ DESCRIPTION:Гандбол - Предварительный этап, групп
 SUMMARY:🤾 Дания 🇩🇰 - 🇳🇴 Норвегия
 LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T193000Z-handball---NOR-BRA
+DTSTAMP:20240806T193000Z
+DTSTART:20240806T193000Z
+DTEND:20240806T093000Z
+DESCRIPTION:Гандбол - Четвертьфинал (ж)
+SUMMARY:🤾 Норвегия 🇳🇴 - 🇧🇷 Бразилия
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
 END:VCALENDAR

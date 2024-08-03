@@ -2712,6 +2712,15 @@ SUMMARY:⛵ Швертбот, гонка 10 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T153000Z-handball---HUN-SWE
+DTSTAMP:20240806T153000Z
+DTSTART:20240806T153000Z
+DTEND:20240806T133000Z
+DESCRIPTION:Гандбол - Четвертьфинал (ж)
+SUMMARY:🤾 Венгрия 🇭🇺 - 🇸🇪 Швеция
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z

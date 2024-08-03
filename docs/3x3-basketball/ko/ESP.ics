@@ -66,4 +66,13 @@ DESCRIPTION:3X3 농구 - 여자 예선 라운드
 SUMMARY:🏀 스페인 🇪🇸 - 🇩🇪 독일
 LOCATION:라 콩코르드 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T153000Z-3x3-basketball---ESP-USA
+DTSTAMP:20240805T153000Z
+DTSTART:20240805T153000Z
+DTEND:20240805T165500Z
+DESCRIPTION:3X3 농구 - 여자 준결승
+SUMMARY:🏀 스페인 🇪🇸 - 🇺🇸 미국
+LOCATION:라 콩코르드 1
+END:VEVENT
 END:VCALENDAR

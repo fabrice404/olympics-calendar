@@ -48,4 +48,13 @@ DESCRIPTION:Гандбол - Предварительный этап, групп
 SUMMARY:🤾 Венгрия 🇭🇺 - 🇳🇱 Нидерланды
 LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T073000Z-handball---DEN-NED
+DTSTAMP:20240806T073000Z
+DTSTART:20240806T073000Z
+DTEND:20240806T173000Z
+DESCRIPTION:Гандбол - Четвертьфинал (ж)
+SUMMARY:🤾 Дания 🇩🇰 - 🇳🇱 Нидерланды
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
 END:VCALENDAR
