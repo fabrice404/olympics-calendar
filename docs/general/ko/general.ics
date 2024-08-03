@@ -24579,12 +24579,13 @@ SUMMARY:🏊 여자 4 x 100m 혼계영 - 예선
 LOCATION:파리 라 데팡스 아레나
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T105300Z-sailing---ISR-ITA
+UID:20240803T105300Z-sailing--
 DTSTAMP:20240803T105300Z
 DTSTART:20240803T105300Z
 DTEND:20240803T105800Z
-DESCRIPTION:요트 - 여자 윈드서핑 - 준결승
-SUMMARY:⛵ Sharon KANTOR 🇮🇱 - 🇮🇹 Marta MAGGETTI
+DESCRIPTION:요트 - 여자 윈드서핑 - 준결승\n🇵🇪 Maria Belen BAZO GERMAN\n🇮🇹 Marta
+  MAGGETTI\n🇮🇱 Sharon KANTOR\n🇨🇳 YAN Zheng
+SUMMARY:⛵ 여자 윈드서핑 - 준결승
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
@@ -25573,7 +25574,12 @@ UID:20240803T183900Z-swimming--50M-
 DTSTAMP:20240803T183900Z
 DTSTART:20240803T183900Z
 DTEND:20240803T185200Z
-DESCRIPTION:경영 - 여자 50m 자유형 준결승
+DESCRIPTION:경영 - 여자 50m 자유형 준결승\n🇬🇧 Anna HOPKIN\n🇫🇷 Beryl
+  GASTALDELLO\n🇧🇪 Florine GASPARD\n🇺🇸 Gretchen WALSH\n🇩🇰 Julie Kepp
+  JENSEN\n🇵🇱 Katarzyna WASICK\n🇦🇺 Meg HARRIS\n🇸🇪 Michelle
+  COLEMAN\n🇸🇮 Neza KLANCAR\n🇮🇹 Sara CURTIS\n🇸🇪 Sarah SJOESTROEM\n🇦🇺
+  Shayna JACK\n🇨🇦 Taylor RUCK\n🇳🇱 Valerie van ROON\n🇨🇳 WU
+  Qingfeng\n🇨🇳 ZHANG Yufei
 SUMMARY:🏊 여자 50m 자유형 준결승
 LOCATION:파리 라 데팡스 아레나
 END:VEVENT
