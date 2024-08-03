@@ -2076,12 +2076,13 @@ SUMMARY:⛵ Швертбот, гонка 05 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T111800Z-sailing---ISR-NZL
+UID:20240803T111800Z-sailing--
 DTSTAMP:20240803T111800Z
 DTSTART:20240803T111800Z
 DTEND:20240803T112300Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, полуфинал (м)
-SUMMARY:⛵ Tom REUVENY 🇮🇱 - 🇳🇿 Josh ARMIT
+DESCRIPTION:Парусный спорт - Виндсерфинг, полуфинал (м)\n🇳🇿 Josh
+  ARMIT\n🇳🇱 Luuc van OPZEELAND\n🇬🇧 Sam SILLS\n🇮🇱 Tom REUVENY
+SUMMARY:⛵ Виндсерфинг, полуфинал (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT

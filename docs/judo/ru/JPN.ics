@@ -516,4 +516,13 @@ DESCRIPTION:Дзюдо - Полуфинал пути A (микст)
 SUMMARY:🥋 Япония 🇯🇵 - 🇩🇪 Германия
 LOCATION:Арена «Марсово поле»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T152400Z-judo--
+DTSTAMP:20240803T152400Z
+DTSTART:20240803T152400Z
+DTEND:20240803T152400Z
+DESCRIPTION:Дзюдо - Финал (микст)\n🇯🇵 Япония
+SUMMARY:🥋 Финал (микст)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
 END:VCALENDAR
