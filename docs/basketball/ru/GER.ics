@@ -57,4 +57,13 @@ DESCRIPTION:Баскетбол - Групповой этап, группа С (�
 SUMMARY:🏀 Германия 🇩🇪 - 🇺🇸 США
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T090000Z-basketball-14--GER-GRE
+DTSTAMP:20240806T090000Z
+DTSTART:20240806T090000Z
+DTEND:20240806T104500Z
+DESCRIPTION:Баскетбол - 1/4 финала (м)
+SUMMARY:🏀 Германия 🇩🇪 - 🇬🇷 Греция
+LOCATION:Арена «Берси»
+END:VEVENT
 END:VCALENDAR

@@ -57,4 +57,13 @@ DESCRIPTION:Баскетбол - Групповой этап, группа С (�
 SUMMARY:🏀 Сербия 🇷🇸 - 🇸🇸 Южный Судан
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T123000Z-basketball-14--SRB-AUS
+DTSTAMP:20240806T123000Z
+DTSTART:20240806T123000Z
+DTEND:20240806T141500Z
+DESCRIPTION:Баскетбол - 1/4 финала (м)
+SUMMARY:🏀 Сербия 🇷🇸 - 🇦🇺 Австралия
+LOCATION:Арена «Берси»
+END:VEVENT
 END:VCALENDAR
