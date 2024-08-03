@@ -57,4 +57,13 @@ DESCRIPTION:Бадминтон - 1/4 финала, одиночный (ж)
 SUMMARY:🏸 OHORI Aya 🇯🇵 - 🇪🇸 Carolina MARIN
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T063000Z-badminton-12-
+DTSTAMP:20240804T063000Z
+DTSTART:20240804T063000Z
+DTEND:20240804T110000Z
+DESCRIPTION:Бадминтон - 1/2 финала, одиночный (ж)\n🇪🇸 Carolina MARIN
+SUMMARY:🏸 1/2 финала, одиночный (ж)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
 END:VCALENDAR
