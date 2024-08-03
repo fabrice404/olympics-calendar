@@ -75,4 +75,13 @@ DESCRIPTION:축구 - 여자 8강
 SUMMARY:⚽ 미국 🇺🇸 - 🇯🇵 일본
 LOCATION:파르크 데 프랭스
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T160000Z-football--
+DTSTAMP:20240806T160000Z
+DTSTART:20240806T160000Z
+DTEND:20240806T174500Z
+DESCRIPTION:축구 - 여자 준결승\n🇺🇸 미국
+SUMMARY:⚽ 여자 준결승
+LOCATION:리옹 스타디움
+END:VEVENT
 END:VCALENDAR

@@ -344,7 +344,7 @@ DTSTART:20240803T095500Z
 DTEND:20240803T104400Z
 DESCRIPTION:Athletics - Men's 100m Round 1\n🇨🇦 Aaron BROWN\n🇬🇭
   Abdul-Rasheed SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇴🇲 Ali
-  Anwar Ali AL BALUSHI\n🇨🇦 Andre de GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦
+  Anwar Ali AL BALUSHI\n🇨🇦 Andre De GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦
   Arturo Harmodio DELISER ESPINOSA\n🇬🇭 Benjamin AZAMATI\n🇿🇦 Benjamin
   RICHARDSON\n🇦🇬 Cejhae GREENE\n🇮🇹 Chituru ALI\n🇭🇹 Christopher
   BORZOR\n🇰🇾 Davonte HOWELL\n🇹🇹 Devin AUGUSTINE\n🇨🇩 Dominique Lasconi
@@ -387,6 +387,20 @@ DESCRIPTION:Canoe Slalom - Men's Kayak Cross Round 1\n🇬🇧 Adam
   Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
   CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
 SUMMARY:🛶 Men's Kayak Cross Round 1
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T164500Z-canoe-slalom-MENS-KAYAK-CROSS-REPECHAGE
+DTSTAMP:20240803T164500Z
+DTSTART:20240803T164500Z
+DTEND:20240803T171000Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Cross Repechage\n🇬🇧 Adam
+  BURGESS\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮 Benjamin SAVSEK\n🇺🇸
+  Casey EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇨🇿 Jiri PRSKAVEC\n🇳🇱 Joris
+  OTTEN\n🇮🇪 Liam JEGOU\n🇸🇰 Matej BENUS\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija
+  MARINIC\n🇮🇪 Noel HENDRICK\n🇸🇮 Peter KAUZER\n🇦🇺 Tristan CARTER\n🇹🇼
+  WU Shao-Hsuan
+SUMMARY:🛶 Men's Kayak Cross Repechage
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT

@@ -6413,7 +6413,7 @@ DTSTART:20240803T095500Z
 DTEND:20240803T104400Z
 DESCRIPTION:田径 - 男子100米第1轮\n🇨🇦 Aaron BROWN\n🇬🇭 Abdul-Rasheed
   SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇴🇲 Ali Anwar Ali AL
-  BALUSHI\n🇨🇦 Andre de GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦 Arturo Harmodio
+  BALUSHI\n🇨🇦 Andre De GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦 Arturo Harmodio
   DELISER ESPINOSA\n🇬🇭 Benjamin AZAMATI\n🇿🇦 Benjamin RICHARDSON\n🇦🇬
   Cejhae GREENE\n🇮🇹 Chituru ALI\n🇭🇹 Christopher BORZOR\n🇰🇾 Davonte
   HOWELL\n🇹🇹 Devin AUGUSTINE\n🇨🇩 Dominique Lasconi MULAMBA\n🏳️ Dorian
@@ -6842,6 +6842,20 @@ DESCRIPTION:竞技体操 - 男子鞍马决赛\n🇰🇷 HUR Woong\n🇳🇱 Lora
   Takaaki\n🇺🇸 Stephen NEDOROSCIK\n🇨🇳 ZOU Jingyuan
 SUMMARY:🤸 男子鞍马决赛
 LOCATION:贝尔西体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T164500Z-canoe-slalom-
+DTSTAMP:20240803T164500Z
+DTSTART:20240803T164500Z
+DTEND:20240803T171000Z
+DESCRIPTION:皮划艇激流回旋 - 男子极限皮艇复活赛\n🇬🇧 Adam BURGESS\n🏳️ Amir
+  REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮 Benjamin SAVSEK\n🇺🇸 Casey
+  EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇨🇿 Jiri PRSKAVEC\n🇳🇱 Joris
+  OTTEN\n🇮🇪 Liam JEGOU\n🇸🇰 Matej BENUS\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija
+  MARINIC\n🇮🇪 Noel HENDRICK\n🇸🇮 Peter KAUZER\n🇦🇺 Tristan CARTER\n🇹🇼
+  WU Shao-Hsuan
+SUMMARY:🛶 男子极限皮艇复活赛
+LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T170500Z-3x3-basketball--CHN-USA
@@ -7509,7 +7523,7 @@ DTSTAMP:20240804T180500Z
 DTSTART:20240804T180500Z
 DTEND:20240804T182200Z
 DESCRIPTION:田径 - 男子100米半决赛\n🇬🇭 Abdul-Rasheed SAMINU\n🇯🇲 Ackeem
-  BLAKE\n🇿🇦 Akani SIMBINE\n🇨🇦 Andre de GRASSE\n🇬🇭 Benjamin
+  BLAKE\n🇿🇦 Akani SIMBINE\n🇨🇦 Andre De GRASSE\n🇬🇭 Benjamin
   AZAMATI\n🇿🇦 Benjamin RICHARDSON\n🇮🇹 Chituru ALI\n🇨🇲 Emmanuel
   ESEME\n🇱🇷 Emmanuel MATADI\n🇳🇬 Favour Oghene Tejiri ASHE\n🇰🇪
   Ferdinand OMANYALA\n🇺🇸 Fred KERLEY\n🇩🇪 Joshua HARTMANN\n🇳🇬
@@ -8085,6 +8099,15 @@ DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛12\n🇧🇪 CLAEY
   SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
 SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛12
 LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T160000Z-football-
+DTSTAMP:20240806T160000Z
+DTSTART:20240806T160000Z
+DTEND:20240806T174500Z
+DESCRIPTION:足球 - 女子半决赛\n🇺🇸 美国
+SUMMARY:⚽ 女子半决赛
+LOCATION:里昂体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T193000Z-boxing-71--USA-UZB

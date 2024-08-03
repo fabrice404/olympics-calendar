@@ -166,7 +166,7 @@ DTSTART:20240803T095500Z
 DTEND:20240803T104400Z
 DESCRIPTION:Легкая атлетика - 100м, раунд 1 (м)\n🇨🇦 Aaron BROWN\n🇬🇭
   Abdul-Rasheed SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇴🇲 Ali
-  Anwar Ali AL BALUSHI\n🇨🇦 Andre de GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦
+  Anwar Ali AL BALUSHI\n🇨🇦 Andre De GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦
   Arturo Harmodio DELISER ESPINOSA\n🇬🇭 Benjamin AZAMATI\n🇿🇦 Benjamin
   RICHARDSON\n🇦🇬 Cejhae GREENE\n🇮🇹 Chituru ALI\n🇭🇹 Christopher
   BORZOR\n🇰🇾 Davonte HOWELL\n🇹🇹 Devin AUGUSTINE\n🇨🇩 Dominique Lasconi
@@ -209,6 +209,20 @@ DESCRIPTION:Гребной слалом - Экстрим-слалом (м) Ра�
   Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
   CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
 SUMMARY:🛶 Экстрим-слалом (м) Раунд 1
+LOCATION:Водный ст. - Белая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T164500Z-canoe-slalom--
+DTSTAMP:20240803T164500Z
+DTSTART:20240803T164500Z
+DTEND:20240803T171000Z
+DESCRIPTION:Гребной слалом - Экстрим-слалом, утешительный раунд (м)\n🇬🇧
+  Adam BURGESS\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮 Benjamin
+  SAVSEK\n🇺🇸 Casey EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇨🇿 Jiri
+  PRSKAVEC\n🇳🇱 Joris OTTEN\n🇮🇪 Liam JEGOU\n🇸🇰 Matej BENUS\n🇲🇦
+  Mathis SOUDI\n🇭🇷 Matija MARINIC\n🇮🇪 Noel HENDRICK\n🇸🇮 Peter
+  KAUZER\n🇦🇺 Tristan CARTER\n🇹🇼 WU Shao-Hsuan
+SUMMARY:🛶 Экстрим-слалом, утешительный раунд (м)
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
 BEGIN:VEVENT
