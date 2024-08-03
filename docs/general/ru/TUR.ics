@@ -2033,6 +2033,19 @@ SUMMARY:⛵ Швертбот, гонка 07 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T130000Z-artistic-gymnastics--
+DTSTAMP:20240804T130000Z
+DTSTART:20240804T130000Z
+DTEND:20240804T133700Z
+DESCRIPTION:Спортивная гимнастика - Кольца, финал (м)\n🇹🇷 Adem ASIL\n🇺🇸
+  Asher HONG\n🇬🇷 Eleftherios PETROUNIAS\n🇧🇪 Glen CUYLE\n🇬🇧 Harry
+  HEPWORTH\n🇹🇷 Ibrahim COLAK\n🇨🇳 LIU Yang\n🇫🇷 Samir AIT SAID\n🇯🇵
+  TANIGAWA Wataru\n🇦🇲 Vahagn DAVTYAN\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU
+  Jingyuan
+SUMMARY:🤸 Кольца, финал (м)
+LOCATION:Арена «Берси»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T134500Z-sailing--08-
 DTSTAMP:20240804T134500Z
 DTSTART:20240804T134500Z
@@ -2054,6 +2067,18 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 08 (ж)\n
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Швертбот, гонка 08 (ж)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T142400Z-artistic-gymnastics--
+DTSTAMP:20240804T142400Z
+DTSTART:20240804T142400Z
+DTEND:20240804T150700Z
+DESCRIPTION:Спортивная гимнастика - Опорный прыжок, финал (м)\n🇹🇷 Adem
+  ASIL\n🇦🇲 Artur DAVTYAN\n🇺🇸 Asher HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭
+  Carlos Edriel YULO\n🇬🇧 Harry HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake
+  JARMAN\n🇰🇷 LEE Junho\n🇮🇷 Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
+SUMMARY:🤸 Опорный прыжок, финал (м)
+LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T143400Z-boxing--54--TUR-KOR

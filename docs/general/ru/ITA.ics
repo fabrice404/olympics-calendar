@@ -5491,6 +5491,15 @@ SUMMARY:🥋 Бразилия 🇧🇷 - 🇮🇹 Италия
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T141000Z-fencing--7--ITA-ALG
+DTSTAMP:20240803T141000Z
+DTSTART:20240803T141000Z
+DTEND:20240803T150000Z
+DESCRIPTION:Фехтование - Командная сабля, за 7-е место (ж)
+SUMMARY:🤺 Италия 🇮🇹 - 🇩🇿 Алжир
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T144000Z-canoe-slalom--1
 DTSTAMP:20240803T144000Z
 DTSTART:20240803T144000Z
@@ -5950,6 +5959,18 @@ DTEND:20240804T150000Z
 DESCRIPTION:Водное поло - Групповой этап - Группа B (ж)
 SUMMARY:🤽 Италия 🇮🇹 - 🇪🇸 Испания
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T134000Z-artistic-gymnastics--
+DTSTAMP:20240804T134000Z
+DTSTART:20240804T134000Z
+DTEND:20240804T142100Z
+DESCRIPTION:Спортивная гимнастика - Разновысокие брусья, финал (ж)\n🇮🇹
+  Alice D'AMATO\n🇩🇪 Helen KEVRIC\n🇩🇿 Kaylia NEMOUR\n🇧🇪 Nina
+  DERWAEL\n🇨🇳 QIU Qiyuan\n🇧🇷 Rebeca ANDRADE\n🇬🇧 Rebecca DOWNIE\n🇳🇱
+  Sanna VEERMAN\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHANG Yihan
+SUMMARY:🤸 Разновысокие брусья, финал (ж)
+LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T134500Z-sailing--08-

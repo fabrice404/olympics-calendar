@@ -6854,6 +6854,15 @@ SUMMARY:🥊 Rami Mofid KIWAN 🇧🇬 - 🇺🇸 Omari JONES
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T141000Z-fencing-WOMENS-SABRE-TEAM-PLACEMENT-5-6-HUN-USA
+DTSTAMP:20240803T141000Z
+DTSTART:20240803T141000Z
+DTEND:20240803T150000Z
+DESCRIPTION:Fencing - Women's Sabre Team Placement 5-6
+SUMMARY:🤺 HUN 🇭🇺 - 🇺🇸 USA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T142000Z-artistic-gymnastics-WOMENS-VAULT-FINAL
 DTSTAMP:20240803T142000Z
 DTSTART:20240803T142000Z
@@ -7334,6 +7343,31 @@ SUMMARY:⛵ Women's Dinghy - Race 7
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T130000Z-artistic-gymnastics-MENS-RINGS-FINAL
+DTSTAMP:20240804T130000Z
+DTSTART:20240804T130000Z
+DTEND:20240804T133700Z
+DESCRIPTION:Artistic Gymnastics - Men's Rings Final\n🇹🇷 Adem ASIL\n🇺🇸
+  Asher HONG\n🇬🇷 Eleftherios PETROUNIAS\n🇧🇪 Glen CUYLE\n🇬🇧 Harry
+  HEPWORTH\n🇹🇷 Ibrahim COLAK\n🇨🇳 LIU Yang\n🇫🇷 Samir AIT SAID\n🇯🇵
+  TANIGAWA Wataru\n🇦🇲 Vahagn DAVTYAN\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU
+  Jingyuan
+SUMMARY:🤸 Men's Rings Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T134000Z-artistic-gymnastics-WOMENS-UNEVEN-BARS-FINAL
+DTSTAMP:20240804T134000Z
+DTSTART:20240804T134000Z
+DTEND:20240804T142100Z
+DESCRIPTION:Artistic Gymnastics - Women's Uneven Bars Final\n🇮🇹 Alice
+  D'AMATO\n🇩🇪 Helen KEVRIC\n🇩🇿 Kaylia NEMOUR\n🇧🇪 Nina DERWAEL\n🇨🇳
+  QIU Qiyuan\n🇧🇷 Rebeca ANDRADE\n🇬🇧 Rebecca DOWNIE\n🇳🇱 Sanna
+  VEERMAN\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHANG Yihan
+SUMMARY:🤸 Women's Uneven Bars Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T134500Z-sailing-WOMENS-DINGHY-RACE-8
 DTSTAMP:20240804T134500Z
 DTSTART:20240804T134500Z
@@ -7355,6 +7389,18 @@ DESCRIPTION:Sailing - Women's Dinghy - Race 8\n🇧🇲 Adriana
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Women's Dinghy - Race 8
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T142400Z-artistic-gymnastics-MENS-VAULT-FINAL
+DTSTAMP:20240804T142400Z
+DTSTART:20240804T142400Z
+DTEND:20240804T150700Z
+DESCRIPTION:Artistic Gymnastics - Men's Vault Final\n🇹🇷 Adem ASIL\n🇦🇲
+  Artur DAVTYAN\n🇺🇸 Asher HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel
+  YULO\n🇬🇧 Harry HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷
+  LEE Junho\n🇮🇷 Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
+SUMMARY:🤸 Men's Vault Final
+LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T150500Z-sailing-MIXED-DINGHY-RACE-5

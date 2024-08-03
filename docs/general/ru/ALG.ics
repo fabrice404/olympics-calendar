@@ -908,6 +908,15 @@ SUMMARY:🛶 Экстрим-слалом (ж) Раунд 1
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T141000Z-fencing--7--ITA-ALG
+DTSTAMP:20240803T141000Z
+DTSTART:20240803T141000Z
+DTEND:20240803T150000Z
+DESCRIPTION:Фехтование - Командная сабля, за 7-е место (ж)
+SUMMARY:🤺 Италия 🇮🇹 - 🇩🇿 Алжир
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T152200Z-boxing--66--ALG-HUN
 DTSTAMP:20240803T152200Z
 DTSTART:20240803T152200Z
@@ -976,6 +985,18 @@ DESCRIPTION:Шоссейные велогонки - Групповая гонк�
   Yanina KUSKOVA\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 Групповая гонка (ж)
 LOCATION:Трокадеро
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T134000Z-artistic-gymnastics--
+DTSTAMP:20240804T134000Z
+DTSTART:20240804T134000Z
+DTEND:20240804T142100Z
+DESCRIPTION:Спортивная гимнастика - Разновысокие брусья, финал (ж)\n🇮🇹
+  Alice D'AMATO\n🇩🇪 Helen KEVRIC\n🇩🇿 Kaylia NEMOUR\n🇧🇪 Nina
+  DERWAEL\n🇨🇳 QIU Qiyuan\n🇧🇷 Rebeca ANDRADE\n🇬🇧 Rebecca DOWNIE\n🇳🇱
+  Sanna VEERMAN\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHANG Yihan
+SUMMARY:🤸 Разновысокие брусья, финал (ж)
+LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

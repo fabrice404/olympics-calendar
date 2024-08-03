@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/zh/BEL//EN
+X-WR-CALNAME:🇧🇪 Belgium 竞技体操 | Paris 2024
+NAME:🇧🇪 Belgium 竞技体操 | Paris 2024
+BEGIN:VEVENT
+UID:20240804T130000Z-artistic-gymnastics-
+DTSTAMP:20240804T130000Z
+DTSTART:20240804T130000Z
+DTEND:20240804T133700Z
+DESCRIPTION:竞技体操 - 男子吊环决赛\n🇹🇷 Adem ASIL\n🇺🇸 Asher HONG\n🇬🇷
+  Eleftherios PETROUNIAS\n🇧🇪 Glen CUYLE\n🇬🇧 Harry HEPWORTH\n🇹🇷
+  Ibrahim COLAK\n🇨🇳 LIU Yang\n🇫🇷 Samir AIT SAID\n🇯🇵 TANIGAWA
+  Wataru\n🇦🇲 Vahagn DAVTYAN\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU Jingyuan
+SUMMARY:🤸 男子吊环决赛
+LOCATION:贝尔西体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T134000Z-artistic-gymnastics-
+DTSTAMP:20240804T134000Z
+DTSTART:20240804T134000Z
+DTEND:20240804T142100Z
+DESCRIPTION:竞技体操 - 女子高低杠决赛\n🇮🇹 Alice D'AMATO\n🇩🇪 Helen KEVRIC\n🇩🇿
+  Kaylia NEMOUR\n🇧🇪 Nina DERWAEL\n🇨🇳 QIU Qiyuan\n🇧🇷 Rebeca
+  ANDRADE\n🇬🇧 Rebecca DOWNIE\n🇳🇱 Sanna VEERMAN\n🇺🇸 Simone BILES\n🇺🇸
+  Sunisa LEE\n🇨🇳 ZHANG Yihan
+SUMMARY:🤸 女子高低杠决赛
+LOCATION:贝尔西体育馆
+END:VEVENT
+END:VCALENDAR
