@@ -571,17 +571,6 @@ SUMMARY:🏇 Командная выездка, гран-при, переезд�
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T083000Z-rowing--A-
-DTSTAMP:20240803T083000Z
-DTSTART:20240803T083000Z
-DTEND:20240803T083700Z
-DESCRIPTION:Академическая гребля - Одиночки, финал A (м)\n🇩🇪 Oliver
-  ZEIDLER\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas
-  MACKINTOSH\n🇧🇪 Tim BRYS\n🇦🇸 Yauheni ZALATY
-SUMMARY:🚣 Одиночки, финал A (м)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road--
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -628,6 +617,17 @@ DESCRIPTION:Академическая гребля - Восьмерки, фин
   Австралия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇳🇱 Нидерланды\n🇷🇴
   Румыния\n🇺🇸 США
 SUMMARY:🚣 Восьмерки, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T093000Z-rowing--A-
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T093700Z
+DESCRIPTION:Академическая гребля - Одиночки, финал A (м)\n🇩🇪 Oliver
+  ZEIDLER\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas
+  MACKINTOSH\n🇧🇪 Tim BRYS\n🇦🇸 Yauheni ZALATY
+SUMMARY:🚣 Одиночки, финал A (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT

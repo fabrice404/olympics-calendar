@@ -24193,17 +24193,6 @@ SUMMARY:🏹 Michelle KROPPEN 🇩🇪 - 🇮🇳 Deepika KUMARI
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T083000Z-rowing--A-
-DTSTAMP:20240803T083000Z
-DTSTART:20240803T083000Z
-DTEND:20240803T083700Z
-DESCRIPTION:Академическая гребля - Одиночки, финал A (м)\n🇩🇪 Oliver
-  ZEIDLER\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas
-  MACKINTOSH\n🇧🇪 Tim BRYS\n🇦🇸 Yauheni ZALATY
-SUMMARY:🚣 Одиночки, финал A (м)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T083000Z-water-polo--B--ESP-JPN
 DTSTAMP:20240803T083000Z
 DTSTART:20240803T083000Z
@@ -24472,6 +24461,17 @@ DTEND:20240803T093000Z
 DESCRIPTION:Дзюдо - 1/8 финала (микст)
 SUMMARY:🥋 Узбекистан 🇺🇿 - 🇨🇦 Канада
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T093000Z-rowing--A-
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T093700Z
+DESCRIPTION:Академическая гребля - Одиночки, финал A (м)\n🇩🇪 Oliver
+  ZEIDLER\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas
+  MACKINTOSH\n🇧🇪 Tim BRYS\n🇦🇸 Yauheni ZALATY
+SUMMARY:🚣 Одиночки, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T093000Z-judo---JPN-SRB
@@ -24768,13 +24768,12 @@ SUMMARY:🥋 Утешительный раунд (микст)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T110000Z-archery-14-
+UID:20240803T110000Z-archery-14--TUR-KOR
 DTSTAMP:20240803T110000Z
 DTSTART:20240803T110000Z
 DTEND:20240803T111300Z
-DESCRIPTION:Стрельба из лука - 1/4 финала, индивидуальные (ж)\n🇹🇷 Elif
-  Berra GOKKIR
-SUMMARY:🏹 1/4 финала, индивидуальные (ж)
+DESCRIPTION:Стрельба из лука - 1/4 финала, индивидуальные (ж)
+SUMMARY:🏹 Elif Berra GOKKIR 🇹🇷 - 🇰🇷 JEON Hunyoung
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT

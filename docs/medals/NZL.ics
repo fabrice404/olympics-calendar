@@ -345,17 +345,6 @@ SUMMARY:🚣 Women's Single Sculls Final A
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T083000Z-rowing-MENS-SINGLE-SCULLS-FINAL-A
-DTSTAMP:20240803T083000Z
-DTSTART:20240803T083000Z
-DTEND:20240803T083700Z
-DESCRIPTION:Rowing - Men's Single Sculls Final A\n🇩🇪 Oliver ZEIDLER\n🇳🇱
-  Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim
-  BRYS\n🇦🇸 Yauheni ZALATY
-SUMMARY:🚣 Men's Single Sculls Final A
-LOCATION:Nautical St - Flat water
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -391,6 +380,17 @@ DESCRIPTION:Cycling Road - Men's Road Race\n🇯🇵 ARASHIRO Yukiya\n🇲🇦
   HAMZA\n🇰🇿 Yevgeniy FEDOROV
 SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T093000Z-rowing-MENS-SINGLE-SCULLS-FINAL-A
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T093700Z
+DESCRIPTION:Rowing - Men's Single Sculls Final A\n🇩🇪 Oliver ZEIDLER\n🇳🇱
+  Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim
+  BRYS\n🇦🇸 Yauheni ZALATY
+SUMMARY:🚣 Men's Single Sculls Final A
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T173500Z-athletics-MENS-SHOT-PUT-FINAL

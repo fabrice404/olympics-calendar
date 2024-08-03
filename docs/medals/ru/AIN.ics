@@ -92,17 +92,6 @@ SUMMARY:🏊 200м на спине, финал (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T083000Z-rowing--A-
-DTSTAMP:20240803T083000Z
-DTSTART:20240803T083000Z
-DTEND:20240803T083700Z
-DESCRIPTION:Академическая гребля - Одиночки, финал A (м)\n🇩🇪 Oliver
-  ZEIDLER\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas
-  MACKINTOSH\n🇧🇪 Tim BRYS\n🇦🇸 Yauheni ZALATY
-SUMMARY:🚣 Одиночки, финал A (м)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road--
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -139,6 +128,17 @@ DESCRIPTION:Шоссейные велогонки - Групповая гонк�
   Yevgeniy FEDOROV
 SUMMARY:🚴 Групповая гонка (м)
 LOCATION:Трокадеро
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T093000Z-rowing--A-
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T093700Z
+DESCRIPTION:Академическая гребля - Одиночки, финал A (м)\n🇩🇪 Oliver
+  ZEIDLER\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas
+  MACKINTOSH\n🇧🇪 Tim BRYS\n🇦🇸 Yauheni ZALATY
+SUMMARY:🚣 Одиночки, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T100000Z-tennis---ITA-AIN
