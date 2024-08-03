@@ -498,4 +498,13 @@ DESCRIPTION:Дзюдо - 1/8 финала (микст)
 SUMMARY:🥋 Япония 🇯🇵 - 🇪🇸 Испания
 LOCATION:Арена «Марсово поле»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T093000Z-judo---JPN-SRB
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T094500Z
+DESCRIPTION:Дзюдо - Четвертьфинал (микст)
+SUMMARY:🥋 Япония 🇯🇵 - 🇷🇸 Сербия
+LOCATION:Арена «Марсово поле»
+END:VEVENT
 END:VCALENDAR
