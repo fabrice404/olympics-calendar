@@ -5463,6 +5463,26 @@ SUMMARY:🔫 男子25米手枪速射资格赛第1轮
 LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T080500Z-athletics-30001
+DTSTAMP:20240804T080500Z
+DTSTART:20240804T080500Z
+DTEND:20240804T084500Z
+DESCRIPTION:田径 - 女子3000米障碍赛第1轮\n🇬🇧 Aimee PRATT\n🇫🇷 Alice FINOT\n🇵🇱
+  Alicja KONIECZEK\n🇦🇺 Amy CASHIN\n🇵🇱 Aneta KONIECZEK\n🇰🇪 Beatrice
+  CHEPKOECH\n🇦🇷 Belen CASETTA\n🇦🇺 Cara FEAIN-RYAN\n🇪🇸 Carolina
+  ROBLES\n🇨🇦 Ceili McCABE\n🇺🇸 Courtney WAYMENT\n🇰🇿 Daisy
+  JEPKEMEI\n🇬🇧 Elizabeth BIRD\n🇰🇪 Faith CHEROTICH\n🇫🇷 Flavie
+  RENOUARD\n🇩🇪 Gesa Felicitas KRAUSE\n🇫🇮 Ilona MONONEN\n🇪🇸 Irene
+  SANCHEZ-ESCRIBANO\n🇰🇪 Jackline CHEPKOECH\n🇵🇱 Kinga KROLIK\n🇩🇪 Lea
+  MEYER\n🇪🇹 Lomi MULETA\n🇦🇱 Luiza GEGA\n🇺🇸 Marisa HOWARD\n🇹🇳 Marwa
+  BOUZAYANI\n🇰🇿 Norah JERUTO\n🇩🇪 Olivia GUERTH\n🇮🇳 Parul
+  CHAUDHARY\n🇺🇬 Peruth CHEMUTAI\n🇨🇦 Regan YEE\n🇪🇹 Sembo ALMAYEW\n🇷🇴
+  Stella RUTTO\n🇧🇷 Tatiane Raquel da SILVA\n🇺🇸 Valerie CONSTIEN\n🇧🇭
+  Winfred YAVI\n🇨🇳 XU Shuangshuang
+SUMMARY:🏃 女子3000米障碍赛第1轮
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T084800Z-archery-18-GER-GBR
 DTSTAMP:20240804T084800Z
 DTSTART:20240804T084800Z
@@ -5470,6 +5490,25 @@ DTEND:20240804T090100Z
 DESCRIPTION:射箭 - 男子个人1/8淘汰赛
 SUMMARY:🏹 Florian UNRUH 🇩🇪 - 🇬🇧 Tom HALL
 LOCATION:荣军院
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T090000Z-athletics-
+DTSTAMP:20240804T090000Z
+DTSTART:20240804T090000Z
+DTEND:20240804T095600Z
+DESCRIPTION:田径 - 男子跳远资格赛\n🇨🇺 Alejandro PARADA\n🇺🇿 Anvar ANVAROV\n🇨🇴
+  Arnovis DALMERO\n🇧🇬 Bozhidar SARABOYUKOV\n🇯🇲 Carey McLEOD\n🇿🇦
+  Cheswill JOHNSON\n🇦🇺 Christopher MITREVSKI\n🇺🇾 Emiliano LASA\n🇭🇷
+  Filip PRAVDICA\n🇯🇵 HASHIOKA Yuki\n🇬🇧 Jacob FINCHAM-DUKES\n🇺🇸
+  Jarrion LAWSON\n🇺🇸 Jeremiah DAVIS\n🇮🇳 Jeswin ALDRIN\n🇿🇦 Jovan van
+  VUUREN\n🇹🇼 LIN Yu-Tang\n🇦🇺 Liam ADCOCK\n🇧🇷 Lucas Marcelino dos
+  SANTOS\n🇺🇸 Malcolm CLEMONS\n🇮🇹 Mattia FURLANI\n🇬🇷 Miltiadis
+  TENTOGLOU\n🏳️ Mohammad Amin ALSALAMI\n🇨🇿 Petr MEINDLSCHMID\n🇨🇿 Radek
+  JUSKA\n🇨🇳 SHI Yuhao\n🇩🇪 Simon BATZ\n🇨🇭 Simon EHAMMER\n🇯🇲 Tajay
+  GAYLE\n🇸🇪 Thobias MONTLER\n🇫🇷 Tom CAMPAGNE\n🇨🇳 WANG Jianan\n🇯🇲
+  Wayne PINNOCK\n🇨🇳 ZHANG Mingkun
+SUMMARY:🏃 男子跳远资格赛
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T100500Z-sailing-17-04
@@ -5729,6 +5768,17 @@ DESCRIPTION:田径 - 男子链球决赛\n🇭🇺 Bence HALASZ\n🇬🇷 Christo
   NOWICKI\n🇫🇷 Yann CHAUSSINAND
 SUMMARY:🏃 男子链球决赛
 LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T060000Z-triathlon-
+DTSTAMP:20240805T060000Z
+DTSTART:20240805T060000Z
+DTEND:20240805T073000Z
+DESCRIPTION:铁人三项 - 混合接力赛\n🇲🇽 墨西哥\n🇦🇹 奥地利\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹
+  意大利\n🇳🇴 挪威\n🇳🇿 新西兰\n🇧🇪 比利时\n🇫🇷 法国\n🇦🇺 澳大利亚\n🇨🇭 瑞士\n🇺🇸
+  美国\n🇬🇧 英国\n🇳🇱 荷兰\n🇵🇹 葡萄牙\n🇪🇸 西班牙
+SUMMARY:🏊 混合接力赛
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T080000Z-diving-10
