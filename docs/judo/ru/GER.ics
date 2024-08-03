@@ -210,4 +210,13 @@ DESCRIPTION:Дзюдо - 1/8 финала (микст)
 SUMMARY:🥋 Германия 🇩🇪 - 🇦🇹 Австрия
 LOCATION:Арена «Марсово поле»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T101200Z-judo--
+DTSTAMP:20240803T101200Z
+DTSTART:20240803T101200Z
+DTEND:20240803T103000Z
+DESCRIPTION:Дзюдо - Четвертьфинал (микст)\n🇩🇪 Германия
+SUMMARY:🥋 Четвертьфинал (микст)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
 END:VCALENDAR
