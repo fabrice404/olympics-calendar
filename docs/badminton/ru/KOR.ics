@@ -282,4 +282,13 @@ DESCRIPTION:Бадминтон - 1/4 финала, одиночный (ж)
 SUMMARY:🏸 AN Se Young 🇰🇷 - 🇯🇵 YAMAGUCHI Akane
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T063000Z-badminton-12-
+DTSTAMP:20240804T063000Z
+DTSTART:20240804T063000Z
+DTEND:20240804T110000Z
+DESCRIPTION:Бадминтон - 1/2 финала, одиночный (ж)\n🇰🇷 AN Se Young
+SUMMARY:🏸 1/2 финала, одиночный (ж)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
 END:VCALENDAR
