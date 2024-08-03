@@ -57,4 +57,13 @@ DESCRIPTION:배구 - 여자 예선 - C조
 SUMMARY:🏐 이탈리아 🇮🇹 - 🇹🇷 튀르키예
 LOCATION:사우스 파리 아레나 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T110000Z-volleyball--8-ITA-JPN
+DTSTAMP:20240805T110000Z
+DTSTART:20240805T110000Z
+DTEND:20240805T091500Z
+DESCRIPTION:배구 - 남자 8강
+SUMMARY:🏐 이탈리아 🇮🇹 - 🇯🇵 일본
+LOCATION:사우스 파리 아레나 1
+END:VEVENT
 END:VCALENDAR

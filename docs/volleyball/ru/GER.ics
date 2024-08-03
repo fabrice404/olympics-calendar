@@ -30,4 +30,13 @@ DESCRIPTION:Волейбол - Групповой этап - Группа C (м)
 SUMMARY:🏐 Аргентина 🇦🇷 - 🇩🇪 Германия
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T150000Z-volleyball-14--FRA-GER
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T131500Z
+DESCRIPTION:Волейбол - 1/4 финала (м)
+SUMMARY:🏐 Франция 🇫🇷 - 🇩🇪 Германия
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
 END:VCALENDAR

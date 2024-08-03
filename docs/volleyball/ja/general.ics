@@ -328,39 +328,39 @@ SUMMARY:🏐 ブラジル 🇧🇷 - 🇵🇱 ポーランド
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T070000Z-volleyball-
+UID:20240805T070000Z-volleyball--SLO-POL
 DTSTAMP:20240805T070000Z
 DTSTART:20240805T070000Z
-DTEND:20240805T091500Z
-DESCRIPTION:バレーボール - 男子準々決勝
-SUMMARY:🏐 男子準々決勝
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T110000Z-volleyball-
-DTSTAMP:20240805T110000Z
-DTSTART:20240805T110000Z
-DTEND:20240805T131500Z
-DESCRIPTION:バレーボール - 男子準々決勝
-SUMMARY:🏐 男子準々決勝
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T150000Z-volleyball-
-DTSTAMP:20240805T150000Z
-DTSTART:20240805T150000Z
 DTEND:20240805T171500Z
 DESCRIPTION:バレーボール - 男子準々決勝
-SUMMARY:🏐 男子準々決勝
+SUMMARY:🏐 スロベニア 🇸🇮 - 🇵🇱 ポーランド
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T190000Z-volleyball-
+UID:20240805T110000Z-volleyball--ITA-JPN
+DTSTAMP:20240805T110000Z
+DTSTART:20240805T110000Z
+DTEND:20240805T091500Z
+DESCRIPTION:バレーボール - 男子準々決勝
+SUMMARY:🏐 イタリア 🇮🇹 - 🇯🇵 日本
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T150000Z-volleyball--FRA-GER
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T131500Z
+DESCRIPTION:バレーボール - 男子準々決勝
+SUMMARY:🏐 フランス 🇫🇷 - 🇩🇪 ドイツ
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T190000Z-volleyball--USA-BRA
 DTSTAMP:20240805T190000Z
 DTSTART:20240805T190000Z
 DTEND:20240805T211500Z
 DESCRIPTION:バレーボール - 男子準々決勝
-SUMMARY:🏐 男子準々決勝
+SUMMARY:🏐 アメリカ合衆国 🇺🇸 - 🇧🇷 ブラジル
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
