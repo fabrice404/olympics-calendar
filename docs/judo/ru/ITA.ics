@@ -318,4 +318,13 @@ DESCRIPTION:Дзюдо - 1/8 финала (микст)
 SUMMARY:🥋 Грузия 🇬🇪 - 🇮🇹 Италия
 LOCATION:Арена «Марсово поле»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T105400Z-judo--
+DTSTAMP:20240803T105400Z
+DTSTART:20240803T105400Z
+DTEND:20240803T105400Z
+DESCRIPTION:Дзюдо - Четвертьфинал (микст)\n🇮🇹 Италия
+SUMMARY:🥋 Четвертьфинал (микст)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
 END:VCALENDAR
