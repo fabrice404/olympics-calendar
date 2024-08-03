@@ -3955,12 +3955,12 @@ SUMMARY:🥋 Франция 🇫🇷 - 🇮🇹 Италия
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T140000Z-judo--A-
+UID:20240803T140000Z-judo--A--BRA-ITA
 DTSTAMP:20240803T140000Z
 DTSTART:20240803T140000Z
 DTEND:20240803T142800Z
-DESCRIPTION:Дзюдо - Бронза, путь A (микст)\n🇧🇷 Бразилия
-SUMMARY:🥋 Бронза, путь A (микст)
+DESCRIPTION:Дзюдо - Бронза, путь A (микст)
+SUMMARY:🥋 Бразилия 🇧🇷 - 🇮🇹 Италия
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -3973,12 +3973,12 @@ SUMMARY:🥋 Южная Корея 🇰🇷 - 🇩🇪 Германия
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T152400Z-judo--
+UID:20240803T152400Z-judo---JPN-FRA
 DTSTAMP:20240803T152400Z
 DTSTART:20240803T152400Z
 DTEND:20240803T152400Z
-DESCRIPTION:Дзюдо - Финал (микст)\n🇯🇵 Япония
-SUMMARY:🥋 Финал (микст)
+DESCRIPTION:Дзюдо - Финал (микст)
+SUMMARY:🥋 Япония 🇯🇵 - 🇫🇷 Франция
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 END:VCALENDAR
