@@ -4,6 +4,15 @@ PRODID:-//fabrice404//olympics-calendar//tennis/ru/CHN//EN
 X-WR-CALNAME:🇨🇳 China Теннис | Paris 2024
 NAME:🇨🇳 China Теннис | Paris 2024
 BEGIN:VEVENT
+UID:20240728T100000Z-tennis---AIN-CHN
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T113000Z
+DESCRIPTION:Теннис - Первый раунд, одиночный разряд (ж)
+SUMMARY:🎾 Ekaterina ALEXANDROVA  - 🇨🇳 YUAN Yue
+LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T100000Z-tennis---CZE-CHN
 DTSTAMP:20240728T100000Z
 DTSTART:20240728T100000Z
@@ -19,15 +28,6 @@ DTSTART:20240728T100000Z
 DTEND:20240728T113000Z
 DESCRIPTION:Теннис - Первый раунд, одиночный разряд (ж)
 SUMMARY:🎾 WANG Xinyu 🇨🇳 - 🇩🇪 Tamara KORPATSCH
-LOCATION:Стадион «Ролан Гаррос»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T100000Z-tennis--
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T113000Z
-DESCRIPTION:Теннис - Первый раунд, одиночный разряд (ж)\n🇨🇳 YUAN Yue
-SUMMARY:🎾 Первый раунд, одиночный разряд (ж)
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
@@ -67,12 +67,12 @@ SUMMARY:🎾 WANG Xinyu 🇨🇳 - 🇨🇿 Barbora KREJCIKOVA
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T100000Z-tennis--
+UID:20240729T100000Z-tennis---CHN-AIN
 DTSTAMP:20240729T100000Z
 DTSTART:20240729T100000Z
 DTEND:20240729T113000Z
-DESCRIPTION:Теннис - Второй раунд, одиночный разряд (ж)\n🇨🇳 WANG Xiyu
-SUMMARY:🎾 Второй раунд, одиночный разряд (ж)
+DESCRIPTION:Теннис - Второй раунд, одиночный разряд (ж)
+SUMMARY:🎾 WANG Xiyu 🇨🇳 -  Diana SHNAIDER
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
