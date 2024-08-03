@@ -4,6 +4,7 @@ const NOCS: Map<string, NOC> = new Map([
   ["AFG", { icon: "🇦🇫", name: "Afghanistan" }],
   ["ALB", { icon: "🇦🇱", name: "Albania" }],
   ["ALG", { icon: "🇩🇿", name: "Algeria" }],
+  ["AIN", { icon: "", name: "American Samoa" }],
   ["AND", { icon: "🇦🇩", name: "Andorra" }],
   ["ANG", { icon: "🇦🇴", name: "Angola" }],
   ["ANT", { icon: "🇦🇬", name: "Antigua and Barbuda" }],
