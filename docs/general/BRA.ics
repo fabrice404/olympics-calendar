@@ -4163,6 +4163,15 @@ SUMMARY:🏄 Tatiana WESTON-WEBB 🇧🇷 - 🇨🇷 Brisa HENNESSY
 LOCATION:Teahupo'o, Tahiti
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T080000Z-beach-volleyball-MENS-ROUND-OF-16-GER-BRA
+DTSTAMP:20240804T080000Z
+DTSTART:20240804T080000Z
+DTEND:20240804T085000Z
+DESCRIPTION:Beach Volleyball - Men's Round of 16
+SUMMARY:🏐 EHLERS/WICKLER 🇩🇪 - 🇧🇷 GEORGE/ANDRE
+LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T080500Z-athletics-WOMENS-3000M-STEEPLECHASE-ROUND-1
 DTSTAMP:20240804T080500Z
 DTSTART:20240804T080500Z
@@ -4307,6 +4316,21 @@ SUMMARY:⛵ Men's Dinghy - Race 7
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T101300Z-sailing-MENS-KITE-RACE-1
+DTSTAMP:20240804T101300Z
+DTSTART:20240804T101300Z
+DTEND:20240804T103000Z
+DESCRIPTION:Sailing - Men's Kite - Race 1\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 1
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T103500Z-athletics-WOMENS-400M-HURDLES-ROUND-1
 DTSTAMP:20240804T103500Z
 DTSTART:20240804T103500Z
@@ -4327,6 +4351,21 @@ DESCRIPTION:Athletics - Women's 400m Hurdles Round 1\n🇦🇺 Alanah
   Yasmin GIGER\n🇿🇦 Zeney GELDENHUYS
 SUMMARY:🏃 Women's 400m Hurdles Round 1
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T105300Z-sailing-MENS-KITE-RACE-2
+DTSTAMP:20240804T105300Z
+DTSTART:20240804T105300Z
+DTEND:20240804T111000Z
+DESCRIPTION:Sailing - Men's Kite - Race 2\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 2
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T105700Z-sailing-MIXED-MULTIHULL-RACE-5
@@ -4376,6 +4415,21 @@ DTEND:20240804T123000Z
 DESCRIPTION:Table Tennis - Men's Singles Bronze Medal Match
 SUMMARY:🏓 Hugo CALDERANO 🇧🇷 - 🇫🇷 Felix LEBRUN
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T113300Z-sailing-MENS-KITE-RACE-3
+DTSTAMP:20240804T113300Z
+DTSTART:20240804T113300Z
+DTEND:20240804T115000Z
+DESCRIPTION:Sailing - Men's Kite - Race 3\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 3
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T114900Z-sailing-MIXED-MULTIHULL-RACE-6
@@ -4431,6 +4485,21 @@ DESCRIPTION:Cycling Road - Women's Road Race\n🇵🇱 Agnieszka
   Yanina KUSKOVA\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 Women's Road Race
 LOCATION:Trocadéro
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T121300Z-sailing-MENS-KITE-RACE-4
+DTSTAMP:20240804T121300Z
+DTSTART:20240804T121300Z
+DTEND:20240804T123000Z
+DESCRIPTION:Sailing - Men's Kite - Race 4\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 4
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T123500Z-sailing-WOMENS-DINGHY-RACE-7
@@ -4613,6 +4682,21 @@ SUMMARY:⛵ Mixed Multihull - Race 7
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T101300Z-sailing-MENS-KITE-RACE-5
+DTSTAMP:20240805T101300Z
+DTSTART:20240805T101300Z
+DTEND:20240805T103000Z
+DESCRIPTION:Sailing - Men's Kite - Race 5\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 5
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T101500Z-sailing-WOMENS-DINGHY-RACE-9
 DTSTAMP:20240805T101500Z
 DTSTART:20240805T101500Z
@@ -4636,6 +4720,21 @@ SUMMARY:⛵ Women's Dinghy - Race 9
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T103800Z-sailing-MENS-KITE-RACE-6
+DTSTAMP:20240805T103800Z
+DTSTART:20240805T103800Z
+DTEND:20240805T105500Z
+DESCRIPTION:Sailing - Men's Kite - Race 6\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 6
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T105700Z-sailing-MIXED-MULTIHULL-RACE-8
 DTSTAMP:20240805T105700Z
 DTSTART:20240805T105700Z
@@ -4649,6 +4748,21 @@ DESCRIPTION:Sailing - Mixed Multihull - Race 8\n🇧🇪
   SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
   WILKINSON/DAWSON
 SUMMARY:⛵ Mixed Multihull - Race 8
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T110300Z-sailing-MENS-KITE-RACE-7
+DTSTAMP:20240805T110300Z
+DTSTART:20240805T110300Z
+DTEND:20240805T112000Z
+DESCRIPTION:Sailing - Men's Kite - Race 7\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 7
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -4672,6 +4786,21 @@ DESCRIPTION:Sailing - Women's Dinghy - Race 10\n🇧🇲 Adriana
   KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Women's Dinghy - Race 10
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T112800Z-sailing-MENS-KITE-RACE-8
+DTSTAMP:20240805T112800Z
+DTSTART:20240805T112800Z
+DTEND:20240805T114500Z
+DESCRIPTION:Sailing - Men's Kite - Race 8\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 8
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -4787,6 +4916,21 @@ SUMMARY:🏓 BRA 🇧🇷 - 🇰🇷 KOR
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T100300Z-sailing-MENS-KITE-RACE-9
+DTSTAMP:20240806T100300Z
+DTSTART:20240806T100300Z
+DTEND:20240806T102000Z
+DESCRIPTION:Sailing - Men's Kite - Race 9\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 9
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T101500Z-sailing-MIXED-DINGHY-RACE-9
 DTSTAMP:20240806T101500Z
 DTSTART:20240806T101500Z
@@ -4799,6 +4943,51 @@ DESCRIPTION:Sailing - Mixed Dinghy - Race 9\n🇬🇷 A SPANAKI/O
   MRAK/BOZIC\n🇺🇸 McNAY/DALLMAN-WE\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ Mixed Dinghy - Race 9
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T102800Z-sailing-MENS-KITE-RACE-10
+DTSTAMP:20240806T102800Z
+DTSTART:20240806T102800Z
+DTEND:20240806T104500Z
+DESCRIPTION:Sailing - Men's Kite - Race 10\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 10
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T105300Z-sailing-MENS-KITE-RACE-11
+DTSTAMP:20240806T105300Z
+DTSTART:20240806T105300Z
+DTEND:20240806T111000Z
+DESCRIPTION:Sailing - Men's Kite - Race 11\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 11
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T111800Z-sailing-MENS-KITE-RACE-12
+DTSTAMP:20240806T111800Z
+DTSTART:20240806T111800Z
+DTEND:20240806T113500Z
+DESCRIPTION:Sailing - Men's Kite - Race 12\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 12
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -4862,6 +5051,66 @@ DESCRIPTION:Sailing - Mixed Multihull - Race 12\n🇧🇪
   SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
   WILKINSON/DAWSON
 SUMMARY:⛵ Mixed Multihull - Race 12
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T102300Z-sailing-MENS-KITE-RACE-13
+DTSTAMP:20240807T102300Z
+DTSTART:20240807T102300Z
+DTEND:20240807T104000Z
+DESCRIPTION:Sailing - Men's Kite - Race 13\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 13
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T104800Z-sailing-MENS-KITE-RACE-14
+DTSTAMP:20240807T104800Z
+DTSTART:20240807T104800Z
+DTEND:20240807T110500Z
+DESCRIPTION:Sailing - Men's Kite - Race 14\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 14
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T111300Z-sailing-MENS-KITE-RACE-15
+DTSTAMP:20240807T111300Z
+DTSTART:20240807T111300Z
+DTEND:20240807T113000Z
+DESCRIPTION:Sailing - Men's Kite - Race 15\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 15
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T120300Z-sailing-MENS-KITE-RACE-16
+DTSTAMP:20240807T120300Z
+DTSTART:20240807T120300Z
+DTEND:20240807T122000Z
+DESCRIPTION:Sailing - Men's Kite - Race 16\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 16
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
