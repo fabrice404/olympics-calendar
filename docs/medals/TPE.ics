@@ -4,6 +4,17 @@ PRODID:-//fabrice404//olympics-calendar//medals/TPE//EN
 X-WR-CALNAME:🇹🇼 Chinese Taipei 🏅 | Paris 2024
 NAME:🇹🇼 Chinese Taipei 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240803T133000Z-shooting-SKEET-MENS-FINAL
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T144500Z
+DESCRIPTION:Shooting - Skeet Men's Final\n🇺🇸 Conner Lynn PRINCE\n🇹🇼 LEE
+  Meng Yuan\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇸🇪 Stefan NILSSON\n🇮🇹
+  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
+SUMMARY:🔫 Skeet Men's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T153800Z-boxing-WOMENS-60KG-SEMIFINAL-CHN-TPE
 DTSTAMP:20240803T153800Z
 DTSTART:20240803T153800Z

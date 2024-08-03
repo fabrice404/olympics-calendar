@@ -211,4 +211,15 @@ DESCRIPTION:사격 - 여자 스키트 예선 - 1일차\n🇦🇺 Aislin JONES\n�
 SUMMARY:🔫 여자 스키트 예선 - 1일차
 LOCATION:샤토루 사격 센터
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T133000Z-shooting--
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T144500Z
+DESCRIPTION:사격 - 남자 스키트 결승\n🇺🇸 Conner Lynn PRINCE\n🇹🇼 LEE Meng
+  Yuan\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇸🇪 Stefan NILSSON\n🇮🇹 Tammaro
+  CASSANDRO\n🇺🇸 Vincent HANCOCK
+SUMMARY:🔫 남자 스키트 결승
+LOCATION:샤토루 사격 센터
+END:VEVENT
 END:VCALENDAR
