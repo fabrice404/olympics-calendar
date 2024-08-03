@@ -39,4 +39,13 @@ DESCRIPTION:足球 - 女子1/4决赛
 SUMMARY:⚽ 法国 🇫🇷 - 🇧🇷 巴西
 LOCATION:博茹瓦尔体育场
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T190000Z-football--BRA-ESP
+DTSTAMP:20240806T190000Z
+DTSTART:20240806T190000Z
+DTEND:20240806T204500Z
+DESCRIPTION:足球 - 女子半决赛
+SUMMARY:⚽ 巴西 🇧🇷 - 🇪🇸 西班牙
+LOCATION:马赛体育场
+END:VEVENT
 END:VCALENDAR

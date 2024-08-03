@@ -5186,6 +5186,15 @@ SUMMARY:⛵ Многокорпусник, гонка 12 (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T190000Z-football---BRA-ESP
+DTSTAMP:20240806T190000Z
+DTSTART:20240806T190000Z
+DTEND:20240806T204500Z
+DESCRIPTION:Футбол - Полуфинал (ж)
+SUMMARY:⚽ Бразилия 🇧🇷 - 🇪🇸 Испания
+LOCATION:Стадион «Марсель»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T193000Z-handball---NOR-BRA
 DTSTAMP:20240806T193000Z
 DTSTART:20240806T193000Z
