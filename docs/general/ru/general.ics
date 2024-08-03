@@ -25073,7 +25073,8 @@ UID:20240803T120500Z-archery-12-
 DTSTAMP:20240803T120500Z
 DTSTART:20240803T120500Z
 DTEND:20240803T121800Z
-DESCRIPTION:Стрельба из лука - 1/2 финала, индивидуальные (ж)
+DESCRIPTION:Стрельба из лука - 1/2 финала, индивидуальные (ж)\n🇫🇷 Lisa
+  BARBELIN
 SUMMARY:🏹 1/2 финала, индивидуальные (ж)
 LOCATION:Дом инвалидов
 END:VEVENT
@@ -25105,17 +25106,17 @@ UID:20240803T123000Z-fencing--5-8-
 DTSTAMP:20240803T123000Z
 DTSTART:20240803T123000Z
 DTEND:20240803T132000Z
-DESCRIPTION:Фехтование - Командная сабля, за 5-8 места (ж)\n🇩🇿 Алжир
+DESCRIPTION:Фехтование - Командная сабля, за 5-8 места (ж)\n🇮🇹 Италия
 SUMMARY:🤺 Командная сабля, за 5-8 места (ж)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T123000Z-fencing--5-8-
+UID:20240803T123000Z-fencing--5-8--USA-ALG
 DTSTAMP:20240803T123000Z
 DTSTART:20240803T123000Z
 DTEND:20240803T132000Z
-DESCRIPTION:Фехтование - Командная сабля, за 5-8 места (ж)\n🇮🇹 Италия
-SUMMARY:🤺 Командная сабля, за 5-8 места (ж)
+DESCRIPTION:Фехтование - Командная сабля, за 5-8 места (ж)
+SUMMARY:🤺 США 🇺🇸 - 🇩🇿 Алжир
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -25189,21 +25190,21 @@ SUMMARY:⚽ США 🇺🇸 - 🇯🇵 Япония
 LOCATION:«Парк-де-Пренс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T132000Z-fencing--1-
-DTSTAMP:20240803T132000Z
-DTSTART:20240803T132000Z
-DTEND:20240803T141000Z
-DESCRIPTION:Фехтование - Командная сабля, полуфинал 1 (ж)\n🇫🇷 Франция
-SUMMARY:🤺 Командная сабля, полуфинал 1 (ж)
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T132000Z-fencing--2-
 DTSTAMP:20240803T132000Z
 DTSTART:20240803T132000Z
 DTEND:20240803T141000Z
 DESCRIPTION:Фехтование - Командная сабля, полуфинал 2 (ж)\n🇺🇦 Украина
 SUMMARY:🤺 Командная сабля, полуфинал 2 (ж)
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T132000Z-fencing--1--KOR-FRA
+DTSTAMP:20240803T132000Z
+DTSTART:20240803T132000Z
+DTEND:20240803T141000Z
+DESCRIPTION:Фехтование - Командная сабля, полуфинал 1 (ж)
+SUMMARY:🤺 Южная Корея 🇰🇷 - 🇫🇷 Франция
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT

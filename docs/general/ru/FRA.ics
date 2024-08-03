@@ -6902,6 +6902,16 @@ SUMMARY:🥋 Франция 🇫🇷 - 🇮🇹 Италия
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T120500Z-archery-12-
+DTSTAMP:20240803T120500Z
+DTSTART:20240803T120500Z
+DTEND:20240803T121800Z
+DESCRIPTION:Стрельба из лука - 1/2 финала, индивидуальные (ж)\n🇫🇷 Lisa
+  BARBELIN
+SUMMARY:🏹 1/2 финала, индивидуальные (ж)
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T122100Z-sailing--06-
 DTSTAMP:20240803T122100Z
 DTSTART:20240803T122100Z
@@ -6941,12 +6951,12 @@ SUMMARY:⛵ Многокорпусник, гонка 03 (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T132000Z-fencing--1-
+UID:20240803T132000Z-fencing--1--KOR-FRA
 DTSTAMP:20240803T132000Z
 DTSTART:20240803T132000Z
 DTEND:20240803T141000Z
-DESCRIPTION:Фехтование - Командная сабля, полуфинал 1 (ж)\n🇫🇷 Франция
-SUMMARY:🤺 Командная сабля, полуфинал 1 (ж)
+DESCRIPTION:Фехтование - Командная сабля, полуфинал 1 (ж)
+SUMMARY:🤺 Южная Корея 🇰🇷 - 🇫🇷 Франция
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
