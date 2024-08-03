@@ -102,4 +102,13 @@ DESCRIPTION:Хоккей на траве - Четвертьфинал (м)
 SUMMARY:🏑 Индия 🇮🇳 - 🇬🇧 Великобритания
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T153000Z-hockey---NED-GBR
+DTSTAMP:20240805T153000Z
+DTSTART:20240805T153000Z
+DTEND:20240805T094500Z
+DESCRIPTION:Хоккей на траве - Четвертьфинал (ж)
+SUMMARY:🏑 Нидерланды 🇳🇱 - 🇬🇧 Великобритания
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
 END:VCALENDAR

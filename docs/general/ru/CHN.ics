@@ -6460,6 +6460,17 @@ SUMMARY:⛵ Швертбот, гонка 06 (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T163000Z-swimming-50-
+DTSTAMP:20240804T163000Z
+DTSTART:20240804T163000Z
+DTEND:20240804T163700Z
+DESCRIPTION:Плавание - 50м вольным стилем, финал (ж)\n🇺🇸 Gretchen
+  WALSH\n🇵🇱 Katarzyna WASICK\n🇦🇺 Meg HARRIS\n🇸🇮 Neza KLANCAR\n🇸🇪
+  Sarah SJOESTROEM\n🇦🇺 Shayna JACK\n🇨🇳 WU Qingfeng\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 50м вольным стилем, финал (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T080000Z-diving--10-
 DTSTAMP:20240805T080000Z
 DTSTART:20240805T080000Z
@@ -6477,6 +6488,15 @@ DESCRIPTION:Прыжки в воду - Вышка 10м, предваритель
   GARZA
 SUMMARY:🏊 Вышка 10м, предварительный раунд (ж)
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080000Z-hockey---AUS-CHN
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T194500Z
+DESCRIPTION:Хоккей на траве - Четвертьфинал (ж)
+SUMMARY:🏑 Австралия 🇦🇺 - 🇨🇳 Китай
+LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T100300Z-sailing--05-

@@ -5538,6 +5538,15 @@ SUMMARY:⛵ Швертбот, гонка 08 (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T180000Z-hockey---BEL-ESP
+DTSTAMP:20240805T180000Z
+DTSTART:20240805T180000Z
+DTEND:20240805T171500Z
+DESCRIPTION:Хоккей на траве - Четвертьфинал (ж)
+SUMMARY:🏑 Бельгия 🇧🇪 - 🇪🇸 Испания
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T180500Z-water-polo--B--FRA-ESP
 DTSTAMP:20240805T180500Z
 DTSTART:20240805T180500Z

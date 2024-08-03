@@ -1037,15 +1037,6 @@ SUMMARY:🔫 Скит, финал (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T220000Z-surfing--1--PER-FRA
-DTSTAMP:20240803T220000Z
-DTSTART:20240803T220000Z
-DTEND:20240803T223000Z
-DESCRIPTION:Серфинг - Полуфиналы, заезд 1 (м)
-SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇫🇷 Kauli VAAST
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
 UID:20240804T100500Z-sailing--07-
 DTSTAMP:20240804T100500Z
 DTSTART:20240804T100500Z
@@ -1232,6 +1223,15 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 10 (м)\n
   ZELKO
 SUMMARY:⛵ Швертбот, гонка 10 (м)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170000Z-surfing--1--PER-FRA
+DTSTAMP:20240805T170000Z
+DTSTART:20240805T170000Z
+DTEND:20240805T173000Z
+DESCRIPTION:Серфинг - Полуфиналы, заезд 1 (м)
+SUMMARY:🏄 Alonso CORREA 🇵🇪 - 🇫🇷 Kauli VAAST
+LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
