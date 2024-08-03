@@ -24968,7 +24968,8 @@ UID:20240803T113300Z-sailing--
 DTSTAMP:20240803T113300Z
 DTSTART:20240803T113300Z
 DTEND:20240803T113800Z
-DESCRIPTION:Парусный спорт - Виндсерфинг, финал (ж)\n🇬🇧 Emma WILSON
+DESCRIPTION:Парусный спорт - Виндсерфинг, финал (ж)\n🇬🇧 Emma WILSON\n🇮🇹
+  Marta MAGGETTI\n🇮🇱 Sharon KANTOR
 SUMMARY:⛵ Виндсерфинг, финал (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
@@ -25019,7 +25020,8 @@ UID:20240803T115200Z-archery-12-
 DTSTAMP:20240803T115200Z
 DTSTART:20240803T115200Z
 DTEND:20240803T120500Z
-DESCRIPTION:Стрельба из лука - 1/2 финала, индивидуальные (ж)
+DESCRIPTION:Стрельба из лука - 1/2 финала, индивидуальные (ж)\n🇰🇷 JEON
+  Hunyoung
 SUMMARY:🏹 1/2 финала, индивидуальные (ж)
 LOCATION:Дом инвалидов
 END:VEVENT
@@ -26258,12 +26260,12 @@ SUMMARY:🏹 Florian UNRUH 🇩🇪 - 🇬🇧 Tom HALL
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T085000Z-badminton-12--IND-DEN
+UID:20240804T085000Z-badminton-12--THA-MAS
 DTSTAMP:20240804T085000Z
 DTSTART:20240804T085000Z
 DTEND:20240804T095000Z
 DESCRIPTION:Бадминтон - 1/2 финала, одиночный (м)
-SUMMARY:🏸 Lakshya SEN 🇮🇳 - 🇩🇰 Viktor AXELSEN
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇲🇾 Zii Jia LEE
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
@@ -26441,12 +26443,12 @@ SUMMARY:🤺 Китай 🇨🇳 - 🇫🇷 Франция
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T100000Z-badminton-12--THA-MAS
+UID:20240804T100000Z-badminton-12--IND-DEN
 DTSTAMP:20240804T100000Z
 DTSTART:20240804T100000Z
 DTEND:20240804T110000Z
 DESCRIPTION:Бадминтон - 1/2 финала, одиночный (м)
-SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇲🇾 Zii Jia LEE
+SUMMARY:🏸 Lakshya SEN 🇮🇳 - 🇩🇰 Viktor AXELSEN
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
@@ -27418,7 +27420,16 @@ UID:20240804T180500Z-athletics-100-
 DTSTAMP:20240804T180500Z
 DTSTART:20240804T180500Z
 DTEND:20240804T182200Z
-DESCRIPTION:Легкая атлетика - 100м, полуфинал (м)
+DESCRIPTION:Легкая атлетика - 100м, полуфинал (м)\n🇬🇭 Abdul-Rasheed
+  SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇨🇦 Andre de GRASSE\n🇬🇭
+  Benjamin AZAMATI\n🇿🇦 Benjamin RICHARDSON\n🇮🇹 Chituru ALI\n🇨🇲
+  Emmanuel ESEME\n🇱🇷 Emmanuel MATADI\n🇳🇬 Favour Oghene Tejiri
+  ASHE\n🇰🇪 Ferdinand OMANYALA\n🇺🇸 Fred KERLEY\n🇩🇪 Joshua
+  HARTMANN\n🇳🇬 Kayinsola AJAYI\n🇺🇸 Kenneth BEDNAREK\n🇯🇲 Kishane
+  THOMPSON\n🇮🇹 Lamont Marcell JACOBS\n🇧🇼 Letsile TEBOGO\n🇬🇧 Louie
+  HINCHLIFFE\n🇺🇸 Noah LYLES\n🇯🇲 Oblique SEVILLE\n🇹🇭 Puripol
+  BOONSON\n🇨🇺 Reynaldo R. ESPINOSA\n🇻🇬 Rikkoi BRATHWAITE\n🇯🇵 SANI
+  BROWN Abdul Hakim\n🇿🇦 Shaun MASWANGANYI\n🇬🇧 Zharnel HUGHES
 SUMMARY:🏃 100м, полуфинал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

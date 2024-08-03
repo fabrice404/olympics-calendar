@@ -1630,15 +1630,6 @@ SUMMARY:🏃 女子3000ｍ障害予選
 LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T085000Z-badminton--IND-DEN
-DTSTAMP:20240804T085000Z
-DTSTART:20240804T085000Z
-DTEND:20240804T095000Z
-DESCRIPTION:バドミントン - 男子シングルス準決勝
-SUMMARY:🏸 Lakshya SEN 🇮🇳 - 🇩🇰 Viktor AXELSEN
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240804T090000Z-athletics-
 DTSTAMP:20240804T090000Z
 DTSTART:20240804T090000Z
@@ -1665,6 +1656,15 @@ DTEND:20240804T094300Z
 DESCRIPTION:ボクシング - 女子75kg級 - 準々決勝
 SUMMARY:🥊 LI Qian 🇨🇳 - 🇮🇳 Lovlina BORGOHAIN
 LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T100000Z-badminton--IND-DEN
+DTSTAMP:20240804T100000Z
+DTSTART:20240804T100000Z
+DTEND:20240804T110000Z
+DESCRIPTION:バドミントン - 男子シングルス準決勝
+SUMMARY:🏸 Lakshya SEN 🇮🇳 - 🇩🇰 Viktor AXELSEN
+LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T100500Z-sailing--7

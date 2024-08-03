@@ -24838,12 +24838,13 @@ SUMMARY:🏑 USA 🇺🇸 - 🇿🇦 RSA
 LOCATION:Yves-du-Manoir Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T111800Z-sailing-MENS-WINDSURFING-SEMIFINAL-ISR-NZL
+UID:20240803T111800Z-sailing-MENS-WINDSURFING-SEMIFINAL
 DTSTAMP:20240803T111800Z
 DTSTART:20240803T111800Z
 DTEND:20240803T112300Z
-DESCRIPTION:Sailing - Men's Windsurfing - Semifinal
-SUMMARY:⛵ Tom REUVENY 🇮🇱 - 🇳🇿 Josh ARMIT
+DESCRIPTION:Sailing - Men's Windsurfing - Semifinal\n🇳🇿 Josh ARMIT\n🇳🇱
+  Luuc van OPZEELAND\n🇬🇧 Sam SILLS\n🇮🇱 Tom REUVENY
+SUMMARY:⛵ Men's Windsurfing - Semifinal
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
@@ -24902,7 +24903,8 @@ UID:20240803T113300Z-sailing-WOMENS-WINDSURFING-FINAL
 DTSTAMP:20240803T113300Z
 DTSTART:20240803T113300Z
 DTEND:20240803T113800Z
-DESCRIPTION:Sailing - Women's Windsurfing - Final\n🇬🇧 Emma WILSON
+DESCRIPTION:Sailing - Women's Windsurfing - Final\n🇬🇧 Emma WILSON\n🇮🇹
+  Marta MAGGETTI\n🇮🇱 Sharon KANTOR
 SUMMARY:⛵ Women's Windsurfing - Final
 LOCATION:Marseille Marina
 END:VEVENT
@@ -24953,7 +24955,7 @@ UID:20240803T115200Z-archery-WOMENS-INDIVIDUAL-SEMIFINAL
 DTSTAMP:20240803T115200Z
 DTSTART:20240803T115200Z
 DTEND:20240803T120500Z
-DESCRIPTION:Archery - Women's Individual Semifinal
+DESCRIPTION:Archery - Women's Individual Semifinal\n🇰🇷 JEON Hunyoung
 SUMMARY:🏹 Women's Individual Semifinal
 LOCATION:Invalides
 END:VEVENT
@@ -26190,12 +26192,12 @@ SUMMARY:🏹 Florian UNRUH 🇩🇪 - 🇬🇧 Tom HALL
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T085000Z-badminton-MENS-SINGLES-SEMIFINAL-IND-DEN
+UID:20240804T085000Z-badminton-MENS-SINGLES-SEMIFINAL-THA-MAS
 DTSTAMP:20240804T085000Z
 DTSTART:20240804T085000Z
 DTEND:20240804T095000Z
 DESCRIPTION:Badminton - Men's Singles Semifinal
-SUMMARY:🏸 Lakshya SEN 🇮🇳 - 🇩🇰 Viktor AXELSEN
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇲🇾 Zii Jia LEE
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -26373,12 +26375,12 @@ SUMMARY:🤺 ITA 🇮🇹 - 🇵🇱 POL
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T100000Z-badminton-MENS-SINGLES-SEMIFINAL-THA-MAS
+UID:20240804T100000Z-badminton-MENS-SINGLES-SEMIFINAL-IND-DEN
 DTSTAMP:20240804T100000Z
 DTSTART:20240804T100000Z
 DTEND:20240804T110000Z
 DESCRIPTION:Badminton - Men's Singles Semifinal
-SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇲🇾 Zii Jia LEE
+SUMMARY:🏸 Lakshya SEN 🇮🇳 - 🇩🇰 Viktor AXELSEN
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -27349,7 +27351,16 @@ UID:20240804T180500Z-athletics-MENS-100M-SEMI-FINAL
 DTSTAMP:20240804T180500Z
 DTSTART:20240804T180500Z
 DTEND:20240804T182200Z
-DESCRIPTION:Athletics - Men's 100m Semi-Final
+DESCRIPTION:Athletics - Men's 100m Semi-Final\n🇬🇭 Abdul-Rasheed
+  SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇨🇦 Andre de GRASSE\n🇬🇭
+  Benjamin AZAMATI\n🇿🇦 Benjamin RICHARDSON\n🇮🇹 Chituru ALI\n🇨🇲
+  Emmanuel ESEME\n🇱🇷 Emmanuel MATADI\n🇳🇬 Favour Oghene Tejiri
+  ASHE\n🇰🇪 Ferdinand OMANYALA\n🇺🇸 Fred KERLEY\n🇩🇪 Joshua
+  HARTMANN\n🇳🇬 Kayinsola AJAYI\n🇺🇸 Kenneth BEDNAREK\n🇯🇲 Kishane
+  THOMPSON\n🇮🇹 Lamont Marcell JACOBS\n🇧🇼 Letsile TEBOGO\n🇬🇧 Louie
+  HINCHLIFFE\n🇺🇸 Noah LYLES\n🇯🇲 Oblique SEVILLE\n🇹🇭 Puripol
+  BOONSON\n🇨🇺 Reynaldo R. ESPINOSA\n🇻🇬 Rikkoi BRATHWAITE\n🇯🇵 SANI
+  BROWN Abdul Hakim\n🇿🇦 Shaun MASWANGANYI\n🇬🇧 Zharnel HUGHES
 SUMMARY:🏃 Men's 100m Semi-Final
 LOCATION:Stade de France
 END:VEVENT
