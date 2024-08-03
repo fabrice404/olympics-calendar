@@ -25565,7 +25565,12 @@ UID:20240803T160500Z-canoe-slalom--
 DTSTAMP:20240803T160500Z
 DTSTART:20240803T160500Z
 DTEND:20240803T163000Z
-DESCRIPTION:Гребной слалом - Экстрим-слалом, утешительный раунд (ж)
+DESCRIPTION:Гребной слалом - Экстрим-слалом, утешительный раунд (ж)\n🇧🇷
+  Ana SATILA\n🇹🇼 CHANG Chu-Han\n🇦🇹 Corinna KUHNLE\n🇸🇮 Eva Alina
+  HOCEVAR\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦 Lois
+  BETTERIDGE\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen CHOURRAUT\n🇯🇵 OKAZAKI
+  Haruka\n🇮🇹 Stefanie HORN\n🇨🇿 Tereza FISEROVA\n🇦🇹 Viktoria
+  WOLFFHARDT\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
 SUMMARY:🛶 Экстрим-слалом, утешительный раунд (ж)
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
@@ -26064,18 +26069,9 @@ BEGIN:VEVENT
 UID:20240804T063000Z-badminton-12--KOR-INA
 DTSTAMP:20240804T063000Z
 DTSTART:20240804T063000Z
-DTEND:20240804T110000Z
+DTEND:20240804T073000Z
 DESCRIPTION:Бадминтон - 1/2 финала, одиночный (ж)
 SUMMARY:🏸 AN Se Young 🇰🇷 - 🇮🇩 Gregoria Mariska TUNJUNG
-LOCATION:Арена «Ла-Шапель»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T063000Z-badminton-12--ESP-CHN
-DTSTAMP:20240804T063000Z
-DTSTART:20240804T063000Z
-DTEND:20240804T110000Z
-DESCRIPTION:Бадминтон - 1/2 финала, одиночный (ж)
-SUMMARY:🏸 Carolina MARIN 🇪🇸 - 🇨🇳 HE Bing Jiao
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
@@ -26150,6 +26146,15 @@ DTEND:20240804T123000Z
 DESCRIPTION:Стрельба - Скит, квалификация, день 2 (ж)
 SUMMARY:🔫 Скит, квалификация, день 2 (ж)
 LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T074000Z-badminton-12--ESP-CHN
+DTSTAMP:20240804T074000Z
+DTSTART:20240804T074000Z
+DTEND:20240804T084000Z
+DESCRIPTION:Бадминтон - 1/2 финала, одиночный (ж)
+SUMMARY:🏸 Carolina MARIN 🇪🇸 - 🇨🇳 HE Bing Jiao
+LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T074300Z-archery-18--KOR-CHN
@@ -29994,12 +29999,12 @@ SUMMARY:🤼 Вольная борьба, 68кг, финал (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T193000Z-boxing--71-
+UID:20240806T193000Z-boxing--71--USA-UZB
 DTSTAMP:20240806T193000Z
 DTSTART:20240806T193000Z
 DTEND:20240806T194100Z
-DESCRIPTION:Бокс - Полуфинал, до 71кг (м)\n🇺🇸 Omari JONES
-SUMMARY:🥊 Полуфинал, до 71кг (м)
+DESCRIPTION:Бокс - Полуфинал, до 71кг (м)
+SUMMARY:🥊 Omari JONES 🇺🇸 - 🇺🇿 Asadkhuja MUYDINKHUJAEV
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT

@@ -5827,6 +5827,20 @@ SUMMARY:🥊 YANG Wenlu 🇨🇳 - 🇹🇼 WU Shih Yi
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T160500Z-canoe-slalom--
+DTSTAMP:20240803T160500Z
+DTSTART:20240803T160500Z
+DTEND:20240803T163000Z
+DESCRIPTION:Гребной слалом - Экстрим-слалом, утешительный раунд (ж)\n🇧🇷
+  Ana SATILA\n🇹🇼 CHANG Chu-Han\n🇦🇹 Corinna KUHNLE\n🇸🇮 Eva Alina
+  HOCEVAR\n🇵🇱 Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇨🇦 Lois
+  BETTERIDGE\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen CHOURRAUT\n🇯🇵 OKAZAKI
+  Haruka\n🇮🇹 Stefanie HORN\n🇨🇿 Tereza FISEROVA\n🇦🇹 Viktoria
+  WOLFFHARDT\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 Экстрим-слалом, утешительный раунд (ж)
+LOCATION:Водный ст. - Белая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T170500Z-3x3-basketball---CHN-USA
 DTSTAMP:20240803T170500Z
 DTSTART:20240803T170500Z
@@ -5881,15 +5895,6 @@ SUMMARY:🏊 Эстафета 4x100м комплексом, финал (микс
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T063000Z-badminton-12--ESP-CHN
-DTSTAMP:20240804T063000Z
-DTSTART:20240804T063000Z
-DTEND:20240804T110000Z
-DESCRIPTION:Бадминтон - 1/2 финала, одиночный (ж)
-SUMMARY:🏸 Carolina MARIN 🇪🇸 - 🇨🇳 HE Bing Jiao
-LOCATION:Арена «Ла-Шапель»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240804T070000Z-shooting--25-P-1-
 DTSTAMP:20240804T070000Z
 DTSTART:20240804T070000Z
@@ -5907,6 +5912,15 @@ DESCRIPTION:Стрельба - Скорострельный пистолет 25 
   SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
 SUMMARY:🔫 Скорострельный пистолет 25 м, Pаунд 1 (м)
 LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T074000Z-badminton-12--ESP-CHN
+DTSTAMP:20240804T074000Z
+DTSTART:20240804T074000Z
+DTEND:20240804T084000Z
+DESCRIPTION:Бадминтон - 1/2 финала, одиночный (ж)
+SUMMARY:🏸 Carolina MARIN 🇪🇸 - 🇨🇳 HE Bing Jiao
+LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T074300Z-archery-18--KOR-CHN
