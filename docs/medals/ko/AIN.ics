@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/ko/AIN//EN
-X-WR-CALNAME: American Samoa 🏅 | Paris 2024
-NAME: American Samoa 🏅 | Paris 2024
+X-WR-CALNAME:🇦🇸 American Samoa 🏅 | Paris 2024
+NAME:🇦🇸 American Samoa 🏅 | Paris 2024
 BEGIN:VEVENT
 UID:20240727T123000Z-cycling-road--
 DTSTAMP:20240727T123000Z
@@ -14,12 +14,12 @@ DESCRIPTION:사이클 도로 - 여자 개인 도로독주\n🇵🇱 Agnieszka SK
   Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
   Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱
   Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace
-  BROWN\n Hanna TSERAKH\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim
-  CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸
+  BROWN\n🇦🇸 Hanna TSERAKH\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿
+  Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸
   Mireia BENITO PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦
-  Olivia BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n Tamara DRONOVA\n🇺🇸
-  Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia
-  BIRIUKOVA
+  Olivia BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇦🇸 Tamara
+  DRONOVA\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦
+  Yuliia BIRIUKOVA
 SUMMARY:🚴 여자 개인 도로독주
 LOCATION:알렉상드르 3세 다리
 END:VEVENT
@@ -31,7 +31,7 @@ DTEND:20240727T155700Z
 DESCRIPTION:사이클 도로 - 남자 개인 도로독주\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
   BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
   Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
-  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n Gleb SYRITSA\n🇲🇳 Jambaljamts
+  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇦🇸 Gleb SYRITSA\n🇲🇳 Jambaljamts
   SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
   VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
   SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
@@ -48,9 +48,9 @@ UID:20240729T193400Z-swimming--100M-
 DTSTAMP:20240729T193400Z
 DTSTART:20240729T193400Z
 DTEND:20240729T194100Z
-DESCRIPTION:경영 - 여자 100m 평영 결승\n Alina ZMUSHKA\n🇬🇧 Angharad EVANS\n🇮🇹
-  Benedetta PILATO\n🇪🇪 Eneli JEFIMOVA\n🇺🇸 Lilly KING\n🇮🇪 Mona Mc
-  SHARRY\n🇨🇳 TANG Qianting\n🇿🇦 Tatjana SMITH
+DESCRIPTION:경영 - 여자 100m 평영 결승\n🇦🇸 Alina ZMUSHKA\n🇬🇧 Angharad
+  EVANS\n🇮🇹 Benedetta PILATO\n🇪🇪 Eneli JEFIMOVA\n🇺🇸 Lilly KING\n🇮🇪
+  Mona Mc SHARRY\n🇨🇳 TANG Qianting\n🇿🇦 Tatjana SMITH
 SUMMARY:🏊 여자 100m 평영 결승
 LOCATION:파리 라 데팡스 아레나
 END:VEVENT
@@ -59,9 +59,9 @@ UID:20240802T115000Z-trampoline-gymnastics--
 DTSTAMP:20240802T115000Z
 DTSTART:20240802T115000Z
 DTEND:20240802T122000Z
-DESCRIPTION:트램폴린 체조 - 여자 결승\n Anzhela BLADTCEVA\n🇬🇧 Bryony PAGE\n🇨🇳 HU
-  Yicheng\n🇯🇵 MORI Hikaru\n🇳🇿 Madaline DAVIDSON\n🇪🇸 Noemi ROMERO
-  ROSARIO\n🇦🇿 Seljan MAHSUDOVA\n🇨🇦 Sophiane METHOT\n Viyaleta
+DESCRIPTION:트램폴린 체조 - 여자 결승\n🇦🇸 Anzhela BLADTCEVA\n🇬🇧 Bryony PAGE\n🇨🇳
+  HU Yicheng\n🇯🇵 MORI Hikaru\n🇳🇿 Madaline DAVIDSON\n🇪🇸 Noemi ROMERO
+  ROSARIO\n🇦🇿 Seljan MAHSUDOVA\n🇨🇦 Sophiane METHOT\n🇦🇸 Viyaleta
   BARDZILOUSKAYA\n🇨🇳 ZHU Xueying
 SUMMARY:🤸 여자 결승
 LOCATION:베르시 아레나
@@ -73,8 +73,8 @@ DTSTART:20240802T175000Z
 DTEND:20240802T182000Z
 DESCRIPTION:트램폴린 체조 - 남자 결승\n🇺🇸 Aliaksei SHOSTAK\n🇨🇴 Angel
   HERNANDEZ\n🇰🇿 Danil MUSSABAYEV\n🇳🇿 Dylan SCHMIDT\n🇵🇹 Gabriel
-  ALBUQUERQUE\n Ivan LITVINOVICH\n🇫🇷 Pierre GOUZOU\n🇨🇳 WANG Zisai\n🇨🇳
-  YAN Langyu\n🇬🇧 Zak PERZAMANOS
+  ALBUQUERQUE\n🇦🇸 Ivan LITVINOVICH\n🇫🇷 Pierre GOUZOU\n🇨🇳 WANG
+  Zisai\n🇨🇳 YAN Langyu\n🇬🇧 Zak PERZAMANOS
 SUMMARY:🤸 남자 결승
 LOCATION:베르시 아레나
 END:VEVENT
@@ -83,7 +83,7 @@ UID:20240802T183700Z-swimming--200M-
 DTSTAMP:20240802T183700Z
 DTSTART:20240802T183700Z
 DTEND:20240802T184500Z
-DESCRIPTION:경영 - 여자 200m 배영 결승\n Anastasiya SHKURDAI\n🇬🇧 Honey
+DESCRIPTION:경영 - 여자 200m 배영 결승\n🇦🇸 Anastasiya SHKURDAI\n🇬🇧 Honey
   OSRIN\n🇬🇧 Katie SHANAHAN\n🇦🇺 Kaylee McKEOWN\n🇨🇦 Kylie MASSE\n🇨🇳
   PENG Xuwei\n🇺🇸 Phoebe BACON\n🇺🇸 Regan SMITH
 SUMMARY:🏊 여자 200m 배영 결승
@@ -95,7 +95,7 @@ DTSTAMP:20240803T083000Z
 DTSTART:20240803T083000Z
 DTEND:20240803T083700Z
 DESCRIPTION:조정 - 남자 싱글스컬 결승 A\n🇩🇪 Oliver ZEIDLER\n🇳🇱 Simon van
-  DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n
+  DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇦🇸
   Yauheni ZALATY
 SUMMARY:🚣 남자 싱글스컬 결승 A
 LOCATION:카누 경기장 - 플랫워터
@@ -114,26 +114,26 @@ DESCRIPTION:사이클 도로 - 남자 도로경기\n🇯🇵 ARASHIRO Yukiya\n�
   HOOLE\n🇨🇴 Dani MARTINEZ\n🇨🇦 Derek GEE\n🇸🇮 Domen NOVAK\n🇳🇱 Dylan
   van BAARLE\n🇦🇷 Eduardo SEPULVEDA\n🇮🇹 Elia VIVIANI\n🇺🇾 Eric
   FAGUNDEZ\n🇷🇼 Eric MANIZABAYO\n🇦🇹 Felix GROSSSCHARTNER\n🇵🇦 Franklin
-  ARCHIBOLD\n🇬🇧 Fred WRIGHT\n🇬🇷 Georgios BOUGLAS\n Gleb SYRITSA\n🇮🇱
-  Itamar EINHORN\n🇸🇪 Jakob SODERQVIST\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮
-  Jan TRATNIK\n🇧🇪 Jasper STUYVEN\n🇪🇨 Jhonatan NARVAEZ\n🇬🇧 Josh
-  TARLING\n🇪🇸 Juan AYUSO\n🇫🇷 Julian ALAPHILIPPE\n🇰🇷 KIM Euro\n🇫🇷
-  Kevin VAUQUELIN\n🇭🇰 LAU Wan Yau Vincent\n🇨🇳 LYU Xianjing\n🇳🇿
-  Laurence PITHIE\n🇮🇹 Luca MOZZATO\n🇸🇮 Luka MEZGEC\n🇸🇰 Lukas
-  KUBIS\n🇪🇪 Madis MIHKELS\n🇩🇰 Mads PEDERSEN\n🇺🇸 Magnus
-  SHEFFIELD\n🇨🇭 Marc HIRSCHI\n🇦🇹 Marco HALLER\n🇸🇮 Matej MOHORIC\n🇨🇿
-  Mathias VACEK\n🇳🇱 Mathieu van der POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰
-  Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇦🇺 Michael
-  MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael WOODS\n🇩🇰 Mikkel
-  Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita TSVETKOV\n🇩🇪 Nils
-  POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇻🇪 Orluis AULAR\n🇧🇪
-  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
-  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
-  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
-  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
-  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
-  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
-  Yevgeniy FEDOROV
+  ARCHIBOLD\n🇬🇧 Fred WRIGHT\n🇬🇷 Georgios BOUGLAS\n🇦🇸 Gleb
+  SYRITSA\n🇮🇱 Itamar EINHORN\n🇸🇪 Jakob SODERQVIST\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇧🇪 Jasper STUYVEN\n🇪🇨 Jhonatan
+  NARVAEZ\n🇬🇧 Josh TARLING\n🇪🇸 Juan AYUSO\n🇫🇷 Julian
+  ALAPHILIPPE\n🇰🇷 KIM Euro\n🇫🇷 Kevin VAUQUELIN\n🇭🇰 LAU Wan Yau
+  Vincent\n🇨🇳 LYU Xianjing\n🇳🇿 Laurence PITHIE\n🇮🇹 Luca MOZZATO\n🇸🇮
+  Luka MEZGEC\n🇸🇰 Lukas KUBIS\n🇪🇪 Madis MIHKELS\n🇩🇰 Mads
+  PEDERSEN\n🇺🇸 Magnus SHEFFIELD\n🇨🇭 Marc HIRSCHI\n🇦🇹 Marco
+  HALLER\n🇸🇮 Matej MOHORIC\n🇨🇿 Mathias VACEK\n🇳🇱 Mathieu van der
+  POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
+  WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
+  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇻🇪
+  Orluis AULAR\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan
+  GIBBONS\n🇮🇪 Ryan MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴
+  Soeren WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧
+  Stephen WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪
+  Tiesj BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin
+  MADOUAS\n🇧🇷 Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine
+  HAMZA\n🇰🇿 Yevgeniy FEDOROV
 SUMMARY:🚴 남자 도로경기
 LOCATION:트로카데로
 END:VEVENT
@@ -143,7 +143,7 @@ DTSTAMP:20240804T100000Z
 DTSTART:20240804T100000Z
 DTEND:20240804T143000Z
 DESCRIPTION:테니스 - 여자 복식 금메달 결정전
-SUMMARY:🎾 ERRANI/PAOLINI 🇮🇹 -  ANDREEVA/SHNAIDER
+SUMMARY:🎾 ERRANI/PAOLINI 🇮🇹 - 🇦🇸 ANDREEVA/SHNAIDER
 LOCATION:롤랑가로스 스타디움
 END:VEVENT
 BEGIN:VEVENT
@@ -151,7 +151,7 @@ UID:20240804T120000Z-cycling-road--
 DTSTAMP:20240804T120000Z
 DTSTART:20240804T120000Z
 DTEND:20240804T162400Z
-DESCRIPTION:사이클 도로 - 여자 도로경기\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n Alena
+DESCRIPTION:사이클 도로 - 여자 도로경기\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇦🇸 Alena
   IVANCHENKO\n🇨🇦 Alison JACKSON\n🇧🇷 Ana Vitoria MAGALHAES\n🇱🇻
   Anastasia CARBONARI\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮
   Anniina AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇨🇾 Antri CHRISTOFOROU\n🇨🇺
@@ -164,7 +164,7 @@ DESCRIPTION:사이클 도로 - 여자 도로경기\n🇵🇱 Agnieszka SKALNIAK-
   BORGHINI\n🇨🇭 Elise CHABBEY\n🇬🇧 Elizabeth DEIGNAN\n🇳🇱 Ellen van
   DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇳🇬 Ese UKPESERAYE\n🇸🇮 Eugenia
   BUJAK\n🏳️ Eyeru GEBRU\n🇦🇫 Fariba HASHIMI\n🇩🇪 Franziska KOCH\n🇦🇺
-  Grace BROWN\n Hanna TSERAKH\n🇳🇴 Ingvild GASKJENN\n🇷🇸 Jelena
+  Grace BROWN\n🇦🇸 Hanna TSERAKH\n🇳🇴 Ingvild GASKJENN\n🇷🇸 Jelena
   ERIC\n🇨🇿 Julia KOPECKY\n🇧🇪 Julie van de VELDE\n🇫🇷 Juliette
   LABOUS\n🇧🇪 Justine GHEKIERE\n🇵🇱 Katarzyna NIEWIADOMA\n🇳🇿 Kim
   CADZOW\n🇲🇺 Kimberley le COURT de BILLOT\n🇺🇸 Kristen FAULKNER\n🇭🇰
@@ -178,7 +178,7 @@ DESCRIPTION:사이클 도로 - 여자 도로경기\n🇵🇱 Agnieszka SKALNIAK-
   Olivia BARIL\n🇨🇴 Paula PATINO\n🇬🇧 Pfeiffer GEORGI\n🇹🇭 Phetdarin
   SOMRAT\n🇱🇹 Rasa LELEIVYTE\n🇩🇰 Rebecca KOERNER\n🇮🇱 Rotem
   GAFINOVITZ\n🇦🇺 Ruby ROSEMAN-GANNON\n🇰🇷 SONG Minji\n🇦🇪 Safia AL
-  SAYEGH\n🇮🇹 Silvia PERSICO\n🇨🇳 TANG Xin\n Tamara DRONOVA\n🇻🇳 Thi
+  SAYEGH\n🇮🇹 Silvia PERSICO\n🇨🇳 TANG Xin\n🇦🇸 Tamara DRONOVA\n🇻🇳 Thi
   That NGUYEN\n🇿🇦 Tiffany KEEP\n🇸🇮 Urska PINTAR\n🇳🇦 Vera LOOSER\n🇫🇷
   Victoire BERTEAU\n🇯🇵 YONAMINE Eri\n🇺🇿 Yanina KUSKOVA\n🇦🇫 Yulduz
   HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
