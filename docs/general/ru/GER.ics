@@ -6896,6 +6896,15 @@ SUMMARY:⛵ Многокорпусник, гонка 12 (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T160000Z-football---USA-GER
+DTSTAMP:20240806T160000Z
+DTSTART:20240806T160000Z
+DTEND:20240806T174500Z
+DESCRIPTION:Футбол - Полуфинал (ж)
+SUMMARY:⚽ США 🇺🇸 - 🇩🇪 Германия
+LOCATION:Стадион «Лион»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T101300Z-sailing--13-
 DTSTAMP:20240807T101300Z
 DTSTART:20240807T101300Z
