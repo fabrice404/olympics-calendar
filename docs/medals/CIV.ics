@@ -3,4 +3,16 @@ VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/CIV//EN
 X-WR-CALNAME:🇨🇮 Côte d'Ivoire 🏅 | Paris 2024
 NAME:🇨🇮 Côte d'Ivoire 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240803T192000Z-athletics-WOMENS-100M-FINAL
+DTSTAMP:20240803T192000Z
+DTSTART:20240803T192000Z
+DTEND:20240803T192100Z
+DESCRIPTION:Athletics - Women's 100m Final\n🇬🇧 Daryll NEITA\n🇱🇨 Julien
+  ALFRED\n🇨🇮 Marie-Josee TA LOU-SMITH\n🇺🇸 Melissa JEFFERSON\n🇨🇭
+  Mujinga KAMBUNDJI\n🇺🇸 Sha'carri RICHARDSON\n🇯🇲 Tia CLAYTON\n🇺🇸
+  Twanisha TERRY
+SUMMARY:🏃 Women's 100m Final
+LOCATION:Stade de France
+END:VEVENT
 END:VCALENDAR
