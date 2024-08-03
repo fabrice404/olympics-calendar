@@ -1164,6 +1164,40 @@ SUMMARY:🏊 50м вольным стилем, финал (ж)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T163700Z-swimming-1500-
+DTSTAMP:20240804T163700Z
+DTSTART:20240804T163700Z
+DTEND:20240804T165800Z
+DESCRIPTION:Плавание - 1500м вольным стилем, финал (м)\n🇹🇳 Ahmed
+  JAOUADI\n🇺🇸 Bobby FINKE\n🇫🇷 Damien JOLY\n🇮🇪 Daniel WIFFEN\n🇫🇷
+  David AUBRY\n🇭🇺 David BETLEHEM\n🇮🇹 Gregorio PALTRINIERI\n🇹🇷 Kuzey
+  TUNCELLI
+SUMMARY:🏊 1500м вольным стилем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T171000Z-swimming--4X100-
+DTSTAMP:20240804T171000Z
+DTSTART:20240804T171000Z
+DTEND:20240804T172000Z
+DESCRIPTION:Плавание - Эстафета 4x100м комплексом, финал (м)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇨🇦 Канада\n🇨🇳
+  Китай\n🇳🇱 Нидерланды\n🇺🇸 США\n🇫🇷 Франция
+SUMMARY:🏊 Эстафета 4x100м комплексом, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T173200Z-swimming--4X100-
+DTSTAMP:20240804T173200Z
+DTSTART:20240804T173200Z
+DTEND:20240804T174200Z
+DESCRIPTION:Плавание - Эстафета 4x100м комплексом, финал (ж)\n🇦🇺
+  Австралия\n🇨🇦 Канада\n🇨🇳 Китай\n🇳🇱 Нидерланды\n🇺🇸 США\n🇫🇷
+  Франция\n🇸🇪 Швеция\n🇯🇵 Япония
+SUMMARY:🏊 Эстафета 4x100м комплексом, финал (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T175500Z-athletics--
 DTSTAMP:20240804T175500Z
 DTSTART:20240804T175500Z
