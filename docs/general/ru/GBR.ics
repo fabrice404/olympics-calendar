@@ -5030,6 +5030,15 @@ SUMMARY:🔫 Скит, квалификация, день 2 (ж)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T080000Z-hockey---IND-GBR
+DTSTAMP:20240804T080000Z
+DTSTART:20240804T080000Z
+DTEND:20240804T094500Z
+DESCRIPTION:Хоккей на траве - Четвертьфинал (м)
+SUMMARY:🏑 Индия 🇮🇳 - 🇬🇧 Великобритания
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T080000Z-equestrian--
 DTSTAMP:20240804T080000Z
 DTSTART:20240804T080000Z
@@ -5043,15 +5052,6 @@ DESCRIPTION:Конный спорт - Личная выездка, гран-пр
   SYSOJEVA\n🇸🇪 Therese NILSHAGEN\n🇦🇹 Victoria MAX-THEURER
 SUMMARY:🏇 Личная выездка, гран-при, КЮР
 LOCATION:Версаль
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T080000Z-hockey---IND-GBR
-DTSTAMP:20240804T080000Z
-DTSTART:20240804T080000Z
-DTEND:20240804T121500Z
-DESCRIPTION:Хоккей на траве - Четвертьфинал (м)
-SUMMARY:🏑 Индия 🇮🇳 - 🇬🇧 Великобритания
-LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T080500Z-athletics-3000-1-
