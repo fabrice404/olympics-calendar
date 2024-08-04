@@ -2788,12 +2788,12 @@ SUMMARY:🏹 Brady ELLISON 🇺🇸 - 🇰🇷 KIM Je Deok
 LOCATION:アンヴァリッド
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T115200Z-archery-
+UID:20240804T115200Z-archery--KOR-KOR
 DTSTAMP:20240804T115200Z
 DTSTART:20240804T115200Z
 DTEND:20240804T120500Z
-DESCRIPTION:アーチェリー - 男子個人準決勝\n🇰🇷 LEE Wooseok
-SUMMARY:🏹 男子個人準決勝
+DESCRIPTION:アーチェリー - 男子個人準決勝
+SUMMARY:🏹 KIM Woojin 🇰🇷 - 🇰🇷 LEE Wooseok
 LOCATION:アンヴァリッド
 END:VEVENT
 BEGIN:VEVENT
@@ -2996,6 +2996,30 @@ DESCRIPTION:飛込 - 男子10m高飛込予選\n🇨🇴 Alejandro SOLARTE\n🇮�
   LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪
   Timo BARTHEL\n🇨🇳 YANG Hao
 SUMMARY:🏊 男子10m高飛込予選
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-artistic-swimming-
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T191300Z
+DESCRIPTION:アーティスティックスイミング - デュエットテクニカルルーティン\n🇺🇸 アメリカ合衆国\n🇮🇱
+  イスラエル\n🇮🇹 イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹
+  オーストリア\n🇨🇦 カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽
+  メキシコ\n🇨🇳 中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットテクニカルルーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming-
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:アーティスティックスイミング - デュエットフリールーティン\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットフリールーティン
 LOCATION:アクアティックス・センター
 END:VEVENT
 BEGIN:VEVENT

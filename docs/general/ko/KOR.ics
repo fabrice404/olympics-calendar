@@ -2788,12 +2788,12 @@ SUMMARY:🏹 Brady ELLISON 🇺🇸 - 🇰🇷 KIM Je Deok
 LOCATION:앵발리드
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T115200Z-archery--
+UID:20240804T115200Z-archery---KOR-KOR
 DTSTAMP:20240804T115200Z
 DTSTART:20240804T115200Z
 DTEND:20240804T120500Z
-DESCRIPTION:양궁 - 남자 개인 준결승\n🇰🇷 LEE Wooseok
-SUMMARY:🏹 남자 개인 준결승
+DESCRIPTION:양궁 - 남자 개인 준결승
+SUMMARY:🏹 KIM Woojin 🇰🇷 - 🇰🇷 LEE Wooseok
 LOCATION:앵발리드
 END:VEVENT
 BEGIN:VEVENT
@@ -3008,6 +3008,18 @@ DESCRIPTION:아티스틱 스위밍 - 듀엣 테크니컬루틴\n🇬🇷 그리�
   오스트리아\n🇺🇦 우크라이나\n🇮🇱 이스라엘\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦
   캐나다\n🇫🇷 프랑스
 SUMMARY:🏊 듀엣 테크니컬루틴
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming--
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:아티스틱 스위밍 - 듀엣 프리루틴\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇰🇷
+  대한민국\n🇲🇽 멕시코\n🇺🇸 미국\n🇪🇸 스페인\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇦🇹
+  오스트리아\n🇺🇦 우크라이나\n🇮🇱 이스라엘\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦
+  캐나다\n🇫🇷 프랑스
+SUMMARY:🏊 듀엣 프리루틴
 LOCATION:아쿠아틱 센터
 END:VEVENT
 BEGIN:VEVENT

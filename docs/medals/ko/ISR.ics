@@ -205,4 +205,16 @@ DESCRIPTION:사이클 도로 - 여자 도로경기\n🇵🇱 Agnieszka SKALNIAK-
 SUMMARY:🚴 여자 도로경기
 LOCATION:트로카데로
 END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming--
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:아티스틱 스위밍 - 듀엣 프리루틴\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇰🇷
+  대한민국\n🇲🇽 멕시코\n🇺🇸 미국\n🇪🇸 스페인\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇦🇹
+  오스트리아\n🇺🇦 우크라이나\n🇮🇱 이스라엘\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦
+  캐나다\n🇫🇷 프랑스
+SUMMARY:🏊 듀엣 프리루틴
+LOCATION:아쿠아틱 센터
+END:VEVENT
 END:VCALENDAR

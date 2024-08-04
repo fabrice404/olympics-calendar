@@ -26620,12 +26620,12 @@ SUMMARY:🤺 埃及 🇪🇬 - 🇵🇱 波兰
 LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T115200Z-archery-
+UID:20240804T115200Z-archery--KOR-KOR
 DTSTAMP:20240804T115200Z
 DTSTART:20240804T115200Z
 DTEND:20240804T120500Z
-DESCRIPTION:射箭 - 男子个人半决赛\n🇰🇷 LEE Wooseok
-SUMMARY:🏹 男子个人半决赛
+DESCRIPTION:射箭 - 男子个人半决赛
+SUMMARY:🏹 KIM Woojin 🇰🇷 - 🇰🇷 LEE Wooseok
 LOCATION:荣军院
 END:VEVENT
 BEGIN:VEVENT
@@ -35489,7 +35489,9 @@ UID:20240810T173000Z-artistic-swimming-
 DTSTAMP:20240810T173000Z
 DTSTART:20240810T173000Z
 DTEND:20240810T192300Z
-DESCRIPTION:花样游泳 - 双人自由自选
+DESCRIPTION:花样游泳 - 双人自由自选\n🇨🇳 中国\n🇺🇦 乌克兰\n🇮🇱 以色列\n🇨🇦 加拿大\n🇪🇬
+  埃及\n🇲🇽 墨西哥\n🇦🇹 奥地利\n🇬🇷 希腊\n🇮🇹 意大利\n🇳🇿 新西兰\n🇯🇵 日本\n🇫🇷
+  法国\n🇦🇺 澳大利亚\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰\n🇪🇸 西班牙\n🇰🇷 韩国
 SUMMARY:🏊 双人自由自选
 LOCATION:水上运动中心
 END:VEVENT
