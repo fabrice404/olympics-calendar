@@ -66,4 +66,13 @@ DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
 SUMMARY:🏀 Литва 🇱🇹 - 🇷🇸 Сербия
 LOCATION:Площадь Согласия 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T193000Z-3x3-basketball---LTU-POL
+DTSTAMP:20240804T193000Z
+DTSTART:20240804T193000Z
+DTEND:20240804T195500Z
+DESCRIPTION:Баскетбол 3х3 - Матчи плей-ин (м)
+SUMMARY:🏀 Литва 🇱🇹 - 🇵🇱 Польша
+LOCATION:Площадь Согласия 1
+END:VEVENT
 END:VCALENDAR

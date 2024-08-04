@@ -3768,21 +3768,6 @@ SUMMARY:⛵ Mixed Multihull - Race 7
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T101300Z-sailing-MENS-KITE-RACE-5
-DTSTAMP:20240805T101300Z
-DTSTART:20240805T101300Z
-DTEND:20240805T103000Z
-DESCRIPTION:Sailing - Men's Kite - Race 5\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
-  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
-  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
-  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Men's Kite - Race 5
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T101500Z-sailing-WOMENS-DINGHY-RACE-9
 DTSTAMP:20240805T101500Z
 DTSTART:20240805T101500Z
@@ -3806,6 +3791,21 @@ SUMMARY:⛵ Women's Dinghy - Race 9
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T102300Z-sailing-MENS-KITE-RACE-5
+DTSTAMP:20240805T102300Z
+DTSTART:20240805T102300Z
+DTEND:20240805T104000Z
+DESCRIPTION:Sailing - Men's Kite - Race 5\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 5
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T102800Z-sailing-WOMENS-KITE-RACE-6
 DTSTAMP:20240805T102800Z
 DTSTART:20240805T102800Z
@@ -3822,10 +3822,10 @@ SUMMARY:⛵ Women's Kite - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T103800Z-sailing-MENS-KITE-RACE-6
-DTSTAMP:20240805T103800Z
-DTSTART:20240805T103800Z
-DTEND:20240805T105500Z
+UID:20240805T104800Z-sailing-MENS-KITE-RACE-6
+DTSTAMP:20240805T104800Z
+DTSTART:20240805T104800Z
+DTEND:20240805T110500Z
 DESCRIPTION:Sailing - Men's Kite - Race 6\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
   LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
   HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
@@ -3883,10 +3883,10 @@ SUMMARY:🧗 Women's Speed, Qualification Seeding heats
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T110300Z-sailing-MENS-KITE-RACE-7
-DTSTAMP:20240805T110300Z
-DTSTART:20240805T110300Z
-DTEND:20240805T112000Z
+UID:20240805T111300Z-sailing-MENS-KITE-RACE-7
+DTSTAMP:20240805T111300Z
+DTSTART:20240805T111300Z
+DTEND:20240805T113000Z
 DESCRIPTION:Sailing - Men's Kite - Race 7\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
   LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
   HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
@@ -3937,10 +3937,10 @@ SUMMARY:⛵ Women's Dinghy - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T112800Z-sailing-MENS-KITE-RACE-8
-DTSTAMP:20240805T112800Z
-DTSTART:20240805T112800Z
-DTEND:20240805T114500Z
+UID:20240805T113800Z-sailing-MENS-KITE-RACE-8
+DTSTAMP:20240805T113800Z
+DTSTART:20240805T113800Z
+DTEND:20240805T115500Z
 DESCRIPTION:Sailing - Men's Kite - Race 8\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
   LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
   HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
@@ -3968,10 +3968,10 @@ SUMMARY:⛵ Mixed Multihull - Race 9
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T124000Z-sailing-MENS-DINGHY-RACE-9
-DTSTAMP:20240805T124000Z
-DTSTART:20240805T124000Z
-DTEND:20240805T133100Z
+UID:20240805T124500Z-sailing-MENS-DINGHY-RACE-9
+DTSTAMP:20240805T124500Z
+DTSTART:20240805T124500Z
+DTEND:20240805T133600Z
 DESCRIPTION:Sailing - Men's Dinghy - Race 9\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit
   Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱
   Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸
@@ -4015,10 +4015,10 @@ SUMMARY:🛶 Women's Kayak Cross Quarterfinal
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T134500Z-sailing-MENS-DINGHY-RACE-10
-DTSTAMP:20240805T134500Z
-DTSTART:20240805T134500Z
-DTEND:20240805T143600Z
+UID:20240805T135000Z-sailing-MENS-DINGHY-RACE-10
+DTSTAMP:20240805T135000Z
+DTSTART:20240805T135000Z
+DTEND:20240805T144100Z
 DESCRIPTION:Sailing - Men's Dinghy - Race 10\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit
   Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱
   Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸
