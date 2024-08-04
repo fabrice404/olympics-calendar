@@ -28256,12 +28256,21 @@ SUMMARY:🤸 Вольные упражнения, финал (ж)
 LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T123000Z-badminton--3-
+DTSTAMP:20240805T123000Z
+DTSTART:20240805T123000Z
+DTEND:20240805T153000Z
+DESCRIPTION:Бадминтон - Матч за 3-е место, одиночный (м)\n🇲🇾 Zii Jia LEE
+SUMMARY:🏸 Матч за 3-е место, одиночный (м)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T123000Z-badminton--
 DTSTAMP:20240805T123000Z
 DTSTART:20240805T123000Z
-DTEND:20240805T143000Z
-DESCRIPTION:Бадминтон - Финалы, одиночный (м)
-SUMMARY:🏸 Финалы, одиночный (м)
+DTEND:20240805T153000Z
+DESCRIPTION:Бадминтон - Финал, одиночный (м)\n🇹🇭 Kunlavut VITIDSARN
+SUMMARY:🏸 Финал, одиночный (м)
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT

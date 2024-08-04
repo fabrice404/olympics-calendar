@@ -210,4 +210,13 @@ DESCRIPTION:Бадминтон - Матч за 3-е место, парный (м
 SUMMARY:🏸 CHIA/SOH 🇲🇾 - 🇩🇰 ASTRUP/RASMUSSEN
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T123000Z-badminton--3-
+DTSTAMP:20240805T123000Z
+DTSTART:20240805T123000Z
+DTEND:20240805T153000Z
+DESCRIPTION:Бадминтон - Матч за 3-е место, одиночный (м)\n🇲🇾 Zii Jia LEE
+SUMMARY:🏸 Матч за 3-е место, одиночный (м)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
 END:VCALENDAR

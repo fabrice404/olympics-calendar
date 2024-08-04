@@ -201,4 +201,13 @@ DESCRIPTION:バドミントン - 男子シングルス準決勝
 SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇲🇾 Zii Jia LEE
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T123000Z-badminton-
+DTSTAMP:20240805T123000Z
+DTSTART:20240805T123000Z
+DTEND:20240805T153000Z
+DESCRIPTION:バドミントン - 男子シングルス決勝戦\n🇹🇭 Kunlavut VITIDSARN
+SUMMARY:🏸 男子シングルス決勝戦
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
 END:VCALENDAR

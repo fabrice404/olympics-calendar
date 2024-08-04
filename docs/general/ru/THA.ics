@@ -1528,6 +1528,15 @@ SUMMARY:⛵ Кайт, гонка 08 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T123000Z-badminton--
+DTSTAMP:20240805T123000Z
+DTSTART:20240805T123000Z
+DTEND:20240805T153000Z
+DESCRIPTION:Бадминтон - Финал, одиночный (м)\n🇹🇭 Kunlavut VITIDSARN
+SUMMARY:🏸 Финал, одиночный (м)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T124000Z-sailing--09-
 DTSTAMP:20240805T124000Z
 DTSTART:20240805T124000Z
