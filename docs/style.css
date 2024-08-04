@@ -1751,6 +1751,9 @@ details.collapse summary::-webkit-details-marker {
 .inline-block {
   display: inline-block;
 }
+.flex {
+  display: flex;
+}
 .table {
   display: table;
 }
@@ -1762,6 +1765,9 @@ details.collapse summary::-webkit-details-marker {
 }
 .w-1\/4 {
   width: 25%;
+}
+.w-1\/6 {
+  width: 16.666667%;
 }
 .w-3\/5 {
   width: 60%;
@@ -1777,6 +1783,12 @@ details.collapse summary::-webkit-details-marker {
 }
 .min-w-24 {
   min-width: 6rem;
+}
+.flex-auto {
+  flex: 1 1 auto;
+}
+.flex-none {
+  flex: none;
 }
 .rounded-box {
   border-radius: var(--rounded-box, 1rem);
@@ -1912,4 +1924,16 @@ html {
 
 .red {
   color: #EE334E;
+}
+
+.gold {
+  color: #FFD700;
+}
+
+.silver {
+  color: #C0C0C0;
+}
+
+.bronze {
+  color: #CD7F32;
 }

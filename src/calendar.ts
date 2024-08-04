@@ -29,7 +29,7 @@ export class Calendar {
 
   private addSport(sportKey: string, sportName: string) {
     if (!this.sports.find(sport => sport.key === sportKey)) {
-      this.debug(`Adding sport: ${sportName} (${sportKey})`);
+      // this.debug(`Adding sport: ${sportName} (${sportKey})`);
       this.sports.push({
         key: sportKey,
         name: sportName,
@@ -40,7 +40,7 @@ export class Calendar {
 
   private addNOC(noc: string) {
     if (!this.nocs.includes(noc)) {
-      this.debug(`Adding NOC: ${noc}`);
+      // this.debug(`Adding NOC: ${noc}`);
       this.nocs.push(noc);
     }
   }
@@ -49,7 +49,7 @@ export class Calendar {
     this.addSport(sportKey, sportName);
     const sport = this.sports.find((sport) => sport.key === sportKey)!;
     if (!sport.NOCS.includes(noc)) {
-      this.debug(`Adding NOC: ${noc} to sport: ${sportKey}`);
+      // this.debug(`Adding NOC: ${noc} to sport: ${sportKey}`);
       sport.NOCS.push(noc);
     }
   };
@@ -63,6 +63,8 @@ export class Calendar {
 
     this.generateMainPage();
     this.generateTodaysPage();
+    this.genereateMedalsPage();
+
     this.generateCSS();
   }
 
@@ -72,7 +74,7 @@ export class Calendar {
   }
 
   private async downloadScheduleFromOfficialWebsite(sportKey: string) {
-    this.debug(`Checking cache for schedule for ${sportKey}`);
+    // this.debug(`Checking cache for schedule for ${sportKey}`);
     const cacheFile = `${__dirname}/../cache/${this.language}/${sportKey}.html`;
 
     if (!hasFile(cacheFile)) {
@@ -120,12 +122,20 @@ export class Calendar {
         const competitors = unit.competitors
           .filter((competitor: any) => competitor.noc && isValidNOC(competitor.noc))
           .sort((a: any, b: any) => a.order > b.order ? 1 : -1);
-        event._NOCS = competitors.map((competitor: any) => {
-          event._COMPETITORS.push({ noc: competitor.noc, name: competitor.name });
+
+        for (const competitor of competitors) {
           this.addSportNOC(sportKey, sportName, competitor.noc);
           this.addNOC(competitor.noc);
-          return competitor.noc;
-        });
+          event._COMPETITORS.push({ noc: competitor.noc, name: competitor.name });
+          if (!event._NOCS.includes(competitor.noc)) {
+            event._NOCS.push(competitor.noc);
+          }
+          switch (competitor.results?.medalType) {
+            case "ME_GOLD": this.medals.push({ name: competitor.name, noc: competitor.noc, sport: sportName, unit: unit.eventUnitName, date: unit.endDateTimeUtc, color: "gold" }); break;
+            case "ME_SILVER": this.medals.push({ name: competitor.name, noc: competitor.noc, sport: sportName, unit: unit.eventUnitName, date: unit.endDateTimeUtc, color: "silver" }); break;
+            case "ME_BRONZE": this.medals.push({ name: competitor.name, noc: competitor.noc, sport: sportName, unit: unit.eventUnitName, date: unit.endDateTimeUtc, color: "bronze" }); break;
+          }
+        }
 
         // two competitors, we put them in the summary
         if (competitors.length === 2) {
@@ -425,6 +435,82 @@ export class Calendar {
       this.language === "en" ?
         "docs/today.html" :
         `docs/${this.language}/today.html`,
+      output
+    );
+  }
+
+  private genereateMedalsPage() {
+    const table: any[] = [];
+    for (const medal of this.medals) {
+      if (!table.find((noc) => noc.noc === medal.noc)) {
+        table.push({ noc: medal.noc, gold: 0, silver: 0, bronze: 0 });
+      }
+      table.find((noc) => noc.noc === medal.noc)[medal.color] += 1;
+    }
+
+    const content: string[] = [];
+    content.push(`<div class="collapse bg-gray-100 mb-1">`);
+    content.push(`  <div class="flex collapse-title text-xl font-medium">`);
+    content.push(`    <span class="inline-block flex-auto"></span>`);
+    content.push(`    <span class="inline-block text-center w-1/6 flex-none gold">&#9679;</span>`);
+    content.push(`    <span class="inline-block text-center w-1/6 flex-none silver">&#9679;</span>`);
+    content.push(`    <span class="inline-block text-center w-1/6 flex-none bronze">&#9679;</span>`);
+    content.push(`    <span class="inline-block text-center w-1/6 flex-none">TOTAL</span>`);
+    content.push(`  </div>`);
+    content.push(`</div>`);
+
+    table.sort((a, b) => {
+      if (a.gold !== b.gold) {
+        return a.gold < b.gold ? 1 : -1;
+      }
+      if (a.silver !== b.silver) {
+        return a.silver < b.silver ? 1 : -1;
+      }
+      if (a.bronze !== b.bronze) {
+        return a.bronze < b.bronze ? 1 : -1;
+      }
+      return 0;
+    }).forEach((noc) => {
+      content.push(`<div class="collapse collapse-arrow bg-gray-100 mb-1">`);
+      content.push(`  <input type="radio" name="accordion">`);
+      content.push(`  <div class="flex collapse-title text-xl font-medium">`);
+      content.push(`    <span class="inline-block flex-auto">${getNOCFlag(noc.noc)} ${getNOCName(noc.noc)}</span>`);
+      content.push(`    <span class="inline-block text-center w-1/6 flex-none">${noc.gold}</span>`);
+      content.push(`    <span class="inline-block text-center w-1/6 flex-none">${noc.silver}</span>`);
+      content.push(`    <span class="inline-block text-center w-1/6 flex-none">${noc.bronze}</span>`);
+      content.push(`    <span class="inline-block text-center w-1/6 flex-none">${noc.gold + noc.silver + noc.bronze}</span>`);
+      content.push(`  </div>`);
+      content.push(`  <div class="collapse-content">`)
+      content.push(`  <table class="table-full">`);
+
+      let lastDate = "";
+      for (const medal of this.medals.filter((m) => m.noc === noc.noc).sort((a, b) => a.date > b.date ? -1 : 1)) {
+        let medalDate = medal.date.substring(0, 10);
+        if (medalDate !== lastDate) {
+          content.push(`    <tr><td colspan="3" class="font-medium">${medalDate}</td></tr>`);
+        }
+        lastDate = medalDate;
+
+        content.push(`    <tr>`);
+        content.push(`      <td class="${medal.color}">&#9679;</td>`);
+        content.push(`      <td>${medal.name}</td>`);
+        content.push(`      <td>${medal.sport} - ${medal.unit}</td>`);
+        content.push(`    </tr>`);
+      }
+      content.push(`  </table>`);
+      content.push(`  </div>`);
+      content.push(`</div>`);
+    })
+
+    const template = readFile(`${__dirname}/medals/template.html`);
+    const output = translate.translate(
+      template.replace("{{medals}}", content.join("\r\n")),
+      this.language,
+    );
+    saveFile(
+      this.language === "en" ?
+        "docs/medals.html" :
+        `docs/${this.language}/medals.html`,
       output
     );
   }

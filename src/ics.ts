@@ -12,7 +12,7 @@ const debug = Debug("paris2024:ics");
  * @param {object[]} events 
  */
 export const generateICS = (title: string, key: string, events: Event[]): void => {
-  debug(`Generating ICS file for ${title} (${key}) with ${events.length} events`);
+  // debug(`Generating ICS file for ${title} (${key}) with ${events.length} events`);
   const lines: string[] = [];
   lines.push("BEGIN:VCALENDAR");
   lines.push("VERSION:2.0");

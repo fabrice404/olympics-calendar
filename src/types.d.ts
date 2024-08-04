@@ -35,4 +35,7 @@ export interface Medal {
   color: "gold" | "silver" | "bronze";
   name: string;
   noc: string;
+  sport: string;
+  unit: string;
+  date: string;
 }
