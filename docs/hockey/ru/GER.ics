@@ -111,4 +111,13 @@ DESCRIPTION:Хоккей на траве - Четвертьфинал (ж)
 SUMMARY:🏑 Аргентина 🇦🇷 - 🇩🇪 Германия
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T170000Z-hockey---GER-IND
+DTSTAMP:20240806T170000Z
+DTSTART:20240806T170000Z
+DTEND:20240806T184500Z
+DESCRIPTION:Хоккей на траве - Полуфинал (м)
+SUMMARY:🏑 Германия 🇩🇪 - 🇮🇳 Индия
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
 END:VCALENDAR

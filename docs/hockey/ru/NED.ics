@@ -111,4 +111,13 @@ DESCRIPTION:Хоккей на траве - Четвертьфинал (ж)
 SUMMARY:🏑 Нидерланды 🇳🇱 - 🇬🇧 Великобритания
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T120000Z-hockey---NED-ESP
+DTSTAMP:20240806T120000Z
+DTSTART:20240806T120000Z
+DTEND:20240806T134500Z
+DESCRIPTION:Хоккей на траве - Полуфинал (м)
+SUMMARY:🏑 Нидерланды 🇳🇱 - 🇪🇸 Испания
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
 END:VCALENDAR
