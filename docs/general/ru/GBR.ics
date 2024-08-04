@@ -6122,6 +6122,17 @@ SUMMARY:🛶 Экстрим-слалом, четвертьфинал (м)
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T150000Z-cycling-track--
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T152700Z
+DESCRIPTION:Трековые велогонки - Командный спринт, квалификация (ж)\n🇬🇧
+  Великобритания\n🇩🇪 Германия\n🇨🇦 Канада\n🇨🇳 Китай\n🇲🇽
+  Мексика\n🇳🇱 Нидерланды\n🇳🇿 Новая Зеландия\n🇵🇱 Польша
+SUMMARY:🚴 Командный спринт, квалификация (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T150500Z-sailing--07-
 DTSTAMP:20240805T150500Z
 DTSTART:20240805T150500Z
@@ -6135,6 +6146,18 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 07 (ми�
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ Швертбот, гонка 07 (микст)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T152700Z-cycling-track--
+DTSTAMP:20240805T152700Z
+DTSTART:20240805T152700Z
+DTEND:20240805T165500Z
+DESCRIPTION:Трековые велогонки - Командная гонка преследования,
+  квалификация (м)\n🇦🇺 Австралия\n🇧🇪 Бельгия\n🇬🇧 Великобритания\n🇩🇪
+  Германия\n🇩🇰 Дания\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇿 Новая Зеландия\n🇫🇷
+  Франция\n🇯🇵 Япония
+SUMMARY:🚴 Командная гонка преследования, квалификация (м)
+LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T153000Z-hockey---NED-GBR
@@ -6159,6 +6182,17 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 08 (ми�
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ Швертбот, гонка 08 (микст)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170900Z-cycling-track--
+DTSTAMP:20240805T170900Z
+DTSTART:20240805T170900Z
+DTEND:20240805T174600Z
+DESCRIPTION:Трековые велогонки - Командный спринт, квалификация (м)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇨🇦 Канада\n🇨🇳
+  Китай\n🇳🇱 Нидерланды\n🇫🇷 Франция\n🇯🇵 Япония
+SUMMARY:🚴 Командный спринт, квалификация (м)
+LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T175500Z-athletics-200-1-

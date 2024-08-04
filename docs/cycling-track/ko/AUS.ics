@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//cycling-track/ko/AUS//EN
+X-WR-CALNAME:🇦🇺 Australia 사이클 트랙 | Paris 2024
+NAME:🇦🇺 Australia 사이클 트랙 | Paris 2024
+BEGIN:VEVENT
+UID:20240805T152700Z-cycling-track--
+DTSTAMP:20240805T152700Z
+DTSTART:20240805T152700Z
+DTEND:20240805T165500Z
+DESCRIPTION:사이클 트랙 - 남자 단체 추발, 예선\n🇳🇿 뉴질랜드\n🇩🇰 덴마크\n🇩🇪 독일\n🇧🇪
+  벨기에\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇦 캐나다\n🇫🇷 프랑스
+SUMMARY:🚴 남자 단체 추발, 예선
+LOCATION:국립 벨로드롬
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170900Z-cycling-track--
+DTSTAMP:20240805T170900Z
+DTSTART:20240805T170900Z
+DTEND:20240805T174600Z
+DESCRIPTION:사이클 트랙 - 남자 단체 스프린트, 예선\n🇳🇱 네덜란드\n🇩🇪 독일\n🇬🇧 영국\n🇦🇺
+  오스트레일리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇫🇷 프랑스
+SUMMARY:🚴 남자 단체 스프린트, 예선
+LOCATION:국립 벨로드롬
+END:VEVENT
+END:VCALENDAR

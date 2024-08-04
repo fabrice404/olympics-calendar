@@ -5114,6 +5114,17 @@ SUMMARY:⛵ 混合ディンギー - レース7
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T152700Z-cycling-track-
+DTSTAMP:20240805T152700Z
+DTSTART:20240805T152700Z
+DTEND:20240805T165500Z
+DESCRIPTION:自転車トラックレース - 男子チームパーシュート予選\n🇮🇹 イタリア\n🇦🇺 オーストラリア\n🇨🇦
+  カナダ\n🇩🇰 デンマーク\n🇩🇪 ドイツ\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇯🇵
+  日本\n🇬🇧 英国
+SUMMARY:🚴 男子チームパーシュート予選
+LOCATION:ヴェロドローム・ナシオナル
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T161200Z-sailing--8
 DTSTAMP:20240805T161200Z
 DTSTART:20240805T161200Z
@@ -5147,6 +5158,16 @@ DESCRIPTION:陸上競技 - 男子3000m障害予選\n🇯🇵 AOKI Ryoma\n🇰�
   RAITANEN\n🇩🇪 Velten SCHNEIDER\n🇮🇹 Yassin BOUIH
 SUMMARY:🏃 男子3000m障害予選
 LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170900Z-cycling-track-
+DTSTAMP:20240805T170900Z
+DTSTART:20240805T170900Z
+DTEND:20240805T174600Z
+DESCRIPTION:自転車トラックレース - 男子チームスプリント予選\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇨🇦
+  カナダ\n🇩🇪 ドイツ\n🇫🇷 フランス\n🇨🇳 中国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🚴 男子チームスプリント予選
+LOCATION:ヴェロドローム・ナシオナル
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T173000Z-artistic-swimming-

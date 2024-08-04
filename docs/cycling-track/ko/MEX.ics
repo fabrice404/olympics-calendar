@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//cycling-track/ko/MEX//EN
+X-WR-CALNAME:🇲🇽 Mexico 사이클 트랙 | Paris 2024
+NAME:🇲🇽 Mexico 사이클 트랙 | Paris 2024
+BEGIN:VEVENT
+UID:20240805T150000Z-cycling-track--
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T152700Z
+DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 예선\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇩🇪 독일\n🇲🇽
+  멕시코\n🇬🇧 영국\n🇨🇳 중국\n🇨🇦 캐나다\n🇵🇱 폴란드
+SUMMARY:🚴 여자 단체 스프린트, 예선
+LOCATION:국립 벨로드롬
+END:VEVENT
+END:VCALENDAR

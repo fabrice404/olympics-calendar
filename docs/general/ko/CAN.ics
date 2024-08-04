@@ -4747,6 +4747,26 @@ SUMMARY:🤸 여자 마루 운동 결승
 LOCATION:베르시 아레나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T150000Z-cycling-track--
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T152700Z
+DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 예선\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇩🇪 독일\n🇲🇽
+  멕시코\n🇬🇧 영국\n🇨🇳 중국\n🇨🇦 캐나다\n🇵🇱 폴란드
+SUMMARY:🚴 여자 단체 스프린트, 예선
+LOCATION:국립 벨로드롬
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T152700Z-cycling-track--
+DTSTAMP:20240805T152700Z
+DTSTART:20240805T152700Z
+DTEND:20240805T165500Z
+DESCRIPTION:사이클 트랙 - 남자 단체 추발, 예선\n🇳🇿 뉴질랜드\n🇩🇰 덴마크\n🇩🇪 독일\n🇧🇪
+  벨기에\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇦 캐나다\n🇫🇷 프랑스
+SUMMARY:🚴 남자 단체 추발, 예선
+LOCATION:국립 벨로드롬
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T160000Z-beach-volleyball--16-CAN-USA
 DTSTAMP:20240805T160000Z
 DTSTART:20240805T160000Z
@@ -4783,6 +4803,16 @@ DESCRIPTION:육상 - 남자 3000m 장애물 1라운드\n🇯🇵 AOKI Ryoma\n�
   RAITANEN\n🇩🇪 Velten SCHNEIDER\n🇮🇹 Yassin BOUIH
 SUMMARY:🏃 남자 3000m 장애물 1라운드
 LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170900Z-cycling-track--
+DTSTAMP:20240805T170900Z
+DTSTART:20240805T170900Z
+DTEND:20240805T174600Z
+DESCRIPTION:사이클 트랙 - 남자 단체 스프린트, 예선\n🇳🇱 네덜란드\n🇩🇪 독일\n🇬🇧 영국\n🇦🇺
+  오스트레일리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇫🇷 프랑스
+SUMMARY:🚴 남자 단체 스프린트, 예선
+LOCATION:국립 벨로드롬
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T173000Z-artistic-swimming--

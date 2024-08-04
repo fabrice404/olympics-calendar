@@ -5071,6 +5071,16 @@ SUMMARY:⛵ Men's Dinghy - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T150000Z-cycling-track-WOMENS-TEAM-SPRINT-QUALIFYING
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T152700Z
+DESCRIPTION:Cycling Track - Women's Team Sprint, Qualifying\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇩🇪 GER\n🇬🇧 GBR\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL
+SUMMARY:🚴 Women's Team Sprint, Qualifying
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T153000Z-hockey-WOMENS-QUARTER-FINAL-NED-GBR
 DTSTAMP:20240805T153000Z
 DTSTART:20240805T153000Z
@@ -5091,6 +5101,16 @@ DESCRIPTION:Athletics - Men's Pole Vault Final\n🇸🇪 Armand DUPLANTIS\n🇩�
   GUTTORMSEN\n🇱🇻 Valters KREISS
 SUMMARY:🏃 Men's Pole Vault Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170900Z-cycling-track-MENS-TEAM-SPRINT-QUALIFYING
+DTSTAMP:20240805T170900Z
+DTSTART:20240805T170900Z
+DTEND:20240805T174600Z
+DESCRIPTION:Cycling Track - Men's Team Sprint, Qualifying\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇯🇵 JPN\n🇳🇱 NED
+SUMMARY:🚴 Men's Team Sprint, Qualifying
+LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T183000Z-athletics-WOMENS-DISCUS-THROW-FINAL

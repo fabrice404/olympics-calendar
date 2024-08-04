@@ -28355,7 +28355,8 @@ UID:20240805T150000Z-cycling-track-
 DTSTAMP:20240805T150000Z
 DTSTART:20240805T150000Z
 DTEND:20240805T152700Z
-DESCRIPTION:场地自行车 - 女子团体争先赛资格赛
+DESCRIPTION:场地自行车 - 女子团体争先赛资格赛\n🇨🇳 中国\n🇨🇦 加拿大\n🇲🇽 墨西哥\n🇩🇪 德国\n🇳🇿
+  新西兰\n🇵🇱 波兰\n🇬🇧 英国\n🇳🇱 荷兰
 SUMMARY:🚴 女子团体争先赛资格赛
 LOCATION:圣康丁伊夫林自行车馆
 END:VEVENT
@@ -28397,7 +28398,8 @@ UID:20240805T152700Z-cycling-track-
 DTSTAMP:20240805T152700Z
 DTSTART:20240805T152700Z
 DTEND:20240805T165500Z
-DESCRIPTION:场地自行车 - 男子团体追逐赛资格赛
+DESCRIPTION:场地自行车 - 男子团体追逐赛资格赛\n🇩🇰 丹麦\n🇨🇦 加拿大\n🇩🇪 德国\n🇮🇹 意大利\n🇳🇿
+  新西兰\n🇯🇵 日本\n🇧🇪 比利时\n🇫🇷 法国\n🇦🇺 澳大利亚\n🇬🇧 英国
 SUMMARY:🚴 男子团体追逐赛资格赛
 LOCATION:圣康丁伊夫林自行车馆
 END:VEVENT
@@ -28544,7 +28546,8 @@ UID:20240805T170900Z-cycling-track-
 DTSTAMP:20240805T170900Z
 DTSTART:20240805T170900Z
 DTEND:20240805T174600Z
-DESCRIPTION:场地自行车 - 男子团体争先赛资格赛
+DESCRIPTION:场地自行车 - 男子团体争先赛资格赛\n🇨🇳 中国\n🇨🇦 加拿大\n🇩🇪 德国\n🇯🇵 日本\n🇫🇷
+  法国\n🇦🇺 澳大利亚\n🇬🇧 英国\n🇳🇱 荷兰
 SUMMARY:🚴 男子团体争先赛资格赛
 LOCATION:圣康丁伊夫林自行车馆
 END:VEVENT
@@ -33143,12 +33146,12 @@ SUMMARY:🥊 男子51公斤级 - 决赛
 LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T205100Z-boxing-54-
+UID:20240808T205100Z-boxing-54--CHN-TUR
 DTSTAMP:20240808T205100Z
 DTSTART:20240808T205100Z
 DTEND:20240808T210200Z
-DESCRIPTION:拳击 - 女子54公斤级 - 决赛\n🇨🇳 CHANG Yuan
-SUMMARY:🥊 女子54公斤级 - 决赛
+DESCRIPTION:拳击 - 女子54公斤级 - 决赛
+SUMMARY:🥊 CHANG Yuan 🇨🇳 - 🇹🇷 Hatice AKBAS
 LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT

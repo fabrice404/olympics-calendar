@@ -28387,7 +28387,8 @@ UID:20240805T150000Z-cycling-track-
 DTSTAMP:20240805T150000Z
 DTSTART:20240805T150000Z
 DTEND:20240805T152700Z
-DESCRIPTION:自転車トラックレース - 女子チームスプリント予選
+DESCRIPTION:自転車トラックレース - 女子チームスプリント予選\n🇳🇱 オランダ\n🇨🇦 カナダ\n🇩🇪 ドイツ\n🇳🇿
+  ニュージーランド\n🇵🇱 ポーランド\n🇲🇽 メキシコ\n🇨🇳 中国\n🇬🇧 英国
 SUMMARY:🚴 女子チームスプリント予選
 LOCATION:ヴェロドローム・ナシオナル
 END:VEVENT
@@ -28429,7 +28430,9 @@ UID:20240805T152700Z-cycling-track-
 DTSTAMP:20240805T152700Z
 DTSTART:20240805T152700Z
 DTEND:20240805T165500Z
-DESCRIPTION:自転車トラックレース - 男子チームパーシュート予選
+DESCRIPTION:自転車トラックレース - 男子チームパーシュート予選\n🇮🇹 イタリア\n🇦🇺 オーストラリア\n🇨🇦
+  カナダ\n🇩🇰 デンマーク\n🇩🇪 ドイツ\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇯🇵
+  日本\n🇬🇧 英国
 SUMMARY:🚴 男子チームパーシュート予選
 LOCATION:ヴェロドローム・ナシオナル
 END:VEVENT
@@ -28576,7 +28579,8 @@ UID:20240805T170900Z-cycling-track-
 DTSTAMP:20240805T170900Z
 DTSTART:20240805T170900Z
 DTEND:20240805T174600Z
-DESCRIPTION:自転車トラックレース - 男子チームスプリント予選
+DESCRIPTION:自転車トラックレース - 男子チームスプリント予選\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇨🇦
+  カナダ\n🇩🇪 ドイツ\n🇫🇷 フランス\n🇨🇳 中国\n🇯🇵 日本\n🇬🇧 英国
 SUMMARY:🚴 男子チームスプリント予選
 LOCATION:ヴェロドローム・ナシオナル
 END:VEVENT
@@ -33178,12 +33182,12 @@ SUMMARY:🥊 男子51kg級 - 決勝戦
 LOCATION:スタッド・ローラン・ギャロス
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T205100Z-boxing-54KG-
+UID:20240808T205100Z-boxing-54KG--CHN-TUR
 DTSTAMP:20240808T205100Z
 DTSTART:20240808T205100Z
 DTEND:20240808T210200Z
-DESCRIPTION:ボクシング - 女子54kg級 - 決勝戦\n🇨🇳 CHANG Yuan
-SUMMARY:🥊 女子54kg級 - 決勝戦
+DESCRIPTION:ボクシング - 女子54kg級 - 決勝戦
+SUMMARY:🥊 CHANG Yuan 🇨🇳 - 🇹🇷 Hatice AKBAS
 LOCATION:スタッド・ローラン・ギャロス
 END:VEVENT
 BEGIN:VEVENT

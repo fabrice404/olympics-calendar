@@ -28513,7 +28513,8 @@ UID:20240805T150000Z-cycling-track-WOMENS-TEAM-SPRINT-QUALIFYING
 DTSTAMP:20240805T150000Z
 DTSTART:20240805T150000Z
 DTEND:20240805T152700Z
-DESCRIPTION:Cycling Track - Women's Team Sprint, Qualifying
+DESCRIPTION:Cycling Track - Women's Team Sprint, Qualifying\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇩🇪 GER\n🇬🇧 GBR\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL
 SUMMARY:🚴 Women's Team Sprint, Qualifying
 LOCATION:National Velodrome
 END:VEVENT
@@ -28555,7 +28556,9 @@ UID:20240805T152700Z-cycling-track-MENS-TEAM-PURSUIT-QUALIFYING
 DTSTAMP:20240805T152700Z
 DTSTART:20240805T152700Z
 DTEND:20240805T165500Z
-DESCRIPTION:Cycling Track - Men's Team Pursuit, Qualifying
+DESCRIPTION:Cycling Track - Men's Team Pursuit, Qualifying\n🇦🇺 AUS\n🇧🇪
+  BEL\n🇨🇦 CAN\n🇩🇰 DEN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵
+  JPN\n🇳🇿 NZL
 SUMMARY:🚴 Men's Team Pursuit, Qualifying
 LOCATION:National Velodrome
 END:VEVENT
@@ -28703,7 +28706,8 @@ UID:20240805T170900Z-cycling-track-MENS-TEAM-SPRINT-QUALIFYING
 DTSTAMP:20240805T170900Z
 DTSTART:20240805T170900Z
 DTEND:20240805T174600Z
-DESCRIPTION:Cycling Track - Men's Team Sprint, Qualifying
+DESCRIPTION:Cycling Track - Men's Team Sprint, Qualifying\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇯🇵 JPN\n🇳🇱 NED
 SUMMARY:🚴 Men's Team Sprint, Qualifying
 LOCATION:National Velodrome
 END:VEVENT
@@ -33313,12 +33317,12 @@ SUMMARY:🥊 Men's 51kg - Final
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T205100Z-boxing-WOMENS-54KG-FINAL
+UID:20240808T205100Z-boxing-WOMENS-54KG-FINAL-CHN-TUR
 DTSTAMP:20240808T205100Z
 DTSTART:20240808T205100Z
 DTEND:20240808T210200Z
-DESCRIPTION:Boxing - Women's 54kg - Final\n🇨🇳 CHANG Yuan
-SUMMARY:🥊 Women's 54kg - Final
+DESCRIPTION:Boxing - Women's 54kg - Final
+SUMMARY:🥊 CHANG Yuan 🇨🇳 - 🇹🇷 Hatice AKBAS
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT

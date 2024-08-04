@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//cycling-track/zh/JPN//EN
+X-WR-CALNAME:🇯🇵 Japan 场地自行车 | Paris 2024
+NAME:🇯🇵 Japan 场地自行车 | Paris 2024
+BEGIN:VEVENT
+UID:20240805T152700Z-cycling-track-
+DTSTAMP:20240805T152700Z
+DTSTART:20240805T152700Z
+DTEND:20240805T165500Z
+DESCRIPTION:场地自行车 - 男子团体追逐赛资格赛\n🇩🇰 丹麦\n🇨🇦 加拿大\n🇩🇪 德国\n🇮🇹 意大利\n🇳🇿
+  新西兰\n🇯🇵 日本\n🇧🇪 比利时\n🇫🇷 法国\n🇦🇺 澳大利亚\n🇬🇧 英国
+SUMMARY:🚴 男子团体追逐赛资格赛
+LOCATION:圣康丁伊夫林自行车馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170900Z-cycling-track-
+DTSTAMP:20240805T170900Z
+DTSTART:20240805T170900Z
+DTEND:20240805T174600Z
+DESCRIPTION:场地自行车 - 男子团体争先赛资格赛\n🇨🇳 中国\n🇨🇦 加拿大\n🇩🇪 德国\n🇯🇵 日本\n🇫🇷
+  法国\n🇦🇺 澳大利亚\n🇬🇧 英国\n🇳🇱 荷兰
+SUMMARY:🚴 男子团体争先赛资格赛
+LOCATION:圣康丁伊夫林自行车馆
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//cycling-track/ru/NZL//EN
+X-WR-CALNAME:🇳🇿 New Zealand Трековые велогонки | Paris 2024
+NAME:🇳🇿 New Zealand Трековые велогонки | Paris 2024
+BEGIN:VEVENT
+UID:20240805T150000Z-cycling-track--
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T152700Z
+DESCRIPTION:Трековые велогонки - Командный спринт, квалификация (ж)\n🇬🇧
+  Великобритания\n🇩🇪 Германия\n🇨🇦 Канада\n🇨🇳 Китай\n🇲🇽
+  Мексика\n🇳🇱 Нидерланды\n🇳🇿 Новая Зеландия\n🇵🇱 Польша
+SUMMARY:🚴 Командный спринт, квалификация (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T152700Z-cycling-track--
+DTSTAMP:20240805T152700Z
+DTSTART:20240805T152700Z
+DTEND:20240805T165500Z
+DESCRIPTION:Трековые велогонки - Командная гонка преследования,
+  квалификация (м)\n🇦🇺 Австралия\n🇧🇪 Бельгия\n🇬🇧 Великобритания\n🇩🇪
+  Германия\n🇩🇰 Дания\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇿 Новая Зеландия\n🇫🇷
+  Франция\n🇯🇵 Япония
+SUMMARY:🚴 Командная гонка преследования, квалификация (м)
+LOCATION:Национальный велодром
+END:VEVENT
+END:VCALENDAR

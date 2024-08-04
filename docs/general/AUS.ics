@@ -6518,6 +6518,17 @@ SUMMARY:⛵ Mixed Dinghy - Race 7
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T152700Z-cycling-track-MENS-TEAM-PURSUIT-QUALIFYING
+DTSTAMP:20240805T152700Z
+DTSTART:20240805T152700Z
+DTEND:20240805T165500Z
+DESCRIPTION:Cycling Track - Men's Team Pursuit, Qualifying\n🇦🇺 AUS\n🇧🇪
+  BEL\n🇨🇦 CAN\n🇩🇰 DEN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵
+  JPN\n🇳🇿 NZL
+SUMMARY:🚴 Men's Team Pursuit, Qualifying
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T161200Z-sailing-MIXED-DINGHY-RACE-8
 DTSTAMP:20240805T161200Z
 DTSTART:20240805T161200Z
@@ -6565,6 +6576,16 @@ DESCRIPTION:Athletics - Men's 3000m Steeplechase Round 1\n🇯🇵 AOKI
   SCHNEIDER\n🇮🇹 Yassin BOUIH
 SUMMARY:🏃 Men's 3000m Steeplechase Round 1
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170900Z-cycling-track-MENS-TEAM-SPRINT-QUALIFYING
+DTSTAMP:20240805T170900Z
+DTSTART:20240805T170900Z
+DTEND:20240805T174600Z
+DESCRIPTION:Cycling Track - Men's Team Sprint, Qualifying\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇯🇵 JPN\n🇳🇱 NED
+SUMMARY:🚴 Men's Team Sprint, Qualifying
+LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T173000Z-artistic-swimming-TEAM-TECHNICAL-ROUTINE

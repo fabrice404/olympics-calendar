@@ -7018,6 +7018,17 @@ SUMMARY:🏓 Китай 🇨🇳 - 🇪🇬 Египет
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T150000Z-cycling-track--
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T152700Z
+DESCRIPTION:Трековые велогонки - Командный спринт, квалификация (ж)\n🇬🇧
+  Великобритания\n🇩🇪 Германия\n🇨🇦 Канада\n🇨🇳 Китай\n🇲🇽
+  Мексика\n🇳🇱 Нидерланды\n🇳🇿 Новая Зеландия\n🇵🇱 Польша
+SUMMARY:🚴 Командный спринт, квалификация (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T150500Z-sailing--07-
 DTSTAMP:20240805T150500Z
 DTSTART:20240805T150500Z
@@ -7059,6 +7070,17 @@ DESCRIPTION:Легкая атлетика - Прыжки с шестом, фин
   Sondre GUTTORMSEN\n🇱🇻 Valters KREISS
 SUMMARY:🏃 Прыжки с шестом, финал (м)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170900Z-cycling-track--
+DTSTAMP:20240805T170900Z
+DTSTART:20240805T170900Z
+DTEND:20240805T174600Z
+DESCRIPTION:Трековые велогонки - Командный спринт, квалификация (м)\n🇦🇺
+  Австралия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇨🇦 Канада\n🇨🇳
+  Китай\n🇳🇱 Нидерланды\n🇫🇷 Франция\n🇯🇵 Япония
+SUMMARY:🚴 Командный спринт, квалификация (м)
+LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T173000Z-artistic-swimming--
@@ -7555,12 +7577,12 @@ SUMMARY:🥊 LI Qian 🇨🇳 - 🇦🇺 Caitlin PARKER
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T205100Z-boxing--54-
+UID:20240808T205100Z-boxing--54--CHN-TUR
 DTSTAMP:20240808T205100Z
 DTSTART:20240808T205100Z
 DTEND:20240808T210200Z
-DESCRIPTION:Бокс - Финал, до 54кг (ж)\n🇨🇳 CHANG Yuan
-SUMMARY:🥊 Финал, до 54кг (ж)
+DESCRIPTION:Бокс - Финал, до 54кг (ж)
+SUMMARY:🥊 CHANG Yuan 🇨🇳 - 🇹🇷 Hatice AKBAS
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT

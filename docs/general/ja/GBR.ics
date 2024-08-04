@@ -6002,6 +6002,16 @@ SUMMARY:🛶 男子カヤッククロス準々決勝
 LOCATION:ノーティカル ST - ホワイトウォーター
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T150000Z-cycling-track-
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T152700Z
+DESCRIPTION:自転車トラックレース - 女子チームスプリント予選\n🇳🇱 オランダ\n🇨🇦 カナダ\n🇩🇪 ドイツ\n🇳🇿
+  ニュージーランド\n🇵🇱 ポーランド\n🇲🇽 メキシコ\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🚴 女子チームスプリント予選
+LOCATION:ヴェロドローム・ナシオナル
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T150500Z-sailing--7
 DTSTAMP:20240805T150500Z
 DTSTART:20240805T150500Z
@@ -6015,6 +6025,17 @@ DESCRIPTION:セーリング - 混合ディンギー - レース7\n🇬🇷 A SPA
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 混合ディンギー - レース7
 LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T152700Z-cycling-track-
+DTSTAMP:20240805T152700Z
+DTSTART:20240805T152700Z
+DTEND:20240805T165500Z
+DESCRIPTION:自転車トラックレース - 男子チームパーシュート予選\n🇮🇹 イタリア\n🇦🇺 オーストラリア\n🇨🇦
+  カナダ\n🇩🇰 デンマーク\n🇩🇪 ドイツ\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇯🇵
+  日本\n🇬🇧 英国
+SUMMARY:🚴 男子チームパーシュート予選
+LOCATION:ヴェロドローム・ナシオナル
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T153000Z-hockey--NED-GBR
@@ -6039,6 +6060,16 @@ DESCRIPTION:セーリング - 混合ディンギー - レース8\n🇬🇷 A SPA
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 混合ディンギー - レース8
 LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170900Z-cycling-track-
+DTSTAMP:20240805T170900Z
+DTSTART:20240805T170900Z
+DTEND:20240805T174600Z
+DESCRIPTION:自転車トラックレース - 男子チームスプリント予選\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇨🇦
+  カナダ\n🇩🇪 ドイツ\n🇫🇷 フランス\n🇨🇳 中国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🚴 男子チームスプリント予選
+LOCATION:ヴェロドローム・ナシオナル
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T175500Z-athletics-200M
