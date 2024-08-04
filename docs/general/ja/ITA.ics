@@ -5872,6 +5872,24 @@ SUMMARY:🏹 LEE Wooseok 🇰🇷 - 🇮🇹 Mauro NESPOLI
 LOCATION:アンヴァリッド
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T110000Z-shooting-25M2
+DTSTAMP:20240804T110000Z
+DTSTART:20240804T110000Z
+DTEND:20240804T150000Z
+DESCRIPTION:射撃 - 男子25mラピッドファイアピストル個人本選第2ステージ\n🇮🇳 Anish ANISH\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷 Clement BESSAGUET\n🇲🇳 Davaakhuu
+  ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪 Florian PETER\n🇵🇰 Ghulam Mustafa
+  BASHIR\n🇺🇸 Henry Turner LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge
+  ALVAREZ\n🇺🇸 Keith SANDERSON\n🇨🇳 LI Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦
+  Maksym HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿
+  Matej RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY
+  MOHAMED\n🇺🇦 Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo
+  MAZZETTI\n🇦🇿 Ruslan LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei
+  EVGLEVSKI\n🇮🇳 Vijayveer SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 男子25mラピッドファイアピストル個人本選第2ステージ
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T111200Z-sailing--6
 DTSTAMP:20240804T111200Z
 DTSTART:20240804T111200Z
@@ -6048,6 +6066,15 @@ DESCRIPTION:セーリング - 女子ディンギー - レース7\n🇧🇲 Adria
   Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ 女子ディンギー - レース7
 LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T125000Z-fencing--2-ITA-USA
+DTSTAMP:20240804T125000Z
+DTSTART:20240804T125000Z
+DTEND:20240804T140000Z
+DESCRIPTION:フェンシング - 男子フルーレ団体準決勝 2
+SUMMARY:🤺 イタリア 🇮🇹 - 🇺🇸 アメリカ合衆国
+LOCATION:グラン・パレ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T133000Z-canoe-slalom-

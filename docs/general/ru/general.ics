@@ -26673,7 +26673,17 @@ UID:20240804T110000Z-shooting--25-P-2-
 DTSTAMP:20240804T110000Z
 DTSTART:20240804T110000Z
 DTEND:20240804T150000Z
-DESCRIPTION:Стрельба - Скорострельный пистолет 25 м, Pаунд 2 (м)
+DESCRIPTION:Стрельба - Скорострельный пистолет 25 м, Pаунд 2 (м)\n🇮🇳
+  Anish ANISH\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷 Clement
+  BESSAGUET\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪 Florian
+  PETER\n🇵🇰 Ghulam Mustafa BASHIR\n🇺🇸 Henry Turner LEVERETT\n🇫🇷 Jean
+  QUIQUAMPOIX\n🇨🇺 Jorge ALVAREZ\n🇺🇸 Keith SANDERSON\n🇨🇳 LI
+  Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦 Maksym HORODYNETS\n🇨🇿 Martin
+  PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿 Matej RAMPULA\n🇰🇿 Nikita
+  CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY MOHAMED\n🇺🇦 Pavlo
+  KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo MAZZETTI\n🇦🇿 Ruslan
+  LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei EVGLEVSKI\n🇮🇳 Vijayveer
+  SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
 SUMMARY:🔫 Скорострельный пистолет 25 м, Pаунд 2 (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
@@ -26802,12 +26812,12 @@ SUMMARY:🏹 Brady ELLISON 🇺🇸 - 🇰🇷 KIM Je Deok
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T114000Z-fencing--5-8-
+UID:20240804T114000Z-fencing--5-8--EGY-POL
 DTSTAMP:20240804T114000Z
 DTSTART:20240804T114000Z
 DTEND:20240804T125000Z
 DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (м)
-SUMMARY:🤺 Командная рапира, за 5-8 места (м)
+SUMMARY:🤺 Египет 🇪🇬 - 🇵🇱 Польша
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -27001,21 +27011,21 @@ SUMMARY:🏹 Финал, индивидуальные (м)
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T125000Z-fencing--2--ITA-USA
+DTSTAMP:20240804T125000Z
+DTSTART:20240804T125000Z
+DTEND:20240804T140000Z
+DESCRIPTION:Фехтование - Командная рапира, полуфинал 2 (м)
+SUMMARY:🤺 Италия 🇮🇹 - 🇺🇸 США
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T125000Z-fencing--1-
 DTSTAMP:20240804T125000Z
 DTSTART:20240804T125000Z
 DTEND:20240804T140000Z
 DESCRIPTION:Фехтование - Командная рапира, полуфинал 1 (м)\n🇯🇵 Япония
 SUMMARY:🤺 Командная рапира, полуфинал 1 (м)
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T125000Z-fencing--2-
-DTSTAMP:20240804T125000Z
-DTSTART:20240804T125000Z
-DTEND:20240804T140000Z
-DESCRIPTION:Фехтование - Командная рапира, полуфинал 2 (м)
-SUMMARY:🤺 Командная рапира, полуфинал 2 (м)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -28255,21 +28265,21 @@ SUMMARY:🤸 Вольные упражнения, финал (ж)
 LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T123000Z-badminton--3-
+UID:20240805T123000Z-badminton---THA-DEN
 DTSTAMP:20240805T123000Z
 DTSTART:20240805T123000Z
 DTEND:20240805T153000Z
-DESCRIPTION:Бадминтон - Матч за 3-е место, одиночный (м)\n🇲🇾 Zii Jia LEE
-SUMMARY:🏸 Матч за 3-е место, одиночный (м)
+DESCRIPTION:Бадминтон - Финал, одиночный (м)
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇩🇰 Viktor AXELSEN
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T123000Z-badminton--
+UID:20240805T123000Z-badminton--3--MAS-IND
 DTSTAMP:20240805T123000Z
 DTSTART:20240805T123000Z
 DTEND:20240805T153000Z
-DESCRIPTION:Бадминтон - Финал, одиночный (м)\n🇹🇭 Kunlavut VITIDSARN
-SUMMARY:🏸 Финал, одиночный (м)
+DESCRIPTION:Бадминтон - Матч за 3-е место, одиночный (м)
+SUMMARY:🏸 Zii Jia LEE 🇲🇾 - 🇮🇳 Lakshya SEN
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
@@ -31733,7 +31743,7 @@ UID:20240807T203400Z-boxing--635-
 DTSTAMP:20240807T203400Z
 DTSTART:20240807T203400Z
 DTEND:20240807T204500Z
-DESCRIPTION:Бокс - Финал, до 63,5кг (м)
+DESCRIPTION:Бокс - Финал, до 63,5кг (м)\n🇫🇷 Sofiane OUMIHA
 SUMMARY:🥊 Финал, до 63,5кг (м)
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT

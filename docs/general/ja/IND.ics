@@ -1735,6 +1735,24 @@ SUMMARY:⛵ 男子ディンギー - レース7
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T110000Z-shooting-25M2
+DTSTAMP:20240804T110000Z
+DTSTART:20240804T110000Z
+DTEND:20240804T150000Z
+DESCRIPTION:射撃 - 男子25mラピッドファイアピストル個人本選第2ステージ\n🇮🇳 Anish ANISH\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷 Clement BESSAGUET\n🇲🇳 Davaakhuu
+  ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪 Florian PETER\n🇵🇰 Ghulam Mustafa
+  BASHIR\n🇺🇸 Henry Turner LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge
+  ALVAREZ\n🇺🇸 Keith SANDERSON\n🇨🇳 LI Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦
+  Maksym HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿
+  Matej RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY
+  MOHAMED\n🇺🇦 Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo
+  MAZZETTI\n🇦🇿 Ruslan LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei
+  EVGLEVSKI\n🇮🇳 Vijayveer SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 男子25mラピッドファイアピストル個人本選第2ステージ
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T111300Z-sailing--8
 DTSTAMP:20240804T111300Z
 DTSTART:20240804T111300Z
@@ -1881,6 +1899,15 @@ DESCRIPTION:セーリング - 女子ディンギー - レース10\n🇧🇲 Adri
   Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ 女子ディンギー - レース10
 LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T123000Z-badminton-3-MAS-IND
+DTSTAMP:20240805T123000Z
+DTSTART:20240805T123000Z
+DTEND:20240805T153000Z
+DESCRIPTION:バドミントン - 男子シングルス3位決定戦
+SUMMARY:🏸 Zii Jia LEE 🇲🇾 - 🇮🇳 Lakshya SEN
+LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T124000Z-sailing--9
