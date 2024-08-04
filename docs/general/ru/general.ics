@@ -26642,13 +26642,12 @@ SUMMARY:⛵ Кайт, гонка 02 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T110000Z-archery-14-
+UID:20240804T110000Z-archery-14--KOR-ITA
 DTSTAMP:20240804T110000Z
 DTSTART:20240804T110000Z
 DTEND:20240804T111300Z
-DESCRIPTION:Стрельба из лука - 1/4 финала, индивидуальные (м)\n🇰🇷 LEE
-  Wooseok
-SUMMARY:🏹 1/4 финала, индивидуальные (м)
+DESCRIPTION:Стрельба из лука - 1/4 финала, индивидуальные (м)
+SUMMARY:🏹 LEE Wooseok 🇰🇷 - 🇮🇹 Mauro NESPOLI
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
@@ -27713,15 +27712,6 @@ SUMMARY:🔫 Скорострельный пистолет 25м, финал (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T074500Z-badminton--
-DTSTAMP:20240805T074500Z
-DTSTART:20240805T074500Z
-DTEND:20240805T094500Z
-DESCRIPTION:Бадминтон - Финалы, одиночный (ж)
-SUMMARY:🏸 Финалы, одиночный (ж)
-LOCATION:Арена «Ла-Шапель»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T074500Z-badminton--3-
 DTSTAMP:20240805T074500Z
 DTSTART:20240805T074500Z
@@ -28655,7 +28645,11 @@ UID:20240805T170000Z-athletics--
 DTSTAMP:20240805T170000Z
 DTSTART:20240805T170000Z
 DTEND:20240805T192700Z
-DESCRIPTION:Легкая атлетика - Прыжки с шестом, финал (м)
+DESCRIPTION:Легкая атлетика - Прыжки с шестом, финал (м)\n🇸🇪 Armand
+  DUPLANTIS\n🇩🇪 Bo Kanda LITA BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest
+  John OBIENA\n🇹🇷 Ersu SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis
+  MARSCHALL\n🇳🇱 Menno VLOON\n🇩🇪 Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴
+  Sondre GUTTORMSEN\n🇱🇻 Valters KREISS
 SUMMARY:🏃 Прыжки с шестом, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
