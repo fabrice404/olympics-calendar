@@ -26954,13 +26954,12 @@ SUMMARY:🏓 Truls MOREGARD 🇸🇪 - 🇨🇳 FAN Zhendong
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T123300Z-archery--3-
+UID:20240804T123300Z-archery--3--KOR-GER
 DTSTAMP:20240804T123300Z
 DTSTART:20240804T123300Z
 DTEND:20240804T124600Z
-DESCRIPTION:Стрельба из лука - Матч за 3-е место, индивидуальные (м)\n🇰🇷
-  LEE Wooseok
-SUMMARY:🏹 Матч за 3-е место, индивидуальные (м)
+DESCRIPTION:Стрельба из лука - Матч за 3-е место, индивидуальные (м)
+SUMMARY:🏹 LEE Wooseok 🇰🇷 - 🇩🇪 Florian UNRUH
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
@@ -27003,12 +27002,12 @@ SUMMARY:⛵ Швертбот, гонка 07 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T124600Z-archery--
+UID:20240804T124600Z-archery---KOR-USA
 DTSTAMP:20240804T124600Z
 DTSTART:20240804T124600Z
 DTEND:20240804T125900Z
-DESCRIPTION:Стрельба из лука - Финал, индивидуальные (м)\n🇰🇷 KIM Woojin
-SUMMARY:🏹 Финал, индивидуальные (м)
+DESCRIPTION:Стрельба из лука - Финал, индивидуальные (м)
+SUMMARY:🏹 KIM Woojin 🇰🇷 - 🇺🇸 Brady ELLISON
 LOCATION:Дом инвалидов
 END:VEVENT
 BEGIN:VEVENT
@@ -27159,21 +27158,21 @@ SUMMARY:🥊 Ashleyann LOZADA MOTTA 🇵🇷 - 🇵🇱 Julia SZEREMETA
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T140000Z-fencing--5-
-DTSTAMP:20240804T140000Z
-DTSTART:20240804T140000Z
-DTEND:20240804T151000Z
-DESCRIPTION:Фехтование - Командная рапира, за 5-е место (м)
-SUMMARY:🤺 Командная рапира, за 5-е место (м)
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T140000Z-fencing--7-
+UID:20240804T140000Z-fencing--7--EGY-CAN
 DTSTAMP:20240804T140000Z
 DTSTART:20240804T140000Z
 DTEND:20240804T151000Z
 DESCRIPTION:Фехтование - Командная рапира, за 7-е место (м)
-SUMMARY:🤺 Командная рапира, за 7-е место (м)
+SUMMARY:🤺 Египет 🇪🇬 - 🇨🇦 Канада
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T140000Z-fencing--5--CHN-POL
+DTSTAMP:20240804T140000Z
+DTSTART:20240804T140000Z
+DTEND:20240804T151000Z
+DESCRIPTION:Фехтование - Командная рапира, за 5-е место (м)
+SUMMARY:🤺 Китай 🇨🇳 - 🇵🇱 Польша
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
