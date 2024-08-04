@@ -291,4 +291,13 @@ DESCRIPTION:Бадминтон - 1/2 финала, одиночный (ж)
 SUMMARY:🏸 AN Se Young 🇰🇷 - 🇮🇩 Gregoria Mariska TUNJUNG
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T074500Z-badminton--
+DTSTAMP:20240805T074500Z
+DTSTART:20240805T074500Z
+DTEND:20240805T103000Z
+DESCRIPTION:Бадминтон - Финал, одиночный (ж)\n🇰🇷 AN Se Young
+SUMMARY:🏸 Финал, одиночный (ж)
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
 END:VCALENDAR

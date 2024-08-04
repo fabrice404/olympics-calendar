@@ -3,4 +3,14 @@ VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/INA//EN
 X-WR-CALNAME:🇮🇩 Indonesia 🏅 | Paris 2024
 NAME:🇮🇩 Indonesia 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240805T074500Z-badminton-WOMENS-SINGLES-BRONZE-MEDAL-MATCH
+DTSTAMP:20240805T074500Z
+DTSTART:20240805T074500Z
+DTEND:20240805T103000Z
+DESCRIPTION:Badminton - Women's Singles Bronze Medal Match\n🇮🇩 Gregoria
+  Mariska TUNJUNG
+SUMMARY:🏸 Women's Singles Bronze Medal Match
+LOCATION:La Chapelle Arena
+END:VEVENT
 END:VCALENDAR

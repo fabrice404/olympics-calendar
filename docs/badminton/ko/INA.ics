@@ -183,4 +183,13 @@ DESCRIPTION:배드민턴 - 여자 단식 준결승
 SUMMARY:🏸 AN Se Young 🇰🇷 - 🇮🇩 Gregoria Mariska TUNJUNG
 LOCATION:라 샤펠 아레나
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T074500Z-badminton--
+DTSTAMP:20240805T074500Z
+DTSTART:20240805T074500Z
+DTEND:20240805T103000Z
+DESCRIPTION:배드민턴 - 여자 단식 동메달 결정전\n🇮🇩 Gregoria Mariska TUNJUNG
+SUMMARY:🏸 여자 단식 동메달 결정전
+LOCATION:라 샤펠 아레나
+END:VEVENT
 END:VCALENDAR
