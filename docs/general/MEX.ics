@@ -2117,6 +2117,17 @@ SUMMARY:⛵ Women's Dinghy - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T173000Z-artistic-swimming-TEAM-TECHNICAL-ROUTINE
+DTSTAMP:20240805T173000Z
+DTSTART:20240805T173000Z
+DTEND:20240805T184300Z
+DESCRIPTION:Artistic Swimming - Team Technical Routine\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸
+  ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Technical Routine
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T080000Z-diving-MENS-3M-SPRINGBOARD-PRELIMINARY
 DTSTAMP:20240806T080000Z
 DTSTART:20240806T080000Z
@@ -2131,6 +2142,16 @@ DESCRIPTION:Diving - Men's 3m Springboard Preliminary\n🇺🇸 Andrew
   IBARRA\n🇯🇵 SAKAI Sho\n🇨🇳 WANG Zongyuan\n🇰🇷 WOO Haram\n🇨🇳 XIE
   Siyi\n🇰🇷 YI Jaegyeong\n🇯🇲 Yona KNIGHT-WISDOM
 SUMMARY:🏊 Men's 3m Springboard Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T173000Z-artistic-swimming-TEAM-FREE-ROUTINE
+DTSTAMP:20240806T173000Z
+DTSTART:20240806T173000Z
+DTEND:20240806T185000Z
+DESCRIPTION:Artistic Swimming - Team Free Routine\n🇦🇺 AUS\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Free Routine
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
@@ -2158,6 +2179,17 @@ DESCRIPTION:Diving - Women's 3m Springboard Preliminary\n🇲🇽 Alejandra
   BACON\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇺🇦 Viktoriya
   KESAR\n🇬🇧 Yasmin HARPER
 SUMMARY:🏊 Women's 3m Springboard Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming-TEAM-ACROBATIC-ROUTINE
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:Artistic Swimming - Team Acrobatic Routine\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸
+  ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Acrobatic Routine
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT

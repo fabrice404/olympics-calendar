@@ -686,4 +686,15 @@ DESCRIPTION:競泳 - 女子4×100mメドレーリレー決勝\n🇺🇸 アメ�
 SUMMARY:🏊 女子4×100mメドレーリレー決勝
 LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming-
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:アーティスティックスイミング - チームアクロバティックルーティン\n🇺🇸 アメリカ合衆国\n🇮🇹
+  イタリア\n🇪🇬 エジプト\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽
+  メキシコ\n🇨🇳 中国\n🇯🇵 日本
+SUMMARY:🏊 チームアクロバティックルーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
 END:VCALENDAR

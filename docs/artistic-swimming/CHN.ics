@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//artistic-swimming/CHN//EN
+X-WR-CALNAME:🇨🇳 China Artistic Swimming | Paris 2024
+NAME:🇨🇳 China Artistic Swimming | Paris 2024
+BEGIN:VEVENT
+UID:20240805T173000Z-artistic-swimming-TEAM-TECHNICAL-ROUTINE
+DTSTAMP:20240805T173000Z
+DTSTART:20240805T173000Z
+DTEND:20240805T184300Z
+DESCRIPTION:Artistic Swimming - Team Technical Routine\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸
+  ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Technical Routine
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T173000Z-artistic-swimming-TEAM-FREE-ROUTINE
+DTSTAMP:20240806T173000Z
+DTSTART:20240806T173000Z
+DTEND:20240806T185000Z
+DESCRIPTION:Artistic Swimming - Team Free Routine\n🇦🇺 AUS\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Free Routine
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming-TEAM-ACROBATIC-ROUTINE
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:Artistic Swimming - Team Acrobatic Routine\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸
+  ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Acrobatic Routine
+LOCATION:Aquatics Centre
+END:VEVENT
+END:VCALENDAR

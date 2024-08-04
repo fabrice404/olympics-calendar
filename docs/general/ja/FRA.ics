@@ -8045,6 +8045,22 @@ SUMMARY:🏃 女子棒高跳予選
 LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T085000Z-athletics-400M
+DTSTAMP:20240805T085000Z
+DTSTART:20240805T085000Z
+DTEND:20240805T090700Z
+DESCRIPTION:陸上競技 - 女子400mハードル敗者復活戦\n🇦🇺 Alanah YUKICH\n🇮🇹 Alice
+  MURARO\n🇺🇦 Anna RYZHYKOVA\n🇮🇹 Ayomide FOLORUNSO\n🇩🇪 Carolina
+  KRAFZIK\n🇧🇷 Chayenne da SILVA\n🇵🇦 Gianna WOODRUFF\n🇵🇷 Grace
+  CLAXTON\n🇬🇧 Jessie KNIGHT\n🇵🇭 Lauren HOFFMAN\n🇨🇲 Linda
+  ANGOUNOU\n🇳🇴 Line KLOSTER\n🇨🇳 MO Jiadie\n🇧🇪 Naomi van den
+  BROECK\n🇨🇿 Nikoleta JICHOVA\n🇮🇹 Rebecca SARTORI\n🇦🇺 Sarah
+  CARLI\n🇫🇷 Shana GREBO\n🇫🇮 Viivi LEHIKOINEN\n🇺🇦 Viktoriya
+  TKACHUK\n🇨🇭 Yasmin GIGER
+SUMMARY:🏃 女子400mハードル敗者復活戦
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T100300Z-sailing--5
 DTSTAMP:20240805T100300Z
 DTSTART:20240805T100300Z
@@ -8383,6 +8399,17 @@ SUMMARY:🏃 男子3000m障害予選
 LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T173000Z-artistic-swimming-
+DTSTAMP:20240805T173000Z
+DTSTART:20240805T173000Z
+DTEND:20240805T184300Z
+DESCRIPTION:アーティスティックスイミング - チームテクニカルルーティン\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇪🇬
+  エジプト\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇯🇵 日本
+SUMMARY:🏊 チームテクニカルルーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T175500Z-athletics-200M
 DTSTAMP:20240805T175500Z
 DTSTART:20240805T175500Z
@@ -8703,6 +8730,17 @@ SUMMARY:🏀 フランス 🇫🇷 - 🇨🇦 カナダ
 LOCATION:ベルシー・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T173000Z-artistic-swimming-
+DTSTAMP:20240806T173000Z
+DTSTART:20240806T173000Z
+DTEND:20240806T185000Z
+DESCRIPTION:アーティスティックスイミング - チームフリールーティン\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇪🇬
+  エジプト\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇯🇵 日本
+SUMMARY:🏊 チームフリールーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T191400Z-athletics-3000
 DTSTAMP:20240806T191400Z
 DTSTART:20240806T191400Z
@@ -8839,6 +8877,17 @@ DESCRIPTION:セーリング - 女子カイト - レース16\n🇦🇹 Alina KORN
   Maria Catalina TURIENZO
 SUMMARY:⛵ 女子カイト - レース16
 LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming-
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:アーティスティックスイミング - チームアクロバティックルーティン\n🇺🇸 アメリカ合衆国\n🇮🇹
+  イタリア\n🇪🇬 エジプト\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽
+  メキシコ\n🇨🇳 中国\n🇯🇵 日本
+SUMMARY:🏊 チームアクロバティックルーティン
+LOCATION:アクアティックス・センター
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T201800Z-boxing-92KG--FRA-ESP

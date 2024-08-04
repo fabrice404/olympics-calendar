@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//artistic-swimming/zh/MEX//EN
+X-WR-CALNAME:🇲🇽 Mexico 花样游泳 | Paris 2024
+NAME:🇲🇽 Mexico 花样游泳 | Paris 2024
+BEGIN:VEVENT
+UID:20240805T173000Z-artistic-swimming-
+DTSTAMP:20240805T173000Z
+DTSTART:20240805T173000Z
+DTEND:20240805T184300Z
+DESCRIPTION:花样游泳 - 团体技术自选\n🇨🇳 中国\n🇨🇦 加拿大\n🇪🇬 埃及\n🇲🇽 墨西哥\n🇮🇹
+  意大利\n🇯🇵 日本\n🇫🇷 法国\n🇦🇺 澳大利亚\n🇺🇸 美国\n🇪🇸 西班牙
+SUMMARY:🏊 团体技术自选
+LOCATION:水上运动中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T173000Z-artistic-swimming-
+DTSTAMP:20240806T173000Z
+DTSTART:20240806T173000Z
+DTEND:20240806T185000Z
+DESCRIPTION:花样游泳 - 团体自由自选\n🇨🇳 中国\n🇨🇦 加拿大\n🇪🇬 埃及\n🇲🇽 墨西哥\n🇮🇹
+  意大利\n🇯🇵 日本\n🇫🇷 法国\n🇦🇺 澳大利亚\n🇺🇸 美国\n🇪🇸 西班牙
+SUMMARY:🏊 团体自由自选
+LOCATION:水上运动中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming-
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:花样游泳 - 集体技巧自选\n🇨🇳 中国\n🇨🇦 加拿大\n🇪🇬 埃及\n🇲🇽 墨西哥\n🇮🇹
+  意大利\n🇯🇵 日本\n🇫🇷 法国\n🇦🇺 澳大利亚\n🇺🇸 美国\n🇪🇸 西班牙
+SUMMARY:🏊 集体技巧自选
+LOCATION:水上运动中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-artistic-swimming-
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T191300Z
+DESCRIPTION:花样游泳 - 双人技术自选\n🇨🇳 中国\n🇺🇦 乌克兰\n🇮🇱 以色列\n🇨🇦 加拿大\n🇪🇬
+  埃及\n🇲🇽 墨西哥\n🇦🇹 奥地利\n🇬🇷 希腊\n🇮🇹 意大利\n🇳🇿 新西兰\n🇯🇵 日本\n🇫🇷
+  法国\n🇦🇺 澳大利亚\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰\n🇪🇸 西班牙\n🇰🇷 韩国
+SUMMARY:🏊 双人技术自选
+LOCATION:水上运动中心
+END:VEVENT
+END:VCALENDAR

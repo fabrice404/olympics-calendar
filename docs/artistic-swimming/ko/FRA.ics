@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//artistic-swimming/ko/FRA//EN
+X-WR-CALNAME:🇫🇷 France 아티스틱 스위밍 | Paris 2024
+NAME:🇫🇷 France 아티스틱 스위밍 | Paris 2024
+BEGIN:VEVENT
+UID:20240805T173000Z-artistic-swimming--
+DTSTAMP:20240805T173000Z
+DTSTART:20240805T173000Z
+DTEND:20240805T184300Z
+DESCRIPTION:아티스틱 스위밍 - 단체 테크니컬루틴\n🇲🇽 멕시코\n🇺🇸 미국\n🇪🇸 스페인\n🇦🇺
+  오스트레일리아\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇫🇷 프랑스
+SUMMARY:🏊 단체 테크니컬루틴
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T173000Z-artistic-swimming--
+DTSTAMP:20240806T173000Z
+DTSTART:20240806T173000Z
+DTEND:20240806T185000Z
+DESCRIPTION:아티스틱 스위밍 - 단체 프리루틴\n🇲🇽 멕시코\n🇺🇸 미국\n🇪🇸 스페인\n🇦🇺
+  오스트레일리아\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇫🇷 프랑스
+SUMMARY:🏊 단체 프리루틴
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming--
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:아티스틱 스위밍 - 단체 아크로바틱루틴\n🇲🇽 멕시코\n🇺🇸 미국\n🇪🇸 스페인\n🇦🇺
+  오스트레일리아\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇫🇷 프랑스
+SUMMARY:🏊 단체 아크로바틱루틴
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-artistic-swimming--
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T191300Z
+DESCRIPTION:아티스틱 스위밍 - 듀엣 테크니컬루틴\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇰🇷
+  대한민국\n🇲🇽 멕시코\n🇺🇸 미국\n🇪🇸 스페인\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇦🇹
+  오스트리아\n🇺🇦 우크라이나\n🇮🇱 이스라엘\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦
+  캐나다\n🇫🇷 프랑스
+SUMMARY:🏊 듀엣 테크니컬루틴
+LOCATION:아쿠아틱 센터
+END:VEVENT
+END:VCALENDAR

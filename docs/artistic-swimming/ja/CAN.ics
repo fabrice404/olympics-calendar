@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//artistic-swimming/ja/CAN//EN
+X-WR-CALNAME:🇨🇦 Canada アーティスティックスイミング | Paris 2024
+NAME:🇨🇦 Canada アーティスティックスイミング | Paris 2024
+BEGIN:VEVENT
+UID:20240805T173000Z-artistic-swimming-
+DTSTAMP:20240805T173000Z
+DTSTART:20240805T173000Z
+DTEND:20240805T184300Z
+DESCRIPTION:アーティスティックスイミング - チームテクニカルルーティン\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇪🇬
+  エジプト\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇯🇵 日本
+SUMMARY:🏊 チームテクニカルルーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T173000Z-artistic-swimming-
+DTSTAMP:20240806T173000Z
+DTSTART:20240806T173000Z
+DTEND:20240806T185000Z
+DESCRIPTION:アーティスティックスイミング - チームフリールーティン\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇪🇬
+  エジプト\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇯🇵 日本
+SUMMARY:🏊 チームフリールーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming-
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:アーティスティックスイミング - チームアクロバティックルーティン\n🇺🇸 アメリカ合衆国\n🇮🇹
+  イタリア\n🇪🇬 エジプト\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽
+  メキシコ\n🇨🇳 中国\n🇯🇵 日本
+SUMMARY:🏊 チームアクロバティックルーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+END:VCALENDAR

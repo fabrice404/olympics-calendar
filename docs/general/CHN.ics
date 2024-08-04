@@ -6646,6 +6646,22 @@ SUMMARY:🏃 Women's Pole Vault Qualification
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T085000Z-athletics-WOMENS-400M-HURDLES-REPECHAGE-ROUND
+DTSTAMP:20240805T085000Z
+DTSTART:20240805T085000Z
+DTEND:20240805T090700Z
+DESCRIPTION:Athletics - Women's 400m Hurdles Repechage Round\n🇦🇺 Alanah
+  YUKICH\n🇮🇹 Alice MURARO\n🇺🇦 Anna RYZHYKOVA\n🇮🇹 Ayomide
+  FOLORUNSO\n🇩🇪 Carolina KRAFZIK\n🇧🇷 Chayenne da SILVA\n🇵🇦 Gianna
+  WOODRUFF\n🇵🇷 Grace CLAXTON\n🇬🇧 Jessie KNIGHT\n🇵🇭 Lauren
+  HOFFMAN\n🇨🇲 Linda ANGOUNOU\n🇳🇴 Line KLOSTER\n🇨🇳 MO Jiadie\n🇧🇪
+  Naomi van den BROECK\n🇨🇿 Nikoleta JICHOVA\n🇮🇹 Rebecca SARTORI\n🇦🇺
+  Sarah CARLI\n🇫🇷 Shana GREBO\n🇫🇮 Viivi LEHIKOINEN\n🇺🇦 Viktoriya
+  TKACHUK\n🇨🇭 Yasmin GIGER
+SUMMARY:🏃 Women's 400m Hurdles Repechage Round
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T085500Z-badminton-WOMENS-SINGLES-GOLD-MEDAL-MATCH-KOR-CHN
 DTSTAMP:20240805T085500Z
 DTSTART:20240805T085500Z
@@ -6943,6 +6959,17 @@ SUMMARY:🏃 Men's Pole Vault Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T173000Z-artistic-swimming-TEAM-TECHNICAL-ROUTINE
+DTSTAMP:20240805T173000Z
+DTSTART:20240805T173000Z
+DTEND:20240805T184300Z
+DESCRIPTION:Artistic Swimming - Team Technical Routine\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸
+  ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Technical Routine
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T183000Z-athletics-WOMENS-DISCUS-THROW-FINAL
 DTSTAMP:20240805T183000Z
 DTSTART:20240805T183000Z
@@ -7200,6 +7227,16 @@ SUMMARY:⛵ Mixed Multihull - Race 12
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T173000Z-artistic-swimming-TEAM-FREE-ROUTINE
+DTSTAMP:20240806T173000Z
+DTSTART:20240806T173000Z
+DTEND:20240806T185000Z
+DESCRIPTION:Artistic Swimming - Team Free Routine\n🇦🇺 AUS\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Free Routine
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T175700Z-athletics-WOMENS-HAMMER-THROW-FINAL
 DTSTAMP:20240806T175700Z
 DTSTART:20240806T175700Z
@@ -7392,6 +7429,17 @@ DESCRIPTION:Diving - Women's 3m Springboard Preliminary\n🇲🇽 Alejandra
   BACON\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇺🇦 Viktoriya
   KESAR\n🇬🇧 Yasmin HARPER
 SUMMARY:🏊 Women's 3m Springboard Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming-TEAM-ACROBATIC-ROUTINE
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:Artistic Swimming - Team Acrobatic Routine\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸
+  ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Acrobatic Routine
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
