@@ -93,4 +93,13 @@ DESCRIPTION:Гандбол - Предварительный этап, групп
 SUMMARY:🤾 Испания 🇪🇸 - 🇭🇷 Хорватия
 LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T073000Z-handball---ESP-EGY
+DTSTAMP:20240807T073000Z
+DTSTART:20240807T073000Z
+DTEND:20240807T093000Z
+DESCRIPTION:Гандбол - Четвертьфинал (м)
+SUMMARY:🤾 Испания 🇪🇸 - 🇪🇬 Египет
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
 END:VCALENDAR

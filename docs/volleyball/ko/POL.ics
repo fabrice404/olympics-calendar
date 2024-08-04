@@ -66,4 +66,13 @@ DESCRIPTION:배구 - 남자 8강
 SUMMARY:🏐 슬로베니아 🇸🇮 - 🇵🇱 폴란드
 LOCATION:사우스 파리 아레나 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T150000Z-volleyball--8-USA-POL
+DTSTAMP:20240806T150000Z
+DTSTART:20240806T150000Z
+DTEND:20240806T171500Z
+DESCRIPTION:배구 - 여자 8강
+SUMMARY:🏐 미국 🇺🇸 - 🇵🇱 폴란드
+LOCATION:사우스 파리 아레나 1
+END:VEVENT
 END:VCALENDAR

@@ -102,4 +102,13 @@ DESCRIPTION:핸드볼 - 여자 8강
 SUMMARY:🤾 프랑스 🇫🇷 - 🇩🇪 독일
 LOCATION:피에르 모루아 스타디움
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T113000Z-handball--8-GER-FRA
+DTSTAMP:20240807T113000Z
+DTSTART:20240807T113000Z
+DTEND:20240807T133000Z
+DESCRIPTION:핸드볼 - 남자 8강
+SUMMARY:🤾 독일 🇩🇪 - 🇫🇷 프랑스
+LOCATION:피에르 모루아 스타디움
+END:VEVENT
 END:VCALENDAR

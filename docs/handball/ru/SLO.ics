@@ -93,4 +93,13 @@ DESCRIPTION:Гандбол - Предварительный этап, групп
 SUMMARY:🤾 Германия 🇩🇪 - 🇸🇮 Словения
 LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T193000Z-handball---NOR-SLO
+DTSTAMP:20240807T193000Z
+DTSTART:20240807T193000Z
+DTEND:20240807T213000Z
+DESCRIPTION:Гандбол - Четвертьфинал (м)
+SUMMARY:🤾 Норвегия 🇳🇴 - 🇸🇮 Словения
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
 END:VCALENDAR

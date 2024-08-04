@@ -57,4 +57,13 @@ DESCRIPTION:Волейбол - Групповой этап - Группа A (ж)
 SUMMARY:🏐 Китай 🇨🇳 - 🇷🇸 Сербия
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T190000Z-volleyball-14--ITA-SRB
+DTSTAMP:20240806T190000Z
+DTSTART:20240806T190000Z
+DTEND:20240806T211500Z
+DESCRIPTION:Волейбол - 1/4 финала (ж)
+SUMMARY:🏐 Италия 🇮🇹 - 🇷🇸 Сербия
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
 END:VCALENDAR

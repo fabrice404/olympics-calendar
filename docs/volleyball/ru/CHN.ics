@@ -30,4 +30,13 @@ DESCRIPTION:Волейбол - Групповой этап - Группа A (ж)
 SUMMARY:🏐 Китай 🇨🇳 - 🇷🇸 Сербия
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T070000Z-volleyball-14--CHN-TUR
+DTSTAMP:20240806T070000Z
+DTSTART:20240806T070000Z
+DTEND:20240806T091500Z
+DESCRIPTION:Волейбол - 1/4 финала (ж)
+SUMMARY:🏐 Китай 🇨🇳 - 🇹🇷 Турция
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
 END:VCALENDAR

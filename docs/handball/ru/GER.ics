@@ -102,4 +102,13 @@ DESCRIPTION:Гандбол - Четвертьфинал (ж)
 SUMMARY:🤾 Франция 🇫🇷 - 🇩🇪 Германия
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T113000Z-handball---GER-FRA
+DTSTAMP:20240807T113000Z
+DTSTART:20240807T113000Z
+DTEND:20240807T133000Z
+DESCRIPTION:Гандбол - Четвертьфинал (м)
+SUMMARY:🤾 Германия 🇩🇪 - 🇫🇷 Франция
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
 END:VCALENDAR
