@@ -4344,10 +4344,10 @@ SUMMARY:🏃 여자 400m 허들 1라운드
 LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T105300Z-sailing--2
-DTSTAMP:20240804T105300Z
-DTSTART:20240804T105300Z
-DTEND:20240804T111000Z
+UID:20240804T103800Z-sailing--2
+DTSTAMP:20240804T103800Z
+DTSTART:20240804T103800Z
+DTEND:20240804T105500Z
 DESCRIPTION:요트 - 남자 카이트 - 레이스 2\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
   Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
   Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
@@ -4356,6 +4356,21 @@ DESCRIPTION:요트 - 남자 카이트 - 레이스 2\n🇫🇷 Axel MAZELLA\n🇧
   MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
   Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ 남자 카이트 - 레이스 2
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T110300Z-sailing--3
+DTSTAMP:20240804T110300Z
+DTSTART:20240804T110300Z
+DTEND:20240804T112000Z
+DESCRIPTION:요트 - 남자 카이트 - 레이스 3\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
+  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
+  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
+  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
+  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ 남자 카이트 - 레이스 3
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
@@ -4397,6 +4412,21 @@ SUMMARY:⛵ 남자 딩기 - 레이스 8
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T112800Z-sailing--4
+DTSTAMP:20240804T112800Z
+DTSTART:20240804T112800Z
+DTEND:20240804T114500Z
+DESCRIPTION:요트 - 남자 카이트 - 레이스 4\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
+  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
+  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
+  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
+  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ 남자 카이트 - 레이스 4
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T113000Z-table-tennis---BRA-FRA
 DTSTAMP:20240804T113000Z
 DTSTART:20240804T113000Z
@@ -4404,21 +4434,6 @@ DTEND:20240804T123000Z
 DESCRIPTION:탁구 - 남자 단식 동메달 결정전
 SUMMARY:🏓 Hugo CALDERANO 🇧🇷 - 🇫🇷 Felix LEBRUN
 LOCATION:사우스 파리 아레나 4
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T113300Z-sailing--3
-DTSTAMP:20240804T113300Z
-DTSTART:20240804T113300Z
-DTEND:20240804T115000Z
-DESCRIPTION:요트 - 남자 카이트 - 레이스 3\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
-  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
-  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
-  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
-  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
-  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 남자 카이트 - 레이스 3
-LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road--
@@ -4458,21 +4473,6 @@ DESCRIPTION:사이클 도로 - 여자 도로경기\n🇵🇱 Agnieszka SKALNIAK-
   HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 여자 도로경기
 LOCATION:트로카데로
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T121300Z-sailing--4
-DTSTAMP:20240804T121300Z
-DTSTART:20240804T121300Z
-DTEND:20240804T123000Z
-DESCRIPTION:요트 - 남자 카이트 - 레이스 4\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
-  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
-  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
-  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
-  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
-  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 남자 카이트 - 레이스 4
-LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T123500Z-sailing--7

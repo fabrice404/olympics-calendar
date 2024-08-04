@@ -5827,10 +5827,10 @@ SUMMARY:🏃 여자 400m 허들 1라운드
 LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T105300Z-sailing--2
-DTSTAMP:20240804T105300Z
-DTSTART:20240804T105300Z
-DTEND:20240804T111000Z
+UID:20240804T103800Z-sailing--2
+DTSTAMP:20240804T103800Z
+DTSTART:20240804T103800Z
+DTEND:20240804T105500Z
 DESCRIPTION:요트 - 남자 카이트 - 레이스 2\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
   Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
   Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
@@ -5839,6 +5839,22 @@ DESCRIPTION:요트 - 남자 카이트 - 레이스 2\n🇫🇷 Axel MAZELLA\n🇧
   MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
   Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ 남자 카이트 - 레이스 2
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T105800Z-sailing--2
+DTSTAMP:20240804T105800Z
+DTSTART:20240804T105800Z
+DTEND:20240804T111500Z
+DESCRIPTION:요트 - 여자 카이트 - 레이스 2\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
+  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ 여자 카이트 - 레이스 2
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
@@ -5869,6 +5885,21 @@ SUMMARY:🔫 남자 25m 속사권총 예선-스테이지 2
 LOCATION:샤토루 사격 센터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T110300Z-sailing--3
+DTSTAMP:20240804T110300Z
+DTSTART:20240804T110300Z
+DTEND:20240804T112000Z
+DESCRIPTION:요트 - 남자 카이트 - 레이스 3\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
+  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
+  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
+  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
+  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ 남자 카이트 - 레이스 3
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T111200Z-sailing--6
 DTSTAMP:20240804T111200Z
 DTSTART:20240804T111200Z
@@ -5881,22 +5912,6 @@ DESCRIPTION:요트 - 혼성 딩기 - 레이스 6\n🇬🇷 A SPANAKI/O SPANAKIS\
   MRAK/BOZIC\n🇺🇸 McNAY/DALLMAN-WE\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 혼성 딩기 - 레이스 6
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T111300Z-sailing--2
-DTSTAMP:20240804T111300Z
-DTSTART:20240804T111300Z
-DTEND:20240804T113000Z
-DESCRIPTION:요트 - 여자 카이트 - 레이스 2\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
-  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
-  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ 여자 카이트 - 레이스 2
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
@@ -5923,25 +5938,10 @@ SUMMARY:⛵ 남자 딩기 - 레이스 8
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T113300Z-sailing--3
-DTSTAMP:20240804T113300Z
-DTSTART:20240804T113300Z
-DTEND:20240804T115000Z
-DESCRIPTION:요트 - 남자 카이트 - 레이스 3\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
-  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
-  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
-  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
-  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
-  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 남자 카이트 - 레이스 3
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T115300Z-sailing--3
-DTSTAMP:20240804T115300Z
-DTSTART:20240804T115300Z
-DTEND:20240804T121000Z
+UID:20240804T112300Z-sailing--3
+DTSTAMP:20240804T112300Z
+DTSTART:20240804T112300Z
+DTEND:20240804T114000Z
 DESCRIPTION:요트 - 여자 카이트 - 레이스 3\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
   LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
   Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -5951,6 +5951,37 @@ DESCRIPTION:요트 - 여자 카이트 - 레이스 3\n🇦🇹 Alina KORNELLI\n�
   MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
   Maria Catalina TURIENZO
 SUMMARY:⛵ 여자 카이트 - 레이스 3
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T112800Z-sailing--4
+DTSTAMP:20240804T112800Z
+DTSTART:20240804T112800Z
+DTEND:20240804T114500Z
+DESCRIPTION:요트 - 남자 카이트 - 레이스 4\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
+  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
+  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
+  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
+  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ 남자 카이트 - 레이스 4
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T114800Z-sailing--4
+DTSTAMP:20240804T114800Z
+DTSTART:20240804T114800Z
+DTEND:20240804T120500Z
+DESCRIPTION:요트 - 여자 카이트 - 레이스 4\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
+  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ 여자 카이트 - 레이스 4
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
@@ -5991,37 +6022,6 @@ DESCRIPTION:사이클 도로 - 여자 도로경기\n🇵🇱 Agnieszka SKALNIAK-
   HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 여자 도로경기
 LOCATION:트로카데로
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T121300Z-sailing--4
-DTSTAMP:20240804T121300Z
-DTSTART:20240804T121300Z
-DTEND:20240804T123000Z
-DESCRIPTION:요트 - 남자 카이트 - 레이스 4\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
-  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
-  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
-  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
-  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
-  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 남자 카이트 - 레이스 4
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T123300Z-sailing--4
-DTSTAMP:20240804T123300Z
-DTSTART:20240804T123300Z
-DTEND:20240804T125000Z
-DESCRIPTION:요트 - 여자 카이트 - 레이스 4\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
-  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
-  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ 여자 카이트 - 레이스 4
-LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T123500Z-sailing--7

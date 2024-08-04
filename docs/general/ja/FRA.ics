@@ -7473,10 +7473,10 @@ SUMMARY:🥊 Wyatt SANFORD 🇨🇦 - 🇫🇷 Sofiane OUMIHA
 LOCATION:ノース・パリ・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T105300Z-sailing--2
-DTSTAMP:20240804T105300Z
-DTSTART:20240804T105300Z
-DTEND:20240804T111000Z
+UID:20240804T103800Z-sailing--2
+DTSTAMP:20240804T103800Z
+DTSTART:20240804T103800Z
+DTEND:20240804T105500Z
 DESCRIPTION:セーリング - 男子カイト - レース2\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
   Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
   Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
@@ -7485,6 +7485,22 @@ DESCRIPTION:セーリング - 男子カイト - レース2\n🇫🇷 Axel MAZELL
   MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
   Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ 男子カイト - レース2
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T105800Z-sailing--2
+DTSTAMP:20240804T105800Z
+DTSTART:20240804T105800Z
+DTEND:20240804T111500Z
+DESCRIPTION:セーリング - 女子カイト - レース2\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
+  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ 女子カイト - レース2
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -7515,6 +7531,21 @@ SUMMARY:🔫 男子25mラピッドファイアピストル個人本選第2ステ
 LOCATION:シャトールー射撃センター
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T110300Z-sailing--3
+DTSTAMP:20240804T110300Z
+DTSTART:20240804T110300Z
+DTEND:20240804T112000Z
+DESCRIPTION:セーリング - 男子カイト - レース3\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
+  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
+  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
+  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
+  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ 男子カイト - レース3
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T111200Z-sailing--6
 DTSTAMP:20240804T111200Z
 DTSTART:20240804T111200Z
@@ -7527,22 +7558,6 @@ DESCRIPTION:セーリング - 混合ディンギー - レース6\n🇬🇷 A SPA
   MRAK/BOZIC\n🇺🇸 McNAY/DALLMAN-WE\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 混合ディンギー - レース6
-LOCATION:マルセイユ・マリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T111300Z-sailing--2
-DTSTAMP:20240804T111300Z
-DTSTART:20240804T111300Z
-DTEND:20240804T113000Z
-DESCRIPTION:セーリング - 女子カイト - レース2\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
-  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
-  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ 女子カイト - レース2
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -7569,6 +7584,22 @@ SUMMARY:⛵ 男子ディンギー - レース8
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T112300Z-sailing--3
+DTSTAMP:20240804T112300Z
+DTSTART:20240804T112300Z
+DTEND:20240804T114000Z
+DESCRIPTION:セーリング - 女子カイト - レース3\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
+  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ 女子カイト - レース3
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T112600Z-archery--GER-FRA
 DTSTAMP:20240804T112600Z
 DTSTART:20240804T112600Z
@@ -7576,6 +7607,21 @@ DTEND:20240804T113900Z
 DESCRIPTION:アーチェリー - 男子個人準々決勝
 SUMMARY:🏹 Florian UNRUH 🇩🇪 - 🇫🇷 Baptiste ADDIS
 LOCATION:アンヴァリッド
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T112800Z-sailing--4
+DTSTAMP:20240804T112800Z
+DTSTART:20240804T112800Z
+DTEND:20240804T114500Z
+DESCRIPTION:セーリング - 男子カイト - レース4\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
+  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
+  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
+  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
+  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
+  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ 男子カイト - レース4
+LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T113000Z-table-tennis-3-BRA-FRA
@@ -7587,26 +7633,11 @@ SUMMARY:🏓 Hugo CALDERANO 🇧🇷 - 🇫🇷 Felix LEBRUN
 LOCATION:サウス・パリ・アリーナ4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T113300Z-sailing--3
-DTSTAMP:20240804T113300Z
-DTSTART:20240804T113300Z
-DTEND:20240804T115000Z
-DESCRIPTION:セーリング - 男子カイト - レース3\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
-  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
-  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
-  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
-  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
-  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 男子カイト - レース3
-LOCATION:マルセイユ・マリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T115300Z-sailing--3
-DTSTAMP:20240804T115300Z
-DTSTART:20240804T115300Z
-DTEND:20240804T121000Z
-DESCRIPTION:セーリング - 女子カイト - レース3\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
+UID:20240804T114800Z-sailing--4
+DTSTAMP:20240804T114800Z
+DTSTART:20240804T114800Z
+DTEND:20240804T120500Z
+DESCRIPTION:セーリング - 女子カイト - レース4\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
   LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
   Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
   ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
@@ -7614,7 +7645,7 @@ DESCRIPTION:セーリング - 女子カイト - レース3\n🇦🇹 Alina KORNE
   PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
   MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
   Maria Catalina TURIENZO
-SUMMARY:⛵ 女子カイト - レース3
+SUMMARY:⛵ 女子カイト - レース4
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -7655,37 +7686,6 @@ DESCRIPTION:自転車ロードレース - 女子ロードレース\n🇵🇱 Agn
   HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 女子ロードレース
 LOCATION:トロカベロ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T121300Z-sailing--4
-DTSTAMP:20240804T121300Z
-DTSTART:20240804T121300Z
-DTEND:20240804T123000Z
-DESCRIPTION:セーリング - 男子カイト - レース4\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno LOBO\n🇬🇧
-  Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳 HUANG
-  Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph Jonathan
-  WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas WALTON-KEIM\n🇵🇱
-  Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin DOLENC\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger TYSON\n🇸🇮 Toni VODISEK\n🇦🇹
-  Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ 男子カイト - レース4
-LOCATION:マルセイユ・マリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T123300Z-sailing--4
-DTSTAMP:20240804T123300Z
-DTSTART:20240804T123300Z
-DTEND:20240804T125000Z
-DESCRIPTION:セーリング - 女子カイト - レース4\n🇦🇹 Alina KORNELLI\n🇳🇱 Annelous
-  LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳 CHEN
-  Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ 女子カイト - レース4
-LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T123500Z-sailing--7

@@ -901,10 +901,10 @@ SUMMARY:⛵ Кайт, гонка 01 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T105300Z-sailing--02-
-DTSTAMP:20240804T105300Z
-DTSTART:20240804T105300Z
-DTEND:20240804T111000Z
+UID:20240804T103800Z-sailing--02-
+DTSTAMP:20240804T103800Z
+DTSTART:20240804T103800Z
+DTEND:20240804T105500Z
 DESCRIPTION:Парусный спорт - Кайт, гонка 02 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
   Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
   ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
@@ -913,6 +913,21 @@ DESCRIPTION:Парусный спорт - Кайт, гонка 02 (м)\n🇫🇷
   DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
   TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ Кайт, гонка 02 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T110300Z-sailing--03-
+DTSTAMP:20240804T110300Z
+DTSTART:20240804T110300Z
+DTEND:20240804T112000Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 03 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
+  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
+  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
+  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Кайт, гонка 03 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
@@ -940,18 +955,18 @@ SUMMARY:⛵ Швертбот, гонка 08 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T113300Z-sailing--03-
-DTSTAMP:20240804T113300Z
-DTSTART:20240804T113300Z
-DTEND:20240804T115000Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 03 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
+UID:20240804T112800Z-sailing--04-
+DTSTAMP:20240804T112800Z
+DTSTART:20240804T112800Z
+DTEND:20240804T114500Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 04 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
   Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
   ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
   Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
   WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
   DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
   TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Кайт, гонка 03 (м)
+SUMMARY:⛵ Кайт, гонка 04 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
@@ -992,21 +1007,6 @@ DESCRIPTION:Шоссейные велогонки - Групповая гонк�
   Yanina KUSKOVA\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 Групповая гонка (ж)
 LOCATION:Трокадеро
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T121300Z-sailing--04-
-DTSTAMP:20240804T121300Z
-DTSTART:20240804T121300Z
-DTEND:20240804T123000Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 04 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
-  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
-  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
-  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Кайт, гонка 04 (м)
-LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T123500Z-sailing--07-
