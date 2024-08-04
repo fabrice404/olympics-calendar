@@ -846,6 +846,15 @@ SUMMARY:🏊 1500м вольным стилем, финал (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T183000Z-fencing---ITA-JPN
+DTSTAMP:20240804T183000Z
+DTSTART:20240804T183000Z
+DTEND:20240804T194000Z
+DESCRIPTION:Фехтование - Командная рапира, финал (м)
+SUMMARY:🤺 Италия 🇮🇹 - 🇯🇵 Япония
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T060000Z-triathlon--
 DTSTAMP:20240805T060000Z
 DTSTART:20240805T060000Z
@@ -857,6 +866,17 @@ DESCRIPTION:Триатлон - Смешанная эстафета\n🇦🇺 А�
   Франция\n🇨🇭 Швейцария
 SUMMARY:🏊 Смешанная эстафета
 LOCATION:Мост Александра III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T073000Z-shooting--25-
+DTSTAMP:20240805T073000Z
+DTSTART:20240805T073000Z
+DTEND:20240805T083000Z
+DESCRIPTION:Стрельба - Скорострельный пистолет 25м, финал (м)\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Florian PETER\n🇨🇳 LI Yuehong\n🇮🇹 Massimo
+  SPINELLA\n🇺🇦 Pavlo KOROSTYLOV\n🇨🇳 WANG Xinjie
+SUMMARY:🔫 Скорострельный пистолет 25м, финал (м)
+LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T103800Z-artistic-gymnastics--
