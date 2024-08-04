@@ -30,4 +30,13 @@ DESCRIPTION:Баскетбол - Групповой этап, группа С (�
 SUMMARY:🏀 Япония 🇯🇵 - 🇧🇪 Бельгия
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T123000Z-basketball-14--ESP-BEL
+DTSTAMP:20240807T123000Z
+DTSTART:20240807T123000Z
+DTEND:20240807T141500Z
+DESCRIPTION:Баскетбол - 1/4 финала (ж)
+SUMMARY:🏀 Испания 🇪🇸 - 🇧🇪 Бельгия
+LOCATION:Арена «Берси»
+END:VEVENT
 END:VCALENDAR

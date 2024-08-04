@@ -66,4 +66,13 @@ DESCRIPTION:バスケットボール - 男子準々決勝
 SUMMARY:🏀 ドイツ 🇩🇪 - 🇬🇷 ギリシャ
 LOCATION:ベルシー・アリーナ
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T160000Z-basketball--GER-FRA
+DTSTAMP:20240807T160000Z
+DTSTART:20240807T160000Z
+DTEND:20240807T174500Z
+DESCRIPTION:バスケットボール - 女子準々決勝
+SUMMARY:🏀 ドイツ 🇩🇪 - 🇫🇷 フランス
+LOCATION:ベルシー・アリーナ
+END:VEVENT
 END:VCALENDAR
