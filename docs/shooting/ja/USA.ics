@@ -429,4 +429,15 @@ DESCRIPTION:射撃 - 女子スキート個人ファイナル\n🇬🇧 Amber Jo 
 SUMMARY:🔫 女子スキート個人ファイナル
 LOCATION:シャトールー射撃センター
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T070000Z-shooting-
+DTSTAMP:20240805T070000Z
+DTSTART:20240805T070000Z
+DTEND:20240805T113000Z
+DESCRIPTION:射撃 - 混合スキート団体本選\n🇦🇺 AUS\n🇨🇳 CHN\n🇨🇿 CZE\n🇫🇷 FRA\n🇩🇪
+  GER\n🇬🇷 GRE\n🇮🇳 IND\n🇮🇹 Italy 1\n🇮🇹 Italy 2\n🇰🇿 KAZ\n🇰🇷
+  KOR\n🇵🇪 PER\n🇸🇪 SWE\n🇺🇸 United States 1\n🇺🇸 United States 2
+SUMMARY:🔫 混合スキート団体本選
+LOCATION:シャトールー射撃センター
+END:VEVENT
 END:VCALENDAR

@@ -88,4 +88,15 @@ DESCRIPTION:射击 - 女子双向飞碟资格赛 - 第2天\n🇦🇺 Aislin JONE
 SUMMARY:🔫 女子双向飞碟资格赛 - 第2天
 LOCATION:沙托鲁射击中心
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T070000Z-shooting-
+DTSTAMP:20240805T070000Z
+DTSTART:20240805T070000Z
+DTEND:20240805T113000Z
+DESCRIPTION:射击 - 混合团体双向飞碟资格赛\n🇦🇺 AUS\n🇨🇳 CHN\n🇨🇿 CZE\n🇫🇷 FRA\n🇩🇪
+  GER\n🇬🇷 GRE\n🇮🇳 IND\n🇮🇹 Italy 1\n🇮🇹 Italy 2\n🇰🇿 KAZ\n🇰🇷
+  KOR\n🇵🇪 PER\n🇸🇪 SWE\n🇺🇸 United States 1\n🇺🇸 United States 2
+SUMMARY:🔫 混合团体双向飞碟资格赛
+LOCATION:沙托鲁射击中心
+END:VEVENT
 END:VCALENDAR

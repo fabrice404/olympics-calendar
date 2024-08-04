@@ -2868,6 +2868,25 @@ SUMMARY:🚴 Групповая гонка (ж)
 LOCATION:Трокадеро
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T123300Z-archery--3-
+DTSTAMP:20240804T123300Z
+DTSTART:20240804T123300Z
+DTEND:20240804T124600Z
+DESCRIPTION:Стрельба из лука - Матч за 3-е место, индивидуальные (м)\n🇰🇷
+  LEE Wooseok
+SUMMARY:🏹 Матч за 3-е место, индивидуальные (м)
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T124600Z-archery--
+DTSTAMP:20240804T124600Z
+DTSTART:20240804T124600Z
+DTEND:20240804T125900Z
+DESCRIPTION:Стрельба из лука - Финал, индивидуальные (м)\n🇰🇷 KIM Woojin
+SUMMARY:🏹 Финал, индивидуальные (м)
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T142400Z-artistic-gymnastics--
 DTSTAMP:20240804T142400Z
 DTSTART:20240804T142400Z
@@ -2887,6 +2906,18 @@ DTEND:20240804T144500Z
 DESCRIPTION:Бокс - Полуфинал, до 54кг (ж)
 SUMMARY:🥊 Hatice AKBAS 🇹🇷 - 🇰🇷 IM Aeji
 LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T070000Z-shooting--
+DTSTAMP:20240805T070000Z
+DTSTART:20240805T070000Z
+DTEND:20240805T113000Z
+DESCRIPTION:Стрельба - Скит, квалификация (микст)\n🇦🇺 AUS\n🇨🇳 CHN\n🇨🇿
+  CZE\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇷 GRE\n🇮🇳 IND\n🇮🇹 Italy 1\n🇮🇹 Italy
+  2\n🇰🇿 KAZ\n🇰🇷 KOR\n🇵🇪 PER\n🇸🇪 SWE\n🇺🇸 United States 1\n🇺🇸
+  United States 2
+SUMMARY:🔫 Скит, квалификация (микст)
+LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T080000Z-diving--10-

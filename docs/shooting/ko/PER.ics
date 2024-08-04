@@ -88,4 +88,15 @@ DESCRIPTION:사격 - 여자 스키트 예선 - 2일차\n🇦🇺 Aislin JONES\n�
 SUMMARY:🔫 여자 스키트 예선 - 2일차
 LOCATION:샤토루 사격 센터
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T070000Z-shooting--
+DTSTAMP:20240805T070000Z
+DTSTART:20240805T070000Z
+DTEND:20240805T113000Z
+DESCRIPTION:사격 - 혼성 단체 스키트 예선\n🇦🇺 AUS\n🇨🇳 CHN\n🇨🇿 CZE\n🇫🇷 FRA\n🇩🇪
+  GER\n🇬🇷 GRE\n🇮🇳 IND\n🇮🇹 Italy 1\n🇮🇹 Italy 2\n🇰🇿 KAZ\n🇰🇷
+  KOR\n🇵🇪 PER\n🇸🇪 SWE\n🇺🇸 United States 1\n🇺🇸 United States 2
+SUMMARY:🔫 혼성 단체 스키트 예선
+LOCATION:샤토루 사격 센터
+END:VEVENT
 END:VCALENDAR
