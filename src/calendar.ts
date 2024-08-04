@@ -517,9 +517,9 @@ export class Calendar {
 
   private generateCSS() {
     postcss([autoprefixer, tailwindcss])
-      .process(readFile(`${__dirname}/index/template.css`), { from: "index/template.css", to: "docs/style.css" })
+      .process(readFile(`${__dirname}/index/template.css`), { from: "index/template.css", to: "docs/main.css" })
       .then((result) => {
-        saveFile("docs/style.css", result.css);
+        saveFile("docs/main.css", result.css);
       });
     ;
   }
