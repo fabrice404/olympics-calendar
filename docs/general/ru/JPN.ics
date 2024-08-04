@@ -4995,6 +4995,27 @@ SUMMARY:🏓 Польша 🇵🇱 - 🇯🇵 Япония
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T080500Z-athletics-400-1-
+DTSTAMP:20240805T080500Z
+DTSTART:20240805T080500Z
+DTEND:20240805T083800Z
+DESCRIPTION:Легкая атлетика - 400м с/б, раунд 1 (м)\n🇶🇦 Abderrahman
+  SAMBA\n🇬🇧 Alastair CHALMERS\n🇮🇹 Alessandro SIBILIO\n🇧🇷 Alison dos
+  SANTOS\n🇶🇦 Bassem HEMEIDA\n🇹🇷 Berke AKCAM\n🇸🇪 Carl BENGTSTROM\n🇺🇸
+  Cj ALLEN\n🇫🇷 Clement DUCOS\n🇩🇪 Constantin PREIS\n🇩🇪 Emil
+  AGYEKUM\n🇳🇬 Ezekiel NATHANIEL\n🇨🇷 Gerald DRUMMOND\n🇶🇦 Ismail Doudai
+  ABAKAR\n🇯🇲 Jaheel HYDE\n🇩🇪 Joshua ABUAKU\n🇨🇭 Julien BONVIN\n🇳🇴
+  Karsten WARHOLM\n🇻🇬 Kyron McMASTER\n🇯🇲 Malik JAMES-KING\n🇧🇷 Matheus
+  LIMA\n🇸🇮 Matic Ian GUCEK\n🇳🇱 Nick SMIDT\n🇯🇵 OGAWA Daiki\n🇸🇪 Oskar
+  EDLUND\n🇹🇼 PENG Ming-Yang\n🇺🇸 Rai BENJAMIN\n🇪🇪 Rasmus MAGI\n🇯🇲
+  Roshawn CLARKE\n🇯🇵 TOYODA Ken\n🇯🇵 TSUTSUE Kaito\n🇺🇸 Trevor
+  BASSITT\n🇧🇼 Victor NTWENG\n🇨🇿 Vit MULLER\n🇫🇷 Wilfried HAPPIO\n🇰🇪
+  Wiseman Were MUKHOBE\n🇨🇳 XIE Zhiyu\n🇹🇷 Yasmani COPELLO\n🇩🇴 Yeral
+  NUNEZ
+SUMMARY:🏃 400м с/б, раунд 1 (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T100500Z-sailing--07-
 DTSTAMP:20240805T100500Z
 DTSTART:20240805T100500Z
@@ -5098,6 +5119,27 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 08 (ми�
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ Швертбот, гонка 08 (микст)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170400Z-athletics-3000-1-
+DTSTAMP:20240805T170400Z
+DTSTART:20240805T170400Z
+DTEND:20240805T174500Z
+DESCRIPTION:Легкая атлетика - 3000м с/п, раунд 1 (м)\n🇯🇵 AOKI Ryoma\n🇰🇪
+  Abraham KIBIWOT\n🇹🇳 Ahmed JAZIRI\n🇫🇷 Alexis MIELLET\n🇰🇪 Amos
+  SEREM\n🇮🇳 Avinash Mukund SABLE\n🇦🇺 Ben BUCKINGHAM\n🇩🇿 Bilal
+  TABTI\n🇪🇸 Daniel ARCE\n🇲🇦 Faid EL MOSTAFA\n🇩🇪 Frederik
+  RUPPERT\n🇳🇿 Geordie BEAMISH\n🇪🇹 Getnet WALE\n🇺🇸 James
+  CORRIGAN\n🇨🇦 Jean-Simon DESGAGNES\n🇩🇪 Karl BEBENDORF\n🇺🇸 Kenneth
+  ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard CHEMUTAI\n🇫🇷 Louis
+  GILAVERT\n🇯🇵 MIURA Ryuji\n🇦🇺 Matthew CLARKE\n🇺🇸 Matthew
+  WILKINSON\n🇹🇳 Mohamed Amin JHINAOUI\n🇲🇦 Mohamed TINDOUFT\n🇦🇩 Nahuel
+  CARABANA\n🇫🇷 Nicolas-Marie DARU\n🇮🇹 Osama ZOGHLAMI\n🇱🇺 Ruben
+  QUERINJEAN\n🇪🇹 Samuel FIREWU\n🇰🇪 Simon Kiprop KOECH\n🇲🇦 Soufiane EL
+  BAKKALI\n🇨🇿 Tomas HABARTA\n🇫🇮 Topi RAITANEN\n🇩🇪 Velten
+  SCHNEIDER\n🇮🇹 Yassin BOUIH
+SUMMARY:🏃 3000м с/п, раунд 1 (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T190000Z-beach-volleyball-18--BRA-JPN
