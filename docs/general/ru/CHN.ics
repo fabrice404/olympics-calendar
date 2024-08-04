@@ -6578,6 +6578,15 @@ SUMMARY:🏸 AN Se Young 🇰🇷 - 🇨🇳 HE Bing Jiao
 LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T080000Z-hockey---AUS-CHN
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T094500Z
+DESCRIPTION:Хоккей на траве - Четвертьфинал (ж)
+SUMMARY:🏑 Австралия 🇦🇺 - 🇨🇳 Китай
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T080000Z-diving--10-
 DTSTAMP:20240805T080000Z
 DTSTART:20240805T080000Z
@@ -6595,15 +6604,6 @@ DESCRIPTION:Прыжки в воду - Вышка 10м, предваритель
   GARZA
 SUMMARY:🏊 Вышка 10м, предварительный раунд (ж)
 LOCATION:Центр водных видов спорта
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T080000Z-hockey---AUS-CHN
-DTSTAMP:20240805T080000Z
-DTSTART:20240805T080000Z
-DTEND:20240805T194500Z
-DESCRIPTION:Хоккей на траве - Четвертьфинал (ж)
-SUMMARY:🏑 Австралия 🇦🇺 - 🇨🇳 Китай
-LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T080500Z-athletics-400-1-
@@ -6745,6 +6745,24 @@ DESCRIPTION:Парусный спорт - Кайт, гонка 06 (м)\n🇫🇷
   TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ Кайт, гонка 06 (м)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T105000Z-athletics-200-
+DTSTAMP:20240805T105000Z
+DTSTART:20240805T105000Z
+DTEND:20240805T111500Z
+DESCRIPTION:Легкая атлетика - 200м, утешительный раунд (ж)\n🇻🇬 Adaejah
+  HODGE\n🇪🇨 Aimara NAZARENO\n🇧🇷 Ana Carolina AZEVEDO\n🇮🇹 Anna
+  BONGIORNI\n🇭🇺 Boglarka TAKACS\n🇲🇽 Cecilia TAMAYO-GARZA\n🇮🇹 Dalia
+  KADDARI\n🇪🇨 Gabriela Anahi SUAREZ\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke
+  VERVAET\n🇨🇦 Jacqueline MADOGO\n🇪🇸 Jael BESTUE\n🇵🇱 Krystsina
+  TSIMANOUSKAYA\n🇨🇳 LI Yuting\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas
+  BAZOLO\n🇧🇷 Lorraine MARTINS\n🇨🇮 Maboundou KONE\n🇵🇱 Martyna
+  KOTWILA\n🇦🇺 Mia GROSS\n🇪🇨 Nicole CAICEDO\n🇸🇪 Nora LINDAHL\n🇰🇿
+  Olga SAFRONOVA\n🇨🇾 Olivia FOTOPOULOU\n🇬🇷 Polyniki EMMANOUILIDOU\n🇦🇺
+  Torrie LEWIS\n🇸🇬 Veronica Shanti PEREIRA
+SUMMARY:🏃 200м, утешительный раунд (ж)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T105300Z-sailing--07-
@@ -7324,6 +7342,15 @@ DESCRIPTION:Прыжки в воду - Трамплин 3м, предварит�
   KESAR\n🇬🇧 Yasmin HARPER
 SUMMARY:🏊 Трамплин 3м, предварительный раунд (ж)
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T200200Z-boxing--75-
+DTSTAMP:20240808T200200Z
+DTSTART:20240808T200200Z
+DTEND:20240808T201300Z
+DESCRIPTION:Бокс - Полуфинал, до 75кг (ж)\n🇨🇳 LI Qian
+SUMMARY:🥊 Полуфинал, до 75кг (ж)
+LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T080000Z-diving--10-
