@@ -66,4 +66,13 @@ DESCRIPTION:3X3 농구 - 남자 예선 라운드
 SUMMARY:🏀 폴란드 🇵🇱 - 🇱🇻 라트비아
 LOCATION:라 콩코르드 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170000Z-3x3-basketball---LAT-FRA
+DTSTAMP:20240805T170000Z
+DTSTART:20240805T170000Z
+DTEND:20240805T172500Z
+DESCRIPTION:3X3 농구 - 남자 준결승
+SUMMARY:🏀 라트비아 🇱🇻 - 🇫🇷 프랑스
+LOCATION:라 콩코르드 1
+END:VEVENT
 END:VCALENDAR

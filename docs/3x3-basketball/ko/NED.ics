@@ -66,4 +66,13 @@ DESCRIPTION:3X3 농구 - 남자 예선 라운드
 SUMMARY:🏀 미국 🇺🇸 - 🇳🇱 네덜란드
 LOCATION:라 콩코르드 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T160000Z-3x3-basketball---NED-LTU
+DTSTAMP:20240805T160000Z
+DTSTART:20240805T160000Z
+DTEND:20240805T162500Z
+DESCRIPTION:3X3 농구 - 남자 준결승
+SUMMARY:🏀 네덜란드 🇳🇱 - 🇱🇹 리투아니아
+LOCATION:라 콩코르드 1
+END:VEVENT
 END:VCALENDAR
