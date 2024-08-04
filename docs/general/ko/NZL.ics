@@ -3799,6 +3799,20 @@ SUMMARY:⛵ 혼성 멀티헐 - 레이스 8
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T110000Z-sport-climbing--
+DTSTAMP:20240805T110000Z
+DTSTART:20240805T110000Z
+DTEND:20240805T112500Z
+DESCRIPTION:스포츠클라이밍 - 여자 스피드, 예선 - 시드전\n🇵🇱 Aleksandra KALUCKA\n🇵🇱
+  Aleksandra MIROSLAW\n🇿🇦 Aniya HOLDER\n🇮🇹 Beatrice COLLI\n🇫🇷
+  Capucine VIGLIONE\n🇨🇳 DENG Lijuan\n🇮🇩 Desak Made MADE RITA KUSUMA
+  DEWI\n🇺🇸 Emma HUNT\n🇪🇸 Leslie Adriana ROMERO PEREZ\n🇫🇷 Manon
+  LEBON\n🇺🇸 Piper KELLY\n🇮🇩 Rajiah SALLSABILLAH\n🇳🇿 Sarah
+  TETZLAFF\n🇨🇳 ZHOU Yafei
+SUMMARY:🧗 여자 스피드, 예선 - 시드전
+LOCATION:르 부르제 클라이밍 경기장
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T110300Z-sailing--7
 DTSTAMP:20240805T110300Z
 DTSTART:20240805T110300Z
@@ -4067,6 +4081,19 @@ DESCRIPTION:요트 - 남자 카이트 - 레이스 11\n🇫🇷 Axel MAZELLA\n�
   Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ 남자 카이트 - 레이스 11
 LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T110000Z-sport-climbing--
+DTSTAMP:20240806T110000Z
+DTSTART:20240806T110000Z
+DTEND:20240806T112500Z
+DESCRIPTION:스포츠클라이밍 - 남자 스피드, 예선 - 시드전\n🇰🇿 Amir MAIMURATOV\n🇫🇷 Bassa
+  MAWEM\n🇿🇦 Joshua BRUYNS\n🇳🇿 Julian DAVID\n🇨🇳 LONG Jinbao\n🇮🇹
+  Matteo ZURLONI\n🇮🇩 Rahmad ADI MULYONO\n🇮🇷 Reza ALI POUR\n🇰🇷 SHIN
+  Euncheol\n🇺🇸 Sam WATSON\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU Peng\n🇺🇦
+  Yaroslav TKACH\n🇺🇸 Zach HAMMER
+SUMMARY:🧗 남자 스피드, 예선 - 시드전
+LOCATION:르 부르제 클라이밍 경기장
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T110300Z-sailing--11

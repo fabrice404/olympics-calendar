@@ -2945,6 +2945,21 @@ SUMMARY:🏊 混合リレー
 LOCATION:アレクサンドル3世橋
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T080000Z-sport-climbing-
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T101700Z
+DESCRIPTION:スポーツクライミング - 男子ボルダー&リード、ボルダー準決勝\n🇯🇵 ANRAKU Sorato\n🇨🇿 Adam
+  ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander MEGOS\n🇦🇺 Campbell
+  HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish McARTHUR\n🇧🇪 Hannes Van
+  DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮
+  Luka POTOCAR\n🇿🇦 Mel JANSE van RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN
+  Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby
+  ROBERTS\n🇩🇪 Yannick FLOHE
+SUMMARY:🧗 男子ボルダー&リード、ボルダー準決勝
+LOCATION:ル・ブルジェ・スポーツクライミング
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T080500Z-athletics-400M
 DTSTAMP:20240805T080500Z
 DTSTART:20240805T080500Z
@@ -3297,6 +3312,21 @@ DESCRIPTION:陸上競技 - 男子走幅跳決勝\n🇨🇴 Arnovis DALMERO\n🇯
   EHAMMER\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳 ZHANG Mingkun
 SUMMARY:🏃 男子走幅跳決勝
 LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T080000Z-sport-climbing-
+DTSTAMP:20240807T080000Z
+DTSTART:20240807T080000Z
+DTEND:20240807T100500Z
+DESCRIPTION:スポーツクライミング - 男子ボルダー&リード、リード準決勝\n🇯🇵 ANRAKU Sorato\n🇨🇿 Adam
+  ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander MEGOS\n🇦🇺 Campbell
+  HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish McARTHUR\n🇧🇪 Hannes Van
+  DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮
+  Luka POTOCAR\n🇿🇦 Mel JANSE van RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN
+  Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby
+  ROBERTS\n🇩🇪 Yannick FLOHE
+SUMMARY:🧗 男子ボルダー&リード、リード準決勝
+LOCATION:ル・ブルジェ・スポーツクライミング
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T101300Z-sailing--13

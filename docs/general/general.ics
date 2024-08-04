@@ -27696,7 +27696,13 @@ UID:20240805T080000Z-sport-climbing-MENS-BOULDER-LEAD-SEMIFINAL-BOULDER
 DTSTAMP:20240805T080000Z
 DTSTART:20240805T080000Z
 DTEND:20240805T101700Z
-DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Semifinal Boulder
+DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Semifinal Boulder\n🇯🇵
+  ANRAKU Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander
+  MEGOS\n🇦🇺 Campbell HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish
+  McARTHUR\n🇧🇪 Hannes Van DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse
+  GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮 Luka POTOCAR\n🇿🇦 Mel JANSE van
+  RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam
+  AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby ROBERTS\n🇩🇪 Yannick FLOHE
 SUMMARY:🧗 Men's Boulder & Lead, Semifinal Boulder
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
@@ -28061,7 +28067,12 @@ UID:20240805T110000Z-sport-climbing-WOMENS-SPEED-QUALIFICATION-SEEDING-HEAT
 DTSTAMP:20240805T110000Z
 DTSTART:20240805T110000Z
 DTEND:20240805T112500Z
-DESCRIPTION:Sport Climbing - Women's Speed, Qualification Seeding heats
+DESCRIPTION:Sport Climbing - Women's Speed, Qualification Seeding
+  heats\n🇵🇱 Aleksandra KALUCKA\n🇵🇱 Aleksandra MIROSLAW\n🇿🇦 Aniya
+  HOLDER\n🇮🇹 Beatrice COLLI\n🇫🇷 Capucine VIGLIONE\n🇨🇳 DENG
+  Lijuan\n🇮🇩 Desak Made MADE RITA KUSUMA DEWI\n🇺🇸 Emma HUNT\n🇪🇸
+  Leslie Adriana ROMERO PEREZ\n🇫🇷 Manon LEBON\n🇺🇸 Piper KELLY\n🇮🇩
+  Rajiah SALLSABILLAH\n🇳🇿 Sarah TETZLAFF\n🇨🇳 ZHOU Yafei
 SUMMARY:🧗 Women's Speed, Qualification Seeding heats
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
@@ -28291,15 +28302,6 @@ SUMMARY:🤼 Georgij TIBILOV 🇷🇸 - 🇹🇷 Enes BASAR
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T130000Z-wrestling-MENS-GRECO-ROMAN-60KG-QUALIFICATIONS
-DTSTAMP:20240805T130000Z
-DTSTART:20240805T130000Z
-DTEND:20240805T131000Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 60kg Qualifications
-SUMMARY:🤼 Men's Greco-Roman 60kg Qualifications
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T130000Z-shooting-SKEET-MIXED-TEAM-BRONZE-MEDAL-MATCH
 DTSTAMP:20240805T130000Z
 DTSTART:20240805T130000Z
@@ -28316,24 +28318,6 @@ DTEND:20240805T133000Z
 DESCRIPTION:Shooting - Skeet Mixed Team Gold Medal Match
 SUMMARY:🔫 Skeet Mixed Team Gold Medal Match
 LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T130000Z-wrestling-MENS-GRECO-ROMAN-130KG-18-FINALS
-DTSTAMP:20240805T130000Z
-DTSTART:20240805T130000Z
-DTEND:20240805T142000Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 130kg 1/8 Finals
-SUMMARY:🤼 Men's Greco-Roman 130kg 1/8 Finals
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T130000Z-wrestling-WOMENS-FREESTYLE-68KG-18-FINALS
-DTSTAMP:20240805T130000Z
-DTSTART:20240805T130000Z
-DTEND:20240805T142000Z
-DESCRIPTION:Wrestling - Women's Freestyle 68kg 1/8 Finals
-SUMMARY:🤼 Women's Freestyle 68kg 1/8 Finals
-LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T130000Z-diving-WOMENS-10M-PLATFORM-SEMIFINAL
@@ -28405,15 +28389,6 @@ DTSTART:20240805T130700Z
 DTEND:20240805T131400Z
 DESCRIPTION:Wrestling - Women's Freestyle 68kg 1/8 Final
 SUMMARY:🤼 Wiktoria CHOLUJ 🇵🇱 - 🇨🇳 ZHOU Feng
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T131000Z-wrestling-MENS-GRECO-ROMAN-60KG-18-FINALS
-DTSTAMP:20240805T131000Z
-DTSTART:20240805T131000Z
-DTEND:20240805T143000Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 60kg 1/8 Finals
-SUMMARY:🤼 Men's Greco-Roman 60kg 1/8 Finals
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -28759,33 +28734,6 @@ DTSTART:20240805T141700Z
 DTEND:20240805T142400Z
 DESCRIPTION:Wrestling - Women's Freestyle 68kg 1/4 Final
 SUMMARY:🤼 Women's Freestyle 68kg 1/4 Final
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T142000Z-wrestling-MENS-GRECO-ROMAN-130KG-14-FINALS
-DTSTAMP:20240805T142000Z
-DTSTART:20240805T142000Z
-DTEND:20240805T150000Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 130kg 1/4 Finals
-SUMMARY:🤼 Men's Greco-Roman 130kg 1/4 Finals
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T142000Z-wrestling-MENS-GRECO-ROMAN-60KG-14-FINALS
-DTSTAMP:20240805T142000Z
-DTSTART:20240805T142000Z
-DTEND:20240805T150000Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 60kg 1/4 Finals
-SUMMARY:🤼 Men's Greco-Roman 60kg 1/4 Finals
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T142000Z-wrestling-WOMENS-FREESTYLE-68KG-14-FINALS
-DTSTAMP:20240805T142000Z
-DTSTART:20240805T142000Z
-DTEND:20240805T150000Z
-DESCRIPTION:Wrestling - Women's Freestyle 68kg 1/4 Finals
-SUMMARY:🤼 Women's Freestyle 68kg 1/4 Finals
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -29479,7 +29427,14 @@ UID:20240806T080000Z-sport-climbing-WOMENS-BOULDER-LEAD-SEMIFINAL-BOULDER
 DTSTAMP:20240806T080000Z
 DTSTART:20240806T080000Z
 DTEND:20240806T101700Z
-DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Semifinal Boulder
+DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Semifinal
+  Boulder\n🇺🇸 Brooke RABOUTOU\n🇮🇹 Camilla MORONI\n🇬🇧 Erin
+  McNEICE\n🇺🇦 Ievgeniia KAZBEKOVA\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica
+  PILZ\n🇨🇳 LUO Zhilu\n🇮🇹 Laura ROGORA\n🇿🇦 Lauren MUKHEIBIR\n🇩🇪
+  Lucia DOERFFEL\n🇯🇵 MORI Ai\n🇸🇮 Mia KRAMPL\n🇬🇧 Molly
+  THOMPSON-SMITH\n🇯🇵 NONAKA Miho\n🇺🇸 Natalia GROSSMAN\n🇦🇺 Oceania
+  MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun\n🇨🇳 ZHANG
+  Yuetong\n🇫🇷 Zelia AVEZOU
 SUMMARY:🧗 Women's Boulder & Lead, Semifinal Boulder
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
@@ -29830,7 +29785,11 @@ UID:20240806T110000Z-sport-climbing-MENS-SPEED-QUALIFICATION-SEEDING
 DTSTAMP:20240806T110000Z
 DTSTART:20240806T110000Z
 DTEND:20240806T112500Z
-DESCRIPTION:Sport Climbing - Men's Speed, Qualification Seeding
+DESCRIPTION:Sport Climbing - Men's Speed, Qualification Seeding\n🇰🇿 Amir
+  MAIMURATOV\n🇫🇷 Bassa MAWEM\n🇿🇦 Joshua BRUYNS\n🇳🇿 Julian DAVID\n🇨🇳
+  LONG Jinbao\n🇮🇹 Matteo ZURLONI\n🇮🇩 Rahmad ADI MULYONO\n🇮🇷 Reza ALI
+  POUR\n🇰🇷 SHIN Euncheol\n🇺🇸 Sam WATSON\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU
+  Peng\n🇺🇦 Yaroslav TKACH\n🇺🇸 Zach HAMMER
 SUMMARY:🧗 Men's Speed, Qualification Seeding
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
@@ -30692,7 +30651,13 @@ UID:20240807T080000Z-sport-climbing-MENS-BOULDER-LEAD-SEMIFINAL-LEAD
 DTSTAMP:20240807T080000Z
 DTSTART:20240807T080000Z
 DTEND:20240807T100500Z
-DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Semifinal Lead
+DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Semifinal Lead\n🇯🇵
+  ANRAKU Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander
+  MEGOS\n🇦🇺 Campbell HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish
+  McARTHUR\n🇧🇪 Hannes Van DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse
+  GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮 Luka POTOCAR\n🇿🇦 Mel JANSE van
+  RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam
+  AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby ROBERTS\n🇩🇪 Yannick FLOHE
 SUMMARY:🧗 Men's Boulder & Lead, Semifinal Lead
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
@@ -32150,7 +32115,13 @@ UID:20240808T080000Z-sport-climbing-WOMENS-BOULDER-LEAD-SEMIFINAL-LEAD
 DTSTAMP:20240808T080000Z
 DTSTART:20240808T080000Z
 DTEND:20240808T100500Z
-DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Semifinal Lead
+DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Semifinal Lead\n🇺🇸
+  Brooke RABOUTOU\n🇮🇹 Camilla MORONI\n🇬🇧 Erin McNEICE\n🇺🇦 Ievgeniia
+  KAZBEKOVA\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica PILZ\n🇨🇳 LUO Zhilu\n🇮🇹
+  Laura ROGORA\n🇿🇦 Lauren MUKHEIBIR\n🇩🇪 Lucia DOERFFEL\n🇯🇵 MORI
+  Ai\n🇸🇮 Mia KRAMPL\n🇬🇧 Molly THOMPSON-SMITH\n🇯🇵 NONAKA Miho\n🇺🇸
+  Natalia GROSSMAN\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun\n🇨🇳 ZHANG Yuetong\n🇫🇷 Zelia AVEZOU
 SUMMARY:🧗 Women's Boulder & Lead, Semifinal Lead
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
@@ -33642,12 +33613,12 @@ SUMMARY:🥊 Cindy Winner DJANKEU NGAMBA 🏳️ - 🇵🇦 Atheyna Bibeichi BYL
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T203400Z-boxing-MENS-51KG-FINAL
+UID:20240808T203400Z-boxing-MENS-51KG-FINAL-FRA-UZB
 DTSTAMP:20240808T203400Z
 DTSTART:20240808T203400Z
 DTEND:20240808T204500Z
-DESCRIPTION:Boxing - Men's 51kg - Final\n🇫🇷 Billal BENNAMA
-SUMMARY:🥊 Men's 51kg - Final
+DESCRIPTION:Boxing - Men's 51kg - Final
+SUMMARY:🥊 Billal BENNAMA 🇫🇷 - 🇺🇿 Hasanboy DUSMATOV
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT

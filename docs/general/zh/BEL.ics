@@ -2445,6 +2445,21 @@ SUMMARY:🏊 混合接力赛
 LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T080000Z-sport-climbing--
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T101700Z
+DESCRIPTION:运动攀岩 - 男子攀石和难度攀岩半决赛 - 攀石\n🇯🇵 ANRAKU Sorato\n🇨🇿 Adam
+  ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander MEGOS\n🇦🇺 Campbell
+  HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish McARTHUR\n🇧🇪 Hannes Van
+  DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮
+  Luka POTOCAR\n🇿🇦 Mel JANSE van RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN
+  Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby
+  ROBERTS\n🇩🇪 Yannick FLOHE
+SUMMARY:🧗 男子攀石和难度攀岩半决赛 - 攀石
+LOCATION:勒布尔歇运动攀岩馆
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T085000Z-athletics-400
 DTSTAMP:20240805T085000Z
 DTSTART:20240805T085000Z
@@ -2730,6 +2745,21 @@ DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛12\n🇧🇪 CLAEY
   SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
 SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛12
 LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T080000Z-sport-climbing--
+DTSTAMP:20240807T080000Z
+DTSTART:20240807T080000Z
+DTEND:20240807T100500Z
+DESCRIPTION:运动攀岩 - 男子攀石和难度攀岩半决赛 - 难度攀岩\n🇯🇵 ANRAKU Sorato\n🇨🇿 Adam
+  ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander MEGOS\n🇦🇺 Campbell
+  HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish McARTHUR\n🇧🇪 Hannes Van
+  DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮
+  Luka POTOCAR\n🇿🇦 Mel JANSE van RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN
+  Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby
+  ROBERTS\n🇩🇪 Yannick FLOHE
+SUMMARY:🧗 男子攀石和难度攀岩半决赛 - 难度攀岩
+LOCATION:勒布尔歇运动攀岩馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

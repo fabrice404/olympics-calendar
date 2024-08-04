@@ -5311,6 +5311,21 @@ SUMMARY:🏊 Вышка 10м, предварительный раунд (ж)
 LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T080000Z-sport-climbing--
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T101700Z
+DESCRIPTION:Спортивное скалолазание - Боулдеринг, полуфинал (м)\n🇯🇵
+  ANRAKU Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander
+  MEGOS\n🇦🇺 Campbell HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish
+  McARTHUR\n🇧🇪 Hannes Van DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse
+  GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮 Luka POTOCAR\n🇿🇦 Mel JANSE van
+  RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam
+  AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby ROBERTS\n🇩🇪 Yannick FLOHE
+SUMMARY:🧗 Боулдеринг, полуфинал (м)
+LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T100300Z-sailing--05-
 DTSTAMP:20240805T100300Z
 DTSTART:20240805T100300Z
@@ -5430,6 +5445,20 @@ DESCRIPTION:Парусный спорт - Многокорпусник, гонк
   WILKINSON/DAWSON
 SUMMARY:⛵ Многокорпусник, гонка 08 (микст)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T110000Z-sport-climbing--
+DTSTAMP:20240805T110000Z
+DTSTART:20240805T110000Z
+DTEND:20240805T112500Z
+DESCRIPTION:Спортивное скалолазание - Скорость, квалификация с посевом
+  (ж)\n🇵🇱 Aleksandra KALUCKA\n🇵🇱 Aleksandra MIROSLAW\n🇿🇦 Aniya
+  HOLDER\n🇮🇹 Beatrice COLLI\n🇫🇷 Capucine VIGLIONE\n🇨🇳 DENG
+  Lijuan\n🇮🇩 Desak Made MADE RITA KUSUMA DEWI\n🇺🇸 Emma HUNT\n🇪🇸
+  Leslie Adriana ROMERO PEREZ\n🇫🇷 Manon LEBON\n🇺🇸 Piper KELLY\n🇮🇩
+  Rajiah SALLSABILLAH\n🇳🇿 Sarah TETZLAFF\n🇨🇳 ZHOU Yafei
+SUMMARY:🧗 Скорость, квалификация с посевом (ж)
+LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T110000Z-beach-volleyball-18--ESP-NED
@@ -5846,6 +5875,21 @@ DESCRIPTION:Легкая атлетика - 3000м с/п, финал (ж)\n🇫�
   CONSTIEN\n🇧🇭 Winfred YAVI
 SUMMARY:🏃 3000м с/п, финал (ж)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T080000Z-sport-climbing--
+DTSTAMP:20240807T080000Z
+DTSTART:20240807T080000Z
+DTEND:20240807T100500Z
+DESCRIPTION:Спортивное скалолазание - Трудность, полуфинал (м)\n🇯🇵 ANRAKU
+  Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander
+  MEGOS\n🇦🇺 Campbell HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish
+  McARTHUR\n🇧🇪 Hannes Van DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse
+  GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮 Luka POTOCAR\n🇿🇦 Mel JANSE van
+  RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam
+  AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby ROBERTS\n🇩🇪 Yannick FLOHE
+SUMMARY:🧗 Трудность, полуфинал (м)
+LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T101300Z-sailing--13-

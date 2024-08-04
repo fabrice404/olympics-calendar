@@ -2076,6 +2076,21 @@ SUMMARY:🏐 슬로베니아 🇸🇮 - 🇵🇱 폴란드
 LOCATION:사우스 파리 아레나 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T080000Z-sport-climbing--
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T101700Z
+DESCRIPTION:스포츠클라이밍 - 남자 볼더 & 리드, 준결승 - 볼더\n🇯🇵 ANRAKU Sorato\n🇨🇿 Adam
+  ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander MEGOS\n🇦🇺 Campbell
+  HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish McARTHUR\n🇧🇪 Hannes Van
+  DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮
+  Luka POTOCAR\n🇿🇦 Mel JANSE van RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN
+  Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby
+  ROBERTS\n🇩🇪 Yannick FLOHE
+SUMMARY:🧗 남자 볼더 & 리드, 준결승 - 볼더
+LOCATION:르 부르제 클라이밍 경기장
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T080500Z-athletics--400M-1
 DTSTAMP:20240805T080500Z
 DTSTART:20240805T080500Z
@@ -2333,6 +2348,21 @@ SUMMARY:🏓 슬로베니아 🇸🇮 - 🇫🇷 프랑스
 LOCATION:사우스 파리 아레나 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T080000Z-sport-climbing--
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T101700Z
+DESCRIPTION:스포츠클라이밍 - 여자 볼더 & 리드, 준결승 - 볼더\n🇺🇸 Brooke RABOUTOU\n🇮🇹
+  Camilla MORONI\n🇬🇧 Erin McNEICE\n🇺🇦 Ievgeniia KAZBEKOVA\n🇸🇮 Janja
+  GARNBRET\n🇦🇹 Jessica PILZ\n🇨🇳 LUO Zhilu\n🇮🇹 Laura ROGORA\n🇿🇦
+  Lauren MUKHEIBIR\n🇩🇪 Lucia DOERFFEL\n🇯🇵 MORI Ai\n🇸🇮 Mia
+  KRAMPL\n🇬🇧 Molly THOMPSON-SMITH\n🇯🇵 NONAKA Miho\n🇺🇸 Natalia
+  GROSSMAN\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun\n🇨🇳 ZHANG Yuetong\n🇫🇷 Zelia AVEZOU
+SUMMARY:🧗 여자 볼더 & 리드, 준결승 - 볼더
+LOCATION:르 부르제 클라이밍 경기장
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T100300Z-sailing--9
 DTSTAMP:20240806T100300Z
 DTSTART:20240806T100300Z
@@ -2423,6 +2453,21 @@ SUMMARY:⛵ 혼성 딩기 - 레이스 10
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T080000Z-sport-climbing--
+DTSTAMP:20240807T080000Z
+DTSTART:20240807T080000Z
+DTEND:20240807T100500Z
+DESCRIPTION:스포츠클라이밍 - 남자 볼더 & 리드, 준결승 - 리드\n🇯🇵 ANRAKU Sorato\n🇨🇿 Adam
+  ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander MEGOS\n🇦🇺 Campbell
+  HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish McARTHUR\n🇧🇪 Hannes Van
+  DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮
+  Luka POTOCAR\n🇿🇦 Mel JANSE van RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN
+  Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby
+  ROBERTS\n🇩🇪 Yannick FLOHE
+SUMMARY:🧗 남자 볼더 & 리드, 준결승 - 리드
+LOCATION:르 부르제 클라이밍 경기장
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T102300Z-sailing--13
 DTSTAMP:20240807T102300Z
 DTSTART:20240807T102300Z
@@ -2481,6 +2526,21 @@ DESCRIPTION:요트 - 남자 카이트 - 레이스 16\n🇫🇷 Axel MAZELLA\n�
   Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ 남자 카이트 - 레이스 16
 LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T080000Z-sport-climbing--
+DTSTAMP:20240808T080000Z
+DTSTART:20240808T080000Z
+DTEND:20240808T100500Z
+DESCRIPTION:스포츠클라이밍 - 여자 볼더 & 리드, 준결승 - 리드\n🇺🇸 Brooke RABOUTOU\n🇮🇹
+  Camilla MORONI\n🇬🇧 Erin McNEICE\n🇺🇦 Ievgeniia KAZBEKOVA\n🇸🇮 Janja
+  GARNBRET\n🇦🇹 Jessica PILZ\n🇨🇳 LUO Zhilu\n🇮🇹 Laura ROGORA\n🇿🇦
+  Lauren MUKHEIBIR\n🇩🇪 Lucia DOERFFEL\n🇯🇵 MORI Ai\n🇸🇮 Mia
+  KRAMPL\n🇬🇧 Molly THOMPSON-SMITH\n🇯🇵 NONAKA Miho\n🇺🇸 Natalia
+  GROSSMAN\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun\n🇨🇳 ZHANG Yuetong\n🇫🇷 Zelia AVEZOU
+SUMMARY:🧗 여자 볼더 & 리드, 준결승 - 리드
+LOCATION:르 부르제 클라이밍 경기장
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

@@ -3869,6 +3869,20 @@ SUMMARY:⛵ Mixed Multihull - Race 8
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T110000Z-sport-climbing-WOMENS-SPEED-QUALIFICATION-SEEDING-HEAT
+DTSTAMP:20240805T110000Z
+DTSTART:20240805T110000Z
+DTEND:20240805T112500Z
+DESCRIPTION:Sport Climbing - Women's Speed, Qualification Seeding
+  heats\n🇵🇱 Aleksandra KALUCKA\n🇵🇱 Aleksandra MIROSLAW\n🇿🇦 Aniya
+  HOLDER\n🇮🇹 Beatrice COLLI\n🇫🇷 Capucine VIGLIONE\n🇨🇳 DENG
+  Lijuan\n🇮🇩 Desak Made MADE RITA KUSUMA DEWI\n🇺🇸 Emma HUNT\n🇪🇸
+  Leslie Adriana ROMERO PEREZ\n🇫🇷 Manon LEBON\n🇺🇸 Piper KELLY\n🇮🇩
+  Rajiah SALLSABILLAH\n🇳🇿 Sarah TETZLAFF\n🇨🇳 ZHOU Yafei
+SUMMARY:🧗 Women's Speed, Qualification Seeding heats
+LOCATION:Le Bourget Climbing Venue
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T110300Z-sailing-MENS-KITE-RACE-7
 DTSTAMP:20240805T110300Z
 DTSTART:20240805T110300Z
@@ -4142,6 +4156,19 @@ DESCRIPTION:Sailing - Men's Kite - Race 11\n🇫🇷 Axel MAZELLA\n🇧🇷 Brun
   TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ Men's Kite - Race 11
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T110000Z-sport-climbing-MENS-SPEED-QUALIFICATION-SEEDING
+DTSTAMP:20240806T110000Z
+DTSTART:20240806T110000Z
+DTEND:20240806T112500Z
+DESCRIPTION:Sport Climbing - Men's Speed, Qualification Seeding\n🇰🇿 Amir
+  MAIMURATOV\n🇫🇷 Bassa MAWEM\n🇿🇦 Joshua BRUYNS\n🇳🇿 Julian DAVID\n🇨🇳
+  LONG Jinbao\n🇮🇹 Matteo ZURLONI\n🇮🇩 Rahmad ADI MULYONO\n🇮🇷 Reza ALI
+  POUR\n🇰🇷 SHIN Euncheol\n🇺🇸 Sam WATSON\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU
+  Peng\n🇺🇦 Yaroslav TKACH\n🇺🇸 Zach HAMMER
+SUMMARY:🧗 Men's Speed, Qualification Seeding
+LOCATION:Le Bourget Climbing Venue
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T110300Z-sailing-WOMENS-KITE-RACE-11

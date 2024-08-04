@@ -2991,6 +2991,21 @@ SUMMARY:🏊 Смешанная эстафета
 LOCATION:Мост Александра III
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T080000Z-sport-climbing--
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T101700Z
+DESCRIPTION:Спортивное скалолазание - Боулдеринг, полуфинал (м)\n🇯🇵
+  ANRAKU Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander
+  MEGOS\n🇦🇺 Campbell HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish
+  McARTHUR\n🇧🇪 Hannes Van DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse
+  GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮 Luka POTOCAR\n🇿🇦 Mel JANSE van
+  RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam
+  AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby ROBERTS\n🇩🇪 Yannick FLOHE
+SUMMARY:🧗 Боулдеринг, полуфинал (м)
+LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T080500Z-athletics-400-1-
 DTSTAMP:20240805T080500Z
 DTSTART:20240805T080500Z
@@ -3347,6 +3362,21 @@ DESCRIPTION:Легкая атлетика - Прыжки в длину, фина
   PINNOCK\n🇨🇳 ZHANG Mingkun
 SUMMARY:🏃 Прыжки в длину, финал (м)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T080000Z-sport-climbing--
+DTSTAMP:20240807T080000Z
+DTSTART:20240807T080000Z
+DTEND:20240807T100500Z
+DESCRIPTION:Спортивное скалолазание - Трудность, полуфинал (м)\n🇯🇵 ANRAKU
+  Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander
+  MEGOS\n🇦🇺 Campbell HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish
+  McARTHUR\n🇧🇪 Hannes Van DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse
+  GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮 Luka POTOCAR\n🇿🇦 Mel JANSE van
+  RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam
+  AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby ROBERTS\n🇩🇪 Yannick FLOHE
+SUMMARY:🧗 Трудность, полуфинал (м)
+LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T101300Z-sailing--13-

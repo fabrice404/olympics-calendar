@@ -6558,6 +6558,20 @@ SUMMARY:⛵ 혼성 멀티헐 - 레이스 8
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T110000Z-sport-climbing--
+DTSTAMP:20240805T110000Z
+DTSTART:20240805T110000Z
+DTEND:20240805T112500Z
+DESCRIPTION:스포츠클라이밍 - 여자 스피드, 예선 - 시드전\n🇵🇱 Aleksandra KALUCKA\n🇵🇱
+  Aleksandra MIROSLAW\n🇿🇦 Aniya HOLDER\n🇮🇹 Beatrice COLLI\n🇫🇷
+  Capucine VIGLIONE\n🇨🇳 DENG Lijuan\n🇮🇩 Desak Made MADE RITA KUSUMA
+  DEWI\n🇺🇸 Emma HUNT\n🇪🇸 Leslie Adriana ROMERO PEREZ\n🇫🇷 Manon
+  LEBON\n🇺🇸 Piper KELLY\n🇮🇩 Rajiah SALLSABILLAH\n🇳🇿 Sarah
+  TETZLAFF\n🇨🇳 ZHOU Yafei
+SUMMARY:🧗 여자 스피드, 예선 - 시드전
+LOCATION:르 부르제 클라이밍 경기장
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T110000Z-volleyball--8-ITA-JPN
 DTSTAMP:20240805T110000Z
 DTSTART:20240805T110000Z
@@ -6890,6 +6904,21 @@ SUMMARY:🏊 남자 3m 스프링보드 예선
 LOCATION:아쿠아틱 센터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T080000Z-sport-climbing--
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T101700Z
+DESCRIPTION:스포츠클라이밍 - 여자 볼더 & 리드, 준결승 - 볼더\n🇺🇸 Brooke RABOUTOU\n🇮🇹
+  Camilla MORONI\n🇬🇧 Erin McNEICE\n🇺🇦 Ievgeniia KAZBEKOVA\n🇸🇮 Janja
+  GARNBRET\n🇦🇹 Jessica PILZ\n🇨🇳 LUO Zhilu\n🇮🇹 Laura ROGORA\n🇿🇦
+  Lauren MUKHEIBIR\n🇩🇪 Lucia DOERFFEL\n🇯🇵 MORI Ai\n🇸🇮 Mia
+  KRAMPL\n🇬🇧 Molly THOMPSON-SMITH\n🇯🇵 NONAKA Miho\n🇺🇸 Natalia
+  GROSSMAN\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun\n🇨🇳 ZHANG Yuetong\n🇫🇷 Zelia AVEZOU
+SUMMARY:🧗 여자 볼더 & 리드, 준결승 - 볼더
+LOCATION:르 부르제 클라이밍 경기장
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T100300Z-sailing--9
 DTSTAMP:20240806T100300Z
 DTSTART:20240806T100300Z
@@ -6980,6 +7009,19 @@ DESCRIPTION:요트 - 남자 카이트 - 레이스 11\n🇫🇷 Axel MAZELLA\n�
   Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ 남자 카이트 - 레이스 11
 LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T110000Z-sport-climbing--
+DTSTAMP:20240806T110000Z
+DTSTART:20240806T110000Z
+DTEND:20240806T112500Z
+DESCRIPTION:스포츠클라이밍 - 남자 스피드, 예선 - 시드전\n🇰🇿 Amir MAIMURATOV\n🇫🇷 Bassa
+  MAWEM\n🇿🇦 Joshua BRUYNS\n🇳🇿 Julian DAVID\n🇨🇳 LONG Jinbao\n🇮🇹
+  Matteo ZURLONI\n🇮🇩 Rahmad ADI MULYONO\n🇮🇷 Reza ALI POUR\n🇰🇷 SHIN
+  Euncheol\n🇺🇸 Sam WATSON\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU Peng\n🇺🇦
+  Yaroslav TKACH\n🇺🇸 Zach HAMMER
+SUMMARY:🧗 남자 스피드, 예선 - 시드전
+LOCATION:르 부르제 클라이밍 경기장
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T110300Z-sailing--11
@@ -7273,6 +7315,21 @@ DESCRIPTION:아티스틱 스위밍 - 단체 아크로바틱루틴\n🇲🇽 멕�
   오스트레일리아\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇫🇷 프랑스
 SUMMARY:🏊 단체 아크로바틱루틴
 LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T080000Z-sport-climbing--
+DTSTAMP:20240808T080000Z
+DTSTART:20240808T080000Z
+DTEND:20240808T100500Z
+DESCRIPTION:스포츠클라이밍 - 여자 볼더 & 리드, 준결승 - 리드\n🇺🇸 Brooke RABOUTOU\n🇮🇹
+  Camilla MORONI\n🇬🇧 Erin McNEICE\n🇺🇦 Ievgeniia KAZBEKOVA\n🇸🇮 Janja
+  GARNBRET\n🇦🇹 Jessica PILZ\n🇨🇳 LUO Zhilu\n🇮🇹 Laura ROGORA\n🇿🇦
+  Lauren MUKHEIBIR\n🇩🇪 Lucia DOERFFEL\n🇯🇵 MORI Ai\n🇸🇮 Mia
+  KRAMPL\n🇬🇧 Molly THOMPSON-SMITH\n🇯🇵 NONAKA Miho\n🇺🇸 Natalia
+  GROSSMAN\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun\n🇨🇳 ZHANG Yuetong\n🇫🇷 Zelia AVEZOU
+SUMMARY:🧗 여자 볼더 & 리드, 준결승 - 리드
+LOCATION:르 부르제 클라이밍 경기장
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T080000Z-diving--10M-
