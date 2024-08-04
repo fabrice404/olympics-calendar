@@ -8534,6 +8534,20 @@ SUMMARY:🤼 Koumba LARROQUE 🇫🇷 - 🇳🇿 Tayla Tuahine FORD
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T133000Z-canoe-slalom--
+DTSTAMP:20240805T133000Z
+DTSTART:20240805T133000Z
+DTEND:20240805T135000Z
+DESCRIPTION:Гребной слалом - Экстрим-слалом, четвертьфинал (ж)\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇫🇷 Angele HUG\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole
+  Diana BOUZIDI\n🇩🇪 Elena LILIK\n🇺🇸 Evy LEIBFARTH\n🇬🇧 Kimberley
+  WOODS\n🇳🇿 Luuka JONES\n🇪🇸 Maialen CHOURRAUT\n🇬🇧 Mallory
+  FRANKLIN\n🇦🇩 Monica DORIA VILARRUBLA\n🇦🇺 Noemie FOX\n🇩🇪 Ricarda
+  FUNK\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia US
+SUMMARY:🛶 Экстрим-слалом, четвертьфинал (ж)
+LOCATION:Водный ст. - Белая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T134500Z-sailing--10-
 DTSTAMP:20240805T134500Z
 DTSTART:20240805T134500Z
@@ -9212,12 +9226,12 @@ SUMMARY:🥊 Djamili-Dini ABOUDOU MOINDZE 🇫🇷 - 🇪🇸 Ayoub GHADFA DRISS
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T203400Z-boxing--635-
+UID:20240807T203400Z-boxing--635--FRA-CUB
 DTSTAMP:20240807T203400Z
 DTSTART:20240807T203400Z
 DTEND:20240807T204500Z
-DESCRIPTION:Бокс - Финал, до 63,5кг (м)\n🇫🇷 Sofiane OUMIHA
-SUMMARY:🥊 Финал, до 63,5кг (м)
+DESCRIPTION:Бокс - Финал, до 63,5кг (м)
+SUMMARY:🥊 Sofiane OUMIHA 🇫🇷 - 🇨🇺 Erislandy ALVAREZ BORGES
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
