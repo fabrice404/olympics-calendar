@@ -30,3 +30,9 @@ export interface NOC {
   icon: string;
   name: string;
 }
+
+export interface Medal {
+  color: "gold" | "silver" | "bronze";
+  name: string;
+  noc: string;
+}

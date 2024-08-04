@@ -3,7 +3,7 @@ import autoprefixer from "autoprefixer";
 import postcss from "postcss";
 import tailwindcss from "tailwindcss";
 
-import { Event, NOC, Sport } from "./types";
+import { Event, Medal, NOC, Sport } from "./types";
 import { getAllSportsKeys, getSportIcon } from "./sports";
 import { existsSync, writeFileSync } from "fs";
 import { hasFile, readFile, saveFile } from "./io";
@@ -20,6 +20,7 @@ export class Calendar {
   private events: Event[] = [];
   private nocs: string[] = [];
   private sports: Sport[] = [];
+  private medals: Medal[] = [];
 
   constructor(language: string) {
     this.language = language;
@@ -164,8 +165,8 @@ export class Calendar {
       DTSTAMP: startDateUtc.replace(/[:-]/g, ""),
       DTSTART: startDateUtc.replace(/[:-]/g, ""),
       DTEND: endDateUtc.replace(/[:-]/g, ""),
-      DESCRIPTION: `Paris 2024 - ${translate.openingCeremony.get(this.language)}`,
-      SUMMARY: `Paris 2024 - ${translate.openingCeremony.get(this.language)}`,
+      DESCRIPTION: `Paris 2024 - {{translate_openingCeremony}}`,
+      SUMMARY: `Paris 2024 - {{translate_openingCeremon}}`,
       LOCATION: "Paris",
       _COMPETITORS: [],
       _GENDER: "",
@@ -307,10 +308,10 @@ export class Calendar {
 
     calendars.push(`<div class="${accordionClass}">`);
     calendars.push(`  <input type="radio" name="accordion" checked="checked">`);
-    calendars.push(`  <div class="collapse-title text-xl font-medium">${translate.allSports.get(this.language)}</div>`);
+    calendars.push(`  <div class="collapse-title text-xl font-medium">{{translate_allSports}}</div>`);
     calendars.push(`  <div class="collapse-content text-center">`)
     calendars.push(`    <div>`);
-    calendars.push(`      <button class="${buttonClass}" onclick="showModal('general/general', '${this.language}');">${translate.fullSchedule.get(this.language)}</button>`);
+    calendars.push(`      <button class="${buttonClass}" onclick="showModal('general/general', '${this.language}');">{{translate_fullSchedule}}</button>`);
     calendars.push(`    </div>`);
     for (const noc of this.nocs.sort()) {
       calendars.push(`    <button class="${buttonClass}" onclick="showModal('general/${noc}', '${this.language}');">${getNOCFlag(noc)} ${noc}</button>`);
@@ -320,10 +321,10 @@ export class Calendar {
 
     calendars.push(`<div class="${accordionClass}">`);
     calendars.push(`  <input type="radio" name="accordion">`);
-    calendars.push(`  <div class="collapse-title text-xl font-medium">🏅 ${translate.medalEvents.get(this.language)}</div>`);
+    calendars.push(`  <div class="collapse-title text-xl font-medium">🏅 {{translate_medalEvents}</div>`);
     calendars.push(`  <div class="collapse-content text-center">`)
     calendars.push(`    <div>`);
-    calendars.push(`      <button class="${buttonClass}" onclick="showModal('medals/general', '${this.language}');">${translate.fullSchedule.get(this.language)}</button>`);
+    calendars.push(`      <button class="${buttonClass}" onclick="showModal('medals/general', '${this.language}');">{{translate_fullSchedule}}</button>`);
     calendars.push(`    </div>`);
     for (const noc of this.nocs.sort()) {
       calendars.push(`    <button class="${buttonClass}" onclick="showModal('medals/${noc}', '${this.language}');">${getNOCFlag(noc)} ${noc}</button>`);
@@ -333,7 +334,7 @@ export class Calendar {
 
     calendars.push(`<div class="${accordionClass}">`);
     calendars.push(`  <input type="radio" name="accordion">`);
-    calendars.push(`  <div class="collapse-title text-xl font-medium">📅 ${translate.todaysEvents.get(this.language)}</div>`);
+    calendars.push(`  <div class="collapse-title text-xl font-medium">📅 {{translate_todaysEvents}}</div>`);
     calendars.push(`  <div class="collapse-content text-center">`)
     for (const noc of this.nocs.sort()) {
       calendars.push(`    <a class="${buttonClass}" href="./today.html?noc=${noc}">${getNOCFlag(noc)} ${noc}</a>`);
@@ -347,8 +348,8 @@ export class Calendar {
       calendars.push(`  <div class="collapse-title text-xl font-medium">${getSportIcon(sport.key)} ${sport.name}</div>`);
       calendars.push(`  <div class="collapse-content text-center">`)
       calendars.push(`    <div>`);
-      calendars.push(`      <button class="${buttonClass}" onclick="showModal('${sport.key}/general', '${this.language}');">${translate.fullSchedule.get(this.language)}</button>`);
-      calendars.push(`      <button class="${buttonClass}" onclick="showModal('${sport.key}/medals', '${this.language}');">🏅 ${translate.medalEvents.get(this.language)}</button>`);
+      calendars.push(`      <button class="${buttonClass}" onclick="showModal('${sport.key}/general', '${this.language}');">{{translate_fullSchedule}}</button>`);
+      calendars.push(`      <button class="${buttonClass}" onclick="showModal('${sport.key}/medals', '${this.language}');">🏅 {{translate_medalEvents}}</button>`);
       calendars.push(`    </div>`);
       for (const noc of sport.NOCS.sort()) {
         calendars.push(`    <button class="${buttonClass}" onclick="showModal('${sport.key}/${noc}', '${this.language}');">${getNOCFlag(noc)} ${noc}</button>`);
@@ -358,11 +359,10 @@ export class Calendar {
     }
 
     const template = readFile(`${__dirname}/index/template.html`);
-    const output = template
-      .replace("{{calendars}}", calendars.join("\r\n"))
-      .replace(/\{\{title}}/gi, translate.calendars.get(this.language)!)
-      .replace("{{disclaimer}}", translate.disclaimer.get(this.language)!)
-      ;
+    const output = translate.translate(
+      template.replace("{{calendars}}", calendars.join("\r\n")),
+      this.language,
+    );
     saveFile(
       this.language === "en" ?
         "docs/index.html" :
@@ -390,9 +390,9 @@ export class Calendar {
       content.push(`   ${event._MEDAL ? "🏅" : ""}`);
       content.push(`   ${sport.name.toUpperCase()}`);
       if (event._GENDER === "M") {
-        content.push(`   <span class=\"text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl\">${translate.genderMen.get(this.language)}</span>`);
+        content.push(`   <span class=\"text-xs align-middle bg-blue-400 text-white py-1 px-2 rounded-xl\">{{translate_genderMen}}</span>`);
       } else if (event._GENDER === "W") {
-        content.push(`   <span class=\"text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl\">${translate.genderWomen.get(this.language)}</span>`);
+        content.push(`   <span class=\"text-xs align-middle bg-pink-400 text-white py-1 px-2 rounded-xl\">{{translate_genderWomen}}</span>`);
       }
       content.push("   </div>");
       content.push(`   <div>${event._UNITNAME}</div>`);
@@ -417,12 +417,10 @@ export class Calendar {
     }
 
     const template = readFile(`${__dirname}/today/template.html`);
-    const output = template
-      .replace("{{events}}", content.join("\r\n"))
-      .replace(/\{\{title}}/gi, translate.todaysEvents.get(this.language)!)
-      .replace("{{disclaimer}}", translate.disclaimer.get(this.language)!)
-      .replace("{{noEventToday}}", translate.noEventToday.get(this.language)!)
-      ;
+    const output = translate.translate(
+      template.replace("{{events}}", content.join("\r\n")),
+      this.language,
+    );
     saveFile(
       this.language === "en" ?
         "docs/today.html" :

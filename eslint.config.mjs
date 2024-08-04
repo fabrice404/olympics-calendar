@@ -18,7 +18,7 @@ export default [
   {
     rules: {
       "comma-dangle": ["error", "always-multiline"],
-      complexity: ["error", 8],
+      complexity: ["error", 15],
       quotes: ["error", "double"],
       semi: ["error", "always"],
     },

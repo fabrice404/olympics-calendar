@@ -5,6 +5,7 @@
   "scripts": {
     "start": "find ./cache/**/*.html -mmin +10 -exec rm -f {} \\; | DEBUG=paris2024:* ts-node src/index.ts",
     "dev": "DEBUG=paris2024:* nodemon src/index.ts",
+    "build": "tsc",
     "lint": "eslint . --fix",
     "test": "vitest run --coverage"
   },
