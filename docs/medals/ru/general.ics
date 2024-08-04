@@ -2681,15 +2681,6 @@ SUMMARY:🤸 Вольные упражнения, финал (ж)
 LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T123000Z-badminton---THA-DEN
-DTSTAMP:20240805T123000Z
-DTSTART:20240805T123000Z
-DTEND:20240805T153000Z
-DESCRIPTION:Бадминтон - Финал, одиночный (м)
-SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇩🇰 Viktor AXELSEN
-LOCATION:Арена «Ла-Шапель»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T123000Z-badminton--3--MAS-IND
 DTSTAMP:20240805T123000Z
 DTSTART:20240805T123000Z
@@ -2715,6 +2706,15 @@ DTEND:20240805T133000Z
 DESCRIPTION:Стрельба - Скит, финал (микст)
 SUMMARY:🔫 Скит, финал (микст)
 LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T134000Z-badminton---THA-DEN
+DTSTAMP:20240805T134000Z
+DTSTART:20240805T134000Z
+DTEND:20240805T153000Z
+DESCRIPTION:Бадминтон - Финал, одиночный (м)
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇩🇰 Viktor AXELSEN
+LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T145500Z-canoe-slalom--
@@ -2950,7 +2950,11 @@ UID:20240806T175700Z-athletics--
 DTSTAMP:20240806T175700Z
 DTSTART:20240806T175700Z
 DTEND:20240806T190700Z
-DESCRIPTION:Легкая атлетика - Метание молота, финал (ж)
+DESCRIPTION:Легкая атлетика - Метание молота, финал (ж)\n🇵🇱 Anita
+  WLODARCZYK\n🇺🇸 Annette Nneka ECHIKUNWOKE\n🇷🇴 Bianca Florentina
+  GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸 Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰
+  Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇻🇪 Rosa Andreina
+  RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇨🇳 ZHAO Jie
 SUMMARY:🏃 Метание молота, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

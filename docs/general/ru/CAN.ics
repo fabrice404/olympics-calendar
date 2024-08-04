@@ -4348,12 +4348,12 @@ SUMMARY:🏀 Канада 🇨🇦 - 🇳🇬 Нигерия
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T114000Z-fencing--5-8-
+UID:20240804T114000Z-fencing--5-8--CHN-CAN
 DTSTAMP:20240804T114000Z
 DTSTART:20240804T114000Z
 DTEND:20240804T125000Z
-DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (м)\n🇨🇦 Канада
-SUMMARY:🤺 Командная рапира, за 5-8 места (м)
+DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (м)
+SUMMARY:🤺 Китай 🇨🇳 - 🇨🇦 Канада
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -4961,6 +4961,19 @@ DTEND:20240806T174500Z
 DESCRIPTION:Баскетбол - 1/4 финала (м)
 SUMMARY:🏀 Франция 🇫🇷 - 🇨🇦 Канада
 LOCATION:Арена «Берси»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T175700Z-athletics--
+DTSTAMP:20240806T175700Z
+DTSTART:20240806T175700Z
+DTEND:20240806T190700Z
+DESCRIPTION:Легкая атлетика - Метание молота, финал (ж)\n🇵🇱 Anita
+  WLODARCZYK\n🇺🇸 Annette Nneka ECHIKUNWOKE\n🇷🇴 Bianca Florentina
+  GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸 Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰
+  Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇻🇪 Rosa Andreina
+  RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇨🇳 ZHAO Jie
+SUMMARY:🏃 Метание молота, финал (ж)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T101300Z-sailing--13-

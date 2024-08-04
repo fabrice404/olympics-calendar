@@ -26821,12 +26821,12 @@ SUMMARY:🤺 Египет 🇪🇬 - 🇵🇱 Польша
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T114000Z-fencing--5-8-
+UID:20240804T114000Z-fencing--5-8--CHN-CAN
 DTSTAMP:20240804T114000Z
 DTSTART:20240804T114000Z
 DTEND:20240804T125000Z
-DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (м)\n🇨🇦 Канада
-SUMMARY:🤺 Командная рапира, за 5-8 места (м)
+DESCRIPTION:Фехтование - Командная рапира, за 5-8 места (м)
+SUMMARY:🤺 Китай 🇨🇳 - 🇨🇦 Канада
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -26834,7 +26834,8 @@ UID:20240804T115200Z-archery-12-
 DTSTAMP:20240804T115200Z
 DTSTART:20240804T115200Z
 DTEND:20240804T120500Z
-DESCRIPTION:Стрельба из лука - 1/2 финала, индивидуальные (м)
+DESCRIPTION:Стрельба из лука - 1/2 финала, индивидуальные (м)\n🇰🇷 LEE
+  Wooseok
 SUMMARY:🏹 1/2 финала, индивидуальные (м)
 LOCATION:Дом инвалидов
 END:VEVENT
@@ -27020,12 +27021,12 @@ SUMMARY:🤺 Италия 🇮🇹 - 🇺🇸 США
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T125000Z-fencing--1-
+UID:20240804T125000Z-fencing--1--JPN-FRA
 DTSTAMP:20240804T125000Z
 DTSTART:20240804T125000Z
 DTEND:20240804T140000Z
-DESCRIPTION:Фехтование - Командная рапира, полуфинал 1 (м)\n🇯🇵 Япония
-SUMMARY:🤺 Командная рапира, полуфинал 1 (м)
+DESCRIPTION:Фехтование - Командная рапира, полуфинал 1 (м)
+SUMMARY:🤺 Япония 🇯🇵 - 🇫🇷 Франция
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -28265,15 +28266,6 @@ SUMMARY:🤸 Вольные упражнения, финал (ж)
 LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T123000Z-badminton---THA-DEN
-DTSTAMP:20240805T123000Z
-DTSTART:20240805T123000Z
-DTEND:20240805T153000Z
-DESCRIPTION:Бадминтон - Финал, одиночный (м)
-SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇩🇰 Viktor AXELSEN
-LOCATION:Арена «Ла-Шапель»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T123000Z-badminton--3--MAS-IND
 DTSTAMP:20240805T123000Z
 DTSTART:20240805T123000Z
@@ -28422,6 +28414,15 @@ DTEND:20240805T135000Z
 DESCRIPTION:Гребной слалом - Экстрим-слалом, четвертьфинал (ж)
 SUMMARY:🛶 Экстрим-слалом, четвертьфинал (ж)
 LOCATION:Водный ст. - Белая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T134000Z-badminton---THA-DEN
+DTSTAMP:20240805T134000Z
+DTSTART:20240805T134000Z
+DTEND:20240805T153000Z
+DESCRIPTION:Бадминтон - Финал, одиночный (м)
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇩🇰 Viktor AXELSEN
+LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T134500Z-sailing--10-
@@ -30000,7 +30001,11 @@ UID:20240806T175700Z-athletics--
 DTSTAMP:20240806T175700Z
 DTSTART:20240806T175700Z
 DTEND:20240806T190700Z
-DESCRIPTION:Легкая атлетика - Метание молота, финал (ж)
+DESCRIPTION:Легкая атлетика - Метание молота, финал (ж)\n🇵🇱 Anita
+  WLODARCZYK\n🇺🇸 Annette Nneka ECHIKUNWOKE\n🇷🇴 Bianca Florentina
+  GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸 Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰
+  Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇻🇪 Rosa Andreina
+  RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇨🇳 ZHAO Jie
 SUMMARY:🏃 Метание молота, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

@@ -67,21 +67,21 @@ SUMMARY:🏸 AN Se Young 🇰🇷 - 🇨🇳 HE Bing Jiao
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T123000Z-badminton--THA-DEN
-DTSTAMP:20240805T123000Z
-DTSTART:20240805T123000Z
-DTEND:20240805T153000Z
-DESCRIPTION:バドミントン - 男子シングルス決勝戦
-SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇩🇰 Viktor AXELSEN
-LOCATION:ラ・シャペル・アリーナ
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T123000Z-badminton-3-MAS-IND
 DTSTAMP:20240805T123000Z
 DTSTART:20240805T123000Z
 DTEND:20240805T153000Z
 DESCRIPTION:バドミントン - 男子シングルス3位決定戦
 SUMMARY:🏸 Zii Jia LEE 🇲🇾 - 🇮🇳 Lakshya SEN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T134000Z-badminton--THA-DEN
+DTSTAMP:20240805T134000Z
+DTSTART:20240805T134000Z
+DTEND:20240805T153000Z
+DESCRIPTION:バドミントン - 男子シングルス決勝戦
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇩🇰 Viktor AXELSEN
 LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 END:VCALENDAR
