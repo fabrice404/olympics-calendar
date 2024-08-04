@@ -1370,6 +1370,28 @@ SUMMARY:🏃 男子400米跨栏第1轮
 LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T175500Z-athletics-2001
+DTSTAMP:20240805T175500Z
+DTSTART:20240805T175500Z
+DTEND:20240805T183100Z
+DESCRIPTION:田径 - 男子200米第1轮\n🇨🇦 Aaron BROWN\n🇵🇱 Albert KOMANSKI\n🇩🇴
+  Alexander OGANDO\n🇨🇦 Andre De GRASSE\n🇯🇲 Andrew HUDSON\n🇿🇦 Benjamin
+  RICHARDSON\n🇮🇱 Blessing Akwasi AFRIFAH\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan
+  LEVELL\n🇦🇺 Calab LAW\n🇵🇾 Cesar ALMIRON\n🇨🇮 Cheickna TRAORE\n🇮🇹
+  Diego Aldo PETTOROSSI\n🇨🇿 Eduard KUBELIK\n🇸🇪 Erik ERLANDSSON\n🇺🇸
+  Erriyon KNIGHTON\n🇮🇹 Eseosa Fostine DESALU\n🇨🇭 Felix SVENSSON\n🇮🇹
+  Filippo TORTU\n🇯🇵 IIZUKA Shota\n🇧🇸 Ian KERR\n🇩🇴 Jose GONZALEZ\n🇱🇷
+  Joseph FAHNBULLEH\n🇩🇪 Joshua HARTMANN\n🇺🇸 Kenneth BEDNAREK\n🇧🇼
+  Letsile TEBOGO\n🇿🇼 Makanakaishe CHARAMBA\n🇺🇸 Noah LYLES\n🇨🇿 Ondrej
+  MACIK\n🇫🇷 Pablo MATEO\n🇧🇷 Renan CORREA\n🇫🇷 Ryan ZEZE\n🇿🇦 Shaun
+  MASWANGANYI\n🇿🇼 Tapiwanashe MAKARAWU\n🇺🇬 Tarsis Gracious OROGOT\n🇨🇭
+  Timothe MUMENTHALER\n🇨🇿 Tomas NEMEJC\n🇯🇵 UEYAMA Koki\n🇯🇵 UZAWA
+  Towa\n🇳🇬 Udodi Chudi ONWUZURIKE\n🇧🇸 Wanya McCOY\n🇿🇦 Wayde van
+  NIEKERK\n🇨🇭 William REAIS\n🇹🇼 YANG Chun-Han\n🇬🇧 Zharnel HUGHES
+SUMMARY:🏃 男子200米第1轮
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T080000Z-table-tennis-16-AUS-TPE
 DTSTAMP:20240806T080000Z
 DTSTART:20240806T080000Z
@@ -1388,12 +1410,12 @@ SUMMARY:🥊 CHEN Nien Chin 🇹🇼 - 🇨🇳 YANG Liu
 LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T193000Z-boxing-57-
+UID:20240807T193000Z-boxing-57--TPE-TUR
 DTSTAMP:20240807T193000Z
 DTSTART:20240807T193000Z
 DTEND:20240807T194100Z
-DESCRIPTION:拳击 - 女子57公斤级 - 半决赛\n🇹🇼 LIN Yu Ting
-SUMMARY:🥊 女子57公斤级 - 半决赛
+DESCRIPTION:拳击 - 女子57公斤级 - 半决赛
+SUMMARY:🥊 LIN Yu Ting 🇹🇼 - 🇹🇷 Esra YILDIZ KAHRAMAN
 LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
