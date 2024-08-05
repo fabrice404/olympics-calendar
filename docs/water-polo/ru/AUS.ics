@@ -93,4 +93,13 @@ DESCRIPTION:Водное поло - Четвертьфинал (ж)
 SUMMARY:🤽 Австралия 🇦🇺 - 🇬🇷 Греция
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T170000Z-water-polo---USA-AUS
+DTSTAMP:20240807T170000Z
+DTSTART:20240807T170000Z
+DTEND:20240807T182500Z
+DESCRIPTION:Водное поло - Четвертьфинал (м)
+SUMMARY:🤽 США 🇺🇸 - 🇦🇺 Австралия
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
 END:VCALENDAR

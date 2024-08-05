@@ -48,4 +48,13 @@ DESCRIPTION:Водное поло - Групповой этап - Группа A
 SUMMARY:🤽 Хорватия 🇭🇷 - 🇺🇸 США
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T120000Z-water-polo---CRO-ESP
+DTSTAMP:20240807T120000Z
+DTSTART:20240807T120000Z
+DTEND:20240807T132500Z
+DESCRIPTION:Водное поло - Четвертьфинал (м)
+SUMMARY:🤽 Хорватия 🇭🇷 - 🇪🇸 Испания
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
 END:VCALENDAR
