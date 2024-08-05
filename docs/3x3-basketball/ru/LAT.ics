@@ -75,4 +75,13 @@ DESCRIPTION:Баскетбол 3х3 - 1/2 финала (м)
 SUMMARY:🏀 Латвия 🇱🇻 - 🇫🇷 Франция
 LOCATION:Площадь Согласия 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T193000Z-3x3-basketball--3--LAT-LTU
+DTSTAMP:20240805T193000Z
+DTSTART:20240805T193000Z
+DTEND:20240805T195500Z
+DESCRIPTION:Баскетбол 3х3 - Матч за 3-е место (м)
+SUMMARY:🏀 Латвия 🇱🇻 - 🇱🇹 Литва
+LOCATION:Площадь Согласия 1
+END:VEVENT
 END:VCALENDAR
