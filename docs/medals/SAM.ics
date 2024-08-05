@@ -3,4 +3,17 @@ VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/SAM//EN
 X-WR-CALNAME:🇼🇸 Samoa 🏅 | Paris 2024
 NAME:🇼🇸 Samoa 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240807T182500Z-athletics-MENS-DISCUS-THROW-FINAL
+DTSTAMP:20240807T182500Z
+DTSTART:20240807T182500Z
+DTEND:20240807T193500Z
+DESCRIPTION:Athletics - Men's Discus Throw Final\n🇼🇸 Alex ROSE\n🇷🇴 Alin
+  Alexandru FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇩🇪 Clemens PRUEFER\n🇸🇪
+  Daniel STAHL\n🇸🇮 Kristjan CEH\n🇦🇹 Lukas WEISSHAIDINGER\n🇦🇺 Matthew
+  DENNY\n🇱🇹 Mykolas ALEKNA\n🇯🇲 Ralford MULLINGS\n🇯🇲 Roje STONA\n🇯🇲
+  Traves SMIKLE
+SUMMARY:🏃 Men's Discus Throw Final
+LOCATION:Stade de France
+END:VEVENT
 END:VCALENDAR
