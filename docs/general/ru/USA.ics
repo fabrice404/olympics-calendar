@@ -8539,15 +8539,6 @@ SUMMARY:🏃 200м, раунд 1 (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T181200Z-surfing--1--USA-FRA
-DTSTAMP:20240805T181200Z
-DTSTART:20240805T181200Z
-DTEND:20240805T184200Z
-DESCRIPTION:Серфинг - Полуфиналы, заезд 1 (ж)
-SUMMARY:🏄 Caroline MARKS 🇺🇸 - 🇫🇷 Johanne DEFAY
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T183000Z-athletics--
 DTSTAMP:20240805T183000Z
 DTSTART:20240805T183000Z
@@ -8629,6 +8620,15 @@ DESCRIPTION:Легкая атлетика - 800м, финал (ж)\n🇺🇸 Jul
   DUGUMA\n🇪🇹 Worknesh MESELE
 SUMMARY:🏃 800м, финал (ж)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T214200Z-surfing--1--USA-FRA
+DTSTAMP:20240805T214200Z
+DTSTART:20240805T214200Z
+DTEND:20240805T221200Z
+DESCRIPTION:Серфинг - Полуфиналы, заезд 1 (ж)
+SUMMARY:🏄 Caroline MARKS 🇺🇸 - 🇫🇷 Johanne DEFAY
+LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T080000Z-equestrian--

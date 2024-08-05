@@ -2826,15 +2826,6 @@ SUMMARY:🏃 5000м, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T192400Z-surfing--
-DTSTAMP:20240805T192400Z
-DTSTART:20240805T192400Z
-DTEND:20240805T195900Z
-DESCRIPTION:Серфинг - Поединок за бронзу (м)
-SUMMARY:🏄 Поединок за бронзу (м)
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T193000Z-3x3-basketball--3--LAT-LTU
 DTSTAMP:20240805T193000Z
 DTSTART:20240805T193000Z
@@ -2865,15 +2856,6 @@ SUMMARY:🏀 Германия 🇩🇪 - 🇪🇸 Испания
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T200500Z-surfing--
-DTSTAMP:20240805T200500Z
-DTSTART:20240805T200500Z
-DTEND:20240805T204000Z
-DESCRIPTION:Серфинг - Поединок за бронзу (ж)
-SUMMARY:🏄 Поединок за бронзу (ж)
-LOCATION:Теахупоо, Таити
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T203000Z-3x3-basketball---FRA-NED
 DTSTAMP:20240805T203000Z
 DTSTART:20240805T203000Z
@@ -2883,19 +2865,37 @@ SUMMARY:🏀 Франция 🇫🇷 - 🇳🇱 Нидерланды
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T204600Z-surfing--
-DTSTAMP:20240805T204600Z
-DTSTART:20240805T204600Z
-DTEND:20240805T212100Z
+UID:20240805T225400Z-surfing--
+DTSTAMP:20240805T225400Z
+DTSTART:20240805T225400Z
+DTEND:20240805T232900Z
+DESCRIPTION:Серфинг - Поединок за бронзу (м)
+SUMMARY:🏄 Поединок за бронзу (м)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T233500Z-surfing--
+DTSTAMP:20240805T233500Z
+DTSTART:20240805T233500Z
+DTEND:20240806T001000Z
+DESCRIPTION:Серфинг - Поединок за бронзу (ж)
+SUMMARY:🏄 Поединок за бронзу (ж)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T001600Z-surfing--
+DTSTAMP:20240806T001600Z
+DTSTART:20240806T001600Z
+DTEND:20240806T005100Z
 DESCRIPTION:Серфинг - Финал (м)
 SUMMARY:🏄 Финал (м)
 LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T212700Z-surfing--
-DTSTAMP:20240805T212700Z
-DTSTART:20240805T212700Z
-DTEND:20240805T220200Z
+UID:20240806T005700Z-surfing--
+DTSTAMP:20240806T005700Z
+DTSTART:20240806T005700Z
+DTEND:20240806T013200Z
 DESCRIPTION:Серфинг - Финал (ж)
 SUMMARY:🏄 Финал (ж)
 LOCATION:Теахупоо, Таити
