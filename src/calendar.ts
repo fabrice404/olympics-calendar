@@ -394,7 +394,10 @@ export class Calendar {
       }
 
       content.push(`<div class="event py-4" data-start="${event.DTSTART}" data-end="${event.DTEND}" data-noc="${event._NOCS.sort().join(",")}">`);
-      content.push(" <div class=\"time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10\">__:__</div>");
+      content.push(" <div class=\"time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10\">");
+      content.push("  <span class=\"time-start\">__:__</span>");
+      content.push("  <div class=\"time-end text-xs\">__:__</div>");
+      content.push(" </div>");
       content.push(" <div class=\"w-3/5 align-top inline-block text-black pl-2\">");
       content.push("   <div class=\"text-2xl\">");
       content.push(`   ${event._MEDAL ? "🏅" : ""}`);

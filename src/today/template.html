@@ -86,7 +86,8 @@
 
       if (!noc || nocs.includes(noc)) {
         if (now.day === start.day) {
-          element.querySelector(".time").textContent = start.toLocaleString(DateTime.TIME_24_SIMPLE);
+          element.querySelector(".time-start").textContent = start.toLocaleString(DateTime.TIME_24_SIMPLE);
+          element.querySelector(".time-end").textContent = end.toLocaleString(DateTime.TIME_24_SIMPLE);
           if (end < now) {
             if (end > fifteenMinuteAgo) {
               element.classList.add(cycleColor());
