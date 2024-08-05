@@ -6504,6 +6504,21 @@ SUMMARY:⛵ Men's Dinghy - Race 9
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T130000Z-diving-WOMENS-10M-PLATFORM-SEMIFINAL
+DTSTAMP:20240805T130000Z
+DTSTART:20240805T130000Z
+DTEND:20240805T143500Z
+DESCRIPTION:Diving - Women's 10m Platform Semifinal\n🇯🇵 ARAI
+  Matsuri\n🇲🇽 Alejandra OROZCO LOZA\n🇪🇸 Ana CARVAJAL\n🇬🇧 Andrea
+  SPENDOLINI SIRIEIX\n🇨🇺 Anisley GARCIA NAVARRO\n🇨🇳 CHEN Yuxi\n🇨🇦
+  Caeli McKAY\n🇩🇪 Christina WASSEN\n🇺🇸 Delaney SCHNELL\n🇦🇺 Ellie
+  COLE\n🇳🇱 Else PRAASTERINK\n🇲🇽 Gabriela AGUNDEZ GARCIA\n🇰🇵 KIM Mi
+  Rae\n🇬🇧 Lois TOULSON\n🇮🇹 Maia BIGINELLI\n🇦🇺 Melissa WU\n🇨🇳 QUAN
+  Hongchan\n🇮🇹 Sarah JODOIN di MARIA
+SUMMARY:🏊 Women's 10m Platform Semifinal
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T130000Z-table-tennis-MENS-TEAM-ROUND-OF-16-JPN-AUS
 DTSTAMP:20240805T130000Z
 DTSTART:20240805T130000Z
@@ -7055,6 +7070,16 @@ SUMMARY:🤽 AUS 🇦🇺 - 🇬🇷 GRE
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T173000Z-artistic-swimming-TEAM-FREE-ROUTINE
+DTSTAMP:20240806T173000Z
+DTSTART:20240806T173000Z
+DTEND:20240806T185000Z
+DESCRIPTION:Artistic Swimming - Team Free Routine\n🇦🇺 AUS\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Free Routine
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T180700Z-athletics-WOMENS-400M-HURDLES-SEMI-FINAL
 DTSTAMP:20240806T180700Z
 DTSTART:20240806T180700Z
@@ -7225,6 +7250,17 @@ DESCRIPTION:Diving - Women's 3m Springboard Preliminary\n🇲🇽 Alejandra
   BACON\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇺🇦 Viktoriya
   KESAR\n🇬🇧 Yasmin HARPER
 SUMMARY:🏊 Women's 3m Springboard Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming-TEAM-ACROBATIC-ROUTINE
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:Artistic Swimming - Team Acrobatic Routine\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸
+  ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Acrobatic Routine
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
