@@ -469,7 +469,7 @@ export class Calendar {
       if (a.bronze !== b.bronze) {
         return a.bronze < b.bronze ? 1 : -1;
       }
-      return 0;
+      return a.name > b.name ? 1 : -1;
     }).forEach((noc) => {
       content.push(`<div class="collapse collapse-arrow bg-gray-100 mb-1">`);
       content.push(`  <input type="radio" name="accordion">`);
