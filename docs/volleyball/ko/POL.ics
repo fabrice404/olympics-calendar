@@ -75,4 +75,13 @@ DESCRIPTION:배구 - 여자 8강
 SUMMARY:🏐 미국 🇺🇸 - 🇵🇱 폴란드
 LOCATION:사우스 파리 아레나 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-volleyball--
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T161500Z
+DESCRIPTION:배구 - 남자 준결승\n🇵🇱 폴란드
+SUMMARY:🏐 남자 준결승
+LOCATION:사우스 파리 아레나 1
+END:VEVENT
 END:VCALENDAR

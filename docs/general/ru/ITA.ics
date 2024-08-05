@@ -7214,6 +7214,23 @@ SUMMARY:⛵ Кайт, гонка 07 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T103000Z-athletics-200-
+DTSTAMP:20240806T103000Z
+DTSTART:20240806T103000Z
+DTEND:20240806T105500Z
+DESCRIPTION:Легкая атлетика - 200м, утешительный раунд (м)\n🇨🇦 Aaron
+  BROWN\n🇵🇱 Albert KOMANSKI\n🇯🇲 Andrew HUDSON\n🇿🇦 Benjamin
+  RICHARDSON\n🇮🇱 Blessing Akwasi AFRIFAH\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan
+  LEVELL\n🇦🇺 Calab LAW\n🇵🇾 Cesar ALMIRON\n🇨🇮 Cheickna TRAORE\n🇮🇹
+  Diego Aldo PETTOROSSI\n🇨🇿 Eduard KUBELIK\n🇸🇪 Erik ERLANDSSON\n🇨🇭
+  Felix SVENSSON\n🇯🇵 IIZUKA Shota\n🇧🇸 Ian KERR\n🇨🇿 Ondrej MACIK\n🇫🇷
+  Pablo MATEO\n🇫🇷 Ryan ZEZE\n🇨🇭 Timothe MUMENTHALER\n🇨🇿 Tomas
+  NEMEJC\n🇯🇵 UEYAMA Koki\n🇳🇬 Udodi Chudi ONWUZURIKE\n🇨🇭 William
+  REAIS\n🇹🇼 YANG Chun-Han
+SUMMARY:🏃 200м, утешительный раунд (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T104800Z-sailing--07-
 DTSTAMP:20240806T104800Z
 DTSTART:20240806T104800Z
@@ -7861,6 +7878,15 @@ DESCRIPTION:Синхронное плавание - Группы, акробат
   Китай\n🇲🇽 Мексика\n🇺🇸 США\n🇫🇷 Франция\n🇯🇵 Япония
 SUMMARY:🏊 Группы, акробатическая программа
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T180000Z-volleyball---ITA-FRA
+DTSTAMP:20240807T180000Z
+DTSTART:20240807T180000Z
+DTEND:20240807T201500Z
+DESCRIPTION:Волейбол - Полуфиналы (м)
+SUMMARY:🏐 Италия 🇮🇹 - 🇫🇷 Франция
+LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T080000Z-sport-climbing--

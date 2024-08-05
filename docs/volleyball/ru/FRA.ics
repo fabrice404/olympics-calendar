@@ -66,4 +66,13 @@ DESCRIPTION:Волейбол - 1/4 финала (м)
 SUMMARY:🏐 Франция 🇫🇷 - 🇩🇪 Германия
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T180000Z-volleyball---ITA-FRA
+DTSTAMP:20240807T180000Z
+DTSTART:20240807T180000Z
+DTEND:20240807T201500Z
+DESCRIPTION:Волейбол - Полуфиналы (м)
+SUMMARY:🏐 Италия 🇮🇹 - 🇫🇷 Франция
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
 END:VCALENDAR
