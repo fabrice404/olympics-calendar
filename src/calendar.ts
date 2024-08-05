@@ -331,7 +331,7 @@ export class Calendar {
 
     calendars.push(`<div class="${accordionClass}">`);
     calendars.push(`  <input type="radio" name="accordion">`);
-    calendars.push(`  <div class="collapse-title text-xl font-medium">🏅 {{translate_medalEvents}</div>`);
+    calendars.push(`  <div class="collapse-title text-xl font-medium">🏅 {{translate_medalEvents}}</div>`);
     calendars.push(`  <div class="collapse-content text-center">`)
     calendars.push(`    <div>`);
     calendars.push(`      <button class="${buttonClass}" onclick="showModal('medals/general', '${this.language}');">{{translate_fullSchedule}}</button>`);
