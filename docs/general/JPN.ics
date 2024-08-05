@@ -5760,6 +5760,35 @@ SUMMARY:🏊 Team Acrobatic Routine
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T173000Z-weightlifting-WOMENS-49KG
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T200000Z
+DESCRIPTION:Weightlifting - Women's 49kg\n🇩🇴 Beatriz PIRON
+  CANDELARIO\n🇹🇼 FANG Wan-Ling\n🇨🇳 HOU Zhihui\n🇺🇸 Jourdan
+  DELACRUZ\n🇻🇪 Katherin ECHANDIA ZARATE\n🇷🇴 Mihaela Valentina
+  CAMBEI\n🇮🇳 Mirabai Chanu SAIKHOM\n🇬🇺 Nicola Velasco LAGATAO\n🇧🇪
+  Nina STERCKX\n🇲🇬 Rosina RANDAFIARISON\n🇯🇵 SUZUKI Rira\n🇹🇭
+  Surodchana KHAMBAO
+SUMMARY:🏋 Women's 49kg
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T194300Z-athletics-MENS-3000M-STEEPLECHASE-FINAL
+DTSTAMP:20240807T194300Z
+DTSTART:20240807T194300Z
+DTEND:20240807T195200Z
+DESCRIPTION:Athletics - Men's 3000m Steeplechase Final\n🇰🇪 Abraham
+  KIBIWOT\n🇹🇳 Ahmed JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund
+  SABLE\n🇪🇸 Daniel ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon
+  DESGAGNES\n🇺🇸 Kenneth ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard
+  CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳 Mohamed Amin JHINAOUI\n🇲🇦 Mohamed
+  TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪 Simon Kiprop KOECH\n🇲🇦 Soufiane EL
+  BAKKALI
+SUMMARY:🏃 Men's 3000m Steeplechase Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T080000Z-sport-climbing-WOMENS-BOULDER-LEAD-SEMIFINAL-LEAD
 DTSTAMP:20240808T080000Z
 DTSTART:20240808T080000Z
@@ -5773,6 +5802,19 @@ DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Semifinal Lead\n🇺🇸
   Chaehyun\n🇨🇳 ZHANG Yuetong\n🇫🇷 Zelia AVEZOU
 SUMMARY:🧗 Women's Boulder & Lead, Semifinal Lead
 LOCATION:Le Bourget Climbing Venue
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-MENS-73KG
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:Weightlifting - Men's 73kg\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin
+  KINGUE MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA
+  PERNIA\n🇹🇳 Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO
+  Masanori\n🇹🇷 Muhammed OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki
+  JUNIANSYAH\n🇨🇳 SHI Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 Men's 73kg
+LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T080000Z-diving-MENS-10M-PLATFORM-PRELIMINARY
@@ -5814,6 +5856,19 @@ DESCRIPTION:Artistic Swimming - Duet Free Routine\n🇦🇺 AUS\n🇦🇹 AUT\n�
   UKR\n🇺🇸 USA
 SUMMARY:🏊 Duet Free Routine
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T183000Z-weightlifting-MENS-102KG
+DTSTAMP:20240810T183000Z
+DTSTART:20240810T183000Z
+DTEND:20240810T210000Z
+DESCRIPTION:Weightlifting - Men's +102kg\n🇪🇬 Abdelrahman ABDELAZIZ
+  ELSAYED\n🇮🇶 Ali Ammar Yusur RUBAIAWI\n🇮🇷 Ali DAVOUDI\n🇳🇿 David
+  LITI\n🇧🇭 Gor MINASYAN\n🇨🇿 Kamil KUCERA\n🇬🇪 Lasha TALAKHADZE\n🇯🇵
+  MURAKAMI Eishiro\n🇸🇾 Man ASAAD\n🇪🇪 Mart SEIM\n🇦🇲 Varazdat
+  LALAYAN\n🇩🇿 Walid BIDANI
+SUMMARY:🏋 Men's +102kg
+LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

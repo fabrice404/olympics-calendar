@@ -3,4 +3,17 @@ VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/SYR//EN
 X-WR-CALNAME:🇸🇾 Syria 🏅 | Paris 2024
 NAME:🇸🇾 Syria 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240810T183000Z-weightlifting-MENS-102KG
+DTSTAMP:20240810T183000Z
+DTSTART:20240810T183000Z
+DTEND:20240810T210000Z
+DESCRIPTION:Weightlifting - Men's +102kg\n🇪🇬 Abdelrahman ABDELAZIZ
+  ELSAYED\n🇮🇶 Ali Ammar Yusur RUBAIAWI\n🇮🇷 Ali DAVOUDI\n🇳🇿 David
+  LITI\n🇧🇭 Gor MINASYAN\n🇨🇿 Kamil KUCERA\n🇬🇪 Lasha TALAKHADZE\n🇯🇵
+  MURAKAMI Eishiro\n🇸🇾 Man ASAAD\n🇪🇪 Mart SEIM\n🇦🇲 Varazdat
+  LALAYAN\n🇩🇿 Walid BIDANI
+SUMMARY:🏋 Men's +102kg
+LOCATION:South Paris Arena 6
+END:VEVENT
 END:VCALENDAR

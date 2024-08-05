@@ -2913,6 +2913,18 @@ SUMMARY:⛵ Mixed Multihull - Race 12
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T124300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240806T124300Z
+DTSTART:20240806T124300Z
+DTEND:20240806T130300Z
+DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Women's Dinghy Medal Race
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T171400Z-cycling-track-MENS-TEAM-PURSUIT-FIRST-ROUND
 DTSTAMP:20240806T171400Z
 DTSTART:20240806T171400Z
@@ -3029,6 +3041,20 @@ DTEND:20240807T141500Z
 DESCRIPTION:Basketball - Women's Quarterfinal
 SUMMARY:🏀 ESP 🇪🇸 - 🇧🇪 BEL
 LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-weightlifting-WOMENS-49KG
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T200000Z
+DESCRIPTION:Weightlifting - Women's 49kg\n🇩🇴 Beatriz PIRON
+  CANDELARIO\n🇹🇼 FANG Wan-Ling\n🇨🇳 HOU Zhihui\n🇺🇸 Jourdan
+  DELACRUZ\n🇻🇪 Katherin ECHANDIA ZARATE\n🇷🇴 Mihaela Valentina
+  CAMBEI\n🇮🇳 Mirabai Chanu SAIKHOM\n🇬🇺 Nicola Velasco LAGATAO\n🇧🇪
+  Nina STERCKX\n🇲🇬 Rosina RANDAFIARISON\n🇯🇵 SUZUKI Rira\n🇹🇭
+  Surodchana KHAMBAO
+SUMMARY:🏋 Women's 49kg
+LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T082200Z-taekwondo-WOMEN-67KG-ROUND-OF-16-BEL-DOM

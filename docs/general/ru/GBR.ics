@@ -6231,6 +6231,15 @@ SUMMARY:🏃 200м, раунд 1 (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T175900Z-cycling-track---GBR-NZL
+DTSTAMP:20240805T175900Z
+DTSTART:20240805T175900Z
+DTEND:20240805T180300Z
+DESCRIPTION:Трековые велогонки - Командный спринт, финал (ж)
+SUMMARY:🚴 Великобритания 🇬🇧 - 🇳🇿 Новая Зеландия
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T184500Z-athletics-200-
 DTSTAMP:20240805T184500Z
 DTSTART:20240805T184500Z
@@ -7101,6 +7110,19 @@ DESCRIPTION:Синхронное плавание - Дуэты, произвол
   Украина\n🇫🇷 Франция\n🇰🇷 Южная Корея\n🇯🇵 Япония
 SUMMARY:🏊 Дуэты, произвольная программа
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T093000Z-weightlifting--81-
+DTSTAMP:20240811T093000Z
+DTSTART:20240811T093000Z
+DTEND:20240811T120000Z
+DESCRIPTION:Тяжелая атлетика - Свыше 81кг (ж)\n🇩🇴 Crismery SANTANA
+  PEGUERO\n🇹🇭 Duangaksorn CHAIDEE\n🇬🇧 Emily CAMPBELL\n🇪🇬 Halima
+  ABBAS\n🇼🇸 Iuniarra SIPAIA\n🇨🇳 LI Wenwen\n🇪🇨 Lisseth Betzaida AYOVI
+  CABEZAS\n🇺🇸 Mary THEISEN LAPPEN\n🇻🇪 Naryury PEREZ REVERON\n🇮🇩 Nurul
+  AKMAL\n🇰🇷 PARK Hyejeong\n🇺🇿 Tursunoy JABBOROVA
+SUMMARY:🏋 Свыше 81кг (ж)
+LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

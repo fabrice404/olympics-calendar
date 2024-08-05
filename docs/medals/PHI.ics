@@ -67,6 +67,19 @@ SUMMARY:🥊 Buse Naz CAKIROGLU 🇹🇷 - 🇵🇭 Aira VILLEGAS
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T130000Z-weightlifting-MENS-61KG
+DTSTAMP:20240807T130000Z
+DTSTART:20240807T130000Z
+DTEND:20240807T153000Z
+DESCRIPTION:Weightlifting - Men's 61kg\n🇮🇩 Eko IRAWAN\n🇺🇸 Hampton
+  MORRIS\n🇧🇬 Ivan Petkov DIMOV\n🇵🇭 John Febuar CENIZA\n🇰🇮 Kaimauri
+  ERATI\n🇨🇳 LI Fabin\n🇲🇾 Mohamad Aniq BIN KASDAN\n🇵🇬 Morea BARU\n🇮🇹
+  Sergio MASSIDDA\n🇬🇪 Shota MISHVELIDZE\n🇹🇭 Theerapong SILACHAI\n🇻🇳
+  van Vinh TRINH
+SUMMARY:🏋 Men's 61kg
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T194600Z-boxing-WOMENS-57KG-SEMIFINAL-PHI-POL
 DTSTAMP:20240807T194600Z
 DTSTART:20240807T194600Z
@@ -74,5 +87,31 @@ DTEND:20240807T195700Z
 DESCRIPTION:Boxing - Women's 57kg - Semifinal
 SUMMARY:🥊 Nesthy PETECIO 🇵🇭 - 🇵🇱 Julia SZEREMETA
 LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T130000Z-weightlifting-WOMENS-59KG
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T153000Z
+DESCRIPTION:Weightlifting - Women's 59kg\n🇻🇪 Anyelin VENEGAS VALERA\n🇫🇷
+  Dora TCHAKOUNTE\n🇵🇭 Elreen Ann ANDO\n🇲🇽 Janeth GOMEZ VALDIVIA\n🇹🇼
+  KUO Hsing-Chun\n🇺🇦 Kamila KONOTOP\n🇨🇳 LUO Shifang\n🇮🇹 Lucrezia
+  MAGISTRIS\n🇲🇭 Mathlynn SASSER\n🇨🇦 Maude CHARRON\n🇳🇬 Rafiatu
+  Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
+SUMMARY:🏋 Women's 59kg
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-weightlifting-WOMENS-71KG
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T200000Z
+DESCRIPTION:Weightlifting - Women's 71kg\n🇧🇷 Amanda da COSTA SCHOTT\n🇪🇨
+  Angie Paola PALACIOS DAJOMES\n🇹🇼 CHEN Wen-Huei\n🇦🇺 Jacqueline
+  NICHELE\n🇳🇬 Joy Ogbonne EZE\n🇷🇴 Loredana Elena TOMA\n🇨🇴 Mari Leivis
+  SANCHEZ\n🇫🇷 Marie FEGUE\n🇪🇬 Neama SAID\n🇺🇸 Olivia REEVES\n🇦🇸
+  Siuzanna VALODZKA\n🇵🇭 Vanessa SARNO
+SUMMARY:🏋 Women's 71kg
+LOCATION:South Paris Arena 6
 END:VEVENT
 END:VCALENDAR

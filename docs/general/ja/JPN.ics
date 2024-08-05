@@ -5694,6 +5694,33 @@ SUMMARY:🏊 チームアクロバティックルーティン
 LOCATION:アクアティックス・センター
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T173000Z-weightlifting-49KG
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T200000Z
+DESCRIPTION:ウエイトリフティング - 女子49kg級\n🇩🇴 Beatriz PIRON CANDELARIO\n🇹🇼 FANG
+  Wan-Ling\n🇨🇳 HOU Zhihui\n🇺🇸 Jourdan DELACRUZ\n🇻🇪 Katherin ECHANDIA
+  ZARATE\n🇷🇴 Mihaela Valentina CAMBEI\n🇮🇳 Mirabai Chanu SAIKHOM\n🇬🇺
+  Nicola Velasco LAGATAO\n🇧🇪 Nina STERCKX\n🇲🇬 Rosina
+  RANDAFIARISON\n🇯🇵 SUZUKI Rira\n🇹🇭 Surodchana KHAMBAO
+SUMMARY:🏋 女子49kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T194300Z-athletics-3000M
+DTSTAMP:20240807T194300Z
+DTSTART:20240807T194300Z
+DTEND:20240807T195200Z
+DESCRIPTION:陸上競技 - 男子3000m障害決勝\n🇰🇪 Abraham KIBIWOT\n🇹🇳 Ahmed
+  JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund SABLE\n🇪🇸 Daniel
+  ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon DESGAGNES\n🇺🇸 Kenneth
+  ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳
+  Mohamed Amin JHINAOUI\n🇲🇦 Mohamed TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪
+  Simon Kiprop KOECH\n🇲🇦 Soufiane EL BAKKALI
+SUMMARY:🏃 男子3000m障害決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T080000Z-sport-climbing-
 DTSTAMP:20240808T080000Z
 DTSTART:20240808T080000Z
@@ -5707,6 +5734,19 @@ DESCRIPTION:スポーツクライミング - 女子ボルダー&リード、リ�
   Chaehyun\n🇨🇳 ZHANG Yuetong\n🇫🇷 Zelia AVEZOU
 SUMMARY:🧗 女子ボルダー&リード、リード準決勝
 LOCATION:ル・ブルジェ・スポーツクライミング
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-73KG
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:ウエイトリフティング - 男子73kg級\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin KINGUE
+  MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA PERNIA\n🇹🇳
+  Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO Masanori\n🇹🇷 Muhammed
+  OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki JUNIANSYAH\n🇨🇳 SHI
+  Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 男子73kg級
+LOCATION:サウス・パリ・アリーナ6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T080000Z-diving-10M
@@ -5748,6 +5788,19 @@ DESCRIPTION:アーティスティックスイミング - デュエットフリ�
   中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
 SUMMARY:🏊 デュエットフリールーティン
 LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T183000Z-weightlifting-102KG
+DTSTAMP:20240810T183000Z
+DTSTART:20240810T183000Z
+DTEND:20240810T210000Z
+DESCRIPTION:ウエイトリフティング - 男子102kg超級\n🇪🇬 Abdelrahman ABDELAZIZ
+  ELSAYED\n🇮🇶 Ali Ammar Yusur RUBAIAWI\n🇮🇷 Ali DAVOUDI\n🇳🇿 David
+  LITI\n🇧🇭 Gor MINASYAN\n🇨🇿 Kamil KUCERA\n🇬🇪 Lasha TALAKHADZE\n🇯🇵
+  MURAKAMI Eishiro\n🇸🇾 Man ASAAD\n🇪🇪 Mart SEIM\n🇦🇲 Varazdat
+  LALAYAN\n🇩🇿 Walid BIDANI
+SUMMARY:🏋 男子102kg超級
+LOCATION:サウス・パリ・アリーナ6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

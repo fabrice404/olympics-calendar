@@ -5244,6 +5244,18 @@ SUMMARY:⛵ Women's Kite - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T124300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240806T124300Z
+DTSTART:20240806T124300Z
+DTEND:20240806T130300Z
+DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Women's Dinghy Medal Race
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T130000Z-diving-WOMENS-10M-PLATFORM-FINAL
 DTSTAMP:20240806T130000Z
 DTSTART:20240806T130000Z
@@ -5542,6 +5554,21 @@ SUMMARY:🏊 Team Acrobatic Routine
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T194300Z-athletics-MENS-3000M-STEEPLECHASE-FINAL
+DTSTAMP:20240807T194300Z
+DTSTART:20240807T194300Z
+DTEND:20240807T195200Z
+DESCRIPTION:Athletics - Men's 3000m Steeplechase Final\n🇰🇪 Abraham
+  KIBIWOT\n🇹🇳 Ahmed JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund
+  SABLE\n🇪🇸 Daniel ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon
+  DESGAGNES\n🇺🇸 Kenneth ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard
+  CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳 Mohamed Amin JHINAOUI\n🇲🇦 Mohamed
+  TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪 Simon Kiprop KOECH\n🇲🇦 Soufiane EL
+  BAKKALI
+SUMMARY:🏃 Men's 3000m Steeplechase Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T070900Z-taekwondo-WOMEN-57KG-ROUND-OF-16-CZE-CAN
 DTSTAMP:20240808T070900Z
 DTSTART:20240808T070900Z
@@ -5571,6 +5598,19 @@ SUMMARY:🛶 Women's Canoe Single 200m Heats
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T130000Z-weightlifting-WOMENS-59KG
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T153000Z
+DESCRIPTION:Weightlifting - Women's 59kg\n🇻🇪 Anyelin VENEGAS VALERA\n🇫🇷
+  Dora TCHAKOUNTE\n🇵🇭 Elreen Ann ANDO\n🇲🇽 Janeth GOMEZ VALDIVIA\n🇹🇼
+  KUO Hsing-Chun\n🇺🇦 Kamila KONOTOP\n🇨🇳 LUO Shifang\n🇮🇹 Lucrezia
+  MAGISTRIS\n🇲🇭 Mathlynn SASSER\n🇨🇦 Maude CHARRON\n🇳🇬 Rafiatu
+  Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
+SUMMARY:🏋 Women's 59kg
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T080000Z-diving-MENS-10M-PLATFORM-PRELIMINARY
 DTSTAMP:20240809T080000Z
 DTSTART:20240809T080000Z
@@ -5586,6 +5626,19 @@ DESCRIPTION:Diving - Men's 10m Platform Preliminary\n🇨🇴 Alejandro
   Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪 Timo BARTHEL\n🇨🇳 YANG Hao
 SUMMARY:🏊 Men's 10m Platform Preliminary
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-weightlifting-MENS-89KG
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T153000Z
+DESCRIPTION:Weightlifting - Men's 89kg\n🇦🇲 Andranik KARAPETYAN\n🇮🇹
+  Antonino PIZZOLATO\n🇨🇦 Boady SANTAVY\n🇪🇬 Karim ABOKAHLA\n🇧🇬 Karlos
+  May NASAR\n🇻🇪 Keydomar VALLENILLA SANCHEZ\n🇦🇺 Kyle BRUCE\n🇲🇩 Marin
+  ROBU\n🇮🇷 Mir Mostafa JAVADI ALIABADI\n🇫🇷 Romain IMADOUCHENE\n🇰🇷 YU
+  Dongju\n🇨🇴 Yeison LOPEZ
+SUMMARY:🏋 Men's 89kg
+LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T173000Z-artistic-swimming-DUET-TECHNICAL-ROUTINE

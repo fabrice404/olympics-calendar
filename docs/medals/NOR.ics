@@ -381,6 +381,18 @@ SUMMARY:🏇 Jumping Individual Final
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T124300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240806T124300Z
+DTSTART:20240806T124300Z
+DTEND:20240806T130300Z
+DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Women's Dinghy Medal Race
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T185000Z-athletics-MENS-1500M-FINAL
 DTSTAMP:20240806T185000Z
 DTSTART:20240806T185000Z
@@ -391,5 +403,19 @@ DESCRIPTION:Athletics - Men's 1500m Final\n🇰🇪 Brian KOMEN\n🇺🇸 Cole
   ARESE\n🇳🇱 Stefan NILLESSEN\n🇰🇪 Timothy CHERUIYOT\n🇺🇸 Yared NUGUSE
 SUMMARY:🏃 Men's 1500m Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T140000Z-weightlifting-WOMENS-81KG
+DTSTAMP:20240810T140000Z
+DTSTART:20240810T140000Z
+DTEND:20240810T163000Z
+DESCRIPTION:Weightlifting - Women's 81kg\n🇻🇺 Ajah PRITCHARD-LOLO\n🇲🇳
+  Ankhtsetseg MUNKHJANTSAN\n🇨🇺 Ayamey Damiana MEDINA ROCA\n🇦🇺 Eileen
+  CIKAMATANA\n🇰🇷 KIM Suhyeon\n🇧🇷 Laura NASCIMENTO AMARO\n🇪🇨 Neisi
+  Patricia DAJOMES BARRERA\n🇺🇿 Rigina ADASHBAEVA\n🇪🇬 Sara AHMED\n🇳🇴
+  Solfrid Eila Amena KOANDA\n🇵🇱 Weronika ZIELINSKA\n🏳️ Yekta JAMALI
+  GALEH\n🇩🇴 Yudelina MEJIA PEGUERO
+SUMMARY:🏋 Women's 81kg
+LOCATION:South Paris Arena 6
 END:VEVENT
 END:VCALENDAR

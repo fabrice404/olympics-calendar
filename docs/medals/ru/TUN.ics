@@ -36,4 +36,32 @@ DESCRIPTION:Плавание - 1500м вольным стилем, финал (�
 SUMMARY:🏊 1500м вольным стилем, финал (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T194300Z-athletics-3000-
+DTSTAMP:20240807T194300Z
+DTSTART:20240807T194300Z
+DTEND:20240807T195200Z
+DESCRIPTION:Легкая атлетика - 3000м с/п, финал (м)\n🇰🇪 Abraham
+  KIBIWOT\n🇹🇳 Ahmed JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund
+  SABLE\n🇪🇸 Daniel ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon
+  DESGAGNES\n🇺🇸 Kenneth ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard
+  CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳 Mohamed Amin JHINAOUI\n🇲🇦 Mohamed
+  TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪 Simon Kiprop KOECH\n🇲🇦 Soufiane EL
+  BAKKALI
+SUMMARY:🏃 3000м с/п, финал (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-73-
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:Тяжелая атлетика - 73кг (м)\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin
+  KINGUE MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA
+  PERNIA\n🇹🇳 Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO
+  Masanori\n🇹🇷 Muhammed OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki
+  JUNIANSYAH\n🇨🇳 SHI Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 73кг (м)
+LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
 END:VCALENDAR

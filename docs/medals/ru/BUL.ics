@@ -28,6 +28,32 @@ SUMMARY:🤸 Опорный прыжок, финал (ж)
 LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T130000Z-weightlifting-61-
+DTSTAMP:20240807T130000Z
+DTSTART:20240807T130000Z
+DTEND:20240807T153000Z
+DESCRIPTION:Тяжелая атлетика - 61кг (м)\n🇮🇩 Eko IRAWAN\n🇺🇸 Hampton
+  MORRIS\n🇧🇬 Ivan Petkov DIMOV\n🇵🇭 John Febuar CENIZA\n🇰🇮 Kaimauri
+  ERATI\n🇨🇳 LI Fabin\n🇲🇾 Mohamad Aniq BIN KASDAN\n🇵🇬 Morea BARU\n🇮🇹
+  Sergio MASSIDDA\n🇬🇪 Shota MISHVELIDZE\n🇹🇭 Theerapong SILACHAI\n🇻🇳
+  van Vinh TRINH
+SUMMARY:🏋 61кг (м)
+LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-73-
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:Тяжелая атлетика - 73кг (м)\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin
+  KINGUE MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA
+  PERNIA\n🇹🇳 Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO
+  Masanori\n🇹🇷 Muhammed OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki
+  JUNIANSYAH\n🇨🇳 SHI Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 73кг (м)
+LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T194600Z-boxing--57--KGZ-BUL
 DTSTAMP:20240808T194600Z
 DTSTART:20240808T194600Z
@@ -35,5 +61,18 @@ DTEND:20240808T195700Z
 DESCRIPTION:Бокс - Полуфинал, до 57кг (м)
 SUMMARY:🥊 Munarbek SEIITBEK UULU 🇰🇬 - 🇧🇬 Javier IBANEZ DIAZ
 LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-weightlifting-89-
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T153000Z
+DESCRIPTION:Тяжелая атлетика - 89кг (м)\n🇦🇲 Andranik KARAPETYAN\n🇮🇹
+  Antonino PIZZOLATO\n🇨🇦 Boady SANTAVY\n🇪🇬 Karim ABOKAHLA\n🇧🇬 Karlos
+  May NASAR\n🇻🇪 Keydomar VALLENILLA SANCHEZ\n🇦🇺 Kyle BRUCE\n🇲🇩 Marin
+  ROBU\n🇮🇷 Mir Mostafa JAVADI ALIABADI\n🇫🇷 Romain IMADOUCHENE\n🇰🇷 YU
+  Dongju\n🇨🇴 Yeison LOPEZ
+SUMMARY:🏋 89кг (м)
+LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
 END:VCALENDAR

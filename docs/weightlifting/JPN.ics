@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//weightlifting/JPN//EN
+X-WR-CALNAME:🇯🇵 Japan Weightlifting | Paris 2024
+NAME:🇯🇵 Japan Weightlifting | Paris 2024
+BEGIN:VEVENT
+UID:20240807T173000Z-weightlifting-WOMENS-49KG
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T200000Z
+DESCRIPTION:Weightlifting - Women's 49kg\n🇩🇴 Beatriz PIRON
+  CANDELARIO\n🇹🇼 FANG Wan-Ling\n🇨🇳 HOU Zhihui\n🇺🇸 Jourdan
+  DELACRUZ\n🇻🇪 Katherin ECHANDIA ZARATE\n🇷🇴 Mihaela Valentina
+  CAMBEI\n🇮🇳 Mirabai Chanu SAIKHOM\n🇬🇺 Nicola Velasco LAGATAO\n🇧🇪
+  Nina STERCKX\n🇲🇬 Rosina RANDAFIARISON\n🇯🇵 SUZUKI Rira\n🇹🇭
+  Surodchana KHAMBAO
+SUMMARY:🏋 Women's 49kg
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-MENS-73KG
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:Weightlifting - Men's 73kg\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin
+  KINGUE MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA
+  PERNIA\n🇹🇳 Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO
+  Masanori\n🇹🇷 Muhammed OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki
+  JUNIANSYAH\n🇨🇳 SHI Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 Men's 73kg
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T183000Z-weightlifting-MENS-102KG
+DTSTAMP:20240810T183000Z
+DTSTART:20240810T183000Z
+DTEND:20240810T210000Z
+DESCRIPTION:Weightlifting - Men's +102kg\n🇪🇬 Abdelrahman ABDELAZIZ
+  ELSAYED\n🇮🇶 Ali Ammar Yusur RUBAIAWI\n🇮🇷 Ali DAVOUDI\n🇳🇿 David
+  LITI\n🇧🇭 Gor MINASYAN\n🇨🇿 Kamil KUCERA\n🇬🇪 Lasha TALAKHADZE\n🇯🇵
+  MURAKAMI Eishiro\n🇸🇾 Man ASAAD\n🇪🇪 Mart SEIM\n🇦🇲 Varazdat
+  LALAYAN\n🇩🇿 Walid BIDANI
+SUMMARY:🏋 Men's +102kg
+LOCATION:South Paris Arena 6
+END:VEVENT
+END:VCALENDAR

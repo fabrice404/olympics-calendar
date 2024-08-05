@@ -4087,6 +4087,15 @@ SUMMARY:🏃 3000м с/п, раунд 1 (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T175900Z-cycling-track---GBR-NZL
+DTSTAMP:20240805T175900Z
+DTSTART:20240805T175900Z
+DTEND:20240805T180300Z
+DESCRIPTION:Трековые велогонки - Командный спринт, финал (ж)
+SUMMARY:🚴 Великобритания 🇬🇧 - 🇳🇿 Новая Зеландия
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T073000Z-canoe-sprint--500-
 DTSTAMP:20240806T073000Z
 DTSTART:20240806T073000Z
@@ -4712,6 +4721,19 @@ DESCRIPTION:Синхронное плавание - Дуэты, произвол
   Украина\n🇫🇷 Франция\n🇰🇷 Южная Корея\n🇯🇵 Япония
 SUMMARY:🏊 Дуэты, произвольная программа
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T183000Z-weightlifting--102-
+DTSTAMP:20240810T183000Z
+DTSTART:20240810T183000Z
+DTEND:20240810T210000Z
+DESCRIPTION:Тяжелая атлетика - Свыше 102кг (м)\n🇪🇬 Abdelrahman ABDELAZIZ
+  ELSAYED\n🇮🇶 Ali Ammar Yusur RUBAIAWI\n🇮🇷 Ali DAVOUDI\n🇳🇿 David
+  LITI\n🇧🇭 Gor MINASYAN\n🇨🇿 Kamil KUCERA\n🇬🇪 Lasha TALAKHADZE\n🇯🇵
+  MURAKAMI Eishiro\n🇸🇾 Man ASAAD\n🇪🇪 Mart SEIM\n🇦🇲 Varazdat
+  LALAYAN\n🇩🇿 Walid BIDANI
+SUMMARY:🏋 Свыше 102кг (м)
+LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

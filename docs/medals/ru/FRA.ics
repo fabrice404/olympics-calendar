@@ -1204,6 +1204,18 @@ SUMMARY:🏇 Личный конкур, финал
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T124300Z-sailing--
+DTSTAMP:20240806T124300Z
+DTSTART:20240806T124300Z
+DTEND:20240806T130300Z
+DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (ж)\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Швертбот, медальная гонка (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T191400Z-athletics-3000-
 DTSTAMP:20240806T191400Z
 DTSTART:20240806T191400Z
@@ -1247,6 +1259,32 @@ SUMMARY:🥊 Sofiane OUMIHA 🇫🇷 - 🇨🇺 Erislandy ALVAREZ BORGES
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T130000Z-weightlifting-59-
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T153000Z
+DESCRIPTION:Тяжелая атлетика - 59кг (ж)\n🇻🇪 Anyelin VENEGAS VALERA\n🇫🇷
+  Dora TCHAKOUNTE\n🇵🇭 Elreen Ann ANDO\n🇲🇽 Janeth GOMEZ VALDIVIA\n🇹🇼
+  KUO Hsing-Chun\n🇺🇦 Kamila KONOTOP\n🇨🇳 LUO Shifang\n🇮🇹 Lucrezia
+  MAGISTRIS\n🇲🇭 Mathlynn SASSER\n🇨🇦 Maude CHARRON\n🇳🇬 Rafiatu
+  Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
+SUMMARY:🏋 59кг (ж)
+LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-73-
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:Тяжелая атлетика - 73кг (м)\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin
+  KINGUE MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA
+  PERNIA\n🇹🇳 Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO
+  Masanori\n🇹🇷 Muhammed OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki
+  JUNIANSYAH\n🇨🇳 SHI Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 73кг (м)
+LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T203400Z-boxing--51--FRA-UZB
 DTSTAMP:20240808T203400Z
 DTSTART:20240808T203400Z
@@ -1254,6 +1292,32 @@ DTEND:20240808T204500Z
 DESCRIPTION:Бокс - Финал, до 51кг (м)
 SUMMARY:🥊 Billal BENNAMA 🇫🇷 - 🇺🇿 Hasanboy DUSMATOV
 LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-weightlifting-89-
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T153000Z
+DESCRIPTION:Тяжелая атлетика - 89кг (м)\n🇦🇲 Andranik KARAPETYAN\n🇮🇹
+  Antonino PIZZOLATO\n🇨🇦 Boady SANTAVY\n🇪🇬 Karim ABOKAHLA\n🇧🇬 Karlos
+  May NASAR\n🇻🇪 Keydomar VALLENILLA SANCHEZ\n🇦🇺 Kyle BRUCE\n🇲🇩 Marin
+  ROBU\n🇮🇷 Mir Mostafa JAVADI ALIABADI\n🇫🇷 Romain IMADOUCHENE\n🇰🇷 YU
+  Dongju\n🇨🇴 Yeison LOPEZ
+SUMMARY:🏋 89кг (м)
+LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-weightlifting-71-
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T200000Z
+DESCRIPTION:Тяжелая атлетика - 71кг (ж)\n🇧🇷 Amanda da COSTA SCHOTT\n🇪🇨
+  Angie Paola PALACIOS DAJOMES\n🇹🇼 CHEN Wen-Huei\n🇦🇺 Jacqueline
+  NICHELE\n🇳🇬 Joy Ogbonne EZE\n🇷🇴 Loredana Elena TOMA\n🇨🇴 Mari Leivis
+  SANCHEZ\n🇫🇷 Marie FEGUE\n🇪🇬 Neama SAID\n🇺🇸 Olivia REEVES\n🇦🇸
+  Siuzanna VALODZKA\n🇵🇭 Vanessa SARNO
+SUMMARY:🏋 71кг (ж)
+LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-artistic-swimming--

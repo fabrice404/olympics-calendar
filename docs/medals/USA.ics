@@ -1405,6 +1405,18 @@ SUMMARY:🏇 Jumping Individual Final
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T124300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240806T124300Z
+DTSTART:20240806T124300Z
+DTEND:20240806T130300Z
+DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Women's Dinghy Medal Race
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T175700Z-athletics-WOMENS-HAMMER-THROW-FINAL
 DTSTAMP:20240806T175700Z
 DTSTART:20240806T175700Z
@@ -1453,6 +1465,19 @@ SUMMARY:🥊 Omari JONES 🇺🇸 - 🇺🇿 Asadkhuja MUYDINKHUJAEV
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T130000Z-weightlifting-MENS-61KG
+DTSTAMP:20240807T130000Z
+DTSTART:20240807T130000Z
+DTEND:20240807T153000Z
+DESCRIPTION:Weightlifting - Men's 61kg\n🇮🇩 Eko IRAWAN\n🇺🇸 Hampton
+  MORRIS\n🇧🇬 Ivan Petkov DIMOV\n🇵🇭 John Febuar CENIZA\n🇰🇮 Kaimauri
+  ERATI\n🇨🇳 LI Fabin\n🇲🇾 Mohamad Aniq BIN KASDAN\n🇵🇬 Morea BARU\n🇮🇹
+  Sergio MASSIDDA\n🇬🇪 Shota MISHVELIDZE\n🇹🇭 Theerapong SILACHAI\n🇻🇳
+  van Vinh TRINH
+SUMMARY:🏋 Men's 61kg
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T173000Z-artistic-swimming-TEAM-ACROBATIC-ROUTINE
 DTSTAMP:20240807T173000Z
 DTSTART:20240807T173000Z
@@ -1462,6 +1487,61 @@ DESCRIPTION:Artistic Swimming - Team Acrobatic Routine\n🇦🇺 AUS\n🇨🇦
   ESP\n🇺🇸 USA
 SUMMARY:🏊 Team Acrobatic Routine
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-weightlifting-WOMENS-49KG
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T200000Z
+DESCRIPTION:Weightlifting - Women's 49kg\n🇩🇴 Beatriz PIRON
+  CANDELARIO\n🇹🇼 FANG Wan-Ling\n🇨🇳 HOU Zhihui\n🇺🇸 Jourdan
+  DELACRUZ\n🇻🇪 Katherin ECHANDIA ZARATE\n🇷🇴 Mihaela Valentina
+  CAMBEI\n🇮🇳 Mirabai Chanu SAIKHOM\n🇬🇺 Nicola Velasco LAGATAO\n🇧🇪
+  Nina STERCKX\n🇲🇬 Rosina RANDAFIARISON\n🇯🇵 SUZUKI Rira\n🇹🇭
+  Surodchana KHAMBAO
+SUMMARY:🏋 Women's 49kg
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T194300Z-athletics-MENS-3000M-STEEPLECHASE-FINAL
+DTSTAMP:20240807T194300Z
+DTSTART:20240807T194300Z
+DTEND:20240807T195200Z
+DESCRIPTION:Athletics - Men's 3000m Steeplechase Final\n🇰🇪 Abraham
+  KIBIWOT\n🇹🇳 Ahmed JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund
+  SABLE\n🇪🇸 Daniel ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon
+  DESGAGNES\n🇺🇸 Kenneth ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard
+  CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳 Mohamed Amin JHINAOUI\n🇲🇦 Mohamed
+  TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪 Simon Kiprop KOECH\n🇲🇦 Soufiane EL
+  BAKKALI
+SUMMARY:🏃 Men's 3000m Steeplechase Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-weightlifting-WOMENS-71KG
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T200000Z
+DESCRIPTION:Weightlifting - Women's 71kg\n🇧🇷 Amanda da COSTA SCHOTT\n🇪🇨
+  Angie Paola PALACIOS DAJOMES\n🇹🇼 CHEN Wen-Huei\n🇦🇺 Jacqueline
+  NICHELE\n🇳🇬 Joy Ogbonne EZE\n🇷🇴 Loredana Elena TOMA\n🇨🇴 Mari Leivis
+  SANCHEZ\n🇫🇷 Marie FEGUE\n🇪🇬 Neama SAID\n🇺🇸 Olivia REEVES\n🇦🇸
+  Siuzanna VALODZKA\n🇵🇭 Vanessa SARNO
+SUMMARY:🏋 Women's 71kg
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T093000Z-weightlifting-MENS-102KG
+DTSTAMP:20240810T093000Z
+DTSTART:20240810T093000Z
+DTEND:20240810T120000Z
+DESCRIPTION:Weightlifting - Men's 102kg\n🇱🇾 Ahmed ABUZRIBA\n🇺🇿 Akbar
+  DJURAEV\n🇹🇲 Davranbek HASANBAYEV\n🇼🇸 Don OPELOGE\n🇶🇦 Faris Ibrahim
+  E ELBAKH\n🇦🇲 Garik KARAPETYAN\n🇬🇪 Irakli CHKHEIDZE\n🇰🇷 JANG
+  Yeonhak\n🇨🇳 LIU Huanhua\n🇧🇭 Lesman MONTANO\n🏳️ Ramiro MORA
+  ROMERO\n🇺🇸 Wes KITTS\n🇦🇸 Yauheni TSIKHANTSOU
+SUMMARY:🏋 Men's 102kg
+LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-artistic-swimming-DUET-FREE-ROUTINE
@@ -1474,5 +1554,18 @@ DESCRIPTION:Artistic Swimming - Duet Free Routine\n🇦🇺 AUS\n🇦🇹 AUT\n�
   UKR\n🇺🇸 USA
 SUMMARY:🏊 Duet Free Routine
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T093000Z-weightlifting-WOMENS-81KG
+DTSTAMP:20240811T093000Z
+DTSTART:20240811T093000Z
+DTEND:20240811T120000Z
+DESCRIPTION:Weightlifting - Women's +81kg\n🇩🇴 Crismery SANTANA
+  PEGUERO\n🇹🇭 Duangaksorn CHAIDEE\n🇬🇧 Emily CAMPBELL\n🇪🇬 Halima
+  ABBAS\n🇼🇸 Iuniarra SIPAIA\n🇨🇳 LI Wenwen\n🇪🇨 Lisseth Betzaida AYOVI
+  CABEZAS\n🇺🇸 Mary THEISEN LAPPEN\n🇻🇪 Naryury PEREZ REVERON\n🇮🇩 Nurul
+  AKMAL\n🇰🇷 PARK Hyejeong\n🇺🇿 Tursunoy JABBOROVA
+SUMMARY:🏋 Women's +81kg
+LOCATION:South Paris Arena 6
 END:VEVENT
 END:VCALENDAR

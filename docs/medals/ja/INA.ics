@@ -4,12 +4,42 @@ PRODID:-//fabrice404//olympics-calendar//medals/ja/INA//EN
 X-WR-CALNAME:🇮🇩 Indonesia 🏅 | Paris 2024
 NAME:🇮🇩 Indonesia 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240805T074500Z-badminton-3
-DTSTAMP:20240805T074500Z
-DTSTART:20240805T074500Z
-DTEND:20240805T103000Z
-DESCRIPTION:バドミントン - 女子シングルス3位決定戦\n🇮🇩 Gregoria Mariska TUNJUNG
-SUMMARY:🏸 女子シングルス3位決定戦
-LOCATION:ラ・シャペル・アリーナ
+UID:20240807T130000Z-weightlifting-61KG
+DTSTAMP:20240807T130000Z
+DTSTART:20240807T130000Z
+DTEND:20240807T153000Z
+DESCRIPTION:ウエイトリフティング - 男子61kg級\n🇮🇩 Eko IRAWAN\n🇺🇸 Hampton
+  MORRIS\n🇧🇬 Ivan Petkov DIMOV\n🇵🇭 John Febuar CENIZA\n🇰🇮 Kaimauri
+  ERATI\n🇨🇳 LI Fabin\n🇲🇾 Mohamad Aniq BIN KASDAN\n🇵🇬 Morea BARU\n🇮🇹
+  Sergio MASSIDDA\n🇬🇪 Shota MISHVELIDZE\n🇹🇭 Theerapong SILACHAI\n🇻🇳
+  van Vinh TRINH
+SUMMARY:🏋 男子61kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-73KG
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:ウエイトリフティング - 男子73kg級\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin KINGUE
+  MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA PERNIA\n🇹🇳
+  Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO Masanori\n🇹🇷 Muhammed
+  OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki JUNIANSYAH\n🇨🇳 SHI
+  Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 男子73kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T093000Z-weightlifting-81KG
+DTSTAMP:20240811T093000Z
+DTSTART:20240811T093000Z
+DTEND:20240811T120000Z
+DESCRIPTION:ウエイトリフティング - 女子81kg超級\n🇩🇴 Crismery SANTANA PEGUERO\n🇹🇭
+  Duangaksorn CHAIDEE\n🇬🇧 Emily CAMPBELL\n🇪🇬 Halima ABBAS\n🇼🇸
+  Iuniarra SIPAIA\n🇨🇳 LI Wenwen\n🇪🇨 Lisseth Betzaida AYOVI
+  CABEZAS\n🇺🇸 Mary THEISEN LAPPEN\n🇻🇪 Naryury PEREZ REVERON\n🇮🇩 Nurul
+  AKMAL\n🇰🇷 PARK Hyejeong\n🇺🇿 Tursunoy JABBOROVA
+SUMMARY:🏋 女子81kg超級
+LOCATION:サウス・パリ・アリーナ6
 END:VEVENT
 END:VCALENDAR
