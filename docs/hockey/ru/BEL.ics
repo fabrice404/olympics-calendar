@@ -111,4 +111,13 @@ DESCRIPTION:Хоккей на траве - Четвертьфинал (ж)
 SUMMARY:🏑 Бельгия 🇧🇪 - 🇪🇸 Испания
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T170000Z-hockey---BEL-CHN
+DTSTAMP:20240807T170000Z
+DTSTART:20240807T170000Z
+DTEND:20240807T184500Z
+DESCRIPTION:Хоккей на траве - Полуфинал (ж)
+SUMMARY:🏑 Бельгия 🇧🇪 - 🇨🇳 Китай
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
 END:VCALENDAR

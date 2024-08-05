@@ -111,4 +111,13 @@ DESCRIPTION:Хоккей на траве - Четвертьфинал (ж)
 SUMMARY:🏑 Аргентина 🇦🇷 - 🇩🇪 Германия
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T120000Z-hockey---NED-ARG
+DTSTAMP:20240807T120000Z
+DTSTART:20240807T120000Z
+DTEND:20240807T134500Z
+DESCRIPTION:Хоккей на траве - Полуфинал (ж)
+SUMMARY:🏑 Нидерланды 🇳🇱 - 🇦🇷 Аргентина
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
 END:VCALENDAR
