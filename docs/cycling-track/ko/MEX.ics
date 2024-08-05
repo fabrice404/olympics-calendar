@@ -30,4 +30,13 @@ DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 1라운드\n🇨🇳 
 SUMMARY:🚴 여자 단체 스프린트, 1라운드
 LOCATION:국립 벨로드롬
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T175000Z-cycling-track--5-6--MEX-CHN
+DTSTAMP:20240805T175000Z
+DTSTART:20240805T175000Z
+DTEND:20240805T175400Z
+DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 결승 - 5-6위 결정전
+SUMMARY:🚴 멕시코 🇲🇽 - 🇨🇳 중국
+LOCATION:국립 벨로드롬
+END:VEVENT
 END:VCALENDAR

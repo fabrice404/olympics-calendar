@@ -30,4 +30,13 @@ DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 1라운드\n🇨🇳 
 SUMMARY:🚴 여자 단체 스프린트, 1라운드
 LOCATION:국립 벨로드롬
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T174600Z-cycling-track--7-8--POL-CAN
+DTSTAMP:20240805T174600Z
+DTSTART:20240805T174600Z
+DTEND:20240805T175000Z
+DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 결승 - 7-8위 결정전
+SUMMARY:🚴 폴란드 🇵🇱 - 🇨🇦 캐나다
+LOCATION:국립 벨로드롬
+END:VEVENT
 END:VCALENDAR
