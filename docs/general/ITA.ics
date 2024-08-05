@@ -7387,16 +7387,6 @@ SUMMARY:⛵ Mixed Multihull - Race 12
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T173000Z-artistic-swimming-TEAM-FREE-ROUTINE
-DTSTAMP:20240806T173000Z
-DTSTART:20240806T173000Z
-DTEND:20240806T185000Z
-DESCRIPTION:Artistic Swimming - Team Free Routine\n🇦🇺 AUS\n🇨🇦 CAN\n🇨🇳
-  CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇸 USA
-SUMMARY:🏊 Team Free Routine
-LOCATION:Aquatics Centre
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T175700Z-athletics-WOMENS-HAMMER-THROW-FINAL
 DTSTAMP:20240806T175700Z
 DTSTART:20240806T175700Z
@@ -7407,6 +7397,23 @@ DESCRIPTION:Athletics - Women's Hammer Throw Final\n🇵🇱 Anita
   Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇻🇪 Rosa Andreina
   RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇨🇳 ZHAO Jie
 SUMMARY:🏃 Women's Hammer Throw Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T180700Z-athletics-WOMENS-400M-HURDLES-SEMI-FINAL
+DTSTAMP:20240806T180700Z
+DTSTART:20240806T180700Z
+DTEND:20240806T182800Z
+DESCRIPTION:Athletics - Women's 400m Hurdles Semi-Final\n🇦🇺 Alanah
+  YUKICH\n🇳🇴 Amalie IUEL\n🇺🇸 Anna COCKRELL\n🇺🇦 Anna RYZHYKOVA\n🇮🇹
+  Ayomide FOLORUNSO\n🇳🇱 Cathelijn PEETERS\n🇵🇹 Fatoumata Binta
+  DIALLO\n🇳🇱 Femke BOL\n🇧🇪 Hanne CLAES\n🇯🇲 Janieve RUSSELL\n🇺🇸
+  Jasmine JONES\n🇬🇧 Jessie KNIGHT\n🇬🇧 Lina NIELSEN\n🇫🇷 Louise
+  MARAVAL\n🇨🇳 MO Jiadie\n🇧🇪 Naomi van den BROECK\n🇲🇦 Noura
+  ENNADI\n🇧🇪 Paulien COUCKUYT\n🇿🇦 Rogail JOSEPH\n🇯🇲 Rushell
+  CLAYTON\n🇨🇦 Savannah SUTHERLAND\n🇫🇷 Shana GREBO\n🇯🇲 Shiann
+  SALMON\n🇺🇸 Sydney McLAUGHLIN-LEVRONE\n🇿🇦 Zeney GELDENHUYS
+SUMMARY:🏃 Women's 400m Hurdles Semi-Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
@@ -7600,17 +7607,6 @@ DESCRIPTION:Diving - Women's 3m Springboard Preliminary\n🇲🇽 Alejandra
   BACON\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇺🇦 Viktoriya
   KESAR\n🇬🇧 Yasmin HARPER
 SUMMARY:🏊 Women's 3m Springboard Preliminary
-LOCATION:Aquatics Centre
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T173000Z-artistic-swimming-TEAM-ACROBATIC-ROUTINE
-DTSTAMP:20240807T173000Z
-DTSTART:20240807T173000Z
-DTEND:20240807T182900Z
-DESCRIPTION:Artistic Swimming - Team Acrobatic Routine\n🇦🇺 AUS\n🇨🇦
-  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸
-  ESP\n🇺🇸 USA
-SUMMARY:🏊 Team Acrobatic Routine
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
