@@ -504,6 +504,15 @@ SUMMARY:🏃 1500м, раунд 1 (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T072100Z-taekwondo--58--PLE-EOR
+DTSTAMP:20240807T072100Z
+DTSTART:20240807T072100Z
+DTEND:20240807T073300Z
+DESCRIPTION:Тхэквондо - Квалификационный поединок, до 58кг (м)
+SUMMARY:🥋 Omar YASER ISMAIL 🇵🇸 - 🏳️ Hadi TIRANVALIPOUR
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T073000Z-canoe-sprint--500-
 DTSTAMP:20240807T073000Z
 DTSTART:20240807T073000Z
@@ -563,6 +572,24 @@ SUMMARY:🛶 Каноэ-одиночки 1000м, квалификация (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T100000Z-taekwondo-18-49--EOR-CHN
+DTSTAMP:20240807T100000Z
+DTSTART:20240807T100000Z
+DTEND:20240807T101300Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 49кг (ж)
+SUMMARY:🥋 Dina POURYOUNES LANGEROUDI 🏳️ - 🇨🇳 GUO Qing
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T070000Z-taekwondo--68--EOR-HKG
+DTSTAMP:20240808T070000Z
+DTSTART:20240808T070000Z
+DTEND:20240808T070900Z
+DESCRIPTION:Тхэквондо - Квалификационный поединок, до 68кг (м)
+SUMMARY:🥋 Yahya AL GHOTANY 🏳️ - 🇭🇰 LO Wai Fung
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T201800Z-boxing--75--EOR-PAN
 DTSTAMP:20240808T201800Z
 DTSTART:20240808T201800Z
@@ -570,6 +597,24 @@ DTEND:20240808T202900Z
 DESCRIPTION:Бокс - Полуфинал, до 75кг (ж)
 SUMMARY:🥊 Cindy Winner DJANKEU NGAMBA 🏳️ - 🇵🇦 Atheyna Bibeichi BYLON
 LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T085900Z-taekwondo-18-80--EOR-USA
+DTSTAMP:20240809T085900Z
+DTSTART:20240809T085900Z
+DTEND:20240809T091100Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 80кг (м)
+SUMMARY:🥋 Farzad MANSOURI 🏳️ - 🇺🇸 Cj NICKOLAS
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T070000Z-taekwondo--80--PNG-EOR
+DTSTAMP:20240810T070000Z
+DTSTART:20240810T070000Z
+DTEND:20240810T070900Z
+DESCRIPTION:Тхэквондо - Квалиф. поединок, свыше 80кг (м)
+SUMMARY:🥋 Gibson Kaogo MARA 🇵🇬 - 🏳️ Kasra MEHDIPOURNEJAD
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

@@ -2275,6 +2275,15 @@ SUMMARY:🛶 Байдарки-одиночки 500м, квалификация (
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T075800Z-taekwondo-18-49--MEX-TUN
+DTSTAMP:20240807T075800Z
+DTSTART:20240807T075800Z
+DTEND:20240807T081000Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 49кг (ж)
+SUMMARY:🥋 Daniela Paola SOUZA 🇲🇽 - 🇹🇳 Ikram DHAHRI
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T130000Z-diving--3-
 DTSTAMP:20240807T130000Z
 DTSTART:20240807T130000Z
@@ -2333,6 +2342,15 @@ DESCRIPTION:Синхронное плавание - Дуэты, техничес
   Украина\n🇫🇷 Франция\n🇰🇷 Южная Корея\n🇯🇵 Япония
 SUMMARY:🏊 Дуэты, техническая программа
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T085900Z-taekwondo-18-80--GBS-MEX
+DTSTAMP:20240810T085900Z
+DTSTART:20240810T085900Z
+DTEND:20240810T091100Z
+DESCRIPTION:Тхэквондо - 1/8 финала, свыше 80кг (м)
+SUMMARY:🥋 Paivou Johnouario GOMIS 🇬🇼 - 🇲🇽 Carlos SANSORES
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-artistic-swimming--

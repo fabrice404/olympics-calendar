@@ -7597,6 +7597,24 @@ SUMMARY:⛵ Кайт, гонка 13 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T102500Z-taekwondo-18-49--TUR-ITA
+DTSTAMP:20240807T102500Z
+DTSTART:20240807T102500Z
+DTEND:20240807T103700Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 49кг (ж)
+SUMMARY:🥋 Merve DINCEL KAVURAT 🇹🇷 - 🇮🇹 Ilenia Elisabetta MATONTI
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T103700Z-taekwondo-18-58--ITA-KAZ
+DTSTAMP:20240807T103700Z
+DTSTART:20240807T103700Z
+DTEND:20240807T104900Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 58кг (м)
+SUMMARY:🥋 Vito DELL AQUILA 🇮🇹 - 🇰🇿 Samirkhon ABABAKIROV
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T104800Z-sailing--14-
 DTSTAMP:20240807T104800Z
 DTSTART:20240807T104800Z
@@ -7750,6 +7768,15 @@ DESCRIPTION:Прыжки в воду - Вышка 10м, предваритель
   Hao
 SUMMARY:🏊 Вышка 10м, предварительный раунд (м)
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T083500Z-taekwondo-18-80-
+DTSTAMP:20240809T083500Z
+DTSTART:20240809T083500Z
+DTEND:20240809T084700Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 80кг (м)\n🇮🇹 Simone ALESSIO
+SUMMARY:🥋 1/8 финала, до 80кг (м)
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T173000Z-artistic-swimming--

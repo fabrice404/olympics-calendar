@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//taekwondo/ru/EOR//EN
+X-WR-CALNAME:🏳️ Refugee Olympic Team Тхэквондо | Paris 2024
+NAME:🏳️ Refugee Olympic Team Тхэквондо | Paris 2024
+BEGIN:VEVENT
+UID:20240807T072100Z-taekwondo--58--PLE-EOR
+DTSTAMP:20240807T072100Z
+DTSTART:20240807T072100Z
+DTEND:20240807T073300Z
+DESCRIPTION:Тхэквондо - Квалификационный поединок, до 58кг (м)
+SUMMARY:🥋 Omar YASER ISMAIL 🇵🇸 - 🏳️ Hadi TIRANVALIPOUR
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T100000Z-taekwondo-18-49--EOR-CHN
+DTSTAMP:20240807T100000Z
+DTSTART:20240807T100000Z
+DTEND:20240807T101300Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 49кг (ж)
+SUMMARY:🥋 Dina POURYOUNES LANGEROUDI 🏳️ - 🇨🇳 GUO Qing
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T070000Z-taekwondo--68--EOR-HKG
+DTSTAMP:20240808T070000Z
+DTSTART:20240808T070000Z
+DTEND:20240808T070900Z
+DESCRIPTION:Тхэквондо - Квалификационный поединок, до 68кг (м)
+SUMMARY:🥋 Yahya AL GHOTANY 🏳️ - 🇭🇰 LO Wai Fung
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T085900Z-taekwondo-18-80--EOR-USA
+DTSTAMP:20240809T085900Z
+DTSTART:20240809T085900Z
+DTEND:20240809T091100Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 80кг (м)
+SUMMARY:🥋 Farzad MANSOURI 🏳️ - 🇺🇸 Cj NICKOLAS
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T070000Z-taekwondo--80--PNG-EOR
+DTSTAMP:20240810T070000Z
+DTSTART:20240810T070000Z
+DTEND:20240810T070900Z
+DESCRIPTION:Тхэквондо - Квалиф. поединок, свыше 80кг (м)
+SUMMARY:🥋 Gibson Kaogo MARA 🇵🇬 - 🏳️ Kasra MEHDIPOURNEJAD
+LOCATION:Гран-Пале
+END:VEVENT
+END:VCALENDAR
