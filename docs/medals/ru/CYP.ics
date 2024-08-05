@@ -68,4 +68,17 @@ DESCRIPTION:Спортивная гимнастика - Перекладина, 
 SUMMARY:🤸 Перекладина, финал (м)
 LOCATION:Арена «Берси»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T134300Z-sailing--
+DTSTAMP:20240806T134300Z
+DTSTART:20240806T134300Z
+DTEND:20240806T140300Z
+DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (м)\n🇨🇱 Clemente
+  SEGUEL LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
+  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
+  SAUNDERS
+SUMMARY:⛵ Швертбот, медальная гонка (м)
+LOCATION:Марсельская гавань
+END:VEVENT
 END:VCALENDAR

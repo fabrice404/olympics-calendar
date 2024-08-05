@@ -803,6 +803,15 @@ SUMMARY:🏃 3000м с/п, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T150000Z-football--3-
+DTSTAMP:20240808T150000Z
+DTSTART:20240808T150000Z
+DTEND:20240808T164500Z
+DESCRIPTION:Футбол - Матч за 3-е место (м)\n🇲🇦 Марокко
+SUMMARY:⚽ Матч за 3-е место (м)
+LOCATION:Стадион «Божуар»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T075800Z-taekwondo-18-67--JOR-MAR
 DTSTAMP:20240810T075800Z
 DTSTART:20240810T075800Z
