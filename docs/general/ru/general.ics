@@ -28419,12 +28419,12 @@ SUMMARY:🔫 CHN 🇨🇳 - 🇮🇳 IND
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T130000Z-shooting---USA-ITA
+UID:20240805T130000Z-shooting---ITA-USA
 DTSTAMP:20240805T130000Z
 DTSTART:20240805T130000Z
 DTEND:20240805T133000Z
 DESCRIPTION:Стрельба - Скит, финал (микст)
-SUMMARY:🔫 United States 1 🇺🇸 - 🇮🇹 Italy 1
+SUMMARY:🔫 Italy 1 🇮🇹 - 🇺🇸 United States 1
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
@@ -28780,6 +28780,15 @@ SUMMARY:🤼 Kevin Yuran de ARMAS RODRIGUEZ 🇨🇺 - 🇯🇵 FUMITA Kenichiro
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T140300Z-wrestling--68-14--IND-PRK
+DTSTAMP:20240805T140300Z
+DTSTART:20240805T140300Z
+DTEND:20240805T141000Z
+DESCRIPTION:Борьба - Вольная борьба, 68кг, 1/4 финала (ж)
+SUMMARY:🤼 Nisha NISHA 🇮🇳 - 🇰🇵 PAK Sol Gum
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T140300Z-wrestling--60-14--PRK-UZB
 DTSTAMP:20240805T140300Z
 DTSTART:20240805T140300Z
@@ -28795,15 +28804,6 @@ DTSTART:20240805T140300Z
 DTEND:20240805T141000Z
 DESCRIPTION:Борьба - Греко-римская, 130кг, 1/4 финала (м)
 SUMMARY:🤼 Sabah Saleh SHARIATI 🇦🇿 - 🇰🇿 Alimkhan SYZDYKOV
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T140300Z-wrestling--68-14-
-DTSTAMP:20240805T140300Z
-DTSTART:20240805T140300Z
-DTEND:20240805T141000Z
-DESCRIPTION:Борьба - Вольная борьба, 68кг, 1/4 финала (ж)\n🇮🇳 Nisha NISHA
-SUMMARY:🤼 Вольная борьба, 68кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -28838,7 +28838,9 @@ UID:20240805T141500Z-canoe-slalom--
 DTSTAMP:20240805T141500Z
 DTSTART:20240805T141500Z
 DTEND:20240805T142500Z
-DESCRIPTION:Гребной слалом - Экстрим-слалом, полуфинал (ж)
+DESCRIPTION:Гребной слалом - Экстрим-слалом, полуфинал (ж)\n🇨🇭 Alena
+  MARX\n🇧🇷 Ana SATILA\n🇫🇷 Angele HUG\n🇩🇿 Carole Diana BOUZIDI\n🇩🇪
+  Elena LILIK\n🇬🇧 Kimberley WOODS\n🇳🇿 Luuka JONES\n🇦🇺 Noemie FOX
 SUMMARY:🛶 Экстрим-слалом, полуфинал (ж)
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
