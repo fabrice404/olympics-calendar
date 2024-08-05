@@ -29323,12 +29323,12 @@ SUMMARY:🏄 Kauli VAAST 🇫🇷 - 🇵🇪 Alonso CORREA
 LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T210600Z-surfing--2--BRA-AUS
+UID:20240805T210600Z-surfing--2--AUS-BRA
 DTSTAMP:20240805T210600Z
 DTSTART:20240805T210600Z
 DTEND:20240805T213600Z
 DESCRIPTION:Серфинг - Полуфиналы, заезд 2 (м)
-SUMMARY:🏄 Gabriel MEDINA 🇧🇷 - 🇦🇺 Jack ROBINSON
+SUMMARY:🏄 Jack ROBINSON 🇦🇺 - 🇧🇷 Gabriel MEDINA
 LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
@@ -30532,7 +30532,8 @@ UID:20240806T130000Z-table-tennis-14-
 DTSTAMP:20240806T130000Z
 DTSTART:20240806T130000Z
 DTEND:20240806T160000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)
+DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)\n🇰🇷
+  Южная Корея
 SUMMARY:🏓 1/4 финала, командный разряд (ж)
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
@@ -30911,22 +30912,21 @@ SUMMARY:🚴 Командный спринт, за 5-е место (м)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T180000Z-table-tennis-14-
-DTSTAMP:20240806T180000Z
-DTSTART:20240806T180000Z
-DTEND:20240806T210000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м)\n🇸🇪
-  Швеция
-SUMMARY:🏓 1/4 финала, командный разряд (м)
-LOCATION:Арена «Париж-Юг» 4
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T180000Z-table-tennis-14--THA-JPN
 DTSTAMP:20240806T180000Z
 DTSTART:20240806T180000Z
 DTEND:20240806T210000Z
 DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)
 SUMMARY:🏓 Таиланд 🇹🇭 - 🇯🇵 Япония
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T180000Z-table-tennis-14--SWE-GER
+DTSTAMP:20240806T180000Z
+DTSTART:20240806T180000Z
+DTEND:20240806T210000Z
+DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м)
+SUMMARY:🏓 Швеция 🇸🇪 - 🇩🇪 Германия
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
@@ -31969,13 +31969,12 @@ SUMMARY:🏓 1/4 финала, командный разряд (ж)
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T130000Z-table-tennis-14-
+UID:20240807T130000Z-table-tennis-14--BRA-FRA
 DTSTAMP:20240807T130000Z
 DTSTART:20240807T130000Z
 DTEND:20240807T160000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м)\n🇧🇷
-  Бразилия
-SUMMARY:🏓 1/4 финала, командный разряд (м)
+DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м)
+SUMMARY:🏓 Бразилия 🇧🇷 - 🇫🇷 Франция
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
@@ -32077,12 +32076,12 @@ SUMMARY:🥋 Четвертьфинал, до 58кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T140000Z-volleyball--
+UID:20240807T140000Z-volleyball---POL-USA
 DTSTAMP:20240807T140000Z
 DTSTART:20240807T140000Z
 DTEND:20240807T161500Z
-DESCRIPTION:Волейбол - Полуфиналы (м)\n🇵🇱 Польша
-SUMMARY:🏐 Полуфиналы (м)
+DESCRIPTION:Волейбол - Полуфиналы (м)
+SUMMARY:🏐 Польша 🇵🇱 - 🇺🇸 США
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
 BEGIN:VEVENT
@@ -32129,12 +32128,12 @@ SUMMARY:🥋 Полуфинал, до 49кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T150000Z-beach-volleyball--
+UID:20240807T150000Z-beach-volleyball-14--ESP-CAN
 DTSTAMP:20240807T150000Z
 DTSTART:20240807T150000Z
 DTEND:20240807T155000Z
-DESCRIPTION:Пляжный волейбол - Четвертьфинал (м или ж)
-SUMMARY:🏐 Четвертьфинал (м или ж)
+DESCRIPTION:Пляжный волейбол - 1/4 финала (ж)
+SUMMARY:🏐 ALVAREZ M/MORENO 🇪🇸 - 🇨🇦 MELISSA/BRANDIE
 LOCATION:Стадион у Эйфелевой башни
 END:VEVENT
 BEGIN:VEVENT
@@ -32174,12 +32173,12 @@ SUMMARY:🤾 Дания 🇩🇰 - 🇸🇪 Швеция
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T160000Z-beach-volleyball--
+UID:20240807T160000Z-beach-volleyball-14--BRA-LAT
 DTSTAMP:20240807T160000Z
 DTSTART:20240807T160000Z
 DTEND:20240807T165000Z
-DESCRIPTION:Пляжный волейбол - Четвертьфинал (м или ж)
-SUMMARY:🏐 Четвертьфинал (м или ж)
+DESCRIPTION:Пляжный волейбол - 1/4 финала (ж)
+SUMMARY:🏐 ANA PATRICIA/DUDA 🇧🇷 - 🇱🇻 TINA/ANASTASIJA
 LOCATION:Стадион у Эйфелевой башни
 END:VEVENT
 BEGIN:VEVENT
@@ -32624,12 +32623,12 @@ SUMMARY:🤼 Вольная борьба, 50кг, поединок за брон
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T190000Z-beach-volleyball--
+UID:20240807T190000Z-beach-volleyball-14--ESP-NOR
 DTSTAMP:20240807T190000Z
 DTSTART:20240807T190000Z
 DTEND:20240807T195000Z
-DESCRIPTION:Пляжный волейбол - Четвертьфинал (м или ж)
-SUMMARY:🏐 Четвертьфинал (м или ж)
+DESCRIPTION:Пляжный волейбол - 1/4 финала (м)
+SUMMARY:🏐 HERRERA/GAVIRA 🇪🇸 - 🇳🇴 MOL/SORUM
 LOCATION:Стадион у Эйфелевой башни
 END:VEVENT
 BEGIN:VEVENT
@@ -32729,12 +32728,12 @@ SUMMARY:🥊 Nesthy PETECIO 🇵🇭 - 🇵🇱 Julia SZEREMETA
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T200000Z-beach-volleyball--
+UID:20240807T200000Z-beach-volleyball-14--QAT-USA
 DTSTAMP:20240807T200000Z
 DTSTART:20240807T200000Z
 DTEND:20240807T205000Z
-DESCRIPTION:Пляжный волейбол - Четвертьфинал (м или ж)
-SUMMARY:🏐 Четвертьфинал (м или ж)
+DESCRIPTION:Пляжный волейбол - 1/4 финала (м)
+SUMMARY:🏐 CHERIF/AHMED 🇶🇦 - 🇺🇸 PARTAIN/BENESH
 LOCATION:Стадион у Эйфелевой башни
 END:VEVENT
 BEGIN:VEVENT
