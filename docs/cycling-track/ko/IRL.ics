@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//cycling-track/ko/IRL//EN
+X-WR-CALNAME:🇮🇪 Ireland 사이클 트랙 | Paris 2024
+NAME:🇮🇪 Ireland 사이클 트랙 | Paris 2024
+BEGIN:VEVENT
+UID:20240806T153000Z-cycling-track--
+DTSTAMP:20240806T153000Z
+DTSTART:20240806T153000Z
+DTEND:20240806T165900Z
+DESCRIPTION:사이클 트랙 - 여자 단체 추발, 예선\n🇳🇿 뉴질랜드\n🇩🇪 독일\n🇺🇸 미국\n🇮🇪
+  아일랜드\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇦 캐나다\n🇫🇷 프랑스
+SUMMARY:🚴 여자 단체 추발, 예선
+LOCATION:국립 벨로드롬
+END:VEVENT
+END:VCALENDAR

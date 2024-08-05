@@ -5480,6 +5480,15 @@ SUMMARY:🏃 110м с/б, утешительный раунд (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T091400Z-wrestling--50-18--JPN-IND
+DTSTAMP:20240806T091400Z
+DTSTART:20240806T091400Z
+DTEND:20240806T092100Z
+DESCRIPTION:Борьба - Вольная борьба, 50кг, 1/8 финала (ж)
+SUMMARY:🤼 SUSAKI Yui 🇯🇵 - 🇮🇳 Vinesh VINESH
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T091500Z-athletics--
 DTSTAMP:20240806T091500Z
 DTSTART:20240806T091500Z
@@ -5497,6 +5506,15 @@ DESCRIPTION:Легкая атлетика - Прыжки в длину, квал
   DAVIS-WOODHALL\n🇪🇸 Tessy EBOSELE\n🇨🇳 XIONG Shiqi
 SUMMARY:🏃 Прыжки в длину, квалификация (ж)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T092100Z-wrestling--77-18--JPN-ALG
+DTSTAMP:20240806T092100Z
+DTSTART:20240806T092100Z
+DTEND:20240806T092800Z
+DESCRIPTION:Борьба - Греко-римская, 77кг, 1/8 финала (м)
+SUMMARY:🤼 KUSAKA Nao 🇯🇵 - 🇩🇿 Abd Elkrim OUAKALI
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T100000Z-athletics-400-
@@ -5612,6 +5630,18 @@ DESCRIPTION:Парусный спорт - Многокорпусник, гонк
   WILKINSON/DAWSON
 SUMMARY:⛵ Многокорпусник, гонка 12 (микст)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T153000Z-cycling-track--
+DTSTAMP:20240806T153000Z
+DTSTART:20240806T153000Z
+DTEND:20240806T165900Z
+DESCRIPTION:Трековые велогонки - Командная гонка преследования,
+  квалификация (ж)\n🇦🇺 Австралия\n🇬🇧 Великобритания\n🇩🇪
+  Германия\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇿 Новая
+  Зеландия\n🇺🇸 США\n🇫🇷 Франция\n🇯🇵 Япония
+SUMMARY:🚴 Командная гонка преследования, квалификация (ж)
+LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T173000Z-artistic-swimming--

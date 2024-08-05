@@ -7380,6 +7380,24 @@ SUMMARY:🛶 Байдарки-двойки 500м, квалификация (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T093500Z-wrestling--97-18--GER-CUB
+DTSTAMP:20240806T093500Z
+DTSTART:20240806T093500Z
+DTEND:20240806T094200Z
+DESCRIPTION:Борьба - Греко-римская, 97кг, 1/8 финала (м)
+SUMMARY:🤼 Lucas Alexandros LAZOGIANIS 🇩🇪 - 🇨🇺 Gabriel Alejandro ROSILL
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T095600Z-wrestling--50-18--AZE-GER
+DTSTAMP:20240806T095600Z
+DTSTART:20240806T095600Z
+DTEND:20240806T100300Z
+DESCRIPTION:Борьба - Вольная борьба, 50кг, 1/8 финала (ж)
+SUMMARY:🤼 Mariya STADNIK 🇦🇿 - 🇩🇪 Anastasia BLAYVAS
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T100000Z-athletics-400-
 DTSTAMP:20240806T100000Z
 DTSTART:20240806T100000Z
@@ -7635,6 +7653,18 @@ DTEND:20240806T155000Z
 DESCRIPTION:Пляжный волейбол - 1/4 финала (м)
 SUMMARY:🏐 EHLERS/WICKLER 🇩🇪 - 🇳🇱 BOERMANS/DE GROOT
 LOCATION:Стадион у Эйфелевой башни
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T153000Z-cycling-track--
+DTSTAMP:20240806T153000Z
+DTSTART:20240806T153000Z
+DTEND:20240806T165900Z
+DESCRIPTION:Трековые велогонки - Командная гонка преследования,
+  квалификация (ж)\n🇦🇺 Австралия\n🇬🇧 Великобритания\n🇩🇪
+  Германия\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇿 Новая
+  Зеландия\n🇺🇸 США\n🇫🇷 Франция\n🇯🇵 Япония
+SUMMARY:🚴 Командная гонка преследования, квалификация (ж)
+LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T160000Z-football---USA-GER

@@ -7232,6 +7232,15 @@ SUMMARY:🏃 400м, утешительный раунд (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T100300Z-wrestling--50-18--ITA-MGL
+DTSTAMP:20240806T100300Z
+DTSTART:20240806T100300Z
+DTEND:20240806T101000Z
+DESCRIPTION:Борьба - Вольная борьба, 50кг, 1/8 финала (ж)
+SUMMARY:🤼 Emanuela LIUZZI 🇮🇹 - 🇲🇳 Otgonjargal DOLGORJAV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T100300Z-sailing--09-
 DTSTAMP:20240806T100300Z
 DTSTART:20240806T100300Z
@@ -7467,6 +7476,37 @@ DESCRIPTION:Парусный спорт - Многокорпусник, гонк
   WILKINSON/DAWSON
 SUMMARY:⛵ Многокорпусник, гонка 12 (микст)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T153000Z-cycling-track--
+DTSTAMP:20240806T153000Z
+DTSTART:20240806T153000Z
+DTEND:20240806T165900Z
+DESCRIPTION:Трековые велогонки - Командная гонка преследования,
+  квалификация (ж)\n🇦🇺 Австралия\n🇬🇧 Великобритания\n🇩🇪
+  Германия\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇿 Новая
+  Зеландия\n🇺🇸 США\n🇫🇷 Франция\n🇯🇵 Япония
+SUMMARY:🚴 Командная гонка преследования, квалификация (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T171400Z-cycling-track--1-
+DTSTAMP:20240806T171400Z
+DTSTART:20240806T171400Z
+DTEND:20240806T175500Z
+DESCRIPTION:Трековые велогонки - Командная гонка преследования, раунд 1
+  (м)\n🇳🇿 Aaron GATE\n🇫🇷 Benjamin THOMAS\n🇳🇿 Campbell STEWART\n🇩🇰
+  Carl-Frederik BEVORT\n🇨🇦 Carson MATTERN\n🇦🇺 Conor LEAHY\n🇬🇧 Daniel
+  BIGHAM\n🇨🇦 Dylan BIBIC\n🇬🇧 Ethan HAYTER\n🇬🇧 Ethan VERNON\n🇧🇪
+  Fabio van den BOSSCHE\n🇮🇹 Filippo GANNA\n🇮🇹 Francesco LAMON\n🇮🇹
+  Jonathan MILAN\n🇳🇿 Keegan HORNBLOW\n🇦🇺 Kell O'BRIEN\n🇧🇪 Lindsay de
+  VYLDER\n🇨🇦 Mathias GUILLEMETTE\n🇨🇦 Michael FOLEY\n🇩🇰 Niklas
+  LARSEN\n🇧🇪 Noah VANDENBRANDEN\n🇦🇺 Oliver BLEDDYN\n🇬🇧 Oliver
+  WOOD\n🇩🇰 Rasmus Lund PEDERSEN\n🇦🇺 Sam WELSFORD\n🇮🇹 Simone
+  CONSONNI\n🇫🇷 Thomas BOUDAT\n🇫🇷 Thomas DENIS\n🇩🇰 Tobias Aagaard
+  HANSEN\n🇳🇿 Tom SEXTON\n🇧🇪 Tuur DENS\n🇫🇷 Valentin TABELLION
+SUMMARY:🚴 Командная гонка преследования, раунд 1 (м)
+LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T173000Z-artistic-swimming--

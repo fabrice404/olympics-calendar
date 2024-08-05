@@ -8893,6 +8893,33 @@ SUMMARY:🛶 Байдарки-двойки 500м, квалификация (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T094200Z-wrestling--97-18--IRI-USA
+DTSTAMP:20240806T094200Z
+DTSTART:20240806T094200Z
+DTEND:20240806T094900Z
+DESCRIPTION:Борьба - Греко-римская, 97кг, 1/8 финала (м)
+SUMMARY:🤼 Mohammadhadi SARAVI 🇮🇷 - 🇺🇸 Josef Patrick RAU
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T094900Z-wrestling--77-18--KGZ-USA
+DTSTAMP:20240806T094900Z
+DTSTART:20240806T094900Z
+DTEND:20240806T095600Z
+DESCRIPTION:Борьба - Греко-римская, 77кг, 1/8 финала (м)
+SUMMARY:🤼 Akzhol MAKHMUDOV 🇰🇬 - 🇺🇸 Kamal Ameer BEY
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T094900Z-wrestling--50-18--ALG-USA
+DTSTAMP:20240806T094900Z
+DTSTART:20240806T094900Z
+DTEND:20240806T095600Z
+DESCRIPTION:Борьба - Вольная борьба, 50кг, 1/8 финала (ж)
+SUMMARY:🤼 Ibtissem DOUDOU 🇩🇿 - 🇺🇸 Sarah Ann HILDEBRANDT
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T100000Z-athletics-400-
 DTSTAMP:20240806T100000Z
 DTSTART:20240806T100000Z
@@ -9130,6 +9157,18 @@ DTEND:20240806T171500Z
 DESCRIPTION:Волейбол - 1/4 финала (ж)
 SUMMARY:🏐 США 🇺🇸 - 🇵🇱 Польша
 LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T153000Z-cycling-track--
+DTSTAMP:20240806T153000Z
+DTSTART:20240806T153000Z
+DTEND:20240806T165900Z
+DESCRIPTION:Трековые велогонки - Командная гонка преследования,
+  квалификация (ж)\n🇦🇺 Австралия\n🇬🇧 Великобритания\n🇩🇪
+  Германия\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇿 Новая
+  Зеландия\n🇺🇸 США\n🇫🇷 Франция\n🇯🇵 Япония
+SUMMARY:🚴 Командная гонка преследования, квалификация (ж)
+LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T160000Z-football---USA-GER
