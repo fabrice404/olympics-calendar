@@ -346,12 +346,12 @@ SUMMARY:🤼 Греко-римская, 60кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T190700Z-wrestling--60-
+UID:20240805T190700Z-wrestling--60--PRK-CHN
 DTSTAMP:20240805T190700Z
 DTSTART:20240805T190700Z
 DTEND:20240805T191400Z
-DESCRIPTION:Борьба - Греко-римская, 60кг, полуфинал (м)\n🇰🇵 RI Se Ung
-SUMMARY:🤼 Греко-римская, 60кг, полуфинал (м)
+DESCRIPTION:Борьба - Греко-римская, 60кг, полуфинал (м)
+SUMMARY:🤼 RI Se Ung 🇰🇵 - 🇨🇳 CAO Liguo
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -364,12 +364,12 @@ SUMMARY:🤼 Mijain LOPEZ NUNEZ 🇨🇺 - 🇦🇿 Sabah Saleh SHARIATI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T192100Z-wrestling--130-
+UID:20240805T192100Z-wrestling--130--CHN-CHI
 DTSTAMP:20240805T192100Z
 DTSTART:20240805T192100Z
 DTEND:20240805T192800Z
-DESCRIPTION:Борьба - Греко-римская, 130кг, полуфинал (м)\n🇨🇳 MENG Lingzhe
-SUMMARY:🤼 Греко-римская, 130кг, полуфинал (м)
+DESCRIPTION:Борьба - Греко-римская, 130кг, полуфинал (м)
+SUMMARY:🤼 MENG Lingzhe 🇨🇳 - 🇨🇱 Yasmani ACOSTA FERNANDEZ
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -386,7 +386,8 @@ UID:20240805T193500Z-wrestling--68-
 DTSTAMP:20240805T193500Z
 DTSTART:20240805T193500Z
 DTEND:20240805T194200Z
-DESCRIPTION:Борьба - Вольная борьба, 68кг, полуфинал (ж)
+DESCRIPTION:Борьба - Вольная борьба, 68кг, полуфинал (ж)\n🇳🇬 Blessing
+  OBORUDUDU
 SUMMARY:🤼 Вольная борьба, 68кг, полуфинал (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
