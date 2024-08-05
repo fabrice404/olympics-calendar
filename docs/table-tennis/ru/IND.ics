@@ -102,4 +102,14 @@ DESCRIPTION:Настольный теннис - 1/8 финала, командн
 SUMMARY:🏓 Китай 🇨🇳 - 🇮🇳 Индия
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T080000Z-table-tennis-14-
+DTSTAMP:20240807T080000Z
+DTSTART:20240807T080000Z
+DTEND:20240807T110000Z
+DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)\n🇮🇳
+  Индия
+SUMMARY:🏓 1/4 финала, командный разряд (ж)
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
 END:VCALENDAR

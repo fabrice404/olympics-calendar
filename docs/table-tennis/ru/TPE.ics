@@ -147,4 +147,13 @@ DESCRIPTION:Настольный теннис - 1/8 финала, командн
 SUMMARY:🏓 Австралия 🇦🇺 - 🇹🇼 Chinese Taipei
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T130000Z-table-tennis-14-
+DTSTAMP:20240806T130000Z
+DTSTART:20240806T130000Z
+DTEND:20240806T160000Z
+DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м)\n🇹🇼 TPE
+SUMMARY:🏓 1/4 финала, командный разряд (м)
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
 END:VCALENDAR
