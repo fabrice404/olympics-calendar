@@ -28807,6 +28807,15 @@ SUMMARY:🤼 Sabah Saleh SHARIATI 🇦🇿 - 🇰🇿 Alimkhan SYZDYKOV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T141000Z-wrestling--68-14--FRA-NGR
+DTSTAMP:20240805T141000Z
+DTSTART:20240805T141000Z
+DTEND:20240805T141700Z
+DESCRIPTION:Борьба - Вольная борьба, 68кг, 1/4 финала (ж)
+SUMMARY:🤼 Koumba LARROQUE 🇫🇷 - 🇳🇬 Blessing OBORUDUDU
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T141000Z-wrestling--130-14--CHN-LTU
 DTSTAMP:20240805T141000Z
 DTSTART:20240805T141000Z
@@ -28816,23 +28825,12 @@ SUMMARY:🤼 MENG Lingzhe 🇨🇳 - 🇱🇹 Mantas KNYSTAUTAS
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T141000Z-wrestling--68-14-
+UID:20240805T141000Z-wrestling--60-14--VEN-CHN
 DTSTAMP:20240805T141000Z
 DTSTART:20240805T141000Z
 DTEND:20240805T141700Z
-DESCRIPTION:Борьба - Вольная борьба, 68кг, 1/4 финала (ж)\n🇫🇷 Koumba
-  LARROQUE
-SUMMARY:🤼 Вольная борьба, 68кг, 1/4 финала (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T141000Z-wrestling--60-14-
-DTSTAMP:20240805T141000Z
-DTSTART:20240805T141000Z
-DTEND:20240805T141700Z
-DESCRIPTION:Борьба - Греко-римская, 60кг, 1/4 финала (м)\n🇻🇪 Raiber Jose
-  RODRIGUEZ OROZCO
-SUMMARY:🤼 Греко-римская, 60кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Греко-римская, 60кг, 1/4 финала (м)
+SUMMARY:🤼 Raiber Jose RODRIGUEZ OROZCO 🇻🇪 - 🇨🇳 CAO Liguo
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -28851,7 +28849,8 @@ UID:20240805T141700Z-wrestling--68-14-
 DTSTAMP:20240805T141700Z
 DTSTART:20240805T141700Z
 DTEND:20240805T142400Z
-DESCRIPTION:Борьба - Вольная борьба, 68кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 68кг, 1/4 финала (ж)\n🇯🇵 OZAKI
+  Nonoka
 SUMMARY:🤼 Вольная борьба, 68кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -28860,7 +28859,8 @@ UID:20240805T141700Z-wrestling--130-14-
 DTSTAMP:20240805T141700Z
 DTSTART:20240805T141700Z
 DTEND:20240805T142400Z
-DESCRIPTION:Борьба - Греко-римская, 130кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Греко-римская, 130кг, 1/4 финала (м)\n🇨🇱 Yasmani
+  ACOSTA FERNANDEZ
 SUMMARY:🤼 Греко-римская, 130кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -28887,7 +28887,9 @@ UID:20240805T142800Z-canoe-slalom--
 DTSTAMP:20240805T142800Z
 DTSTART:20240805T142800Z
 DTEND:20240805T143800Z
-DESCRIPTION:Гребной слалом - Экстрим-слалом, полуфинал (м)
+DESCRIPTION:Гребной слалом - Экстрим-слалом, полуфинал (м)\n🇫🇷 Boris
+  NEVEU\n🇳🇿 Finn BUTCHER\n🇸🇰 Jakub GRIGAR\n🇬🇧 Joseph CLARKE\n🇨🇿
+  Lukas ROHAN\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz POLACZYK\n🇩🇪 Noah HEGGE
 SUMMARY:🛶 Экстрим-слалом, полуфинал (м)
 LOCATION:Водный ст. - Белая вода
 END:VEVENT

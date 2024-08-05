@@ -8625,13 +8625,12 @@ SUMMARY:🛶 Men's Kayak Cross Quarterfinal
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T141000Z-wrestling-WOMENS-FREESTYLE-68KG-14-FINAL
+UID:20240805T141000Z-wrestling-WOMENS-FREESTYLE-68KG-14-FINAL-FRA-NGR
 DTSTAMP:20240805T141000Z
 DTSTART:20240805T141000Z
 DTEND:20240805T141700Z
-DESCRIPTION:Wrestling - Women's Freestyle 68kg 1/4 Final\n🇫🇷 Koumba
-  LARROQUE
-SUMMARY:🤼 Women's Freestyle 68kg 1/4 Final
+DESCRIPTION:Wrestling - Women's Freestyle 68kg 1/4 Final
+SUMMARY:🤼 Koumba LARROQUE 🇫🇷 - 🇳🇬 Blessing OBORUDUDU
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -8643,6 +8642,17 @@ DESCRIPTION:Canoe Slalom - Women's Kayak Cross Semifinal\n🇨🇭 Alena
   MARX\n🇧🇷 Ana SATILA\n🇫🇷 Angele HUG\n🇩🇿 Carole Diana BOUZIDI\n🇩🇪
   Elena LILIK\n🇬🇧 Kimberley WOODS\n🇳🇿 Luuka JONES\n🇦🇺 Noemie FOX
 SUMMARY:🛶 Women's Kayak Cross Semifinal
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T142800Z-canoe-slalom-MENS-KAYAK-CROSS-SEMIFINAL
+DTSTAMP:20240805T142800Z
+DTSTART:20240805T142800Z
+DTEND:20240805T143800Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Cross Semifinal\n🇫🇷 Boris
+  NEVEU\n🇳🇿 Finn BUTCHER\n🇸🇰 Jakub GRIGAR\n🇬🇧 Joseph CLARKE\n🇨🇿
+  Lukas ROHAN\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz POLACZYK\n🇩🇪 Noah HEGGE
+SUMMARY:🛶 Men's Kayak Cross Semifinal
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
