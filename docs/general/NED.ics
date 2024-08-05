@@ -5183,12 +5183,12 @@ SUMMARY:🏃 Women's 5000m Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T203000Z-3x3-basketball-MENS-GOLD-MEDAL-GAME
+UID:20240805T203000Z-3x3-basketball-MENS-GOLD-MEDAL-GAME-FRA-NED
 DTSTAMP:20240805T203000Z
 DTSTART:20240805T203000Z
 DTEND:20240805T205500Z
-DESCRIPTION:3x3 Basketball - Men's Gold Medal Game\n🇳🇱 NED
-SUMMARY:🏀 Men's Gold Medal Game
+DESCRIPTION:3x3 Basketball - Men's Gold Medal Game
+SUMMARY:🏀 FRA 🇫🇷 - 🇳🇱 NED
 LOCATION:La Concorde 1
 END:VEVENT
 BEGIN:VEVENT
@@ -5408,6 +5408,22 @@ DTEND:20240806T155000Z
 DESCRIPTION:Beach Volleyball - Men's Quarterfinal
 SUMMARY:🏐 EHLERS/WICKLER 🇩🇪 - 🇳🇱 BOERMANS/DE GROOT
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T165900Z-cycling-track-MENS-TEAM-SPRINT-FIRST-ROUND
+DTSTAMP:20240806T165900Z
+DTSTART:20240806T165900Z
+DTEND:20240806T171400Z
+DESCRIPTION:Cycling Track - Men's Team Sprint, First Round\n🇬🇧 Ed
+  LOWE\n🇫🇷 Florian GRENGBO\n🇨🇳 GUO Shuai\n🇬🇧 Hamish TURNBULL\n🇳🇱
+  Harrie LAVREYSEN\n🇬🇧 Jack CARLIN\n🇨🇦 James HEDGCOCK\n🇳🇱 Jeffrey
+  HOOGLAND\n🇨🇳 LIU Qi\n🇦🇺 Leigh HOFFMAN\n🇩🇪 Luca SPIEGEL\n🇦🇺
+  Matthew GLAETZER\n🇦🇺 Matthew RICHARDSON\n🇩🇪 Maximilian
+  DOERNBACH\n🇯🇵 NAGASAKO Yoshitaku\n🇨🇦 Nick WAMMES\n🇯🇵 OBARA
+  Yuta\n🇯🇵 OTA Kaiya\n🇫🇷 Rayan HELAL\n🇳🇱 Roy van den BERG\n🇫🇷
+  Sebastien VIGIER\n🇩🇪 Stefan BOETTICHER\n🇨🇦 Tyler RORKE\n🇨🇳 ZHOU Yu
+SUMMARY:🚴 Men's Team Sprint, First Round
+LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T180700Z-athletics-WOMENS-400M-HURDLES-SEMI-FINAL

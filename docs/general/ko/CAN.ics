@@ -5085,6 +5085,21 @@ SUMMARY:⛵ 여자 카이트 - 레이스 6
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T103000Z-skateboarding--
+DTSTAMP:20240806T103000Z
+DTSTART:20240806T103000Z
+DTEND:20240806T133100Z
+DESCRIPTION:스케이트보드 - 여자 파크 예선\n🇦🇺 Arisa TREW\n🇲🇦 Aya ASAQAS\n🇺🇸 Bryce
+  WETTSTEIN\n🇧🇷 Dora VARELLA\n🇫🇷 Emilie ALEXANDRE\n🇨🇦 Fay EBERT\n🇯🇵
+  HIRAKI Cocona\n🇫🇮 Heili SIRVIO\n🇧🇷 Isadora PACHECO\n🇪🇸 Julia
+  BENEDETTI\n🇯🇵 KUSAKI Hinano\n🇩🇪 Lilly STOEPHASIUS\n🇬🇧 Lola
+  TAMBLING\n🇺🇸 Minna STESS\n🇪🇸 Naia LASO\n🇫🇷 Nana TABOULET\n🇧🇷
+  Raicca VENTURA\n🇺🇸 Ruby LILLEY\n🇦🇺 Ruby TREW\n🇬🇧 Sky BROWN\n🇯🇵
+  YOSOZUMI Sakura\n🇨🇳 ZHENG Haohao
+SUMMARY:🛹 여자 파크 예선
+LOCATION:라 콩코르드 4
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T104800Z-sailing--7
 DTSTAMP:20240806T104800Z
 DTSTART:20240806T104800Z
@@ -5188,6 +5203,22 @@ DTEND:20240806T174500Z
 DESCRIPTION:농구 - 남자 8강
 SUMMARY:🏀 프랑스 🇫🇷 - 🇨🇦 캐나다
 LOCATION:베르시 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T165900Z-cycling-track--1
+DTSTAMP:20240806T165900Z
+DTSTART:20240806T165900Z
+DTEND:20240806T171400Z
+DESCRIPTION:사이클 트랙 - 남자 단체 스프린트, 1라운드\n🇬🇧 Ed LOWE\n🇫🇷 Florian
+  GRENGBO\n🇨🇳 GUO Shuai\n🇬🇧 Hamish TURNBULL\n🇳🇱 Harrie
+  LAVREYSEN\n🇬🇧 Jack CARLIN\n🇨🇦 James HEDGCOCK\n🇳🇱 Jeffrey
+  HOOGLAND\n🇨🇳 LIU Qi\n🇦🇺 Leigh HOFFMAN\n🇩🇪 Luca SPIEGEL\n🇦🇺
+  Matthew GLAETZER\n🇦🇺 Matthew RICHARDSON\n🇩🇪 Maximilian
+  DOERNBACH\n🇯🇵 NAGASAKO Yoshitaku\n🇨🇦 Nick WAMMES\n🇯🇵 OBARA
+  Yuta\n🇯🇵 OTA Kaiya\n🇫🇷 Rayan HELAL\n🇳🇱 Roy van den BERG\n🇫🇷
+  Sebastien VIGIER\n🇩🇪 Stefan BOETTICHER\n🇨🇦 Tyler RORKE\n🇨🇳 ZHOU Yu
+SUMMARY:🚴 남자 단체 스프린트, 1라운드
+LOCATION:국립 벨로드롬
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T171400Z-cycling-track--1
