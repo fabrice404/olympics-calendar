@@ -4723,22 +4723,6 @@ SUMMARY:⛵ Швертбот, гонка 09 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T102800Z-sailing--06-
-DTSTAMP:20240805T102800Z
-DTSTART:20240805T102800Z
-DTEND:20240805T104500Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 06 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Кайт, гонка 06 (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T105000Z-athletics-200-
 DTSTAMP:20240805T105000Z
 DTSTART:20240805T105000Z
@@ -4755,38 +4739,6 @@ DESCRIPTION:Легкая атлетика - 200м, утешительный ра
   Torrie LEWIS\n🇸🇬 Veronica Shanti PEREIRA
 SUMMARY:🏃 200м, утешительный раунд (ж)
 LOCATION:«Стад-де-Франс»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T105300Z-sailing--07-
-DTSTAMP:20240805T105300Z
-DTSTART:20240805T105300Z
-DTEND:20240805T111000Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 07 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Кайт, гонка 07 (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T111800Z-sailing--08-
-DTSTAMP:20240805T111800Z
-DTSTART:20240805T111800Z
-DTEND:20240805T113500Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 08 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Кайт, гонка 08 (ж)
-LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T112300Z-sailing--10-
@@ -5033,6 +4985,15 @@ SUMMARY:🏃 200м, полуфинал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T190000Z-3x3-basketball--3--CAN-USA
+DTSTAMP:20240805T190000Z
+DTSTART:20240805T190000Z
+DTEND:20240805T192500Z
+DESCRIPTION:Баскетбол 3х3 - Матч за 3-е место (ж)
+SUMMARY:🏀 Канада 🇨🇦 - 🇺🇸 США
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T073000Z-canoe-sprint--500-
 DTSTAMP:20240806T073000Z
 DTSTART:20240806T073000Z
@@ -5196,10 +5157,58 @@ SUMMARY:🛶 Байдарки-двойки 500м, квалификация (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T101300Z-sailing--09-
-DTSTAMP:20240806T101300Z
-DTSTART:20240806T101300Z
-DTEND:20240806T103000Z
+UID:20240806T102300Z-sailing--06-
+DTSTAMP:20240806T102300Z
+DTSTART:20240806T102300Z
+DTEND:20240806T104000Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 06 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Кайт, гонка 06 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T104800Z-sailing--07-
+DTSTAMP:20240806T104800Z
+DTSTART:20240806T104800Z
+DTEND:20240806T110500Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 07 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Кайт, гонка 07 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T111300Z-sailing--08-
+DTSTAMP:20240806T111300Z
+DTSTART:20240806T111300Z
+DTEND:20240806T113000Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 08 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Кайт, гонка 08 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T113800Z-sailing--09-
+DTSTAMP:20240806T113800Z
+DTSTART:20240806T113800Z
+DTEND:20240806T115500Z
 DESCRIPTION:Парусный спорт - Кайт, гонка 09 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
   Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
   CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -5212,10 +5221,19 @@ SUMMARY:⛵ Кайт, гонка 09 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T103800Z-sailing--10-
-DTSTAMP:20240806T103800Z
-DTSTART:20240806T103800Z
-DTEND:20240806T105500Z
+UID:20240806T120000Z-water-polo---CAN-ESP
+DTSTAMP:20240806T120000Z
+DTSTART:20240806T120000Z
+DTEND:20240806T132500Z
+DESCRIPTION:Водное поло - Четвертьфинал (ж)
+SUMMARY:🤽 Канада 🇨🇦 - 🇪🇸 Испания
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T120300Z-sailing--10-
+DTSTAMP:20240806T120300Z
+DTSTART:20240806T120300Z
+DTEND:20240806T122000Z
 DESCRIPTION:Парусный спорт - Кайт, гонка 10 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
   Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
   CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -5226,47 +5244,6 @@ DESCRIPTION:Парусный спорт - Кайт, гонка 10 (ж)\n🇦🇹
   Maria Catalina TURIENZO
 SUMMARY:⛵ Кайт, гонка 10 (ж)
 LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T110300Z-sailing--11-
-DTSTAMP:20240806T110300Z
-DTSTART:20240806T110300Z
-DTEND:20240806T112000Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 11 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Кайт, гонка 11 (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T112800Z-sailing--12-
-DTSTAMP:20240806T112800Z
-DTSTART:20240806T112800Z
-DTEND:20240806T114500Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 12 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Кайт, гонка 12 (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T120000Z-water-polo---CAN-ESP
-DTSTAMP:20240806T120000Z
-DTSTART:20240806T120000Z
-DTEND:20240806T132500Z
-DESCRIPTION:Водное поло - Четвертьфинал (ж)
-SUMMARY:🤽 Канада 🇨🇦 - 🇪🇸 Испания
-LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T130000Z-diving--10-
@@ -5429,10 +5406,42 @@ SUMMARY:🛶 Каноэ-одиночки 1000м, квалификация (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T101300Z-sailing--13-
+UID:20240807T101300Z-sailing--11-
 DTSTAMP:20240807T101300Z
 DTSTART:20240807T101300Z
 DTEND:20240807T103000Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 11 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Кайт, гонка 11 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T110300Z-sailing--12-
+DTSTAMP:20240807T110300Z
+DTSTART:20240807T110300Z
+DTEND:20240807T112000Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 12 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Кайт, гонка 12 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T115300Z-sailing--13-
+DTSTAMP:20240807T115300Z
+DTSTART:20240807T115300Z
+DTEND:20240807T121000Z
 DESCRIPTION:Парусный спорт - Кайт, гонка 13 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
   Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
   CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -5445,10 +5454,10 @@ SUMMARY:⛵ Кайт, гонка 13 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T110300Z-sailing--14-
-DTSTAMP:20240807T110300Z
-DTSTART:20240807T110300Z
-DTEND:20240807T112000Z
+UID:20240807T124300Z-sailing--14-
+DTSTAMP:20240807T124300Z
+DTSTART:20240807T124300Z
+DTEND:20240807T130000Z
 DESCRIPTION:Парусный спорт - Кайт, гонка 14 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
   Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
   CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -5458,38 +5467,6 @@ DESCRIPTION:Парусный спорт - Кайт, гонка 14 (ж)\n🇦🇹
   MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
   Maria Catalina TURIENZO
 SUMMARY:⛵ Кайт, гонка 14 (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T113800Z-sailing--15-
-DTSTAMP:20240807T113800Z
-DTSTART:20240807T113800Z
-DTEND:20240807T115500Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 15 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Кайт, гонка 15 (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T121300Z-sailing--16-
-DTSTAMP:20240807T121300Z
-DTSTART:20240807T121300Z
-DTEND:20240807T123000Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 16 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Кайт, гонка 16 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
@@ -5509,6 +5486,38 @@ DESCRIPTION:Прыжки в воду - Трамплин 3м, предварит�
   KESAR\n🇬🇧 Yasmin HARPER
 SUMMARY:🏊 Трамплин 3м, предварительный раунд (ж)
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T133300Z-sailing--15-
+DTSTAMP:20240807T133300Z
+DTSTART:20240807T133300Z
+DTEND:20240807T135000Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 15 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Кайт, гонка 15 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T142300Z-sailing--16-
+DTSTAMP:20240807T142300Z
+DTSTART:20240807T142300Z
+DTEND:20240807T144000Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 16 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Кайт, гонка 16 (ж)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T173000Z-artistic-swimming--
