@@ -440,4 +440,13 @@ DESCRIPTION:사격 - 혼성 단체 스키트 예선\n🇦🇺 AUS\n🇨🇳 CHN\
 SUMMARY:🔫 혼성 단체 스키트 예선
 LOCATION:샤토루 사격 센터
 END:VEVENT
+BEGIN:VEVENT
+UID:20240805T130000Z-shooting---ITA-USA
+DTSTAMP:20240805T130000Z
+DTSTART:20240805T130000Z
+DTEND:20240805T133000Z
+DESCRIPTION:사격 - 혼성 단체 스키트 금메달 결정전
+SUMMARY:🔫 Italy 1 🇮🇹 - 🇺🇸 United States 1
+LOCATION:샤토루 사격 센터
+END:VEVENT
 END:VCALENDAR
