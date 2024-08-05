@@ -1507,31 +1507,12 @@ SUMMARY:🏓 1/4 финала, командный разряд (ж)
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T130000Z-table-tennis-14-
+UID:20240806T130000Z-table-tennis-14--JPN-TPE
 DTSTAMP:20240806T130000Z
 DTSTART:20240806T130000Z
 DTEND:20240806T160000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м)\n🇹🇼 TPE
-SUMMARY:🏓 1/4 финала, командный разряд (м)
-LOCATION:Арена «Париж-Юг» 4
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T130000Z-table-tennis-14-
-DTSTAMP:20240806T130000Z
-DTSTART:20240806T130000Z
-DTEND:20240806T160000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м, ж)
-SUMMARY:🏓 1/4 финала, командный разряд (м, ж)
-LOCATION:Арена «Париж-Юг» 4
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T180000Z-table-tennis-14-
-DTSTAMP:20240806T180000Z
-DTSTART:20240806T180000Z
-DTEND:20240806T210000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)\n🇯🇵
-  Япония
-SUMMARY:🏓 1/4 финала, командный разряд (ж)
+DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м)
+SUMMARY:🏓 Япония 🇯🇵 - 🇹🇼 Chinese Taipei
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
@@ -1545,12 +1526,12 @@ SUMMARY:🏓 1/4 финала, командный разряд (м)
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T180000Z-table-tennis-14-
+UID:20240806T180000Z-table-tennis-14--THA-JPN
 DTSTAMP:20240806T180000Z
 DTSTART:20240806T180000Z
 DTEND:20240806T210000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м, ж)
-SUMMARY:🏓 1/4 финала, командный разряд (м, ж)
+DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)
+SUMMARY:🏓 Таиланд 🇹🇭 - 🇯🇵 Япония
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
@@ -1573,20 +1554,12 @@ SUMMARY:🏓 1/4 финала, командный разряд (м)
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T080000Z-table-tennis-14-
-DTSTAMP:20240807T080000Z
-DTSTART:20240807T080000Z
-DTEND:20240807T110000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м, ж)
-SUMMARY:🏓 1/4 финала, командный разряд (м, ж)
-LOCATION:Арена «Париж-Юг» 4
-END:VEVENT
-BEGIN:VEVENT
 UID:20240807T130000Z-table-tennis-14-
 DTSTAMP:20240807T130000Z
 DTSTART:20240807T130000Z
 DTEND:20240807T160000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)
+DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)\n🇨🇳
+  Китай
 SUMMARY:🏓 1/4 финала, командный разряд (ж)
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
@@ -1595,17 +1568,9 @@ UID:20240807T130000Z-table-tennis-14-
 DTSTAMP:20240807T130000Z
 DTSTART:20240807T130000Z
 DTEND:20240807T160000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м)
+DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м)\n🇧🇷
+  Бразилия
 SUMMARY:🏓 1/4 финала, командный разряд (м)
-LOCATION:Арена «Париж-Юг» 4
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T130000Z-table-tennis-14-
-DTSTAMP:20240807T130000Z
-DTSTART:20240807T130000Z
-DTEND:20240807T160000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (м, ж)
-SUMMARY:🏓 1/4 финала, командный разряд (м, ж)
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT

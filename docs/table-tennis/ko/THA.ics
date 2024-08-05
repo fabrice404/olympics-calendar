@@ -30,4 +30,13 @@ DESCRIPTION:탁구 - 여자 단체 16강
 SUMMARY:🏓 프랑스 🇫🇷 - 🇹🇭 태국
 LOCATION:사우스 파리 아레나 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T180000Z-table-tennis--8-THA-JPN
+DTSTAMP:20240806T180000Z
+DTSTART:20240806T180000Z
+DTEND:20240806T210000Z
+DESCRIPTION:탁구 - 여자 단체 8강
+SUMMARY:🏓 태국 🇹🇭 - 🇯🇵 일본
+LOCATION:사우스 파리 아레나 4
+END:VEVENT
 END:VCALENDAR

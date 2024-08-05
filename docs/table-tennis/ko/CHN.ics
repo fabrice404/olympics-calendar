@@ -228,4 +228,13 @@ DESCRIPTION:탁구 - 남자 단체 16강
 SUMMARY:🏓 중국 🇨🇳 - 🇮🇳 인도
 LOCATION:사우스 파리 아레나 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T130000Z-table-tennis--8
+DTSTAMP:20240807T130000Z
+DTSTART:20240807T130000Z
+DTEND:20240807T160000Z
+DESCRIPTION:탁구 - 여자 단체 8강\n🇨🇳 중국
+SUMMARY:🏓 여자 단체 8강
+LOCATION:사우스 파리 아레나 4
+END:VEVENT
 END:VCALENDAR

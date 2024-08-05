@@ -184,12 +184,21 @@ SUMMARY:🏓 일본 🇯🇵 - 🇦🇺 오스트레일리아
 LOCATION:사우스 파리 아레나 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T180000Z-table-tennis--8
+UID:20240806T130000Z-table-tennis--8-JPN-TPE
+DTSTAMP:20240806T130000Z
+DTSTART:20240806T130000Z
+DTEND:20240806T160000Z
+DESCRIPTION:탁구 - 남자 단체 8강
+SUMMARY:🏓 일본 🇯🇵 - 🇹🇼 Chinese Taipei
+LOCATION:사우스 파리 아레나 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T180000Z-table-tennis--8-THA-JPN
 DTSTAMP:20240806T180000Z
 DTSTART:20240806T180000Z
 DTEND:20240806T210000Z
-DESCRIPTION:탁구 - 여자 단체 8강\n🇯🇵 일본
-SUMMARY:🏓 여자 단체 8강
+DESCRIPTION:탁구 - 여자 단체 8강
+SUMMARY:🏓 태국 🇹🇭 - 🇯🇵 일본
 LOCATION:사우스 파리 아레나 4
 END:VEVENT
 END:VCALENDAR
