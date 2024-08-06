@@ -21,4 +21,13 @@ DESCRIPTION:Хоккей на траве - Полуфинал (м)
 SUMMARY:🏑 Германия 🇩🇪 - 🇮🇳 Индия
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T120000Z-hockey--3--IND-ESP
+DTSTAMP:20240808T120000Z
+DTSTART:20240808T120000Z
+DTEND:20240808T134500Z
+DESCRIPTION:Хоккей на траве - Матч за 3-е место (м)
+SUMMARY:🏑 Индия 🇮🇳 - 🇪🇸 Испания
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
 END:VCALENDAR

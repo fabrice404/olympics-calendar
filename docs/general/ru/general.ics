@@ -10931,12 +10931,12 @@ SUMMARY:🛶 Байдарки-четверки 500м, финал А (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T120000Z-hockey--3-
+UID:20240808T120000Z-hockey--3--IND-ESP
 DTSTAMP:20240808T120000Z
 DTSTART:20240808T120000Z
 DTEND:20240808T134500Z
-DESCRIPTION:Хоккей на траве - Матч за 3-е место (м)\n🇪🇸 Испания
-SUMMARY:🏑 Матч за 3-е место (м)
+DESCRIPTION:Хоккей на траве - Матч за 3-е место (м)
+SUMMARY:🏑 Индия 🇮🇳 - 🇪🇸 Испания
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
 BEGIN:VEVENT
@@ -11487,12 +11487,12 @@ SUMMARY:🤼 Вольная борьба, 57кг, полуфинал (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T170000Z-hockey--
+UID:20240808T170000Z-hockey---GER-NED
 DTSTAMP:20240808T170000Z
 DTSTART:20240808T170000Z
 DTEND:20240808T191000Z
-DESCRIPTION:Хоккей на траве - Финал (м)\n🇳🇱 Нидерланды
-SUMMARY:🏑 Финал (м)
+DESCRIPTION:Хоккей на траве - Финал (м)
+SUMMARY:🏑 Германия 🇩🇪 - 🇳🇱 Нидерланды
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
 BEGIN:VEVENT
@@ -11836,7 +11836,10 @@ UID:20240808T192500Z-athletics-400-
 DTSTAMP:20240808T192500Z
 DTSTART:20240808T192500Z
 DTEND:20240808T192600Z
-DESCRIPTION:Легкая атлетика - 400м с/б, финал (ж)
+DESCRIPTION:Легкая атлетика - 400м с/б, финал (ж)\n🇺🇸 Anna COCKRELL\n🇳🇱
+  Femke BOL\n🇺🇸 Jasmine JONES\n🇫🇷 Louise MARAVAL\n🇯🇲 Rushell
+  CLAYTON\n🇨🇦 Savannah SUTHERLAND\n🇯🇲 Shiann SALMON\n🇺🇸 Sydney
+  McLAUGHLIN-LEVRONE
 SUMMARY:🏃 400м с/б, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

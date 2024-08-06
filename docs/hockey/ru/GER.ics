@@ -39,4 +39,13 @@ DESCRIPTION:Хоккей на траве - Полуфинал (м)
 SUMMARY:🏑 Германия 🇩🇪 - 🇮🇳 Индия
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T170000Z-hockey---GER-NED
+DTSTAMP:20240808T170000Z
+DTSTART:20240808T170000Z
+DTEND:20240808T191000Z
+DESCRIPTION:Хоккей на траве - Финал (м)
+SUMMARY:🏑 Германия 🇩🇪 - 🇳🇱 Нидерланды
+LOCATION:Стадион «Ив дю Мануар»
+END:VEVENT
 END:VCALENDAR
