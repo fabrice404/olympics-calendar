@@ -4,6 +4,36 @@ PRODID:-//fabrice404//olympics-calendar//general/ko/EST//EN
 X-WR-CALNAME:🇪🇪 Estonia | Paris 2024
 NAME:🇪🇪 Estonia | Paris 2024
 BEGIN:VEVENT
+UID:20240725T073000Z-archery--
+DTSTAMP:20240725T073000Z
+DTSTART:20240725T073000Z
+DTEND:20240725T103000Z
+DESCRIPTION:양궁 - 여자 개인 랭킹 라운드\n🇨🇳 AN Qixuan\n🇲🇽 Alejandra
+  VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra RIVERA\n🇫🇷 Amelie
+  CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana RENDON
+  MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita BHAKAT\n🇲🇾
+  Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧 Bryony
+  PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
+  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
+  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
+  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
+  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
+  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
+  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
+  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
+  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
+  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
+  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
+  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
+  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
+  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
+  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
+  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
+  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
+SUMMARY:🏹 여자 개인 랭킹 라운드
+LOCATION:앵발리드
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -32,6 +62,291 @@ DESCRIPTION:사이클 산악자전거 - 여자 크로스컨트리\n🇨🇿 Adel
   BELOMOINA
 SUMMARY:🚴 여자 크로스컨트리
 LOCATION:엘랑쿠르 힐
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-shooting--2
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T120000Z
+DESCRIPTION:사격 - 남자 스키트 예선 - 2일차\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
+  MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸 Conner Lynn PRINCE\n🇰🇿
+  Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷 Efthimios MITAS\n🇫🇷 Eric
+  DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico GIL\n🇮🇹 Gabriele
+  ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub TOMECEK\n🇩🇰 Jesper
+  HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua BELL\n🇰🇷 KIM Minsu\n🇹🇼
+  LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus SVENSSON\n🇰🇼 Mohammad
+  ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬 Omar IBRAHIM\n🇪🇪 Peeter
+  JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹 Sebastian BERMUDEZ
+  LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹 Tammaro CASSANDRO\n🇺🇸
+  Vincent HANCOCK
+SUMMARY:🔫 남자 스키트 예선 - 2일차
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-cycling-road--
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T155000Z
+DESCRIPTION:사이클 도로 - 남자 도로경기\n🇯🇵 ARASHIRO Yukiya\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🇪🇸 Alex ARANBURU\n🇱🇺 Alex KIRSCH\n🇰🇿
+  Alexey LUTSENKO\n🇮🇷 Ali LABIB\n🇺🇦 Anatolii BUDIAK\n🇭🇺 Attila
+  VALTER\n🇮🇪 Ben HEALY\n🇦🇺 Ben O'CONNOR\n🇪🇷 Biniam GIRMAY\n🇺🇸
+  Brandon McNULTY\n🇹🇷 Burak ABAY\n🇺🇬 Charles KAGIMU\n🇫🇷 Christophe
+  LAPORTE\n🇲🇺 Christopher ROUGIER-LAGANE\n🇳🇿 Corbin STRONG\n🇳🇱 Daan
+  HOOLE\n🇨🇴 Dani MARTINEZ\n🇨🇦 Derek GEE\n🇸🇮 Domen NOVAK\n🇳🇱 Dylan
+  van BAARLE\n🇦🇷 Eduardo SEPULVEDA\n🇮🇹 Elia VIVIANI\n🇺🇾 Eric
+  FAGUNDEZ\n🇷🇼 Eric MANIZABAYO\n🇦🇹 Felix GROSSSCHARTNER\n🇵🇦 Franklin
+  ARCHIBOLD\n🇬🇧 Fred WRIGHT\n🇬🇷 Georgios BOUGLAS\n🇦🇸 Gleb
+  SYRITSA\n🇮🇱 Itamar EINHORN\n🇸🇪 Jakob SODERQVIST\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇧🇪 Jasper STUYVEN\n🇪🇨 Jhonatan
+  NARVAEZ\n🇬🇧 Josh TARLING\n🇪🇸 Juan AYUSO\n🇫🇷 Julian
+  ALAPHILIPPE\n🇰🇷 KIM Euro\n🇫🇷 Kevin VAUQUELIN\n🇭🇰 LAU Wan Yau
+  Vincent\n🇨🇳 LYU Xianjing\n🇳🇿 Laurence PITHIE\n🇮🇹 Luca MOZZATO\n🇸🇮
+  Luka MEZGEC\n🇸🇰 Lukas KUBIS\n🇪🇪 Madis MIHKELS\n🇩🇰 Mads
+  PEDERSEN\n🇺🇸 Magnus SHEFFIELD\n🇨🇭 Marc HIRSCHI\n🇦🇹 Marco
+  HALLER\n🇸🇮 Matej MOHORIC\n🇨🇿 Mathias VACEK\n🇳🇱 Mathieu van der
+  POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
+  WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
+  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
+  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
+  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
+  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
+  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 남자 도로경기
+LOCATION:트로카데로
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T102000Z-sailing--5
+DTSTAMP:20240803T102000Z
+DTSTART:20240803T102000Z
+DTEND:20240803T111100Z
+DESCRIPTION:요트 - 남자 딩기 - 레이스 5\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 남자 딩기 - 레이스 5
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T112800Z-sailing--6
+DTSTAMP:20240803T112800Z
+DTSTART:20240803T112800Z
+DTEND:20240803T121900Z
+DESCRIPTION:요트 - 남자 딩기 - 레이스 6\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 남자 딩기 - 레이스 6
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T070000Z-shooting--25M-1
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T103000Z
+DESCRIPTION:사격 - 남자 25m 속사권총 예선-스테이지 1\n🇮🇳 Anish ANISH\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷 Clement BESSAGUET\n🇲🇳 Davaakhuu
+  ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪 Florian PETER\n🇵🇰 Ghulam Mustafa
+  BASHIR\n🇺🇸 Henry Turner LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge
+  ALVAREZ\n🇺🇸 Keith SANDERSON\n🇨🇳 LI Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦
+  Maksym HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿
+  Matej RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY
+  MOHAMED\n🇺🇦 Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo
+  MAZZETTI\n🇦🇿 Ruslan LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei
+  EVGLEVSKI\n🇮🇳 Vijayveer SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 남자 25m 속사권총 예선-스테이지 1
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T100500Z-sailing--7
+DTSTAMP:20240804T100500Z
+DTSTART:20240804T100500Z
+DTEND:20240804T105600Z
+DESCRIPTION:요트 - 남자 딩기 - 레이스 7\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 남자 딩기 - 레이스 7
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T110000Z-shooting--25M-2
+DTSTAMP:20240804T110000Z
+DTSTART:20240804T110000Z
+DTEND:20240804T150000Z
+DESCRIPTION:사격 - 남자 25m 속사권총 예선-스테이지 2\n🇮🇳 Anish ANISH\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷 Clement BESSAGUET\n🇲🇳 Davaakhuu
+  ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪 Florian PETER\n🇵🇰 Ghulam Mustafa
+  BASHIR\n🇺🇸 Henry Turner LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge
+  ALVAREZ\n🇺🇸 Keith SANDERSON\n🇨🇳 LI Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦
+  Maksym HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿
+  Matej RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY
+  MOHAMED\n🇺🇦 Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo
+  MAZZETTI\n🇦🇿 Ruslan LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei
+  EVGLEVSKI\n🇮🇳 Vijayveer SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 남자 25m 속사권총 예선-스테이지 2
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T111300Z-sailing--8
+DTSTAMP:20240804T111300Z
+DTSTART:20240804T111300Z
+DTEND:20240804T120400Z
+DESCRIPTION:요트 - 남자 딩기 - 레이스 8\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 남자 딩기 - 레이스 8
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T120000Z-equestrian--
+DTSTAMP:20240805T120000Z
+DTSTART:20240805T120000Z
+DTEND:20240805T160000Z
+DESCRIPTION:승마 - 장애물 개인 예선\n🇦🇪 Abdullah Mohd AL MARRI\n🇸🇦 Abdulrahman
+  ALRAJHI\n🇵🇱 Adam GRZEGORZEWSKI\n🇨🇱 Agustin COVARRUBIAS\n🇸🇾 Amre
+  HAMCHO\n🇩🇰 Andreas SCHOU\n🇲🇽 Andres AZCARRAGA\n🇱🇹 Andrius
+  PETROVAS\n🇬🇧 Ben MAHER\n🇩🇪 Christian KUKUK\n🇮🇪 Cian O'CONNOR\n🇮🇱
+  Daniel BLUMAN\n🇮🇪 Daniel COYLE\n🇵🇱 Dawid KUBIAK\n🇵🇹 Duarte
+  SEABRA\n🇨🇭 Edouard SCHMITZ\n🇪🇸 Eduardo ALVAREZ AZNAR\n🇦🇺 Edwina
+  TOPS-ALEXANDER\n🇮🇹 Emanuele CAMILLI\n🇨🇦 Erynn BALLARD\n🇲🇽 Eugenio
+  GARZA PEREZ\n🇲🇽 Federico FERNANDEZ\n🇦🇹 Gerfried PUCK\n🇧🇪 Gilles
+  THOMAS\n🇧🇪 Gregory WATHELET\n🇯🇵 HAASE SHIBAYAMA Takashi\n🇳🇱 Harrie
+  SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik von ECKERMANN\n🇦🇺 Hilary
+  SCOTT\n🇬🇷 Ioli MYTILINEOU\n🇮🇱 Isabella RUSSEKOFF\n🇪🇸 Ismael GARCIA
+  ROQUE\n🇹🇭 Janakabhorn KARUNAYADHAJ\n🇧🇪 Jerome GUERY\n🇦🇷 Jose Maria
+  (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸 Karl COOK\n🇦🇹 Katharina
+  RHOMBERG\n🇸🇦 Khaled ALMOBTY\n🇳🇱 Kim EMMEN\n🇱🇻 Kristaps
+  NERETNIEKS\n🇺🇸 Laura KRAUT\n🇻🇪 Luis Fernando LARRAZABAL\n🇳🇱 Maikel
+  van der VLEUTEN\n🇵🇱 Maksymilian WECHTA\n🇨🇦 Mario DESLAURIERS\n🇨🇭
+  Martin FUCHS\n🇦🇹 Max KUEHNER\n🇺🇸 McLain WARD\n🇪🇪 My RELANDER\n🇫🇷
+  Olivier PERREAU\n🇦🇪 Omar Abdul Aziz AL MARZOOQI\n🇸🇪 Peder
+  FREDRICSON\n🇩🇪 Philipp WEISHAUPT\n🇸🇦 Ramzy AL DUHAMI\n🇨🇴 Rene LOPEZ
+  LIZARAZO\n🇩🇪 Richard VOGEL\n🇮🇱 Robin MUHR\n🇧🇷 Rodrigo PESSOA\n🇸🇪
+  Rolf-Goran BENGTSSON\n🇯🇵 SATO Eiken\n🇯🇵 SUGITANI Taizo\n🇦🇪 Salim
+  Ahmed AL SUWAIDI\n🇬🇧 Scott BRASH\n🇪🇸 Sergio ALVAREZ MOYA\n🇮🇪 Shane
+  SWEETNAM\n🇫🇷 Simon DELESTRE\n🇧🇷 Stephan de FREITAS BARCHA\n🇨🇭 Steve
+  GUERDAT\n🇦🇺 Thaisa ERWIN\n🇨🇦 Tiffany FOSTER\n🇳🇴 Victoria
+  GULLIKSEN\n🇧🇷 Yuri MANSUR
+SUMMARY:🏇 장애물 개인 예선
+LOCATION:샤토 드 베르사유
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T124500Z-sailing--9
+DTSTAMP:20240805T124500Z
+DTSTART:20240805T124500Z
+DTEND:20240805T133600Z
+DESCRIPTION:요트 - 남자 딩기 - 레이스 9\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 남자 딩기 - 레이스 9
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T131400Z-wrestling--130KG-16-EST-AZE
+DTSTAMP:20240805T131400Z
+DTSTART:20240805T131400Z
+DTEND:20240805T132100Z
+DESCRIPTION:레슬링 - 남자 그레코로만형 130kg 16강
+SUMMARY:🤼 Heiki NABI 🇪🇪 - 🇦🇿 Sabah Saleh SHARIATI
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T135000Z-sailing--10
+DTSTAMP:20240805T135000Z
+DTSTART:20240805T135000Z
+DTEND:20240805T144100Z
+DESCRIPTION:요트 - 남자 딩기 - 레이스 10\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 남자 딩기 - 레이스 10
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T183000Z-weightlifting--102KG
+DTSTAMP:20240810T183000Z
+DTSTART:20240810T183000Z
+DTEND:20240810T210000Z
+DESCRIPTION:역도 - 남자 +102kg\n🇪🇬 Abdelrahman ABDELAZIZ ELSAYED\n🇮🇶 Ali
+  Ammar Yusur RUBAIAWI\n🇮🇷 Ali DAVOUDI\n🇳🇿 David LITI\n🇧🇭 Gor
+  MINASYAN\n🇨🇿 Kamil KUCERA\n🇬🇪 Lasha TALAKHADZE\n🇯🇵 MURAKAMI
+  Eishiro\n🇸🇾 Man ASAAD\n🇪🇪 Mart SEIM\n🇦🇲 Varazdat LALAYAN\n🇩🇿
+  Walid BIDANI
+SUMMARY:🏋 남자 +102kg
+LOCATION:사우스 파리 아레나 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

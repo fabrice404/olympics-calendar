@@ -46,17 +46,6 @@ SUMMARY:🚴 Men's Cross-country
 LOCATION:Elancourt Hill
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T080000Z-equestrian-DRESSAGE-TEAM-GRAND-PRIX-SPECIAL
-DTSTAMP:20240803T080000Z
-DTSTART:20240803T080000Z
-DTEND:20240803T133000Z
-DESCRIPTION:Equestrian - Dressage Team Grand Prix Special\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇧🇪 BEL\n🇩🇰 DEN\n🇫🇮 FIN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇳🇱
-  NED\n🇸🇪 SWE
-SUMMARY:🏇 Dressage Team Grand Prix Special
-LOCATION:Château de Versailles
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -92,21 +81,6 @@ DESCRIPTION:Cycling Road - Men's Road Race\n🇯🇵 ARASHIRO Yukiya\n🇲🇦
   Yevgeniy FEDOROV
 SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T080000Z-equestrian-DRESSAGE-INDIVIDUAL-GRAND-PRIX-FREESTYLE
-DTSTAMP:20240804T080000Z
-DTSTART:20240804T080000Z
-DTEND:20240804T113000Z
-DESCRIPTION:Equestrian - Dressage Individual Grand Prix Freestyle\n🇬🇧
-  Becky MOODY\n🇬🇧 Carl HESTER\n🇩🇰 Cathrine LAUDRUP-DUFOUR\n🇬🇧
-  Charlotte FRY\n🇩🇰 Daniel BACHMANN ANDERSEN\n🇳🇱 Dinja van LIERE\n🇫🇮
-  Emma KANERVA\n🇳🇱 Emmelie SCHOLTENS\n🇩🇪 Frederic WANDRES\n🇳🇴 Isabel
-  FREESE\n🇩🇪 Isabell WERTH\n🇩🇪 Jessica von BREDOW-WERNDL\n🇩🇰 Nanna
-  SKODBORG MERRALD\n🇸🇪 Patrik KITTEL\n🇫🇷 Pauline BASQUIN\n🇵🇱 Sandra
-  SYSOJEVA\n🇸🇪 Therese NILSHAGEN\n🇦🇹 Victoria MAX-THEURER
-SUMMARY:🏇 Dressage Individual Grand Prix Freestyle
-LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
@@ -176,18 +150,5 @@ DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
   CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
 SUMMARY:⛵ Women's Dinghy Medal Race
 LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T175700Z-athletics-WOMENS-HAMMER-THROW-FINAL
-DTSTAMP:20240806T175700Z
-DTSTART:20240806T175700Z
-DTEND:20240806T190700Z
-DESCRIPTION:Athletics - Women's Hammer Throw Final\n🇵🇱 Anita
-  WLODARCZYK\n🇺🇸 Annette Nneka ECHIKUNWOKE\n🇷🇴 Bianca Florentina
-  GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸 Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰
-  Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇻🇪 Rosa Andreina
-  RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇨🇳 ZHAO Jie
-SUMMARY:🏃 Women's Hammer Throw Final
-LOCATION:Stade de France
 END:VEVENT
 END:VCALENDAR

@@ -4,26 +4,12 @@ PRODID:-//fabrice404//olympics-calendar//medals/ja/EGY//EN
 X-WR-CALNAME:🇪🇬 Egypt 🏅 | Paris 2024
 NAME:🇪🇬 Egypt 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240807T173000Z-artistic-swimming-
-DTSTAMP:20240807T173000Z
-DTSTART:20240807T173000Z
-DTEND:20240807T182900Z
-DESCRIPTION:アーティスティックスイミング - チームアクロバティックルーティン\n🇺🇸 アメリカ合衆国\n🇮🇹
-  イタリア\n🇪🇬 エジプト\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽
-  メキシコ\n🇨🇳 中国\n🇯🇵 日本
-SUMMARY:🏊 チームアクロバティックルーティン
-LOCATION:アクアティックス・センター
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T173000Z-artistic-swimming-
-DTSTAMP:20240810T173000Z
-DTSTART:20240810T173000Z
-DTEND:20240810T192300Z
-DESCRIPTION:アーティスティックスイミング - デュエットフリールーティン\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹
-  イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦
-  カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
-  中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
-SUMMARY:🏊 デュエットフリールーティン
-LOCATION:アクアティックス・センター
+UID:20240808T150000Z-football-3-EGY-MAR
+DTSTAMP:20240808T150000Z
+DTSTART:20240808T150000Z
+DTEND:20240808T164500Z
+DESCRIPTION:サッカー - 男子3位決定戦
+SUMMARY:⚽ エジプト 🇪🇬 - 🇲🇦 モロッコ
+LOCATION:スタッド・ドゥ・ラ・ボージョワール
 END:VEVENT
 END:VCALENDAR

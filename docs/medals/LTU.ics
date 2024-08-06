@@ -4,6 +4,17 @@ PRODID:-//fabrice404//olympics-calendar//medals/LTU//EN
 X-WR-CALNAME:🇱🇹 Lithuania 🏅 | Paris 2024
 NAME:🇱🇹 Lithuania 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240803T081800Z-rowing-WOMENS-SINGLE-SCULLS-FINAL-A
+DTSTAMP:20240803T081800Z
+DTSTART:20240803T081800Z
+DTEND:20240803T082500Z
+DESCRIPTION:Rowing - Women's Single Sculls Final A\n🇧🇬 Desislava
+  ANGELOVA\n🇳🇿 Emma TWIGG\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇦🇺
+  Tara RIGNEY\n🇱🇹 Viktorija SENKUTE
+SUMMARY:🚣 Women's Single Sculls Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
 DTSTAMP:20240804T120000Z
 DTSTART:20240804T120000Z
@@ -41,18 +52,5 @@ DESCRIPTION:Cycling Road - Women's Road Race\n🇵🇱 Agnieszka
   Yanina KUSKOVA\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 Women's Road Race
 LOCATION:Trocadéro
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T182500Z-athletics-MENS-DISCUS-THROW-FINAL
-DTSTAMP:20240807T182500Z
-DTSTART:20240807T182500Z
-DTEND:20240807T193500Z
-DESCRIPTION:Athletics - Men's Discus Throw Final\n🇼🇸 Alex ROSE\n🇷🇴 Alin
-  Alexandru FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇩🇪 Clemens PRUEFER\n🇸🇪
-  Daniel STAHL\n🇸🇮 Kristjan CEH\n🇦🇹 Lukas WEISSHAIDINGER\n🇦🇺 Matthew
-  DENNY\n🇱🇹 Mykolas ALEKNA\n🇯🇲 Ralford MULLINGS\n🇯🇲 Roje STONA\n🇯🇲
-  Traves SMIKLE
-SUMMARY:🏃 Men's Discus Throw Final
-LOCATION:Stade de France
 END:VEVENT
 END:VCALENDAR

@@ -41,17 +41,13 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T151600Z-artistic-gymnastics-MENS-POMMEL-HORSE-FINAL
-DTSTAMP:20240803T151600Z
-DTSTART:20240803T151600Z
-DTEND:20240803T155200Z
-DESCRIPTION:Artistic Gymnastics - Men's Pommel Horse Final\n🇰🇷 HUR
-  Woong\n🇳🇱 Loran DE MUNCK\n🇬🇧 Max WHITLOCK\n🇰🇿 Nariman
-  KURBANOV\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg
-  VERNIAIEV\n🇮🇪 Rhys MC CLENAGHAN\n🇯🇵 SUGINO Takaaki\n🇺🇸 Stephen
-  NEDOROSCIK\n🇨🇳 ZOU Jingyuan
-SUMMARY:🤸 Men's Pommel Horse Final
-LOCATION:Bercy Arena
+UID:20240803T200800Z-boxing-WOMENS-60KG-SEMIFINAL-IRL-BRA
+DTSTAMP:20240803T200800Z
+DTSTART:20240803T200800Z
+DTEND:20240803T201900Z
+DESCRIPTION:Boxing - Women's 60kg - Semifinal
+SUMMARY:🥊 Kellie HARRINGTON 🇮🇪 - 🇧🇷 Beatriz Iasmin SOARES FERREIRA
+LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
@@ -105,25 +101,6 @@ SUMMARY:🏊 Men's 1500m Freestyle Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T080000Z-equestrian-JUMPING-INDIVIDUAL-FINAL
-DTSTAMP:20240806T080000Z
-DTSTART:20240806T080000Z
-DTEND:20240806T092100Z
-DESCRIPTION:Equestrian - Jumping Individual Final\n🇸🇦 Abdulrahman
-  ALRAJHI\n🇲🇽 Andres AZCARRAGA\n🇬🇧 Ben MAHER\n🇩🇪 Christian
-  KUKUK\n🇮🇪 Daniel COYLE\n🇮🇹 Emanuele CAMILLI\n🇧🇪 Gilles THOMAS\n🇧🇪
-  Gregory WATHELET\n🇯🇵 HAASE SHIBAYAMA Takashi\n🇳🇱 Harrie
-  SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik von ECKERMANN\n🇦🇷 Jose Maria
-  (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸 Karl COOK\n🇳🇱 Kim EMMEN\n🇺🇸
-  Laura KRAUT\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Martin FUCHS\n🇦🇹 Max
-  KUEHNER\n🇦🇪 Omar Abdul Aziz AL MARZOOQI\n🇩🇪 Philipp WEISHAUPT\n🇸🇦
-  Ramzy AL DUHAMI\n🇧🇷 Rodrigo PESSOA\n🇬🇧 Scott BRASH\n🇮🇪 Shane
-  SWEETNAM\n🇫🇷 Simon DELESTRE\n🇧🇷 Stephan de FREITAS BARCHA\n🇨🇭 Steve
-  GUERDAT\n🇳🇴 Victoria GULLIKSEN
-SUMMARY:🏇 Jumping Individual Final
-LOCATION:Château de Versailles
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T134300Z-sailing-MENS-DINGHY-MEDAL-RACE
 DTSTAMP:20240806T134300Z
 DTSTART:20240806T134300Z
@@ -135,5 +112,14 @@ DESCRIPTION:Sailing - Men's Dinghy Medal Race\n🇨🇱 Clemente SEGUEL
   SAUNDERS
 SUMMARY:⛵ Men's Dinghy Medal Race
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T210600Z-boxing-WOMENS-60KG-FINAL-CHN-IRL
+DTSTAMP:20240806T210600Z
+DTSTART:20240806T210600Z
+DTEND:20240806T211700Z
+DESCRIPTION:Boxing - Women's 60kg - Final
+SUMMARY:🥊 YANG Wenlu 🇨🇳 - 🇮🇪 Kellie HARRINGTON
+LOCATION:Roland-Garros Stadium
 END:VEVENT
 END:VCALENDAR

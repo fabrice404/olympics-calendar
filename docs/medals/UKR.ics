@@ -83,54 +83,6 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T133000Z-artistic-gymnastics-MENS-FLOOR-EXERCISE-FINAL
-DTSTAMP:20240803T133000Z
-DTSTART:20240803T133000Z
-DTEND:20240803T140500Z
-DESCRIPTION:Artistic Gymnastics - Men's Floor Exercise Final\n🇮🇱 Artem
-  DOLGOPYAT\n🇵🇭 Carlos Edriel YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake
-  JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵
-  OKA Shinnosuke\n🇰🇷 RYU Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG
-  Boheng
-SUMMARY:🤸 Men's Floor Exercise Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T151600Z-artistic-gymnastics-MENS-POMMEL-HORSE-FINAL
-DTSTAMP:20240803T151600Z
-DTSTART:20240803T151600Z
-DTEND:20240803T155200Z
-DESCRIPTION:Artistic Gymnastics - Men's Pommel Horse Final\n🇰🇷 HUR
-  Woong\n🇳🇱 Loran DE MUNCK\n🇬🇧 Max WHITLOCK\n🇰🇿 Nariman
-  KURBANOV\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg
-  VERNIAIEV\n🇮🇪 Rhys MC CLENAGHAN\n🇯🇵 SUGINO Takaaki\n🇺🇸 Stephen
-  NEDOROSCIK\n🇨🇳 ZOU Jingyuan
-SUMMARY:🤸 Men's Pommel Horse Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T180000Z-fencing-WOMENS-SABRE-TEAM-GOLD-MEDAL-MATCH-KOR-UKR
-DTSTAMP:20240803T180000Z
-DTSTART:20240803T180000Z
-DTEND:20240803T185000Z
-DESCRIPTION:Fencing - Women's Sabre Team Gold Medal Match
-SUMMARY:🤺 KOR 🇰🇷 - 🇺🇦 UKR
-LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T182000Z-athletics-WOMENS-TRIPLE-JUMP-FINAL
-DTSTAMP:20240803T182000Z
-DTSTART:20240803T182000Z
-DTEND:20240803T193700Z
-DESCRIPTION:Athletics - Women's Triple Jump Final\n🇯🇲 Ackelia SMITH\n🇪🇸
-  Ana PELETEIRO-COMPAORE\n🇮🇹 Dariya DERKACH\n🇷🇴 Elena Andreea
-  TALOS\n🇫🇷 Ilionis GUILLAUME\n🇺🇸 Jasmine MOORE\n🇺🇸 Keturah
-  ORJI\n🇨🇺 Leyanis PEREZ HERNANDEZ\n🇨🇺 Liadagmis POVEA\n🇺🇦 Maryna
-  BEKH-ROMANCHUK\n🇯🇲 Shanieka RICKETTS\n🇩🇲 Thea LAFOND
-SUMMARY:🏃 Women's Triple Jump Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
 DTSTAMP:20240804T120000Z
 DTSTART:20240804T120000Z
@@ -170,66 +122,22 @@ SUMMARY:🚴 Women's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T142400Z-artistic-gymnastics-MENS-VAULT-FINAL
-DTSTAMP:20240804T142400Z
-DTSTART:20240804T142400Z
-DTEND:20240804T150700Z
-DESCRIPTION:Artistic Gymnastics - Men's Vault Final\n🇹🇷 Adem ASIL\n🇦🇲
-  Artur DAVTYAN\n🇺🇸 Asher HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel
-  YULO\n🇬🇧 Harry HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷
-  LEE Junho\n🇮🇷 Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
-SUMMARY:🤸 Men's Vault Final
-LOCATION:Bercy Arena
+UID:20240804T152200Z-boxing-MENS-80KG-SEMIFINAL-UKR-CUB
+DTSTAMP:20240804T152200Z
+DTSTART:20240804T152200Z
+DTEND:20240804T153300Z
+DESCRIPTION:Boxing - Men's 80kg - Semifinal
+SUMMARY:🥊 Oleksandr KHYZHNIAK 🇺🇦 - 🇨🇺 Arlen LOPEZ CARDONA
+LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T175500Z-athletics-WOMENS-HIGH-JUMP-FINAL
-DTSTAMP:20240804T175500Z
-DTSTART:20240804T175500Z
-DTEND:20240804T194000Z
-DESCRIPTION:Athletics - Women's High Jump Final\n🇷🇸 Angelina TOPIC\n🇹🇷
-  Buse SAVASKAN\n🇩🇪 Christina HONSEL\n🇦🇺 Eleanor PATTERSON\n🇨🇾 Elena
-  KULICHENKO\n🇺🇦 Iryna GERASHCHENKO\n🇫🇷 Nawal MENIKER\n🇦🇺 Nicola
-  OLYSLAGERS\n🇺🇿 Safina SADULLAYEVA\n🇬🇷 Tatiana GUSIN\n🇧🇷 Valdileia
-  MARTINS\n🇺🇸 Vashti CUNNINGHAM\n🇺🇦 Yaroslava MAHUCHIKH
-SUMMARY:🏃 Women's High Jump Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T183000Z-athletics-MENS-HAMMER-THROW-FINAL
-DTSTAMP:20240804T183000Z
-DTSTART:20240804T183000Z
-DTEND:20240804T194000Z
-DESCRIPTION:Athletics - Men's Hammer Throw Final\n🇭🇺 Bence HALASZ\n🇬🇷
-  Christos FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇩🇪
-  Merlin HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel FAJDEK\n🇨🇦 Rowan
-  HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱 Wojciech
-  NOWICKI\n🇫🇷 Yann CHAUSSINAND
-SUMMARY:🏃 Men's Hammer Throw Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T073000Z-shooting-25M-RAPID-FIRE-PISTOL-MENS-FINAL
-DTSTAMP:20240805T073000Z
-DTSTART:20240805T073000Z
-DTEND:20240805T083000Z
-DESCRIPTION:Shooting - 25m Rapid Fire Pistol Men's Final\n🇰🇷 CHO
-  Yeongjae\n🇩🇪 Florian PETER\n🇨🇳 LI Yuehong\n🇮🇹 Massimo
-  SPINELLA\n🇺🇦 Pavlo KOROSTYLOV\n🇨🇳 WANG Xinjie
-SUMMARY:🔫 25m Rapid Fire Pistol Men's Final
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T094500Z-artistic-gymnastics-MENS-PARALLEL-BARS-FINAL
-DTSTAMP:20240805T094500Z
-DTSTART:20240805T094500Z
-DTEND:20240805T102400Z
-DESCRIPTION:Artistic Gymnastics - Men's Parallel Bars Final\n🇨🇴 Angel
-  BARAJAS\n🇹🇷 Ferhat ARICAN\n🇯🇵 HASHIMOTO Daiki\n🇺🇦 Illia
-  KOVTUN\n🇬🇧 Joe FRASER\n🇯🇵 KAYA Kazuma\n🇭🇺 Krisztofer MESZAROS\n🇩🇪
-  Lukas DAUSER\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇯🇵 TANIGAWA
-  Wataru\n🇨🇳 XIAO Ruoteng\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU Jingyuan
-SUMMARY:🤸 Men's Parallel Bars Final
-LOCATION:Bercy Arena
+UID:20240807T205100Z-boxing-MENS-80KG-FINAL-KAZ-UKR
+DTSTAMP:20240807T205100Z
+DTSTART:20240807T205100Z
+DTEND:20240807T210200Z
+DESCRIPTION:Boxing - Men's 80kg - Final
+SUMMARY:🥊 Nurbek ORALBAY 🇰🇿 - 🇺🇦 Oleksandr KHYZHNIAK
+LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T130000Z-weightlifting-WOMENS-59KG
@@ -243,17 +151,5 @@ DESCRIPTION:Weightlifting - Women's 59kg\n🇻🇪 Anyelin VENEGAS VALERA\n🇫�
   Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
 SUMMARY:🏋 Women's 59kg
 LOCATION:South Paris Arena 6
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T173000Z-artistic-swimming-DUET-FREE-ROUTINE
-DTSTAMP:20240810T173000Z
-DTSTART:20240810T173000Z
-DTEND:20240810T192300Z
-DESCRIPTION:Artistic Swimming - Duet Free Routine\n🇦🇺 AUS\n🇦🇹 AUT\n🇨🇦
-  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷 GRE\n🇮🇱 ISR\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇪🇸 ESP\n🇺🇦
-  UKR\n🇺🇸 USA
-SUMMARY:🏊 Duet Free Routine
-LOCATION:Aquatics Centre
 END:VEVENT
 END:VCALENDAR

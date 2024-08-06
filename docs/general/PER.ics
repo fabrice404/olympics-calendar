@@ -13,44 +13,6 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T070000Z-shooting-SKEET-MENS-QUALIFICATION-DAY-2
-DTSTAMP:20240803T070000Z
-DTSTART:20240803T070000Z
-DTEND:20240803T120000Z
-DESCRIPTION:Shooting - Skeet Men's Qualification - Day 2\n🇮🇳 Anant Jeet
-  Singh NARUKA\n🇪🇬 Azmy MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸
-  Conner Lynn PRINCE\n🇰🇿 Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷
-  Efthimios MITAS\n🇫🇷 Eric DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico
-  GIL\n🇮🇹 Gabriele ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub
-  TOMECEK\n🇩🇰 Jesper HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua
-  BELL\n🇰🇷 KIM Minsu\n🇹🇼 LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus
-  SVENSSON\n🇰🇼 Mohammad ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬
-  Omar IBRAHIM\n🇪🇪 Peeter JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹
-  Sebastian BERMUDEZ LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹
-  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
-SUMMARY:🔫 Skeet Men's Qualification - Day 2
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
-DTSTAMP:20240803T070000Z
-DTSTART:20240803T070000Z
-DTEND:20240803T123000Z
-DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
-  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
-  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
-  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
-  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
-  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
-  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
-  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
-  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
-  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
-  Victoria LARSSON\n🇨🇳 WEI Meng
-SUMMARY:🔫 Skeet Women's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T100500Z-sailing-WOMENS-DINGHY-RACE-4
 DTSTAMP:20240803T100500Z
 DTSTART:20240803T100500Z
@@ -190,36 +152,6 @@ SUMMARY:⛵ Women's Dinghy - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T133000Z-shooting-SKEET-MENS-FINAL
-DTSTAMP:20240803T133000Z
-DTSTART:20240803T133000Z
-DTEND:20240803T144500Z
-DESCRIPTION:Shooting - Skeet Men's Final\n🇺🇸 Conner Lynn PRINCE\n🇹🇼 LEE
-  Meng Yuan\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇸🇪 Stefan NILSSON\n🇮🇹
-  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
-SUMMARY:🔫 Skeet Men's Final
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T073000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-2
-DTSTAMP:20240804T073000Z
-DTSTART:20240804T073000Z
-DTEND:20240804T123000Z
-DESCRIPTION:Shooting - Skeet Women's Qualification - Day 2\n🇦🇺 Aislin
-  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
-  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
-  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
-  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
-  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
-  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
-  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
-  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
-  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
-  Victoria LARSSON\n🇨🇳 WEI Meng
-SUMMARY:🔫 Skeet Women's Qualification - Day 2
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
 UID:20240804T100500Z-sailing-MENS-DINGHY-RACE-7
 DTSTAMP:20240804T100500Z
 DTSTART:20240804T100500Z
@@ -314,18 +246,6 @@ SUMMARY:⛵ Women's Dinghy - Race 8
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T070000Z-shooting-SKEET-MIXED-TEAM-QUALIFICATION
-DTSTAMP:20240805T070000Z
-DTSTART:20240805T070000Z
-DTEND:20240805T113000Z
-DESCRIPTION:Shooting - Skeet Mixed Team Qualification\n🇦🇺 AUS\n🇨🇳
-  CHN\n🇨🇿 CZE\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇷 GRE\n🇮🇳 IND\n🇮🇹 Italy 1\n🇮🇹
-  Italy 2\n🇰🇿 KAZ\n🇰🇷 KOR\n🇵🇪 PER\n🇸🇪 SWE\n🇺🇸 United States
-  1\n🇺🇸 United States 2
-SUMMARY:🔫 Skeet Mixed Team Qualification
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T101500Z-sailing-WOMENS-DINGHY-RACE-9
 DTSTAMP:20240805T101500Z
 DTSTART:20240805T101500Z
@@ -418,24 +338,6 @@ DESCRIPTION:Sailing - Men's Dinghy - Race 10\n🇪🇬 Aly BADAWY\n🇹🇭 Arth
   ZELKO
 SUMMARY:⛵ Men's Dinghy - Race 10
 LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T203000Z-surfing-MENS-SEMIFINALS-HEAT-1-FRA-PER
-DTSTAMP:20240805T203000Z
-DTSTART:20240805T203000Z
-DTEND:20240805T210000Z
-DESCRIPTION:Surfing - Men's Semifinals - Heat 1
-SUMMARY:🏄 Kauli VAAST 🇫🇷 - 🇵🇪 Alonso CORREA
-LOCATION:Teahupo'o, Tahiti
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T225400Z-surfing-MENS-BRONZE-MEDAL-MATCH-BRA-PER
-DTSTAMP:20240805T225400Z
-DTSTART:20240805T225400Z
-DTEND:20240805T232900Z
-DESCRIPTION:Surfing - Men's Bronze Medal Match
-SUMMARY:🏄 Gabriel MEDINA 🇧🇷 - 🇵🇪 Alonso CORREA
-LOCATION:Teahupo'o, Tahiti
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T134300Z-sailing-MENS-DINGHY-MEDAL-RACE

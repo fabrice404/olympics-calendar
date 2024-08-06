@@ -4,6 +4,42 @@ PRODID:-//fabrice404//olympics-calendar//general/zh/IRL//EN
 X-WR-CALNAME:🇮🇪 Ireland | Paris 2024
 NAME:🇮🇪 Ireland | Paris 2024
 BEGIN:VEVENT
+UID:20240724T153000Z-rugby-sevens-A-IRL-RSA
+DTSTAMP:20240724T153000Z
+DTSTART:20240724T153000Z
+DTEND:20240724T154600Z
+DESCRIPTION:七人制橄榄球 - 男子分组循环赛A组
+SUMMARY:🏉 爱尔兰 🇮🇪 - 🇿🇦 南非
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240724T190000Z-rugby-sevens-A-IRL-JPN
+DTSTAMP:20240724T190000Z
+DTSTART:20240724T190000Z
+DTEND:20240724T191600Z
+DESCRIPTION:七人制橄榄球 - 男子分组循环赛A组
+SUMMARY:🏉 爱尔兰 🇮🇪 - 🇯🇵 日本
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T143000Z-rugby-sevens-A-NZL-IRL
+DTSTAMP:20240725T143000Z
+DTSTART:20240725T143000Z
+DTEND:20240725T144600Z
+DESCRIPTION:七人制橄榄球 - 男子分组循环赛A组
+SUMMARY:🏉 新西兰 🇳🇿 - 🇮🇪 爱尔兰
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T200000Z-rugby-sevens-14-FIJ-IRL
+DTSTAMP:20240725T200000Z
+DTSTART:20240725T200000Z
+DTEND:20240725T201600Z
+DESCRIPTION:七人制橄榄球 - 男子1/4决赛
+SUMMARY:🏉 斐济 🇫🇯 - 🇮🇪 爱尔兰
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -73,6 +109,43 @@ DESCRIPTION:游泳 - 女子50米自由泳分组预赛\n🇳🇬 Adaku NWANDU\n�
   BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
 SUMMARY:🏊 女子50米自由泳分组预赛
 LOCATION:拉德芳斯体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-cycling-road-
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T155000Z
+DESCRIPTION:公路自行车 - 男子公路赛\n🇯🇵 ARASHIRO Yukiya\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🇪🇸 Alex ARANBURU\n🇱🇺 Alex KIRSCH\n🇰🇿
+  Alexey LUTSENKO\n🇮🇷 Ali LABIB\n🇺🇦 Anatolii BUDIAK\n🇭🇺 Attila
+  VALTER\n🇮🇪 Ben HEALY\n🇦🇺 Ben O'CONNOR\n🇪🇷 Biniam GIRMAY\n🇺🇸
+  Brandon McNULTY\n🇹🇷 Burak ABAY\n🇺🇬 Charles KAGIMU\n🇫🇷 Christophe
+  LAPORTE\n🇲🇺 Christopher ROUGIER-LAGANE\n🇳🇿 Corbin STRONG\n🇳🇱 Daan
+  HOOLE\n🇨🇴 Dani MARTINEZ\n🇨🇦 Derek GEE\n🇸🇮 Domen NOVAK\n🇳🇱 Dylan
+  van BAARLE\n🇦🇷 Eduardo SEPULVEDA\n🇮🇹 Elia VIVIANI\n🇺🇾 Eric
+  FAGUNDEZ\n🇷🇼 Eric MANIZABAYO\n🇦🇹 Felix GROSSSCHARTNER\n🇵🇦 Franklin
+  ARCHIBOLD\n🇬🇧 Fred WRIGHT\n🇬🇷 Georgios BOUGLAS\n🇦🇸 Gleb
+  SYRITSA\n🇮🇱 Itamar EINHORN\n🇸🇪 Jakob SODERQVIST\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇧🇪 Jasper STUYVEN\n🇪🇨 Jhonatan
+  NARVAEZ\n🇬🇧 Josh TARLING\n🇪🇸 Juan AYUSO\n🇫🇷 Julian
+  ALAPHILIPPE\n🇰🇷 KIM Euro\n🇫🇷 Kevin VAUQUELIN\n🇭🇰 LAU Wan Yau
+  Vincent\n🇨🇳 LYU Xianjing\n🇳🇿 Laurence PITHIE\n🇮🇹 Luca MOZZATO\n🇸🇮
+  Luka MEZGEC\n🇸🇰 Lukas KUBIS\n🇪🇪 Madis MIHKELS\n🇩🇰 Mads
+  PEDERSEN\n🇺🇸 Magnus SHEFFIELD\n🇨🇭 Marc HIRSCHI\n🇦🇹 Marco
+  HALLER\n🇸🇮 Matej MOHORIC\n🇨🇿 Mathias VACEK\n🇳🇱 Mathieu van der
+  POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
+  WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
+  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
+  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
+  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
+  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
+  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 男子公路赛
+LOCATION:特罗卡德罗
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T093000Z-swimming-1500
@@ -344,6 +417,32 @@ SUMMARY:🛶 男子极限皮艇复活赛
 LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T171500Z-athletics-1500
+DTSTAMP:20240803T171500Z
+DTSTART:20240803T171500Z
+DTEND:20240803T173000Z
+DESCRIPTION:田径 - 男子1500米复活赛\n🇪🇹 Abdisa FAYISA\n🇦🇺 Adam SPENCER\n🇪🇸
+  Adel MECHAAL\n🇮🇪 Andrew COSCORAN\n🇫🇷 Azeddine HABZ\n🇮🇪 Cathal
+  DOYLE\n🇨🇦 Charles PHILIBERT-THIBOUTOT\n🇮🇹 Federico RIVA\n🇵🇱 Filip
+  RAK\n🇬🇧 George MILLS\n🇪🇸 Ignacio FONTES\n🇧🇪 Jochem VERMEULEN\n🇨🇦
+  Kieran LUMB\n🇮🇪 Luke McCANN\n🇵🇱 Maciej WYDERKA\n🇫🇷 Mael
+  GOUYETTE\n🇪🇸 Mario GARCIA\n🇩🇪 Marius PROBST\n🇦🇺 Oliver HOARE\n🇮🇹
+  Ossama MESLEK\n🇦🇹 Raphael PALLITSCH\n🇧🇪 Ruben VERHEYDEN\n🇿🇦 Ryan
+  MPHAHLELE\n🇸🇪 Samuel PIHLSTROM\n🇳🇿 Samuel TANNER\n🇦🇺 Stewart
+  McSWEYN\n🇿🇦 Tshepo TSHITE
+SUMMARY:🏃 男子1500米复活赛
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T200800Z-boxing-60--IRL-BRA
+DTSTAMP:20240803T200800Z
+DTSTART:20240803T200800Z
+DTEND:20240803T201900Z
+DESCRIPTION:拳击 - 女子60公斤级 - 半决赛
+SUMMARY:🥊 Kellie HARRINGTON 🇮🇪 - 🇧🇷 Beatriz Iasmin SOARES FERREIRA
+LOCATION:北巴黎竞技场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T070000Z-golf-4
 DTSTAMP:20240804T070000Z
 DTSTART:20240804T070000Z
@@ -369,6 +468,20 @@ DESCRIPTION:高尔夫 - 男子第4回合\n🇰🇷 AN Byeong Hun\n🇲🇽 Abrah
   YUAN Yechun
 SUMMARY:⛳ 男子第4回合
 LOCATION:国家高尔夫球场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T094500Z-athletics--B
+DTSTAMP:20240804T094500Z
+DTSTART:20240804T094500Z
+DTEND:20240804T104100Z
+DESCRIPTION:田径 - 女子链球资格赛 - B组\n🇫🇷 Alexandra TAVERNIER\n🇵🇱 Anita
+  WLODARCZYK\n🇺🇸 Deanna PRICE\n🇺🇦 Iryna KLYMETS\n🇩🇰 Katrine Koch
+  JACOBSEN\n🇫🇮 Krista TERVO\n🇮🇪 Nicola TUTHILL\n🇳🇬 Oyesade
+  OLATOYE\n🇭🇺 Reka GYURATZ\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara
+  FANTINI\n🇫🇮 Silja KOSONEN\n🇬🇷 Stamatia SCARVELIS\n🇧🇪 Vanessa
+  STERCKENDRIES\n🇨🇳 WANG Zheng\n🇲🇩 Zalina MARGHIEVA
+SUMMARY:🏃 女子链球资格赛 - B组
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T100500Z-sailing--07
@@ -415,6 +528,45 @@ DESCRIPTION:帆船 - 男子帆船激光级- 比赛08\n🇪🇬 Aly BADAWY\n🇹�
   SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
 SUMMARY:⛵ 男子帆船激光级- 比赛08
 LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T120000Z-cycling-road-
+DTSTAMP:20240804T120000Z
+DTSTART:20240804T120000Z
+DTEND:20240804T162400Z
+DESCRIPTION:公路自行车 - 女子公路赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇦🇸 Alena
+  IVANCHENKO\n🇨🇦 Alison JACKSON\n🇧🇷 Ana Vitoria MAGALHAES\n🇱🇻
+  Anastasia CARBONARI\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮
+  Anniina AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇨🇾 Antri CHRISTOFOROU\n🇨🇺
+  Arlenis SIERRA\n🇿🇦 Ashleigh MOOLMAN PASIO\n🇫🇷 Audrey CORDON
+  RAGOT\n🇧🇫 Awa BAMOGO\n🇭🇺 Blanka VAS\n🇸🇪 Caroline ANDERSSON\n🇨🇱
+  Catalina SOTO CAMPOS\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹
+  Christina SCHWEINBERGER\n🇱🇺 Christine MAJERUS\n🇵🇹 Daniela
+  CAMPOS\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇮🇹 Elena
+  CECCHINI\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa BALSAMO\n🇮🇹 Elisa LONGO
+  BORGHINI\n🇨🇭 Elise CHABBEY\n🇬🇧 Elizabeth DEIGNAN\n🇳🇱 Ellen van
+  DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇳🇬 Ese UKPESERAYE\n🇸🇮 Eugenia
+  BUJAK\n🏳️ Eyeru GEBRU\n🇦🇫 Fariba HASHIMI\n🇩🇪 Franziska KOCH\n🇦🇺
+  Grace BROWN\n🇦🇸 Hanna TSERAKH\n🇳🇴 Ingvild GASKJENN\n🇷🇸 Jelena
+  ERIC\n🇨🇿 Julia KOPECKY\n🇧🇪 Julie van de VELDE\n🇫🇷 Juliette
+  LABOUS\n🇧🇪 Justine GHEKIERE\n🇵🇱 Katarzyna NIEWIADOMA\n🇳🇿 Kim
+  CADZOW\n🇲🇺 Kimberley le COURT de BILLOT\n🇺🇸 Kristen FAULKNER\n🇭🇰
+  LEE Sze Wing\n🇦🇺 Lauretta HANSON\n🇩🇪 Liane LIPPERT\n🇨🇭 Linda
+  ZANETTI\n🇳🇱 Lorena WIEBES\n🇧🇪 Lotte KOPECKY\n🇲🇽 Marcela
+  PRIETO\n🇪🇸 Margarita Victoria GARCIA\n🇧🇪 Margot VANPACHTENBEKE\n🇳🇱
+  Marianne VOS\n🇵🇱 Marta LACH\n🇳🇴 Marte Berg EDSETH\n🇮🇪 Megan
+  ARMITAGE\n🇨🇷 Milagro MENA SOLANO\n🇪🇸 Mireia BENITO PELLICER\n🇩🇿
+  Nesrine HOUILI\n🇳🇿 Niamh FISHER\n🇨🇭 Noemi RUEEGG\n🇸🇰 Nora
+  JENCUSOVA\n🇲🇾 Nur Aisyah MOHAMAD ZUBIR\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦
+  Olivia BARIL\n🇨🇴 Paula PATINO\n🇬🇧 Pfeiffer GEORGI\n🇹🇭 Phetdarin
+  SOMRAT\n🇱🇹 Rasa LELEIVYTE\n🇩🇰 Rebecca KOERNER\n🇮🇱 Rotem
+  GAFINOVITZ\n🇦🇺 Ruby ROSEMAN-GANNON\n🇰🇷 SONG Minji\n🇦🇪 Safia AL
+  SAYEGH\n🇮🇹 Silvia PERSICO\n🇨🇳 TANG Xin\n🇦🇸 Tamara DRONOVA\n🇻🇳 Thi
+  That NGUYEN\n🇿🇦 Tiffany KEEP\n🇸🇮 Urska PINTAR\n🇳🇦 Vera LOOSER\n🇫🇷
+  Victoire BERTEAU\n🇯🇵 YONAMINE Eri\n🇺🇿 Yanina KUSKOVA\n🇦🇫 Yulduz
+  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 女子公路赛
+LOCATION:特罗卡德罗
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T123500Z-sailing--07
@@ -509,6 +661,64 @@ DESCRIPTION:游泳 - 男子1500米自由泳决赛\n🇹🇳 Ahmed JAOUADI\n🇺�
   BETLEHEM\n🇮🇹 Gregorio PALTRINIERI\n🇹🇷 Kuzey TUNCELLI
 SUMMARY:🏊 男子1500米自由泳决赛
 LOCATION:拉德芳斯体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T191000Z-athletics-1500
+DTSTAMP:20240804T191000Z
+DTSTART:20240804T191000Z
+DTEND:20240804T192400Z
+DESCRIPTION:田径 - 男子1500米半决赛\n🇲🇦 Anass ESSAYI\n🇫🇷 Azeddine HABZ\n🇰🇪
+  Brian KOMEN\n🇮🇪 Cathal DOYLE\n🇨🇦 Charles PHILIBERT-THIBOUTOT\n🇺🇸
+  Cole HOCKER\n🇪🇹 Ermias GIRMA\n🇮🇹 Federico RIVA\n🇬🇧 George
+  MILLS\n🇺🇸 Hobbs KESSLER\n🇵🇹 Isaac NADER\n🇳🇴 Jakob
+  INGEBRIGTSEN\n🇬🇧 Josh KERR\n🇳🇴 Narve Gilje NORDAS\n🇬🇧 Neil
+  GOURLEY\n🇳🇱 Niels LAROS\n🇮🇹 Ossama MESLEK\n🇮🇹 Pietro ARESE\n🇰🇪
+  Reynold CHERUIYOT\n🇩🇪 Robert FARKEN\n🇪🇹 Samuel TEFERA\n🇳🇱 Stefan
+  NILLESSEN\n🇰🇪 Timothy CHERUIYOT\n🇺🇸 Yared NUGUSE
+SUMMARY:🏃 男子1500米半决赛
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080000Z-diving-10
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T101300Z
+DESCRIPTION:跳水 - 女子10米跳台跳水预赛\n🇯🇵 ARAI Matsuri\n🇲🇽 Alejandra OROZCO
+  LOZA\n🇪🇸 Ana CARVAJAL\n🇬🇧 Andrea SPENDOLINI SIRIEIX\n🇨🇺 Anisley
+  GARCIA NAVARRO\n🇨🇳 CHEN Yuxi\n🇨🇦 Caeli McKAY\n🇩🇪 Christina
+  WASSEN\n🇮🇪 Ciara McGING\n🇺🇸 Daryn WRIGHT\n🇺🇸 Delaney SCHNELL\n🇱🇻
+  Dzeja Delanija PATRIKA\n🇦🇺 Ellie COLE\n🇳🇱 Else PRAASTERINK\n🇲🇽
+  Gabriela AGUNDEZ GARCIA\n🇧🇷 Ingrid OLIVEIRA\n🇰🇵 KIM Mi Rae\n🇰🇷 KIM
+  Nahyun\n🇨🇦 Kate MILLER\n🇬🇧 Lois TOULSON\n🇮🇹 Maia BIGINELLI\n🇪🇬
+  Malak TAWFIK\n🇵🇷 Maycey Adrianne VIETA\n🇦🇺 Melissa WU\n🇩🇪 Pauline
+  Alexandra PFEIF\n🇨🇳 QUAN Hongchan\n🇮🇹 Sarah JODOIN di MARIA\n🇺🇦
+  Sofiia LYSKUN\n🇩🇴 Victoria GARZA
+SUMMARY:🏊 女子10米跳台跳水预赛
+LOCATION:水上运动中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T095500Z-athletics-4001
+DTSTAMP:20240805T095500Z
+DTSTART:20240805T095500Z
+DTEND:20240805T103600Z
+DESCRIPTION:田径 - 女子400米第1轮\n🇺🇸 Aaliyah BUTLER\n🇺🇸 Alexis HOLMES\n🇮🇹
+  Alice MANGIONE\n🇬🇾 Aliyah ABRAMS\n🇬🇧 Amber ANNING\n🇷🇴 Andrea
+  MIKLOS\n🇵🇹 Catia AZEVEDO\n🇧🇪 Cynthia BOLINGO\n🇳🇬 Ella
+  ONOJUVWEVWO\n🇦🇺 Ellie BEER\n🇳🇬 Esther Elo JOSEPH\n🇨🇴 Evelis
+  AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻 Gunta VAICULE\n🇧🇪 Helena PONETTE\n🇳🇴
+  Henriette JAEGER\n🇯🇲 Junelle BROMFIELD\n🇵🇱 Justyna
+  SWIETY-ERSETIC\n🇺🇸 Kendall ELLIS\n🇨🇿 Lada VONDROVA\n🇨🇦 Lauren
+  GALE\n🇬🇧 Laviai NIELSEN\n🇳🇱 Lieke KLAVER\n🇨🇴 Lina Esther LICONA
+  TORRES\n🇨🇿 Lurdes Gloria MANUEL\n🇩🇴 Marileidy PAULINO\n🇨🇱 Martina
+  WEIL\n🇿🇦 Miranda Charlene COETZEE\n🇱🇹 Modesta Juste MORAUSKAITE\n🇵🇱
+  Natalia KACZMAREK\n🇯🇲 Nickisha PRYCE\n🇪🇨 Nicole CAICEDO\n🇮🇳 Pahal
+  KIRAN\n🇲🇽 Paola MORAN\n🇮🇪 Rhasidat ADELEKE\n🇨🇺 Roxana GOMEZ\n🇧🇧
+  Sada WILLIAMS\n🇧🇭 Salwa Eid NASER\n🇮🇪 Sharlene MAWDSLEY\n🇧🇸 Shaunae
+  MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇯🇲 Stacey Ann WILLIAMS\n🇦🇹 Susanne
+  GOGL-WALLI\n🇨🇿 Tereza PETRZILKOVA\n🇧🇷 Tiffani MARINHO\n🇬🇧 Victoria
+  OHURUOGU\n🇨🇦 Zoe SHERAR
+SUMMARY:🏃 女子400米第1轮
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T101500Z-sailing--09
@@ -654,6 +864,64 @@ SUMMARY:🏇 个人场地障碍决赛
 LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T080000Z-diving-3
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T100900Z
+DESCRIPTION:跳水 - 男子3米跳板跳水预赛\n🇺🇸 Andrew CAPOBIANCO\n🇺🇸 Carson
+  TYLER\n🇨🇴 Daniel RESTREPO GARCIA\n🇩🇴 Frandiel GOMEZ\n🇮🇹 Giovanni
+  TOCCI\n🇫🇷 Gwendal BISCH\n🇬🇧 Jack LAUGHER\n🇮🇪 Jake PASSMORE\n🇩🇴
+  Jonathan RUVALCABA\n🇬🇧 Jordan HOULDEN\n🇫🇷 Jules BOUYER\n🇲🇽 Kevin
+  Alexander MUNOZ HEREDIA\n🇦🇺 Kurtis MATHEWS\n🇩🇪 Lars RUDIGER\n🇮🇹
+  Lorenzo MARSAGLIA\n🇨🇴 Luis Felipe URIBE BERMUDEZ\n🇪🇬 Mohamed
+  FAROUK\n🇩🇪 Moritz WESEMANN\n🇲🇽 Osmar OLVERA IBARRA\n🇯🇵 SAKAI
+  Sho\n🇨🇳 WANG Zongyuan\n🇰🇷 WOO Haram\n🇨🇳 XIE Siyi\n🇰🇷 YI
+  Jaegyeong\n🇯🇲 Yona KNIGHT-WISDOM
+SUMMARY:🏊 男子3米跳板跳水预赛
+LOCATION:水上运动中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080500Z-athletics-15001
+DTSTAMP:20240806T080500Z
+DTSTART:20240806T080500Z
+DTEND:20240806T083400Z
+DESCRIPTION:田径 - 女子1500米第1轮\n🇯🇲 Adelle TRACEY\n🇫🇷 Agathe
+  GUILLEMOT\n🇪🇸 Agueda MARQUES\n🇵🇱 Aleksandra PLOCINSKA\n🇪🇹 Birke
+  HAYLOM\n🇮🇪 Ciara MAGEEAN\n🇪🇹 Diribe WELTEJI\n🇧🇪 Elise
+  VANDERELST\n🇺🇸 Elle ST. PIERRE\n🇺🇸 Emily MACKAY\n🇪🇸 Esther
+  GUERRERO\n🇰🇪 Faith KIPYEGON\n🏳️ Farida ABAROGE\n🇮🇹 Federica del
+  BUONO\n🇯🇵 GOTO Yume\n🇬🇧 Georgia BELL\n🇦🇺 Georgia GRIFFITH\n🇪🇹
+  Gudaf TSEGAY\n🇦🇺 Jessica HULL\n🇻🇪 Joselyn Daniely BREA\n🇨🇦 Kate
+  CURRENT\n🇵🇱 Klaudia KAZIMIERSKA\n🇨🇿 Kristiina SASINEK MAKI\n🇬🇧
+  Laura MUIR\n🇦🇺 Linden HALL\n🇨🇦 Lucia STAFFORD\n🇮🇹 Ludovica
+  CAVALLI\n🇳🇿 Maia RAMSDEN\n🇺🇾 Maria Pia FERNANDEZ\n🇪🇸 Marta
+  PEREZ\n🇩🇪 Nele WESSEL\n🇰🇪 Nelly CHEPCHIRCHIR\n🇺🇸 Nikki HILTZ\n🇬🇧
+  Revee WALCOTT-NOLAN\n🇵🇹 Salome AFONSO\n🇫🇮 Sara LAPPALAINEN\n🇮🇪
+  Sarah HEALY\n🇨🇦 Simone PLOURDE\n🇮🇹 Sintayehu VISSA\n🇮🇪 Sophie
+  O'SULLIVAN\n🇰🇪 Susan Lokayo EJORE\n🇯🇵 TANAKA Nozomi\n🇱🇺 Vera
+  HOFFMANN\n🇵🇱 Weronika LIZAKOWSKA\n🇺🇬 Winnie NANYONDO
+SUMMARY:🏃 女子1500米第1轮
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T092000Z-athletics-400
+DTSTAMP:20240806T092000Z
+DTSTART:20240806T092000Z
+DTEND:20240806T094500Z
+DESCRIPTION:田径 - 女子400米复活赛\n🇮🇹 Alice MANGIONE\n🇬🇾 Aliyah ABRAMS\n🇵🇹
+  Catia AZEVEDO\n🇧🇪 Cynthia BOLINGO\n🇳🇬 Ella ONOJUVWEVWO\n🇦🇺 Ellie
+  BEER\n🇨🇴 Evelis AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻 Gunta VAICULE\n🇧🇪
+  Helena PONETTE\n🇵🇱 Justyna SWIETY-ERSETIC\n🇺🇸 Kendall ELLIS\n🇨🇿
+  Lada VONDROVA\n🇨🇦 Lauren GALE\n🇨🇴 Lina Esther LICONA TORRES\n🇨🇿
+  Lurdes Gloria MANUEL\n🇨🇱 Martina WEIL\n🇿🇦 Miranda Charlene
+  COETZEE\n🇱🇹 Modesta Juste MORAUSKAITE\n🇮🇳 Pahal KIRAN\n🇮🇪 Sharlene
+  MAWDSLEY\n🇧🇸 Shaunae MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇨🇿 Tereza
+  PETRZILKOVA\n🇧🇷 Tiffani MARINHO\n🇬🇧 Victoria OHURUOGU\n🇨🇦 Zoe
+  SHERAR
+SUMMARY:🏃 女子400米复活赛
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T134300Z-sailing-
 DTSTAMP:20240806T134300Z
 DTSTART:20240806T134300Z
@@ -664,6 +932,25 @@ DESCRIPTION:帆船 - 男子帆船激光级奖牌赛\n🇨🇱 Clemente SEGUEL LA
   KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas SAUNDERS
 SUMMARY:⛵ 男子帆船激光级奖牌赛
 LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T153000Z-cycling-track-
+DTSTAMP:20240806T153000Z
+DTSTART:20240806T153000Z
+DTEND:20240806T165900Z
+DESCRIPTION:场地自行车 - 女子团体追逐赛资格赛\n🇨🇦 加拿大\n🇩🇪 德国\n🇮🇹 意大利\n🇳🇿 新西兰\n🇯🇵
+  日本\n🇫🇷 法国\n🇦🇺 澳大利亚\n🇮🇪 爱尔兰\n🇺🇸 美国\n🇬🇧 英国
+SUMMARY:🚴 女子团体追逐赛资格赛
+LOCATION:圣康丁伊夫林自行车馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T210600Z-boxing-60--CHN-IRL
+DTSTAMP:20240806T210600Z
+DTSTART:20240806T210600Z
+DTEND:20240806T211700Z
+DESCRIPTION:拳击 - 女子60公斤级 - 决赛
+SUMMARY:🥊 YANG Wenlu 🇨🇳 - 🇮🇪 Kellie HARRINGTON
+LOCATION:罗兰·加洛斯体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T070000Z-golf-1

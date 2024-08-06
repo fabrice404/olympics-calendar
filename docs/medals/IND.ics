@@ -4,18 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//medals/IND//EN
 X-WR-CALNAME:🇮🇳 India 🏅 | Paris 2024
 NAME:🇮🇳 India 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240803T073000Z-shooting-25M-PISTOL-WOMENS-FINAL
-DTSTAMP:20240803T073000Z
-DTSTART:20240803T073000Z
-DTEND:20240803T083000Z
-DESCRIPTION:Shooting - 25m Pistol Women's Final\n🇫🇷 Camille
-  JEDRZEJEWSKI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇺🇸 Katelyn Morgan ABELN\n🇮🇳
-  Manu BHAKER\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇰🇷 YANG
-  Jiin\n🇨🇳 ZHAO Nan
-SUMMARY:🔫 25m Pistol Women's Final
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T123000Z-badminton-MENS-SINGLES-BRONZE-MEDAL-MATCH-MAS-IND
 DTSTAMP:20240805T123000Z
 DTSTART:20240805T123000Z
@@ -23,15 +11,6 @@ DTEND:20240805T153000Z
 DESCRIPTION:Badminton - Men's Singles Bronze Medal Match
 SUMMARY:🏸 Zii Jia LEE 🇲🇾 - 🇮🇳 Lakshya SEN
 LOCATION:La Chapelle Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T130000Z-shooting-SKEET-MIXED-TEAM-BRONZE-MEDAL-MATCH-CHN-IND
-DTSTAMP:20240805T130000Z
-DTSTART:20240805T130000Z
-DTEND:20240805T133000Z
-DESCRIPTION:Shooting - Skeet Mixed Team Bronze Medal Match
-SUMMARY:🔫 CHN 🇨🇳 - 🇮🇳 IND
-LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T173000Z-weightlifting-WOMENS-49KG
@@ -46,20 +25,5 @@ DESCRIPTION:Weightlifting - Women's 49kg\n🇩🇴 Beatriz PIRON
   Surodchana KHAMBAO
 SUMMARY:🏋 Women's 49kg
 LOCATION:South Paris Arena 6
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T194300Z-athletics-MENS-3000M-STEEPLECHASE-FINAL
-DTSTAMP:20240807T194300Z
-DTSTART:20240807T194300Z
-DTEND:20240807T195200Z
-DESCRIPTION:Athletics - Men's 3000m Steeplechase Final\n🇰🇪 Abraham
-  KIBIWOT\n🇹🇳 Ahmed JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund
-  SABLE\n🇪🇸 Daniel ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon
-  DESGAGNES\n🇺🇸 Kenneth ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard
-  CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳 Mohamed Amin JHINAOUI\n🇲🇦 Mohamed
-  TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪 Simon Kiprop KOECH\n🇲🇦 Soufiane EL
-  BAKKALI
-SUMMARY:🏃 Men's 3000m Steeplechase Final
-LOCATION:Stade de France
 END:VEVENT
 END:VCALENDAR

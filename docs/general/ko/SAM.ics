@@ -4,6 +4,42 @@ PRODID:-//fabrice404//olympics-calendar//general/ko/SAM//EN
 X-WR-CALNAME:🇼🇸 Samoa | Paris 2024
 NAME:🇼🇸 Samoa | Paris 2024
 BEGIN:VEVENT
+UID:20240724T133000Z-rugby-sevens--B-AUS-SAM
+DTSTAMP:20240724T133000Z
+DTSTART:20240724T133000Z
+DTEND:20240724T134600Z
+DESCRIPTION:7인제 럭비 - 남자 B조
+SUMMARY:🏉 오스트레일리아 🇦🇺 - 🇼🇸 사모아
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240724T173000Z-rugby-sevens--B-ARG-SAM
+DTSTAMP:20240724T173000Z
+DTSTART:20240724T173000Z
+DTEND:20240724T174600Z
+DESCRIPTION:7인제 럭비 - 남자 B조
+SUMMARY:🏉 아르헨티나 🇦🇷 - 🇼🇸 사모아
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T120000Z-rugby-sevens--B-SAM-KEN
+DTSTAMP:20240725T120000Z
+DTSTART:20240725T120000Z
+DTEND:20240725T121600Z
+DESCRIPTION:7인제 럭비 - 남자 B조
+SUMMARY:🏉 사모아 🇼🇸 - 🇰🇪 케냐
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T180000Z-rugby-sevens--9-12--SAM-JPN
+DTSTAMP:20240725T180000Z
+DTSTART:20240725T180000Z
+DTEND:20240725T181600Z
+DESCRIPTION:7인제 럭비 - 남자 9-12위 순위 결정전
+SUMMARY:🏉 사모아 🇼🇸 - 🇯🇵 일본
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -13,39 +49,303 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T090000Z-swimming--50M-
-DTSTAMP:20240803T090000Z
-DTSTART:20240803T090000Z
-DTEND:20240803T092700Z
-DESCRIPTION:경영 - 여자 50m 자유형 - 예선\n🇳🇬 Adaku NWANDU\n🇹🇬 Adele Sodalo
-  Agnes GAITOU\n🇲🇱 Aichata DIABATE\n🇲🇻 Aishath Ulya SHAIG\n🇫🇯 Anahira
-  McCUTCHEON\n🇪🇨 Anicka DELGADO\n🇬🇧 Anna HOPKIN\n🇲🇬 Antsa
-  RABEJAONA\n🇰🇭 Apsara SAKBUN\n🇫🇷 Beryl GASTALDELLO\n🇦🇼 Chloe
-  FARRO\n🇪🇷 Christina RACH\n🇮🇪 Danielle HILL\n🇨🇩 Divine
-  MIANSADI\n🇬🇳 Djenabou Jolie BAH\n🇹🇯 Ekaterina BORDACHYOVA\n🇰🇬
-  Elizaveta PECHERSKIKH\n🇧🇪 Florine GASPARD\n🇵🇬 Georgia-Leigh
-  VELE\n🇨🇲 Grace Manuela NGUELO'O MABEU\n🇺🇸 Gretchen WALSH\n🇽🇰 Hana
-  BEIQI\n🇧🇳 Hayley WONG\n🇧🇫 Iman KOURAOGO\n🇹🇱 Imelda XIMENES
-  BELO\n🇧🇯 Ionnah Eliane DOUILLET\n🇸🇧 Isabella MILLAR\n🇭🇷 Jana
-  PAVALIC\n🇩🇲 Jasmine SCHOFIELD\n🇹🇭 Jenjira SRISA - ARD\n🇬🇭 Joselle
-  MENSAH\n🇲🇪 Jovana KULJACA\n🇩🇰 Julie Kepp JENSEN\n🇸🇷 Kaelyn Ciara
-  Suryanti DJOPARTO\n🇼🇸 Kaiya BROWN\n🇵🇱 Katarzyna WASICK\n🇲🇭 Kayla
-  HEPLER\n🇻🇨 Kennice Aphenie GREENE\n🇫🇲 Kestra KIHLENG\n🇸🇨 Khema
-  ELIZABETH\n🇳🇱 Kim BUSCH\n🇵🇱 Kornelia FIEDKIEWICZ\n🇷🇼 Lidwine
-  UMUHOZA UWASE\n🇪🇹 Lina Alemayehu SELO\n🇻🇺 Loane RUSSET\n🇧🇮 Lois
-  Eliora IRISHURA\n🇰🇲 Maesha SAADI\n🇰🇪 Maria BRUNLEHNER\n🇧🇴 Maria
-  Jose RIBERA\n🇦🇿 Mariam SHEIKHALIZADEHKHANGHAH\n🇭🇹 Mayah
-  CHOULOUTE\n🇦🇺 Meg HARRIS\n🇫🇷 Melanie HENIQUE\n🇿🇲 Mia PHIRI\n🇸🇪
-  Michelle COLEMAN\n🇧🇩 Mst Sonia KHATUN\n🇩🇯 Naima-Zahra AMISON\n🇸🇮
-  Neza KLANCAR\n🇹🇴 Noelani Malia DAY\n🇬🇦 Noelie Annette LACOUR\n🇸🇱
-  Olamide SAM\n🇭🇺 Petra SENANSZKY\n🇧🇸 Rhanishka GIBBS\n🇯🇲 Sabrina
-  LYN\n🇳🇪 Salima AHMADOU YOUSSOUFOU\n🇮🇹 Sara CURTIS\n🇸🇪 Sarah
-  SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Simone MANUEL\n🇹🇿 Sophia
-  LATIFF\n🇲🇼 Tayamika CHANGANAMUNO\n🇨🇦 Taylor RUCK\n🇬🇷 Theodora
-  DRAKOU\n🇨🇫 Tracy Marine ANDET\n🇳🇱 Valerie van ROON\n🇨🇬 Vanessa
-  BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
-SUMMARY:🏊 여자 50m 자유형 - 예선
-LOCATION:파리 라 데팡스 아레나
+UID:20240803T100500Z-sailing--4
+DTSTAMP:20240803T100500Z
+DTSTART:20240803T100500Z
+DTEND:20240803T105600Z
+DESCRIPTION:요트 - 여자 딩기 - 레이스 4\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 여자 딩기 - 레이스 4
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T102000Z-sailing--5
+DTSTAMP:20240803T102000Z
+DTSTART:20240803T102000Z
+DTEND:20240803T111100Z
+DESCRIPTION:요트 - 남자 딩기 - 레이스 5\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 남자 딩기 - 레이스 5
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T111300Z-sailing--5
+DTSTAMP:20240803T111300Z
+DTSTART:20240803T111300Z
+DTEND:20240803T120400Z
+DESCRIPTION:요트 - 여자 딩기 - 레이스 5\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 여자 딩기 - 레이스 5
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T112800Z-sailing--6
+DTSTAMP:20240803T112800Z
+DTSTART:20240803T112800Z
+DTEND:20240803T121900Z
+DESCRIPTION:요트 - 남자 딩기 - 레이스 6\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 남자 딩기 - 레이스 6
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T122100Z-sailing--6
+DTSTAMP:20240803T122100Z
+DTSTART:20240803T122100Z
+DTEND:20240803T131200Z
+DESCRIPTION:요트 - 여자 딩기 - 레이스 6\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 여자 딩기 - 레이스 6
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T100500Z-sailing--7
+DTSTAMP:20240804T100500Z
+DTSTART:20240804T100500Z
+DTEND:20240804T105600Z
+DESCRIPTION:요트 - 남자 딩기 - 레이스 7\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 남자 딩기 - 레이스 7
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T111300Z-sailing--8
+DTSTAMP:20240804T111300Z
+DTSTART:20240804T111300Z
+DTEND:20240804T120400Z
+DESCRIPTION:요트 - 남자 딩기 - 레이스 8\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 남자 딩기 - 레이스 8
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T123500Z-sailing--7
+DTSTAMP:20240804T123500Z
+DTSTART:20240804T123500Z
+DTEND:20240804T132600Z
+DESCRIPTION:요트 - 여자 딩기 - 레이스 7\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 여자 딩기 - 레이스 7
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T134500Z-sailing--8
+DTSTAMP:20240804T134500Z
+DTSTART:20240804T134500Z
+DTEND:20240804T143600Z
+DESCRIPTION:요트 - 여자 딩기 - 레이스 8\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 여자 딩기 - 레이스 8
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T101500Z-sailing--9
+DTSTAMP:20240805T101500Z
+DTSTART:20240805T101500Z
+DTEND:20240805T110600Z
+DESCRIPTION:요트 - 여자 딩기 - 레이스 9\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 여자 딩기 - 레이스 9
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T112300Z-sailing--10
+DTSTAMP:20240805T112300Z
+DTSTART:20240805T112300Z
+DTEND:20240805T121400Z
+DESCRIPTION:요트 - 여자 딩기 - 레이스 10\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 여자 딩기 - 레이스 10
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T124500Z-sailing--9
+DTSTAMP:20240805T124500Z
+DTSTART:20240805T124500Z
+DTEND:20240805T133600Z
+DESCRIPTION:요트 - 남자 딩기 - 레이스 9\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 남자 딩기 - 레이스 9
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T135000Z-sailing--10
+DTSTAMP:20240805T135000Z
+DTSTART:20240805T135000Z
+DTEND:20240805T144100Z
+DESCRIPTION:요트 - 남자 딩기 - 레이스 10\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 남자 딩기 - 레이스 10
+LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T073000Z-canoe-sprint--1-500M-
@@ -87,6 +387,32 @@ DESCRIPTION:카누 스프린트 - 남자 카약 1인승 1000m 예선\n🇺🇸 A
   Dong
 SUMMARY:🛶 남자 카약 1인승 1000m 예선
 LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T093000Z-weightlifting--102KG
+DTSTAMP:20240810T093000Z
+DTSTART:20240810T093000Z
+DTEND:20240810T120000Z
+DESCRIPTION:역도 - 남자 102kg\n🇱🇾 Ahmed ABUZRIBA\n🇺🇿 Akbar DJURAEV\n🇹🇲
+  Davranbek HASANBAYEV\n🇼🇸 Don OPELOGE\n🇶🇦 Faris Ibrahim E ELBAKH\n🇦🇲
+  Garik KARAPETYAN\n🇬🇪 Irakli CHKHEIDZE\n🇰🇷 JANG Yeonhak\n🇨🇳 LIU
+  Huanhua\n🇧🇭 Lesman MONTANO\n🏳️ Ramiro MORA ROMERO\n🇺🇸 Wes
+  KITTS\n🇦🇸 Yauheni TSIKHANTSOU
+SUMMARY:🏋 남자 102kg
+LOCATION:사우스 파리 아레나 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T093000Z-weightlifting--81KG
+DTSTAMP:20240811T093000Z
+DTSTART:20240811T093000Z
+DTEND:20240811T120000Z
+DESCRIPTION:역도 - 여자 +81kg\n🇩🇴 Crismery SANTANA PEGUERO\n🇹🇭 Duangaksorn
+  CHAIDEE\n🇬🇧 Emily CAMPBELL\n🇪🇬 Halima ABBAS\n🇼🇸 Iuniarra
+  SIPAIA\n🇨🇳 LI Wenwen\n🇪🇨 Lisseth Betzaida AYOVI CABEZAS\n🇺🇸 Mary
+  THEISEN LAPPEN\n🇻🇪 Naryury PEREZ REVERON\n🇮🇩 Nurul AKMAL\n🇰🇷 PARK
+  Hyejeong\n🇺🇿 Tursunoy JABBOROVA
+SUMMARY:🏋 여자 +81kg
+LOCATION:사우스 파리 아레나 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

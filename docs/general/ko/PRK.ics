@@ -13,25 +13,37 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T142000Z-artistic-gymnastics--
-DTSTAMP:20240803T142000Z
-DTSTART:20240803T142000Z
-DTEND:20240803T150200Z
-DESCRIPTION:기계체조 - 여자 도마 결승\n🇰🇵 AN Chang Ok\n🇲🇽 Alexa MORENO\n🇭🇺
-  Csenge Maria BACSKAY\n🇨🇦 Elsabeth BLACK\n🇺🇸 Jade CAREY\n🇺🇸 Jordan
-  CHILES\n🇫🇷 Ming VAN EIJKEN\n🇧🇷 Rebeca ANDRADE\n🇨🇦 Shallon
-  OLSEN\n🇺🇸 Simone BILES\n🇧🇬 Valentina GEORGIEVA\n🇰🇷 YEO Seojeong
-SUMMARY:🤸 여자 도마 결승
-LOCATION:베르시 아레나
+UID:20240805T080000Z-diving--10M-
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T101300Z
+DESCRIPTION:다이빙 - 여자 10m 플랫폼 예선\n🇯🇵 ARAI Matsuri\n🇲🇽 Alejandra OROZCO
+  LOZA\n🇪🇸 Ana CARVAJAL\n🇬🇧 Andrea SPENDOLINI SIRIEIX\n🇨🇺 Anisley
+  GARCIA NAVARRO\n🇨🇳 CHEN Yuxi\n🇨🇦 Caeli McKAY\n🇩🇪 Christina
+  WASSEN\n🇮🇪 Ciara McGING\n🇺🇸 Daryn WRIGHT\n🇺🇸 Delaney SCHNELL\n🇱🇻
+  Dzeja Delanija PATRIKA\n🇦🇺 Ellie COLE\n🇳🇱 Else PRAASTERINK\n🇲🇽
+  Gabriela AGUNDEZ GARCIA\n🇧🇷 Ingrid OLIVEIRA\n🇰🇵 KIM Mi Rae\n🇰🇷 KIM
+  Nahyun\n🇨🇦 Kate MILLER\n🇬🇧 Lois TOULSON\n🇮🇹 Maia BIGINELLI\n🇪🇬
+  Malak TAWFIK\n🇵🇷 Maycey Adrianne VIETA\n🇦🇺 Melissa WU\n🇩🇪 Pauline
+  Alexandra PFEIF\n🇨🇳 QUAN Hongchan\n🇮🇹 Sarah JODOIN di MARIA\n🇺🇦
+  Sofiia LYSKUN\n🇩🇴 Victoria GARZA
+SUMMARY:🏊 여자 10m 플랫폼 예선
+LOCATION:아쿠아틱 센터
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T100400Z-boxing--54KG--CHN-PRK
-DTSTAMP:20240804T100400Z
-DTSTART:20240804T100400Z
-DTEND:20240804T101500Z
-DESCRIPTION:복싱 - 여자 54kg - 준결승
-SUMMARY:🥊 CHANG Yuan 🇨🇳 - 🇰🇵 PANG Cholmi
-LOCATION:노스 파리 아레나
+UID:20240805T130000Z-diving--10M-
+DTSTAMP:20240805T130000Z
+DTSTART:20240805T130000Z
+DTEND:20240805T143500Z
+DESCRIPTION:다이빙 - 여자 10m 플랫폼 준결승\n🇯🇵 ARAI Matsuri\n🇲🇽 Alejandra OROZCO
+  LOZA\n🇪🇸 Ana CARVAJAL\n🇬🇧 Andrea SPENDOLINI SIRIEIX\n🇨🇺 Anisley
+  GARCIA NAVARRO\n🇨🇳 CHEN Yuxi\n🇨🇦 Caeli McKAY\n🇩🇪 Christina
+  WASSEN\n🇺🇸 Delaney SCHNELL\n🇦🇺 Ellie COLE\n🇳🇱 Else
+  PRAASTERINK\n🇲🇽 Gabriela AGUNDEZ GARCIA\n🇰🇵 KIM Mi Rae\n🇬🇧 Lois
+  TOULSON\n🇮🇹 Maia BIGINELLI\n🇦🇺 Melissa WU\n🇨🇳 QUAN Hongchan\n🇮🇹
+  Sarah JODOIN di MARIA
+SUMMARY:🏊 여자 10m 플랫폼 준결승
+LOCATION:아쿠아틱 센터
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T130700Z-wrestling--60KG-16-MDA-PRK
@@ -88,6 +100,19 @@ SUMMARY:🤼 Amit ELOR 🇺🇸 - 🇰🇵 PAK Sol Gum
 LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T130000Z-diving--10M-
+DTSTAMP:20240806T130000Z
+DTSTART:20240806T130000Z
+DTEND:20240806T141800Z
+DESCRIPTION:다이빙 - 여자 10m 플랫폼 결승\n🇯🇵 ARAI Matsuri\n🇲🇽 Alejandra OROZCO
+  LOZA\n🇬🇧 Andrea SPENDOLINI SIRIEIX\n🇨🇳 CHEN Yuxi\n🇨🇦 Caeli
+  McKAY\n🇦🇺 Ellie COLE\n🇳🇱 Else PRAASTERINK\n🇲🇽 Gabriela AGUNDEZ
+  GARCIA\n🇰🇵 KIM Mi Rae\n🇦🇺 Melissa WU\n🇨🇳 QUAN Hongchan\n🇮🇹 Sarah
+  JODOIN di MARIA
+SUMMARY:🏊 여자 10m 플랫폼 결승
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T170400Z-wrestling--60KG-
 DTSTAMP:20240806T170400Z
 DTSTART:20240806T170400Z
@@ -104,6 +129,23 @@ DTEND:20240806T174600Z
 DESCRIPTION:레슬링 - 여자 자유형 68kg 동메달 결정전\n🇰🇵 PAK Sol Gum
 SUMMARY:🤼 여자 자유형 68kg 동메달 결정전
 LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T080000Z-diving--10M-
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T103900Z
+DESCRIPTION:다이빙 - 남자 10m 플랫폼 예선\n🇨🇴 Alejandro SOLARTE\n🇮🇹 Andreas
+  Sargent LARSEN\n🇦🇹 Anton KNOLL\n🇲🇾 Bertrand Rhodict ANAK LISES\n🇺🇸
+  Brandon LOSCHIAVO\n🇨🇳 CAO Yuan\n🇺🇸 Carson TYLER\n🇦🇺 Cassiel
+  ROUSSEAU\n🇰🇵 IM Yong Myong\n🇺🇿 Igor MYALIN\n🇦🇺 Jaxon BOWSHIRE\n🇰🇷
+  KIM Yeongtaek\n🇲🇽 Kevin BERLIN REYES\n🇬🇧 Kyle KOTHARI\n🇺🇦 Mark
+  HRYTSENKO\n🇨🇦 Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇪🇬 Ramez
+  SOBHY\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo GIOVANNINI\n🇵🇱 Robert
+  LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪
+  Timo BARTHEL\n🇨🇳 YANG Hao
+SUMMARY:🏊 남자 10m 플랫폼 예선
+LOCATION:아쿠아틱 센터
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

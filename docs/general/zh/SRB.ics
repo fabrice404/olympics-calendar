@@ -33,6 +33,43 @@ SUMMARY:🚣 女子单人双桨决赛C
 LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T090000Z-cycling-road-
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T155000Z
+DESCRIPTION:公路自行车 - 男子公路赛\n🇯🇵 ARASHIRO Yukiya\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🇪🇸 Alex ARANBURU\n🇱🇺 Alex KIRSCH\n🇰🇿
+  Alexey LUTSENKO\n🇮🇷 Ali LABIB\n🇺🇦 Anatolii BUDIAK\n🇭🇺 Attila
+  VALTER\n🇮🇪 Ben HEALY\n🇦🇺 Ben O'CONNOR\n🇪🇷 Biniam GIRMAY\n🇺🇸
+  Brandon McNULTY\n🇹🇷 Burak ABAY\n🇺🇬 Charles KAGIMU\n🇫🇷 Christophe
+  LAPORTE\n🇲🇺 Christopher ROUGIER-LAGANE\n🇳🇿 Corbin STRONG\n🇳🇱 Daan
+  HOOLE\n🇨🇴 Dani MARTINEZ\n🇨🇦 Derek GEE\n🇸🇮 Domen NOVAK\n🇳🇱 Dylan
+  van BAARLE\n🇦🇷 Eduardo SEPULVEDA\n🇮🇹 Elia VIVIANI\n🇺🇾 Eric
+  FAGUNDEZ\n🇷🇼 Eric MANIZABAYO\n🇦🇹 Felix GROSSSCHARTNER\n🇵🇦 Franklin
+  ARCHIBOLD\n🇬🇧 Fred WRIGHT\n🇬🇷 Georgios BOUGLAS\n🇦🇸 Gleb
+  SYRITSA\n🇮🇱 Itamar EINHORN\n🇸🇪 Jakob SODERQVIST\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇧🇪 Jasper STUYVEN\n🇪🇨 Jhonatan
+  NARVAEZ\n🇬🇧 Josh TARLING\n🇪🇸 Juan AYUSO\n🇫🇷 Julian
+  ALAPHILIPPE\n🇰🇷 KIM Euro\n🇫🇷 Kevin VAUQUELIN\n🇭🇰 LAU Wan Yau
+  Vincent\n🇨🇳 LYU Xianjing\n🇳🇿 Laurence PITHIE\n🇮🇹 Luca MOZZATO\n🇸🇮
+  Luka MEZGEC\n🇸🇰 Lukas KUBIS\n🇪🇪 Madis MIHKELS\n🇩🇰 Mads
+  PEDERSEN\n🇺🇸 Magnus SHEFFIELD\n🇨🇭 Marc HIRSCHI\n🇦🇹 Marco
+  HALLER\n🇸🇮 Matej MOHORIC\n🇨🇿 Mathias VACEK\n🇳🇱 Mathieu van der
+  POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
+  WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
+  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
+  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
+  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
+  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
+  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 男子公路赛
+LOCATION:特罗卡德罗
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T093000Z-judo-14-JPN-SRB
 DTSTAMP:20240803T093000Z
 DTSTART:20240803T093000Z
@@ -51,6 +88,99 @@ SUMMARY:🥋 塞尔维亚 🇷🇸 - 🇧🇷 巴西
 LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T113000Z-basketball--A-SRB-ESP
+DTSTAMP:20240803T113000Z
+DTSTART:20240803T113000Z
+DTEND:20240803T131500Z
+DESCRIPTION:篮球 - 女子小组赛 - A组
+SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇪🇸 西班牙
+LOCATION:皮埃尔·莫鲁瓦体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T173000Z-water-polo-B-SRB-FRA
+DTSTAMP:20240803T173000Z
+DTSTART:20240803T173000Z
+DTEND:20240803T185500Z
+DESCRIPTION:水球 - 男子预赛B组
+SUMMARY:🤽 塞尔维亚 🇷🇸 - 🇫🇷 法国
+LOCATION:水上运动中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T190000Z-basketball--C-SRB-SSD
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T204500Z
+DESCRIPTION:篮球 - 男子小组赛 - C组
+SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇸🇸 南苏丹
+LOCATION:皮埃尔·莫鲁瓦体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T190000Z-volleyball--A-CAN-SRB
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T211500Z
+DESCRIPTION:排球 - 男子预赛 - A组
+SUMMARY:🏐 加拿大 🇨🇦 - 🇷🇸 塞尔维亚
+LOCATION:南巴黎竞技场1号馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T100000Z-tennis--SRB-ESP
+DTSTAMP:20240804T100000Z
+DTSTART:20240804T100000Z
+DTEND:20240804T130000Z
+DESCRIPTION:网球 - 男子单打金牌赛
+SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇪🇸 Carlos ALCARAZ
+LOCATION:罗兰·加洛斯体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T120000Z-cycling-road-
+DTSTAMP:20240804T120000Z
+DTSTART:20240804T120000Z
+DTEND:20240804T162400Z
+DESCRIPTION:公路自行车 - 女子公路赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇦🇸 Alena
+  IVANCHENKO\n🇨🇦 Alison JACKSON\n🇧🇷 Ana Vitoria MAGALHAES\n🇱🇻
+  Anastasia CARBONARI\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮
+  Anniina AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇨🇾 Antri CHRISTOFOROU\n🇨🇺
+  Arlenis SIERRA\n🇿🇦 Ashleigh MOOLMAN PASIO\n🇫🇷 Audrey CORDON
+  RAGOT\n🇧🇫 Awa BAMOGO\n🇭🇺 Blanka VAS\n🇸🇪 Caroline ANDERSSON\n🇨🇱
+  Catalina SOTO CAMPOS\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹
+  Christina SCHWEINBERGER\n🇱🇺 Christine MAJERUS\n🇵🇹 Daniela
+  CAMPOS\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇮🇹 Elena
+  CECCHINI\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa BALSAMO\n🇮🇹 Elisa LONGO
+  BORGHINI\n🇨🇭 Elise CHABBEY\n🇬🇧 Elizabeth DEIGNAN\n🇳🇱 Ellen van
+  DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇳🇬 Ese UKPESERAYE\n🇸🇮 Eugenia
+  BUJAK\n🏳️ Eyeru GEBRU\n🇦🇫 Fariba HASHIMI\n🇩🇪 Franziska KOCH\n🇦🇺
+  Grace BROWN\n🇦🇸 Hanna TSERAKH\n🇳🇴 Ingvild GASKJENN\n🇷🇸 Jelena
+  ERIC\n🇨🇿 Julia KOPECKY\n🇧🇪 Julie van de VELDE\n🇫🇷 Juliette
+  LABOUS\n🇧🇪 Justine GHEKIERE\n🇵🇱 Katarzyna NIEWIADOMA\n🇳🇿 Kim
+  CADZOW\n🇲🇺 Kimberley le COURT de BILLOT\n🇺🇸 Kristen FAULKNER\n🇭🇰
+  LEE Sze Wing\n🇦🇺 Lauretta HANSON\n🇩🇪 Liane LIPPERT\n🇨🇭 Linda
+  ZANETTI\n🇳🇱 Lorena WIEBES\n🇧🇪 Lotte KOPECKY\n🇲🇽 Marcela
+  PRIETO\n🇪🇸 Margarita Victoria GARCIA\n🇧🇪 Margot VANPACHTENBEKE\n🇳🇱
+  Marianne VOS\n🇵🇱 Marta LACH\n🇳🇴 Marte Berg EDSETH\n🇮🇪 Megan
+  ARMITAGE\n🇨🇷 Milagro MENA SOLANO\n🇪🇸 Mireia BENITO PELLICER\n🇩🇿
+  Nesrine HOUILI\n🇳🇿 Niamh FISHER\n🇨🇭 Noemi RUEEGG\n🇸🇰 Nora
+  JENCUSOVA\n🇲🇾 Nur Aisyah MOHAMAD ZUBIR\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦
+  Olivia BARIL\n🇨🇴 Paula PATINO\n🇬🇧 Pfeiffer GEORGI\n🇹🇭 Phetdarin
+  SOMRAT\n🇱🇹 Rasa LELEIVYTE\n🇩🇰 Rebecca KOERNER\n🇮🇱 Rotem
+  GAFINOVITZ\n🇦🇺 Ruby ROSEMAN-GANNON\n🇰🇷 SONG Minji\n🇦🇪 Safia AL
+  SAYEGH\n🇮🇹 Silvia PERSICO\n🇨🇳 TANG Xin\n🇦🇸 Tamara DRONOVA\n🇻🇳 Thi
+  That NGUYEN\n🇿🇦 Tiffany KEEP\n🇸🇮 Urska PINTAR\n🇳🇦 Vera LOOSER\n🇫🇷
+  Victoire BERTEAU\n🇯🇵 YONAMINE Eri\n🇺🇿 Yanina KUSKOVA\n🇦🇫 Yulduz
+  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 女子公路赛
+LOCATION:特罗卡德罗
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T150000Z-volleyball--A-CHN-SRB
+DTSTAMP:20240804T150000Z
+DTSTART:20240804T150000Z
+DTEND:20240804T171500Z
+DESCRIPTION:排球 - 女子预赛 - A组
+SUMMARY:🏐 中国 🇨🇳 - 🇷🇸 塞尔维亚
+LOCATION:南巴黎竞技场1号馆
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T163500Z-3x3-basketball--LTU-SRB
 DTSTAMP:20240804T163500Z
 DTSTART:20240804T163500Z
@@ -58,6 +188,19 @@ DTEND:20240804T170000Z
 DESCRIPTION:三人篮球 - 男子分组循环赛
 SUMMARY:🏀 立陶宛 🇱🇹 - 🇷🇸 塞尔维亚
 LOCATION:协和广场1号场地
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T175500Z-athletics-
+DTSTAMP:20240804T175500Z
+DTSTART:20240804T175500Z
+DTEND:20240804T194000Z
+DESCRIPTION:田径 - 女子跳高决赛\n🇷🇸 Angelina TOPIC\n🇹🇷 Buse SAVASKAN\n🇩🇪
+  Christina HONSEL\n🇦🇺 Eleanor PATTERSON\n🇨🇾 Elena KULICHENKO\n🇺🇦
+  Iryna GERASHCHENKO\n🇫🇷 Nawal MENIKER\n🇦🇺 Nicola OLYSLAGERS\n🇺🇿
+  Safina SADULLAYEVA\n🇬🇷 Tatiana GUSIN\n🇧🇷 Valdileia MARTINS\n🇺🇸
+  Vashti CUNNINGHAM\n🇺🇦 Yaroslava MAHUCHIKH
+SUMMARY:🏃 女子跳高决赛
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T200500Z-3x3-basketball--SRB-FRA
@@ -69,6 +212,135 @@ SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇫🇷 法国
 LOCATION:协和广场1号场地
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T100000Z-water-polo-B-HUN-SRB
+DTSTAMP:20240805T100000Z
+DTSTART:20240805T100000Z
+DTEND:20240805T112500Z
+DESCRIPTION:水球 - 男子预赛B组
+SUMMARY:🤽 匈牙利 🇭🇺 - 🇷🇸 塞尔维亚
+LOCATION:拉德芳斯体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T130000Z-wrestling-60-SRB-TUR
+DTSTAMP:20240805T130000Z
+DTSTART:20240805T130000Z
+DTEND:20240805T130700Z
+DESCRIPTION:摔跤 - 男子古典式60公斤级资格赛
+SUMMARY:🤼 Georgij TIBILOV 🇷🇸 - 🇹🇷 Enes BASAR
+LOCATION:战神广场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T073000Z-canoe-sprint-500
+DTSTAMP:20240806T073000Z
+DTSTART:20240806T073000Z
+DTEND:20240806T074700Z
+DESCRIPTION:皮划艇静水 - 男子500米四人皮艇分组预赛\n🇷🇸 Andjelo DZOMBETA\n🇱🇹 Arturas
+  SEJA\n🇨🇳 BU Tingkai\n🇭🇺 Bence NADAS\n🇪🇸 Carlos AREVALO\n🇨🇳 DONG
+  Yi\n🇺🇦 Dmytro DANYLENKO\n🇳🇿 Grant CLANCY\n🇳🇿 Hamish LEGARTH\n🇱🇹
+  Ignas NAVAKAUSKAS\n🇺🇦 Ihor TRUNOV\n🇭🇺 Istvan KULI\n🇺🇦 Ivan
+  SEMYKIN\n🇦🇺 Jackson COLLINS\n🇩🇪 Jacob SCHOPF\n🇭🇺 Kolos Attila
+  CSIZMADIA\n🇳🇿 Kurtis IMRIE\n🇩🇰 Lasse Bro MADSEN\n🇨🇦 Laurent
+  LAVIGNE\n🇩🇰 Magnus SIBBERSEN\n🇪🇸 Marcus COOPER\n🇷🇸 Marko
+  DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇳🇿 Max BROWN\n🇩🇪 Max
+  LEMKE\n🇩🇪 Max RENDSCHMIDT\n🇱🇹 Mindaugas MALDONIS\n🇩🇰 Morten
+  GRAVERSEN\n🇨🇦 Nicholas MATVEEV\n🇦🇺 Noah HAVARD\n🇺🇦 Oleh
+  KUKHARYK\n🇦🇺 Pierre van der WESTHUYZEN\n🇨🇦 Pierre-Luc POULIN\n🇦🇺
+  Riley FITZSIMMONS\n🇪🇸 Rodrigo GERMADE\n🇭🇺 Sandor TOTKA\n🇪🇸 Saul
+  CRAVIOTTO\n🇨🇦 Simon McTAVISH\n🇱🇹 Simonas MALDONIS\n🇩🇪 Tom
+  LIEBSCHER-LUCZ\n🇩🇰 Victor Gairy AASMUL\n🇷🇸 Vladimir TORUBAROV\n🇨🇳
+  WANG Congkang\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 男子500米四人皮艇分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080000Z-canoe-sprint-500
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T081700Z
+DESCRIPTION:皮划艇静水 - 女子500米四人皮艇分组预赛\n🇵🇱 Adrianna KAKOL\n🇦🇺 Alexandra
+  CLARKE\n🇳🇿 Alicia HOSKIN\n🇭🇺 Alida Dora GAZSO\n🇦🇺 Aly BULL\n🇷🇸
+  Anastazija BAJUK\n🇳🇴 Anna Margrete SLETSJOEE\n🇵🇱 Anna PULAWSKA\n🇪🇸
+  Carolina GARCIA OTERO\n🇨🇦 Courtney STOTT\n🇵🇱 Dominika PUTTO\n🇷🇸
+  Dunja STANOJEV\n🇦🇺 Ella BEERE\n🇪🇸 Estefania FERNANDEZ\n🇳🇴 Hedda
+  ORITSLAND\n🇩🇪 Jule Marie HAKE\n🇵🇱 Karolina NAJA\n🇳🇴 Kristine Strand
+  AMUNDSEN\n🇨🇳 LI Dongyin\n🇳🇿 Lisa CARRINGTON\n🇳🇴 Maria VIRIK\n🇷🇸
+  Marija DOSTANIC\n🇷🇸 Milica NOVAKOVIC\n🇨🇦 Natalie DAVISON\n🇭🇺 Noemi
+  PUPP\n🇳🇿 Olivia BRETT\n🇩🇪 Paulina PASZEK\n🇩🇪 Pauline JAGSCH\n🇨🇦
+  Riley MELANSON\n🇨🇳 SUN Yuewen\n🇭🇺 Sara FOJT\n🇪🇸 Sara OUZANDE\n🇩🇪
+  Sarah BRUESSLER\n🇭🇺 Tamara CSIPES\n🇳🇿 Tara VAUGHAN\n🇪🇸 Teresa
+  PORTELA\n🇨🇦 Toshka BESHARAH-HREBACKA\n🇨🇳 WANG Nan\n🇨🇳 YIN
+  Mengdie\n🇦🇺 Yale STEINEPREIS
+SUMMARY:🛶 女子500米四人皮艇分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T091500Z-athletics-
+DTSTAMP:20240806T091500Z
+DTSTART:20240806T091500Z
+DTEND:20240806T102300Z
+DESCRIPTION:田径 - 女子跳远资格赛\n🇯🇲 Ackelia SMITH\n🇵🇹 Agate de SOUSA\n🇷🇴
+  Alina ROTARU-KOTTMANN\n🇦🇺 Brooke BUSCHKUEHL\n🇯🇲 Chanice PORTER\n🇧🇷
+  Eliane MARTINS\n🇳🇬 Ese BRUME\n🇪🇬 Esraa OWIS\n🇪🇸 Fatima DIAME\n🇯🇵
+  HATA Sumire\n🇫🇷 Hilary KPATCHA\n🇷🇸 Ivana SPANOVIC\n🇺🇸 Jasmine
+  MOORE\n🇮🇹 Larissa IAPICHINO\n🇩🇪 Laura Raquel MUELLER\n🇧🇷 Lissandra
+  Maysa CAMPOS\n🇩🇪 Malaika MIHAMBO\n🇧🇫 Marthe KOALA\n🇩🇪 Mikaelle
+  ASSANI\n🇷🇸 Milica GARDASEVIC\n🇺🇸 Monae' NICHOLS\n🇨🇴 Natalia
+  LINARES\n🇵🇱 Nikola HOROWSKA\n🇳🇱 Pauline HONDEMA\n🇭🇺 Petra
+  BANHIDI-FARKAS\n🇧🇬 Plamena MITKOVA\n🇳🇬 Prestina Oluchi
+  OCHONOGOR\n🇳🇬 Ruth USORO\n🇺🇸 Tara DAVIS-WOODHALL\n🇪🇸 Tessy
+  EBOSELE\n🇨🇳 XIONG Shiqi
+SUMMARY:🏃 女子跳远资格赛
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T093000Z-canoe-sprint-500
+DTSTAMP:20240806T093000Z
+DTSTART:20240806T093000Z
+DTEND:20240806T100700Z
+DESCRIPTION:皮划艇静水 - 男子500米双人皮艇分组预赛\n🇺🇸 Aaron SMALL\n🇭🇺 Adam VARGA\n🇪🇸
+  Adrian del RIO\n🇷🇸 Andjelo DZOMBETA\n🇱🇹 Andrej OLIJNIK\n🇿🇦 Andrew
+  James BIRKETT\n🇨🇳 BU Tingkai\n🇭🇺 Balint KOPASZ\n🇰🇿 Bekarys
+  RAMATULLA\n🇭🇺 Bence NADAS\n🇪🇸 Carlos AREVALO\n🇨🇿 Daniel HAVEL\n🇳🇿
+  Hamish LEGARTH\n🇿🇦 Hamish LOVEMORE\n🇺🇦 Ihor TRUNOV\n🇩🇪 Jacob
+  SCHOPF\n🇨🇿 Jakub SPICAR\n🇵🇱 Jakub STEPUN\n🇦🇺 Jean van der
+  WESTHUYZEN\n🇵🇹 Joao RIBEIRO\n🇺🇸 Jonas ECKER\n🇳🇿 Kurtis IMRIE\n🇪🇸
+  Marcus COOPER\n🇷🇸 Marko DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇩🇪 Max
+  LEMKE\n🇩🇪 Max RENDSCHMIDT\n🇵🇹 Messias BAPTISTA\n🇱🇹 Mindaugas
+  MALDONIS\n🇺🇦 Oleh KUKHARYK\n🇨🇦 Pierre-Luc POULIN\n🇵🇱 Przemyslaw
+  KORSAK\n🇪🇸 Rodrigo GERMADE\n🇭🇺 Sandor TOTKA\n🇰🇿 Sergii
+  TOKARNYTSKYI\n🇨🇦 Simon McTAVISH\n🇦🇺 Tom GREEN\n🇩🇪 Tom
+  LIEBSCHER-LUCZ\n🇷🇸 Vladimir TORUBAROV\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 男子500米双人皮艇分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T095600Z-wrestling-9718-SRB-EGY
+DTSTAMP:20240806T095600Z
+DTSTART:20240806T095600Z
+DTEND:20240806T100300Z
+DESCRIPTION:摔跤 - 男子古典式97公斤级1/8决赛
+SUMMARY:🤼 Mihail KAJAIA 🇷🇸 - 🇪🇬 Mohamed GABR
+LOCATION:战神广场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T123000Z-basketball-14-SRB-AUS
+DTSTAMP:20240806T123000Z
+DTSTART:20240806T123000Z
+DTEND:20240806T141500Z
+DESCRIPTION:篮球 - 男子1/4决赛
+SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇦🇺 澳大利亚
+LOCATION:贝尔西体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T190000Z-volleyball-14-ITA-SRB
+DTSTAMP:20240806T190000Z
+DTSTART:20240806T190000Z
+DTEND:20240806T211500Z
+DESCRIPTION:排球 - 女子1/4决赛
+SUMMARY:🏐 意大利 🇮🇹 - 🇷🇸 塞尔维亚
+LOCATION:南巴黎竞技场1号馆
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T070000Z-taekwondo-58-SEN-SRB
 DTSTAMP:20240807T070000Z
 DTSTART:20240807T070000Z
@@ -76,6 +348,46 @@ DTEND:20240807T070900Z
 DESCRIPTION:跆拳道 - 男子58公斤级资格赛
 SUMMARY:🥋 Bocar DIOP 🇸🇳 - 🇷🇸 Lev KORNEEV
 LOCATION:巴黎大皇宫
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T073000Z-canoe-sprint-500
+DTSTAMP:20240807T073000Z
+DTSTART:20240807T073000Z
+DTEND:20240807T082700Z
+DESCRIPTION:皮划艇静水 - 女子500米单人皮艇分组预赛\n🇳🇿 Aimee FISHER\n🇭🇺 Alida Dora
+  GAZSO\n🇦🇺 Alyce WOOD\n🇧🇷 Ana Paula VERGUTZ\n🇭🇷 Anamaria
+  GOVORCINOVIC\n🇨🇿 Anezka PALOUDOVA\n🇲🇽 Beatriz BRIONES FRAGOZA\n🇪🇸
+  Begona LAZKANO\n🇦🇷 Brenda ROJAS\n🇵🇱 Dominika PUTTO\n🇺🇿 Ekaterina
+  SHUBINA\n🇩🇰 Emma Aastrand JORGENSEN\n🇩🇪 Enja ROESSELING\n🇪🇸
+  Estefania FERNANDEZ\n🇿🇦 Esti OLIVIER\n🇳🇴 Hedda ORITSLAND\n🇧🇪
+  Hermien PETERS\n🇸🇬 Jiexian Stephenie CHEN\n🇲🇽 Karina ALANIS
+  MORALES\n🇸🇪 Linnea STENSILS\n🇳🇿 Lisa CARRINGTON\n🇧🇪 Lize
+  BROEKX\n🇫🇷 Manon HOSTENS\n🇺🇦 Mariya POVKH\n🇸🇪 Melina
+  ANDERSSON\n🇨🇦 Michelle RUSSELL\n🇷🇸 Milica NOVAKOVIC\n🇬🇺 Raina
+  TAITINGFONG\n🇨🇦 Riley MELANSON\n🇳🇱 Ruth VORSSELMAN\n🇪🇬 Samaa
+  AHMED\n🇼🇸 Samalulu CLIFTON\n🏳️ Saman SOLTANI\n🇳🇱 Selma KONIJN\n🇭🇺
+  Tamara CSIPES\n🇵🇹 Teresa PORTELA\n🇿🇦 Tiffany Amber KOCH\n🇨🇳 WANG
+  Nan\n🇨🇳 YIN Mengdie\n🇧🇬 Yoana GEORGIEVA
+SUMMARY:🛶 女子500米单人皮艇分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T090000Z-basketball-14-SRB-AUS
+DTSTAMP:20240807T090000Z
+DTSTART:20240807T090000Z
+DTEND:20240807T104500Z
+DESCRIPTION:篮球 - 女子1/4决赛
+SUMMARY:🏀 塞尔维亚 🇷🇸 - 🇦🇺 澳大利亚
+LOCATION:贝尔西体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T133500Z-water-polo-14-GRE-SRB
+DTSTAMP:20240807T133500Z
+DTSTART:20240807T133500Z
+DTEND:20240807T150000Z
+DESCRIPTION:水球 - 男子1/4决赛
+SUMMARY:🤽 希腊 🇬🇷 - 🇷🇸 塞尔维亚
+LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T092400Z-taekwondo-8016-SRB-BUR

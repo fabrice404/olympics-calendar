@@ -25,56 +25,24 @@ SUMMARY:🚴 Men's Cross-country
 LOCATION:Elancourt Hill
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T182000Z-athletics-WOMENS-TRIPLE-JUMP-FINAL
-DTSTAMP:20240803T182000Z
-DTSTART:20240803T182000Z
-DTEND:20240803T193700Z
-DESCRIPTION:Athletics - Women's Triple Jump Final\n🇯🇲 Ackelia SMITH\n🇪🇸
-  Ana PELETEIRO-COMPAORE\n🇮🇹 Dariya DERKACH\n🇷🇴 Elena Andreea
-  TALOS\n🇫🇷 Ilionis GUILLAUME\n🇺🇸 Jasmine MOORE\n🇺🇸 Keturah
-  ORJI\n🇨🇺 Leyanis PEREZ HERNANDEZ\n🇨🇺 Liadagmis POVEA\n🇺🇦 Maryna
-  BEKH-ROMANCHUK\n🇯🇲 Shanieka RICKETTS\n🇩🇲 Thea LAFOND
-SUMMARY:🏃 Women's Triple Jump Final
-LOCATION:Stade de France
+UID:20240803T085000Z-rowing-WOMENS-EIGHT-FINAL-A
+DTSTAMP:20240803T085000Z
+DTSTART:20240803T085000Z
+DTEND:20240803T085700Z
+DESCRIPTION:Rowing - Women's Eight Final A\n🇦🇺 AUS\n🇨🇦 CAN\n🇬🇧
+  GBR\n🇮🇹 ITA\n🇷🇴 ROU\n🇺🇸 USA
+SUMMARY:🚣 Women's Eight Final A
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T103800Z-artistic-gymnastics-WOMENS-BALANCE-BEAM-FINAL
-DTSTAMP:20240805T103800Z
-DTSTART:20240805T103800Z
-DTEND:20240805T111900Z
-DESCRIPTION:Artistic Gymnastics - Women's Balance Beam Final\n🇮🇹 Alice
-  D'AMATO\n🇧🇷 Julia SOARES\n🇨🇳 LUO Huan\n🇮🇹 Manila ESPOSITO\n🇫🇷
-  Marine BOYER\n🇧🇷 Rebeca ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇳🇱 Sanne
-  WEVERS\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHOU Yaqin
-SUMMARY:🤸 Women's Balance Beam Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T122300Z-artistic-gymnastics-WOMENS-FLOOR-EXERCISE-FINAL
-DTSTAMP:20240805T122300Z
-DTSTART:20240805T122300Z
-DTEND:20240805T130300Z
-DESCRIPTION:Artistic Gymnastics - Women's Floor Exercise Final\n🇮🇹 Alice
-  D'AMATO\n🇷🇴 Ana BARBOSU\n🇮🇹 Angela ANDREOLI\n🇨🇦 Elsabeth
-  BLACK\n🇧🇷 Jade BARBOSA\n🇺🇸 Jordan CHILES\n🇧🇷 Julia SOARES\n🇯🇵
-  KISHI Rina\n🇮🇹 Manila ESPOSITO\n🇨🇳 OU Yushan\n🇧🇷 Rebeca
-  ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇺🇸 Simone BILES\n🇨🇳 ZHANG
-  Yihan\n🇨🇳 ZHOU Yaqin
-SUMMARY:🤸 Women's Floor Exercise Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T175700Z-athletics-WOMENS-HAMMER-THROW-FINAL
-DTSTAMP:20240806T175700Z
-DTSTART:20240806T175700Z
-DTEND:20240806T190700Z
-DESCRIPTION:Athletics - Women's Hammer Throw Final\n🇵🇱 Anita
-  WLODARCZYK\n🇺🇸 Annette Nneka ECHIKUNWOKE\n🇷🇴 Bianca Florentina
-  GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸 Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰
-  Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇻🇪 Rosa Andreina
-  RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇨🇳 ZHAO Jie
-SUMMARY:🏃 Women's Hammer Throw Final
-LOCATION:Stade de France
+UID:20240803T091000Z-rowing-MENS-EIGHT-FINAL-A
+DTSTAMP:20240803T091000Z
+DTSTART:20240803T091000Z
+DTEND:20240803T091700Z
+DESCRIPTION:Rowing - Men's Eight Final A\n🇦🇺 AUS\n🇩🇪 GER\n🇬🇧
+  GBR\n🇳🇱 NED\n🇷🇴 ROU\n🇺🇸 USA
+SUMMARY:🚣 Men's Eight Final A
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T173000Z-weightlifting-WOMENS-49KG
@@ -89,19 +57,6 @@ DESCRIPTION:Weightlifting - Women's 49kg\n🇩🇴 Beatriz PIRON
   Surodchana KHAMBAO
 SUMMARY:🏋 Women's 49kg
 LOCATION:South Paris Arena 6
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T182500Z-athletics-MENS-DISCUS-THROW-FINAL
-DTSTAMP:20240807T182500Z
-DTSTART:20240807T182500Z
-DTEND:20240807T193500Z
-DESCRIPTION:Athletics - Men's Discus Throw Final\n🇼🇸 Alex ROSE\n🇷🇴 Alin
-  Alexandru FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇩🇪 Clemens PRUEFER\n🇸🇪
-  Daniel STAHL\n🇸🇮 Kristjan CEH\n🇦🇹 Lukas WEISSHAIDINGER\n🇦🇺 Matthew
-  DENNY\n🇱🇹 Mykolas ALEKNA\n🇯🇲 Ralford MULLINGS\n🇯🇲 Roje STONA\n🇯🇲
-  Traves SMIKLE
-SUMMARY:🏃 Men's Discus Throw Final
-LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T173000Z-weightlifting-WOMENS-71KG

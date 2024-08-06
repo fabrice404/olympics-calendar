@@ -13,6 +13,17 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T074200Z-rowing-MENS-SINGLE-SCULLS-FINAL-C
+DTSTAMP:20240803T074200Z
+DTSTART:20240803T074200Z
+DTEND:20240803T074900Z
+DESCRIPTION:Rowing - Men's Single Sculls Final C\n🇭🇺 Bendeguz Pal
+  PETERVARI MOLNAR\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier INSFRAN\n🇧🇬 Kristian
+  VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇩🇿 Sid Ali BOUDINA
+SUMMARY:🚣 Men's Single Sculls Final C
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -50,24 +61,6 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T110000Z-fencing-WOMENS-SABRE-TEAM-TABLE-OF-8-ALG-FRA
-DTSTAMP:20240803T110000Z
-DTSTART:20240803T110000Z
-DTEND:20240803T115000Z
-DESCRIPTION:Fencing - Women's Sabre Team Table of 8
-SUMMARY:🤺 ALG 🇩🇿 - 🇫🇷 FRA
-LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T123000Z-fencing-WOMENS-SABRE-TEAM-CLASSIFICATIONS-5-8-USA-ALG
-DTSTAMP:20240803T123000Z
-DTSTART:20240803T123000Z
-DTEND:20240803T132000Z
-DESCRIPTION:Fencing - Women's Sabre Team Classifications 5-8
-SUMMARY:🤺 USA 🇺🇸 - 🇩🇿 ALG
-LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T133000Z-canoe-slalom-WOMENS-KAYAK-CROSS-ROUND-1
 DTSTAMP:20240803T133000Z
 DTSTART:20240803T133000Z
@@ -88,49 +81,13 @@ SUMMARY:🛶 Women's Kayak Cross Round 1
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T141000Z-fencing-WOMENS-SABRE-TEAM-PLACEMENT-7-8-ITA-ALG
-DTSTAMP:20240803T141000Z
-DTSTART:20240803T141000Z
-DTEND:20240803T150000Z
-DESCRIPTION:Fencing - Women's Sabre Team Placement 7-8
-SUMMARY:🤺 ITA 🇮🇹 - 🇩🇿 ALG
-LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T082000Z-athletics-WOMENS-HAMMER-THROW-QUALIFICATION-GROUP-A
-DTSTAMP:20240804T082000Z
-DTSTART:20240804T082000Z
-DTEND:20240804T091600Z
-DESCRIPTION:Athletics - Women's Hammer Throw Qualification - Group A\n🇺🇸
-  Annette Nneka ECHIKUNWOKE\n🇳🇴 Beatrice Nedberge LLANO\n🇷🇴 Bianca
-  Florentina GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸 Erin REESE\n🇦🇿 Hanna
-  SKYDAN\n🇨🇳 LI Jiangyan\n🇳🇿 Lauren BRUCE\n🇵🇱 Malwina KOPRON\n🇨🇴
-  Mayra GAVIRIA\n🇫🇷 Rose LOGA\n🇦🇺 Stephanie RATCLIFFE\n🇫🇮 Suvi
-  KOSKINEN\n🇸🇪 Thea LOFMAN\n🇨🇳 ZHAO Jie\n🇩🇿 Zahra TATAR
-SUMMARY:🏃 Women's Hammer Throw Qualification - Group A
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T095000Z-athletics-MENS-110M-HURDLES-ROUND-1
-DTSTAMP:20240804T095000Z
-DTSTART:20240804T095000Z
-DTEND:20240804T102300Z
-DESCRIPTION:Athletics - Men's 110m Hurdles Round 1\n🇩🇿 Amine
-  BOUANANI\n🇧🇸 Antoine ANDREWS\n🇪🇸 Asier MARTINEZ\n🇨🇦 Craig
-  THORNE\n🇵🇱 Damian CZYKIER\n🇺🇸 Daniel ROBERTS\n🇰🇿 David
-  YEFREMOV\n🇧🇷 Eduardo RODRIGUES\n🇧🇪 Elie BACARI\n🇫🇮 Elmo LAKKA\n🇪🇸
-  Enrique LLOPIS\n🇦🇹 Enzo DIESSL\n🇺🇸 Freddie CRITTENDEN\n🇺🇸 Grant
-  HOLLOWAY\n🇯🇲 Hansle PARCHMENT\n🇯🇵 IZUMIYA Shunsuke\n🇵🇱 Jakub
-  SZYMANSKI\n🇨🇭 Jason JOSEPH\n🇵🇭 John CABANG\n🇵🇱 Krzysztof
-  KILJAN\n🇨🇳 LIU Junxi\n🇮🇹 Lorenzo Ndele SIMONELLI\n🇸🇳 Louis Francois
-  MENDY\n🇯🇵 MURATAKE Rachid\n🇩🇪 Manuel MORDI\n🇨🇱 Martin SAENZ de
-  SANTA MARIA\n🇧🇪 Michael OBASUYI\n🇨🇾 Milan TRAJKOVIC\n🇯🇲 Orlando
-  BENNETT\n🇨🇳 QIN Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷 Raphael MOHAMED\n🇯🇲
-  Rasheed BROADBELL\n🇫🇷 Sasha ZHOYA\n🇯🇵 TAKAYAMA Shunya\n🇬🇧 Tade
-  OJORA\n🇦🇺 Tayleb WILLIS\n🇫🇷 Wilhem BELOCIAN\n🇨🇳 XU Zhuoyi\n🇰🇼
-  Yaqoub ALYOUHA
-SUMMARY:🏃 Men's 110m Hurdles Round 1
-LOCATION:Stade de France
+UID:20240803T152200Z-boxing-WOMENS-66KG-QUARTERFINAL-ALG-HUN
+DTSTAMP:20240803T152200Z
+DTSTART:20240803T152200Z
+DTEND:20240803T153300Z
+DESCRIPTION:Boxing - Women's 66kg - Quarterfinal
+SUMMARY:🥊 Imane KHELIF 🇩🇿 - 🇭🇺 Anna Luca HAMORI
+LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
@@ -172,18 +129,6 @@ SUMMARY:🚴 Women's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T134000Z-artistic-gymnastics-WOMENS-UNEVEN-BARS-FINAL
-DTSTAMP:20240804T134000Z
-DTSTART:20240804T134000Z
-DTEND:20240804T142100Z
-DESCRIPTION:Artistic Gymnastics - Women's Uneven Bars Final\n🇮🇹 Alice
-  D'AMATO\n🇩🇪 Helen KEVRIC\n🇩🇿 Kaylia NEMOUR\n🇧🇪 Nina DERWAEL\n🇨🇳
-  QIU Qiyuan\n🇧🇷 Rebeca ANDRADE\n🇬🇧 Rebecca DOWNIE\n🇳🇱 Sanna
-  VEERMAN\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHANG Yihan
-SUMMARY:🤸 Women's Uneven Bars Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240804T144500Z-canoe-slalom-WOMENS-KAYAK-CROSS-HEATS
 DTSTAMP:20240804T144500Z
 DTSTART:20240804T144500Z
@@ -203,20 +148,6 @@ SUMMARY:🛶 Women's Kayak Cross Heats
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T093500Z-athletics-MENS-DISCUS-THROW-QUALIFICATION-GROUP-B
-DTSTAMP:20240805T093500Z
-DTSTART:20240805T093500Z
-DTEND:20240805T103100Z
-DESCRIPTION:Athletics - Men's Discus Throw Qualification - Group B\n🇼🇸
-  Alex ROSE\n🇷🇴 Alin Alexandru FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇨🇱
-  Claudio ROMERO\n🇩🇪 Clemens PRUEFER\n🇳🇿 Connor BELL\n🇺🇸 Joseph
-  BROWN\n🇪🇨 Juan CAICEDO\n🇸🇮 Kristjan CEH\n🇬🇧 Lawrence OKOYE\n🇩🇪
-  Mika SOSNA\n🇩🇿 Oussama KHENNOUSSI\n🇧🇪 Philip MILANOV\n🇯🇲 Roje
-  STONA\n🇫🇷 Tom REUX\n🇿🇦 Victor HOGAN
-SUMMARY:🏃 Men's Discus Throw Qualification - Group B
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T133000Z-canoe-slalom-WOMENS-KAYAK-CROSS-QUARTERFINAL
 DTSTAMP:20240805T133000Z
 DTSTART:20240805T133000Z
@@ -229,6 +160,15 @@ DESCRIPTION:Canoe Slalom - Women's Kayak Cross Quarterfinal\n🇨🇭 Alena
   FUNK\n🇮🇹 Stefanie HORN\n🇺🇦 Viktoriia US
 SUMMARY:🛶 Women's Kayak Cross Quarterfinal
 LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T134900Z-wrestling-MENS-GRECO-ROMAN-60KG-18-FINAL-IRI-ALG
+DTSTAMP:20240805T134900Z
+DTSTART:20240805T134900Z
+DTEND:20240805T135600Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 60kg 1/8 Final
+SUMMARY:🤼 Mehdi MOHSEN NEJAD 🇮🇷 - 🇩🇿 Abdelkarim FERGAT
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T141500Z-canoe-slalom-WOMENS-KAYAK-CROSS-SEMIFINAL
@@ -252,41 +192,40 @@ SUMMARY:🛶 Women's Kayak Cross Small Final
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T170400Z-athletics-MENS-3000M-STEEPLECHASE-ROUND-1
-DTSTAMP:20240805T170400Z
-DTSTART:20240805T170400Z
-DTEND:20240805T174500Z
-DESCRIPTION:Athletics - Men's 3000m Steeplechase Round 1\n🇯🇵 AOKI
-  Ryoma\n🇰🇪 Abraham KIBIWOT\n🇹🇳 Ahmed JAZIRI\n🇫🇷 Alexis MIELLET\n🇰🇪
-  Amos SEREM\n🇮🇳 Avinash Mukund SABLE\n🇦🇺 Ben BUCKINGHAM\n🇩🇿 Bilal
-  TABTI\n🇪🇸 Daniel ARCE\n🇲🇦 Faid EL MOSTAFA\n🇩🇪 Frederik
-  RUPPERT\n🇳🇿 Geordie BEAMISH\n🇪🇹 Getnet WALE\n🇺🇸 James
-  CORRIGAN\n🇨🇦 Jean-Simon DESGAGNES\n🇩🇪 Karl BEBENDORF\n🇺🇸 Kenneth
-  ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard CHEMUTAI\n🇫🇷 Louis
-  GILAVERT\n🇯🇵 MIURA Ryuji\n🇦🇺 Matthew CLARKE\n🇺🇸 Matthew
-  WILKINSON\n🇹🇳 Mohamed Amin JHINAOUI\n🇲🇦 Mohamed TINDOUFT\n🇦🇩 Nahuel
-  CARABANA\n🇫🇷 Nicolas-Marie DARU\n🇮🇹 Osama ZOGHLAMI\n🇱🇺 Ruben
-  QUERINJEAN\n🇪🇹 Samuel FIREWU\n🇰🇪 Simon Kiprop KOECH\n🇲🇦 Soufiane EL
-  BAKKALI\n🇨🇿 Tomas HABARTA\n🇫🇮 Topi RAITANEN\n🇩🇪 Velten
-  SCHNEIDER\n🇮🇹 Yassin BOUIH
-SUMMARY:🏃 Men's 3000m Steeplechase Round 1
-LOCATION:Stade de France
+UID:20240806T091400Z-wrestling-MENS-GRECO-ROMAN-77KG-18-FINAL-JPN-ALG
+DTSTAMP:20240806T091400Z
+DTSTART:20240806T091400Z
+DTEND:20240806T092100Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 77kg 1/8 Final
+SUMMARY:🤼 KUSAKA Nao 🇯🇵 - 🇩🇿 Abd Elkrim OUAKALI
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T085000Z-athletics-MENS-110M-HURDLES-REPECHAGE-ROUND
-DTSTAMP:20240806T085000Z
-DTSTART:20240806T085000Z
-DTEND:20240806T090700Z
-DESCRIPTION:Athletics - Men's 110m Hurdles Repechage Round\n🇩🇿 Amine
-  BOUANANI\n🇪🇸 Asier MARTINEZ\n🇨🇦 Craig THORNE\n🇵🇱 Damian
-  CZYKIER\n🇰🇿 David YEFREMOV\n🇧🇪 Elie BACARI\n🇫🇮 Elmo LAKKA\n🇦🇹
-  Enzo DIESSL\n🇺🇸 Freddie CRITTENDEN\n🇵🇱 Jakub SZYMANSKI\n🇵🇭 John
-  CABANG\n🇵🇱 Krzysztof KILJAN\n🇨🇳 LIU Junxi\n🇩🇪 Manuel MORDI\n🇨🇱
-  Martin SAENZ de SANTA MARIA\n🇨🇳 QIN Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷
-  Raphael MOHAMED\n🇯🇵 TAKAYAMA Shunya\n🇦🇺 Tayleb WILLIS\n🇫🇷 Wilhem
-  BELOCIAN
-SUMMARY:🏃 Men's 110m Hurdles Repechage Round
-LOCATION:Stade de France
+UID:20240806T092800Z-wrestling-MENS-GRECO-ROMAN-97KG-18-FINAL-FIN-ALG
+DTSTAMP:20240806T092800Z
+DTSTART:20240806T092800Z
+DTEND:20240806T093500Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 97kg 1/8 Final
+SUMMARY:🤼 Arvi Martin SAVOLAINEN 🇫🇮 - 🇩🇿 Fadi ROUABAH
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T094900Z-wrestling-WOMENS-FREESTYLE-50KG-18-FINAL-ALG-USA
+DTSTAMP:20240806T094900Z
+DTSTART:20240806T094900Z
+DTEND:20240806T095600Z
+DESCRIPTION:Wrestling - Women's Freestyle 50kg 1/8 Final
+SUMMARY:🤼 Ibtissem DOUDOU 🇩🇿 - 🇺🇸 Sarah Ann HILDEBRANDT
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T203400Z-boxing-WOMENS-66KG-SEMIFINAL-THA-ALG
+DTSTAMP:20240806T203400Z
+DTSTART:20240806T203400Z
+DTEND:20240806T204500Z
+DESCRIPTION:Boxing - Women's 66kg - Semifinal
+SUMMARY:🥊 Janjaem SUWANNAPHENG 🇹🇭 - 🇩🇿 Imane KHELIF
+LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T183000Z-weightlifting-MENS-102KG

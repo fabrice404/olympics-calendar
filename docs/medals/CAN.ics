@@ -69,6 +69,16 @@ SUMMARY:🚴 Women, Final
 LOCATION:BMX Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T085000Z-rowing-WOMENS-EIGHT-FINAL-A
+DTSTAMP:20240803T085000Z
+DTSTART:20240803T085000Z
+DTEND:20240803T085700Z
+DESCRIPTION:Rowing - Women's Eight Final A\n🇦🇺 AUS\n🇨🇦 CAN\n🇬🇧
+  GBR\n🇮🇹 ITA\n🇷🇴 ROU\n🇺🇸 USA
+SUMMARY:🚣 Women's Eight Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -106,28 +116,6 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T100000Z-tennis-MENS-SINGLES-BRONZE-MEDAL-MATCH-ITA-CAN
-DTSTAMP:20240803T100000Z
-DTSTART:20240803T100000Z
-DTEND:20240803T160000Z
-DESCRIPTION:Tennis - Men's Singles Bronze Medal Match
-SUMMARY:🎾 Lorenzo MUSETTI 🇮🇹 - 🇨🇦 Felix AUGER-ALIASSIME
-LOCATION:Roland-Garros Stadium
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T142000Z-artistic-gymnastics-WOMENS-VAULT-FINAL
-DTSTAMP:20240803T142000Z
-DTSTART:20240803T142000Z
-DTEND:20240803T150200Z
-DESCRIPTION:Artistic Gymnastics - Women's Vault Final\n🇰🇵 AN Chang
-  Ok\n🇲🇽 Alexa MORENO\n🇭🇺 Csenge Maria BACSKAY\n🇨🇦 Elsabeth
-  BLACK\n🇺🇸 Jade CAREY\n🇺🇸 Jordan CHILES\n🇫🇷 Ming VAN EIJKEN\n🇧🇷
-  Rebeca ANDRADE\n🇨🇦 Shallon OLSEN\n🇺🇸 Simone BILES\n🇧🇬 Valentina
-  GEORGIEVA\n🇰🇷 YEO Seojeong
-SUMMARY:🤸 Women's Vault Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T183000Z-swimming-MENS-100M-BUTTERFLY-FINAL
 DTSTAMP:20240803T183000Z
 DTSTART:20240803T183000Z
@@ -158,6 +146,15 @@ DESCRIPTION:Swimming - Mixed 4 x 100m Medley Relay Final\n🇦🇺 AUS\n🇨🇦
   CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇯🇵 JPN\n🇳🇱 NED\n🇺🇸 USA
 SUMMARY:🏊 Mixed 4 x 100m Medley Relay Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T103600Z-boxing-MENS-635KG-SEMIFINAL-CAN-FRA
+DTSTAMP:20240804T103600Z
+DTSTART:20240804T103600Z
+DTEND:20240804T104700Z
+DESCRIPTION:Boxing - Men's 63.5kg - Semifinal
+SUMMARY:🥊 Wyatt SANFORD 🇨🇦 - 🇫🇷 Sofiane OUMIHA
+LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
@@ -219,33 +216,6 @@ SUMMARY:🏊 Women's 4 x 100m Medley Relay Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T183000Z-athletics-MENS-HAMMER-THROW-FINAL
-DTSTAMP:20240804T183000Z
-DTSTART:20240804T183000Z
-DTEND:20240804T194000Z
-DESCRIPTION:Athletics - Men's Hammer Throw Final\n🇭🇺 Bence HALASZ\n🇬🇷
-  Christos FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇩🇪
-  Merlin HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel FAJDEK\n🇨🇦 Rowan
-  HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱 Wojciech
-  NOWICKI\n🇫🇷 Yann CHAUSSINAND
-SUMMARY:🏃 Men's Hammer Throw Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T122300Z-artistic-gymnastics-WOMENS-FLOOR-EXERCISE-FINAL
-DTSTAMP:20240805T122300Z
-DTSTART:20240805T122300Z
-DTEND:20240805T130300Z
-DESCRIPTION:Artistic Gymnastics - Women's Floor Exercise Final\n🇮🇹 Alice
-  D'AMATO\n🇷🇴 Ana BARBOSU\n🇮🇹 Angela ANDREOLI\n🇨🇦 Elsabeth
-  BLACK\n🇧🇷 Jade BARBOSA\n🇺🇸 Jordan CHILES\n🇧🇷 Julia SOARES\n🇯🇵
-  KISHI Rina\n🇮🇹 Manila ESPOSITO\n🇨🇳 OU Yushan\n🇧🇷 Rebeca
-  ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇺🇸 Simone BILES\n🇨🇳 ZHANG
-  Yihan\n🇨🇳 ZHOU Yaqin
-SUMMARY:🤸 Women's Floor Exercise Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T124300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
 DTSTAMP:20240806T124300Z
 DTSTART:20240806T124300Z
@@ -256,45 +226,6 @@ DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
   CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
 SUMMARY:⛵ Women's Dinghy Medal Race
 LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T175700Z-athletics-WOMENS-HAMMER-THROW-FINAL
-DTSTAMP:20240806T175700Z
-DTSTART:20240806T175700Z
-DTEND:20240806T190700Z
-DESCRIPTION:Athletics - Women's Hammer Throw Final\n🇵🇱 Anita
-  WLODARCZYK\n🇺🇸 Annette Nneka ECHIKUNWOKE\n🇷🇴 Bianca Florentina
-  GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸 Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰
-  Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇻🇪 Rosa Andreina
-  RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇨🇳 ZHAO Jie
-SUMMARY:🏃 Women's Hammer Throw Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T173000Z-artistic-swimming-TEAM-ACROBATIC-ROUTINE
-DTSTAMP:20240807T173000Z
-DTSTART:20240807T173000Z
-DTEND:20240807T182900Z
-DESCRIPTION:Artistic Swimming - Team Acrobatic Routine\n🇦🇺 AUS\n🇨🇦
-  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸
-  ESP\n🇺🇸 USA
-SUMMARY:🏊 Team Acrobatic Routine
-LOCATION:Aquatics Centre
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T194300Z-athletics-MENS-3000M-STEEPLECHASE-FINAL
-DTSTAMP:20240807T194300Z
-DTSTART:20240807T194300Z
-DTEND:20240807T195200Z
-DESCRIPTION:Athletics - Men's 3000m Steeplechase Final\n🇰🇪 Abraham
-  KIBIWOT\n🇹🇳 Ahmed JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund
-  SABLE\n🇪🇸 Daniel ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon
-  DESGAGNES\n🇺🇸 Kenneth ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard
-  CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳 Mohamed Amin JHINAOUI\n🇲🇦 Mohamed
-  TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪 Simon Kiprop KOECH\n🇲🇦 Soufiane EL
-  BAKKALI
-SUMMARY:🏃 Men's 3000m Steeplechase Final
-LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T130000Z-weightlifting-WOMENS-59KG
@@ -321,17 +252,5 @@ DESCRIPTION:Weightlifting - Men's 89kg\n🇦🇲 Andranik KARAPETYAN\n🇮🇹
   Dongju\n🇨🇴 Yeison LOPEZ
 SUMMARY:🏋 Men's 89kg
 LOCATION:South Paris Arena 6
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T173000Z-artistic-swimming-DUET-FREE-ROUTINE
-DTSTAMP:20240810T173000Z
-DTSTART:20240810T173000Z
-DTEND:20240810T192300Z
-DESCRIPTION:Artistic Swimming - Duet Free Routine\n🇦🇺 AUS\n🇦🇹 AUT\n🇨🇦
-  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷 GRE\n🇮🇱 ISR\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇪🇸 ESP\n🇺🇦
-  UKR\n🇺🇸 USA
-SUMMARY:🏊 Duet Free Routine
-LOCATION:Aquatics Centre
 END:VEVENT
 END:VCALENDAR

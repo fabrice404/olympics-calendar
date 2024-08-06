@@ -26,6 +26,17 @@ SUMMARY:🚴 Men's Park Qualification
 LOCATION:La Concorde 2
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T080600Z-rowing-MENS-SINGLE-SCULLS-FINAL-B
+DTSTAMP:20240803T080600Z
+DTSTART:20240803T080600Z
+DTEND:20240803T081300Z
+DESCRIPTION:Rowing - Men's Single Sculls Final B\n🇯🇵 ARAKAWA Ryuta\n🇺🇾
+  Bruno CETRARO BERRIOLO\n🇭🇷 Damir MARTIN\n🇱🇹 Giedrius
+  BIELIAUSKAS\n🇷🇴 Mihai CHIRUTA\n🇩🇰 Sverri NIELSEN
+SUMMARY:🚣 Men's Single Sculls Final B
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-swimming-WOMENS-50M-FREESTYLE-HEATS
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -61,15 +72,6 @@ SUMMARY:🏊 Women's 50m Freestyle - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T100000Z-tennis-WOMENS-SINGLES-GOLD-MEDAL-MATCH-CHN-CRO
-DTSTAMP:20240803T100000Z
-DTSTART:20240803T100000Z
-DTEND:20240803T143000Z
-DESCRIPTION:Tennis - Women's Singles Gold Medal Match
-SUMMARY:🎾 ZHENG Qinwen 🇨🇳 - 🇭🇷 Donna VEKIC
-LOCATION:Roland-Garros Stadium
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T100500Z-sailing-WOMENS-DINGHY-RACE-4
 DTSTAMP:20240803T100500Z
 DTSTART:20240803T100500Z
@@ -91,15 +93,6 @@ DESCRIPTION:Sailing - Women's Dinghy - Race 4\n🇧🇲 Adriana
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Women's Dinghy - Race 4
 LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T100500Z-water-polo-MENS-PRELIMINARY-ROUND-GROUP-A-CRO-GRE
-DTSTAMP:20240803T100500Z
-DTSTART:20240803T100500Z
-DTEND:20240803T113000Z
-DESCRIPTION:Water Polo - Men's Preliminary Round - Group A
-SUMMARY:🤽 CRO 🇭🇷 - 🇬🇷 GRE
-LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T102000Z-sailing-MENS-DINGHY-RACE-5
@@ -228,26 +221,6 @@ DESCRIPTION:Canoe Slalom - Men's Kayak Cross Repechage\n🇬🇧 Adam
   WU Shao-Hsuan
 SUMMARY:🛶 Men's Kayak Cross Repechage
 LOCATION:Nautical St - White water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T090000Z-athletics-MENS-LONG-JUMP-QUALIFICATION
-DTSTAMP:20240804T090000Z
-DTSTART:20240804T090000Z
-DTEND:20240804T095600Z
-DESCRIPTION:Athletics - Men's Long Jump Qualification\n🇨🇺 Alejandro
-  PARADA\n🇺🇿 Anvar ANVAROV\n🇨🇴 Arnovis DALMERO\n🇧🇬 Bozhidar
-  SARABOYUKOV\n🇯🇲 Carey McLEOD\n🇿🇦 Cheswill JOHNSON\n🇦🇺 Christopher
-  MITREVSKI\n🇺🇾 Emiliano LASA\n🇭🇷 Filip PRAVDICA\n🇯🇵 HASHIOKA
-  Yuki\n🇬🇧 Jacob FINCHAM-DUKES\n🇺🇸 Jarrion LAWSON\n🇺🇸 Jeremiah
-  DAVIS\n🇮🇳 Jeswin ALDRIN\n🇿🇦 Jovan van VUUREN\n🇹🇼 LIN Yu-Tang\n🇦🇺
-  Liam ADCOCK\n🇧🇷 Lucas Marcelino dos SANTOS\n🇺🇸 Malcolm CLEMONS\n🇮🇹
-  Mattia FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🏳️ Mohammad Amin
-  ALSALAMI\n🇨🇿 Petr MEINDLSCHMID\n🇨🇿 Radek JUSKA\n🇨🇳 SHI Yuhao\n🇩🇪
-  Simon BATZ\n🇨🇭 Simon EHAMMER\n🇯🇲 Tajay GAYLE\n🇸🇪 Thobias
-  MONTLER\n🇫🇷 Tom CAMPAGNE\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳
-  ZHANG Mingkun
-SUMMARY:🏃 Men's Long Jump Qualification
-LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T100500Z-sailing-MENS-DINGHY-RACE-7
@@ -422,32 +395,6 @@ SUMMARY:⛵ Women's Dinghy - Race 8
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T142400Z-artistic-gymnastics-MENS-VAULT-FINAL
-DTSTAMP:20240804T142400Z
-DTSTART:20240804T142400Z
-DTEND:20240804T150700Z
-DESCRIPTION:Artistic Gymnastics - Men's Vault Final\n🇹🇷 Adem ASIL\n🇦🇲
-  Artur DAVTYAN\n🇺🇸 Asher HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel
-  YULO\n🇬🇧 Harry HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷
-  LEE Junho\n🇮🇷 Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
-SUMMARY:🤸 Men's Vault Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T081000Z-athletics-MENS-DISCUS-THROW-QUALIFICATION-GROUP-A
-DTSTAMP:20240805T081000Z
-DTSTART:20240805T081000Z
-DTEND:20240805T090600Z
-DESCRIPTION:Athletics - Men's Discus Throw Qualification - Group A\n🇺🇸
-  Andrew EVANS\n🇸🇪 Daniel STAHL\n🇿🇦 Francois PRINSLOO\n🇩🇪 Henrik
-  JANSSEN\n🇫🇷 Lolassonn DJOUHAN\n🇦🇹 Lukas WEISSHAIDINGER\n🇨🇺 Mario
-  Alberto DIAZ\n🇭🇷 Martin MARKOVIC\n🇱🇹 Martynas ALEKNA\n🇦🇺 Matthew
-  DENNY\n🇨🇴 Mauricio ORTEGA\n🇱🇹 Mykolas ALEKNA\n🇬🇧 Nicholas
-  PERCY\n🇯🇲 Ralford MULLINGS\n🇺🇸 Sam MATTIS\n🇯🇲 Traves SMIKLE
-SUMMARY:🏃 Men's Discus Throw Qualification - Group A
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T101500Z-sailing-WOMENS-DINGHY-RACE-9
 DTSTAMP:20240805T101500Z
 DTSTART:20240805T101500Z
@@ -509,18 +456,6 @@ SUMMARY:⛵ Women's Dinghy - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T113300Z-artistic-gymnastics-MENS-HORIZONTAL-BAR-FINAL
-DTSTAMP:20240805T113300Z
-DTSTART:20240805T113300Z
-DTEND:20240805T120800Z
-DESCRIPTION:Artistic Gymnastics - Men's Horizontal Bar Final\n🇨🇴 Angel
-  BARAJAS\n🇺🇸 Frederick RICHARD\n🇬🇧 Joe FRASER\n🇨🇾 Marios
-  GEORGIOU\n🇯🇵 OKA Shinnosuke\n🇨🇳 SU Weide\n🇯🇵 SUGINO Takaaki\n🇹🇼
-  TANG Chia-Hung\n🇭🇷 Tin SRBIC\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
-SUMMARY:🤸 Men's Horizontal Bar Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T124500Z-sailing-MENS-DINGHY-RACE-9
 DTSTAMP:20240805T124500Z
 DTSTART:20240805T124500Z
@@ -567,28 +502,6 @@ DESCRIPTION:Sailing - Men's Dinghy - Race 10\n🇪🇬 Aly BADAWY\n🇹🇭 Arth
   ZELKO
 SUMMARY:⛵ Men's Dinghy - Race 10
 LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T163000Z-water-polo-MENS-PRELIMINARY-ROUND-GROUP-A-CRO-USA
-DTSTAMP:20240805T163000Z
-DTSTART:20240805T163000Z
-DTEND:20240805T175500Z
-DESCRIPTION:Water Polo - Men's Preliminary Round - Group A
-SUMMARY:🤽 CRO 🇭🇷 - 🇺🇸 USA
-LOCATION:Paris La Defense Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T183000Z-athletics-WOMENS-DISCUS-THROW-FINAL
-DTSTAMP:20240805T183000Z
-DTSTART:20240805T183000Z
-DTEND:20240805T194000Z
-DESCRIPTION:Athletics - Women's Discus Throw Final\n🇲🇩 Alexandra
-  EMILIANOV\n🇩🇪 Claudine VITA\n🇮🇹 Daisy OSAKUE\n🇨🇳 FENG Bin\n🇵🇹
-  Irina RODRIGUES\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin PUDENZ\n🇩🇪
-  Marike STEINACKER\n🇫🇷 Melina ROBERT-MICHON\n🇭🇷 Sandra ELKASEVIC\n🇺🇸
-  Valarie ALLMAN\n🇸🇪 Vanessa KAMGA
-SUMMARY:🏃 Women's Discus Throw Final
-LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T100300Z-sailing-MENS-KITE-RACE-6
@@ -678,19 +591,6 @@ SUMMARY:⛵ Women's Dinghy Medal Race
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T181500Z-athletics-MENS-LONG-JUMP-FINAL
-DTSTAMP:20240806T181500Z
-DTSTART:20240806T181500Z
-DTEND:20240806T193500Z
-DESCRIPTION:Athletics - Men's Long Jump Final\n🇨🇴 Arnovis DALMERO\n🇯🇲
-  Carey McLEOD\n🇭🇷 Filip PRAVDICA\n🇬🇧 Jacob FINCHAM-DUKES\n🇮🇹 Mattia
-  FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🇨🇿 Radek JUSKA\n🇩🇪 Simon
-  BATZ\n🇨🇭 Simon EHAMMER\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳
-  ZHANG Mingkun
-SUMMARY:🏃 Men's Long Jump Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
 UID:20240807T102300Z-sailing-MENS-KITE-RACE-11
 DTSTAMP:20240807T102300Z
 DTSTART:20240807T102300Z
@@ -749,15 +649,6 @@ DESCRIPTION:Sailing - Men's Kite - Race 14\n🇫🇷 Axel MAZELLA\n🇧🇷 Brun
   TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ Men's Kite - Race 14
 LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T120000Z-water-polo-MENS-QUARTERFINAL-CRO-ESP
-DTSTAMP:20240807T120000Z
-DTSTART:20240807T120000Z
-DTEND:20240807T132500Z
-DESCRIPTION:Water Polo - Men's Quarterfinal
-SUMMARY:🤽 CRO 🇭🇷 - 🇪🇸 ESP
-LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T120300Z-sailing-MENS-KITE-RACE-15

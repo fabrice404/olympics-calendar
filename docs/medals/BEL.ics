@@ -46,17 +46,6 @@ SUMMARY:🚴 Men's Cross-country
 LOCATION:Elancourt Hill
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T080000Z-equestrian-DRESSAGE-TEAM-GRAND-PRIX-SPECIAL
-DTSTAMP:20240803T080000Z
-DTSTART:20240803T080000Z
-DTEND:20240803T133000Z
-DESCRIPTION:Equestrian - Dressage Team Grand Prix Special\n🇦🇺 AUS\n🇦🇹
-  AUT\n🇧🇪 BEL\n🇩🇰 DEN\n🇫🇮 FIN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇳🇱
-  NED\n🇸🇪 SWE
-SUMMARY:🏇 Dressage Team Grand Prix Special
-LOCATION:Château de Versailles
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -94,14 +83,15 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T185500Z-athletics-4-X-400M-RELAY-MIXED-FINAL
-DTSTAMP:20240803T185500Z
-DTSTART:20240803T185500Z
-DTEND:20240803T185900Z
-DESCRIPTION:Athletics - 4 x 400m Relay Mixed Final\n🇧🇪 BEL\n🇫🇷
-  FRA\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇲 JAM\n🇳🇱 NED\n🇵🇱 POL\n🇺🇸 USA
-SUMMARY:🏃 4 x 400m Relay Mixed Final
-LOCATION:Stade de France
+UID:20240803T093000Z-rowing-MENS-SINGLE-SCULLS-FINAL-A
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T093700Z
+DESCRIPTION:Rowing - Men's Single Sculls Final A\n🇩🇪 Oliver ZEIDLER\n🇳🇱
+  Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim
+  BRYS\n🇦🇸 Yauheni ZALATY
+SUMMARY:🚣 Men's Single Sculls Final A
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
@@ -141,50 +131,6 @@ DESCRIPTION:Cycling Road - Women's Road Race\n🇵🇱 Agnieszka
   Yanina KUSKOVA\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 Women's Road Race
 LOCATION:Trocadéro
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T130000Z-artistic-gymnastics-MENS-RINGS-FINAL
-DTSTAMP:20240804T130000Z
-DTSTART:20240804T130000Z
-DTEND:20240804T133700Z
-DESCRIPTION:Artistic Gymnastics - Men's Rings Final\n🇹🇷 Adem ASIL\n🇺🇸
-  Asher HONG\n🇬🇷 Eleftherios PETROUNIAS\n🇧🇪 Glen CUYLE\n🇬🇧 Harry
-  HEPWORTH\n🇹🇷 Ibrahim COLAK\n🇨🇳 LIU Yang\n🇫🇷 Samir AIT SAID\n🇯🇵
-  TANIGAWA Wataru\n🇦🇲 Vahagn DAVTYAN\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU
-  Jingyuan
-SUMMARY:🤸 Men's Rings Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T134000Z-artistic-gymnastics-WOMENS-UNEVEN-BARS-FINAL
-DTSTAMP:20240804T134000Z
-DTSTART:20240804T134000Z
-DTEND:20240804T142100Z
-DESCRIPTION:Artistic Gymnastics - Women's Uneven Bars Final\n🇮🇹 Alice
-  D'AMATO\n🇩🇪 Helen KEVRIC\n🇩🇿 Kaylia NEMOUR\n🇧🇪 Nina DERWAEL\n🇨🇳
-  QIU Qiyuan\n🇧🇷 Rebeca ANDRADE\n🇬🇧 Rebecca DOWNIE\n🇳🇱 Sanna
-  VEERMAN\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHANG Yihan
-SUMMARY:🤸 Women's Uneven Bars Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T080000Z-equestrian-JUMPING-INDIVIDUAL-FINAL
-DTSTAMP:20240806T080000Z
-DTSTART:20240806T080000Z
-DTEND:20240806T092100Z
-DESCRIPTION:Equestrian - Jumping Individual Final\n🇸🇦 Abdulrahman
-  ALRAJHI\n🇲🇽 Andres AZCARRAGA\n🇬🇧 Ben MAHER\n🇩🇪 Christian
-  KUKUK\n🇮🇪 Daniel COYLE\n🇮🇹 Emanuele CAMILLI\n🇧🇪 Gilles THOMAS\n🇧🇪
-  Gregory WATHELET\n🇯🇵 HAASE SHIBAYAMA Takashi\n🇳🇱 Harrie
-  SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik von ECKERMANN\n🇦🇷 Jose Maria
-  (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸 Karl COOK\n🇳🇱 Kim EMMEN\n🇺🇸
-  Laura KRAUT\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Martin FUCHS\n🇦🇹 Max
-  KUEHNER\n🇦🇪 Omar Abdul Aziz AL MARZOOQI\n🇩🇪 Philipp WEISHAUPT\n🇸🇦
-  Ramzy AL DUHAMI\n🇧🇷 Rodrigo PESSOA\n🇬🇧 Scott BRASH\n🇮🇪 Shane
-  SWEETNAM\n🇫🇷 Simon DELESTRE\n🇧🇷 Stephan de FREITAS BARCHA\n🇨🇭 Steve
-  GUERDAT\n🇳🇴 Victoria GULLIKSEN
-SUMMARY:🏇 Jumping Individual Final
-LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T124300Z-sailing-WOMENS-DINGHY-MEDAL-RACE

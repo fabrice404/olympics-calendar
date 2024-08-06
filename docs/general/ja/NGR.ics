@@ -4,6 +4,15 @@ PRODID:-//fabrice404//olympics-calendar//general/ja/NGR//EN
 X-WR-CALNAME:🇳🇬 Nigeria | Paris 2024
 NAME:🇳🇬 Nigeria | Paris 2024
 BEGIN:VEVENT
+UID:20240725T170000Z-football--C-NGR-BRA
+DTSTAMP:20240725T170000Z
+DTSTART:20240725T170000Z
+DTEND:20240725T184500Z
+DESCRIPTION:サッカー - 女子一次ラウンド - グループC
+SUMMARY:⚽ ナイジェリア 🇳🇬 - 🇧🇷 ブラジル
+LOCATION:ヌーヴォ・スタッド・ド・ボルドー
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -13,50 +22,79 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T090000Z-canoe-sprint-C-2500M
-DTSTAMP:20240806T090000Z
-DTSTART:20240806T090000Z
-DTEND:20240806T091700Z
-DESCRIPTION:カヌー・スプリント - 女子カナディアンペア（C-2）500m予選\n🇭🇺 Agnes Anna KISS\n🇺🇦
-  Anastasiia RYBACHOK\n🇪🇸 Antia JACOME\n🇫🇷 Axelle RENARD\n🇳🇬 Ayomide
-  Powei BELLO\n🇳🇬 Beauty Akinaere OTUEDO\n🇭🇺 Bianka NAGY\n🇲🇩 Daniela
-  COCIU\n🇵🇱 Dorota BOROWSKA\n🇫🇷 Eugenie DORANGE\n🇩🇪 Hedi Moana
-  KLIEMKE\n🇨🇦 Katie VINCENT\n🇩🇪 Lisa JAHN\n🇺🇦 Liudmyla LUZAN\n🇪🇸
-  Maria CORBERA\n🇨🇱 Maria Jose MAILLIARD\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya
-  BROVKOVA\n🇨🇱 Paula GOMEZ\n🇰🇿 Rufina ISKAKOVA\n🇨🇳 SUN Mengya\n🇨🇦
-  Sloan MACKENZIE\n🇵🇱 Sylwia SZCZERBINSKA\n🇨🇳 XU Shixiao\n🇨🇺
-  Yarisleidis CIRILO DUBOYS\n🇨🇺 Yinnoly Francheska LOPEZ LAMADRID
-SUMMARY:🛶 女子カナディアンペア（C-2）500m予選
-LOCATION:ノーティカル ST - フラットウォーター
+UID:20240804T120000Z-cycling-road-
+DTSTAMP:20240804T120000Z
+DTSTART:20240804T120000Z
+DTEND:20240804T162400Z
+DESCRIPTION:自転車ロードレース - 女子ロードレース\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇦🇸 Alena
+  IVANCHENKO\n🇨🇦 Alison JACKSON\n🇧🇷 Ana Vitoria MAGALHAES\n🇱🇻
+  Anastasia CARBONARI\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮
+  Anniina AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇨🇾 Antri CHRISTOFOROU\n🇨🇺
+  Arlenis SIERRA\n🇿🇦 Ashleigh MOOLMAN PASIO\n🇫🇷 Audrey CORDON
+  RAGOT\n🇧🇫 Awa BAMOGO\n🇭🇺 Blanka VAS\n🇸🇪 Caroline ANDERSSON\n🇨🇱
+  Catalina SOTO CAMPOS\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹
+  Christina SCHWEINBERGER\n🇱🇺 Christine MAJERUS\n🇵🇹 Daniela
+  CAMPOS\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇮🇹 Elena
+  CECCHINI\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa BALSAMO\n🇮🇹 Elisa LONGO
+  BORGHINI\n🇨🇭 Elise CHABBEY\n🇬🇧 Elizabeth DEIGNAN\n🇳🇱 Ellen van
+  DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇳🇬 Ese UKPESERAYE\n🇸🇮 Eugenia
+  BUJAK\n🏳️ Eyeru GEBRU\n🇦🇫 Fariba HASHIMI\n🇩🇪 Franziska KOCH\n🇦🇺
+  Grace BROWN\n🇦🇸 Hanna TSERAKH\n🇳🇴 Ingvild GASKJENN\n🇷🇸 Jelena
+  ERIC\n🇨🇿 Julia KOPECKY\n🇧🇪 Julie van de VELDE\n🇫🇷 Juliette
+  LABOUS\n🇧🇪 Justine GHEKIERE\n🇵🇱 Katarzyna NIEWIADOMA\n🇳🇿 Kim
+  CADZOW\n🇲🇺 Kimberley le COURT de BILLOT\n🇺🇸 Kristen FAULKNER\n🇭🇰
+  LEE Sze Wing\n🇦🇺 Lauretta HANSON\n🇩🇪 Liane LIPPERT\n🇨🇭 Linda
+  ZANETTI\n🇳🇱 Lorena WIEBES\n🇧🇪 Lotte KOPECKY\n🇲🇽 Marcela
+  PRIETO\n🇪🇸 Margarita Victoria GARCIA\n🇧🇪 Margot VANPACHTENBEKE\n🇳🇱
+  Marianne VOS\n🇵🇱 Marta LACH\n🇳🇴 Marte Berg EDSETH\n🇮🇪 Megan
+  ARMITAGE\n🇨🇷 Milagro MENA SOLANO\n🇪🇸 Mireia BENITO PELLICER\n🇩🇿
+  Nesrine HOUILI\n🇳🇿 Niamh FISHER\n🇨🇭 Noemi RUEEGG\n🇸🇰 Nora
+  JENCUSOVA\n🇲🇾 Nur Aisyah MOHAMAD ZUBIR\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦
+  Olivia BARIL\n🇨🇴 Paula PATINO\n🇬🇧 Pfeiffer GEORGI\n🇹🇭 Phetdarin
+  SOMRAT\n🇱🇹 Rasa LELEIVYTE\n🇩🇰 Rebecca KOERNER\n🇮🇱 Rotem
+  GAFINOVITZ\n🇦🇺 Ruby ROSEMAN-GANNON\n🇰🇷 SONG Minji\n🇦🇪 Safia AL
+  SAYEGH\n🇮🇹 Silvia PERSICO\n🇨🇳 TANG Xin\n🇦🇸 Tamara DRONOVA\n🇻🇳 Thi
+  That NGUYEN\n🇿🇦 Tiffany KEEP\n🇸🇮 Urska PINTAR\n🇳🇦 Vera LOOSER\n🇫🇷
+  Victoire BERTEAU\n🇯🇵 YONAMINE Eri\n🇺🇿 Yanina KUSKOVA\n🇦🇫 Yulduz
+  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 女子ロードレース
+LOCATION:トロカベロ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T083000Z-canoe-sprint-C-1200M
-DTSTAMP:20240808T083000Z
-DTSTART:20240808T083000Z
-DTEND:20240808T091700Z
-DESCRIPTION:カヌー・スプリント - 女子カナディアンシングル（C-1）200m予選\n🇭🇺 Agnes Anna KISS\n🇺🇦
-  Anastasiia RYBACHOK\n🇪🇸 Antia JACOME\n🇳🇬 Ayomide Powei BELLO\n🇳🇬
-  Beauty Akinaere OTUEDO\n🇸🇳 Combe SECK\n🇲🇩 Daniela COCIU\n🇵🇱 Dorota
-  BOROWSKA\n🇫🇷 Eugenie DORANGE\n🇸🇹 Herminia TEIXEIRA SANTANA\n🇨🇱
-  Karen ROCO\n🇵🇱 Katarzyna SZPERKIEWICZ\n🇨🇦 Katie VINCENT\n🇭🇺 Kincso
-  TAKACS\n🇨🇳 LIN Wenjun\n🇩🇪 Lisa JAHN\n🇺🇦 Liudmyla LUZAN\n🇩🇪 Maike
-  JAKOB\n🇨🇴 Manuela GOMEZ SANCHEZ\n🇪🇸 Maria CORBERA\n🇨🇱 Maria Jose
-  MAILLIARD\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya BROVKOVA\n🇺🇸 Nevin
-  HARRISON\n🇺🇿 Nilufar ZOKIROVA\n🇦🇸 Olesia ROMASENKO\n🇬🇺 Raina
-  TAITINGFONG\n🇨🇦 Sophia JENSEN\n🇻🇳 Thi Huong NGUYEN\n🇧🇷 Valdenice
-  CONCEICAO DO NASCIMENTO\n🇨🇺 Yarisleidis CIRILO DUBOYS\n🇨🇺 Yinnoly
-  Francheska LOPEZ LAMADRID\n🇦🇸 Yuliya TRUSHKINA
-SUMMARY:🛶 女子カナディアンシングル（C-1）200m予選
-LOCATION:ノーティカル ST - フラットウォーター
+UID:20240805T133500Z-wrestling-68KG1-CAN-NGR
+DTSTAMP:20240805T133500Z
+DTSTART:20240805T133500Z
+DTEND:20240805T134200Z
+DESCRIPTION:レスリング - 女子フリースタイル68kg級1回戦
+SUMMARY:🤼 Linda MORAIS 🇨🇦 - 🇳🇬 Blessing OBORUDUDU
+LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T091100Z-taekwondo-67KG1-CHN-NGR
-DTSTAMP:20240809T091100Z
-DTSTART:20240809T091100Z
-DTEND:20240809T092400Z
-DESCRIPTION:テコンドー - 女子67kg級1回戦
-SUMMARY:🥋 SONG Jie 🇨🇳 - 🇳🇬 Elizabeth Oluchi ANYANACHO
-LOCATION:グラン・パレ
+UID:20240805T141000Z-wrestling-68KG2-FRA-NGR
+DTSTAMP:20240805T141000Z
+DTSTART:20240805T141000Z
+DTEND:20240805T141700Z
+DESCRIPTION:レスリング - 女子フリースタイル68kg級2回戦
+SUMMARY:🤼 Koumba LARROQUE 🇫🇷 - 🇳🇬 Blessing OBORUDUDU
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T193500Z-wrestling-68KG-NGR-KGZ
+DTSTAMP:20240805T193500Z
+DTSTART:20240805T193500Z
+DTEND:20240805T194200Z
+DESCRIPTION:レスリング - 女子フリースタイル68kg級準決勝
+SUMMARY:🤼 Blessing OBORUDUDU 🇳🇬 - 🇰🇬 Meerim ZHUMANAZAROVA
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T174600Z-wrestling-68KG3
+DTSTAMP:20240806T174600Z
+DTSTART:20240806T174600Z
+DTEND:20240806T175300Z
+DESCRIPTION:レスリング - 女子フリースタイル68kg級3位決定戦\n🇳🇬 Blessing OBORUDUDU
+SUMMARY:🤼 女子フリースタイル68kg級3位決定戦
+LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

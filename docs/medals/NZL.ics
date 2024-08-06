@@ -70,6 +70,17 @@ SUMMARY:🤸 Men's Final
 LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T081800Z-rowing-WOMENS-SINGLE-SCULLS-FINAL-A
+DTSTAMP:20240803T081800Z
+DTSTART:20240803T081800Z
+DTEND:20240803T082500Z
+DESCRIPTION:Rowing - Women's Single Sculls Final A\n🇧🇬 Desislava
+  ANGELOVA\n🇳🇿 Emma TWIGG\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇦🇺
+  Tara RIGNEY\n🇱🇹 Viktorija SENKUTE
+SUMMARY:🚣 Women's Single Sculls Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -107,17 +118,15 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T173500Z-athletics-MENS-SHOT-PUT-FINAL
-DTSTAMP:20240803T173500Z
-DTSTART:20240803T173500Z
-DTEND:20240803T184500Z
-DESCRIPTION:Athletics - Men's Shot Put Final\n🇳🇬 Chukwuebuka Cornnell
-  ENEKWECHI\n🇳🇿 Jacko GILL\n🇺🇸 Joe KOVACS\n🇮🇹 Leonardo FABBRI\n🇳🇴
-  Marcus THOMSEN\n🇺🇸 Payton OTTERDAHL\n🇯🇲 Rajindra CAMPBELL\n🇺🇸 Ryan
-  CROUSER\n🇳🇿 Tom WALSH\n🇨🇿 Tomas STANEK\n🇲🇽 Uziel MUNOZ\n🇮🇹 Zane
-  WEIR
-SUMMARY:🏃 Men's Shot Put Final
-LOCATION:Stade de France
+UID:20240803T093000Z-rowing-MENS-SINGLE-SCULLS-FINAL-A
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T093700Z
+DESCRIPTION:Rowing - Men's Single Sculls Final A\n🇩🇪 Oliver ZEIDLER\n🇳🇱
+  Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim
+  BRYS\n🇦🇸 Yauheni ZALATY
+SUMMARY:🚣 Men's Single Sculls Final A
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T192800Z-swimming-WOMENS-800M-FREESTYLE-FINAL
@@ -212,18 +221,6 @@ DESCRIPTION:Sailing - Men's Dinghy Medal Race\n🇨🇱 Clemente SEGUEL
   SAUNDERS
 SUMMARY:⛵ Men's Dinghy Medal Race
 LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T173000Z-artistic-swimming-DUET-FREE-ROUTINE
-DTSTAMP:20240810T173000Z
-DTSTART:20240810T173000Z
-DTEND:20240810T192300Z
-DESCRIPTION:Artistic Swimming - Duet Free Routine\n🇦🇺 AUS\n🇦🇹 AUT\n🇨🇦
-  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷 GRE\n🇮🇱 ISR\n🇮🇹
-  ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇪🇸 ESP\n🇺🇦
-  UKR\n🇺🇸 USA
-SUMMARY:🏊 Duet Free Routine
-LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T183000Z-weightlifting-MENS-102KG

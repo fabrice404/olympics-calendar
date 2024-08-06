@@ -4,6 +4,36 @@ PRODID:-//fabrice404//olympics-calendar//general/IRI//EN
 X-WR-CALNAME:🇮🇷 Iran | Paris 2024
 NAME:🇮🇷 Iran | Paris 2024
 BEGIN:VEVENT
+UID:20240725T073000Z-archery-WOMENS-INDIVIDUAL-RANKING-ROUND
+DTSTAMP:20240725T073000Z
+DTSTART:20240725T073000Z
+DTEND:20240725T103000Z
+DESCRIPTION:Archery - Women's Individual Ranking Round\n🇨🇳 AN
+  Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra
+  RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana
+  RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita
+  BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧
+  Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
+  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
+  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
+  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
+  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
+  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
+  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
+  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
+  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
+  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
+  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
+  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
+  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
+  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
+  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
+  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
+  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
+SUMMARY:🏹 Women's Individual Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -11,18 +41,6 @@ DTEND:20240726T210000Z
 DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
 SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T073000Z-shooting-25M-PISTOL-WOMENS-FINAL
-DTSTAMP:20240803T073000Z
-DTSTART:20240803T073000Z
-DTEND:20240803T083000Z
-DESCRIPTION:Shooting - 25m Pistol Women's Final\n🇫🇷 Camille
-  JEDRZEJEWSKI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇺🇸 Katelyn Morgan ABELN\n🇮🇳
-  Manu BHAKER\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇰🇷 YANG
-  Jiin\n🇨🇳 ZHAO Nan
-SUMMARY:🔫 25m Pistol Women's Final
-LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
@@ -62,61 +80,76 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T095500Z-athletics-MENS-100M-ROUND-1
-DTSTAMP:20240803T095500Z
-DTSTART:20240803T095500Z
-DTEND:20240803T104400Z
-DESCRIPTION:Athletics - Men's 100m Round 1\n🇨🇦 Aaron BROWN\n🇬🇭
-  Abdul-Rasheed SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇴🇲 Ali
-  Anwar Ali AL BALUSHI\n🇨🇦 Andre De GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦
-  Arturo Harmodio DELISER ESPINOSA\n🇬🇭 Benjamin AZAMATI\n🇿🇦 Benjamin
-  RICHARDSON\n🇦🇬 Cejhae GREENE\n🇮🇹 Chituru ALI\n🇭🇹 Christopher
-  BORZOR\n🇰🇾 Davonte HOWELL\n🇹🇹 Devin AUGUSTINE\n🇨🇩 Dominique Lasconi
-  MULAMBA\n🏳️ Dorian KELETELA\n🇨🇦 Duan ASEMOTA\n🇸🇨 Dylan SICOBO\n🇬🇲
-  Ebrahima CAMARA\n🇬🇾 Emanuel ARCHIBALD\n🇨🇲 Emmanuel ESEME\n🇱🇷
-  Emmanuel MATADI\n🇧🇷 Erik CARDOSO\n🇳🇬 Favour Oghene Tejiri ASHE\n🇧🇷
-  Felipe BARDI\n🇰🇪 Ferdinand OMANYALA\n🇦🇱 Franko BURRAJ\n🇺🇸 Fred
-  KERLEY\n🇲🇺 Gary Noa Jerrel BIBI\n🇯🇵 HIGASHIDA Akihiro\n🇰🇲 Hachim
-  MAAROUFOU\n🇮🇷 Hassan TAFTIAN\n🇸🇪 Henrik LARSSON\n🇬🇧 Jeremiah
-  AZU\n🇨🇴 Jhonny RENTERIA JIMENEZ\n🇩🇴 Jose GONZALEZ\n🇦🇺 Joshua
-  AZZOPARDI\n🇩🇪 Joshua HARTMANN\n🇹🇷 Kayhan OZER\n🇳🇬 Kayinsola
-  AJAYI\n🇺🇸 Kenneth BEDNAREK\n🇯🇲 Kishane THOMPSON\n🇮🇩 Lalu Muhammad
-  ZOHRI\n🇮🇹 Lamont Marcell JACOBS\n🇧🇼 Letsile TEBOGO\n🇬🇧 Louie
-  HINCHLIFFE\n🇸🇬 Marc Brian LOUIS\n🇦🇴 Marcos SANTOS\n🇦🇹 Markus
-  FUCHS\n🇲🇾 Muhd Azeem FAHMI\n🇰🇳 Naquille HARRIS\n🇺🇸 Noah LYLES\n🇯🇲
-  Oblique SEVILLE\n🇵🇱 Oliwer WDOWIK\n🇩🇪 Owen ANSAH\n🇧🇷 Paulo Andre
-  CAMILO\n🇹🇭 Puripol BOONSON\n🇨🇺 Reynaldo R. ESPINOSA\n🇻🇬 Rikkoi
-  BRATHWAITE\n🇦🇺 Rohan BROWNING\n🇨🇴 Ronal LONGA\n🇯🇵 SAKAI
-  Ryuichiro\n🇯🇵 SANI BROWN Abdul Hakim\n🇿🇦 Shaun MASWANGANYI\n🇸🇿
-  Sibusiso MATSENJWA\n🇩🇰 Simon HANSEN\n🇮🇶 Taha Hussein YASEEN\n🇧🇸
-  Terrence JONES\n🇧🇸 Wanya McCOY\n🇨🇳 XIE Zhenye\n🇬🇧 Zharnel HUGHES
-SUMMARY:🏃 Men's 100m Round 1
-LOCATION:Stade de France
+UID:20240805T130000Z-wrestling-MENS-GRECO-ROMAN-130KG-18-FINAL-IRI-USA
+DTSTAMP:20240805T130000Z
+DTSTART:20240805T130000Z
+DTEND:20240805T130700Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 130kg 1/8 Final
+SUMMARY:🤼 Amin MIRZAZADEH 🇮🇷 - 🇺🇸 Adam Jacob COON
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T142400Z-artistic-gymnastics-MENS-VAULT-FINAL
-DTSTAMP:20240804T142400Z
-DTSTART:20240804T142400Z
-DTEND:20240804T150700Z
-DESCRIPTION:Artistic Gymnastics - Men's Vault Final\n🇹🇷 Adem ASIL\n🇦🇲
-  Artur DAVTYAN\n🇺🇸 Asher HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel
-  YULO\n🇬🇧 Harry HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷
-  LEE Junho\n🇮🇷 Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
-SUMMARY:🤸 Men's Vault Final
-LOCATION:Bercy Arena
+UID:20240805T134900Z-wrestling-MENS-GRECO-ROMAN-60KG-18-FINAL-IRI-ALG
+DTSTAMP:20240805T134900Z
+DTSTART:20240805T134900Z
+DTEND:20240805T135600Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 60kg 1/8 Final
+SUMMARY:🤼 Mehdi MOHSEN NEJAD 🇮🇷 - 🇩🇿 Abdelkarim FERGAT
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T110000Z-sport-climbing-MENS-SPEED-QUALIFICATION-SEEDING
-DTSTAMP:20240806T110000Z
-DTSTART:20240806T110000Z
-DTEND:20240806T112500Z
-DESCRIPTION:Sport Climbing - Men's Speed, Qualification Seeding\n🇰🇿 Amir
-  MAIMURATOV\n🇫🇷 Bassa MAWEM\n🇿🇦 Joshua BRUYNS\n🇳🇿 Julian DAVID\n🇨🇳
-  LONG Jinbao\n🇮🇹 Matteo ZURLONI\n🇮🇩 Rahmad ADI MULYONO\n🇮🇷 Reza ALI
-  POUR\n🇰🇷 SHIN Euncheol\n🇺🇸 Sam WATSON\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU
-  Peng\n🇺🇦 Yaroslav TKACH\n🇺🇸 Zach HAMMER
-SUMMARY:🧗 Men's Speed, Qualification Seeding
-LOCATION:Le Bourget Climbing Venue
+UID:20240805T135600Z-wrestling-MENS-GRECO-ROMAN-130KG-14-FINAL-IRI-CUB
+DTSTAMP:20240805T135600Z
+DTSTART:20240805T135600Z
+DTEND:20240805T140300Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 130kg 1/4 Final
+SUMMARY:🤼 Amin MIRZAZADEH 🇮🇷 - 🇨🇺 Mijain LOPEZ NUNEZ
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T142400Z-wrestling-MENS-GRECO-ROMAN-60KG-14-FINAL-IRI-JPN
+DTSTAMP:20240805T142400Z
+DTSTART:20240805T142400Z
+DTEND:20240805T143100Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 60kg 1/4 Final
+SUMMARY:🤼 Mehdi MOHSEN NEJAD 🇮🇷 - 🇯🇵 FUMITA Kenichiro
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T090000Z-wrestling-MENS-GRECO-ROMAN-130KG-REPECHAGE-KOR-IRI
+DTSTAMP:20240806T090000Z
+DTSTART:20240806T090000Z
+DTEND:20240806T090700Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 130kg Repechage
+SUMMARY:🤼 LEE Seungchan 🇰🇷 - 🇮🇷 Amin MIRZAZADEH
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T090700Z-wrestling-MENS-GRECO-ROMAN-60KG-REPECHAGE-CUB-IRI
+DTSTAMP:20240806T090700Z
+DTSTART:20240806T090700Z
+DTEND:20240806T091400Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 60kg Repechage
+SUMMARY:🤼 Kevin Yuran de ARMAS RODRIGUEZ 🇨🇺 - 🇮🇷 Mehdi MOHSEN NEJAD
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T092800Z-wrestling-MENS-GRECO-ROMAN-77KG-18-FINAL-CUB-IRI
+DTSTAMP:20240806T092800Z
+DTSTART:20240806T092800Z
+DTEND:20240806T093500Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 77kg 1/8 Final
+SUMMARY:🤼 Yosvanys PENA FLORES 🇨🇺 - 🇮🇷 Amin KAVIYANINEJAD
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T094200Z-wrestling-MENS-GRECO-ROMAN-97KG-18-FINAL-IRI-USA
+DTSTAMP:20240806T094200Z
+DTSTART:20240806T094200Z
+DTEND:20240806T094900Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 97kg 1/8 Final
+SUMMARY:🤼 Mohammadhadi SARAVI 🇮🇷 - 🇺🇸 Josef Patrick RAU
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T130000Z-weightlifting-MENS-89KG

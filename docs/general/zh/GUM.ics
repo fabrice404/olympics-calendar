@@ -13,6 +13,52 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T083500Z-athletics-100
+DTSTAMP:20240803T083500Z
+DTSTART:20240803T083500Z
+DTEND:20240803T090000Z
+DESCRIPTION:田径 - 男子100米预赛\n🇱🇾 Ahmed ESSABAI\n🇵🇦 Arturo Harmodio DELISER
+  ESPINOSA\n🇲🇹 Beppe GRILLO\n🇭🇹 Christopher BORZOR\n🇭🇰 DIU Felix Chun
+  Hei\n🇲🇪 Darko PESIC\n🇰🇾 Davonte HOWELL\n🇧🇯 Didier KIKI\n🇨🇩
+  Dominique Lasconi MULAMBA\n🇸🇨 Dylan SICOBO\n🇬🇲 Ebrahima CAMARA\n🇹🇯
+  Favoris MUZRAPOV\n🇲🇱 Fode SISSOKO\n🇦🇱 Franko BURRAJ\n🇲🇺 Gary Noa
+  Jerrel BIBI\n🇰🇲 Hachim MAAROUFOU\n🇨🇫 Herve TOUMANDJI\n🇲🇻 Ibadulla
+  ADAM\n🇧🇩 Imranur RAHMAN\n🇸🇷 Jalen LISSE\n🇬🇺 Joseph GREEN\n🇹🇻
+  Karalo Hepoiteloto MAIBUCA\n🇰🇮 Kenaz KANIWETE\n🇮🇩 Lalu Muhammad
+  ZOHRI\n🇹🇴 Maleselo FUKOFUKA\n🇹🇱 Manuel ATAIDE\n🇸🇬 Marc Brian
+  LOUIS\n🇦🇴 Marcos SANTOS\n🇭🇳 Melique GARCIA\n🇲🇾 Muhd Azeem
+  FAHMI\n🇧🇳 Muhd Noor Firdaus AR-RASYID\n🇰🇳 Naquille HARRIS\n🇬🇶
+  Remigio SANTANDER VILLARUBIA\n🇲🇬 Rija Vatomanga GARDINER\n🇾🇪 Samer
+  AL-YAFAEE\n🇫🇲 Scott James FITI\n🇬🇼 Seco CAMARA\n🇦🇫 Sha Mahmood NOOR
+  ZAHI\n🇧🇿 Shaun GILL\n🇸🇿 Sibusiso MATSENJWA\n🇲🇿 Steven SABINO\n🇮🇶
+  Taha Hussein YASEEN\n🇫🇯 Waisake TEWA\n🇲🇭 William REED\n🇳🇷 Winzar
+  KAKIOUEA\n🇬🇦 Wissy Frank HOYE YENDA MOUKOULA
+SUMMARY:🏃 男子100米预赛
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T073000Z-canoe-sprint-500
+DTSTAMP:20240807T073000Z
+DTSTART:20240807T073000Z
+DTEND:20240807T082700Z
+DESCRIPTION:皮划艇静水 - 女子500米单人皮艇分组预赛\n🇳🇿 Aimee FISHER\n🇭🇺 Alida Dora
+  GAZSO\n🇦🇺 Alyce WOOD\n🇧🇷 Ana Paula VERGUTZ\n🇭🇷 Anamaria
+  GOVORCINOVIC\n🇨🇿 Anezka PALOUDOVA\n🇲🇽 Beatriz BRIONES FRAGOZA\n🇪🇸
+  Begona LAZKANO\n🇦🇷 Brenda ROJAS\n🇵🇱 Dominika PUTTO\n🇺🇿 Ekaterina
+  SHUBINA\n🇩🇰 Emma Aastrand JORGENSEN\n🇩🇪 Enja ROESSELING\n🇪🇸
+  Estefania FERNANDEZ\n🇿🇦 Esti OLIVIER\n🇳🇴 Hedda ORITSLAND\n🇧🇪
+  Hermien PETERS\n🇸🇬 Jiexian Stephenie CHEN\n🇲🇽 Karina ALANIS
+  MORALES\n🇸🇪 Linnea STENSILS\n🇳🇿 Lisa CARRINGTON\n🇧🇪 Lize
+  BROEKX\n🇫🇷 Manon HOSTENS\n🇺🇦 Mariya POVKH\n🇸🇪 Melina
+  ANDERSSON\n🇨🇦 Michelle RUSSELL\n🇷🇸 Milica NOVAKOVIC\n🇬🇺 Raina
+  TAITINGFONG\n🇨🇦 Riley MELANSON\n🇳🇱 Ruth VORSSELMAN\n🇪🇬 Samaa
+  AHMED\n🇼🇸 Samalulu CLIFTON\n🏳️ Saman SOLTANI\n🇳🇱 Selma KONIJN\n🇭🇺
+  Tamara CSIPES\n🇵🇹 Teresa PORTELA\n🇿🇦 Tiffany Amber KOCH\n🇨🇳 WANG
+  Nan\n🇨🇳 YIN Mengdie\n🇧🇬 Yoana GEORGIEVA
+SUMMARY:🛶 女子500米单人皮艇分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T173000Z-weightlifting-49
 DTSTAMP:20240807T173000Z
 DTSTART:20240807T173000Z
@@ -24,6 +70,26 @@ DESCRIPTION:举重 - 女子49公斤级\n🇩🇴 Beatriz PIRON CANDELARIO\n🇹�
   RANDAFIARISON\n🇯🇵 SUZUKI Rira\n🇹🇭 Surodchana KHAMBAO
 SUMMARY:🏋 女子49公斤级
 LOCATION:南巴黎竞技场6号馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T083000Z-canoe-sprint-200
+DTSTAMP:20240808T083000Z
+DTSTART:20240808T083000Z
+DTEND:20240808T091700Z
+DESCRIPTION:皮划艇静水 - 女子200米单人划艇分组预赛\n🇭🇺 Agnes Anna KISS\n🇺🇦 Anastasiia
+  RYBACHOK\n🇪🇸 Antia JACOME\n🇳🇬 Ayomide Powei BELLO\n🇳🇬 Beauty
+  Akinaere OTUEDO\n🇸🇳 Combe SECK\n🇲🇩 Daniela COCIU\n🇵🇱 Dorota
+  BOROWSKA\n🇫🇷 Eugenie DORANGE\n🇸🇹 Herminia TEIXEIRA SANTANA\n🇨🇱
+  Karen ROCO\n🇵🇱 Katarzyna SZPERKIEWICZ\n🇨🇦 Katie VINCENT\n🇭🇺 Kincso
+  TAKACS\n🇨🇳 LIN Wenjun\n🇩🇪 Lisa JAHN\n🇺🇦 Liudmyla LUZAN\n🇩🇪 Maike
+  JAKOB\n🇨🇴 Manuela GOMEZ SANCHEZ\n🇪🇸 Maria CORBERA\n🇨🇱 Maria Jose
+  MAILLIARD\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya BROVKOVA\n🇺🇸 Nevin
+  HARRISON\n🇺🇿 Nilufar ZOKIROVA\n🇦🇸 Olesia ROMASENKO\n🇬🇺 Raina
+  TAITINGFONG\n🇨🇦 Sophia JENSEN\n🇻🇳 Thi Huong NGUYEN\n🇧🇷 Valdenice
+  CONCEICAO DO NASCIMENTO\n🇨🇺 Yarisleidis CIRILO DUBOYS\n🇨🇺 Yinnoly
+  Francheska LOPEZ LAMADRID\n🇦🇸 Yuliya TRUSHKINA
+SUMMARY:🛶 女子200米单人划艇分组预赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

@@ -4,30 +4,68 @@ PRODID:-//fabrice404//olympics-calendar//medals/ko/VEN//EN
 X-WR-CALNAME:🇻🇪 Venezuela 🏅 | Paris 2024
 NAME:🇻🇪 Venezuela 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240805T191500Z-athletics--5000M-
-DTSTAMP:20240805T191500Z
-DTSTART:20240805T191500Z
-DTEND:20240805T193200Z
-DESCRIPTION:육상 - 여자 5000m 결승\n🇰🇪 Beatrice CHEBET\n🇪🇹 Ejgayehu
-  TAYE\n🇺🇸 Elise CRANNY\n🇰🇪 Faith KIPYEGON\n🇧🇮 Francine
-  NIYOMUKUNZI\n🇪🇹 Gudaf TSEGAY\n🇻🇪 Joselyn Daniely BREA\n🇺🇸 Karissa
-  SCHWEIZER\n🇳🇴 Karoline Bjerkeli GROVDAL\n🇰🇪 Margaret Chelimo
-  KIPKEMBOI\n🇪🇹 Medina EISA\n🇮🇹 Nadia BATTOCLETTI\n🇫🇮 Nathalie
-  BLOMQVIST\n🇦🇺 Rose DAVIES\n🇳🇱 Sifan HASSAN\n🇺🇸 Whittni MORGAN
-SUMMARY:🏃 여자 5000m 결승
-LOCATION:스타드 드 프랑스
+UID:20240807T173000Z-weightlifting--49KG
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T200000Z
+DESCRIPTION:역도 - 여자 49kg\n🇩🇴 Beatriz PIRON CANDELARIO\n🇹🇼 FANG
+  Wan-Ling\n🇨🇳 HOU Zhihui\n🇺🇸 Jourdan DELACRUZ\n🇻🇪 Katherin ECHANDIA
+  ZARATE\n🇷🇴 Mihaela Valentina CAMBEI\n🇮🇳 Mirabai Chanu SAIKHOM\n🇬🇺
+  Nicola Velasco LAGATAO\n🇧🇪 Nina STERCKX\n🇲🇬 Rosina
+  RANDAFIARISON\n🇯🇵 SUZUKI Rira\n🇹🇭 Surodchana KHAMBAO
+SUMMARY:🏋 여자 49kg
+LOCATION:사우스 파리 아레나 6
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T175700Z-athletics--
-DTSTAMP:20240806T175700Z
-DTSTART:20240806T175700Z
-DTEND:20240806T190700Z
-DESCRIPTION:육상 - 여자 해머던지기 결승\n🇵🇱 Anita WLODARCZYK\n🇺🇸 Annette Nneka
-  ECHIKUNWOKE\n🇷🇴 Bianca Florentina GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸
-  Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰 Katrine Koch JACOBSEN\n🇫🇮 Krista
-  TERVO\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja
-  KOSONEN\n🇨🇳 ZHAO Jie
-SUMMARY:🏃 여자 해머던지기 결승
-LOCATION:스타드 드 프랑스
+UID:20240808T130000Z-weightlifting--59KG
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T153000Z
+DESCRIPTION:역도 - 여자 59kg\n🇻🇪 Anyelin VENEGAS VALERA\n🇫🇷 Dora
+  TCHAKOUNTE\n🇵🇭 Elreen Ann ANDO\n🇲🇽 Janeth GOMEZ VALDIVIA\n🇹🇼 KUO
+  Hsing-Chun\n🇺🇦 Kamila KONOTOP\n🇨🇳 LUO Shifang\n🇮🇹 Lucrezia
+  MAGISTRIS\n🇲🇭 Mathlynn SASSER\n🇨🇦 Maude CHARRON\n🇳🇬 Rafiatu
+  Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
+SUMMARY:🏋 여자 59kg
+LOCATION:사우스 파리 아레나 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting--73KG
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:역도 - 남자 73kg\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin KINGUE
+  MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA PERNIA\n🇹🇳
+  Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO Masanori\n🇹🇷 Muhammed
+  OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki JUNIANSYAH\n🇨🇳 SHI
+  Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 남자 73kg
+LOCATION:사우스 파리 아레나 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-weightlifting--89KG
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T153000Z
+DESCRIPTION:역도 - 남자 89kg\n🇦🇲 Andranik KARAPETYAN\n🇮🇹 Antonino
+  PIZZOLATO\n🇨🇦 Boady SANTAVY\n🇪🇬 Karim ABOKAHLA\n🇧🇬 Karlos May
+  NASAR\n🇻🇪 Keydomar VALLENILLA SANCHEZ\n🇦🇺 Kyle BRUCE\n🇲🇩 Marin
+  ROBU\n🇮🇷 Mir Mostafa JAVADI ALIABADI\n🇫🇷 Romain IMADOUCHENE\n🇰🇷 YU
+  Dongju\n🇨🇴 Yeison LOPEZ
+SUMMARY:🏋 남자 89kg
+LOCATION:사우스 파리 아레나 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T093000Z-weightlifting--81KG
+DTSTAMP:20240811T093000Z
+DTSTART:20240811T093000Z
+DTEND:20240811T120000Z
+DESCRIPTION:역도 - 여자 +81kg\n🇩🇴 Crismery SANTANA PEGUERO\n🇹🇭 Duangaksorn
+  CHAIDEE\n🇬🇧 Emily CAMPBELL\n🇪🇬 Halima ABBAS\n🇼🇸 Iuniarra
+  SIPAIA\n🇨🇳 LI Wenwen\n🇪🇨 Lisseth Betzaida AYOVI CABEZAS\n🇺🇸 Mary
+  THEISEN LAPPEN\n🇻🇪 Naryury PEREZ REVERON\n🇮🇩 Nurul AKMAL\n🇰🇷 PARK
+  Hyejeong\n🇺🇿 Tursunoy JABBOROVA
+SUMMARY:🏋 여자 +81kg
+LOCATION:사우스 파리 아레나 6
 END:VEVENT
 END:VCALENDAR

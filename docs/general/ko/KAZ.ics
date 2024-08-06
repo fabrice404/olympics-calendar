@@ -4,6 +4,34 @@ PRODID:-//fabrice404//olympics-calendar//general/ko/KAZ//EN
 X-WR-CALNAME:🇰🇿 Kazakhstan | Paris 2024
 NAME:🇰🇿 Kazakhstan | Paris 2024
 BEGIN:VEVENT
+UID:20240725T121500Z-archery--
+DTSTAMP:20240725T121500Z
+DTSTART:20240725T121500Z
+DTEND:20240725T151500Z
+DESCRIPTION:양궁 - 남자 개인 랭킹 라운드\n🇹🇷 Abdullah YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹
+  Alessandro PAOLI\n🇬🇧 Alex WISE\n🇰🇿 Alexandr YEREMENKO\n🇺🇿 Amirkhon
+  SADIKOV\n🇨🇱 Andres GALLARDO FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮
+  Antti TEKONIEMI\n🇮🇩 Arif PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim
+  TUMER\n🇺🇸 Brady ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos
+  ROJAS\n🇬🇧 Conor HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi
+  ZHANGBYRBAY\n🇮🇳 Dhiraj BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA
+  Takaharu\n🇮🇹 Federico MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo
+  FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩 Israel MADAYE\n🇫🇷 Jean-Charles
+  VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷
+  KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹
+  Lam DORJI\n🇧🇷 Marcus D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽
+  Matias GRANDE\n🇮🇹 Mauro NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete
+  GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵 NAKANISHI Junya\n🇻🇮 Nicholas
+  D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold BAATARKHUYAG\n🇪🇸 Pablo ACHA
+  GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit KLEIN\n🇮🇳 Pravin Ramesh
+  JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵 SAITO Fumiya\n🇨🇴
+  Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI Yu-Hsuan\n🇹🇼 TANG
+  Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳
+  WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof TOLBA\n🇸🇮 Ziga RAVNIKAR
+SUMMARY:🏹 남자 개인 랭킹 라운드
+LOCATION:앵발리드
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -37,6 +65,320 @@ DESCRIPTION:트램폴린 체조 - 남자 결승\n🇺🇸 Aliaksei SHOSTAK\n🇨
   Zisai\n🇨🇳 YAN Langyu\n🇬🇧 Zak PERZAMANOS
 SUMMARY:🤸 남자 결승
 LOCATION:베르시 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-shooting--2
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T120000Z
+DESCRIPTION:사격 - 남자 스키트 예선 - 2일차\n🇮🇳 Anant Jeet Singh NARUKA\n🇪🇬 Azmy
+  MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸 Conner Lynn PRINCE\n🇰🇿
+  Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷 Efthimios MITAS\n🇫🇷 Eric
+  DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico GIL\n🇮🇹 Gabriele
+  ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub TOMECEK\n🇩🇰 Jesper
+  HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua BELL\n🇰🇷 KIM Minsu\n🇹🇼
+  LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus SVENSSON\n🇰🇼 Mohammad
+  ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬 Omar IBRAHIM\n🇪🇪 Peeter
+  JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹 Sebastian BERMUDEZ
+  LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹 Tammaro CASSANDRO\n🇺🇸
+  Vincent HANCOCK
+SUMMARY:🔫 남자 스키트 예선 - 2일차
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-shooting--1
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T123000Z
+DESCRIPTION:사격 - 여자 스키트 예선 - 1일차\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
+  RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem ORYNBAY\n🇺🇸 Austen Jewell
+  SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪
+  Daniella BORDA OLAECHEA\n🇸🇰 Danka BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷
+  Emmanouela KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇲🇽 Gabriela
+  RODRIGUEZ\n🇧🇷 Georgia FURQUIM BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG
+  Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾 Konstantia NIKOLAOU\n🇫🇷 Lucie
+  ANASTASSIOU\n🇮🇳 Maheshwari CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪
+  Nadine MESSERSCHMIDT\n🇩🇪 Nele WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena
+  CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 여자 스키트 예선 - 1일차
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T084800Z-judo--16--KAZ-BRA
+DTSTAMP:20240803T084800Z
+DTSTART:20240803T084800Z
+DTEND:20240803T090000Z
+DESCRIPTION:유도 - 혼성 단체 16강 엘리미네이션 라운드
+SUMMARY:🥋 카자흐스탄 🇰🇿 - 🇧🇷 브라질
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-cycling-road--
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T155000Z
+DESCRIPTION:사이클 도로 - 남자 도로경기\n🇯🇵 ARASHIRO Yukiya\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🇪🇸 Alex ARANBURU\n🇱🇺 Alex KIRSCH\n🇰🇿
+  Alexey LUTSENKO\n🇮🇷 Ali LABIB\n🇺🇦 Anatolii BUDIAK\n🇭🇺 Attila
+  VALTER\n🇮🇪 Ben HEALY\n🇦🇺 Ben O'CONNOR\n🇪🇷 Biniam GIRMAY\n🇺🇸
+  Brandon McNULTY\n🇹🇷 Burak ABAY\n🇺🇬 Charles KAGIMU\n🇫🇷 Christophe
+  LAPORTE\n🇲🇺 Christopher ROUGIER-LAGANE\n🇳🇿 Corbin STRONG\n🇳🇱 Daan
+  HOOLE\n🇨🇴 Dani MARTINEZ\n🇨🇦 Derek GEE\n🇸🇮 Domen NOVAK\n🇳🇱 Dylan
+  van BAARLE\n🇦🇷 Eduardo SEPULVEDA\n🇮🇹 Elia VIVIANI\n🇺🇾 Eric
+  FAGUNDEZ\n🇷🇼 Eric MANIZABAYO\n🇦🇹 Felix GROSSSCHARTNER\n🇵🇦 Franklin
+  ARCHIBOLD\n🇬🇧 Fred WRIGHT\n🇬🇷 Georgios BOUGLAS\n🇦🇸 Gleb
+  SYRITSA\n🇮🇱 Itamar EINHORN\n🇸🇪 Jakob SODERQVIST\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇧🇪 Jasper STUYVEN\n🇪🇨 Jhonatan
+  NARVAEZ\n🇬🇧 Josh TARLING\n🇪🇸 Juan AYUSO\n🇫🇷 Julian
+  ALAPHILIPPE\n🇰🇷 KIM Euro\n🇫🇷 Kevin VAUQUELIN\n🇭🇰 LAU Wan Yau
+  Vincent\n🇨🇳 LYU Xianjing\n🇳🇿 Laurence PITHIE\n🇮🇹 Luca MOZZATO\n🇸🇮
+  Luka MEZGEC\n🇸🇰 Lukas KUBIS\n🇪🇪 Madis MIHKELS\n🇩🇰 Mads
+  PEDERSEN\n🇺🇸 Magnus SHEFFIELD\n🇨🇭 Marc HIRSCHI\n🇦🇹 Marco
+  HALLER\n🇸🇮 Matej MOHORIC\n🇨🇿 Mathias VACEK\n🇳🇱 Mathieu van der
+  POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
+  WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
+  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
+  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
+  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
+  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
+  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 남자 도로경기
+LOCATION:트로카데로
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T070000Z-shooting--25M-1
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T103000Z
+DESCRIPTION:사격 - 남자 25m 속사권총 예선-스테이지 1\n🇮🇳 Anish ANISH\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷 Clement BESSAGUET\n🇲🇳 Davaakhuu
+  ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪 Florian PETER\n🇵🇰 Ghulam Mustafa
+  BASHIR\n🇺🇸 Henry Turner LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge
+  ALVAREZ\n🇺🇸 Keith SANDERSON\n🇨🇳 LI Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦
+  Maksym HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿
+  Matej RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY
+  MOHAMED\n🇺🇦 Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo
+  MAZZETTI\n🇦🇿 Ruslan LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei
+  EVGLEVSKI\n🇮🇳 Vijayveer SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 남자 25m 속사권총 예선-스테이지 1
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T073000Z-shooting--2
+DTSTAMP:20240804T073000Z
+DTSTART:20240804T073000Z
+DTEND:20240804T123000Z
+DESCRIPTION:사격 - 여자 스키트 예선 - 2일차\n🇦🇺 Aislin JONES\n🇬🇧 Amber Jo
+  RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem ORYNBAY\n🇺🇸 Austen Jewell
+  SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪
+  Daniella BORDA OLAECHEA\n🇸🇰 Danka BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷
+  Emmanouela KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇲🇽 Gabriela
+  RODRIGUEZ\n🇧🇷 Georgia FURQUIM BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG
+  Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾 Konstantia NIKOLAOU\n🇫🇷 Lucie
+  ANASTASSIOU\n🇮🇳 Maheshwari CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪
+  Nadine MESSERSCHMIDT\n🇩🇪 Nele WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena
+  CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 여자 스키트 예선 - 2일차
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T110000Z-shooting--25M-2
+DTSTAMP:20240804T110000Z
+DTSTART:20240804T110000Z
+DTEND:20240804T150000Z
+DESCRIPTION:사격 - 남자 25m 속사권총 예선-스테이지 2\n🇮🇳 Anish ANISH\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷 Clement BESSAGUET\n🇲🇳 Davaakhuu
+  ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪 Florian PETER\n🇵🇰 Ghulam Mustafa
+  BASHIR\n🇺🇸 Henry Turner LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge
+  ALVAREZ\n🇺🇸 Keith SANDERSON\n🇨🇳 LI Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦
+  Maksym HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿
+  Matej RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY
+  MOHAMED\n🇺🇦 Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo
+  MAZZETTI\n🇦🇿 Ruslan LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei
+  EVGLEVSKI\n🇮🇳 Vijayveer SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 남자 25m 속사권총 예선-스테이지 2
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T070000Z-shooting--
+DTSTAMP:20240805T070000Z
+DTSTART:20240805T070000Z
+DTEND:20240805T113000Z
+DESCRIPTION:사격 - 혼성 단체 스키트 예선\n🇦🇺 AUS\n🇨🇳 CHN\n🇨🇿 CZE\n🇫🇷 FRA\n🇩🇪
+  GER\n🇬🇷 GRE\n🇮🇳 IND\n🇮🇹 Italy 1\n🇮🇹 Italy 2\n🇰🇿 KAZ\n🇰🇷
+  KOR\n🇵🇪 PER\n🇸🇪 SWE\n🇺🇸 United States 1\n🇺🇸 United States 2
+SUMMARY:🔫 혼성 단체 스키트 예선
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T132100Z-wrestling--130KG-16-KAZ-ROU
+DTSTAMP:20240805T132100Z
+DTSTART:20240805T132100Z
+DTEND:20240805T132800Z
+DESCRIPTION:레슬링 - 남자 그레코로만형 130kg 16강
+SUMMARY:🤼 Alimkhan SYZDYKOV 🇰🇿 - 🇷🇴 Alin ALEXUC CIURARIU
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T133500Z-wrestling--60KG-16-KGZ-KAZ
+DTSTAMP:20240805T133500Z
+DTSTART:20240805T133500Z
+DTEND:20240805T134200Z
+DESCRIPTION:레슬링 - 남자 그레코로만형 60kg 16강
+SUMMARY:🤼 Zholaman SHARSHENBEKOV 🇰🇬 - 🇰🇿 Aidos SULTANGALI
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T140300Z-wrestling--130KG-8-AZE-KAZ
+DTSTAMP:20240805T140300Z
+DTSTART:20240805T140300Z
+DTEND:20240805T141000Z
+DESCRIPTION:레슬링 - 남자 그레코로만형 130kg 8강
+SUMMARY:🤼 Sabah Saleh SHARIATI 🇦🇿 - 🇰🇿 Alimkhan SYZDYKOV
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T083000Z-canoe-sprint--2-500M-
+DTSTAMP:20240806T083000Z
+DTSTART:20240806T083000Z
+DTEND:20240806T084700Z
+DESCRIPTION:카누 스프린트 - 남자 카누 2인승 500m 예선\n🇫🇷 Adrien BART\n🇦🇸 Alexey
+  KOROVASHKOV\n🇭🇺 Balazs ADOLF\n🇦🇴 Benilson SANDA\n🇮🇹 Carlo
+  TACCHINI\n🇪🇸 Diego DOMINGUEZ\n🇮🇹 Gabriele CASADEI\n🇳🇿 Grant
+  CLANCY\n🇷🇴 Ilie SPRINCEAN\n🇧🇷 Isaquias QUEIROZ\n🇨🇳 JI Bowen\n🇧🇷
+  Jacky Jamael NASCIMENTO GODMANN\n🇪🇸 Joan Antoni MORENO\n🇭🇺 Jonatan
+  Daniel HAJDU\n🇨🇳 LIU Hao\n🇫🇷 Loic LEONARD\n🇦🇴 Manuel ANTONIO\n🇨🇿
+  Martin FUKSA\n🇳🇿 Max BROWN\n🇷🇴 Oleg NUTA\n🇩🇪 Peter KRETSCHMER\n🇨🇿
+  Petr FUKSA\n🇰🇿 Sergey YEMELYANOV\n🇩🇪 Tim HECKER\n🇰🇿 Timur
+  KHAIDAROV\n🇦🇸 Zakhar PETROV
+SUMMARY:🛶 남자 카누 2인승 500m 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T090000Z-canoe-sprint--2-500M-
+DTSTAMP:20240806T090000Z
+DTSTART:20240806T090000Z
+DTEND:20240806T091700Z
+DESCRIPTION:카누 스프린트 - 여자 카누 2인승 500m 예선\n🇭🇺 Agnes Anna KISS\n🇺🇦
+  Anastasiia RYBACHOK\n🇪🇸 Antia JACOME\n🇫🇷 Axelle RENARD\n🇳🇬 Ayomide
+  Powei BELLO\n🇳🇬 Beauty Akinaere OTUEDO\n🇭🇺 Bianka NAGY\n🇲🇩 Daniela
+  COCIU\n🇵🇱 Dorota BOROWSKA\n🇫🇷 Eugenie DORANGE\n🇩🇪 Hedi Moana
+  KLIEMKE\n🇨🇦 Katie VINCENT\n🇩🇪 Lisa JAHN\n🇺🇦 Liudmyla LUZAN\n🇪🇸
+  Maria CORBERA\n🇨🇱 Maria Jose MAILLIARD\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya
+  BROVKOVA\n🇨🇱 Paula GOMEZ\n🇰🇿 Rufina ISKAKOVA\n🇨🇳 SUN Mengya\n🇨🇦
+  Sloan MACKENZIE\n🇵🇱 Sylwia SZCZERBINSKA\n🇨🇳 XU Shixiao\n🇨🇺
+  Yarisleidis CIRILO DUBOYS\n🇨🇺 Yinnoly Francheska LOPEZ LAMADRID
+SUMMARY:🛶 여자 카누 2인승 500m 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T093000Z-canoe-sprint--2-500M-
+DTSTAMP:20240806T093000Z
+DTSTART:20240806T093000Z
+DTEND:20240806T100700Z
+DESCRIPTION:카누 스프린트 - 남자 카약 2인승 500m 예선\n🇺🇸 Aaron SMALL\n🇭🇺 Adam
+  VARGA\n🇪🇸 Adrian del RIO\n🇷🇸 Andjelo DZOMBETA\n🇱🇹 Andrej
+  OLIJNIK\n🇿🇦 Andrew James BIRKETT\n🇨🇳 BU Tingkai\n🇭🇺 Balint
+  KOPASZ\n🇰🇿 Bekarys RAMATULLA\n🇭🇺 Bence NADAS\n🇪🇸 Carlos
+  AREVALO\n🇨🇿 Daniel HAVEL\n🇳🇿 Hamish LEGARTH\n🇿🇦 Hamish
+  LOVEMORE\n🇺🇦 Ihor TRUNOV\n🇩🇪 Jacob SCHOPF\n🇨🇿 Jakub SPICAR\n🇵🇱
+  Jakub STEPUN\n🇦🇺 Jean van der WESTHUYZEN\n🇵🇹 Joao RIBEIRO\n🇺🇸 Jonas
+  ECKER\n🇳🇿 Kurtis IMRIE\n🇪🇸 Marcus COOPER\n🇷🇸 Marko
+  DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇩🇪 Max LEMKE\n🇩🇪 Max
+  RENDSCHMIDT\n🇵🇹 Messias BAPTISTA\n🇱🇹 Mindaugas MALDONIS\n🇺🇦 Oleh
+  KUKHARYK\n🇨🇦 Pierre-Luc POULIN\n🇵🇱 Przemyslaw KORSAK\n🇪🇸 Rodrigo
+  GERMADE\n🇭🇺 Sandor TOTKA\n🇰🇿 Sergii TOKARNYTSKYI\n🇨🇦 Simon
+  McTAVISH\n🇦🇺 Tom GREEN\n🇩🇪 Tom LIEBSCHER-LUCZ\n🇷🇸 Vladimir
+  TORUBAROV\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 남자 카약 2인승 500m 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T094900Z-wrestling--77KG-16-COL-KAZ
+DTSTAMP:20240806T094900Z
+DTSTART:20240806T094900Z
+DTEND:20240806T095600Z
+DESCRIPTION:레슬링 - 남자 그레코로만형 77kg 16강
+SUMMARY:🤼 Jair Alexis CUERO MUNOZ 🇨🇴 - 🇰🇿 Demeu ZHADRAYEV
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T084000Z-canoe-sprint--1-1000M-
+DTSTAMP:20240807T084000Z
+DTSTART:20240807T084000Z
+DTEND:20240807T092700Z
+DESCRIPTION:카누 스프린트 - 남자 카약 1인승 1000m 예선\n🇺🇸 Aaron SMALL\n🇲🇦 Achraf
+  ELAIDI\n🇭🇺 Adam VARGA\n🇪🇸 Adrian del RIO\n🇦🇷 Agustin VERNICE\n🇮🇷
+  Ali AGHAMIRZAEIJENAGHARD\n🇱🇹 Andrej OLIJNIK\n🇿🇦 Andrew James
+  BIRKETT\n🇩🇪 Anton WINKELMANN\n🇧🇪 Artuur PETERS\n🇭🇺 Balint
+  KOPASZ\n🇰🇿 Bekarys RAMATULLA\n🇵🇹 Fernando PIMENTA\n🇪🇸 Francisco
+  CUBELOS\n🇿🇦 Hamish LOVEMORE\n🇩🇪 Jakob THORDSEN\n🇺🇸 Jonas
+  ECKER\n🇨🇿 Josef DOSTAL\n🇸🇪 Martin NATHELL\n🇺🇾 Matias Valentin OTERO
+  EZCURRA\n🇫🇷 Maxime BEAUMONT\n🇩🇰 Rene Holten POULSEN\n🏳️ Saeid
+  FAZLOULA\n🇺🇿 Shakhriyor MAKHKAMOV\n🇦🇺 Tom GREEN\n🇼🇸 Tuva'a
+  CLIFTON\n🇦🇸 Uladzislau KRAVETS\n🇧🇷 Vagner Junior SOUTA\n🇨🇳 ZHANG
+  Dong
+SUMMARY:🛶 남자 카약 1인승 1000m 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T094000Z-canoe-sprint--1-1000M-
+DTSTAMP:20240807T094000Z
+DTSTART:20240807T094000Z
+DTEND:20240807T102700Z
+DESCRIPTION:카누 스프린트 - 남자 카누 1인승 1000m 예선\n🇫🇷 Adrien BART\n🇭🇺 Balazs
+  ADOLF\n🇦🇴 Benilson SANDA\n🇮🇹 Carlo TACCHINI\n🇷🇴 Catalin
+  CHIRILA\n🇨🇦 Connor FITZPATRICK\n🇭🇺 Daniel FEJES\n🏳️ Fernando Dayan
+  JORGE ENRIQUEZ\n🇹🇳 Ghailene KHATTALI\n🇧🇷 Isaquias QUEIROZ\n🇨🇳 JI
+  Bowen\n🇨🇺 Jose Ramon PELIER CORDOVA\n🇹🇼 LAI Kuan-Chieh\n🇨🇳 LIU
+  Hao\n🇨🇿 Martin FUKSA\n🇧🇷 Mateus NUNES BASTOS dos SANTOS\n🇮🇷
+  Mohammad Nabi REZAEI\n🇮🇹 Nicolae CRACIUN\n🇪🇸 Pablo CRESPO\n🇺🇦 Pavlo
+  ALTUKHOV\n🇩🇪 Sebastian BRENDEL\n🇰🇿 Sergey YEMELYANOV\n🇲🇩 Serghei
+  TARNOVSCHI\n🇵🇱 Wiktor GLAZUNOW\n🇦🇸 Zakhar PETROV
+SUMMARY:🛶 남자 카누 1인승 1000m 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T103700Z-taekwondo--58KG-16-ITA-KAZ
+DTSTAMP:20240807T103700Z
+DTSTART:20240807T103700Z
+DTEND:20240807T104900Z
+DESCRIPTION:태권도 - 남자 -58kg 16강
+SUMMARY:🥋 Vito DELL AQUILA 🇮🇹 - 🇰🇿 Samirkhon ABABAKIROV
+LOCATION:그랑 팔레
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T083000Z-canoe-sprint--1-200M-
+DTSTAMP:20240808T083000Z
+DTSTART:20240808T083000Z
+DTEND:20240808T091700Z
+DESCRIPTION:카누 스프린트 - 여자 카누 1인승 200m 예선\n🇭🇺 Agnes Anna KISS\n🇺🇦
+  Anastasiia RYBACHOK\n🇪🇸 Antia JACOME\n🇳🇬 Ayomide Powei BELLO\n🇳🇬
+  Beauty Akinaere OTUEDO\n🇸🇳 Combe SECK\n🇲🇩 Daniela COCIU\n🇵🇱 Dorota
+  BOROWSKA\n🇫🇷 Eugenie DORANGE\n🇸🇹 Herminia TEIXEIRA SANTANA\n🇨🇱
+  Karen ROCO\n🇵🇱 Katarzyna SZPERKIEWICZ\n🇨🇦 Katie VINCENT\n🇭🇺 Kincso
+  TAKACS\n🇨🇳 LIN Wenjun\n🇩🇪 Lisa JAHN\n🇺🇦 Liudmyla LUZAN\n🇩🇪 Maike
+  JAKOB\n🇨🇴 Manuela GOMEZ SANCHEZ\n🇪🇸 Maria CORBERA\n🇨🇱 Maria Jose
+  MAILLIARD\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya BROVKOVA\n🇺🇸 Nevin
+  HARRISON\n🇺🇿 Nilufar ZOKIROVA\n🇦🇸 Olesia ROMASENKO\n🇬🇺 Raina
+  TAITINGFONG\n🇨🇦 Sophia JENSEN\n🇻🇳 Thi Huong NGUYEN\n🇧🇷 Valdenice
+  CONCEICAO DO NASCIMENTO\n🇨🇺 Yarisleidis CIRILO DUBOYS\n🇨🇺 Yinnoly
+  Francheska LOPEZ LAMADRID\n🇦🇸 Yuliya TRUSHKINA
+SUMMARY:🛶 여자 카누 1인승 200m 예선
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T070000Z-taekwondo--80KG--MLI-KAZ
+DTSTAMP:20240809T070000Z
+DTSTART:20240809T070000Z
+DTEND:20240809T070900Z
+DESCRIPTION:태권도 - 남자 -80kg 예선 경기
+SUMMARY:🥋 Ismael COULIBALY 🇲🇱 - 🇰🇿 Batyrkhan TOLEUGALI
+LOCATION:그랑 팔레
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

@@ -4,6 +4,36 @@ PRODID:-//fabrice404//olympics-calendar//general/SVK//EN
 X-WR-CALNAME:🇸🇰 Slovakia | Paris 2024
 NAME:🇸🇰 Slovakia | Paris 2024
 BEGIN:VEVENT
+UID:20240725T073000Z-archery-WOMENS-INDIVIDUAL-RANKING-ROUND
+DTSTAMP:20240725T073000Z
+DTSTART:20240725T073000Z
+DTEND:20240725T103000Z
+DESCRIPTION:Archery - Women's Individual Ranking Round\n🇨🇳 AN
+  Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra
+  RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana
+  RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita
+  BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧
+  Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
+  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
+  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
+  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
+  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
+  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
+  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
+  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
+  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
+  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
+  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
+  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
+  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
+  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
+  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
+  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
+  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
+SUMMARY:🏹 Women's Individual Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -11,25 +41,6 @@ DTEND:20240726T210000Z
 DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
 SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
-DTSTAMP:20240803T070000Z
-DTSTART:20240803T070000Z
-DTEND:20240803T123000Z
-DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
-  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
-  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
-  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
-  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
-  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
-  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
-  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
-  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
-  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
-  Victoria LARSSON\n🇨🇳 WEI Meng
-SUMMARY:🔫 Skeet Women's Qualification - Day 1
-LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
@@ -137,25 +148,6 @@ SUMMARY:🛶 Men's Kayak Cross Repechage
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T073000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-2
-DTSTAMP:20240804T073000Z
-DTSTART:20240804T073000Z
-DTEND:20240804T123000Z
-DESCRIPTION:Shooting - Skeet Women's Qualification - Day 2\n🇦🇺 Aislin
-  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
-  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
-  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
-  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
-  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
-  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
-  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
-  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
-  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
-  Victoria LARSSON\n🇨🇳 WEI Meng
-SUMMARY:🔫 Skeet Women's Qualification - Day 2
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
 DTSTAMP:20240804T120000Z
 DTSTART:20240804T120000Z
@@ -213,17 +205,6 @@ SUMMARY:🛶 Men's Kayak Cross Heats
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T133000Z-shooting-SKEET-WOMENS-FINAL
-DTSTAMP:20240804T133000Z
-DTSTART:20240804T133000Z
-DTEND:20240804T144500Z
-DESCRIPTION:Shooting - Skeet Women's Final\n🇬🇧 Amber Jo RUTTER\n🇺🇸
-  Austen Jewell SMITH\n🇸🇰 Danka BARTEKOVA\n🇬🇷 Emmanouela
-  KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇸🇰 Vanesa HOCKOVA
-SUMMARY:🔫 Skeet Women's Final
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
 UID:20240804T144500Z-canoe-slalom-WOMENS-KAYAK-CROSS-HEATS
 DTSTAMP:20240804T144500Z
 DTSTART:20240804T144500Z
@@ -241,23 +222,6 @@ DESCRIPTION:Canoe Slalom - Women's Kayak Cross Heats\n🇨🇭 Alena MARX\n🇧�
   Viktoria WOLFFHARDT\n🇺🇦 Viktoriia US
 SUMMARY:🛶 Women's Kayak Cross Heats
 LOCATION:Nautical St - White water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T183500Z-athletics-WOMENS-800M-SEMI-FINAL
-DTSTAMP:20240804T183500Z
-DTSTART:20240804T183500Z
-DTEND:20240804T185700Z
-DESCRIPTION:Athletics - Women's 800m Semi-Final\n🇦🇺 Abbey CALDWELL\n🇫🇷
-  Anais BOURGOIN\n🇦🇺 Claudia HOLLINGSWORTH\n🇨🇺 Daily COOPER
-  GASPAR\n🇸🇰 Gabriela GAJANOVA\n🇬🇧 Jemma REEKIE\n🇺🇸 Juliette
-  WHITTAKER\n🇬🇧 Keely HODGKINSON\n🇰🇪 Lilian ODIRA\n🇩🇪 Majtie
-  KOLBERG\n🇰🇪 Mary MORAA\n🇯🇲 Natoya GOULE-TOPPIN\n🇺🇸 Nia AKINS\n🇧🇯
-  Noelie YARIGO\n🇬🇧 Phoebe GILL\n🇿🇦 Prudence SEKGODISO\n🇨🇭 Rachel
-  PELLAUD\n🇫🇷 Renelle LAMOTE\n🇨🇺 Rose Mary ALMANZA\n🇻🇨 Shafiqua
-  MALONEY\n🇪🇹 Tsige DUGUMA\n🇨🇭 Valentina ROSAMILIA\n🇰🇪 Vivian Chebet
-  KIPROTICH\n🇪🇹 Worknesh MESELE
-SUMMARY:🏃 Women's 800m Semi-Final
-LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T135200Z-canoe-slalom-MENS-KAYAK-CROSS-QUARTERFINAL
