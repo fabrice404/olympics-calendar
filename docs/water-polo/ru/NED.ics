@@ -21,4 +21,13 @@ DESCRIPTION:Водное поло - Четвертьфинал (ж)
 SUMMARY:🤽 Нидерланды 🇳🇱 - 🇮🇹 Италия
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T123500Z-water-polo---NED-ESP
+DTSTAMP:20240808T123500Z
+DTSTART:20240808T123500Z
+DTEND:20240808T140000Z
+DESCRIPTION:Водное поло - Полуфинал (ж)
+SUMMARY:🤽 Нидерланды 🇳🇱 - 🇪🇸 Испания
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
 END:VCALENDAR

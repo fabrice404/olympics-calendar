@@ -48,4 +48,13 @@ DESCRIPTION:Настольный теннис - 1/4 финала, командн
 SUMMARY:🏓 Швеция 🇸🇪 - 🇩🇪 Германия
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T180000Z-table-tennis---JPN-SWE
+DTSTAMP:20240807T180000Z
+DTSTART:20240807T180000Z
+DTEND:20240807T210000Z
+DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (м)
+SUMMARY:🏓 Япония 🇯🇵 - 🇸🇪 Швеция
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
 END:VCALENDAR
