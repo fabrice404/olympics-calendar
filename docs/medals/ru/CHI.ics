@@ -114,19 +114,6 @@ SUMMARY:🔫 Скит, финал (ж)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T134300Z-sailing--
-DTSTAMP:20240806T134300Z
-DTSTART:20240806T134300Z
-DTEND:20240806T140300Z
-DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (м)\n🇨🇱 Clemente
-  SEGUEL LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
-  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
-  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
-  SAUNDERS
-SUMMARY:⛵ Швертбот, медальная гонка (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T173200Z-wrestling--130--CUB-CHI
 DTSTAMP:20240806T173200Z
 DTSTART:20240806T173200Z
@@ -134,5 +121,18 @@ DTEND:20240806T173900Z
 DESCRIPTION:Борьба - Греко-римская, 130кг, финал (м)
 SUMMARY:🤼 Mijain LOPEZ NUNEZ 🇨🇺 - 🇨🇱 Yasmani ACOSTA FERNANDEZ
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T111300Z-sailing--
+DTSTAMP:20240807T111300Z
+DTSTART:20240807T111300Z
+DTEND:20240807T113300Z
+DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (м)\n🇨🇱 Clemente
+  SEGUEL LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
+  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
+  SAUNDERS
+SUMMARY:⛵ Швертбот, медальная гонка (м)
+LOCATION:Марсельская гавань
 END:VEVENT
 END:VCALENDAR

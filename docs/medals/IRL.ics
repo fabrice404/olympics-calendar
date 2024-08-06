@@ -141,19 +141,6 @@ SUMMARY:🏊 Men's 1500m Freestyle Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T134300Z-sailing-MENS-DINGHY-MEDAL-RACE
-DTSTAMP:20240806T134300Z
-DTSTART:20240806T134300Z
-DTEND:20240806T140300Z
-DESCRIPTION:Sailing - Men's Dinghy Medal Race\n🇨🇱 Clemente SEGUEL
-  LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
-  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
-  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
-  SAUNDERS
-SUMMARY:⛵ Men's Dinghy Medal Race
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T210600Z-boxing-WOMENS-60KG-FINAL-CHN-IRL
 DTSTAMP:20240806T210600Z
 DTSTART:20240806T210600Z
@@ -161,6 +148,19 @@ DTEND:20240806T211700Z
 DESCRIPTION:Boxing - Women's 60kg - Final
 SUMMARY:🥊 YANG Wenlu 🇨🇳 - 🇮🇪 Kellie HARRINGTON
 LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T111300Z-sailing-MENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240807T111300Z
+DTSTART:20240807T111300Z
+DTEND:20240807T113300Z
+DESCRIPTION:Sailing - Men's Dinghy Medal Race\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
+  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
+  SAUNDERS
+SUMMARY:⛵ Men's Dinghy Medal Race
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T053000Z-marathon-swimming-MENS-10KM

@@ -1235,18 +1235,6 @@ SUMMARY:🏇 Jumping Individual Final Jump-Off
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T124300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
-DTSTAMP:20240806T124300Z
-DTSTART:20240806T124300Z
-DTEND:20240806T130300Z
-DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
-  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
-  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
-  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
-SUMMARY:⛵ Women's Dinghy Medal Race
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T130000Z-diving-WOMENS-10M-PLATFORM-FINAL
 DTSTAMP:20240806T130000Z
 DTSTART:20240806T130000Z
@@ -1258,19 +1246,6 @@ DESCRIPTION:Diving - Women's 10m Platform Final\n🇯🇵 ARAI Matsuri\n🇲🇽
   Hongchan\n🇮🇹 Sarah JODOIN di MARIA
 SUMMARY:🏊 Women's 10m Platform Final
 LOCATION:Aquatics Centre
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T134300Z-sailing-MENS-DINGHY-MEDAL-RACE
-DTSTAMP:20240806T134300Z
-DTSTART:20240806T134300Z
-DTEND:20240806T140300Z
-DESCRIPTION:Sailing - Men's Dinghy Medal Race\n🇨🇱 Clemente SEGUEL
-  LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
-  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
-  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
-  SAUNDERS
-SUMMARY:⛵ Men's Dinghy Medal Race
-LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T153000Z-skateboarding-WOMENS-PARK-FINAL
@@ -1527,6 +1502,18 @@ SUMMARY:🏃 Marathon Race Walk Relay Mixed
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T101300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T103300Z
+DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Women's Dinghy Medal Race
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T105430Z-sport-climbing-WOMENS-SPEED-FINAL
 DTSTAMP:20240807T105430Z
 DTSTART:20240807T105430Z
@@ -1534,6 +1521,19 @@ DTEND:20240807T105930Z
 DESCRIPTION:Sport Climbing - Women's Speed, Final
 SUMMARY:🧗 Women's Speed, Final
 LOCATION:Le Bourget Climbing Venue
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T111300Z-sailing-MENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240807T111300Z
+DTSTART:20240807T111300Z
+DTEND:20240807T113300Z
+DESCRIPTION:Sailing - Men's Dinghy Medal Race\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
+  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
+  SAUNDERS
+SUMMARY:⛵ Men's Dinghy Medal Race
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T124300Z-sailing-MIXED-MULTIHULL-MEDAL-RACE
@@ -1624,17 +1624,18 @@ UID:20240807T170400Z-wrestling-MENS-GRECO-ROMAN-77KG-BRONZE-MEDAL-MATCH
 DTSTAMP:20240807T170400Z
 DTSTART:20240807T170400Z
 DTEND:20240807T171100Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 77kg Bronze Medal Match
+DESCRIPTION:Wrestling - Men's Greco-Roman 77kg Bronze Medal Match\n🇦🇿
+  Sanan SULEYMANOV
 SUMMARY:🤼 Men's Greco-Roman 77kg Bronze Medal Match
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T171100Z-wrestling-MENS-GRECO-ROMAN-77KG-FINAL
+UID:20240807T171100Z-wrestling-MENS-GRECO-ROMAN-77KG-FINAL-JPN-KAZ
 DTSTAMP:20240807T171100Z
 DTSTART:20240807T171100Z
 DTEND:20240807T171800Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 77kg Final\n🇯🇵 KUSAKA Nao
-SUMMARY:🤼 Men's Greco-Roman 77kg Final
+DESCRIPTION:Wrestling - Men's Greco-Roman 77kg Final
+SUMMARY:🤼 KUSAKA Nao 🇯🇵 - 🇰🇿 Demeu ZHADRAYEV
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT

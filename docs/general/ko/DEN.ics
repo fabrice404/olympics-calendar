@@ -1130,25 +1130,13 @@ SUMMARY:🛶 여자 카약 2인승 500m 8강
 LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T124300Z-sailing--
-DTSTAMP:20240806T124300Z
-DTSTART:20240806T124300Z
-DTEND:20240806T130300Z
-DESCRIPTION:요트 - 여자 딩기 메달 레이스\n🇩🇰 Anne-Marie RINDOM\n🇮🇹 Chiara BENINI
-  FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
-  REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise CERVERA\n🇳🇱 Marit
-  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
-SUMMARY:⛵ 여자 딩기 메달 레이스
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T171400Z-cycling-track--1
 DTSTAMP:20240806T171400Z
 DTSTART:20240806T171400Z
 DTEND:20240806T175500Z
 DESCRIPTION:사이클 트랙 - 남자 단체 추발, 1라운드\n🇳🇿 Aaron GATE\n🇫🇷 Benjamin
   THOMAS\n🇳🇿 Campbell STEWART\n🇩🇰 Carl-Frederik BEVORT\n🇨🇦 Carson
-  MATTERN\n🇦🇺 Conor LEAHY\n🇬🇧 Daniel BIGHAM\n🇨🇦 Dylan BIBIC\n🇬🇧
+  MATTERN\n🇬🇧 Charlie TANFIELD\n🇦🇺 Conor LEAHY\n🇨🇦 Dylan BIBIC\n🇬🇧
   Ethan HAYTER\n🇬🇧 Ethan VERNON\n🇧🇪 Fabio van den BOSSCHE\n🇮🇹 Filippo
   GANNA\n🇮🇹 Francesco LAMON\n🇮🇹 Jonathan MILAN\n🇳🇿 Keegan
   HORNBLOW\n🇦🇺 Kell O'BRIEN\n🇧🇪 Lindsay de VYLDER\n🇨🇦 Mathias
@@ -1249,6 +1237,18 @@ DTEND:20240807T094900Z
 DESCRIPTION:레슬링 - 남자 그레코로만형 87kg 16강
 SUMMARY:🤼 Semen Sergeevich NOVIKOV 🇧🇬 - 🇩🇰 Turpal Ali BISULTANOV
 LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T101300Z-sailing--
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T103300Z
+DESCRIPTION:요트 - 여자 딩기 메달 레이스\n🇩🇰 Anne-Marie RINDOM\n🇮🇹 Chiara BENINI
+  FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise CERVERA\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ 여자 딩기 메달 레이스
+LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T103000Z-skateboarding--

@@ -305,18 +305,6 @@ SUMMARY:🏀 Канада 🇨🇦 - 🇺🇸 США
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T124300Z-sailing--
-DTSTAMP:20240806T124300Z
-DTSTART:20240806T124300Z
-DTEND:20240806T130300Z
-DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (ж)\n🇩🇰 Anne-Marie
-  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
-  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
-  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
-SUMMARY:⛵ Швертбот, медальная гонка (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T130000Z-diving--10-
 DTSTAMP:20240806T130000Z
 DTSTART:20240806T130000Z
@@ -359,6 +347,18 @@ DESCRIPTION:Легкая атлетика - Ходьба, марафон, сме
   B/RECSEI R\n🇨🇳 ZHANG Jun/YANG Jiayu
 SUMMARY:🏃 Ходьба, марафон, смешанная эстафета
 LOCATION:Трокадеро
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T101300Z-sailing--
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T103300Z
+DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (ж)\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Швертбот, медальная гонка (ж)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T161500Z-athletics--

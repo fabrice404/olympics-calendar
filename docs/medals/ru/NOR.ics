@@ -224,31 +224,6 @@ SUMMARY:🏃 5000м, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T124300Z-sailing--
-DTSTAMP:20240806T124300Z
-DTSTART:20240806T124300Z
-DTEND:20240806T130300Z
-DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (ж)\n🇩🇰 Anne-Marie
-  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
-  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
-  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
-SUMMARY:⛵ Швертбот, медальная гонка (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T134300Z-sailing--
-DTSTAMP:20240806T134300Z
-DTSTART:20240806T134300Z
-DTEND:20240806T140300Z
-DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (м)\n🇨🇱 Clemente
-  SEGUEL LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
-  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
-  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
-  SAUNDERS
-SUMMARY:⛵ Швертбот, медальная гонка (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T185000Z-athletics-1500-
 DTSTAMP:20240806T185000Z
 DTSTART:20240806T185000Z
@@ -259,6 +234,31 @@ DESCRIPTION:Легкая атлетика - 1500м, финал (м)\n🇰🇪 Br
   ARESE\n🇳🇱 Stefan NILLESSEN\n🇰🇪 Timothy CHERUIYOT\n🇺🇸 Yared NUGUSE
 SUMMARY:🏃 1500м, финал (м)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T101300Z-sailing--
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T103300Z
+DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (ж)\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Швертбот, медальная гонка (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T111300Z-sailing--
+DTSTAMP:20240807T111300Z
+DTSTART:20240807T111300Z
+DTEND:20240807T113300Z
+DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (м)\n🇨🇱 Clemente
+  SEGUEL LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
+  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
+  SAUNDERS
+SUMMARY:⛵ Швертбот, медальная гонка (м)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T161500Z-athletics--

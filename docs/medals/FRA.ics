@@ -547,18 +547,6 @@ SUMMARY:🏄 Kauli VAAST 🇫🇷 - 🇦🇺 Jack ROBINSON
 LOCATION:Teahupo'o, Tahiti
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T124300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
-DTSTAMP:20240806T124300Z
-DTSTART:20240806T124300Z
-DTEND:20240806T130300Z
-DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
-  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
-  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
-  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
-SUMMARY:⛵ Women's Dinghy Medal Race
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T191400Z-athletics-WOMENS-3000M-STEEPLECHASE-FINAL
 DTSTAMP:20240806T191400Z
 DTSTART:20240806T191400Z
@@ -589,6 +577,18 @@ DESCRIPTION:Athletics - Marathon Race Walk Relay Mixed\n🇺🇦
   B/RECSEI R\n🇨🇳 ZHANG Jun/YANG Jiayu
 SUMMARY:🏃 Marathon Race Walk Relay Mixed
 LOCATION:Trocadéro
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T101300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T103300Z
+DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Women's Dinghy Medal Race
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T161500Z-athletics-WOMENS-POLE-VAULT-FINAL

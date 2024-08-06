@@ -193,18 +193,6 @@ SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇩🇰 Viktor AXELSEN
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T124300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
-DTSTAMP:20240806T124300Z
-DTSTART:20240806T124300Z
-DTEND:20240806T130300Z
-DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
-  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
-  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
-  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
-SUMMARY:⛵ Women's Dinghy Medal Race
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T175700Z-athletics-WOMENS-HAMMER-THROW-FINAL
 DTSTAMP:20240806T175700Z
 DTSTART:20240806T175700Z
@@ -216,5 +204,17 @@ DESCRIPTION:Athletics - Women's Hammer Throw Final\n🇵🇱 Anita
   RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇨🇳 ZHAO Jie
 SUMMARY:🏃 Women's Hammer Throw Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T101300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T103300Z
+DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Women's Dinghy Medal Race
+LOCATION:Marseille Marina
 END:VEVENT
 END:VCALENDAR

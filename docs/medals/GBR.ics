@@ -468,19 +468,6 @@ SUMMARY:🏊 Women's 10m Platform Final
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T134300Z-sailing-MENS-DINGHY-MEDAL-RACE
-DTSTAMP:20240806T134300Z
-DTSTART:20240806T134300Z
-DTEND:20240806T140300Z
-DESCRIPTION:Sailing - Men's Dinghy Medal Race\n🇨🇱 Clemente SEGUEL
-  LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
-  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
-  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
-  SAUNDERS
-SUMMARY:⛵ Men's Dinghy Medal Race
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T153000Z-skateboarding-WOMENS-PARK-FINAL
 DTSTAMP:20240806T153000Z
 DTSTART:20240806T153000Z
@@ -549,6 +536,19 @@ DTEND:20240806T195700Z
 DESCRIPTION:Boxing - Men's 71kg - Semifinal
 SUMMARY:🥊 Lewis RICHARDSON 🇬🇧 - 🇲🇽 Marco Alonso VERDE ALVAREZ
 LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T111300Z-sailing-MENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240807T111300Z
+DTSTART:20240807T111300Z
+DTEND:20240807T113300Z
+DESCRIPTION:Sailing - Men's Dinghy Medal Race\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
+  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
+  SAUNDERS
+SUMMARY:⛵ Men's Dinghy Medal Race
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T053000Z-marathon-swimming-WOMENS-10KM

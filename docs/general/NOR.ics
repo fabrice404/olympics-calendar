@@ -991,31 +991,6 @@ SUMMARY:🛶 Women's Kayak Double 500m Quarterfinals
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T124300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
-DTSTAMP:20240806T124300Z
-DTSTART:20240806T124300Z
-DTEND:20240806T130300Z
-DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
-  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
-  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
-  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
-SUMMARY:⛵ Women's Dinghy Medal Race
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T134300Z-sailing-MENS-DINGHY-MEDAL-RACE
-DTSTAMP:20240806T134300Z
-DTSTART:20240806T134300Z
-DTEND:20240806T140300Z
-DESCRIPTION:Sailing - Men's Dinghy Medal Race\n🇨🇱 Clemente SEGUEL
-  LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
-  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
-  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
-  SAUNDERS
-SUMMARY:⛵ Men's Dinghy Medal Race
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T173500Z-athletics-MENS-400M-SEMI-FINAL
 DTSTAMP:20240806T173500Z
 DTSTART:20240806T173500Z
@@ -1166,6 +1141,31 @@ DESCRIPTION:Athletics - Men's 800m Round 1\n🇲🇦 Abdelati EL GUESSE\n🇸�
   MKRTCHYAN
 SUMMARY:🏃 Men's 800m Round 1
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T101300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T103300Z
+DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Women's Dinghy Medal Race
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T111300Z-sailing-MENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240807T111300Z
+DTSTART:20240807T111300Z
+DTEND:20240807T113300Z
+DESCRIPTION:Sailing - Men's Dinghy Medal Race\n🇨🇱 Clemente SEGUEL
+  LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
+  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
+  SAUNDERS
+SUMMARY:⛵ Men's Dinghy Medal Race
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T130000Z-diving-WOMENS-3M-SPRINGBOARD-PRELIMINARY

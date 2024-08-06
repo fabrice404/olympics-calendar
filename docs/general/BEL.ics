@@ -1279,27 +1279,15 @@ SUMMARY:⛵ Mixed Multihull - Race 12
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T124300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
-DTSTAMP:20240806T124300Z
-DTSTART:20240806T124300Z
-DTEND:20240806T130300Z
-DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
-  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
-  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
-  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
-SUMMARY:⛵ Women's Dinghy Medal Race
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T171400Z-cycling-track-MENS-TEAM-PURSUIT-FIRST-ROUND
 DTSTAMP:20240806T171400Z
 DTSTART:20240806T171400Z
 DTEND:20240806T175500Z
 DESCRIPTION:Cycling Track - Men's Team Pursuit, First Round\n🇳🇿 Aaron
   GATE\n🇫🇷 Benjamin THOMAS\n🇳🇿 Campbell STEWART\n🇩🇰 Carl-Frederik
-  BEVORT\n🇨🇦 Carson MATTERN\n🇦🇺 Conor LEAHY\n🇬🇧 Daniel BIGHAM\n🇨🇦
-  Dylan BIBIC\n🇬🇧 Ethan HAYTER\n🇬🇧 Ethan VERNON\n🇧🇪 Fabio van den
-  BOSSCHE\n🇮🇹 Filippo GANNA\n🇮🇹 Francesco LAMON\n🇮🇹 Jonathan
+  BEVORT\n🇨🇦 Carson MATTERN\n🇬🇧 Charlie TANFIELD\n🇦🇺 Conor
+  LEAHY\n🇨🇦 Dylan BIBIC\n🇬🇧 Ethan HAYTER\n🇬🇧 Ethan VERNON\n🇧🇪 Fabio
+  van den BOSSCHE\n🇮🇹 Filippo GANNA\n🇮🇹 Francesco LAMON\n🇮🇹 Jonathan
   MILAN\n🇳🇿 Keegan HORNBLOW\n🇦🇺 Kell O'BRIEN\n🇧🇪 Lindsay de
   VYLDER\n🇨🇦 Mathias GUILLEMETTE\n🇨🇦 Michael FOLEY\n🇩🇰 Niklas
   LARSEN\n🇧🇪 Noah VANDENBRANDEN\n🇦🇺 Oliver BLEDDYN\n🇬🇧 Oliver
@@ -1492,6 +1480,18 @@ DESCRIPTION:Athletics - Men's 800m Round 1\n🇲🇦 Abdelati EL GUESSE\n🇸�
   MKRTCHYAN
 SUMMARY:🏃 Men's 800m Round 1
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T101300Z-sailing-WOMENS-DINGHY-MEDAL-RACE
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T103300Z
+DESCRIPTION:Sailing - Women's Dinghy Medal Race\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Women's Dinghy Medal Race
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T104500Z-athletics-WOMENS-1500M-REPECHAGE-ROUND

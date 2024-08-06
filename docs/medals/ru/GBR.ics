@@ -477,19 +477,6 @@ SUMMARY:🏊 Вышка 10м, финал (ж)
 LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T134300Z-sailing--
-DTSTAMP:20240806T134300Z
-DTSTART:20240806T134300Z
-DTEND:20240806T140300Z
-DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (м)\n🇨🇱 Clemente
-  SEGUEL LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
-  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
-  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
-  SAUNDERS
-SUMMARY:⛵ Швертбот, медальная гонка (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T153000Z-skateboarding--
 DTSTAMP:20240806T153000Z
 DTSTART:20240806T153000Z
@@ -558,6 +545,19 @@ DTEND:20240806T195700Z
 DESCRIPTION:Бокс - Полуфинал, до 71кг (м)
 SUMMARY:🥊 Lewis RICHARDSON 🇬🇧 - 🇲🇽 Marco Alonso VERDE ALVAREZ
 LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T111300Z-sailing--
+DTSTAMP:20240807T111300Z
+DTSTART:20240807T111300Z
+DTEND:20240807T113300Z
+DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (м)\n🇨🇱 Clemente
+  SEGUEL LACAMARA\n🇮🇪 Finn LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan
+  VADNAI\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇨🇾 Pavlos KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas
+  SAUNDERS
+SUMMARY:⛵ Швертбот, медальная гонка (м)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T053000Z-marathon-swimming-10-

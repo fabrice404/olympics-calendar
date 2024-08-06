@@ -50,18 +50,6 @@ SUMMARY:🏃 Метание диска, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T124300Z-sailing--
-DTSTAMP:20240806T124300Z
-DTSTART:20240806T124300Z
-DTEND:20240806T130300Z
-DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (ж)\n🇩🇰 Anne-Marie
-  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
-  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
-  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
-SUMMARY:⛵ Швертбот, медальная гонка (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T181500Z-athletics--
 DTSTAMP:20240806T181500Z
 DTSTART:20240806T181500Z
@@ -73,5 +61,17 @@ DESCRIPTION:Легкая атлетика - Прыжки в длину, фина
   PINNOCK\n🇨🇳 ZHANG Mingkun
 SUMMARY:🏃 Прыжки в длину, финал (м)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T101300Z-sailing--
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T103300Z
+DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (ж)\n🇩🇰 Anne-Marie
+  RINDOM\n🇮🇹 Chiara BENINI FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise
+  CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ Швертбот, медальная гонка (ж)
+LOCATION:Марсельская гавань
 END:VEVENT
 END:VCALENDAR
