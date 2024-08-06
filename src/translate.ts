@@ -94,6 +94,13 @@ const todaysEvents = new Map<string, string>([
   ["zh", "今天的活动"],
 ]);
 
+const medalsTableError = new Map<string, string>([
+  ["en", "Due to a recent update on the official website, the information on this page may no longer be accurate."],
+  ["ja", "公式ウェブサイトの最新情報により、このページの情報が正確でない可能性があります。"],
+  ["ko", "공식 웹 사이트의 최신 정보로 인해이 페이지의 정보가 더 이상 정확하지 않을 수 있습니다."],
+  ["ru", "Из-за недавнего обновления на официальном сайте информация на этой странице может быть недействительной."],
+  ["zh", "由于官方网站的最新更新，此页面上的信息可能不再准确。"],
+]);
 
 export const translate = (text: string, language: string) => text
   .replace(/\{\{translate_allSports}}/gi, allSports.get(language)!)
@@ -105,6 +112,7 @@ export const translate = (text: string, language: string) => text
   .replace(/\{\{translate_genderWomen}}/gi, genderWomen.get(language)!)
   .replace(/\{\{translate_medalEvents}}/gi, medalEvents.get(language)!)
   .replace(/\{\{translate_medalsTable}}/gi, medalsTable.get(language)!)
+  .replace(/\{\{translate_medalsTableError}}/gi, medalsTableError.get(language)!)
   .replace(/\{\{translate_noEventToday}}/gi, noEventToday.get(language)!)
   .replace(/\{\{translate_openingCeremony}}/gi, openingCeremony.get(language)!)
   .replace(/\{\{translate_todaysEvents}}/gi, todaysEvents.get(language)!)
