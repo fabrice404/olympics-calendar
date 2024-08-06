@@ -39,4 +39,13 @@ DESCRIPTION:Волейбол - Полуфиналы (м)
 SUMMARY:🏐 Польша 🇵🇱 - 🇺🇸 США
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T140000Z-volleyball---BRA-USA
+DTSTAMP:20240808T140000Z
+DTSTART:20240808T140000Z
+DTEND:20240808T161500Z
+DESCRIPTION:Волейбол - Полуфиналы (ж)
+SUMMARY:🏐 Бразилия 🇧🇷 - 🇺🇸 США
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
 END:VCALENDAR

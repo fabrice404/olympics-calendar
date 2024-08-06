@@ -3347,14 +3347,13 @@ DESCRIPTION:田径 - 男子5000米第1轮\n🇩🇯 Abdi WAISS\n🇺🇸 Abdiham
   BALEW\n🇮🇪 Brian FAY\n🇪🇷 Dawit SEARE\n🏳️ Dominic Lokinyomo
   LOBALU\n🇰🇪 Edwin KURGAT\n🇧🇮 Egide NTAKARUTIMANA\n🇷🇸 Elzan
   BIBIC\n🇬🇧 George MILLS\n🇺🇸 Graham BLANKS\n🇺🇸 Grant FISHER\n🇪🇹
-  Hagos GEBRHIWET\n🇫🇷 Hugo HAY\n🇧🇪 Isaac KIMELI\n🇺🇬 Jacob
-  KIPLIMO\n🇰🇪 Jacob KROP\n🇳🇴 Jakob INGEBRIGTSEN\n🇫🇷 Jimmy
-  GRESSIER\n🇧🇪 John HEYMANS\n🇨🇭 Jonas RAESS\n🇺🇬 Joshua
-  CHEPTEGEI\n🇬🇹 Luis GRIJALVA\n🇳🇱 Mike FOPPEN\n🇩🇯 Mohamed
-  ISMAIL\n🇨🇦 Mohammed AHMED\n🇦🇺 Morgan McDONALD\n🇳🇴 Narve Gilje
-  NORDAS\n🇺🇬 Oscar CHELIMO\n🇬🇧 Patrick DEVER\n🇰🇪 Ronald KWEMOI\n🇬🇧
-  Sam ATKIN\n🇺🇾 Santiago CATROFE\n🇦🇺 Stewart McSWEYN\n🇪🇸 Thierry
-  NDIKUMWENAYO\n🇨🇦 Thomas FAFARD\n🇫🇷 Yann SCHRUB
+  Hagos GEBRHIWET\n🇫🇷 Hugo HAY\n🇧🇪 Isaac KIMELI\n🇰🇪 Jacob KROP\n🇳🇴
+  Jakob INGEBRIGTSEN\n🇫🇷 Jimmy GRESSIER\n🇧🇪 John HEYMANS\n🇨🇭 Jonas
+  RAESS\n🇬🇹 Luis GRIJALVA\n🇳🇱 Mike FOPPEN\n🇩🇯 Mohamed ISMAIL\n🇨🇦
+  Mohammed AHMED\n🇦🇺 Morgan McDONALD\n🇳🇴 Narve Gilje NORDAS\n🇺🇬 Oscar
+  CHELIMO\n🇬🇧 Patrick DEVER\n🇰🇪 Ronald KWEMOI\n🇬🇧 Sam ATKIN\n🇺🇾
+  Santiago CATROFE\n🇦🇺 Stewart McSWEYN\n🇪🇸 Thierry NDIKUMWENAYO\n🇨🇦
+  Thomas FAFARD\n🇫🇷 Yann SCHRUB
 SUMMARY:🏃 男子5000米第1轮
 LOCATION:法兰西体育场
 END:VEVENT
@@ -4031,6 +4030,15 @@ DTEND:20240808T092400Z
 DESCRIPTION:跆拳道 - 女子57公斤级16强赛
 SUMMARY:🥋 Faith DILLON 🇺🇸 - 🇹🇳 Chaima TOUMI
 LOCATION:巴黎大皇宫
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T140000Z-volleyball--BRA-USA
+DTSTAMP:20240808T140000Z
+DTSTART:20240808T140000Z
+DTEND:20240808T161500Z
+DESCRIPTION:排球 - 女子半决赛
+SUMMARY:🏐 巴西 🇧🇷 - 🇺🇸 美国
+LOCATION:南巴黎竞技场1号馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T180000Z-athletics-

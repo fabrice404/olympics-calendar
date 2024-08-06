@@ -3404,14 +3404,13 @@ DESCRIPTION:Athletics - Men's 5000m Round 1\n🇩🇯 Abdi WAISS\n🇺🇸
   MEHARY\n🇧🇭 Birhanu BALEW\n🇮🇪 Brian FAY\n🇪🇷 Dawit SEARE\n🏳️ Dominic
   Lokinyomo LOBALU\n🇰🇪 Edwin KURGAT\n🇧🇮 Egide NTAKARUTIMANA\n🇷🇸 Elzan
   BIBIC\n🇬🇧 George MILLS\n🇺🇸 Graham BLANKS\n🇺🇸 Grant FISHER\n🇪🇹
-  Hagos GEBRHIWET\n🇫🇷 Hugo HAY\n🇧🇪 Isaac KIMELI\n🇺🇬 Jacob
-  KIPLIMO\n🇰🇪 Jacob KROP\n🇳🇴 Jakob INGEBRIGTSEN\n🇫🇷 Jimmy
-  GRESSIER\n🇧🇪 John HEYMANS\n🇨🇭 Jonas RAESS\n🇺🇬 Joshua
-  CHEPTEGEI\n🇬🇹 Luis GRIJALVA\n🇳🇱 Mike FOPPEN\n🇩🇯 Mohamed
-  ISMAIL\n🇨🇦 Mohammed AHMED\n🇦🇺 Morgan McDONALD\n🇳🇴 Narve Gilje
-  NORDAS\n🇺🇬 Oscar CHELIMO\n🇬🇧 Patrick DEVER\n🇰🇪 Ronald KWEMOI\n🇬🇧
-  Sam ATKIN\n🇺🇾 Santiago CATROFE\n🇦🇺 Stewart McSWEYN\n🇪🇸 Thierry
-  NDIKUMWENAYO\n🇨🇦 Thomas FAFARD\n🇫🇷 Yann SCHRUB
+  Hagos GEBRHIWET\n🇫🇷 Hugo HAY\n🇧🇪 Isaac KIMELI\n🇰🇪 Jacob KROP\n🇳🇴
+  Jakob INGEBRIGTSEN\n🇫🇷 Jimmy GRESSIER\n🇧🇪 John HEYMANS\n🇨🇭 Jonas
+  RAESS\n🇬🇹 Luis GRIJALVA\n🇳🇱 Mike FOPPEN\n🇩🇯 Mohamed ISMAIL\n🇨🇦
+  Mohammed AHMED\n🇦🇺 Morgan McDONALD\n🇳🇴 Narve Gilje NORDAS\n🇺🇬 Oscar
+  CHELIMO\n🇬🇧 Patrick DEVER\n🇰🇪 Ronald KWEMOI\n🇬🇧 Sam ATKIN\n🇺🇾
+  Santiago CATROFE\n🇦🇺 Stewart McSWEYN\n🇪🇸 Thierry NDIKUMWENAYO\n🇨🇦
+  Thomas FAFARD\n🇫🇷 Yann SCHRUB
 SUMMARY:🏃 Men's 5000m Round 1
 LOCATION:Stade de France
 END:VEVENT
@@ -4098,6 +4097,15 @@ DTEND:20240808T092400Z
 DESCRIPTION:Taekwondo - Women -57kg Round of 16
 SUMMARY:🥋 Faith DILLON 🇺🇸 - 🇹🇳 Chaima TOUMI
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T140000Z-volleyball-WOMENS-SEMIFINALS-BRA-USA
+DTSTAMP:20240808T140000Z
+DTSTART:20240808T140000Z
+DTEND:20240808T161500Z
+DESCRIPTION:Volleyball - Women's Semifinals
+SUMMARY:🏐 BRA 🇧🇷 - 🇺🇸 USA
+LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T180000Z-athletics-WOMENS-LONG-JUMP-FINAL
