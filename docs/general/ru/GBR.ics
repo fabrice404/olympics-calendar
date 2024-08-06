@@ -2933,6 +2933,25 @@ SUMMARY:⛵ Кайт, гонка 11 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T115200Z-cycling-track--1-
+DTSTAMP:20240807T115200Z
+DTSTART:20240807T115200Z
+DTEND:20240807T123000Z
+DESCRIPTION:Трековые велогонки - Командная гонка преследования, раунд 1
+  (ж)\n🇳🇿 Ally WOLLASTON\n🇬🇧 Anna MORRIS\n🇨🇦 Ariane BONHOMME\n🇳🇿
+  Bryony BOTHA\n🇮🇹 Chiara CONSONNI\n🇺🇸 Chloe DYGERT\n🇦🇺 Chloe
+  MORAN\n🇫🇷 Clara COPPONI\n🇬🇧 Elinor BARKER\n🇳🇿 Emily SHEARMAN\n🇨🇦
+  Erin ATTWELL\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia BAKER\n🇺🇸 Jennifer
+  VALENTE\n🇬🇧 Jessica ROBERTS\n🇬🇧 Josie KNIGHT\n🇺🇸 Kristen
+  FAULKNER\n🇩🇪 Laura SUESSEMILCH\n🇮🇹 Letizia PATERNOSTER\n🇺🇸 Lily
+  WILLIAMS\n🇩🇪 Lisa KLEIN\n🇦🇺 Maeve PLOUFFE\n🇨🇦 Maggie
+  COLES-LYSTER\n🇫🇷 Marie le NET\n🇫🇷 Marion BORRAS\n🇮🇹 Martina
+  FIDANZA\n🇩🇪 Mieke KROEGER\n🇳🇿 Nicole SHIELDS\n🇨🇦 Sarah van
+  DAM\n🇦🇺 Sophie EDWARDS\n🇫🇷 Valentine FORTIN\n🇮🇹 Vittoria GUAZZINI
+SUMMARY:🚴 Командная гонка преследования, раунд 1 (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T120300Z-sailing--10-
 DTSTAMP:20240807T120300Z
 DTSTART:20240807T120300Z
@@ -2964,21 +2983,6 @@ SUMMARY:⛵ Кайт, гонка 12 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T122800Z-sailing--13-
-DTSTAMP:20240807T122800Z
-DTSTART:20240807T122800Z
-DTEND:20240807T124500Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 13 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
-  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
-  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
-  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Кайт, гонка 13 (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240807T124300Z-sailing--11-
 DTSTAMP:20240807T124300Z
 DTSTART:20240807T124300Z
@@ -2992,21 +2996,6 @@ DESCRIPTION:Парусный спорт - Кайт, гонка 11 (ж)\n🇦🇹
   MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
   Maria Catalina TURIENZO
 SUMMARY:⛵ Кайт, гонка 11 (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T125300Z-sailing--14-
-DTSTAMP:20240807T125300Z
-DTSTART:20240807T125300Z
-DTEND:20240807T131000Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 14 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
-  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
-  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
-  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Кайт, гонка 14 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
@@ -3028,25 +3017,10 @@ SUMMARY:🏊 Трамплин 3м, предварительный раунд (ж
 LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T131800Z-sailing--15-
-DTSTAMP:20240807T131800Z
-DTSTART:20240807T131800Z
-DTEND:20240807T133500Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 15 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
-  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
-  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
-  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Кайт, гонка 15 (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T132300Z-sailing--12-
-DTSTAMP:20240807T132300Z
-DTSTART:20240807T132300Z
-DTEND:20240807T134000Z
+UID:20240807T140000Z-sailing--12-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
 DESCRIPTION:Парусный спорт - Кайт, гонка 12 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
   Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
   CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -3059,25 +3033,10 @@ SUMMARY:⛵ Кайт, гонка 12 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T132800Z-sailing--16-
-DTSTAMP:20240807T132800Z
-DTSTART:20240807T132800Z
-DTEND:20240807T134500Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 16 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
-  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
-  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
-  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Кайт, гонка 16 (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T140300Z-sailing--13-
-DTSTAMP:20240807T140300Z
-DTSTART:20240807T140300Z
-DTEND:20240807T142000Z
+UID:20240807T140000Z-sailing--13-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
 DESCRIPTION:Парусный спорт - Кайт, гонка 13 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
   Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
   CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -3090,10 +3049,25 @@ SUMMARY:⛵ Кайт, гонка 13 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T144300Z-sailing--14-
-DTSTAMP:20240807T144300Z
-DTSTART:20240807T144300Z
-DTEND:20240807T150000Z
+UID:20240807T140000Z-sailing--13-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 13 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
+  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
+  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
+  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Кайт, гонка 13 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--14-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
 DESCRIPTION:Парусный спорт - Кайт, гонка 14 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
   Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
   CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -3106,10 +3080,25 @@ SUMMARY:⛵ Кайт, гонка 14 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T152300Z-sailing--15-
-DTSTAMP:20240807T152300Z
-DTSTART:20240807T152300Z
-DTEND:20240807T154000Z
+UID:20240807T140000Z-sailing--14-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 14 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
+  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
+  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
+  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Кайт, гонка 14 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--15-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
 DESCRIPTION:Парусный спорт - Кайт, гонка 15 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
   Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
   CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -3122,10 +3111,25 @@ SUMMARY:⛵ Кайт, гонка 15 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T152300Z-sailing--16-
-DTSTAMP:20240807T152300Z
-DTSTART:20240807T152300Z
-DTEND:20240807T154000Z
+UID:20240807T140000Z-sailing--15-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 15 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
+  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
+  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
+  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Кайт, гонка 15 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--16-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
 DESCRIPTION:Парусный спорт - Кайт, гонка 16 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
   Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
   CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -3135,6 +3139,21 @@ DESCRIPTION:Парусный спорт - Кайт, гонка 16 (ж)\n🇦🇹
   MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
   Maria Catalina TURIENZO
 SUMMARY:⛵ Кайт, гонка 16 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--16-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 16 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
+  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
+  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
+  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Кайт, гонка 16 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT

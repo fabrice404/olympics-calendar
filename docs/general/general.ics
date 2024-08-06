@@ -8303,12 +8303,12 @@ SUMMARY:🤼 Abd Elkrim OUAKALI 🇩🇿 - 🇺🇿 Aram VARDANYAN
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T090000Z-wrestling-MENS-GRECO-ROMAN-97KG-REPECHAGE
+UID:20240807T090000Z-wrestling-MENS-GRECO-ROMAN-97KG-REPECHAGE-KOR-UZB
 DTSTAMP:20240807T090000Z
 DTSTART:20240807T090000Z
 DTEND:20240807T090700Z
 DESCRIPTION:Wrestling - Men's Greco-Roman 97kg Repechage
-SUMMARY:🤼 Men's Greco-Roman 97kg Repechage
+SUMMARY:🤼 KIM Seungjun 🇰🇷 - 🇺🇿 Rustam ASSAKALOV
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -9080,7 +9080,17 @@ UID:20240807T115200Z-cycling-track-WOMENS-TEAM-PURSUIT-FIRST-ROUND
 DTSTAMP:20240807T115200Z
 DTSTART:20240807T115200Z
 DTEND:20240807T123000Z
-DESCRIPTION:Cycling Track - Women's Team Pursuit, First Round
+DESCRIPTION:Cycling Track - Women's Team Pursuit, First Round\n🇳🇿 Ally
+  WOLLASTON\n🇬🇧 Anna MORRIS\n🇨🇦 Ariane BONHOMME\n🇳🇿 Bryony
+  BOTHA\n🇮🇹 Chiara CONSONNI\n🇺🇸 Chloe DYGERT\n🇦🇺 Chloe MORAN\n🇫🇷
+  Clara COPPONI\n🇬🇧 Elinor BARKER\n🇳🇿 Emily SHEARMAN\n🇨🇦 Erin
+  ATTWELL\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia BAKER\n🇺🇸 Jennifer
+  VALENTE\n🇬🇧 Jessica ROBERTS\n🇬🇧 Josie KNIGHT\n🇺🇸 Kristen
+  FAULKNER\n🇩🇪 Laura SUESSEMILCH\n🇮🇹 Letizia PATERNOSTER\n🇺🇸 Lily
+  WILLIAMS\n🇩🇪 Lisa KLEIN\n🇦🇺 Maeve PLOUFFE\n🇨🇦 Maggie
+  COLES-LYSTER\n🇫🇷 Marie le NET\n🇫🇷 Marion BORRAS\n🇮🇹 Martina
+  FIDANZA\n🇩🇪 Mieke KROEGER\n🇳🇿 Nicole SHIELDS\n🇨🇦 Sarah van
+  DAM\n🇦🇺 Sophie EDWARDS\n🇫🇷 Valentine FORTIN\n🇮🇹 Vittoria GUAZZINI
 SUMMARY:🚴 Women's Team Pursuit, First Round
 LOCATION:National Velodrome
 END:VEVENT
@@ -9141,21 +9151,6 @@ DTEND:20240807T123700Z
 DESCRIPTION:Canoe Sprint - Men's Kayak Single 1000m Quarterfinals
 SUMMARY:🛶 Men's Kayak Single 1000m Quarterfinals
 LOCATION:Nautical St - Flat water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T122800Z-sailing-MENS-KITE-RACE-13
-DTSTAMP:20240807T122800Z
-DTSTART:20240807T122800Z
-DTEND:20240807T124500Z
-DESCRIPTION:Sailing - Men's Kite - Race 13\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
-  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
-  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
-  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Men's Kite - Race 13
-LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T123000Z-taekwondo-WOMEN-49KG-QUARTERFINAL
@@ -9237,21 +9232,6 @@ SUMMARY:🥋 Women -49kg Quarterfinal
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T125300Z-sailing-MENS-KITE-RACE-14
-DTSTAMP:20240807T125300Z
-DTSTART:20240807T125300Z
-DTEND:20240807T131000Z
-DESCRIPTION:Sailing - Men's Kite - Race 14\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
-  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
-  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
-  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Men's Kite - Race 14
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240807T130000Z-diving-WOMENS-3M-SPRINGBOARD-PRELIMINARY
 DTSTAMP:20240807T130000Z
 DTSTART:20240807T130000Z
@@ -9319,21 +9299,6 @@ SUMMARY:🚴 Women's Keirin, Repechages
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T131800Z-sailing-MENS-KITE-RACE-15
-DTSTAMP:20240807T131800Z
-DTSTART:20240807T131800Z
-DTEND:20240807T133500Z
-DESCRIPTION:Sailing - Men's Kite - Race 15\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
-  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
-  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
-  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Men's Kite - Race 15
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240807T131900Z-taekwondo-WOMEN-49KG-QUARTERFINAL
 DTSTAMP:20240807T131900Z
 DTSTART:20240807T131900Z
@@ -9341,37 +9306,6 @@ DTEND:20240807T133200Z
 DESCRIPTION:Taekwondo - Women -49kg Quarterfinal
 SUMMARY:🥋 Women -49kg Quarterfinal
 LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T132300Z-sailing-WOMENS-KITE-RACE-12
-DTSTAMP:20240807T132300Z
-DTSTART:20240807T132300Z
-DTEND:20240807T134000Z
-DESCRIPTION:Sailing - Women's Kite - Race 12\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Women's Kite - Race 12
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T132800Z-sailing-MENS-KITE-RACE-16
-DTSTAMP:20240807T132800Z
-DTSTART:20240807T132800Z
-DTEND:20240807T134500Z
-DESCRIPTION:Sailing - Men's Kite - Race 16\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
-  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
-  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
-  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Men's Kite - Race 16
-LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T133000Z-cycling-track-MENS-SPRINT-132-FINALS-REPECHAGES
@@ -9428,19 +9362,86 @@ SUMMARY:🥋 Men -58kg Quarterfinal
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T140000Z-volleyball-MENS-SEMIFINALS-POL-USA
+UID:20240807T140000Z-sailing-MENS-KITE-RACE-13
 DTSTAMP:20240807T140000Z
 DTSTART:20240807T140000Z
-DTEND:20240807T161500Z
-DESCRIPTION:Volleyball - Men's Semifinals
-SUMMARY:🏐 POL 🇵🇱 - 🇺🇸 USA
-LOCATION:South Paris Arena 1
+DTEND:20240807T141700Z
+DESCRIPTION:Sailing - Men's Kite - Race 13\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 13
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T140300Z-sailing-WOMENS-KITE-RACE-13
-DTSTAMP:20240807T140300Z
-DTSTART:20240807T140300Z
-DTEND:20240807T142000Z
+UID:20240807T140000Z-sailing-MENS-KITE-RACE-14
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Sailing - Men's Kite - Race 14\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 14
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing-MENS-KITE-RACE-15
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Sailing - Men's Kite - Race 15\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 15
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing-MENS-KITE-RACE-16
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Sailing - Men's Kite - Race 16\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
+  LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor ZARKA\n🇨🇳
+  HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭 Joseph
+  Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Men's Kite - Race 16
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing-WOMENS-KITE-RACE-12
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Sailing - Women's Kite - Race 12\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 12
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing-WOMENS-KITE-RACE-13
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
 DESCRIPTION:Sailing - Women's Kite - Race 13\n🇦🇹 Alina KORNELLI\n🇳🇱
   Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
   CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -9451,6 +9452,63 @@ DESCRIPTION:Sailing - Women's Kite - Race 13\n🇦🇹 Alina KORNELLI\n🇳🇱
   Maria Catalina TURIENZO
 SUMMARY:⛵ Women's Kite - Race 13
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing-WOMENS-KITE-RACE-14
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Sailing - Women's Kite - Race 14\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 14
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing-WOMENS-KITE-RACE-15
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Sailing - Women's Kite - Race 15\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 15
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing-WOMENS-KITE-RACE-16
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Sailing - Women's Kite - Race 16\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 16
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-volleyball-MENS-SEMIFINALS-POL-USA
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T161500Z
+DESCRIPTION:Volleyball - Men's Semifinals
+SUMMARY:🏐 POL 🇵🇱 - 🇺🇸 USA
+LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T142100Z-taekwondo-WOMEN-49KG-SEMIFINAL
@@ -9469,22 +9527,6 @@ DTEND:20240807T144900Z
 DESCRIPTION:Taekwondo - Men -58kg Semifinal
 SUMMARY:🥋 Men -58kg Semifinal
 LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T144300Z-sailing-WOMENS-KITE-RACE-14
-DTSTAMP:20240807T144300Z
-DTSTART:20240807T144300Z
-DTEND:20240807T150000Z
-DESCRIPTION:Sailing - Women's Kite - Race 14\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Women's Kite - Race 14
-LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T144900Z-taekwondo-WOMEN-49KG-SEMIFINAL
@@ -9512,38 +9554,6 @@ DTEND:20240807T151500Z
 DESCRIPTION:Taekwondo - Men -58kg Semifinal
 SUMMARY:🥋 Men -58kg Semifinal
 LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T152300Z-sailing-WOMENS-KITE-RACE-15
-DTSTAMP:20240807T152300Z
-DTSTART:20240807T152300Z
-DTEND:20240807T154000Z
-DESCRIPTION:Sailing - Women's Kite - Race 15\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Women's Kite - Race 15
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T152300Z-sailing-WOMENS-KITE-RACE-16
-DTSTAMP:20240807T152300Z
-DTSTART:20240807T152300Z
-DTEND:20240807T154000Z
-DESCRIPTION:Sailing - Women's Kite - Race 16\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Women's Kite - Race 16
-LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T153000Z-cycling-track-MENS-SPRINT-116-FINALS
@@ -9820,7 +9830,8 @@ UID:20240807T171800Z-wrestling-MENS-GRECO-ROMAN-97KG-BRONZE-MEDAL-MATCH
 DTSTAMP:20240807T171800Z
 DTSTART:20240807T171800Z
 DTEND:20240807T172500Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 97kg Bronze Medal Match
+DESCRIPTION:Wrestling - Men's Greco-Roman 97kg Bronze Medal Match\n🇨🇺
+  Gabriel Alejandro ROSILLO KINDELAN
 SUMMARY:🤼 Men's Greco-Roman 97kg Bronze Medal Match
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -9881,7 +9892,7 @@ UID:20240807T173200Z-wrestling-MENS-GRECO-ROMAN-97KG-FINAL
 DTSTAMP:20240807T173200Z
 DTSTART:20240807T173200Z
 DTEND:20240807T173900Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 97kg Final
+DESCRIPTION:Wrestling - Men's Greco-Roman 97kg Final\n🇦🇲 Artur ALEKSANYAN
 SUMMARY:🤼 Men's Greco-Roman 97kg Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT

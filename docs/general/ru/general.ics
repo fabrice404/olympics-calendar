@@ -8325,21 +8325,21 @@ SUMMARY:🤼 Abd Elkrim OUAKALI 🇩🇿 - 🇺🇿 Aram VARDANYAN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T090000Z-wrestling--97--KOR-UZB
+DTSTAMP:20240807T090000Z
+DTSTART:20240807T090000Z
+DTEND:20240807T090700Z
+DESCRIPTION:Борьба - Греко-римская, 97кг, утешительный раунд (м)
+SUMMARY:🤼 KIM Seungjun 🇰🇷 - 🇺🇿 Rustam ASSAKALOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T090000Z-wrestling--50-
 DTSTAMP:20240807T090000Z
 DTSTART:20240807T090000Z
 DTEND:20240807T090700Z
 DESCRIPTION:Борьба - Вольная борьба, 50кг, утешительный раунд (ж)
 SUMMARY:🤼 Вольная борьба, 50кг, утешительный раунд (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T090000Z-wrestling--97-
-DTSTAMP:20240807T090000Z
-DTSTART:20240807T090000Z
-DTEND:20240807T090700Z
-DESCRIPTION:Борьба - Греко-римская, 97кг, утешительный раунд (м)
-SUMMARY:🤼 Греко-римская, 97кг, утешительный раунд (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -9103,7 +9103,17 @@ UID:20240807T115200Z-cycling-track--1-
 DTSTAMP:20240807T115200Z
 DTSTART:20240807T115200Z
 DTEND:20240807T123000Z
-DESCRIPTION:Трековые велогонки - Командная гонка преследования, раунд 1 (ж)
+DESCRIPTION:Трековые велогонки - Командная гонка преследования, раунд 1
+  (ж)\n🇳🇿 Ally WOLLASTON\n🇬🇧 Anna MORRIS\n🇨🇦 Ariane BONHOMME\n🇳🇿
+  Bryony BOTHA\n🇮🇹 Chiara CONSONNI\n🇺🇸 Chloe DYGERT\n🇦🇺 Chloe
+  MORAN\n🇫🇷 Clara COPPONI\n🇬🇧 Elinor BARKER\n🇳🇿 Emily SHEARMAN\n🇨🇦
+  Erin ATTWELL\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia BAKER\n🇺🇸 Jennifer
+  VALENTE\n🇬🇧 Jessica ROBERTS\n🇬🇧 Josie KNIGHT\n🇺🇸 Kristen
+  FAULKNER\n🇩🇪 Laura SUESSEMILCH\n🇮🇹 Letizia PATERNOSTER\n🇺🇸 Lily
+  WILLIAMS\n🇩🇪 Lisa KLEIN\n🇦🇺 Maeve PLOUFFE\n🇨🇦 Maggie
+  COLES-LYSTER\n🇫🇷 Marie le NET\n🇫🇷 Marion BORRAS\n🇮🇹 Martina
+  FIDANZA\n🇩🇪 Mieke KROEGER\n🇳🇿 Nicole SHIELDS\n🇨🇦 Sarah van
+  DAM\n🇦🇺 Sophie EDWARDS\n🇫🇷 Valentine FORTIN\n🇮🇹 Vittoria GUAZZINI
 SUMMARY:🚴 Командная гонка преследования, раунд 1 (ж)
 LOCATION:Национальный велодром
 END:VEVENT
@@ -9164,21 +9174,6 @@ DTEND:20240807T123700Z
 DESCRIPTION:Гребной спринт - Байдарки-одиночки 1000м, четвертьфиналы (м)
 SUMMARY:🛶 Байдарки-одиночки 1000м, четвертьфиналы (м)
 LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T122800Z-sailing--13-
-DTSTAMP:20240807T122800Z
-DTSTART:20240807T122800Z
-DTEND:20240807T124500Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 13 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
-  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
-  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
-  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Кайт, гонка 13 (м)
-LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T123000Z-taekwondo--49-
@@ -9260,21 +9255,6 @@ SUMMARY:🥋 Четвертьфинал, до 49кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T125300Z-sailing--14-
-DTSTAMP:20240807T125300Z
-DTSTART:20240807T125300Z
-DTEND:20240807T131000Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 14 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
-  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
-  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
-  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Кайт, гонка 14 (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240807T130000Z-diving--3-
 DTSTAMP:20240807T130000Z
 DTSTART:20240807T130000Z
@@ -9342,21 +9322,6 @@ SUMMARY:🚴 Кейрин, утешительный раунд (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T131800Z-sailing--15-
-DTSTAMP:20240807T131800Z
-DTSTART:20240807T131800Z
-DTEND:20240807T133500Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 15 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
-  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
-  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
-  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Кайт, гонка 15 (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240807T131900Z-taekwondo--49-
 DTSTAMP:20240807T131900Z
 DTSTART:20240807T131900Z
@@ -9364,37 +9329,6 @@ DTEND:20240807T133200Z
 DESCRIPTION:Тхэквондо - Четвертьфинал, до 49кг (ж)
 SUMMARY:🥋 Четвертьфинал, до 49кг (ж)
 LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T132300Z-sailing--12-
-DTSTAMP:20240807T132300Z
-DTSTART:20240807T132300Z
-DTEND:20240807T134000Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 12 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Кайт, гонка 12 (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T132800Z-sailing--16-
-DTSTAMP:20240807T132800Z
-DTSTART:20240807T132800Z
-DTEND:20240807T134500Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 16 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
-  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
-  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
-  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
-  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
-  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
-  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
-SUMMARY:⛵ Кайт, гонка 16 (м)
-LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T133000Z-cycling-track--132-
@@ -9452,19 +9386,26 @@ SUMMARY:🥋 Четвертьфинал, до 58кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T140000Z-volleyball---POL-USA
+UID:20240807T140000Z-sailing--12-
 DTSTAMP:20240807T140000Z
 DTSTART:20240807T140000Z
-DTEND:20240807T161500Z
-DESCRIPTION:Волейбол - Полуфиналы (м)
-SUMMARY:🏐 Польша 🇵🇱 - 🇺🇸 США
-LOCATION:Арена «Париж-Юг» 1
+DTEND:20240807T141700Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 12 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Кайт, гонка 12 (ж)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T140300Z-sailing--13-
-DTSTAMP:20240807T140300Z
-DTSTART:20240807T140300Z
-DTEND:20240807T142000Z
+UID:20240807T140000Z-sailing--13-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
 DESCRIPTION:Парусный спорт - Кайт, гонка 13 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
   Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
   CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
@@ -9475,6 +9416,123 @@ DESCRIPTION:Парусный спорт - Кайт, гонка 13 (ж)\n🇦🇹
   Maria Catalina TURIENZO
 SUMMARY:⛵ Кайт, гонка 13 (ж)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--13-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 13 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
+  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
+  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
+  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Кайт, гонка 13 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--14-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 14 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Кайт, гонка 14 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--14-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 14 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
+  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
+  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
+  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Кайт, гонка 14 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--15-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 15 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Кайт, гонка 15 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--15-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 15 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
+  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
+  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
+  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Кайт, гонка 15 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--16-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 16 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Кайт, гонка 16 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-sailing--16-
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T141700Z
+DESCRIPTION:Парусный спорт - Кайт, гонка 16 (м)\n🇫🇷 Axel MAZELLA\n🇧🇷
+  Bruno LOBO\n🇬🇧 Connor BAINBRIDGE\n🇨🇾 Denis TARADIN\n🇮🇱 Dor
+  ZARKA\n🇨🇳 HUANG Qibin\n🇩🇪 Jannis MAUS\n🇲🇺 Jean de FALBAIRE\n🇹🇭
+  Joseph Jonathan WESTON\n🇬🇷 Kameron Alexandros MARAMENIDIS\n🇳🇿 Lukas
+  WALTON-KEIM\n🇵🇱 Maks ZAKOWSKI\n🇺🇸 Markus EDEGRAN\n🇭🇷 Martin
+  DOLENC\n🇸🇬 Maximilian MAEDER\n🇮🇹 Riccardo PIANOSI\n🇦🇬 Tiger
+  TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
+SUMMARY:⛵ Кайт, гонка 16 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T140000Z-volleyball---POL-USA
+DTSTAMP:20240807T140000Z
+DTSTART:20240807T140000Z
+DTEND:20240807T161500Z
+DESCRIPTION:Волейбол - Полуфиналы (м)
+SUMMARY:🏐 Польша 🇵🇱 - 🇺🇸 США
+LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T142100Z-taekwondo--49-
@@ -9493,22 +9551,6 @@ DTEND:20240807T144900Z
 DESCRIPTION:Тхэквондо - Полуфинал, до 58кг (м)
 SUMMARY:🥋 Полуфинал, до 58кг (м)
 LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T144300Z-sailing--14-
-DTSTAMP:20240807T144300Z
-DTSTART:20240807T144300Z
-DTEND:20240807T150000Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 14 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Кайт, гонка 14 (ж)
-LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T144900Z-taekwondo--49-
@@ -9536,38 +9578,6 @@ DTEND:20240807T151500Z
 DESCRIPTION:Тхэквондо - Полуфинал, до 58кг (м)
 SUMMARY:🥋 Полуфинал, до 58кг (м)
 LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T152300Z-sailing--15-
-DTSTAMP:20240807T152300Z
-DTSTART:20240807T152300Z
-DTEND:20240807T154000Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 15 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Кайт, гонка 15 (ж)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T152300Z-sailing--16-
-DTSTAMP:20240807T152300Z
-DTSTART:20240807T152300Z
-DTEND:20240807T154000Z
-DESCRIPTION:Парусный спорт - Кайт, гонка 16 (ж)\n🇦🇹 Alina KORNELLI\n🇳🇱
-  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
-  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
-  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
-  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
-  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
-  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
-  Maria Catalina TURIENZO
-SUMMARY:⛵ Кайт, гонка 16 (ж)
-LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T153000Z-cycling-track--116-
@@ -9852,7 +9862,8 @@ UID:20240807T171800Z-wrestling--97-
 DTSTAMP:20240807T171800Z
 DTSTART:20240807T171800Z
 DTEND:20240807T172500Z
-DESCRIPTION:Борьба - Греко-римская, 97кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Греко-римская, 97кг, поединок за бронзу (м)\n🇨🇺
+  Gabriel Alejandro ROSILLO KINDELAN
 SUMMARY:🤼 Греко-римская, 97кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -9913,7 +9924,7 @@ UID:20240807T173200Z-wrestling--97-
 DTSTAMP:20240807T173200Z
 DTSTART:20240807T173200Z
 DTEND:20240807T173900Z
-DESCRIPTION:Борьба - Греко-римская, 97кг, финал (м)
+DESCRIPTION:Борьба - Греко-римская, 97кг, финал (м)\n🇦🇲 Artur ALEKSANYAN
 SUMMARY:🤼 Греко-римская, 97кг, финал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
