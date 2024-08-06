@@ -48,4 +48,13 @@ DESCRIPTION:Гандбол - Четвертьфинал (м)
 SUMMARY:🤾 Германия 🇩🇪 - 🇫🇷 Франция
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T143000Z-handball---SWE-FRA
+DTSTAMP:20240808T143000Z
+DTSTART:20240808T143000Z
+DTEND:20240808T163000Z
+DESCRIPTION:Гандбол - Полуфинал (ж)
+SUMMARY:🤾 Швеция 🇸🇪 - 🇫🇷 Франция
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
 END:VCALENDAR

@@ -48,4 +48,13 @@ DESCRIPTION:Гандбол - Четвертьфинал (м)
 SUMMARY:🤾 Дания 🇩🇰 - 🇸🇪 Швеция
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T193000Z-handball---NOR-DEN
+DTSTAMP:20240808T193000Z
+DTSTART:20240808T193000Z
+DTEND:20240808T213000Z
+DESCRIPTION:Гандбол - Полуфинал (ж)
+SUMMARY:🤾 Норвегия 🇳🇴 - 🇩🇰 Дания
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
 END:VCALENDAR
