@@ -1552,7 +1552,11 @@ UID:20240807T124300Z-sailing--
 DTSTAMP:20240807T124300Z
 DTSTART:20240807T124300Z
 DTEND:20240807T130500Z
-DESCRIPTION:Парусный спорт - Многокорпусник, медальная гонка (микст)
+DESCRIPTION:Парусный спорт - Многокорпусник, медальная гонка (микст)\n🇬🇧
+  GIMSON/BURNET\n🇸🇪 JARUDD/JONSSON\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
 SUMMARY:⛵ Многокорпусник, медальная гонка (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
@@ -1574,7 +1578,11 @@ UID:20240807T134300Z-sailing--
 DTSTAMP:20240807T134300Z
 DTSTART:20240807T134300Z
 DTEND:20240807T140300Z
-DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (микст)
+DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (микст)\n🇵🇹
+  COSTA/JOAO\n🇸🇪 DAHLBERG/KARLSSON\n🇧🇷 DUARTE HAD/SWAN\n🇮🇱
+  HASSON/LASRY\n🇦🇺 JERWOOD/NICHOLAS\n🇫🇷 LECOINTRE/MION\n🇨🇭
+  MERMOD/SIEGENTHALER\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹 VADLAU/MAEHR\n🇪🇸
+  XAMMAR/BRUGMAN
 SUMMARY:⛵ Швертбот, медальная гонка (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
@@ -1676,7 +1684,8 @@ UID:20240807T172500Z-wrestling--97-
 DTSTAMP:20240807T172500Z
 DTSTART:20240807T172500Z
 DTEND:20240807T173200Z
-DESCRIPTION:Борьба - Греко-римская, 97кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Греко-римская, 97кг, поединок за бронзу (м)\n🇪🇬
+  Mohamed GABR
 SUMMARY:🤼 Греко-римская, 97кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -1715,12 +1724,12 @@ SUMMARY:🏋 49кг (ж)
 LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T173200Z-wrestling--97-
+UID:20240807T173200Z-wrestling--97--ARM-IRI
 DTSTAMP:20240807T173200Z
 DTSTART:20240807T173200Z
 DTEND:20240807T173900Z
-DESCRIPTION:Борьба - Греко-римская, 97кг, финал (м)\n🇦🇲 Artur ALEKSANYAN
-SUMMARY:🤼 Греко-римская, 97кг, финал (м)
+DESCRIPTION:Борьба - Греко-римская, 97кг, финал (м)
+SUMMARY:🤼 Artur ALEKSANYAN 🇦🇲 - 🇮🇷 Mohammadhadi SARAVI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT

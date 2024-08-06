@@ -500,4 +500,17 @@ DESCRIPTION:Парусный спорт - Многокорпусник, гонк
 SUMMARY:⛵ Многокорпусник, гонка 12 (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T124300Z-sailing--
+DTSTAMP:20240807T124300Z
+DTSTART:20240807T124300Z
+DTEND:20240807T130500Z
+DESCRIPTION:Парусный спорт - Многокорпусник, медальная гонка (микст)\n🇬🇧
+  GIMSON/BURNET\n🇸🇪 JARUDD/JONSSON\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Многокорпусник, медальная гонка (микст)
+LOCATION:Марсельская гавань
+END:VEVENT
 END:VCALENDAR
