@@ -1462,6 +1462,22 @@ SUMMARY:🤾 덴마크 🇩🇰 - 🇸🇪 스웨덴
 LOCATION:피에르 모루아 스타디움
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T173500Z-athletics--400M-
+DTSTAMP:20240807T173500Z
+DTSTART:20240807T173500Z
+DTEND:20240807T175200Z
+DESCRIPTION:육상 - 남자 400m 허들 준결승\n🇶🇦 Abderrahman SAMBA\n🇬🇧 Alastair
+  CHALMERS\n🇮🇹 Alessandro SIBILIO\n🇧🇷 Alison dos SANTOS\n🇹🇷 Berke
+  AKCAM\n🇸🇪 Carl BENGTSTROM\n🇺🇸 Cj ALLEN\n🇫🇷 Clement DUCOS\n🇩🇪 Emil
+  AGYEKUM\n🇳🇬 Ezekiel NATHANIEL\n🇨🇷 Gerald DRUMMOND\n🇯🇲 Jaheel
+  HYDE\n🇩🇪 Joshua ABUAKU\n🇳🇴 Karsten WARHOLM\n🇻🇬 Kyron McMASTER\n🇯🇲
+  Malik JAMES-KING\n🇧🇷 Matheus LIMA\n🇳🇱 Nick SMIDT\n🇺🇸 Rai
+  BENJAMIN\n🇪🇪 Rasmus MAGI\n🇯🇲 Roshawn CLARKE\n🇺🇸 Trevor
+  BASSITT\n🇫🇷 Wilfried HAPPIO\n🇰🇪 Wiseman Were MUKHOBE
+SUMMARY:🏃 남자 400m 허들 준결승
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T182500Z-athletics--
 DTSTAMP:20240807T182500Z
 DTSTART:20240807T182500Z
@@ -1500,6 +1516,25 @@ DESCRIPTION:골프 - 여자 개인 스트로크 플레이 2라운드\n🇮🇳 A
   YIN Ruoning
 SUMMARY:⛳ 여자 개인 스트로크 플레이 2라운드
 LOCATION:골프 나시오날
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T053000Z-marathon-swimming--10KM
+DTSTAMP:20240809T053000Z
+DTSTART:20240809T053000Z
+DTEND:20240809T075000Z
+DESCRIPTION:마라톤 수영 - 남자 10km\n🇹🇳 Ahmed JAOUADI\n🇬🇷 Athanasios
+  Charalampos KYNIGAKIS\n🇪🇸 Carlos GARACH BENITO\n🇮🇪 Daniel
+  WIFFEN\n🇪🇨 David Andres FARINANGO BERRU\n🇭🇺 David BETLEHEM\n🇮🇹
+  Domenico ACERENZA\n🇹🇷 Emir Batur ALBAYRAK\n🇦🇹 Felix AUBOECK\n🇩🇪
+  Florian WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇬🇧
+  Hector PARDOE\n🇳🇴 Henrik CHRISTIANSEN\n🇺🇸 Ivan PUSKOVITCH\n🇦🇹 Jan
+  HERCOG\n🇭🇺 Kristof RASOVSZKY\n🇹🇷 Kuzey TUNCELLI\n🇦🇺 Kyle LEE\n🇫🇷
+  Logan FONTAINE\n🇯🇵 MINAMIDE Taishin\n🇫🇷 Marc-Antoine OLIVIER\n🇨🇿
+  Martin STRAKA\n🇮🇱 Matan RODITI\n🇦🇺 Nick SLOMAN\n🇩🇪 Oliver
+  KLEMET\n🇲🇽 Paulo STREHLKE DELGADO\n🇳🇦 Phillip SEIDLER\n🇵🇱 Piotr
+  WOZNIAK\n🇬🇧 Tobias Patrick ROBINSON\n🇸🇪 Victor JOHANSSON
+SUMMARY:🏊 남자 10km
+LOCATION:알렉상드르 3세 다리
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

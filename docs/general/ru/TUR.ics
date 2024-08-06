@@ -1419,6 +1419,23 @@ SUMMARY:⛵ Кайт, гонка 16 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T173500Z-athletics-400-
+DTSTAMP:20240807T173500Z
+DTSTART:20240807T173500Z
+DTEND:20240807T175200Z
+DESCRIPTION:Легкая атлетика - 400м с/б, полуфинал (м)\n🇶🇦 Abderrahman
+  SAMBA\n🇬🇧 Alastair CHALMERS\n🇮🇹 Alessandro SIBILIO\n🇧🇷 Alison dos
+  SANTOS\n🇹🇷 Berke AKCAM\n🇸🇪 Carl BENGTSTROM\n🇺🇸 Cj ALLEN\n🇫🇷
+  Clement DUCOS\n🇩🇪 Emil AGYEKUM\n🇳🇬 Ezekiel NATHANIEL\n🇨🇷 Gerald
+  DRUMMOND\n🇯🇲 Jaheel HYDE\n🇩🇪 Joshua ABUAKU\n🇳🇴 Karsten
+  WARHOLM\n🇻🇬 Kyron McMASTER\n🇯🇲 Malik JAMES-KING\n🇧🇷 Matheus
+  LIMA\n🇳🇱 Nick SMIDT\n🇺🇸 Rai BENJAMIN\n🇪🇪 Rasmus MAGI\n🇯🇲 Roshawn
+  CLARKE\n🇺🇸 Trevor BASSITT\n🇫🇷 Wilfried HAPPIO\n🇰🇪 Wiseman Were
+  MUKHOBE
+SUMMARY:🏃 400м с/б, полуфинал (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T193000Z-boxing--57--TPE-TUR
 DTSTAMP:20240807T193000Z
 DTSTART:20240807T193000Z
@@ -1466,6 +1483,25 @@ DTEND:20240808T210200Z
 DESCRIPTION:Бокс - Финал, до 54кг (ж)
 SUMMARY:🥊 CHANG Yuan 🇨🇳 - 🇹🇷 Hatice AKBAS
 LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T053000Z-marathon-swimming-10-
+DTSTAMP:20240809T053000Z
+DTSTART:20240809T053000Z
+DTEND:20240809T075000Z
+DESCRIPTION:Марафонское плавание - 10км (м)\n🇹🇳 Ahmed JAOUADI\n🇬🇷
+  Athanasios Charalampos KYNIGAKIS\n🇪🇸 Carlos GARACH BENITO\n🇮🇪 Daniel
+  WIFFEN\n🇪🇨 David Andres FARINANGO BERRU\n🇭🇺 David BETLEHEM\n🇮🇹
+  Domenico ACERENZA\n🇹🇷 Emir Batur ALBAYRAK\n🇦🇹 Felix AUBOECK\n🇩🇪
+  Florian WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇬🇧
+  Hector PARDOE\n🇳🇴 Henrik CHRISTIANSEN\n🇺🇸 Ivan PUSKOVITCH\n🇦🇹 Jan
+  HERCOG\n🇭🇺 Kristof RASOVSZKY\n🇹🇷 Kuzey TUNCELLI\n🇦🇺 Kyle LEE\n🇫🇷
+  Logan FONTAINE\n🇯🇵 MINAMIDE Taishin\n🇫🇷 Marc-Antoine OLIVIER\n🇨🇿
+  Martin STRAKA\n🇮🇱 Matan RODITI\n🇦🇺 Nick SLOMAN\n🇩🇪 Oliver
+  KLEMET\n🇲🇽 Paulo STREHLKE DELGADO\n🇳🇦 Phillip SEIDLER\n🇵🇱 Piotr
+  WOZNIAK\n🇬🇧 Tobias Patrick ROBINSON\n🇸🇪 Victor JOHANSSON
+SUMMARY:🏊 10км (м)
+LOCATION:Мост Александра III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T074600Z-taekwondo-18-80--TUR-CUB

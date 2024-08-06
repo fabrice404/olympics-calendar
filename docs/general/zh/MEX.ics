@@ -756,6 +756,22 @@ SUMMARY:🛶 女子500米双人皮艇分组预赛
 LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T121000Z-canoe-sprint-50014
+DTSTAMP:20240806T121000Z
+DTSTART:20240806T121000Z
+DTEND:20240806T122700Z
+DESCRIPTION:皮划艇静水 - 女子500米双人皮艇1/4决赛\n🇳🇿 Aimee FISHER\n🇭🇺 Alida Dora
+  GAZSO\n🇦🇺 Aly BULL\n🇳🇴 Anna Margrete SLETSJOEE\n🇲🇽 Beatriz BRIONES
+  FRAGOZA\n🇪🇸 Carolina GARCIA OTERO\n🇨🇦 Courtney STOTT\n🇦🇺 Ella
+  BEERE\n🇩🇰 Emma Aastrand JORGENSEN\n🇿🇦 Esti OLIVIER\n🇩🇰 Frederikke
+  Hauge MATTHIESEN\n🇲🇽 Karina ALANIS MORALES\n🇳🇿 Lucy MATEHAERE\n🇫🇷
+  Manon HOSTENS\n🇳🇴 Maria VIRIK\n🇨🇦 Natalie DAVISON\n🇭🇺 Noemi
+  PUPP\n🇳🇱 Ruth VORSSELMAN\n🇭🇺 Sara FOJT\n🇪🇸 Sara OUZANDE\n🇳🇱 Selma
+  KONIJN\n🇭🇺 Tamara CSIPES\n🇿🇦 Tiffany Amber KOCH\n🇫🇷 Vanina PAOLETTI
+SUMMARY:🛶 女子500米双人皮艇1/4决赛
+LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T130000Z-diving-10
 DTSTAMP:20240806T130000Z
 DTSTART:20240806T130000Z
@@ -948,6 +964,23 @@ SUMMARY:🏃 女子400米半决赛
 LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T053000Z-marathon-swimming-10
+DTSTAMP:20240808T053000Z
+DTSTART:20240808T053000Z
+DTEND:20240808T075000Z
+DESCRIPTION:马拉松游泳 - 女子10公里\n🇧🇷 Ana Marcela CUNHA\n🇪🇸 Angela MARTINEZ
+  GUILLEN\n🇵🇹 Angelica ANDRE\n🇭🇺 Bettina FABIAN\n🇫🇷 Caroline
+  JOUISSE\n🇦🇺 Chelsea GUBECKA\n🇯🇵 EBINA Airi\n🇨🇦 Emma FINLIN\n🇮🇹
+  Ginevra TADDEUCCI\n🇮🇹 Giulia GABBRIELLESCHI\n🇺🇸 Katie GRIMES\n🇬🇧
+  Leah Phoebe CRISP\n🇩🇪 Leonie BECK\n🇩🇪 Leonie MAERTENS\n🇲🇨 Lisa
+  POU\n🇵🇪 Maria Alejandra BRAMONT-ARIAS\n🇪🇸 Maria de VALDES
+  ALVAREZ\n🇺🇸 Mariah DENIGAN\n🇲🇽 Martha SANDOVAL AYALA\n🇦🇺 Moesha
+  JOHNSON\n🇫🇷 Oceane CASSIGNOL\n🇳🇱 Sharon van ROUWENDAAL\n🇧🇷 Viviane
+  JUNGBLUT\n🇨🇳 XIN Xin
+SUMMARY:🏊 女子10公里
+LOCATION:亚历山大三世桥
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T070000Z-golf-2
 DTSTAMP:20240808T070000Z
 DTSTART:20240808T070000Z
@@ -985,6 +1018,25 @@ DESCRIPTION:举重 - 女子59公斤级\n🇻🇪 Anyelin VENEGAS VALERA\n🇫�
   Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
 SUMMARY:🏋 女子59公斤级
 LOCATION:南巴黎竞技场6号馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T053000Z-marathon-swimming-10
+DTSTAMP:20240809T053000Z
+DTSTART:20240809T053000Z
+DTEND:20240809T075000Z
+DESCRIPTION:马拉松游泳 - 男子10公里\n🇹🇳 Ahmed JAOUADI\n🇬🇷 Athanasios Charalampos
+  KYNIGAKIS\n🇪🇸 Carlos GARACH BENITO\n🇮🇪 Daniel WIFFEN\n🇪🇨 David
+  Andres FARINANGO BERRU\n🇭🇺 David BETLEHEM\n🇮🇹 Domenico ACERENZA\n🇹🇷
+  Emir Batur ALBAYRAK\n🇦🇹 Felix AUBOECK\n🇩🇪 Florian WELLBROCK\n🇮🇹
+  Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇬🇧 Hector PARDOE\n🇳🇴
+  Henrik CHRISTIANSEN\n🇺🇸 Ivan PUSKOVITCH\n🇦🇹 Jan HERCOG\n🇭🇺 Kristof
+  RASOVSZKY\n🇹🇷 Kuzey TUNCELLI\n🇦🇺 Kyle LEE\n🇫🇷 Logan FONTAINE\n🇯🇵
+  MINAMIDE Taishin\n🇫🇷 Marc-Antoine OLIVIER\n🇨🇿 Martin STRAKA\n🇮🇱
+  Matan RODITI\n🇦🇺 Nick SLOMAN\n🇩🇪 Oliver KLEMET\n🇲🇽 Paulo STREHLKE
+  DELGADO\n🇳🇦 Phillip SEIDLER\n🇵🇱 Piotr WOZNIAK\n🇬🇧 Tobias Patrick
+  ROBINSON\n🇸🇪 Victor JOHANSSON
+SUMMARY:🏊 男子10公里
+LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T080000Z-diving-10

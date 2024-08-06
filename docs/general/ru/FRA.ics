@@ -3229,6 +3229,23 @@ SUMMARY:⛵ Кайт, гонка 10 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T121000Z-canoe-sprint--500-
+DTSTAMP:20240806T121000Z
+DTSTART:20240806T121000Z
+DTEND:20240806T122700Z
+DESCRIPTION:Гребной спринт - Байдарки-двойки 500м, четвертьфиналы (ж)\n🇳🇿
+  Aimee FISHER\n🇭🇺 Alida Dora GAZSO\n🇦🇺 Aly BULL\n🇳🇴 Anna Margrete
+  SLETSJOEE\n🇲🇽 Beatriz BRIONES FRAGOZA\n🇪🇸 Carolina GARCIA OTERO\n🇨🇦
+  Courtney STOTT\n🇦🇺 Ella BEERE\n🇩🇰 Emma Aastrand JORGENSEN\n🇿🇦 Esti
+  OLIVIER\n🇩🇰 Frederikke Hauge MATTHIESEN\n🇲🇽 Karina ALANIS
+  MORALES\n🇳🇿 Lucy MATEHAERE\n🇫🇷 Manon HOSTENS\n🇳🇴 Maria VIRIK\n🇨🇦
+  Natalie DAVISON\n🇭🇺 Noemi PUPP\n🇳🇱 Ruth VORSSELMAN\n🇭🇺 Sara
+  FOJT\n🇪🇸 Sara OUZANDE\n🇳🇱 Selma KONIJN\n🇭🇺 Tamara CSIPES\n🇿🇦
+  Tiffany Amber KOCH\n🇫🇷 Vanina PAOLETTI
+SUMMARY:🛶 Байдарки-двойки 500м, четвертьфиналы (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T122900Z-sailing--09-
 DTSTAMP:20240806T122900Z
 DTSTART:20240806T122900Z
@@ -3793,6 +3810,23 @@ SUMMARY:🏊 Группы, акробатическая программа
 LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T173500Z-athletics-400-
+DTSTAMP:20240807T173500Z
+DTSTART:20240807T173500Z
+DTEND:20240807T175200Z
+DESCRIPTION:Легкая атлетика - 400м с/б, полуфинал (м)\n🇶🇦 Abderrahman
+  SAMBA\n🇬🇧 Alastair CHALMERS\n🇮🇹 Alessandro SIBILIO\n🇧🇷 Alison dos
+  SANTOS\n🇹🇷 Berke AKCAM\n🇸🇪 Carl BENGTSTROM\n🇺🇸 Cj ALLEN\n🇫🇷
+  Clement DUCOS\n🇩🇪 Emil AGYEKUM\n🇳🇬 Ezekiel NATHANIEL\n🇨🇷 Gerald
+  DRUMMOND\n🇯🇲 Jaheel HYDE\n🇩🇪 Joshua ABUAKU\n🇳🇴 Karsten
+  WARHOLM\n🇻🇬 Kyron McMASTER\n🇯🇲 Malik JAMES-KING\n🇧🇷 Matheus
+  LIMA\n🇳🇱 Nick SMIDT\n🇺🇸 Rai BENJAMIN\n🇪🇪 Rasmus MAGI\n🇯🇲 Roshawn
+  CLARKE\n🇺🇸 Trevor BASSITT\n🇫🇷 Wilfried HAPPIO\n🇰🇪 Wiseman Were
+  MUKHOBE
+SUMMARY:🏃 400м с/б, полуфинал (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T180000Z-volleyball---ITA-FRA
 DTSTAMP:20240807T180000Z
 DTSTART:20240807T180000Z
@@ -3818,6 +3852,23 @@ DTEND:20240807T204500Z
 DESCRIPTION:Бокс - Финал, до 63,5кг (м)
 SUMMARY:🥊 Sofiane OUMIHA 🇫🇷 - 🇨🇺 Erislandy ALVAREZ BORGES
 LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T053000Z-marathon-swimming-10-
+DTSTAMP:20240808T053000Z
+DTSTART:20240808T053000Z
+DTEND:20240808T075000Z
+DESCRIPTION:Марафонское плавание - 10км (ж)\n🇧🇷 Ana Marcela CUNHA\n🇪🇸
+  Angela MARTINEZ GUILLEN\n🇵🇹 Angelica ANDRE\n🇭🇺 Bettina FABIAN\n🇫🇷
+  Caroline JOUISSE\n🇦🇺 Chelsea GUBECKA\n🇯🇵 EBINA Airi\n🇨🇦 Emma
+  FINLIN\n🇮🇹 Ginevra TADDEUCCI\n🇮🇹 Giulia GABBRIELLESCHI\n🇺🇸 Katie
+  GRIMES\n🇬🇧 Leah Phoebe CRISP\n🇩🇪 Leonie BECK\n🇩🇪 Leonie
+  MAERTENS\n🇲🇨 Lisa POU\n🇵🇪 Maria Alejandra BRAMONT-ARIAS\n🇪🇸 Maria
+  de VALDES ALVAREZ\n🇺🇸 Mariah DENIGAN\n🇲🇽 Martha SANDOVAL AYALA\n🇦🇺
+  Moesha JOHNSON\n🇫🇷 Oceane CASSIGNOL\n🇳🇱 Sharon van ROUWENDAAL\n🇧🇷
+  Viviane JUNGBLUT\n🇨🇳 XIN Xin
+SUMMARY:🏊 10км (ж)
+LOCATION:Мост Александра III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T070000Z-golf--2-
@@ -3924,6 +3975,25 @@ DTEND:20240808T204500Z
 DESCRIPTION:Бокс - Финал, до 51кг (м)
 SUMMARY:🥊 Billal BENNAMA 🇫🇷 - 🇺🇿 Hasanboy DUSMATOV
 LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T053000Z-marathon-swimming-10-
+DTSTAMP:20240809T053000Z
+DTSTART:20240809T053000Z
+DTEND:20240809T075000Z
+DESCRIPTION:Марафонское плавание - 10км (м)\n🇹🇳 Ahmed JAOUADI\n🇬🇷
+  Athanasios Charalampos KYNIGAKIS\n🇪🇸 Carlos GARACH BENITO\n🇮🇪 Daniel
+  WIFFEN\n🇪🇨 David Andres FARINANGO BERRU\n🇭🇺 David BETLEHEM\n🇮🇹
+  Domenico ACERENZA\n🇹🇷 Emir Batur ALBAYRAK\n🇦🇹 Felix AUBOECK\n🇩🇪
+  Florian WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇬🇧
+  Hector PARDOE\n🇳🇴 Henrik CHRISTIANSEN\n🇺🇸 Ivan PUSKOVITCH\n🇦🇹 Jan
+  HERCOG\n🇭🇺 Kristof RASOVSZKY\n🇹🇷 Kuzey TUNCELLI\n🇦🇺 Kyle LEE\n🇫🇷
+  Logan FONTAINE\n🇯🇵 MINAMIDE Taishin\n🇫🇷 Marc-Antoine OLIVIER\n🇨🇿
+  Martin STRAKA\n🇮🇱 Matan RODITI\n🇦🇺 Nick SLOMAN\n🇩🇪 Oliver
+  KLEMET\n🇲🇽 Paulo STREHLKE DELGADO\n🇳🇦 Phillip SEIDLER\n🇵🇱 Piotr
+  WOZNIAK\n🇬🇧 Tobias Patrick ROBINSON\n🇸🇪 Victor JOHANSSON
+SUMMARY:🏊 10км (м)
+LOCATION:Мост Александра III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T070900Z-taekwondo-18-67--USA-FRA

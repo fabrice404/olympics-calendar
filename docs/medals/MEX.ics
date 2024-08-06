@@ -182,6 +182,23 @@ SUMMARY:🏊 Team Acrobatic Routine
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T053000Z-marathon-swimming-WOMENS-10KM
+DTSTAMP:20240808T053000Z
+DTSTART:20240808T053000Z
+DTEND:20240808T075000Z
+DESCRIPTION:Marathon Swimming - Women's 10km\n🇧🇷 Ana Marcela CUNHA\n🇪🇸
+  Angela MARTINEZ GUILLEN\n🇵🇹 Angelica ANDRE\n🇭🇺 Bettina FABIAN\n🇫🇷
+  Caroline JOUISSE\n🇦🇺 Chelsea GUBECKA\n🇯🇵 EBINA Airi\n🇨🇦 Emma
+  FINLIN\n🇮🇹 Ginevra TADDEUCCI\n🇮🇹 Giulia GABBRIELLESCHI\n🇺🇸 Katie
+  GRIMES\n🇬🇧 Leah Phoebe CRISP\n🇩🇪 Leonie BECK\n🇩🇪 Leonie
+  MAERTENS\n🇲🇨 Lisa POU\n🇵🇪 Maria Alejandra BRAMONT-ARIAS\n🇪🇸 Maria
+  de VALDES ALVAREZ\n🇺🇸 Mariah DENIGAN\n🇲🇽 Martha SANDOVAL AYALA\n🇦🇺
+  Moesha JOHNSON\n🇫🇷 Oceane CASSIGNOL\n🇳🇱 Sharon van ROUWENDAAL\n🇧🇷
+  Viviane JUNGBLUT\n🇨🇳 XIN Xin
+SUMMARY:🏊 Women's 10km
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T130000Z-weightlifting-WOMENS-59KG
 DTSTAMP:20240808T130000Z
 DTSTART:20240808T130000Z
@@ -193,6 +210,25 @@ DESCRIPTION:Weightlifting - Women's 59kg\n🇻🇪 Anyelin VENEGAS VALERA\n🇫�
   Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
 SUMMARY:🏋 Women's 59kg
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T053000Z-marathon-swimming-MENS-10KM
+DTSTAMP:20240809T053000Z
+DTSTART:20240809T053000Z
+DTEND:20240809T075000Z
+DESCRIPTION:Marathon Swimming - Men's 10km\n🇹🇳 Ahmed JAOUADI\n🇬🇷
+  Athanasios Charalampos KYNIGAKIS\n🇪🇸 Carlos GARACH BENITO\n🇮🇪 Daniel
+  WIFFEN\n🇪🇨 David Andres FARINANGO BERRU\n🇭🇺 David BETLEHEM\n🇮🇹
+  Domenico ACERENZA\n🇹🇷 Emir Batur ALBAYRAK\n🇦🇹 Felix AUBOECK\n🇩🇪
+  Florian WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇧🇷 Guilherme COSTA\n🇬🇧
+  Hector PARDOE\n🇳🇴 Henrik CHRISTIANSEN\n🇺🇸 Ivan PUSKOVITCH\n🇦🇹 Jan
+  HERCOG\n🇭🇺 Kristof RASOVSZKY\n🇹🇷 Kuzey TUNCELLI\n🇦🇺 Kyle LEE\n🇫🇷
+  Logan FONTAINE\n🇯🇵 MINAMIDE Taishin\n🇫🇷 Marc-Antoine OLIVIER\n🇨🇿
+  Martin STRAKA\n🇮🇱 Matan RODITI\n🇦🇺 Nick SLOMAN\n🇩🇪 Oliver
+  KLEMET\n🇲🇽 Paulo STREHLKE DELGADO\n🇳🇦 Phillip SEIDLER\n🇵🇱 Piotr
+  WOZNIAK\n🇬🇧 Tobias Patrick ROBINSON\n🇸🇪 Victor JOHANSSON
+SUMMARY:🏊 Men's 10km
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-artistic-swimming-DUET-FREE-ROUTINE
