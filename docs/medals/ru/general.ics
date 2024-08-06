@@ -1237,22 +1237,12 @@ SUMMARY:🏄 Caroline MARKS 🇺🇸 - 🇧🇷 Tatiana WESTON-WEBB
 LOCATION:Теахупоо, Таити
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T080000Z-equestrian--
-DTSTAMP:20240806T080000Z
-DTSTART:20240806T080000Z
-DTEND:20240806T092100Z
-DESCRIPTION:Конный спорт - Личный конкур, финал\n🇸🇦 Abdulrahman
-  ALRAJHI\n🇲🇽 Andres AZCARRAGA\n🇬🇧 Ben MAHER\n🇩🇪 Christian
-  KUKUK\n🇮🇪 Daniel COYLE\n🇮🇹 Emanuele CAMILLI\n🇧🇪 Gilles THOMAS\n🇧🇪
-  Gregory WATHELET\n🇯🇵 HAASE SHIBAYAMA Takashi\n🇳🇱 Harrie
-  SMOLDERS\n🇸🇪 Henrik von ECKERMANN\n🇦🇷 Jose Maria (jr) LAROCCA\n🇫🇷
-  Julien EPAILLARD\n🇺🇸 Karl COOK\n🇳🇱 Kim EMMEN\n🇺🇸 Laura KRAUT\n🇳🇱
-  Maikel van der VLEUTEN\n🇨🇦 Mario DESLAURIERS\n🇨🇭 Martin FUCHS\n🇦🇹
-  Max KUEHNER\n🇦🇪 Omar Abdul Aziz AL MARZOOQI\n🇩🇪 Philipp
-  WEISHAUPT\n🇸🇦 Ramzy AL DUHAMI\n🇧🇷 Rodrigo PESSOA\n🇬🇧 Scott
-  BRASH\n🇮🇪 Shane SWEETNAM\n🇫🇷 Simon DELESTRE\n🇧🇷 Stephan de FREITAS
-  BARCHA\n🇨🇭 Steve GUERDAT\n🇳🇴 Victoria GULLIKSEN
-SUMMARY:🏇 Личный конкур, финал
+UID:20240806T094100Z-equestrian--
+DTSTAMP:20240806T094100Z
+DTSTART:20240806T094100Z
+DTEND:20240806T095100Z
+DESCRIPTION:Конный спорт - Личный конкур, финал, перепрыжка
+SUMMARY:🏇 Личный конкур, финал, перепрыжка
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
@@ -1586,6 +1576,15 @@ SUMMARY:🛹 Парк, финал (м)
 LOCATION:Площадь Согласия 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T161500Z-athletics--
+DTSTAMP:20240807T161500Z
+DTSTART:20240807T161500Z
+DTEND:20240807T193000Z
+DESCRIPTION:Легкая атлетика - Прыжки с шестом, финал (ж)
+SUMMARY:🏃 Прыжки с шестом, финал (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T162300Z-cycling-track--3-
 DTSTAMP:20240807T162300Z
 DTSTART:20240807T162300Z
@@ -1603,15 +1602,6 @@ DTEND:20240807T164200Z
 DESCRIPTION:Трековые велогонки - Командная гонка преследования, финал (м)
 SUMMARY:🚴 Командная гонка преследования, финал (м)
 LOCATION:Национальный велодром
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T170000Z-athletics--
-DTSTAMP:20240807T170000Z
-DTSTART:20240807T170000Z
-DTEND:20240807T190600Z
-DESCRIPTION:Легкая атлетика - Прыжки с шестом, финал (ж)
-SUMMARY:🏃 Прыжки с шестом, финал (ж)
-LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T171700Z-cycling-track--3-
