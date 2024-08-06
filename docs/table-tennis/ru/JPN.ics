@@ -57,4 +57,14 @@ DESCRIPTION:Настольный теннис - Полуфинал, команд
 SUMMARY:🏓 Япония 🇯🇵 - 🇸🇪 Швеция
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T180000Z-table-tennis--
+DTSTAMP:20240808T180000Z
+DTSTART:20240808T180000Z
+DTEND:20240808T210000Z
+DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (ж)\n🇯🇵
+  Япония
+SUMMARY:🏓 Полуфинал, командный разряд (ж)
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
 END:VCALENDAR
