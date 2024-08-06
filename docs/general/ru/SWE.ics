@@ -1142,13 +1142,13 @@ DESCRIPTION:Конный спорт - Личный конкур, финал\n�
   ALRAJHI\n🇲🇽 Andres AZCARRAGA\n🇬🇧 Ben MAHER\n🇩🇪 Christian
   KUKUK\n🇮🇪 Daniel COYLE\n🇮🇹 Emanuele CAMILLI\n🇧🇪 Gilles THOMAS\n🇧🇪
   Gregory WATHELET\n🇯🇵 HAASE SHIBAYAMA Takashi\n🇳🇱 Harrie
-  SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik von ECKERMANN\n🇦🇷 Jose Maria
-  (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸 Karl COOK\n🇳🇱 Kim EMMEN\n🇺🇸
-  Laura KRAUT\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Martin FUCHS\n🇦🇹 Max
-  KUEHNER\n🇦🇪 Omar Abdul Aziz AL MARZOOQI\n🇩🇪 Philipp WEISHAUPT\n🇸🇦
-  Ramzy AL DUHAMI\n🇧🇷 Rodrigo PESSOA\n🇬🇧 Scott BRASH\n🇮🇪 Shane
-  SWEETNAM\n🇫🇷 Simon DELESTRE\n🇧🇷 Stephan de FREITAS BARCHA\n🇨🇭 Steve
-  GUERDAT\n🇳🇴 Victoria GULLIKSEN
+  SMOLDERS\n🇸🇪 Henrik von ECKERMANN\n🇦🇷 Jose Maria (jr) LAROCCA\n🇫🇷
+  Julien EPAILLARD\n🇺🇸 Karl COOK\n🇳🇱 Kim EMMEN\n🇺🇸 Laura KRAUT\n🇳🇱
+  Maikel van der VLEUTEN\n🇨🇦 Mario DESLAURIERS\n🇨🇭 Martin FUCHS\n🇦🇹
+  Max KUEHNER\n🇦🇪 Omar Abdul Aziz AL MARZOOQI\n🇩🇪 Philipp
+  WEISHAUPT\n🇸🇦 Ramzy AL DUHAMI\n🇧🇷 Rodrigo PESSOA\n🇬🇧 Scott
+  BRASH\n🇮🇪 Shane SWEETNAM\n🇫🇷 Simon DELESTRE\n🇧🇷 Stephan de FREITAS
+  BARCHA\n🇨🇭 Steve GUERDAT\n🇳🇴 Victoria GULLIKSEN
 SUMMARY:🏇 Личный конкур, финал
 LOCATION:Версаль
 END:VEVENT
@@ -1298,6 +1298,15 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 09 (ми�
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ Швертбот, гонка 09 (микст)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T130000Z-table-tennis-14--SWE-KOR
+DTSTAMP:20240806T130000Z
+DTSTART:20240806T130000Z
+DTEND:20240806T160000Z
+DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)
+SUMMARY:🏓 Швеция 🇸🇪 - 🇰🇷 Южная Корея
+LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T133600Z-sailing--10-

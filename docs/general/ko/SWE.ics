@@ -1121,10 +1121,10 @@ DTEND:20240806T092100Z
 DESCRIPTION:승마 - 장애물 개인 결승\n🇸🇦 Abdulrahman ALRAJHI\n🇲🇽 Andres
   AZCARRAGA\n🇬🇧 Ben MAHER\n🇩🇪 Christian KUKUK\n🇮🇪 Daniel COYLE\n🇮🇹
   Emanuele CAMILLI\n🇧🇪 Gilles THOMAS\n🇧🇪 Gregory WATHELET\n🇯🇵 HAASE
-  SHIBAYAMA Takashi\n🇳🇱 Harrie SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik
-  von ECKERMANN\n🇦🇷 Jose Maria (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸
-  Karl COOK\n🇳🇱 Kim EMMEN\n🇺🇸 Laura KRAUT\n🇳🇱 Maikel van der
-  VLEUTEN\n🇨🇭 Martin FUCHS\n🇦🇹 Max KUEHNER\n🇦🇪 Omar Abdul Aziz AL
+  SHIBAYAMA Takashi\n🇳🇱 Harrie SMOLDERS\n🇸🇪 Henrik von ECKERMANN\n🇦🇷
+  Jose Maria (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸 Karl COOK\n🇳🇱 Kim
+  EMMEN\n🇺🇸 Laura KRAUT\n🇳🇱 Maikel van der VLEUTEN\n🇨🇦 Mario
+  DESLAURIERS\n🇨🇭 Martin FUCHS\n🇦🇹 Max KUEHNER\n🇦🇪 Omar Abdul Aziz AL
   MARZOOQI\n🇩🇪 Philipp WEISHAUPT\n🇸🇦 Ramzy AL DUHAMI\n🇧🇷 Rodrigo
   PESSOA\n🇬🇧 Scott BRASH\n🇮🇪 Shane SWEETNAM\n🇫🇷 Simon DELESTRE\n🇧🇷
   Stephan de FREITAS BARCHA\n🇨🇭 Steve GUERDAT\n🇳🇴 Victoria GULLIKSEN
@@ -1274,6 +1274,15 @@ DESCRIPTION:요트 - 혼성 딩기 - 레이스 9\n🇬🇷 A SPANAKI/O SPANAKIS\
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 혼성 딩기 - 레이스 9
 LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T130000Z-table-tennis--8-SWE-KOR
+DTSTAMP:20240806T130000Z
+DTSTART:20240806T130000Z
+DTEND:20240806T160000Z
+DESCRIPTION:탁구 - 여자 단체 8강
+SUMMARY:🏓 스웨덴 🇸🇪 - 🇰🇷 대한민국
+LOCATION:사우스 파리 아레나 4
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T133600Z-sailing--10
