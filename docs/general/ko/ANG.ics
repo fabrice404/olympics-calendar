@@ -4,6 +4,15 @@ PRODID:-//fabrice404//olympics-calendar//general/ko/ANG//EN
 X-WR-CALNAME:🇦🇴 Angola | Paris 2024
 NAME:🇦🇴 Angola | Paris 2024
 BEGIN:VEVENT
+UID:20240725T090000Z-handball--B-NED-ANG
+DTSTAMP:20240725T090000Z
+DTSTART:20240725T090000Z
+DTEND:20240725T103000Z
+DESCRIPTION:핸드볼 - 여자 예선 B조
+SUMMARY:🤾 네덜란드 🇳🇱 - 🇦🇴 앙골라
+LOCATION:사우스 파리 아레나 6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -13,319 +22,47 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T083500Z-athletics--100M-
-DTSTAMP:20240803T083500Z
-DTSTART:20240803T083500Z
-DTEND:20240803T090000Z
-DESCRIPTION:육상 - 남자 100m 예선\n🇱🇾 Ahmed ESSABAI\n🇵🇦 Arturo Harmodio
-  DELISER ESPINOSA\n🇲🇹 Beppe GRILLO\n🇭🇹 Christopher BORZOR\n🇭🇰 DIU
-  Felix Chun Hei\n🇲🇪 Darko PESIC\n🇰🇾 Davonte HOWELL\n🇧🇯 Didier
-  KIKI\n🇨🇩 Dominique Lasconi MULAMBA\n🇸🇨 Dylan SICOBO\n🇬🇲 Ebrahima
-  CAMARA\n🇹🇯 Favoris MUZRAPOV\n🇲🇱 Fode SISSOKO\n🇦🇱 Franko
-  BURRAJ\n🇲🇺 Gary Noa Jerrel BIBI\n🇰🇲 Hachim MAAROUFOU\n🇨🇫 Herve
-  TOUMANDJI\n🇲🇻 Ibadulla ADAM\n🇧🇩 Imranur RAHMAN\n🇸🇷 Jalen
-  LISSE\n🇬🇺 Joseph GREEN\n🇹🇻 Karalo Hepoiteloto MAIBUCA\n🇰🇮 Kenaz
-  KANIWETE\n🇮🇩 Lalu Muhammad ZOHRI\n🇹🇴 Maleselo FUKOFUKA\n🇹🇱 Manuel
-  ATAIDE\n🇸🇬 Marc Brian LOUIS\n🇦🇴 Marcos SANTOS\n🇭🇳 Melique
-  GARCIA\n🇲🇾 Muhd Azeem FAHMI\n🇧🇳 Muhd Noor Firdaus AR-RASYID\n🇰🇳
-  Naquille HARRIS\n🇬🇶 Remigio SANTANDER VILLARUBIA\n🇲🇬 Rija Vatomanga
-  GARDINER\n🇾🇪 Samer AL-YAFAEE\n🇫🇲 Scott James FITI\n🇬🇼 Seco
-  CAMARA\n🇦🇫 Sha Mahmood NOOR ZAHI\n🇧🇿 Shaun GILL\n🇸🇿 Sibusiso
-  MATSENJWA\n🇲🇿 Steven SABINO\n🇮🇶 Taha Hussein YASEEN\n🇫🇯 Waisake
-  TEWA\n🇲🇭 William REED\n🇳🇷 Winzar KAKIOUEA\n🇬🇦 Wissy Frank HOYE
-  YENDA MOUKOULA
-SUMMARY:🏃 남자 100m 예선
-LOCATION:스타드 드 프랑스
+UID:20240803T120000Z-handball--B-BRA-ANG
+DTSTAMP:20240803T120000Z
+DTSTART:20240803T120000Z
+DTEND:20240803T133000Z
+DESCRIPTION:핸드볼 - 여자 예선 B조
+SUMMARY:🤾 브라질 🇧🇷 - 🇦🇴 앙골라
+LOCATION:사우스 파리 아레나 6
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T095500Z-athletics--100M-1
-DTSTAMP:20240803T095500Z
-DTSTART:20240803T095500Z
-DTEND:20240803T104400Z
-DESCRIPTION:육상 - 남자 100m 1라운드\n🇨🇦 Aaron BROWN\n🇬🇭 Abdul-Rasheed
-  SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇴🇲 Ali Anwar Ali AL
-  BALUSHI\n🇨🇦 Andre De GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦 Arturo Harmodio
-  DELISER ESPINOSA\n🇬🇭 Benjamin AZAMATI\n🇿🇦 Benjamin RICHARDSON\n🇦🇬
-  Cejhae GREENE\n🇮🇹 Chituru ALI\n🇭🇹 Christopher BORZOR\n🇰🇾 Davonte
-  HOWELL\n🇹🇹 Devin AUGUSTINE\n🇨🇩 Dominique Lasconi MULAMBA\n🏳️ Dorian
-  KELETELA\n🇨🇦 Duan ASEMOTA\n🇸🇨 Dylan SICOBO\n🇬🇲 Ebrahima
-  CAMARA\n🇬🇾 Emanuel ARCHIBALD\n🇨🇲 Emmanuel ESEME\n🇱🇷 Emmanuel
-  MATADI\n🇧🇷 Erik CARDOSO\n🇳🇬 Favour Oghene Tejiri ASHE\n🇧🇷 Felipe
-  BARDI\n🇰🇪 Ferdinand OMANYALA\n🇦🇱 Franko BURRAJ\n🇺🇸 Fred
-  KERLEY\n🇲🇺 Gary Noa Jerrel BIBI\n🇯🇵 HIGASHIDA Akihiro\n🇰🇲 Hachim
-  MAAROUFOU\n🇮🇷 Hassan TAFTIAN\n🇸🇪 Henrik LARSSON\n🇬🇧 Jeremiah
-  AZU\n🇨🇴 Jhonny RENTERIA JIMENEZ\n🇩🇴 Jose GONZALEZ\n🇦🇺 Joshua
-  AZZOPARDI\n🇩🇪 Joshua HARTMANN\n🇹🇷 Kayhan OZER\n🇳🇬 Kayinsola
-  AJAYI\n🇺🇸 Kenneth BEDNAREK\n🇯🇲 Kishane THOMPSON\n🇮🇩 Lalu Muhammad
-  ZOHRI\n🇮🇹 Lamont Marcell JACOBS\n🇧🇼 Letsile TEBOGO\n🇬🇧 Louie
-  HINCHLIFFE\n🇸🇬 Marc Brian LOUIS\n🇦🇴 Marcos SANTOS\n🇦🇹 Markus
-  FUCHS\n🇲🇾 Muhd Azeem FAHMI\n🇰🇳 Naquille HARRIS\n🇺🇸 Noah LYLES\n🇯🇲
-  Oblique SEVILLE\n🇵🇱 Oliwer WDOWIK\n🇩🇪 Owen ANSAH\n🇧🇷 Paulo Andre
-  CAMILO\n🇹🇭 Puripol BOONSON\n🇨🇺 Reynaldo R. ESPINOSA\n🇻🇬 Rikkoi
-  BRATHWAITE\n🇦🇺 Rohan BROWNING\n🇨🇴 Ronal LONGA\n🇯🇵 SAKAI
-  Ryuichiro\n🇯🇵 SANI BROWN Abdul Hakim\n🇿🇦 Shaun MASWANGANYI\n🇸🇿
-  Sibusiso MATSENJWA\n🇩🇰 Simon HANSEN\n🇮🇶 Taha Hussein YASEEN\n🇧🇸
-  Terrence JONES\n🇧🇸 Wanya McCOY\n🇨🇳 XIE Zhenye\n🇬🇧 Zharnel HUGHES
-SUMMARY:🏃 남자 100m 1라운드
-LOCATION:스타드 드 프랑스
+UID:20240806T083000Z-canoe-sprint--2-500M-
+DTSTAMP:20240806T083000Z
+DTSTART:20240806T083000Z
+DTEND:20240806T084700Z
+DESCRIPTION:카누 스프린트 - 남자 카누 2인승 500m 예선\n🇫🇷 Adrien BART\n🇦🇸 Alexey
+  KOROVASHKOV\n🇭🇺 Balazs ADOLF\n🇦🇴 Benilson SANDA\n🇮🇹 Carlo
+  TACCHINI\n🇪🇸 Diego DOMINGUEZ\n🇮🇹 Gabriele CASADEI\n🇳🇿 Grant
+  CLANCY\n🇷🇴 Ilie SPRINCEAN\n🇧🇷 Isaquias QUEIROZ\n🇨🇳 JI Bowen\n🇧🇷
+  Jacky Jamael NASCIMENTO GODMANN\n🇪🇸 Joan Antoni MORENO\n🇭🇺 Jonatan
+  Daniel HAJDU\n🇨🇳 LIU Hao\n🇫🇷 Loic LEONARD\n🇦🇴 Manuel ANTONIO\n🇨🇿
+  Martin FUKSA\n🇳🇿 Max BROWN\n🇷🇴 Oleg NUTA\n🇩🇪 Peter KRETSCHMER\n🇨🇿
+  Petr FUKSA\n🇰🇿 Sergey YEMELYANOV\n🇩🇪 Tim HECKER\n🇰🇿 Timur
+  KHAIDAROV\n🇦🇸 Zakhar PETROV
+SUMMARY:🛶 남자 카누 2인승 500m 예선
+LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T102000Z-sailing--5
-DTSTAMP:20240803T102000Z
-DTSTART:20240803T102000Z
-DTEND:20240803T111100Z
-DESCRIPTION:요트 - 남자 딩기 - 레이스 5\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
-  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
-  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
-  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
-  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
-  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
-  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
-  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
-  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
-  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
-  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
-  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
-  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
-  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
-  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
-SUMMARY:⛵ 남자 딩기 - 레이스 5
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T112800Z-sailing--6
-DTSTAMP:20240803T112800Z
-DTSTART:20240803T112800Z
-DTEND:20240803T121900Z
-DESCRIPTION:요트 - 남자 딩기 - 레이스 6\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
-  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
-  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
-  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
-  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
-  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
-  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
-  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
-  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
-  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
-  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
-  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
-  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
-  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
-  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
-SUMMARY:⛵ 남자 딩기 - 레이스 6
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T134500Z-sailing--3
-DTSTAMP:20240803T134500Z
-DTSTART:20240803T134500Z
-DTEND:20240803T143500Z
-DESCRIPTION:요트 - 혼성 딩기 - 레이스 3\n🇬🇷 A SPANAKI/O SPANAKIS\n🇮🇹
-  BERTA/FESTO\n🇹🇷 CINAR/NALBANTOGLU\n🇵🇹 COSTA/JOAO\n🇸🇪
-  DAHLBERG/KARLSSON\n🇩🇪 DIESCH/MARKFORT\n🇧🇷 DUARTE HAD/SWAN\n🇮🇱
-  HASSON/LASRY\n🇬🇧 HEATHCOTE/GRUBE\n🇦🇺 JERWOOD/NICHOLAS\n🇫🇷
-  LECOINTRE/MION\n🇨🇭 MERMOD/SIEGENTHALER\n🇦🇴 MONTINHO/PAULO\n🇸🇮
-  MRAK/BOZIC\n🇺🇸 McNAY/DALLMAN-WE\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
-  VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
-SUMMARY:⛵ 혼성 딩기 - 레이스 3
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T145200Z-sailing--4
-DTSTAMP:20240803T145200Z
-DTSTART:20240803T145200Z
-DTEND:20240803T154200Z
-DESCRIPTION:요트 - 혼성 딩기 - 레이스 4\n🇬🇷 A SPANAKI/O SPANAKIS\n🇮🇹
-  BERTA/FESTO\n🇹🇷 CINAR/NALBANTOGLU\n🇵🇹 COSTA/JOAO\n🇸🇪
-  DAHLBERG/KARLSSON\n🇩🇪 DIESCH/MARKFORT\n🇧🇷 DUARTE HAD/SWAN\n🇮🇱
-  HASSON/LASRY\n🇬🇧 HEATHCOTE/GRUBE\n🇦🇺 JERWOOD/NICHOLAS\n🇫🇷
-  LECOINTRE/MION\n🇨🇭 MERMOD/SIEGENTHALER\n🇦🇴 MONTINHO/PAULO\n🇸🇮
-  MRAK/BOZIC\n🇺🇸 McNAY/DALLMAN-WE\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
-  VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
-SUMMARY:⛵ 혼성 딩기 - 레이스 4
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T100500Z-sailing--5
-DTSTAMP:20240804T100500Z
-DTSTART:20240804T100500Z
-DTEND:20240804T105500Z
-DESCRIPTION:요트 - 혼성 딩기 - 레이스 5\n🇬🇷 A SPANAKI/O SPANAKIS\n🇮🇹
-  BERTA/FESTO\n🇹🇷 CINAR/NALBANTOGLU\n🇵🇹 COSTA/JOAO\n🇸🇪
-  DAHLBERG/KARLSSON\n🇩🇪 DIESCH/MARKFORT\n🇧🇷 DUARTE HAD/SWAN\n🇮🇱
-  HASSON/LASRY\n🇬🇧 HEATHCOTE/GRUBE\n🇦🇺 JERWOOD/NICHOLAS\n🇫🇷
-  LECOINTRE/MION\n🇨🇭 MERMOD/SIEGENTHALER\n🇦🇴 MONTINHO/PAULO\n🇸🇮
-  MRAK/BOZIC\n🇺🇸 McNAY/DALLMAN-WE\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
-  VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
-SUMMARY:⛵ 혼성 딩기 - 레이스 5
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T100500Z-sailing--7
-DTSTAMP:20240804T100500Z
-DTSTART:20240804T100500Z
-DTEND:20240804T105600Z
-DESCRIPTION:요트 - 남자 딩기 - 레이스 7\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
-  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
-  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
-  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
-  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
-  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
-  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
-  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
-  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
-  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
-  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
-  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
-  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
-  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
-  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
-SUMMARY:⛵ 남자 딩기 - 레이스 7
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T111200Z-sailing--6
-DTSTAMP:20240804T111200Z
-DTSTART:20240804T111200Z
-DTEND:20240804T120200Z
-DESCRIPTION:요트 - 혼성 딩기 - 레이스 6\n🇬🇷 A SPANAKI/O SPANAKIS\n🇮🇹
-  BERTA/FESTO\n🇹🇷 CINAR/NALBANTOGLU\n🇵🇹 COSTA/JOAO\n🇸🇪
-  DAHLBERG/KARLSSON\n🇩🇪 DIESCH/MARKFORT\n🇧🇷 DUARTE HAD/SWAN\n🇮🇱
-  HASSON/LASRY\n🇬🇧 HEATHCOTE/GRUBE\n🇦🇺 JERWOOD/NICHOLAS\n🇫🇷
-  LECOINTRE/MION\n🇨🇭 MERMOD/SIEGENTHALER\n🇦🇴 MONTINHO/PAULO\n🇸🇮
-  MRAK/BOZIC\n🇺🇸 McNAY/DALLMAN-WE\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
-  VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
-SUMMARY:⛵ 혼성 딩기 - 레이스 6
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T111300Z-sailing--8
-DTSTAMP:20240804T111300Z
-DTSTART:20240804T111300Z
-DTEND:20240804T120400Z
-DESCRIPTION:요트 - 남자 딩기 - 레이스 8\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
-  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
-  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
-  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
-  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
-  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
-  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
-  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
-  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
-  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
-  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
-  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
-  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
-  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
-  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
-SUMMARY:⛵ 남자 딩기 - 레이스 8
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T124500Z-sailing--9
-DTSTAMP:20240805T124500Z
-DTSTART:20240805T124500Z
-DTEND:20240805T133600Z
-DESCRIPTION:요트 - 남자 딩기 - 레이스 9\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
-  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
-  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
-  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
-  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
-  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
-  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
-  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
-  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
-  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
-  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
-  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
-  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
-  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
-  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
-SUMMARY:⛵ 남자 딩기 - 레이스 9
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T135000Z-sailing--10
-DTSTAMP:20240805T135000Z
-DTSTART:20240805T135000Z
-DTEND:20240805T144100Z
-DESCRIPTION:요트 - 남자 딩기 - 레이스 10\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
-  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
-  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
-  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
-  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
-  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
-  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
-  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
-  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
-  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
-  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
-  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
-  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
-  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
-  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
-SUMMARY:⛵ 남자 딩기 - 레이스 10
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T101500Z-sailing--7
-DTSTAMP:20240806T101500Z
-DTSTART:20240806T101500Z
-DTEND:20240806T110500Z
-DESCRIPTION:요트 - 혼성 딩기 - 레이스 7\n🇬🇷 A SPANAKI/O SPANAKIS\n🇮🇹
-  BERTA/FESTO\n🇹🇷 CINAR/NALBANTOGLU\n🇵🇹 COSTA/JOAO\n🇸🇪
-  DAHLBERG/KARLSSON\n🇩🇪 DIESCH/MARKFORT\n🇧🇷 DUARTE HAD/SWAN\n🇮🇱
-  HASSON/LASRY\n🇬🇧 HEATHCOTE/GRUBE\n🇦🇺 JERWOOD/NICHOLAS\n🇫🇷
-  LECOINTRE/MION\n🇨🇭 MERMOD/SIEGENTHALER\n🇦🇴 MONTINHO/PAULO\n🇸🇮
-  MRAK/BOZIC\n🇺🇸 McNAY/DALLMAN-WE\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
-  VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
-SUMMARY:⛵ 혼성 딩기 - 레이스 7
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T112200Z-sailing--8
-DTSTAMP:20240806T112200Z
-DTSTART:20240806T112200Z
-DTEND:20240806T121200Z
-DESCRIPTION:요트 - 혼성 딩기 - 레이스 8\n🇬🇷 A SPANAKI/O SPANAKIS\n🇮🇹
-  BERTA/FESTO\n🇹🇷 CINAR/NALBANTOGLU\n🇵🇹 COSTA/JOAO\n🇸🇪
-  DAHLBERG/KARLSSON\n🇩🇪 DIESCH/MARKFORT\n🇧🇷 DUARTE HAD/SWAN\n🇮🇱
-  HASSON/LASRY\n🇬🇧 HEATHCOTE/GRUBE\n🇦🇺 JERWOOD/NICHOLAS\n🇫🇷
-  LECOINTRE/MION\n🇨🇭 MERMOD/SIEGENTHALER\n🇦🇴 MONTINHO/PAULO\n🇸🇮
-  MRAK/BOZIC\n🇺🇸 McNAY/DALLMAN-WE\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
-  VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
-SUMMARY:⛵ 혼성 딩기 - 레이스 8
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T122900Z-sailing--9
-DTSTAMP:20240806T122900Z
-DTSTART:20240806T122900Z
-DTEND:20240806T131900Z
-DESCRIPTION:요트 - 혼성 딩기 - 레이스 9\n🇬🇷 A SPANAKI/O SPANAKIS\n🇮🇹
-  BERTA/FESTO\n🇹🇷 CINAR/NALBANTOGLU\n🇵🇹 COSTA/JOAO\n🇸🇪
-  DAHLBERG/KARLSSON\n🇩🇪 DIESCH/MARKFORT\n🇧🇷 DUARTE HAD/SWAN\n🇮🇱
-  HASSON/LASRY\n🇬🇧 HEATHCOTE/GRUBE\n🇦🇺 JERWOOD/NICHOLAS\n🇫🇷
-  LECOINTRE/MION\n🇨🇭 MERMOD/SIEGENTHALER\n🇦🇴 MONTINHO/PAULO\n🇸🇮
-  MRAK/BOZIC\n🇺🇸 McNAY/DALLMAN-WE\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
-  VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
-SUMMARY:⛵ 혼성 딩기 - 레이스 9
-LOCATION:마르세유 마리나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T133600Z-sailing--10
-DTSTAMP:20240806T133600Z
-DTSTART:20240806T133600Z
-DTEND:20240806T142600Z
-DESCRIPTION:요트 - 혼성 딩기 - 레이스 10\n🇬🇷 A SPANAKI/O SPANAKIS\n🇮🇹
-  BERTA/FESTO\n🇹🇷 CINAR/NALBANTOGLU\n🇵🇹 COSTA/JOAO\n🇸🇪
-  DAHLBERG/KARLSSON\n🇩🇪 DIESCH/MARKFORT\n🇧🇷 DUARTE HAD/SWAN\n🇮🇱
-  HASSON/LASRY\n🇬🇧 HEATHCOTE/GRUBE\n🇦🇺 JERWOOD/NICHOLAS\n🇫🇷
-  LECOINTRE/MION\n🇨🇭 MERMOD/SIEGENTHALER\n🇦🇴 MONTINHO/PAULO\n🇸🇮
-  MRAK/BOZIC\n🇺🇸 McNAY/DALLMAN-WE\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹
-  VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
-SUMMARY:⛵ 혼성 딩기 - 레이스 10
-LOCATION:마르세유 마리나
+UID:20240807T094000Z-canoe-sprint--1-1000M-
+DTSTAMP:20240807T094000Z
+DTSTART:20240807T094000Z
+DTEND:20240807T102700Z
+DESCRIPTION:카누 스프린트 - 남자 카누 1인승 1000m 예선\n🇫🇷 Adrien BART\n🇭🇺 Balazs
+  ADOLF\n🇦🇴 Benilson SANDA\n🇮🇹 Carlo TACCHINI\n🇷🇴 Catalin
+  CHIRILA\n🇨🇦 Connor FITZPATRICK\n🇭🇺 Daniel FEJES\n🏳️ Fernando Dayan
+  JORGE ENRIQUEZ\n🇹🇳 Ghailene KHATTALI\n🇧🇷 Isaquias QUEIROZ\n🇨🇳 JI
+  Bowen\n🇨🇺 Jose Ramon PELIER CORDOVA\n🇹🇼 LAI Kuan-Chieh\n🇨🇳 LIU
+  Hao\n🇨🇿 Martin FUKSA\n🇧🇷 Mateus NUNES BASTOS dos SANTOS\n🇮🇷
+  Mohammad Nabi REZAEI\n🇮🇹 Nicolae CRACIUN\n🇪🇸 Pablo CRESPO\n🇺🇦 Pavlo
+  ALTUKHOV\n🇩🇪 Sebastian BRENDEL\n🇰🇿 Sergey YEMELYANOV\n🇲🇩 Serghei
+  TARNOVSCHI\n🇵🇱 Wiktor GLAZUNOW\n🇦🇸 Zakhar PETROV
+SUMMARY:🛶 남자 카누 1인승 1000m 예선
+LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

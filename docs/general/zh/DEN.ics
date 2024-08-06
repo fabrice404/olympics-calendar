@@ -4,15 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//general/zh/DEN//EN
 X-WR-CALNAME:🇩🇰 Denmark | Paris 2024
 NAME:🇩🇰 Denmark | Paris 2024
 BEGIN:VEVENT
-UID:20240725T070000Z-handball-A-SLO-DEN
-DTSTAMP:20240725T070000Z
-DTSTART:20240725T070000Z
-DTEND:20240725T083000Z
-DESCRIPTION:手球 - 女子预赛A组
-SUMMARY:🤾 斯洛文尼亚 🇸🇮 - 🇩🇰 丹麦
-LOCATION:南巴黎竞技场6号馆
-END:VEVENT
-BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -94,6 +85,33 @@ SUMMARY:🔫 男子双向飞碟资格赛 - 第2天
 LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T070000Z-golf-3
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T160000Z
+DESCRIPTION:高尔夫 - 男子第3回合\n🇰🇷 AN Byeong Hun\n🇲🇽 Abraham ANCER\n🇵🇱
+  Adrian MERONK\n🇧🇪 Adrien DUMONT de CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪
+  Alex NOREN\n🇨🇴 Camilo VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan
+  BEZUIDENHOUT\n🇺🇸 Collin MORIKAWA\n🇨🇦 Corey CONNERS\n🇨🇳 DOU
+  Zecheng\n🇳🇿 Daniel HILLIER\n🇪🇸 David PUIG\n🇦🇷 Emiliano GRILLO\n🇿🇦
+  Erik van ROOYEN\n🇵🇾 Fabrizio ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾
+  Gavin GREEN\n🇮🇹 Guido MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin
+  NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸 Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech
+  APHIBARNRAT\n🇳🇴 Kristoffer VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA
+  Hideki\n🇬🇧 Matt FITZPATRICK\n🇮🇹 Matteo MANASSERO\n🇩🇪 Matthias
+  SCHMID\n🇫🇷 Matthieu PAVON\n🇦🇺 Min Woo LEE\n🇨🇱 Mito PEREIRA\n🇯🇵
+  NAKAJIMA Keita\n🇨🇦 Nick TAYLOR\n🇨🇴 Nico ECHAVARRIA\n🇩🇰 Nicolai
+  HOJGAARD\n🇹🇼 PAN C.T.\n🇹🇭 Phachara KHONGWATMAI\n🇵🇷 Rafa
+  CAMPOS\n🇮🇪 Rory McILROY\n🇳🇿 Ryan FOX\n🇫🇮 Sami VALIMAKI\n🇺🇸
+  Scottie SCHEFFLER\n🇦🇹 Sepp STRAKA\n🇮🇪 Shane LOWRY\n🇮🇳 Shubhankar
+  SHARMA\n🇩🇪 Stephan JAEGER\n🇫🇮 Tapio PULKKANEN\n🇧🇪 Thomas
+  DETRY\n🇩🇰 Thorbjorn OLESEN\n🇬🇧 Tommy FLEETWOOD\n🇫🇷 Victor
+  PEREZ\n🇳🇴 Viktor HOVLAND\n🇺🇸 Wyndham CLARK\n🇺🇸 Xander
+  SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳 YUAN Yechun
+SUMMARY:⛳ 男子第3回合
+LOCATION:国家高尔夫球场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T080000Z-equestrian-
 DTSTAMP:20240803T080000Z
 DTSTART:20240803T080000Z
@@ -102,6 +120,17 @@ DESCRIPTION:马术 - 团体盛装舞步特别大奖赛\n🇩🇰 丹麦\n🇦�
   法国\n🇦🇺 澳大利亚\n🇸🇪 瑞典\n🇫🇮 芬兰\n🇬🇧 英国\n🇳🇱 荷兰
 SUMMARY:🏇 团体盛装舞步特别大奖赛
 LOCATION:凡尔赛宫
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T080600Z-rowing-B
+DTSTAMP:20240803T080600Z
+DTSTART:20240803T080600Z
+DTEND:20240803T081300Z
+DESCRIPTION:赛艇 - 男子单人双桨决赛B\n🇯🇵 ARAKAWA Ryuta\n🇺🇾 Bruno CETRARO
+  BERRIOLO\n🇭🇷 Damir MARTIN\n🇱🇹 Giedrius BIELIAUSKAS\n🇷🇴 Mihai
+  CHIRUTA\n🇩🇰 Sverri NIELSEN
+SUMMARY:🚣 男子单人双桨决赛B
+LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-swimming-50
@@ -139,73 +168,50 @@ SUMMARY:🏊 女子50米自由泳分组预赛
 LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T090000Z-cycling-road-
-DTSTAMP:20240803T090000Z
-DTSTART:20240803T090000Z
-DTEND:20240803T155000Z
-DESCRIPTION:公路自行车 - 男子公路赛\n🇯🇵 ARASHIRO Yukiya\n🇲🇦 Achraf ED
-  DOGHMY\n🇮🇹 Alberto BETTIOL\n🇪🇸 Alex ARANBURU\n🇱🇺 Alex KIRSCH\n🇰🇿
-  Alexey LUTSENKO\n🇮🇷 Ali LABIB\n🇺🇦 Anatolii BUDIAK\n🇭🇺 Attila
-  VALTER\n🇮🇪 Ben HEALY\n🇦🇺 Ben O'CONNOR\n🇪🇷 Biniam GIRMAY\n🇺🇸
-  Brandon McNULTY\n🇹🇷 Burak ABAY\n🇺🇬 Charles KAGIMU\n🇫🇷 Christophe
-  LAPORTE\n🇲🇺 Christopher ROUGIER-LAGANE\n🇳🇿 Corbin STRONG\n🇳🇱 Daan
-  HOOLE\n🇨🇴 Dani MARTINEZ\n🇨🇦 Derek GEE\n🇸🇮 Domen NOVAK\n🇳🇱 Dylan
-  van BAARLE\n🇦🇷 Eduardo SEPULVEDA\n🇮🇹 Elia VIVIANI\n🇺🇾 Eric
-  FAGUNDEZ\n🇷🇼 Eric MANIZABAYO\n🇦🇹 Felix GROSSSCHARTNER\n🇵🇦 Franklin
-  ARCHIBOLD\n🇬🇧 Fred WRIGHT\n🇬🇷 Georgios BOUGLAS\n🇦🇸 Gleb
-  SYRITSA\n🇮🇱 Itamar EINHORN\n🇸🇪 Jakob SODERQVIST\n🇲🇳 Jambaljamts
-  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇧🇪 Jasper STUYVEN\n🇪🇨 Jhonatan
-  NARVAEZ\n🇬🇧 Josh TARLING\n🇪🇸 Juan AYUSO\n🇫🇷 Julian
-  ALAPHILIPPE\n🇰🇷 KIM Euro\n🇫🇷 Kevin VAUQUELIN\n🇭🇰 LAU Wan Yau
-  Vincent\n🇨🇳 LYU Xianjing\n🇳🇿 Laurence PITHIE\n🇮🇹 Luca MOZZATO\n🇸🇮
-  Luka MEZGEC\n🇸🇰 Lukas KUBIS\n🇪🇪 Madis MIHKELS\n🇩🇰 Mads
-  PEDERSEN\n🇺🇸 Magnus SHEFFIELD\n🇨🇭 Marc HIRSCHI\n🇦🇹 Marco
-  HALLER\n🇸🇮 Matej MOHORIC\n🇨🇿 Mathias VACEK\n🇳🇱 Mathieu van der
-  POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
-  SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
-  WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
-  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪
-  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
-  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
-  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
-  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
-  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
-  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
-  Yevgeniy FEDOROV
-SUMMARY:🚴 男子公路赛
-LOCATION:特罗卡德罗
+UID:20240803T100500Z-sailing--04
+DTSTAMP:20240803T100500Z
+DTSTART:20240803T100500Z
+DTEND:20240803T105600Z
+DESCRIPTION:帆船 - 女子帆船激光雷迪尔级 - 比赛04\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 女子帆船激光雷迪尔级 - 比赛04
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T095500Z-athletics-1001
-DTSTAMP:20240803T095500Z
-DTSTART:20240803T095500Z
-DTEND:20240803T104400Z
-DESCRIPTION:田径 - 男子100米第1轮\n🇨🇦 Aaron BROWN\n🇬🇭 Abdul-Rasheed
-  SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇴🇲 Ali Anwar Ali AL
-  BALUSHI\n🇨🇦 Andre De GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦 Arturo Harmodio
-  DELISER ESPINOSA\n🇬🇭 Benjamin AZAMATI\n🇿🇦 Benjamin RICHARDSON\n🇦🇬
-  Cejhae GREENE\n🇮🇹 Chituru ALI\n🇭🇹 Christopher BORZOR\n🇰🇾 Davonte
-  HOWELL\n🇹🇹 Devin AUGUSTINE\n🇨🇩 Dominique Lasconi MULAMBA\n🏳️ Dorian
-  KELETELA\n🇨🇦 Duan ASEMOTA\n🇸🇨 Dylan SICOBO\n🇬🇲 Ebrahima
-  CAMARA\n🇬🇾 Emanuel ARCHIBALD\n🇨🇲 Emmanuel ESEME\n🇱🇷 Emmanuel
-  MATADI\n🇧🇷 Erik CARDOSO\n🇳🇬 Favour Oghene Tejiri ASHE\n🇧🇷 Felipe
-  BARDI\n🇰🇪 Ferdinand OMANYALA\n🇦🇱 Franko BURRAJ\n🇺🇸 Fred
-  KERLEY\n🇲🇺 Gary Noa Jerrel BIBI\n🇯🇵 HIGASHIDA Akihiro\n🇰🇲 Hachim
-  MAAROUFOU\n🇮🇷 Hassan TAFTIAN\n🇸🇪 Henrik LARSSON\n🇬🇧 Jeremiah
-  AZU\n🇨🇴 Jhonny RENTERIA JIMENEZ\n🇩🇴 Jose GONZALEZ\n🇦🇺 Joshua
-  AZZOPARDI\n🇩🇪 Joshua HARTMANN\n🇹🇷 Kayhan OZER\n🇳🇬 Kayinsola
-  AJAYI\n🇺🇸 Kenneth BEDNAREK\n🇯🇲 Kishane THOMPSON\n🇮🇩 Lalu Muhammad
-  ZOHRI\n🇮🇹 Lamont Marcell JACOBS\n🇧🇼 Letsile TEBOGO\n🇬🇧 Louie
-  HINCHLIFFE\n🇸🇬 Marc Brian LOUIS\n🇦🇴 Marcos SANTOS\n🇦🇹 Markus
-  FUCHS\n🇲🇾 Muhd Azeem FAHMI\n🇰🇳 Naquille HARRIS\n🇺🇸 Noah LYLES\n🇯🇲
-  Oblique SEVILLE\n🇵🇱 Oliwer WDOWIK\n🇩🇪 Owen ANSAH\n🇧🇷 Paulo Andre
-  CAMILO\n🇹🇭 Puripol BOONSON\n🇨🇺 Reynaldo R. ESPINOSA\n🇻🇬 Rikkoi
-  BRATHWAITE\n🇦🇺 Rohan BROWNING\n🇨🇴 Ronal LONGA\n🇯🇵 SAKAI
-  Ryuichiro\n🇯🇵 SANI BROWN Abdul Hakim\n🇿🇦 Shaun MASWANGANYI\n🇸🇿
-  Sibusiso MATSENJWA\n🇩🇰 Simon HANSEN\n🇮🇶 Taha Hussein YASEEN\n🇧🇸
-  Terrence JONES\n🇧🇸 Wanya McCOY\n🇨🇳 XIE Zhenye\n🇬🇧 Zharnel HUGHES
-SUMMARY:🏃 男子100米第1轮
-LOCATION:法兰西体育场
+UID:20240803T102000Z-sailing--05
+DTSTAMP:20240803T102000Z
+DTSTART:20240803T102000Z
+DTEND:20240803T111100Z
+DESCRIPTION:帆船 - 男子帆船激光级- 比赛05\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 男子帆船激光级- 比赛05
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T105200Z-swimming-4X100
@@ -237,13 +243,118 @@ SUMMARY:🏊 女子4x100米混合泳接力分组预赛
 LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T141800Z-boxing-71-14-UZB-DEN
-DTSTAMP:20240803T141800Z
-DTSTART:20240803T141800Z
-DTEND:20240803T142900Z
-DESCRIPTION:拳击 - 男子71公斤级 - 1/4决赛
-SUMMARY:🥊 Asadkhuja MUYDINKHUJAEV 🇺🇿 - 🇩🇰 Nikolai TERTERYAN
-LOCATION:北巴黎竞技场
+UID:20240803T110500Z-sailing-17-01
+DTSTAMP:20240803T110500Z
+DTSTART:20240803T110500Z
+DTEND:20240803T114000Z
+DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛01\n🇧🇪 CLAEYSSENS/VERSTRAELE\n🇬🇧
+  GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵 IITSUKA/NISHIDA CAP.\n🇸🇪
+  JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳 MAI/CHEN\n🇦🇷
+  MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷 MOURNIAC/BERTHOMIEU\n🇺🇸
+  NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰 SAOUMA-PED/BRUUN\n🇧🇷
+  SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
+SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛01
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T111300Z-sailing--05
+DTSTAMP:20240803T111300Z
+DTSTART:20240803T111300Z
+DTEND:20240803T120400Z
+DESCRIPTION:帆船 - 女子帆船激光雷迪尔级 - 比赛05\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 女子帆船激光雷迪尔级 - 比赛05
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T112800Z-sailing--06
+DTSTAMP:20240803T112800Z
+DTSTART:20240803T112800Z
+DTEND:20240803T121900Z
+DESCRIPTION:帆船 - 男子帆船激光级- 比赛06\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 男子帆船激光级- 比赛06
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T115700Z-sailing-17-02
+DTSTAMP:20240803T115700Z
+DTSTART:20240803T115700Z
+DTEND:20240803T123200Z
+DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛02\n🇧🇪 CLAEYSSENS/VERSTRAELE\n🇬🇧
+  GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵 IITSUKA/NISHIDA CAP.\n🇸🇪
+  JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳 MAI/CHEN\n🇦🇷
+  MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷 MOURNIAC/BERTHOMIEU\n🇺🇸
+  NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰 SAOUMA-PED/BRUUN\n🇧🇷
+  SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
+SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛02
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T122100Z-sailing--06
+DTSTAMP:20240803T122100Z
+DTSTART:20240803T122100Z
+DTEND:20240803T131200Z
+DESCRIPTION:帆船 - 女子帆船激光雷迪尔级 - 比赛06\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 女子帆船激光雷迪尔级 - 比赛06
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T124900Z-sailing-17-03
+DTSTAMP:20240803T124900Z
+DTSTART:20240803T124900Z
+DTEND:20240803T132400Z
+DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛03\n🇧🇪 CLAEYSSENS/VERSTRAELE\n🇬🇧
+  GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵 IITSUKA/NISHIDA CAP.\n🇸🇪
+  JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳 MAI/CHEN\n🇦🇷
+  MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷 MOURNIAC/BERTHOMIEU\n🇺🇸
+  NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰 SAOUMA-PED/BRUUN\n🇧🇷
+  SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
+SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛03
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T183900Z-swimming-50
@@ -260,13 +371,31 @@ SUMMARY:🏊 女子50米自由泳半决赛
 LOCATION:拉德芳斯体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T190000Z-handball-A-DEN-KOR
-DTSTAMP:20240803T190000Z
-DTSTART:20240803T190000Z
-DTEND:20240803T203000Z
-DESCRIPTION:手球 - 女子预赛A组
-SUMMARY:🤾 丹麦 🇩🇰 - 🇰🇷 韩国
-LOCATION:南巴黎竞技场6号馆
+UID:20240804T070000Z-golf-4
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T160000Z
+DESCRIPTION:高尔夫 - 男子第4回合\n🇰🇷 AN Byeong Hun\n🇲🇽 Abraham ANCER\n🇵🇱
+  Adrian MERONK\n🇧🇪 Adrien DUMONT de CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪
+  Alex NOREN\n🇨🇴 Camilo VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan
+  BEZUIDENHOUT\n🇺🇸 Collin MORIKAWA\n🇨🇦 Corey CONNERS\n🇨🇳 DOU
+  Zecheng\n🇳🇿 Daniel HILLIER\n🇪🇸 David PUIG\n🇦🇷 Emiliano GRILLO\n🇿🇦
+  Erik van ROOYEN\n🇵🇾 Fabrizio ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾
+  Gavin GREEN\n🇮🇹 Guido MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin
+  NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸 Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech
+  APHIBARNRAT\n🇳🇴 Kristoffer VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA
+  Hideki\n🇮🇹 Matteo MANASSERO\n🇩🇪 Matthias SCHMID\n🇫🇷 Matthieu
+  PAVON\n🇦🇺 Min Woo LEE\n🇨🇱 Mito PEREIRA\n🇯🇵 NAKAJIMA Keita\n🇨🇦
+  Nick TAYLOR\n🇨🇴 Nico ECHAVARRIA\n🇩🇰 Nicolai HOJGAARD\n🇹🇼 PAN
+  C.T.\n🇹🇭 Phachara KHONGWATMAI\n🇵🇷 Rafa CAMPOS\n🇮🇪 Rory
+  McILROY\n🇳🇿 Ryan FOX\n🇫🇮 Sami VALIMAKI\n🇺🇸 Scottie SCHEFFLER\n🇦🇹
+  Sepp STRAKA\n🇮🇪 Shane LOWRY\n🇮🇳 Shubhankar SHARMA\n🇩🇪 Stephan
+  JAEGER\n🇫🇮 Tapio PULKKANEN\n🇧🇪 Thomas DETRY\n🇩🇰 Thorbjorn
+  OLESEN\n🇬🇧 Tommy FLEETWOOD\n🇫🇷 Victor PEREZ\n🇳🇴 Viktor
+  HOVLAND\n🇺🇸 Wyndham CLARK\n🇺🇸 Xander SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳
+  YUAN Yechun
+SUMMARY:⛳ 男子第4回合
+LOCATION:国家高尔夫球场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T080000Z-equestrian-
@@ -284,117 +413,250 @@ SUMMARY:🏇 个人盛装舞步音乐自由演绎大奖赛
 LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T085500Z-athletics-2001
-DTSTAMP:20240804T085500Z
-DTSTART:20240804T085500Z
-DTEND:20240804T093600Z
-DESCRIPTION:田径 - 女子200米第1轮\n🇻🇬 Adaejah HODGE\n🇪🇨 Aimara NAZARENO\n🇧🇷
-  Ana Carolina AZEVEDO\n🇮🇹 Anna BONGIORNI\n🇨🇦 Audrey LEDUC\n🇬🇧 Bianca
-  WILLIAMS\n🇭🇺 Boglarka TAKACS\n🇺🇸 Brittany BROWN\n🇲🇽 Cecilia
-  TAMAYO-GARZA\n🇮🇹 Dalia KADDARI\n🇬🇧 Daryll NEITA\n🇬🇧 Dina
-  ASHER-SMITH\n🇳🇬 Favour OFILI\n🇪🇨 Gabriela Anahi SUAREZ\n🇺🇸
-  Gabrielle THOMAS\n🇫🇷 Gemima JOSEPH\n🇬🇲 Gina Mariam BASS BITTAYE\n🇫🇷
-  Helene PARISOT\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke VERVAET\n🇨🇦 Jacqueline
-  MADOGO\n🇪🇸 Jael BESTUE\n🇨🇮 Jessika GBAI\n🇸🇪 Julia HENRIKSSON\n🇱🇨
-  Julien ALFRED\n🇵🇱 Krystsina TSIMANOUSKAYA\n🇨🇳 LI Yuting\n🇯🇲
-  Lanae-Tava THOMAS\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas BAZOLO\n🇧🇷
-  Lorraine MARTINS\n🇨🇮 Maboundou KONE\n🇨🇮 Marie-Josee TA
-  LOU-SMITH\n🇵🇱 Martyna KOTWILA\n🇺🇸 McKenzie LONG\n🇦🇺 Mia GROSS\n🇨🇭
-  Mujinga KAMBUNDJI\n🇪🇨 Nicole CAICEDO\n🇯🇲 Niesha BURGHER\n🇸🇪 Nora
-  LINDAHL\n🇰🇿 Olga SAFRONOVA\n🇨🇾 Olivia FOTOPOULOU\n🇬🇷 Polyniki
-  EMMANOUILIDOU\n🇯🇲 Shericka JACKSON\n🇳🇱 Tasa JIYA\n🇦🇺 Torrie
-  LEWIS\n🇸🇬 Veronica Shanti PEREIRA
-SUMMARY:🏃 女子200米第1轮
-LOCATION:法兰西体育场
+UID:20240804T100000Z-badminton--IND-DEN
+DTSTAMP:20240804T100000Z
+DTSTART:20240804T100000Z
+DTEND:20240804T110000Z
+DESCRIPTION:羽毛球 - 男子单打半决赛
+SUMMARY:🏸 Lakshya SEN 🇮🇳 - 🇩🇰 Viktor AXELSEN
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T094500Z-athletics--B
-DTSTAMP:20240804T094500Z
-DTSTART:20240804T094500Z
-DTEND:20240804T104100Z
-DESCRIPTION:田径 - 女子链球资格赛 - B组\n🇫🇷 Alexandra TAVERNIER\n🇵🇱 Anita
-  WLODARCZYK\n🇺🇸 Deanna PRICE\n🇺🇦 Iryna KLYMETS\n🇩🇰 Katrine Koch
-  JACOBSEN\n🇫🇮 Krista TERVO\n🇮🇪 Nicola TUTHILL\n🇳🇬 Oyesade
-  OLATOYE\n🇭🇺 Reka GYURATZ\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara
-  FANTINI\n🇫🇮 Silja KOSONEN\n🇬🇷 Stamatia SCARVELIS\n🇧🇪 Vanessa
-  STERCKENDRIES\n🇨🇳 WANG Zheng\n🇲🇩 Zalina MARGHIEVA
-SUMMARY:🏃 女子链球资格赛 - B组
-LOCATION:法兰西体育场
+UID:20240804T100500Z-sailing--07
+DTSTAMP:20240804T100500Z
+DTSTART:20240804T100500Z
+DTEND:20240804T105600Z
+DESCRIPTION:帆船 - 男子帆船激光级- 比赛07\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 男子帆船激光级- 比赛07
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T120000Z-cycling-road-
-DTSTAMP:20240804T120000Z
-DTSTART:20240804T120000Z
-DTEND:20240804T162400Z
-DESCRIPTION:公路自行车 - 女子公路赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇦🇸 Alena
-  IVANCHENKO\n🇨🇦 Alison JACKSON\n🇧🇷 Ana Vitoria MAGALHAES\n🇱🇻
-  Anastasia CARBONARI\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮
-  Anniina AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇨🇾 Antri CHRISTOFOROU\n🇨🇺
-  Arlenis SIERRA\n🇿🇦 Ashleigh MOOLMAN PASIO\n🇫🇷 Audrey CORDON
-  RAGOT\n🇧🇫 Awa BAMOGO\n🇭🇺 Blanka VAS\n🇸🇪 Caroline ANDERSSON\n🇨🇱
-  Catalina SOTO CAMPOS\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹
-  Christina SCHWEINBERGER\n🇱🇺 Christine MAJERUS\n🇵🇹 Daniela
-  CAMPOS\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇮🇹 Elena
-  CECCHINI\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa BALSAMO\n🇮🇹 Elisa LONGO
-  BORGHINI\n🇨🇭 Elise CHABBEY\n🇬🇧 Elizabeth DEIGNAN\n🇳🇱 Ellen van
-  DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇳🇬 Ese UKPESERAYE\n🇸🇮 Eugenia
-  BUJAK\n🏳️ Eyeru GEBRU\n🇦🇫 Fariba HASHIMI\n🇩🇪 Franziska KOCH\n🇦🇺
-  Grace BROWN\n🇦🇸 Hanna TSERAKH\n🇳🇴 Ingvild GASKJENN\n🇷🇸 Jelena
-  ERIC\n🇨🇿 Julia KOPECKY\n🇧🇪 Julie van de VELDE\n🇫🇷 Juliette
-  LABOUS\n🇧🇪 Justine GHEKIERE\n🇵🇱 Katarzyna NIEWIADOMA\n🇳🇿 Kim
-  CADZOW\n🇲🇺 Kimberley le COURT de BILLOT\n🇺🇸 Kristen FAULKNER\n🇭🇰
-  LEE Sze Wing\n🇦🇺 Lauretta HANSON\n🇩🇪 Liane LIPPERT\n🇨🇭 Linda
-  ZANETTI\n🇳🇱 Lorena WIEBES\n🇧🇪 Lotte KOPECKY\n🇲🇽 Marcela
-  PRIETO\n🇪🇸 Margarita Victoria GARCIA\n🇧🇪 Margot VANPACHTENBEKE\n🇳🇱
-  Marianne VOS\n🇵🇱 Marta LACH\n🇳🇴 Marte Berg EDSETH\n🇮🇪 Megan
-  ARMITAGE\n🇨🇷 Milagro MENA SOLANO\n🇪🇸 Mireia BENITO PELLICER\n🇩🇿
-  Nesrine HOUILI\n🇳🇿 Niamh FISHER\n🇨🇭 Noemi RUEEGG\n🇸🇰 Nora
-  JENCUSOVA\n🇲🇾 Nur Aisyah MOHAMAD ZUBIR\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦
-  Olivia BARIL\n🇨🇴 Paula PATINO\n🇬🇧 Pfeiffer GEORGI\n🇹🇭 Phetdarin
-  SOMRAT\n🇱🇹 Rasa LELEIVYTE\n🇩🇰 Rebecca KOERNER\n🇮🇱 Rotem
-  GAFINOVITZ\n🇦🇺 Ruby ROSEMAN-GANNON\n🇰🇷 SONG Minji\n🇦🇪 Safia AL
-  SAYEGH\n🇮🇹 Silvia PERSICO\n🇨🇳 TANG Xin\n🇦🇸 Tamara DRONOVA\n🇻🇳 Thi
-  That NGUYEN\n🇿🇦 Tiffany KEEP\n🇸🇮 Urska PINTAR\n🇳🇦 Vera LOOSER\n🇫🇷
-  Victoire BERTEAU\n🇯🇵 YONAMINE Eri\n🇺🇿 Yanina KUSKOVA\n🇦🇫 Yulduz
-  HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
-SUMMARY:🚴 女子公路赛
-LOCATION:特罗卡德罗
+UID:20240804T111300Z-sailing--08
+DTSTAMP:20240804T111300Z
+DTSTART:20240804T111300Z
+DTEND:20240804T120400Z
+DESCRIPTION:帆船 - 男子帆船激光级- 比赛08\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 男子帆船激光级- 比赛08
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T170000Z-handball-B-DEN-NOR
-DTSTAMP:20240804T170000Z
-DTSTART:20240804T170000Z
-DTEND:20240804T183000Z
-DESCRIPTION:手球 - 男子预赛B组
-SUMMARY:🤾 丹麦 🇩🇰 - 🇳🇴 挪威
-LOCATION:南巴黎竞技场6号馆
+UID:20240804T123500Z-sailing--07
+DTSTAMP:20240804T123500Z
+DTSTART:20240804T123500Z
+DTEND:20240804T132600Z
+DESCRIPTION:帆船 - 女子帆船激光雷迪尔级 - 比赛07\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 女子帆船激光雷迪尔级 - 比赛07
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T080000Z-table-tennis-16-SWE-DEN
-DTSTAMP:20240805T080000Z
-DTSTART:20240805T080000Z
-DTEND:20240805T110000Z
-DESCRIPTION:乒乓球 - 男子团体16强赛
-SUMMARY:🏓 瑞典 🇸🇪 - 🇩🇰 丹麦
-LOCATION:南巴黎竞技场4号馆
+UID:20240804T130000Z-badminton--MAS-DEN
+DTSTAMP:20240804T130000Z
+DTSTART:20240804T130000Z
+DTEND:20240804T140000Z
+DESCRIPTION:羽毛球 - 男子双打铜牌赛
+SUMMARY:🏸 CHIA/SOH 🇲🇾 - 🇩🇰 ASTRUP/RASMUSSEN
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T105000Z-athletics-200
-DTSTAMP:20240805T105000Z
-DTSTART:20240805T105000Z
-DTEND:20240805T111500Z
-DESCRIPTION:田径 - 女子200米复活赛\n🇻🇬 Adaejah HODGE\n🇪🇨 Aimara NAZARENO\n🇧🇷
-  Ana Carolina AZEVEDO\n🇮🇹 Anna BONGIORNI\n🇭🇺 Boglarka TAKACS\n🇲🇽
-  Cecilia TAMAYO-GARZA\n🇮🇹 Dalia KADDARI\n🇪🇨 Gabriela Anahi
-  SUAREZ\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke VERVAET\n🇨🇦 Jacqueline
-  MADOGO\n🇪🇸 Jael BESTUE\n🇵🇱 Krystsina TSIMANOUSKAYA\n🇨🇳 LI
-  Yuting\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas BAZOLO\n🇧🇷 Lorraine
-  MARTINS\n🇨🇮 Maboundou KONE\n🇵🇱 Martyna KOTWILA\n🇦🇺 Mia GROSS\n🇪🇨
-  Nicole CAICEDO\n🇸🇪 Nora LINDAHL\n🇰🇿 Olga SAFRONOVA\n🇨🇾 Olivia
-  FOTOPOULOU\n🇬🇷 Polyniki EMMANOUILIDOU\n🇦🇺 Torrie LEWIS\n🇸🇬 Veronica
-  Shanti PEREIRA
-SUMMARY:🏃 女子200米复活赛
-LOCATION:法兰西体育场
+UID:20240804T134500Z-sailing-17-04
+DTSTAMP:20240804T134500Z
+DTSTART:20240804T134500Z
+DTEND:20240804T142000Z
+DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛04\n🇧🇪 CLAEYSSENS/VERSTRAELE\n🇬🇧
+  GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵 IITSUKA/NISHIDA CAP.\n🇸🇪
+  JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳 MAI/CHEN\n🇦🇷
+  MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷 MOURNIAC/BERTHOMIEU\n🇺🇸
+  NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰 SAOUMA-PED/BRUUN\n🇧🇷
+  SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
+SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛04
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T134500Z-sailing--08
+DTSTAMP:20240804T134500Z
+DTSTART:20240804T134500Z
+DTEND:20240804T143600Z
+DESCRIPTION:帆船 - 女子帆船激光雷迪尔级 - 比赛08\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 女子帆船激光雷迪尔级 - 比赛08
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T143700Z-sailing-17-05
+DTSTAMP:20240804T143700Z
+DTSTART:20240804T143700Z
+DTEND:20240804T151200Z
+DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛05\n🇧🇪 CLAEYSSENS/VERSTRAELE\n🇬🇧
+  GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵 IITSUKA/NISHIDA CAP.\n🇸🇪
+  JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳 MAI/CHEN\n🇦🇷
+  MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷 MOURNIAC/BERTHOMIEU\n🇺🇸
+  NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰 SAOUMA-PED/BRUUN\n🇧🇷
+  SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
+SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛05
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T152900Z-sailing-17-06
+DTSTAMP:20240804T152900Z
+DTSTART:20240804T152900Z
+DTEND:20240804T160400Z
+DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛06\n🇧🇪 CLAEYSSENS/VERSTRAELE\n🇬🇧
+  GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵 IITSUKA/NISHIDA CAP.\n🇸🇪
+  JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳 MAI/CHEN\n🇦🇷
+  MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷 MOURNIAC/BERTHOMIEU\n🇺🇸
+  NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰 SAOUMA-PED/BRUUN\n🇧🇷
+  SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
+SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛06
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T100500Z-sailing-17-07
+DTSTAMP:20240805T100500Z
+DTSTART:20240805T100500Z
+DTEND:20240805T104000Z
+DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛07\n🇧🇪 CLAEYSSENS/VERSTRAELE\n🇬🇧
+  GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵 IITSUKA/NISHIDA CAP.\n🇸🇪
+  JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳 MAI/CHEN\n🇦🇷
+  MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷 MOURNIAC/BERTHOMIEU\n🇺🇸
+  NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰 SAOUMA-PED/BRUUN\n🇧🇷
+  SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
+SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛07
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T101500Z-sailing--09
+DTSTAMP:20240805T101500Z
+DTSTART:20240805T101500Z
+DTEND:20240805T110600Z
+DESCRIPTION:帆船 - 女子帆船激光雷迪尔级 - 比赛09\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 女子帆船激光雷迪尔级 - 比赛09
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T105700Z-sailing-17-08
+DTSTAMP:20240805T105700Z
+DTSTART:20240805T105700Z
+DTEND:20240805T113200Z
+DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛08\n🇧🇪 CLAEYSSENS/VERSTRAELE\n🇬🇧
+  GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵 IITSUKA/NISHIDA CAP.\n🇸🇪
+  JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳 MAI/CHEN\n🇦🇷
+  MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷 MOURNIAC/BERTHOMIEU\n🇺🇸
+  NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰 SAOUMA-PED/BRUUN\n🇧🇷
+  SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
+SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛08
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T112300Z-sailing--10
+DTSTAMP:20240805T112300Z
+DTSTART:20240805T112300Z
+DTEND:20240805T121400Z
+DESCRIPTION:帆船 - 女子帆船激光雷迪尔级 - 比赛10\n🇧🇲 Adriana PENRUDDOCKE\n🇵🇱 Agata
+  BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA SANCHEZ\n🇩🇰 Anne-Marie
+  RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara BENINI FLORIANI\n🇲🇿 Deizy
+  NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem GUZEL\n🇲🇽 Elena OETLING
+  RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia CHIARELLA\n🇨🇳 GU Min\n🇧🇷
+  Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧 Hannah SNELLGROVE\n🇸🇪
+  Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬 Khouloud MANSY\n🇸🇮 Lin
+  PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola MOREIRA\n🇫🇷 Louise
+  CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱 Maria Jose PONCELL
+  MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud
+  JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD
+  LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay KAKON\n🇫🇯 Sophia Frances
+  MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia Astrid RIPLEY\n🇱🇹
+  Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ 女子帆船激光雷迪尔级 - 比赛10
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T114900Z-sailing-17-09
+DTSTAMP:20240805T114900Z
+DTSTART:20240805T114900Z
+DTEND:20240805T122400Z
+DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛09\n🇧🇪 CLAEYSSENS/VERSTRAELE\n🇬🇧
+  GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵 IITSUKA/NISHIDA CAP.\n🇸🇪
+  JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳 MAI/CHEN\n🇦🇷
+  MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷 MOURNIAC/BERTHOMIEU\n🇺🇸
+  NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰 SAOUMA-PED/BRUUN\n🇧🇷
+  SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
+SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛09
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T120000Z-equestrian-
@@ -430,64 +692,168 @@ SUMMARY:🏇 个人场地障碍预赛
 LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T152700Z-cycling-track-
-DTSTAMP:20240805T152700Z
-DTSTART:20240805T152700Z
-DTEND:20240805T165500Z
-DESCRIPTION:场地自行车 - 男子团体追逐赛资格赛\n🇩🇰 丹麦\n🇨🇦 加拿大\n🇩🇪 德国\n🇮🇹 意大利\n🇳🇿
-  新西兰\n🇯🇵 日本\n🇧🇪 比利时\n🇫🇷 法国\n🇦🇺 澳大利亚\n🇬🇧 英国
-SUMMARY:🚴 男子团体追逐赛资格赛
-LOCATION:圣康丁伊夫林自行车馆
+UID:20240805T124500Z-sailing--09
+DTSTAMP:20240805T124500Z
+DTSTART:20240805T124500Z
+DTEND:20240805T133600Z
+DESCRIPTION:帆船 - 男子帆船激光级- 比赛09\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 男子帆船激光级- 比赛09
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T073000Z-handball-14-DEN-NED
-DTSTAMP:20240806T073000Z
-DTSTART:20240806T073000Z
-DTEND:20240806T090000Z
-DESCRIPTION:手球 - 女子1/4决赛
-SUMMARY:🤾 丹麦 🇩🇰 - 🇳🇱 荷兰
-LOCATION:皮埃尔·莫鲁瓦体育场
+UID:20240805T134000Z-badminton--THA-DEN
+DTSTAMP:20240805T134000Z
+DTSTART:20240805T134000Z
+DTEND:20240805T153000Z
+DESCRIPTION:羽毛球 - 男子单打金牌赛
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇩🇰 Viktor AXELSEN
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T171400Z-cycling-track-1
-DTSTAMP:20240806T171400Z
-DTSTART:20240806T171400Z
-DTEND:20240806T175500Z
-DESCRIPTION:场地自行车 - 男子团体追逐赛第1轮\n🇳🇿 Aaron GATE\n🇫🇷 Benjamin THOMAS\n🇳🇿
-  Campbell STEWART\n🇩🇰 Carl-Frederik BEVORT\n🇨🇦 Carson MATTERN\n🇦🇺
-  Conor LEAHY\n🇬🇧 Daniel BIGHAM\n🇨🇦 Dylan BIBIC\n🇬🇧 Ethan
-  HAYTER\n🇬🇧 Ethan VERNON\n🇧🇪 Fabio van den BOSSCHE\n🇮🇹 Filippo
-  GANNA\n🇮🇹 Francesco LAMON\n🇮🇹 Jonathan MILAN\n🇳🇿 Keegan
-  HORNBLOW\n🇦🇺 Kell O'BRIEN\n🇧🇪 Lindsay de VYLDER\n🇨🇦 Mathias
-  GUILLEMETTE\n🇨🇦 Michael FOLEY\n🇩🇰 Niklas LARSEN\n🇧🇪 Noah
-  VANDENBRANDEN\n🇦🇺 Oliver BLEDDYN\n🇬🇧 Oliver WOOD\n🇩🇰 Rasmus Lund
-  PEDERSEN\n🇦🇺 Sam WELSFORD\n🇮🇹 Simone CONSONNI\n🇫🇷 Thomas
-  BOUDAT\n🇫🇷 Thomas DENIS\n🇩🇰 Tobias Aagaard HANSEN\n🇳🇿 Tom
-  SEXTON\n🇧🇪 Tuur DENS\n🇫🇷 Valentin TABELLION
-SUMMARY:🚴 男子团体追逐赛第1轮
-LOCATION:圣康丁伊夫林自行车馆
+UID:20240805T135000Z-sailing--10
+DTSTAMP:20240805T135000Z
+DTSTART:20240805T135000Z
+DTEND:20240805T144100Z
+DESCRIPTION:帆船 - 男子帆船激光级- 比赛10\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit Mikhail
+  ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱 Duko
+  BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸 Eroni
+  Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn LYNCH\n🇦🇷
+  Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY Nicholas\n🇳🇴
+  Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸 Joaquin BLANCO\n🇩🇰
+  Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹 Juan I MAEGLI\n🇦🇼
+  Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪 Karl-Martin RAMMO\n🇲🇾
+  Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando CHIAVARINI\n🇱🇨 Luc
+  CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇵🇱 Michal
+  KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED VILENCHIK\n🇨🇾 Pavlos
+  KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪 Philipp BUHL\n🇸🇬 Ryan
+  LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad LETTSOME\n🇳🇿 Thomas
+  SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu SARAVANAN\n🇧🇪 William de
+  SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
+SUMMARY:⛵ 男子帆船激光级- 比赛10
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T175700Z-athletics-
-DTSTAMP:20240806T175700Z
-DTSTART:20240806T175700Z
-DTEND:20240806T190700Z
-DESCRIPTION:田径 - 女子链球决赛\n🇵🇱 Anita WLODARCZYK\n🇺🇸 Annette Nneka
-  ECHIKUNWOKE\n🇷🇴 Bianca Florentina GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸
-  Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰 Katrine Koch JACOBSEN\n🇫🇮 Krista
-  TERVO\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja
-  KOSONEN\n🇨🇳 ZHAO Jie
-SUMMARY:🏃 女子链球决赛
-LOCATION:法兰西体育场
+UID:20240806T100500Z-sailing-17-10
+DTSTAMP:20240806T100500Z
+DTSTART:20240806T100500Z
+DTEND:20240806T104000Z
+DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛10\n🇧🇪 CLAEYSSENS/VERSTRAELE\n🇬🇧
+  GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵 IITSUKA/NISHIDA CAP.\n🇸🇪
+  JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳 MAI/CHEN\n🇦🇷
+  MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷 MOURNIAC/BERTHOMIEU\n🇺🇸
+  NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰 SAOUMA-PED/BRUUN\n🇧🇷
+  SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
+SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛10
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T153000Z-handball-14-DEN-SWE
-DTSTAMP:20240807T153000Z
-DTSTART:20240807T153000Z
-DTEND:20240807T173000Z
-DESCRIPTION:手球 - 男子1/4决赛
-SUMMARY:🤾 丹麦 🇩🇰 - 🇸🇪 瑞典
-LOCATION:皮埃尔·莫鲁瓦体育场
+UID:20240806T105700Z-sailing-17-11
+DTSTAMP:20240806T105700Z
+DTSTART:20240806T105700Z
+DTEND:20240806T113200Z
+DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛11\n🇧🇪 CLAEYSSENS/VERSTRAELE\n🇬🇧
+  GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵 IITSUKA/NISHIDA CAP.\n🇸🇪
+  JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳 MAI/CHEN\n🇦🇷
+  MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷 MOURNIAC/BERTHOMIEU\n🇺🇸
+  NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰 SAOUMA-PED/BRUUN\n🇧🇷
+  SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
+SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛11
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T114900Z-sailing-17-12
+DTSTAMP:20240806T114900Z
+DTSTART:20240806T114900Z
+DTEND:20240806T122400Z
+DESCRIPTION:帆船 - 男女混合帆船诺卡拉17级 - 比赛12\n🇧🇪 CLAEYSSENS/VERSTRAELE\n🇬🇧
+  GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵 IITSUKA/NISHIDA CAP.\n🇸🇪
+  JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪 KOHLHOFF/STUHLEMMER\n🇫🇮
+  KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳 MAI/CHEN\n🇦🇷
+  MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷 MOURNIAC/BERTHOMIEU\n🇺🇸
+  NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰 SAOUMA-PED/BRUUN\n🇧🇷
+  SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿 WILKINSON/DAWSON
+SUMMARY:⛵ 男女混合帆船诺卡拉17级 - 比赛12
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T124300Z-sailing-
+DTSTAMP:20240806T124300Z
+DTSTART:20240806T124300Z
+DTEND:20240806T130300Z
+DESCRIPTION:帆船 - 女子帆船激光雷迪尔级奖牌赛\n🇩🇰 Anne-Marie RINDOM\n🇮🇹 Chiara BENINI
+  FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
+  REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise CERVERA\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
+SUMMARY:⛵ 女子帆船激光雷迪尔级奖牌赛
+LOCATION:马赛港
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T070000Z-golf-1
+DTSTAMP:20240807T070000Z
+DTSTART:20240807T070000Z
+DTEND:20240807T160000Z
+DESCRIPTION:高尔夫 - 女子第1回合\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦
+  Alena SHARP\n🇮🇹 Alessandra FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana
+  BELAC\n🇳🇱 Anne van DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭
+  Atthaya THITIKUL\n🇪🇸 Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦
+  Brooke M. HENDERSON\n🇹🇼 CHIEN Pei-Yun\n🇪🇸 Carlota CIGANDA\n🇳🇴
+  Celine BORGE\n🇫🇷 Celine BOUTIER\n🇬🇧 Charley HULL\n🇮🇳 Diksha
+  DAGAR\n🇵🇭 Dottie ARDINA\n🇩🇰 Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪
+  Esther HENSELEIT\n🇲🇽 Gaby LOPEZ\n🇬🇧 Georgia HALL\n🇹🇼 HSU
+  Wei-Ling\n🇦🇺 Hannah GREEN\n🇲🇦 Ines LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇰🇷
+  KO Jin Young\n🇨🇿 Klara DAVIDSON SPILKOVA\n🇨🇳 LIN Xiyu Janet\n🇮🇪
+  Leona MAGUIRE\n🇺🇸 Lilia VU\n🇸🇪 Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴
+  Madelene STAVNAR\n🇸🇪 Maja STARK\n🇧🇪 Manon DE ROEY\n🇲🇽 Maria
+  FASSI\n🇨🇴 Mariajo URIBE\n🇦🇺 Minjee LEE\n🇨🇭 Morgane METRAUX\n🇩🇰
+  Nanna KOERSTZ MADSEN\n🇺🇸 Nelly KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty
+  TAVATANAKIT\n🇿🇦 Paula RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia
+  BABNIK\n🇺🇸 Rose ZHANG\n🇯🇵 SASO Yuka\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah
+  SCHOBER\n🇸🇬 Shannon TAN\n🇮🇪 Stephanie MEADOW\n🇫🇮 Ursula
+  WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ 女子第1回合
+LOCATION:国家高尔夫球场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T070000Z-golf-2
+DTSTAMP:20240808T070000Z
+DTSTART:20240808T070000Z
+DTEND:20240808T160000Z
+DESCRIPTION:高尔夫 - 女子第2回合\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦
+  Alena SHARP\n🇮🇹 Alessandra FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana
+  BELAC\n🇳🇱 Anne van DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭
+  Atthaya THITIKUL\n🇪🇸 Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦
+  Brooke M. HENDERSON\n🇹🇼 CHIEN Pei-Yun\n🇪🇸 Carlota CIGANDA\n🇳🇴
+  Celine BORGE\n🇫🇷 Celine BOUTIER\n🇬🇧 Charley HULL\n🇮🇳 Diksha
+  DAGAR\n🇵🇭 Dottie ARDINA\n🇩🇰 Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪
+  Esther HENSELEIT\n🇲🇽 Gaby LOPEZ\n🇬🇧 Georgia HALL\n🇹🇼 HSU
+  Wei-Ling\n🇦🇺 Hannah GREEN\n🇲🇦 Ines LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇰🇷
+  KO Jin Young\n🇨🇿 Klara DAVIDSON SPILKOVA\n🇨🇳 LIN Xiyu Janet\n🇮🇪
+  Leona MAGUIRE\n🇺🇸 Lilia VU\n🇸🇪 Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴
+  Madelene STAVNAR\n🇸🇪 Maja STARK\n🇧🇪 Manon DE ROEY\n🇲🇽 Maria
+  FASSI\n🇨🇴 Mariajo URIBE\n🇦🇺 Minjee LEE\n🇨🇭 Morgane METRAUX\n🇩🇰
+  Nanna KOERSTZ MADSEN\n🇺🇸 Nelly KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty
+  TAVATANAKIT\n🇿🇦 Paula RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia
+  BABNIK\n🇺🇸 Rose ZHANG\n🇯🇵 SASO Yuka\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah
+  SCHOBER\n🇸🇬 Shannon TAN\n🇮🇪 Stephanie MEADOW\n🇫🇮 Ursula
+  WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ 女子第2回合
+LOCATION:国家高尔夫球场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T101300Z-taekwondo-8016-EGY-DEN

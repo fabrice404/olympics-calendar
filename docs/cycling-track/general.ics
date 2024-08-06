@@ -8,7 +8,8 @@ UID:20240805T150000Z-cycling-track-WOMENS-TEAM-SPRINT-QUALIFYING
 DTSTAMP:20240805T150000Z
 DTSTART:20240805T150000Z
 DTEND:20240805T152700Z
-DESCRIPTION:Cycling Track - Women's Team Sprint, Qualifying
+DESCRIPTION:Cycling Track - Women's Team Sprint, Qualifying\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇩🇪 GER\n🇬🇧 GBR\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL
 SUMMARY:🚴 Women's Team Sprint, Qualifying
 LOCATION:National Velodrome
 END:VEVENT
@@ -17,7 +18,9 @@ UID:20240805T152700Z-cycling-track-MENS-TEAM-PURSUIT-QUALIFYING
 DTSTAMP:20240805T152700Z
 DTSTART:20240805T152700Z
 DTEND:20240805T165500Z
-DESCRIPTION:Cycling Track - Men's Team Pursuit, Qualifying
+DESCRIPTION:Cycling Track - Men's Team Pursuit, Qualifying\n🇦🇺 AUS\n🇧🇪
+  BEL\n🇨🇦 CAN\n🇩🇰 DEN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵
+  JPN\n🇳🇿 NZL
 SUMMARY:🚴 Men's Team Pursuit, Qualifying
 LOCATION:National Velodrome
 END:VEVENT
@@ -26,7 +29,15 @@ UID:20240805T165500Z-cycling-track-WOMENS-TEAM-SPRINT-FIRST-ROUND
 DTSTAMP:20240805T165500Z
 DTSTART:20240805T165500Z
 DTEND:20240805T170900Z
-DESCRIPTION:Cycling Track - Women's Team Sprint, First Round
+DESCRIPTION:Cycling Track - Women's Team Sprint, First Round\n🇨🇳 BAO
+  Shanju\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma
+  FINUCANE\n🇩🇪 Emma HINZE\n🇨🇳 GUO Yufang\n🇳🇱 Hetty van de WOUW\n🇲🇽
+  Jessica SALAZAR VALLES\n🇬🇧 Katy MARCHANT\n🇨🇦 Kelsey MITCHELL\n🇳🇱
+  Kyra LAMBERINK\n🇨🇦 Lauriane GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena
+  KARWACKA\n🇵🇱 Nikola SIBIAK\n🇩🇪 Pauline GRABOSCH\n🇳🇿 Rebecca
+  PETCH\n🇨🇦 Sarah ORBAN\n🇳🇿 Shaane FULTON\n🇬🇧 Sophie CAPEWELL\n🇳🇱
+  Steffie van der PEET\n🇵🇱 Urszula LOS\n🇨🇳 YUAN Liying\n🇲🇽 Yuli
+  VERDUGO OSUNA
 SUMMARY:🚴 Women's Team Sprint, First Round
 LOCATION:National Velodrome
 END:VEVENT
@@ -35,7 +46,8 @@ UID:20240805T170900Z-cycling-track-MENS-TEAM-SPRINT-QUALIFYING
 DTSTAMP:20240805T170900Z
 DTSTART:20240805T170900Z
 DTEND:20240805T174600Z
-DESCRIPTION:Cycling Track - Men's Team Sprint, Qualifying
+DESCRIPTION:Cycling Track - Men's Team Sprint, Qualifying\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇯🇵 JPN\n🇳🇱 NED
 SUMMARY:🚴 Men's Team Sprint, Qualifying
 LOCATION:National Velodrome
 END:VEVENT
@@ -45,7 +57,7 @@ DTSTAMP:20240805T174600Z
 DTSTART:20240805T174600Z
 DTEND:20240805T175000Z
 DESCRIPTION:Cycling Track - Women's Team Sprint, Finals - For Places 7-8
-SUMMARY:🚴 Women's Team Sprint, Finals - For Places 7-8
+SUMMARY:🚴 POL 🇵🇱 - 🇨🇦 CAN
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
@@ -54,25 +66,25 @@ DTSTAMP:20240805T175000Z
 DTSTART:20240805T175000Z
 DTEND:20240805T175400Z
 DESCRIPTION:Cycling Track - Women's Team Sprint, Finals - For Places 5-6
-SUMMARY:🚴 Women's Team Sprint, Finals - For Places 5-6
+SUMMARY:🚴 MEX 🇲🇽 - 🇨🇳 CHN
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T175400Z-cycling-track-WOMENS-TEAM-SPRINT-FINALS-FOR-BRONZE
+UID:20240805T175400Z-cycling-track-WOMENS-TEAM-SPRINT-FINALS-FOR-BRONZE-GER
 DTSTAMP:20240805T175400Z
 DTSTART:20240805T175400Z
 DTEND:20240805T175800Z
 DESCRIPTION:Cycling Track - Women's Team Sprint, Finals - For Bronze
-SUMMARY:🚴 Women's Team Sprint, Finals - For Bronze
+SUMMARY:🚴 GER 🇩🇪 - 🇳🇱 NED
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T175900Z-cycling-track-WOMENS-TEAM-SPRINT-FINALS-FOR-GOLD
+UID:20240805T175900Z-cycling-track-WOMENS-TEAM-SPRINT-FINALS-FOR-GOLD-GBR-N
 DTSTAMP:20240805T175900Z
 DTSTART:20240805T175900Z
 DTEND:20240805T180300Z
 DESCRIPTION:Cycling Track - Women's Team Sprint, Finals - For Gold
-SUMMARY:🚴 Women's Team Sprint, Finals - For Gold
+SUMMARY:🚴 GBR 🇬🇧 - 🇳🇿 NZL
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +92,9 @@ UID:20240806T153000Z-cycling-track-WOMENS-TEAM-PURSUIT-QUALIFYING
 DTSTAMP:20240806T153000Z
 DTSTART:20240806T153000Z
 DTEND:20240806T165900Z
-DESCRIPTION:Cycling Track - Women's Team Pursuit, Qualifying
+DESCRIPTION:Cycling Track - Women's Team Pursuit, Qualifying\n🇦🇺
+  AUS\n🇨🇦 CAN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇹 ITA\n🇯🇵
+  JPN\n🇳🇿 NZL\n🇺🇸 USA
 SUMMARY:🚴 Women's Team Pursuit, Qualifying
 LOCATION:National Velodrome
 END:VEVENT
@@ -89,7 +103,14 @@ UID:20240806T165900Z-cycling-track-MENS-TEAM-SPRINT-FIRST-ROUND
 DTSTAMP:20240806T165900Z
 DTSTART:20240806T165900Z
 DTEND:20240806T171400Z
-DESCRIPTION:Cycling Track - Men's Team Sprint, First Round
+DESCRIPTION:Cycling Track - Men's Team Sprint, First Round\n🇬🇧 Ed
+  LOWE\n🇫🇷 Florian GRENGBO\n🇨🇳 GUO Shuai\n🇬🇧 Hamish TURNBULL\n🇳🇱
+  Harrie LAVREYSEN\n🇬🇧 Jack CARLIN\n🇨🇦 James HEDGCOCK\n🇳🇱 Jeffrey
+  HOOGLAND\n🇨🇳 LIU Qi\n🇦🇺 Leigh HOFFMAN\n🇩🇪 Luca SPIEGEL\n🇦🇺
+  Matthew GLAETZER\n🇦🇺 Matthew RICHARDSON\n🇩🇪 Maximilian
+  DOERNBACH\n🇯🇵 NAGASAKO Yoshitaku\n🇨🇦 Nick WAMMES\n🇯🇵 OBARA
+  Yuta\n🇯🇵 OTA Kaiya\n🇫🇷 Rayan HELAL\n🇳🇱 Roy van den BERG\n🇫🇷
+  Sebastien VIGIER\n🇩🇪 Stefan BOETTICHER\n🇨🇦 Tyler RORKE\n🇨🇳 ZHOU Yu
 SUMMARY:🚴 Men's Team Sprint, First Round
 LOCATION:National Velodrome
 END:VEVENT
@@ -98,7 +119,17 @@ UID:20240806T171400Z-cycling-track-MENS-TEAM-PURSUIT-FIRST-ROUND
 DTSTAMP:20240806T171400Z
 DTSTART:20240806T171400Z
 DTEND:20240806T175500Z
-DESCRIPTION:Cycling Track - Men's Team Pursuit, First Round
+DESCRIPTION:Cycling Track - Men's Team Pursuit, First Round\n🇳🇿 Aaron
+  GATE\n🇫🇷 Benjamin THOMAS\n🇳🇿 Campbell STEWART\n🇩🇰 Carl-Frederik
+  BEVORT\n🇨🇦 Carson MATTERN\n🇦🇺 Conor LEAHY\n🇬🇧 Daniel BIGHAM\n🇨🇦
+  Dylan BIBIC\n🇬🇧 Ethan HAYTER\n🇬🇧 Ethan VERNON\n🇧🇪 Fabio van den
+  BOSSCHE\n🇮🇹 Filippo GANNA\n🇮🇹 Francesco LAMON\n🇮🇹 Jonathan
+  MILAN\n🇳🇿 Keegan HORNBLOW\n🇦🇺 Kell O'BRIEN\n🇧🇪 Lindsay de
+  VYLDER\n🇨🇦 Mathias GUILLEMETTE\n🇨🇦 Michael FOLEY\n🇩🇰 Niklas
+  LARSEN\n🇧🇪 Noah VANDENBRANDEN\n🇦🇺 Oliver BLEDDYN\n🇬🇧 Oliver
+  WOOD\n🇩🇰 Rasmus Lund PEDERSEN\n🇦🇺 Sam WELSFORD\n🇮🇹 Simone
+  CONSONNI\n🇫🇷 Thomas BOUDAT\n🇫🇷 Thomas DENIS\n🇩🇰 Tobias Aagaard
+  HANSEN\n🇳🇿 Tom SEXTON\n🇧🇪 Tuur DENS\n🇫🇷 Valentin TABELLION
 SUMMARY:🚴 Men's Team Pursuit, First Round
 LOCATION:National Velodrome
 END:VEVENT

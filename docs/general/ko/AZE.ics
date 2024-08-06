@@ -4,6 +4,36 @@ PRODID:-//fabrice404//olympics-calendar//general/ko/AZE//EN
 X-WR-CALNAME:🇦🇿 Azerbaijan | Paris 2024
 NAME:🇦🇿 Azerbaijan | Paris 2024
 BEGIN:VEVENT
+UID:20240725T073000Z-archery--
+DTSTAMP:20240725T073000Z
+DTSTART:20240725T073000Z
+DTEND:20240725T103000Z
+DESCRIPTION:양궁 - 여자 개인 랭킹 라운드\n🇨🇳 AN Qixuan\n🇲🇽 Alejandra
+  VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra RIVERA\n🇫🇷 Amelie
+  CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana RENDON
+  MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita BHAKAT\n🇲🇾
+  Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧 Bryony
+  PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
+  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
+  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
+  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
+  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
+  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
+  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
+  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
+  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
+  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
+  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
+  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
+  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
+  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
+  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
+  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
+  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
+SUMMARY:🏹 여자 개인 랭킹 라운드
+LOCATION:앵발리드
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -37,17 +67,6 @@ DESCRIPTION:트램폴린 체조 - 여자 결승\n🇦🇸 Anzhela BLADTCEVA\n�
   BARDZILOUSKAYA\n🇨🇳 ZHU Xueying
 SUMMARY:🤸 여자 결승
 LOCATION:베르시 아레나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T073000Z-rowing--C
-DTSTAMP:20240803T073000Z
-DTSTART:20240803T073000Z
-DTEND:20240803T073700Z
-DESCRIPTION:조정 - 여자 싱글스컬 결승 C\n🇧🇷 Beatriz CUNHA TAVARES CARDOSO\n🇦🇿
-  Diana DYMCHENKO\n🇷🇸 Jovana ARSIC\n🇲🇽 Kenia LECHUGA ALANIS\n🇸🇮 Nina
-  KOSTANJSEK\n🇿🇦 Paige BADENHORST
-SUMMARY:🚣 여자 싱글스컬 결승 C
-LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-swimming--50M-
@@ -110,20 +129,6 @@ DESCRIPTION:사격 - 남자 25m 속사권총 예선-스테이지 1\n🇮🇳 Ani
   EVGLEVSKI\n🇮🇳 Vijayveer SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
 SUMMARY:🔫 남자 25m 속사권총 예선-스테이지 1
 LOCATION:샤토루 사격 센터
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T082000Z-athletics--A
-DTSTAMP:20240804T082000Z
-DTSTART:20240804T082000Z
-DTEND:20240804T091600Z
-DESCRIPTION:육상 - 여자 해머던지기 예선 - A조\n🇺🇸 Annette Nneka ECHIKUNWOKE\n🇳🇴
-  Beatrice Nedberge LLANO\n🇷🇴 Bianca Florentina GHELBER\n🇨🇦 Camryn
-  ROGERS\n🇺🇸 Erin REESE\n🇦🇿 Hanna SKYDAN\n🇨🇳 LI Jiangyan\n🇳🇿 Lauren
-  BRUCE\n🇵🇱 Malwina KOPRON\n🇨🇴 Mayra GAVIRIA\n🇫🇷 Rose LOGA\n🇦🇺
-  Stephanie RATCLIFFE\n🇫🇮 Suvi KOSKINEN\n🇸🇪 Thea LOFMAN\n🇨🇳 ZHAO
-  Jie\n🇩🇿 Zahra TATAR
-SUMMARY:🏃 여자 해머던지기 예선 - A조
-LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T110000Z-shooting--25M-2
@@ -214,28 +219,6 @@ DTEND:20240806T172500Z
 DESCRIPTION:레슬링 - 남자 그레코로만형 130kg 동메달 결정전\n🇦🇿 Sabah Saleh SHARIATI
 SUMMARY:🤼 남자 그레코로만형 130kg 동메달 결정전
 LOCATION:샹드마르 아레나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T175700Z-athletics--
-DTSTAMP:20240806T175700Z
-DTSTART:20240806T175700Z
-DTEND:20240806T190700Z
-DESCRIPTION:육상 - 여자 해머던지기 결승\n🇵🇱 Anita WLODARCZYK\n🇺🇸 Annette Nneka
-  ECHIKUNWOKE\n🇷🇴 Bianca Florentina GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸
-  Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰 Katrine Koch JACOBSEN\n🇫🇮 Krista
-  TERVO\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja
-  KOSONEN\n🇨🇳 ZHAO Jie
-SUMMARY:🏃 여자 해머던지기 결승
-LOCATION:스타드 드 프랑스
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T094800Z-taekwondo--58KG-16-IRL-AZE
-DTSTAMP:20240807T094800Z
-DTSTART:20240807T094800Z
-DTEND:20240807T100000Z
-DESCRIPTION:태권도 - 남자 -58kg 16강
-SUMMARY:🥋 Jack WOOLLEY 🇮🇪 - 🇦🇿 Gashim MAGOMEDOV
-LOCATION:그랑 팔레
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T203400Z-boxing--92KG--AZE-UZB

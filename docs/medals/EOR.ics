@@ -4,44 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//medals/EOR//EN
 X-WR-CALNAME:🏳️ Refugee Olympic Team 🏅 | Paris 2024
 NAME:🏳️ Refugee Olympic Team 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
-DTSTAMP:20240727T143200Z
-DTSTART:20240727T143200Z
-DTEND:20240727T155700Z
-DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
-  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
-  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
-  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇦🇸 Gleb
-  SYRITSA\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh
-  TARLING\n🇫🇷 Kevin VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas
-  PLAPP\n🇺🇸 Magnus SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias
-  SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰
-  Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO\n🇧🇪
-  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren
-  WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias
-  FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
-SUMMARY:🚴 Men's Individual Time Trial
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T192000Z-athletics-MENS-10000M-FINAL
-DTSTAMP:20240802T192000Z
-DTSTART:20240802T192000Z
-DTEND:20240802T195000Z
-DESCRIPTION:Athletics - Men's 10,000m Final\n🇪🇸 Abdessamad
-  OUKHELFEN\n🇿🇦 Adriaan WILDSCHUTT\n🇰🇪 Benard KIBET\n🇪🇹 Berihu
-  AREGAWI\n🇧🇭 Birhanu BALEW\n🇧🇮 Celestin NDIKUMANA\n🇰🇪 Daniel
-  MATEIKO\n🇺🇸 Grant FISHER\n🇧🇪 Isaac KIMELI\n🇺🇬 Jacob KIPLIMO\n🏳️
-  Jamal Abdelmaji EISA MOHAMMED\n🇫🇷 Jimmy GRESSIER\n🇺🇬 Joshua
-  CHEPTEGEI\n🇯🇵 KASAI Jun\n🇺🇬 Martin KIPROTICH\n🇪🇷 Merhawi
-  MEBRAHTU\n🇨🇦 Mohammed AHMED\n🇰🇪 Nicholas KIPKORIR\n🇺🇸 Nico
-  YOUNG\n🇯🇵 OTA Tomoki\n🇧🇮 Rodrigue KWIZERA\n🇪🇹 Selemon BAREGA\n🇪🇸
-  Thierry NDIKUMWENAYO\n🇺🇸 William KINCAID\n🇫🇷 Yann SCHRUB\n🇪🇹 Yomif
-  KEJELCHA\n🇷🇼 Yves NIMUBONA
-SUMMARY:🏃 Men's 10,000m Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
 DTSTAMP:20240804T120000Z
 DTSTART:20240804T120000Z
@@ -79,15 +41,6 @@ DESCRIPTION:Cycling Road - Women's Road Race\n🇵🇱 Agnieszka
   Yanina KUSKOVA\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 Women's Road Race
 LOCATION:Trocadéro
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T201800Z-boxing-WOMENS-75KG-SEMIFINAL-EOR-PAN
-DTSTAMP:20240808T201800Z
-DTSTART:20240808T201800Z
-DTEND:20240808T202900Z
-DESCRIPTION:Boxing - Women's 75kg - Semifinal
-SUMMARY:🥊 Cindy Winner DJANKEU NGAMBA 🏳️ - 🇵🇦 Atheyna Bibeichi BYLON
-LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T093000Z-weightlifting-MENS-102KG

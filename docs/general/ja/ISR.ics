@@ -34,6 +34,69 @@ SUMMARY:🚴 男子クロスカントリー
 LOCATION:エランクールの丘
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T060000Z-judo--MGL-ISR
+DTSTAMP:20240803T060000Z
+DTSTART:20240803T060000Z
+DTEND:20240803T061000Z
+DESCRIPTION:柔道 - 混合団体予備戦
+SUMMARY:🥋 モンゴル 🇲🇳 - 🇮🇱 イスラエル
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T072400Z-judo-1-FRA-ISR
+DTSTAMP:20240803T072400Z
+DTSTART:20240803T072400Z
+DTEND:20240803T074500Z
+DESCRIPTION:柔道 - 混合団体1回戦
+SUMMARY:🥋 フランス 🇫🇷 - 🇮🇱 イスラエル
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T133000Z-artistic-gymnastics-
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T140500Z
+DESCRIPTION:体操競技 - 男子種目別ゆか決勝\n🇮🇱 Artem DOLGOPYAT\n🇵🇭 Carlos Edriel
+  YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke
+  WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵 OKA Shinnosuke\n🇰🇷 RYU
+  Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG Boheng
+SUMMARY:🤸 男子種目別ゆか決勝
+LOCATION:ベルシー・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T082200Z-taekwondo-49KG1-KSA-ISR
+DTSTAMP:20240807T082200Z
+DTSTART:20240807T082200Z
+DTEND:20240807T083500Z
+DESCRIPTION:テコンドー - 女子49kg級1回戦
+SUMMARY:🥋 Dunya Ali M ABUTALEB 🇸🇦 - 🇮🇱 Abishag SEMBERG
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-artistic-swimming-
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T191300Z
+DESCRIPTION:アーティスティックスイミング - デュエットテクニカルルーティン\n🇺🇸 アメリカ合衆国\n🇮🇱
+  イスラエル\n🇮🇹 イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹
+  オーストリア\n🇨🇦 カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽
+  メキシコ\n🇨🇳 中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットテクニカルルーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming-
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:アーティスティックスイミング - デュエットフリールーティン\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットフリールーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z

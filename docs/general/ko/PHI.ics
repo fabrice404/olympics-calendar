@@ -13,22 +13,16 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T081000Z-athletics--
-DTSTAMP:20240803T081000Z
-DTSTART:20240803T081000Z
-DTEND:20240803T103000Z
-DESCRIPTION:육상 - 남자 장대높이뛰기 예선\n🇫🇷 Anthony AMMIRATI\n🇸🇪 Armand
-  DUPLANTIS\n🇧🇪 Ben BROEDERS\n🇩🇪 Bo Kanda LITA BAEHRE\n🇺🇸 Christopher
-  NILSEN\n🇮🇹 Claudio Michel STECCHI\n🇨🇿 David HOLY\n🇬🇷 Emmanouil
-  KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu SASMA\n🇨🇳 HUANG Bokai\n🇸🇦
-  Hussain Asim AL HIZAM\n🇺🇸 Jacob WOOTEN\n🇦🇺 Kurtis MARSCHALL\n🇨🇿
-  Matej SCERBA\n🇳🇱 Menno VLOON\n🇩🇪 Oleg ZERNIKEL\n🇳🇴 Pal Haugen
-  LILLEFOSSE\n🇵🇹 Pedro BUARO\n🇵🇱 Piotr LISEK\n🇵🇱 Robert SOBERA\n🇫🇷
-  Robin EMIG\n🇺🇸 Sam KENDRICKS\n🇳🇴 Simen GUTTORMSEN\n🇳🇴 Sondre
-  GUTTORMSEN\n🇫🇷 Thibaut COLLET\n🇩🇪 Torben BLECH\n🇫🇮 Urho
-  KUJANPAA\n🇱🇻 Valters KREISS\n🇨🇳 YAO Jie\n🇨🇳 ZHONG Tao
-SUMMARY:🏃 남자 장대높이뛰기 예선
-LOCATION:스타드 드 프랑스
+UID:20240803T133000Z-artistic-gymnastics--
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T140500Z
+DESCRIPTION:기계체조 - 남자 마루 운동 결승\n🇮🇱 Artem DOLGOPYAT\n🇵🇭 Carlos Edriel
+  YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke
+  WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵 OKA Shinnosuke\n🇰🇷 RYU
+  Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG Boheng
+SUMMARY:🤸 남자 마루 운동 결승
+LOCATION:베르시 아레나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T134600Z-boxing--57KG-8-PHI-AUS
@@ -49,49 +43,6 @@ SUMMARY:🥊 Wassila LKHADIRI 🇫🇷 - 🇵🇭 Aira VILLEGAS
 LOCATION:노스 파리 아레나
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T095000Z-athletics--110M-1
-DTSTAMP:20240804T095000Z
-DTSTART:20240804T095000Z
-DTEND:20240804T102300Z
-DESCRIPTION:육상 - 남자 110m 허들 1라운드\n🇩🇿 Amine BOUANANI\n🇧🇸 Antoine
-  ANDREWS\n🇪🇸 Asier MARTINEZ\n🇨🇦 Craig THORNE\n🇵🇱 Damian
-  CZYKIER\n🇺🇸 Daniel ROBERTS\n🇰🇿 David YEFREMOV\n🇧🇷 Eduardo
-  RODRIGUES\n🇧🇪 Elie BACARI\n🇫🇮 Elmo LAKKA\n🇪🇸 Enrique LLOPIS\n🇦🇹
-  Enzo DIESSL\n🇺🇸 Freddie CRITTENDEN\n🇺🇸 Grant HOLLOWAY\n🇯🇲 Hansle
-  PARCHMENT\n🇯🇵 IZUMIYA Shunsuke\n🇵🇱 Jakub SZYMANSKI\n🇨🇭 Jason
-  JOSEPH\n🇵🇭 John CABANG\n🇵🇱 Krzysztof KILJAN\n🇨🇳 LIU Junxi\n🇮🇹
-  Lorenzo Ndele SIMONELLI\n🇸🇳 Louis Francois MENDY\n🇯🇵 MURATAKE
-  Rachid\n🇩🇪 Manuel MORDI\n🇨🇱 Martin SAENZ de SANTA MARIA\n🇧🇪 Michael
-  OBASUYI\n🇨🇾 Milan TRAJKOVIC\n🇯🇲 Orlando BENNETT\n🇨🇳 QIN Weibo\n🇧🇷
-  Rafael PEREIRA\n🇫🇷 Raphael MOHAMED\n🇯🇲 Rasheed BROADBELL\n🇫🇷 Sasha
-  ZHOYA\n🇯🇵 TAKAYAMA Shunya\n🇬🇧 Tade OJORA\n🇦🇺 Tayleb WILLIS\n🇫🇷
-  Wilhem BELOCIAN\n🇨🇳 XU Zhuoyi\n🇰🇼 Yaqoub ALYOUHA
-SUMMARY:🏃 남자 110m 허들 1라운드
-LOCATION:스타드 드 프랑스
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T103500Z-athletics--400M-1
-DTSTAMP:20240804T103500Z
-DTSTART:20240804T103500Z
-DTEND:20240804T110800Z
-DESCRIPTION:육상 - 여자 400m 허들 1라운드\n🇦🇺 Alanah YUKICH\n🇮🇹 Alice
-  MURARO\n🇳🇴 Amalie IUEL\n🇺🇸 Anna COCKRELL\n🇺🇦 Anna RYZHYKOVA\n🇮🇹
-  Ayomide FOLORUNSO\n🇩🇪 Carolina KRAFZIK\n🇳🇱 Cathelijn PEETERS\n🇧🇷
-  Chayenne da SILVA\n🇵🇹 Fatoumata Binta DIALLO\n🇳🇱 Femke BOL\n🇵🇦
-  Gianna WOODRUFF\n🇵🇷 Grace CLAXTON\n🇧🇪 Hanne CLAES\n🇯🇲 Janieve
-  RUSSELL\n🇺🇸 Jasmine JONES\n🇬🇧 Jessie KNIGHT\n🇧🇭 Kemi ADEKOYA\n🇵🇭
-  Lauren HOFFMAN\n🇬🇧 Lina NIELSEN\n🇨🇲 Linda ANGOUNOU\n🇳🇴 Line
-  KLOSTER\n🇫🇷 Louise MARAVAL\n🇨🇳 MO Jiadie\n🇧🇪 Naomi van den
-  BROECK\n🇨🇿 Nikoleta JICHOVA\n🇲🇦 Noura ENNADI\n🇧🇪 Paulien
-  COUCKUYT\n🇮🇹 Rebecca SARTORI\n🇿🇦 Rogail JOSEPH\n🇯🇲 Rushell
-  CLAYTON\n🇦🇺 Sarah CARLI\n🇨🇦 Savannah SUTHERLAND\n🇫🇷 Shana
-  GREBO\n🇯🇲 Shiann SALMON\n🇺🇸 Sydney McLAUGHLIN-LEVRONE\n🇫🇮 Viivi
-  LEHIKOINEN\n🇺🇦 Viktoriya TKACHUK\n🇨🇭 Yasmin GIGER\n🇿🇦 Zeney
-  GELDENHUYS
-SUMMARY:🏃 여자 400m 허들 1라운드
-LOCATION:스타드 드 프랑스
-END:VEVENT
-BEGIN:VEVENT
 UID:20240804T133000Z-boxing--57KG-8-PHI-CHN
 DTSTAMP:20240804T133000Z
 DTSTART:20240804T133000Z
@@ -101,47 +52,16 @@ SUMMARY:🥊 Nesthy PETECIO 🇵🇭 - 🇨🇳 XU Zichun
 LOCATION:노스 파리 아레나
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T085000Z-athletics--400M-
-DTSTAMP:20240805T085000Z
-DTSTART:20240805T085000Z
-DTEND:20240805T090700Z
-DESCRIPTION:육상 - 여자 400m 패자부활전\n🇦🇺 Alanah YUKICH\n🇮🇹 Alice MURARO\n🇺🇦
-  Anna RYZHYKOVA\n🇮🇹 Ayomide FOLORUNSO\n🇩🇪 Carolina KRAFZIK\n🇧🇷
-  Chayenne da SILVA\n🇵🇦 Gianna WOODRUFF\n🇵🇷 Grace CLAXTON\n🇬🇧 Jessie
-  KNIGHT\n🇵🇭 Lauren HOFFMAN\n🇨🇲 Linda ANGOUNOU\n🇳🇴 Line KLOSTER\n🇨🇳
-  MO Jiadie\n🇧🇪 Naomi van den BROECK\n🇨🇿 Nikoleta JICHOVA\n🇮🇹 Rebecca
-  SARTORI\n🇦🇺 Sarah CARLI\n🇫🇷 Shana GREBO\n🇫🇮 Viivi LEHIKOINEN\n🇺🇦
-  Viktoriya TKACHUK\n🇨🇭 Yasmin GIGER
-SUMMARY:🏃 여자 400m 패자부활전
-LOCATION:스타드 드 프랑스
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T170000Z-athletics--
-DTSTAMP:20240805T170000Z
-DTSTART:20240805T170000Z
-DTEND:20240805T192700Z
-DESCRIPTION:육상 - 남자 장대높이뛰기 결승\n🇸🇪 Armand DUPLANTIS\n🇩🇪 Bo Kanda LITA
-  BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu
-  SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱 Menno VLOON\n🇩🇪
-  Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre GUTTORMSEN\n🇱🇻 Valters
-  KREISS
-SUMMARY:🏃 남자 장대높이뛰기 결승
-LOCATION:스타드 드 프랑스
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T085000Z-athletics--110M-
-DTSTAMP:20240806T085000Z
-DTSTART:20240806T085000Z
-DTEND:20240806T090700Z
-DESCRIPTION:육상 - 남자 110m 허들 패자부활전\n🇩🇿 Amine BOUANANI\n🇪🇸 Asier
-  MARTINEZ\n🇨🇦 Craig THORNE\n🇵🇱 Damian CZYKIER\n🇰🇿 David
-  YEFREMOV\n🇧🇪 Elie BACARI\n🇫🇮 Elmo LAKKA\n🇦🇹 Enzo DIESSL\n🇺🇸
-  Freddie CRITTENDEN\n🇵🇱 Jakub SZYMANSKI\n🇵🇭 John CABANG\n🇵🇱
-  Krzysztof KILJAN\n🇨🇳 LIU Junxi\n🇩🇪 Manuel MORDI\n🇨🇱 Martin SAENZ de
-  SANTA MARIA\n🇨🇳 QIN Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷 Raphael
-  MOHAMED\n🇯🇵 TAKAYAMA Shunya\n🇦🇺 Tayleb WILLIS\n🇫🇷 Wilhem BELOCIAN
-SUMMARY:🏃 남자 110m 허들 패자부활전
-LOCATION:스타드 드 프랑스
+UID:20240804T142400Z-artistic-gymnastics--
+DTSTAMP:20240804T142400Z
+DTSTART:20240804T142400Z
+DTEND:20240804T150700Z
+DESCRIPTION:기계체조 - 남자 도마 결승\n🇹🇷 Adem ASIL\n🇦🇲 Artur DAVTYAN\n🇺🇸 Asher
+  HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel YULO\n🇬🇧 Harry
+  HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷 LEE Junho\n🇮🇷
+  Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
+SUMMARY:🤸 남자 도마 결승
+LOCATION:베르시 아레나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T201800Z-boxing--50KG--TUR-PHI
@@ -153,6 +73,33 @@ SUMMARY:🥊 Buse Naz CAKIROGLU 🇹🇷 - 🇵🇭 Aira VILLEGAS
 LOCATION:롤랑가로스 스타디움
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T070000Z-golf--1
+DTSTAMP:20240807T070000Z
+DTSTART:20240807T070000Z
+DTEND:20240807T160000Z
+DESCRIPTION:골프 - 여자 개인 스트로크 플레이 1라운드\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane
+  VALENZUELA\n🇨🇦 Alena SHARP\n🇮🇹 Alessandra FANALI\n🇩🇪 Alexandra
+  FORSTERLING\n🇸🇮 Ana BELAC\n🇳🇱 Anne van DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾
+  Ashley LAU\n🇹🇭 Atthaya THITIKUL\n🇪🇸 Azahara MUNOZ\n🇵🇭 Bianca
+  PAGDANGANAN\n🇨🇦 Brooke M. HENDERSON\n🇹🇼 CHIEN Pei-Yun\n🇪🇸 Carlota
+  CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine BOUTIER\n🇬🇧 Charley HULL\n🇮🇳
+  Diksha DAGAR\n🇵🇭 Dottie ARDINA\n🇩🇰 Emily K PEDERSEN\n🇦🇹 Emma
+  SPITZ\n🇩🇪 Esther HENSELEIT\n🇲🇽 Gaby LOPEZ\n🇬🇧 Georgia HALL\n🇹🇼
+  HSU Wei-Ling\n🇦🇺 Hannah GREEN\n🇲🇦 Ines LAKLALECH\n🇰🇷 KIM Hyo
+  Joo\n🇰🇷 KO Jin Young\n🇨🇿 Klara DAVIDSON SPILKOVA\n🇨🇳 LIN Xiyu
+  Janet\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇸🇪 Linn GRANT\n🇳🇿 Lydia
+  KO\n🇳🇴 Madelene STAVNAR\n🇸🇪 Maja STARK\n🇧🇪 Manon DE ROEY\n🇲🇽
+  Maria FASSI\n🇨🇴 Mariajo URIBE\n🇦🇺 Minjee LEE\n🇨🇭 Morgane
+  METRAUX\n🇩🇰 Nanna KOERSTZ MADSEN\n🇺🇸 Nelly KORDA\n🇫🇮 Noora
+  KOMULAINEN\n🇹🇭 Patty TAVATANAKIT\n🇿🇦 Paula RETO\n🇫🇷 Perrine
+  DELACOUR\n🇸🇮 Pia BABNIK\n🇺🇸 Rose ZHANG\n🇯🇵 SASO Yuka\n🇨🇿 Sara
+  KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇸🇬 Shannon TAN\n🇮🇪 Stephanie
+  MEADOW\n🇫🇮 Ursula WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳
+  YIN Ruoning
+SUMMARY:⛳ 여자 개인 스트로크 플레이 1라운드
+LOCATION:골프 나시오날
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T194600Z-boxing--57KG--PHI-POL
 DTSTAMP:20240807T194600Z
 DTSTART:20240807T194600Z
@@ -160,6 +107,33 @@ DTEND:20240807T195700Z
 DESCRIPTION:복싱 - 여자 57kg - 준결승
 SUMMARY:🥊 Nesthy PETECIO 🇵🇭 - 🇵🇱 Julia SZEREMETA
 LOCATION:롤랑가로스 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T070000Z-golf--2
+DTSTAMP:20240808T070000Z
+DTSTART:20240808T070000Z
+DTEND:20240808T160000Z
+DESCRIPTION:골프 - 여자 개인 스트로크 플레이 2라운드\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane
+  VALENZUELA\n🇨🇦 Alena SHARP\n🇮🇹 Alessandra FANALI\n🇩🇪 Alexandra
+  FORSTERLING\n🇸🇮 Ana BELAC\n🇳🇱 Anne van DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾
+  Ashley LAU\n🇹🇭 Atthaya THITIKUL\n🇪🇸 Azahara MUNOZ\n🇵🇭 Bianca
+  PAGDANGANAN\n🇨🇦 Brooke M. HENDERSON\n🇹🇼 CHIEN Pei-Yun\n🇪🇸 Carlota
+  CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine BOUTIER\n🇬🇧 Charley HULL\n🇮🇳
+  Diksha DAGAR\n🇵🇭 Dottie ARDINA\n🇩🇰 Emily K PEDERSEN\n🇦🇹 Emma
+  SPITZ\n🇩🇪 Esther HENSELEIT\n🇲🇽 Gaby LOPEZ\n🇬🇧 Georgia HALL\n🇹🇼
+  HSU Wei-Ling\n🇦🇺 Hannah GREEN\n🇲🇦 Ines LAKLALECH\n🇰🇷 KIM Hyo
+  Joo\n🇰🇷 KO Jin Young\n🇨🇿 Klara DAVIDSON SPILKOVA\n🇨🇳 LIN Xiyu
+  Janet\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇸🇪 Linn GRANT\n🇳🇿 Lydia
+  KO\n🇳🇴 Madelene STAVNAR\n🇸🇪 Maja STARK\n🇧🇪 Manon DE ROEY\n🇲🇽
+  Maria FASSI\n🇨🇴 Mariajo URIBE\n🇦🇺 Minjee LEE\n🇨🇭 Morgane
+  METRAUX\n🇩🇰 Nanna KOERSTZ MADSEN\n🇺🇸 Nelly KORDA\n🇫🇮 Noora
+  KOMULAINEN\n🇹🇭 Patty TAVATANAKIT\n🇿🇦 Paula RETO\n🇫🇷 Perrine
+  DELACOUR\n🇸🇮 Pia BABNIK\n🇺🇸 Rose ZHANG\n🇯🇵 SASO Yuka\n🇨🇿 Sara
+  KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇸🇬 Shannon TAN\n🇮🇪 Stephanie
+  MEADOW\n🇫🇮 Ursula WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳
+  YIN Ruoning
+SUMMARY:⛳ 여자 개인 스트로크 플레이 2라운드
+LOCATION:골프 나시오날
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

@@ -4,6 +4,35 @@ PRODID:-//fabrice404//olympics-calendar//general/ru/CHI//EN
 X-WR-CALNAME:🇨🇱 Chile | Paris 2024
 NAME:🇨🇱 Chile | Paris 2024
 BEGIN:VEVENT
+UID:20240725T121500Z-archery--
+DTSTAMP:20240725T121500Z
+DTSTART:20240725T121500Z
+DTEND:20240725T151500Z
+DESCRIPTION:Стрельба из лука - Рейтинговый раунд, индивидуальные (м)\n🇹🇷
+  Abdullah YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹 Alessandro PAOLI\n🇬🇧 Alex
+  WISE\n🇰🇿 Alexandr YEREMENKO\n🇺🇿 Amirkhon SADIKOV\n🇨🇱 Andres
+  GALLARDO FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮 Antti TEKONIEMI\n🇮🇩
+  Arif PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim TUMER\n🇺🇸 Brady
+  ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos ROJAS\n🇬🇧 Conor
+  HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi ZHANGBYRBAY\n🇮🇳 Dhiraj
+  BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA Takaharu\n🇮🇹 Federico
+  MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩
+  Israel MADAYE\n🇫🇷 Jean-Charles VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO
+  Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷 KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI
+  Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹 Lam DORJI\n🇧🇷 Marcus
+  D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽 Matias GRANDE\n🇮🇹 Mauro
+  NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵
+  NAKANISHI Junya\n🇻🇮 Nicholas D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold
+  BAATARKHUYAG\n🇪🇸 Pablo ACHA GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit
+  KLEIN\n🇮🇳 Pravin Ramesh JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵
+  SAITO Fumiya\n🇨🇴 Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI
+  Yu-Hsuan\n🇹🇼 TANG Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas
+  CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳 WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof
+  TOLBA\n🇸🇮 Ziga RAVNIKAR
+SUMMARY:🏹 Рейтинговый раунд, индивидуальные (м)
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -234,6 +263,15 @@ SUMMARY:⛵ Швертбот, гонка 06 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T160000Z-beach-volleyball---CAN-CHI
+DTSTAMP:20240803T160000Z
+DTSTART:20240803T160000Z
+DTEND:20240803T165000Z
+DESCRIPTION:Пляжный волейбол - Стыковые матчи (м)
+SUMMARY:🏐 SCHACHTER/DEARING 🇨🇦 - 🇨🇱 M.GRIMALT/E.GRIMALT
+LOCATION:Стадион у Эйфелевой башни
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T070000Z-golf--4-
 DTSTAMP:20240804T070000Z
 DTSTART:20240804T070000Z
@@ -278,6 +316,28 @@ DESCRIPTION:Стрельба - Скит, квалификация, день 2 (�
   Victoria LARSSON\n🇨🇳 WEI Meng
 SUMMARY:🔫 Скит, квалификация, день 2 (ж)
 LOCATION:Стрелковый центр в Шатору
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T095000Z-athletics-110-1-
+DTSTAMP:20240804T095000Z
+DTSTART:20240804T095000Z
+DTEND:20240804T102300Z
+DESCRIPTION:Легкая атлетика - 110м с/б, раунд 1 (м)\n🇩🇿 Amine
+  BOUANANI\n🇧🇸 Antoine ANDREWS\n🇪🇸 Asier MARTINEZ\n🇨🇦 Craig
+  THORNE\n🇵🇱 Damian CZYKIER\n🇺🇸 Daniel ROBERTS\n🇰🇿 David
+  YEFREMOV\n🇧🇷 Eduardo RODRIGUES\n🇧🇪 Elie BACARI\n🇫🇮 Elmo LAKKA\n🇪🇸
+  Enrique LLOPIS\n🇦🇹 Enzo DIESSL\n🇺🇸 Freddie CRITTENDEN\n🇺🇸 Grant
+  HOLLOWAY\n🇯🇲 Hansle PARCHMENT\n🇯🇵 IZUMIYA Shunsuke\n🇵🇱 Jakub
+  SZYMANSKI\n🇨🇭 Jason JOSEPH\n🇵🇭 John CABANG\n🇵🇱 Krzysztof
+  KILJAN\n🇨🇳 LIU Junxi\n🇮🇹 Lorenzo Ndele SIMONELLI\n🇸🇳 Louis Francois
+  MENDY\n🇯🇵 MURATAKE Rachid\n🇩🇪 Manuel MORDI\n🇨🇱 Martin SAENZ de
+  SANTA MARIA\n🇧🇪 Michael OBASUYI\n🇨🇾 Milan TRAJKOVIC\n🇯🇲 Orlando
+  BENNETT\n🇨🇳 QIN Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷 Raphael MOHAMED\n🇯🇲
+  Rasheed BROADBELL\n🇫🇷 Sasha ZHOYA\n🇯🇵 TAKAYAMA Shunya\n🇬🇧 Tade
+  OJORA\n🇦🇺 Tayleb WILLIS\n🇫🇷 Wilhem BELOCIAN\n🇨🇳 XU Zhuoyi\n🇰🇼
+  Yaqoub ALYOUHA
+SUMMARY:🏃 110м с/б, раунд 1 (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T100500Z-sailing--07-
@@ -326,6 +386,45 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 08 (м)\n
   ZELKO
 SUMMARY:⛵ Швертбот, гонка 08 (м)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T120000Z-cycling-road--
+DTSTAMP:20240804T120000Z
+DTSTART:20240804T120000Z
+DTEND:20240804T162400Z
+DESCRIPTION:Шоссейные велогонки - Групповая гонка (ж)\n🇵🇱 Agnieszka
+  SKALNIAK-SOJKA\n🇦🇸 Alena IVANCHENKO\n🇨🇦 Alison JACKSON\n🇧🇷 Ana
+  Vitoria MAGALHAES\n🇱🇻 Anastasia CARBONARI\n🇬🇧 Anna HENDERSON\n🇦🇹
+  Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇨🇾
+  Antri CHRISTOFOROU\n🇨🇺 Arlenis SIERRA\n🇿🇦 Ashleigh MOOLMAN
+  PASIO\n🇫🇷 Audrey CORDON RAGOT\n🇧🇫 Awa BAMOGO\n🇭🇺 Blanka VAS\n🇸🇪
+  Caroline ANDERSSON\n🇨🇱 Catalina SOTO CAMPOS\n🇩🇰 Cecilie Uttrup
+  LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇱🇺 Christine
+  MAJERUS\n🇵🇹 Daniela CAMPOS\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane
+  INGABIRE\n🇮🇹 Elena CECCHINI\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa
+  BALSAMO\n🇮🇹 Elisa LONGO BORGHINI\n🇨🇭 Elise CHABBEY\n🇬🇧 Elizabeth
+  DEIGNAN\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇳🇬 Ese
+  UKPESERAYE\n🇸🇮 Eugenia BUJAK\n🏳️ Eyeru GEBRU\n🇦🇫 Fariba
+  HASHIMI\n🇩🇪 Franziska KOCH\n🇦🇺 Grace BROWN\n🇦🇸 Hanna TSERAKH\n🇳🇴
+  Ingvild GASKJENN\n🇷🇸 Jelena ERIC\n🇨🇿 Julia KOPECKY\n🇧🇪 Julie van de
+  VELDE\n🇫🇷 Juliette LABOUS\n🇧🇪 Justine GHEKIERE\n🇵🇱 Katarzyna
+  NIEWIADOMA\n🇳🇿 Kim CADZOW\n🇲🇺 Kimberley le COURT de BILLOT\n🇺🇸
+  Kristen FAULKNER\n🇭🇰 LEE Sze Wing\n🇦🇺 Lauretta HANSON\n🇩🇪 Liane
+  LIPPERT\n🇨🇭 Linda ZANETTI\n🇳🇱 Lorena WIEBES\n🇧🇪 Lotte KOPECKY\n🇲🇽
+  Marcela PRIETO\n🇪🇸 Margarita Victoria GARCIA\n🇧🇪 Margot
+  VANPACHTENBEKE\n🇳🇱 Marianne VOS\n🇵🇱 Marta LACH\n🇳🇴 Marte Berg
+  EDSETH\n🇮🇪 Megan ARMITAGE\n🇨🇷 Milagro MENA SOLANO\n🇪🇸 Mireia BENITO
+  PELLICER\n🇩🇿 Nesrine HOUILI\n🇳🇿 Niamh FISHER\n🇨🇭 Noemi RUEEGG\n🇸🇰
+  Nora JENCUSOVA\n🇲🇾 Nur Aisyah MOHAMAD ZUBIR\n🇺🇿 Olga
+  ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇨🇴 Paula PATINO\n🇬🇧 Pfeiffer
+  GEORGI\n🇹🇭 Phetdarin SOMRAT\n🇱🇹 Rasa LELEIVYTE\n🇩🇰 Rebecca
+  KOERNER\n🇮🇱 Rotem GAFINOVITZ\n🇦🇺 Ruby ROSEMAN-GANNON\n🇰🇷 SONG
+  Minji\n🇦🇪 Safia AL SAYEGH\n🇮🇹 Silvia PERSICO\n🇨🇳 TANG Xin\n🇦🇸
+  Tamara DRONOVA\n🇻🇳 Thi That NGUYEN\n🇿🇦 Tiffany KEEP\n🇸🇮 Urska
+  PINTAR\n🇳🇦 Vera LOOSER\n🇫🇷 Victoire BERTEAU\n🇯🇵 YONAMINE Eri\n🇺🇿
+  Yanina KUSKOVA\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 Групповая гонка (ж)
+LOCATION:Трокадеро
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T123500Z-sailing--07-
@@ -383,6 +482,44 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 08 (ж)\n
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Швертбот, гонка 08 (ж)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T093500Z-athletics--
+DTSTAMP:20240805T093500Z
+DTSTART:20240805T093500Z
+DTEND:20240805T103100Z
+DESCRIPTION:Легкая атлетика - Метание диска, квалификация, группа В
+  (м)\n🇼🇸 Alex ROSE\n🇷🇴 Alin Alexandru FIRFIRICA\n🇱🇹 Andrius
+  GUDZIUS\n🇨🇱 Claudio ROMERO\n🇩🇪 Clemens PRUEFER\n🇳🇿 Connor
+  BELL\n🇺🇸 Joseph BROWN\n🇪🇨 Juan CAICEDO\n🇸🇮 Kristjan CEH\n🇬🇧
+  Lawrence OKOYE\n🇩🇪 Mika SOSNA\n🇩🇿 Oussama KHENNOUSSI\n🇧🇪 Philip
+  MILANOV\n🇯🇲 Roje STONA\n🇫🇷 Tom REUX\n🇿🇦 Victor HOGAN
+SUMMARY:🏃 Метание диска, квалификация, группа В (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T095500Z-athletics-400-1-
+DTSTAMP:20240805T095500Z
+DTSTART:20240805T095500Z
+DTEND:20240805T103600Z
+DESCRIPTION:Легкая атлетика - 400м, раунд 1 (ж)\n🇺🇸 Aaliyah BUTLER\n🇺🇸
+  Alexis HOLMES\n🇮🇹 Alice MANGIONE\n🇬🇾 Aliyah ABRAMS\n🇬🇧 Amber
+  ANNING\n🇷🇴 Andrea MIKLOS\n🇵🇹 Catia AZEVEDO\n🇧🇪 Cynthia
+  BOLINGO\n🇳🇬 Ella ONOJUVWEVWO\n🇦🇺 Ellie BEER\n🇳🇬 Esther Elo
+  JOSEPH\n🇨🇴 Evelis AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻 Gunta VAICULE\n🇧🇪
+  Helena PONETTE\n🇳🇴 Henriette JAEGER\n🇯🇲 Junelle BROMFIELD\n🇵🇱
+  Justyna SWIETY-ERSETIC\n🇺🇸 Kendall ELLIS\n🇨🇿 Lada VONDROVA\n🇨🇦
+  Lauren GALE\n🇬🇧 Laviai NIELSEN\n🇳🇱 Lieke KLAVER\n🇨🇴 Lina Esther
+  LICONA TORRES\n🇨🇿 Lurdes Gloria MANUEL\n🇩🇴 Marileidy PAULINO\n🇨🇱
+  Martina WEIL\n🇿🇦 Miranda Charlene COETZEE\n🇱🇹 Modesta Juste
+  MORAUSKAITE\n🇵🇱 Natalia KACZMAREK\n🇯🇲 Nickisha PRYCE\n🇪🇨 Nicole
+  CAICEDO\n🇮🇳 Pahal KIRAN\n🇲🇽 Paola MORAN\n🇮🇪 Rhasidat ADELEKE\n🇨🇺
+  Roxana GOMEZ\n🇧🇧 Sada WILLIAMS\n🇧🇭 Salwa Eid NASER\n🇮🇪 Sharlene
+  MAWDSLEY\n🇧🇸 Shaunae MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇯🇲 Stacey Ann
+  WILLIAMS\n🇦🇹 Susanne GOGL-WALLI\n🇨🇿 Tereza PETRZILKOVA\n🇧🇷 Tiffani
+  MARINHO\n🇬🇧 Victoria OHURUOGU\n🇨🇦 Zoe SHERAR
+SUMMARY:🏃 400м, раунд 1 (ж)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T101500Z-sailing--09-
@@ -488,6 +625,15 @@ SUMMARY:⛵ Швертбот, гонка 09 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T134200Z-wrestling--130-18--CHI-BUL
+DTSTAMP:20240805T134200Z
+DTSTART:20240805T134200Z
+DTEND:20240805T134900Z
+DESCRIPTION:Борьба - Греко-римская, 130кг, 1/8 финала (м)
+SUMMARY:🤼 Yasmani ACOSTA FERNANDEZ 🇨🇱 - 🇧🇬 Kiril Milenov MILOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T135000Z-sailing--10-
 DTSTAMP:20240805T135000Z
 DTSTART:20240805T135000Z
@@ -512,6 +658,49 @@ SUMMARY:⛵ Швертбот, гонка 10 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T141700Z-wrestling--130-14--CHI-EGY
+DTSTAMP:20240805T141700Z
+DTSTART:20240805T141700Z
+DTEND:20240805T142400Z
+DESCRIPTION:Борьба - Греко-римская, 130кг, 1/4 финала (м)
+SUMMARY:🤼 Yasmani ACOSTA FERNANDEZ 🇨🇱 - 🇪🇬 Abdellatif MOHAMED
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T192100Z-wrestling--130--CHN-CHI
+DTSTAMP:20240805T192100Z
+DTSTART:20240805T192100Z
+DTEND:20240805T192800Z
+DESCRIPTION:Борьба - Греко-римская, 130кг, полуфинал (м)
+SUMMARY:🤼 MENG Lingzhe 🇨🇳 - 🇨🇱 Yasmani ACOSTA FERNANDEZ
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T200000Z-beach-volleyball-18--QAT-CHI
+DTSTAMP:20240805T200000Z
+DTSTART:20240805T200000Z
+DTEND:20240805T205000Z
+DESCRIPTION:Пляжный волейбол - 1/8 финала (м)
+SUMMARY:🏐 CHERIF/AHMED 🇶🇦 - 🇨🇱 M.GRIMALT/E.GRIMALT
+LOCATION:Стадион у Эйфелевой башни
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T085000Z-athletics-110-
+DTSTAMP:20240806T085000Z
+DTSTART:20240806T085000Z
+DTEND:20240806T090700Z
+DESCRIPTION:Легкая атлетика - 110м с/б, утешительный раунд (м)\n🇩🇿 Amine
+  BOUANANI\n🇪🇸 Asier MARTINEZ\n🇨🇦 Craig THORNE\n🇵🇱 Damian
+  CZYKIER\n🇰🇿 David YEFREMOV\n🇧🇪 Elie BACARI\n🇫🇮 Elmo LAKKA\n🇦🇹
+  Enzo DIESSL\n🇺🇸 Freddie CRITTENDEN\n🇵🇱 Jakub SZYMANSKI\n🇵🇭 John
+  CABANG\n🇵🇱 Krzysztof KILJAN\n🇨🇳 LIU Junxi\n🇩🇪 Manuel MORDI\n🇨🇱
+  Martin SAENZ de SANTA MARIA\n🇨🇳 QIN Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷
+  Raphael MOHAMED\n🇯🇵 TAKAYAMA Shunya\n🇦🇺 Tayleb WILLIS\n🇫🇷 Wilhem
+  BELOCIAN
+SUMMARY:🏃 110м с/б, утешительный раунд (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T090000Z-canoe-sprint--500-
 DTSTAMP:20240806T090000Z
 DTSTART:20240806T090000Z
@@ -530,6 +719,24 @@ SUMMARY:🛶 Каноэ-двойки 500м, квалификация (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T092000Z-athletics-400-
+DTSTAMP:20240806T092000Z
+DTSTART:20240806T092000Z
+DTEND:20240806T094500Z
+DESCRIPTION:Легкая атлетика - 400м, утешительный раунд (ж)\n🇮🇹 Alice
+  MANGIONE\n🇬🇾 Aliyah ABRAMS\n🇵🇹 Catia AZEVEDO\n🇧🇪 Cynthia
+  BOLINGO\n🇳🇬 Ella ONOJUVWEVWO\n🇦🇺 Ellie BEER\n🇨🇴 Evelis
+  AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻 Gunta VAICULE\n🇧🇪 Helena PONETTE\n🇵🇱
+  Justyna SWIETY-ERSETIC\n🇺🇸 Kendall ELLIS\n🇨🇿 Lada VONDROVA\n🇨🇦
+  Lauren GALE\n🇨🇴 Lina Esther LICONA TORRES\n🇨🇿 Lurdes Gloria
+  MANUEL\n🇨🇱 Martina WEIL\n🇿🇦 Miranda Charlene COETZEE\n🇱🇹 Modesta
+  Juste MORAUSKAITE\n🇮🇳 Pahal KIRAN\n🇮🇪 Sharlene MAWDSLEY\n🇧🇸 Shaunae
+  MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇨🇿 Tereza PETRZILKOVA\n🇧🇷 Tiffani
+  MARINHO\n🇬🇧 Victoria OHURUOGU\n🇨🇦 Zoe SHERAR
+SUMMARY:🏃 400м, утешительный раунд (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T134300Z-sailing--
 DTSTAMP:20240806T134300Z
 DTSTART:20240806T134300Z
@@ -541,6 +748,15 @@ DESCRIPTION:Парусный спорт - Швертбот, медальная �
   SAUNDERS
 SUMMARY:⛵ Швертбот, медальная гонка (м)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T173200Z-wrestling--130--CUB-CHI
+DTSTAMP:20240806T173200Z
+DTSTART:20240806T173200Z
+DTEND:20240806T173900Z
+DESCRIPTION:Борьба - Греко-римская, 130кг, финал (м)
+SUMMARY:🤼 Mijain LOPEZ NUNEZ 🇨🇺 - 🇨🇱 Yasmani ACOSTA FERNANDEZ
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T083000Z-canoe-sprint--200-
@@ -561,6 +777,24 @@ DESCRIPTION:Гребной спринт - Каноэ-одиночки 200м, к�
   DUBOYS\n🇨🇺 Yinnoly Francheska LOPEZ LAMADRID\n🇦🇸 Yuliya TRUSHKINA
 SUMMARY:🛶 Каноэ-одиночки 200м, квалификация (ж)
 LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T072100Z-taekwondo-18-80--CHI-KOR
+DTSTAMP:20240809T072100Z
+DTSTART:20240809T072100Z
+DTEND:20240809T073300Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 80кг (м)
+SUMMARY:🥋 Joaquin CHURCHILL MARTINEZ 🇨🇱 - 🇰🇷 SEO Geonwoo
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T082200Z-taekwondo-18-67--TUR-CHI
+DTSTAMP:20240810T082200Z
+DTSTART:20240810T082200Z
+DTEND:20240810T083500Z
+DESCRIPTION:Тхэквондо - 1/8 финала, свыше 67кг (ж)
+SUMMARY:🥋 Nafia KUS AYDIN 🇹🇷 - 🇨🇱 Fernanda AGUIRRE
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

@@ -32,6 +32,25 @@ SUMMARY:🔫 Скит, квалификация, день 2 (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T092000Z-athletics-800-
+DTSTAMP:20240803T092000Z
+DTSTART:20240803T092000Z
+DTEND:20240803T094600Z
+DESCRIPTION:Легкая атлетика - 800м, утешительный раунд (ж)\n🇦🇺 Abbey
+  CALDWELL\n🇯🇲 Adelle TRACEY\n🇺🇸 Allie WILSON\n🇰🇼 Amal AL ROUMI\n🇫🇷
+  Anais BOURGOIN\n🇸🇮 Anita HORVAT\n🇵🇱 Anna WIELGOSZ\n🇨🇭 Audrey
+  WERRO\n🇦🇺 Catriona BISSET\n🇮🇹 Elena BELLO\n🇮🇹 Eloisa COIRO\n🇫🇮
+  Eveliina MAATTANEN\n🇧🇷 Flavia Maria de LIMA\n🇱🇹 Gabija
+  GALVYDYTE\n🇽🇰 Gresa BAKRACI\n🇪🇹 Habitam ALEMU\n🇺🇬 Halimah
+  NAKAAYI\n🇨🇦 Jazz SHUKLA\n🇵🇸 Layla ALMASRI\n🇫🇷 Lena
+  KANDISSOUNON\n🇪🇸 Lorea IBARZABAL\n🇪🇸 Lorena MARTIN\n🇩🇪 Majtie
+  KOLBERG\n🇧🇭 Nelly JEPKOSGEI\n🇧🇼 Oratile NOWE\n🏳️ Perina Lokure
+  NAKANG\n🇨🇺 Rose Mary ALMANZA\n🇬🇲 Sanu JALLOW\n🇱🇰 Tharushi
+  KARUNARATHNA\n🇨🇭 Valentina ROSAMILIA\n🇰🇪 Vivian Chebet KIPROTICH
+SUMMARY:🏃 800м, утешительный раунд (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T100500Z-sailing--04-
 DTSTAMP:20240803T100500Z
 DTSTART:20240803T100500Z
@@ -99,6 +118,28 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 06 (ж)\n
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Швертбот, гонка 06 (ж)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T095000Z-athletics-110-1-
+DTSTAMP:20240804T095000Z
+DTSTART:20240804T095000Z
+DTEND:20240804T102300Z
+DESCRIPTION:Легкая атлетика - 110м с/б, раунд 1 (м)\n🇩🇿 Amine
+  BOUANANI\n🇧🇸 Antoine ANDREWS\n🇪🇸 Asier MARTINEZ\n🇨🇦 Craig
+  THORNE\n🇵🇱 Damian CZYKIER\n🇺🇸 Daniel ROBERTS\n🇰🇿 David
+  YEFREMOV\n🇧🇷 Eduardo RODRIGUES\n🇧🇪 Elie BACARI\n🇫🇮 Elmo LAKKA\n🇪🇸
+  Enrique LLOPIS\n🇦🇹 Enzo DIESSL\n🇺🇸 Freddie CRITTENDEN\n🇺🇸 Grant
+  HOLLOWAY\n🇯🇲 Hansle PARCHMENT\n🇯🇵 IZUMIYA Shunsuke\n🇵🇱 Jakub
+  SZYMANSKI\n🇨🇭 Jason JOSEPH\n🇵🇭 John CABANG\n🇵🇱 Krzysztof
+  KILJAN\n🇨🇳 LIU Junxi\n🇮🇹 Lorenzo Ndele SIMONELLI\n🇸🇳 Louis Francois
+  MENDY\n🇯🇵 MURATAKE Rachid\n🇩🇪 Manuel MORDI\n🇨🇱 Martin SAENZ de
+  SANTA MARIA\n🇧🇪 Michael OBASUYI\n🇨🇾 Milan TRAJKOVIC\n🇯🇲 Orlando
+  BENNETT\n🇨🇳 QIN Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷 Raphael MOHAMED\n🇯🇲
+  Rasheed BROADBELL\n🇫🇷 Sasha ZHOYA\n🇯🇵 TAKAYAMA Shunya\n🇬🇧 Tade
+  OJORA\n🇦🇺 Tayleb WILLIS\n🇫🇷 Wilhem BELOCIAN\n🇨🇳 XU Zhuoyi\n🇰🇼
+  Yaqoub ALYOUHA
+SUMMARY:🏃 110м с/б, раунд 1 (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T123500Z-sailing--07-

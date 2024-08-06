@@ -4,104 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//medals/GRE//EN
 X-WR-CALNAME:🇬🇷 Greece 🏅 | Paris 2024
 NAME:🇬🇷 Greece 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T192700Z-swimming-MENS-100M-BACKSTROKE-FINAL
-DTSTAMP:20240729T192700Z
-DTSTART:20240729T192700Z
-DTEND:20240729T193400Z
-DESCRIPTION:Swimming - Men's 100m Backstroke Final\n🇬🇷 Apostolos
-  CHRISTOU\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
-  COETZE\n🇺🇸 Ryan MURPHY\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷 Yohann
-  NDOYE-BROUARD
-SUMMARY:🏊 Men's 100m Backstroke Final
-LOCATION:Paris La Defense Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T151200Z-judo-MEN-90-KG-CONTEST-FOR-BRONZE-MEDAL-B-GRE-ESP
-DTSTAMP:20240731T151200Z
-DTSTART:20240731T151200Z
-DTEND:20240731T151800Z
-DESCRIPTION:Judo - Men -90 kg Contest for Bronze Medal B
-SUMMARY:🥋 Theodoros TSELIDIS 🇬🇷 - 🇪🇸 Tristani MOSAKHLISHVILI
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T075000Z-athletics-WOMENS-20KM-RACE-WALK
-DTSTAMP:20240801T075000Z
-DTSTART:20240801T075000Z
-DTEND:20240801T093500Z
-DESCRIPTION:Athletics - Women's 20km Race Walk\n🇲🇽 Alegna GONZALEZ\n🇲🇽
-  Alejandra ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹
-  Antonella PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸
-  Cristina MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska
-  MARTINKOVA\n🇧🇷 Erica SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷
-  Gabriela de SOUSA\n🇪🇨 Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse
-  GUERRERO\n🇦🇺 Jemima MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly
-  GARCIA LEON\n🇨🇳 LIU Hong\n🇪🇸 Laura GARCIA-CARO\n🇨🇴 Lorena
-  ARENAS\n🇺🇦 Lyudmila OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz
-  BONILLA\n🇸🇰 Maria KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia
-  SAKHARUK\n🇵🇪 Mary Luz ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena
-  SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳 PRIYANKA\n🇪🇨 Paula Milena
-  TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de ORBETA\n🇦🇺 Rebecca
-  HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹 Valentina
-  TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷 Viviane
-  LYRA\n🇨🇳 YANG Jiayu
-SUMMARY:🏃 Women's 20km Race Walk
-LOCATION:Trocadéro
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T183800Z-swimming-MENS-200M-BACKSTROKE-FINAL
-DTSTAMP:20240801T183800Z
-DTSTART:20240801T183800Z
-DTEND:20240801T184600Z
-DESCRIPTION:Swimming - Men's 200m Backstroke Final\n🇬🇷 Apostolos
-  CHRISTOU\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸 Keaton
-  JONES\n🇩🇪 Lukas MAERTENS\n🇫🇷 Mewen TOMAC\n🇿🇦 Pieter COETZE\n🇨🇭
-  Roman MITYUKOV
-SUMMARY:🏊 Men's 200m Backstroke Final
-LOCATION:Paris La Defense Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T094200Z-rowing-WOMENS-PAIR-FINAL-A
-DTSTAMP:20240802T094200Z
-DTSTART:20240802T094200Z
-DTEND:20240802T094900Z
-DESCRIPTION:Rowing - Women's Pair Final A\n🇦🇺 AUS\n🇬🇷 GRE\n🇱🇹
-  LTU\n🇳🇱 NED\n🇷🇴 ROU\n🇺🇸 USA
-SUMMARY:🚣 Women's Pair Final A
-LOCATION:Nautical St - Flat water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T100200Z-rowing-LIGHTWEIGHT-MENS-DOUBLE-SCULLS-FINAL-A
-DTSTAMP:20240802T100200Z
-DTSTART:20240802T100200Z
-DTEND:20240802T100900Z
-DESCRIPTION:Rowing - Lightweight Men's Double Sculls Final A\n🇨🇿
-  CZE\n🇬🇷 GRE\n🇮🇪 IRL\n🇮🇹 ITA\n🇳🇴 NOR\n🇨🇭 SUI
-SUMMARY:🚣 Lightweight Men's Double Sculls Final A
-LOCATION:Nautical St - Flat water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T102200Z-rowing-LIGHTWEIGHT-WOMENS-DOUBLE-SCULLS-FINAL-A
-DTSTAMP:20240802T102200Z
-DTSTART:20240802T102200Z
-DTEND:20240802T102900Z
-DESCRIPTION:Rowing - Lightweight Women's Double Sculls Final A\n🇬🇧
-  GBR\n🇬🇷 GRE\n🇮🇪 IRL\n🇳🇿 NZL\n🇷🇴 ROU\n🇺🇸 USA
-SUMMARY:🚣 Lightweight Women's Double Sculls Final A
-LOCATION:Nautical St - Flat water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T183000Z-swimming-MENS-50M-FREESTYLE-FINAL
-DTSTAMP:20240802T183000Z
-DTSTART:20240802T183000Z
-DTEND:20240802T183700Z
-DESCRIPTION:Swimming - Men's 50m Freestyle Final\n🇬🇧 Benjamin PROUD\n🇺🇸
-  Caeleb DRESSEL\n🇦🇺 Cameron McEVOY\n🇫🇷 Florent MANAUDOU\n🇰🇾 Jordan
-  CROOKS\n🇨🇦 Josh LIENDO\n🇬🇷 Kristian GKOLOMEEV\n🇮🇹 Leonardo DEPLANO
-SUMMARY:🏊 Men's 50m Freestyle Final
-LOCATION:Paris La Defense Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -127,14 +29,14 @@ DESCRIPTION:Cycling Road - Men's Road Race\n🇯🇵 ARASHIRO Yukiya\n🇲🇦
   POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
   SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
   WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
-  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇻🇪
-  Orluis AULAR\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan
-  GIBBONS\n🇮🇪 Ryan MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴
-  Soeren WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧
-  Stephen WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪
-  Tiesj BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin
-  MADOUAS\n🇧🇷 Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine
-  HAMZA\n🇰🇿 Yevgeniy FEDOROV
+  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
+  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
+  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
+  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
+  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
+  Yevgeniy FEDOROV
 SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
@@ -148,82 +50,6 @@ DESCRIPTION:Rowing - Men's Single Sculls Final A\n🇩🇪 Oliver ZEIDLER\n🇳�
   BRYS\n🇦🇸 Yauheni ZALATY
 SUMMARY:🚣 Men's Single Sculls Final A
 LOCATION:Nautical St - Flat water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T130000Z-artistic-gymnastics-MENS-RINGS-FINAL
-DTSTAMP:20240804T130000Z
-DTSTART:20240804T130000Z
-DTEND:20240804T133700Z
-DESCRIPTION:Artistic Gymnastics - Men's Rings Final\n🇹🇷 Adem ASIL\n🇺🇸
-  Asher HONG\n🇬🇷 Eleftherios PETROUNIAS\n🇧🇪 Glen CUYLE\n🇬🇧 Harry
-  HEPWORTH\n🇹🇷 Ibrahim COLAK\n🇨🇳 LIU Yang\n🇫🇷 Samir AIT SAID\n🇯🇵
-  TANIGAWA Wataru\n🇦🇲 Vahagn DAVTYAN\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU
-  Jingyuan
-SUMMARY:🤸 Men's Rings Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T133000Z-shooting-SKEET-WOMENS-FINAL
-DTSTAMP:20240804T133000Z
-DTSTART:20240804T133000Z
-DTEND:20240804T144500Z
-DESCRIPTION:Shooting - Skeet Women's Final\n🇬🇧 Amber Jo RUTTER\n🇺🇸
-  Austen Jewell SMITH\n🇸🇰 Danka BARTEKOVA\n🇬🇷 Emmanouela
-  KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇸🇰 Vanesa HOCKOVA
-SUMMARY:🔫 Skeet Women's Final
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T175500Z-athletics-WOMENS-HIGH-JUMP-FINAL
-DTSTAMP:20240804T175500Z
-DTSTART:20240804T175500Z
-DTEND:20240804T194000Z
-DESCRIPTION:Athletics - Women's High Jump Final\n🇷🇸 Angelina TOPIC\n🇹🇷
-  Buse SAVASKAN\n🇩🇪 Christina HONSEL\n🇦🇺 Eleanor PATTERSON\n🇨🇾 Elena
-  KULICHENKO\n🇺🇦 Iryna GERASHCHENKO\n🇫🇷 Nawal MENIKER\n🇦🇺 Nicola
-  OLYSLAGERS\n🇺🇿 Safina SADULLAYEVA\n🇬🇷 Tatiana GUSIN\n🇧🇷 Valdileia
-  MARTINS\n🇺🇸 Vashti CUNNINGHAM\n🇺🇦 Yaroslava MAHUCHIKH
-SUMMARY:🏃 Women's High Jump Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T183000Z-athletics-MENS-HAMMER-THROW-FINAL
-DTSTAMP:20240804T183000Z
-DTSTART:20240804T183000Z
-DTEND:20240804T194000Z
-DESCRIPTION:Athletics - Men's Hammer Throw Final\n🇭🇺 Bence HALASZ\n🇬🇷
-  Christos FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇩🇪
-  Merlin HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel FAJDEK\n🇨🇦 Rowan
-  HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱 Wojciech
-  NOWICKI\n🇫🇷 Yann CHAUSSINAND
-SUMMARY:🏃 Men's Hammer Throw Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T170000Z-athletics-MENS-POLE-VAULT-FINAL
-DTSTAMP:20240805T170000Z
-DTSTART:20240805T170000Z
-DTEND:20240805T192700Z
-DESCRIPTION:Athletics - Men's Pole Vault Final\n🇸🇪 Armand DUPLANTIS\n🇩🇪
-  Bo Kanda LITA BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John
-  OBIENA\n🇹🇷 Ersu SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱
-  Menno VLOON\n🇩🇪 Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre
-  GUTTORMSEN\n🇱🇻 Valters KREISS
-SUMMARY:🏃 Men's Pole Vault Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T181500Z-athletics-MENS-LONG-JUMP-FINAL
-DTSTAMP:20240806T181500Z
-DTSTART:20240806T181500Z
-DTEND:20240806T193500Z
-DESCRIPTION:Athletics - Men's Long Jump Final\n🇨🇴 Arnovis DALMERO\n🇯🇲
-  Carey McLEOD\n🇭🇷 Filip PRAVDICA\n🇬🇧 Jacob FINCHAM-DUKES\n🇮🇹 Mattia
-  FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🇨🇿 Radek JUSKA\n🇩🇪 Simon
-  BATZ\n🇨🇭 Simon EHAMMER\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳
-  ZHANG Mingkun
-SUMMARY:🏃 Men's Long Jump Final
-LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-artistic-swimming-DUET-FREE-ROUTINE

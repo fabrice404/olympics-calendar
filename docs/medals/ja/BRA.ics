@@ -57,4 +57,73 @@ DESCRIPTION:自転車BMXフリースタイル - 男子パーク決勝\n🇫🇷 
 SUMMARY:🚴 男子パーク決勝
 LOCATION:コンコルド広場2
 END:VEVENT
+BEGIN:VEVENT
+UID:20240803T140000Z-judo-3A-BRA-ITA
+DTSTAMP:20240803T140000Z
+DTSTART:20240803T140000Z
+DTEND:20240803T142800Z
+DESCRIPTION:柔道 - 混合団体3位決定戦A
+SUMMARY:🥋 ブラジル 🇧🇷 - 🇮🇹 イタリア
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T142000Z-artistic-gymnastics-
+DTSTAMP:20240803T142000Z
+DTSTART:20240803T142000Z
+DTEND:20240803T150200Z
+DESCRIPTION:体操競技 - 女子種目別跳馬決勝\n🇰🇵 AN Chang Ok\n🇲🇽 Alexa MORENO\n🇭🇺
+  Csenge Maria BACSKAY\n🇨🇦 Elsabeth BLACK\n🇺🇸 Jade CAREY\n🇺🇸 Jordan
+  CHILES\n🇫🇷 Ming VAN EIJKEN\n🇧🇷 Rebeca ANDRADE\n🇨🇦 Shallon
+  OLSEN\n🇺🇸 Simone BILES\n🇧🇬 Valentina GEORGIEVA\n🇰🇷 YEO Seojeong
+SUMMARY:🤸 女子種目別跳馬決勝
+LOCATION:ベルシー・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T134000Z-artistic-gymnastics-
+DTSTAMP:20240804T134000Z
+DTSTART:20240804T134000Z
+DTEND:20240804T142100Z
+DESCRIPTION:体操競技 - 女子種目別段違い平行棒決勝\n🇮🇹 Alice D'AMATO\n🇩🇪 Helen
+  KEVRIC\n🇩🇿 Kaylia NEMOUR\n🇧🇪 Nina DERWAEL\n🇨🇳 QIU Qiyuan\n🇧🇷
+  Rebeca ANDRADE\n🇬🇧 Rebecca DOWNIE\n🇳🇱 Sanna VEERMAN\n🇺🇸 Simone
+  BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHANG Yihan
+SUMMARY:🤸 女子種目別段違い平行棒決勝
+LOCATION:ベルシー・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T060000Z-triathlon-
+DTSTAMP:20240805T060000Z
+DTSTART:20240805T060000Z
+DTEND:20240805T073000Z
+DESCRIPTION:トライアスロン - 混合リレー\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇦🇹 オーストリア\n🇨🇭 スイス\n🇪🇸 スペイン\n🇩🇪 ドイツ\n🇳🇿 ニュージーランド\n🇳🇴
+  ノルウェー\n🇫🇷 フランス\n🇧🇷 ブラジル\n🇵🇹 ポルトガル\n🇲🇽 メキシコ\n🇬🇧 英国
+SUMMARY:🏊 混合リレー
+LOCATION:アレクサンドル3世橋
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T103800Z-artistic-gymnastics-
+DTSTAMP:20240805T103800Z
+DTSTART:20240805T103800Z
+DTEND:20240805T111900Z
+DESCRIPTION:体操競技 - 女子種目別平均台決勝\n🇮🇹 Alice D'AMATO\n🇧🇷 Julia SOARES\n🇨🇳
+  LUO Huan\n🇮🇹 Manila ESPOSITO\n🇫🇷 Marine BOYER\n🇧🇷 Rebeca
+  ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇳🇱 Sanne WEVERS\n🇺🇸 Simone
+  BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHOU Yaqin
+SUMMARY:🤸 女子種目別平均台決勝
+LOCATION:ベルシー・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T122300Z-artistic-gymnastics-
+DTSTAMP:20240805T122300Z
+DTSTART:20240805T122300Z
+DTEND:20240805T130300Z
+DESCRIPTION:体操競技 - 女子種目別ゆか決勝\n🇮🇹 Alice D'AMATO\n🇷🇴 Ana BARBOSU\n🇮🇹
+  Angela ANDREOLI\n🇨🇦 Elsabeth BLACK\n🇧🇷 Jade BARBOSA\n🇺🇸 Jordan
+  CHILES\n🇧🇷 Julia SOARES\n🇯🇵 KISHI Rina\n🇮🇹 Manila ESPOSITO\n🇨🇳 OU
+  Yushan\n🇧🇷 Rebeca ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇺🇸 Simone
+  BILES\n🇨🇳 ZHANG Yihan\n🇨🇳 ZHOU Yaqin
+SUMMARY:🤸 女子種目別ゆか決勝
+LOCATION:ベルシー・アリーナ
+END:VEVENT
 END:VCALENDAR

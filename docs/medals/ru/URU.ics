@@ -4,19 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//medals/ru/URU//EN
 X-WR-CALNAME:🇺🇾 Uruguay 🏅 | Paris 2024
 NAME:🇺🇾 Uruguay 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240802T111300Z-sailing--
-DTSTAMP:20240802T111300Z
-DTSTART:20240802T111300Z
-DTEND:20240802T113500Z
-DESCRIPTION:Парусный спорт - Скиф, медальная гонка (м)\n🇺🇸
-  BARROWS/HENKEN\n🇪🇸 BOTIN/TRITTEL\n🇵🇱 BUKSAK/WIERZBICKI\n🇮🇪
-  DICKSON/WADDILOVE\n🇳🇱 LAMBRIEX/WERKEN\n🇳🇿 McHARDIE/McKENZIE\n🇬🇧
-  PETERS/STERRITT\n🇭🇷 S FANTELA/M FANTELA\n🇨🇭 SCHNEITER/de PLANTA\n🇺🇾
-  UMPIERRE/DIZ
-SUMMARY:⛵ Скиф, медальная гонка (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road--
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -43,14 +30,13 @@ DESCRIPTION:Шоссейные велогонки - Групповая гонк�
   Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇦🇺 Michael
   MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael WOODS\n🇩🇰 Mikkel
   Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita TSVETKOV\n🇩🇪 Nils
-  POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇻🇪 Orluis AULAR\n🇧🇪
-  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
-  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
-  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
-  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
-  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
-  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
-  Yevgeniy FEDOROV
+  POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹
+  Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺
+  Simon CLARKE\n🇳🇴 Soeren WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭
+  Stefan KUENG\n🇬🇧 Stephen WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧
+  Thomas PIDCOCK\n🇧🇪 Tiesj BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms
+  SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷 Vinicius RANGEL COSTA\n🇧🇪 Wout van
+  AERT\n🇩🇿 Yacine HAMZA\n🇰🇿 Yevgeniy FEDOROV
 SUMMARY:🚴 Групповая гонка (м)
 LOCATION:Трокадеро
 END:VEVENT

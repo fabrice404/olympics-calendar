@@ -4,6 +4,44 @@ PRODID:-//fabrice404//olympics-calendar//general/ARG//EN
 X-WR-CALNAME:🇦🇷 Argentina | Paris 2024
 NAME:🇦🇷 Argentina | Paris 2024
 BEGIN:VEVENT
+UID:20240724T130000Z-football-MENS-GROUP-B-ARG-MAR
+DTSTAMP:20240724T130000Z
+DTSTART:20240724T130000Z
+DTEND:20240724T144500Z
+DESCRIPTION:Football - Men's Group B
+SUMMARY:⚽ ARG 🇦🇷 - 🇲🇦 MAR
+LOCATION:Geoffroy-Guichard Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T121500Z-archery-MENS-INDIVIDUAL-RANKING-ROUND
+DTSTAMP:20240725T121500Z
+DTSTART:20240725T121500Z
+DTEND:20240725T151500Z
+DESCRIPTION:Archery - Men's Individual Ranking Round\n🇹🇷 Abdullah
+  YILDIRMIS\n🇨🇿 Adam LI\n🇮🇹 Alessandro PAOLI\n🇬🇧 Alex WISE\n🇰🇿
+  Alexandr YEREMENKO\n🇺🇿 Amirkhon SADIKOV\n🇨🇱 Andres GALLARDO
+  FERRADA\n🇨🇴 Andres HERNANDEZ VERA\n🇫🇮 Antti TEKONIEMI\n🇮🇩 Arif
+  PANGESTU\n🇫🇷 Baptiste ADDIS\n🇹🇷 Berkim TUMER\n🇺🇸 Brady
+  ELLISON\n🇲🇽 Bruno MARTINEZ WING\n🇲🇽 Carlos ROJAS\n🇬🇧 Conor
+  HALL\n🇲🇩 Dan OLARU\n🇰🇿 Dauletkeldi ZHANGBYRBAY\n🇮🇳 Dhiraj
+  BOMMADEVARA\n🇨🇦 Eric PETERS\n🇯🇵 FURUKAWA Takaharu\n🇮🇹 Federico
+  MUSOLESI\n🇩🇪 Florian UNRUH\n🇨🇺 Hugo FRANCO\n🇰🇿 Ilfat ABDULLIN\n🇹🇩
+  Israel MADAYE\n🇫🇷 Jean-Charles VALLADONT\n🇨🇴 Jorge ENRIQUEZ\n🇨🇳 KAO
+  Wenchao\n🇰🇷 KIM Je Deok\n🇰🇷 KIM Woojin\n🇰🇷 LEE Wooseok\n🇨🇳 LI
+  Zhongyuan\n🇹🇼 LIN Zih-Siang\n🇧🇹 Lam DORJI\n🇧🇷 Marcus
+  D'ALMEIDA\n🇦🇷 Mario Damian JAJARABILLA\n🇲🇽 Matias GRANDE\n🇮🇹 Mauro
+  NESPOLI\n🇧🇩 Md Sagor ISLAM\n🇹🇷 Mete GAZOZ\n🇺🇦 Mykhailo USACH\n🇯🇵
+  NAKANISHI Junya\n🇻🇮 Nicholas D'AMOUR\n🇸🇻 Oscar TICAS\n🇲🇳 Otgonbold
+  BAATARKHUYAG\n🇪🇸 Pablo ACHA GONZALEZ\n🇦🇺 Peter BOUKOUVALAS\n🇱🇺 Pit
+  KLEIN\n🇮🇳 Pravin Ramesh JADHAV\n🇻🇳 Quoc Phong le\n🇮🇱 Roy DROR\n🇯🇵
+  SAITO Fumiya\n🇨🇴 Santiago ARCILA\n🇳🇱 Steve WIJLER\n🇹🇼 TAI
+  Yu-Hsuan\n🇹🇼 TANG Chih-Chun\n🇮🇳 Tarundeep RAI\n🇫🇷 Thomas
+  CHIRAULT\n🇬🇧 Tom HALL\n🇨🇳 WANG Yan\n🇿🇦 Wian ROUX\n🇪🇬 Youssof
+  TOLBA\n🇸🇮 Ziga RAVNIKAR
+SUMMARY:🏹 Men's Individual Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -48,6 +86,796 @@ DESCRIPTION:Cycling BMX Racing - Men, Last Chance Race\n🇨🇴 Carlos Alberto
   GOMMERS\n🇨🇭 Simon M. MARQUART
 SUMMARY:🚴 Men, Last Chance Race
 LOCATION:BMX Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T155000Z
+DESCRIPTION:Cycling Road - Men's Road Race\n🇯🇵 ARASHIRO Yukiya\n🇲🇦
+  Achraf ED DOGHMY\n🇮🇹 Alberto BETTIOL\n🇪🇸 Alex ARANBURU\n🇱🇺 Alex
+  KIRSCH\n🇰🇿 Alexey LUTSENKO\n🇮🇷 Ali LABIB\n🇺🇦 Anatolii BUDIAK\n🇭🇺
+  Attila VALTER\n🇮🇪 Ben HEALY\n🇦🇺 Ben O'CONNOR\n🇪🇷 Biniam
+  GIRMAY\n🇺🇸 Brandon McNULTY\n🇹🇷 Burak ABAY\n🇺🇬 Charles KAGIMU\n🇫🇷
+  Christophe LAPORTE\n🇲🇺 Christopher ROUGIER-LAGANE\n🇳🇿 Corbin
+  STRONG\n🇳🇱 Daan HOOLE\n🇨🇴 Dani MARTINEZ\n🇨🇦 Derek GEE\n🇸🇮 Domen
+  NOVAK\n🇳🇱 Dylan van BAARLE\n🇦🇷 Eduardo SEPULVEDA\n🇮🇹 Elia
+  VIVIANI\n🇺🇾 Eric FAGUNDEZ\n🇷🇼 Eric MANIZABAYO\n🇦🇹 Felix
+  GROSSSCHARTNER\n🇵🇦 Franklin ARCHIBOLD\n🇬🇧 Fred WRIGHT\n🇬🇷 Georgios
+  BOUGLAS\n🇦🇸 Gleb SYRITSA\n🇮🇱 Itamar EINHORN\n🇸🇪 Jakob
+  SODERQVIST\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇧🇪 Jasper
+  STUYVEN\n🇪🇨 Jhonatan NARVAEZ\n🇬🇧 Josh TARLING\n🇪🇸 Juan AYUSO\n🇫🇷
+  Julian ALAPHILIPPE\n🇰🇷 KIM Euro\n🇫🇷 Kevin VAUQUELIN\n🇭🇰 LAU Wan Yau
+  Vincent\n🇨🇳 LYU Xianjing\n🇳🇿 Laurence PITHIE\n🇮🇹 Luca MOZZATO\n🇸🇮
+  Luka MEZGEC\n🇸🇰 Lukas KUBIS\n🇪🇪 Madis MIHKELS\n🇩🇰 Mads
+  PEDERSEN\n🇺🇸 Magnus SHEFFIELD\n🇨🇭 Marc HIRSCHI\n🇦🇹 Marco
+  HALLER\n🇸🇮 Matej MOHORIC\n🇨🇿 Mathias VACEK\n🇳🇱 Mathieu van der
+  POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
+  WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
+  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
+  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
+  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
+  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
+  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 Men's Road Race
+LOCATION:Trocadéro
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100500Z-sailing-WOMENS-DINGHY-RACE-4
+DTSTAMP:20240803T100500Z
+DTSTART:20240803T100500Z
+DTEND:20240803T105600Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 4\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 4
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T102000Z-sailing-MENS-DINGHY-RACE-5
+DTSTAMP:20240803T102000Z
+DTSTART:20240803T102000Z
+DTEND:20240803T111100Z
+DESCRIPTION:Sailing - Men's Dinghy - Race 5\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit
+  Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱
+  Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸
+  Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn
+  LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY
+  Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸
+  Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹
+  Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪
+  Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando
+  CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED
+  VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪
+  Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad
+  LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Men's Dinghy - Race 5
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T110500Z-sailing-MIXED-MULTIHULL-RACE-1
+DTSTAMP:20240803T110500Z
+DTSTART:20240803T110500Z
+DTEND:20240803T114000Z
+DESCRIPTION:Sailing - Mixed Multihull - Race 1\n🇧🇪
+  CLAEYSSENS/VERSTRAELE\n🇬🇧 GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵
+  IITSUKA/NISHIDA CAP.\n🇸🇪 JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪
+  KOHLHOFF/STUHLEMMER\n🇫🇮 KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳
+  MAI/CHEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇺🇸 NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰
+  SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Mixed Multihull - Race 1
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T111300Z-sailing-WOMENS-DINGHY-RACE-5
+DTSTAMP:20240803T111300Z
+DTSTART:20240803T111300Z
+DTEND:20240803T120400Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 5\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 5
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T112800Z-sailing-MENS-DINGHY-RACE-6
+DTSTAMP:20240803T112800Z
+DTSTART:20240803T112800Z
+DTEND:20240803T121900Z
+DESCRIPTION:Sailing - Men's Dinghy - Race 6\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit
+  Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱
+  Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸
+  Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn
+  LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY
+  Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸
+  Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹
+  Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪
+  Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando
+  CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED
+  VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪
+  Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad
+  LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Men's Dinghy - Race 6
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T115700Z-sailing-MIXED-MULTIHULL-RACE-2
+DTSTAMP:20240803T115700Z
+DTSTART:20240803T115700Z
+DTEND:20240803T123200Z
+DESCRIPTION:Sailing - Mixed Multihull - Race 2\n🇧🇪
+  CLAEYSSENS/VERSTRAELE\n🇬🇧 GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵
+  IITSUKA/NISHIDA CAP.\n🇸🇪 JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪
+  KOHLHOFF/STUHLEMMER\n🇫🇮 KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳
+  MAI/CHEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇺🇸 NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰
+  SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Mixed Multihull - Race 2
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T122100Z-sailing-WOMENS-DINGHY-RACE-6
+DTSTAMP:20240803T122100Z
+DTSTART:20240803T122100Z
+DTEND:20240803T131200Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 6\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 6
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T124900Z-sailing-MIXED-MULTIHULL-RACE-3
+DTSTAMP:20240803T124900Z
+DTSTART:20240803T124900Z
+DTEND:20240803T132400Z
+DESCRIPTION:Sailing - Mixed Multihull - Race 3\n🇧🇪
+  CLAEYSSENS/VERSTRAELE\n🇬🇧 GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵
+  IITSUKA/NISHIDA CAP.\n🇸🇪 JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪
+  KOHLHOFF/STUHLEMMER\n🇫🇮 KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳
+  MAI/CHEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇺🇸 NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰
+  SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Mixed Multihull - Race 3
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T100500Z-sailing-MENS-DINGHY-RACE-7
+DTSTAMP:20240804T100500Z
+DTSTART:20240804T100500Z
+DTEND:20240804T105600Z
+DESCRIPTION:Sailing - Men's Dinghy - Race 7\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit
+  Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱
+  Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸
+  Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn
+  LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY
+  Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸
+  Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹
+  Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪
+  Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando
+  CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED
+  VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪
+  Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad
+  LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Men's Dinghy - Race 7
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T103300Z-sailing-WOMENS-KITE-RACE-1
+DTSTAMP:20240804T103300Z
+DTSTART:20240804T103300Z
+DTEND:20240804T105000Z
+DESCRIPTION:Sailing - Women's Kite - Race 1\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 1
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T105800Z-sailing-WOMENS-KITE-RACE-2
+DTSTAMP:20240804T105800Z
+DTSTART:20240804T105800Z
+DTEND:20240804T111500Z
+DESCRIPTION:Sailing - Women's Kite - Race 2\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 2
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T111300Z-sailing-MENS-DINGHY-RACE-8
+DTSTAMP:20240804T111300Z
+DTSTART:20240804T111300Z
+DTEND:20240804T120400Z
+DESCRIPTION:Sailing - Men's Dinghy - Race 8\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit
+  Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱
+  Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸
+  Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn
+  LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY
+  Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸
+  Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹
+  Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪
+  Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando
+  CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED
+  VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪
+  Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad
+  LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Men's Dinghy - Race 8
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T112300Z-sailing-WOMENS-KITE-RACE-3
+DTSTAMP:20240804T112300Z
+DTSTART:20240804T112300Z
+DTEND:20240804T114000Z
+DESCRIPTION:Sailing - Women's Kite - Race 3\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 3
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T114800Z-sailing-WOMENS-KITE-RACE-4
+DTSTAMP:20240804T114800Z
+DTSTART:20240804T114800Z
+DTEND:20240804T120500Z
+DESCRIPTION:Sailing - Women's Kite - Race 4\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 4
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T123500Z-sailing-WOMENS-DINGHY-RACE-7
+DTSTAMP:20240804T123500Z
+DTSTART:20240804T123500Z
+DTEND:20240804T132600Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 7\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 7
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T134500Z-sailing-MIXED-MULTIHULL-RACE-4
+DTSTAMP:20240804T134500Z
+DTSTART:20240804T134500Z
+DTEND:20240804T142000Z
+DESCRIPTION:Sailing - Mixed Multihull - Race 4\n🇧🇪
+  CLAEYSSENS/VERSTRAELE\n🇬🇧 GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵
+  IITSUKA/NISHIDA CAP.\n🇸🇪 JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪
+  KOHLHOFF/STUHLEMMER\n🇫🇮 KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳
+  MAI/CHEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇺🇸 NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰
+  SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Mixed Multihull - Race 4
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T134500Z-sailing-WOMENS-DINGHY-RACE-8
+DTSTAMP:20240804T134500Z
+DTSTART:20240804T134500Z
+DTEND:20240804T143600Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 8\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 8
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T143700Z-sailing-MIXED-MULTIHULL-RACE-5
+DTSTAMP:20240804T143700Z
+DTSTART:20240804T143700Z
+DTEND:20240804T151200Z
+DESCRIPTION:Sailing - Mixed Multihull - Race 5\n🇧🇪
+  CLAEYSSENS/VERSTRAELE\n🇬🇧 GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵
+  IITSUKA/NISHIDA CAP.\n🇸🇪 JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪
+  KOHLHOFF/STUHLEMMER\n🇫🇮 KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳
+  MAI/CHEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇺🇸 NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰
+  SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Mixed Multihull - Race 5
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T152900Z-sailing-MIXED-MULTIHULL-RACE-6
+DTSTAMP:20240804T152900Z
+DTSTART:20240804T152900Z
+DTEND:20240804T160400Z
+DESCRIPTION:Sailing - Mixed Multihull - Race 6\n🇧🇪
+  CLAEYSSENS/VERSTRAELE\n🇬🇧 GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵
+  IITSUKA/NISHIDA CAP.\n🇸🇪 JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪
+  KOHLHOFF/STUHLEMMER\n🇫🇮 KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳
+  MAI/CHEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇺🇸 NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰
+  SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Mixed Multihull - Race 6
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T100300Z-sailing-WOMENS-KITE-RACE-5
+DTSTAMP:20240805T100300Z
+DTSTART:20240805T100300Z
+DTEND:20240805T102000Z
+DESCRIPTION:Sailing - Women's Kite - Race 5\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 5
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T100500Z-sailing-MIXED-MULTIHULL-RACE-7
+DTSTAMP:20240805T100500Z
+DTSTART:20240805T100500Z
+DTEND:20240805T104000Z
+DESCRIPTION:Sailing - Mixed Multihull - Race 7\n🇧🇪
+  CLAEYSSENS/VERSTRAELE\n🇬🇧 GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵
+  IITSUKA/NISHIDA CAP.\n🇸🇪 JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪
+  KOHLHOFF/STUHLEMMER\n🇫🇮 KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳
+  MAI/CHEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇺🇸 NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰
+  SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Mixed Multihull - Race 7
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T101500Z-sailing-WOMENS-DINGHY-RACE-9
+DTSTAMP:20240805T101500Z
+DTSTART:20240805T101500Z
+DTEND:20240805T110600Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 9\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 9
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T105700Z-sailing-MIXED-MULTIHULL-RACE-8
+DTSTAMP:20240805T105700Z
+DTSTART:20240805T105700Z
+DTEND:20240805T113200Z
+DESCRIPTION:Sailing - Mixed Multihull - Race 8\n🇧🇪
+  CLAEYSSENS/VERSTRAELE\n🇬🇧 GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵
+  IITSUKA/NISHIDA CAP.\n🇸🇪 JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪
+  KOHLHOFF/STUHLEMMER\n🇫🇮 KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳
+  MAI/CHEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇺🇸 NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰
+  SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Mixed Multihull - Race 8
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T112300Z-sailing-WOMENS-DINGHY-RACE-10
+DTSTAMP:20240805T112300Z
+DTSTART:20240805T112300Z
+DTEND:20240805T121400Z
+DESCRIPTION:Sailing - Women's Dinghy - Race 10\n🇧🇲 Adriana
+  PENRUDDOCKE\n🇵🇱 Agata BARWINSKA\n🇰🇼 Ameena SHAH\n🇪🇸 Ana MONCADA
+  SANCHEZ\n🇩🇰 Anne-Marie RINDOM\n🇰🇾 Charlotte WEBSTER\n🇮🇹 Chiara
+  BENINI FLORIANI\n🇲🇿 Deizy NHAQUILE\n🇷🇴 Ebru BOLAT\n🇹🇷 Ecem
+  GUZEL\n🇲🇽 Elena OETLING RAMIREZ\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma
+  PLASSCHAERT\n🇺🇸 Erika REINEKE\n🇮🇪 Eve McMAHON\n🇵🇪 Florencia
+  CHIARELLA\n🇨🇳 GU Min\n🇧🇷 Gabriella KIDD\n🇳🇿 Greta PILKINGTON\n🇬🇧
+  Hannah SNELLGROVE\n🇸🇪 Josefin OLSSON\n🇩🇪 Julia BUESSELLBERG\n🇪🇬
+  Khouloud MANSY\n🇸🇮 Lin PLETIKOS\n🇳🇴 Line Flem HOEST\n🇺🇾 Lola
+  MOREIRA\n🇫🇷 Louise CERVERA\n🇦🇷 Lucia FALASCA\n🇭🇺 Maria ERDI\n🇨🇱
+  Maria Jose PONCELL MAURIN\n🇨🇾 Marilena MAKRI\n🇳🇱 Marit
+  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇫🇮 Monika MIKKOLA\n🇮🇳 Nethra
+  KUMANAN\n🇲🇾 Nur Shazrin MOHAMAD LATIF\n🇨🇦 Sarah DOUGLAS\n🇮🇱 Shay
+  KAKON\n🇫🇯 Sophia Frances MORGAN\n🇹🇭 Sophia MONTGOMERY\n🇼🇸 Vaimooia
+  Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
+SUMMARY:⛵ Women's Dinghy - Race 10
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T114900Z-sailing-MIXED-MULTIHULL-RACE-9
+DTSTAMP:20240805T114900Z
+DTSTART:20240805T114900Z
+DTEND:20240805T122400Z
+DESCRIPTION:Sailing - Mixed Multihull - Race 9\n🇧🇪
+  CLAEYSSENS/VERSTRAELE\n🇬🇧 GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵
+  IITSUKA/NISHIDA CAP.\n🇸🇪 JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪
+  KOHLHOFF/STUHLEMMER\n🇫🇮 KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳
+  MAI/CHEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇺🇸 NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰
+  SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Mixed Multihull - Race 9
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T124500Z-sailing-MENS-DINGHY-RACE-9
+DTSTAMP:20240805T124500Z
+DTSTART:20240805T124500Z
+DTEND:20240805T133600Z
+DESCRIPTION:Sailing - Men's Dinghy - Race 9\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit
+  Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱
+  Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸
+  Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn
+  LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY
+  Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸
+  Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹
+  Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪
+  Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando
+  CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED
+  VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪
+  Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad
+  LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Men's Dinghy - Race 9
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T135000Z-sailing-MENS-DINGHY-RACE-10
+DTSTAMP:20240805T135000Z
+DTSTART:20240805T135000Z
+DTEND:20240805T144100Z
+DESCRIPTION:Sailing - Men's Dinghy - Race 10\n🇪🇬 Aly BADAWY\n🇹🇭 Arthit
+  Mikhail ROMANYK\n🇧🇷 Bruno FONTES\n🇨🇱 Clemente SEGUEL LACAMARA\n🇳🇱
+  Duko BOS\n🇵🇹 Eduardo MARQUES\n🇸🇻 Enrique Jose ARATHOON PACAS\n🇼🇸
+  Eroni Tui LEILUA\n🇭🇷 Filip JURISIC\n🇦🇴 Filipe ANDRE\n🇮🇪 Finn
+  LYNCH\n🇦🇷 Francisco GUARAGNA RIGONAT\n🇰🇷 HA Jeemin\n🇭🇰 HALLIDAY
+  Nicholas\n🇳🇴 Hermann TOMASGAARD\n🇫🇷 Jean-Baptiste BERNAZ\n🇪🇸
+  Joaquin BLANCO\n🇩🇰 Johan LUNDGAARD SCHUBERT\n🇭🇺 Jonatan VADNAI\n🇬🇹
+  Juan I MAEGLI\n🇦🇼 Just van AANHOLT\n🇫🇮 Kaarle TAPPER\n🇪🇪
+  Karl-Martin RAMMO\n🇲🇾 Khairulnizam MOHD AFENDY\n🇮🇹 Lorenzo Brando
+  CHIAVARINI\n🇱🇨 Luc CHEVRIER\n🇦🇺 Matt WEARN\n🇬🇧 Michael
+  BECKETT\n🇵🇱 Michal KRASODOMSKI\n🇲🇪 Milivoj DUKIC\n🇮🇱 Omer VERED
+  VILENCHIK\n🇨🇾 Pavlos KONTIDES\n🇵🇷 Pedro Luis FERNANDEZ GAMBOA\n🇩🇪
+  Philipp BUHL\n🇸🇬 Ryan LO\n🇵🇪 Stefano PESCHIERA\n🇻🇬 Thad
+  LETTSOME\n🇳🇿 Thomas SAUNDERS\n🇫🇯 Viliame RATULU\n🇮🇳 Vishnu
+  SARAVANAN\n🇧🇪 William de SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka
+  ZELKO
+SUMMARY:⛵ Men's Dinghy - Race 10
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T100500Z-sailing-MIXED-MULTIHULL-RACE-10
+DTSTAMP:20240806T100500Z
+DTSTART:20240806T100500Z
+DTEND:20240806T104000Z
+DESCRIPTION:Sailing - Mixed Multihull - Race 10\n🇧🇪
+  CLAEYSSENS/VERSTRAELE\n🇬🇧 GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵
+  IITSUKA/NISHIDA CAP.\n🇸🇪 JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪
+  KOHLHOFF/STUHLEMMER\n🇫🇮 KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳
+  MAI/CHEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇺🇸 NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰
+  SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Mixed Multihull - Race 10
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T102300Z-sailing-WOMENS-KITE-RACE-6
+DTSTAMP:20240806T102300Z
+DTSTART:20240806T102300Z
+DTEND:20240806T104000Z
+DESCRIPTION:Sailing - Women's Kite - Race 6\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 6
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T104800Z-sailing-WOMENS-KITE-RACE-7
+DTSTAMP:20240806T104800Z
+DTSTART:20240806T104800Z
+DTEND:20240806T110500Z
+DESCRIPTION:Sailing - Women's Kite - Race 7\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 7
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T105700Z-sailing-MIXED-MULTIHULL-RACE-11
+DTSTAMP:20240806T105700Z
+DTSTART:20240806T105700Z
+DTEND:20240806T113200Z
+DESCRIPTION:Sailing - Mixed Multihull - Race 11\n🇧🇪
+  CLAEYSSENS/VERSTRAELE\n🇬🇧 GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵
+  IITSUKA/NISHIDA CAP.\n🇸🇪 JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪
+  KOHLHOFF/STUHLEMMER\n🇫🇮 KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳
+  MAI/CHEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇺🇸 NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰
+  SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Mixed Multihull - Race 11
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T111300Z-sailing-WOMENS-KITE-RACE-8
+DTSTAMP:20240806T111300Z
+DTSTART:20240806T111300Z
+DTEND:20240806T113000Z
+DESCRIPTION:Sailing - Women's Kite - Race 8\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 8
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T113800Z-sailing-WOMENS-KITE-RACE-9
+DTSTAMP:20240806T113800Z
+DTSTART:20240806T113800Z
+DTEND:20240806T115500Z
+DESCRIPTION:Sailing - Women's Kite - Race 9\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 9
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T114900Z-sailing-MIXED-MULTIHULL-RACE-12
+DTSTAMP:20240806T114900Z
+DTSTART:20240806T114900Z
+DTEND:20240806T122400Z
+DESCRIPTION:Sailing - Mixed Multihull - Race 12\n🇧🇪
+  CLAEYSSENS/VERSTRAELE\n🇬🇧 GIMSON/BURNET\n🇦🇹 HABERL/FRANK\n🇯🇵
+  IITSUKA/NISHIDA CAP.\n🇸🇪 JARUDD/JONSSON\n🇹🇷 KAYNAR/KAYNAKCI\n🇩🇪
+  KOHLHOFF/STUHLEMMER\n🇫🇮 KURTBAY/KESKINEN\n🇦🇺 LIDDELL/BROWN\n🇨🇳
+  MAI/CHEN\n🇦🇷 MAJDALANI/BOSCO\n🇳🇱 MEER/BOUWER\n🇫🇷
+  MOURNIAC/BERTHOMIEU\n🇺🇸 NEWBERRY/LIEBENBERG\n🇪🇸 PACHECO/BARRIO\n🇩🇰
+  SAOUMA-PED/BRUUN\n🇧🇷 SIEMSEN/ARNDT\n🇮🇹 TITA/BANTI\n🇳🇿
+  WILKINSON/DAWSON
+SUMMARY:⛵ Mixed Multihull - Race 12
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T120300Z-sailing-WOMENS-KITE-RACE-10
+DTSTAMP:20240806T120300Z
+DTSTART:20240806T120300Z
+DTEND:20240806T122000Z
+DESCRIPTION:Sailing - Women's Kite - Race 10\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 10
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T101300Z-sailing-WOMENS-KITE-RACE-11
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T103000Z
+DESCRIPTION:Sailing - Women's Kite - Race 11\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 11
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T110300Z-sailing-WOMENS-KITE-RACE-12
+DTSTAMP:20240807T110300Z
+DTSTART:20240807T110300Z
+DTEND:20240807T112000Z
+DESCRIPTION:Sailing - Women's Kite - Race 12\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 12
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T115300Z-sailing-WOMENS-KITE-RACE-13
+DTSTAMP:20240807T115300Z
+DTSTART:20240807T115300Z
+DTEND:20240807T121000Z
+DESCRIPTION:Sailing - Women's Kite - Race 13\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 13
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T124300Z-sailing-WOMENS-KITE-RACE-14
+DTSTAMP:20240807T124300Z
+DTSTART:20240807T124300Z
+DTEND:20240807T130000Z
+DESCRIPTION:Sailing - Women's Kite - Race 14\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 14
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T133300Z-sailing-WOMENS-KITE-RACE-15
+DTSTAMP:20240807T133300Z
+DTSTART:20240807T133300Z
+DTEND:20240807T135000Z
+DESCRIPTION:Sailing - Women's Kite - Race 15\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 15
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T142300Z-sailing-WOMENS-KITE-RACE-16
+DTSTAMP:20240807T142300Z
+DTSTART:20240807T142300Z
+DTEND:20240807T144000Z
+DESCRIPTION:Sailing - Women's Kite - Race 16\n🇦🇹 Alina KORNELLI\n🇳🇱
+  Annelous LAMMERTS\n🇹🇭 Benyapa JANTAWAN\n🇦🇺 Breiana WHITEHEAD\n🇨🇳
+  CHEN Jingyue\n🇺🇸 Daniela MOROZ\n🇹🇷 Derin ATAKAN\n🇬🇧 Eleanor
+  ALDRIDGE\n🇨🇭 Elena LENGWILER\n🇨🇦 Emily BUGEJA\n🇮🇱 Gal
+  ZUKERMAN\n🇪🇸 Gisela PULIDO BORRELL\n🇵🇱 Julia DAMASIEWICZ\n🇲🇺 Julie
+  PATURAU\n🇳🇿 Justina KITCHEN\n🇫🇷 Lauriane NOLOT\n🇩🇪 Leonie
+  MEYER\n🇵🇹 Mafalda PIRES de LIMA\n🇮🇹 Maggie Eillen PESCETTO\n🇦🇷
+  Maria Catalina TURIENZO
+SUMMARY:⛵ Women's Kite - Race 16
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

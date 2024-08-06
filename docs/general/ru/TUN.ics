@@ -4,6 +4,36 @@ PRODID:-//fabrice404//olympics-calendar//general/ru/TUN//EN
 X-WR-CALNAME:🇹🇳 Tunisia | Paris 2024
 NAME:🇹🇳 Tunisia | Paris 2024
 BEGIN:VEVENT
+UID:20240725T073000Z-archery--
+DTSTAMP:20240725T073000Z
+DTSTART:20240725T073000Z
+DTEND:20240725T103000Z
+DESCRIPTION:Стрельба из лука - Рейтинговый раунд, индивидуальные (ж)\n🇨🇳
+  AN Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra
+  RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana
+  RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita
+  BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧
+  Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
+  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
+  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
+  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
+  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
+  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
+  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
+  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
+  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
+  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
+  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
+  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
+  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
+  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
+  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
+  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
+  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
+SUMMARY:🏹 Рейтинговый раунд, индивидуальные (ж)
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -11,6 +41,134 @@ DTEND:20240726T210000Z
 DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
 SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T093000Z-swimming-1500-
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T103900Z
+DESCRIPTION:Плавание - 1500м вольным стилем, квалификация (м)\n🇹🇳 Ahmed
+  JAOUADI\n🇺🇸 Bobby FINKE\n🇪🇸 Carlos GARACH BENITO\n🇫🇷 Damien
+  JOLY\n🇬🇧 Daniel JERVIS\n🇮🇪 Daniel WIFFEN\n🇫🇷 David AUBRY\n🇭🇺
+  David BETLEHEM\n🇺🇸 David JOHNSTON\n🇬🇷 Dimitrios MARKOS\n🇹🇷 Emir
+  Batur ALBAYRAK\n🇨🇳 FEI Liwei\n🇩🇪 Florian WELLBROCK\n🇮🇹 Gregorio
+  PALTRINIERI\n🇳🇴 Henrik CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇵🇱
+  Krzysztof CHMIELEWSKI\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇪🇬
+  Marwan ELKAMASH\n🇺🇦 Mykhailo ROMANCHUK\n🇨🇺 Rodolfo FALCON JR\n🇦🇺
+  Samuel SHORT\n🇩🇪 Sven SCHWARZ\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan
+  STANCU\n🇭🇺 Zalan SARKANY
+SUMMARY:🏊 1500м вольным стилем, квалификация (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T144000Z-canoe-slalom--1
+DTSTAMP:20240803T144000Z
+DTSTART:20240803T144000Z
+DTEND:20240803T153500Z
+DESCRIPTION:Гребной слалом - Экстрим-слалом (м) Раунд 1\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮
+  Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix
+  OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz
+  HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱
+  Joris OTTEN\n🇬🇧 Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸
+  Manuel OCHOA\n🇨🇭 Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz
+  POLACZYK\n🇲🇦 Mathis SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪
+  Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter
+  KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA
+  Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
+  CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Экстрим-слалом (м) Раунд 1
+LOCATION:Водный ст. - Белая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T080500Z-athletics-3000-1-
+DTSTAMP:20240804T080500Z
+DTSTART:20240804T080500Z
+DTEND:20240804T084500Z
+DESCRIPTION:Легкая атлетика - 3000м с/п, раунд 1 (ж)\n🇬🇧 Aimee
+  PRATT\n🇫🇷 Alice FINOT\n🇵🇱 Alicja KONIECZEK\n🇦🇺 Amy CASHIN\n🇵🇱
+  Aneta KONIECZEK\n🇰🇪 Beatrice CHEPKOECH\n🇦🇷 Belen CASETTA\n🇦🇺 Cara
+  FEAIN-RYAN\n🇪🇸 Carolina ROBLES\n🇨🇦 Ceili McCABE\n🇺🇸 Courtney
+  WAYMENT\n🇰🇿 Daisy JEPKEMEI\n🇬🇧 Elizabeth BIRD\n🇰🇪 Faith
+  CHEROTICH\n🇫🇷 Flavie RENOUARD\n🇩🇪 Gesa Felicitas KRAUSE\n🇫🇮 Ilona
+  MONONEN\n🇪🇸 Irene SANCHEZ-ESCRIBANO\n🇰🇪 Jackline CHEPKOECH\n🇵🇱
+  Kinga KROLIK\n🇩🇪 Lea MEYER\n🇪🇹 Lomi MULETA\n🇦🇱 Luiza GEGA\n🇺🇸
+  Marisa HOWARD\n🇹🇳 Marwa BOUZAYANI\n🇰🇿 Norah JERUTO\n🇩🇪 Olivia
+  GUERTH\n🇮🇳 Parul CHAUDHARY\n🇺🇬 Peruth CHEMUTAI\n🇨🇦 Regan YEE\n🇪🇹
+  Sembo ALMAYEW\n🇷🇴 Stella RUTTO\n🇧🇷 Tatiane Raquel da SILVA\n🇺🇸
+  Valerie CONSTIEN\n🇧🇭 Winfred YAVI\n🇨🇳 XU Shuangshuang
+SUMMARY:🏃 3000м с/п, раунд 1 (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T133000Z-canoe-slalom--
+DTSTAMP:20240804T133000Z
+DTSTART:20240804T133000Z
+DTEND:20240804T141000Z
+DESCRIPTION:Гребной слалом - Экстрим-слалом, квалификация (м)\n🇬🇧 Adam
+  BURGESS\n🇨🇦 Alex BALDONI\n🇸🇮 Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇦🇹
+  Felix OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱
+  Grzegorz HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri
+  PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸
+  Manuel OCHOA\n🇨🇭 Martin DOUGOUD\n🇵🇱 Mateusz POLACZYK\n🇭🇷 Matija
+  MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷
+  Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪
+  Stefan HENGST\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan
+  CASTRYCK\n🇦🇺 Tristan CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Экстрим-слалом, квалификация (м)
+LOCATION:Водный ст. - Белая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T163700Z-swimming-1500-
+DTSTAMP:20240804T163700Z
+DTSTART:20240804T163700Z
+DTEND:20240804T165800Z
+DESCRIPTION:Плавание - 1500м вольным стилем, финал (м)\n🇹🇳 Ahmed
+  JAOUADI\n🇺🇸 Bobby FINKE\n🇫🇷 Damien JOLY\n🇮🇪 Daniel WIFFEN\n🇫🇷
+  David AUBRY\n🇭🇺 David BETLEHEM\n🇮🇹 Gregorio PALTRINIERI\n🇹🇷 Kuzey
+  TUNCELLI
+SUMMARY:🏊 1500м вольным стилем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170400Z-athletics-3000-1-
+DTSTAMP:20240805T170400Z
+DTSTART:20240805T170400Z
+DTEND:20240805T174500Z
+DESCRIPTION:Легкая атлетика - 3000м с/п, раунд 1 (м)\n🇯🇵 AOKI Ryoma\n🇰🇪
+  Abraham KIBIWOT\n🇹🇳 Ahmed JAZIRI\n🇫🇷 Alexis MIELLET\n🇰🇪 Amos
+  SEREM\n🇮🇳 Avinash Mukund SABLE\n🇦🇺 Ben BUCKINGHAM\n🇩🇿 Bilal
+  TABTI\n🇪🇸 Daniel ARCE\n🇲🇦 Faid EL MOSTAFA\n🇩🇪 Frederik
+  RUPPERT\n🇳🇿 Geordie BEAMISH\n🇪🇹 Getnet WALE\n🇺🇸 James
+  CORRIGAN\n🇨🇦 Jean-Simon DESGAGNES\n🇩🇪 Karl BEBENDORF\n🇺🇸 Kenneth
+  ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard CHEMUTAI\n🇫🇷 Louis
+  GILAVERT\n🇯🇵 MIURA Ryuji\n🇦🇺 Matthew CLARKE\n🇺🇸 Matthew
+  WILKINSON\n🇹🇳 Mohamed Amin JHINAOUI\n🇲🇦 Mohamed TINDOUFT\n🇦🇩 Nahuel
+  CARABANA\n🇫🇷 Nicolas-Marie DARU\n🇮🇹 Osama ZOGHLAMI\n🇱🇺 Ruben
+  QUERINJEAN\n🇪🇹 Samuel FIREWU\n🇰🇪 Simon Kiprop KOECH\n🇲🇦 Soufiane EL
+  BAKKALI\n🇨🇿 Tomas HABARTA\n🇫🇮 Topi RAITANEN\n🇩🇪 Velten
+  SCHNEIDER\n🇮🇹 Yassin BOUIH
+SUMMARY:🏃 3000м с/п, раунд 1 (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T075800Z-taekwondo-18-49--MEX-TUN
+DTSTAMP:20240807T075800Z
+DTSTART:20240807T075800Z
+DTEND:20240807T081000Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 49кг (ж)
+SUMMARY:🥋 Daniela Paola SOUZA 🇲🇽 - 🇹🇳 Ikram DHAHRI
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T085900Z-taekwondo-18-58-
+DTSTAMP:20240807T085900Z
+DTSTART:20240807T085900Z
+DTEND:20240807T091100Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 58кг (м)\n🇹🇳 Mohamed Khalil
+  JENDOUBI
+SUMMARY:🥋 1/8 финала, до 58кг (м)
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T094000Z-canoe-sprint--1000-
@@ -29,6 +187,52 @@ DESCRIPTION:Гребной спринт - Каноэ-одиночки 1000м, к
   PETROV
 SUMMARY:🛶 Каноэ-одиночки 1000м, квалификация (м)
 LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T194300Z-athletics-3000-
+DTSTAMP:20240807T194300Z
+DTSTART:20240807T194300Z
+DTEND:20240807T195200Z
+DESCRIPTION:Легкая атлетика - 3000м с/п, финал (м)\n🇰🇪 Abraham
+  KIBIWOT\n🇹🇳 Ahmed JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund
+  SABLE\n🇪🇸 Daniel ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon
+  DESGAGNES\n🇺🇸 Kenneth ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard
+  CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳 Mohamed Amin JHINAOUI\n🇲🇦 Mohamed
+  TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪 Simon Kiprop KOECH\n🇲🇦 Soufiane EL
+  BAKKALI
+SUMMARY:🏃 3000м с/п, финал (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T091100Z-taekwondo-18-57--USA-TUN
+DTSTAMP:20240808T091100Z
+DTSTART:20240808T091100Z
+DTEND:20240808T092400Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 57кг (ж)
+SUMMARY:🥋 Faith DILLON 🇺🇸 - 🇹🇳 Chaima TOUMI
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-73-
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:Тяжелая атлетика - 73кг (м)\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin
+  KINGUE MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA
+  PERNIA\n🇹🇳 Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO
+  Masanori\n🇹🇷 Muhammed OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki
+  JUNIANSYAH\n🇨🇳 SHI Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 73кг (м)
+LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T094800Z-taekwondo-18-80--AUS-TUN
+DTSTAMP:20240809T094800Z
+DTSTART:20240809T094800Z
+DTEND:20240809T100000Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 80кг (м)
+SUMMARY:🥋 Leon SEJRANOVIC 🇦🇺 - 🇹🇳 Firas KATOUSSI
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

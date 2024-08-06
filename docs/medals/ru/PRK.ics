@@ -38,4 +38,24 @@ DESCRIPTION:Прыжки в воду - Вышка 10м, финал (ж)\n🇯�
 SUMMARY:🏊 Вышка 10м, финал (ж)
 LOCATION:Центр водных видов спорта
 END:VEVENT
+BEGIN:VEVENT
+UID:20240806T170400Z-wrestling--60-
+DTSTAMP:20240806T170400Z
+DTSTART:20240806T170400Z
+DTEND:20240806T171100Z
+DESCRIPTION:Борьба - Греко-римская, 60кг, поединок за бронзу (м)\n🇰🇵 RI
+  Se Ung
+SUMMARY:🤼 Греко-римская, 60кг, поединок за бронзу (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T173900Z-wrestling--68-
+DTSTAMP:20240806T173900Z
+DTSTART:20240806T173900Z
+DTEND:20240806T174600Z
+DESCRIPTION:Борьба - Вольная борьба, 68кг, поединок за бронзу (ж)\n🇰🇵 PAK
+  Sol Gum
+SUMMARY:🤼 Вольная борьба, 68кг, поединок за бронзу (ж)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
 END:VCALENDAR

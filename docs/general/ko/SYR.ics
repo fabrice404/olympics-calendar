@@ -13,52 +13,6 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T090000Z-swimming--200M-
-DTSTAMP:20240728T090000Z
-DTSTART:20240728T090000Z
-DTEND:20240728T091400Z
-DESCRIPTION:경영 - 남자 200m 자유형 - 예선\n🇮🇹 Alessandro RAGAINI\n🇨🇭 Antonio
-  DJAKOVIC\n🇺🇸 Chris GUILIANO\n🇱🇹 Danas RAPSYS\n🇷🇴 David
-  POPOVICI\n🇮🇱 Denis LOKTEV\n🇬🇧 Duncan SCOTT\n🇦🇹 Felix AUBOECK\n🇮🇹
-  Filippo MEGLI\n🇧🇷 Guilherme COSTA\n🇰🇷 HWANG Sunwoo\n🇨🇳 JI
-  Xinjie\n🇲🇽 Jorge IGA\n🇰🇷 KIM Woomin\n🇧🇪 Lucas HENVEAUX\n🇩🇪 Lukas
-  MAERTENS\n🇺🇸 Luke HOBSON\n🇯🇵 MATSUMOTO Katsuhiro\n🇬🇧 Matthew
-  RICHARDS\n🇦🇺 Maximillian GIULIANI\n🇵🇰 Muhammad Ahmed DURRANI\n🇭🇺
-  Nandor NEMETH\n🇸🇾 Omar ABBAS\n🇨🇳 PAN Zhanle\n🇩🇪 Rafael
-  MIROSLAW\n🇸🇮 Saso BOSKAN\n🇦🇺 Thomas NEILL\n🇷🇸 Velimir STJEPANOVIC
-SUMMARY:🏊 남자 200m 자유형 - 예선
-LOCATION:파리 라 데팡스 아레나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T083600Z-judo--73KG-32--AUT-SYR
-DTSTAMP:20240729T083600Z
-DTSTART:20240729T083600Z
-DTEND:20240729T084200Z
-DESCRIPTION:유도 - 남자 -73kg 32강 엘리미네이션 라운드
-SUMMARY:🥋 Samuel GASSNER 🇦🇹 - 🇸🇾 Hasan BAYAN
-LOCATION:샹드마르 아레나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T083500Z-athletics--100M-
-DTSTAMP:20240802T083500Z
-DTSTART:20240802T083500Z
-DTEND:20240802T085700Z
-DESCRIPTION:육상 - 여자 100m 예선\n🇸🇲 Alessandra GASPARELLI\n🇸🇾 Alisar
-  YOUSSEF\n🇲🇼 Asimenye SIMWAKA\n🇻🇺 Chloe DAVID\n🇵🇰 Faiqa RIAZ\n🇦🇸
-  Filomenaleonisa IAKOPO\n🇸🇱 Georgiana SESAY\n🇸🇹 Gorete SEMEDO\n🇧🇴
-  Guadalupe TORREZ\n🇬🇩 Halle HAZZARD\n🇦🇫 Kimia YOUSOFI\n🇵🇬 Leonie
-  BEU\n🇬🇪 Lika KHARCHILAVA\n🇸🇸 Lucia MORIS\n🇳🇮 Maria CARMONA\n🇦🇪
-  Mariam ALFARSI\n🇬🇹 Mariandree CHACON\n🇲🇨 Marie-Charlotte
-  GASTAUD\n🇴🇲 Mazoon AL ALAWI\n🇹🇬 Naomi AKAKPO\n🇨🇬 Natacha
-  NGOYE\n🇬🇺 Regine TUGADE-WATSON\n🇬🇳 Safiatou ACQUAVIVA\n🇲🇷 Salam
-  Bouha AHAMDY\n🇳🇪 Samira AWALI BOUBACAR\n🇬🇶 Sefora ADA ETO\n🇶🇦 Shahd
-  ASHRAF\n🇸🇧 Sharon FIRISUA\n🇱🇦 Silina PHA APHAY\n🇵🇼 Sydney
-  FRANCISCO\n🇹🇻 Temalini MANATOA\n🇻🇳 Thi Nhi Yen TRAN\n🇹🇲 Valentina
-  MEREDOVA\n🇵🇾 Xenia HIEBERT\n🇹🇼 ZHANG Bo-Ya\n🇰🇳 Zahria ALLERS-LIBURD
-SUMMARY:🏃 여자 100m 예선
-LOCATION:스타드 드 프랑스
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T120000Z-equestrian--
 DTSTAMP:20240805T120000Z
 DTSTART:20240805T120000Z
@@ -90,19 +44,6 @@ DESCRIPTION:승마 - 장애물 개인 예선\n🇦🇪 Abdullah Mohd AL MARRI\n�
   GULLIKSEN\n🇧🇷 Yuri MANSUR
 SUMMARY:🏇 장애물 개인 예선
 LOCATION:샤토 드 베르사유
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T183000Z-weightlifting--102KG
-DTSTAMP:20240810T183000Z
-DTSTART:20240810T183000Z
-DTEND:20240810T210000Z
-DESCRIPTION:역도 - 남자 +102kg\n🇪🇬 Abdelrahman ABDELAZIZ ELSAYED\n🇮🇶 Ali
-  Ammar Yusur RUBAIAWI\n🇮🇷 Ali DAVOUDI\n🇳🇿 David LITI\n🇧🇭 Gor
-  MINASYAN\n🇨🇿 Kamil KUCERA\n🇬🇪 Lasha TALAKHADZE\n🇯🇵 MURAKAMI
-  Eishiro\n🇸🇾 Man ASAAD\n🇪🇪 Mart SEIM\n🇦🇲 Varazdat LALAYAN\n🇩🇿
-  Walid BIDANI
-SUMMARY:🏋 남자 +102kg
-LOCATION:사우스 파리 아레나 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

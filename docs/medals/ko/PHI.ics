@@ -4,17 +4,28 @@ PRODID:-//fabrice404//olympics-calendar//medals/ko/PHI//EN
 X-WR-CALNAME:🇵🇭 Philippines 🏅 | Paris 2024
 NAME:🇵🇭 Philippines 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240805T170000Z-athletics--
-DTSTAMP:20240805T170000Z
-DTSTART:20240805T170000Z
-DTEND:20240805T192700Z
-DESCRIPTION:육상 - 남자 장대높이뛰기 결승\n🇸🇪 Armand DUPLANTIS\n🇩🇪 Bo Kanda LITA
-  BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu
-  SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱 Menno VLOON\n🇩🇪
-  Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre GUTTORMSEN\n🇱🇻 Valters
-  KREISS
-SUMMARY:🏃 남자 장대높이뛰기 결승
-LOCATION:스타드 드 프랑스
+UID:20240803T133000Z-artistic-gymnastics--
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T140500Z
+DESCRIPTION:기계체조 - 남자 마루 운동 결승\n🇮🇱 Artem DOLGOPYAT\n🇵🇭 Carlos Edriel
+  YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke
+  WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵 OKA Shinnosuke\n🇰🇷 RYU
+  Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG Boheng
+SUMMARY:🤸 남자 마루 운동 결승
+LOCATION:베르시 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T142400Z-artistic-gymnastics--
+DTSTAMP:20240804T142400Z
+DTSTART:20240804T142400Z
+DTEND:20240804T150700Z
+DESCRIPTION:기계체조 - 남자 도마 결승\n🇹🇷 Adem ASIL\n🇦🇲 Artur DAVTYAN\n🇺🇸 Asher
+  HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel YULO\n🇬🇧 Harry
+  HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷 LEE Junho\n🇮🇷
+  Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
+SUMMARY:🤸 남자 도마 결승
+LOCATION:베르시 아레나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T201800Z-boxing--50KG--TUR-PHI

@@ -13,6 +13,28 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T074200Z-rowing--C-
+DTSTAMP:20240803T074200Z
+DTSTART:20240803T074200Z
+DTEND:20240803T074900Z
+DESCRIPTION:Академическая гребля - Одиночки, финал C (м)\n🇭🇺 Bendeguz Pal
+  PETERVARI MOLNAR\n🇺🇸 Jacob PLIHAL\n🇵🇾 Javier INSFRAN\n🇧🇬 Kristian
+  VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇩🇿 Sid Ali BOUDINA
+SUMMARY:🚣 Одиночки, финал C (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T081800Z-rowing--A-
+DTSTAMP:20240803T081800Z
+DTSTART:20240803T081800Z
+DTEND:20240803T082500Z
+DESCRIPTION:Академическая гребля - Одиночки, финал A (ж)\n🇧🇬 Desislava
+  ANGELOVA\n🇳🇿 Emma TWIGG\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇦🇺
+  Tara RIGNEY\n🇱🇹 Viktorija SENKUTE
+SUMMARY:🚣 Одиночки, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T140200Z-boxing--71--BUL-USA
 DTSTAMP:20240803T140200Z
 DTSTART:20240803T140200Z
@@ -53,6 +75,72 @@ SUMMARY:🥊 LIN Yu Ting 🇹🇼 - 🇧🇬 Svetlana Kamenova STANEVA
 LOCATION:Арена «Париж-Север»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T090000Z-athletics--
+DTSTAMP:20240804T090000Z
+DTSTART:20240804T090000Z
+DTEND:20240804T095600Z
+DESCRIPTION:Легкая атлетика - Прыжки в длину, квалификация (м)\n🇨🇺
+  Alejandro PARADA\n🇺🇿 Anvar ANVAROV\n🇨🇴 Arnovis DALMERO\n🇧🇬 Bozhidar
+  SARABOYUKOV\n🇯🇲 Carey McLEOD\n🇿🇦 Cheswill JOHNSON\n🇦🇺 Christopher
+  MITREVSKI\n🇺🇾 Emiliano LASA\n🇭🇷 Filip PRAVDICA\n🇯🇵 HASHIOKA
+  Yuki\n🇬🇧 Jacob FINCHAM-DUKES\n🇺🇸 Jarrion LAWSON\n🇺🇸 Jeremiah
+  DAVIS\n🇮🇳 Jeswin ALDRIN\n🇿🇦 Jovan van VUUREN\n🇹🇼 LIN Yu-Tang\n🇦🇺
+  Liam ADCOCK\n🇧🇷 Lucas Marcelino dos SANTOS\n🇺🇸 Malcolm CLEMONS\n🇮🇹
+  Mattia FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🏳️ Mohammad Amin
+  ALSALAMI\n🇨🇿 Petr MEINDLSCHMID\n🇨🇿 Radek JUSKA\n🇨🇳 SHI Yuhao\n🇩🇪
+  Simon BATZ\n🇨🇭 Simon EHAMMER\n🇯🇲 Tajay GAYLE\n🇸🇪 Thobias
+  MONTLER\n🇫🇷 Tom CAMPAGNE\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳
+  ZHANG Mingkun
+SUMMARY:🏃 Прыжки в длину, квалификация (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T134200Z-wrestling--130-18--CHI-BUL
+DTSTAMP:20240805T134200Z
+DTSTART:20240805T134200Z
+DTEND:20240805T134900Z
+DESCRIPTION:Борьба - Греко-римская, 130кг, 1/8 финала (м)
+SUMMARY:🤼 Yasmani ACOSTA FERNANDEZ 🇨🇱 - 🇧🇬 Kiril Milenov MILOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T090700Z-wrestling--130--BUL-EGY
+DTSTAMP:20240806T090700Z
+DTSTART:20240806T090700Z
+DTEND:20240806T091400Z
+DESCRIPTION:Борьба - Греко-римская, 130кг, утешительный раунд (м)
+SUMMARY:🤼 Kiril Milenov MILOV 🇧🇬 - 🇪🇬 Abdellatif MOHAMED
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T091500Z-athletics--
+DTSTAMP:20240806T091500Z
+DTSTART:20240806T091500Z
+DTEND:20240806T102300Z
+DESCRIPTION:Легкая атлетика - Прыжки в длину, квалификация (ж)\n🇯🇲
+  Ackelia SMITH\n🇵🇹 Agate de SOUSA\n🇷🇴 Alina ROTARU-KOTTMANN\n🇦🇺
+  Brooke BUSCHKUEHL\n🇯🇲 Chanice PORTER\n🇧🇷 Eliane MARTINS\n🇳🇬 Ese
+  BRUME\n🇪🇬 Esraa OWIS\n🇪🇸 Fatima DIAME\n🇯🇵 HATA Sumire\n🇫🇷 Hilary
+  KPATCHA\n🇷🇸 Ivana SPANOVIC\n🇺🇸 Jasmine MOORE\n🇮🇹 Larissa
+  IAPICHINO\n🇩🇪 Laura Raquel MUELLER\n🇧🇷 Lissandra Maysa CAMPOS\n🇩🇪
+  Malaika MIHAMBO\n🇧🇫 Marthe KOALA\n🇩🇪 Mikaelle ASSANI\n🇷🇸 Milica
+  GARDASEVIC\n🇺🇸 Monae' NICHOLS\n🇨🇴 Natalia LINARES\n🇵🇱 Nikola
+  HOROWSKA\n🇳🇱 Pauline HONDEMA\n🇭🇺 Petra BANHIDI-FARKAS\n🇧🇬 Plamena
+  MITKOVA\n🇳🇬 Prestina Oluchi OCHONOGOR\n🇳🇬 Ruth USORO\n🇺🇸 Tara
+  DAVIS-WOODHALL\n🇪🇸 Tessy EBOSELE\n🇨🇳 XIONG Shiqi
+SUMMARY:🏃 Прыжки в длину, квалификация (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T100300Z-wrestling--77-18--BUL-AZE
+DTSTAMP:20240806T100300Z
+DTSTART:20240806T100300Z
+DTEND:20240806T101000Z
+DESCRIPTION:Борьба - Греко-римская, 77кг, 1/8 финала (м)
+SUMMARY:🤼 Aik MNATSAKANIAN 🇧🇬 - 🇦🇿 Sanan SULEYMANOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T073000Z-canoe-sprint--500-
 DTSTAMP:20240807T073000Z
 DTSTART:20240807T073000Z
@@ -75,6 +163,41 @@ SUMMARY:🛶 Байдарки-одиночки 500м, квалификация (
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T130000Z-weightlifting-61-
+DTSTAMP:20240807T130000Z
+DTSTART:20240807T130000Z
+DTEND:20240807T153000Z
+DESCRIPTION:Тяжелая атлетика - 61кг (м)\n🇮🇩 Eko IRAWAN\n🇺🇸 Hampton
+  MORRIS\n🇧🇬 Ivan Petkov DIMOV\n🇵🇭 John Febuar CENIZA\n🇰🇮 Kaimauri
+  ERATI\n🇨🇳 LI Fabin\n🇲🇾 Mohamad Aniq BIN KASDAN\n🇵🇬 Morea BARU\n🇮🇹
+  Sergio MASSIDDA\n🇬🇪 Shota MISHVELIDZE\n🇹🇭 Theerapong SILACHAI\n🇻🇳
+  van Vinh TRINH
+SUMMARY:🏋 61кг (м)
+LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T084700Z-taekwondo-18-57--BUL-IRI
+DTSTAMP:20240808T084700Z
+DTSTART:20240808T084700Z
+DTEND:20240808T085900Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 57кг (ж)
+SUMMARY:🥋 Alizadeh KIMIA 🇧🇬 - 🇮🇷 Nahid KIYANICHANDEH
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-73-
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:Тяжелая атлетика - 73кг (м)\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin
+  KINGUE MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA
+  PERNIA\n🇹🇳 Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO
+  Masanori\n🇹🇷 Muhammed OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki
+  JUNIANSYAH\n🇨🇳 SHI Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 73кг (м)
+LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T194600Z-boxing--57--KGZ-BUL
 DTSTAMP:20240808T194600Z
 DTSTART:20240808T194600Z
@@ -82,6 +205,19 @@ DTEND:20240808T195700Z
 DESCRIPTION:Бокс - Полуфинал, до 57кг (м)
 SUMMARY:🥊 Munarbek SEIITBEK UULU 🇰🇬 - 🇧🇬 Javier IBANEZ DIAZ
 LOCATION:Стадион «Ролан Гаррос»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-weightlifting-89-
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T153000Z
+DESCRIPTION:Тяжелая атлетика - 89кг (м)\n🇦🇲 Andranik KARAPETYAN\n🇮🇹
+  Antonino PIZZOLATO\n🇨🇦 Boady SANTAVY\n🇪🇬 Karim ABOKAHLA\n🇧🇬 Karlos
+  May NASAR\n🇻🇪 Keydomar VALLENILLA SANCHEZ\n🇦🇺 Kyle BRUCE\n🇲🇩 Marin
+  ROBU\n🇮🇷 Mir Mostafa JAVADI ALIABADI\n🇫🇷 Romain IMADOUCHENE\n🇰🇷 YU
+  Dongju\n🇨🇴 Yeison LOPEZ
+SUMMARY:🏋 89кг (м)
+LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

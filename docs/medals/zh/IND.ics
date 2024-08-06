@@ -15,6 +15,42 @@ SUMMARY:🔫 女子25米手枪决赛
 LOCATION:沙托鲁射击中心
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T070000Z-golf-4
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T160000Z
+DESCRIPTION:高尔夫 - 男子第4回合\n🇰🇷 AN Byeong Hun\n🇲🇽 Abraham ANCER\n🇵🇱
+  Adrian MERONK\n🇧🇪 Adrien DUMONT de CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪
+  Alex NOREN\n🇨🇴 Camilo VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan
+  BEZUIDENHOUT\n🇺🇸 Collin MORIKAWA\n🇨🇦 Corey CONNERS\n🇨🇳 DOU
+  Zecheng\n🇳🇿 Daniel HILLIER\n🇪🇸 David PUIG\n🇦🇷 Emiliano GRILLO\n🇿🇦
+  Erik van ROOYEN\n🇵🇾 Fabrizio ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾
+  Gavin GREEN\n🇮🇹 Guido MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin
+  NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸 Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech
+  APHIBARNRAT\n🇳🇴 Kristoffer VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA
+  Hideki\n🇮🇹 Matteo MANASSERO\n🇩🇪 Matthias SCHMID\n🇫🇷 Matthieu
+  PAVON\n🇦🇺 Min Woo LEE\n🇨🇱 Mito PEREIRA\n🇯🇵 NAKAJIMA Keita\n🇨🇦
+  Nick TAYLOR\n🇨🇴 Nico ECHAVARRIA\n🇩🇰 Nicolai HOJGAARD\n🇹🇼 PAN
+  C.T.\n🇹🇭 Phachara KHONGWATMAI\n🇵🇷 Rafa CAMPOS\n🇮🇪 Rory
+  McILROY\n🇳🇿 Ryan FOX\n🇫🇮 Sami VALIMAKI\n🇺🇸 Scottie SCHEFFLER\n🇦🇹
+  Sepp STRAKA\n🇮🇪 Shane LOWRY\n🇮🇳 Shubhankar SHARMA\n🇩🇪 Stephan
+  JAEGER\n🇫🇮 Tapio PULKKANEN\n🇧🇪 Thomas DETRY\n🇩🇰 Thorbjorn
+  OLESEN\n🇬🇧 Tommy FLEETWOOD\n🇫🇷 Victor PEREZ\n🇳🇴 Viktor
+  HOVLAND\n🇺🇸 Wyndham CLARK\n🇺🇸 Xander SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳
+  YUAN Yechun
+SUMMARY:⛳ 男子第4回合
+LOCATION:国家高尔夫球场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T123000Z-badminton--MAS-IND
+DTSTAMP:20240805T123000Z
+DTSTART:20240805T123000Z
+DTEND:20240805T153000Z
+DESCRIPTION:羽毛球 - 男子单打铜牌赛
+SUMMARY:🏸 Zii Jia LEE 🇲🇾 - 🇮🇳 Lakshya SEN
+LOCATION:拉夏贝尔门体育馆
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T130000Z-shooting--CHN-IND
 DTSTAMP:20240805T130000Z
 DTSTART:20240805T130000Z
@@ -35,19 +71,5 @@ DESCRIPTION:举重 - 女子49公斤级\n🇩🇴 Beatriz PIRON CANDELARIO\n🇹�
   RANDAFIARISON\n🇯🇵 SUZUKI Rira\n🇹🇭 Surodchana KHAMBAO
 SUMMARY:🏋 女子49公斤级
 LOCATION:南巴黎竞技场6号馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T194300Z-athletics-3000
-DTSTAMP:20240807T194300Z
-DTSTART:20240807T194300Z
-DTEND:20240807T195200Z
-DESCRIPTION:田径 - 男子3000米障碍赛决赛\n🇰🇪 Abraham KIBIWOT\n🇹🇳 Ahmed
-  JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund SABLE\n🇪🇸 Daniel
-  ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon DESGAGNES\n🇺🇸 Kenneth
-  ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳
-  Mohamed Amin JHINAOUI\n🇲🇦 Mohamed TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪
-  Simon Kiprop KOECH\n🇲🇦 Soufiane EL BAKKALI
-SUMMARY:🏃 男子3000米障碍赛决赛
-LOCATION:法兰西体育场
 END:VEVENT
 END:VCALENDAR

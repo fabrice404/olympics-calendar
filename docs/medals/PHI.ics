@@ -4,69 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//medals/PHI//EN
 X-WR-CALNAME:🇵🇭 Philippines 🏅 | Paris 2024
 NAME:🇵🇭 Philippines 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240731T153000Z-artistic-gymnastics-MENS-ALL-AROUND-FINAL
-DTSTAMP:20240731T153000Z
-DTSTART:20240731T153000Z
-DTEND:20240731T180054Z
-DESCRIPTION:Artistic Gymnastics - Men's All-Around Final\n🇵🇭 Carlos
-  Edriel YULO\n🇳🇱 Casimir SCHMIDT\n🇧🇷 Diogo SOARES\n🇨🇦 Felix
-  DOLCI\n🇨🇭 Florian LANGENEGGER\n🇳🇱 Frank RIJKEN\n🇺🇸 Frederick
-  RICHARD\n🇯🇵 HASHIMOTO Daiki\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇦🇺
-  Jesse MOORE\n🇬🇧 Joe FRASER\n🇭🇺 Krisztofer MESZAROS\n🇮🇹 Mario
-  MACCHIATI\n🇨🇭 Matteo GIUBELLINI\n🇰🇿 Milad KARIMI\n🇩🇪 Nils
-  DUNKEL\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇺🇸 Paul JUDA\n🇨🇦
-  Rene COURNOYER\n🇨🇳 XIAO Ruoteng\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
-SUMMARY:🤸 Men's All-Around Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T133000Z-artistic-gymnastics-MENS-FLOOR-EXERCISE-FINAL
-DTSTAMP:20240803T133000Z
-DTSTART:20240803T133000Z
-DTEND:20240803T140500Z
-DESCRIPTION:Artistic Gymnastics - Men's Floor Exercise Final\n🇮🇱 Artem
-  DOLGOPYAT\n🇵🇭 Carlos Edriel YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake
-  JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵
-  OKA Shinnosuke\n🇰🇷 RYU Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG
-  Boheng
-SUMMARY:🤸 Men's Floor Exercise Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T142400Z-artistic-gymnastics-MENS-VAULT-FINAL
-DTSTAMP:20240804T142400Z
-DTSTART:20240804T142400Z
-DTEND:20240804T150700Z
-DESCRIPTION:Artistic Gymnastics - Men's Vault Final\n🇹🇷 Adem ASIL\n🇦🇲
-  Artur DAVTYAN\n🇺🇸 Asher HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel
-  YULO\n🇬🇧 Harry HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷
-  LEE Junho\n🇮🇷 Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
-SUMMARY:🤸 Men's Vault Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T170000Z-athletics-MENS-POLE-VAULT-FINAL
-DTSTAMP:20240805T170000Z
-DTSTART:20240805T170000Z
-DTEND:20240805T192700Z
-DESCRIPTION:Athletics - Men's Pole Vault Final\n🇸🇪 Armand DUPLANTIS\n🇩🇪
-  Bo Kanda LITA BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John
-  OBIENA\n🇹🇷 Ersu SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱
-  Menno VLOON\n🇩🇪 Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre
-  GUTTORMSEN\n🇱🇻 Valters KREISS
-SUMMARY:🏃 Men's Pole Vault Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T201800Z-boxing-WOMENS-50KG-SEMIFINAL-TUR-PHI
-DTSTAMP:20240806T201800Z
-DTSTART:20240806T201800Z
-DTEND:20240806T202900Z
-DESCRIPTION:Boxing - Women's 50kg - Semifinal
-SUMMARY:🥊 Buse Naz CAKIROGLU 🇹🇷 - 🇵🇭 Aira VILLEGAS
-LOCATION:Roland-Garros Stadium
-END:VEVENT
-BEGIN:VEVENT
 UID:20240807T130000Z-weightlifting-MENS-61KG
 DTSTAMP:20240807T130000Z
 DTSTART:20240807T130000Z
@@ -78,15 +15,6 @@ DESCRIPTION:Weightlifting - Men's 61kg\n🇮🇩 Eko IRAWAN\n🇺🇸 Hampton
   van Vinh TRINH
 SUMMARY:🏋 Men's 61kg
 LOCATION:South Paris Arena 6
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T194600Z-boxing-WOMENS-57KG-SEMIFINAL-PHI-POL
-DTSTAMP:20240807T194600Z
-DTSTART:20240807T194600Z
-DTEND:20240807T195700Z
-DESCRIPTION:Boxing - Women's 57kg - Semifinal
-SUMMARY:🥊 Nesthy PETECIO 🇵🇭 - 🇵🇱 Julia SZEREMETA
-LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T130000Z-weightlifting-WOMENS-59KG

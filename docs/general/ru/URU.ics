@@ -49,6 +49,54 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T080600Z-rowing--B-
+DTSTAMP:20240803T080600Z
+DTSTART:20240803T080600Z
+DTEND:20240803T081300Z
+DESCRIPTION:Академическая гребля - Одиночки, финал B (м)\n🇯🇵 ARAKAWA
+  Ryuta\n🇺🇾 Bruno CETRARO BERRIOLO\n🇭🇷 Damir MARTIN\n🇱🇹 Giedrius
+  BIELIAUSKAS\n🇷🇴 Mihai CHIRUTA\n🇩🇰 Sverri NIELSEN
+SUMMARY:🚣 Одиночки, финал B (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-cycling-road--
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T155000Z
+DESCRIPTION:Шоссейные велогонки - Групповая гонка (м)\n🇯🇵 ARASHIRO
+  Yukiya\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto BETTIOL\n🇪🇸 Alex
+  ARANBURU\n🇱🇺 Alex KIRSCH\n🇰🇿 Alexey LUTSENKO\n🇮🇷 Ali LABIB\n🇺🇦
+  Anatolii BUDIAK\n🇭🇺 Attila VALTER\n🇮🇪 Ben HEALY\n🇦🇺 Ben
+  O'CONNOR\n🇪🇷 Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇹🇷 Burak ABAY\n🇺🇬
+  Charles KAGIMU\n🇫🇷 Christophe LAPORTE\n🇲🇺 Christopher
+  ROUGIER-LAGANE\n🇳🇿 Corbin STRONG\n🇳🇱 Daan HOOLE\n🇨🇴 Dani
+  MARTINEZ\n🇨🇦 Derek GEE\n🇸🇮 Domen NOVAK\n🇳🇱 Dylan van BAARLE\n🇦🇷
+  Eduardo SEPULVEDA\n🇮🇹 Elia VIVIANI\n🇺🇾 Eric FAGUNDEZ\n🇷🇼 Eric
+  MANIZABAYO\n🇦🇹 Felix GROSSSCHARTNER\n🇵🇦 Franklin ARCHIBOLD\n🇬🇧 Fred
+  WRIGHT\n🇬🇷 Georgios BOUGLAS\n🇦🇸 Gleb SYRITSA\n🇮🇱 Itamar
+  EINHORN\n🇸🇪 Jakob SODERQVIST\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan
+  TRATNIK\n🇧🇪 Jasper STUYVEN\n🇪🇨 Jhonatan NARVAEZ\n🇬🇧 Josh
+  TARLING\n🇪🇸 Juan AYUSO\n🇫🇷 Julian ALAPHILIPPE\n🇰🇷 KIM Euro\n🇫🇷
+  Kevin VAUQUELIN\n🇭🇰 LAU Wan Yau Vincent\n🇨🇳 LYU Xianjing\n🇳🇿
+  Laurence PITHIE\n🇮🇹 Luca MOZZATO\n🇸🇮 Luka MEZGEC\n🇸🇰 Lukas
+  KUBIS\n🇪🇪 Madis MIHKELS\n🇩🇰 Mads PEDERSEN\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇭 Marc HIRSCHI\n🇦🇹 Marco HALLER\n🇸🇮 Matej MOHORIC\n🇨🇿
+  Mathias VACEK\n🇳🇱 Mathieu van der POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰
+  Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇦🇺 Michael
+  MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael WOODS\n🇩🇰 Mikkel
+  Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita TSVETKOV\n🇩🇪 Nils
+  POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹
+  Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺
+  Simon CLARKE\n🇳🇴 Soeren WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭
+  Stefan KUENG\n🇬🇧 Stephen WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧
+  Thomas PIDCOCK\n🇧🇪 Tiesj BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms
+  SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷 Vinicius RANGEL COSTA\n🇧🇪 Wout van
+  AERT\n🇩🇿 Yacine HAMZA\n🇰🇿 Yevgeniy FEDOROV
+SUMMARY:🚴 Групповая гонка (м)
+LOCATION:Трокадеро
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T100500Z-sailing--04-
 DTSTAMP:20240803T100500Z
 DTSTART:20240803T100500Z
@@ -116,6 +164,26 @@ DESCRIPTION:Парусный спорт - Швертбот, гонка 06 (ж)\n
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Швертбот, гонка 06 (ж)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T090000Z-athletics--
+DTSTAMP:20240804T090000Z
+DTSTART:20240804T090000Z
+DTEND:20240804T095600Z
+DESCRIPTION:Легкая атлетика - Прыжки в длину, квалификация (м)\n🇨🇺
+  Alejandro PARADA\n🇺🇿 Anvar ANVAROV\n🇨🇴 Arnovis DALMERO\n🇧🇬 Bozhidar
+  SARABOYUKOV\n🇯🇲 Carey McLEOD\n🇿🇦 Cheswill JOHNSON\n🇦🇺 Christopher
+  MITREVSKI\n🇺🇾 Emiliano LASA\n🇭🇷 Filip PRAVDICA\n🇯🇵 HASHIOKA
+  Yuki\n🇬🇧 Jacob FINCHAM-DUKES\n🇺🇸 Jarrion LAWSON\n🇺🇸 Jeremiah
+  DAVIS\n🇮🇳 Jeswin ALDRIN\n🇿🇦 Jovan van VUUREN\n🇹🇼 LIN Yu-Tang\n🇦🇺
+  Liam ADCOCK\n🇧🇷 Lucas Marcelino dos SANTOS\n🇺🇸 Malcolm CLEMONS\n🇮🇹
+  Mattia FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🏳️ Mohammad Amin
+  ALSALAMI\n🇨🇿 Petr MEINDLSCHMID\n🇨🇿 Radek JUSKA\n🇨🇳 SHI Yuhao\n🇩🇪
+  Simon BATZ\n🇨🇭 Simon EHAMMER\n🇯🇲 Tajay GAYLE\n🇸🇪 Thobias
+  MONTLER\n🇫🇷 Tom CAMPAGNE\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳
+  ZHANG Mingkun
+SUMMARY:🏃 Прыжки в длину, квалификация (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T123500Z-sailing--07-
@@ -210,6 +278,29 @@ SUMMARY:⛵ Швертбот, гонка 10 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T080500Z-athletics-1500-1-
+DTSTAMP:20240806T080500Z
+DTSTART:20240806T080500Z
+DTEND:20240806T083400Z
+DESCRIPTION:Легкая атлетика - 1500м, раунд 1 (ж)\n🇯🇲 Adelle TRACEY\n🇫🇷
+  Agathe GUILLEMOT\n🇪🇸 Agueda MARQUES\n🇵🇱 Aleksandra PLOCINSKA\n🇪🇹
+  Birke HAYLOM\n🇮🇪 Ciara MAGEEAN\n🇪🇹 Diribe WELTEJI\n🇧🇪 Elise
+  VANDERELST\n🇺🇸 Elle ST. PIERRE\n🇺🇸 Emily MACKAY\n🇪🇸 Esther
+  GUERRERO\n🇰🇪 Faith KIPYEGON\n🏳️ Farida ABAROGE\n🇮🇹 Federica del
+  BUONO\n🇯🇵 GOTO Yume\n🇬🇧 Georgia BELL\n🇦🇺 Georgia GRIFFITH\n🇪🇹
+  Gudaf TSEGAY\n🇦🇺 Jessica HULL\n🇻🇪 Joselyn Daniely BREA\n🇨🇦 Kate
+  CURRENT\n🇵🇱 Klaudia KAZIMIERSKA\n🇨🇿 Kristiina SASINEK MAKI\n🇬🇧
+  Laura MUIR\n🇦🇺 Linden HALL\n🇨🇦 Lucia STAFFORD\n🇮🇹 Ludovica
+  CAVALLI\n🇳🇿 Maia RAMSDEN\n🇺🇾 Maria Pia FERNANDEZ\n🇪🇸 Marta
+  PEREZ\n🇩🇪 Nele WESSEL\n🇰🇪 Nelly CHEPCHIRCHIR\n🇺🇸 Nikki HILTZ\n🇬🇧
+  Revee WALCOTT-NOLAN\n🇵🇹 Salome AFONSO\n🇫🇮 Sara LAPPALAINEN\n🇮🇪
+  Sarah HEALY\n🇨🇦 Simone PLOURDE\n🇮🇹 Sintayehu VISSA\n🇮🇪 Sophie
+  O'SULLIVAN\n🇰🇪 Susan Lokayo EJORE\n🇯🇵 TANAKA Nozomi\n🇱🇺 Vera
+  HOFFMANN\n🇵🇱 Weronika LIZAKOWSKA\n🇺🇬 Winnie NANYONDO
+SUMMARY:🏃 1500м, раунд 1 (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T084000Z-canoe-sprint--1000-
 DTSTAMP:20240807T084000Z
 DTSTART:20240807T084000Z
@@ -227,6 +318,15 @@ DESCRIPTION:Гребной спринт - Байдарки-одиночки 1000
   SOUTA\n🇨🇳 ZHANG Dong
 SUMMARY:🛶 Байдарки-одиночки 1000м, квалификация (м)
 LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T091100Z-taekwondo-18-49--URU-ESP
+DTSTAMP:20240807T091100Z
+DTSTART:20240807T091100Z
+DTEND:20240807T092400Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 49кг (ж)
+SUMMARY:🥋 Maria Sara GRIPPOLI GAGLIARDO 🇺🇾 - 🇪🇸 Adriana CEREZO IGLESIA
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

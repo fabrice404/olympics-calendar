@@ -22,6 +22,54 @@ SUMMARY:🥋 Нидерланды 🇳🇱 - 🇷🇸 Сербия
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T073000Z-rowing--C-
+DTSTAMP:20240803T073000Z
+DTSTART:20240803T073000Z
+DTEND:20240803T073700Z
+DESCRIPTION:Академическая гребля - Одиночки, финал C (ж)\n🇧🇷 Beatriz
+  CUNHA TAVARES CARDOSO\n🇦🇿 Diana DYMCHENKO\n🇷🇸 Jovana ARSIC\n🇲🇽
+  Kenia LECHUGA ALANIS\n🇸🇮 Nina KOSTANJSEK\n🇿🇦 Paige BADENHORST
+SUMMARY:🚣 Одиночки, финал C (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-cycling-road--
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T155000Z
+DESCRIPTION:Шоссейные велогонки - Групповая гонка (м)\n🇯🇵 ARASHIRO
+  Yukiya\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto BETTIOL\n🇪🇸 Alex
+  ARANBURU\n🇱🇺 Alex KIRSCH\n🇰🇿 Alexey LUTSENKO\n🇮🇷 Ali LABIB\n🇺🇦
+  Anatolii BUDIAK\n🇭🇺 Attila VALTER\n🇮🇪 Ben HEALY\n🇦🇺 Ben
+  O'CONNOR\n🇪🇷 Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇹🇷 Burak ABAY\n🇺🇬
+  Charles KAGIMU\n🇫🇷 Christophe LAPORTE\n🇲🇺 Christopher
+  ROUGIER-LAGANE\n🇳🇿 Corbin STRONG\n🇳🇱 Daan HOOLE\n🇨🇴 Dani
+  MARTINEZ\n🇨🇦 Derek GEE\n🇸🇮 Domen NOVAK\n🇳🇱 Dylan van BAARLE\n🇦🇷
+  Eduardo SEPULVEDA\n🇮🇹 Elia VIVIANI\n🇺🇾 Eric FAGUNDEZ\n🇷🇼 Eric
+  MANIZABAYO\n🇦🇹 Felix GROSSSCHARTNER\n🇵🇦 Franklin ARCHIBOLD\n🇬🇧 Fred
+  WRIGHT\n🇬🇷 Georgios BOUGLAS\n🇦🇸 Gleb SYRITSA\n🇮🇱 Itamar
+  EINHORN\n🇸🇪 Jakob SODERQVIST\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan
+  TRATNIK\n🇧🇪 Jasper STUYVEN\n🇪🇨 Jhonatan NARVAEZ\n🇬🇧 Josh
+  TARLING\n🇪🇸 Juan AYUSO\n🇫🇷 Julian ALAPHILIPPE\n🇰🇷 KIM Euro\n🇫🇷
+  Kevin VAUQUELIN\n🇭🇰 LAU Wan Yau Vincent\n🇨🇳 LYU Xianjing\n🇳🇿
+  Laurence PITHIE\n🇮🇹 Luca MOZZATO\n🇸🇮 Luka MEZGEC\n🇸🇰 Lukas
+  KUBIS\n🇪🇪 Madis MIHKELS\n🇩🇰 Mads PEDERSEN\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇭 Marc HIRSCHI\n🇦🇹 Marco HALLER\n🇸🇮 Matej MOHORIC\n🇨🇿
+  Mathias VACEK\n🇳🇱 Mathieu van der POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰
+  Mattias SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇦🇺 Michael
+  MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael WOODS\n🇩🇰 Mikkel
+  Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita TSVETKOV\n🇩🇪 Nils
+  POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹
+  Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺
+  Simon CLARKE\n🇳🇴 Soeren WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭
+  Stefan KUENG\n🇬🇧 Stephen WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧
+  Thomas PIDCOCK\n🇧🇪 Tiesj BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms
+  SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷 Vinicius RANGEL COSTA\n🇧🇪 Wout van
+  AERT\n🇩🇿 Yacine HAMZA\n🇰🇿 Yevgeniy FEDOROV
+SUMMARY:🚴 Групповая гонка (м)
+LOCATION:Трокадеро
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T093000Z-judo---JPN-SRB
 DTSTAMP:20240803T093000Z
 DTSTART:20240803T093000Z
@@ -47,6 +95,15 @@ DTEND:20240803T131500Z
 DESCRIPTION:Баскетбол - Групповой этап, группа А (ж)
 SUMMARY:🏀 Сербия 🇷🇸 - 🇪🇸 Испания
 LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T173000Z-water-polo--B--SRB-FRA
+DTSTAMP:20240803T173000Z
+DTSTART:20240803T173000Z
+DTEND:20240803T185500Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
+SUMMARY:🤽 Сербия 🇷🇸 - 🇫🇷 Франция
+LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T190000Z-basketball---SRB-SSD
@@ -76,6 +133,45 @@ SUMMARY:🎾 Novak DJOKOVIC 🇷🇸 - 🇪🇸 Carlos ALCARAZ
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T120000Z-cycling-road--
+DTSTAMP:20240804T120000Z
+DTSTART:20240804T120000Z
+DTEND:20240804T162400Z
+DESCRIPTION:Шоссейные велогонки - Групповая гонка (ж)\n🇵🇱 Agnieszka
+  SKALNIAK-SOJKA\n🇦🇸 Alena IVANCHENKO\n🇨🇦 Alison JACKSON\n🇧🇷 Ana
+  Vitoria MAGALHAES\n🇱🇻 Anastasia CARBONARI\n🇬🇧 Anna HENDERSON\n🇦🇹
+  Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇨🇾
+  Antri CHRISTOFOROU\n🇨🇺 Arlenis SIERRA\n🇿🇦 Ashleigh MOOLMAN
+  PASIO\n🇫🇷 Audrey CORDON RAGOT\n🇧🇫 Awa BAMOGO\n🇭🇺 Blanka VAS\n🇸🇪
+  Caroline ANDERSSON\n🇨🇱 Catalina SOTO CAMPOS\n🇩🇰 Cecilie Uttrup
+  LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇱🇺 Christine
+  MAJERUS\n🇵🇹 Daniela CAMPOS\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane
+  INGABIRE\n🇮🇹 Elena CECCHINI\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa
+  BALSAMO\n🇮🇹 Elisa LONGO BORGHINI\n🇨🇭 Elise CHABBEY\n🇬🇧 Elizabeth
+  DEIGNAN\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇳🇬 Ese
+  UKPESERAYE\n🇸🇮 Eugenia BUJAK\n🏳️ Eyeru GEBRU\n🇦🇫 Fariba
+  HASHIMI\n🇩🇪 Franziska KOCH\n🇦🇺 Grace BROWN\n🇦🇸 Hanna TSERAKH\n🇳🇴
+  Ingvild GASKJENN\n🇷🇸 Jelena ERIC\n🇨🇿 Julia KOPECKY\n🇧🇪 Julie van de
+  VELDE\n🇫🇷 Juliette LABOUS\n🇧🇪 Justine GHEKIERE\n🇵🇱 Katarzyna
+  NIEWIADOMA\n🇳🇿 Kim CADZOW\n🇲🇺 Kimberley le COURT de BILLOT\n🇺🇸
+  Kristen FAULKNER\n🇭🇰 LEE Sze Wing\n🇦🇺 Lauretta HANSON\n🇩🇪 Liane
+  LIPPERT\n🇨🇭 Linda ZANETTI\n🇳🇱 Lorena WIEBES\n🇧🇪 Lotte KOPECKY\n🇲🇽
+  Marcela PRIETO\n🇪🇸 Margarita Victoria GARCIA\n🇧🇪 Margot
+  VANPACHTENBEKE\n🇳🇱 Marianne VOS\n🇵🇱 Marta LACH\n🇳🇴 Marte Berg
+  EDSETH\n🇮🇪 Megan ARMITAGE\n🇨🇷 Milagro MENA SOLANO\n🇪🇸 Mireia BENITO
+  PELLICER\n🇩🇿 Nesrine HOUILI\n🇳🇿 Niamh FISHER\n🇨🇭 Noemi RUEEGG\n🇸🇰
+  Nora JENCUSOVA\n🇲🇾 Nur Aisyah MOHAMAD ZUBIR\n🇺🇿 Olga
+  ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇨🇴 Paula PATINO\n🇬🇧 Pfeiffer
+  GEORGI\n🇹🇭 Phetdarin SOMRAT\n🇱🇹 Rasa LELEIVYTE\n🇩🇰 Rebecca
+  KOERNER\n🇮🇱 Rotem GAFINOVITZ\n🇦🇺 Ruby ROSEMAN-GANNON\n🇰🇷 SONG
+  Minji\n🇦🇪 Safia AL SAYEGH\n🇮🇹 Silvia PERSICO\n🇨🇳 TANG Xin\n🇦🇸
+  Tamara DRONOVA\n🇻🇳 Thi That NGUYEN\n🇿🇦 Tiffany KEEP\n🇸🇮 Urska
+  PINTAR\n🇳🇦 Vera LOOSER\n🇫🇷 Victoire BERTEAU\n🇯🇵 YONAMINE Eri\n🇺🇿
+  Yanina KUSKOVA\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 Групповая гонка (ж)
+LOCATION:Трокадеро
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T150000Z-volleyball--A--CHN-SRB
 DTSTAMP:20240804T150000Z
 DTSTART:20240804T150000Z
@@ -94,6 +190,20 @@ SUMMARY:🏀 Литва 🇱🇹 - 🇷🇸 Сербия
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T175500Z-athletics--
+DTSTAMP:20240804T175500Z
+DTSTART:20240804T175500Z
+DTEND:20240804T194000Z
+DESCRIPTION:Легкая атлетика - Прыжки в высоту, финал (ж)\n🇷🇸 Angelina
+  TOPIC\n🇹🇷 Buse SAVASKAN\n🇩🇪 Christina HONSEL\n🇦🇺 Eleanor
+  PATTERSON\n🇨🇾 Elena KULICHENKO\n🇺🇦 Iryna GERASHCHENKO\n🇫🇷 Nawal
+  MENIKER\n🇦🇺 Nicola OLYSLAGERS\n🇺🇿 Safina SADULLAYEVA\n🇬🇷 Tatiana
+  GUSIN\n🇧🇷 Valdileia MARTINS\n🇺🇸 Vashti CUNNINGHAM\n🇺🇦 Yaroslava
+  MAHUCHIKH
+SUMMARY:🏃 Прыжки в высоту, финал (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T200500Z-3x3-basketball---SRB-FRA
 DTSTAMP:20240804T200500Z
 DTSTART:20240804T200500Z
@@ -101,6 +211,24 @@ DTEND:20240804T202500Z
 DESCRIPTION:Баскетбол 3х3 - Матчи плей-ин (м)
 SUMMARY:🏀 Сербия 🇷🇸 - 🇫🇷 Франция
 LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T100000Z-water-polo--B--HUN-SRB
+DTSTAMP:20240805T100000Z
+DTSTART:20240805T100000Z
+DTEND:20240805T112500Z
+DESCRIPTION:Водное поло - Групповой этап - Группа B (м)
+SUMMARY:🤽 Венгрия 🇭🇺 - 🇷🇸 Сербия
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T130000Z-wrestling--60--SRB-TUR
+DTSTAMP:20240805T130000Z
+DTSTART:20240805T130000Z
+DTEND:20240805T130700Z
+DESCRIPTION:Борьба - Греко-римская, 60кг, квалификация (м)
+SUMMARY:🤼 Georgij TIBILOV 🇷🇸 - 🇹🇷 Enes BASAR
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T073000Z-canoe-sprint--500-
@@ -147,6 +275,25 @@ SUMMARY:🛶 Байдарки-четверки 500м, квалификация (
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T091500Z-athletics--
+DTSTAMP:20240806T091500Z
+DTSTART:20240806T091500Z
+DTEND:20240806T102300Z
+DESCRIPTION:Легкая атлетика - Прыжки в длину, квалификация (ж)\n🇯🇲
+  Ackelia SMITH\n🇵🇹 Agate de SOUSA\n🇷🇴 Alina ROTARU-KOTTMANN\n🇦🇺
+  Brooke BUSCHKUEHL\n🇯🇲 Chanice PORTER\n🇧🇷 Eliane MARTINS\n🇳🇬 Ese
+  BRUME\n🇪🇬 Esraa OWIS\n🇪🇸 Fatima DIAME\n🇯🇵 HATA Sumire\n🇫🇷 Hilary
+  KPATCHA\n🇷🇸 Ivana SPANOVIC\n🇺🇸 Jasmine MOORE\n🇮🇹 Larissa
+  IAPICHINO\n🇩🇪 Laura Raquel MUELLER\n🇧🇷 Lissandra Maysa CAMPOS\n🇩🇪
+  Malaika MIHAMBO\n🇧🇫 Marthe KOALA\n🇩🇪 Mikaelle ASSANI\n🇷🇸 Milica
+  GARDASEVIC\n🇺🇸 Monae' NICHOLS\n🇨🇴 Natalia LINARES\n🇵🇱 Nikola
+  HOROWSKA\n🇳🇱 Pauline HONDEMA\n🇭🇺 Petra BANHIDI-FARKAS\n🇧🇬 Plamena
+  MITKOVA\n🇳🇬 Prestina Oluchi OCHONOGOR\n🇳🇬 Ruth USORO\n🇺🇸 Tara
+  DAVIS-WOODHALL\n🇪🇸 Tessy EBOSELE\n🇨🇳 XIONG Shiqi
+SUMMARY:🏃 Прыжки в длину, квалификация (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T093000Z-canoe-sprint--500-
 DTSTAMP:20240806T093000Z
 DTSTART:20240806T093000Z
@@ -169,6 +316,15 @@ SUMMARY:🛶 Байдарки-двойки 500м, квалификация (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T095600Z-wrestling--97-18--SRB-EGY
+DTSTAMP:20240806T095600Z
+DTSTART:20240806T095600Z
+DTEND:20240806T100300Z
+DESCRIPTION:Борьба - Греко-римская, 97кг, 1/8 финала (м)
+SUMMARY:🤼 Mihail KAJAIA 🇷🇸 - 🇪🇬 Mohamed GABR
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T123000Z-basketball-14--SRB-AUS
 DTSTAMP:20240806T123000Z
 DTSTART:20240806T123000Z
@@ -185,6 +341,15 @@ DTEND:20240806T211500Z
 DESCRIPTION:Волейбол - 1/4 финала (ж)
 SUMMARY:🏐 Италия 🇮🇹 - 🇷🇸 Сербия
 LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T070000Z-taekwondo--58--SEN-SRB
+DTSTAMP:20240807T070000Z
+DTSTART:20240807T070000Z
+DTEND:20240807T070900Z
+DESCRIPTION:Тхэквондо - Квалификационный поединок, до 58кг (м)
+SUMMARY:🥋 Bocar DIOP 🇸🇳 - 🇷🇸 Lev KORNEEV
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T073000Z-canoe-sprint--500-
@@ -216,6 +381,33 @@ DTEND:20240807T104500Z
 DESCRIPTION:Баскетбол - 1/4 финала (ж)
 SUMMARY:🏀 Сербия 🇷🇸 - 🇦🇺 Австралия
 LOCATION:Арена «Берси»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T133500Z-water-polo---GRE-SRB
+DTSTAMP:20240807T133500Z
+DTSTART:20240807T133500Z
+DTEND:20240807T150000Z
+DESCRIPTION:Водное поло - Четвертьфинал (м)
+SUMMARY:🤽 Греция 🇬🇷 - 🇷🇸 Сербия
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T092400Z-taekwondo-18-80--SRB-BUR
+DTSTAMP:20240809T092400Z
+DTSTART:20240809T092400Z
+DTEND:20240809T093600Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 80кг (м)
+SUMMARY:🥋 Stefan TAKOV 🇷🇸 - 🇧🇫 Faysal SAWADOGO
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T100000Z-taekwondo-18-67--SRB-UZB
+DTSTAMP:20240809T100000Z
+DTSTART:20240809T100000Z
+DTEND:20240809T101300Z
+DESCRIPTION:Тхэквондо - 1/8 финала, до 67кг (ж)
+SUMMARY:🥋 Aleksandra PERISIC 🇷🇸 - 🇺🇿 Ozoda SOBIRJONOVA
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

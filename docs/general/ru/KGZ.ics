@@ -13,6 +13,41 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T090000Z-swimming-50-
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T092700Z
+DESCRIPTION:Плавание - 50м вольным стилем, квалификация (ж)\n🇳🇬 Adaku
+  NWANDU\n🇹🇬 Adele Sodalo Agnes GAITOU\n🇲🇱 Aichata DIABATE\n🇲🇻
+  Aishath Ulya SHAIG\n🇫🇯 Anahira McCUTCHEON\n🇪🇨 Anicka DELGADO\n🇬🇧
+  Anna HOPKIN\n🇲🇬 Antsa RABEJAONA\n🇰🇭 Apsara SAKBUN\n🇫🇷 Beryl
+  GASTALDELLO\n🇦🇼 Chloe FARRO\n🇪🇷 Christina RACH\n🇮🇪 Danielle
+  HILL\n🇨🇩 Divine MIANSADI\n🇬🇳 Djenabou Jolie BAH\n🇹🇯 Ekaterina
+  BORDACHYOVA\n🇰🇬 Elizaveta PECHERSKIKH\n🇧🇪 Florine GASPARD\n🇵🇬
+  Georgia-Leigh VELE\n🇨🇲 Grace Manuela NGUELO'O MABEU\n🇺🇸 Gretchen
+  WALSH\n🇽🇰 Hana BEIQI\n🇧🇳 Hayley WONG\n🇧🇫 Iman KOURAOGO\n🇹🇱 Imelda
+  XIMENES BELO\n🇧🇯 Ionnah Eliane DOUILLET\n🇸🇧 Isabella MILLAR\n🇭🇷
+  Jana PAVALIC\n🇩🇲 Jasmine SCHOFIELD\n🇹🇭 Jenjira SRISA - ARD\n🇬🇭
+  Joselle MENSAH\n🇲🇪 Jovana KULJACA\n🇩🇰 Julie Kepp JENSEN\n🇸🇷 Kaelyn
+  Ciara Suryanti DJOPARTO\n🇼🇸 Kaiya BROWN\n🇵🇱 Katarzyna WASICK\n🇲🇭
+  Kayla HEPLER\n🇻🇨 Kennice Aphenie GREENE\n🇫🇲 Kestra KIHLENG\n🇸🇨
+  Khema ELIZABETH\n🇳🇱 Kim BUSCH\n🇵🇱 Kornelia FIEDKIEWICZ\n🇷🇼 Lidwine
+  UMUHOZA UWASE\n🇪🇹 Lina Alemayehu SELO\n🇻🇺 Loane RUSSET\n🇧🇮 Lois
+  Eliora IRISHURA\n🇰🇲 Maesha SAADI\n🇰🇪 Maria BRUNLEHNER\n🇧🇴 Maria
+  Jose RIBERA\n🇦🇿 Mariam SHEIKHALIZADEHKHANGHAH\n🇭🇹 Mayah
+  CHOULOUTE\n🇦🇺 Meg HARRIS\n🇫🇷 Melanie HENIQUE\n🇿🇲 Mia PHIRI\n🇸🇪
+  Michelle COLEMAN\n🇧🇩 Mst Sonia KHATUN\n🇩🇯 Naima-Zahra AMISON\n🇸🇮
+  Neza KLANCAR\n🇹🇴 Noelani Malia DAY\n🇬🇦 Noelie Annette LACOUR\n🇸🇱
+  Olamide SAM\n🇭🇺 Petra SENANSZKY\n🇧🇸 Rhanishka GIBBS\n🇯🇲 Sabrina
+  LYN\n🇳🇪 Salima AHMADOU YOUSSOUFOU\n🇮🇹 Sara CURTIS\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Simone MANUEL\n🇹🇿 Sophia
+  LATIFF\n🇲🇼 Tayamika CHANGANAMUNO\n🇨🇦 Taylor RUCK\n🇬🇷 Theodora
+  DRAKOU\n🇨🇫 Tracy Marine ANDET\n🇳🇱 Valerie van ROON\n🇨🇬 Vanessa
+  BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 50м вольным стилем, квалификация (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T180000Z-boxing--57--USA-KGZ
 DTSTAMP:20240803T180000Z
 DTSTART:20240803T180000Z
@@ -20,6 +55,97 @@ DTEND:20240803T181100Z
 DESCRIPTION:Бокс - Четвертьфинал, до 57кг (м)
 SUMMARY:🥊 Jahmal HARVEY 🇺🇸 - 🇰🇬 Munarbek SEIITBEK UULU
 LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T133500Z-wrestling--60-18--KGZ-KAZ
+DTSTAMP:20240805T133500Z
+DTSTART:20240805T133500Z
+DTEND:20240805T134200Z
+DESCRIPTION:Борьба - Греко-римская, 60кг, 1/8 финала (м)
+SUMMARY:🤼 Zholaman SHARSHENBEKOV 🇰🇬 - 🇰🇿 Aidos SULTANGALI
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T134900Z-wrestling--68-18--KGZ-MGL
+DTSTAMP:20240805T134900Z
+DTSTART:20240805T134900Z
+DTEND:20240805T135600Z
+DESCRIPTION:Борьба - Вольная борьба, 68кг, 1/8 финала (ж)
+SUMMARY:🤼 Meerim ZHUMANAZAROVA 🇰🇬 - 🇲🇳 Delgermaa ENKHSAIKHAN
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T141700Z-wrestling--68-14--JPN-KGZ
+DTSTAMP:20240805T141700Z
+DTSTART:20240805T141700Z
+DTEND:20240805T142400Z
+DESCRIPTION:Борьба - Вольная борьба, 68кг, 1/4 финала (ж)
+SUMMARY:🤼 OZAKI Nonoka 🇯🇵 - 🇰🇬 Meerim ZHUMANAZAROVA
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T141700Z-wrestling--60-14--KGZ-ROU
+DTSTAMP:20240805T141700Z
+DTSTART:20240805T141700Z
+DTEND:20240805T142400Z
+DESCRIPTION:Борьба - Греко-римская, 60кг, 1/4 финала (м)
+SUMMARY:🤼 Zholaman SHARSHENBEKOV 🇰🇬 - 🇷🇴 Razvan ARNAUT
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T190000Z-wrestling--60--KGZ-JPN
+DTSTAMP:20240805T190000Z
+DTSTART:20240805T190000Z
+DTEND:20240805T190700Z
+DESCRIPTION:Борьба - Греко-римская, 60кг, полуфинал (м)
+SUMMARY:🤼 Zholaman SHARSHENBEKOV 🇰🇬 - 🇯🇵 FUMITA Kenichiro
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T193500Z-wrestling--68--NGR-KGZ
+DTSTAMP:20240805T193500Z
+DTSTART:20240805T193500Z
+DTEND:20240805T194200Z
+DESCRIPTION:Борьба - Вольная борьба, 68кг, полуфинал (ж)
+SUMMARY:🤼 Blessing OBORUDUDU 🇳🇬 - 🇰🇬 Meerim ZHUMANAZAROVA
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T094200Z-wrestling--77-18--KGZ-USA
+DTSTAMP:20240806T094200Z
+DTSTART:20240806T094200Z
+DTEND:20240806T094900Z
+DESCRIPTION:Борьба - Греко-римская, 77кг, 1/8 финала (м)
+SUMMARY:🤼 Akzhol MAKHMUDOV 🇰🇬 - 🇺🇸 Kamal Ameer BEY
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T094900Z-wrestling--97-18--KGZ-LTU
+DTSTAMP:20240806T094900Z
+DTSTART:20240806T094900Z
+DTEND:20240806T095600Z
+DESCRIPTION:Борьба - Греко-римская, 97кг, 1/8 финала (м)
+SUMMARY:🤼 Uzur DZHUZUPBEKOV 🇰🇬 - 🇱🇹 Mindaugas VENCKAITIS
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T165700Z-wrestling--60-
+DTSTAMP:20240806T165700Z
+DTSTART:20240806T165700Z
+DTEND:20240806T170400Z
+DESCRIPTION:Борьба - Греко-римская, 60кг, поединок за бронзу (м)\n🇰🇬
+  Zholaman SHARSHENBEKOV
+SUMMARY:🤼 Греко-римская, 60кг, поединок за бронзу (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T175300Z-wrestling--68--USA-KGZ
+DTSTAMP:20240806T175300Z
+DTSTART:20240806T175300Z
+DTEND:20240806T180000Z
+DESCRIPTION:Борьба - Вольная борьба, 68кг, финал (ж)
+SUMMARY:🤼 Amit ELOR 🇺🇸 - 🇰🇬 Meerim ZHUMANAZAROVA
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T194600Z-boxing--57--KGZ-BUL
