@@ -30,4 +30,13 @@ DESCRIPTION:足球 - 女子半决赛
 SUMMARY:⚽ 巴西 🇧🇷 - 🇪🇸 西班牙
 LOCATION:马赛体育场
 END:VEVENT
+BEGIN:VEVENT
+UID:20240810T150000Z-football--BRA-USA
+DTSTAMP:20240810T150000Z
+DTSTART:20240810T150000Z
+DTEND:20240810T164500Z
+DESCRIPTION:足球 - 女子金牌赛
+SUMMARY:⚽ 巴西 🇧🇷 - 🇺🇸 美国
+LOCATION:王子公园
+END:VEVENT
 END:VCALENDAR

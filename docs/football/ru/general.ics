@@ -211,12 +211,12 @@ SUMMARY:⚽ Египет 🇪🇬 - 🇲🇦 Марокко
 LOCATION:Стадион «Божуар»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T130000Z-football--3-
+UID:20240809T130000Z-football--3--ESP-GER
 DTSTAMP:20240809T130000Z
 DTSTART:20240809T130000Z
 DTEND:20240809T144500Z
-DESCRIPTION:Футбол - Матч за 3-е место (ж)\n🇩🇪 Германия
-SUMMARY:⚽ Матч за 3-е место (ж)
+DESCRIPTION:Футбол - Матч за 3-е место (ж)
+SUMMARY:⚽ Испания 🇪🇸 - 🇩🇪 Германия
 LOCATION:Стадион «Лион»
 END:VEVENT
 BEGIN:VEVENT
@@ -229,12 +229,12 @@ SUMMARY:⚽ Франция 🇫🇷 - 🇪🇸 Испания
 LOCATION:«Парк-де-Пренс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T150000Z-football--
+UID:20240810T150000Z-football---BRA-USA
 DTSTAMP:20240810T150000Z
 DTSTART:20240810T150000Z
 DTEND:20240810T164500Z
-DESCRIPTION:Футбол - Финал (ж)\n🇺🇸 США
-SUMMARY:⚽ Финал (ж)
+DESCRIPTION:Футбол - Финал (ж)
+SUMMARY:⚽ Бразилия 🇧🇷 - 🇺🇸 США
 LOCATION:«Парк-де-Пренс»
 END:VEVENT
 END:VCALENDAR

@@ -39,4 +39,13 @@ DESCRIPTION:Баскетбол - 1/4 финала (ж)
 SUMMARY:🏀 Нигерия 🇳🇬 - 🇺🇸 США
 LOCATION:Арена «Берси»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T190000Z-basketball-12--USA-SRB
+DTSTAMP:20240808T190000Z
+DTSTART:20240808T190000Z
+DTEND:20240808T204500Z
+DESCRIPTION:Баскетбол - 1/2 финала (м)
+SUMMARY:🏀 США 🇺🇸 - 🇷🇸 Сербия
+LOCATION:Арена «Берси»
+END:VEVENT
 END:VCALENDAR
