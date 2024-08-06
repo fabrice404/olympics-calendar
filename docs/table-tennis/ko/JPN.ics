@@ -48,4 +48,13 @@ DESCRIPTION:탁구 - 여자 단체 8강
 SUMMARY:🏓 태국 🇹🇭 - 🇯🇵 일본
 LOCATION:사우스 파리 아레나 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T180000Z-table-tennis--
+DTSTAMP:20240807T180000Z
+DTSTART:20240807T180000Z
+DTEND:20240807T210000Z
+DESCRIPTION:탁구 - 남자 단체 준결승\n🇯🇵 일본
+SUMMARY:🏓 남자 단체 준결승
+LOCATION:사우스 파리 아레나 4
+END:VEVENT
 END:VCALENDAR

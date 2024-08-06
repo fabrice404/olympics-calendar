@@ -48,4 +48,14 @@ DESCRIPTION:Настольный теннис - 1/4 финала, командн
 SUMMARY:🏓 Китай 🇨🇳 - 🇰🇷 Южная Корея
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T130000Z-table-tennis--
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T160000Z
+DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (ж)\n🇰🇷 Южная
+  Корея
+SUMMARY:🏓 Полуфинал, командный разряд (ж)
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
 END:VCALENDAR
