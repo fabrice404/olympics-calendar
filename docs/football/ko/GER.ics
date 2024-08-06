@@ -30,4 +30,13 @@ DESCRIPTION:축구 - 여자 준결승
 SUMMARY:⚽ 미국 🇺🇸 - 🇩🇪 독일
 LOCATION:리옹 스타디움
 END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-football--
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T144500Z
+DESCRIPTION:축구 - 여자 동메달 결정전\n🇩🇪 독일
+SUMMARY:⚽ 여자 동메달 결정전
+LOCATION:리옹 스타디움
+END:VEVENT
 END:VCALENDAR
