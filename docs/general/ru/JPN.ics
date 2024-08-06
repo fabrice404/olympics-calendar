@@ -1810,6 +1810,15 @@ SUMMARY:🚴 Командная гонка преследования, квал�
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T161500Z-wrestling--77-
+DTSTAMP:20240806T161500Z
+DTSTART:20240806T161500Z
+DTEND:20240806T162200Z
+DESCRIPTION:Борьба - Греко-римская, 77кг, полуфинал (м)\n🇯🇵 KUSAKA Nao
+SUMMARY:🤼 Греко-римская, 77кг, полуфинал (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T165900Z-cycling-track--1-
 DTSTAMP:20240806T165900Z
 DTSTART:20240806T165900Z
@@ -1889,6 +1898,21 @@ DESCRIPTION:Гольф - Личный зачет, раунд 1 (ж)\n🇮🇳 Ad
   YIN Ruoning
 SUMMARY:⛳ Личный зачет, раунд 1 (ж)
 LOCATION:Центр «Гольф-Насьональ»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T080000Z-diving--3-
+DTSTAMP:20240807T080000Z
+DTSTART:20240807T080000Z
+DTEND:20240807T095400Z
+DESCRIPTION:Прыжки в воду - Трамплин 3м, полуфинал (м)\n🇺🇸 Andrew
+  CAPOBIANCO\n🇺🇸 Carson TYLER\n🇫🇷 Gwendal BISCH\n🇬🇧 Jack
+  LAUGHER\n🇩🇴 Jonathan RUVALCABA\n🇬🇧 Jordan HOULDEN\n🇫🇷 Jules
+  BOUYER\n🇦🇺 Kurtis MATHEWS\n🇮🇹 Lorenzo MARSAGLIA\n🇨🇴 Luis Felipe
+  URIBE BERMUDEZ\n🇩🇪 Moritz WESEMANN\n🇲🇽 Osmar OLVERA IBARRA\n🇯🇵
+  SAKAI Sho\n🇨🇳 WANG Zongyuan\n🇰🇷 WOO Haram\n🇨🇳 XIE Siyi\n🇰🇷 YI
+  Jaegyeong\n🇯🇲 Yona KNIGHT-WISDOM
+SUMMARY:🏊 Трамплин 3м, полуфинал (м)
+LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T080000Z-sport-climbing--
