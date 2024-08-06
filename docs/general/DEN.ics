@@ -1042,7 +1042,7 @@ BEGIN:VEVENT
 UID:20240806T073000Z-handball-WOMENS-QUARTERFINAL-DEN-NED
 DTSTAMP:20240806T073000Z
 DTSTART:20240806T073000Z
-DTEND:20240806T093000Z
+DTEND:20240806T090000Z
 DESCRIPTION:Handball - Women's Quarterfinal
 SUMMARY:🤾 DEN 🇩🇰 - 🇳🇱 NED
 LOCATION:Pierre Mauroy Stadium
@@ -1100,6 +1100,24 @@ DESCRIPTION:Sailing - Mixed Multihull - Race 11\n🇧🇪
   WILKINSON/DAWSON
 SUMMARY:⛵ Mixed Multihull - Race 11
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T111000Z-canoe-sprint-MENS-KAYAK-FOUR-500M-QUARTERFINALS
+DTSTAMP:20240806T111000Z
+DTSTART:20240806T111000Z
+DTEND:20240806T111700Z
+DESCRIPTION:Canoe Sprint - Men's Kayak Four 500m Quarterfinals\n🇱🇹
+  Arturas SEJA\n🇨🇳 BU Tingkai\n🇨🇳 DONG Yi\n🇺🇦 Dmytro DANYLENKO\n🇳🇿
+  Grant CLANCY\n🇳🇿 Hamish LEGARTH\n🇱🇹 Ignas NAVAKAUSKAS\n🇺🇦 Ihor
+  TRUNOV\n🇺🇦 Ivan SEMYKIN\n🇦🇺 Jackson COLLINS\n🇳🇿 Kurtis IMRIE\n🇩🇰
+  Lasse Bro MADSEN\n🇨🇦 Laurent LAVIGNE\n🇩🇰 Magnus SIBBERSEN\n🇳🇿 Max
+  BROWN\n🇱🇹 Mindaugas MALDONIS\n🇩🇰 Morten GRAVERSEN\n🇨🇦 Nicholas
+  MATVEEV\n🇦🇺 Noah HAVARD\n🇺🇦 Oleh KUKHARYK\n🇦🇺 Pierre van der
+  WESTHUYZEN\n🇨🇦 Pierre-Luc POULIN\n🇦🇺 Riley FITZSIMMONS\n🇨🇦 Simon
+  McTAVISH\n🇱🇹 Simonas MALDONIS\n🇩🇰 Victor Gairy AASMUL\n🇨🇳 WANG
+  Congkang\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 Men's Kayak Four 500m Quarterfinals
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T114900Z-sailing-MIXED-MULTIHULL-RACE-12
