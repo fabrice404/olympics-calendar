@@ -1642,6 +1642,15 @@ SUMMARY:⛵ Многокорпусник, гонка 10 (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T101000Z-wrestling--77-14--JPN-UZB
+DTSTAMP:20240806T101000Z
+DTSTART:20240806T101000Z
+DTEND:20240806T101700Z
+DESCRIPTION:Борьба - Греко-римская, 77кг, 1/4 финала (м)
+SUMMARY:🤼 KUSAKA Nao 🇯🇵 - 🇺🇿 Aram VARDANYAN
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T101500Z-sailing--07-
 DTSTAMP:20240806T101500Z
 DTSTART:20240806T101500Z
@@ -1835,6 +1844,15 @@ DESCRIPTION:Синхронное плавание - Группы, произво
   Китай\n🇲🇽 Мексика\n🇺🇸 США\n🇫🇷 Франция\n🇯🇵 Япония
 SUMMARY:🏊 Группы, произвольная программа
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T174600Z-wrestling--68--JPN-NGR
+DTSTAMP:20240806T174600Z
+DTSTART:20240806T174600Z
+DTEND:20240806T175300Z
+DESCRIPTION:Борьба - Вольная борьба, 68кг, поединок за бронзу (ж)
+SUMMARY:🤼 OZAKI Nonoka 🇯🇵 - 🇳🇬 Blessing OBORUDUDU
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T180000Z-table-tennis-14--THA-JPN

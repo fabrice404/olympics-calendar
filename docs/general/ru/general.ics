@@ -6982,6 +6982,15 @@ SUMMARY:⛵ Многокорпусник, гонка 10 (микст)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T101000Z-wrestling--77-14--JPN-UZB
+DTSTAMP:20240806T101000Z
+DTSTART:20240806T101000Z
+DTEND:20240806T101700Z
+DESCRIPTION:Борьба - Греко-римская, 77кг, 1/4 финала (м)
+SUMMARY:🤼 KUSAKA Nao 🇯🇵 - 🇺🇿 Aram VARDANYAN
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T101000Z-wrestling--50-14-
 DTSTAMP:20240806T101000Z
 DTSTART:20240806T101000Z
@@ -6991,20 +7000,12 @@ SUMMARY:🤼 Вольная борьба, 50кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T101000Z-wrestling--77-14-
-DTSTAMP:20240806T101000Z
-DTSTART:20240806T101000Z
-DTEND:20240806T101700Z
-DESCRIPTION:Борьба - Греко-римская, 77кг, 1/4 финала (м)
-SUMMARY:🤼 Греко-римская, 77кг, 1/4 финала (м)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T101000Z-wrestling--97-14-
 DTSTAMP:20240806T101000Z
 DTSTART:20240806T101000Z
 DTEND:20240806T101700Z
-DESCRIPTION:Борьба - Греко-римская, 97кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Греко-римская, 97кг, 1/4 финала (м)\n🇦🇲 Artur
+  ALEKSANYAN
 SUMMARY:🤼 Греко-римская, 97кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -7850,13 +7851,12 @@ SUMMARY:🤼 Buse CAVUSOGLU TOSUN 🇹🇷 - 🇰🇵 PAK Sol Gum
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T174600Z-wrestling--68-
+UID:20240806T174600Z-wrestling--68--JPN-NGR
 DTSTAMP:20240806T174600Z
 DTSTART:20240806T174600Z
 DTEND:20240806T175300Z
-DESCRIPTION:Борьба - Вольная борьба, 68кг, поединок за бронзу (ж)\n🇳🇬
-  Blessing OBORUDUDU
-SUMMARY:🤼 Вольная борьба, 68кг, поединок за бронзу (ж)
+DESCRIPTION:Борьба - Вольная борьба, 68кг, поединок за бронзу (ж)
+SUMMARY:🤼 OZAKI Nonoka 🇯🇵 - 🇳🇬 Blessing OBORUDUDU
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
