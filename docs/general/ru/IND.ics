@@ -880,13 +880,12 @@ SUMMARY:⛳ Личный зачет, раунд 1 (ж)
 LOCATION:Центр «Гольф-Насьональ»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T080000Z-table-tennis-14-
+UID:20240807T080000Z-table-tennis-14--IND-GER
 DTSTAMP:20240807T080000Z
 DTSTART:20240807T080000Z
 DTEND:20240807T110000Z
-DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)\n🇮🇳
-  Индия
-SUMMARY:🏓 1/4 финала, командный разряд (ж)
+DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)
+SUMMARY:🏓 Индия 🇮🇳 - 🇩🇪 Германия
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
@@ -929,6 +928,15 @@ DESCRIPTION:Легкая атлетика - 100м с/б, раунд 1 (ж)\n🇯
   Yoveinny MOTA
 SUMMARY:🏃 100м с/б, раунд 1 (ж)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T093500Z-wrestling--53-18--TUR-IND
+DTSTAMP:20240807T093500Z
+DTSTART:20240807T093500Z
+DTEND:20240807T094200Z
+DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/8 финала (ж)
+SUMMARY:🤼 Zeynep YETGIL 🇹🇷 - 🇮🇳 Antim ANTIM
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T171500Z-athletics--

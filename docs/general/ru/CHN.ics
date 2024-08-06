@@ -2946,6 +2946,15 @@ SUMMARY:🛶 Байдарки-одиночки 1000м, квалификация 
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T093500Z-wrestling--87-18--CHN-UKR
+DTSTAMP:20240807T093500Z
+DTSTART:20240807T093500Z
+DTEND:20240807T094200Z
+DESCRIPTION:Борьба - Греко-римская, 87кг, 1/8 финала (м)
+SUMMARY:🤼 QIAN Haitao 🇨🇳 - 🇺🇦 Zhan BELENIUK
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T094000Z-canoe-sprint--1000-
 DTSTAMP:20240807T094000Z
 DTSTART:20240807T094000Z
@@ -2962,6 +2971,15 @@ DESCRIPTION:Гребной спринт - Каноэ-одиночки 1000м, к
   PETROV
 SUMMARY:🛶 Каноэ-одиночки 1000м, квалификация (м)
 LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T095600Z-wrestling--53-18--CHN-GUM
+DTSTAMP:20240807T095600Z
+DTSTART:20240807T095600Z
+DTEND:20240807T100300Z
+DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/8 финала (ж)
+SUMMARY:🤼 PANG Qianyu 🇨🇳 - 🇬🇺 Mia Lahnee Ramos AQUINO
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T100000Z-taekwondo-18-49--EOR-CHN
