@@ -697,22 +697,22 @@ SUMMARY:🤼 Amin KAVIYANINEJAD 🇮🇷 - 🇦🇲 Malkhas AMOYAN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T101700Z-wrestling--97-14--FIN-CUB
+DTSTAMP:20240806T101700Z
+DTSTART:20240806T101700Z
+DTEND:20240806T102400Z
+DESCRIPTION:Борьба - Греко-римская, 97кг, 1/4 финала (м)
+SUMMARY:🤼 Arvi Martin SAVOLAINEN 🇫🇮 - 🇨🇺 Gabriel Alejandro ROSILLO KIN
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T101700Z-wrestling--50-14-
 DTSTAMP:20240806T101700Z
 DTSTART:20240806T101700Z
 DTEND:20240806T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 50кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 50кг, 1/4 финала (ж)\n🇱🇹 Gabija
+  DILYTE
 SUMMARY:🤼 Вольная борьба, 50кг, 1/4 финала (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T101700Z-wrestling--97-14-
-DTSTAMP:20240806T101700Z
-DTSTART:20240806T101700Z
-DTEND:20240806T102400Z
-DESCRIPTION:Борьба - Греко-римская, 97кг, 1/4 финала (м)\n🇫🇮 Arvi Martin
-  SAVOLAINEN
-SUMMARY:🤼 Греко-римская, 97кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -729,7 +729,8 @@ UID:20240806T102400Z-wrestling--77-14-
 DTSTAMP:20240806T102400Z
 DTSTART:20240806T102400Z
 DTEND:20240806T103100Z
-DESCRIPTION:Борьба - Греко-римская, 77кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Греко-римская, 77кг, 1/4 финала (м)\n🇰🇬 Akzhol
+  MAKHMUDOV
 SUMMARY:🤼 Греко-римская, 77кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT

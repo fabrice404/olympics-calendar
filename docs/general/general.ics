@@ -6797,16 +6797,6 @@ SUMMARY:🤼 Yusneylis GUZMAN LOPEZ 🇨🇺 - 🇹🇷 Evin DEMIRHAN YAVUZ
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T094100Z-equestrian-JUMPING-INDIVIDUAL-FINAL-JUMP-OFF
-DTSTAMP:20240806T094100Z
-DTSTART:20240806T094100Z
-DTEND:20240806T095100Z
-DESCRIPTION:Equestrian - Jumping Individual Final Jump-Off\n🇩🇪 Christian
-  KUKUK\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Steve GUERDAT
-SUMMARY:🏇 Jumping Individual Final Jump-Off
-LOCATION:Château de Versailles
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T094200Z-wrestling-MENS-GRECO-ROMAN-77KG-18-FINAL-KGZ-USA
 DTSTAMP:20240806T094200Z
 DTSTART:20240806T094200Z
@@ -6873,6 +6863,16 @@ DESCRIPTION:Athletics - Men's Javelin Throw Qualification - Group B\n🇬🇩
   DEHNING\n🇪🇬 Moustafa MAHMOUD\n🇮🇳 Neeraj CHOPRA\n🇧🇪 Timothy HERMAN
 SUMMARY:🏃 Men's Javelin Throw Qualification - Group B
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T095300Z-equestrian-JUMPING-INDIVIDUAL-FINAL-JUMP-OFF
+DTSTAMP:20240806T095300Z
+DTSTART:20240806T095300Z
+DTEND:20240806T095900Z
+DESCRIPTION:Equestrian - Jumping Individual Final Jump-Off\n🇩🇪 Christian
+  KUKUK\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Steve GUERDAT
+SUMMARY:🏇 Jumping Individual Final Jump-Off
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T095600Z-wrestling-WOMENS-FREESTYLE-50KG-18-FINAL-AZE-GER
@@ -7062,7 +7062,8 @@ UID:20240806T101700Z-wrestling-WOMENS-FREESTYLE-50KG-14-FINAL
 DTSTAMP:20240806T101700Z
 DTSTART:20240806T101700Z
 DTEND:20240806T102400Z
-DESCRIPTION:Wrestling - Women's Freestyle 50kg 1/4 Final
+DESCRIPTION:Wrestling - Women's Freestyle 50kg 1/4 Final\n🇱🇹 Gabija
+  DILYTE
 SUMMARY:🤼 Women's Freestyle 50kg 1/4 Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -7087,7 +7088,8 @@ UID:20240806T102400Z-wrestling-MENS-GRECO-ROMAN-77KG-14-FINAL
 DTSTAMP:20240806T102400Z
 DTSTART:20240806T102400Z
 DTEND:20240806T103100Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 77kg 1/4 Final
+DESCRIPTION:Wrestling - Men's Greco-Roman 77kg 1/4 Final\n🇰🇬 Akzhol
+  MAKHMUDOV
 SUMMARY:🤼 Men's Greco-Roman 77kg 1/4 Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -8629,7 +8631,15 @@ UID:20240807T104500Z-athletics-WOMENS-1500M-REPECHAGE-ROUND
 DTSTAMP:20240807T104500Z
 DTSTART:20240807T104500Z
 DTEND:20240807T110200Z
-DESCRIPTION:Athletics - Women's 1500m Repechage Round
+DESCRIPTION:Athletics - Women's 1500m Repechage Round\n🇯🇲 Adelle
+  TRACEY\n🇪🇸 Agueda MARQUES\n🇵🇱 Aleksandra PLOCINSKA\n🇪🇹 Birke
+  HAYLOM\n🇧🇪 Elise VANDERELST\n🇪🇸 Esther GUERRERO\n🏳️ Farida
+  ABAROGE\n🇮🇹 Federica del BUONO\n🇯🇵 GOTO Yume\n🇻🇪 Joselyn Daniely
+  BREA\n🇨🇦 Kate CURRENT\n🇨🇿 Kristiina SASINEK MAKI\n🇦🇺 Linden
+  HALL\n🇨🇦 Lucia STAFFORD\n🇮🇹 Ludovica CAVALLI\n🇺🇾 Maria Pia
+  FERNANDEZ\n🇩🇪 Nele WESSEL\n🇬🇧 Revee WALCOTT-NOLAN\n🇫🇮 Sara
+  LAPPALAINEN\n🇮🇪 Sarah HEALY\n🇨🇦 Simone PLOURDE\n🇮🇹 Sintayehu
+  VISSA\n🇮🇪 Sophie O'SULLIVAN\n🇱🇺 Vera HOFFMANN\n🇺🇬 Winnie NANYONDO
 SUMMARY:🏃 Women's 1500m Repechage Round
 LOCATION:Stade de France
 END:VEVENT
@@ -9337,7 +9347,15 @@ UID:20240807T170500Z-athletics-MENS-110M-HURDLES-SEMI-FINAL
 DTSTAMP:20240807T170500Z
 DTSTART:20240807T170500Z
 DTEND:20240807T172200Z
-DESCRIPTION:Athletics - Men's 110m Hurdles Semi-Final
+DESCRIPTION:Athletics - Men's 110m Hurdles Semi-Final\n🇧🇸 Antoine
+  ANDREWS\n🇪🇸 Asier MARTINEZ\n🇺🇸 Daniel ROBERTS\n🇧🇷 Eduardo
+  RODRIGUES\n🇪🇸 Enrique LLOPIS\n🇺🇸 Freddie CRITTENDEN\n🇺🇸 Grant
+  HOLLOWAY\n🇯🇲 Hansle PARCHMENT\n🇯🇵 IZUMIYA Shunsuke\n🇨🇭 Jason
+  JOSEPH\n🇮🇹 Lorenzo Ndele SIMONELLI\n🇸🇳 Louis Francois MENDY\n🇯🇵
+  MURATAKE Rachid\n🇧🇪 Michael OBASUYI\n🇨🇾 Milan TRAJKOVIC\n🇯🇲 Orlando
+  BENNETT\n🇨🇳 QIN Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷 Raphael MOHAMED\n🇯🇲
+  Rasheed BROADBELL\n🇫🇷 Sasha ZHOYA\n🇬🇧 Tade OJORA\n🇫🇷 Wilhem
+  BELOCIAN\n🇨🇳 XU Zhuoyi
 SUMMARY:🏃 Men's 110m Hurdles Semi-Final
 LOCATION:Stade de France
 END:VEVENT

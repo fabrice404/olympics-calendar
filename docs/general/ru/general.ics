@@ -6814,16 +6814,6 @@ SUMMARY:🤼 Yusneylis GUZMAN LOPEZ 🇨🇺 - 🇹🇷 Evin DEMIRHAN YAVUZ
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T094100Z-equestrian--
-DTSTAMP:20240806T094100Z
-DTSTART:20240806T094100Z
-DTEND:20240806T095100Z
-DESCRIPTION:Конный спорт - Личный конкур, финал, перепрыжка\n🇩🇪 Christian
-  KUKUK\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Steve GUERDAT
-SUMMARY:🏇 Личный конкур, финал, перепрыжка
-LOCATION:Версаль
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T094200Z-wrestling--77-18--KGZ-USA
 DTSTAMP:20240806T094200Z
 DTSTART:20240806T094200Z
@@ -6890,6 +6880,16 @@ DESCRIPTION:Легкая атлетика - Метание копья, квал�
   DEHNING\n🇪🇬 Moustafa MAHMOUD\n🇮🇳 Neeraj CHOPRA\n🇧🇪 Timothy HERMAN
 SUMMARY:🏃 Метание копья, квалификация, группа В (м)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T095300Z-equestrian--
+DTSTAMP:20240806T095300Z
+DTSTART:20240806T095300Z
+DTEND:20240806T095900Z
+DESCRIPTION:Конный спорт - Личный конкур, финал, перепрыжка\n🇩🇪 Christian
+  KUKUK\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Steve GUERDAT
+SUMMARY:🏇 Личный конкур, финал, перепрыжка
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T095600Z-wrestling--50-18--AZE-GER
@@ -7065,22 +7065,22 @@ SUMMARY:🤼 Amin KAVIYANINEJAD 🇮🇷 - 🇦🇲 Malkhas AMOYAN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T101700Z-wrestling--97-14--FIN-CUB
+DTSTAMP:20240806T101700Z
+DTSTART:20240806T101700Z
+DTEND:20240806T102400Z
+DESCRIPTION:Борьба - Греко-римская, 97кг, 1/4 финала (м)
+SUMMARY:🤼 Arvi Martin SAVOLAINEN 🇫🇮 - 🇨🇺 Gabriel Alejandro ROSILLO KIN
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T101700Z-wrestling--50-14-
 DTSTAMP:20240806T101700Z
 DTSTART:20240806T101700Z
 DTEND:20240806T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 50кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 50кг, 1/4 финала (ж)\n🇱🇹 Gabija
+  DILYTE
 SUMMARY:🤼 Вольная борьба, 50кг, 1/4 финала (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T101700Z-wrestling--97-14-
-DTSTAMP:20240806T101700Z
-DTSTART:20240806T101700Z
-DTEND:20240806T102400Z
-DESCRIPTION:Борьба - Греко-римская, 97кг, 1/4 финала (м)\n🇫🇮 Arvi Martin
-  SAVOLAINEN
-SUMMARY:🤼 Греко-римская, 97кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -7113,7 +7113,8 @@ UID:20240806T102400Z-wrestling--77-14-
 DTSTAMP:20240806T102400Z
 DTSTART:20240806T102400Z
 DTEND:20240806T103100Z
-DESCRIPTION:Борьба - Греко-римская, 77кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Греко-римская, 77кг, 1/4 финала (м)\n🇰🇬 Akzhol
+  MAKHMUDOV
 SUMMARY:🤼 Греко-римская, 77кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -9375,7 +9376,15 @@ UID:20240807T170500Z-athletics-110-
 DTSTAMP:20240807T170500Z
 DTSTART:20240807T170500Z
 DTEND:20240807T172200Z
-DESCRIPTION:Легкая атлетика - 110м с/б, полуфинал (м)
+DESCRIPTION:Легкая атлетика - 110м с/б, полуфинал (м)\n🇧🇸 Antoine
+  ANDREWS\n🇪🇸 Asier MARTINEZ\n🇺🇸 Daniel ROBERTS\n🇧🇷 Eduardo
+  RODRIGUES\n🇪🇸 Enrique LLOPIS\n🇺🇸 Freddie CRITTENDEN\n🇺🇸 Grant
+  HOLLOWAY\n🇯🇲 Hansle PARCHMENT\n🇯🇵 IZUMIYA Shunsuke\n🇨🇭 Jason
+  JOSEPH\n🇮🇹 Lorenzo Ndele SIMONELLI\n🇸🇳 Louis Francois MENDY\n🇯🇵
+  MURATAKE Rachid\n🇧🇪 Michael OBASUYI\n🇨🇾 Milan TRAJKOVIC\n🇯🇲 Orlando
+  BENNETT\n🇨🇳 QIN Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷 Raphael MOHAMED\n🇯🇲
+  Rasheed BROADBELL\n🇫🇷 Sasha ZHOYA\n🇬🇧 Tade OJORA\n🇫🇷 Wilhem
+  BELOCIAN\n🇨🇳 XU Zhuoyi
 SUMMARY:🏃 110м с/б, полуфинал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

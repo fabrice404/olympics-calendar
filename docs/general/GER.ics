@@ -2620,16 +2620,6 @@ SUMMARY:🤼 Lucas Alexandros LAZOGIANIS 🇩🇪 - 🇨🇺 Gabriel Alejandro R
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T094100Z-equestrian-JUMPING-INDIVIDUAL-FINAL-JUMP-OFF
-DTSTAMP:20240806T094100Z
-DTSTART:20240806T094100Z
-DTEND:20240806T095100Z
-DESCRIPTION:Equestrian - Jumping Individual Final Jump-Off\n🇩🇪 Christian
-  KUKUK\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Steve GUERDAT
-SUMMARY:🏇 Jumping Individual Final Jump-Off
-LOCATION:Château de Versailles
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T095000Z-athletics-MENS-JAVELIN-THROW-QUALIFICATION-GROUP-B
 DTSTAMP:20240806T095000Z
 DTSTART:20240806T095000Z
@@ -2642,6 +2632,16 @@ DESCRIPTION:Athletics - Men's Javelin Throw Qualification - Group B\n🇬🇩
   DEHNING\n🇪🇬 Moustafa MAHMOUD\n🇮🇳 Neeraj CHOPRA\n🇧🇪 Timothy HERMAN
 SUMMARY:🏃 Men's Javelin Throw Qualification - Group B
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T095300Z-equestrian-JUMPING-INDIVIDUAL-FINAL-JUMP-OFF
+DTSTAMP:20240806T095300Z
+DTSTART:20240806T095300Z
+DTEND:20240806T095900Z
+DESCRIPTION:Equestrian - Jumping Individual Final Jump-Off\n🇩🇪 Christian
+  KUKUK\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Steve GUERDAT
+SUMMARY:🏇 Jumping Individual Final Jump-Off
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T095600Z-wrestling-WOMENS-FREESTYLE-50KG-18-FINAL-AZE-GER
@@ -3243,6 +3243,23 @@ DESCRIPTION:Skateboarding - Men's Park Prelims\n🇪🇸 Alain
   SOLMUNDE\n🇫🇷 Vincent MATHERON
 SUMMARY:🛹 Men's Park Prelims
 LOCATION:La Concorde 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T104500Z-athletics-WOMENS-1500M-REPECHAGE-ROUND
+DTSTAMP:20240807T104500Z
+DTSTART:20240807T104500Z
+DTEND:20240807T110200Z
+DESCRIPTION:Athletics - Women's 1500m Repechage Round\n🇯🇲 Adelle
+  TRACEY\n🇪🇸 Agueda MARQUES\n🇵🇱 Aleksandra PLOCINSKA\n🇪🇹 Birke
+  HAYLOM\n🇧🇪 Elise VANDERELST\n🇪🇸 Esther GUERRERO\n🏳️ Farida
+  ABAROGE\n🇮🇹 Federica del BUONO\n🇯🇵 GOTO Yume\n🇻🇪 Joselyn Daniely
+  BREA\n🇨🇦 Kate CURRENT\n🇨🇿 Kristiina SASINEK MAKI\n🇦🇺 Linden
+  HALL\n🇨🇦 Lucia STAFFORD\n🇮🇹 Ludovica CAVALLI\n🇺🇾 Maria Pia
+  FERNANDEZ\n🇩🇪 Nele WESSEL\n🇬🇧 Revee WALCOTT-NOLAN\n🇫🇮 Sara
+  LAPPALAINEN\n🇮🇪 Sarah HEALY\n🇨🇦 Simone PLOURDE\n🇮🇹 Sintayehu
+  VISSA\n🇮🇪 Sophie O'SULLIVAN\n🇱🇺 Vera HOFFMANN\n🇺🇬 Winnie NANYONDO
+SUMMARY:🏃 Women's 1500m Repechage Round
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T104800Z-sailing-MENS-KITE-RACE-12

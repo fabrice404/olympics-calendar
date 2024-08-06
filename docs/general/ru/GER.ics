@@ -2626,16 +2626,6 @@ SUMMARY:🤼 Lucas Alexandros LAZOGIANIS 🇩🇪 - 🇨🇺 Gabriel Alejandro R
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T094100Z-equestrian--
-DTSTAMP:20240806T094100Z
-DTSTART:20240806T094100Z
-DTEND:20240806T095100Z
-DESCRIPTION:Конный спорт - Личный конкур, финал, перепрыжка\n🇩🇪 Christian
-  KUKUK\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Steve GUERDAT
-SUMMARY:🏇 Личный конкур, финал, перепрыжка
-LOCATION:Версаль
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T095000Z-athletics--
 DTSTAMP:20240806T095000Z
 DTSTART:20240806T095000Z
@@ -2648,6 +2638,16 @@ DESCRIPTION:Легкая атлетика - Метание копья, квал�
   DEHNING\n🇪🇬 Moustafa MAHMOUD\n🇮🇳 Neeraj CHOPRA\n🇧🇪 Timothy HERMAN
 SUMMARY:🏃 Метание копья, квалификация, группа В (м)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T095300Z-equestrian--
+DTSTAMP:20240806T095300Z
+DTSTART:20240806T095300Z
+DTEND:20240806T095900Z
+DESCRIPTION:Конный спорт - Личный конкур, финал, перепрыжка\n🇩🇪 Christian
+  KUKUK\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Steve GUERDAT
+SUMMARY:🏇 Личный конкур, финал, перепрыжка
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T095600Z-wrestling--50-18--AZE-GER
