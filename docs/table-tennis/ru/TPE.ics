@@ -30,4 +30,13 @@ DESCRIPTION:Настольный теннис - 1/4 финала, командн
 SUMMARY:🏓 Япония 🇯🇵 - 🇹🇼 Chinese Taipei
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T130000Z-table-tennis-14--CHN-TPE
+DTSTAMP:20240807T130000Z
+DTSTART:20240807T130000Z
+DTEND:20240807T160000Z
+DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)
+SUMMARY:🏓 Китай 🇨🇳 - 🇹🇼 Chinese Taipei
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
 END:VCALENDAR
