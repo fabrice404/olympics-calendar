@@ -488,12 +488,12 @@ SUMMARY:🏃 남자 창던지기 예선 - B조
 LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T101700Z-wrestling--50KG-8
+UID:20240806T101700Z-wrestling--50KG-8-LTU-CUB
 DTSTAMP:20240806T101700Z
 DTSTART:20240806T101700Z
 DTEND:20240806T102400Z
-DESCRIPTION:레슬링 - 여자 자유형 50kg 8강\n🇱🇹 Gabija DILYTE
-SUMMARY:🤼 여자 자유형 50kg 8강
+DESCRIPTION:레슬링 - 여자 자유형 50kg 8강
+SUMMARY:🤼 Gabija DILYTE 🇱🇹 - 🇨🇺 Yusneylis GUZMAN LOPEZ
 LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT
@@ -512,6 +512,22 @@ DESCRIPTION:카누 스프린트 - 남자 카약 무타포어 500m 8강\n🇱🇹
   Simonas MALDONIS\n🇩🇰 Victor Gairy AASMUL\n🇨🇳 WANG Congkang\n🇨🇳
   ZHANG Dong
 SUMMARY:🛶 남자 카약 무타포어 500m 8강
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T123000Z-canoe-sprint--2-500M-8
+DTSTAMP:20240806T123000Z
+DTSTART:20240806T123000Z
+DTEND:20240806T124700Z
+DESCRIPTION:카누 스프린트 - 남자 카약 2인승 500m 8강\n🇺🇸 Aaron SMALL\n🇪🇸 Adrian del
+  RIO\n🇷🇸 Andjelo DZOMBETA\n🇱🇹 Andrej OLIJNIK\n🇿🇦 Andrew James
+  BIRKETT\n🇨🇳 BU Tingkai\n🇰🇿 Bekarys RAMATULLA\n🇨🇿 Daniel HAVEL\n🇳🇿
+  Hamish LEGARTH\n🇿🇦 Hamish LOVEMORE\n🇺🇦 Ihor TRUNOV\n🇨🇿 Jakub
+  SPICAR\n🇺🇸 Jonas ECKER\n🇳🇿 Kurtis IMRIE\n🇪🇸 Marcus COOPER\n🇷🇸
+  Marko DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇱🇹 Mindaugas MALDONIS\n🇺🇦
+  Oleh KUKHARYK\n🇨🇦 Pierre-Luc POULIN\n🇰🇿 Sergii TOKARNYTSKYI\n🇨🇦
+  Simon McTAVISH\n🇷🇸 Vladimir TORUBAROV\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 남자 카약 2인승 500m 8강
 LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
 BEGIN:VEVENT

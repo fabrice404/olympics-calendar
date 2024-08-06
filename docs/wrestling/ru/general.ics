@@ -706,13 +706,12 @@ SUMMARY:🤼 Arvi Martin SAVOLAINEN 🇫🇮 - 🇨🇺 Gabriel Alejandro ROSILL
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T101700Z-wrestling--50-14-
+UID:20240806T101700Z-wrestling--50-14--LTU-CUB
 DTSTAMP:20240806T101700Z
 DTSTART:20240806T101700Z
 DTEND:20240806T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 50кг, 1/4 финала (ж)\n🇱🇹 Gabija
-  DILYTE
-SUMMARY:🤼 Вольная борьба, 50кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 50кг, 1/4 финала (ж)
+SUMMARY:🤼 Gabija DILYTE 🇱🇹 - 🇨🇺 Yusneylis GUZMAN LOPEZ
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -725,22 +724,21 @@ SUMMARY:🤼 Akzhol MAKHMUDOV 🇰🇬 - 🇰🇿 Demeu ZHADRAYEV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T102400Z-wrestling--97-14--IRI-KGZ
+DTSTAMP:20240806T102400Z
+DTSTART:20240806T102400Z
+DTEND:20240806T103100Z
+DESCRIPTION:Борьба - Греко-римская, 97кг, 1/4 финала (м)
+SUMMARY:🤼 Mohammadhadi SARAVI 🇮🇷 - 🇰🇬 Uzur DZHUZUPBEKOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T102400Z-wrestling--50-14-
 DTSTAMP:20240806T102400Z
 DTSTART:20240806T102400Z
 DTEND:20240806T103100Z
-DESCRIPTION:Борьба - Вольная борьба, 50кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 50кг, 1/4 финала (ж)\n🇨🇳 FENG Ziqi
 SUMMARY:🤼 Вольная борьба, 50кг, 1/4 финала (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T102400Z-wrestling--97-14-
-DTSTAMP:20240806T102400Z
-DTSTART:20240806T102400Z
-DTEND:20240806T103100Z
-DESCRIPTION:Борьба - Греко-римская, 97кг, 1/4 финала (м)\n🇮🇷 Mohammadhadi
-  SARAVI
-SUMMARY:🤼 Греко-римская, 97кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -757,7 +755,7 @@ UID:20240806T103100Z-wrestling--77-14-
 DTSTAMP:20240806T103100Z
 DTSTART:20240806T103100Z
 DTEND:20240806T103800Z
-DESCRIPTION:Борьба - Греко-римская, 77кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Греко-римская, 77кг, 1/4 финала (м)\n🇭🇺 Zoltan LEVAI
 SUMMARY:🤼 Греко-римская, 77кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT

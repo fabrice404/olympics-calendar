@@ -488,12 +488,12 @@ SUMMARY:🏃 男子やり投予選 - グループB
 LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T101700Z-wrestling-50KG2
+UID:20240806T101700Z-wrestling-50KG2-LTU-CUB
 DTSTAMP:20240806T101700Z
 DTSTART:20240806T101700Z
 DTEND:20240806T102400Z
-DESCRIPTION:レスリング - 女子フリースタイル50kg級2回戦\n🇱🇹 Gabija DILYTE
-SUMMARY:🤼 女子フリースタイル50kg級2回戦
+DESCRIPTION:レスリング - 女子フリースタイル50kg級2回戦
+SUMMARY:🤼 Gabija DILYTE 🇱🇹 - 🇨🇺 Yusneylis GUZMAN LOPEZ
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -512,6 +512,23 @@ DESCRIPTION:カヌー・スプリント - 男子カヤックフォア（K-4）50
   Simonas MALDONIS\n🇩🇰 Victor Gairy AASMUL\n🇨🇳 WANG Congkang\n🇨🇳
   ZHANG Dong
 SUMMARY:🛶 男子カヤックフォア（K-4）500m準々決勝
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T123000Z-canoe-sprint-K-2500M
+DTSTAMP:20240806T123000Z
+DTSTART:20240806T123000Z
+DTEND:20240806T124700Z
+DESCRIPTION:カヌー・スプリント - 男子カヤックペア（K-2）500m準々決勝\n🇺🇸 Aaron SMALL\n🇪🇸
+  Adrian del RIO\n🇷🇸 Andjelo DZOMBETA\n🇱🇹 Andrej OLIJNIK\n🇿🇦 Andrew
+  James BIRKETT\n🇨🇳 BU Tingkai\n🇰🇿 Bekarys RAMATULLA\n🇨🇿 Daniel
+  HAVEL\n🇳🇿 Hamish LEGARTH\n🇿🇦 Hamish LOVEMORE\n🇺🇦 Ihor TRUNOV\n🇨🇿
+  Jakub SPICAR\n🇺🇸 Jonas ECKER\n🇳🇿 Kurtis IMRIE\n🇪🇸 Marcus
+  COOPER\n🇷🇸 Marko DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇱🇹 Mindaugas
+  MALDONIS\n🇺🇦 Oleh KUKHARYK\n🇨🇦 Pierre-Luc POULIN\n🇰🇿 Sergii
+  TOKARNYTSKYI\n🇨🇦 Simon McTAVISH\n🇷🇸 Vladimir TORUBAROV\n🇨🇳 ZHANG
+  Dong
+SUMMARY:🛶 男子カヤックペア（K-2）500m準々決勝
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
 BEGIN:VEVENT

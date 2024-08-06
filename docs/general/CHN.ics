@@ -2374,6 +2374,15 @@ SUMMARY:⛵ Women's Kite - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T102400Z-wrestling-WOMENS-FREESTYLE-50KG-14-FINAL
+DTSTAMP:20240806T102400Z
+DTSTART:20240806T102400Z
+DTEND:20240806T103100Z
+DESCRIPTION:Wrestling - Women's Freestyle 50kg 1/4 Final\n🇨🇳 FENG Ziqi
+SUMMARY:🤼 Women's Freestyle 50kg 1/4 Final
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T102800Z-sailing-MENS-KITE-RACE-7
 DTSTAMP:20240806T102800Z
 DTSTART:20240806T102800Z
@@ -2604,6 +2613,23 @@ DESCRIPTION:Sailing - Mixed Dinghy - Race 9\n🇬🇷 A SPANAKI/O
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ Mixed Dinghy - Race 9
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T123000Z-canoe-sprint-MENS-KAYAK-DOUBLE-500M-QUARTERFINALS
+DTSTAMP:20240806T123000Z
+DTSTART:20240806T123000Z
+DTEND:20240806T124700Z
+DESCRIPTION:Canoe Sprint - Men's Kayak Double 500m Quarterfinals\n🇺🇸
+  Aaron SMALL\n🇪🇸 Adrian del RIO\n🇷🇸 Andjelo DZOMBETA\n🇱🇹 Andrej
+  OLIJNIK\n🇿🇦 Andrew James BIRKETT\n🇨🇳 BU Tingkai\n🇰🇿 Bekarys
+  RAMATULLA\n🇨🇿 Daniel HAVEL\n🇳🇿 Hamish LEGARTH\n🇿🇦 Hamish
+  LOVEMORE\n🇺🇦 Ihor TRUNOV\n🇨🇿 Jakub SPICAR\n🇺🇸 Jonas ECKER\n🇳🇿
+  Kurtis IMRIE\n🇪🇸 Marcus COOPER\n🇷🇸 Marko DRAGOSAVLJEVIC\n🇷🇸 Marko
+  NOVAKOVIC\n🇱🇹 Mindaugas MALDONIS\n🇺🇦 Oleh KUKHARYK\n🇨🇦 Pierre-Luc
+  POULIN\n🇰🇿 Sergii TOKARNYTSKYI\n🇨🇦 Simon McTAVISH\n🇷🇸 Vladimir
+  TORUBAROV\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 Men's Kayak Double 500m Quarterfinals
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T130000Z-diving-WOMENS-10M-PLATFORM-FINAL

@@ -488,13 +488,12 @@ SUMMARY:🏃 Men's Javelin Throw Qualification - Group B
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T101700Z-wrestling-WOMENS-FREESTYLE-50KG-14-FINAL
+UID:20240806T101700Z-wrestling-WOMENS-FREESTYLE-50KG-14-FINAL-LTU-CUB
 DTSTAMP:20240806T101700Z
 DTSTART:20240806T101700Z
 DTEND:20240806T102400Z
-DESCRIPTION:Wrestling - Women's Freestyle 50kg 1/4 Final\n🇱🇹 Gabija
-  DILYTE
-SUMMARY:🤼 Women's Freestyle 50kg 1/4 Final
+DESCRIPTION:Wrestling - Women's Freestyle 50kg 1/4 Final
+SUMMARY:🤼 Gabija DILYTE 🇱🇹 - 🇨🇺 Yusneylis GUZMAN LOPEZ
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -513,6 +512,23 @@ DESCRIPTION:Canoe Sprint - Men's Kayak Four 500m Quarterfinals\n🇱🇹
   McTAVISH\n🇱🇹 Simonas MALDONIS\n🇩🇰 Victor Gairy AASMUL\n🇨🇳 WANG
   Congkang\n🇨🇳 ZHANG Dong
 SUMMARY:🛶 Men's Kayak Four 500m Quarterfinals
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T123000Z-canoe-sprint-MENS-KAYAK-DOUBLE-500M-QUARTERFINALS
+DTSTAMP:20240806T123000Z
+DTSTART:20240806T123000Z
+DTEND:20240806T124700Z
+DESCRIPTION:Canoe Sprint - Men's Kayak Double 500m Quarterfinals\n🇺🇸
+  Aaron SMALL\n🇪🇸 Adrian del RIO\n🇷🇸 Andjelo DZOMBETA\n🇱🇹 Andrej
+  OLIJNIK\n🇿🇦 Andrew James BIRKETT\n🇨🇳 BU Tingkai\n🇰🇿 Bekarys
+  RAMATULLA\n🇨🇿 Daniel HAVEL\n🇳🇿 Hamish LEGARTH\n🇿🇦 Hamish
+  LOVEMORE\n🇺🇦 Ihor TRUNOV\n🇨🇿 Jakub SPICAR\n🇺🇸 Jonas ECKER\n🇳🇿
+  Kurtis IMRIE\n🇪🇸 Marcus COOPER\n🇷🇸 Marko DRAGOSAVLJEVIC\n🇷🇸 Marko
+  NOVAKOVIC\n🇱🇹 Mindaugas MALDONIS\n🇺🇦 Oleh KUKHARYK\n🇨🇦 Pierre-Luc
+  POULIN\n🇰🇿 Sergii TOKARNYTSKYI\n🇨🇦 Simon McTAVISH\n🇷🇸 Vladimir
+  TORUBAROV\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 Men's Kayak Double 500m Quarterfinals
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
