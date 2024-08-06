@@ -4,6 +4,15 @@ PRODID:-//fabrice404//olympics-calendar//general/EGY//EN
 X-WR-CALNAME:🇪🇬 Egypt | Paris 2024
 NAME:🇪🇬 Egypt | Paris 2024
 BEGIN:VEVENT
+UID:20240724T150000Z-football-MENS-GROUP-C-EGY-DOM
+DTSTAMP:20240724T150000Z
+DTSTART:20240724T150000Z
+DTEND:20240724T164500Z
+DESCRIPTION:Football - Men's Group C
+SUMMARY:⚽ EGY 🇪🇬 - 🇩🇴 DOM
+LOCATION:La Beaujoire Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240725T073000Z-archery-WOMENS-INDIVIDUAL-RANKING-ROUND
 DTSTAMP:20240725T073000Z
 DTSTART:20240725T073000Z
@@ -84,6 +93,44 @@ DESCRIPTION:Trampoline Gymnastics - Women's Qualification\n🇦🇸 Anzhela
   METHOT\n🇦🇸 Viyaleta BARDZILOUSKAYA\n🇨🇳 ZHU Xueying
 SUMMARY:🤸 Women's Qualification
 LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-MENS-QUALIFICATION-DAY-2
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T120000Z
+DESCRIPTION:Shooting - Skeet Men's Qualification - Day 2\n🇮🇳 Anant Jeet
+  Singh NARUKA\n🇪🇬 Azmy MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸
+  Conner Lynn PRINCE\n🇰🇿 Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷
+  Efthimios MITAS\n🇫🇷 Eric DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico
+  GIL\n🇮🇹 Gabriele ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub
+  TOMECEK\n🇩🇰 Jesper HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua
+  BELL\n🇰🇷 KIM Minsu\n🇹🇼 LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus
+  SVENSSON\n🇰🇼 Mohammad ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬
+  Omar IBRAHIM\n🇪🇪 Peeter JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹
+  Sebastian BERMUDEZ LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹
+  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
+SUMMARY:🔫 Skeet Men's Qualification - Day 2
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T093000Z-swimming-MENS-1500M-FREESTYLE-HEATS
@@ -221,6 +268,62 @@ SUMMARY:⛵ Women's Dinghy - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T070000Z-shooting-25M-RAPID-FIRE-PISTOL-MENS-QUALIFICATION-STAG
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T103000Z
+DESCRIPTION:Shooting - 25m Rapid Fire Pistol Men's Qualification - Stage
+  1\n🇮🇳 Anish ANISH\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷
+  Clement BESSAGUET\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪
+  Florian PETER\n🇵🇰 Ghulam Mustafa BASHIR\n🇺🇸 Henry Turner
+  LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge ALVAREZ\n🇺🇸 Keith
+  SANDERSON\n🇨🇳 LI Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦 Maksym
+  HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿 Matej
+  RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY MOHAMED\n🇺🇦
+  Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo MAZZETTI\n🇦🇿 Ruslan
+  LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei EVGLEVSKI\n🇮🇳 Vijayveer
+  SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 25m Rapid Fire Pistol Men's Qualification - Stage 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T073000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-2
+DTSTAMP:20240804T073000Z
+DTSTART:20240804T073000Z
+DTEND:20240804T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 2\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 2
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T090000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-EGY-ARG
+DTSTAMP:20240804T090000Z
+DTSTART:20240804T090000Z
+DTEND:20240804T103000Z
+DESCRIPTION:Handball - Men's Preliminary Round Group B
+SUMMARY:🤾 EGY 🇪🇬 - 🇦🇷 ARG
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T095000Z-fencing-MENS-FOIL-TEAM-TABLE-OF-8-EGY-USA
+DTSTAMP:20240804T095000Z
+DTSTART:20240804T095000Z
+DTEND:20240804T110000Z
+DESCRIPTION:Fencing - Men's Foil Team Table of 8
+SUMMARY:🤺 EGY 🇪🇬 - 🇺🇸 USA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T100500Z-sailing-MENS-DINGHY-RACE-7
 DTSTAMP:20240804T100500Z
 DTSTART:20240804T100500Z
@@ -245,6 +348,25 @@ SUMMARY:⛵ Men's Dinghy - Race 7
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T110000Z-shooting-25M-RAPID-FIRE-PISTOL-MENS-QUALIFICATION-STAG
+DTSTAMP:20240804T110000Z
+DTSTART:20240804T110000Z
+DTEND:20240804T150000Z
+DESCRIPTION:Shooting - 25m Rapid Fire Pistol Men's Qualification - Stage
+  2\n🇮🇳 Anish ANISH\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷
+  Clement BESSAGUET\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪
+  Florian PETER\n🇵🇰 Ghulam Mustafa BASHIR\n🇺🇸 Henry Turner
+  LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge ALVAREZ\n🇺🇸 Keith
+  SANDERSON\n🇨🇳 LI Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦 Maksym
+  HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿 Matej
+  RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY MOHAMED\n🇺🇦
+  Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo MAZZETTI\n🇦🇿 Ruslan
+  LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei EVGLEVSKI\n🇮🇳 Vijayveer
+  SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 25m Rapid Fire Pistol Men's Qualification - Stage 2
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T111300Z-sailing-MENS-DINGHY-RACE-8
 DTSTAMP:20240804T111300Z
 DTSTART:20240804T111300Z
@@ -267,6 +389,15 @@ DESCRIPTION:Sailing - Men's Dinghy - Race 8\n🇪🇬 Aly BADAWY\n🇹🇭 Arthi
   ZELKO
 SUMMARY:⛵ Men's Dinghy - Race 8
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T114000Z-fencing-MENS-FOIL-TEAM-CLASSIFICATIONS-5-8-EGY-POL
+DTSTAMP:20240804T114000Z
+DTSTART:20240804T114000Z
+DTEND:20240804T125000Z
+DESCRIPTION:Fencing - Men's Foil Team Classifications 5-8
+SUMMARY:🤺 EGY 🇪🇬 - 🇵🇱 POL
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T123500Z-sailing-WOMENS-DINGHY-RACE-7
@@ -313,6 +444,43 @@ DESCRIPTION:Sailing - Women's Dinghy - Race 8\n🇧🇲 Adriana
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Women's Dinghy - Race 8
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T140000Z-fencing-MENS-FOIL-TEAM-PLACEMENT-7-8-EGY-CAN
+DTSTAMP:20240804T140000Z
+DTSTART:20240804T140000Z
+DTEND:20240804T151000Z
+DESCRIPTION:Fencing - Men's Foil Team Placement 7-8
+SUMMARY:🤺 EGY 🇪🇬 - 🇨🇦 CAN
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080000Z-diving-WOMENS-10M-PLATFORM-PRELIMINARY
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T101300Z
+DESCRIPTION:Diving - Women's 10m Platform Preliminary\n🇯🇵 ARAI
+  Matsuri\n🇲🇽 Alejandra OROZCO LOZA\n🇪🇸 Ana CARVAJAL\n🇬🇧 Andrea
+  SPENDOLINI SIRIEIX\n🇨🇺 Anisley GARCIA NAVARRO\n🇨🇳 CHEN Yuxi\n🇨🇦
+  Caeli McKAY\n🇩🇪 Christina WASSEN\n🇮🇪 Ciara McGING\n🇺🇸 Daryn
+  WRIGHT\n🇺🇸 Delaney SCHNELL\n🇱🇻 Dzeja Delanija PATRIKA\n🇦🇺 Ellie
+  COLE\n🇳🇱 Else PRAASTERINK\n🇲🇽 Gabriela AGUNDEZ GARCIA\n🇧🇷 Ingrid
+  OLIVEIRA\n🇰🇵 KIM Mi Rae\n🇰🇷 KIM Nahyun\n🇨🇦 Kate MILLER\n🇬🇧 Lois
+  TOULSON\n🇮🇹 Maia BIGINELLI\n🇪🇬 Malak TAWFIK\n🇵🇷 Maycey Adrianne
+  VIETA\n🇦🇺 Melissa WU\n🇩🇪 Pauline Alexandra PFEIF\n🇨🇳 QUAN
+  Hongchan\n🇮🇹 Sarah JODOIN di MARIA\n🇺🇦 Sofiia LYSKUN\n🇩🇴 Victoria
+  GARZA
+SUMMARY:🏊 Women's 10m Platform Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080000Z-table-tennis-MENS-TEAM-ROUND-OF-16-EGY-TPE
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T110000Z
+DESCRIPTION:Table Tennis - Men's Team Round of 16
+SUMMARY:🏓 EGY 🇪🇬 - 🇹🇼 TPE
+LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T101500Z-sailing-WOMENS-DINGHY-RACE-9
@@ -385,6 +553,15 @@ SUMMARY:⛵ Men's Dinghy - Race 9
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T130000Z-table-tennis-WOMENS-TEAM-ROUND-OF-16-CHN-EGY
+DTSTAMP:20240805T130000Z
+DTSTART:20240805T130000Z
+DTEND:20240805T160000Z
+DESCRIPTION:Table Tennis - Women's Team Round of 16
+SUMMARY:🏓 CHN 🇨🇳 - 🇪🇬 EGY
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T132800Z-wrestling-MENS-GRECO-ROMAN-60KG-18-FINAL-EGY-CHN
 DTSTAMP:20240805T132800Z
 DTSTART:20240805T132800Z
@@ -436,6 +613,58 @@ SUMMARY:🤼 Yasmani ACOSTA FERNANDEZ 🇨🇱 - 🇪🇬 Abdellatif MOHAMED
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T173000Z-artistic-swimming-TEAM-TECHNICAL-ROUTINE
+DTSTAMP:20240805T173000Z
+DTSTART:20240805T173000Z
+DTEND:20240805T184300Z
+DESCRIPTION:Artistic Swimming - Team Technical Routine\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸
+  ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Technical Routine
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T190000Z-football-MENS-SEMI-FINAL-FRA-EGY
+DTSTAMP:20240805T190000Z
+DTSTART:20240805T190000Z
+DTEND:20240805T204500Z
+DESCRIPTION:Football - Men's Semi-final
+SUMMARY:⚽ FRA 🇫🇷 - 🇪🇬 EGY
+LOCATION:Lyon Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080000Z-diving-MENS-3M-SPRINGBOARD-PRELIMINARY
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T100900Z
+DESCRIPTION:Diving - Men's 3m Springboard Preliminary\n🇺🇸 Andrew
+  CAPOBIANCO\n🇺🇸 Carson TYLER\n🇨🇴 Daniel RESTREPO GARCIA\n🇩🇴 Frandiel
+  GOMEZ\n🇮🇹 Giovanni TOCCI\n🇫🇷 Gwendal BISCH\n🇬🇧 Jack LAUGHER\n🇮🇪
+  Jake PASSMORE\n🇩🇴 Jonathan RUVALCABA\n🇬🇧 Jordan HOULDEN\n🇫🇷 Jules
+  BOUYER\n🇲🇽 Kevin Alexander MUNOZ HEREDIA\n🇦🇺 Kurtis MATHEWS\n🇩🇪
+  Lars RUDIGER\n🇮🇹 Lorenzo MARSAGLIA\n🇨🇴 Luis Felipe URIBE
+  BERMUDEZ\n🇪🇬 Mohamed FAROUK\n🇩🇪 Moritz WESEMANN\n🇲🇽 Osmar OLVERA
+  IBARRA\n🇯🇵 SAKAI Sho\n🇨🇳 WANG Zongyuan\n🇰🇷 WOO Haram\n🇨🇳 XIE
+  Siyi\n🇰🇷 YI Jaegyeong\n🇯🇲 Yona KNIGHT-WISDOM
+SUMMARY:🏊 Men's 3m Springboard Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T082000Z-athletics-MENS-JAVELIN-THROW-QUALIFICATION-GROUP-A
+DTSTAMP:20240806T082000Z
+DTSTART:20240806T082000Z
+DTEND:20240806T091600Z
+DESCRIPTION:Athletics - Men's Javelin Throw Qualification - Group A\n🇷🇴
+  Alexandru Mihaita NOVAC\n🇺🇸 Curtis THOMPSON\n🇯🇵 DEAN Roderick
+  Genki\n🇵🇱 Dawid WEGNER\n🇪🇬 Ihab ABDELRAHMAN\n🇨🇿 Jakub
+  VADLEJCH\n🇩🇪 Julian WEBER\n🇰🇪 Julius YEGO\n🇹🇹 Keshorn WALCOTT\n🇮🇳
+  Kishore JENA\n🇵🇹 Leandro RAMOS\n🇫🇮 Oliver HELANDER\n🇱🇻 Patriks
+  GAILUMS\n🇧🇷 Pedro Henrique RODRIGUES\n🇫🇷 Teura'itera'i TUPAIA\n🇫🇮
+  Toni KERANEN
+SUMMARY:🏃 Men's Javelin Throw Qualification - Group A
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T090000Z-wrestling-MENS-GRECO-ROMAN-60KG-REPECHAGE-EGY-VEN
 DTSTAMP:20240806T090000Z
 DTSTART:20240806T090000Z
@@ -452,6 +681,25 @@ DTEND:20240806T091400Z
 DESCRIPTION:Wrestling - Men's Greco-Roman 130kg Repechage
 SUMMARY:🤼 Kiril Milenov MILOV 🇧🇬 - 🇪🇬 Abdellatif MOHAMED
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T091500Z-athletics-WOMENS-LONG-JUMP-QUALIFICATION
+DTSTAMP:20240806T091500Z
+DTSTART:20240806T091500Z
+DTEND:20240806T102300Z
+DESCRIPTION:Athletics - Women's Long Jump Qualification\n🇯🇲 Ackelia
+  SMITH\n🇵🇹 Agate de SOUSA\n🇷🇴 Alina ROTARU-KOTTMANN\n🇦🇺 Brooke
+  BUSCHKUEHL\n🇯🇲 Chanice PORTER\n🇧🇷 Eliane MARTINS\n🇳🇬 Ese
+  BRUME\n🇪🇬 Esraa OWIS\n🇪🇸 Fatima DIAME\n🇯🇵 HATA Sumire\n🇫🇷 Hilary
+  KPATCHA\n🇷🇸 Ivana SPANOVIC\n🇺🇸 Jasmine MOORE\n🇮🇹 Larissa
+  IAPICHINO\n🇩🇪 Laura Raquel MUELLER\n🇧🇷 Lissandra Maysa CAMPOS\n🇩🇪
+  Malaika MIHAMBO\n🇧🇫 Marthe KOALA\n🇩🇪 Mikaelle ASSANI\n🇷🇸 Milica
+  GARDASEVIC\n🇺🇸 Monae' NICHOLS\n🇨🇴 Natalia LINARES\n🇵🇱 Nikola
+  HOROWSKA\n🇳🇱 Pauline HONDEMA\n🇭🇺 Petra BANHIDI-FARKAS\n🇧🇬 Plamena
+  MITKOVA\n🇳🇬 Prestina Oluchi OCHONOGOR\n🇳🇬 Ruth USORO\n🇺🇸 Tara
+  DAVIS-WOODHALL\n🇪🇸 Tessy EBOSELE\n🇨🇳 XIONG Shiqi
+SUMMARY:🏃 Women's Long Jump Qualification
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T092100Z-wrestling-MENS-GRECO-ROMAN-77KG-18-FINAL-EGY-UZB
@@ -472,6 +720,20 @@ SUMMARY:🤼 FENG Ziqi 🇨🇳 - 🇪🇬 Nada MOHAMED
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T095000Z-athletics-MENS-JAVELIN-THROW-QUALIFICATION-GROUP-B
+DTSTAMP:20240806T095000Z
+DTSTART:20240806T095000Z
+DTEND:20240806T104600Z
+DESCRIPTION:Athletics - Men's Javelin Throw Qualification - Group B\n🇬🇩
+  Anderson PETERS\n🇲🇩 Andrian MARDARE\n🇵🇰 Arshad NADEEM\n🇺🇦 Artur
+  FELFNER\n🇦🇺 Cameron McENTYRE\n🇳🇬 Chinecherem NNAMDI\n🇵🇱 Cyprian
+  MRZYGLOD\n🇱🇹 Edis MATUSEVICIUS\n🇱🇻 Gatis CAKSS\n🇫🇮 Lassi
+  ETELATALO\n🇧🇷 Luiz Mauricio da SILVA\n🇵🇱 Marcin KRUKOWSKI\n🇩🇪 Max
+  DEHNING\n🇪🇬 Moustafa MAHMOUD\n🇮🇳 Neeraj CHOPRA\n🇧🇪 Timothy HERMAN
+SUMMARY:🏃 Men's Javelin Throw Qualification - Group B
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T095600Z-wrestling-MENS-GRECO-ROMAN-97KG-18-FINAL-SRB-EGY
 DTSTAMP:20240806T095600Z
 DTSTART:20240806T095600Z
@@ -479,6 +741,129 @@ DTEND:20240806T100300Z
 DESCRIPTION:Wrestling - Men's Greco-Roman 97kg 1/8 Final
 SUMMARY:🤼 Mihail KAJAIA 🇷🇸 - 🇪🇬 Mohamed GABR
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T173000Z-artistic-swimming-TEAM-FREE-ROUTINE
+DTSTAMP:20240806T173000Z
+DTSTART:20240806T173000Z
+DTEND:20240806T185000Z
+DESCRIPTION:Artistic Swimming - Team Free Routine\n🇦🇺 AUS\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Free Routine
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T073000Z-canoe-sprint-WOMENS-KAYAK-SINGLE-500M-HEATS
+DTSTAMP:20240807T073000Z
+DTSTART:20240807T073000Z
+DTEND:20240807T082700Z
+DESCRIPTION:Canoe Sprint - Women's Kayak Single 500m Heats\n🇳🇿 Aimee
+  FISHER\n🇭🇺 Alida Dora GAZSO\n🇦🇺 Alyce WOOD\n🇧🇷 Ana Paula
+  VERGUTZ\n🇭🇷 Anamaria GOVORCINOVIC\n🇨🇿 Anezka PALOUDOVA\n🇲🇽 Beatriz
+  BRIONES FRAGOZA\n🇪🇸 Begona LAZKANO\n🇦🇷 Brenda ROJAS\n🇵🇱 Dominika
+  PUTTO\n🇺🇿 Ekaterina SHUBINA\n🇩🇰 Emma Aastrand JORGENSEN\n🇩🇪 Enja
+  ROESSELING\n🇪🇸 Estefania FERNANDEZ\n🇿🇦 Esti OLIVIER\n🇳🇴 Hedda
+  ORITSLAND\n🇧🇪 Hermien PETERS\n🇸🇬 Jiexian Stephenie CHEN\n🇲🇽 Karina
+  ALANIS MORALES\n🇸🇪 Linnea STENSILS\n🇳🇿 Lisa CARRINGTON\n🇧🇪 Lize
+  BROEKX\n🇫🇷 Manon HOSTENS\n🇺🇦 Mariya POVKH\n🇸🇪 Melina
+  ANDERSSON\n🇨🇦 Michelle RUSSELL\n🇷🇸 Milica NOVAKOVIC\n🇬🇺 Raina
+  TAITINGFONG\n🇨🇦 Riley MELANSON\n🇳🇱 Ruth VORSSELMAN\n🇪🇬 Samaa
+  AHMED\n🇼🇸 Samalulu CLIFTON\n🏳️ Saman SOLTANI\n🇳🇱 Selma KONIJN\n🇭🇺
+  Tamara CSIPES\n🇵🇹 Teresa PORTELA\n🇿🇦 Tiffany Amber KOCH\n🇨🇳 WANG
+  Nan\n🇨🇳 YIN Mengdie\n🇧🇬 Yoana GEORGIEVA
+SUMMARY:🛶 Women's Kayak Single 500m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T073000Z-handball-MENS-QUARTERFINAL-ESP-EGY
+DTSTAMP:20240807T073000Z
+DTSTART:20240807T073000Z
+DTEND:20240807T093000Z
+DESCRIPTION:Handball - Men's Quarterfinal
+SUMMARY:🤾 ESP 🇪🇸 - 🇪🇬 EGY
+LOCATION:Pierre Mauroy Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T130000Z-diving-WOMENS-3M-SPRINGBOARD-PRELIMINARY
+DTSTAMP:20240807T130000Z
+DTSTART:20240807T130000Z
+DTEND:20240807T145700Z
+DESCRIPTION:Diving - Women's 3m Springboard Preliminary\n🇲🇽 Alejandra
+  ESTUDILLO TORRES\n🇺🇸 Alison GIBSON\n🇦🇺 Alysha KOLOI\n🇨🇺 Anisley
+  GARCIA NAVARRO\n🇲🇽 Aranza VAZQUEZ MONTANO\n🇨🇳 CHANG Yani\n🇨🇳 CHEN
+  Yiwen\n🇮🇹 Chiara PELLACANI\n🇯🇵 ENOMOTO Haruka\n🇮🇹 Elena
+  BERTOCCHI\n🇸🇪 Emilia NILSSON GARIP\n🇬🇧 Grace REID\n🇳🇴 Helle
+  TUXEN\n🇩🇪 Jette MULLER\n🇿🇦 Julia VINCENT\n🇰🇷 KIM Suji\n🇳🇿 Lizzie
+  ROUSSEL\n🇯🇵 MIKAMI Sayaka\n🇦🇺 Maddison KEENEY\n🇪🇬 Maha AMER\n🇨🇦
+  Margo ERLAM\n🇲🇾 Nur Dhabitah SABRI\n🇨🇺 Prisis RUIZ\n🇺🇸 Sarah
+  BACON\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇺🇦 Viktoriya
+  KESAR\n🇬🇧 Yasmin HARPER
+SUMMARY:🏊 Women's 3m Springboard Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming-TEAM-ACROBATIC-ROUTINE
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:Artistic Swimming - Team Acrobatic Routine\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇮🇹 ITA\n🇯🇵 JPN\n🇲🇽 MEX\n🇪🇸
+  ESP\n🇺🇸 USA
+SUMMARY:🏊 Team Acrobatic Routine
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T072100Z-taekwondo-MEN-68KG-ROUND-OF-16-EGY-FRA
+DTSTAMP:20240808T072100Z
+DTSTART:20240808T072100Z
+DTEND:20240808T073300Z
+DESCRIPTION:Taekwondo - Men -68kg Round of 16
+SUMMARY:🥋 Ahmed NASSAR 🇪🇬 - 🇫🇷 Souleyman ALAPHILIPPE
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T150000Z-football-MENS-BRONZE-MEDAL-MATCH-EGY-MAR
+DTSTAMP:20240808T150000Z
+DTSTART:20240808T150000Z
+DTEND:20240808T164500Z
+DESCRIPTION:Football - Men's Bronze Medal Match
+SUMMARY:⚽ EGY 🇪🇬 - 🇲🇦 MAR
+LOCATION:La Beaujoire Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T075800Z-taekwondo-WOMEN-67KG-ROUND-OF-16-EGY-ESP
+DTSTAMP:20240809T075800Z
+DTSTART:20240809T075800Z
+DTEND:20240809T081000Z
+DESCRIPTION:Taekwondo - Women -67kg Round of 16
+SUMMARY:🥋 Aya SHEHATA 🇪🇬 - 🇪🇸 Cecilia CASTRO BURGOS
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T080000Z-diving-MENS-10M-PLATFORM-PRELIMINARY
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T103900Z
+DESCRIPTION:Diving - Men's 10m Platform Preliminary\n🇨🇴 Alejandro
+  SOLARTE\n🇮🇹 Andreas Sargent LARSEN\n🇦🇹 Anton KNOLL\n🇲🇾 Bertrand
+  Rhodict ANAK LISES\n🇺🇸 Brandon LOSCHIAVO\n🇨🇳 CAO Yuan\n🇺🇸 Carson
+  TYLER\n🇦🇺 Cassiel ROUSSEAU\n🇰🇵 IM Yong Myong\n🇺🇿 Igor MYALIN\n🇦🇺
+  Jaxon BOWSHIRE\n🇰🇷 KIM Yeongtaek\n🇲🇽 Kevin BERLIN REYES\n🇬🇧 Kyle
+  KOTHARI\n🇺🇦 Mark HRYTSENKO\n🇨🇦 Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah
+  WILLIAMS\n🇪🇬 Ramez SOBHY\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo
+  GIOVANNINI\n🇵🇱 Robert LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN
+  Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪 Timo BARTHEL\n🇨🇳 YANG Hao
+SUMMARY:🏊 Men's 10m Platform Preliminary
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T101300Z-taekwondo-MEN-80KG-ROUND-OF-16-EGY-DEN
+DTSTAMP:20240809T101300Z
+DTSTART:20240809T101300Z
+DTEND:20240809T102500Z
+DESCRIPTION:Taekwondo - Men -80kg Round of 16
+SUMMARY:🥋 Seif EISSA 🇪🇬 - 🇩🇰 Edi HRNIC
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T130000Z-weightlifting-MENS-89KG
@@ -492,6 +877,18 @@ DESCRIPTION:Weightlifting - Men's 89kg\n🇦🇲 Andranik KARAPETYAN\n🇮🇹
   Dongju\n🇨🇴 Yeison LOPEZ
 SUMMARY:🏋 Men's 89kg
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-artistic-swimming-DUET-TECHNICAL-ROUTINE
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T191300Z
+DESCRIPTION:Artistic Swimming - Duet Technical Routine\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇨🇦 CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷 GRE\n🇮🇱
+  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇪🇸
+  ESP\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏊 Duet Technical Routine
+LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T173000Z-weightlifting-WOMENS-71KG
@@ -519,6 +916,18 @@ DESCRIPTION:Weightlifting - Women's 81kg\n🇻🇺 Ajah PRITCHARD-LOLO\n🇲🇳
   GALEH\n🇩🇴 Yudelina MEJIA PEGUERO
 SUMMARY:🏋 Women's 81kg
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming-DUET-FREE-ROUTINE
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:Artistic Swimming - Duet Free Routine\n🇦🇺 AUS\n🇦🇹 AUT\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷 GRE\n🇮🇱 ISR\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇪🇸 ESP\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:🏊 Duet Free Routine
+LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T183000Z-weightlifting-MENS-102KG

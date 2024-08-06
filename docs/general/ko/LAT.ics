@@ -71,6 +71,24 @@ SUMMARY:🚴 여자 라스트찬스 레이스
 LOCATION:BMX 스타디움
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T081000Z-athletics--
+DTSTAMP:20240803T081000Z
+DTSTART:20240803T081000Z
+DTEND:20240803T103000Z
+DESCRIPTION:육상 - 남자 장대높이뛰기 예선\n🇫🇷 Anthony AMMIRATI\n🇸🇪 Armand
+  DUPLANTIS\n🇧🇪 Ben BROEDERS\n🇩🇪 Bo Kanda LITA BAEHRE\n🇺🇸 Christopher
+  NILSEN\n🇮🇹 Claudio Michel STECCHI\n🇨🇿 David HOLY\n🇬🇷 Emmanouil
+  KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu SASMA\n🇨🇳 HUANG Bokai\n🇸🇦
+  Hussain Asim AL HIZAM\n🇺🇸 Jacob WOOTEN\n🇦🇺 Kurtis MARSCHALL\n🇨🇿
+  Matej SCERBA\n🇳🇱 Menno VLOON\n🇩🇪 Oleg ZERNIKEL\n🇳🇴 Pal Haugen
+  LILLEFOSSE\n🇵🇹 Pedro BUARO\n🇵🇱 Piotr LISEK\n🇵🇱 Robert SOBERA\n🇫🇷
+  Robin EMIG\n🇺🇸 Sam KENDRICKS\n🇳🇴 Simen GUTTORMSEN\n🇳🇴 Sondre
+  GUTTORMSEN\n🇫🇷 Thibaut COLLET\n🇩🇪 Torben BLECH\n🇫🇮 Urho
+  KUJANPAA\n🇱🇻 Valters KREISS\n🇨🇳 YAO Jie\n🇨🇳 ZHONG Tao
+SUMMARY:🏃 남자 장대높이뛰기 예선
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road--
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -192,6 +210,30 @@ SUMMARY:🏊 여자 10m 플랫폼 예선
 LOCATION:아쿠아틱 센터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T095500Z-athletics--400M-1
+DTSTAMP:20240805T095500Z
+DTSTART:20240805T095500Z
+DTEND:20240805T103600Z
+DESCRIPTION:육상 - 여자 400m 1라운드\n🇺🇸 Aaliyah BUTLER\n🇺🇸 Alexis
+  HOLMES\n🇮🇹 Alice MANGIONE\n🇬🇾 Aliyah ABRAMS\n🇬🇧 Amber ANNING\n🇷🇴
+  Andrea MIKLOS\n🇵🇹 Catia AZEVEDO\n🇧🇪 Cynthia BOLINGO\n🇳🇬 Ella
+  ONOJUVWEVWO\n🇦🇺 Ellie BEER\n🇳🇬 Esther Elo JOSEPH\n🇨🇴 Evelis
+  AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻 Gunta VAICULE\n🇧🇪 Helena PONETTE\n🇳🇴
+  Henriette JAEGER\n🇯🇲 Junelle BROMFIELD\n🇵🇱 Justyna
+  SWIETY-ERSETIC\n🇺🇸 Kendall ELLIS\n🇨🇿 Lada VONDROVA\n🇨🇦 Lauren
+  GALE\n🇬🇧 Laviai NIELSEN\n🇳🇱 Lieke KLAVER\n🇨🇴 Lina Esther LICONA
+  TORRES\n🇨🇿 Lurdes Gloria MANUEL\n🇩🇴 Marileidy PAULINO\n🇨🇱 Martina
+  WEIL\n🇿🇦 Miranda Charlene COETZEE\n🇱🇹 Modesta Juste MORAUSKAITE\n🇵🇱
+  Natalia KACZMAREK\n🇯🇲 Nickisha PRYCE\n🇪🇨 Nicole CAICEDO\n🇮🇳 Pahal
+  KIRAN\n🇲🇽 Paola MORAN\n🇮🇪 Rhasidat ADELEKE\n🇨🇺 Roxana GOMEZ\n🇧🇧
+  Sada WILLIAMS\n🇧🇭 Salwa Eid NASER\n🇮🇪 Sharlene MAWDSLEY\n🇧🇸 Shaunae
+  MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇯🇲 Stacey Ann WILLIAMS\n🇦🇹 Susanne
+  GOGL-WALLI\n🇨🇿 Tereza PETRZILKOVA\n🇧🇷 Tiffani MARINHO\n🇬🇧 Victoria
+  OHURUOGU\n🇨🇦 Zoe SHERAR
+SUMMARY:🏃 여자 400m 1라운드
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T120000Z-equestrian--
 DTSTAMP:20240805T120000Z
 DTSTART:20240805T120000Z
@@ -234,6 +276,19 @@ SUMMARY:🏀 라트비아 🇱🇻 - 🇫🇷 프랑스
 LOCATION:라 콩코르드 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T170000Z-athletics--
+DTSTAMP:20240805T170000Z
+DTSTART:20240805T170000Z
+DTEND:20240805T192700Z
+DESCRIPTION:육상 - 남자 장대높이뛰기 결승\n🇸🇪 Armand DUPLANTIS\n🇩🇪 Bo Kanda LITA
+  BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu
+  SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱 Menno VLOON\n🇩🇪
+  Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre GUTTORMSEN\n🇱🇻 Valters
+  KREISS
+SUMMARY:🏃 남자 장대높이뛰기 결승
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T193000Z-3x3-basketball---LAT-LTU
 DTSTAMP:20240805T193000Z
 DTSTART:20240805T193000Z
@@ -241,6 +296,52 @@ DTEND:20240805T195500Z
 DESCRIPTION:3X3 농구 - 남자 동메달 결정전
 SUMMARY:🏀 라트비아 🇱🇻 - 🇱🇹 리투아니아
 LOCATION:라 콩코르드 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T082000Z-athletics--A
+DTSTAMP:20240806T082000Z
+DTSTART:20240806T082000Z
+DTEND:20240806T091600Z
+DESCRIPTION:육상 - 남자 창던지기 예선 - A조\n🇷🇴 Alexandru Mihaita NOVAC\n🇺🇸 Curtis
+  THOMPSON\n🇯🇵 DEAN Roderick Genki\n🇵🇱 Dawid WEGNER\n🇪🇬 Ihab
+  ABDELRAHMAN\n🇨🇿 Jakub VADLEJCH\n🇩🇪 Julian WEBER\n🇰🇪 Julius
+  YEGO\n🇹🇹 Keshorn WALCOTT\n🇮🇳 Kishore JENA\n🇵🇹 Leandro RAMOS\n🇫🇮
+  Oliver HELANDER\n🇱🇻 Patriks GAILUMS\n🇧🇷 Pedro Henrique
+  RODRIGUES\n🇫🇷 Teura'itera'i TUPAIA\n🇫🇮 Toni KERANEN
+SUMMARY:🏃 남자 창던지기 예선 - A조
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T092000Z-athletics--400M-
+DTSTAMP:20240806T092000Z
+DTSTART:20240806T092000Z
+DTEND:20240806T094500Z
+DESCRIPTION:육상 - 여자 400m 패자부활전\n🇮🇹 Alice MANGIONE\n🇬🇾 Aliyah
+  ABRAMS\n🇵🇹 Catia AZEVEDO\n🇧🇪 Cynthia BOLINGO\n🇳🇬 Ella
+  ONOJUVWEVWO\n🇦🇺 Ellie BEER\n🇨🇴 Evelis AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻
+  Gunta VAICULE\n🇧🇪 Helena PONETTE\n🇵🇱 Justyna SWIETY-ERSETIC\n🇺🇸
+  Kendall ELLIS\n🇨🇿 Lada VONDROVA\n🇨🇦 Lauren GALE\n🇨🇴 Lina Esther
+  LICONA TORRES\n🇨🇿 Lurdes Gloria MANUEL\n🇨🇱 Martina WEIL\n🇿🇦 Miranda
+  Charlene COETZEE\n🇱🇹 Modesta Juste MORAUSKAITE\n🇮🇳 Pahal KIRAN\n🇮🇪
+  Sharlene MAWDSLEY\n🇧🇸 Shaunae MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇨🇿
+  Tereza PETRZILKOVA\n🇧🇷 Tiffani MARINHO\n🇬🇧 Victoria OHURUOGU\n🇨🇦
+  Zoe SHERAR
+SUMMARY:🏃 여자 400m 패자부활전
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T095000Z-athletics--B
+DTSTAMP:20240806T095000Z
+DTSTART:20240806T095000Z
+DTEND:20240806T104600Z
+DESCRIPTION:육상 - 남자 창던지기 예선 - B조\n🇬🇩 Anderson PETERS\n🇲🇩 Andrian
+  MARDARE\n🇵🇰 Arshad NADEEM\n🇺🇦 Artur FELFNER\n🇦🇺 Cameron
+  McENTYRE\n🇳🇬 Chinecherem NNAMDI\n🇵🇱 Cyprian MRZYGLOD\n🇱🇹 Edis
+  MATUSEVICIUS\n🇱🇻 Gatis CAKSS\n🇫🇮 Lassi ETELATALO\n🇧🇷 Luiz Mauricio
+  da SILVA\n🇵🇱 Marcin KRUKOWSKI\n🇩🇪 Max DEHNING\n🇪🇬 Moustafa
+  MAHMOUD\n🇮🇳 Neeraj CHOPRA\n🇧🇪 Timothy HERMAN
+SUMMARY:🏃 남자 창던지기 예선 - B조
+LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T160000Z-beach-volleyball--8-BRA-LAT

@@ -31,6 +31,20 @@ SUMMARY:🔫 男子25mラピッドファイアピストル個人本選第1ステ
 LOCATION:シャトールー射撃センター
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T094500Z-athletics--B
+DTSTAMP:20240804T094500Z
+DTSTART:20240804T094500Z
+DTEND:20240804T104100Z
+DESCRIPTION:陸上競技 - 女子ハンマー投予選 - グループB\n🇫🇷 Alexandra TAVERNIER\n🇵🇱 Anita
+  WLODARCZYK\n🇺🇸 Deanna PRICE\n🇺🇦 Iryna KLYMETS\n🇩🇰 Katrine Koch
+  JACOBSEN\n🇫🇮 Krista TERVO\n🇮🇪 Nicola TUTHILL\n🇳🇬 Oyesade
+  OLATOYE\n🇭🇺 Reka GYURATZ\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara
+  FANTINI\n🇫🇮 Silja KOSONEN\n🇬🇷 Stamatia SCARVELIS\n🇧🇪 Vanessa
+  STERCKENDRIES\n🇨🇳 WANG Zheng\n🇲🇩 Zalina MARGHIEVA
+SUMMARY:🏃 女子ハンマー投予選 - グループB
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T110000Z-shooting-25M2
 DTSTAMP:20240804T110000Z
 DTSTART:20240804T110000Z
@@ -47,6 +61,24 @@ DESCRIPTION:射撃 - 男子25mラピッドファイアピストル個人本選�
   EVGLEVSKI\n🇮🇳 Vijayveer SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
 SUMMARY:🔫 男子25mラピッドファイアピストル個人本選第2ステージ
 LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T084000Z-athletics-
+DTSTAMP:20240805T084000Z
+DTSTART:20240805T084000Z
+DTEND:20240805T110000Z
+DESCRIPTION:陸上競技 - 女子棒高跳予選\n🇬🇷 Aikaterini STEFANIDI\n🇨🇦 Alysha
+  NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica MOSER\n🇨🇦 Anicka
+  NEWELL\n🇩🇪 Anjuli KNAESCHE\n🇬🇷 Ariadni ADAMOPOULOU\n🇺🇸 Bridget
+  WILLIAMS\n🇺🇸 Brynn KING\n🇬🇷 Eleni-Klaoudia POLAK\n🇫🇮 Elina
+  LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇭🇺 Hanga
+  KLEKNER\n🇬🇧 Holly BRADSHAW\n🇳🇿 Imogen AYRIS\n🇧🇷 Juliana de MENIS
+  CAMPOS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie
+  BONNIN\n🇬🇧 Molly CAUDERY\n🇨🇳 NIU Chunge\n🇦🇺 Nina KENNEDY\n🇫🇷
+  Ninon CHAPELLE\n🇳🇿 Olivia McTAGGART\n🇨🇭 Pascale STOCKLIN\n🇻🇪
+  Robeilys PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
+SUMMARY:🏃 女子棒高跳予選
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T120000Z-equestrian-
@@ -109,6 +141,43 @@ SUMMARY:🤼 Raiber Jose RODRIGUEZ OROZCO 🇻🇪 - 🇨🇳 CAO Liguo
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T191500Z-athletics-5000M
+DTSTAMP:20240805T191500Z
+DTSTART:20240805T191500Z
+DTEND:20240805T193200Z
+DESCRIPTION:陸上競技 - 女子5000m決勝\n🇰🇪 Beatrice CHEBET\n🇪🇹 Ejgayehu
+  TAYE\n🇺🇸 Elise CRANNY\n🇰🇪 Faith KIPYEGON\n🇧🇮 Francine
+  NIYOMUKUNZI\n🇪🇹 Gudaf TSEGAY\n🇻🇪 Joselyn Daniely BREA\n🇺🇸 Karissa
+  SCHWEIZER\n🇳🇴 Karoline Bjerkeli GROVDAL\n🇰🇪 Margaret Chelimo
+  KIPKEMBOI\n🇪🇹 Medina EISA\n🇮🇹 Nadia BATTOCLETTI\n🇫🇮 Nathalie
+  BLOMQVIST\n🇦🇺 Rose DAVIES\n🇳🇱 Sifan HASSAN\n🇺🇸 Whittni MORGAN
+SUMMARY:🏃 女子5000m決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080500Z-athletics-1500M
+DTSTAMP:20240806T080500Z
+DTSTART:20240806T080500Z
+DTEND:20240806T083400Z
+DESCRIPTION:陸上競技 - 女子1500m予選\n🇯🇲 Adelle TRACEY\n🇫🇷 Agathe
+  GUILLEMOT\n🇪🇸 Agueda MARQUES\n🇵🇱 Aleksandra PLOCINSKA\n🇪🇹 Birke
+  HAYLOM\n🇮🇪 Ciara MAGEEAN\n🇪🇹 Diribe WELTEJI\n🇧🇪 Elise
+  VANDERELST\n🇺🇸 Elle ST. PIERRE\n🇺🇸 Emily MACKAY\n🇪🇸 Esther
+  GUERRERO\n🇰🇪 Faith KIPYEGON\n🏳️ Farida ABAROGE\n🇮🇹 Federica del
+  BUONO\n🇯🇵 GOTO Yume\n🇬🇧 Georgia BELL\n🇦🇺 Georgia GRIFFITH\n🇪🇹
+  Gudaf TSEGAY\n🇦🇺 Jessica HULL\n🇻🇪 Joselyn Daniely BREA\n🇨🇦 Kate
+  CURRENT\n🇵🇱 Klaudia KAZIMIERSKA\n🇨🇿 Kristiina SASINEK MAKI\n🇬🇧
+  Laura MUIR\n🇦🇺 Linden HALL\n🇨🇦 Lucia STAFFORD\n🇮🇹 Ludovica
+  CAVALLI\n🇳🇿 Maia RAMSDEN\n🇺🇾 Maria Pia FERNANDEZ\n🇪🇸 Marta
+  PEREZ\n🇩🇪 Nele WESSEL\n🇰🇪 Nelly CHEPCHIRCHIR\n🇺🇸 Nikki HILTZ\n🇬🇧
+  Revee WALCOTT-NOLAN\n🇵🇹 Salome AFONSO\n🇫🇮 Sara LAPPALAINEN\n🇮🇪
+  Sarah HEALY\n🇨🇦 Simone PLOURDE\n🇮🇹 Sintayehu VISSA\n🇮🇪 Sophie
+  O'SULLIVAN\n🇰🇪 Susan Lokayo EJORE\n🇯🇵 TANAKA Nozomi\n🇱🇺 Vera
+  HOFFMANN\n🇵🇱 Weronika LIZAKOWSKA\n🇺🇬 Winnie NANYONDO
+SUMMARY:🏃 女子1500m予選
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T090000Z-wrestling-60KG-EGY-VEN
 DTSTAMP:20240806T090000Z
 DTSTART:20240806T090000Z
@@ -116,6 +185,93 @@ DTEND:20240806T090700Z
 DESCRIPTION:レスリング - 男子グレコローマンスタイル60kg級敗者復活戦
 SUMMARY:🤼 Moamen MOHAMED 🇪🇬 - 🇻🇪 Raiber Jose RODRIGUEZ OROZCO
 LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T175700Z-athletics-
+DTSTAMP:20240806T175700Z
+DTSTART:20240806T175700Z
+DTEND:20240806T190700Z
+DESCRIPTION:陸上競技 - 女子ハンマー投決勝\n🇵🇱 Anita WLODARCZYK\n🇺🇸 Annette Nneka
+  ECHIKUNWOKE\n🇷🇴 Bianca Florentina GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸
+  Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰 Katrine Koch JACOBSEN\n🇫🇮 Krista
+  TERVO\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja
+  KOSONEN\n🇨🇳 ZHAO Jie
+SUMMARY:🏃 女子ハンマー投決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T081000Z-taekwondo-58KG1-KOR-VEN
+DTSTAMP:20240807T081000Z
+DTSTART:20240807T081000Z
+DTEND:20240807T082200Z
+DESCRIPTION:テコンドー - 男子58kg級1回戦
+SUMMARY:🥋 PARK Taejoon 🇰🇷 - 🇻🇪 Yohandri GRANADO
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-weightlifting-49KG
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T200000Z
+DESCRIPTION:ウエイトリフティング - 女子49kg級\n🇩🇴 Beatriz PIRON CANDELARIO\n🇹🇼 FANG
+  Wan-Ling\n🇨🇳 HOU Zhihui\n🇺🇸 Jourdan DELACRUZ\n🇻🇪 Katherin ECHANDIA
+  ZARATE\n🇷🇴 Mihaela Valentina CAMBEI\n🇮🇳 Mirabai Chanu SAIKHOM\n🇬🇺
+  Nicola Velasco LAGATAO\n🇧🇪 Nina STERCKX\n🇲🇬 Rosina
+  RANDAFIARISON\n🇯🇵 SUZUKI Rira\n🇹🇭 Surodchana KHAMBAO
+SUMMARY:🏋 女子49kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T130000Z-weightlifting-59KG
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T153000Z
+DESCRIPTION:ウエイトリフティング - 女子59kg級\n🇻🇪 Anyelin VENEGAS VALERA\n🇫🇷 Dora
+  TCHAKOUNTE\n🇵🇭 Elreen Ann ANDO\n🇲🇽 Janeth GOMEZ VALDIVIA\n🇹🇼 KUO
+  Hsing-Chun\n🇺🇦 Kamila KONOTOP\n🇨🇳 LUO Shifang\n🇮🇹 Lucrezia
+  MAGISTRIS\n🇲🇭 Mathlynn SASSER\n🇨🇦 Maude CHARRON\n🇳🇬 Rafiatu
+  Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
+SUMMARY:🏋 女子59kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-73KG
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:ウエイトリフティング - 男子73kg級\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin KINGUE
+  MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA PERNIA\n🇹🇳
+  Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO Masanori\n🇹🇷 Muhammed
+  OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki JUNIANSYAH\n🇨🇳 SHI
+  Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 男子73kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-weightlifting-89KG
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T153000Z
+DESCRIPTION:ウエイトリフティング - 男子89kg級\n🇦🇲 Andranik KARAPETYAN\n🇮🇹 Antonino
+  PIZZOLATO\n🇨🇦 Boady SANTAVY\n🇪🇬 Karim ABOKAHLA\n🇧🇬 Karlos May
+  NASAR\n🇻🇪 Keydomar VALLENILLA SANCHEZ\n🇦🇺 Kyle BRUCE\n🇲🇩 Marin
+  ROBU\n🇮🇷 Mir Mostafa JAVADI ALIABADI\n🇫🇷 Romain IMADOUCHENE\n🇰🇷 YU
+  Dongju\n🇨🇴 Yeison LOPEZ
+SUMMARY:🏋 男子89kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T093000Z-weightlifting-81KG
+DTSTAMP:20240811T093000Z
+DTSTART:20240811T093000Z
+DTEND:20240811T120000Z
+DESCRIPTION:ウエイトリフティング - 女子81kg超級\n🇩🇴 Crismery SANTANA PEGUERO\n🇹🇭
+  Duangaksorn CHAIDEE\n🇬🇧 Emily CAMPBELL\n🇪🇬 Halima ABBAS\n🇼🇸
+  Iuniarra SIPAIA\n🇨🇳 LI Wenwen\n🇪🇨 Lisseth Betzaida AYOVI
+  CABEZAS\n🇺🇸 Mary THEISEN LAPPEN\n🇻🇪 Naryury PEREZ REVERON\n🇮🇩 Nurul
+  AKMAL\n🇰🇷 PARK Hyejeong\n🇺🇿 Tursunoy JABBOROVA
+SUMMARY:🏋 女子81kg超級
+LOCATION:サウス・パリ・アリーナ6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

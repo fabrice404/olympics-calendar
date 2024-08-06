@@ -190,6 +190,19 @@ SUMMARY:🏀 리투아니아 🇱🇹 - 🇷🇸 세르비아
 LOCATION:라 콩코르드 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T175500Z-athletics--
+DTSTAMP:20240804T175500Z
+DTSTART:20240804T175500Z
+DTEND:20240804T194000Z
+DESCRIPTION:육상 - 여자 높이뛰기 결승\n🇷🇸 Angelina TOPIC\n🇹🇷 Buse SAVASKAN\n🇩🇪
+  Christina HONSEL\n🇦🇺 Eleanor PATTERSON\n🇨🇾 Elena KULICHENKO\n🇺🇦
+  Iryna GERASHCHENKO\n🇫🇷 Nawal MENIKER\n🇦🇺 Nicola OLYSLAGERS\n🇺🇿
+  Safina SADULLAYEVA\n🇬🇷 Tatiana GUSIN\n🇧🇷 Valdileia MARTINS\n🇺🇸
+  Vashti CUNNINGHAM\n🇺🇦 Yaroslava MAHUCHIKH
+SUMMARY:🏃 여자 높이뛰기 결승
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T200500Z-3x3-basketball---SRB-FRA
 DTSTAMP:20240804T200500Z
 DTSTART:20240804T200500Z
@@ -259,6 +272,25 @@ DESCRIPTION:카누 스프린트 - 여자 카약 무타포어 500m 예선\n🇵�
   BESHARAH-HREBACKA\n🇨🇳 WANG Nan\n🇨🇳 YIN Mengdie\n🇦🇺 Yale STEINEPREIS
 SUMMARY:🛶 여자 카약 무타포어 500m 예선
 LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T091500Z-athletics--
+DTSTAMP:20240806T091500Z
+DTSTART:20240806T091500Z
+DTEND:20240806T102300Z
+DESCRIPTION:육상 - 여자 멀리뛰기 예선\n🇯🇲 Ackelia SMITH\n🇵🇹 Agate de SOUSA\n🇷🇴
+  Alina ROTARU-KOTTMANN\n🇦🇺 Brooke BUSCHKUEHL\n🇯🇲 Chanice PORTER\n🇧🇷
+  Eliane MARTINS\n🇳🇬 Ese BRUME\n🇪🇬 Esraa OWIS\n🇪🇸 Fatima DIAME\n🇯🇵
+  HATA Sumire\n🇫🇷 Hilary KPATCHA\n🇷🇸 Ivana SPANOVIC\n🇺🇸 Jasmine
+  MOORE\n🇮🇹 Larissa IAPICHINO\n🇩🇪 Laura Raquel MUELLER\n🇧🇷 Lissandra
+  Maysa CAMPOS\n🇩🇪 Malaika MIHAMBO\n🇧🇫 Marthe KOALA\n🇩🇪 Mikaelle
+  ASSANI\n🇷🇸 Milica GARDASEVIC\n🇺🇸 Monae' NICHOLS\n🇨🇴 Natalia
+  LINARES\n🇵🇱 Nikola HOROWSKA\n🇳🇱 Pauline HONDEMA\n🇭🇺 Petra
+  BANHIDI-FARKAS\n🇧🇬 Plamena MITKOVA\n🇳🇬 Prestina Oluchi
+  OCHONOGOR\n🇳🇬 Ruth USORO\n🇺🇸 Tara DAVIS-WOODHALL\n🇪🇸 Tessy
+  EBOSELE\n🇨🇳 XIONG Shiqi
+SUMMARY:🏃 여자 멀리뛰기 예선
+LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T093000Z-canoe-sprint--2-500M-

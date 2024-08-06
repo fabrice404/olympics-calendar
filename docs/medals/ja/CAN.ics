@@ -137,6 +137,38 @@ SUMMARY:🤸 女子種目別跳馬決勝
 LOCATION:ベルシー・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T183000Z-swimming-100M
+DTSTAMP:20240803T183000Z
+DTSTART:20240803T183000Z
+DTEND:20240803T183700Z
+DESCRIPTION:競泳 - 男子100mバタフライ決勝\n🇨🇦 Ilya KHARUN\n🇨🇦 Josh LIENDO\n🇭🇺
+  Kristof MILAK\n🇯🇵 MIZUNUMA Naoki\n🇦🇺 Matthew TEMPLE\n🇫🇷 Maxime
+  GROUSSET\n🇨🇭 Noe PONTI\n🇳🇱 Nyls KORSTANJE
+SUMMARY:🏊 男子100mバタフライ決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T190800Z-swimming-200M
+DTSTAMP:20240803T190800Z
+DTSTART:20240803T190800Z
+DTEND:20240803T191500Z
+DESCRIPTION:競泳 - 女子200m個人メドレー決勝\n🇬🇧 Abbie WOOD\n🇺🇸 Alex WALSH\n🇦🇺
+  Ella RAMSAY\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee McKEOWN\n🇨🇦 Summer
+  McINTOSH\n🇨🇦 Sydney PICKREM\n🇨🇳 YU Yiting
+SUMMARY:🏊 女子200m個人メドレー決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T195800Z-swimming-4100M
+DTSTAMP:20240803T195800Z
+DTSTART:20240803T195800Z
+DTEND:20240803T200800Z
+DESCRIPTION:競泳 - 混合4×100mメドレーリレー決勝\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇨🇦 カナダ\n🇫🇷 フランス\n🇨🇳 中国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 混合4×100mメドレーリレー決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T070000Z-golf-4
 DTSTAMP:20240804T070000Z
 DTSTART:20240804T070000Z
@@ -162,6 +194,15 @@ DESCRIPTION:ゴルフ - 男子第4ラウンド\n🇰🇷 AN Byeong Hun\n🇲🇽
   YUAN Yechun
 SUMMARY:⛳ 男子第4ラウンド
 LOCATION:国立ゴルフ場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T103600Z-boxing-635KG--CAN-FRA
+DTSTAMP:20240804T103600Z
+DTSTART:20240804T103600Z
+DTEND:20240804T104700Z
+DESCRIPTION:ボクシング - 男子63.5kg級 - 準決勝
+SUMMARY:🥊 Wyatt SANFORD 🇨🇦 - 🇫🇷 Sofiane OUMIHA
+LOCATION:ノース・パリ・アリーナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-
@@ -201,6 +242,39 @@ DESCRIPTION:自転車ロードレース - 女子ロードレース\n🇵🇱 Agn
   HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 女子ロードレース
 LOCATION:トロカベロ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T171000Z-swimming-4100M
+DTSTAMP:20240804T171000Z
+DTSTART:20240804T171000Z
+DTEND:20240804T172000Z
+DESCRIPTION:競泳 - 男子4×100mメドレーリレー決勝\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇨🇦 カナダ\n🇩🇪 ドイツ\n🇫🇷 フランス\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🏊 男子4×100mメドレーリレー決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T173200Z-swimming-4100M
+DTSTAMP:20240804T173200Z
+DTSTART:20240804T173200Z
+DTEND:20240804T174200Z
+DESCRIPTION:競泳 - 女子4×100mメドレーリレー決勝\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇨🇦 カナダ\n🇸🇪 スウェーデン\n🇫🇷 フランス\n🇨🇳 中国\n🇯🇵 日本
+SUMMARY:🏊 女子4×100mメドレーリレー決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T183000Z-athletics-
+DTSTAMP:20240804T183000Z
+DTSTART:20240804T183000Z
+DTEND:20240804T194000Z
+DESCRIPTION:陸上競技 - 男子ハンマー投決勝\n🇭🇺 Bence HALASZ\n🇬🇷 Christos
+  FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇩🇪 Merlin
+  HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel FAJDEK\n🇨🇦 Rowan
+  HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱 Wojciech
+  NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 男子ハンマー投決勝
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T122300Z-artistic-gymnastics-
@@ -247,6 +321,82 @@ DESCRIPTION:飛込 - 女子10m高飛込決勝\n🇯🇵 ARAI Matsuri\n🇲🇽 A
   GARCIA\n🇰🇵 KIM Mi Rae\n🇦🇺 Melissa WU\n🇨🇳 QUAN Hongchan\n🇮🇹 Sarah
   JODOIN di MARIA
 SUMMARY:🏊 女子10m高飛込決勝
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T175700Z-athletics-
+DTSTAMP:20240806T175700Z
+DTSTART:20240806T175700Z
+DTEND:20240806T190700Z
+DESCRIPTION:陸上競技 - 女子ハンマー投決勝\n🇵🇱 Anita WLODARCZYK\n🇺🇸 Annette Nneka
+  ECHIKUNWOKE\n🇷🇴 Bianca Florentina GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸
+  Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰 Katrine Koch JACOBSEN\n🇫🇮 Krista
+  TERVO\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja
+  KOSONEN\n🇨🇳 ZHAO Jie
+SUMMARY:🏃 女子ハンマー投決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming-
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:アーティスティックスイミング - チームアクロバティックルーティン\n🇺🇸 アメリカ合衆国\n🇮🇹
+  イタリア\n🇪🇬 エジプト\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽
+  メキシコ\n🇨🇳 中国\n🇯🇵 日本
+SUMMARY:🏊 チームアクロバティックルーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T194300Z-athletics-3000M
+DTSTAMP:20240807T194300Z
+DTSTART:20240807T194300Z
+DTEND:20240807T195200Z
+DESCRIPTION:陸上競技 - 男子3000m障害決勝\n🇰🇪 Abraham KIBIWOT\n🇹🇳 Ahmed
+  JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund SABLE\n🇪🇸 Daniel
+  ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon DESGAGNES\n🇺🇸 Kenneth
+  ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳
+  Mohamed Amin JHINAOUI\n🇲🇦 Mohamed TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪
+  Simon Kiprop KOECH\n🇲🇦 Soufiane EL BAKKALI
+SUMMARY:🏃 男子3000m障害決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T130000Z-weightlifting-59KG
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T153000Z
+DESCRIPTION:ウエイトリフティング - 女子59kg級\n🇻🇪 Anyelin VENEGAS VALERA\n🇫🇷 Dora
+  TCHAKOUNTE\n🇵🇭 Elreen Ann ANDO\n🇲🇽 Janeth GOMEZ VALDIVIA\n🇹🇼 KUO
+  Hsing-Chun\n🇺🇦 Kamila KONOTOP\n🇨🇳 LUO Shifang\n🇮🇹 Lucrezia
+  MAGISTRIS\n🇲🇭 Mathlynn SASSER\n🇨🇦 Maude CHARRON\n🇳🇬 Rafiatu
+  Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
+SUMMARY:🏋 女子59kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-weightlifting-89KG
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T153000Z
+DESCRIPTION:ウエイトリフティング - 男子89kg級\n🇦🇲 Andranik KARAPETYAN\n🇮🇹 Antonino
+  PIZZOLATO\n🇨🇦 Boady SANTAVY\n🇪🇬 Karim ABOKAHLA\n🇧🇬 Karlos May
+  NASAR\n🇻🇪 Keydomar VALLENILLA SANCHEZ\n🇦🇺 Kyle BRUCE\n🇲🇩 Marin
+  ROBU\n🇮🇷 Mir Mostafa JAVADI ALIABADI\n🇫🇷 Romain IMADOUCHENE\n🇰🇷 YU
+  Dongju\n🇨🇴 Yeison LOPEZ
+SUMMARY:🏋 男子89kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming-
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:アーティスティックスイミング - デュエットフリールーティン\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットフリールーティン
 LOCATION:アクアティックス・センター
 END:VEVENT
 END:VCALENDAR

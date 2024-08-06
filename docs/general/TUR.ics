@@ -72,6 +72,25 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T074300Z-archery-WOMENS-INDIVIDUAL-18-ELIMINATION-ROUND-TUR-JPN
 DTSTAMP:20240803T074300Z
 DTSTART:20240803T074300Z
@@ -79,6 +98,34 @@ DTEND:20240803T075600Z
 DESCRIPTION:Archery - Women's Individual 1/8 Elimination Round
 SUMMARY:🏹 Elif Berra GOKKIR 🇹🇷 - 🇯🇵 NODA Satsuki
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T080600Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-16-KOR-TUR
+DTSTAMP:20240803T080600Z
+DTSTART:20240803T080600Z
+DTEND:20240803T082800Z
+DESCRIPTION:Judo - Mixed Team Elimination Round of 16
+SUMMARY:🥋 KOR 🇰🇷 - 🇹🇷 TUR
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T081000Z-athletics-MENS-POLE-VAULT-QUALIFICATION
+DTSTAMP:20240803T081000Z
+DTSTART:20240803T081000Z
+DTEND:20240803T103000Z
+DESCRIPTION:Athletics - Men's Pole Vault Qualification\n🇫🇷 Anthony
+  AMMIRATI\n🇸🇪 Armand DUPLANTIS\n🇧🇪 Ben BROEDERS\n🇩🇪 Bo Kanda LITA
+  BAEHRE\n🇺🇸 Christopher NILSEN\n🇮🇹 Claudio Michel STECCHI\n🇨🇿 David
+  HOLY\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu
+  SASMA\n🇨🇳 HUANG Bokai\n🇸🇦 Hussain Asim AL HIZAM\n🇺🇸 Jacob
+  WOOTEN\n🇦🇺 Kurtis MARSCHALL\n🇨🇿 Matej SCERBA\n🇳🇱 Menno VLOON\n🇩🇪
+  Oleg ZERNIKEL\n🇳🇴 Pal Haugen LILLEFOSSE\n🇵🇹 Pedro BUARO\n🇵🇱 Piotr
+  LISEK\n🇵🇱 Robert SOBERA\n🇫🇷 Robin EMIG\n🇺🇸 Sam KENDRICKS\n🇳🇴
+  Simen GUTTORMSEN\n🇳🇴 Sondre GUTTORMSEN\n🇫🇷 Thibaut COLLET\n🇩🇪
+  Torben BLECH\n🇫🇮 Urho KUJANPAA\n🇱🇻 Valters KREISS\n🇨🇳 YAO Jie\n🇨🇳
+  ZHONG Tao
+SUMMARY:🏃 Men's Pole Vault Qualification
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
@@ -134,6 +181,38 @@ DESCRIPTION:Swimming - Men's 1500m Freestyle - Heats\n🇹🇳 Ahmed
   STANCU\n🇭🇺 Zalan SARKANY
 SUMMARY:🏊 Men's 1500m Freestyle - Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T095500Z-athletics-MENS-100M-ROUND-1
+DTSTAMP:20240803T095500Z
+DTSTART:20240803T095500Z
+DTEND:20240803T104400Z
+DESCRIPTION:Athletics - Men's 100m Round 1\n🇨🇦 Aaron BROWN\n🇬🇭
+  Abdul-Rasheed SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇴🇲 Ali
+  Anwar Ali AL BALUSHI\n🇨🇦 Andre De GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦
+  Arturo Harmodio DELISER ESPINOSA\n🇬🇭 Benjamin AZAMATI\n🇿🇦 Benjamin
+  RICHARDSON\n🇦🇬 Cejhae GREENE\n🇮🇹 Chituru ALI\n🇭🇹 Christopher
+  BORZOR\n🇰🇾 Davonte HOWELL\n🇹🇹 Devin AUGUSTINE\n🇨🇩 Dominique Lasconi
+  MULAMBA\n🏳️ Dorian KELETELA\n🇨🇦 Duan ASEMOTA\n🇸🇨 Dylan SICOBO\n🇬🇲
+  Ebrahima CAMARA\n🇬🇾 Emanuel ARCHIBALD\n🇨🇲 Emmanuel ESEME\n🇱🇷
+  Emmanuel MATADI\n🇧🇷 Erik CARDOSO\n🇳🇬 Favour Oghene Tejiri ASHE\n🇧🇷
+  Felipe BARDI\n🇰🇪 Ferdinand OMANYALA\n🇦🇱 Franko BURRAJ\n🇺🇸 Fred
+  KERLEY\n🇲🇺 Gary Noa Jerrel BIBI\n🇯🇵 HIGASHIDA Akihiro\n🇰🇲 Hachim
+  MAAROUFOU\n🇮🇷 Hassan TAFTIAN\n🇸🇪 Henrik LARSSON\n🇬🇧 Jeremiah
+  AZU\n🇨🇴 Jhonny RENTERIA JIMENEZ\n🇩🇴 Jose GONZALEZ\n🇦🇺 Joshua
+  AZZOPARDI\n🇩🇪 Joshua HARTMANN\n🇹🇷 Kayhan OZER\n🇳🇬 Kayinsola
+  AJAYI\n🇺🇸 Kenneth BEDNAREK\n🇯🇲 Kishane THOMPSON\n🇮🇩 Lalu Muhammad
+  ZOHRI\n🇮🇹 Lamont Marcell JACOBS\n🇧🇼 Letsile TEBOGO\n🇬🇧 Louie
+  HINCHLIFFE\n🇸🇬 Marc Brian LOUIS\n🇦🇴 Marcos SANTOS\n🇦🇹 Markus
+  FUCHS\n🇲🇾 Muhd Azeem FAHMI\n🇰🇳 Naquille HARRIS\n🇺🇸 Noah LYLES\n🇯🇲
+  Oblique SEVILLE\n🇵🇱 Oliwer WDOWIK\n🇩🇪 Owen ANSAH\n🇧🇷 Paulo Andre
+  CAMILO\n🇹🇭 Puripol BOONSON\n🇨🇺 Reynaldo R. ESPINOSA\n🇻🇬 Rikkoi
+  BRATHWAITE\n🇦🇺 Rohan BROWNING\n🇨🇴 Ronal LONGA\n🇯🇵 SAKAI
+  Ryuichiro\n🇯🇵 SANI BROWN Abdul Hakim\n🇿🇦 Shaun MASWANGANYI\n🇸🇿
+  Sibusiso MATSENJWA\n🇩🇰 Simon HANSEN\n🇮🇶 Taha Hussein YASEEN\n🇧🇸
+  Terrence JONES\n🇧🇸 Wanya McCOY\n🇨🇳 XIE Zhenye\n🇬🇧 Zharnel HUGHES
+SUMMARY:🏃 Men's 100m Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T100500Z-sailing-WOMENS-DINGHY-RACE-4
@@ -358,6 +437,15 @@ SUMMARY:🥊 Buse Naz CAKIROGLU 🇹🇷 - 🇫🇮 Pihla KAIVO-OJA
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T070000Z-volleyball-WOMENS-PRELIMINARY-ROUND-POOL-C-ITA-TUR
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T091500Z
+DESCRIPTION:Volleyball - Women's Preliminary Round - Pool C
+SUMMARY:🏐 ITA 🇮🇹 - 🇹🇷 TUR
+LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T073000Z-archery-MENS-INDIVIDUAL-18-ELIMINATION-ROUND-FRA-TUR
 DTSTAMP:20240804T073000Z
 DTSTART:20240804T073000Z
@@ -365,6 +453,25 @@ DTEND:20240804T074300Z
 DESCRIPTION:Archery - Men's Individual 1/8 Elimination Round
 SUMMARY:🏹 Thomas CHIRAULT 🇫🇷 - 🇹🇷 Mete GAZOZ
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T073000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-2
+DTSTAMP:20240804T073000Z
+DTSTART:20240804T073000Z
+DTEND:20240804T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 2\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 2
+LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T082200Z-archery-MENS-INDIVIDUAL-18-ELIMINATION-ROUND-USA-TUR
@@ -559,6 +666,19 @@ SUMMARY:⛵ Women's Dinghy - Race 7
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T130000Z-artistic-gymnastics-MENS-RINGS-FINAL
+DTSTAMP:20240804T130000Z
+DTSTART:20240804T130000Z
+DTEND:20240804T133700Z
+DESCRIPTION:Artistic Gymnastics - Men's Rings Final\n🇹🇷 Adem ASIL\n🇺🇸
+  Asher HONG\n🇬🇷 Eleftherios PETROUNIAS\n🇧🇪 Glen CUYLE\n🇬🇧 Harry
+  HEPWORTH\n🇹🇷 Ibrahim COLAK\n🇨🇳 LIU Yang\n🇫🇷 Samir AIT SAID\n🇯🇵
+  TANIGAWA Wataru\n🇦🇲 Vahagn DAVTYAN\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU
+  Jingyuan
+SUMMARY:🤸 Men's Rings Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T134500Z-sailing-MIXED-MULTIHULL-RACE-4
 DTSTAMP:20240804T134500Z
 DTSTART:20240804T134500Z
@@ -596,6 +716,18 @@ DESCRIPTION:Sailing - Women's Dinghy - Race 8\n🇧🇲 Adriana
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Women's Dinghy - Race 8
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T142400Z-artistic-gymnastics-MENS-VAULT-FINAL
+DTSTAMP:20240804T142400Z
+DTSTART:20240804T142400Z
+DTEND:20240804T150700Z
+DESCRIPTION:Artistic Gymnastics - Men's Vault Final\n🇹🇷 Adem ASIL\n🇦🇲
+  Artur DAVTYAN\n🇺🇸 Asher HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel
+  YULO\n🇬🇧 Harry HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷
+  LEE Junho\n🇮🇷 Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
+SUMMARY:🤸 Men's Vault Final
+LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T143400Z-boxing-WOMENS-54KG-SEMIFINAL-TUR-KOR
@@ -649,6 +781,53 @@ DESCRIPTION:Swimming - Men's 1500m Freestyle Final\n🇹🇳 Ahmed
   TUNCELLI
 SUMMARY:🏊 Men's 1500m Freestyle Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T175500Z-athletics-WOMENS-HIGH-JUMP-FINAL
+DTSTAMP:20240804T175500Z
+DTSTART:20240804T175500Z
+DTEND:20240804T194000Z
+DESCRIPTION:Athletics - Women's High Jump Final\n🇷🇸 Angelina TOPIC\n🇹🇷
+  Buse SAVASKAN\n🇩🇪 Christina HONSEL\n🇦🇺 Eleanor PATTERSON\n🇨🇾 Elena
+  KULICHENKO\n🇺🇦 Iryna GERASHCHENKO\n🇫🇷 Nawal MENIKER\n🇦🇺 Nicola
+  OLYSLAGERS\n🇺🇿 Safina SADULLAYEVA\n🇬🇷 Tatiana GUSIN\n🇧🇷 Valdileia
+  MARTINS\n🇺🇸 Vashti CUNNINGHAM\n🇺🇦 Yaroslava MAHUCHIKH
+SUMMARY:🏃 Women's High Jump Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080500Z-athletics-MENS-400M-HURDLES-ROUND-1
+DTSTAMP:20240805T080500Z
+DTSTART:20240805T080500Z
+DTEND:20240805T083800Z
+DESCRIPTION:Athletics - Men's 400m Hurdles Round 1\n🇶🇦 Abderrahman
+  SAMBA\n🇬🇧 Alastair CHALMERS\n🇮🇹 Alessandro SIBILIO\n🇧🇷 Alison dos
+  SANTOS\n🇶🇦 Bassem HEMEIDA\n🇹🇷 Berke AKCAM\n🇸🇪 Carl BENGTSTROM\n🇺🇸
+  Cj ALLEN\n🇫🇷 Clement DUCOS\n🇩🇪 Constantin PREIS\n🇩🇪 Emil
+  AGYEKUM\n🇳🇬 Ezekiel NATHANIEL\n🇨🇷 Gerald DRUMMOND\n🇶🇦 Ismail Doudai
+  ABAKAR\n🇯🇲 Jaheel HYDE\n🇩🇪 Joshua ABUAKU\n🇨🇭 Julien BONVIN\n🇳🇴
+  Karsten WARHOLM\n🇻🇬 Kyron McMASTER\n🇯🇲 Malik JAMES-KING\n🇧🇷 Matheus
+  LIMA\n🇸🇮 Matic Ian GUCEK\n🇳🇱 Nick SMIDT\n🇯🇵 OGAWA Daiki\n🇸🇪 Oskar
+  EDLUND\n🇹🇼 PENG Ming-Yang\n🇺🇸 Rai BENJAMIN\n🇪🇪 Rasmus MAGI\n🇯🇲
+  Roshawn CLARKE\n🇯🇵 TOYODA Ken\n🇯🇵 TSUTSUE Kaito\n🇺🇸 Trevor
+  BASSITT\n🇧🇼 Victor NTWENG\n🇨🇿 Vit MULLER\n🇫🇷 Wilfried HAPPIO\n🇰🇪
+  Wiseman Were MUKHOBE\n🇨🇳 XIE Zhiyu\n🇹🇷 Yasmani COPELLO\n🇩🇴 Yeral
+  NUNEZ
+SUMMARY:🏃 Men's 400m Hurdles Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T094500Z-artistic-gymnastics-MENS-PARALLEL-BARS-FINAL
+DTSTAMP:20240805T094500Z
+DTSTART:20240805T094500Z
+DTEND:20240805T102400Z
+DESCRIPTION:Artistic Gymnastics - Men's Parallel Bars Final\n🇨🇴 Angel
+  BARAJAS\n🇹🇷 Ferhat ARICAN\n🇯🇵 HASHIMOTO Daiki\n🇺🇦 Illia
+  KOVTUN\n🇬🇧 Joe FRASER\n🇯🇵 KAYA Kazuma\n🇭🇺 Krisztofer MESZAROS\n🇩🇪
+  Lukas DAUSER\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇯🇵 TANIGAWA
+  Wataru\n🇨🇳 XIAO Ruoteng\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU Jingyuan
+SUMMARY:🤸 Men's Parallel Bars Final
+LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T100300Z-sailing-WOMENS-KITE-RACE-5
@@ -845,6 +1024,28 @@ SUMMARY:⛵ Men's Dinghy - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T170000Z-athletics-MENS-POLE-VAULT-FINAL
+DTSTAMP:20240805T170000Z
+DTSTART:20240805T170000Z
+DTEND:20240805T192700Z
+DESCRIPTION:Athletics - Men's Pole Vault Final\n🇸🇪 Armand DUPLANTIS\n🇩🇪
+  Bo Kanda LITA BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John
+  OBIENA\n🇹🇷 Ersu SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱
+  Menno VLOON\n🇩🇪 Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre
+  GUTTORMSEN\n🇱🇻 Valters KREISS
+SUMMARY:🏃 Men's Pole Vault Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T070000Z-volleyball-WOMENS-QUARTERFINALS-CHN-TUR
+DTSTAMP:20240806T070000Z
+DTSTART:20240806T070000Z
+DTEND:20240806T091500Z
+DESCRIPTION:Volleyball - Women's Quarterfinals
+SUMMARY:🏐 CHN 🇨🇳 - 🇹🇷 TUR
+LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T090000Z-wrestling-WOMENS-FREESTYLE-68KG-REPECHAGE-TUR-POL
 DTSTAMP:20240806T090000Z
 DTSTART:20240806T090000Z
@@ -870,6 +1071,21 @@ DTEND:20240806T100300Z
 DESCRIPTION:Wrestling - Men's Greco-Roman 77kg 1/8 Final
 SUMMARY:🤼 Zoltan LEVAI 🇭🇺 - 🇹🇷 Burhan AKBUDAK
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T100000Z-athletics-MENS-400M-HURDLES-REPECHAGE-ROUND
+DTSTAMP:20240806T100000Z
+DTSTART:20240806T100000Z
+DTEND:20240806T101700Z
+DESCRIPTION:Athletics - Men's 400m Hurdles Repechage Round\n🇶🇦 Bassem
+  HEMEIDA\n🇹🇷 Berke AKCAM\n🇸🇪 Carl BENGTSTROM\n🇩🇪 Constantin
+  PREIS\n🇩🇪 Emil AGYEKUM\n🇨🇷 Gerald DRUMMOND\n🇩🇪 Joshua ABUAKU\n🇨🇭
+  Julien BONVIN\n🇸🇮 Matic Ian GUCEK\n🇯🇵 OGAWA Daiki\n🇸🇪 Oskar
+  EDLUND\n🇯🇵 TOYODA Ken\n🇯🇵 TSUTSUE Kaito\n🇺🇸 Trevor BASSITT\n🇧🇼
+  Victor NTWENG\n🇨🇿 Vit MULLER\n🇨🇳 XIE Zhiyu\n🇹🇷 Yasmani
+  COPELLO\n🇩🇴 Yeral NUNEZ
+SUMMARY:🏃 Men's 400m Hurdles Repechage Round
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T100500Z-sailing-MIXED-MULTIHULL-RACE-10
@@ -1085,6 +1301,15 @@ SUMMARY:⛵ Women's Kite - Race 11
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T102500Z-taekwondo-WOMEN-49KG-ROUND-OF-16-TUR-ITA
+DTSTAMP:20240807T102500Z
+DTSTART:20240807T102500Z
+DTEND:20240807T103700Z
+DESCRIPTION:Taekwondo - Women -49kg Round of 16
+SUMMARY:🥋 Merve DINCEL KAVURAT 🇹🇷 - 🇮🇹 Ilenia Elisabetta MATONTI
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T110300Z-sailing-WOMENS-KITE-RACE-12
 DTSTAMP:20240807T110300Z
 DTSTART:20240807T110300Z
@@ -1174,6 +1399,24 @@ SUMMARY:🥊 LIN Yu Ting 🇹🇼 - 🇹🇷 Esra YILDIZ KAHRAMAN
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T073300Z-taekwondo-WOMEN-57KG-ROUND-OF-16-TUR-KOR
+DTSTAMP:20240808T073300Z
+DTSTART:20240808T073300Z
+DTEND:20240808T074600Z
+DESCRIPTION:Taekwondo - Women -57kg Round of 16
+SUMMARY:🥋 Hatice Kubra ILGUN 🇹🇷 - 🇰🇷 KIM Yujin
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T101300Z-taekwondo-MEN-68KG-ROUND-OF-16-TUR-BUR
+DTSTAMP:20240808T101300Z
+DTSTART:20240808T101300Z
+DTEND:20240808T102500Z
+DESCRIPTION:Taekwondo - Men -68kg Round of 16
+SUMMARY:🥋 Hakan RECBER 🇹🇷 - 🇧🇫 Ibrahim MAIGA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T173000Z-weightlifting-MENS-73KG
 DTSTAMP:20240808T173000Z
 DTSTART:20240808T173000Z
@@ -1194,6 +1437,24 @@ DTEND:20240808T210200Z
 DESCRIPTION:Boxing - Women's 54kg - Final
 SUMMARY:🥊 CHANG Yuan 🇨🇳 - 🇹🇷 Hatice AKBAS
 LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T074600Z-taekwondo-MEN-80KG-ROUND-OF-16-TUR-CUB
+DTSTAMP:20240810T074600Z
+DTSTART:20240810T074600Z
+DTEND:20240810T075800Z
+DESCRIPTION:Taekwondo - Men +80kg Round of 16
+SUMMARY:🥋 Emre Kutalmis ATESLI 🇹🇷 - 🇨🇺 Rafael ALBA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T082200Z-taekwondo-WOMEN-67KG-ROUND-OF-16-TUR-CHI
+DTSTAMP:20240810T082200Z
+DTSTART:20240810T082200Z
+DTEND:20240810T083500Z
+DESCRIPTION:Taekwondo - Women +67kg Round of 16
+SUMMARY:🥋 Nafia KUS AYDIN 🇹🇷 - 🇨🇱 Fernanda AGUIRRE
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

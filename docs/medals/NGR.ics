@@ -4,6 +4,19 @@ PRODID:-//fabrice404//olympics-calendar//medals/NGR//EN
 X-WR-CALNAME:🇳🇬 Nigeria 🏅 | Paris 2024
 NAME:🇳🇬 Nigeria 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240803T173500Z-athletics-MENS-SHOT-PUT-FINAL
+DTSTAMP:20240803T173500Z
+DTSTART:20240803T173500Z
+DTEND:20240803T184500Z
+DESCRIPTION:Athletics - Men's Shot Put Final\n🇳🇬 Chukwuebuka Cornnell
+  ENEKWECHI\n🇳🇿 Jacko GILL\n🇺🇸 Joe KOVACS\n🇮🇹 Leonardo FABBRI\n🇳🇴
+  Marcus THOMSEN\n🇺🇸 Payton OTTERDAHL\n🇯🇲 Rajindra CAMPBELL\n🇺🇸 Ryan
+  CROUSER\n🇳🇿 Tom WALSH\n🇨🇿 Tomas STANEK\n🇲🇽 Uziel MUNOZ\n🇮🇹 Zane
+  WEIR
+SUMMARY:🏃 Men's Shot Put Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
 DTSTAMP:20240804T120000Z
 DTSTART:20240804T120000Z
@@ -51,6 +64,17 @@ DESCRIPTION:Wrestling - Women's Freestyle 68kg Bronze Medal Match\n🇳🇬
   Blessing OBORUDUDU
 SUMMARY:🤼 Women's Freestyle 68kg Bronze Medal Match
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T194000Z-athletics-WOMENS-200M-FINAL
+DTSTAMP:20240806T194000Z
+DTSTART:20240806T194000Z
+DTEND:20240806T194100Z
+DESCRIPTION:Athletics - Women's 200m Final\n🇺🇸 Brittany BROWN\n🇬🇧
+  Daryll NEITA\n🇬🇧 Dina ASHER-SMITH\n🇳🇬 Favour OFILI\n🇺🇸 Gabrielle
+  THOMAS\n🇨🇮 Jessika GBAI\n🇱🇨 Julien ALFRED\n🇺🇸 McKenzie LONG
+SUMMARY:🏃 Women's 200m Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T130000Z-weightlifting-WOMENS-59KG

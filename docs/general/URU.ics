@@ -4,6 +4,42 @@ PRODID:-//fabrice404//olympics-calendar//general/URU//EN
 X-WR-CALNAME:🇺🇾 Uruguay | Paris 2024
 NAME:🇺🇾 Uruguay | Paris 2024
 BEGIN:VEVENT
+UID:20240724T150000Z-rugby-sevens-MENS-POOL-C-FIJ-URU
+DTSTAMP:20240724T150000Z
+DTSTART:20240724T150000Z
+DTEND:20240724T151600Z
+DESCRIPTION:Rugby Sevens - Men's Pool C
+SUMMARY:🏉 FIJ 🇫🇯 - 🇺🇾 URU
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240724T180000Z-rugby-sevens-MENS-POOL-C-FRA-URU
+DTSTAMP:20240724T180000Z
+DTSTART:20240724T180000Z
+DTEND:20240724T181600Z
+DESCRIPTION:Rugby Sevens - Men's Pool C
+SUMMARY:🏉 FRA 🇫🇷 - 🇺🇾 URU
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T130000Z-rugby-sevens-MENS-POOL-C-USA-URU
+DTSTAMP:20240725T130000Z
+DTSTART:20240725T130000Z
+DTEND:20240725T131600Z
+DESCRIPTION:Rugby Sevens - Men's Pool C
+SUMMARY:🏉 USA 🇺🇸 - 🇺🇾 URU
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T183000Z-rugby-sevens-MENS-PLACING-9-12-URU-KEN
+DTSTAMP:20240725T183000Z
+DTSTART:20240725T183000Z
+DTEND:20240725T184600Z
+DESCRIPTION:Rugby Sevens - Men's Placing 9-12
+SUMMARY:🏉 URU 🇺🇾 - 🇰🇪 KEN
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -130,6 +166,26 @@ SUMMARY:⛵ Women's Dinghy - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T090000Z-athletics-MENS-LONG-JUMP-QUALIFICATION
+DTSTAMP:20240804T090000Z
+DTSTART:20240804T090000Z
+DTEND:20240804T095600Z
+DESCRIPTION:Athletics - Men's Long Jump Qualification\n🇨🇺 Alejandro
+  PARADA\n🇺🇿 Anvar ANVAROV\n🇨🇴 Arnovis DALMERO\n🇧🇬 Bozhidar
+  SARABOYUKOV\n🇯🇲 Carey McLEOD\n🇿🇦 Cheswill JOHNSON\n🇦🇺 Christopher
+  MITREVSKI\n🇺🇾 Emiliano LASA\n🇭🇷 Filip PRAVDICA\n🇯🇵 HASHIOKA
+  Yuki\n🇬🇧 Jacob FINCHAM-DUKES\n🇺🇸 Jarrion LAWSON\n🇺🇸 Jeremiah
+  DAVIS\n🇮🇳 Jeswin ALDRIN\n🇿🇦 Jovan van VUUREN\n🇹🇼 LIN Yu-Tang\n🇦🇺
+  Liam ADCOCK\n🇧🇷 Lucas Marcelino dos SANTOS\n🇺🇸 Malcolm CLEMONS\n🇮🇹
+  Mattia FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🏳️ Mohammad Amin
+  ALSALAMI\n🇨🇿 Petr MEINDLSCHMID\n🇨🇿 Radek JUSKA\n🇨🇳 SHI Yuhao\n🇩🇪
+  Simon BATZ\n🇨🇭 Simon EHAMMER\n🇯🇲 Tajay GAYLE\n🇸🇪 Thobias
+  MONTLER\n🇫🇷 Tom CAMPAGNE\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳
+  ZHANG Mingkun
+SUMMARY:🏃 Men's Long Jump Qualification
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T123500Z-sailing-WOMENS-DINGHY-RACE-7
 DTSTAMP:20240804T123500Z
 DTSTART:20240804T123500Z
@@ -220,6 +276,57 @@ DESCRIPTION:Sailing - Women's Dinghy - Race 10\n🇧🇲 Adriana
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Women's Dinghy - Race 10
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080500Z-athletics-WOMENS-1500M-ROUND-1
+DTSTAMP:20240806T080500Z
+DTSTART:20240806T080500Z
+DTEND:20240806T083400Z
+DESCRIPTION:Athletics - Women's 1500m Round 1\n🇯🇲 Adelle TRACEY\n🇫🇷
+  Agathe GUILLEMOT\n🇪🇸 Agueda MARQUES\n🇵🇱 Aleksandra PLOCINSKA\n🇪🇹
+  Birke HAYLOM\n🇮🇪 Ciara MAGEEAN\n🇪🇹 Diribe WELTEJI\n🇧🇪 Elise
+  VANDERELST\n🇺🇸 Elle ST. PIERRE\n🇺🇸 Emily MACKAY\n🇪🇸 Esther
+  GUERRERO\n🇰🇪 Faith KIPYEGON\n🏳️ Farida ABAROGE\n🇮🇹 Federica del
+  BUONO\n🇯🇵 GOTO Yume\n🇬🇧 Georgia BELL\n🇦🇺 Georgia GRIFFITH\n🇪🇹
+  Gudaf TSEGAY\n🇦🇺 Jessica HULL\n🇻🇪 Joselyn Daniely BREA\n🇨🇦 Kate
+  CURRENT\n🇵🇱 Klaudia KAZIMIERSKA\n🇨🇿 Kristiina SASINEK MAKI\n🇬🇧
+  Laura MUIR\n🇦🇺 Linden HALL\n🇨🇦 Lucia STAFFORD\n🇮🇹 Ludovica
+  CAVALLI\n🇳🇿 Maia RAMSDEN\n🇺🇾 Maria Pia FERNANDEZ\n🇪🇸 Marta
+  PEREZ\n🇩🇪 Nele WESSEL\n🇰🇪 Nelly CHEPCHIRCHIR\n🇺🇸 Nikki HILTZ\n🇬🇧
+  Revee WALCOTT-NOLAN\n🇵🇹 Salome AFONSO\n🇫🇮 Sara LAPPALAINEN\n🇮🇪
+  Sarah HEALY\n🇨🇦 Simone PLOURDE\n🇮🇹 Sintayehu VISSA\n🇮🇪 Sophie
+  O'SULLIVAN\n🇰🇪 Susan Lokayo EJORE\n🇯🇵 TANAKA Nozomi\n🇱🇺 Vera
+  HOFFMANN\n🇵🇱 Weronika LIZAKOWSKA\n🇺🇬 Winnie NANYONDO
+SUMMARY:🏃 Women's 1500m Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T084000Z-canoe-sprint-MENS-KAYAK-SINGLE-1000M-HEATS
+DTSTAMP:20240807T084000Z
+DTSTART:20240807T084000Z
+DTEND:20240807T092700Z
+DESCRIPTION:Canoe Sprint - Men's Kayak Single 1000m Heats\n🇺🇸 Aaron
+  SMALL\n🇲🇦 Achraf ELAIDI\n🇭🇺 Adam VARGA\n🇪🇸 Adrian del RIO\n🇦🇷
+  Agustin VERNICE\n🇮🇷 Ali AGHAMIRZAEIJENAGHARD\n🇱🇹 Andrej OLIJNIK\n🇿🇦
+  Andrew James BIRKETT\n🇩🇪 Anton WINKELMANN\n🇧🇪 Artuur PETERS\n🇭🇺
+  Balint KOPASZ\n🇰🇿 Bekarys RAMATULLA\n🇵🇹 Fernando PIMENTA\n🇪🇸
+  Francisco CUBELOS\n🇿🇦 Hamish LOVEMORE\n🇩🇪 Jakob THORDSEN\n🇺🇸 Jonas
+  ECKER\n🇨🇿 Josef DOSTAL\n🇸🇪 Martin NATHELL\n🇺🇾 Matias Valentin OTERO
+  EZCURRA\n🇫🇷 Maxime BEAUMONT\n🇩🇰 Rene Holten POULSEN\n🏳️ Saeid
+  FAZLOULA\n🇺🇿 Shakhriyor MAKHKAMOV\n🇦🇺 Tom GREEN\n🇼🇸 Tuva'a
+  CLIFTON\n🇦🇸 Uladzislau KRAVETS\n🇧🇷 Vagner Junior SOUTA\n🇨🇳 ZHANG
+  Dong
+SUMMARY:🛶 Men's Kayak Single 1000m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T091100Z-taekwondo-WOMEN-49KG-ROUND-OF-16-URU-ESP
+DTSTAMP:20240807T091100Z
+DTSTART:20240807T091100Z
+DTEND:20240807T092400Z
+DESCRIPTION:Taekwondo - Women -49kg Round of 16
+SUMMARY:🥋 Maria Sara GRIPPOLI GAGLIARDO 🇺🇾 - 🇪🇸 Adriana CEREZO IGLESIA
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

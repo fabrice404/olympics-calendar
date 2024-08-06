@@ -794,6 +794,28 @@ SUMMARY:⛵ 男子ディンギー - レース10
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T175500Z-athletics-200M
+DTSTAMP:20240805T175500Z
+DTSTART:20240805T175500Z
+DTEND:20240805T183100Z
+DESCRIPTION:陸上競技 - 男子200m予選\n🇨🇦 Aaron BROWN\n🇵🇱 Albert KOMANSKI\n🇩🇴
+  Alexander OGANDO\n🇨🇦 Andre De GRASSE\n🇯🇲 Andrew HUDSON\n🇿🇦 Benjamin
+  RICHARDSON\n🇮🇱 Blessing Akwasi AFRIFAH\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan
+  LEVELL\n🇦🇺 Calab LAW\n🇵🇾 Cesar ALMIRON\n🇨🇮 Cheickna TRAORE\n🇮🇹
+  Diego Aldo PETTOROSSI\n🇨🇿 Eduard KUBELIK\n🇸🇪 Erik ERLANDSSON\n🇺🇸
+  Erriyon KNIGHTON\n🇮🇹 Eseosa Fostine DESALU\n🇨🇭 Felix SVENSSON\n🇮🇹
+  Filippo TORTU\n🇯🇵 IIZUKA Shota\n🇧🇸 Ian KERR\n🇩🇴 Jose GONZALEZ\n🇱🇷
+  Joseph FAHNBULLEH\n🇩🇪 Joshua HARTMANN\n🇺🇸 Kenneth BEDNAREK\n🇧🇼
+  Letsile TEBOGO\n🇿🇼 Makanakaishe CHARAMBA\n🇺🇸 Noah LYLES\n🇨🇿 Ondrej
+  MACIK\n🇫🇷 Pablo MATEO\n🇧🇷 Renan CORREA\n🇫🇷 Ryan ZEZE\n🇿🇦 Shaun
+  MASWANGANYI\n🇿🇼 Tapiwanashe MAKARAWU\n🇺🇬 Tarsis Gracious OROGOT\n🇨🇭
+  Timothe MUMENTHALER\n🇨🇿 Tomas NEMEJC\n🇯🇵 UEYAMA Koki\n🇯🇵 UZAWA
+  Towa\n🇳🇬 Udodi Chudi ONWUZURIKE\n🇧🇸 Wanya McCOY\n🇿🇦 Wayde van
+  NIEKERK\n🇨🇭 William REAIS\n🇹🇼 YANG Chun-Han\n🇬🇧 Zharnel HUGHES
+SUMMARY:🏃 男子200m予選
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T100300Z-sailing--6
 DTSTAMP:20240806T100300Z
 DTSTART:20240806T100300Z
@@ -853,6 +875,23 @@ DESCRIPTION:セーリング - 男子カイト - レース7\n🇫🇷 Axel MAZELL
   Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ 男子カイト - レース7
 LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T103000Z-athletics-200M
+DTSTAMP:20240806T103000Z
+DTSTART:20240806T103000Z
+DTEND:20240806T105500Z
+DESCRIPTION:陸上競技 - 男子200m敗者復活戦\n🇨🇦 Aaron BROWN\n🇵🇱 Albert
+  KOMANSKI\n🇯🇲 Andrew HUDSON\n🇿🇦 Benjamin RICHARDSON\n🇮🇱 Blessing
+  Akwasi AFRIFAH\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan LEVELL\n🇦🇺 Calab
+  LAW\n🇵🇾 Cesar ALMIRON\n🇨🇮 Cheickna TRAORE\n🇮🇹 Diego Aldo
+  PETTOROSSI\n🇨🇿 Eduard KUBELIK\n🇸🇪 Erik ERLANDSSON\n🇨🇭 Felix
+  SVENSSON\n🇯🇵 IIZUKA Shota\n🇧🇸 Ian KERR\n🇨🇿 Ondrej MACIK\n🇫🇷 Pablo
+  MATEO\n🇫🇷 Ryan ZEZE\n🇨🇭 Timothe MUMENTHALER\n🇨🇿 Tomas NEMEJC\n🇯🇵
+  UEYAMA Koki\n🇳🇬 Udodi Chudi ONWUZURIKE\n🇨🇭 William REAIS\n🇹🇼 YANG
+  Chun-Han
+SUMMARY:🏃 男子200m敗者復活戦
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T104800Z-sailing--7
@@ -1007,6 +1046,15 @@ DESCRIPTION:セーリング - 混合ディンギー - レース10\n🇬🇷 A SP
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 混合ディンギー - レース10
 LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T082200Z-taekwondo-49KG1-KSA-ISR
+DTSTAMP:20240807T082200Z
+DTSTART:20240807T082200Z
+DTEND:20240807T083500Z
+DESCRIPTION:テコンドー - 女子49kg級1回戦
+SUMMARY:🥋 Dunya Ali M ABUTALEB 🇸🇦 - 🇮🇱 Abishag SEMBERG
+LOCATION:グラン・パレ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T101300Z-sailing--11
@@ -1193,6 +1241,30 @@ DESCRIPTION:セーリング - 女子カイト - レース16\n🇦🇹 Alina KORN
   Maria Catalina TURIENZO
 SUMMARY:⛵ 女子カイト - レース16
 LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-artistic-swimming-
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T191300Z
+DESCRIPTION:アーティスティックスイミング - デュエットテクニカルルーティン\n🇺🇸 アメリカ合衆国\n🇮🇱
+  イスラエル\n🇮🇹 イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹
+  オーストリア\n🇨🇦 カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽
+  メキシコ\n🇨🇳 中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットテクニカルルーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming-
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:アーティスティックスイミング - デュエットフリールーティン\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットフリールーティン
+LOCATION:アクアティックス・センター
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

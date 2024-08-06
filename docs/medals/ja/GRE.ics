@@ -74,4 +74,67 @@ DESCRIPTION:射撃 - 女子スキート個人ファイナル\n🇬🇧 Amber Jo 
 SUMMARY:🔫 女子スキート個人ファイナル
 LOCATION:シャトールー射撃センター
 END:VEVENT
+BEGIN:VEVENT
+UID:20240804T175500Z-athletics-
+DTSTAMP:20240804T175500Z
+DTSTART:20240804T175500Z
+DTEND:20240804T194000Z
+DESCRIPTION:陸上競技 - 女子走高跳決勝\n🇷🇸 Angelina TOPIC\n🇹🇷 Buse SAVASKAN\n🇩🇪
+  Christina HONSEL\n🇦🇺 Eleanor PATTERSON\n🇨🇾 Elena KULICHENKO\n🇺🇦
+  Iryna GERASHCHENKO\n🇫🇷 Nawal MENIKER\n🇦🇺 Nicola OLYSLAGERS\n🇺🇿
+  Safina SADULLAYEVA\n🇬🇷 Tatiana GUSIN\n🇧🇷 Valdileia MARTINS\n🇺🇸
+  Vashti CUNNINGHAM\n🇺🇦 Yaroslava MAHUCHIKH
+SUMMARY:🏃 女子走高跳決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T183000Z-athletics-
+DTSTAMP:20240804T183000Z
+DTSTART:20240804T183000Z
+DTEND:20240804T194000Z
+DESCRIPTION:陸上競技 - 男子ハンマー投決勝\n🇭🇺 Bence HALASZ\n🇬🇷 Christos
+  FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇩🇪 Merlin
+  HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel FAJDEK\n🇨🇦 Rowan
+  HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱 Wojciech
+  NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 男子ハンマー投決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170000Z-athletics-
+DTSTAMP:20240805T170000Z
+DTSTART:20240805T170000Z
+DTEND:20240805T192700Z
+DESCRIPTION:陸上競技 - 男子棒高跳決勝\n🇸🇪 Armand DUPLANTIS\n🇩🇪 Bo Kanda LITA
+  BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu
+  SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱 Menno VLOON\n🇩🇪
+  Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre GUTTORMSEN\n🇱🇻 Valters
+  KREISS
+SUMMARY:🏃 男子棒高跳決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T181500Z-athletics-
+DTSTAMP:20240806T181500Z
+DTSTART:20240806T181500Z
+DTEND:20240806T193500Z
+DESCRIPTION:陸上競技 - 男子走幅跳決勝\n🇨🇴 Arnovis DALMERO\n🇯🇲 Carey McLEOD\n🇭🇷
+  Filip PRAVDICA\n🇬🇧 Jacob FINCHAM-DUKES\n🇮🇹 Mattia FURLANI\n🇬🇷
+  Miltiadis TENTOGLOU\n🇨🇿 Radek JUSKA\n🇩🇪 Simon BATZ\n🇨🇭 Simon
+  EHAMMER\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳 ZHANG Mingkun
+SUMMARY:🏃 男子走幅跳決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming-
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:アーティスティックスイミング - デュエットフリールーティン\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットフリールーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
 END:VCALENDAR

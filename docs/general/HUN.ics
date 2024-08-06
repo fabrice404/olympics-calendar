@@ -4,6 +4,15 @@ PRODID:-//fabrice404//olympics-calendar//general/HUN//EN
 X-WR-CALNAME:🇭🇺 Hungary | Paris 2024
 NAME:🇭🇺 Hungary | Paris 2024
 BEGIN:VEVENT
+UID:20240725T170000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-B-HUN-FRA
+DTSTAMP:20240725T170000Z
+DTSTART:20240725T170000Z
+DTEND:20240725T183000Z
+DESCRIPTION:Handball - Women's Preliminary Round Group B
+SUMMARY:🤾 HUN 🇭🇺 - 🇫🇷 FRA
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -32,6 +41,36 @@ DESCRIPTION:Cycling Mountain Bike - Women's Cross-country\n🇨🇿 Adela
   WU Zhifan\n🇺🇦 Yana BELOMOINA
 SUMMARY:🚴 Women's Cross-country
 LOCATION:Elancourt Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T064200Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-32-ITA-HUN
+DTSTAMP:20240803T064200Z
+DTSTART:20240803T064200Z
+DTEND:20240803T064200Z
+DESCRIPTION:Judo - Mixed Team Elimination Round of 32
+SUMMARY:🥋 ITA 🇮🇹 - 🇭🇺 HUN
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-B-HUN-NED
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T083000Z
+DESCRIPTION:Handball - Women's Preliminary Round Group B
+SUMMARY:🤾 HUN 🇭🇺 - 🇳🇱 NED
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T073000Z-shooting-25M-PISTOL-WOMENS-FINAL
+DTSTAMP:20240803T073000Z
+DTSTART:20240803T073000Z
+DTEND:20240803T083000Z
+DESCRIPTION:Shooting - 25m Pistol Women's Final\n🇫🇷 Camille
+  JEDRZEJEWSKI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇺🇸 Katelyn Morgan ABELN\n🇮🇳
+  Manu BHAKER\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇰🇷 YANG
+  Jiin\n🇨🇳 ZHAO Nan
+SUMMARY:🔫 25m Pistol Women's Final
+LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T074200Z-rowing-MENS-SINGLE-SCULLS-FINAL-C
@@ -182,6 +221,15 @@ SUMMARY:⛵ Men's Dinghy - Race 5
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T110000Z-fencing-WOMENS-SABRE-TEAM-TABLE-OF-8-HUN-JPN
+DTSTAMP:20240803T110000Z
+DTSTART:20240803T110000Z
+DTEND:20240803T115000Z
+DESCRIPTION:Fencing - Women's Sabre Team Table of 8
+SUMMARY:🤺 HUN 🇭🇺 - 🇯🇵 JPN
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T111300Z-sailing-WOMENS-DINGHY-RACE-5
 DTSTAMP:20240803T111300Z
 DTSTART:20240803T111300Z
@@ -252,6 +300,46 @@ SUMMARY:⛵ Women's Dinghy - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T123000Z-fencing-WOMENS-SABRE-TEAM-CLASSIFICATIONS-5-8-HUN-ITA
+DTSTAMP:20240803T123000Z
+DTSTART:20240803T123000Z
+DTEND:20240803T132000Z
+DESCRIPTION:Fencing - Women's Sabre Team Classifications 5-8
+SUMMARY:🤺 HUN 🇭🇺 - 🇮🇹 ITA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T130000Z-water-polo-MENS-PRELIMINARY-ROUND-GROUP-B-AUS-HUN
+DTSTAMP:20240803T130000Z
+DTSTART:20240803T130000Z
+DTEND:20240803T142500Z
+DESCRIPTION:Water Polo - Men's Preliminary Round - Group B
+SUMMARY:🤽 AUS 🇦🇺 - 🇭🇺 HUN
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T141000Z-fencing-WOMENS-SABRE-TEAM-PLACEMENT-5-6-HUN-USA
+DTSTAMP:20240803T141000Z
+DTSTART:20240803T141000Z
+DTEND:20240803T150000Z
+DESCRIPTION:Fencing - Women's Sabre Team Placement 5-6
+SUMMARY:🤺 HUN 🇭🇺 - 🇺🇸 USA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T142000Z-artistic-gymnastics-WOMENS-VAULT-FINAL
+DTSTAMP:20240803T142000Z
+DTSTART:20240803T142000Z
+DTEND:20240803T150200Z
+DESCRIPTION:Artistic Gymnastics - Women's Vault Final\n🇰🇵 AN Chang
+  Ok\n🇲🇽 Alexa MORENO\n🇭🇺 Csenge Maria BACSKAY\n🇨🇦 Elsabeth
+  BLACK\n🇺🇸 Jade CAREY\n🇺🇸 Jordan CHILES\n🇫🇷 Ming VAN EIJKEN\n🇧🇷
+  Rebeca ANDRADE\n🇨🇦 Shallon OLSEN\n🇺🇸 Simone BILES\n🇧🇬 Valentina
+  GEORGIEVA\n🇰🇷 YEO Seojeong
+SUMMARY:🤸 Women's Vault Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T152200Z-boxing-WOMENS-66KG-QUARTERFINAL-ALG-HUN
 DTSTAMP:20240803T152200Z
 DTSTART:20240803T152200Z
@@ -259,6 +347,24 @@ DTEND:20240803T153300Z
 DESCRIPTION:Boxing - Women's 66kg - Quarterfinal
 SUMMARY:🥊 Imane KHELIF 🇩🇿 - 🇭🇺 Anna Luca HAMORI
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T175000Z-athletics-WOMENS-100M-SEMI-FINAL
+DTSTAMP:20240803T175000Z
+DTSTART:20240803T175000Z
+DTEND:20240803T180700Z
+DESCRIPTION:Athletics - Women's 100m Semi-Final\n🇨🇦 Audrey LEDUC\n🇭🇺
+  Boglarka TAKACS\n🇦🇺 Bree MASTERS\n🇬🇧 Daryll NEITA\n🇧🇪 Delphine
+  NKANSA\n🇬🇧 Dina ASHER-SMITH\n🇵🇱 Ewa SWOBODA\n🇩🇪 Gina
+  LUECKENKEMPER\n🇬🇲 Gina Mariam BASS BITTAYE\n🇵🇷 Gladymar TORRES\n🇬🇧
+  Imani LANSIQUOT\n🇱🇨 Julien ALFRED\n🇨🇿 Karolina MANASOVA\n🇹🇹 Leah
+  BERTRAND\n🇨🇮 Marie-Josee TA LOU-SMITH\n🇺🇸 Melissa JEFFERSON\n🇨🇭
+  Mujinga KAMBUNDJI\n🇱🇺 Patrizia van der WEKEN\n🇧🇪 Rani ROSIUS\n🇳🇬
+  Rosemary CHUKWUMA\n🇺🇸 Sha'carri RICHARDSON\n🇯🇲 Shashalee FORBES\n🇯🇲
+  Shelly-Ann FRASER-PRYCE\n🇯🇲 Tia CLAYTON\n🇺🇸 Twanisha TERRY\n🇮🇹
+  Zaynab DOSSO\n🇳🇿 Zoe HOBBS
+SUMMARY:🏃 Women's 100m Semi-Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T183000Z-swimming-MENS-100M-BUTTERFLY-FINAL
@@ -270,6 +376,45 @@ DESCRIPTION:Swimming - Men's 100m Butterfly Final\n🇨🇦 Ilya KHARUN\n🇨�
   TEMPLE\n🇫🇷 Maxime GROUSSET\n🇨🇭 Noe PONTI\n🇳🇱 Nyls KORSTANJE
 SUMMARY:🏊 Men's 100m Butterfly Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T085500Z-athletics-WOMENS-200M-ROUND-1
+DTSTAMP:20240804T085500Z
+DTSTART:20240804T085500Z
+DTEND:20240804T093600Z
+DESCRIPTION:Athletics - Women's 200m Round 1\n🇻🇬 Adaejah HODGE\n🇪🇨
+  Aimara NAZARENO\n🇧🇷 Ana Carolina AZEVEDO\n🇮🇹 Anna BONGIORNI\n🇨🇦
+  Audrey LEDUC\n🇬🇧 Bianca WILLIAMS\n🇭🇺 Boglarka TAKACS\n🇺🇸 Brittany
+  BROWN\n🇲🇽 Cecilia TAMAYO-GARZA\n🇮🇹 Dalia KADDARI\n🇬🇧 Daryll
+  NEITA\n🇬🇧 Dina ASHER-SMITH\n🇳🇬 Favour OFILI\n🇪🇨 Gabriela Anahi
+  SUAREZ\n🇺🇸 Gabrielle THOMAS\n🇫🇷 Gemima JOSEPH\n🇬🇲 Gina Mariam BASS
+  BITTAYE\n🇫🇷 Helene PARISOT\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke VERVAET\n🇨🇦
+  Jacqueline MADOGO\n🇪🇸 Jael BESTUE\n🇨🇮 Jessika GBAI\n🇸🇪 Julia
+  HENRIKSSON\n🇱🇨 Julien ALFRED\n🇵🇱 Krystsina TSIMANOUSKAYA\n🇨🇳 LI
+  Yuting\n🇯🇲 Lanae-Tava THOMAS\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas
+  BAZOLO\n🇧🇷 Lorraine MARTINS\n🇨🇮 Maboundou KONE\n🇨🇮 Marie-Josee TA
+  LOU-SMITH\n🇵🇱 Martyna KOTWILA\n🇺🇸 McKenzie LONG\n🇦🇺 Mia GROSS\n🇨🇭
+  Mujinga KAMBUNDJI\n🇪🇨 Nicole CAICEDO\n🇯🇲 Niesha BURGHER\n🇸🇪 Nora
+  LINDAHL\n🇰🇿 Olga SAFRONOVA\n🇨🇾 Olivia FOTOPOULOU\n🇬🇷 Polyniki
+  EMMANOUILIDOU\n🇯🇲 Shericka JACKSON\n🇳🇱 Tasa JIYA\n🇦🇺 Torrie
+  LEWIS\n🇸🇬 Veronica Shanti PEREIRA
+SUMMARY:🏃 Women's 200m Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T094500Z-athletics-WOMENS-HAMMER-THROW-QUALIFICATION-GROUP-B
+DTSTAMP:20240804T094500Z
+DTSTART:20240804T094500Z
+DTEND:20240804T104100Z
+DESCRIPTION:Athletics - Women's Hammer Throw Qualification - Group B\n🇫🇷
+  Alexandra TAVERNIER\n🇵🇱 Anita WLODARCZYK\n🇺🇸 Deanna PRICE\n🇺🇦 Iryna
+  KLYMETS\n🇩🇰 Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇮🇪 Nicola
+  TUTHILL\n🇳🇬 Oyesade OLATOYE\n🇭🇺 Reka GYURATZ\n🇻🇪 Rosa Andreina
+  RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇬🇷 Stamatia
+  SCARVELIS\n🇧🇪 Vanessa STERCKENDRIES\n🇨🇳 WANG Zheng\n🇲🇩 Zalina
+  MARGHIEVA
+SUMMARY:🏃 Women's Hammer Throw Qualification - Group B
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T100500Z-sailing-MENS-DINGHY-RACE-7
@@ -318,6 +463,15 @@ DESCRIPTION:Sailing - Men's Dinghy - Race 8\n🇪🇬 Aly BADAWY\n🇹🇭 Arthi
   ZELKO
 SUMMARY:⛵ Men's Dinghy - Race 8
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T120000Z-water-polo-WOMENS-PRELIMINARY-ROUND-GROUP-A-HUN-AUS
+DTSTAMP:20240804T120000Z
+DTSTART:20240804T120000Z
+DTEND:20240804T132500Z
+DESCRIPTION:Water Polo - Women's Preliminary Round - Group A
+SUMMARY:🤽 HUN 🇭🇺 - 🇦🇺 AUS
+LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
@@ -405,6 +559,15 @@ SUMMARY:⛵ Women's Dinghy - Race 8
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T140000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-HUN-FRA
+DTSTAMP:20240804T140000Z
+DTSTART:20240804T140000Z
+DTEND:20240804T153000Z
+DESCRIPTION:Handball - Men's Preliminary Round Group B
+SUMMARY:🤾 HUN 🇭🇺 - 🇫🇷 FRA
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T163700Z-swimming-MENS-1500M-FREESTYLE-FINAL
 DTSTAMP:20240804T163700Z
 DTSTART:20240804T163700Z
@@ -414,6 +577,101 @@ DESCRIPTION:Swimming - Men's 1500m Freestyle Final\n🇹🇳 Ahmed
   David AUBRY\n🇭🇺 David BETLEHEM\n🇮🇹 Gregorio PALTRINIERI\n🇹🇷 Kuzey
   TUNCELLI
 SUMMARY:🏊 Men's 1500m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T170500Z-athletics-MENS-400M-ROUND-1
+DTSTAMP:20240804T170500Z
+DTSTART:20240804T170500Z
+DTEND:20240804T174100Z
+DESCRIPTION:Athletics - Men's 400m Round 1\n🇧🇪 Alexander DOOM\n🇩🇴
+  Alexander OGANDO\n🇶🇦 Ammar Ismail YAHIA IBRAHIM\n🇨🇴 Anthony Jose
+  ZAMBRANO\n🇱🇰 Aruna Dharshana SINGHAPURAGE\n🇭🇺 Attila MOLNAR\n🇧🇼
+  Bayapo NDORI\n🇧🇼 Busang Collen KEBINATSHIPI\n🇬🇧 Charles DOBSON\n🇸🇳
+  Cheikh Tidiane DIOUF\n🇳🇬 Chidi OKEZIE\n🇺🇸 Christopher BAILEY\n🇨🇦
+  Christopher MORALES-WILLIAMS\n🇮🇹 Davide RE\n🇯🇲 Deandre WATKIN\n🇧🇪
+  Dylan BORLEE\n🇦🇷 Elian LARREGINA\n🇫🇷 Gilles BIRON\n🇳🇴 Havard
+  Bentdal INGVALDSEN\n🇩🇪 Jean Paul BREDAU\n🇹🇹 Jereem RICHARDS\n🇯🇲
+  Jevaughn POWELL\n🇵🇹 Joao COELHO\n🇧🇪 Jonathan SACOOR\n🇬🇩 Kirani
+  JAMES\n🇧🇼 Leungo SCOTCH\n🇨🇭 Lionel SPITZ\n🇮🇹 Luca SITO\n🇧🇷 Lucas
+  CARVALHO\n🇿🇦 Lythe PILLAY\n🇨🇿 Matej KRSEK\n🇬🇧 Matthew
+  HUDSON-SMITH\n🇱🇨 Michael JOSEPH\n🇺🇸 Michael NORMAN\n🇿🇲 Muzala
+  SAMUKONGA\n🇯🇵 NAKAJIMA Yuki Joseph\n🇺🇦 Oleksandr POHORILKO\n🇺🇸
+  Quincy HALL\n🇦🇺 Reece HOLDER\n🇯🇵 SATO Fuga\n🇯🇵 SATO Kentaro\n🇳🇬
+  Samuel OGAZI\n🇯🇲 Sean BAILEY\n🇧🇸 Steven GARDINER\n🇰🇪 Zablon Ekhal
+  EKWAM\n🇿🇦 Zakithi NENE
+SUMMARY:🏃 Men's 400m Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T183000Z-athletics-MENS-HAMMER-THROW-FINAL
+DTSTAMP:20240804T183000Z
+DTSTART:20240804T183000Z
+DTEND:20240804T194000Z
+DESCRIPTION:Athletics - Men's Hammer Throw Final\n🇭🇺 Bence HALASZ\n🇬🇷
+  Christos FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇩🇪
+  Merlin HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel FAJDEK\n🇨🇦 Rowan
+  HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱 Wojciech
+  NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 Men's Hammer Throw Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T084000Z-athletics-WOMENS-POLE-VAULT-QUALIFICATION
+DTSTAMP:20240805T084000Z
+DTSTART:20240805T084000Z
+DTEND:20240805T110000Z
+DESCRIPTION:Athletics - Women's Pole Vault Qualification\n🇬🇷 Aikaterini
+  STEFANIDI\n🇨🇦 Alysha NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica
+  MOSER\n🇨🇦 Anicka NEWELL\n🇩🇪 Anjuli KNAESCHE\n🇬🇷 Ariadni
+  ADAMOPOULOU\n🇺🇸 Bridget WILLIAMS\n🇺🇸 Brynn KING\n🇬🇷 Eleni-Klaoudia
+  POLAK\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza
+  McCARTNEY\n🇭🇺 Hanga KLEKNER\n🇬🇧 Holly BRADSHAW\n🇳🇿 Imogen
+  AYRIS\n🇧🇷 Juliana de MENIS CAMPOS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud
+  RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇬🇧 Molly CAUDERY\n🇨🇳 NIU
+  Chunge\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇳🇿 Olivia
+  McTAGGART\n🇨🇭 Pascale STOCKLIN\n🇻🇪 Robeilys PEINADO\n🇮🇹 Roberta
+  BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
+SUMMARY:🏃 Women's Pole Vault Qualification
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T092000Z-athletics-MENS-400M-REPECHAGE-ROUND
+DTSTAMP:20240805T092000Z
+DTSTART:20240805T092000Z
+DTEND:20240805T094500Z
+DESCRIPTION:Athletics - Men's 400m Repechage Round\n🇩🇴 Alexander
+  OGANDO\n🇶🇦 Ammar Ismail YAHIA IBRAHIM\n🇨🇴 Anthony Jose ZAMBRANO\n🇭🇺
+  Attila MOLNAR\n🇸🇳 Cheikh Tidiane DIOUF\n🇳🇬 Chidi OKEZIE\n🇮🇹 Davide
+  RE\n🇯🇲 Deandre WATKIN\n🇧🇪 Dylan BORLEE\n🇦🇷 Elian LARREGINA\n🇫🇷
+  Gilles BIRON\n🇩🇪 Jean Paul BREDAU\n🇵🇹 Joao COELHO\n🇧🇪 Jonathan
+  SACOOR\n🇧🇼 Leungo SCOTCH\n🇨🇭 Lionel SPITZ\n🇧🇷 Lucas CARVALHO\n🇿🇦
+  Lythe PILLAY\n🇨🇿 Matej KRSEK\n🇱🇨 Michael JOSEPH\n🇯🇵 NAKAJIMA Yuki
+  Joseph\n🇺🇦 Oleksandr POHORILKO\n🇯🇵 SATO Fuga\n🇯🇵 SATO Kentaro\n🇯🇲
+  Sean BAILEY\n🇿🇦 Zakithi NENE
+SUMMARY:🏃 Men's 400m Repechage Round
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T094500Z-artistic-gymnastics-MENS-PARALLEL-BARS-FINAL
+DTSTAMP:20240805T094500Z
+DTSTART:20240805T094500Z
+DTEND:20240805T102400Z
+DESCRIPTION:Artistic Gymnastics - Men's Parallel Bars Final\n🇨🇴 Angel
+  BARAJAS\n🇹🇷 Ferhat ARICAN\n🇯🇵 HASHIMOTO Daiki\n🇺🇦 Illia
+  KOVTUN\n🇬🇧 Joe FRASER\n🇯🇵 KAYA Kazuma\n🇭🇺 Krisztofer MESZAROS\n🇩🇪
+  Lukas DAUSER\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇯🇵 TANIGAWA
+  Wataru\n🇨🇳 XIAO Ruoteng\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU Jingyuan
+SUMMARY:🤸 Men's Parallel Bars Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T100000Z-water-polo-MENS-PRELIMINARY-ROUND-GROUP-B-HUN-SRB
+DTSTAMP:20240805T100000Z
+DTSTART:20240805T100000Z
+DTEND:20240805T112500Z
+DESCRIPTION:Water Polo - Men's Preliminary Round - Group B
+SUMMARY:🤽 HUN 🇭🇺 - 🇷🇸 SRB
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -438,6 +696,24 @@ DESCRIPTION:Sailing - Women's Dinghy - Race 9\n🇧🇲 Adriana
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Women's Dinghy - Race 9
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T105000Z-athletics-WOMENS-200M-REPECHAGE-ROUND
+DTSTAMP:20240805T105000Z
+DTSTART:20240805T105000Z
+DTEND:20240805T111500Z
+DESCRIPTION:Athletics - Women's 200m Repechage Round\n🇻🇬 Adaejah
+  HODGE\n🇪🇨 Aimara NAZARENO\n🇧🇷 Ana Carolina AZEVEDO\n🇮🇹 Anna
+  BONGIORNI\n🇭🇺 Boglarka TAKACS\n🇲🇽 Cecilia TAMAYO-GARZA\n🇮🇹 Dalia
+  KADDARI\n🇪🇨 Gabriela Anahi SUAREZ\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke
+  VERVAET\n🇨🇦 Jacqueline MADOGO\n🇪🇸 Jael BESTUE\n🇵🇱 Krystsina
+  TSIMANOUSKAYA\n🇨🇳 LI Yuting\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas
+  BAZOLO\n🇧🇷 Lorraine MARTINS\n🇨🇮 Maboundou KONE\n🇵🇱 Martyna
+  KOTWILA\n🇦🇺 Mia GROSS\n🇪🇨 Nicole CAICEDO\n🇸🇪 Nora LINDAHL\n🇰🇿
+  Olga SAFRONOVA\n🇨🇾 Olivia FOTOPOULOU\n🇬🇷 Polyniki EMMANOUILIDOU\n🇦🇺
+  Torrie LEWIS\n🇸🇬 Veronica Shanti PEREIRA
+SUMMARY:🏃 Women's 200m Repechage Round
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T112300Z-sailing-WOMENS-DINGHY-RACE-10
@@ -511,6 +787,126 @@ SUMMARY:⛵ Men's Dinghy - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T073000Z-canoe-sprint-MENS-KAYAK-FOUR-500M-HEATS
+DTSTAMP:20240806T073000Z
+DTSTART:20240806T073000Z
+DTEND:20240806T074700Z
+DESCRIPTION:Canoe Sprint - Men's Kayak Four 500m Heats\n🇷🇸 Andjelo
+  DZOMBETA\n🇱🇹 Arturas SEJA\n🇨🇳 BU Tingkai\n🇭🇺 Bence NADAS\n🇪🇸
+  Carlos AREVALO\n🇨🇳 DONG Yi\n🇺🇦 Dmytro DANYLENKO\n🇳🇿 Grant
+  CLANCY\n🇳🇿 Hamish LEGARTH\n🇱🇹 Ignas NAVAKAUSKAS\n🇺🇦 Ihor
+  TRUNOV\n🇭🇺 Istvan KULI\n🇺🇦 Ivan SEMYKIN\n🇦🇺 Jackson COLLINS\n🇩🇪
+  Jacob SCHOPF\n🇭🇺 Kolos Attila CSIZMADIA\n🇳🇿 Kurtis IMRIE\n🇩🇰 Lasse
+  Bro MADSEN\n🇨🇦 Laurent LAVIGNE\n🇩🇰 Magnus SIBBERSEN\n🇪🇸 Marcus
+  COOPER\n🇷🇸 Marko DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇳🇿 Max
+  BROWN\n🇩🇪 Max LEMKE\n🇩🇪 Max RENDSCHMIDT\n🇱🇹 Mindaugas
+  MALDONIS\n🇩🇰 Morten GRAVERSEN\n🇨🇦 Nicholas MATVEEV\n🇦🇺 Noah
+  HAVARD\n🇺🇦 Oleh KUKHARYK\n🇦🇺 Pierre van der WESTHUYZEN\n🇨🇦
+  Pierre-Luc POULIN\n🇦🇺 Riley FITZSIMMONS\n🇪🇸 Rodrigo GERMADE\n🇭🇺
+  Sandor TOTKA\n🇪🇸 Saul CRAVIOTTO\n🇨🇦 Simon McTAVISH\n🇱🇹 Simonas
+  MALDONIS\n🇩🇪 Tom LIEBSCHER-LUCZ\n🇩🇰 Victor Gairy AASMUL\n🇷🇸
+  Vladimir TORUBAROV\n🇨🇳 WANG Congkang\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 Men's Kayak Four 500m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080000Z-canoe-sprint-WOMENS-KAYAK-FOUR-500M-HEATS
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T081700Z
+DESCRIPTION:Canoe Sprint - Women's Kayak Four 500m Heats\n🇵🇱 Adrianna
+  KAKOL\n🇦🇺 Alexandra CLARKE\n🇳🇿 Alicia HOSKIN\n🇭🇺 Alida Dora
+  GAZSO\n🇦🇺 Aly BULL\n🇷🇸 Anastazija BAJUK\n🇳🇴 Anna Margrete
+  SLETSJOEE\n🇵🇱 Anna PULAWSKA\n🇪🇸 Carolina GARCIA OTERO\n🇨🇦 Courtney
+  STOTT\n🇵🇱 Dominika PUTTO\n🇷🇸 Dunja STANOJEV\n🇦🇺 Ella BEERE\n🇪🇸
+  Estefania FERNANDEZ\n🇳🇴 Hedda ORITSLAND\n🇩🇪 Jule Marie HAKE\n🇵🇱
+  Karolina NAJA\n🇳🇴 Kristine Strand AMUNDSEN\n🇨🇳 LI Dongyin\n🇳🇿 Lisa
+  CARRINGTON\n🇳🇴 Maria VIRIK\n🇷🇸 Marija DOSTANIC\n🇷🇸 Milica
+  NOVAKOVIC\n🇨🇦 Natalie DAVISON\n🇭🇺 Noemi PUPP\n🇳🇿 Olivia BRETT\n🇩🇪
+  Paulina PASZEK\n🇩🇪 Pauline JAGSCH\n🇨🇦 Riley MELANSON\n🇨🇳 SUN
+  Yuewen\n🇭🇺 Sara FOJT\n🇪🇸 Sara OUZANDE\n🇩🇪 Sarah BRUESSLER\n🇭🇺
+  Tamara CSIPES\n🇳🇿 Tara VAUGHAN\n🇪🇸 Teresa PORTELA\n🇨🇦 Toshka
+  BESHARAH-HREBACKA\n🇨🇳 WANG Nan\n🇨🇳 YIN Mengdie\n🇦🇺 Yale STEINEPREIS
+SUMMARY:🛶 Women's Kayak Four 500m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T083000Z-canoe-sprint-MENS-CANOE-DOUBLE-500M-HEATS
+DTSTAMP:20240806T083000Z
+DTSTART:20240806T083000Z
+DTEND:20240806T084700Z
+DESCRIPTION:Canoe Sprint - Men's Canoe Double 500m Heats\n🇫🇷 Adrien
+  BART\n🇦🇸 Alexey KOROVASHKOV\n🇭🇺 Balazs ADOLF\n🇦🇴 Benilson
+  SANDA\n🇮🇹 Carlo TACCHINI\n🇪🇸 Diego DOMINGUEZ\n🇮🇹 Gabriele
+  CASADEI\n🇳🇿 Grant CLANCY\n🇷🇴 Ilie SPRINCEAN\n🇧🇷 Isaquias
+  QUEIROZ\n🇨🇳 JI Bowen\n🇧🇷 Jacky Jamael NASCIMENTO GODMANN\n🇪🇸 Joan
+  Antoni MORENO\n🇭🇺 Jonatan Daniel HAJDU\n🇨🇳 LIU Hao\n🇫🇷 Loic
+  LEONARD\n🇦🇴 Manuel ANTONIO\n🇨🇿 Martin FUKSA\n🇳🇿 Max BROWN\n🇷🇴
+  Oleg NUTA\n🇩🇪 Peter KRETSCHMER\n🇨🇿 Petr FUKSA\n🇰🇿 Sergey
+  YEMELYANOV\n🇩🇪 Tim HECKER\n🇰🇿 Timur KHAIDAROV\n🇦🇸 Zakhar PETROV
+SUMMARY:🛶 Men's Canoe Double 500m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T090000Z-canoe-sprint-WOMENS-CANOE-DOUBLE-500M-HEATS
+DTSTAMP:20240806T090000Z
+DTSTART:20240806T090000Z
+DTEND:20240806T091700Z
+DESCRIPTION:Canoe Sprint - Women's Canoe Double 500m Heats\n🇭🇺 Agnes Anna
+  KISS\n🇺🇦 Anastasiia RYBACHOK\n🇪🇸 Antia JACOME\n🇫🇷 Axelle
+  RENARD\n🇳🇬 Ayomide Powei BELLO\n🇳🇬 Beauty Akinaere OTUEDO\n🇭🇺
+  Bianka NAGY\n🇲🇩 Daniela COCIU\n🇵🇱 Dorota BOROWSKA\n🇫🇷 Eugenie
+  DORANGE\n🇩🇪 Hedi Moana KLIEMKE\n🇨🇦 Katie VINCENT\n🇩🇪 Lisa
+  JAHN\n🇺🇦 Liudmyla LUZAN\n🇪🇸 Maria CORBERA\n🇨🇱 Maria Jose
+  MAILLIARD\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya BROVKOVA\n🇨🇱 Paula
+  GOMEZ\n🇰🇿 Rufina ISKAKOVA\n🇨🇳 SUN Mengya\n🇨🇦 Sloan MACKENZIE\n🇵🇱
+  Sylwia SZCZERBINSKA\n🇨🇳 XU Shixiao\n🇨🇺 Yarisleidis CIRILO
+  DUBOYS\n🇨🇺 Yinnoly Francheska LOPEZ LAMADRID
+SUMMARY:🛶 Women's Canoe Double 500m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T091500Z-athletics-WOMENS-LONG-JUMP-QUALIFICATION
+DTSTAMP:20240806T091500Z
+DTSTART:20240806T091500Z
+DTEND:20240806T102300Z
+DESCRIPTION:Athletics - Women's Long Jump Qualification\n🇯🇲 Ackelia
+  SMITH\n🇵🇹 Agate de SOUSA\n🇷🇴 Alina ROTARU-KOTTMANN\n🇦🇺 Brooke
+  BUSCHKUEHL\n🇯🇲 Chanice PORTER\n🇧🇷 Eliane MARTINS\n🇳🇬 Ese
+  BRUME\n🇪🇬 Esraa OWIS\n🇪🇸 Fatima DIAME\n🇯🇵 HATA Sumire\n🇫🇷 Hilary
+  KPATCHA\n🇷🇸 Ivana SPANOVIC\n🇺🇸 Jasmine MOORE\n🇮🇹 Larissa
+  IAPICHINO\n🇩🇪 Laura Raquel MUELLER\n🇧🇷 Lissandra Maysa CAMPOS\n🇩🇪
+  Malaika MIHAMBO\n🇧🇫 Marthe KOALA\n🇩🇪 Mikaelle ASSANI\n🇷🇸 Milica
+  GARDASEVIC\n🇺🇸 Monae' NICHOLS\n🇨🇴 Natalia LINARES\n🇵🇱 Nikola
+  HOROWSKA\n🇳🇱 Pauline HONDEMA\n🇭🇺 Petra BANHIDI-FARKAS\n🇧🇬 Plamena
+  MITKOVA\n🇳🇬 Prestina Oluchi OCHONOGOR\n🇳🇬 Ruth USORO\n🇺🇸 Tara
+  DAVIS-WOODHALL\n🇪🇸 Tessy EBOSELE\n🇨🇳 XIONG Shiqi
+SUMMARY:🏃 Women's Long Jump Qualification
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T093000Z-canoe-sprint-MENS-KAYAK-DOUBLE-500M-HEATS
+DTSTAMP:20240806T093000Z
+DTSTART:20240806T093000Z
+DTEND:20240806T100700Z
+DESCRIPTION:Canoe Sprint - Men's Kayak Double 500m Heats\n🇺🇸 Aaron
+  SMALL\n🇭🇺 Adam VARGA\n🇪🇸 Adrian del RIO\n🇷🇸 Andjelo DZOMBETA\n🇱🇹
+  Andrej OLIJNIK\n🇿🇦 Andrew James BIRKETT\n🇨🇳 BU Tingkai\n🇭🇺 Balint
+  KOPASZ\n🇰🇿 Bekarys RAMATULLA\n🇭🇺 Bence NADAS\n🇪🇸 Carlos
+  AREVALO\n🇨🇿 Daniel HAVEL\n🇳🇿 Hamish LEGARTH\n🇿🇦 Hamish
+  LOVEMORE\n🇺🇦 Ihor TRUNOV\n🇩🇪 Jacob SCHOPF\n🇨🇿 Jakub SPICAR\n🇵🇱
+  Jakub STEPUN\n🇦🇺 Jean van der WESTHUYZEN\n🇵🇹 Joao RIBEIRO\n🇺🇸 Jonas
+  ECKER\n🇳🇿 Kurtis IMRIE\n🇪🇸 Marcus COOPER\n🇷🇸 Marko
+  DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇩🇪 Max LEMKE\n🇩🇪 Max
+  RENDSCHMIDT\n🇵🇹 Messias BAPTISTA\n🇱🇹 Mindaugas MALDONIS\n🇺🇦 Oleh
+  KUKHARYK\n🇨🇦 Pierre-Luc POULIN\n🇵🇱 Przemyslaw KORSAK\n🇪🇸 Rodrigo
+  GERMADE\n🇭🇺 Sandor TOTKA\n🇰🇿 Sergii TOKARNYTSKYI\n🇨🇦 Simon
+  McTAVISH\n🇦🇺 Tom GREEN\n🇩🇪 Tom LIEBSCHER-LUCZ\n🇷🇸 Vladimir
+  TORUBAROV\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 Men's Kayak Double 500m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T095600Z-wrestling-MENS-GRECO-ROMAN-77KG-18-FINAL-HUN-TUR
 DTSTAMP:20240806T095600Z
 DTSTART:20240806T095600Z
@@ -518,6 +914,28 @@ DTEND:20240806T100300Z
 DESCRIPTION:Wrestling - Men's Greco-Roman 77kg 1/8 Final
 SUMMARY:🤼 Zoltan LEVAI 🇭🇺 - 🇹🇷 Burhan AKBUDAK
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T101000Z-canoe-sprint-WOMENS-KAYAK-DOUBLE-500M-HEATS
+DTSTAMP:20240806T101000Z
+DTSTART:20240806T101000Z
+DTEND:20240806T104700Z
+DESCRIPTION:Canoe Sprint - Women's Kayak Double 500m Heats\n🇳🇿 Aimee
+  FISHER\n🇳🇿 Alicia HOSKIN\n🇭🇺 Alida Dora GAZSO\n🇦🇺 Aly BULL\n🇳🇴
+  Anna Margrete SLETSJOEE\n🇵🇱 Anna PULAWSKA\n🇲🇽 Beatriz BRIONES
+  FRAGOZA\n🇨🇳 CHEN Yule\n🇪🇸 Carolina GARCIA OTERO\n🇨🇦 Courtney
+  STOTT\n🇦🇺 Ella BEERE\n🇩🇰 Emma Aastrand JORGENSEN\n🇿🇦 Esti
+  OLIVIER\n🇩🇰 Frederikke Hauge MATTHIESEN\n🇵🇱 Helena WISNIEWSKA\n🇧🇪
+  Hermien PETERS\n🇩🇪 Jule Marie HAKE\n🇲🇽 Karina ALANIS MORALES\n🇵🇱
+  Karolina NAJA\n🇩🇪 Lena ROEHLINGS\n🇸🇪 Linnea STENSILS\n🇳🇿 Lisa
+  CARRINGTON\n🇧🇪 Lize BROEKX\n🇳🇿 Lucy MATEHAERE\n🇫🇷 Manon
+  HOSTENS\n🇳🇴 Maria VIRIK\n🇵🇱 Martyna KLATT\n🇸🇪 Moa WIKBERG\n🇨🇦
+  Natalie DAVISON\n🇭🇺 Noemi PUPP\n🇩🇪 Paulina PASZEK\n🇩🇪 Pauline
+  JAGSCH\n🇳🇱 Ruth VORSSELMAN\n🇭🇺 Sara FOJT\n🇪🇸 Sara OUZANDE\n🇳🇱
+  Selma KONIJN\n🇭🇺 Tamara CSIPES\n🇿🇦 Tiffany Amber KOCH\n🇫🇷 Vanina
+  PAOLETTI\n🇨🇳 YU Shimeng
+SUMMARY:🛶 Women's Kayak Double 500m Heats
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T134300Z-sailing-MENS-DINGHY-MEDAL-RACE
@@ -531,6 +949,138 @@ DESCRIPTION:Sailing - Men's Dinghy Medal Race\n🇨🇱 Clemente SEGUEL
   SAUNDERS
 SUMMARY:⛵ Men's Dinghy Medal Race
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T153000Z-handball-WOMENS-QUARTERFINAL-HUN-SWE
+DTSTAMP:20240806T153000Z
+DTSTART:20240806T153000Z
+DTEND:20240806T170000Z
+DESCRIPTION:Handball - Women's Quarterfinal
+SUMMARY:🤾 HUN 🇭🇺 - 🇸🇪 SWE
+LOCATION:Pierre Mauroy Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T183500Z-water-polo-WOMENS-QUARTERFINAL-HUN-USA
+DTSTAMP:20240806T183500Z
+DTSTART:20240806T183500Z
+DTEND:20240806T200000Z
+DESCRIPTION:Water Polo - Women's Quarterfinal
+SUMMARY:🤽 HUN 🇭🇺 - 🇺🇸 USA
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T073000Z-canoe-sprint-WOMENS-KAYAK-SINGLE-500M-HEATS
+DTSTAMP:20240807T073000Z
+DTSTART:20240807T073000Z
+DTEND:20240807T082700Z
+DESCRIPTION:Canoe Sprint - Women's Kayak Single 500m Heats\n🇳🇿 Aimee
+  FISHER\n🇭🇺 Alida Dora GAZSO\n🇦🇺 Alyce WOOD\n🇧🇷 Ana Paula
+  VERGUTZ\n🇭🇷 Anamaria GOVORCINOVIC\n🇨🇿 Anezka PALOUDOVA\n🇲🇽 Beatriz
+  BRIONES FRAGOZA\n🇪🇸 Begona LAZKANO\n🇦🇷 Brenda ROJAS\n🇵🇱 Dominika
+  PUTTO\n🇺🇿 Ekaterina SHUBINA\n🇩🇰 Emma Aastrand JORGENSEN\n🇩🇪 Enja
+  ROESSELING\n🇪🇸 Estefania FERNANDEZ\n🇿🇦 Esti OLIVIER\n🇳🇴 Hedda
+  ORITSLAND\n🇧🇪 Hermien PETERS\n🇸🇬 Jiexian Stephenie CHEN\n🇲🇽 Karina
+  ALANIS MORALES\n🇸🇪 Linnea STENSILS\n🇳🇿 Lisa CARRINGTON\n🇧🇪 Lize
+  BROEKX\n🇫🇷 Manon HOSTENS\n🇺🇦 Mariya POVKH\n🇸🇪 Melina
+  ANDERSSON\n🇨🇦 Michelle RUSSELL\n🇷🇸 Milica NOVAKOVIC\n🇬🇺 Raina
+  TAITINGFONG\n🇨🇦 Riley MELANSON\n🇳🇱 Ruth VORSSELMAN\n🇪🇬 Samaa
+  AHMED\n🇼🇸 Samalulu CLIFTON\n🏳️ Saman SOLTANI\n🇳🇱 Selma KONIJN\n🇭🇺
+  Tamara CSIPES\n🇵🇹 Teresa PORTELA\n🇿🇦 Tiffany Amber KOCH\n🇨🇳 WANG
+  Nan\n🇨🇳 YIN Mengdie\n🇧🇬 Yoana GEORGIEVA
+SUMMARY:🛶 Women's Kayak Single 500m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T084000Z-canoe-sprint-MENS-KAYAK-SINGLE-1000M-HEATS
+DTSTAMP:20240807T084000Z
+DTSTART:20240807T084000Z
+DTEND:20240807T092700Z
+DESCRIPTION:Canoe Sprint - Men's Kayak Single 1000m Heats\n🇺🇸 Aaron
+  SMALL\n🇲🇦 Achraf ELAIDI\n🇭🇺 Adam VARGA\n🇪🇸 Adrian del RIO\n🇦🇷
+  Agustin VERNICE\n🇮🇷 Ali AGHAMIRZAEIJENAGHARD\n🇱🇹 Andrej OLIJNIK\n🇿🇦
+  Andrew James BIRKETT\n🇩🇪 Anton WINKELMANN\n🇧🇪 Artuur PETERS\n🇭🇺
+  Balint KOPASZ\n🇰🇿 Bekarys RAMATULLA\n🇵🇹 Fernando PIMENTA\n🇪🇸
+  Francisco CUBELOS\n🇿🇦 Hamish LOVEMORE\n🇩🇪 Jakob THORDSEN\n🇺🇸 Jonas
+  ECKER\n🇨🇿 Josef DOSTAL\n🇸🇪 Martin NATHELL\n🇺🇾 Matias Valentin OTERO
+  EZCURRA\n🇫🇷 Maxime BEAUMONT\n🇩🇰 Rene Holten POULSEN\n🏳️ Saeid
+  FAZLOULA\n🇺🇿 Shakhriyor MAKHKAMOV\n🇦🇺 Tom GREEN\n🇼🇸 Tuva'a
+  CLIFTON\n🇦🇸 Uladzislau KRAVETS\n🇧🇷 Vagner Junior SOUTA\n🇨🇳 ZHANG
+  Dong
+SUMMARY:🛶 Men's Kayak Single 1000m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T094000Z-canoe-sprint-MENS-CANOE-SINGLE-1000M-HEATS
+DTSTAMP:20240807T094000Z
+DTSTART:20240807T094000Z
+DTEND:20240807T102700Z
+DESCRIPTION:Canoe Sprint - Men's Canoe Single 1000m Heats\n🇫🇷 Adrien
+  BART\n🇭🇺 Balazs ADOLF\n🇦🇴 Benilson SANDA\n🇮🇹 Carlo TACCHINI\n🇷🇴
+  Catalin CHIRILA\n🇨🇦 Connor FITZPATRICK\n🇭🇺 Daniel FEJES\n🏳️ Fernando
+  Dayan JORGE ENRIQUEZ\n🇹🇳 Ghailene KHATTALI\n🇧🇷 Isaquias QUEIROZ\n🇨🇳
+  JI Bowen\n🇨🇺 Jose Ramon PELIER CORDOVA\n🇹🇼 LAI Kuan-Chieh\n🇨🇳 LIU
+  Hao\n🇨🇿 Martin FUKSA\n🇧🇷 Mateus NUNES BASTOS dos SANTOS\n🇮🇷
+  Mohammad Nabi REZAEI\n🇮🇹 Nicolae CRACIUN\n🇪🇸 Pablo CRESPO\n🇺🇦 Pavlo
+  ALTUKHOV\n🇩🇪 Sebastian BRENDEL\n🇰🇿 Sergey YEMELYANOV\n🇲🇩 Serghei
+  TARNOVSCHI\n🇵🇱 Wiktor GLAZUNOW\n🇦🇸 Zakhar PETROV
+SUMMARY:🛶 Men's Canoe Single 1000m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T101300Z-taekwondo-MEN-58KG-ROUND-OF-16-ARG-HUN
+DTSTAMP:20240807T101300Z
+DTSTART:20240807T101300Z
+DTEND:20240807T102500Z
+DESCRIPTION:Taekwondo - Men -58kg Round of 16
+SUMMARY:🥋 Lucas GUZMAN 🇦🇷 - 🇭🇺 Omar Gergely SALIM
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T183500Z-water-polo-MENS-QUARTERFINAL-ITA-HUN
+DTSTAMP:20240807T183500Z
+DTSTART:20240807T183500Z
+DTEND:20240807T200000Z
+DESCRIPTION:Water Polo - Men's Quarterfinal
+SUMMARY:🤽 ITA 🇮🇹 - 🇭🇺 HUN
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T081000Z-taekwondo-MEN-68KG-ROUND-OF-16-CHN-HUN
+DTSTAMP:20240808T081000Z
+DTSTART:20240808T081000Z
+DTEND:20240808T082200Z
+DESCRIPTION:Taekwondo - Men -68kg Round of 16
+SUMMARY:🥋 LIANG Yushuai 🇨🇳 - 🇭🇺 Levente Mark JOZSA
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T083000Z-canoe-sprint-WOMENS-CANOE-SINGLE-200M-HEATS
+DTSTAMP:20240808T083000Z
+DTSTART:20240808T083000Z
+DTEND:20240808T091700Z
+DESCRIPTION:Canoe Sprint - Women's Canoe Single 200m Heats\n🇭🇺 Agnes Anna
+  KISS\n🇺🇦 Anastasiia RYBACHOK\n🇪🇸 Antia JACOME\n🇳🇬 Ayomide Powei
+  BELLO\n🇳🇬 Beauty Akinaere OTUEDO\n🇸🇳 Combe SECK\n🇲🇩 Daniela
+  COCIU\n🇵🇱 Dorota BOROWSKA\n🇫🇷 Eugenie DORANGE\n🇸🇹 Herminia TEIXEIRA
+  SANTANA\n🇨🇱 Karen ROCO\n🇵🇱 Katarzyna SZPERKIEWICZ\n🇨🇦 Katie
+  VINCENT\n🇭🇺 Kincso TAKACS\n🇨🇳 LIN Wenjun\n🇩🇪 Lisa JAHN\n🇺🇦
+  Liudmyla LUZAN\n🇩🇪 Maike JAKOB\n🇨🇴 Manuela GOMEZ SANCHEZ\n🇪🇸 Maria
+  CORBERA\n🇨🇱 Maria Jose MAILLIARD\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya
+  BROVKOVA\n🇺🇸 Nevin HARRISON\n🇺🇿 Nilufar ZOKIROVA\n🇦🇸 Olesia
+  ROMASENKO\n🇬🇺 Raina TAITINGFONG\n🇨🇦 Sophia JENSEN\n🇻🇳 Thi Huong
+  NGUYEN\n🇧🇷 Valdenice CONCEICAO DO NASCIMENTO\n🇨🇺 Yarisleidis CIRILO
+  DUBOYS\n🇨🇺 Yinnoly Francheska LOPEZ LAMADRID\n🇦🇸 Yuliya TRUSHKINA
+SUMMARY:🛶 Women's Canoe Single 200m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T073300Z-taekwondo-WOMEN-67KG-ROUND-OF-16-CIV-HUN
+DTSTAMP:20240809T073300Z
+DTSTART:20240809T073300Z
+DTEND:20240809T074600Z
+DESCRIPTION:Taekwondo - Women -67kg Round of 16
+SUMMARY:🥋 Ruth GBAGBI 🇨🇮 - 🇭🇺 Viviana MARTON
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

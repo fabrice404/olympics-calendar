@@ -82,6 +82,19 @@ SUMMARY:⛵ Men's Windsurfing - Final
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T133000Z-artistic-gymnastics-MENS-FLOOR-EXERCISE-FINAL
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T140500Z
+DESCRIPTION:Artistic Gymnastics - Men's Floor Exercise Final\n🇮🇱 Artem
+  DOLGOPYAT\n🇵🇭 Carlos Edriel YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake
+  JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵
+  OKA Shinnosuke\n🇰🇷 RYU Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG
+  Boheng
+SUMMARY:🤸 Men's Floor Exercise Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
 DTSTAMP:20240804T120000Z
 DTSTART:20240804T120000Z
@@ -119,5 +132,17 @@ DESCRIPTION:Cycling Road - Women's Road Race\n🇵🇱 Agnieszka
   Yanina KUSKOVA\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 Women's Road Race
 LOCATION:Trocadéro
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming-DUET-FREE-ROUTINE
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:Artistic Swimming - Duet Free Routine\n🇦🇺 AUS\n🇦🇹 AUT\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷 GRE\n🇮🇱 ISR\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇪🇸 ESP\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:🏊 Duet Free Routine
+LOCATION:Aquatics Centre
 END:VEVENT
 END:VCALENDAR

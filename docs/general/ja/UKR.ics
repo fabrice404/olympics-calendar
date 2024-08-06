@@ -177,6 +177,23 @@ SUMMARY:🚴 男子ロードレース
 LOCATION:トロカベロ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T093000Z-swimming-1500M
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T103900Z
+DESCRIPTION:競泳 - 男子1500m自由形予選\n🇹🇳 Ahmed JAOUADI\n🇺🇸 Bobby FINKE\n🇪🇸
+  Carlos GARACH BENITO\n🇫🇷 Damien JOLY\n🇬🇧 Daniel JERVIS\n🇮🇪 Daniel
+  WIFFEN\n🇫🇷 David AUBRY\n🇭🇺 David BETLEHEM\n🇺🇸 David JOHNSTON\n🇬🇷
+  Dimitrios MARKOS\n🇹🇷 Emir Batur ALBAYRAK\n🇨🇳 FEI Liwei\n🇩🇪 Florian
+  WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇳🇴 Henrik CHRISTIANSEN\n🇻🇳 Huy
+  Hoang NGUYEN\n🇵🇱 Krzysztof CHMIELEWSKI\n🇹🇷 Kuzey TUNCELLI\n🇮🇹 Luca
+  de TULLIO\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo ROMANCHUK\n🇨🇺 Rodolfo
+  FALCON JR\n🇦🇺 Samuel SHORT\n🇩🇪 Sven SCHWARZ\n🇸🇪 Victor
+  JOHANSSON\n🇷🇴 Vlad Stefan STANCU\n🇭🇺 Zalan SARKANY
+SUMMARY:🏊 男子1500m自由形予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T110000Z-fencing--3-ITA-UKR
 DTSTAMP:20240803T110000Z
 DTSTART:20240803T110000Z
@@ -207,6 +224,26 @@ SUMMARY:🤸 男子種目別ゆか決勝
 LOCATION:ベルシー・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T133000Z-canoe-slalom-1
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T142500Z
+DESCRIPTION:カヌー・スラローム - 女子カヤッククロス第1ラウンド\n🇨🇭 Alena MARX\n🇧🇷 Ana
+  SATILA\n🇫🇷 Angele HUG\n🇨🇿 Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷
+  Camille PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇦🇹 Corinna KUHNLE\n🇩🇪
+  Elena LILIK\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva Alina HOCEVAR\n🇸🇮 Eva
+  TERCELJ\n🇺🇸 Evy LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱
+  Klaudia ZWOLINSKA\n🇨🇳 LI Shiting\n🇳🇱 Lena TEUNISSEN\n🇨🇦 Lois
+  BETTERIDGE\n🇳🇿 Luuka JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen
+  CHOURRAUT\n🇬🇧 Mallory FRANKLIN\n🇮🇹 Marta BERTONCELLI\n🇳🇱 Martina
+  WEGMAN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇦🇺 Noemie
+  FOX\n🇯🇵 OKAZAKI Haruka\n🇩🇪 Ricarda FUNK\n🇲🇽 Sofia REINOSO\n🇮🇹
+  Stefanie HORN\n🇨🇿 Tereza FISEROVA\n🇦🇹 Viktoria WOLFFHARDT\n🇺🇦
+  Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 女子カヤッククロス第1ラウンド
+LOCATION:ノーティカル ST - ホワイトウォーター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T151600Z-artistic-gymnastics-
 DTSTAMP:20240803T151600Z
 DTSTART:20240803T151600Z
@@ -226,6 +263,19 @@ DTEND:20240803T185000Z
 DESCRIPTION:フェンシング - 女子サーブル団体決勝
 SUMMARY:🤺 大韓民国 🇰🇷 - 🇺🇦 ウクライナ
 LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T182000Z-athletics-
+DTSTAMP:20240803T182000Z
+DTSTART:20240803T182000Z
+DTEND:20240803T193700Z
+DESCRIPTION:陸上競技 - 女子三段跳決勝\n🇯🇲 Ackelia SMITH\n🇪🇸 Ana
+  PELETEIRO-COMPAORE\n🇮🇹 Dariya DERKACH\n🇷🇴 Elena Andreea TALOS\n🇫🇷
+  Ilionis GUILLAUME\n🇺🇸 Jasmine MOORE\n🇺🇸 Keturah ORJI\n🇨🇺 Leyanis
+  PEREZ HERNANDEZ\n🇨🇺 Liadagmis POVEA\n🇺🇦 Maryna BEKH-ROMANCHUK\n🇯🇲
+  Shanieka RICKETTS\n🇩🇲 Thea LAFOND
+SUMMARY:🏃 女子三段跳決勝
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T070000Z-shooting-25M1
@@ -262,6 +312,42 @@ DESCRIPTION:射撃 - 女子スキート個人本選2日目\n🇦🇺 Aislin JONE
   CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪 Victoria LARSSON\n🇨🇳 WEI Meng
 SUMMARY:🔫 女子スキート個人本選2日目
 LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T094500Z-athletics--B
+DTSTAMP:20240804T094500Z
+DTSTART:20240804T094500Z
+DTEND:20240804T104100Z
+DESCRIPTION:陸上競技 - 女子ハンマー投予選 - グループB\n🇫🇷 Alexandra TAVERNIER\n🇵🇱 Anita
+  WLODARCZYK\n🇺🇸 Deanna PRICE\n🇺🇦 Iryna KLYMETS\n🇩🇰 Katrine Koch
+  JACOBSEN\n🇫🇮 Krista TERVO\n🇮🇪 Nicola TUTHILL\n🇳🇬 Oyesade
+  OLATOYE\n🇭🇺 Reka GYURATZ\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara
+  FANTINI\n🇫🇮 Silja KOSONEN\n🇬🇷 Stamatia SCARVELIS\n🇧🇪 Vanessa
+  STERCKENDRIES\n🇨🇳 WANG Zheng\n🇲🇩 Zalina MARGHIEVA
+SUMMARY:🏃 女子ハンマー投予選 - グループB
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T103500Z-athletics-400M
+DTSTAMP:20240804T103500Z
+DTSTART:20240804T103500Z
+DTEND:20240804T110800Z
+DESCRIPTION:陸上競技 - 女子400mハードル予選\n🇦🇺 Alanah YUKICH\n🇮🇹 Alice
+  MURARO\n🇳🇴 Amalie IUEL\n🇺🇸 Anna COCKRELL\n🇺🇦 Anna RYZHYKOVA\n🇮🇹
+  Ayomide FOLORUNSO\n🇩🇪 Carolina KRAFZIK\n🇳🇱 Cathelijn PEETERS\n🇧🇷
+  Chayenne da SILVA\n🇵🇹 Fatoumata Binta DIALLO\n🇳🇱 Femke BOL\n🇵🇦
+  Gianna WOODRUFF\n🇵🇷 Grace CLAXTON\n🇧🇪 Hanne CLAES\n🇯🇲 Janieve
+  RUSSELL\n🇺🇸 Jasmine JONES\n🇬🇧 Jessie KNIGHT\n🇧🇭 Kemi ADEKOYA\n🇵🇭
+  Lauren HOFFMAN\n🇬🇧 Lina NIELSEN\n🇨🇲 Linda ANGOUNOU\n🇳🇴 Line
+  KLOSTER\n🇫🇷 Louise MARAVAL\n🇨🇳 MO Jiadie\n🇧🇪 Naomi van den
+  BROECK\n🇨🇿 Nikoleta JICHOVA\n🇲🇦 Noura ENNADI\n🇧🇪 Paulien
+  COUCKUYT\n🇮🇹 Rebecca SARTORI\n🇿🇦 Rogail JOSEPH\n🇯🇲 Rushell
+  CLAYTON\n🇦🇺 Sarah CARLI\n🇨🇦 Savannah SUTHERLAND\n🇫🇷 Shana
+  GREBO\n🇯🇲 Shiann SALMON\n🇺🇸 Sydney McLAUGHLIN-LEVRONE\n🇫🇮 Viivi
+  LEHIKOINEN\n🇺🇦 Viktoriya TKACHUK\n🇨🇭 Yasmin GIGER\n🇿🇦 Zeney
+  GELDENHUYS
+SUMMARY:🏃 女子400mハードル予選
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T110000Z-shooting-25M2
@@ -333,6 +419,84 @@ SUMMARY:🤸 男子種目別跳馬決勝
 LOCATION:ベルシー・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T144500Z-canoe-slalom-
+DTSTAMP:20240804T144500Z
+DTSTART:20240804T144500Z
+DTEND:20240804T152500Z
+DESCRIPTION:カヌー・スラローム - 女子カヤッククロス予選\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇫🇷
+  Angele HUG\n🇨🇿 Antonie GALUSKOVA\n🇹🇼 CHANG Chu-Han\n🇫🇷 Camille
+  PRIGENT\n🇩🇿 Carole Diana BOUZIDI\n🇩🇪 Elena LILIK\n🇸🇰 Eliska
+  MINTALOVA\n🇸🇮 Eva Alina HOCEVAR\n🇸🇮 Eva TERCELJ\n🇺🇸 Evy
+  LEIBFARTH\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia
+  ZWOLINSKA\n🇳🇱 Lena TEUNISSEN\n🇨🇦 Lois BETTERIDGE\n🇳🇿 Luuka
+  JONES\n🇮🇪 Madison CORCORAN\n🇪🇸 Maialen CHOURRAUT\n🇬🇧 Mallory
+  FRANKLIN\n🇮🇹 Marta BERTONCELLI\n🇳🇱 Martina WEGMAN\n🇪🇸 Miren
+  LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇦🇺 Noemie FOX\n🇩🇪 Ricarda
+  FUNK\n🇲🇽 Sofia REINOSO\n🇮🇹 Stefanie HORN\n🇨🇿 Tereza FISEROVA\n🇦🇹
+  Viktoria WOLFFHARDT\n🇺🇦 Viktoriia US
+SUMMARY:🛶 女子カヤッククロス予選
+LOCATION:ノーティカル ST - ホワイトウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T152200Z-boxing-80KG--UKR-CUB
+DTSTAMP:20240804T152200Z
+DTSTART:20240804T152200Z
+DTEND:20240804T153300Z
+DESCRIPTION:ボクシング - 男子80kg級 - 準決勝
+SUMMARY:🥊 Oleksandr KHYZHNIAK 🇺🇦 - 🇨🇺 Arlen LOPEZ CARDONA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T170500Z-athletics-400M
+DTSTAMP:20240804T170500Z
+DTSTART:20240804T170500Z
+DTEND:20240804T174100Z
+DESCRIPTION:陸上競技 - 男子400m予選\n🇧🇪 Alexander DOOM\n🇩🇴 Alexander
+  OGANDO\n🇶🇦 Ammar Ismail YAHIA IBRAHIM\n🇨🇴 Anthony Jose ZAMBRANO\n🇱🇰
+  Aruna Dharshana SINGHAPURAGE\n🇭🇺 Attila MOLNAR\n🇧🇼 Bayapo NDORI\n🇧🇼
+  Busang Collen KEBINATSHIPI\n🇬🇧 Charles DOBSON\n🇸🇳 Cheikh Tidiane
+  DIOUF\n🇳🇬 Chidi OKEZIE\n🇺🇸 Christopher BAILEY\n🇨🇦 Christopher
+  MORALES-WILLIAMS\n🇮🇹 Davide RE\n🇯🇲 Deandre WATKIN\n🇧🇪 Dylan
+  BORLEE\n🇦🇷 Elian LARREGINA\n🇫🇷 Gilles BIRON\n🇳🇴 Havard Bentdal
+  INGVALDSEN\n🇩🇪 Jean Paul BREDAU\n🇹🇹 Jereem RICHARDS\n🇯🇲 Jevaughn
+  POWELL\n🇵🇹 Joao COELHO\n🇧🇪 Jonathan SACOOR\n🇬🇩 Kirani JAMES\n🇧🇼
+  Leungo SCOTCH\n🇨🇭 Lionel SPITZ\n🇮🇹 Luca SITO\n🇧🇷 Lucas
+  CARVALHO\n🇿🇦 Lythe PILLAY\n🇨🇿 Matej KRSEK\n🇬🇧 Matthew
+  HUDSON-SMITH\n🇱🇨 Michael JOSEPH\n🇺🇸 Michael NORMAN\n🇿🇲 Muzala
+  SAMUKONGA\n🇯🇵 NAKAJIMA Yuki Joseph\n🇺🇦 Oleksandr POHORILKO\n🇺🇸
+  Quincy HALL\n🇦🇺 Reece HOLDER\n🇯🇵 SATO Fuga\n🇯🇵 SATO Kentaro\n🇳🇬
+  Samuel OGAZI\n🇯🇲 Sean BAILEY\n🇧🇸 Steven GARDINER\n🇰🇪 Zablon Ekhal
+  EKWAM\n🇿🇦 Zakithi NENE
+SUMMARY:🏃 男子400m予選
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T175500Z-athletics-
+DTSTAMP:20240804T175500Z
+DTSTART:20240804T175500Z
+DTEND:20240804T194000Z
+DESCRIPTION:陸上競技 - 女子走高跳決勝\n🇷🇸 Angelina TOPIC\n🇹🇷 Buse SAVASKAN\n🇩🇪
+  Christina HONSEL\n🇦🇺 Eleanor PATTERSON\n🇨🇾 Elena KULICHENKO\n🇺🇦
+  Iryna GERASHCHENKO\n🇫🇷 Nawal MENIKER\n🇦🇺 Nicola OLYSLAGERS\n🇺🇿
+  Safina SADULLAYEVA\n🇬🇷 Tatiana GUSIN\n🇧🇷 Valdileia MARTINS\n🇺🇸
+  Vashti CUNNINGHAM\n🇺🇦 Yaroslava MAHUCHIKH
+SUMMARY:🏃 女子走高跳決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T183000Z-athletics-
+DTSTAMP:20240804T183000Z
+DTSTART:20240804T183000Z
+DTEND:20240804T194000Z
+DESCRIPTION:陸上競技 - 男子ハンマー投決勝\n🇭🇺 Bence HALASZ\n🇬🇷 Christos
+  FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇩🇪 Merlin
+  HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel FAJDEK\n🇨🇦 Rowan
+  HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱 Wojciech
+  NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 男子ハンマー投決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T073000Z-shooting-25M
 DTSTAMP:20240805T073000Z
 DTSTART:20240805T073000Z
@@ -362,6 +526,39 @@ SUMMARY:🏊 女子10m高飛込予選
 LOCATION:アクアティックス・センター
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T085000Z-athletics-400M
+DTSTAMP:20240805T085000Z
+DTSTART:20240805T085000Z
+DTEND:20240805T090700Z
+DESCRIPTION:陸上競技 - 女子400mハードル敗者復活戦\n🇦🇺 Alanah YUKICH\n🇮🇹 Alice
+  MURARO\n🇺🇦 Anna RYZHYKOVA\n🇮🇹 Ayomide FOLORUNSO\n🇩🇪 Carolina
+  KRAFZIK\n🇧🇷 Chayenne da SILVA\n🇵🇦 Gianna WOODRUFF\n🇵🇷 Grace
+  CLAXTON\n🇬🇧 Jessie KNIGHT\n🇵🇭 Lauren HOFFMAN\n🇨🇲 Linda
+  ANGOUNOU\n🇳🇴 Line KLOSTER\n🇨🇳 MO Jiadie\n🇧🇪 Naomi van den
+  BROECK\n🇨🇿 Nikoleta JICHOVA\n🇮🇹 Rebecca SARTORI\n🇦🇺 Sarah
+  CARLI\n🇫🇷 Shana GREBO\n🇫🇮 Viivi LEHIKOINEN\n🇺🇦 Viktoriya
+  TKACHUK\n🇨🇭 Yasmin GIGER
+SUMMARY:🏃 女子400mハードル敗者復活戦
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T092000Z-athletics-400M
+DTSTAMP:20240805T092000Z
+DTSTART:20240805T092000Z
+DTEND:20240805T094500Z
+DESCRIPTION:陸上競技 - 男子400m敗者復活戦\n🇩🇴 Alexander OGANDO\n🇶🇦 Ammar Ismail
+  YAHIA IBRAHIM\n🇨🇴 Anthony Jose ZAMBRANO\n🇭🇺 Attila MOLNAR\n🇸🇳
+  Cheikh Tidiane DIOUF\n🇳🇬 Chidi OKEZIE\n🇮🇹 Davide RE\n🇯🇲 Deandre
+  WATKIN\n🇧🇪 Dylan BORLEE\n🇦🇷 Elian LARREGINA\n🇫🇷 Gilles BIRON\n🇩🇪
+  Jean Paul BREDAU\n🇵🇹 Joao COELHO\n🇧🇪 Jonathan SACOOR\n🇧🇼 Leungo
+  SCOTCH\n🇨🇭 Lionel SPITZ\n🇧🇷 Lucas CARVALHO\n🇿🇦 Lythe PILLAY\n🇨🇿
+  Matej KRSEK\n🇱🇨 Michael JOSEPH\n🇯🇵 NAKAJIMA Yuki Joseph\n🇺🇦
+  Oleksandr POHORILKO\n🇯🇵 SATO Fuga\n🇯🇵 SATO Kentaro\n🇯🇲 Sean
+  BAILEY\n🇿🇦 Zakithi NENE
+SUMMARY:🏃 男子400m敗者復活戦
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T094500Z-artistic-gymnastics-
 DTSTAMP:20240805T094500Z
 DTSTART:20240805T094500Z
@@ -384,6 +581,75 @@ SUMMARY:🤼 Tetiana SOVA RIZHKO 🇺🇦 - 🇮🇳 Nisha NISHA
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T133000Z-canoe-slalom-
+DTSTAMP:20240805T133000Z
+DTSTART:20240805T133000Z
+DTEND:20240805T135000Z
+DESCRIPTION:カヌー・スラローム - 女子カヤッククロス準々決勝\n🇨🇭 Alena MARX\n🇧🇷 Ana
+  SATILA\n🇫🇷 Angele HUG\n🇫🇷 Camille PRIGENT\n🇩🇿 Carole Diana
+  BOUZIDI\n🇩🇪 Elena LILIK\n🇺🇸 Evy LEIBFARTH\n🇬🇧 Kimberley WOODS\n🇳🇿
+  Luuka JONES\n🇪🇸 Maialen CHOURRAUT\n🇬🇧 Mallory FRANKLIN\n🇦🇩 Monica
+  DORIA VILARRUBLA\n🇦🇺 Noemie FOX\n🇩🇪 Ricarda FUNK\n🇮🇹 Stefanie
+  HORN\n🇺🇦 Viktoriia US
+SUMMARY:🛶 女子カヤッククロス準々決勝
+LOCATION:ノーティカル ST - ホワイトウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T073000Z-canoe-sprint-K-4500M
+DTSTAMP:20240806T073000Z
+DTSTART:20240806T073000Z
+DTEND:20240806T074700Z
+DESCRIPTION:カヌー・スプリント - 男子カヤックフォア（K-4）500m予選\n🇷🇸 Andjelo DZOMBETA\n🇱🇹
+  Arturas SEJA\n🇨🇳 BU Tingkai\n🇭🇺 Bence NADAS\n🇪🇸 Carlos
+  AREVALO\n🇨🇳 DONG Yi\n🇺🇦 Dmytro DANYLENKO\n🇳🇿 Grant CLANCY\n🇳🇿
+  Hamish LEGARTH\n🇱🇹 Ignas NAVAKAUSKAS\n🇺🇦 Ihor TRUNOV\n🇭🇺 Istvan
+  KULI\n🇺🇦 Ivan SEMYKIN\n🇦🇺 Jackson COLLINS\n🇩🇪 Jacob SCHOPF\n🇭🇺
+  Kolos Attila CSIZMADIA\n🇳🇿 Kurtis IMRIE\n🇩🇰 Lasse Bro MADSEN\n🇨🇦
+  Laurent LAVIGNE\n🇩🇰 Magnus SIBBERSEN\n🇪🇸 Marcus COOPER\n🇷🇸 Marko
+  DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇳🇿 Max BROWN\n🇩🇪 Max
+  LEMKE\n🇩🇪 Max RENDSCHMIDT\n🇱🇹 Mindaugas MALDONIS\n🇩🇰 Morten
+  GRAVERSEN\n🇨🇦 Nicholas MATVEEV\n🇦🇺 Noah HAVARD\n🇺🇦 Oleh
+  KUKHARYK\n🇦🇺 Pierre van der WESTHUYZEN\n🇨🇦 Pierre-Luc POULIN\n🇦🇺
+  Riley FITZSIMMONS\n🇪🇸 Rodrigo GERMADE\n🇭🇺 Sandor TOTKA\n🇪🇸 Saul
+  CRAVIOTTO\n🇨🇦 Simon McTAVISH\n🇱🇹 Simonas MALDONIS\n🇩🇪 Tom
+  LIEBSCHER-LUCZ\n🇩🇰 Victor Gairy AASMUL\n🇷🇸 Vladimir TORUBAROV\n🇨🇳
+  WANG Congkang\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 男子カヤックフォア（K-4）500m予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080000Z-sport-climbing-
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T101700Z
+DESCRIPTION:スポーツクライミング - 女子ボルダー&リード、ボルダー準決勝\n🇺🇸 Brooke RABOUTOU\n🇮🇹
+  Camilla MORONI\n🇬🇧 Erin McNEICE\n🇺🇦 Ievgeniia KAZBEKOVA\n🇸🇮 Janja
+  GARNBRET\n🇦🇹 Jessica PILZ\n🇨🇳 LUO Zhilu\n🇮🇹 Laura ROGORA\n🇿🇦
+  Lauren MUKHEIBIR\n🇩🇪 Lucia DOERFFEL\n🇯🇵 MORI Ai\n🇸🇮 Mia
+  KRAMPL\n🇬🇧 Molly THOMPSON-SMITH\n🇯🇵 NONAKA Miho\n🇺🇸 Natalia
+  GROSSMAN\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun\n🇨🇳 ZHANG Yuetong\n🇫🇷 Zelia AVEZOU
+SUMMARY:🧗 女子ボルダー&リード、ボルダー準決勝
+LOCATION:ル・ブルジェ・スポーツクライミング
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T090000Z-canoe-sprint-C-2500M
+DTSTAMP:20240806T090000Z
+DTSTART:20240806T090000Z
+DTEND:20240806T091700Z
+DESCRIPTION:カヌー・スプリント - 女子カナディアンペア（C-2）500m予選\n🇭🇺 Agnes Anna KISS\n🇺🇦
+  Anastasiia RYBACHOK\n🇪🇸 Antia JACOME\n🇫🇷 Axelle RENARD\n🇳🇬 Ayomide
+  Powei BELLO\n🇳🇬 Beauty Akinaere OTUEDO\n🇭🇺 Bianka NAGY\n🇲🇩 Daniela
+  COCIU\n🇵🇱 Dorota BOROWSKA\n🇫🇷 Eugenie DORANGE\n🇩🇪 Hedi Moana
+  KLIEMKE\n🇨🇦 Katie VINCENT\n🇩🇪 Lisa JAHN\n🇺🇦 Liudmyla LUZAN\n🇪🇸
+  Maria CORBERA\n🇨🇱 Maria Jose MAILLIARD\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya
+  BROVKOVA\n🇨🇱 Paula GOMEZ\n🇰🇿 Rufina ISKAKOVA\n🇨🇳 SUN Mengya\n🇨🇦
+  Sloan MACKENZIE\n🇵🇱 Sylwia SZCZERBINSKA\n🇨🇳 XU Shixiao\n🇨🇺
+  Yarisleidis CIRILO DUBOYS\n🇨🇺 Yinnoly Francheska LOPEZ LAMADRID
+SUMMARY:🛶 女子カナディアンペア（C-2）500m予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T092100Z-wrestling-50KG1-UZB-UKR
 DTSTAMP:20240806T092100Z
 DTSTART:20240806T092100Z
@@ -391,6 +657,111 @@ DTEND:20240806T092800Z
 DESCRIPTION:レスリング - 女子フリースタイル50kg級1回戦
 SUMMARY:🤼 Aktenge KEUNIMJAEVA 🇺🇿 - 🇺🇦 Oksana LIVACH
 LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T093000Z-canoe-sprint-K-2500M
+DTSTAMP:20240806T093000Z
+DTSTART:20240806T093000Z
+DTEND:20240806T100700Z
+DESCRIPTION:カヌー・スプリント - 男子カヤックペア（K-2）500m予選\n🇺🇸 Aaron SMALL\n🇭🇺 Adam
+  VARGA\n🇪🇸 Adrian del RIO\n🇷🇸 Andjelo DZOMBETA\n🇱🇹 Andrej
+  OLIJNIK\n🇿🇦 Andrew James BIRKETT\n🇨🇳 BU Tingkai\n🇭🇺 Balint
+  KOPASZ\n🇰🇿 Bekarys RAMATULLA\n🇭🇺 Bence NADAS\n🇪🇸 Carlos
+  AREVALO\n🇨🇿 Daniel HAVEL\n🇳🇿 Hamish LEGARTH\n🇿🇦 Hamish
+  LOVEMORE\n🇺🇦 Ihor TRUNOV\n🇩🇪 Jacob SCHOPF\n🇨🇿 Jakub SPICAR\n🇵🇱
+  Jakub STEPUN\n🇦🇺 Jean van der WESTHUYZEN\n🇵🇹 Joao RIBEIRO\n🇺🇸 Jonas
+  ECKER\n🇳🇿 Kurtis IMRIE\n🇪🇸 Marcus COOPER\n🇷🇸 Marko
+  DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇩🇪 Max LEMKE\n🇩🇪 Max
+  RENDSCHMIDT\n🇵🇹 Messias BAPTISTA\n🇱🇹 Mindaugas MALDONIS\n🇺🇦 Oleh
+  KUKHARYK\n🇨🇦 Pierre-Luc POULIN\n🇵🇱 Przemyslaw KORSAK\n🇪🇸 Rodrigo
+  GERMADE\n🇭🇺 Sandor TOTKA\n🇰🇿 Sergii TOKARNYTSKYI\n🇨🇦 Simon
+  McTAVISH\n🇦🇺 Tom GREEN\n🇩🇪 Tom LIEBSCHER-LUCZ\n🇷🇸 Vladimir
+  TORUBAROV\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 男子カヤックペア（K-2）500m予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T095000Z-athletics--B
+DTSTAMP:20240806T095000Z
+DTSTART:20240806T095000Z
+DTEND:20240806T104600Z
+DESCRIPTION:陸上競技 - 男子やり投予選 - グループB\n🇬🇩 Anderson PETERS\n🇲🇩 Andrian
+  MARDARE\n🇵🇰 Arshad NADEEM\n🇺🇦 Artur FELFNER\n🇦🇺 Cameron
+  McENTYRE\n🇳🇬 Chinecherem NNAMDI\n🇵🇱 Cyprian MRZYGLOD\n🇱🇹 Edis
+  MATUSEVICIUS\n🇱🇻 Gatis CAKSS\n🇫🇮 Lassi ETELATALO\n🇧🇷 Luiz Mauricio
+  da SILVA\n🇵🇱 Marcin KRUKOWSKI\n🇩🇪 Max DEHNING\n🇪🇬 Moustafa
+  MAHMOUD\n🇮🇳 Neeraj CHOPRA\n🇧🇪 Timothy HERMAN
+SUMMARY:🏃 男子やり投予選 - グループB
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T110000Z-sport-climbing-
+DTSTAMP:20240806T110000Z
+DTSTART:20240806T110000Z
+DTEND:20240806T112500Z
+DESCRIPTION:スポーツクライミング - 男子スピード予選シーディング\n🇰🇿 Amir MAIMURATOV\n🇫🇷 Bassa
+  MAWEM\n🇿🇦 Joshua BRUYNS\n🇳🇿 Julian DAVID\n🇨🇳 LONG Jinbao\n🇮🇹
+  Matteo ZURLONI\n🇮🇩 Rahmad ADI MULYONO\n🇮🇷 Reza ALI POUR\n🇰🇷 SHIN
+  Euncheol\n🇺🇸 Sam WATSON\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU Peng\n🇺🇦
+  Yaroslav TKACH\n🇺🇸 Zach HAMMER
+SUMMARY:🧗 男子スピード予選シーディング
+LOCATION:ル・ブルジェ・スポーツクライミング
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T180700Z-athletics-400M
+DTSTAMP:20240806T180700Z
+DTSTART:20240806T180700Z
+DTEND:20240806T182800Z
+DESCRIPTION:陸上競技 - 女子400mハードル準決勝\n🇦🇺 Alanah YUKICH\n🇳🇴 Amalie
+  IUEL\n🇺🇸 Anna COCKRELL\n🇺🇦 Anna RYZHYKOVA\n🇮🇹 Ayomide
+  FOLORUNSO\n🇳🇱 Cathelijn PEETERS\n🇵🇹 Fatoumata Binta DIALLO\n🇳🇱
+  Femke BOL\n🇧🇪 Hanne CLAES\n🇯🇲 Janieve RUSSELL\n🇺🇸 Jasmine
+  JONES\n🇬🇧 Jessie KNIGHT\n🇬🇧 Lina NIELSEN\n🇫🇷 Louise MARAVAL\n🇨🇳
+  MO Jiadie\n🇧🇪 Naomi van den BROECK\n🇲🇦 Noura ENNADI\n🇧🇪 Paulien
+  COUCKUYT\n🇿🇦 Rogail JOSEPH\n🇯🇲 Rushell CLAYTON\n🇨🇦 Savannah
+  SUTHERLAND\n🇫🇷 Shana GREBO\n🇯🇲 Shiann SALMON\n🇺🇸 Sydney
+  McLAUGHLIN-LEVRONE\n🇿🇦 Zeney GELDENHUYS
+SUMMARY:🏃 女子400mハードル準決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T073000Z-canoe-sprint-K-1500M
+DTSTAMP:20240807T073000Z
+DTSTART:20240807T073000Z
+DTEND:20240807T082700Z
+DESCRIPTION:カヌー・スプリント - 女子カヤックシングル（K-1）500m予選\n🇳🇿 Aimee FISHER\n🇭🇺
+  Alida Dora GAZSO\n🇦🇺 Alyce WOOD\n🇧🇷 Ana Paula VERGUTZ\n🇭🇷 Anamaria
+  GOVORCINOVIC\n🇨🇿 Anezka PALOUDOVA\n🇲🇽 Beatriz BRIONES FRAGOZA\n🇪🇸
+  Begona LAZKANO\n🇦🇷 Brenda ROJAS\n🇵🇱 Dominika PUTTO\n🇺🇿 Ekaterina
+  SHUBINA\n🇩🇰 Emma Aastrand JORGENSEN\n🇩🇪 Enja ROESSELING\n🇪🇸
+  Estefania FERNANDEZ\n🇿🇦 Esti OLIVIER\n🇳🇴 Hedda ORITSLAND\n🇧🇪
+  Hermien PETERS\n🇸🇬 Jiexian Stephenie CHEN\n🇲🇽 Karina ALANIS
+  MORALES\n🇸🇪 Linnea STENSILS\n🇳🇿 Lisa CARRINGTON\n🇧🇪 Lize
+  BROEKX\n🇫🇷 Manon HOSTENS\n🇺🇦 Mariya POVKH\n🇸🇪 Melina
+  ANDERSSON\n🇨🇦 Michelle RUSSELL\n🇷🇸 Milica NOVAKOVIC\n🇬🇺 Raina
+  TAITINGFONG\n🇨🇦 Riley MELANSON\n🇳🇱 Ruth VORSSELMAN\n🇪🇬 Samaa
+  AHMED\n🇼🇸 Samalulu CLIFTON\n🏳️ Saman SOLTANI\n🇳🇱 Selma KONIJN\n🇭🇺
+  Tamara CSIPES\n🇵🇹 Teresa PORTELA\n🇿🇦 Tiffany Amber KOCH\n🇨🇳 WANG
+  Nan\n🇨🇳 YIN Mengdie\n🇧🇬 Yoana GEORGIEVA
+SUMMARY:🛶 女子カヤックシングル（K-1）500m予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T094000Z-canoe-sprint-C-11000M
+DTSTAMP:20240807T094000Z
+DTSTART:20240807T094000Z
+DTEND:20240807T102700Z
+DESCRIPTION:カヌー・スプリント - 男子カナディアンシングル（C-1）1000m予選\n🇫🇷 Adrien BART\n🇭🇺
+  Balazs ADOLF\n🇦🇴 Benilson SANDA\n🇮🇹 Carlo TACCHINI\n🇷🇴 Catalin
+  CHIRILA\n🇨🇦 Connor FITZPATRICK\n🇭🇺 Daniel FEJES\n🏳️ Fernando Dayan
+  JORGE ENRIQUEZ\n🇹🇳 Ghailene KHATTALI\n🇧🇷 Isaquias QUEIROZ\n🇨🇳 JI
+  Bowen\n🇨🇺 Jose Ramon PELIER CORDOVA\n🇹🇼 LAI Kuan-Chieh\n🇨🇳 LIU
+  Hao\n🇨🇿 Martin FUKSA\n🇧🇷 Mateus NUNES BASTOS dos SANTOS\n🇮🇷
+  Mohammad Nabi REZAEI\n🇮🇹 Nicolae CRACIUN\n🇪🇸 Pablo CRESPO\n🇺🇦 Pavlo
+  ALTUKHOV\n🇩🇪 Sebastian BRENDEL\n🇰🇿 Sergey YEMELYANOV\n🇲🇩 Serghei
+  TARNOVSCHI\n🇵🇱 Wiktor GLAZUNOW\n🇦🇸 Zakhar PETROV
+SUMMARY:🛶 男子カナディアンシングル（C-1）1000m予選
+LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T130000Z-diving-3M
@@ -410,6 +781,63 @@ SUMMARY:🏊 女子3m飛板飛込予選
 LOCATION:アクアティックス・センター
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T205100Z-boxing-80KG--KAZ-UKR
+DTSTAMP:20240807T205100Z
+DTSTART:20240807T205100Z
+DTEND:20240807T210200Z
+DESCRIPTION:ボクシング - 男子80kg級 - 決勝戦
+SUMMARY:🥊 Nurbek ORALBAY 🇰🇿 - 🇺🇦 Oleksandr KHYZHNIAK
+LOCATION:スタッド・ローラン・ギャロス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T080000Z-sport-climbing-
+DTSTAMP:20240808T080000Z
+DTSTART:20240808T080000Z
+DTEND:20240808T100500Z
+DESCRIPTION:スポーツクライミング - 女子ボルダー&リード、リード準決勝\n🇺🇸 Brooke RABOUTOU\n🇮🇹
+  Camilla MORONI\n🇬🇧 Erin McNEICE\n🇺🇦 Ievgeniia KAZBEKOVA\n🇸🇮 Janja
+  GARNBRET\n🇦🇹 Jessica PILZ\n🇨🇳 LUO Zhilu\n🇮🇹 Laura ROGORA\n🇿🇦
+  Lauren MUKHEIBIR\n🇩🇪 Lucia DOERFFEL\n🇯🇵 MORI Ai\n🇸🇮 Mia
+  KRAMPL\n🇬🇧 Molly THOMPSON-SMITH\n🇯🇵 NONAKA Miho\n🇺🇸 Natalia
+  GROSSMAN\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun\n🇨🇳 ZHANG Yuetong\n🇫🇷 Zelia AVEZOU
+SUMMARY:🧗 女子ボルダー&リード、リード準決勝
+LOCATION:ル・ブルジェ・スポーツクライミング
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T083000Z-canoe-sprint-C-1200M
+DTSTAMP:20240808T083000Z
+DTSTART:20240808T083000Z
+DTEND:20240808T091700Z
+DESCRIPTION:カヌー・スプリント - 女子カナディアンシングル（C-1）200m予選\n🇭🇺 Agnes Anna KISS\n🇺🇦
+  Anastasiia RYBACHOK\n🇪🇸 Antia JACOME\n🇳🇬 Ayomide Powei BELLO\n🇳🇬
+  Beauty Akinaere OTUEDO\n🇸🇳 Combe SECK\n🇲🇩 Daniela COCIU\n🇵🇱 Dorota
+  BOROWSKA\n🇫🇷 Eugenie DORANGE\n🇸🇹 Herminia TEIXEIRA SANTANA\n🇨🇱
+  Karen ROCO\n🇵🇱 Katarzyna SZPERKIEWICZ\n🇨🇦 Katie VINCENT\n🇭🇺 Kincso
+  TAKACS\n🇨🇳 LIN Wenjun\n🇩🇪 Lisa JAHN\n🇺🇦 Liudmyla LUZAN\n🇩🇪 Maike
+  JAKOB\n🇨🇴 Manuela GOMEZ SANCHEZ\n🇪🇸 Maria CORBERA\n🇨🇱 Maria Jose
+  MAILLIARD\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya BROVKOVA\n🇺🇸 Nevin
+  HARRISON\n🇺🇿 Nilufar ZOKIROVA\n🇦🇸 Olesia ROMASENKO\n🇬🇺 Raina
+  TAITINGFONG\n🇨🇦 Sophia JENSEN\n🇻🇳 Thi Huong NGUYEN\n🇧🇷 Valdenice
+  CONCEICAO DO NASCIMENTO\n🇨🇺 Yarisleidis CIRILO DUBOYS\n🇨🇺 Yinnoly
+  Francheska LOPEZ LAMADRID\n🇦🇸 Yuliya TRUSHKINA
+SUMMARY:🛶 女子カナディアンシングル（C-1）200m予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T130000Z-weightlifting-59KG
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T153000Z
+DESCRIPTION:ウエイトリフティング - 女子59kg級\n🇻🇪 Anyelin VENEGAS VALERA\n🇫🇷 Dora
+  TCHAKOUNTE\n🇵🇭 Elreen Ann ANDO\n🇲🇽 Janeth GOMEZ VALDIVIA\n🇹🇼 KUO
+  Hsing-Chun\n🇺🇦 Kamila KONOTOP\n🇨🇳 LUO Shifang\n🇮🇹 Lucrezia
+  MAGISTRIS\n🇲🇭 Mathlynn SASSER\n🇨🇦 Maude CHARRON\n🇳🇬 Rafiatu
+  Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
+SUMMARY:🏋 女子59kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T080000Z-diving-10M
 DTSTAMP:20240809T080000Z
 DTSTART:20240809T080000Z
@@ -424,6 +852,30 @@ DESCRIPTION:飛込 - 男子10m高飛込予選\n🇨🇴 Alejandro SOLARTE\n🇮�
   LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪
   Timo BARTHEL\n🇨🇳 YANG Hao
 SUMMARY:🏊 男子10m高飛込予選
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-artistic-swimming-
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T191300Z
+DESCRIPTION:アーティスティックスイミング - デュエットテクニカルルーティン\n🇺🇸 アメリカ合衆国\n🇮🇱
+  イスラエル\n🇮🇹 イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹
+  オーストリア\n🇨🇦 カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽
+  メキシコ\n🇨🇳 中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットテクニカルルーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming-
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:アーティスティックスイミング - デュエットフリールーティン\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットフリールーティン
 LOCATION:アクアティックス・センター
 END:VEVENT
 BEGIN:VEVENT

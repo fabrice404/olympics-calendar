@@ -13,6 +13,63 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-MENS-QUALIFICATION-DAY-2
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T120000Z
+DESCRIPTION:Shooting - Skeet Men's Qualification - Day 2\n🇮🇳 Anant Jeet
+  Singh NARUKA\n🇪🇬 Azmy MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸
+  Conner Lynn PRINCE\n🇰🇿 Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷
+  Efthimios MITAS\n🇫🇷 Eric DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico
+  GIL\n🇮🇹 Gabriele ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub
+  TOMECEK\n🇩🇰 Jesper HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua
+  BELL\n🇰🇷 KIM Minsu\n🇹🇼 LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus
+  SVENSSON\n🇰🇼 Mohammad ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬
+  Omar IBRAHIM\n🇪🇪 Peeter JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹
+  Sebastian BERMUDEZ LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹
+  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
+SUMMARY:🔫 Skeet Men's Qualification - Day 2
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T081000Z-athletics-MENS-POLE-VAULT-QUALIFICATION
+DTSTAMP:20240803T081000Z
+DTSTART:20240803T081000Z
+DTEND:20240803T103000Z
+DESCRIPTION:Athletics - Men's Pole Vault Qualification\n🇫🇷 Anthony
+  AMMIRATI\n🇸🇪 Armand DUPLANTIS\n🇧🇪 Ben BROEDERS\n🇩🇪 Bo Kanda LITA
+  BAEHRE\n🇺🇸 Christopher NILSEN\n🇮🇹 Claudio Michel STECCHI\n🇨🇿 David
+  HOLY\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu
+  SASMA\n🇨🇳 HUANG Bokai\n🇸🇦 Hussain Asim AL HIZAM\n🇺🇸 Jacob
+  WOOTEN\n🇦🇺 Kurtis MARSCHALL\n🇨🇿 Matej SCERBA\n🇳🇱 Menno VLOON\n🇩🇪
+  Oleg ZERNIKEL\n🇳🇴 Pal Haugen LILLEFOSSE\n🇵🇹 Pedro BUARO\n🇵🇱 Piotr
+  LISEK\n🇵🇱 Robert SOBERA\n🇫🇷 Robin EMIG\n🇺🇸 Sam KENDRICKS\n🇳🇴
+  Simen GUTTORMSEN\n🇳🇴 Sondre GUTTORMSEN\n🇫🇷 Thibaut COLLET\n🇩🇪
+  Torben BLECH\n🇫🇮 Urho KUJANPAA\n🇱🇻 Valters KREISS\n🇨🇳 YAO Jie\n🇨🇳
+  ZHONG Tao
+SUMMARY:🏃 Men's Pole Vault Qualification
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-swimming-WOMENS-50M-FREESTYLE-HEATS
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -114,6 +171,15 @@ SUMMARY:🏊 Men's 1500m Freestyle - Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T100500Z-water-polo-MENS-PRELIMINARY-ROUND-GROUP-A-CRO-GRE
+DTSTAMP:20240803T100500Z
+DTSTART:20240803T100500Z
+DTEND:20240803T113000Z
+DESCRIPTION:Water Polo - Men's Preliminary Round - Group A
+SUMMARY:🤽 CRO 🇭🇷 - 🇬🇷 GRE
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T134500Z-sailing-MIXED-DINGHY-RACE-3
 DTSTAMP:20240803T134500Z
 DTSTART:20240803T134500Z
@@ -142,6 +208,84 @@ DESCRIPTION:Sailing - Mixed Dinghy - Race 4\n🇬🇷 A SPANAKI/O
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ Mixed Dinghy - Race 4
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T073000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-2
+DTSTAMP:20240804T073000Z
+DTSTART:20240804T073000Z
+DTEND:20240804T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 2\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 2
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T085500Z-athletics-WOMENS-200M-ROUND-1
+DTSTAMP:20240804T085500Z
+DTSTART:20240804T085500Z
+DTEND:20240804T093600Z
+DESCRIPTION:Athletics - Women's 200m Round 1\n🇻🇬 Adaejah HODGE\n🇪🇨
+  Aimara NAZARENO\n🇧🇷 Ana Carolina AZEVEDO\n🇮🇹 Anna BONGIORNI\n🇨🇦
+  Audrey LEDUC\n🇬🇧 Bianca WILLIAMS\n🇭🇺 Boglarka TAKACS\n🇺🇸 Brittany
+  BROWN\n🇲🇽 Cecilia TAMAYO-GARZA\n🇮🇹 Dalia KADDARI\n🇬🇧 Daryll
+  NEITA\n🇬🇧 Dina ASHER-SMITH\n🇳🇬 Favour OFILI\n🇪🇨 Gabriela Anahi
+  SUAREZ\n🇺🇸 Gabrielle THOMAS\n🇫🇷 Gemima JOSEPH\n🇬🇲 Gina Mariam BASS
+  BITTAYE\n🇫🇷 Helene PARISOT\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke VERVAET\n🇨🇦
+  Jacqueline MADOGO\n🇪🇸 Jael BESTUE\n🇨🇮 Jessika GBAI\n🇸🇪 Julia
+  HENRIKSSON\n🇱🇨 Julien ALFRED\n🇵🇱 Krystsina TSIMANOUSKAYA\n🇨🇳 LI
+  Yuting\n🇯🇲 Lanae-Tava THOMAS\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas
+  BAZOLO\n🇧🇷 Lorraine MARTINS\n🇨🇮 Maboundou KONE\n🇨🇮 Marie-Josee TA
+  LOU-SMITH\n🇵🇱 Martyna KOTWILA\n🇺🇸 McKenzie LONG\n🇦🇺 Mia GROSS\n🇨🇭
+  Mujinga KAMBUNDJI\n🇪🇨 Nicole CAICEDO\n🇯🇲 Niesha BURGHER\n🇸🇪 Nora
+  LINDAHL\n🇰🇿 Olga SAFRONOVA\n🇨🇾 Olivia FOTOPOULOU\n🇬🇷 Polyniki
+  EMMANOUILIDOU\n🇯🇲 Shericka JACKSON\n🇳🇱 Tasa JIYA\n🇦🇺 Torrie
+  LEWIS\n🇸🇬 Veronica Shanti PEREIRA
+SUMMARY:🏃 Women's 200m Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T090000Z-athletics-MENS-LONG-JUMP-QUALIFICATION
+DTSTAMP:20240804T090000Z
+DTSTART:20240804T090000Z
+DTEND:20240804T095600Z
+DESCRIPTION:Athletics - Men's Long Jump Qualification\n🇨🇺 Alejandro
+  PARADA\n🇺🇿 Anvar ANVAROV\n🇨🇴 Arnovis DALMERO\n🇧🇬 Bozhidar
+  SARABOYUKOV\n🇯🇲 Carey McLEOD\n🇿🇦 Cheswill JOHNSON\n🇦🇺 Christopher
+  MITREVSKI\n🇺🇾 Emiliano LASA\n🇭🇷 Filip PRAVDICA\n🇯🇵 HASHIOKA
+  Yuki\n🇬🇧 Jacob FINCHAM-DUKES\n🇺🇸 Jarrion LAWSON\n🇺🇸 Jeremiah
+  DAVIS\n🇮🇳 Jeswin ALDRIN\n🇿🇦 Jovan van VUUREN\n🇹🇼 LIN Yu-Tang\n🇦🇺
+  Liam ADCOCK\n🇧🇷 Lucas Marcelino dos SANTOS\n🇺🇸 Malcolm CLEMONS\n🇮🇹
+  Mattia FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🏳️ Mohammad Amin
+  ALSALAMI\n🇨🇿 Petr MEINDLSCHMID\n🇨🇿 Radek JUSKA\n🇨🇳 SHI Yuhao\n🇩🇪
+  Simon BATZ\n🇨🇭 Simon EHAMMER\n🇯🇲 Tajay GAYLE\n🇸🇪 Thobias
+  MONTLER\n🇫🇷 Tom CAMPAGNE\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳
+  ZHANG Mingkun
+SUMMARY:🏃 Men's Long Jump Qualification
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T094500Z-athletics-WOMENS-HAMMER-THROW-QUALIFICATION-GROUP-B
+DTSTAMP:20240804T094500Z
+DTSTART:20240804T094500Z
+DTEND:20240804T104100Z
+DESCRIPTION:Athletics - Women's Hammer Throw Qualification - Group B\n🇫🇷
+  Alexandra TAVERNIER\n🇵🇱 Anita WLODARCZYK\n🇺🇸 Deanna PRICE\n🇺🇦 Iryna
+  KLYMETS\n🇩🇰 Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇮🇪 Nicola
+  TUTHILL\n🇳🇬 Oyesade OLATOYE\n🇭🇺 Reka GYURATZ\n🇻🇪 Rosa Andreina
+  RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇬🇷 Stamatia
+  SCARVELIS\n🇧🇪 Vanessa STERCKENDRIES\n🇨🇳 WANG Zheng\n🇲🇩 Zalina
+  MARGHIEVA
+SUMMARY:🏃 Women's Hammer Throw Qualification - Group B
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T100500Z-sailing-MIXED-DINGHY-RACE-5
@@ -234,6 +378,96 @@ SUMMARY:⛵ Men's Kite - Race 4
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T130000Z-artistic-gymnastics-MENS-RINGS-FINAL
+DTSTAMP:20240804T130000Z
+DTSTART:20240804T130000Z
+DTEND:20240804T133700Z
+DESCRIPTION:Artistic Gymnastics - Men's Rings Final\n🇹🇷 Adem ASIL\n🇺🇸
+  Asher HONG\n🇬🇷 Eleftherios PETROUNIAS\n🇧🇪 Glen CUYLE\n🇬🇧 Harry
+  HEPWORTH\n🇹🇷 Ibrahim COLAK\n🇨🇳 LIU Yang\n🇫🇷 Samir AIT SAID\n🇯🇵
+  TANIGAWA Wataru\n🇦🇲 Vahagn DAVTYAN\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU
+  Jingyuan
+SUMMARY:🤸 Men's Rings Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T133000Z-shooting-SKEET-WOMENS-FINAL
+DTSTAMP:20240804T133000Z
+DTSTART:20240804T133000Z
+DTEND:20240804T144500Z
+DESCRIPTION:Shooting - Skeet Women's Final\n🇬🇧 Amber Jo RUTTER\n🇺🇸
+  Austen Jewell SMITH\n🇸🇰 Danka BARTEKOVA\n🇬🇷 Emmanouela
+  KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇸🇰 Vanesa HOCKOVA
+SUMMARY:🔫 Skeet Women's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T175500Z-athletics-WOMENS-HIGH-JUMP-FINAL
+DTSTAMP:20240804T175500Z
+DTSTART:20240804T175500Z
+DTEND:20240804T194000Z
+DESCRIPTION:Athletics - Women's High Jump Final\n🇷🇸 Angelina TOPIC\n🇹🇷
+  Buse SAVASKAN\n🇩🇪 Christina HONSEL\n🇦🇺 Eleanor PATTERSON\n🇨🇾 Elena
+  KULICHENKO\n🇺🇦 Iryna GERASHCHENKO\n🇫🇷 Nawal MENIKER\n🇦🇺 Nicola
+  OLYSLAGERS\n🇺🇿 Safina SADULLAYEVA\n🇬🇷 Tatiana GUSIN\n🇧🇷 Valdileia
+  MARTINS\n🇺🇸 Vashti CUNNINGHAM\n🇺🇦 Yaroslava MAHUCHIKH
+SUMMARY:🏃 Women's High Jump Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T180500Z-water-polo-WOMENS-PRELIMINARY-ROUND-GROUP-B-FRA-GRE
+DTSTAMP:20240804T180500Z
+DTSTART:20240804T180500Z
+DTEND:20240804T193000Z
+DESCRIPTION:Water Polo - Women's Preliminary Round - Group B
+SUMMARY:🤽 FRA 🇫🇷 - 🇬🇷 GRE
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T183000Z-athletics-MENS-HAMMER-THROW-FINAL
+DTSTAMP:20240804T183000Z
+DTSTART:20240804T183000Z
+DTEND:20240804T194000Z
+DESCRIPTION:Athletics - Men's Hammer Throw Final\n🇭🇺 Bence HALASZ\n🇬🇷
+  Christos FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇩🇪
+  Merlin HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel FAJDEK\n🇨🇦 Rowan
+  HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱 Wojciech
+  NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 Men's Hammer Throw Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T070000Z-shooting-SKEET-MIXED-TEAM-QUALIFICATION
+DTSTAMP:20240805T070000Z
+DTSTART:20240805T070000Z
+DTEND:20240805T113000Z
+DESCRIPTION:Shooting - Skeet Mixed Team Qualification\n🇦🇺 AUS\n🇨🇳
+  CHN\n🇨🇿 CZE\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇷 GRE\n🇮🇳 IND\n🇮🇹 Italy 1\n🇮🇹
+  Italy 2\n🇰🇿 KAZ\n🇰🇷 KOR\n🇵🇪 PER\n🇸🇪 SWE\n🇺🇸 United States
+  1\n🇺🇸 United States 2
+SUMMARY:🔫 Skeet Mixed Team Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T084000Z-athletics-WOMENS-POLE-VAULT-QUALIFICATION
+DTSTAMP:20240805T084000Z
+DTSTART:20240805T084000Z
+DTEND:20240805T110000Z
+DESCRIPTION:Athletics - Women's Pole Vault Qualification\n🇬🇷 Aikaterini
+  STEFANIDI\n🇨🇦 Alysha NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica
+  MOSER\n🇨🇦 Anicka NEWELL\n🇩🇪 Anjuli KNAESCHE\n🇬🇷 Ariadni
+  ADAMOPOULOU\n🇺🇸 Bridget WILLIAMS\n🇺🇸 Brynn KING\n🇬🇷 Eleni-Klaoudia
+  POLAK\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza
+  McCARTNEY\n🇭🇺 Hanga KLEKNER\n🇬🇧 Holly BRADSHAW\n🇳🇿 Imogen
+  AYRIS\n🇧🇷 Juliana de MENIS CAMPOS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud
+  RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇬🇧 Molly CAUDERY\n🇨🇳 NIU
+  Chunge\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇳🇿 Olivia
+  McTAGGART\n🇨🇭 Pascale STOCKLIN\n🇻🇪 Robeilys PEINADO\n🇮🇹 Roberta
+  BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
+SUMMARY:🏃 Women's Pole Vault Qualification
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T102300Z-sailing-MENS-KITE-RACE-5
 DTSTAMP:20240805T102300Z
 DTSTART:20240805T102300Z
@@ -247,6 +481,96 @@ DESCRIPTION:Sailing - Men's Kite - Race 5\n🇫🇷 Axel MAZELLA\n🇧🇷 Bruno
   TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ Men's Kite - Race 5
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T105000Z-athletics-WOMENS-200M-REPECHAGE-ROUND
+DTSTAMP:20240805T105000Z
+DTSTART:20240805T105000Z
+DTEND:20240805T111500Z
+DESCRIPTION:Athletics - Women's 200m Repechage Round\n🇻🇬 Adaejah
+  HODGE\n🇪🇨 Aimara NAZARENO\n🇧🇷 Ana Carolina AZEVEDO\n🇮🇹 Anna
+  BONGIORNI\n🇭🇺 Boglarka TAKACS\n🇲🇽 Cecilia TAMAYO-GARZA\n🇮🇹 Dalia
+  KADDARI\n🇪🇨 Gabriela Anahi SUAREZ\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke
+  VERVAET\n🇨🇦 Jacqueline MADOGO\n🇪🇸 Jael BESTUE\n🇵🇱 Krystsina
+  TSIMANOUSKAYA\n🇨🇳 LI Yuting\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas
+  BAZOLO\n🇧🇷 Lorraine MARTINS\n🇨🇮 Maboundou KONE\n🇵🇱 Martyna
+  KOTWILA\n🇦🇺 Mia GROSS\n🇪🇨 Nicole CAICEDO\n🇸🇪 Nora LINDAHL\n🇰🇿
+  Olga SAFRONOVA\n🇨🇾 Olivia FOTOPOULOU\n🇬🇷 Polyniki EMMANOUILIDOU\n🇦🇺
+  Torrie LEWIS\n🇸🇬 Veronica Shanti PEREIRA
+SUMMARY:🏃 Women's 200m Repechage Round
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T120000Z-equestrian-JUMPING-INDIVIDUAL-QUALIFIER
+DTSTAMP:20240805T120000Z
+DTSTART:20240805T120000Z
+DTEND:20240805T160000Z
+DESCRIPTION:Equestrian - Jumping Individual Qualifier\n🇦🇪 Abdullah Mohd
+  AL MARRI\n🇸🇦 Abdulrahman ALRAJHI\n🇵🇱 Adam GRZEGORZEWSKI\n🇨🇱 Agustin
+  COVARRUBIAS\n🇸🇾 Amre HAMCHO\n🇩🇰 Andreas SCHOU\n🇲🇽 Andres
+  AZCARRAGA\n🇱🇹 Andrius PETROVAS\n🇬🇧 Ben MAHER\n🇩🇪 Christian
+  KUKUK\n🇮🇪 Cian O'CONNOR\n🇮🇱 Daniel BLUMAN\n🇮🇪 Daniel COYLE\n🇵🇱
+  Dawid KUBIAK\n🇵🇹 Duarte SEABRA\n🇨🇭 Edouard SCHMITZ\n🇪🇸 Eduardo
+  ALVAREZ AZNAR\n🇦🇺 Edwina TOPS-ALEXANDER\n🇮🇹 Emanuele CAMILLI\n🇨🇦
+  Erynn BALLARD\n🇲🇽 Eugenio GARZA PEREZ\n🇲🇽 Federico FERNANDEZ\n🇦🇹
+  Gerfried PUCK\n🇧🇪 Gilles THOMAS\n🇧🇪 Gregory WATHELET\n🇯🇵 HAASE
+  SHIBAYAMA Takashi\n🇳🇱 Harrie SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik
+  von ECKERMANN\n🇦🇺 Hilary SCOTT\n🇬🇷 Ioli MYTILINEOU\n🇮🇱 Isabella
+  RUSSEKOFF\n🇪🇸 Ismael GARCIA ROQUE\n🇹🇭 Janakabhorn KARUNAYADHAJ\n🇧🇪
+  Jerome GUERY\n🇦🇷 Jose Maria (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸
+  Karl COOK\n🇦🇹 Katharina RHOMBERG\n🇸🇦 Khaled ALMOBTY\n🇳🇱 Kim
+  EMMEN\n🇱🇻 Kristaps NERETNIEKS\n🇺🇸 Laura KRAUT\n🇻🇪 Luis Fernando
+  LARRAZABAL\n🇳🇱 Maikel van der VLEUTEN\n🇵🇱 Maksymilian WECHTA\n🇨🇦
+  Mario DESLAURIERS\n🇨🇭 Martin FUCHS\n🇦🇹 Max KUEHNER\n🇺🇸 McLain
+  WARD\n🇪🇪 My RELANDER\n🇫🇷 Olivier PERREAU\n🇦🇪 Omar Abdul Aziz AL
+  MARZOOQI\n🇸🇪 Peder FREDRICSON\n🇩🇪 Philipp WEISHAUPT\n🇸🇦 Ramzy AL
+  DUHAMI\n🇨🇴 Rene LOPEZ LIZARAZO\n🇩🇪 Richard VOGEL\n🇮🇱 Robin
+  MUHR\n🇧🇷 Rodrigo PESSOA\n🇸🇪 Rolf-Goran BENGTSSON\n🇯🇵 SATO
+  Eiken\n🇯🇵 SUGITANI Taizo\n🇦🇪 Salim Ahmed AL SUWAIDI\n🇬🇧 Scott
+  BRASH\n🇪🇸 Sergio ALVAREZ MOYA\n🇮🇪 Shane SWEETNAM\n🇫🇷 Simon
+  DELESTRE\n🇧🇷 Stephan de FREITAS BARCHA\n🇨🇭 Steve GUERDAT\n🇦🇺 Thaisa
+  ERWIN\n🇨🇦 Tiffany FOSTER\n🇳🇴 Victoria GULLIKSEN\n🇧🇷 Yuri MANSUR
+SUMMARY:🏇 Jumping Individual Qualifier
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T131000Z-water-polo-MENS-PRELIMINARY-ROUND-GROUP-A-GRE-ITA
+DTSTAMP:20240805T131000Z
+DTSTART:20240805T131000Z
+DTEND:20240805T143500Z
+DESCRIPTION:Water Polo - Men's Preliminary Round - Group A
+SUMMARY:🤽 GRE 🇬🇷 - 🇮🇹 ITA
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T170000Z-athletics-MENS-POLE-VAULT-FINAL
+DTSTAMP:20240805T170000Z
+DTSTART:20240805T170000Z
+DTEND:20240805T192700Z
+DESCRIPTION:Athletics - Men's Pole Vault Final\n🇸🇪 Armand DUPLANTIS\n🇩🇪
+  Bo Kanda LITA BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John
+  OBIENA\n🇹🇷 Ersu SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱
+  Menno VLOON\n🇩🇪 Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre
+  GUTTORMSEN\n🇱🇻 Valters KREISS
+SUMMARY:🏃 Men's Pole Vault Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T184500Z-athletics-WOMENS-200M-SEMI-FINAL
+DTSTAMP:20240805T184500Z
+DTSTART:20240805T184500Z
+DTEND:20240805T190000Z
+DESCRIPTION:Athletics - Women's 200m Semi-Final\n🇻🇬 Adaejah HODGE\n🇨🇦
+  Audrey LEDUC\n🇬🇧 Bianca WILLIAMS\n🇺🇸 Brittany BROWN\n🇬🇧 Daryll
+  NEITA\n🇬🇧 Dina ASHER-SMITH\n🇳🇬 Favour OFILI\n🇺🇸 Gabrielle
+  THOMAS\n🇫🇷 Gemima JOSEPH\n🇬🇲 Gina Mariam BASS BITTAYE\n🇫🇷 Helene
+  PARISOT\n🇨🇦 Jacqueline MADOGO\n🇨🇮 Jessika GBAI\n🇸🇪 Julia
+  HENRIKSSON\n🇱🇨 Julien ALFRED\n🇯🇲 Lanae-Tava THOMAS\n🇨🇮 Maboundou
+  KONE\n🇺🇸 McKenzie LONG\n🇨🇭 Mujinga KAMBUNDJI\n🇯🇲 Niesha
+  BURGHER\n🇨🇾 Olivia FOTOPOULOU\n🇬🇷 Polyniki EMMANOUILIDOU\n🇳🇱 Tasa
+  JIYA\n🇦🇺 Torrie LEWIS
+SUMMARY:🏃 Women's 200m Semi-Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T090000Z-basketball-MENS-QUARTERFINAL-GER-GRE
@@ -393,6 +717,28 @@ SUMMARY:⛵ Mixed Dinghy - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T170000Z-water-polo-WOMENS-QUARTERFINAL-AUS-GRE
+DTSTAMP:20240806T170000Z
+DTSTART:20240806T170000Z
+DTEND:20240806T182500Z
+DESCRIPTION:Water Polo - Women's Quarterfinal
+SUMMARY:🤽 AUS 🇦🇺 - 🇬🇷 GRE
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T181500Z-athletics-MENS-LONG-JUMP-FINAL
+DTSTAMP:20240806T181500Z
+DTSTART:20240806T181500Z
+DTEND:20240806T193500Z
+DESCRIPTION:Athletics - Men's Long Jump Final\n🇨🇴 Arnovis DALMERO\n🇯🇲
+  Carey McLEOD\n🇭🇷 Filip PRAVDICA\n🇬🇧 Jacob FINCHAM-DUKES\n🇮🇹 Mattia
+  FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🇨🇿 Radek JUSKA\n🇩🇪 Simon
+  BATZ\n🇨🇭 Simon EHAMMER\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳
+  ZHANG Mingkun
+SUMMARY:🏃 Men's Long Jump Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T102300Z-sailing-MENS-KITE-RACE-11
 DTSTAMP:20240807T102300Z
 DTSTART:20240807T102300Z
@@ -481,6 +827,39 @@ DESCRIPTION:Sailing - Men's Kite - Race 16\n🇫🇷 Axel MAZELLA\n🇧🇷 Brun
   TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ Men's Kite - Race 16
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T133500Z-water-polo-MENS-QUARTERFINAL-GRE-SRB
+DTSTAMP:20240807T133500Z
+DTSTART:20240807T133500Z
+DTEND:20240807T150000Z
+DESCRIPTION:Water Polo - Men's Quarterfinal
+SUMMARY:🤽 GRE 🇬🇷 - 🇷🇸 SRB
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-artistic-swimming-DUET-TECHNICAL-ROUTINE
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T191300Z
+DESCRIPTION:Artistic Swimming - Duet Technical Routine\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇨🇦 CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷 GRE\n🇮🇱
+  ISR\n🇮🇹 ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇪🇸
+  ESP\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏊 Duet Technical Routine
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming-DUET-FREE-ROUTINE
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:Artistic Swimming - Duet Free Routine\n🇦🇺 AUS\n🇦🇹 AUT\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷 FRA\n🇬🇧 GBR\n🇬🇷 GRE\n🇮🇱 ISR\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇰🇷 KOR\n🇲🇽 MEX\n🇳🇱 NED\n🇳🇿 NZL\n🇪🇸 ESP\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:🏊 Duet Free Routine
+LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

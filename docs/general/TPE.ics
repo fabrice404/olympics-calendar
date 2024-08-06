@@ -72,6 +72,53 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-MENS-QUALIFICATION-DAY-2
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T120000Z
+DESCRIPTION:Shooting - Skeet Men's Qualification - Day 2\n🇮🇳 Anant Jeet
+  Singh NARUKA\n🇪🇬 Azmy MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸
+  Conner Lynn PRINCE\n🇰🇿 Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷
+  Efthimios MITAS\n🇫🇷 Eric DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico
+  GIL\n🇮🇹 Gabriele ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub
+  TOMECEK\n🇩🇰 Jesper HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua
+  BELL\n🇰🇷 KIM Minsu\n🇹🇼 LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus
+  SVENSSON\n🇰🇼 Mohammad ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬
+  Omar IBRAHIM\n🇪🇪 Peeter JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹
+  Sebastian BERMUDEZ LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹
+  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
+SUMMARY:🔫 Skeet Men's Qualification - Day 2
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-golf-MENS-INDIVIDUAL-STROKE-PLAY-ROUND-3
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T160000Z
+DESCRIPTION:Golf - Men's Individual Stroke Play Round 3\n🇰🇷 AN Byeong
+  Hun\n🇲🇽 Abraham ANCER\n🇵🇱 Adrian MERONK\n🇧🇪 Adrien DUMONT de
+  CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪 Alex NOREN\n🇨🇴 Camilo
+  VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan BEZUIDENHOUT\n🇺🇸 Collin
+  MORIKAWA\n🇨🇦 Corey CONNERS\n🇨🇳 DOU Zecheng\n🇳🇿 Daniel HILLIER\n🇪🇸
+  David PUIG\n🇦🇷 Emiliano GRILLO\n🇿🇦 Erik van ROOYEN\n🇵🇾 Fabrizio
+  ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾 Gavin GREEN\n🇮🇹 Guido
+  MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸
+  Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech APHIBARNRAT\n🇳🇴 Kristoffer
+  VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA Hideki\n🇬🇧 Matt
+  FITZPATRICK\n🇮🇹 Matteo MANASSERO\n🇩🇪 Matthias SCHMID\n🇫🇷 Matthieu
+  PAVON\n🇦🇺 Min Woo LEE\n🇨🇱 Mito PEREIRA\n🇯🇵 NAKAJIMA Keita\n🇨🇦
+  Nick TAYLOR\n🇨🇴 Nico ECHAVARRIA\n🇩🇰 Nicolai HOJGAARD\n🇹🇼 PAN
+  C.T.\n🇹🇭 Phachara KHONGWATMAI\n🇵🇷 Rafa CAMPOS\n🇮🇪 Rory
+  McILROY\n🇳🇿 Ryan FOX\n🇫🇮 Sami VALIMAKI\n🇺🇸 Scottie SCHEFFLER\n🇦🇹
+  Sepp STRAKA\n🇮🇪 Shane LOWRY\n🇮🇳 Shubhankar SHARMA\n🇩🇪 Stephan
+  JAEGER\n🇫🇮 Tapio PULKKANEN\n🇧🇪 Thomas DETRY\n🇩🇰 Thorbjorn
+  OLESEN\n🇬🇧 Tommy FLEETWOOD\n🇫🇷 Victor PEREZ\n🇳🇴 Viktor
+  HOVLAND\n🇺🇸 Wyndham CLARK\n🇺🇸 Xander SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳
+  YUAN Yechun
+SUMMARY:⛳ Men's Individual Stroke Play Round 3
+LOCATION:Le Golf National
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T075600Z-archery-WOMENS-INDIVIDUAL-18-ELIMINATION-ROUND-KOR-TPE
 DTSTAMP:20240803T075600Z
 DTSTART:20240803T075600Z
@@ -99,6 +146,17 @@ DESCRIPTION:Canoe Slalom - Women's Kayak Cross Round 1\n🇨🇭 Alena
   WOLFFHARDT\n🇺🇦 Viktoriia US\n🇯🇵 YAZAWA Aki\n🇸🇰 Zuzana PANKOVA
 SUMMARY:🛶 Women's Kayak Cross Round 1
 LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T133000Z-shooting-SKEET-MENS-FINAL
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T144500Z
+DESCRIPTION:Shooting - Skeet Men's Final\n🇺🇸 Conner Lynn PRINCE\n🇹🇼 LEE
+  Meng Yuan\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇸🇪 Stefan NILSSON\n🇮🇹
+  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
+SUMMARY:🔫 Skeet Men's Final
+LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T144000Z-canoe-slalom-MENS-KAYAK-CROSS-ROUND-1
@@ -167,6 +225,33 @@ SUMMARY:🥊 CHEN Nien Chin 🇹🇼 - 🇺🇿 Navbakhor KHAMIDOVA
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T070000Z-golf-MENS-INDIVIDUAL-STROKE-PLAY-ROUND-4
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T160000Z
+DESCRIPTION:Golf - Men's Individual Stroke Play Round 4\n🇰🇷 AN Byeong
+  Hun\n🇲🇽 Abraham ANCER\n🇵🇱 Adrian MERONK\n🇧🇪 Adrien DUMONT de
+  CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪 Alex NOREN\n🇨🇴 Camilo
+  VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan BEZUIDENHOUT\n🇺🇸 Collin
+  MORIKAWA\n🇨🇦 Corey CONNERS\n🇨🇳 DOU Zecheng\n🇳🇿 Daniel HILLIER\n🇪🇸
+  David PUIG\n🇦🇷 Emiliano GRILLO\n🇿🇦 Erik van ROOYEN\n🇵🇾 Fabrizio
+  ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾 Gavin GREEN\n🇮🇹 Guido
+  MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸
+  Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech APHIBARNRAT\n🇳🇴 Kristoffer
+  VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA Hideki\n🇮🇹 Matteo
+  MANASSERO\n🇩🇪 Matthias SCHMID\n🇫🇷 Matthieu PAVON\n🇦🇺 Min Woo
+  LEE\n🇨🇱 Mito PEREIRA\n🇯🇵 NAKAJIMA Keita\n🇨🇦 Nick TAYLOR\n🇨🇴 Nico
+  ECHAVARRIA\n🇩🇰 Nicolai HOJGAARD\n🇹🇼 PAN C.T.\n🇹🇭 Phachara
+  KHONGWATMAI\n🇵🇷 Rafa CAMPOS\n🇮🇪 Rory McILROY\n🇳🇿 Ryan FOX\n🇫🇮
+  Sami VALIMAKI\n🇺🇸 Scottie SCHEFFLER\n🇦🇹 Sepp STRAKA\n🇮🇪 Shane
+  LOWRY\n🇮🇳 Shubhankar SHARMA\n🇩🇪 Stephan JAEGER\n🇫🇮 Tapio
+  PULKKANEN\n🇧🇪 Thomas DETRY\n🇩🇰 Thorbjorn OLESEN\n🇬🇧 Tommy
+  FLEETWOOD\n🇫🇷 Victor PEREZ\n🇳🇴 Viktor HOVLAND\n🇺🇸 Wyndham
+  CLARK\n🇺🇸 Xander SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳 YUAN Yechun
+SUMMARY:⛳ Men's Individual Stroke Play Round 4
+LOCATION:Le Golf National
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T090000Z-boxing-WOMENS-57KG-QUARTERFINAL-TPE-BUL
 DTSTAMP:20240804T090000Z
 DTSTART:20240804T090000Z
@@ -174,6 +259,26 @@ DTEND:20240804T091100Z
 DESCRIPTION:Boxing - Women's 57kg - Quarterfinal
 SUMMARY:🥊 LIN Yu Ting 🇹🇼 - 🇧🇬 Svetlana Kamenova STANEVA
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T090000Z-athletics-MENS-LONG-JUMP-QUALIFICATION
+DTSTAMP:20240804T090000Z
+DTSTART:20240804T090000Z
+DTEND:20240804T095600Z
+DESCRIPTION:Athletics - Men's Long Jump Qualification\n🇨🇺 Alejandro
+  PARADA\n🇺🇿 Anvar ANVAROV\n🇨🇴 Arnovis DALMERO\n🇧🇬 Bozhidar
+  SARABOYUKOV\n🇯🇲 Carey McLEOD\n🇿🇦 Cheswill JOHNSON\n🇦🇺 Christopher
+  MITREVSKI\n🇺🇾 Emiliano LASA\n🇭🇷 Filip PRAVDICA\n🇯🇵 HASHIOKA
+  Yuki\n🇬🇧 Jacob FINCHAM-DUKES\n🇺🇸 Jarrion LAWSON\n🇺🇸 Jeremiah
+  DAVIS\n🇮🇳 Jeswin ALDRIN\n🇿🇦 Jovan van VUUREN\n🇹🇼 LIN Yu-Tang\n🇦🇺
+  Liam ADCOCK\n🇧🇷 Lucas Marcelino dos SANTOS\n🇺🇸 Malcolm CLEMONS\n🇮🇹
+  Mattia FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🏳️ Mohammad Amin
+  ALSALAMI\n🇨🇿 Petr MEINDLSCHMID\n🇨🇿 Radek JUSKA\n🇨🇳 SHI Yuhao\n🇩🇪
+  Simon BATZ\n🇨🇭 Simon EHAMMER\n🇯🇲 Tajay GAYLE\n🇸🇪 Thobias
+  MONTLER\n🇫🇷 Tom CAMPAGNE\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳
+  ZHANG Mingkun
+SUMMARY:🏃 Men's Long Jump Qualification
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T133000Z-canoe-slalom-MENS-KAYAK-CROSS-HEATS
@@ -222,6 +327,106 @@ SUMMARY:🛶 Women's Kayak Cross Heats
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T080000Z-table-tennis-MENS-TEAM-ROUND-OF-16-EGY-TPE
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T110000Z
+DESCRIPTION:Table Tennis - Men's Team Round of 16
+SUMMARY:🏓 EGY 🇪🇬 - 🇹🇼 TPE
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080500Z-athletics-MENS-400M-HURDLES-ROUND-1
+DTSTAMP:20240805T080500Z
+DTSTART:20240805T080500Z
+DTEND:20240805T083800Z
+DESCRIPTION:Athletics - Men's 400m Hurdles Round 1\n🇶🇦 Abderrahman
+  SAMBA\n🇬🇧 Alastair CHALMERS\n🇮🇹 Alessandro SIBILIO\n🇧🇷 Alison dos
+  SANTOS\n🇶🇦 Bassem HEMEIDA\n🇹🇷 Berke AKCAM\n🇸🇪 Carl BENGTSTROM\n🇺🇸
+  Cj ALLEN\n🇫🇷 Clement DUCOS\n🇩🇪 Constantin PREIS\n🇩🇪 Emil
+  AGYEKUM\n🇳🇬 Ezekiel NATHANIEL\n🇨🇷 Gerald DRUMMOND\n🇶🇦 Ismail Doudai
+  ABAKAR\n🇯🇲 Jaheel HYDE\n🇩🇪 Joshua ABUAKU\n🇨🇭 Julien BONVIN\n🇳🇴
+  Karsten WARHOLM\n🇻🇬 Kyron McMASTER\n🇯🇲 Malik JAMES-KING\n🇧🇷 Matheus
+  LIMA\n🇸🇮 Matic Ian GUCEK\n🇳🇱 Nick SMIDT\n🇯🇵 OGAWA Daiki\n🇸🇪 Oskar
+  EDLUND\n🇹🇼 PENG Ming-Yang\n🇺🇸 Rai BENJAMIN\n🇪🇪 Rasmus MAGI\n🇯🇲
+  Roshawn CLARKE\n🇯🇵 TOYODA Ken\n🇯🇵 TSUTSUE Kaito\n🇺🇸 Trevor
+  BASSITT\n🇧🇼 Victor NTWENG\n🇨🇿 Vit MULLER\n🇫🇷 Wilfried HAPPIO\n🇰🇪
+  Wiseman Were MUKHOBE\n🇨🇳 XIE Zhiyu\n🇹🇷 Yasmani COPELLO\n🇩🇴 Yeral
+  NUNEZ
+SUMMARY:🏃 Men's 400m Hurdles Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T113300Z-artistic-gymnastics-MENS-HORIZONTAL-BAR-FINAL
+DTSTAMP:20240805T113300Z
+DTSTART:20240805T113300Z
+DTEND:20240805T120800Z
+DESCRIPTION:Artistic Gymnastics - Men's Horizontal Bar Final\n🇨🇴 Angel
+  BARAJAS\n🇺🇸 Frederick RICHARD\n🇬🇧 Joe FRASER\n🇨🇾 Marios
+  GEORGIOU\n🇯🇵 OKA Shinnosuke\n🇨🇳 SU Weide\n🇯🇵 SUGINO Takaaki\n🇹🇼
+  TANG Chia-Hung\n🇭🇷 Tin SRBIC\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
+SUMMARY:🤸 Men's Horizontal Bar Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T175500Z-athletics-MENS-200M-ROUND-1
+DTSTAMP:20240805T175500Z
+DTSTART:20240805T175500Z
+DTEND:20240805T183100Z
+DESCRIPTION:Athletics - Men's 200m Round 1\n🇨🇦 Aaron BROWN\n🇵🇱 Albert
+  KOMANSKI\n🇩🇴 Alexander OGANDO\n🇨🇦 Andre De GRASSE\n🇯🇲 Andrew
+  HUDSON\n🇿🇦 Benjamin RICHARDSON\n🇮🇱 Blessing Akwasi AFRIFAH\n🇨🇦
+  Brendon RODNEY\n🇯🇲 Bryan LEVELL\n🇦🇺 Calab LAW\n🇵🇾 Cesar
+  ALMIRON\n🇨🇮 Cheickna TRAORE\n🇮🇹 Diego Aldo PETTOROSSI\n🇨🇿 Eduard
+  KUBELIK\n🇸🇪 Erik ERLANDSSON\n🇺🇸 Erriyon KNIGHTON\n🇮🇹 Eseosa Fostine
+  DESALU\n🇨🇭 Felix SVENSSON\n🇮🇹 Filippo TORTU\n🇯🇵 IIZUKA Shota\n🇧🇸
+  Ian KERR\n🇩🇴 Jose GONZALEZ\n🇱🇷 Joseph FAHNBULLEH\n🇩🇪 Joshua
+  HARTMANN\n🇺🇸 Kenneth BEDNAREK\n🇧🇼 Letsile TEBOGO\n🇿🇼 Makanakaishe
+  CHARAMBA\n🇺🇸 Noah LYLES\n🇨🇿 Ondrej MACIK\n🇫🇷 Pablo MATEO\n🇧🇷
+  Renan CORREA\n🇫🇷 Ryan ZEZE\n🇿🇦 Shaun MASWANGANYI\n🇿🇼 Tapiwanashe
+  MAKARAWU\n🇺🇬 Tarsis Gracious OROGOT\n🇨🇭 Timothe MUMENTHALER\n🇨🇿
+  Tomas NEMEJC\n🇯🇵 UEYAMA Koki\n🇯🇵 UZAWA Towa\n🇳🇬 Udodi Chudi
+  ONWUZURIKE\n🇧🇸 Wanya McCOY\n🇿🇦 Wayde van NIEKERK\n🇨🇭 William
+  REAIS\n🇹🇼 YANG Chun-Han\n🇬🇧 Zharnel HUGHES
+SUMMARY:🏃 Men's 200m Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080000Z-table-tennis-WOMENS-TEAM-ROUND-OF-16-AUS-TPE
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T110000Z
+DESCRIPTION:Table Tennis - Women's Team Round of 16
+SUMMARY:🏓 AUS 🇦🇺 - 🇹🇼 TPE
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T103000Z-athletics-MENS-200M-REPECHAGE-ROUND
+DTSTAMP:20240806T103000Z
+DTSTART:20240806T103000Z
+DTEND:20240806T105500Z
+DESCRIPTION:Athletics - Men's 200m Repechage Round\n🇨🇦 Aaron BROWN\n🇵🇱
+  Albert KOMANSKI\n🇯🇲 Andrew HUDSON\n🇿🇦 Benjamin RICHARDSON\n🇮🇱
+  Blessing Akwasi AFRIFAH\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan LEVELL\n🇦🇺
+  Calab LAW\n🇵🇾 Cesar ALMIRON\n🇨🇮 Cheickna TRAORE\n🇮🇹 Diego Aldo
+  PETTOROSSI\n🇨🇿 Eduard KUBELIK\n🇸🇪 Erik ERLANDSSON\n🇨🇭 Felix
+  SVENSSON\n🇯🇵 IIZUKA Shota\n🇧🇸 Ian KERR\n🇨🇿 Ondrej MACIK\n🇫🇷 Pablo
+  MATEO\n🇫🇷 Ryan ZEZE\n🇨🇭 Timothe MUMENTHALER\n🇨🇿 Tomas NEMEJC\n🇯🇵
+  UEYAMA Koki\n🇳🇬 Udodi Chudi ONWUZURIKE\n🇨🇭 William REAIS\n🇹🇼 YANG
+  Chun-Han
+SUMMARY:🏃 Men's 200m Repechage Round
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T130000Z-table-tennis-MENS-TEAM-QUARTERFINAL-JPN-TPE
+DTSTAMP:20240806T130000Z
+DTSTART:20240806T130000Z
+DTEND:20240806T160000Z
+DESCRIPTION:Table Tennis - Men's Team Quarterfinal
+SUMMARY:🏓 JPN 🇯🇵 - 🇹🇼 TPE
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T205000Z-boxing-WOMENS-66KG-SEMIFINAL-TPE-CHN
 DTSTAMP:20240806T205000Z
 DTSTART:20240806T205000Z
@@ -229,6 +434,50 @@ DTEND:20240806T210100Z
 DESCRIPTION:Boxing - Women's 66kg - Semifinal
 SUMMARY:🥊 CHEN Nien Chin 🇹🇼 - 🇨🇳 YANG Liu
 LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T070000Z-golf-WOMENS-INDIVIDUAL-STROKE-PLAY-ROUND-1
+DTSTAMP:20240807T070000Z
+DTSTART:20240807T070000Z
+DTEND:20240807T160000Z
+DESCRIPTION:Golf - Women's Individual Stroke Play Round 1\n🇮🇳 Aditi
+  ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦 Alena SHARP\n🇮🇹 Alessandra
+  FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana BELAC\n🇳🇱 Anne van
+  DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭 Atthaya THITIKUL\n🇪🇸
+  Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦 Brooke M. HENDERSON\n🇹🇼
+  CHIEN Pei-Yun\n🇪🇸 Carlota CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine
+  BOUTIER\n🇬🇧 Charley HULL\n🇮🇳 Diksha DAGAR\n🇵🇭 Dottie ARDINA\n🇩🇰
+  Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪 Esther HENSELEIT\n🇲🇽 Gaby
+  LOPEZ\n🇬🇧 Georgia HALL\n🇹🇼 HSU Wei-Ling\n🇦🇺 Hannah GREEN\n🇲🇦 Ines
+  LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇰🇷 KO Jin Young\n🇨🇿 Klara DAVIDSON
+  SPILKOVA\n🇨🇳 LIN Xiyu Janet\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇸🇪
+  Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴 Madelene STAVNAR\n🇸🇪 Maja STARK\n🇧🇪
+  Manon DE ROEY\n🇲🇽 Maria FASSI\n🇨🇴 Mariajo URIBE\n🇦🇺 Minjee
+  LEE\n🇨🇭 Morgane METRAUX\n🇩🇰 Nanna KOERSTZ MADSEN\n🇺🇸 Nelly
+  KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty TAVATANAKIT\n🇿🇦 Paula
+  RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia BABNIK\n🇺🇸 Rose ZHANG\n🇯🇵 SASO
+  Yuka\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇸🇬 Shannon TAN\n🇮🇪
+  Stephanie MEADOW\n🇫🇮 Ursula WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG
+  Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ Women's Individual Stroke Play Round 1
+LOCATION:Le Golf National
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T094000Z-canoe-sprint-MENS-CANOE-SINGLE-1000M-HEATS
+DTSTAMP:20240807T094000Z
+DTSTART:20240807T094000Z
+DTEND:20240807T102700Z
+DESCRIPTION:Canoe Sprint - Men's Canoe Single 1000m Heats\n🇫🇷 Adrien
+  BART\n🇭🇺 Balazs ADOLF\n🇦🇴 Benilson SANDA\n🇮🇹 Carlo TACCHINI\n🇷🇴
+  Catalin CHIRILA\n🇨🇦 Connor FITZPATRICK\n🇭🇺 Daniel FEJES\n🏳️ Fernando
+  Dayan JORGE ENRIQUEZ\n🇹🇳 Ghailene KHATTALI\n🇧🇷 Isaquias QUEIROZ\n🇨🇳
+  JI Bowen\n🇨🇺 Jose Ramon PELIER CORDOVA\n🇹🇼 LAI Kuan-Chieh\n🇨🇳 LIU
+  Hao\n🇨🇿 Martin FUKSA\n🇧🇷 Mateus NUNES BASTOS dos SANTOS\n🇮🇷
+  Mohammad Nabi REZAEI\n🇮🇹 Nicolae CRACIUN\n🇪🇸 Pablo CRESPO\n🇺🇦 Pavlo
+  ALTUKHOV\n🇩🇪 Sebastian BRENDEL\n🇰🇿 Sergey YEMELYANOV\n🇲🇩 Serghei
+  TARNOVSCHI\n🇵🇱 Wiktor GLAZUNOW\n🇦🇸 Zakhar PETROV
+SUMMARY:🛶 Men's Canoe Single 1000m Heats
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T173000Z-weightlifting-WOMENS-49KG
@@ -252,6 +501,42 @@ DTEND:20240807T194100Z
 DESCRIPTION:Boxing - Women's 57kg - Semifinal
 SUMMARY:🥊 LIN Yu Ting 🇹🇼 - 🇹🇷 Esra YILDIZ KAHRAMAN
 LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T070000Z-golf-WOMENS-INDIVIDUAL-STROKE-PLAY-ROUND-2
+DTSTAMP:20240808T070000Z
+DTSTART:20240808T070000Z
+DTEND:20240808T160000Z
+DESCRIPTION:Golf - Women's Individual Stroke Play Round 2\n🇮🇳 Aditi
+  ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦 Alena SHARP\n🇮🇹 Alessandra
+  FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana BELAC\n🇳🇱 Anne van
+  DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭 Atthaya THITIKUL\n🇪🇸
+  Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦 Brooke M. HENDERSON\n🇹🇼
+  CHIEN Pei-Yun\n🇪🇸 Carlota CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine
+  BOUTIER\n🇬🇧 Charley HULL\n🇮🇳 Diksha DAGAR\n🇵🇭 Dottie ARDINA\n🇩🇰
+  Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪 Esther HENSELEIT\n🇲🇽 Gaby
+  LOPEZ\n🇬🇧 Georgia HALL\n🇹🇼 HSU Wei-Ling\n🇦🇺 Hannah GREEN\n🇲🇦 Ines
+  LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇰🇷 KO Jin Young\n🇨🇿 Klara DAVIDSON
+  SPILKOVA\n🇨🇳 LIN Xiyu Janet\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇸🇪
+  Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴 Madelene STAVNAR\n🇸🇪 Maja STARK\n🇧🇪
+  Manon DE ROEY\n🇲🇽 Maria FASSI\n🇨🇴 Mariajo URIBE\n🇦🇺 Minjee
+  LEE\n🇨🇭 Morgane METRAUX\n🇩🇰 Nanna KOERSTZ MADSEN\n🇺🇸 Nelly
+  KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty TAVATANAKIT\n🇿🇦 Paula
+  RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia BABNIK\n🇺🇸 Rose ZHANG\n🇯🇵 SASO
+  Yuka\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇸🇬 Shannon TAN\n🇮🇪
+  Stephanie MEADOW\n🇫🇮 Ursula WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG
+  Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ Women's Individual Stroke Play Round 2
+LOCATION:Le Golf National
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T093600Z-taekwondo-WOMEN-57KG-ROUND-OF-16-LBN-TPE
+DTSTAMP:20240808T093600Z
+DTSTART:20240808T093600Z
+DTEND:20240808T094800Z
+DESCRIPTION:Taekwondo - Women -57kg Round of 16
+SUMMARY:🥋 Laetitia AOUN 🇱🇧 - 🇹🇼 LO Chia-Ling
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T130000Z-weightlifting-WOMENS-59KG

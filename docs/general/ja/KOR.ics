@@ -269,6 +269,35 @@ SUMMARY:⛵ 男子ディンギー - レース5
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T104000Z-swimming-4100M
+DTSTAMP:20240803T104000Z
+DTSTART:20240803T104000Z
+DTEND:20240803T105200Z
+DESCRIPTION:競泳 - 男子4×100mメドレーリレー予選\n🇬🇧 Adam PEATY\n🇮🇹 Alessandro
+  MIRESSI\n🇨🇭 Antonio DJAKOVIC\n🇵🇱 Bartosz PISZCZOROWICZ\n🇦🇺 Ben
+  ARMBRUSTER\n🇦🇹 Bernhard REITSHAMMER\n🇨🇦 Blake TIERNEY\n🇰🇷 CHOI
+  Dongyeol\n🇪🇸 Carles COLL MARTI\n🇳🇱 Caspar CORBEAU\n🇺🇸 Charlie
+  SWANSON\n🇫🇷 Clement SECCHI\n🇮🇪 Conor FERGUSON\n🇮🇪 Darragh
+  GREENE\n🇨🇦 Finlay KNOX\n🇮🇹 Giacomo CARINI\n🇰🇷 HWANG Sunwoo\n🇦🇹
+  Heiko GIGLER\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸 Hunter ARMSTRONG\n🇨🇦
+  Ilya KHARUN\n🇦🇺 Isaac COOPER\n🇺🇸 Jack ALEXY\n🇵🇱 Jakub
+  MAJERSKI\n🇵🇱 Jan KALUSOWSKI\n🇨🇦 Javier ACEVEDO\n🇨🇭 Jeremy
+  DESPLANCHES\n🇬🇧 Joe Richard LITCHFIELD\n🇩🇪 Josha SALCHOW\n🇦🇺 Joshua
+  YONG\n🇰🇷 KIM Jihun\n🇳🇱 Kai van WESTERING\n🇵🇱 Ksawery MASIUK\n🇦🇺
+  Kyle CHALMERS\n🇰🇷 LEE Juho\n🇫🇷 Leon MARCHAND\n🇩🇪 Luca
+  ARMBRUSTER\n🇩🇪 Lucas MATZERATH\n🇯🇵 MATSUMOTO Katsuhiro\n🇯🇵
+  MATSUYAMA Riku\n🇯🇵 MIZUNUMA Naoki\n🇪🇸 Mario MOLLA YANES\n🇬🇧 Matthew
+  RICHARDS\n🇮🇪 Max Mc CUSKER\n🇮🇹 Nicolo MARTINENGHI\n🇨🇭 Nils
+  LIESS\n🇳🇱 Nyls KORSTANJE\n🇩🇪 Ole BRAUNSCHWEIG\n🇬🇧 Oliver
+  MORGAN\n🇨🇳 PAN Zhanle\n🇨🇳 QIN Haiyang\n🇫🇷 Rafael
+  FENTE--DAMERS\n🇨🇭 Roman MITYUKOV\n🇪🇸 Sergio de CELIS MONTALBAN\n🇮🇪
+  Shane RYAN\n🇦🇹 Simon BUCHER\n🇳🇱 Stan PIJNENBURG\n🇯🇵 TANIGUCHI
+  Taku\n🇮🇹 Thomas CECCON\n🇺🇸 Thomas HEILMAN\n🇦🇹 Valentin BAYER\n🇨🇳
+  WANG Changhao\n🇨🇳 XU Jiayu\n🇫🇷 Yohann NDOYE-BROUARD
+SUMMARY:🏊 男子4×100mメドレーリレー予選
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T110000Z-archery--TUR-KOR
 DTSTAMP:20240803T110000Z
 DTSTART:20240803T110000Z
@@ -722,6 +751,15 @@ SUMMARY:🤸 男子種目別跳馬決勝
 LOCATION:ベルシー・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T143400Z-boxing-54KG--TUR-KOR
+DTSTAMP:20240804T143400Z
+DTSTART:20240804T143400Z
+DTEND:20240804T144500Z
+DESCRIPTION:ボクシング - 女子54kg級 - 準決勝
+SUMMARY:🥊 Hatice AKBAS 🇹🇷 - 🇰🇷 IM Aeji
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T070000Z-shooting-
 DTSTAMP:20240805T070000Z
 DTSTART:20240805T070000Z
@@ -760,6 +798,21 @@ DESCRIPTION:飛込 - 女子10m高飛込予選\n🇯🇵 ARAI Matsuri\n🇲🇽 A
   Sofiia LYSKUN\n🇩🇴 Victoria GARZA
 SUMMARY:🏊 女子10m高飛込予選
 LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080000Z-sport-climbing-
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T101700Z
+DESCRIPTION:スポーツクライミング - 男子ボルダー&リード、ボルダー準決勝\n🇯🇵 ANRAKU Sorato\n🇨🇿 Adam
+  ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander MEGOS\n🇦🇺 Campbell
+  HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish McARTHUR\n🇧🇪 Hannes Van
+  DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮
+  Luka POTOCAR\n🇿🇦 Mel JANSE van RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN
+  Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby
+  ROBERTS\n🇩🇪 Yannick FLOHE
+SUMMARY:🧗 男子ボルダー&リード、ボルダー準決勝
+LOCATION:ル・ブルジェ・スポーツクライミング
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T085500Z-badminton--KOR-CHN
@@ -852,6 +905,21 @@ SUMMARY:🏊 男子3m飛板飛込予選
 LOCATION:アクアティックス・センター
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T080000Z-sport-climbing-
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T101700Z
+DESCRIPTION:スポーツクライミング - 女子ボルダー&リード、ボルダー準決勝\n🇺🇸 Brooke RABOUTOU\n🇮🇹
+  Camilla MORONI\n🇬🇧 Erin McNEICE\n🇺🇦 Ievgeniia KAZBEKOVA\n🇸🇮 Janja
+  GARNBRET\n🇦🇹 Jessica PILZ\n🇨🇳 LUO Zhilu\n🇮🇹 Laura ROGORA\n🇿🇦
+  Lauren MUKHEIBIR\n🇩🇪 Lucia DOERFFEL\n🇯🇵 MORI Ai\n🇸🇮 Mia
+  KRAMPL\n🇬🇧 Molly THOMPSON-SMITH\n🇯🇵 NONAKA Miho\n🇺🇸 Natalia
+  GROSSMAN\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun\n🇨🇳 ZHANG Yuetong\n🇫🇷 Zelia AVEZOU
+SUMMARY:🧗 女子ボルダー&リード、ボルダー準決勝
+LOCATION:ル・ブルジェ・スポーツクライミング
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T080000Z-table-tennis-1-CRO-KOR
 DTSTAMP:20240806T080000Z
 DTSTART:20240806T080000Z
@@ -877,6 +945,19 @@ DTEND:20240806T092100Z
 DESCRIPTION:レスリング - 男子グレコローマンスタイル97kg級1回戦
 SUMMARY:🤼 Artur ALEKSANYAN 🇦🇲 - 🇰🇷 KIM Seungjun
 LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T110000Z-sport-climbing-
+DTSTAMP:20240806T110000Z
+DTSTART:20240806T110000Z
+DTEND:20240806T112500Z
+DESCRIPTION:スポーツクライミング - 男子スピード予選シーディング\n🇰🇿 Amir MAIMURATOV\n🇫🇷 Bassa
+  MAWEM\n🇿🇦 Joshua BRUYNS\n🇳🇿 Julian DAVID\n🇨🇳 LONG Jinbao\n🇮🇹
+  Matteo ZURLONI\n🇮🇩 Rahmad ADI MULYONO\n🇮🇷 Reza ALI POUR\n🇰🇷 SHIN
+  Euncheol\n🇺🇸 Sam WATSON\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU Peng\n🇺🇦
+  Yaroslav TKACH\n🇺🇸 Zach HAMMER
+SUMMARY:🧗 男子スピード予選シーディング
+LOCATION:ル・ブルジェ・スポーツクライミング
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T130000Z-table-tennis-
@@ -912,6 +993,30 @@ DESCRIPTION:ゴルフ - 女子第1ラウンド\n🇮🇳 Aditi ASHOK\n🇨🇭 A
   WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳 YIN Ruoning
 SUMMARY:⛳ 女子第1ラウンド
 LOCATION:国立ゴルフ場
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T080000Z-sport-climbing-
+DTSTAMP:20240807T080000Z
+DTSTART:20240807T080000Z
+DTEND:20240807T100500Z
+DESCRIPTION:スポーツクライミング - 男子ボルダー&リード、リード準決勝\n🇯🇵 ANRAKU Sorato\n🇨🇿 Adam
+  ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇩🇪 Alexander MEGOS\n🇦🇺 Campbell
+  HARRISON\n🇺🇸 Colin DUFFY\n🇬🇧 Hamish McARTHUR\n🇧🇪 Hannes Van
+  DUYSEN\n🇦🇹 Jakob SCHUBERT\n🇺🇸 Jesse GRUPPER\n🇰🇷 LEE Dohyun\n🇸🇮
+  Luka POTOCAR\n🇿🇦 Mel JANSE van RENSBURG\n🇯🇵 NARASAKI Tomoa\n🇨🇳 PAN
+  Yufei\n🇫🇷 Paul JENFT\n🇫🇷 Sam AVEZOU\n🇨🇭 Sascha LEHMANN\n🇬🇧 Toby
+  ROBERTS\n🇩🇪 Yannick FLOHE
+SUMMARY:🧗 男子ボルダー&リード、リード準決勝
+LOCATION:ル・ブルジェ・スポーツクライミング
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T081000Z-taekwondo-58KG1-KOR-VEN
+DTSTAMP:20240807T081000Z
+DTSTART:20240807T081000Z
+DTEND:20240807T082200Z
+DESCRIPTION:テコンドー - 男子58kg級1回戦
+SUMMARY:🥋 PARK Taejoon 🇰🇷 - 🇻🇪 Yohandri GRANADO
+LOCATION:グラン・パレ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T130000Z-diving-3M
@@ -957,6 +1062,52 @@ SUMMARY:⛳ 女子第2ラウンド
 LOCATION:国立ゴルフ場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T073300Z-taekwondo-57KG1-TUR-KOR
+DTSTAMP:20240808T073300Z
+DTSTART:20240808T073300Z
+DTEND:20240808T074600Z
+DESCRIPTION:テコンドー - 女子57kg級1回戦
+SUMMARY:🥋 Hatice Kubra ILGUN 🇹🇷 - 🇰🇷 KIM Yujin
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T080000Z-sport-climbing-
+DTSTAMP:20240808T080000Z
+DTSTART:20240808T080000Z
+DTEND:20240808T100500Z
+DESCRIPTION:スポーツクライミング - 女子ボルダー&リード、リード準決勝\n🇺🇸 Brooke RABOUTOU\n🇮🇹
+  Camilla MORONI\n🇬🇧 Erin McNEICE\n🇺🇦 Ievgeniia KAZBEKOVA\n🇸🇮 Janja
+  GARNBRET\n🇦🇹 Jessica PILZ\n🇨🇳 LUO Zhilu\n🇮🇹 Laura ROGORA\n🇿🇦
+  Lauren MUKHEIBIR\n🇩🇪 Lucia DOERFFEL\n🇯🇵 MORI Ai\n🇸🇮 Mia
+  KRAMPL\n🇬🇧 Molly THOMPSON-SMITH\n🇯🇵 NONAKA Miho\n🇺🇸 Natalia
+  GROSSMAN\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun\n🇨🇳 ZHANG Yuetong\n🇫🇷 Zelia AVEZOU
+SUMMARY:🧗 女子ボルダー&リード、リード準決勝
+LOCATION:ル・ブルジェ・スポーツクライミング
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-73KG
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:ウエイトリフティング - 男子73kg級\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin KINGUE
+  MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA PERNIA\n🇹🇳
+  Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO Masanori\n🇹🇷 Muhammed
+  OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki JUNIANSYAH\n🇨🇳 SHI
+  Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 男子73kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T072100Z-taekwondo-80KG1-CHI-KOR
+DTSTAMP:20240809T072100Z
+DTSTART:20240809T072100Z
+DTEND:20240809T073300Z
+DESCRIPTION:テコンドー - 男子80kg級1回戦
+SUMMARY:🥋 Joaquin CHURCHILL MARTINEZ 🇨🇱 - 🇰🇷 SEO Geonwoo
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T080000Z-diving-10M
 DTSTAMP:20240809T080000Z
 DTSTART:20240809T080000Z
@@ -972,6 +1123,92 @@ DESCRIPTION:飛込 - 男子10m高飛込予選\n🇨🇴 Alejandro SOLARTE\n🇮�
   Timo BARTHEL\n🇨🇳 YANG Hao
 SUMMARY:🏊 男子10m高飛込予選
 LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-weightlifting-89KG
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T153000Z
+DESCRIPTION:ウエイトリフティング - 男子89kg級\n🇦🇲 Andranik KARAPETYAN\n🇮🇹 Antonino
+  PIZZOLATO\n🇨🇦 Boady SANTAVY\n🇪🇬 Karim ABOKAHLA\n🇧🇬 Karlos May
+  NASAR\n🇻🇪 Keydomar VALLENILLA SANCHEZ\n🇦🇺 Kyle BRUCE\n🇲🇩 Marin
+  ROBU\n🇮🇷 Mir Mostafa JAVADI ALIABADI\n🇫🇷 Romain IMADOUCHENE\n🇰🇷 YU
+  Dongju\n🇨🇴 Yeison LOPEZ
+SUMMARY:🏋 男子89kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-artistic-swimming-
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T191300Z
+DESCRIPTION:アーティスティックスイミング - デュエットテクニカルルーティン\n🇺🇸 アメリカ合衆国\n🇮🇱
+  イスラエル\n🇮🇹 イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹
+  オーストリア\n🇨🇦 カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽
+  メキシコ\n🇨🇳 中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットテクニカルルーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T084700Z-taekwondo-67KG1-CZE-KOR
+DTSTAMP:20240810T084700Z
+DTSTART:20240810T084700Z
+DTEND:20240810T085900Z
+DESCRIPTION:テコンドー - 女子67kg超級1回戦
+SUMMARY:🥋 Petra STOLBOVA 🇨🇿 - 🇰🇷 LEE Dabin
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T093000Z-weightlifting-102KG
+DTSTAMP:20240810T093000Z
+DTSTART:20240810T093000Z
+DTEND:20240810T120000Z
+DESCRIPTION:ウエイトリフティング - 男子102kg級\n🇱🇾 Ahmed ABUZRIBA\n🇺🇿 Akbar
+  DJURAEV\n🇹🇲 Davranbek HASANBAYEV\n🇼🇸 Don OPELOGE\n🇶🇦 Faris Ibrahim
+  E ELBAKH\n🇦🇲 Garik KARAPETYAN\n🇬🇪 Irakli CHKHEIDZE\n🇰🇷 JANG
+  Yeonhak\n🇨🇳 LIU Huanhua\n🇧🇭 Lesman MONTANO\n🏳️ Ramiro MORA
+  ROMERO\n🇺🇸 Wes KITTS\n🇦🇸 Yauheni TSIKHANTSOU
+SUMMARY:🏋 男子102kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T140000Z-weightlifting-81KG
+DTSTAMP:20240810T140000Z
+DTSTART:20240810T140000Z
+DTEND:20240810T163000Z
+DESCRIPTION:ウエイトリフティング - 女子81kg級\n🇻🇺 Ajah PRITCHARD-LOLO\n🇲🇳
+  Ankhtsetseg MUNKHJANTSAN\n🇨🇺 Ayamey Damiana MEDINA ROCA\n🇦🇺 Eileen
+  CIKAMATANA\n🇰🇷 KIM Suhyeon\n🇧🇷 Laura NASCIMENTO AMARO\n🇪🇨 Neisi
+  Patricia DAJOMES BARRERA\n🇺🇿 Rigina ADASHBAEVA\n🇪🇬 Sara AHMED\n🇳🇴
+  Solfrid Eila Amena KOANDA\n🇵🇱 Weronika ZIELINSKA\n🏳️ Yekta JAMALI
+  GALEH\n🇩🇴 Yudelina MEJIA PEGUERO
+SUMMARY:🏋 女子81kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming-
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:アーティスティックスイミング - デュエットフリールーティン\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットフリールーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T093000Z-weightlifting-81KG
+DTSTAMP:20240811T093000Z
+DTSTART:20240811T093000Z
+DTEND:20240811T120000Z
+DESCRIPTION:ウエイトリフティング - 女子81kg超級\n🇩🇴 Crismery SANTANA PEGUERO\n🇹🇭
+  Duangaksorn CHAIDEE\n🇬🇧 Emily CAMPBELL\n🇪🇬 Halima ABBAS\n🇼🇸
+  Iuniarra SIPAIA\n🇨🇳 LI Wenwen\n🇪🇨 Lisseth Betzaida AYOVI
+  CABEZAS\n🇺🇸 Mary THEISEN LAPPEN\n🇻🇪 Naryury PEREZ REVERON\n🇮🇩 Nurul
+  AKMAL\n🇰🇷 PARK Hyejeong\n🇺🇿 Tursunoy JABBOROVA
+SUMMARY:🏋 女子81kg超級
+LOCATION:サウス・パリ・アリーナ6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

@@ -53,6 +53,32 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T133000Z-artistic-gymnastics-MENS-FLOOR-EXERCISE-FINAL
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T140500Z
+DESCRIPTION:Artistic Gymnastics - Men's Floor Exercise Final\n🇮🇱 Artem
+  DOLGOPYAT\n🇵🇭 Carlos Edriel YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake
+  JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵
+  OKA Shinnosuke\n🇰🇷 RYU Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG
+  Boheng
+SUMMARY:🤸 Men's Floor Exercise Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T151600Z-artistic-gymnastics-MENS-POMMEL-HORSE-FINAL
+DTSTAMP:20240803T151600Z
+DTSTART:20240803T151600Z
+DTEND:20240803T155200Z
+DESCRIPTION:Artistic Gymnastics - Men's Pommel Horse Final\n🇰🇷 HUR
+  Woong\n🇳🇱 Loran DE MUNCK\n🇬🇧 Max WHITLOCK\n🇰🇿 Nariman
+  KURBANOV\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg
+  VERNIAIEV\n🇮🇪 Rhys MC CLENAGHAN\n🇯🇵 SUGINO Takaaki\n🇺🇸 Stephen
+  NEDOROSCIK\n🇨🇳 ZOU Jingyuan
+SUMMARY:🤸 Men's Pommel Horse Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T105200Z-boxing-MENS-80KG-SEMIFINAL-DOM-KAZ
 DTSTAMP:20240804T105200Z
 DTSTART:20240804T105200Z
@@ -60,6 +86,20 @@ DTEND:20240804T110300Z
 DESCRIPTION:Boxing - Men's 80kg - Semifinal
 SUMMARY:🥊 Cristian Javier PINALES 🇩🇴 - 🇰🇿 Nurbek ORALBAY
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T191400Z-athletics-WOMENS-3000M-STEEPLECHASE-FINAL
+DTSTAMP:20240806T191400Z
+DTSTART:20240806T191400Z
+DTEND:20240806T192400Z
+DESCRIPTION:Athletics - Women's 3000m Steeplechase Final\n🇫🇷 Alice
+  FINOT\n🇵🇱 Alicja KONIECZEK\n🇰🇪 Beatrice CHEPKOECH\n🇺🇸 Courtney
+  WAYMENT\n🇬🇧 Elizabeth BIRD\n🇰🇪 Faith CHEROTICH\n🇩🇪 Gesa Felicitas
+  KRAUSE\n🇪🇸 Irene SANCHEZ-ESCRIBANO\n🇩🇪 Lea MEYER\n🇪🇹 Lomi
+  MULETA\n🇰🇿 Norah JERUTO\n🇺🇬 Peruth CHEMUTAI\n🇪🇹 Sembo ALMAYEW\n🇺🇸
+  Valerie CONSTIEN\n🇧🇭 Winfred YAVI
+SUMMARY:🏃 Women's 3000m Steeplechase Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T200200Z-boxing-WOMENS-50KG-SEMIFINAL-CHN-KAZ

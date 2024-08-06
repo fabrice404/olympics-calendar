@@ -91,6 +91,50 @@ SUMMARY:🚴 남자 도로경기
 LOCATION:트로카데로
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T095500Z-athletics--100M-1
+DTSTAMP:20240803T095500Z
+DTSTART:20240803T095500Z
+DTEND:20240803T104400Z
+DESCRIPTION:육상 - 남자 100m 1라운드\n🇨🇦 Aaron BROWN\n🇬🇭 Abdul-Rasheed
+  SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇴🇲 Ali Anwar Ali AL
+  BALUSHI\n🇨🇦 Andre De GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦 Arturo Harmodio
+  DELISER ESPINOSA\n🇬🇭 Benjamin AZAMATI\n🇿🇦 Benjamin RICHARDSON\n🇦🇬
+  Cejhae GREENE\n🇮🇹 Chituru ALI\n🇭🇹 Christopher BORZOR\n🇰🇾 Davonte
+  HOWELL\n🇹🇹 Devin AUGUSTINE\n🇨🇩 Dominique Lasconi MULAMBA\n🏳️ Dorian
+  KELETELA\n🇨🇦 Duan ASEMOTA\n🇸🇨 Dylan SICOBO\n🇬🇲 Ebrahima
+  CAMARA\n🇬🇾 Emanuel ARCHIBALD\n🇨🇲 Emmanuel ESEME\n🇱🇷 Emmanuel
+  MATADI\n🇧🇷 Erik CARDOSO\n🇳🇬 Favour Oghene Tejiri ASHE\n🇧🇷 Felipe
+  BARDI\n🇰🇪 Ferdinand OMANYALA\n🇦🇱 Franko BURRAJ\n🇺🇸 Fred
+  KERLEY\n🇲🇺 Gary Noa Jerrel BIBI\n🇯🇵 HIGASHIDA Akihiro\n🇰🇲 Hachim
+  MAAROUFOU\n🇮🇷 Hassan TAFTIAN\n🇸🇪 Henrik LARSSON\n🇬🇧 Jeremiah
+  AZU\n🇨🇴 Jhonny RENTERIA JIMENEZ\n🇩🇴 Jose GONZALEZ\n🇦🇺 Joshua
+  AZZOPARDI\n🇩🇪 Joshua HARTMANN\n🇹🇷 Kayhan OZER\n🇳🇬 Kayinsola
+  AJAYI\n🇺🇸 Kenneth BEDNAREK\n🇯🇲 Kishane THOMPSON\n🇮🇩 Lalu Muhammad
+  ZOHRI\n🇮🇹 Lamont Marcell JACOBS\n🇧🇼 Letsile TEBOGO\n🇬🇧 Louie
+  HINCHLIFFE\n🇸🇬 Marc Brian LOUIS\n🇦🇴 Marcos SANTOS\n🇦🇹 Markus
+  FUCHS\n🇲🇾 Muhd Azeem FAHMI\n🇰🇳 Naquille HARRIS\n🇺🇸 Noah LYLES\n🇯🇲
+  Oblique SEVILLE\n🇵🇱 Oliwer WDOWIK\n🇩🇪 Owen ANSAH\n🇧🇷 Paulo Andre
+  CAMILO\n🇹🇭 Puripol BOONSON\n🇨🇺 Reynaldo R. ESPINOSA\n🇻🇬 Rikkoi
+  BRATHWAITE\n🇦🇺 Rohan BROWNING\n🇨🇴 Ronal LONGA\n🇯🇵 SAKAI
+  Ryuichiro\n🇯🇵 SANI BROWN Abdul Hakim\n🇿🇦 Shaun MASWANGANYI\n🇸🇿
+  Sibusiso MATSENJWA\n🇩🇰 Simon HANSEN\n🇮🇶 Taha Hussein YASEEN\n🇧🇸
+  Terrence JONES\n🇧🇸 Wanya McCOY\n🇨🇳 XIE Zhenye\n🇬🇧 Zharnel HUGHES
+SUMMARY:🏃 남자 100m 1라운드
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T142400Z-artistic-gymnastics--
+DTSTAMP:20240804T142400Z
+DTSTART:20240804T142400Z
+DTEND:20240804T150700Z
+DESCRIPTION:기계체조 - 남자 도마 결승\n🇹🇷 Adem ASIL\n🇦🇲 Artur DAVTYAN\n🇺🇸 Asher
+  HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel YULO\n🇬🇧 Harry
+  HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷 LEE Junho\n🇮🇷
+  Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
+SUMMARY:🤸 남자 도마 결승
+LOCATION:베르시 아레나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T130000Z-wrestling--130KG-16-IRI-USA
 DTSTAMP:20240805T130000Z
 DTSTART:20240805T130000Z
@@ -161,6 +205,19 @@ DTEND:20240806T094900Z
 DESCRIPTION:레슬링 - 남자 그레코로만형 97kg 16강
 SUMMARY:🤼 Mohammadhadi SARAVI 🇮🇷 - 🇺🇸 Josef Patrick RAU
 LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T110000Z-sport-climbing--
+DTSTAMP:20240806T110000Z
+DTSTART:20240806T110000Z
+DTEND:20240806T112500Z
+DESCRIPTION:스포츠클라이밍 - 남자 스피드, 예선 - 시드전\n🇰🇿 Amir MAIMURATOV\n🇫🇷 Bassa
+  MAWEM\n🇿🇦 Joshua BRUYNS\n🇳🇿 Julian DAVID\n🇨🇳 LONG Jinbao\n🇮🇹
+  Matteo ZURLONI\n🇮🇩 Rahmad ADI MULYONO\n🇮🇷 Reza ALI POUR\n🇰🇷 SHIN
+  Euncheol\n🇺🇸 Sam WATSON\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU Peng\n🇺🇦
+  Yaroslav TKACH\n🇺🇸 Zach HAMMER
+SUMMARY:🧗 남자 스피드, 예선 - 시드전
+LOCATION:르 부르제 클라이밍 경기장
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T084000Z-canoe-sprint--1-1000M-

@@ -97,6 +97,33 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T070000Z-golf-MENS-INDIVIDUAL-STROKE-PLAY-ROUND-4
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T160000Z
+DESCRIPTION:Golf - Men's Individual Stroke Play Round 4\n🇰🇷 AN Byeong
+  Hun\n🇲🇽 Abraham ANCER\n🇵🇱 Adrian MERONK\n🇧🇪 Adrien DUMONT de
+  CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪 Alex NOREN\n🇨🇴 Camilo
+  VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan BEZUIDENHOUT\n🇺🇸 Collin
+  MORIKAWA\n🇨🇦 Corey CONNERS\n🇨🇳 DOU Zecheng\n🇳🇿 Daniel HILLIER\n🇪🇸
+  David PUIG\n🇦🇷 Emiliano GRILLO\n🇿🇦 Erik van ROOYEN\n🇵🇾 Fabrizio
+  ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾 Gavin GREEN\n🇮🇹 Guido
+  MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸
+  Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech APHIBARNRAT\n🇳🇴 Kristoffer
+  VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA Hideki\n🇮🇹 Matteo
+  MANASSERO\n🇩🇪 Matthias SCHMID\n🇫🇷 Matthieu PAVON\n🇦🇺 Min Woo
+  LEE\n🇨🇱 Mito PEREIRA\n🇯🇵 NAKAJIMA Keita\n🇨🇦 Nick TAYLOR\n🇨🇴 Nico
+  ECHAVARRIA\n🇩🇰 Nicolai HOJGAARD\n🇹🇼 PAN C.T.\n🇹🇭 Phachara
+  KHONGWATMAI\n🇵🇷 Rafa CAMPOS\n🇮🇪 Rory McILROY\n🇳🇿 Ryan FOX\n🇫🇮
+  Sami VALIMAKI\n🇺🇸 Scottie SCHEFFLER\n🇦🇹 Sepp STRAKA\n🇮🇪 Shane
+  LOWRY\n🇮🇳 Shubhankar SHARMA\n🇩🇪 Stephan JAEGER\n🇫🇮 Tapio
+  PULKKANEN\n🇧🇪 Thomas DETRY\n🇩🇰 Thorbjorn OLESEN\n🇬🇧 Tommy
+  FLEETWOOD\n🇫🇷 Victor PEREZ\n🇳🇴 Viktor HOVLAND\n🇺🇸 Wyndham
+  CLARK\n🇺🇸 Xander SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳 YUAN Yechun
+SUMMARY:⛳ Men's Individual Stroke Play Round 4
+LOCATION:Le Golf National
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
 DTSTAMP:20240804T120000Z
 DTSTART:20240804T120000Z
@@ -134,6 +161,44 @@ DESCRIPTION:Cycling Road - Women's Road Race\n🇵🇱 Agnieszka
   Yanina KUSKOVA\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 Women's Road Race
 LOCATION:Trocadéro
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T094500Z-artistic-gymnastics-MENS-PARALLEL-BARS-FINAL
+DTSTAMP:20240805T094500Z
+DTSTART:20240805T094500Z
+DTEND:20240805T102400Z
+DESCRIPTION:Artistic Gymnastics - Men's Parallel Bars Final\n🇨🇴 Angel
+  BARAJAS\n🇹🇷 Ferhat ARICAN\n🇯🇵 HASHIMOTO Daiki\n🇺🇦 Illia
+  KOVTUN\n🇬🇧 Joe FRASER\n🇯🇵 KAYA Kazuma\n🇭🇺 Krisztofer MESZAROS\n🇩🇪
+  Lukas DAUSER\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇯🇵 TANIGAWA
+  Wataru\n🇨🇳 XIAO Ruoteng\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU Jingyuan
+SUMMARY:🤸 Men's Parallel Bars Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T113300Z-artistic-gymnastics-MENS-HORIZONTAL-BAR-FINAL
+DTSTAMP:20240805T113300Z
+DTSTART:20240805T113300Z
+DTEND:20240805T120800Z
+DESCRIPTION:Artistic Gymnastics - Men's Horizontal Bar Final\n🇨🇴 Angel
+  BARAJAS\n🇺🇸 Frederick RICHARD\n🇬🇧 Joe FRASER\n🇨🇾 Marios
+  GEORGIOU\n🇯🇵 OKA Shinnosuke\n🇨🇳 SU Weide\n🇯🇵 SUGINO Takaaki\n🇹🇼
+  TANG Chia-Hung\n🇭🇷 Tin SRBIC\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
+SUMMARY:🤸 Men's Horizontal Bar Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T181500Z-athletics-MENS-LONG-JUMP-FINAL
+DTSTAMP:20240806T181500Z
+DTSTART:20240806T181500Z
+DTEND:20240806T193500Z
+DESCRIPTION:Athletics - Men's Long Jump Final\n🇨🇴 Arnovis DALMERO\n🇯🇲
+  Carey McLEOD\n🇭🇷 Filip PRAVDICA\n🇬🇧 Jacob FINCHAM-DUKES\n🇮🇹 Mattia
+  FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🇨🇿 Radek JUSKA\n🇩🇪 Simon
+  BATZ\n🇨🇭 Simon EHAMMER\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳
+  ZHANG Mingkun
+SUMMARY:🏃 Men's Long Jump Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T130000Z-weightlifting-WOMENS-59KG

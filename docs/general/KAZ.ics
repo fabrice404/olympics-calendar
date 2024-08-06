@@ -68,6 +68,53 @@ SUMMARY:🤸 Men's Final
 LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-MENS-QUALIFICATION-DAY-2
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T120000Z
+DESCRIPTION:Shooting - Skeet Men's Qualification - Day 2\n🇮🇳 Anant Jeet
+  Singh NARUKA\n🇪🇬 Azmy MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸
+  Conner Lynn PRINCE\n🇰🇿 Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷
+  Efthimios MITAS\n🇫🇷 Eric DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico
+  GIL\n🇮🇹 Gabriele ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub
+  TOMECEK\n🇩🇰 Jesper HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua
+  BELL\n🇰🇷 KIM Minsu\n🇹🇼 LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus
+  SVENSSON\n🇰🇼 Mohammad ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬
+  Omar IBRAHIM\n🇪🇪 Peeter JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹
+  Sebastian BERMUDEZ LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹
+  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
+SUMMARY:🔫 Skeet Men's Qualification - Day 2
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T084800Z-judo-MIXED-TEAM-ELIMINATION-ROUND-OF-16-KAZ-BRA
+DTSTAMP:20240803T084800Z
+DTSTART:20240803T084800Z
+DTEND:20240803T090000Z
+DESCRIPTION:Judo - Mixed Team Elimination Round of 16
+SUMMARY:🥋 KAZ 🇰🇿 - 🇧🇷 BRA
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -105,6 +152,19 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T133000Z-artistic-gymnastics-MENS-FLOOR-EXERCISE-FINAL
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T140500Z
+DESCRIPTION:Artistic Gymnastics - Men's Floor Exercise Final\n🇮🇱 Artem
+  DOLGOPYAT\n🇵🇭 Carlos Edriel YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake
+  JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵
+  OKA Shinnosuke\n🇰🇷 RYU Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG
+  Boheng
+SUMMARY:🤸 Men's Floor Exercise Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T145000Z-boxing-WOMENS-50KG-QUARTERFINAL-COL-KAZ
 DTSTAMP:20240803T145000Z
 DTSTART:20240803T145000Z
@@ -114,6 +174,123 @@ SUMMARY:🥊 Ingrit Lorena VALENCIA VICTORIA 🇨🇴 - 🇰🇿 Nazym KYZAIBAY
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T151600Z-artistic-gymnastics-MENS-POMMEL-HORSE-FINAL
+DTSTAMP:20240803T151600Z
+DTSTART:20240803T151600Z
+DTEND:20240803T155200Z
+DESCRIPTION:Artistic Gymnastics - Men's Pommel Horse Final\n🇰🇷 HUR
+  Woong\n🇳🇱 Loran DE MUNCK\n🇬🇧 Max WHITLOCK\n🇰🇿 Nariman
+  KURBANOV\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg
+  VERNIAIEV\n🇮🇪 Rhys MC CLENAGHAN\n🇯🇵 SUGINO Takaaki\n🇺🇸 Stephen
+  NEDOROSCIK\n🇨🇳 ZOU Jingyuan
+SUMMARY:🤸 Men's Pommel Horse Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T070000Z-shooting-25M-RAPID-FIRE-PISTOL-MENS-QUALIFICATION-STAG
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T103000Z
+DESCRIPTION:Shooting - 25m Rapid Fire Pistol Men's Qualification - Stage
+  1\n🇮🇳 Anish ANISH\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷
+  Clement BESSAGUET\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪
+  Florian PETER\n🇵🇰 Ghulam Mustafa BASHIR\n🇺🇸 Henry Turner
+  LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge ALVAREZ\n🇺🇸 Keith
+  SANDERSON\n🇨🇳 LI Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦 Maksym
+  HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿 Matej
+  RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY MOHAMED\n🇺🇦
+  Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo MAZZETTI\n🇦🇿 Ruslan
+  LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei EVGLEVSKI\n🇮🇳 Vijayveer
+  SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 25m Rapid Fire Pistol Men's Qualification - Stage 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T073000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-2
+DTSTAMP:20240804T073000Z
+DTSTART:20240804T073000Z
+DTEND:20240804T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 2\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 2
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T080500Z-athletics-WOMENS-3000M-STEEPLECHASE-ROUND-1
+DTSTAMP:20240804T080500Z
+DTSTART:20240804T080500Z
+DTEND:20240804T084500Z
+DESCRIPTION:Athletics - Women's 3000m Steeplechase Round 1\n🇬🇧 Aimee
+  PRATT\n🇫🇷 Alice FINOT\n🇵🇱 Alicja KONIECZEK\n🇦🇺 Amy CASHIN\n🇵🇱
+  Aneta KONIECZEK\n🇰🇪 Beatrice CHEPKOECH\n🇦🇷 Belen CASETTA\n🇦🇺 Cara
+  FEAIN-RYAN\n🇪🇸 Carolina ROBLES\n🇨🇦 Ceili McCABE\n🇺🇸 Courtney
+  WAYMENT\n🇰🇿 Daisy JEPKEMEI\n🇬🇧 Elizabeth BIRD\n🇰🇪 Faith
+  CHEROTICH\n🇫🇷 Flavie RENOUARD\n🇩🇪 Gesa Felicitas KRAUSE\n🇫🇮 Ilona
+  MONONEN\n🇪🇸 Irene SANCHEZ-ESCRIBANO\n🇰🇪 Jackline CHEPKOECH\n🇵🇱
+  Kinga KROLIK\n🇩🇪 Lea MEYER\n🇪🇹 Lomi MULETA\n🇦🇱 Luiza GEGA\n🇺🇸
+  Marisa HOWARD\n🇹🇳 Marwa BOUZAYANI\n🇰🇿 Norah JERUTO\n🇩🇪 Olivia
+  GUERTH\n🇮🇳 Parul CHAUDHARY\n🇺🇬 Peruth CHEMUTAI\n🇨🇦 Regan YEE\n🇪🇹
+  Sembo ALMAYEW\n🇷🇴 Stella RUTTO\n🇧🇷 Tatiane Raquel da SILVA\n🇺🇸
+  Valerie CONSTIEN\n🇧🇭 Winfred YAVI\n🇨🇳 XU Shuangshuang
+SUMMARY:🏃 Women's 3000m Steeplechase Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T085500Z-athletics-WOMENS-200M-ROUND-1
+DTSTAMP:20240804T085500Z
+DTSTART:20240804T085500Z
+DTEND:20240804T093600Z
+DESCRIPTION:Athletics - Women's 200m Round 1\n🇻🇬 Adaejah HODGE\n🇪🇨
+  Aimara NAZARENO\n🇧🇷 Ana Carolina AZEVEDO\n🇮🇹 Anna BONGIORNI\n🇨🇦
+  Audrey LEDUC\n🇬🇧 Bianca WILLIAMS\n🇭🇺 Boglarka TAKACS\n🇺🇸 Brittany
+  BROWN\n🇲🇽 Cecilia TAMAYO-GARZA\n🇮🇹 Dalia KADDARI\n🇬🇧 Daryll
+  NEITA\n🇬🇧 Dina ASHER-SMITH\n🇳🇬 Favour OFILI\n🇪🇨 Gabriela Anahi
+  SUAREZ\n🇺🇸 Gabrielle THOMAS\n🇫🇷 Gemima JOSEPH\n🇬🇲 Gina Mariam BASS
+  BITTAYE\n🇫🇷 Helene PARISOT\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke VERVAET\n🇨🇦
+  Jacqueline MADOGO\n🇪🇸 Jael BESTUE\n🇨🇮 Jessika GBAI\n🇸🇪 Julia
+  HENRIKSSON\n🇱🇨 Julien ALFRED\n🇵🇱 Krystsina TSIMANOUSKAYA\n🇨🇳 LI
+  Yuting\n🇯🇲 Lanae-Tava THOMAS\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas
+  BAZOLO\n🇧🇷 Lorraine MARTINS\n🇨🇮 Maboundou KONE\n🇨🇮 Marie-Josee TA
+  LOU-SMITH\n🇵🇱 Martyna KOTWILA\n🇺🇸 McKenzie LONG\n🇦🇺 Mia GROSS\n🇨🇭
+  Mujinga KAMBUNDJI\n🇪🇨 Nicole CAICEDO\n🇯🇲 Niesha BURGHER\n🇸🇪 Nora
+  LINDAHL\n🇰🇿 Olga SAFRONOVA\n🇨🇾 Olivia FOTOPOULOU\n🇬🇷 Polyniki
+  EMMANOUILIDOU\n🇯🇲 Shericka JACKSON\n🇳🇱 Tasa JIYA\n🇦🇺 Torrie
+  LEWIS\n🇸🇬 Veronica Shanti PEREIRA
+SUMMARY:🏃 Women's 200m Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T095000Z-athletics-MENS-110M-HURDLES-ROUND-1
+DTSTAMP:20240804T095000Z
+DTSTART:20240804T095000Z
+DTEND:20240804T102300Z
+DESCRIPTION:Athletics - Men's 110m Hurdles Round 1\n🇩🇿 Amine
+  BOUANANI\n🇧🇸 Antoine ANDREWS\n🇪🇸 Asier MARTINEZ\n🇨🇦 Craig
+  THORNE\n🇵🇱 Damian CZYKIER\n🇺🇸 Daniel ROBERTS\n🇰🇿 David
+  YEFREMOV\n🇧🇷 Eduardo RODRIGUES\n🇧🇪 Elie BACARI\n🇫🇮 Elmo LAKKA\n🇪🇸
+  Enrique LLOPIS\n🇦🇹 Enzo DIESSL\n🇺🇸 Freddie CRITTENDEN\n🇺🇸 Grant
+  HOLLOWAY\n🇯🇲 Hansle PARCHMENT\n🇯🇵 IZUMIYA Shunsuke\n🇵🇱 Jakub
+  SZYMANSKI\n🇨🇭 Jason JOSEPH\n🇵🇭 John CABANG\n🇵🇱 Krzysztof
+  KILJAN\n🇨🇳 LIU Junxi\n🇮🇹 Lorenzo Ndele SIMONELLI\n🇸🇳 Louis Francois
+  MENDY\n🇯🇵 MURATAKE Rachid\n🇩🇪 Manuel MORDI\n🇨🇱 Martin SAENZ de
+  SANTA MARIA\n🇧🇪 Michael OBASUYI\n🇨🇾 Milan TRAJKOVIC\n🇯🇲 Orlando
+  BENNETT\n🇨🇳 QIN Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷 Raphael MOHAMED\n🇯🇲
+  Rasheed BROADBELL\n🇫🇷 Sasha ZHOYA\n🇯🇵 TAKAYAMA Shunya\n🇬🇧 Tade
+  OJORA\n🇦🇺 Tayleb WILLIS\n🇫🇷 Wilhem BELOCIAN\n🇨🇳 XU Zhuoyi\n🇰🇼
+  Yaqoub ALYOUHA
+SUMMARY:🏃 Men's 110m Hurdles Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T105200Z-boxing-MENS-80KG-SEMIFINAL-DOM-KAZ
 DTSTAMP:20240804T105200Z
 DTSTART:20240804T105200Z
@@ -121,6 +298,55 @@ DTEND:20240804T110300Z
 DESCRIPTION:Boxing - Men's 80kg - Semifinal
 SUMMARY:🥊 Cristian Javier PINALES 🇩🇴 - 🇰🇿 Nurbek ORALBAY
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T110000Z-shooting-25M-RAPID-FIRE-PISTOL-MENS-QUALIFICATION-STAG
+DTSTAMP:20240804T110000Z
+DTSTART:20240804T110000Z
+DTEND:20240804T150000Z
+DESCRIPTION:Shooting - 25m Rapid Fire Pistol Men's Qualification - Stage
+  2\n🇮🇳 Anish ANISH\n🇰🇷 CHO Yeongjae\n🇩🇪 Christian REITZ\n🇫🇷
+  Clement BESSAGUET\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇻🇪 Douglas GOMEZ\n🇩🇪
+  Florian PETER\n🇵🇰 Ghulam Mustafa BASHIR\n🇺🇸 Henry Turner
+  LEVERETT\n🇫🇷 Jean QUIQUAMPOIX\n🇨🇺 Jorge ALVAREZ\n🇺🇸 Keith
+  SANDERSON\n🇨🇳 LI Yuehong\n🇨🇺 Leuris PUPO\n🇺🇦 Maksym
+  HORODYNETS\n🇨🇿 Martin PODHRASKY\n🇮🇹 Massimo SPINELLA\n🇨🇿 Matej
+  RAMPULA\n🇰🇿 Nikita CHIRYUKIN\n🇪🇬 Omar Khaled ABDELHADY MOHAMED\n🇺🇦
+  Pavlo KOROSTYLOV\n🇪🇪 Peeter OLESK\n🇮🇹 Riccardo MAZZETTI\n🇦🇿 Ruslan
+  LUNEV\n🇰🇷 SONG Jong-Ho\n🇦🇺 Sergei EVGLEVSKI\n🇮🇳 Vijayveer
+  SIDHU\n🇨🇳 WANG Xinjie\n🇯🇵 YOSHIOKA Dai
+SUMMARY:🔫 25m Rapid Fire Pistol Men's Qualification - Stage 2
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T070000Z-shooting-SKEET-MIXED-TEAM-QUALIFICATION
+DTSTAMP:20240805T070000Z
+DTSTART:20240805T070000Z
+DTEND:20240805T113000Z
+DESCRIPTION:Shooting - Skeet Mixed Team Qualification\n🇦🇺 AUS\n🇨🇳
+  CHN\n🇨🇿 CZE\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇷 GRE\n🇮🇳 IND\n🇮🇹 Italy 1\n🇮🇹
+  Italy 2\n🇰🇿 KAZ\n🇰🇷 KOR\n🇵🇪 PER\n🇸🇪 SWE\n🇺🇸 United States
+  1\n🇺🇸 United States 2
+SUMMARY:🔫 Skeet Mixed Team Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T105000Z-athletics-WOMENS-200M-REPECHAGE-ROUND
+DTSTAMP:20240805T105000Z
+DTSTART:20240805T105000Z
+DTEND:20240805T111500Z
+DESCRIPTION:Athletics - Women's 200m Repechage Round\n🇻🇬 Adaejah
+  HODGE\n🇪🇨 Aimara NAZARENO\n🇧🇷 Ana Carolina AZEVEDO\n🇮🇹 Anna
+  BONGIORNI\n🇭🇺 Boglarka TAKACS\n🇲🇽 Cecilia TAMAYO-GARZA\n🇮🇹 Dalia
+  KADDARI\n🇪🇨 Gabriela Anahi SUAREZ\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke
+  VERVAET\n🇨🇦 Jacqueline MADOGO\n🇪🇸 Jael BESTUE\n🇵🇱 Krystsina
+  TSIMANOUSKAYA\n🇨🇳 LI Yuting\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas
+  BAZOLO\n🇧🇷 Lorraine MARTINS\n🇨🇮 Maboundou KONE\n🇵🇱 Martyna
+  KOTWILA\n🇦🇺 Mia GROSS\n🇪🇨 Nicole CAICEDO\n🇸🇪 Nora LINDAHL\n🇰🇿
+  Olga SAFRONOVA\n🇨🇾 Olivia FOTOPOULOU\n🇬🇷 Polyniki EMMANOUILIDOU\n🇦🇺
+  Torrie LEWIS\n🇸🇬 Veronica Shanti PEREIRA
+SUMMARY:🏃 Women's 200m Repechage Round
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T132100Z-wrestling-MENS-GRECO-ROMAN-130KG-18-FINAL-KAZ-ROU
@@ -150,6 +376,79 @@ SUMMARY:🤼 Sabah Saleh SHARIATI 🇦🇿 - 🇰🇿 Alimkhan SYZDYKOV
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T083000Z-canoe-sprint-MENS-CANOE-DOUBLE-500M-HEATS
+DTSTAMP:20240806T083000Z
+DTSTART:20240806T083000Z
+DTEND:20240806T084700Z
+DESCRIPTION:Canoe Sprint - Men's Canoe Double 500m Heats\n🇫🇷 Adrien
+  BART\n🇦🇸 Alexey KOROVASHKOV\n🇭🇺 Balazs ADOLF\n🇦🇴 Benilson
+  SANDA\n🇮🇹 Carlo TACCHINI\n🇪🇸 Diego DOMINGUEZ\n🇮🇹 Gabriele
+  CASADEI\n🇳🇿 Grant CLANCY\n🇷🇴 Ilie SPRINCEAN\n🇧🇷 Isaquias
+  QUEIROZ\n🇨🇳 JI Bowen\n🇧🇷 Jacky Jamael NASCIMENTO GODMANN\n🇪🇸 Joan
+  Antoni MORENO\n🇭🇺 Jonatan Daniel HAJDU\n🇨🇳 LIU Hao\n🇫🇷 Loic
+  LEONARD\n🇦🇴 Manuel ANTONIO\n🇨🇿 Martin FUKSA\n🇳🇿 Max BROWN\n🇷🇴
+  Oleg NUTA\n🇩🇪 Peter KRETSCHMER\n🇨🇿 Petr FUKSA\n🇰🇿 Sergey
+  YEMELYANOV\n🇩🇪 Tim HECKER\n🇰🇿 Timur KHAIDAROV\n🇦🇸 Zakhar PETROV
+SUMMARY:🛶 Men's Canoe Double 500m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T085000Z-athletics-MENS-110M-HURDLES-REPECHAGE-ROUND
+DTSTAMP:20240806T085000Z
+DTSTART:20240806T085000Z
+DTEND:20240806T090700Z
+DESCRIPTION:Athletics - Men's 110m Hurdles Repechage Round\n🇩🇿 Amine
+  BOUANANI\n🇪🇸 Asier MARTINEZ\n🇨🇦 Craig THORNE\n🇵🇱 Damian
+  CZYKIER\n🇰🇿 David YEFREMOV\n🇧🇪 Elie BACARI\n🇫🇮 Elmo LAKKA\n🇦🇹
+  Enzo DIESSL\n🇺🇸 Freddie CRITTENDEN\n🇵🇱 Jakub SZYMANSKI\n🇵🇭 John
+  CABANG\n🇵🇱 Krzysztof KILJAN\n🇨🇳 LIU Junxi\n🇩🇪 Manuel MORDI\n🇨🇱
+  Martin SAENZ de SANTA MARIA\n🇨🇳 QIN Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷
+  Raphael MOHAMED\n🇯🇵 TAKAYAMA Shunya\n🇦🇺 Tayleb WILLIS\n🇫🇷 Wilhem
+  BELOCIAN
+SUMMARY:🏃 Men's 110m Hurdles Repechage Round
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T090000Z-canoe-sprint-WOMENS-CANOE-DOUBLE-500M-HEATS
+DTSTAMP:20240806T090000Z
+DTSTART:20240806T090000Z
+DTEND:20240806T091700Z
+DESCRIPTION:Canoe Sprint - Women's Canoe Double 500m Heats\n🇭🇺 Agnes Anna
+  KISS\n🇺🇦 Anastasiia RYBACHOK\n🇪🇸 Antia JACOME\n🇫🇷 Axelle
+  RENARD\n🇳🇬 Ayomide Powei BELLO\n🇳🇬 Beauty Akinaere OTUEDO\n🇭🇺
+  Bianka NAGY\n🇲🇩 Daniela COCIU\n🇵🇱 Dorota BOROWSKA\n🇫🇷 Eugenie
+  DORANGE\n🇩🇪 Hedi Moana KLIEMKE\n🇨🇦 Katie VINCENT\n🇩🇪 Lisa
+  JAHN\n🇺🇦 Liudmyla LUZAN\n🇪🇸 Maria CORBERA\n🇨🇱 Maria Jose
+  MAILLIARD\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya BROVKOVA\n🇨🇱 Paula
+  GOMEZ\n🇰🇿 Rufina ISKAKOVA\n🇨🇳 SUN Mengya\n🇨🇦 Sloan MACKENZIE\n🇵🇱
+  Sylwia SZCZERBINSKA\n🇨🇳 XU Shixiao\n🇨🇺 Yarisleidis CIRILO
+  DUBOYS\n🇨🇺 Yinnoly Francheska LOPEZ LAMADRID
+SUMMARY:🛶 Women's Canoe Double 500m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T093000Z-canoe-sprint-MENS-KAYAK-DOUBLE-500M-HEATS
+DTSTAMP:20240806T093000Z
+DTSTART:20240806T093000Z
+DTEND:20240806T100700Z
+DESCRIPTION:Canoe Sprint - Men's Kayak Double 500m Heats\n🇺🇸 Aaron
+  SMALL\n🇭🇺 Adam VARGA\n🇪🇸 Adrian del RIO\n🇷🇸 Andjelo DZOMBETA\n🇱🇹
+  Andrej OLIJNIK\n🇿🇦 Andrew James BIRKETT\n🇨🇳 BU Tingkai\n🇭🇺 Balint
+  KOPASZ\n🇰🇿 Bekarys RAMATULLA\n🇭🇺 Bence NADAS\n🇪🇸 Carlos
+  AREVALO\n🇨🇿 Daniel HAVEL\n🇳🇿 Hamish LEGARTH\n🇿🇦 Hamish
+  LOVEMORE\n🇺🇦 Ihor TRUNOV\n🇩🇪 Jacob SCHOPF\n🇨🇿 Jakub SPICAR\n🇵🇱
+  Jakub STEPUN\n🇦🇺 Jean van der WESTHUYZEN\n🇵🇹 Joao RIBEIRO\n🇺🇸 Jonas
+  ECKER\n🇳🇿 Kurtis IMRIE\n🇪🇸 Marcus COOPER\n🇷🇸 Marko
+  DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇩🇪 Max LEMKE\n🇩🇪 Max
+  RENDSCHMIDT\n🇵🇹 Messias BAPTISTA\n🇱🇹 Mindaugas MALDONIS\n🇺🇦 Oleh
+  KUKHARYK\n🇨🇦 Pierre-Luc POULIN\n🇵🇱 Przemyslaw KORSAK\n🇪🇸 Rodrigo
+  GERMADE\n🇭🇺 Sandor TOTKA\n🇰🇿 Sergii TOKARNYTSKYI\n🇨🇦 Simon
+  McTAVISH\n🇦🇺 Tom GREEN\n🇩🇪 Tom LIEBSCHER-LUCZ\n🇷🇸 Vladimir
+  TORUBAROV\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 Men's Kayak Double 500m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T094900Z-wrestling-MENS-GRECO-ROMAN-77KG-18-FINAL-COL-KAZ
 DTSTAMP:20240806T094900Z
 DTSTART:20240806T094900Z
@@ -157,6 +456,33 @@ DTEND:20240806T095600Z
 DESCRIPTION:Wrestling - Men's Greco-Roman 77kg 1/8 Final
 SUMMARY:🤼 Jair Alexis CUERO MUNOZ 🇨🇴 - 🇰🇿 Demeu ZHADRAYEV
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T110000Z-sport-climbing-MENS-SPEED-QUALIFICATION-SEEDING
+DTSTAMP:20240806T110000Z
+DTSTART:20240806T110000Z
+DTEND:20240806T112500Z
+DESCRIPTION:Sport Climbing - Men's Speed, Qualification Seeding\n🇰🇿 Amir
+  MAIMURATOV\n🇫🇷 Bassa MAWEM\n🇿🇦 Joshua BRUYNS\n🇳🇿 Julian DAVID\n🇨🇳
+  LONG Jinbao\n🇮🇹 Matteo ZURLONI\n🇮🇩 Rahmad ADI MULYONO\n🇮🇷 Reza ALI
+  POUR\n🇰🇷 SHIN Euncheol\n🇺🇸 Sam WATSON\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU
+  Peng\n🇺🇦 Yaroslav TKACH\n🇺🇸 Zach HAMMER
+SUMMARY:🧗 Men's Speed, Qualification Seeding
+LOCATION:Le Bourget Climbing Venue
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T191400Z-athletics-WOMENS-3000M-STEEPLECHASE-FINAL
+DTSTAMP:20240806T191400Z
+DTSTART:20240806T191400Z
+DTEND:20240806T192400Z
+DESCRIPTION:Athletics - Women's 3000m Steeplechase Final\n🇫🇷 Alice
+  FINOT\n🇵🇱 Alicja KONIECZEK\n🇰🇪 Beatrice CHEPKOECH\n🇺🇸 Courtney
+  WAYMENT\n🇬🇧 Elizabeth BIRD\n🇰🇪 Faith CHEROTICH\n🇩🇪 Gesa Felicitas
+  KRAUSE\n🇪🇸 Irene SANCHEZ-ESCRIBANO\n🇩🇪 Lea MEYER\n🇪🇹 Lomi
+  MULETA\n🇰🇿 Norah JERUTO\n🇺🇬 Peruth CHEMUTAI\n🇪🇹 Sembo ALMAYEW\n🇺🇸
+  Valerie CONSTIEN\n🇧🇭 Winfred YAVI
+SUMMARY:🏃 Women's 3000m Steeplechase Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T200200Z-boxing-WOMENS-50KG-SEMIFINAL-CHN-KAZ
@@ -168,6 +494,51 @@ SUMMARY:🥊 WU Yu 🇨🇳 - 🇰🇿 Nazym KYZAIBAY
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T084000Z-canoe-sprint-MENS-KAYAK-SINGLE-1000M-HEATS
+DTSTAMP:20240807T084000Z
+DTSTART:20240807T084000Z
+DTEND:20240807T092700Z
+DESCRIPTION:Canoe Sprint - Men's Kayak Single 1000m Heats\n🇺🇸 Aaron
+  SMALL\n🇲🇦 Achraf ELAIDI\n🇭🇺 Adam VARGA\n🇪🇸 Adrian del RIO\n🇦🇷
+  Agustin VERNICE\n🇮🇷 Ali AGHAMIRZAEIJENAGHARD\n🇱🇹 Andrej OLIJNIK\n🇿🇦
+  Andrew James BIRKETT\n🇩🇪 Anton WINKELMANN\n🇧🇪 Artuur PETERS\n🇭🇺
+  Balint KOPASZ\n🇰🇿 Bekarys RAMATULLA\n🇵🇹 Fernando PIMENTA\n🇪🇸
+  Francisco CUBELOS\n🇿🇦 Hamish LOVEMORE\n🇩🇪 Jakob THORDSEN\n🇺🇸 Jonas
+  ECKER\n🇨🇿 Josef DOSTAL\n🇸🇪 Martin NATHELL\n🇺🇾 Matias Valentin OTERO
+  EZCURRA\n🇫🇷 Maxime BEAUMONT\n🇩🇰 Rene Holten POULSEN\n🏳️ Saeid
+  FAZLOULA\n🇺🇿 Shakhriyor MAKHKAMOV\n🇦🇺 Tom GREEN\n🇼🇸 Tuva'a
+  CLIFTON\n🇦🇸 Uladzislau KRAVETS\n🇧🇷 Vagner Junior SOUTA\n🇨🇳 ZHANG
+  Dong
+SUMMARY:🛶 Men's Kayak Single 1000m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T094000Z-canoe-sprint-MENS-CANOE-SINGLE-1000M-HEATS
+DTSTAMP:20240807T094000Z
+DTSTART:20240807T094000Z
+DTEND:20240807T102700Z
+DESCRIPTION:Canoe Sprint - Men's Canoe Single 1000m Heats\n🇫🇷 Adrien
+  BART\n🇭🇺 Balazs ADOLF\n🇦🇴 Benilson SANDA\n🇮🇹 Carlo TACCHINI\n🇷🇴
+  Catalin CHIRILA\n🇨🇦 Connor FITZPATRICK\n🇭🇺 Daniel FEJES\n🏳️ Fernando
+  Dayan JORGE ENRIQUEZ\n🇹🇳 Ghailene KHATTALI\n🇧🇷 Isaquias QUEIROZ\n🇨🇳
+  JI Bowen\n🇨🇺 Jose Ramon PELIER CORDOVA\n🇹🇼 LAI Kuan-Chieh\n🇨🇳 LIU
+  Hao\n🇨🇿 Martin FUKSA\n🇧🇷 Mateus NUNES BASTOS dos SANTOS\n🇮🇷
+  Mohammad Nabi REZAEI\n🇮🇹 Nicolae CRACIUN\n🇪🇸 Pablo CRESPO\n🇺🇦 Pavlo
+  ALTUKHOV\n🇩🇪 Sebastian BRENDEL\n🇰🇿 Sergey YEMELYANOV\n🇲🇩 Serghei
+  TARNOVSCHI\n🇵🇱 Wiktor GLAZUNOW\n🇦🇸 Zakhar PETROV
+SUMMARY:🛶 Men's Canoe Single 1000m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T103700Z-taekwondo-MEN-58KG-ROUND-OF-16-ITA-KAZ
+DTSTAMP:20240807T103700Z
+DTSTART:20240807T103700Z
+DTEND:20240807T104900Z
+DESCRIPTION:Taekwondo - Men -58kg Round of 16
+SUMMARY:🥋 Vito DELL AQUILA 🇮🇹 - 🇰🇿 Samirkhon ABABAKIROV
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T205100Z-boxing-MENS-80KG-FINAL-KAZ-UKR
 DTSTAMP:20240807T205100Z
 DTSTART:20240807T205100Z
@@ -175,6 +546,35 @@ DTEND:20240807T210200Z
 DESCRIPTION:Boxing - Men's 80kg - Final
 SUMMARY:🥊 Nurbek ORALBAY 🇰🇿 - 🇺🇦 Oleksandr KHYZHNIAK
 LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T083000Z-canoe-sprint-WOMENS-CANOE-SINGLE-200M-HEATS
+DTSTAMP:20240808T083000Z
+DTSTART:20240808T083000Z
+DTEND:20240808T091700Z
+DESCRIPTION:Canoe Sprint - Women's Canoe Single 200m Heats\n🇭🇺 Agnes Anna
+  KISS\n🇺🇦 Anastasiia RYBACHOK\n🇪🇸 Antia JACOME\n🇳🇬 Ayomide Powei
+  BELLO\n🇳🇬 Beauty Akinaere OTUEDO\n🇸🇳 Combe SECK\n🇲🇩 Daniela
+  COCIU\n🇵🇱 Dorota BOROWSKA\n🇫🇷 Eugenie DORANGE\n🇸🇹 Herminia TEIXEIRA
+  SANTANA\n🇨🇱 Karen ROCO\n🇵🇱 Katarzyna SZPERKIEWICZ\n🇨🇦 Katie
+  VINCENT\n🇭🇺 Kincso TAKACS\n🇨🇳 LIN Wenjun\n🇩🇪 Lisa JAHN\n🇺🇦
+  Liudmyla LUZAN\n🇩🇪 Maike JAKOB\n🇨🇴 Manuela GOMEZ SANCHEZ\n🇪🇸 Maria
+  CORBERA\n🇨🇱 Maria Jose MAILLIARD\n🇲🇩 Maria OLARASU\n🇰🇿 Mariya
+  BROVKOVA\n🇺🇸 Nevin HARRISON\n🇺🇿 Nilufar ZOKIROVA\n🇦🇸 Olesia
+  ROMASENKO\n🇬🇺 Raina TAITINGFONG\n🇨🇦 Sophia JENSEN\n🇻🇳 Thi Huong
+  NGUYEN\n🇧🇷 Valdenice CONCEICAO DO NASCIMENTO\n🇨🇺 Yarisleidis CIRILO
+  DUBOYS\n🇨🇺 Yinnoly Francheska LOPEZ LAMADRID\n🇦🇸 Yuliya TRUSHKINA
+SUMMARY:🛶 Women's Canoe Single 200m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T070000Z-taekwondo-MEN-80KG-QUALIFICATION-CONTEST-MLI-KAZ
+DTSTAMP:20240809T070000Z
+DTSTART:20240809T070000Z
+DTEND:20240809T070900Z
+DESCRIPTION:Taekwondo - Men -80kg Qualification Contest
+SUMMARY:🥋 Ismael COULIBALY 🇲🇱 - 🇰🇿 Batyrkhan TOLEUGALI
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

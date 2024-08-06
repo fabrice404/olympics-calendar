@@ -45,6 +45,19 @@ SUMMARY:🚣 男子エイト決勝A
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T182000Z-athletics-
+DTSTAMP:20240803T182000Z
+DTSTART:20240803T182000Z
+DTEND:20240803T193700Z
+DESCRIPTION:陸上競技 - 女子三段跳決勝\n🇯🇲 Ackelia SMITH\n🇪🇸 Ana
+  PELETEIRO-COMPAORE\n🇮🇹 Dariya DERKACH\n🇷🇴 Elena Andreea TALOS\n🇫🇷
+  Ilionis GUILLAUME\n🇺🇸 Jasmine MOORE\n🇺🇸 Keturah ORJI\n🇨🇺 Leyanis
+  PEREZ HERNANDEZ\n🇨🇺 Liadagmis POVEA\n🇺🇦 Maryna BEKH-ROMANCHUK\n🇯🇲
+  Shanieka RICKETTS\n🇩🇲 Thea LAFOND
+SUMMARY:🏃 女子三段跳決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T103800Z-artistic-gymnastics-
 DTSTAMP:20240805T103800Z
 DTSTART:20240805T103800Z
@@ -68,5 +81,57 @@ DESCRIPTION:体操競技 - 女子種目別ゆか決勝\n🇮🇹 Alice D'AMATO\n
   BILES\n🇨🇳 ZHANG Yihan\n🇨🇳 ZHOU Yaqin
 SUMMARY:🤸 女子種目別ゆか決勝
 LOCATION:ベルシー・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T175700Z-athletics-
+DTSTAMP:20240806T175700Z
+DTSTART:20240806T175700Z
+DTEND:20240806T190700Z
+DESCRIPTION:陸上競技 - 女子ハンマー投決勝\n🇵🇱 Anita WLODARCZYK\n🇺🇸 Annette Nneka
+  ECHIKUNWOKE\n🇷🇴 Bianca Florentina GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸
+  Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰 Katrine Koch JACOBSEN\n🇫🇮 Krista
+  TERVO\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja
+  KOSONEN\n🇨🇳 ZHAO Jie
+SUMMARY:🏃 女子ハンマー投決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-weightlifting-49KG
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T200000Z
+DESCRIPTION:ウエイトリフティング - 女子49kg級\n🇩🇴 Beatriz PIRON CANDELARIO\n🇹🇼 FANG
+  Wan-Ling\n🇨🇳 HOU Zhihui\n🇺🇸 Jourdan DELACRUZ\n🇻🇪 Katherin ECHANDIA
+  ZARATE\n🇷🇴 Mihaela Valentina CAMBEI\n🇮🇳 Mirabai Chanu SAIKHOM\n🇬🇺
+  Nicola Velasco LAGATAO\n🇧🇪 Nina STERCKX\n🇲🇬 Rosina
+  RANDAFIARISON\n🇯🇵 SUZUKI Rira\n🇹🇭 Surodchana KHAMBAO
+SUMMARY:🏋 女子49kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T182500Z-athletics-
+DTSTAMP:20240807T182500Z
+DTSTART:20240807T182500Z
+DTEND:20240807T193500Z
+DESCRIPTION:陸上競技 - 男子円盤投決勝\n🇼🇸 Alex ROSE\n🇷🇴 Alin Alexandru
+  FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇩🇪 Clemens PRUEFER\n🇸🇪 Daniel
+  STAHL\n🇸🇮 Kristjan CEH\n🇦🇹 Lukas WEISSHAIDINGER\n🇦🇺 Matthew
+  DENNY\n🇱🇹 Mykolas ALEKNA\n🇯🇲 Ralford MULLINGS\n🇯🇲 Roje STONA\n🇯🇲
+  Traves SMIKLE
+SUMMARY:🏃 男子円盤投決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T173000Z-weightlifting-71KG
+DTSTAMP:20240809T173000Z
+DTSTART:20240809T173000Z
+DTEND:20240809T200000Z
+DESCRIPTION:ウエイトリフティング - 女子71kg級\n🇧🇷 Amanda da COSTA SCHOTT\n🇪🇨 Angie
+  Paola PALACIOS DAJOMES\n🇹🇼 CHEN Wen-Huei\n🇦🇺 Jacqueline NICHELE\n🇳🇬
+  Joy Ogbonne EZE\n🇷🇴 Loredana Elena TOMA\n🇨🇴 Mari Leivis SANCHEZ\n🇫🇷
+  Marie FEGUE\n🇪🇬 Neama SAID\n🇺🇸 Olivia REEVES\n🇦🇸 Siuzanna
+  VALODZKA\n🇵🇭 Vanessa SARNO
+SUMMARY:🏋 女子71kg級
+LOCATION:サウス・パリ・アリーナ6
 END:VEVENT
 END:VCALENDAR

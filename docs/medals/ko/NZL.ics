@@ -129,6 +129,30 @@ SUMMARY:🚣 남자 싱글스컬 결승 A
 LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T173500Z-athletics--
+DTSTAMP:20240803T173500Z
+DTSTART:20240803T173500Z
+DTEND:20240803T184500Z
+DESCRIPTION:육상 - 남자 포환던지기 결승\n🇳🇬 Chukwuebuka Cornnell ENEKWECHI\n🇳🇿
+  Jacko GILL\n🇺🇸 Joe KOVACS\n🇮🇹 Leonardo FABBRI\n🇳🇴 Marcus
+  THOMSEN\n🇺🇸 Payton OTTERDAHL\n🇯🇲 Rajindra CAMPBELL\n🇺🇸 Ryan
+  CROUSER\n🇳🇿 Tom WALSH\n🇨🇿 Tomas STANEK\n🇲🇽 Uziel MUNOZ\n🇮🇹 Zane
+  WEIR
+SUMMARY:🏃 남자 포환던지기 결승
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T192800Z-swimming--800M-
+DTSTAMP:20240803T192800Z
+DTSTART:20240803T192800Z
+DTEND:20240803T194300Z
+DESCRIPTION:경영 - 여자 800m 자유형 결승\n🇫🇷 Anastasiia KIRPICHNIKOVA\n🇦🇺
+  Ariarne TITMUS\n🇳🇿 Erika FAIRWEATHER\n🇩🇪 Isabel GOSE\n🇺🇸 Katie
+  LEDECKY\n🇦🇺 Lani PALLISTER\n🇺🇸 Paige MADDEN\n🇮🇹 Simona QUADARELLA
+SUMMARY:🏊 여자 800m 자유형 결승
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T070000Z-golf--4
 DTSTAMP:20240804T070000Z
 DTSTART:20240804T070000Z
@@ -195,6 +219,27 @@ SUMMARY:🚴 여자 도로경기
 LOCATION:트로카데로
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T060000Z-triathlon--
+DTSTAMP:20240805T060000Z
+DTSTART:20240805T060000Z
+DTEND:20240805T073000Z
+DESCRIPTION:트라이애슬론 - 혼성 계주\n🇳🇱 네덜란드\n🇳🇴 노르웨이\n🇳🇿 뉴질랜드\n🇩🇪 독일\n🇲🇽
+  멕시코\n🇺🇸 미국\n🇧🇷 브라질\n🇨🇭 스위스\n🇪🇸 스페인\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇦🇹
+  오스트리아\n🇮🇹 이탈리아\n🇵🇹 포르투갈\n🇫🇷 프랑스
+SUMMARY:🏊 혼성 계주
+LOCATION:알렉상드르 3세 다리
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T150000Z-canoe-slalom--
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T150500Z
+DESCRIPTION:카누 슬라럼 - 남자 카약 크로스 결승\n🇳🇿 Finn BUTCHER\n🇬🇧 Joseph
+  CLARKE\n🇨🇿 Lukas ROHAN\n🇩🇪 Noah HEGGE
+SUMMARY:🛶 남자 카약 크로스 결승
+LOCATION:카누 경기장 - 화이트워터
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T175900Z-cycling-track---GBR-NZL
 DTSTAMP:20240805T175900Z
 DTSTART:20240805T175900Z
@@ -214,6 +259,18 @@ DESCRIPTION:요트 - 남자 딩기 메달 레이스\n🇨🇱 Clemente SEGUEL LA
   KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas SAUNDERS
 SUMMARY:⛵ 남자 딩기 메달 레이스
 LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming--
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:아티스틱 스위밍 - 듀엣 프리루틴\n🇬🇷 그리스\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇰🇷
+  대한민국\n🇲🇽 멕시코\n🇺🇸 미국\n🇪🇸 스페인\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇦🇹
+  오스트리아\n🇺🇦 우크라이나\n🇮🇱 이스라엘\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦
+  캐나다\n🇫🇷 프랑스
+SUMMARY:🏊 듀엣 프리루틴
+LOCATION:아쿠아틱 센터
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T183000Z-weightlifting--102KG

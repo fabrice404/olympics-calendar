@@ -95,6 +95,43 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T140000Z-judo-MIXED-TEAM-BRONZE-MEDAL-A-BRA-ITA
+DTSTAMP:20240803T140000Z
+DTSTART:20240803T140000Z
+DTEND:20240803T142800Z
+DESCRIPTION:Judo - Mixed Team Bronze Medal A
+SUMMARY:🥋 BRA 🇧🇷 - 🇮🇹 ITA
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T142000Z-artistic-gymnastics-WOMENS-VAULT-FINAL
+DTSTAMP:20240803T142000Z
+DTSTART:20240803T142000Z
+DTEND:20240803T150200Z
+DESCRIPTION:Artistic Gymnastics - Women's Vault Final\n🇰🇵 AN Chang
+  Ok\n🇲🇽 Alexa MORENO\n🇭🇺 Csenge Maria BACSKAY\n🇨🇦 Elsabeth
+  BLACK\n🇺🇸 Jade CAREY\n🇺🇸 Jordan CHILES\n🇫🇷 Ming VAN EIJKEN\n🇧🇷
+  Rebeca ANDRADE\n🇨🇦 Shallon OLSEN\n🇺🇸 Simone BILES\n🇧🇬 Valentina
+  GEORGIEVA\n🇰🇷 YEO Seojeong
+SUMMARY:🤸 Women's Vault Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T194500Z-athletics-MENS-DECATHLON-1500M
+DTSTAMP:20240803T194500Z
+DTSTART:20240803T194500Z
+DTEND:20240803T195000Z
+DESCRIPTION:Athletics - Men's Decathlon 1500m\n🇵🇷 Ayden
+  OWENS-DELERME\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath
+  BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷
+  Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪
+  Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 Men's Decathlon 1500m
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T200800Z-boxing-WOMENS-60KG-SEMIFINAL-IRL-BRA
 DTSTAMP:20240803T200800Z
 DTSTART:20240803T200800Z
@@ -102,6 +139,15 @@ DTEND:20240803T201900Z
 DESCRIPTION:Boxing - Women's 60kg - Semifinal
 SUMMARY:🥊 Kellie HARRINGTON 🇮🇪 - 🇧🇷 Beatriz Iasmin SOARES FERREIRA
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T113000Z-table-tennis-MENS-SINGLES-BRONZE-MEDAL-MATCH-BRA-FRA
+DTSTAMP:20240804T113000Z
+DTSTART:20240804T113000Z
+DTEND:20240804T123000Z
+DESCRIPTION:Table Tennis - Men's Singles Bronze Medal Match
+SUMMARY:🏓 Hugo CALDERANO 🇧🇷 - 🇫🇷 Felix LEBRUN
+LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
@@ -143,6 +189,31 @@ SUMMARY:🚴 Women's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T134000Z-artistic-gymnastics-WOMENS-UNEVEN-BARS-FINAL
+DTSTAMP:20240804T134000Z
+DTSTART:20240804T134000Z
+DTEND:20240804T142100Z
+DESCRIPTION:Artistic Gymnastics - Women's Uneven Bars Final\n🇮🇹 Alice
+  D'AMATO\n🇩🇪 Helen KEVRIC\n🇩🇿 Kaylia NEMOUR\n🇧🇪 Nina DERWAEL\n🇨🇳
+  QIU Qiyuan\n🇧🇷 Rebeca ANDRADE\n🇬🇧 Rebecca DOWNIE\n🇳🇱 Sanna
+  VEERMAN\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHANG Yihan
+SUMMARY:🤸 Women's Uneven Bars Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T175500Z-athletics-WOMENS-HIGH-JUMP-FINAL
+DTSTAMP:20240804T175500Z
+DTSTART:20240804T175500Z
+DTEND:20240804T194000Z
+DESCRIPTION:Athletics - Women's High Jump Final\n🇷🇸 Angelina TOPIC\n🇹🇷
+  Buse SAVASKAN\n🇩🇪 Christina HONSEL\n🇦🇺 Eleanor PATTERSON\n🇨🇾 Elena
+  KULICHENKO\n🇺🇦 Iryna GERASHCHENKO\n🇫🇷 Nawal MENIKER\n🇦🇺 Nicola
+  OLYSLAGERS\n🇺🇿 Safina SADULLAYEVA\n🇬🇷 Tatiana GUSIN\n🇧🇷 Valdileia
+  MARTINS\n🇺🇸 Vashti CUNNINGHAM\n🇺🇦 Yaroslava MAHUCHIKH
+SUMMARY:🏃 Women's High Jump Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T060000Z-triathlon-MIXED-RELAY
 DTSTAMP:20240805T060000Z
 DTSTART:20240805T060000Z
@@ -152,6 +223,69 @@ DESCRIPTION:Triathlon - Mixed Relay\n🇦🇺 AUS\n🇦🇹 AUT\n🇧🇷 BRA\n�
   NOR\n🇵🇹 POR\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇸 USA
 SUMMARY:🏊 Mixed Relay
 LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T103800Z-artistic-gymnastics-WOMENS-BALANCE-BEAM-FINAL
+DTSTAMP:20240805T103800Z
+DTSTART:20240805T103800Z
+DTEND:20240805T111900Z
+DESCRIPTION:Artistic Gymnastics - Women's Balance Beam Final\n🇮🇹 Alice
+  D'AMATO\n🇧🇷 Julia SOARES\n🇨🇳 LUO Huan\n🇮🇹 Manila ESPOSITO\n🇫🇷
+  Marine BOYER\n🇧🇷 Rebeca ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇳🇱 Sanne
+  WEVERS\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHOU Yaqin
+SUMMARY:🤸 Women's Balance Beam Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T122300Z-artistic-gymnastics-WOMENS-FLOOR-EXERCISE-FINAL
+DTSTAMP:20240805T122300Z
+DTSTART:20240805T122300Z
+DTEND:20240805T130300Z
+DESCRIPTION:Artistic Gymnastics - Women's Floor Exercise Final\n🇮🇹 Alice
+  D'AMATO\n🇷🇴 Ana BARBOSU\n🇮🇹 Angela ANDREOLI\n🇨🇦 Elsabeth
+  BLACK\n🇧🇷 Jade BARBOSA\n🇺🇸 Jordan CHILES\n🇧🇷 Julia SOARES\n🇯🇵
+  KISHI Rina\n🇮🇹 Manila ESPOSITO\n🇨🇳 OU Yushan\n🇧🇷 Rebeca
+  ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇺🇸 Simone BILES\n🇨🇳 ZHANG
+  Yihan\n🇨🇳 ZHOU Yaqin
+SUMMARY:🤸 Women's Floor Exercise Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T225400Z-surfing-MENS-BRONZE-MEDAL-MATCH-BRA-PER
+DTSTAMP:20240805T225400Z
+DTSTART:20240805T225400Z
+DTEND:20240805T232900Z
+DESCRIPTION:Surfing - Men's Bronze Medal Match
+SUMMARY:🏄 Gabriel MEDINA 🇧🇷 - 🇵🇪 Alonso CORREA
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T005700Z-surfing-WOMENS-GOLD-MEDAL-MATCH-USA-BRA
+DTSTAMP:20240806T005700Z
+DTSTART:20240806T005700Z
+DTEND:20240806T013200Z
+DESCRIPTION:Surfing - Women's Gold Medal Match
+SUMMARY:🏄 Caroline MARKS 🇺🇸 - 🇧🇷 Tatiana WESTON-WEBB
+LOCATION:Teahupo'o, Tahiti
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T080000Z-equestrian-JUMPING-INDIVIDUAL-FINAL
+DTSTAMP:20240806T080000Z
+DTSTART:20240806T080000Z
+DTEND:20240806T092100Z
+DESCRIPTION:Equestrian - Jumping Individual Final\n🇸🇦 Abdulrahman
+  ALRAJHI\n🇲🇽 Andres AZCARRAGA\n🇬🇧 Ben MAHER\n🇩🇪 Christian
+  KUKUK\n🇮🇪 Daniel COYLE\n🇮🇹 Emanuele CAMILLI\n🇧🇪 Gilles THOMAS\n🇧🇪
+  Gregory WATHELET\n🇯🇵 HAASE SHIBAYAMA Takashi\n🇳🇱 Harrie
+  SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik von ECKERMANN\n🇦🇷 Jose Maria
+  (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸 Karl COOK\n🇳🇱 Kim EMMEN\n🇺🇸
+  Laura KRAUT\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Martin FUCHS\n🇦🇹 Max
+  KUEHNER\n🇦🇪 Omar Abdul Aziz AL MARZOOQI\n🇩🇪 Philipp WEISHAUPT\n🇸🇦
+  Ramzy AL DUHAMI\n🇧🇷 Rodrigo PESSOA\n🇬🇧 Scott BRASH\n🇮🇪 Shane
+  SWEETNAM\n🇫🇷 Simon DELESTRE\n🇧🇷 Stephan de FREITAS BARCHA\n🇨🇭 Steve
+  GUERDAT\n🇳🇴 Victoria GULLIKSEN
+SUMMARY:🏇 Jumping Individual Final
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T173000Z-weightlifting-WOMENS-71KG

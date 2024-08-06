@@ -146,6 +146,27 @@ SUMMARY:🤺 フランス 🇫🇷 - 🇯🇵 日本
 LOCATION:グラン・パレ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T183000Z-swimming-100M
+DTSTAMP:20240803T183000Z
+DTSTART:20240803T183000Z
+DTEND:20240803T183700Z
+DESCRIPTION:競泳 - 男子100mバタフライ決勝\n🇨🇦 Ilya KHARUN\n🇨🇦 Josh LIENDO\n🇭🇺
+  Kristof MILAK\n🇯🇵 MIZUNUMA Naoki\n🇦🇺 Matthew TEMPLE\n🇫🇷 Maxime
+  GROUSSET\n🇨🇭 Noe PONTI\n🇳🇱 Nyls KORSTANJE
+SUMMARY:🏊 男子100mバタフライ決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T195800Z-swimming-4100M
+DTSTAMP:20240803T195800Z
+DTSTART:20240803T195800Z
+DTEND:20240803T200800Z
+DESCRIPTION:競泳 - 混合4×100mメドレーリレー決勝\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇨🇦 カナダ\n🇫🇷 フランス\n🇨🇳 中国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 混合4×100mメドレーリレー決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T070000Z-golf-4
 DTSTAMP:20240804T070000Z
 DTSTART:20240804T070000Z
@@ -222,6 +243,16 @@ DESCRIPTION:体操競技 - 男子種目別つり輪決勝\n🇹🇷 Adem ASIL\n�
   Wataru\n🇦🇲 Vahagn DAVTYAN\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU Jingyuan
 SUMMARY:🤸 男子種目別つり輪決勝
 LOCATION:ベルシー・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T173200Z-swimming-4100M
+DTSTAMP:20240804T173200Z
+DTSTART:20240804T173200Z
+DTEND:20240804T174200Z
+DESCRIPTION:競泳 - 女子4×100mメドレーリレー決勝\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇨🇦 カナダ\n🇸🇪 スウェーデン\n🇫🇷 フランス\n🇨🇳 中国\n🇯🇵 日本
+SUMMARY:🏊 女子4×100mメドレーリレー決勝
+LOCATION:パリ・ラ・デファンス・アレナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T183000Z-fencing--ITA-JPN
@@ -309,5 +340,81 @@ DTEND:20240806T171800Z
 DESCRIPTION:レスリング - 男子グレコローマンスタイル60kg級決勝
 SUMMARY:🤼 FUMITA Kenichiro 🇯🇵 - 🇨🇳 CAO Liguo
 LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming-
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:アーティスティックスイミング - チームアクロバティックルーティン\n🇺🇸 アメリカ合衆国\n🇮🇹
+  イタリア\n🇪🇬 エジプト\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽
+  メキシコ\n🇨🇳 中国\n🇯🇵 日本
+SUMMARY:🏊 チームアクロバティックルーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-weightlifting-49KG
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T200000Z
+DESCRIPTION:ウエイトリフティング - 女子49kg級\n🇩🇴 Beatriz PIRON CANDELARIO\n🇹🇼 FANG
+  Wan-Ling\n🇨🇳 HOU Zhihui\n🇺🇸 Jourdan DELACRUZ\n🇻🇪 Katherin ECHANDIA
+  ZARATE\n🇷🇴 Mihaela Valentina CAMBEI\n🇮🇳 Mirabai Chanu SAIKHOM\n🇬🇺
+  Nicola Velasco LAGATAO\n🇧🇪 Nina STERCKX\n🇲🇬 Rosina
+  RANDAFIARISON\n🇯🇵 SUZUKI Rira\n🇹🇭 Surodchana KHAMBAO
+SUMMARY:🏋 女子49kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T194300Z-athletics-3000M
+DTSTAMP:20240807T194300Z
+DTSTART:20240807T194300Z
+DTEND:20240807T195200Z
+DESCRIPTION:陸上競技 - 男子3000m障害決勝\n🇰🇪 Abraham KIBIWOT\n🇹🇳 Ahmed
+  JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund SABLE\n🇪🇸 Daniel
+  ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon DESGAGNES\n🇺🇸 Kenneth
+  ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳
+  Mohamed Amin JHINAOUI\n🇲🇦 Mohamed TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪
+  Simon Kiprop KOECH\n🇲🇦 Soufiane EL BAKKALI
+SUMMARY:🏃 男子3000m障害決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-73KG
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:ウエイトリフティング - 男子73kg級\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin KINGUE
+  MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA PERNIA\n🇹🇳
+  Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO Masanori\n🇹🇷 Muhammed
+  OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki JUNIANSYAH\n🇨🇳 SHI
+  Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 男子73kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming-
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:アーティスティックスイミング - デュエットフリールーティン\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットフリールーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T183000Z-weightlifting-102KG
+DTSTAMP:20240810T183000Z
+DTSTART:20240810T183000Z
+DTEND:20240810T210000Z
+DESCRIPTION:ウエイトリフティング - 男子102kg超級\n🇪🇬 Abdelrahman ABDELAZIZ
+  ELSAYED\n🇮🇶 Ali Ammar Yusur RUBAIAWI\n🇮🇷 Ali DAVOUDI\n🇳🇿 David
+  LITI\n🇧🇭 Gor MINASYAN\n🇨🇿 Kamil KUCERA\n🇬🇪 Lasha TALAKHADZE\n🇯🇵
+  MURAKAMI Eishiro\n🇸🇾 Man ASAAD\n🇪🇪 Mart SEIM\n🇦🇲 Varazdat
+  LALAYAN\n🇩🇿 Walid BIDANI
+SUMMARY:🏋 男子102kg超級
+LOCATION:サウス・パリ・アリーナ6
 END:VEVENT
 END:VCALENDAR

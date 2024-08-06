@@ -70,6 +70,42 @@ SUMMARY:⛳ 男子第3ラウンド
 LOCATION:国立ゴルフ場
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T080500Z-athletics-110M
+DTSTAMP:20240803T080500Z
+DTSTART:20240803T080500Z
+DTEND:20240803T082200Z
+DESCRIPTION:陸上競技 - 男子十種競技110mハードル\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian
+  WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath
+  BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷
+  Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪
+  Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 男子十種競技110mハードル
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-basketball--A-CHN-PUR
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T104500Z
+DESCRIPTION:バスケットボール - 女子予選ラウンド - グループA
+SUMMARY:🏀 中国 🇨🇳 - 🇵🇷 プエルトリコ
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T100500Z-athletics--B
+DTSTAMP:20240803T100500Z
+DTSTART:20240803T100500Z
+DTEND:20240803T104100Z
+DESCRIPTION:陸上競技 - 男子十種競技円盤投 - グループB\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian
+  WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇩🇪 Leo NEUGEBAUER\n🇬🇩 Lindon
+  VICTOR\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas KAUL\n🇳🇴 Sander SKOTHEIM\n🇳🇱
+  Sven ROOSEN\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 男子十種競技円盤投 - グループB
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T102000Z-sailing--5
 DTSTAMP:20240803T102000Z
 DTSTART:20240803T102000Z
@@ -114,6 +150,74 @@ DESCRIPTION:セーリング - 男子ディンギー - レース6\n🇪🇬 Aly B
   SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
 SUMMARY:⛵ 男子ディンギー - レース6
 LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T114000Z-athletics-
+DTSTAMP:20240803T114000Z
+DTSTART:20240803T114000Z
+DTEND:20240803T135600Z
+DESCRIPTION:陸上競技 - 男子十種競技棒高跳\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian
+  WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath
+  BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷
+  Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪
+  Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 男子十種競技棒高跳
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T151500Z-basketball--C-PUR-USA
+DTSTAMP:20240803T151500Z
+DTSTART:20240803T151500Z
+DTEND:20240803T170000Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループC
+SUMMARY:🏀 プエルトリコ 🇵🇷 - 🇺🇸 アメリカ合衆国
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T171000Z-athletics--A
+DTSTAMP:20240803T171000Z
+DTSTART:20240803T171000Z
+DTEND:20240803T174600Z
+DESCRIPTION:陸上競技 - 男子十種競技やり投 - グループA\n🇵🇷 Ayden OWENS-DELERME\n🇨🇦 Damian
+  WARNER\n🇦🇺 Daniel GOLUBOVIC\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷
+  Jose Fernando FERREIRA SANTANA\n🇧🇸 Ken MULLINGS\n🇫🇷 Makenson
+  GLETTY\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till STEINFORTH
+SUMMARY:🏃 男子十種競技やり投 - グループA
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T175000Z-athletics-100M
+DTSTAMP:20240803T175000Z
+DTSTART:20240803T175000Z
+DTEND:20240803T180700Z
+DESCRIPTION:陸上競技 - 女子100m準決勝\n🇨🇦 Audrey LEDUC\n🇭🇺 Boglarka TAKACS\n🇦🇺
+  Bree MASTERS\n🇬🇧 Daryll NEITA\n🇧🇪 Delphine NKANSA\n🇬🇧 Dina
+  ASHER-SMITH\n🇵🇱 Ewa SWOBODA\n🇩🇪 Gina LUECKENKEMPER\n🇬🇲 Gina Mariam
+  BASS BITTAYE\n🇵🇷 Gladymar TORRES\n🇬🇧 Imani LANSIQUOT\n🇱🇨 Julien
+  ALFRED\n🇨🇿 Karolina MANASOVA\n🇹🇹 Leah BERTRAND\n🇨🇮 Marie-Josee TA
+  LOU-SMITH\n🇺🇸 Melissa JEFFERSON\n🇨🇭 Mujinga KAMBUNDJI\n🇱🇺 Patrizia
+  van der WEKEN\n🇧🇪 Rani ROSIUS\n🇳🇬 Rosemary CHUKWUMA\n🇺🇸 Sha'carri
+  RICHARDSON\n🇯🇲 Shashalee FORBES\n🇯🇲 Shelly-Ann FRASER-PRYCE\n🇯🇲 Tia
+  CLAYTON\n🇺🇸 Twanisha TERRY\n🇮🇹 Zaynab DOSSO\n🇳🇿 Zoe HOBBS
+SUMMARY:🏃 女子100m準決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T194500Z-athletics-1500M
+DTSTAMP:20240803T194500Z
+DTSTART:20240803T194500Z
+DTEND:20240803T195000Z
+DESCRIPTION:陸上競技 - 男子十種競技1500m\n🇵🇷 Ayden OWENS-DELERME\n🇦🇺 Daniel
+  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
+  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
+  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
+  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
+  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
+  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+SUMMARY:🏃 男子十種競技1500m
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T070000Z-golf-4
@@ -166,6 +270,28 @@ SUMMARY:⛵ 男子ディンギー - レース7
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T103500Z-athletics-400M
+DTSTAMP:20240804T103500Z
+DTSTART:20240804T103500Z
+DTEND:20240804T110800Z
+DESCRIPTION:陸上競技 - 女子400mハードル予選\n🇦🇺 Alanah YUKICH\n🇮🇹 Alice
+  MURARO\n🇳🇴 Amalie IUEL\n🇺🇸 Anna COCKRELL\n🇺🇦 Anna RYZHYKOVA\n🇮🇹
+  Ayomide FOLORUNSO\n🇩🇪 Carolina KRAFZIK\n🇳🇱 Cathelijn PEETERS\n🇧🇷
+  Chayenne da SILVA\n🇵🇹 Fatoumata Binta DIALLO\n🇳🇱 Femke BOL\n🇵🇦
+  Gianna WOODRUFF\n🇵🇷 Grace CLAXTON\n🇧🇪 Hanne CLAES\n🇯🇲 Janieve
+  RUSSELL\n🇺🇸 Jasmine JONES\n🇬🇧 Jessie KNIGHT\n🇧🇭 Kemi ADEKOYA\n🇵🇭
+  Lauren HOFFMAN\n🇬🇧 Lina NIELSEN\n🇨🇲 Linda ANGOUNOU\n🇳🇴 Line
+  KLOSTER\n🇫🇷 Louise MARAVAL\n🇨🇳 MO Jiadie\n🇧🇪 Naomi van den
+  BROECK\n🇨🇿 Nikoleta JICHOVA\n🇲🇦 Noura ENNADI\n🇧🇪 Paulien
+  COUCKUYT\n🇮🇹 Rebecca SARTORI\n🇿🇦 Rogail JOSEPH\n🇯🇲 Rushell
+  CLAYTON\n🇦🇺 Sarah CARLI\n🇨🇦 Savannah SUTHERLAND\n🇫🇷 Shana
+  GREBO\n🇯🇲 Shiann SALMON\n🇺🇸 Sydney McLAUGHLIN-LEVRONE\n🇫🇮 Viivi
+  LEHIKOINEN\n🇺🇦 Viktoriya TKACHUK\n🇨🇭 Yasmin GIGER\n🇿🇦 Zeney
+  GELDENHUYS
+SUMMARY:🏃 女子400mハードル予選
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T111300Z-sailing--8
 DTSTAMP:20240804T111300Z
 DTSTART:20240804T111300Z
@@ -189,6 +315,15 @@ SUMMARY:⛵ 男子ディンギー - レース8
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T134600Z-boxing-57KG--PUR-POL
+DTSTAMP:20240804T134600Z
+DTSTART:20240804T134600Z
+DTEND:20240804T135700Z
+DESCRIPTION:ボクシング - 女子57kg級 - 準々決勝
+SUMMARY:🥊 Ashleyann LOZADA MOTTA 🇵🇷 - 🇵🇱 Julia SZEREMETA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T080000Z-diving-10M
 DTSTAMP:20240805T080000Z
 DTSTART:20240805T080000Z
@@ -205,6 +340,46 @@ DESCRIPTION:飛込 - 女子10m高飛込予選\n🇯🇵 ARAI Matsuri\n🇲🇽 A
   Sofiia LYSKUN\n🇩🇴 Victoria GARZA
 SUMMARY:🏊 女子10m高飛込予選
 LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T085000Z-athletics-400M
+DTSTAMP:20240805T085000Z
+DTSTART:20240805T085000Z
+DTEND:20240805T090700Z
+DESCRIPTION:陸上競技 - 女子400mハードル敗者復活戦\n🇦🇺 Alanah YUKICH\n🇮🇹 Alice
+  MURARO\n🇺🇦 Anna RYZHYKOVA\n🇮🇹 Ayomide FOLORUNSO\n🇩🇪 Carolina
+  KRAFZIK\n🇧🇷 Chayenne da SILVA\n🇵🇦 Gianna WOODRUFF\n🇵🇷 Grace
+  CLAXTON\n🇬🇧 Jessie KNIGHT\n🇵🇭 Lauren HOFFMAN\n🇨🇲 Linda
+  ANGOUNOU\n🇳🇴 Line KLOSTER\n🇨🇳 MO Jiadie\n🇧🇪 Naomi van den
+  BROECK\n🇨🇿 Nikoleta JICHOVA\n🇮🇹 Rebecca SARTORI\n🇦🇺 Sarah
+  CARLI\n🇫🇷 Shana GREBO\n🇫🇮 Viivi LEHIKOINEN\n🇺🇦 Viktoriya
+  TKACHUK\n🇨🇭 Yasmin GIGER
+SUMMARY:🏃 女子400mハードル敗者復活戦
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T095500Z-athletics-400M
+DTSTAMP:20240805T095500Z
+DTSTART:20240805T095500Z
+DTEND:20240805T103600Z
+DESCRIPTION:陸上競技 - 女子400m予選\n🇺🇸 Aaliyah BUTLER\n🇺🇸 Alexis HOLMES\n🇮🇹
+  Alice MANGIONE\n🇬🇾 Aliyah ABRAMS\n🇬🇧 Amber ANNING\n🇷🇴 Andrea
+  MIKLOS\n🇵🇹 Catia AZEVEDO\n🇧🇪 Cynthia BOLINGO\n🇳🇬 Ella
+  ONOJUVWEVWO\n🇦🇺 Ellie BEER\n🇳🇬 Esther Elo JOSEPH\n🇨🇴 Evelis
+  AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻 Gunta VAICULE\n🇧🇪 Helena PONETTE\n🇳🇴
+  Henriette JAEGER\n🇯🇲 Junelle BROMFIELD\n🇵🇱 Justyna
+  SWIETY-ERSETIC\n🇺🇸 Kendall ELLIS\n🇨🇿 Lada VONDROVA\n🇨🇦 Lauren
+  GALE\n🇬🇧 Laviai NIELSEN\n🇳🇱 Lieke KLAVER\n🇨🇴 Lina Esther LICONA
+  TORRES\n🇨🇿 Lurdes Gloria MANUEL\n🇩🇴 Marileidy PAULINO\n🇨🇱 Martina
+  WEIL\n🇿🇦 Miranda Charlene COETZEE\n🇱🇹 Modesta Juste MORAUSKAITE\n🇵🇱
+  Natalia KACZMAREK\n🇯🇲 Nickisha PRYCE\n🇪🇨 Nicole CAICEDO\n🇮🇳 Pahal
+  KIRAN\n🇲🇽 Paola MORAN\n🇮🇪 Rhasidat ADELEKE\n🇨🇺 Roxana GOMEZ\n🇧🇧
+  Sada WILLIAMS\n🇧🇭 Salwa Eid NASER\n🇮🇪 Sharlene MAWDSLEY\n🇧🇸 Shaunae
+  MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇯🇲 Stacey Ann WILLIAMS\n🇦🇹 Susanne
+  GOGL-WALLI\n🇨🇿 Tereza PETRZILKOVA\n🇧🇷 Tiffani MARINHO\n🇬🇧 Victoria
+  OHURUOGU\n🇨🇦 Zoe SHERAR
+SUMMARY:🏃 女子400m予選
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T124500Z-sailing--9
@@ -251,6 +426,24 @@ DESCRIPTION:セーリング - 男子ディンギー - レース10\n🇪🇬 Aly 
   SMET\n🇹🇷 Yigit Yalcin CITAK\n🇸🇮 Zan Luka ZELKO
 SUMMARY:⛵ 男子ディンギー - レース10
 LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T092000Z-athletics-400M
+DTSTAMP:20240806T092000Z
+DTSTART:20240806T092000Z
+DTEND:20240806T094500Z
+DESCRIPTION:陸上競技 - 女子400m敗者復活戦\n🇮🇹 Alice MANGIONE\n🇬🇾 Aliyah
+  ABRAMS\n🇵🇹 Catia AZEVEDO\n🇧🇪 Cynthia BOLINGO\n🇳🇬 Ella
+  ONOJUVWEVWO\n🇦🇺 Ellie BEER\n🇨🇴 Evelis AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻
+  Gunta VAICULE\n🇧🇪 Helena PONETTE\n🇵🇱 Justyna SWIETY-ERSETIC\n🇺🇸
+  Kendall ELLIS\n🇨🇿 Lada VONDROVA\n🇨🇦 Lauren GALE\n🇨🇴 Lina Esther
+  LICONA TORRES\n🇨🇿 Lurdes Gloria MANUEL\n🇨🇱 Martina WEIL\n🇿🇦 Miranda
+  Charlene COETZEE\n🇱🇹 Modesta Juste MORAUSKAITE\n🇮🇳 Pahal KIRAN\n🇮🇪
+  Sharlene MAWDSLEY\n🇧🇸 Shaunae MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇨🇿
+  Tereza PETRZILKOVA\n🇧🇷 Tiffani MARINHO\n🇬🇧 Victoria OHURUOGU\n🇨🇦
+  Zoe SHERAR
+SUMMARY:🏃 女子400m敗者復活戦
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T103000Z-skateboarding-

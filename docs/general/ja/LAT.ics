@@ -71,6 +71,24 @@ SUMMARY:🚴 女子敗者復活戦
 LOCATION:BMXスタジアム
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T081000Z-athletics-
+DTSTAMP:20240803T081000Z
+DTSTART:20240803T081000Z
+DTEND:20240803T103000Z
+DESCRIPTION:陸上競技 - 男子棒高跳予選\n🇫🇷 Anthony AMMIRATI\n🇸🇪 Armand
+  DUPLANTIS\n🇧🇪 Ben BROEDERS\n🇩🇪 Bo Kanda LITA BAEHRE\n🇺🇸 Christopher
+  NILSEN\n🇮🇹 Claudio Michel STECCHI\n🇨🇿 David HOLY\n🇬🇷 Emmanouil
+  KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu SASMA\n🇨🇳 HUANG Bokai\n🇸🇦
+  Hussain Asim AL HIZAM\n🇺🇸 Jacob WOOTEN\n🇦🇺 Kurtis MARSCHALL\n🇨🇿
+  Matej SCERBA\n🇳🇱 Menno VLOON\n🇩🇪 Oleg ZERNIKEL\n🇳🇴 Pal Haugen
+  LILLEFOSSE\n🇵🇹 Pedro BUARO\n🇵🇱 Piotr LISEK\n🇵🇱 Robert SOBERA\n🇫🇷
+  Robin EMIG\n🇺🇸 Sam KENDRICKS\n🇳🇴 Simen GUTTORMSEN\n🇳🇴 Sondre
+  GUTTORMSEN\n🇫🇷 Thibaut COLLET\n🇩🇪 Torben BLECH\n🇫🇮 Urho
+  KUJANPAA\n🇱🇻 Valters KREISS\n🇨🇳 YAO Jie\n🇨🇳 ZHONG Tao
+SUMMARY:🏃 男子棒高跳予選
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -192,6 +210,30 @@ SUMMARY:🏊 女子10m高飛込予選
 LOCATION:アクアティックス・センター
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T095500Z-athletics-400M
+DTSTAMP:20240805T095500Z
+DTSTART:20240805T095500Z
+DTEND:20240805T103600Z
+DESCRIPTION:陸上競技 - 女子400m予選\n🇺🇸 Aaliyah BUTLER\n🇺🇸 Alexis HOLMES\n🇮🇹
+  Alice MANGIONE\n🇬🇾 Aliyah ABRAMS\n🇬🇧 Amber ANNING\n🇷🇴 Andrea
+  MIKLOS\n🇵🇹 Catia AZEVEDO\n🇧🇪 Cynthia BOLINGO\n🇳🇬 Ella
+  ONOJUVWEVWO\n🇦🇺 Ellie BEER\n🇳🇬 Esther Elo JOSEPH\n🇨🇴 Evelis
+  AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻 Gunta VAICULE\n🇧🇪 Helena PONETTE\n🇳🇴
+  Henriette JAEGER\n🇯🇲 Junelle BROMFIELD\n🇵🇱 Justyna
+  SWIETY-ERSETIC\n🇺🇸 Kendall ELLIS\n🇨🇿 Lada VONDROVA\n🇨🇦 Lauren
+  GALE\n🇬🇧 Laviai NIELSEN\n🇳🇱 Lieke KLAVER\n🇨🇴 Lina Esther LICONA
+  TORRES\n🇨🇿 Lurdes Gloria MANUEL\n🇩🇴 Marileidy PAULINO\n🇨🇱 Martina
+  WEIL\n🇿🇦 Miranda Charlene COETZEE\n🇱🇹 Modesta Juste MORAUSKAITE\n🇵🇱
+  Natalia KACZMAREK\n🇯🇲 Nickisha PRYCE\n🇪🇨 Nicole CAICEDO\n🇮🇳 Pahal
+  KIRAN\n🇲🇽 Paola MORAN\n🇮🇪 Rhasidat ADELEKE\n🇨🇺 Roxana GOMEZ\n🇧🇧
+  Sada WILLIAMS\n🇧🇭 Salwa Eid NASER\n🇮🇪 Sharlene MAWDSLEY\n🇧🇸 Shaunae
+  MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇯🇲 Stacey Ann WILLIAMS\n🇦🇹 Susanne
+  GOGL-WALLI\n🇨🇿 Tereza PETRZILKOVA\n🇧🇷 Tiffani MARINHO\n🇬🇧 Victoria
+  OHURUOGU\n🇨🇦 Zoe SHERAR
+SUMMARY:🏃 女子400m予選
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T120000Z-equestrian-
 DTSTAMP:20240805T120000Z
 DTSTART:20240805T120000Z
@@ -234,6 +276,19 @@ SUMMARY:🏀 ラトビア 🇱🇻 - 🇫🇷 フランス
 LOCATION:コンコルド広場1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T170000Z-athletics-
+DTSTAMP:20240805T170000Z
+DTSTART:20240805T170000Z
+DTEND:20240805T192700Z
+DESCRIPTION:陸上競技 - 男子棒高跳決勝\n🇸🇪 Armand DUPLANTIS\n🇩🇪 Bo Kanda LITA
+  BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu
+  SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱 Menno VLOON\n🇩🇪
+  Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre GUTTORMSEN\n🇱🇻 Valters
+  KREISS
+SUMMARY:🏃 男子棒高跳決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T193000Z-3x3-basketball-3-LAT-LTU
 DTSTAMP:20240805T193000Z
 DTSTART:20240805T193000Z
@@ -243,6 +298,52 @@ SUMMARY:🏀 ラトビア 🇱🇻 - 🇱🇹 リトアニア
 LOCATION:コンコルド広場1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T082000Z-athletics--A
+DTSTAMP:20240806T082000Z
+DTSTART:20240806T082000Z
+DTEND:20240806T091600Z
+DESCRIPTION:陸上競技 - 男子やり投予選 - グループA\n🇷🇴 Alexandru Mihaita NOVAC\n🇺🇸
+  Curtis THOMPSON\n🇯🇵 DEAN Roderick Genki\n🇵🇱 Dawid WEGNER\n🇪🇬 Ihab
+  ABDELRAHMAN\n🇨🇿 Jakub VADLEJCH\n🇩🇪 Julian WEBER\n🇰🇪 Julius
+  YEGO\n🇹🇹 Keshorn WALCOTT\n🇮🇳 Kishore JENA\n🇵🇹 Leandro RAMOS\n🇫🇮
+  Oliver HELANDER\n🇱🇻 Patriks GAILUMS\n🇧🇷 Pedro Henrique
+  RODRIGUES\n🇫🇷 Teura'itera'i TUPAIA\n🇫🇮 Toni KERANEN
+SUMMARY:🏃 男子やり投予選 - グループA
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T092000Z-athletics-400M
+DTSTAMP:20240806T092000Z
+DTSTART:20240806T092000Z
+DTEND:20240806T094500Z
+DESCRIPTION:陸上競技 - 女子400m敗者復活戦\n🇮🇹 Alice MANGIONE\n🇬🇾 Aliyah
+  ABRAMS\n🇵🇹 Catia AZEVEDO\n🇧🇪 Cynthia BOLINGO\n🇳🇬 Ella
+  ONOJUVWEVWO\n🇦🇺 Ellie BEER\n🇨🇴 Evelis AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻
+  Gunta VAICULE\n🇧🇪 Helena PONETTE\n🇵🇱 Justyna SWIETY-ERSETIC\n🇺🇸
+  Kendall ELLIS\n🇨🇿 Lada VONDROVA\n🇨🇦 Lauren GALE\n🇨🇴 Lina Esther
+  LICONA TORRES\n🇨🇿 Lurdes Gloria MANUEL\n🇨🇱 Martina WEIL\n🇿🇦 Miranda
+  Charlene COETZEE\n🇱🇹 Modesta Juste MORAUSKAITE\n🇮🇳 Pahal KIRAN\n🇮🇪
+  Sharlene MAWDSLEY\n🇧🇸 Shaunae MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇨🇿
+  Tereza PETRZILKOVA\n🇧🇷 Tiffani MARINHO\n🇬🇧 Victoria OHURUOGU\n🇨🇦
+  Zoe SHERAR
+SUMMARY:🏃 女子400m敗者復活戦
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T095000Z-athletics--B
+DTSTAMP:20240806T095000Z
+DTSTART:20240806T095000Z
+DTEND:20240806T104600Z
+DESCRIPTION:陸上競技 - 男子やり投予選 - グループB\n🇬🇩 Anderson PETERS\n🇲🇩 Andrian
+  MARDARE\n🇵🇰 Arshad NADEEM\n🇺🇦 Artur FELFNER\n🇦🇺 Cameron
+  McENTYRE\n🇳🇬 Chinecherem NNAMDI\n🇵🇱 Cyprian MRZYGLOD\n🇱🇹 Edis
+  MATUSEVICIUS\n🇱🇻 Gatis CAKSS\n🇫🇮 Lassi ETELATALO\n🇧🇷 Luiz Mauricio
+  da SILVA\n🇵🇱 Marcin KRUKOWSKI\n🇩🇪 Max DEHNING\n🇪🇬 Moustafa
+  MAHMOUD\n🇮🇳 Neeraj CHOPRA\n🇧🇪 Timothy HERMAN
+SUMMARY:🏃 男子やり投予選 - グループB
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T160000Z-beach-volleyball--BRA-LAT
 DTSTAMP:20240807T160000Z
 DTSTART:20240807T160000Z
@@ -250,6 +351,19 @@ DTEND:20240807T165000Z
 DESCRIPTION:ビーチバレーボール - 女子準々決勝
 SUMMARY:🏐 ANA PATRICIA/DUDA 🇧🇷 - 🇱🇻 TINA/ANASTASIJA
 LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173000Z-weightlifting-73KG
+DTSTAMP:20240808T173000Z
+DTSTART:20240808T173000Z
+DTEND:20240808T200000Z
+DESCRIPTION:ウエイトリフティング - 男子73kg級\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin KINGUE
+  MATAM\n🇧🇬 Bozhidar Dimitrov ANDREEV\n🇻🇪 Julio MAYORA PERNIA\n🇹🇳
+  Karem BEN HNIA\n🇨🇴 Luis MOSQUERA\n🇯🇵 MIYAMOTO Masanori\n🇹🇷 Muhammed
+  OZBEK\n🇱🇻 Ritvars SUHAREVS\n🇮🇩 Rizki JUNIANSYAH\n🇨🇳 SHI
+  Zhiyong\n🇹🇭 Weeraphon WICHUMA
+SUMMARY:🏋 男子73kg級
+LOCATION:サウス・パリ・アリーナ6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

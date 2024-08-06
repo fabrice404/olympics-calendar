@@ -4,6 +4,15 @@ PRODID:-//fabrice404//olympics-calendar//general/DEN//EN
 X-WR-CALNAME:🇩🇰 Denmark | Paris 2024
 NAME:🇩🇰 Denmark | Paris 2024
 BEGIN:VEVENT
+UID:20240725T070000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-SLO-DEN
+DTSTAMP:20240725T070000Z
+DTSTART:20240725T070000Z
+DTEND:20240725T083000Z
+DESCRIPTION:Handball - Women's Preliminary Round Group A
+SUMMARY:🤾 SLO 🇸🇮 - 🇩🇰 DEN
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240725T073000Z-archery-WOMENS-INDIVIDUAL-RANKING-ROUND
 DTSTAMP:20240725T073000Z
 DTSTART:20240725T073000Z
@@ -97,6 +106,64 @@ SUMMARY:🚴 Women, Last Chance Race
 LOCATION:BMX Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-MENS-QUALIFICATION-DAY-2
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T120000Z
+DESCRIPTION:Shooting - Skeet Men's Qualification - Day 2\n🇮🇳 Anant Jeet
+  Singh NARUKA\n🇪🇬 Azmy MEHELBA\n🇬🇷 Charalambos CHALKIADAKIS\n🇺🇸
+  Conner Lynn PRINCE\n🇰🇿 Eduard YECHSHENKO\n🇫🇮 Eetu KALLIOINEN\n🇬🇷
+  Efthimios MITAS\n🇫🇷 Eric DELAUNAY\n🇳🇴 Erik WATNDAL\n🇦🇷 Federico
+  GIL\n🇮🇹 Gabriele ROSSETTI\n🇮🇸 Hakon SVAVARSSON\n🇨🇿 Jakub
+  TOMECEK\n🇩🇰 Jesper HANSEN\n🇵🇸 Jorge Antonio SALHE\n🇦🇺 Joshua
+  BELL\n🇰🇷 KIM Minsu\n🇹🇼 LEE Meng Yuan\n🇨🇳 LYU Jianlin\n🇸🇪 Marcus
+  SVENSSON\n🇰🇼 Mohammad ALDAIHANI\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇪🇬
+  Omar IBRAHIM\n🇪🇪 Peeter JUERISSON\n🇶🇦 Rashid Saleh AL-ATHBA\n🇬🇹
+  Sebastian BERMUDEZ LABBE\n🇸🇪 Stefan NILSSON\n🇩🇪 Sven KORTE\n🇮🇹
+  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
+SUMMARY:🔫 Skeet Men's Qualification - Day 2
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T070000Z-golf-MENS-INDIVIDUAL-STROKE-PLAY-ROUND-3
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T160000Z
+DESCRIPTION:Golf - Men's Individual Stroke Play Round 3\n🇰🇷 AN Byeong
+  Hun\n🇲🇽 Abraham ANCER\n🇵🇱 Adrian MERONK\n🇧🇪 Adrien DUMONT de
+  CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪 Alex NOREN\n🇨🇴 Camilo
+  VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan BEZUIDENHOUT\n🇺🇸 Collin
+  MORIKAWA\n🇨🇦 Corey CONNERS\n🇨🇳 DOU Zecheng\n🇳🇿 Daniel HILLIER\n🇪🇸
+  David PUIG\n🇦🇷 Emiliano GRILLO\n🇿🇦 Erik van ROOYEN\n🇵🇾 Fabrizio
+  ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾 Gavin GREEN\n🇮🇹 Guido
+  MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸
+  Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech APHIBARNRAT\n🇳🇴 Kristoffer
+  VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA Hideki\n🇬🇧 Matt
+  FITZPATRICK\n🇮🇹 Matteo MANASSERO\n🇩🇪 Matthias SCHMID\n🇫🇷 Matthieu
+  PAVON\n🇦🇺 Min Woo LEE\n🇨🇱 Mito PEREIRA\n🇯🇵 NAKAJIMA Keita\n🇨🇦
+  Nick TAYLOR\n🇨🇴 Nico ECHAVARRIA\n🇩🇰 Nicolai HOJGAARD\n🇹🇼 PAN
+  C.T.\n🇹🇭 Phachara KHONGWATMAI\n🇵🇷 Rafa CAMPOS\n🇮🇪 Rory
+  McILROY\n🇳🇿 Ryan FOX\n🇫🇮 Sami VALIMAKI\n🇺🇸 Scottie SCHEFFLER\n🇦🇹
+  Sepp STRAKA\n🇮🇪 Shane LOWRY\n🇮🇳 Shubhankar SHARMA\n🇩🇪 Stephan
+  JAEGER\n🇫🇮 Tapio PULKKANEN\n🇧🇪 Thomas DETRY\n🇩🇰 Thorbjorn
+  OLESEN\n🇬🇧 Tommy FLEETWOOD\n🇫🇷 Victor PEREZ\n🇳🇴 Viktor
+  HOVLAND\n🇺🇸 Wyndham CLARK\n🇺🇸 Xander SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳
+  YUAN Yechun
+SUMMARY:⛳ Men's Individual Stroke Play Round 3
+LOCATION:Le Golf National
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T080000Z-equestrian-DRESSAGE-TEAM-GRAND-PRIX-SPECIAL
+DTSTAMP:20240803T080000Z
+DTSTART:20240803T080000Z
+DTEND:20240803T133000Z
+DESCRIPTION:Equestrian - Dressage Team Grand Prix Special\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇩🇰 DEN\n🇫🇮 FIN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇳🇱
+  NED\n🇸🇪 SWE
+SUMMARY:🏇 Dressage Team Grand Prix Special
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T080600Z-rowing-MENS-SINGLE-SCULLS-FINAL-B
 DTSTAMP:20240803T080600Z
 DTSTART:20240803T080600Z
@@ -178,6 +245,38 @@ DESCRIPTION:Cycling Road - Men's Road Race\n🇯🇵 ARASHIRO Yukiya\n🇲🇦
   Yevgeniy FEDOROV
 SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T095500Z-athletics-MENS-100M-ROUND-1
+DTSTAMP:20240803T095500Z
+DTSTART:20240803T095500Z
+DTEND:20240803T104400Z
+DESCRIPTION:Athletics - Men's 100m Round 1\n🇨🇦 Aaron BROWN\n🇬🇭
+  Abdul-Rasheed SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇴🇲 Ali
+  Anwar Ali AL BALUSHI\n🇨🇦 Andre De GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦
+  Arturo Harmodio DELISER ESPINOSA\n🇬🇭 Benjamin AZAMATI\n🇿🇦 Benjamin
+  RICHARDSON\n🇦🇬 Cejhae GREENE\n🇮🇹 Chituru ALI\n🇭🇹 Christopher
+  BORZOR\n🇰🇾 Davonte HOWELL\n🇹🇹 Devin AUGUSTINE\n🇨🇩 Dominique Lasconi
+  MULAMBA\n🏳️ Dorian KELETELA\n🇨🇦 Duan ASEMOTA\n🇸🇨 Dylan SICOBO\n🇬🇲
+  Ebrahima CAMARA\n🇬🇾 Emanuel ARCHIBALD\n🇨🇲 Emmanuel ESEME\n🇱🇷
+  Emmanuel MATADI\n🇧🇷 Erik CARDOSO\n🇳🇬 Favour Oghene Tejiri ASHE\n🇧🇷
+  Felipe BARDI\n🇰🇪 Ferdinand OMANYALA\n🇦🇱 Franko BURRAJ\n🇺🇸 Fred
+  KERLEY\n🇲🇺 Gary Noa Jerrel BIBI\n🇯🇵 HIGASHIDA Akihiro\n🇰🇲 Hachim
+  MAAROUFOU\n🇮🇷 Hassan TAFTIAN\n🇸🇪 Henrik LARSSON\n🇬🇧 Jeremiah
+  AZU\n🇨🇴 Jhonny RENTERIA JIMENEZ\n🇩🇴 Jose GONZALEZ\n🇦🇺 Joshua
+  AZZOPARDI\n🇩🇪 Joshua HARTMANN\n🇹🇷 Kayhan OZER\n🇳🇬 Kayinsola
+  AJAYI\n🇺🇸 Kenneth BEDNAREK\n🇯🇲 Kishane THOMPSON\n🇮🇩 Lalu Muhammad
+  ZOHRI\n🇮🇹 Lamont Marcell JACOBS\n🇧🇼 Letsile TEBOGO\n🇬🇧 Louie
+  HINCHLIFFE\n🇸🇬 Marc Brian LOUIS\n🇦🇴 Marcos SANTOS\n🇦🇹 Markus
+  FUCHS\n🇲🇾 Muhd Azeem FAHMI\n🇰🇳 Naquille HARRIS\n🇺🇸 Noah LYLES\n🇯🇲
+  Oblique SEVILLE\n🇵🇱 Oliwer WDOWIK\n🇩🇪 Owen ANSAH\n🇧🇷 Paulo Andre
+  CAMILO\n🇹🇭 Puripol BOONSON\n🇨🇺 Reynaldo R. ESPINOSA\n🇻🇬 Rikkoi
+  BRATHWAITE\n🇦🇺 Rohan BROWNING\n🇨🇴 Ronal LONGA\n🇯🇵 SAKAI
+  Ryuichiro\n🇯🇵 SANI BROWN Abdul Hakim\n🇿🇦 Shaun MASWANGANYI\n🇸🇿
+  Sibusiso MATSENJWA\n🇩🇰 Simon HANSEN\n🇮🇶 Taha Hussein YASEEN\n🇧🇸
+  Terrence JONES\n🇧🇸 Wanya McCOY\n🇨🇳 XIE Zhenye\n🇬🇧 Zharnel HUGHES
+SUMMARY:🏃 Men's 100m Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T100500Z-sailing-WOMENS-DINGHY-RACE-4
@@ -397,6 +496,96 @@ SUMMARY:🏊 Women's 50m Freestyle Semifinals
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T190000Z-handball-WOMENS-PRELIMINARY-ROUND-GROUP-A-DEN-KOR
+DTSTAMP:20240803T190000Z
+DTSTART:20240803T190000Z
+DTEND:20240803T203000Z
+DESCRIPTION:Handball - Women's Preliminary Round Group A
+SUMMARY:🤾 DEN 🇩🇰 - 🇰🇷 KOR
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T070000Z-golf-MENS-INDIVIDUAL-STROKE-PLAY-ROUND-4
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T160000Z
+DESCRIPTION:Golf - Men's Individual Stroke Play Round 4\n🇰🇷 AN Byeong
+  Hun\n🇲🇽 Abraham ANCER\n🇵🇱 Adrian MERONK\n🇧🇪 Adrien DUMONT de
+  CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪 Alex NOREN\n🇨🇴 Camilo
+  VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan BEZUIDENHOUT\n🇺🇸 Collin
+  MORIKAWA\n🇨🇦 Corey CONNERS\n🇨🇳 DOU Zecheng\n🇳🇿 Daniel HILLIER\n🇪🇸
+  David PUIG\n🇦🇷 Emiliano GRILLO\n🇿🇦 Erik van ROOYEN\n🇵🇾 Fabrizio
+  ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾 Gavin GREEN\n🇮🇹 Guido
+  MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸
+  Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech APHIBARNRAT\n🇳🇴 Kristoffer
+  VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA Hideki\n🇮🇹 Matteo
+  MANASSERO\n🇩🇪 Matthias SCHMID\n🇫🇷 Matthieu PAVON\n🇦🇺 Min Woo
+  LEE\n🇨🇱 Mito PEREIRA\n🇯🇵 NAKAJIMA Keita\n🇨🇦 Nick TAYLOR\n🇨🇴 Nico
+  ECHAVARRIA\n🇩🇰 Nicolai HOJGAARD\n🇹🇼 PAN C.T.\n🇹🇭 Phachara
+  KHONGWATMAI\n🇵🇷 Rafa CAMPOS\n🇮🇪 Rory McILROY\n🇳🇿 Ryan FOX\n🇫🇮
+  Sami VALIMAKI\n🇺🇸 Scottie SCHEFFLER\n🇦🇹 Sepp STRAKA\n🇮🇪 Shane
+  LOWRY\n🇮🇳 Shubhankar SHARMA\n🇩🇪 Stephan JAEGER\n🇫🇮 Tapio
+  PULKKANEN\n🇧🇪 Thomas DETRY\n🇩🇰 Thorbjorn OLESEN\n🇬🇧 Tommy
+  FLEETWOOD\n🇫🇷 Victor PEREZ\n🇳🇴 Viktor HOVLAND\n🇺🇸 Wyndham
+  CLARK\n🇺🇸 Xander SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳 YUAN Yechun
+SUMMARY:⛳ Men's Individual Stroke Play Round 4
+LOCATION:Le Golf National
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T080000Z-equestrian-DRESSAGE-INDIVIDUAL-GRAND-PRIX-FREESTYLE
+DTSTAMP:20240804T080000Z
+DTSTART:20240804T080000Z
+DTEND:20240804T113000Z
+DESCRIPTION:Equestrian - Dressage Individual Grand Prix Freestyle\n🇬🇧
+  Becky MOODY\n🇬🇧 Carl HESTER\n🇩🇰 Cathrine LAUDRUP-DUFOUR\n🇬🇧
+  Charlotte FRY\n🇩🇰 Daniel BACHMANN ANDERSEN\n🇳🇱 Dinja van LIERE\n🇫🇮
+  Emma KANERVA\n🇳🇱 Emmelie SCHOLTENS\n🇩🇪 Frederic WANDRES\n🇳🇴 Isabel
+  FREESE\n🇩🇪 Isabell WERTH\n🇩🇪 Jessica von BREDOW-WERNDL\n🇩🇰 Nanna
+  SKODBORG MERRALD\n🇸🇪 Patrik KITTEL\n🇫🇷 Pauline BASQUIN\n🇵🇱 Sandra
+  SYSOJEVA\n🇸🇪 Therese NILSHAGEN\n🇦🇹 Victoria MAX-THEURER
+SUMMARY:🏇 Dressage Individual Grand Prix Freestyle
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T085500Z-athletics-WOMENS-200M-ROUND-1
+DTSTAMP:20240804T085500Z
+DTSTART:20240804T085500Z
+DTEND:20240804T093600Z
+DESCRIPTION:Athletics - Women's 200m Round 1\n🇻🇬 Adaejah HODGE\n🇪🇨
+  Aimara NAZARENO\n🇧🇷 Ana Carolina AZEVEDO\n🇮🇹 Anna BONGIORNI\n🇨🇦
+  Audrey LEDUC\n🇬🇧 Bianca WILLIAMS\n🇭🇺 Boglarka TAKACS\n🇺🇸 Brittany
+  BROWN\n🇲🇽 Cecilia TAMAYO-GARZA\n🇮🇹 Dalia KADDARI\n🇬🇧 Daryll
+  NEITA\n🇬🇧 Dina ASHER-SMITH\n🇳🇬 Favour OFILI\n🇪🇨 Gabriela Anahi
+  SUAREZ\n🇺🇸 Gabrielle THOMAS\n🇫🇷 Gemima JOSEPH\n🇬🇲 Gina Mariam BASS
+  BITTAYE\n🇫🇷 Helene PARISOT\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke VERVAET\n🇨🇦
+  Jacqueline MADOGO\n🇪🇸 Jael BESTUE\n🇨🇮 Jessika GBAI\n🇸🇪 Julia
+  HENRIKSSON\n🇱🇨 Julien ALFRED\n🇵🇱 Krystsina TSIMANOUSKAYA\n🇨🇳 LI
+  Yuting\n🇯🇲 Lanae-Tava THOMAS\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas
+  BAZOLO\n🇧🇷 Lorraine MARTINS\n🇨🇮 Maboundou KONE\n🇨🇮 Marie-Josee TA
+  LOU-SMITH\n🇵🇱 Martyna KOTWILA\n🇺🇸 McKenzie LONG\n🇦🇺 Mia GROSS\n🇨🇭
+  Mujinga KAMBUNDJI\n🇪🇨 Nicole CAICEDO\n🇯🇲 Niesha BURGHER\n🇸🇪 Nora
+  LINDAHL\n🇰🇿 Olga SAFRONOVA\n🇨🇾 Olivia FOTOPOULOU\n🇬🇷 Polyniki
+  EMMANOUILIDOU\n🇯🇲 Shericka JACKSON\n🇳🇱 Tasa JIYA\n🇦🇺 Torrie
+  LEWIS\n🇸🇬 Veronica Shanti PEREIRA
+SUMMARY:🏃 Women's 200m Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T094500Z-athletics-WOMENS-HAMMER-THROW-QUALIFICATION-GROUP-B
+DTSTAMP:20240804T094500Z
+DTSTART:20240804T094500Z
+DTEND:20240804T104100Z
+DESCRIPTION:Athletics - Women's Hammer Throw Qualification - Group B\n🇫🇷
+  Alexandra TAVERNIER\n🇵🇱 Anita WLODARCZYK\n🇺🇸 Deanna PRICE\n🇺🇦 Iryna
+  KLYMETS\n🇩🇰 Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇮🇪 Nicola
+  TUTHILL\n🇳🇬 Oyesade OLATOYE\n🇭🇺 Reka GYURATZ\n🇻🇪 Rosa Andreina
+  RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇬🇷 Stamatia
+  SCARVELIS\n🇧🇪 Vanessa STERCKENDRIES\n🇨🇳 WANG Zheng\n🇲🇩 Zalina
+  MARGHIEVA
+SUMMARY:🏃 Women's Hammer Throw Qualification - Group B
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T100000Z-badminton-MENS-SINGLES-SEMIFINAL-IND-DEN
 DTSTAMP:20240804T100000Z
 DTSTART:20240804T100000Z
@@ -596,6 +785,24 @@ SUMMARY:⛵ Mixed Multihull - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T170000Z-handball-MENS-PRELIMINARY-ROUND-GROUP-B-DEN-NOR
+DTSTAMP:20240804T170000Z
+DTSTART:20240804T170000Z
+DTEND:20240804T183000Z
+DESCRIPTION:Handball - Men's Preliminary Round Group B
+SUMMARY:🤾 DEN 🇩🇰 - 🇳🇴 NOR
+LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080000Z-table-tennis-MENS-TEAM-ROUND-OF-16-SWE-DEN
+DTSTAMP:20240805T080000Z
+DTSTART:20240805T080000Z
+DTEND:20240805T110000Z
+DESCRIPTION:Table Tennis - Men's Team Round of 16
+SUMMARY:🏓 SWE 🇸🇪 - 🇩🇰 DEN
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T100500Z-sailing-MIXED-MULTIHULL-RACE-7
 DTSTAMP:20240805T100500Z
 DTSTART:20240805T100500Z
@@ -633,6 +840,24 @@ DESCRIPTION:Sailing - Women's Dinghy - Race 9\n🇧🇲 Adriana
   Astrid RIPLEY\n🇱🇹 Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ Women's Dinghy - Race 9
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T105000Z-athletics-WOMENS-200M-REPECHAGE-ROUND
+DTSTAMP:20240805T105000Z
+DTSTART:20240805T105000Z
+DTEND:20240805T111500Z
+DESCRIPTION:Athletics - Women's 200m Repechage Round\n🇻🇬 Adaejah
+  HODGE\n🇪🇨 Aimara NAZARENO\n🇧🇷 Ana Carolina AZEVEDO\n🇮🇹 Anna
+  BONGIORNI\n🇭🇺 Boglarka TAKACS\n🇲🇽 Cecilia TAMAYO-GARZA\n🇮🇹 Dalia
+  KADDARI\n🇪🇨 Gabriela Anahi SUAREZ\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke
+  VERVAET\n🇨🇦 Jacqueline MADOGO\n🇪🇸 Jael BESTUE\n🇵🇱 Krystsina
+  TSIMANOUSKAYA\n🇨🇳 LI Yuting\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas
+  BAZOLO\n🇧🇷 Lorraine MARTINS\n🇨🇮 Maboundou KONE\n🇵🇱 Martyna
+  KOTWILA\n🇦🇺 Mia GROSS\n🇪🇨 Nicole CAICEDO\n🇸🇪 Nora LINDAHL\n🇰🇿
+  Olga SAFRONOVA\n🇨🇾 Olivia FOTOPOULOU\n🇬🇷 Polyniki EMMANOUILIDOU\n🇦🇺
+  Torrie LEWIS\n🇸🇬 Veronica Shanti PEREIRA
+SUMMARY:🏃 Women's 200m Repechage Round
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T105700Z-sailing-MIXED-MULTIHULL-RACE-8
@@ -688,6 +913,39 @@ DESCRIPTION:Sailing - Mixed Multihull - Race 9\n🇧🇪
   WILKINSON/DAWSON
 SUMMARY:⛵ Mixed Multihull - Race 9
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T120000Z-equestrian-JUMPING-INDIVIDUAL-QUALIFIER
+DTSTAMP:20240805T120000Z
+DTSTART:20240805T120000Z
+DTEND:20240805T160000Z
+DESCRIPTION:Equestrian - Jumping Individual Qualifier\n🇦🇪 Abdullah Mohd
+  AL MARRI\n🇸🇦 Abdulrahman ALRAJHI\n🇵🇱 Adam GRZEGORZEWSKI\n🇨🇱 Agustin
+  COVARRUBIAS\n🇸🇾 Amre HAMCHO\n🇩🇰 Andreas SCHOU\n🇲🇽 Andres
+  AZCARRAGA\n🇱🇹 Andrius PETROVAS\n🇬🇧 Ben MAHER\n🇩🇪 Christian
+  KUKUK\n🇮🇪 Cian O'CONNOR\n🇮🇱 Daniel BLUMAN\n🇮🇪 Daniel COYLE\n🇵🇱
+  Dawid KUBIAK\n🇵🇹 Duarte SEABRA\n🇨🇭 Edouard SCHMITZ\n🇪🇸 Eduardo
+  ALVAREZ AZNAR\n🇦🇺 Edwina TOPS-ALEXANDER\n🇮🇹 Emanuele CAMILLI\n🇨🇦
+  Erynn BALLARD\n🇲🇽 Eugenio GARZA PEREZ\n🇲🇽 Federico FERNANDEZ\n🇦🇹
+  Gerfried PUCK\n🇧🇪 Gilles THOMAS\n🇧🇪 Gregory WATHELET\n🇯🇵 HAASE
+  SHIBAYAMA Takashi\n🇳🇱 Harrie SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik
+  von ECKERMANN\n🇦🇺 Hilary SCOTT\n🇬🇷 Ioli MYTILINEOU\n🇮🇱 Isabella
+  RUSSEKOFF\n🇪🇸 Ismael GARCIA ROQUE\n🇹🇭 Janakabhorn KARUNAYADHAJ\n🇧🇪
+  Jerome GUERY\n🇦🇷 Jose Maria (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸
+  Karl COOK\n🇦🇹 Katharina RHOMBERG\n🇸🇦 Khaled ALMOBTY\n🇳🇱 Kim
+  EMMEN\n🇱🇻 Kristaps NERETNIEKS\n🇺🇸 Laura KRAUT\n🇻🇪 Luis Fernando
+  LARRAZABAL\n🇳🇱 Maikel van der VLEUTEN\n🇵🇱 Maksymilian WECHTA\n🇨🇦
+  Mario DESLAURIERS\n🇨🇭 Martin FUCHS\n🇦🇹 Max KUEHNER\n🇺🇸 McLain
+  WARD\n🇪🇪 My RELANDER\n🇫🇷 Olivier PERREAU\n🇦🇪 Omar Abdul Aziz AL
+  MARZOOQI\n🇸🇪 Peder FREDRICSON\n🇩🇪 Philipp WEISHAUPT\n🇸🇦 Ramzy AL
+  DUHAMI\n🇨🇴 Rene LOPEZ LIZARAZO\n🇩🇪 Richard VOGEL\n🇮🇱 Robin
+  MUHR\n🇧🇷 Rodrigo PESSOA\n🇸🇪 Rolf-Goran BENGTSSON\n🇯🇵 SATO
+  Eiken\n🇯🇵 SUGITANI Taizo\n🇦🇪 Salim Ahmed AL SUWAIDI\n🇬🇧 Scott
+  BRASH\n🇪🇸 Sergio ALVAREZ MOYA\n🇮🇪 Shane SWEETNAM\n🇫🇷 Simon
+  DELESTRE\n🇧🇷 Stephan de FREITAS BARCHA\n🇨🇭 Steve GUERDAT\n🇦🇺 Thaisa
+  ERWIN\n🇨🇦 Tiffany FOSTER\n🇳🇴 Victoria GULLIKSEN\n🇧🇷 Yuri MANSUR
+SUMMARY:🏇 Jumping Individual Qualifier
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T124500Z-sailing-MENS-DINGHY-RACE-9
@@ -758,6 +1016,38 @@ SUMMARY:🚴 Men's Team Pursuit, Qualifying
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T073000Z-canoe-sprint-MENS-KAYAK-FOUR-500M-HEATS
+DTSTAMP:20240806T073000Z
+DTSTART:20240806T073000Z
+DTEND:20240806T074700Z
+DESCRIPTION:Canoe Sprint - Men's Kayak Four 500m Heats\n🇷🇸 Andjelo
+  DZOMBETA\n🇱🇹 Arturas SEJA\n🇨🇳 BU Tingkai\n🇭🇺 Bence NADAS\n🇪🇸
+  Carlos AREVALO\n🇨🇳 DONG Yi\n🇺🇦 Dmytro DANYLENKO\n🇳🇿 Grant
+  CLANCY\n🇳🇿 Hamish LEGARTH\n🇱🇹 Ignas NAVAKAUSKAS\n🇺🇦 Ihor
+  TRUNOV\n🇭🇺 Istvan KULI\n🇺🇦 Ivan SEMYKIN\n🇦🇺 Jackson COLLINS\n🇩🇪
+  Jacob SCHOPF\n🇭🇺 Kolos Attila CSIZMADIA\n🇳🇿 Kurtis IMRIE\n🇩🇰 Lasse
+  Bro MADSEN\n🇨🇦 Laurent LAVIGNE\n🇩🇰 Magnus SIBBERSEN\n🇪🇸 Marcus
+  COOPER\n🇷🇸 Marko DRAGOSAVLJEVIC\n🇷🇸 Marko NOVAKOVIC\n🇳🇿 Max
+  BROWN\n🇩🇪 Max LEMKE\n🇩🇪 Max RENDSCHMIDT\n🇱🇹 Mindaugas
+  MALDONIS\n🇩🇰 Morten GRAVERSEN\n🇨🇦 Nicholas MATVEEV\n🇦🇺 Noah
+  HAVARD\n🇺🇦 Oleh KUKHARYK\n🇦🇺 Pierre van der WESTHUYZEN\n🇨🇦
+  Pierre-Luc POULIN\n🇦🇺 Riley FITZSIMMONS\n🇪🇸 Rodrigo GERMADE\n🇭🇺
+  Sandor TOTKA\n🇪🇸 Saul CRAVIOTTO\n🇨🇦 Simon McTAVISH\n🇱🇹 Simonas
+  MALDONIS\n🇩🇪 Tom LIEBSCHER-LUCZ\n🇩🇰 Victor Gairy AASMUL\n🇷🇸
+  Vladimir TORUBAROV\n🇨🇳 WANG Congkang\n🇨🇳 ZHANG Dong
+SUMMARY:🛶 Men's Kayak Four 500m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T073000Z-handball-WOMENS-QUARTERFINAL-DEN-NED
+DTSTAMP:20240806T073000Z
+DTSTART:20240806T073000Z
+DTEND:20240806T090000Z
+DESCRIPTION:Handball - Women's Quarterfinal
+SUMMARY:🤾 DEN 🇩🇰 - 🇳🇱 NED
+LOCATION:Pierre Mauroy Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T100500Z-sailing-MIXED-MULTIHULL-RACE-10
 DTSTAMP:20240806T100500Z
 DTSTART:20240806T100500Z
@@ -772,6 +1062,28 @@ DESCRIPTION:Sailing - Mixed Multihull - Race 10\n🇧🇪
   WILKINSON/DAWSON
 SUMMARY:⛵ Mixed Multihull - Race 10
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T101000Z-canoe-sprint-WOMENS-KAYAK-DOUBLE-500M-HEATS
+DTSTAMP:20240806T101000Z
+DTSTART:20240806T101000Z
+DTEND:20240806T104700Z
+DESCRIPTION:Canoe Sprint - Women's Kayak Double 500m Heats\n🇳🇿 Aimee
+  FISHER\n🇳🇿 Alicia HOSKIN\n🇭🇺 Alida Dora GAZSO\n🇦🇺 Aly BULL\n🇳🇴
+  Anna Margrete SLETSJOEE\n🇵🇱 Anna PULAWSKA\n🇲🇽 Beatriz BRIONES
+  FRAGOZA\n🇨🇳 CHEN Yule\n🇪🇸 Carolina GARCIA OTERO\n🇨🇦 Courtney
+  STOTT\n🇦🇺 Ella BEERE\n🇩🇰 Emma Aastrand JORGENSEN\n🇿🇦 Esti
+  OLIVIER\n🇩🇰 Frederikke Hauge MATTHIESEN\n🇵🇱 Helena WISNIEWSKA\n🇧🇪
+  Hermien PETERS\n🇩🇪 Jule Marie HAKE\n🇲🇽 Karina ALANIS MORALES\n🇵🇱
+  Karolina NAJA\n🇩🇪 Lena ROEHLINGS\n🇸🇪 Linnea STENSILS\n🇳🇿 Lisa
+  CARRINGTON\n🇧🇪 Lize BROEKX\n🇳🇿 Lucy MATEHAERE\n🇫🇷 Manon
+  HOSTENS\n🇳🇴 Maria VIRIK\n🇵🇱 Martyna KLATT\n🇸🇪 Moa WIKBERG\n🇨🇦
+  Natalie DAVISON\n🇭🇺 Noemi PUPP\n🇩🇪 Paulina PASZEK\n🇩🇪 Pauline
+  JAGSCH\n🇳🇱 Ruth VORSSELMAN\n🇭🇺 Sara FOJT\n🇪🇸 Sara OUZANDE\n🇳🇱
+  Selma KONIJN\n🇭🇺 Tamara CSIPES\n🇿🇦 Tiffany Amber KOCH\n🇫🇷 Vanina
+  PAOLETTI\n🇨🇳 YU Shimeng
+SUMMARY:🛶 Women's Kayak Double 500m Heats
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T105700Z-sailing-MIXED-MULTIHULL-RACE-11
@@ -835,6 +1147,148 @@ DESCRIPTION:Cycling Track - Men's Team Pursuit, First Round\n🇳🇿 Aaron
   HANSEN\n🇳🇿 Tom SEXTON\n🇧🇪 Tuur DENS\n🇫🇷 Valentin TABELLION
 SUMMARY:🚴 Men's Team Pursuit, First Round
 LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T175700Z-athletics-WOMENS-HAMMER-THROW-FINAL
+DTSTAMP:20240806T175700Z
+DTSTART:20240806T175700Z
+DTEND:20240806T190700Z
+DESCRIPTION:Athletics - Women's Hammer Throw Final\n🇵🇱 Anita
+  WLODARCZYK\n🇺🇸 Annette Nneka ECHIKUNWOKE\n🇷🇴 Bianca Florentina
+  GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸 Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰
+  Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇻🇪 Rosa Andreina
+  RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇨🇳 ZHAO Jie
+SUMMARY:🏃 Women's Hammer Throw Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T070000Z-golf-WOMENS-INDIVIDUAL-STROKE-PLAY-ROUND-1
+DTSTAMP:20240807T070000Z
+DTSTART:20240807T070000Z
+DTEND:20240807T160000Z
+DESCRIPTION:Golf - Women's Individual Stroke Play Round 1\n🇮🇳 Aditi
+  ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦 Alena SHARP\n🇮🇹 Alessandra
+  FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana BELAC\n🇳🇱 Anne van
+  DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭 Atthaya THITIKUL\n🇪🇸
+  Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦 Brooke M. HENDERSON\n🇹🇼
+  CHIEN Pei-Yun\n🇪🇸 Carlota CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine
+  BOUTIER\n🇬🇧 Charley HULL\n🇮🇳 Diksha DAGAR\n🇵🇭 Dottie ARDINA\n🇩🇰
+  Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪 Esther HENSELEIT\n🇲🇽 Gaby
+  LOPEZ\n🇬🇧 Georgia HALL\n🇹🇼 HSU Wei-Ling\n🇦🇺 Hannah GREEN\n🇲🇦 Ines
+  LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇰🇷 KO Jin Young\n🇨🇿 Klara DAVIDSON
+  SPILKOVA\n🇨🇳 LIN Xiyu Janet\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇸🇪
+  Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴 Madelene STAVNAR\n🇸🇪 Maja STARK\n🇧🇪
+  Manon DE ROEY\n🇲🇽 Maria FASSI\n🇨🇴 Mariajo URIBE\n🇦🇺 Minjee
+  LEE\n🇨🇭 Morgane METRAUX\n🇩🇰 Nanna KOERSTZ MADSEN\n🇺🇸 Nelly
+  KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty TAVATANAKIT\n🇿🇦 Paula
+  RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia BABNIK\n🇺🇸 Rose ZHANG\n🇯🇵 SASO
+  Yuka\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇸🇬 Shannon TAN\n🇮🇪
+  Stephanie MEADOW\n🇫🇮 Ursula WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG
+  Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ Women's Individual Stroke Play Round 1
+LOCATION:Le Golf National
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T073000Z-canoe-sprint-WOMENS-KAYAK-SINGLE-500M-HEATS
+DTSTAMP:20240807T073000Z
+DTSTART:20240807T073000Z
+DTEND:20240807T082700Z
+DESCRIPTION:Canoe Sprint - Women's Kayak Single 500m Heats\n🇳🇿 Aimee
+  FISHER\n🇭🇺 Alida Dora GAZSO\n🇦🇺 Alyce WOOD\n🇧🇷 Ana Paula
+  VERGUTZ\n🇭🇷 Anamaria GOVORCINOVIC\n🇨🇿 Anezka PALOUDOVA\n🇲🇽 Beatriz
+  BRIONES FRAGOZA\n🇪🇸 Begona LAZKANO\n🇦🇷 Brenda ROJAS\n🇵🇱 Dominika
+  PUTTO\n🇺🇿 Ekaterina SHUBINA\n🇩🇰 Emma Aastrand JORGENSEN\n🇩🇪 Enja
+  ROESSELING\n🇪🇸 Estefania FERNANDEZ\n🇿🇦 Esti OLIVIER\n🇳🇴 Hedda
+  ORITSLAND\n🇧🇪 Hermien PETERS\n🇸🇬 Jiexian Stephenie CHEN\n🇲🇽 Karina
+  ALANIS MORALES\n🇸🇪 Linnea STENSILS\n🇳🇿 Lisa CARRINGTON\n🇧🇪 Lize
+  BROEKX\n🇫🇷 Manon HOSTENS\n🇺🇦 Mariya POVKH\n🇸🇪 Melina
+  ANDERSSON\n🇨🇦 Michelle RUSSELL\n🇷🇸 Milica NOVAKOVIC\n🇬🇺 Raina
+  TAITINGFONG\n🇨🇦 Riley MELANSON\n🇳🇱 Ruth VORSSELMAN\n🇪🇬 Samaa
+  AHMED\n🇼🇸 Samalulu CLIFTON\n🏳️ Saman SOLTANI\n🇳🇱 Selma KONIJN\n🇭🇺
+  Tamara CSIPES\n🇵🇹 Teresa PORTELA\n🇿🇦 Tiffany Amber KOCH\n🇨🇳 WANG
+  Nan\n🇨🇳 YIN Mengdie\n🇧🇬 Yoana GEORGIEVA
+SUMMARY:🛶 Women's Kayak Single 500m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T084000Z-canoe-sprint-MENS-KAYAK-SINGLE-1000M-HEATS
+DTSTAMP:20240807T084000Z
+DTSTART:20240807T084000Z
+DTEND:20240807T092700Z
+DESCRIPTION:Canoe Sprint - Men's Kayak Single 1000m Heats\n🇺🇸 Aaron
+  SMALL\n🇲🇦 Achraf ELAIDI\n🇭🇺 Adam VARGA\n🇪🇸 Adrian del RIO\n🇦🇷
+  Agustin VERNICE\n🇮🇷 Ali AGHAMIRZAEIJENAGHARD\n🇱🇹 Andrej OLIJNIK\n🇿🇦
+  Andrew James BIRKETT\n🇩🇪 Anton WINKELMANN\n🇧🇪 Artuur PETERS\n🇭🇺
+  Balint KOPASZ\n🇰🇿 Bekarys RAMATULLA\n🇵🇹 Fernando PIMENTA\n🇪🇸
+  Francisco CUBELOS\n🇿🇦 Hamish LOVEMORE\n🇩🇪 Jakob THORDSEN\n🇺🇸 Jonas
+  ECKER\n🇨🇿 Josef DOSTAL\n🇸🇪 Martin NATHELL\n🇺🇾 Matias Valentin OTERO
+  EZCURRA\n🇫🇷 Maxime BEAUMONT\n🇩🇰 Rene Holten POULSEN\n🏳️ Saeid
+  FAZLOULA\n🇺🇿 Shakhriyor MAKHKAMOV\n🇦🇺 Tom GREEN\n🇼🇸 Tuva'a
+  CLIFTON\n🇦🇸 Uladzislau KRAVETS\n🇧🇷 Vagner Junior SOUTA\n🇨🇳 ZHANG
+  Dong
+SUMMARY:🛶 Men's Kayak Single 1000m Heats
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T103000Z-skateboarding-MENS-PARK-PRELIMS
+DTSTAMP:20240807T103000Z
+DTSTART:20240807T103000Z
+DTEND:20240807T133100Z
+DESCRIPTION:Skateboarding - Men's Park Prelims\n🇪🇸 Alain
+  KORTABITARTE\n🇮🇹 Alessandro MAZZARA\n🇮🇹 Alex SORGENTE\n🇬🇧 Andrew
+  MACDONALD\n🇧🇷 Augusto AKIO\n🇿🇦 Dallas OBERHOLZER\n🇪🇸 Danny
+  LEON\n🇺🇸 Gavin BOTTGER\n🇸🇪 Hampus WINBERG\n🇦🇺 Keefer WILSON\n🇦🇺
+  Keegan PALMER\n🇦🇺 Kieran WOOLLEY\n🇧🇷 Luigi CINI\n🇯🇵 NAGAHARA
+  Yuro\n🇧🇷 Pedro BARROS\n🇵🇷 Steven PINEIRO\n🇺🇸 Tate CAREW\n🇵🇹
+  Thomas AUGUSTO\n🇺🇸 Tom SCHAAR\n🇩🇪 Tyler EDTMAYER\n🇩🇰 Viktor
+  SOLMUNDE\n🇫🇷 Vincent MATHERON
+SUMMARY:🛹 Men's Park Prelims
+LOCATION:La Concorde 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T153000Z-handball-MENS-QUARTERFINAL-DEN-SWE
+DTSTAMP:20240807T153000Z
+DTSTART:20240807T153000Z
+DTEND:20240807T173000Z
+DESCRIPTION:Handball - Men's Quarterfinal
+SUMMARY:🤾 DEN 🇩🇰 - 🇸🇪 SWE
+LOCATION:Pierre Mauroy Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T070000Z-golf-WOMENS-INDIVIDUAL-STROKE-PLAY-ROUND-2
+DTSTAMP:20240808T070000Z
+DTSTART:20240808T070000Z
+DTEND:20240808T160000Z
+DESCRIPTION:Golf - Women's Individual Stroke Play Round 2\n🇮🇳 Aditi
+  ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦 Alena SHARP\n🇮🇹 Alessandra
+  FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana BELAC\n🇳🇱 Anne van
+  DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭 Atthaya THITIKUL\n🇪🇸
+  Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦 Brooke M. HENDERSON\n🇹🇼
+  CHIEN Pei-Yun\n🇪🇸 Carlota CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine
+  BOUTIER\n🇬🇧 Charley HULL\n🇮🇳 Diksha DAGAR\n🇵🇭 Dottie ARDINA\n🇩🇰
+  Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪 Esther HENSELEIT\n🇲🇽 Gaby
+  LOPEZ\n🇬🇧 Georgia HALL\n🇹🇼 HSU Wei-Ling\n🇦🇺 Hannah GREEN\n🇲🇦 Ines
+  LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇰🇷 KO Jin Young\n🇨🇿 Klara DAVIDSON
+  SPILKOVA\n🇨🇳 LIN Xiyu Janet\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇸🇪
+  Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴 Madelene STAVNAR\n🇸🇪 Maja STARK\n🇧🇪
+  Manon DE ROEY\n🇲🇽 Maria FASSI\n🇨🇴 Mariajo URIBE\n🇦🇺 Minjee
+  LEE\n🇨🇭 Morgane METRAUX\n🇩🇰 Nanna KOERSTZ MADSEN\n🇺🇸 Nelly
+  KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty TAVATANAKIT\n🇿🇦 Paula
+  RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia BABNIK\n🇺🇸 Rose ZHANG\n🇯🇵 SASO
+  Yuka\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇸🇬 Shannon TAN\n🇮🇪
+  Stephanie MEADOW\n🇫🇮 Ursula WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG
+  Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ Women's Individual Stroke Play Round 2
+LOCATION:Le Golf National
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T101300Z-taekwondo-MEN-80KG-ROUND-OF-16-EGY-DEN
+DTSTAMP:20240809T101300Z
+DTSTART:20240809T101300Z
+DTEND:20240809T102500Z
+DESCRIPTION:Taekwondo - Men -80kg Round of 16
+SUMMARY:🥋 Seif EISSA 🇪🇬 - 🇩🇰 Edi HRNIC
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

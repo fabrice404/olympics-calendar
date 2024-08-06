@@ -4,6 +4,15 @@ PRODID:-//fabrice404//olympics-calendar//general/ko/SWE//EN
 X-WR-CALNAME:🇸🇪 Sweden | Paris 2024
 NAME:🇸🇪 Sweden | Paris 2024
 BEGIN:VEVENT
+UID:20240725T190000Z-handball--A-NOR-SWE
+DTSTAMP:20240725T190000Z
+DTSTART:20240725T190000Z
+DTEND:20240725T203000Z
+DESCRIPTION:핸드볼 - 여자 예선 A조
+SUMMARY:🤾 노르웨이 🇳🇴 - 🇸🇪 스웨덴
+LOCATION:사우스 파리 아레나 6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -108,6 +117,59 @@ SUMMARY:🏇 마장마술 단체 그랑프리 스페셜
 LOCATION:샤토 드 베르사유
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T081000Z-athletics--
+DTSTAMP:20240803T081000Z
+DTSTART:20240803T081000Z
+DTEND:20240803T103000Z
+DESCRIPTION:육상 - 남자 장대높이뛰기 예선\n🇫🇷 Anthony AMMIRATI\n🇸🇪 Armand
+  DUPLANTIS\n🇧🇪 Ben BROEDERS\n🇩🇪 Bo Kanda LITA BAEHRE\n🇺🇸 Christopher
+  NILSEN\n🇮🇹 Claudio Michel STECCHI\n🇨🇿 David HOLY\n🇬🇷 Emmanouil
+  KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu SASMA\n🇨🇳 HUANG Bokai\n🇸🇦
+  Hussain Asim AL HIZAM\n🇺🇸 Jacob WOOTEN\n🇦🇺 Kurtis MARSCHALL\n🇨🇿
+  Matej SCERBA\n🇳🇱 Menno VLOON\n🇩🇪 Oleg ZERNIKEL\n🇳🇴 Pal Haugen
+  LILLEFOSSE\n🇵🇹 Pedro BUARO\n🇵🇱 Piotr LISEK\n🇵🇱 Robert SOBERA\n🇫🇷
+  Robin EMIG\n🇺🇸 Sam KENDRICKS\n🇳🇴 Simen GUTTORMSEN\n🇳🇴 Sondre
+  GUTTORMSEN\n🇫🇷 Thibaut COLLET\n🇩🇪 Torben BLECH\n🇫🇮 Urho
+  KUJANPAA\n🇱🇻 Valters KREISS\n🇨🇳 YAO Jie\n🇨🇳 ZHONG Tao
+SUMMARY:🏃 남자 장대높이뛰기 예선
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-swimming--50M-
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T092700Z
+DESCRIPTION:경영 - 여자 50m 자유형 - 예선\n🇳🇬 Adaku NWANDU\n🇹🇬 Adele Sodalo
+  Agnes GAITOU\n🇲🇱 Aichata DIABATE\n🇲🇻 Aishath Ulya SHAIG\n🇫🇯 Anahira
+  McCUTCHEON\n🇪🇨 Anicka DELGADO\n🇬🇧 Anna HOPKIN\n🇲🇬 Antsa
+  RABEJAONA\n🇰🇭 Apsara SAKBUN\n🇫🇷 Beryl GASTALDELLO\n🇦🇼 Chloe
+  FARRO\n🇪🇷 Christina RACH\n🇮🇪 Danielle HILL\n🇨🇩 Divine
+  MIANSADI\n🇬🇳 Djenabou Jolie BAH\n🇹🇯 Ekaterina BORDACHYOVA\n🇰🇬
+  Elizaveta PECHERSKIKH\n🇧🇪 Florine GASPARD\n🇵🇬 Georgia-Leigh
+  VELE\n🇨🇲 Grace Manuela NGUELO'O MABEU\n🇺🇸 Gretchen WALSH\n🇽🇰 Hana
+  BEIQI\n🇧🇳 Hayley WONG\n🇧🇫 Iman KOURAOGO\n🇹🇱 Imelda XIMENES
+  BELO\n🇧🇯 Ionnah Eliane DOUILLET\n🇸🇧 Isabella MILLAR\n🇭🇷 Jana
+  PAVALIC\n🇩🇲 Jasmine SCHOFIELD\n🇹🇭 Jenjira SRISA - ARD\n🇬🇭 Joselle
+  MENSAH\n🇲🇪 Jovana KULJACA\n🇩🇰 Julie Kepp JENSEN\n🇸🇷 Kaelyn Ciara
+  Suryanti DJOPARTO\n🇼🇸 Kaiya BROWN\n🇵🇱 Katarzyna WASICK\n🇲🇭 Kayla
+  HEPLER\n🇻🇨 Kennice Aphenie GREENE\n🇫🇲 Kestra KIHLENG\n🇸🇨 Khema
+  ELIZABETH\n🇳🇱 Kim BUSCH\n🇵🇱 Kornelia FIEDKIEWICZ\n🇷🇼 Lidwine
+  UMUHOZA UWASE\n🇪🇹 Lina Alemayehu SELO\n🇻🇺 Loane RUSSET\n🇧🇮 Lois
+  Eliora IRISHURA\n🇰🇲 Maesha SAADI\n🇰🇪 Maria BRUNLEHNER\n🇧🇴 Maria
+  Jose RIBERA\n🇦🇿 Mariam SHEIKHALIZADEHKHANGHAH\n🇭🇹 Mayah
+  CHOULOUTE\n🇦🇺 Meg HARRIS\n🇫🇷 Melanie HENIQUE\n🇿🇲 Mia PHIRI\n🇸🇪
+  Michelle COLEMAN\n🇧🇩 Mst Sonia KHATUN\n🇩🇯 Naima-Zahra AMISON\n🇸🇮
+  Neza KLANCAR\n🇹🇴 Noelani Malia DAY\n🇬🇦 Noelie Annette LACOUR\n🇸🇱
+  Olamide SAM\n🇭🇺 Petra SENANSZKY\n🇧🇸 Rhanishka GIBBS\n🇯🇲 Sabrina
+  LYN\n🇳🇪 Salima AHMADOU YOUSSOUFOU\n🇮🇹 Sara CURTIS\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Simone MANUEL\n🇹🇿 Sophia
+  LATIFF\n🇲🇼 Tayamika CHANGANAMUNO\n🇨🇦 Taylor RUCK\n🇬🇷 Theodora
+  DRAKOU\n🇨🇫 Tracy Marine ANDET\n🇳🇱 Valerie van ROON\n🇨🇬 Vanessa
+  BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 여자 50m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road--
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -145,6 +207,56 @@ SUMMARY:🚴 남자 도로경기
 LOCATION:트로카데로
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T093000Z-swimming--1500M-
+DTSTAMP:20240803T093000Z
+DTSTART:20240803T093000Z
+DTEND:20240803T103900Z
+DESCRIPTION:경영 - 남자 1500m 자유형 - 예선\n🇹🇳 Ahmed JAOUADI\n🇺🇸 Bobby
+  FINKE\n🇪🇸 Carlos GARACH BENITO\n🇫🇷 Damien JOLY\n🇬🇧 Daniel
+  JERVIS\n🇮🇪 Daniel WIFFEN\n🇫🇷 David AUBRY\n🇭🇺 David BETLEHEM\n🇺🇸
+  David JOHNSTON\n🇬🇷 Dimitrios MARKOS\n🇹🇷 Emir Batur ALBAYRAK\n🇨🇳 FEI
+  Liwei\n🇩🇪 Florian WELLBROCK\n🇮🇹 Gregorio PALTRINIERI\n🇳🇴 Henrik
+  CHRISTIANSEN\n🇻🇳 Huy Hoang NGUYEN\n🇵🇱 Krzysztof CHMIELEWSKI\n🇹🇷
+  Kuzey TUNCELLI\n🇮🇹 Luca de TULLIO\n🇪🇬 Marwan ELKAMASH\n🇺🇦 Mykhailo
+  ROMANCHUK\n🇨🇺 Rodolfo FALCON JR\n🇦🇺 Samuel SHORT\n🇩🇪 Sven
+  SCHWARZ\n🇸🇪 Victor JOHANSSON\n🇷🇴 Vlad Stefan STANCU\n🇭🇺 Zalan
+  SARKANY
+SUMMARY:🏊 남자 1500m 자유형 - 예선
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T095500Z-athletics--100M-1
+DTSTAMP:20240803T095500Z
+DTSTART:20240803T095500Z
+DTEND:20240803T104400Z
+DESCRIPTION:육상 - 남자 100m 1라운드\n🇨🇦 Aaron BROWN\n🇬🇭 Abdul-Rasheed
+  SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇴🇲 Ali Anwar Ali AL
+  BALUSHI\n🇨🇦 Andre De GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦 Arturo Harmodio
+  DELISER ESPINOSA\n🇬🇭 Benjamin AZAMATI\n🇿🇦 Benjamin RICHARDSON\n🇦🇬
+  Cejhae GREENE\n🇮🇹 Chituru ALI\n🇭🇹 Christopher BORZOR\n🇰🇾 Davonte
+  HOWELL\n🇹🇹 Devin AUGUSTINE\n🇨🇩 Dominique Lasconi MULAMBA\n🏳️ Dorian
+  KELETELA\n🇨🇦 Duan ASEMOTA\n🇸🇨 Dylan SICOBO\n🇬🇲 Ebrahima
+  CAMARA\n🇬🇾 Emanuel ARCHIBALD\n🇨🇲 Emmanuel ESEME\n🇱🇷 Emmanuel
+  MATADI\n🇧🇷 Erik CARDOSO\n🇳🇬 Favour Oghene Tejiri ASHE\n🇧🇷 Felipe
+  BARDI\n🇰🇪 Ferdinand OMANYALA\n🇦🇱 Franko BURRAJ\n🇺🇸 Fred
+  KERLEY\n🇲🇺 Gary Noa Jerrel BIBI\n🇯🇵 HIGASHIDA Akihiro\n🇰🇲 Hachim
+  MAAROUFOU\n🇮🇷 Hassan TAFTIAN\n🇸🇪 Henrik LARSSON\n🇬🇧 Jeremiah
+  AZU\n🇨🇴 Jhonny RENTERIA JIMENEZ\n🇩🇴 Jose GONZALEZ\n🇦🇺 Joshua
+  AZZOPARDI\n🇩🇪 Joshua HARTMANN\n🇹🇷 Kayhan OZER\n🇳🇬 Kayinsola
+  AJAYI\n🇺🇸 Kenneth BEDNAREK\n🇯🇲 Kishane THOMPSON\n🇮🇩 Lalu Muhammad
+  ZOHRI\n🇮🇹 Lamont Marcell JACOBS\n🇧🇼 Letsile TEBOGO\n🇬🇧 Louie
+  HINCHLIFFE\n🇸🇬 Marc Brian LOUIS\n🇦🇴 Marcos SANTOS\n🇦🇹 Markus
+  FUCHS\n🇲🇾 Muhd Azeem FAHMI\n🇰🇳 Naquille HARRIS\n🇺🇸 Noah LYLES\n🇯🇲
+  Oblique SEVILLE\n🇵🇱 Oliwer WDOWIK\n🇩🇪 Owen ANSAH\n🇧🇷 Paulo Andre
+  CAMILO\n🇹🇭 Puripol BOONSON\n🇨🇺 Reynaldo R. ESPINOSA\n🇻🇬 Rikkoi
+  BRATHWAITE\n🇦🇺 Rohan BROWNING\n🇨🇴 Ronal LONGA\n🇯🇵 SAKAI
+  Ryuichiro\n🇯🇵 SANI BROWN Abdul Hakim\n🇿🇦 Shaun MASWANGANYI\n🇸🇿
+  Sibusiso MATSENJWA\n🇩🇰 Simon HANSEN\n🇮🇶 Taha Hussein YASEEN\n🇧🇸
+  Terrence JONES\n🇧🇸 Wanya McCOY\n🇨🇳 XIE Zhenye\n🇬🇧 Zharnel HUGHES
+SUMMARY:🏃 남자 100m 1라운드
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T100500Z-sailing--4
 DTSTAMP:20240803T100500Z
 DTSTART:20240803T100500Z
@@ -166,6 +278,35 @@ DESCRIPTION:요트 - 여자 딩기 - 레이스 4\n🇧🇲 Adriana PENRUDDOCKE\n
   Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ 여자 딩기 - 레이스 4
 LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T105200Z-swimming--4-X-100M-
+DTSTAMP:20240803T105200Z
+DTSTART:20240803T105200Z
+DTEND:20240803T110500Z
+DESCRIPTION:경영 - 여자 4 x 100m 혼계영 - 예선\n🇭🇰 AU Hoi Shun Stephanie\n🇵🇱
+  Adela PISKORSKA\n🇺🇸 Alex SHACKELL\n🇦🇺 Alexandria PERKINS\n🇩🇪
+  Angelina KOEHLER\n🇬🇧 Angharad EVANS\n🇩🇪 Anna ELENDT\n🇮🇹 Benedetta
+  PILATO\n🇫🇷 Charlotte BONNET\n🇸🇬 Ching Hwee GAN\n🇮🇪 Danielle
+  HILL\n🇵🇱 Dominika SZTANDERA\n🇩🇰 Elisabeth Sabroe EBBESEN\n🇦🇺 Ella
+  RAMSAY\n🇮🇪 Ellen WALSHE\n🇫🇷 Emma TEREBO\n🇺🇸 Emma WEBER\n🇸🇬 En Yi
+  Letitia SIM\n🇬🇧 Freya ANDERSON\n🇮🇪 Grace DAVISON\n🇭🇰 HAUGHEY
+  Siobhan Bernadette\n🇯🇵 HIRAI Mizuki\n🇸🇪 Hanna ROSVALL\n🇯🇵 IKEE
+  Rikako\n🇨🇦 Ingrid WILM\n🇦🇺 Iona ANDERSON\n🇸🇬 Jing Wen QUAH\n🇭🇰
+  KAN Cheuk Tung Natalie\n🇺🇸 Kate DOUGLASS\n🇺🇸 Katharine BERKOFF\n🇬🇧
+  Kathleen DAWSON\n🇬🇧 Keanna Louise MACINNES\n🇵🇱 Kornelia
+  FIEDKIEWICZ\n🇩🇪 Laura RIEDEMANN\n🇸🇬 Levenia SIM\n🇸🇪 Louise
+  HANSSON\n🇳🇱 Maaike de WAARD\n🇮🇹 Margherita PANZIERA\n🇫🇷 Marie
+  WATTEL\n🇳🇱 Marrit STEENBERGEN\n🇩🇰 Martine DAMBORG\n🇫🇷 Mary-Ambre
+  MOLUH\n🇨🇦 Mary-Sophie HARVEY\n🇦🇺 Meg HARRIS\n🇮🇪 Mona Mc
+  SHARRY\n🇩🇪 Nina HOLT\n🇵🇱 Paulina PEDA\n🇨🇦 Penny OLEKSIAK\n🇯🇵
+  SHIRAI Rio\n🇯🇵 SUZUKI Satomi\n🇸🇪 Sarah SJOESTROEM\n🇩🇰 Schastine
+  TABOR\n🇮🇹 Sofia MORINI\n🇨🇦 Sophie ANGUS\n🇸🇪 Sophie HANSSON\n🇭🇰
+  TAM Hoi Lam\n🇨🇳 TANG Qianting\n🇳🇱 Tes SCHOUTEN\n🇳🇱 Tessa
+  GIELE\n🇩🇰 Thea BLOMSTERBERG\n🇮🇹 Viola SCOTTO di CARLO\n🇨🇳 WANG
+  Xueer\n🇨🇳 WU Qingfeng\n🇨🇳 YU Yiting
+SUMMARY:🏊 여자 4 x 100m 혼계영 - 예선
+LOCATION:파리 라 데팡스 아레나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T110500Z-sailing--1
@@ -285,6 +426,35 @@ SUMMARY:⛵ 혼성 딩기 - 레이스 3
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T140000Z-handball--A-SLO-SWE
+DTSTAMP:20240803T140000Z
+DTSTART:20240803T140000Z
+DTEND:20240803T153000Z
+DESCRIPTION:핸드볼 - 여자 예선 A조
+SUMMARY:🤾 슬로베니아 🇸🇮 - 🇸🇪 스웨덴
+LOCATION:사우스 파리 아레나 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T144000Z-canoe-slalom--1
+DTSTAMP:20240803T144000Z
+DTSTART:20240803T144000Z
+DTEND:20240803T153500Z
+DESCRIPTION:카누 슬라럼 - 남자 카약 크로스 1라운드\n🇬🇧 Adam BURGESS\n🇨🇦 Alex
+  BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮 Benjamin SAVSEK\n🇫🇷
+  Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn
+  BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz HEDWIG\n🇸🇪 Isak
+  OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱 Joris OTTEN\n🇬🇧
+  Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸 Manuel OCHOA\n🇨🇭
+  Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz POLACZYK\n🇲🇦 Mathis
+  SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪 Noah HEGGE\n🇮🇪 Noel
+  HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy
+  ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan CARTER\n🇹🇼 WU
+  Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 남자 카약 크로스 1라운드
+LOCATION:카누 경기장 - 화이트워터
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T145200Z-sailing--4
 DTSTAMP:20240803T145200Z
 DTSTART:20240803T145200Z
@@ -298,6 +468,46 @@ DESCRIPTION:요트 - 혼성 딩기 - 레이스 4\n🇬🇷 A SPANAKI/O SPANAKIS\
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 혼성 딩기 - 레이스 4
 LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T171500Z-athletics--1500M-
+DTSTAMP:20240803T171500Z
+DTSTART:20240803T171500Z
+DTEND:20240803T173000Z
+DESCRIPTION:육상 - 남자 1500m 패자부활전\n🇪🇹 Abdisa FAYISA\n🇦🇺 Adam
+  SPENCER\n🇪🇸 Adel MECHAAL\n🇮🇪 Andrew COSCORAN\n🇫🇷 Azeddine
+  HABZ\n🇮🇪 Cathal DOYLE\n🇨🇦 Charles PHILIBERT-THIBOUTOT\n🇮🇹 Federico
+  RIVA\n🇵🇱 Filip RAK\n🇬🇧 George MILLS\n🇪🇸 Ignacio FONTES\n🇧🇪 Jochem
+  VERMEULEN\n🇨🇦 Kieran LUMB\n🇮🇪 Luke McCANN\n🇵🇱 Maciej WYDERKA\n🇫🇷
+  Mael GOUYETTE\n🇪🇸 Mario GARCIA\n🇩🇪 Marius PROBST\n🇦🇺 Oliver
+  HOARE\n🇮🇹 Ossama MESLEK\n🇦🇹 Raphael PALLITSCH\n🇧🇪 Ruben
+  VERHEYDEN\n🇿🇦 Ryan MPHAHLELE\n🇸🇪 Samuel PIHLSTROM\n🇳🇿 Samuel
+  TANNER\n🇦🇺 Stewart McSWEYN\n🇿🇦 Tshepo TSHITE
+SUMMARY:🏃 남자 1500m 패자부활전
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T183900Z-swimming--50M-
+DTSTAMP:20240803T183900Z
+DTSTART:20240803T183900Z
+DTEND:20240803T185200Z
+DESCRIPTION:경영 - 여자 50m 자유형 준결승\n🇬🇧 Anna HOPKIN\n🇫🇷 Beryl
+  GASTALDELLO\n🇧🇪 Florine GASPARD\n🇺🇸 Gretchen WALSH\n🇩🇰 Julie Kepp
+  JENSEN\n🇵🇱 Katarzyna WASICK\n🇦🇺 Meg HARRIS\n🇸🇪 Michelle
+  COLEMAN\n🇸🇮 Neza KLANCAR\n🇮🇹 Sara CURTIS\n🇸🇪 Sarah SJOESTROEM\n🇦🇺
+  Shayna JACK\n🇨🇦 Taylor RUCK\n🇳🇱 Valerie van ROON\n🇨🇳 WU
+  Qingfeng\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 여자 50m 자유형 준결승
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T070000Z-handball--A-SWE-JPN
+DTSTAMP:20240804T070000Z
+DTSTART:20240804T070000Z
+DTEND:20240804T083000Z
+DESCRIPTION:핸드볼 - 남자 예선 A조
+SUMMARY:🤾 스웨덴 🇸🇪 - 🇯🇵 일본
+LOCATION:사우스 파리 아레나 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T070000Z-golf--4
@@ -358,6 +568,63 @@ DESCRIPTION:승마 - 마장마술 개인 그랑프리 프리스타일\n🇬🇧 
   NILSHAGEN\n🇦🇹 Victoria MAX-THEURER
 SUMMARY:🏇 마장마술 개인 그랑프리 프리스타일
 LOCATION:샤토 드 베르사유
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T082000Z-athletics--A
+DTSTAMP:20240804T082000Z
+DTSTART:20240804T082000Z
+DTEND:20240804T091600Z
+DESCRIPTION:육상 - 여자 해머던지기 예선 - A조\n🇺🇸 Annette Nneka ECHIKUNWOKE\n🇳🇴
+  Beatrice Nedberge LLANO\n🇷🇴 Bianca Florentina GHELBER\n🇨🇦 Camryn
+  ROGERS\n🇺🇸 Erin REESE\n🇦🇿 Hanna SKYDAN\n🇨🇳 LI Jiangyan\n🇳🇿 Lauren
+  BRUCE\n🇵🇱 Malwina KOPRON\n🇨🇴 Mayra GAVIRIA\n🇫🇷 Rose LOGA\n🇦🇺
+  Stephanie RATCLIFFE\n🇫🇮 Suvi KOSKINEN\n🇸🇪 Thea LOFMAN\n🇨🇳 ZHAO
+  Jie\n🇩🇿 Zahra TATAR
+SUMMARY:🏃 여자 해머던지기 예선 - A조
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T085500Z-athletics--200M-1
+DTSTAMP:20240804T085500Z
+DTSTART:20240804T085500Z
+DTEND:20240804T093600Z
+DESCRIPTION:육상 - 여자 200m 1라운드\n🇻🇬 Adaejah HODGE\n🇪🇨 Aimara
+  NAZARENO\n🇧🇷 Ana Carolina AZEVEDO\n🇮🇹 Anna BONGIORNI\n🇨🇦 Audrey
+  LEDUC\n🇬🇧 Bianca WILLIAMS\n🇭🇺 Boglarka TAKACS\n🇺🇸 Brittany
+  BROWN\n🇲🇽 Cecilia TAMAYO-GARZA\n🇮🇹 Dalia KADDARI\n🇬🇧 Daryll
+  NEITA\n🇬🇧 Dina ASHER-SMITH\n🇳🇬 Favour OFILI\n🇪🇨 Gabriela Anahi
+  SUAREZ\n🇺🇸 Gabrielle THOMAS\n🇫🇷 Gemima JOSEPH\n🇬🇲 Gina Mariam BASS
+  BITTAYE\n🇫🇷 Helene PARISOT\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke VERVAET\n🇨🇦
+  Jacqueline MADOGO\n🇪🇸 Jael BESTUE\n🇨🇮 Jessika GBAI\n🇸🇪 Julia
+  HENRIKSSON\n🇱🇨 Julien ALFRED\n🇵🇱 Krystsina TSIMANOUSKAYA\n🇨🇳 LI
+  Yuting\n🇯🇲 Lanae-Tava THOMAS\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas
+  BAZOLO\n🇧🇷 Lorraine MARTINS\n🇨🇮 Maboundou KONE\n🇨🇮 Marie-Josee TA
+  LOU-SMITH\n🇵🇱 Martyna KOTWILA\n🇺🇸 McKenzie LONG\n🇦🇺 Mia GROSS\n🇨🇭
+  Mujinga KAMBUNDJI\n🇪🇨 Nicole CAICEDO\n🇯🇲 Niesha BURGHER\n🇸🇪 Nora
+  LINDAHL\n🇰🇿 Olga SAFRONOVA\n🇨🇾 Olivia FOTOPOULOU\n🇬🇷 Polyniki
+  EMMANOUILIDOU\n🇯🇲 Shericka JACKSON\n🇳🇱 Tasa JIYA\n🇦🇺 Torrie
+  LEWIS\n🇸🇬 Veronica Shanti PEREIRA
+SUMMARY:🏃 여자 200m 1라운드
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T090000Z-athletics--
+DTSTAMP:20240804T090000Z
+DTSTART:20240804T090000Z
+DTEND:20240804T095600Z
+DESCRIPTION:육상 - 남자 멀리뛰기 예선\n🇨🇺 Alejandro PARADA\n🇺🇿 Anvar
+  ANVAROV\n🇨🇴 Arnovis DALMERO\n🇧🇬 Bozhidar SARABOYUKOV\n🇯🇲 Carey
+  McLEOD\n🇿🇦 Cheswill JOHNSON\n🇦🇺 Christopher MITREVSKI\n🇺🇾 Emiliano
+  LASA\n🇭🇷 Filip PRAVDICA\n🇯🇵 HASHIOKA Yuki\n🇬🇧 Jacob
+  FINCHAM-DUKES\n🇺🇸 Jarrion LAWSON\n🇺🇸 Jeremiah DAVIS\n🇮🇳 Jeswin
+  ALDRIN\n🇿🇦 Jovan van VUUREN\n🇹🇼 LIN Yu-Tang\n🇦🇺 Liam ADCOCK\n🇧🇷
+  Lucas Marcelino dos SANTOS\n🇺🇸 Malcolm CLEMONS\n🇮🇹 Mattia
+  FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🏳️ Mohammad Amin ALSALAMI\n🇨🇿 Petr
+  MEINDLSCHMID\n🇨🇿 Radek JUSKA\n🇨🇳 SHI Yuhao\n🇩🇪 Simon BATZ\n🇨🇭
+  Simon EHAMMER\n🇯🇲 Tajay GAYLE\n🇸🇪 Thobias MONTLER\n🇫🇷 Tom
+  CAMPAGNE\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳 ZHANG Mingkun
+SUMMARY:🏃 남자 멀리뛰기 예선
+LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T100500Z-sailing--5
@@ -470,6 +737,24 @@ SUMMARY:⛵ 여자 딩기 - 레이스 7
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T133000Z-canoe-slalom--
+DTSTAMP:20240804T133000Z
+DTSTART:20240804T133000Z
+DTEND:20240804T141000Z
+DESCRIPTION:카누 슬라럼 - 남자 카약 크로스 예선\n🇬🇧 Adam BURGESS\n🇨🇦 Alex
+  BALDONI\n🇸🇮 Benjamin SAVSEK\n🇫🇷 Boris NEVEU\n🇦🇹 Felix
+  OSCHMAUTZ\n🇳🇿 Finn BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz
+  HEDWIG\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇬🇧
+  Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸 Manuel OCHOA\n🇨🇭
+  Martin DOUGOUD\n🇵🇱 Mateusz POLACZYK\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel
+  TRAVE\n🇩🇪 Noah HEGGE\n🇮🇪 Noel HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮
+  Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳 Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵
+  TANAKA Yuuki\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan
+  CARTER\n🇹🇼 WU Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 남자 카약 크로스 예선
+LOCATION:카누 경기장 - 화이트워터
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T134500Z-sailing--4
 DTSTAMP:20240804T134500Z
 DTSTART:20240804T134500Z
@@ -538,6 +823,27 @@ SUMMARY:⛵ 혼성 멀티헐 - 레이스 6
 LOCATION:마르세유 마리나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T163000Z-swimming--50M-
+DTSTAMP:20240804T163000Z
+DTSTART:20240804T163000Z
+DTEND:20240804T163700Z
+DESCRIPTION:경영 - 여자 50m 자유형 결승\n🇺🇸 Gretchen WALSH\n🇵🇱 Katarzyna
+  WASICK\n🇦🇺 Meg HARRIS\n🇸🇮 Neza KLANCAR\n🇸🇪 Sarah SJOESTROEM\n🇦🇺
+  Shayna JACK\n🇨🇳 WU Qingfeng\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 여자 50m 자유형 결승
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T173200Z-swimming--4-X-100M-
+DTSTAMP:20240804T173200Z
+DTSTART:20240804T173200Z
+DTEND:20240804T174200Z
+DESCRIPTION:경영 - 여자 4 x 100m 혼계영 결승\n🇳🇱 네덜란드\n🇺🇸 미국\n🇸🇪 스웨덴\n🇦🇺
+  오스트레일리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇫🇷 프랑스
+SUMMARY:🏊 여자 4 x 100m 혼계영 결승
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T070000Z-shooting--
 DTSTAMP:20240805T070000Z
 DTSTART:20240805T070000Z
@@ -556,6 +862,40 @@ DTEND:20240805T110000Z
 DESCRIPTION:탁구 - 남자 단체 16강
 SUMMARY:🏓 스웨덴 🇸🇪 - 🇩🇰 덴마크
 LOCATION:사우스 파리 아레나 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T080500Z-athletics--400M-1
+DTSTAMP:20240805T080500Z
+DTSTART:20240805T080500Z
+DTEND:20240805T083800Z
+DESCRIPTION:육상 - 남자 400m 허들 1라운드\n🇶🇦 Abderrahman SAMBA\n🇬🇧 Alastair
+  CHALMERS\n🇮🇹 Alessandro SIBILIO\n🇧🇷 Alison dos SANTOS\n🇶🇦 Bassem
+  HEMEIDA\n🇹🇷 Berke AKCAM\n🇸🇪 Carl BENGTSTROM\n🇺🇸 Cj ALLEN\n🇫🇷
+  Clement DUCOS\n🇩🇪 Constantin PREIS\n🇩🇪 Emil AGYEKUM\n🇳🇬 Ezekiel
+  NATHANIEL\n🇨🇷 Gerald DRUMMOND\n🇶🇦 Ismail Doudai ABAKAR\n🇯🇲 Jaheel
+  HYDE\n🇩🇪 Joshua ABUAKU\n🇨🇭 Julien BONVIN\n🇳🇴 Karsten WARHOLM\n🇻🇬
+  Kyron McMASTER\n🇯🇲 Malik JAMES-KING\n🇧🇷 Matheus LIMA\n🇸🇮 Matic Ian
+  GUCEK\n🇳🇱 Nick SMIDT\n🇯🇵 OGAWA Daiki\n🇸🇪 Oskar EDLUND\n🇹🇼 PENG
+  Ming-Yang\n🇺🇸 Rai BENJAMIN\n🇪🇪 Rasmus MAGI\n🇯🇲 Roshawn CLARKE\n🇯🇵
+  TOYODA Ken\n🇯🇵 TSUTSUE Kaito\n🇺🇸 Trevor BASSITT\n🇧🇼 Victor
+  NTWENG\n🇨🇿 Vit MULLER\n🇫🇷 Wilfried HAPPIO\n🇰🇪 Wiseman Were
+  MUKHOBE\n🇨🇳 XIE Zhiyu\n🇹🇷 Yasmani COPELLO\n🇩🇴 Yeral NUNEZ
+SUMMARY:🏃 남자 400m 허들 1라운드
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T081000Z-athletics--A
+DTSTAMP:20240805T081000Z
+DTSTART:20240805T081000Z
+DTEND:20240805T090600Z
+DESCRIPTION:육상 - 남자 원반던지기 예선 - A조\n🇺🇸 Andrew EVANS\n🇸🇪 Daniel
+  STAHL\n🇿🇦 Francois PRINSLOO\n🇩🇪 Henrik JANSSEN\n🇫🇷 Lolassonn
+  DJOUHAN\n🇦🇹 Lukas WEISSHAIDINGER\n🇨🇺 Mario Alberto DIAZ\n🇭🇷 Martin
+  MARKOVIC\n🇱🇹 Martynas ALEKNA\n🇦🇺 Matthew DENNY\n🇨🇴 Mauricio
+  ORTEGA\n🇱🇹 Mykolas ALEKNA\n🇬🇧 Nicholas PERCY\n🇯🇲 Ralford
+  MULLINGS\n🇺🇸 Sam MATTIS\n🇯🇲 Traves SMIKLE
+SUMMARY:🏃 남자 원반던지기 예선 - A조
+LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T100500Z-sailing--7
@@ -594,6 +934,24 @@ DESCRIPTION:요트 - 여자 딩기 - 레이스 9\n🇧🇲 Adriana PENRUDDOCKE\n
   Viktorija ANDRULYTE\n🇦🇺 Zoe THOMSON
 SUMMARY:⛵ 여자 딩기 - 레이스 9
 LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T105000Z-athletics--200M-
+DTSTAMP:20240805T105000Z
+DTSTART:20240805T105000Z
+DTEND:20240805T111500Z
+DESCRIPTION:육상 - 여자 200m 패자부활전\n🇻🇬 Adaejah HODGE\n🇪🇨 Aimara
+  NAZARENO\n🇧🇷 Ana Carolina AZEVEDO\n🇮🇹 Anna BONGIORNI\n🇭🇺 Boglarka
+  TAKACS\n🇲🇽 Cecilia TAMAYO-GARZA\n🇮🇹 Dalia KADDARI\n🇪🇨 Gabriela
+  Anahi SUAREZ\n🇩🇰 Ida KARSTOFT\n🇧🇪 Imke VERVAET\n🇨🇦 Jacqueline
+  MADOGO\n🇪🇸 Jael BESTUE\n🇵🇱 Krystsina TSIMANOUSKAYA\n🇨🇳 LI
+  Yuting\n🇨🇭 Leonie POINTET\n🇵🇹 Lorene Dorcas BAZOLO\n🇧🇷 Lorraine
+  MARTINS\n🇨🇮 Maboundou KONE\n🇵🇱 Martyna KOTWILA\n🇦🇺 Mia GROSS\n🇪🇨
+  Nicole CAICEDO\n🇸🇪 Nora LINDAHL\n🇰🇿 Olga SAFRONOVA\n🇨🇾 Olivia
+  FOTOPOULOU\n🇬🇷 Polyniki EMMANOUILIDOU\n🇦🇺 Torrie LEWIS\n🇸🇬 Veronica
+  Shanti PEREIRA
+SUMMARY:🏃 여자 200m 패자부활전
+LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T105700Z-sailing--8
@@ -682,6 +1040,41 @@ SUMMARY:🏇 장애물 개인 예선
 LOCATION:샤토 드 베르사유
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T170000Z-athletics--
+DTSTAMP:20240805T170000Z
+DTSTART:20240805T170000Z
+DTEND:20240805T192700Z
+DESCRIPTION:육상 - 남자 장대높이뛰기 결승\n🇸🇪 Armand DUPLANTIS\n🇩🇪 Bo Kanda LITA
+  BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu
+  SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱 Menno VLOON\n🇩🇪
+  Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre GUTTORMSEN\n🇱🇻 Valters
+  KREISS
+SUMMARY:🏃 남자 장대높이뛰기 결승
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T175500Z-athletics--200M-1
+DTSTAMP:20240805T175500Z
+DTSTART:20240805T175500Z
+DTEND:20240805T183100Z
+DESCRIPTION:육상 - 남자 200m 1라운드\n🇨🇦 Aaron BROWN\n🇵🇱 Albert KOMANSKI\n🇩🇴
+  Alexander OGANDO\n🇨🇦 Andre De GRASSE\n🇯🇲 Andrew HUDSON\n🇿🇦 Benjamin
+  RICHARDSON\n🇮🇱 Blessing Akwasi AFRIFAH\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan
+  LEVELL\n🇦🇺 Calab LAW\n🇵🇾 Cesar ALMIRON\n🇨🇮 Cheickna TRAORE\n🇮🇹
+  Diego Aldo PETTOROSSI\n🇨🇿 Eduard KUBELIK\n🇸🇪 Erik ERLANDSSON\n🇺🇸
+  Erriyon KNIGHTON\n🇮🇹 Eseosa Fostine DESALU\n🇨🇭 Felix SVENSSON\n🇮🇹
+  Filippo TORTU\n🇯🇵 IIZUKA Shota\n🇧🇸 Ian KERR\n🇩🇴 Jose GONZALEZ\n🇱🇷
+  Joseph FAHNBULLEH\n🇩🇪 Joshua HARTMANN\n🇺🇸 Kenneth BEDNAREK\n🇧🇼
+  Letsile TEBOGO\n🇿🇼 Makanakaishe CHARAMBA\n🇺🇸 Noah LYLES\n🇨🇿 Ondrej
+  MACIK\n🇫🇷 Pablo MATEO\n🇧🇷 Renan CORREA\n🇫🇷 Ryan ZEZE\n🇿🇦 Shaun
+  MASWANGANYI\n🇿🇼 Tapiwanashe MAKARAWU\n🇺🇬 Tarsis Gracious OROGOT\n🇨🇭
+  Timothe MUMENTHALER\n🇨🇿 Tomas NEMEJC\n🇯🇵 UEYAMA Koki\n🇯🇵 UZAWA
+  Towa\n🇳🇬 Udodi Chudi ONWUZURIKE\n🇧🇸 Wanya McCOY\n🇿🇦 Wayde van
+  NIEKERK\n🇨🇭 William REAIS\n🇹🇼 YANG Chun-Han\n🇬🇧 Zharnel HUGHES
+SUMMARY:🏃 남자 200m 1라운드
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T180000Z-table-tennis--16-HKG-SWE
 DTSTAMP:20240805T180000Z
 DTSTART:20240805T180000Z
@@ -689,6 +1082,36 @@ DTEND:20240805T210000Z
 DESCRIPTION:탁구 - 여자 단체 16강
 SUMMARY:🏓 홍콩, 차이나 🇭🇰 - 🇸🇪 스웨덴
 LOCATION:사우스 파리 아레나 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T183000Z-athletics--
+DTSTAMP:20240805T183000Z
+DTSTART:20240805T183000Z
+DTEND:20240805T194000Z
+DESCRIPTION:육상 - 여자 원반던지기 결승\n🇲🇩 Alexandra EMILIANOV\n🇩🇪 Claudine
+  VITA\n🇮🇹 Daisy OSAKUE\n🇨🇳 FENG Bin\n🇵🇹 Irina RODRIGUES\n🇳🇱
+  Jorinde van KLINKEN\n🇩🇪 Kristin PUDENZ\n🇩🇪 Marike STEINACKER\n🇫🇷
+  Melina ROBERT-MICHON\n🇭🇷 Sandra ELKASEVIC\n🇺🇸 Valarie ALLMAN\n🇸🇪
+  Vanessa KAMGA
+SUMMARY:🏃 여자 원반던지기 결승
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T184500Z-athletics--200M-
+DTSTAMP:20240805T184500Z
+DTSTART:20240805T184500Z
+DTEND:20240805T190000Z
+DESCRIPTION:육상 - 여자 200m 준결승\n🇻🇬 Adaejah HODGE\n🇨🇦 Audrey LEDUC\n🇬🇧
+  Bianca WILLIAMS\n🇺🇸 Brittany BROWN\n🇬🇧 Daryll NEITA\n🇬🇧 Dina
+  ASHER-SMITH\n🇳🇬 Favour OFILI\n🇺🇸 Gabrielle THOMAS\n🇫🇷 Gemima
+  JOSEPH\n🇬🇲 Gina Mariam BASS BITTAYE\n🇫🇷 Helene PARISOT\n🇨🇦
+  Jacqueline MADOGO\n🇨🇮 Jessika GBAI\n🇸🇪 Julia HENRIKSSON\n🇱🇨 Julien
+  ALFRED\n🇯🇲 Lanae-Tava THOMAS\n🇨🇮 Maboundou KONE\n🇺🇸 McKenzie
+  LONG\n🇨🇭 Mujinga KAMBUNDJI\n🇯🇲 Niesha BURGHER\n🇨🇾 Olivia
+  FOTOPOULOU\n🇬🇷 Polyniki EMMANOUILIDOU\n🇳🇱 Tasa JIYA\n🇦🇺 Torrie
+  LEWIS
+SUMMARY:🏃 여자 200m 준결승
+LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T080000Z-equestrian--
@@ -707,6 +1130,21 @@ DESCRIPTION:승마 - 장애물 개인 결승\n🇸🇦 Abdulrahman ALRAJHI\n🇲
   Stephan de FREITAS BARCHA\n🇨🇭 Steve GUERDAT\n🇳🇴 Victoria GULLIKSEN
 SUMMARY:🏇 장애물 개인 결승
 LOCATION:샤토 드 베르사유
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T100000Z-athletics--400M-
+DTSTAMP:20240806T100000Z
+DTSTART:20240806T100000Z
+DTEND:20240806T101700Z
+DESCRIPTION:육상 - 남자 400m 허들 패자부활전\n🇶🇦 Bassem HEMEIDA\n🇹🇷 Berke
+  AKCAM\n🇸🇪 Carl BENGTSTROM\n🇩🇪 Constantin PREIS\n🇩🇪 Emil
+  AGYEKUM\n🇨🇷 Gerald DRUMMOND\n🇩🇪 Joshua ABUAKU\n🇨🇭 Julien
+  BONVIN\n🇸🇮 Matic Ian GUCEK\n🇯🇵 OGAWA Daiki\n🇸🇪 Oskar EDLUND\n🇯🇵
+  TOYODA Ken\n🇯🇵 TSUTSUE Kaito\n🇺🇸 Trevor BASSITT\n🇧🇼 Victor
+  NTWENG\n🇨🇿 Vit MULLER\n🇨🇳 XIE Zhiyu\n🇹🇷 Yasmani COPELLO\n🇩🇴 Yeral
+  NUNEZ
+SUMMARY:🏃 남자 400m 허들 패자부활전
+LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T100500Z-sailing--10
@@ -759,6 +1197,23 @@ DESCRIPTION:요트 - 혼성 딩기 - 레이스 7\n🇬🇷 A SPANAKI/O SPANAKIS\
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 혼성 딩기 - 레이스 7
 LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T103000Z-athletics--200M-
+DTSTAMP:20240806T103000Z
+DTSTART:20240806T103000Z
+DTEND:20240806T105500Z
+DESCRIPTION:육상 - 남자 200m 패자부활전\n🇨🇦 Aaron BROWN\n🇵🇱 Albert
+  KOMANSKI\n🇯🇲 Andrew HUDSON\n🇿🇦 Benjamin RICHARDSON\n🇮🇱 Blessing
+  Akwasi AFRIFAH\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan LEVELL\n🇦🇺 Calab
+  LAW\n🇵🇾 Cesar ALMIRON\n🇨🇮 Cheickna TRAORE\n🇮🇹 Diego Aldo
+  PETTOROSSI\n🇨🇿 Eduard KUBELIK\n🇸🇪 Erik ERLANDSSON\n🇨🇭 Felix
+  SVENSSON\n🇯🇵 IIZUKA Shota\n🇧🇸 Ian KERR\n🇨🇿 Ondrej MACIK\n🇫🇷 Pablo
+  MATEO\n🇫🇷 Ryan ZEZE\n🇨🇭 Timothe MUMENTHALER\n🇨🇿 Tomas NEMEJC\n🇯🇵
+  UEYAMA Koki\n🇳🇬 Udodi Chudi ONWUZURIKE\n🇨🇭 William REAIS\n🇹🇼 YANG
+  Chun-Han
+SUMMARY:🏃 남자 200m 패자부활전
+LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T105700Z-sailing--11
@@ -834,6 +1289,15 @@ DESCRIPTION:요트 - 혼성 딩기 - 레이스 10\n🇬🇷 A SPANAKI/O SPANAKIS
   VADLAU/MAEHR\n🇪🇸 XAMMAR/BRUGMAN\n🇨🇳 XU/LV
 SUMMARY:⛵ 혼성 딩기 - 레이스 10
 LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T153000Z-handball--8-HUN-SWE
+DTSTAMP:20240806T153000Z
+DTSTART:20240806T153000Z
+DTEND:20240806T170000Z
+DESCRIPTION:핸드볼 - 여자 8강
+SUMMARY:🤾 헝가리 🇭🇺 - 🇸🇪 스웨덴
+LOCATION:피에르 모루아 스타디움
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T160000Z-beach-volleyball--8-BRA-SWE
@@ -922,6 +1386,21 @@ SUMMARY:🛶 남자 카약 1인승 1000m 예선
 LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T103000Z-skateboarding--
+DTSTAMP:20240807T103000Z
+DTSTART:20240807T103000Z
+DTEND:20240807T133100Z
+DESCRIPTION:스케이트보드 - 남자 파크 예선\n🇪🇸 Alain KORTABITARTE\n🇮🇹 Alessandro
+  MAZZARA\n🇮🇹 Alex SORGENTE\n🇬🇧 Andrew MACDONALD\n🇧🇷 Augusto
+  AKIO\n🇿🇦 Dallas OBERHOLZER\n🇪🇸 Danny LEON\n🇺🇸 Gavin BOTTGER\n🇸🇪
+  Hampus WINBERG\n🇦🇺 Keefer WILSON\n🇦🇺 Keegan PALMER\n🇦🇺 Kieran
+  WOOLLEY\n🇧🇷 Luigi CINI\n🇯🇵 NAGAHARA Yuro\n🇧🇷 Pedro BARROS\n🇵🇷
+  Steven PINEIRO\n🇺🇸 Tate CAREW\n🇵🇹 Thomas AUGUSTO\n🇺🇸 Tom
+  SCHAAR\n🇩🇪 Tyler EDTMAYER\n🇩🇰 Viktor SOLMUNDE\n🇫🇷 Vincent MATHERON
+SUMMARY:🛹 남자 파크 예선
+LOCATION:라 콩코르드 4
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T130000Z-diving--3M-
 DTSTAMP:20240807T130000Z
 DTSTART:20240807T130000Z
@@ -937,6 +1416,28 @@ DESCRIPTION:다이빙 - 여자 3m 스프링보드 예선\n🇲🇽 Alejandra EST
   Valeria ANTOLINO\n🇺🇦 Viktoriya KESAR\n🇬🇧 Yasmin HARPER
 SUMMARY:🏊 여자 3m 스프링보드 예선
 LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T153000Z-handball--8-DEN-SWE
+DTSTAMP:20240807T153000Z
+DTSTART:20240807T153000Z
+DTEND:20240807T173000Z
+DESCRIPTION:핸드볼 - 남자 8강
+SUMMARY:🤾 덴마크 🇩🇰 - 🇸🇪 스웨덴
+LOCATION:피에르 모루아 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T182500Z-athletics--
+DTSTAMP:20240807T182500Z
+DTSTART:20240807T182500Z
+DTEND:20240807T193500Z
+DESCRIPTION:육상 - 남자 원반던지기 결승\n🇼🇸 Alex ROSE\n🇷🇴 Alin Alexandru
+  FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇩🇪 Clemens PRUEFER\n🇸🇪 Daniel
+  STAHL\n🇸🇮 Kristjan CEH\n🇦🇹 Lukas WEISSHAIDINGER\n🇦🇺 Matthew
+  DENNY\n🇱🇹 Mykolas ALEKNA\n🇯🇲 Ralford MULLINGS\n🇯🇲 Roje STONA\n🇯🇲
+  Traves SMIKLE
+SUMMARY:🏃 남자 원반던지기 결승
+LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T070000Z-golf--2

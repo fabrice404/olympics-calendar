@@ -44,6 +44,19 @@ SUMMARY:🥊 Rami Mofid KIWAN 🇧🇬 - 🇺🇸 Omari JONES
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T142000Z-artistic-gymnastics-WOMENS-VAULT-FINAL
+DTSTAMP:20240803T142000Z
+DTSTART:20240803T142000Z
+DTEND:20240803T150200Z
+DESCRIPTION:Artistic Gymnastics - Women's Vault Final\n🇰🇵 AN Chang
+  Ok\n🇲🇽 Alexa MORENO\n🇭🇺 Csenge Maria BACSKAY\n🇨🇦 Elsabeth
+  BLACK\n🇺🇸 Jade CAREY\n🇺🇸 Jordan CHILES\n🇫🇷 Ming VAN EIJKEN\n🇧🇷
+  Rebeca ANDRADE\n🇨🇦 Shallon OLSEN\n🇺🇸 Simone BILES\n🇧🇬 Valentina
+  GEORGIEVA\n🇰🇷 YEO Seojeong
+SUMMARY:🤸 Women's Vault Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T181600Z-boxing-MENS-57KG-QUARTERFINAL-JPN-BUL
 DTSTAMP:20240803T181600Z
 DTSTART:20240803T181600Z
@@ -60,6 +73,26 @@ DTEND:20240804T091100Z
 DESCRIPTION:Boxing - Women's 57kg - Quarterfinal
 SUMMARY:🥊 LIN Yu Ting 🇹🇼 - 🇧🇬 Svetlana Kamenova STANEVA
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T090000Z-athletics-MENS-LONG-JUMP-QUALIFICATION
+DTSTAMP:20240804T090000Z
+DTSTART:20240804T090000Z
+DTEND:20240804T095600Z
+DESCRIPTION:Athletics - Men's Long Jump Qualification\n🇨🇺 Alejandro
+  PARADA\n🇺🇿 Anvar ANVAROV\n🇨🇴 Arnovis DALMERO\n🇧🇬 Bozhidar
+  SARABOYUKOV\n🇯🇲 Carey McLEOD\n🇿🇦 Cheswill JOHNSON\n🇦🇺 Christopher
+  MITREVSKI\n🇺🇾 Emiliano LASA\n🇭🇷 Filip PRAVDICA\n🇯🇵 HASHIOKA
+  Yuki\n🇬🇧 Jacob FINCHAM-DUKES\n🇺🇸 Jarrion LAWSON\n🇺🇸 Jeremiah
+  DAVIS\n🇮🇳 Jeswin ALDRIN\n🇿🇦 Jovan van VUUREN\n🇹🇼 LIN Yu-Tang\n🇦🇺
+  Liam ADCOCK\n🇧🇷 Lucas Marcelino dos SANTOS\n🇺🇸 Malcolm CLEMONS\n🇮🇹
+  Mattia FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🏳️ Mohammad Amin
+  ALSALAMI\n🇨🇿 Petr MEINDLSCHMID\n🇨🇿 Radek JUSKA\n🇨🇳 SHI Yuhao\n🇩🇪
+  Simon BATZ\n🇨🇭 Simon EHAMMER\n🇯🇲 Tajay GAYLE\n🇸🇪 Thobias
+  MONTLER\n🇫🇷 Tom CAMPAGNE\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳
+  ZHANG Mingkun
+SUMMARY:🏃 Men's Long Jump Qualification
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T134200Z-wrestling-MENS-GRECO-ROMAN-130KG-18-FINAL-CHI-BUL
@@ -80,6 +113,25 @@ SUMMARY:🤼 Kiril Milenov MILOV 🇧🇬 - 🇪🇬 Abdellatif MOHAMED
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T091500Z-athletics-WOMENS-LONG-JUMP-QUALIFICATION
+DTSTAMP:20240806T091500Z
+DTSTART:20240806T091500Z
+DTEND:20240806T102300Z
+DESCRIPTION:Athletics - Women's Long Jump Qualification\n🇯🇲 Ackelia
+  SMITH\n🇵🇹 Agate de SOUSA\n🇷🇴 Alina ROTARU-KOTTMANN\n🇦🇺 Brooke
+  BUSCHKUEHL\n🇯🇲 Chanice PORTER\n🇧🇷 Eliane MARTINS\n🇳🇬 Ese
+  BRUME\n🇪🇬 Esraa OWIS\n🇪🇸 Fatima DIAME\n🇯🇵 HATA Sumire\n🇫🇷 Hilary
+  KPATCHA\n🇷🇸 Ivana SPANOVIC\n🇺🇸 Jasmine MOORE\n🇮🇹 Larissa
+  IAPICHINO\n🇩🇪 Laura Raquel MUELLER\n🇧🇷 Lissandra Maysa CAMPOS\n🇩🇪
+  Malaika MIHAMBO\n🇧🇫 Marthe KOALA\n🇩🇪 Mikaelle ASSANI\n🇷🇸 Milica
+  GARDASEVIC\n🇺🇸 Monae' NICHOLS\n🇨🇴 Natalia LINARES\n🇵🇱 Nikola
+  HOROWSKA\n🇳🇱 Pauline HONDEMA\n🇭🇺 Petra BANHIDI-FARKAS\n🇧🇬 Plamena
+  MITKOVA\n🇳🇬 Prestina Oluchi OCHONOGOR\n🇳🇬 Ruth USORO\n🇺🇸 Tara
+  DAVIS-WOODHALL\n🇪🇸 Tessy EBOSELE\n🇨🇳 XIONG Shiqi
+SUMMARY:🏃 Women's Long Jump Qualification
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T100300Z-wrestling-MENS-GRECO-ROMAN-77KG-18-FINAL-BUL-AZE
 DTSTAMP:20240806T100300Z
 DTSTART:20240806T100300Z
@@ -87,6 +139,28 @@ DTEND:20240806T101000Z
 DESCRIPTION:Wrestling - Men's Greco-Roman 77kg 1/8 Final
 SUMMARY:🤼 Aik MNATSAKANIAN 🇧🇬 - 🇦🇿 Sanan SULEYMANOV
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T073000Z-canoe-sprint-WOMENS-KAYAK-SINGLE-500M-HEATS
+DTSTAMP:20240807T073000Z
+DTSTART:20240807T073000Z
+DTEND:20240807T082700Z
+DESCRIPTION:Canoe Sprint - Women's Kayak Single 500m Heats\n🇳🇿 Aimee
+  FISHER\n🇭🇺 Alida Dora GAZSO\n🇦🇺 Alyce WOOD\n🇧🇷 Ana Paula
+  VERGUTZ\n🇭🇷 Anamaria GOVORCINOVIC\n🇨🇿 Anezka PALOUDOVA\n🇲🇽 Beatriz
+  BRIONES FRAGOZA\n🇪🇸 Begona LAZKANO\n🇦🇷 Brenda ROJAS\n🇵🇱 Dominika
+  PUTTO\n🇺🇿 Ekaterina SHUBINA\n🇩🇰 Emma Aastrand JORGENSEN\n🇩🇪 Enja
+  ROESSELING\n🇪🇸 Estefania FERNANDEZ\n🇿🇦 Esti OLIVIER\n🇳🇴 Hedda
+  ORITSLAND\n🇧🇪 Hermien PETERS\n🇸🇬 Jiexian Stephenie CHEN\n🇲🇽 Karina
+  ALANIS MORALES\n🇸🇪 Linnea STENSILS\n🇳🇿 Lisa CARRINGTON\n🇧🇪 Lize
+  BROEKX\n🇫🇷 Manon HOSTENS\n🇺🇦 Mariya POVKH\n🇸🇪 Melina
+  ANDERSSON\n🇨🇦 Michelle RUSSELL\n🇷🇸 Milica NOVAKOVIC\n🇬🇺 Raina
+  TAITINGFONG\n🇨🇦 Riley MELANSON\n🇳🇱 Ruth VORSSELMAN\n🇪🇬 Samaa
+  AHMED\n🇼🇸 Samalulu CLIFTON\n🏳️ Saman SOLTANI\n🇳🇱 Selma KONIJN\n🇭🇺
+  Tamara CSIPES\n🇵🇹 Teresa PORTELA\n🇿🇦 Tiffany Amber KOCH\n🇨🇳 WANG
+  Nan\n🇨🇳 YIN Mengdie\n🇧🇬 Yoana GEORGIEVA
+SUMMARY:🛶 Women's Kayak Single 500m Heats
+LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T130000Z-weightlifting-MENS-61KG
@@ -100,6 +174,15 @@ DESCRIPTION:Weightlifting - Men's 61kg\n🇮🇩 Eko IRAWAN\n🇺🇸 Hampton
   van Vinh TRINH
 SUMMARY:🏋 Men's 61kg
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T084700Z-taekwondo-WOMEN-57KG-ROUND-OF-16-BUL-IRI
+DTSTAMP:20240808T084700Z
+DTSTART:20240808T084700Z
+DTEND:20240808T085900Z
+DESCRIPTION:Taekwondo - Women -57kg Round of 16
+SUMMARY:🥋 Alizadeh KIMIA 🇧🇬 - 🇮🇷 Nahid KIYANICHANDEH
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T173000Z-weightlifting-MENS-73KG

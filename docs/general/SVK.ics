@@ -43,6 +43,25 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T070000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-1
+DTSTAMP:20240803T070000Z
+DTSTART:20240803T070000Z
+DTEND:20240803T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 1\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 1
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -148,6 +167,25 @@ SUMMARY:🛶 Men's Kayak Cross Repechage
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T073000Z-shooting-SKEET-WOMENS-QUALIFICATION-DAY-2
+DTSTAMP:20240804T073000Z
+DTSTART:20240804T073000Z
+DTEND:20240804T123000Z
+DESCRIPTION:Shooting - Skeet Women's Qualification - Day 2\n🇦🇺 Aislin
+  JONES\n🇬🇧 Amber Jo RUTTER\n🇪🇬 Amira ABOUSHOKKA\n🇰🇿 Assem
+  ORYNBAY\n🇺🇸 Austen Jewell SMITH\n🇨🇿 Barbora SUMOVA\n🇳🇿 Chloe
+  TIPPLE\n🇺🇸 Dania Jo VIZZI\n🇵🇪 Daniella BORDA OLAECHEA\n🇸🇰 Danka
+  BARTEKOVA\n🇮🇹 Diana BACOSI\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱 Francisca
+  CROVETTO CHADID\n🇲🇽 Gabriela RODRIGUEZ\n🇧🇷 Georgia FURQUIM
+  BASTOS\n🇺🇦 Iryna MALOVICHKO\n🇰🇷 JANG Kookhee\n🇨🇳 JIANG Yiting\n🇨🇾
+  Konstantia NIKOLAOU\n🇫🇷 Lucie ANASTASSIOU\n🇮🇳 Maheshwari
+  CHAUHAN\n🇮🇹 Martina BARTOLOMEI\n🇩🇪 Nadine MESSERSCHMIDT\n🇩🇪 Nele
+  WISSMER\n🇮🇳 Raiza DHILLON\n🇹🇷 Sena CAN\n🇸🇰 Vanesa HOCKOVA\n🇸🇪
+  Victoria LARSSON\n🇨🇳 WEI Meng
+SUMMARY:🔫 Skeet Women's Qualification - Day 2
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
 DTSTAMP:20240804T120000Z
 DTSTART:20240804T120000Z
@@ -205,6 +243,17 @@ SUMMARY:🛶 Men's Kayak Cross Heats
 LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T133000Z-shooting-SKEET-WOMENS-FINAL
+DTSTAMP:20240804T133000Z
+DTSTART:20240804T133000Z
+DTEND:20240804T144500Z
+DESCRIPTION:Shooting - Skeet Women's Final\n🇬🇧 Amber Jo RUTTER\n🇺🇸
+  Austen Jewell SMITH\n🇸🇰 Danka BARTEKOVA\n🇬🇷 Emmanouela
+  KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇸🇰 Vanesa HOCKOVA
+SUMMARY:🔫 Skeet Women's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T144500Z-canoe-slalom-WOMENS-KAYAK-CROSS-HEATS
 DTSTAMP:20240804T144500Z
 DTSTART:20240804T144500Z
@@ -222,6 +271,23 @@ DESCRIPTION:Canoe Slalom - Women's Kayak Cross Heats\n🇨🇭 Alena MARX\n🇧�
   Viktoria WOLFFHARDT\n🇺🇦 Viktoriia US
 SUMMARY:🛶 Women's Kayak Cross Heats
 LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T183500Z-athletics-WOMENS-800M-SEMI-FINAL
+DTSTAMP:20240804T183500Z
+DTSTART:20240804T183500Z
+DTEND:20240804T185700Z
+DESCRIPTION:Athletics - Women's 800m Semi-Final\n🇦🇺 Abbey CALDWELL\n🇫🇷
+  Anais BOURGOIN\n🇦🇺 Claudia HOLLINGSWORTH\n🇨🇺 Daily COOPER
+  GASPAR\n🇸🇰 Gabriela GAJANOVA\n🇬🇧 Jemma REEKIE\n🇺🇸 Juliette
+  WHITTAKER\n🇬🇧 Keely HODGKINSON\n🇰🇪 Lilian ODIRA\n🇩🇪 Majtie
+  KOLBERG\n🇰🇪 Mary MORAA\n🇯🇲 Natoya GOULE-TOPPIN\n🇺🇸 Nia AKINS\n🇧🇯
+  Noelie YARIGO\n🇬🇧 Phoebe GILL\n🇿🇦 Prudence SEKGODISO\n🇨🇭 Rachel
+  PELLAUD\n🇫🇷 Renelle LAMOTE\n🇨🇺 Rose Mary ALMANZA\n🇻🇨 Shafiqua
+  MALONEY\n🇪🇹 Tsige DUGUMA\n🇨🇭 Valentina ROSAMILIA\n🇰🇪 Vivian Chebet
+  KIPROTICH\n🇪🇹 Worknesh MESELE
+SUMMARY:🏃 Women's 800m Semi-Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T135200Z-canoe-slalom-MENS-KAYAK-CROSS-QUARTERFINAL

@@ -58,6 +58,18 @@ SUMMARY:🤸 女子種目別跳馬決勝
 LOCATION:ベルシー・アリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T173500Z-athletics-
+DTSTAMP:20240803T173500Z
+DTSTART:20240803T173500Z
+DTEND:20240803T184500Z
+DESCRIPTION:陸上競技 - 男子砲丸投決勝\n🇳🇬 Chukwuebuka Cornnell ENEKWECHI\n🇳🇿 Jacko
+  GILL\n🇺🇸 Joe KOVACS\n🇮🇹 Leonardo FABBRI\n🇳🇴 Marcus THOMSEN\n🇺🇸
+  Payton OTTERDAHL\n🇯🇲 Rajindra CAMPBELL\n🇺🇸 Ryan CROUSER\n🇳🇿 Tom
+  WALSH\n🇨🇿 Tomas STANEK\n🇲🇽 Uziel MUNOZ\n🇮🇹 Zane WEIR
+SUMMARY:🏃 男子砲丸投決勝
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T070000Z-golf-4
 DTSTAMP:20240804T070000Z
 DTSTART:20240804T070000Z
@@ -163,6 +175,51 @@ DESCRIPTION:飛込 - 女子10m高飛込決勝\n🇯🇵 ARAI Matsuri\n🇲🇽 A
   GARCIA\n🇰🇵 KIM Mi Rae\n🇦🇺 Melissa WU\n🇨🇳 QUAN Hongchan\n🇮🇹 Sarah
   JODOIN di MARIA
 SUMMARY:🏊 女子10m高飛込決勝
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T194600Z-boxing-71KG--GBR-MEX
+DTSTAMP:20240806T194600Z
+DTSTART:20240806T194600Z
+DTEND:20240806T195700Z
+DESCRIPTION:ボクシング - 男子71kg級 - 準決勝
+SUMMARY:🥊 Lewis RICHARDSON 🇬🇧 - 🇲🇽 Marco Alonso VERDE ALVAREZ
+LOCATION:スタッド・ローラン・ギャロス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T173000Z-artistic-swimming-
+DTSTAMP:20240807T173000Z
+DTSTART:20240807T173000Z
+DTEND:20240807T182900Z
+DESCRIPTION:アーティスティックスイミング - チームアクロバティックルーティン\n🇺🇸 アメリカ合衆国\n🇮🇹
+  イタリア\n🇪🇬 エジプト\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽
+  メキシコ\n🇨🇳 中国\n🇯🇵 日本
+SUMMARY:🏊 チームアクロバティックルーティン
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T130000Z-weightlifting-59KG
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T153000Z
+DESCRIPTION:ウエイトリフティング - 女子59kg級\n🇻🇪 Anyelin VENEGAS VALERA\n🇫🇷 Dora
+  TCHAKOUNTE\n🇵🇭 Elreen Ann ANDO\n🇲🇽 Janeth GOMEZ VALDIVIA\n🇹🇼 KUO
+  Hsing-Chun\n🇺🇦 Kamila KONOTOP\n🇨🇳 LUO Shifang\n🇮🇹 Lucrezia
+  MAGISTRIS\n🇲🇭 Mathlynn SASSER\n🇨🇦 Maude CHARRON\n🇳🇬 Rafiatu
+  Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
+SUMMARY:🏋 女子59kg級
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-artistic-swimming-
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T192300Z
+DESCRIPTION:アーティスティックスイミング - デュエットフリールーティン\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇮🇹
+  イタリア\n🇺🇦 ウクライナ\n🇪🇬 エジプト\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦
+  カナダ\n🇬🇷 ギリシャ\n🇪🇸 スペイン\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳
+  中国\n🇰🇷 大韓民国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏊 デュエットフリールーティン
 LOCATION:アクアティックス・センター
 END:VEVENT
 END:VCALENDAR
