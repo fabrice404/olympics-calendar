@@ -4,6 +4,18 @@ PRODID:-//fabrice404//olympics-calendar//medals/KOR//EN
 X-WR-CALNAME:🇰🇷 Korea 🏅 | Paris 2024
 NAME:🇰🇷 Korea 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240803T073000Z-shooting-25M-PISTOL-WOMENS-FINAL
+DTSTAMP:20240803T073000Z
+DTSTART:20240803T073000Z
+DTEND:20240803T083000Z
+DESCRIPTION:Shooting - 25m Pistol Women's Final\n🇫🇷 Camille
+  JEDRZEJEWSKI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇺🇸 Katelyn Morgan ABELN\n🇮🇳
+  Manu BHAKER\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇰🇷 YANG
+  Jiin\n🇨🇳 ZHAO Nan
+SUMMARY:🔫 25m Pistol Women's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -41,22 +53,30 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T123300Z-archery-WOMENS-INDIVIDUAL-BRONZE-MEDAL-MATCH-KOR-FRA
-DTSTAMP:20240803T123300Z
-DTSTART:20240803T123300Z
-DTEND:20240803T124600Z
-DESCRIPTION:Archery - Women's Individual Bronze Medal Match
-SUMMARY:🏹 JEON Hunyoung 🇰🇷 - 🇫🇷 Lisa BARBELIN
-LOCATION:Invalides
+UID:20240803T133000Z-artistic-gymnastics-MENS-FLOOR-EXERCISE-FINAL
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T140500Z
+DESCRIPTION:Artistic Gymnastics - Men's Floor Exercise Final\n🇮🇱 Artem
+  DOLGOPYAT\n🇵🇭 Carlos Edriel YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake
+  JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵
+  OKA Shinnosuke\n🇰🇷 RYU Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG
+  Boheng
+SUMMARY:🤸 Men's Floor Exercise Final
+LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T124600Z-archery-WOMENS-INDIVIDUAL-GOLD-MEDAL-MATCH-KOR-KOR
-DTSTAMP:20240803T124600Z
-DTSTART:20240803T124600Z
-DTEND:20240803T125900Z
-DESCRIPTION:Archery - Women's Individual Gold Medal Match
-SUMMARY:🏹 LIM Sihyeon 🇰🇷 - 🇰🇷 NAM Suhyeon
-LOCATION:Invalides
+UID:20240803T142000Z-artistic-gymnastics-WOMENS-VAULT-FINAL
+DTSTAMP:20240803T142000Z
+DTSTART:20240803T142000Z
+DTEND:20240803T150200Z
+DESCRIPTION:Artistic Gymnastics - Women's Vault Final\n🇰🇵 AN Chang
+  Ok\n🇲🇽 Alexa MORENO\n🇭🇺 Csenge Maria BACSKAY\n🇨🇦 Elsabeth
+  BLACK\n🇺🇸 Jade CAREY\n🇺🇸 Jordan CHILES\n🇫🇷 Ming VAN EIJKEN\n🇧🇷
+  Rebeca ANDRADE\n🇨🇦 Shallon OLSEN\n🇺🇸 Simone BILES\n🇧🇬 Valentina
+  GEORGIEVA\n🇰🇷 YEO Seojeong
+SUMMARY:🤸 Women's Vault Final
+LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T144200Z-judo-MIXED-TEAM-BRONZE-MEDAL-B-KOR-GER
@@ -66,6 +86,28 @@ DTEND:20240803T144200Z
 DESCRIPTION:Judo - Mixed Team Bronze Medal B
 SUMMARY:🥋 KOR 🇰🇷 - 🇩🇪 GER
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T151600Z-artistic-gymnastics-MENS-POMMEL-HORSE-FINAL
+DTSTAMP:20240803T151600Z
+DTSTART:20240803T151600Z
+DTEND:20240803T155200Z
+DESCRIPTION:Artistic Gymnastics - Men's Pommel Horse Final\n🇰🇷 HUR
+  Woong\n🇳🇱 Loran DE MUNCK\n🇬🇧 Max WHITLOCK\n🇰🇿 Nariman
+  KURBANOV\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg
+  VERNIAIEV\n🇮🇪 Rhys MC CLENAGHAN\n🇯🇵 SUGINO Takaaki\n🇺🇸 Stephen
+  NEDOROSCIK\n🇨🇳 ZOU Jingyuan
+SUMMARY:🤸 Men's Pommel Horse Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T180000Z-fencing-WOMENS-SABRE-TEAM-GOLD-MEDAL-MATCH-KOR-UKR
+DTSTAMP:20240803T180000Z
+DTSTART:20240803T180000Z
+DTEND:20240803T185000Z
+DESCRIPTION:Fencing - Women's Sabre Team Gold Medal Match
+SUMMARY:🤺 KOR 🇰🇷 - 🇺🇦 UKR
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
@@ -107,22 +149,36 @@ SUMMARY:🚴 Women's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T123300Z-archery-MENS-INDIVIDUAL-BRONZE-MEDAL-MATCH-KOR-GER
-DTSTAMP:20240804T123300Z
-DTSTART:20240804T123300Z
-DTEND:20240804T124600Z
-DESCRIPTION:Archery - Men's Individual Bronze Medal Match
-SUMMARY:🏹 LEE Wooseok 🇰🇷 - 🇩🇪 Florian UNRUH
-LOCATION:Invalides
+UID:20240804T142400Z-artistic-gymnastics-MENS-VAULT-FINAL
+DTSTAMP:20240804T142400Z
+DTSTART:20240804T142400Z
+DTEND:20240804T150700Z
+DESCRIPTION:Artistic Gymnastics - Men's Vault Final\n🇹🇷 Adem ASIL\n🇦🇲
+  Artur DAVTYAN\n🇺🇸 Asher HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel
+  YULO\n🇬🇧 Harry HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷
+  LEE Junho\n🇮🇷 Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
+SUMMARY:🤸 Men's Vault Final
+LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T124600Z-archery-MENS-INDIVIDUAL-GOLD-MEDAL-MATCH-KOR-USA
-DTSTAMP:20240804T124600Z
-DTSTART:20240804T124600Z
-DTEND:20240804T125900Z
-DESCRIPTION:Archery - Men's Individual Gold Medal Match
-SUMMARY:🏹 KIM Woojin 🇰🇷 - 🇺🇸 Brady ELLISON
-LOCATION:Invalides
+UID:20240805T073000Z-shooting-25M-RAPID-FIRE-PISTOL-MENS-FINAL
+DTSTAMP:20240805T073000Z
+DTSTART:20240805T073000Z
+DTEND:20240805T083000Z
+DESCRIPTION:Shooting - 25m Rapid Fire Pistol Men's Final\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Florian PETER\n🇨🇳 LI Yuehong\n🇮🇹 Massimo
+  SPINELLA\n🇺🇦 Pavlo KOROSTYLOV\n🇨🇳 WANG Xinjie
+SUMMARY:🔫 25m Rapid Fire Pistol Men's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T085500Z-badminton-WOMENS-SINGLES-GOLD-MEDAL-MATCH-KOR-CHN
+DTSTAMP:20240805T085500Z
+DTSTART:20240805T085500Z
+DTEND:20240805T103000Z
+DESCRIPTION:Badminton - Women's Singles Gold Medal Match
+SUMMARY:🏸 AN Se Young 🇰🇷 - 🇨🇳 HE Bing Jiao
+LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T173000Z-weightlifting-MENS-73KG

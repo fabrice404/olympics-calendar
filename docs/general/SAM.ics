@@ -4,6 +4,42 @@ PRODID:-//fabrice404//olympics-calendar//general/SAM//EN
 X-WR-CALNAME:🇼🇸 Samoa | Paris 2024
 NAME:🇼🇸 Samoa | Paris 2024
 BEGIN:VEVENT
+UID:20240724T133000Z-rugby-sevens-MENS-POOL-B-AUS-SAM
+DTSTAMP:20240724T133000Z
+DTSTART:20240724T133000Z
+DTEND:20240724T134600Z
+DESCRIPTION:Rugby Sevens - Men's Pool B
+SUMMARY:🏉 AUS 🇦🇺 - 🇼🇸 SAM
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240724T173000Z-rugby-sevens-MENS-POOL-B-ARG-SAM
+DTSTAMP:20240724T173000Z
+DTSTART:20240724T173000Z
+DTEND:20240724T174600Z
+DESCRIPTION:Rugby Sevens - Men's Pool B
+SUMMARY:🏉 ARG 🇦🇷 - 🇼🇸 SAM
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T120000Z-rugby-sevens-MENS-POOL-B-SAM-KEN
+DTSTAMP:20240725T120000Z
+DTSTART:20240725T120000Z
+DTEND:20240725T121600Z
+DESCRIPTION:Rugby Sevens - Men's Pool B
+SUMMARY:🏉 SAM 🇼🇸 - 🇰🇪 KEN
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240725T180000Z-rugby-sevens-MENS-PLACING-9-12-SAM-JPN
+DTSTAMP:20240725T180000Z
+DTSTART:20240725T180000Z
+DTEND:20240725T181600Z
+DESCRIPTION:Rugby Sevens - Men's Placing 9-12
+SUMMARY:🏉 SAM 🇼🇸 - 🇯🇵 JPN
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -11,6 +47,41 @@ DTEND:20240726T210000Z
 DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
 SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T090000Z-swimming-WOMENS-50M-FREESTYLE-HEATS
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T092700Z
+DESCRIPTION:Swimming - Women's 50m Freestyle - Heats\n🇳🇬 Adaku
+  NWANDU\n🇹🇬 Adele Sodalo Agnes GAITOU\n🇲🇱 Aichata DIABATE\n🇲🇻
+  Aishath Ulya SHAIG\n🇫🇯 Anahira McCUTCHEON\n🇪🇨 Anicka DELGADO\n🇬🇧
+  Anna HOPKIN\n🇲🇬 Antsa RABEJAONA\n🇰🇭 Apsara SAKBUN\n🇫🇷 Beryl
+  GASTALDELLO\n🇦🇼 Chloe FARRO\n🇪🇷 Christina RACH\n🇮🇪 Danielle
+  HILL\n🇨🇩 Divine MIANSADI\n🇬🇳 Djenabou Jolie BAH\n🇹🇯 Ekaterina
+  BORDACHYOVA\n🇰🇬 Elizaveta PECHERSKIKH\n🇧🇪 Florine GASPARD\n🇵🇬
+  Georgia-Leigh VELE\n🇨🇲 Grace Manuela NGUELO'O MABEU\n🇺🇸 Gretchen
+  WALSH\n🇽🇰 Hana BEIQI\n🇧🇳 Hayley WONG\n🇧🇫 Iman KOURAOGO\n🇹🇱 Imelda
+  XIMENES BELO\n🇧🇯 Ionnah Eliane DOUILLET\n🇸🇧 Isabella MILLAR\n🇭🇷
+  Jana PAVALIC\n🇩🇲 Jasmine SCHOFIELD\n🇹🇭 Jenjira SRISA - ARD\n🇬🇭
+  Joselle MENSAH\n🇲🇪 Jovana KULJACA\n🇩🇰 Julie Kepp JENSEN\n🇸🇷 Kaelyn
+  Ciara Suryanti DJOPARTO\n🇼🇸 Kaiya BROWN\n🇵🇱 Katarzyna WASICK\n🇲🇭
+  Kayla HEPLER\n🇻🇨 Kennice Aphenie GREENE\n🇫🇲 Kestra KIHLENG\n🇸🇨
+  Khema ELIZABETH\n🇳🇱 Kim BUSCH\n🇵🇱 Kornelia FIEDKIEWICZ\n🇷🇼 Lidwine
+  UMUHOZA UWASE\n🇪🇹 Lina Alemayehu SELO\n🇻🇺 Loane RUSSET\n🇧🇮 Lois
+  Eliora IRISHURA\n🇰🇲 Maesha SAADI\n🇰🇪 Maria BRUNLEHNER\n🇧🇴 Maria
+  Jose RIBERA\n🇦🇿 Mariam SHEIKHALIZADEHKHANGHAH\n🇭🇹 Mayah
+  CHOULOUTE\n🇦🇺 Meg HARRIS\n🇫🇷 Melanie HENIQUE\n🇿🇲 Mia PHIRI\n🇸🇪
+  Michelle COLEMAN\n🇧🇩 Mst Sonia KHATUN\n🇩🇯 Naima-Zahra AMISON\n🇸🇮
+  Neza KLANCAR\n🇹🇴 Noelani Malia DAY\n🇬🇦 Noelie Annette LACOUR\n🇸🇱
+  Olamide SAM\n🇭🇺 Petra SENANSZKY\n🇧🇸 Rhanishka GIBBS\n🇯🇲 Sabrina
+  LYN\n🇳🇪 Salima AHMADOU YOUSSOUFOU\n🇮🇹 Sara CURTIS\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Simone MANUEL\n🇹🇿 Sophia
+  LATIFF\n🇲🇼 Tayamika CHANGANAMUNO\n🇨🇦 Taylor RUCK\n🇬🇷 Theodora
+  DRAKOU\n🇨🇫 Tracy Marine ANDET\n🇳🇱 Valerie van ROON\n🇨🇬 Vanessa
+  BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 Women's 50m Freestyle - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T100500Z-sailing-WOMENS-DINGHY-RACE-4
@@ -224,6 +295,20 @@ SUMMARY:⛵ Women's Dinghy - Race 8
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T093500Z-athletics-MENS-DISCUS-THROW-QUALIFICATION-GROUP-B
+DTSTAMP:20240805T093500Z
+DTSTART:20240805T093500Z
+DTEND:20240805T103100Z
+DESCRIPTION:Athletics - Men's Discus Throw Qualification - Group B\n🇼🇸
+  Alex ROSE\n🇷🇴 Alin Alexandru FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇨🇱
+  Claudio ROMERO\n🇩🇪 Clemens PRUEFER\n🇳🇿 Connor BELL\n🇺🇸 Joseph
+  BROWN\n🇪🇨 Juan CAICEDO\n🇸🇮 Kristjan CEH\n🇬🇧 Lawrence OKOYE\n🇩🇪
+  Mika SOSNA\n🇩🇿 Oussama KHENNOUSSI\n🇧🇪 Philip MILANOV\n🇯🇲 Roje
+  STONA\n🇫🇷 Tom REUX\n🇿🇦 Victor HOGAN
+SUMMARY:🏃 Men's Discus Throw Qualification - Group B
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T101500Z-sailing-WOMENS-DINGHY-RACE-9
 DTSTAMP:20240805T101500Z
 DTSTART:20240805T101500Z
@@ -316,6 +401,19 @@ DESCRIPTION:Sailing - Men's Dinghy - Race 10\n🇪🇬 Aly BADAWY\n🇹🇭 Arth
   ZELKO
 SUMMARY:⛵ Men's Dinghy - Race 10
 LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T182500Z-athletics-MENS-DISCUS-THROW-FINAL
+DTSTAMP:20240807T182500Z
+DTSTART:20240807T182500Z
+DTEND:20240807T193500Z
+DESCRIPTION:Athletics - Men's Discus Throw Final\n🇼🇸 Alex ROSE\n🇷🇴 Alin
+  Alexandru FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇩🇪 Clemens PRUEFER\n🇸🇪
+  Daniel STAHL\n🇸🇮 Kristjan CEH\n🇦🇹 Lukas WEISSHAIDINGER\n🇦🇺 Matthew
+  DENNY\n🇱🇹 Mykolas ALEKNA\n🇯🇲 Ralford MULLINGS\n🇯🇲 Roje STONA\n🇯🇲
+  Traves SMIKLE
+SUMMARY:🏃 Men's Discus Throw Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T093000Z-weightlifting-MENS-102KG

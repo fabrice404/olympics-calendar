@@ -4,12 +4,12 @@ PRODID:-//fabrice404//olympics-calendar//football/ru/medals//EN
 X-WR-CALNAME:⚽ Футбол 🏅 | Paris 2024
 NAME:⚽ Футбол 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240808T150000Z-football--3--EGY-MAR
+UID:20240808T150000Z-football--3-
 DTSTAMP:20240808T150000Z
 DTSTART:20240808T150000Z
 DTEND:20240808T164500Z
 DESCRIPTION:Футбол - Матч за 3-е место (м)
-SUMMARY:⚽ Египет 🇪🇬 - 🇲🇦 Марокко
+SUMMARY:⚽ Матч за 3-е место (м)
 LOCATION:Стадион «Божуар»
 END:VEVENT
 BEGIN:VEVENT
@@ -22,12 +22,12 @@ SUMMARY:⚽ Матч за 3-е место (ж)
 LOCATION:Стадион «Лион»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T160000Z-football---FRA-ESP
+UID:20240809T160000Z-football--
 DTSTAMP:20240809T160000Z
 DTSTART:20240809T160000Z
 DTEND:20240809T174500Z
 DESCRIPTION:Футбол - Финал (м)
-SUMMARY:⚽ Франция 🇫🇷 - 🇪🇸 Испания
+SUMMARY:⚽ Финал (м)
 LOCATION:«Парк-де-Пренс»
 END:VEVENT
 BEGIN:VEVENT

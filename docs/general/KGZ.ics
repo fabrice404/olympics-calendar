@@ -13,95 +13,39 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T133500Z-wrestling-MENS-GRECO-ROMAN-60KG-18-FINAL-KGZ-KAZ
-DTSTAMP:20240805T133500Z
-DTSTART:20240805T133500Z
-DTEND:20240805T134200Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 60kg 1/8 Final
-SUMMARY:🤼 Zholaman SHARSHENBEKOV 🇰🇬 - 🇰🇿 Aidos SULTANGALI
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T134900Z-wrestling-WOMENS-FREESTYLE-68KG-18-FINAL-KGZ-MGL
-DTSTAMP:20240805T134900Z
-DTSTART:20240805T134900Z
-DTEND:20240805T135600Z
-DESCRIPTION:Wrestling - Women's Freestyle 68kg 1/8 Final
-SUMMARY:🤼 Meerim ZHUMANAZAROVA 🇰🇬 - 🇲🇳 Delgermaa ENKHSAIKHAN
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T141700Z-wrestling-WOMENS-FREESTYLE-68KG-14-FINAL-JPN-KGZ
-DTSTAMP:20240805T141700Z
-DTSTART:20240805T141700Z
-DTEND:20240805T142400Z
-DESCRIPTION:Wrestling - Women's Freestyle 68kg 1/4 Final
-SUMMARY:🤼 OZAKI Nonoka 🇯🇵 - 🇰🇬 Meerim ZHUMANAZAROVA
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T141700Z-wrestling-MENS-GRECO-ROMAN-60KG-14-FINAL-KGZ-ROU
-DTSTAMP:20240805T141700Z
-DTSTART:20240805T141700Z
-DTEND:20240805T142400Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 60kg 1/4 Final
-SUMMARY:🤼 Zholaman SHARSHENBEKOV 🇰🇬 - 🇷🇴 Razvan ARNAUT
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T190000Z-wrestling-MENS-GRECO-ROMAN-60KG-SEMIFINAL-KGZ-JPN
-DTSTAMP:20240805T190000Z
-DTSTART:20240805T190000Z
-DTEND:20240805T190700Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 60kg Semifinal
-SUMMARY:🤼 Zholaman SHARSHENBEKOV 🇰🇬 - 🇯🇵 FUMITA Kenichiro
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T193500Z-wrestling-WOMENS-FREESTYLE-68KG-SEMIFINAL-NGR-KGZ
-DTSTAMP:20240805T193500Z
-DTSTART:20240805T193500Z
-DTEND:20240805T194200Z
-DESCRIPTION:Wrestling - Women's Freestyle 68kg Semifinal
-SUMMARY:🤼 Blessing OBORUDUDU 🇳🇬 - 🇰🇬 Meerim ZHUMANAZAROVA
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T094200Z-wrestling-MENS-GRECO-ROMAN-77KG-18-FINAL-KGZ-USA
-DTSTAMP:20240806T094200Z
-DTSTART:20240806T094200Z
-DTEND:20240806T094900Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 77kg 1/8 Final
-SUMMARY:🤼 Akzhol MAKHMUDOV 🇰🇬 - 🇺🇸 Kamal Ameer BEY
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T094900Z-wrestling-MENS-GRECO-ROMAN-97KG-18-FINAL-KGZ-LTU
-DTSTAMP:20240806T094900Z
-DTSTART:20240806T094900Z
-DTEND:20240806T095600Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 97kg 1/8 Final
-SUMMARY:🤼 Uzur DZHUZUPBEKOV 🇰🇬 - 🇱🇹 Mindaugas VENCKAITIS
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T165700Z-wrestling-MENS-GRECO-ROMAN-60KG-BRONZE-MEDAL-MATCH
-DTSTAMP:20240806T165700Z
-DTSTART:20240806T165700Z
-DTEND:20240806T170400Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 60kg Bronze Medal Match\n🇰🇬
-  Zholaman SHARSHENBEKOV
-SUMMARY:🤼 Men's Greco-Roman 60kg Bronze Medal Match
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T175300Z-wrestling-WOMENS-FREESTYLE-68KG-FINAL-USA-KGZ
-DTSTAMP:20240806T175300Z
-DTSTART:20240806T175300Z
-DTEND:20240806T180000Z
-DESCRIPTION:Wrestling - Women's Freestyle 68kg Final
-SUMMARY:🤼 Amit ELOR 🇺🇸 - 🇰🇬 Meerim ZHUMANAZAROVA
-LOCATION:Champ-de-Mars Arena
+UID:20240803T090000Z-swimming-WOMENS-50M-FREESTYLE-HEATS
+DTSTAMP:20240803T090000Z
+DTSTART:20240803T090000Z
+DTEND:20240803T092700Z
+DESCRIPTION:Swimming - Women's 50m Freestyle - Heats\n🇳🇬 Adaku
+  NWANDU\n🇹🇬 Adele Sodalo Agnes GAITOU\n🇲🇱 Aichata DIABATE\n🇲🇻
+  Aishath Ulya SHAIG\n🇫🇯 Anahira McCUTCHEON\n🇪🇨 Anicka DELGADO\n🇬🇧
+  Anna HOPKIN\n🇲🇬 Antsa RABEJAONA\n🇰🇭 Apsara SAKBUN\n🇫🇷 Beryl
+  GASTALDELLO\n🇦🇼 Chloe FARRO\n🇪🇷 Christina RACH\n🇮🇪 Danielle
+  HILL\n🇨🇩 Divine MIANSADI\n🇬🇳 Djenabou Jolie BAH\n🇹🇯 Ekaterina
+  BORDACHYOVA\n🇰🇬 Elizaveta PECHERSKIKH\n🇧🇪 Florine GASPARD\n🇵🇬
+  Georgia-Leigh VELE\n🇨🇲 Grace Manuela NGUELO'O MABEU\n🇺🇸 Gretchen
+  WALSH\n🇽🇰 Hana BEIQI\n🇧🇳 Hayley WONG\n🇧🇫 Iman KOURAOGO\n🇹🇱 Imelda
+  XIMENES BELO\n🇧🇯 Ionnah Eliane DOUILLET\n🇸🇧 Isabella MILLAR\n🇭🇷
+  Jana PAVALIC\n🇩🇲 Jasmine SCHOFIELD\n🇹🇭 Jenjira SRISA - ARD\n🇬🇭
+  Joselle MENSAH\n🇲🇪 Jovana KULJACA\n🇩🇰 Julie Kepp JENSEN\n🇸🇷 Kaelyn
+  Ciara Suryanti DJOPARTO\n🇼🇸 Kaiya BROWN\n🇵🇱 Katarzyna WASICK\n🇲🇭
+  Kayla HEPLER\n🇻🇨 Kennice Aphenie GREENE\n🇫🇲 Kestra KIHLENG\n🇸🇨
+  Khema ELIZABETH\n🇳🇱 Kim BUSCH\n🇵🇱 Kornelia FIEDKIEWICZ\n🇷🇼 Lidwine
+  UMUHOZA UWASE\n🇪🇹 Lina Alemayehu SELO\n🇻🇺 Loane RUSSET\n🇧🇮 Lois
+  Eliora IRISHURA\n🇰🇲 Maesha SAADI\n🇰🇪 Maria BRUNLEHNER\n🇧🇴 Maria
+  Jose RIBERA\n🇦🇿 Mariam SHEIKHALIZADEHKHANGHAH\n🇭🇹 Mayah
+  CHOULOUTE\n🇦🇺 Meg HARRIS\n🇫🇷 Melanie HENIQUE\n🇿🇲 Mia PHIRI\n🇸🇪
+  Michelle COLEMAN\n🇧🇩 Mst Sonia KHATUN\n🇩🇯 Naima-Zahra AMISON\n🇸🇮
+  Neza KLANCAR\n🇹🇴 Noelani Malia DAY\n🇬🇦 Noelie Annette LACOUR\n🇸🇱
+  Olamide SAM\n🇭🇺 Petra SENANSZKY\n🇧🇸 Rhanishka GIBBS\n🇯🇲 Sabrina
+  LYN\n🇳🇪 Salima AHMADOU YOUSSOUFOU\n🇮🇹 Sara CURTIS\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Simone MANUEL\n🇹🇿 Sophia
+  LATIFF\n🇲🇼 Tayamika CHANGANAMUNO\n🇨🇦 Taylor RUCK\n🇬🇷 Theodora
+  DRAKOU\n🇨🇫 Tracy Marine ANDET\n🇳🇱 Valerie van ROON\n🇨🇬 Vanessa
+  BOBIMBO\n🇨🇳 WU Qingfeng\n🇵🇼 Yuri HOSEI\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 Women's 50m Freestyle - Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

@@ -13,26 +13,23 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T080600Z-rowing-MENS-SINGLE-SCULLS-FINAL-B
-DTSTAMP:20240803T080600Z
-DTSTART:20240803T080600Z
-DTEND:20240803T081300Z
-DESCRIPTION:Rowing - Men's Single Sculls Final B\n🇯🇵 ARAKAWA Ryuta\n🇺🇾
-  Bruno CETRARO BERRIOLO\n🇭🇷 Damir MARTIN\n🇱🇹 Giedrius
-  BIELIAUSKAS\n🇷🇴 Mihai CHIRUTA\n🇩🇰 Sverri NIELSEN
-SUMMARY:🚣 Men's Single Sculls Final B
-LOCATION:Nautical St - Flat water
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T081800Z-rowing-WOMENS-SINGLE-SCULLS-FINAL-A
-DTSTAMP:20240803T081800Z
-DTSTART:20240803T081800Z
-DTEND:20240803T082500Z
-DESCRIPTION:Rowing - Women's Single Sculls Final A\n🇧🇬 Desislava
-  ANGELOVA\n🇳🇿 Emma TWIGG\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇦🇺
-  Tara RIGNEY\n🇱🇹 Viktorija SENKUTE
-SUMMARY:🚣 Women's Single Sculls Final A
-LOCATION:Nautical St - Flat water
+UID:20240803T092000Z-athletics-WOMENS-800M-REPECHAGE-ROUND
+DTSTAMP:20240803T092000Z
+DTSTART:20240803T092000Z
+DTEND:20240803T094600Z
+DESCRIPTION:Athletics - Women's 800m Repechage Round\n🇦🇺 Abbey
+  CALDWELL\n🇯🇲 Adelle TRACEY\n🇺🇸 Allie WILSON\n🇰🇼 Amal AL ROUMI\n🇫🇷
+  Anais BOURGOIN\n🇸🇮 Anita HORVAT\n🇵🇱 Anna WIELGOSZ\n🇨🇭 Audrey
+  WERRO\n🇦🇺 Catriona BISSET\n🇮🇹 Elena BELLO\n🇮🇹 Eloisa COIRO\n🇫🇮
+  Eveliina MAATTANEN\n🇧🇷 Flavia Maria de LIMA\n🇱🇹 Gabija
+  GALVYDYTE\n🇽🇰 Gresa BAKRACI\n🇪🇹 Habitam ALEMU\n🇺🇬 Halimah
+  NAKAAYI\n🇨🇦 Jazz SHUKLA\n🇵🇸 Layla ALMASRI\n🇫🇷 Lena
+  KANDISSOUNON\n🇪🇸 Lorea IBARZABAL\n🇪🇸 Lorena MARTIN\n🇩🇪 Majtie
+  KOLBERG\n🇧🇭 Nelly JEPKOSGEI\n🇧🇼 Oratile NOWE\n🏳️ Perina Lokure
+  NAKANG\n🇨🇺 Rose Mary ALMANZA\n🇬🇲 Sanu JALLOW\n🇱🇰 Tharushi
+  KARUNARATHNA\n🇨🇭 Valentina ROSAMILIA\n🇰🇪 Vivian Chebet KIPROTICH
+SUMMARY:🏃 Women's 800m Repechage Round
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T100500Z-sailing-WOMENS-DINGHY-RACE-4
@@ -189,22 +186,56 @@ SUMMARY:⛵ Women's Dinghy - Race 8
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T163500Z-3x3-basketball-MENS-POOL-ROUND-LTU-SRB
-DTSTAMP:20240804T163500Z
-DTSTART:20240804T163500Z
-DTEND:20240804T170000Z
-DESCRIPTION:3x3 Basketball - Men's Pool Round
-SUMMARY:🏀 LTU 🇱🇹 - 🇷🇸 SRB
-LOCATION:La Concorde 1
+UID:20240805T081000Z-athletics-MENS-DISCUS-THROW-QUALIFICATION-GROUP-A
+DTSTAMP:20240805T081000Z
+DTSTART:20240805T081000Z
+DTEND:20240805T090600Z
+DESCRIPTION:Athletics - Men's Discus Throw Qualification - Group A\n🇺🇸
+  Andrew EVANS\n🇸🇪 Daniel STAHL\n🇿🇦 Francois PRINSLOO\n🇩🇪 Henrik
+  JANSSEN\n🇫🇷 Lolassonn DJOUHAN\n🇦🇹 Lukas WEISSHAIDINGER\n🇨🇺 Mario
+  Alberto DIAZ\n🇭🇷 Martin MARKOVIC\n🇱🇹 Martynas ALEKNA\n🇦🇺 Matthew
+  DENNY\n🇨🇴 Mauricio ORTEGA\n🇱🇹 Mykolas ALEKNA\n🇬🇧 Nicholas
+  PERCY\n🇯🇲 Ralford MULLINGS\n🇺🇸 Sam MATTIS\n🇯🇲 Traves SMIKLE
+SUMMARY:🏃 Men's Discus Throw Qualification - Group A
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T193000Z-3x3-basketball-MENS-PLAY-IN-GAMES-LTU-POL
-DTSTAMP:20240804T193000Z
-DTSTART:20240804T193000Z
-DTEND:20240804T195000Z
-DESCRIPTION:3x3 Basketball - Men's Play-in Games
-SUMMARY:🏀 LTU 🇱🇹 - 🇵🇱 POL
-LOCATION:La Concorde 1
+UID:20240805T093500Z-athletics-MENS-DISCUS-THROW-QUALIFICATION-GROUP-B
+DTSTAMP:20240805T093500Z
+DTSTART:20240805T093500Z
+DTEND:20240805T103100Z
+DESCRIPTION:Athletics - Men's Discus Throw Qualification - Group B\n🇼🇸
+  Alex ROSE\n🇷🇴 Alin Alexandru FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇨🇱
+  Claudio ROMERO\n🇩🇪 Clemens PRUEFER\n🇳🇿 Connor BELL\n🇺🇸 Joseph
+  BROWN\n🇪🇨 Juan CAICEDO\n🇸🇮 Kristjan CEH\n🇬🇧 Lawrence OKOYE\n🇩🇪
+  Mika SOSNA\n🇩🇿 Oussama KHENNOUSSI\n🇧🇪 Philip MILANOV\n🇯🇲 Roje
+  STONA\n🇫🇷 Tom REUX\n🇿🇦 Victor HOGAN
+SUMMARY:🏃 Men's Discus Throw Qualification - Group B
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T095500Z-athletics-WOMENS-400M-ROUND-1
+DTSTAMP:20240805T095500Z
+DTSTART:20240805T095500Z
+DTEND:20240805T103600Z
+DESCRIPTION:Athletics - Women's 400m Round 1\n🇺🇸 Aaliyah BUTLER\n🇺🇸
+  Alexis HOLMES\n🇮🇹 Alice MANGIONE\n🇬🇾 Aliyah ABRAMS\n🇬🇧 Amber
+  ANNING\n🇷🇴 Andrea MIKLOS\n🇵🇹 Catia AZEVEDO\n🇧🇪 Cynthia
+  BOLINGO\n🇳🇬 Ella ONOJUVWEVWO\n🇦🇺 Ellie BEER\n🇳🇬 Esther Elo
+  JOSEPH\n🇨🇴 Evelis AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻 Gunta VAICULE\n🇧🇪
+  Helena PONETTE\n🇳🇴 Henriette JAEGER\n🇯🇲 Junelle BROMFIELD\n🇵🇱
+  Justyna SWIETY-ERSETIC\n🇺🇸 Kendall ELLIS\n🇨🇿 Lada VONDROVA\n🇨🇦
+  Lauren GALE\n🇬🇧 Laviai NIELSEN\n🇳🇱 Lieke KLAVER\n🇨🇴 Lina Esther
+  LICONA TORRES\n🇨🇿 Lurdes Gloria MANUEL\n🇩🇴 Marileidy PAULINO\n🇨🇱
+  Martina WEIL\n🇿🇦 Miranda Charlene COETZEE\n🇱🇹 Modesta Juste
+  MORAUSKAITE\n🇵🇱 Natalia KACZMAREK\n🇯🇲 Nickisha PRYCE\n🇪🇨 Nicole
+  CAICEDO\n🇮🇳 Pahal KIRAN\n🇲🇽 Paola MORAN\n🇮🇪 Rhasidat ADELEKE\n🇨🇺
+  Roxana GOMEZ\n🇧🇧 Sada WILLIAMS\n🇧🇭 Salwa Eid NASER\n🇮🇪 Sharlene
+  MAWDSLEY\n🇧🇸 Shaunae MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇯🇲 Stacey Ann
+  WILLIAMS\n🇦🇹 Susanne GOGL-WALLI\n🇨🇿 Tereza PETRZILKOVA\n🇧🇷 Tiffani
+  MARINHO\n🇬🇧 Victoria OHURUOGU\n🇨🇦 Zoe SHERAR
+SUMMARY:🏃 Women's 400m Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T101500Z-sailing-WOMENS-DINGHY-RACE-9
@@ -253,58 +284,82 @@ SUMMARY:⛵ Women's Dinghy - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T133500Z-wrestling-MENS-GRECO-ROMAN-130KG-18-FINAL-MAR-LTU
-DTSTAMP:20240805T133500Z
-DTSTART:20240805T133500Z
-DTEND:20240805T134200Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 130kg 1/8 Final
-SUMMARY:🤼 Oussama ASSAD 🇲🇦 - 🇱🇹 Mantas KNYSTAUTAS
-LOCATION:Champ-de-Mars Arena
+UID:20240805T120000Z-equestrian-JUMPING-INDIVIDUAL-QUALIFIER
+DTSTAMP:20240805T120000Z
+DTSTART:20240805T120000Z
+DTEND:20240805T160000Z
+DESCRIPTION:Equestrian - Jumping Individual Qualifier\n🇦🇪 Abdullah Mohd
+  AL MARRI\n🇸🇦 Abdulrahman ALRAJHI\n🇵🇱 Adam GRZEGORZEWSKI\n🇨🇱 Agustin
+  COVARRUBIAS\n🇸🇾 Amre HAMCHO\n🇩🇰 Andreas SCHOU\n🇲🇽 Andres
+  AZCARRAGA\n🇱🇹 Andrius PETROVAS\n🇬🇧 Ben MAHER\n🇩🇪 Christian
+  KUKUK\n🇮🇪 Cian O'CONNOR\n🇮🇱 Daniel BLUMAN\n🇮🇪 Daniel COYLE\n🇵🇱
+  Dawid KUBIAK\n🇵🇹 Duarte SEABRA\n🇨🇭 Edouard SCHMITZ\n🇪🇸 Eduardo
+  ALVAREZ AZNAR\n🇦🇺 Edwina TOPS-ALEXANDER\n🇮🇹 Emanuele CAMILLI\n🇨🇦
+  Erynn BALLARD\n🇲🇽 Eugenio GARZA PEREZ\n🇲🇽 Federico FERNANDEZ\n🇦🇹
+  Gerfried PUCK\n🇧🇪 Gilles THOMAS\n🇧🇪 Gregory WATHELET\n🇯🇵 HAASE
+  SHIBAYAMA Takashi\n🇳🇱 Harrie SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik
+  von ECKERMANN\n🇦🇺 Hilary SCOTT\n🇬🇷 Ioli MYTILINEOU\n🇮🇱 Isabella
+  RUSSEKOFF\n🇪🇸 Ismael GARCIA ROQUE\n🇹🇭 Janakabhorn KARUNAYADHAJ\n🇧🇪
+  Jerome GUERY\n🇦🇷 Jose Maria (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸
+  Karl COOK\n🇦🇹 Katharina RHOMBERG\n🇸🇦 Khaled ALMOBTY\n🇳🇱 Kim
+  EMMEN\n🇱🇻 Kristaps NERETNIEKS\n🇺🇸 Laura KRAUT\n🇻🇪 Luis Fernando
+  LARRAZABAL\n🇳🇱 Maikel van der VLEUTEN\n🇵🇱 Maksymilian WECHTA\n🇨🇦
+  Mario DESLAURIERS\n🇨🇭 Martin FUCHS\n🇦🇹 Max KUEHNER\n🇺🇸 McLain
+  WARD\n🇪🇪 My RELANDER\n🇫🇷 Olivier PERREAU\n🇦🇪 Omar Abdul Aziz AL
+  MARZOOQI\n🇸🇪 Peder FREDRICSON\n🇩🇪 Philipp WEISHAUPT\n🇸🇦 Ramzy AL
+  DUHAMI\n🇨🇴 Rene LOPEZ LIZARAZO\n🇩🇪 Richard VOGEL\n🇮🇱 Robin
+  MUHR\n🇧🇷 Rodrigo PESSOA\n🇸🇪 Rolf-Goran BENGTSSON\n🇯🇵 SATO
+  Eiken\n🇯🇵 SUGITANI Taizo\n🇦🇪 Salim Ahmed AL SUWAIDI\n🇬🇧 Scott
+  BRASH\n🇪🇸 Sergio ALVAREZ MOYA\n🇮🇪 Shane SWEETNAM\n🇫🇷 Simon
+  DELESTRE\n🇧🇷 Stephan de FREITAS BARCHA\n🇨🇭 Steve GUERDAT\n🇦🇺 Thaisa
+  ERWIN\n🇨🇦 Tiffany FOSTER\n🇳🇴 Victoria GULLIKSEN\n🇧🇷 Yuri MANSUR
+SUMMARY:🏇 Jumping Individual Qualifier
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T141000Z-wrestling-MENS-GRECO-ROMAN-130KG-14-FINAL-CHN-LTU
-DTSTAMP:20240805T141000Z
-DTSTART:20240805T141000Z
-DTEND:20240805T141700Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 130kg 1/4 Final
-SUMMARY:🤼 MENG Lingzhe 🇨🇳 - 🇱🇹 Mantas KNYSTAUTAS
-LOCATION:Champ-de-Mars Arena
+UID:20240806T092000Z-athletics-WOMENS-400M-REPECHAGE-ROUND
+DTSTAMP:20240806T092000Z
+DTSTART:20240806T092000Z
+DTEND:20240806T094500Z
+DESCRIPTION:Athletics - Women's 400m Repechage Round\n🇮🇹 Alice
+  MANGIONE\n🇬🇾 Aliyah ABRAMS\n🇵🇹 Catia AZEVEDO\n🇧🇪 Cynthia
+  BOLINGO\n🇳🇬 Ella ONOJUVWEVWO\n🇦🇺 Ellie BEER\n🇨🇴 Evelis
+  AGUILAR\n🇵🇷 Gabby SCOTT\n🇱🇻 Gunta VAICULE\n🇧🇪 Helena PONETTE\n🇵🇱
+  Justyna SWIETY-ERSETIC\n🇺🇸 Kendall ELLIS\n🇨🇿 Lada VONDROVA\n🇨🇦
+  Lauren GALE\n🇨🇴 Lina Esther LICONA TORRES\n🇨🇿 Lurdes Gloria
+  MANUEL\n🇨🇱 Martina WEIL\n🇿🇦 Miranda Charlene COETZEE\n🇱🇹 Modesta
+  Juste MORAUSKAITE\n🇮🇳 Pahal KIRAN\n🇮🇪 Sharlene MAWDSLEY\n🇧🇸 Shaunae
+  MILLER-UIBO\n🇮🇪 Sophie BECKER\n🇨🇿 Tereza PETRZILKOVA\n🇧🇷 Tiffani
+  MARINHO\n🇬🇧 Victoria OHURUOGU\n🇨🇦 Zoe SHERAR
+SUMMARY:🏃 Women's 400m Repechage Round
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T160000Z-3x3-basketball-MENS-SEMIFINAL-NED-LTU
-DTSTAMP:20240805T160000Z
-DTSTART:20240805T160000Z
-DTEND:20240805T162500Z
-DESCRIPTION:3x3 Basketball - Men's Semifinal
-SUMMARY:🏀 NED 🇳🇱 - 🇱🇹 LTU
-LOCATION:La Concorde 1
+UID:20240806T095000Z-athletics-MENS-JAVELIN-THROW-QUALIFICATION-GROUP-B
+DTSTAMP:20240806T095000Z
+DTSTART:20240806T095000Z
+DTEND:20240806T104600Z
+DESCRIPTION:Athletics - Men's Javelin Throw Qualification - Group B\n🇬🇩
+  Anderson PETERS\n🇲🇩 Andrian MARDARE\n🇵🇰 Arshad NADEEM\n🇺🇦 Artur
+  FELFNER\n🇦🇺 Cameron McENTYRE\n🇳🇬 Chinecherem NNAMDI\n🇵🇱 Cyprian
+  MRZYGLOD\n🇱🇹 Edis MATUSEVICIUS\n🇱🇻 Gatis CAKSS\n🇫🇮 Lassi
+  ETELATALO\n🇧🇷 Luiz Mauricio da SILVA\n🇵🇱 Marcin KRUKOWSKI\n🇩🇪 Max
+  DEHNING\n🇪🇬 Moustafa MAHMOUD\n🇮🇳 Neeraj CHOPRA\n🇧🇪 Timothy HERMAN
+SUMMARY:🏃 Men's Javelin Throw Qualification - Group B
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T193000Z-3x3-basketball-MENS-BRONZE-MEDAL-GAME-LAT-LTU
-DTSTAMP:20240805T193000Z
-DTSTART:20240805T193000Z
-DTEND:20240805T195500Z
-DESCRIPTION:3x3 Basketball - Men's Bronze Medal Game
-SUMMARY:🏀 LAT 🇱🇻 - 🇱🇹 LTU
-LOCATION:La Concorde 1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T092800Z-wrestling-WOMENS-FREESTYLE-50KG-18-FINAL-COL-LTU
-DTSTAMP:20240806T092800Z
-DTSTART:20240806T092800Z
-DTEND:20240806T093500Z
-DESCRIPTION:Wrestling - Women's Freestyle 50kg 1/8 Final
-SUMMARY:🤼 Alisson Camila CARDOZO REY 🇨🇴 - 🇱🇹 Gabija DILYTE
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T094900Z-wrestling-MENS-GRECO-ROMAN-97KG-18-FINAL-KGZ-LTU
-DTSTAMP:20240806T094900Z
-DTSTART:20240806T094900Z
-DTEND:20240806T095600Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 97kg 1/8 Final
-SUMMARY:🤼 Uzur DZHUZUPBEKOV 🇰🇬 - 🇱🇹 Mindaugas VENCKAITIS
-LOCATION:Champ-de-Mars Arena
+UID:20240807T182500Z-athletics-MENS-DISCUS-THROW-FINAL
+DTSTAMP:20240807T182500Z
+DTSTART:20240807T182500Z
+DTEND:20240807T193500Z
+DESCRIPTION:Athletics - Men's Discus Throw Final\n🇼🇸 Alex ROSE\n🇷🇴 Alin
+  Alexandru FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇩🇪 Clemens PRUEFER\n🇸🇪
+  Daniel STAHL\n🇸🇮 Kristjan CEH\n🇦🇹 Lukas WEISSHAIDINGER\n🇦🇺 Matthew
+  DENNY\n🇱🇹 Mykolas ALEKNA\n🇯🇲 Ralford MULLINGS\n🇯🇲 Roje STONA\n🇯🇲
+  Traves SMIKLE
+SUMMARY:🏃 Men's Discus Throw Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

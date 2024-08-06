@@ -8,10 +8,7 @@ UID:20240803T073000Z-shooting--25-
 DTSTAMP:20240803T073000Z
 DTSTART:20240803T073000Z
 DTEND:20240803T083000Z
-DESCRIPTION:Стрельба - Пистолет 25м, финал (ж)\n🇫🇷 Camille
-  JEDRZEJEWSKI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇺🇸 Katelyn Morgan ABELN\n🇮🇳
-  Manu BHAKER\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇰🇷 YANG
-  Jiin\n🇨🇳 ZHAO Nan
+DESCRIPTION:Стрельба - Пистолет 25м, финал (ж)
 SUMMARY:🔫 Пистолет 25м, финал (ж)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
@@ -20,9 +17,7 @@ UID:20240803T133000Z-shooting--
 DTSTAMP:20240803T133000Z
 DTSTART:20240803T133000Z
 DTEND:20240803T144500Z
-DESCRIPTION:Стрельба - Скит, финал (м)\n🇺🇸 Conner Lynn PRINCE\n🇹🇼 LEE
-  Meng Yuan\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇸🇪 Stefan NILSSON\n🇮🇹
-  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
+DESCRIPTION:Стрельба - Скит, финал (м)
 SUMMARY:🔫 Скит, финал (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
@@ -31,9 +26,7 @@ UID:20240804T133000Z-shooting--
 DTSTAMP:20240804T133000Z
 DTSTART:20240804T133000Z
 DTEND:20240804T144500Z
-DESCRIPTION:Стрельба - Скит, финал (ж)\n🇬🇧 Amber Jo RUTTER\n🇺🇸 Austen
-  Jewell SMITH\n🇸🇰 Danka BARTEKOVA\n🇬🇷 Emmanouela KATZOURAKI\n🇨🇱
-  Francisca CROVETTO CHADID\n🇸🇰 Vanesa HOCKOVA
+DESCRIPTION:Стрельба - Скит, финал (ж)
 SUMMARY:🔫 Скит, финал (ж)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
@@ -42,28 +35,26 @@ UID:20240805T073000Z-shooting--25-
 DTSTAMP:20240805T073000Z
 DTSTART:20240805T073000Z
 DTEND:20240805T083000Z
-DESCRIPTION:Стрельба - Скорострельный пистолет 25м, финал (м)\n🇰🇷 CHO
-  Yeongjae\n🇩🇪 Florian PETER\n🇨🇳 LI Yuehong\n🇮🇹 Massimo
-  SPINELLA\n🇺🇦 Pavlo KOROSTYLOV\n🇨🇳 WANG Xinjie
+DESCRIPTION:Стрельба - Скорострельный пистолет 25м, финал (м)
 SUMMARY:🔫 Скорострельный пистолет 25м, финал (м)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T130000Z-shooting---CHN-IND
+UID:20240805T130000Z-shooting--
 DTSTAMP:20240805T130000Z
 DTSTART:20240805T130000Z
 DTEND:20240805T133000Z
 DESCRIPTION:Стрельба - Скит, матч за бронзу (микст)
-SUMMARY:🔫 CHN 🇨🇳 - 🇮🇳 IND
+SUMMARY:🔫 Скит, матч за бронзу (микст)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T130000Z-shooting---ITA-USA
+UID:20240805T130000Z-shooting--
 DTSTAMP:20240805T130000Z
 DTSTART:20240805T130000Z
 DTEND:20240805T133000Z
 DESCRIPTION:Стрельба - Скит, финал (микст)
-SUMMARY:🔫 Italy 1 🇮🇹 - 🇺🇸 United States 1
+SUMMARY:🔫 Скит, финал (микст)
 LOCATION:Стрелковый центр в Шатору
 END:VEVENT
 END:VCALENDAR

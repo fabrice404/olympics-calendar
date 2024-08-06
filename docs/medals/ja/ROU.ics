@@ -24,49 +24,4 @@ DESCRIPTION:自転車マウンテンバイク - 男子クロスカントリー\n
 SUMMARY:🚴 男子クロスカントリー
 LOCATION:エランクールの丘
 END:VEVENT
-BEGIN:VEVENT
-UID:20240803T085000Z-rowing-A
-DTSTAMP:20240803T085000Z
-DTSTART:20240803T085000Z
-DTEND:20240803T085700Z
-DESCRIPTION:ローイング - 女子エイト決勝A\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇦🇺 オーストラリア\n🇨🇦
-  カナダ\n🇷🇴 ルーマニア\n🇬🇧 英国
-SUMMARY:🚣 女子エイト決勝A
-LOCATION:ノーティカル ST - フラットウォーター
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T091000Z-rowing-A
-DTSTAMP:20240803T091000Z
-DTSTART:20240803T091000Z
-DTEND:20240803T091700Z
-DESCRIPTION:ローイング - 男子エイト決勝A\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇩🇪
-  ドイツ\n🇷🇴 ルーマニア\n🇬🇧 英国
-SUMMARY:🚣 男子エイト決勝A
-LOCATION:ノーティカル ST - フラットウォーター
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T103800Z-artistic-gymnastics-
-DTSTAMP:20240805T103800Z
-DTSTART:20240805T103800Z
-DTEND:20240805T111900Z
-DESCRIPTION:体操競技 - 女子種目別平均台決勝\n🇮🇹 Alice D'AMATO\n🇧🇷 Julia SOARES\n🇨🇳
-  LUO Huan\n🇮🇹 Manila ESPOSITO\n🇫🇷 Marine BOYER\n🇧🇷 Rebeca
-  ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇳🇱 Sanne WEVERS\n🇺🇸 Simone
-  BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHOU Yaqin
-SUMMARY:🤸 女子種目別平均台決勝
-LOCATION:ベルシー・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T122300Z-artistic-gymnastics-
-DTSTAMP:20240805T122300Z
-DTSTART:20240805T122300Z
-DTEND:20240805T130300Z
-DESCRIPTION:体操競技 - 女子種目別ゆか決勝\n🇮🇹 Alice D'AMATO\n🇷🇴 Ana BARBOSU\n🇮🇹
-  Angela ANDREOLI\n🇨🇦 Elsabeth BLACK\n🇧🇷 Jade BARBOSA\n🇺🇸 Jordan
-  CHILES\n🇧🇷 Julia SOARES\n🇯🇵 KISHI Rina\n🇮🇹 Manila ESPOSITO\n🇨🇳 OU
-  Yushan\n🇧🇷 Rebeca ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇺🇸 Simone
-  BILES\n🇨🇳 ZHANG Yihan\n🇨🇳 ZHOU Yaqin
-SUMMARY:🤸 女子種目別ゆか決勝
-LOCATION:ベルシー・アリーナ
-END:VEVENT
 END:VCALENDAR

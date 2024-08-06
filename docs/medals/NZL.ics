@@ -70,17 +70,6 @@ SUMMARY:🤸 Men's Final
 LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T081800Z-rowing-WOMENS-SINGLE-SCULLS-FINAL-A
-DTSTAMP:20240803T081800Z
-DTSTART:20240803T081800Z
-DTEND:20240803T082500Z
-DESCRIPTION:Rowing - Women's Single Sculls Final A\n🇧🇬 Desislava
-  ANGELOVA\n🇳🇿 Emma TWIGG\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇦🇺
-  Tara RIGNEY\n🇱🇹 Viktorija SENKUTE
-SUMMARY:🚣 Women's Single Sculls Final A
-LOCATION:Nautical St - Flat water
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -118,15 +107,29 @@ SUMMARY:🚴 Men's Road Race
 LOCATION:Trocadéro
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T093000Z-rowing-MENS-SINGLE-SCULLS-FINAL-A
-DTSTAMP:20240803T093000Z
-DTSTART:20240803T093000Z
-DTEND:20240803T093700Z
-DESCRIPTION:Rowing - Men's Single Sculls Final A\n🇩🇪 Oliver ZEIDLER\n🇳🇱
-  Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim
-  BRYS\n🇦🇸 Yauheni ZALATY
-SUMMARY:🚣 Men's Single Sculls Final A
-LOCATION:Nautical St - Flat water
+UID:20240803T173500Z-athletics-MENS-SHOT-PUT-FINAL
+DTSTAMP:20240803T173500Z
+DTSTART:20240803T173500Z
+DTEND:20240803T184500Z
+DESCRIPTION:Athletics - Men's Shot Put Final\n🇳🇬 Chukwuebuka Cornnell
+  ENEKWECHI\n🇳🇿 Jacko GILL\n🇺🇸 Joe KOVACS\n🇮🇹 Leonardo FABBRI\n🇳🇴
+  Marcus THOMSEN\n🇺🇸 Payton OTTERDAHL\n🇯🇲 Rajindra CAMPBELL\n🇺🇸 Ryan
+  CROUSER\n🇳🇿 Tom WALSH\n🇨🇿 Tomas STANEK\n🇲🇽 Uziel MUNOZ\n🇮🇹 Zane
+  WEIR
+SUMMARY:🏃 Men's Shot Put Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T192800Z-swimming-WOMENS-800M-FREESTYLE-FINAL
+DTSTAMP:20240803T192800Z
+DTSTART:20240803T192800Z
+DTEND:20240803T194300Z
+DESCRIPTION:Swimming - Women's 800m Freestyle Final\n🇫🇷 Anastasiia
+  KIRPICHNIKOVA\n🇦🇺 Ariarne TITMUS\n🇳🇿 Erika FAIRWEATHER\n🇩🇪 Isabel
+  GOSE\n🇺🇸 Katie LEDECKY\n🇦🇺 Lani PALLISTER\n🇺🇸 Paige MADDEN\n🇮🇹
+  Simona QUADARELLA
+SUMMARY:🏊 Women's 800m Freestyle Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-WOMENS-ROAD-RACE
@@ -177,6 +180,16 @@ DESCRIPTION:Triathlon - Mixed Relay\n🇦🇺 AUS\n🇦🇹 AUT\n🇧🇷 BRA\n�
   NOR\n🇵🇹 POR\n🇪🇸 ESP\n🇨🇭 SUI\n🇺🇸 USA
 SUMMARY:🏊 Mixed Relay
 LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T150000Z-canoe-slalom-MENS-KAYAK-CROSS-FINAL
+DTSTAMP:20240805T150000Z
+DTSTART:20240805T150000Z
+DTEND:20240805T150500Z
+DESCRIPTION:Canoe Slalom - Men's Kayak Cross Final\n🇳🇿 Finn BUTCHER\n🇬🇧
+  Joseph CLARKE\n🇨🇿 Lukas ROHAN\n🇩🇪 Noah HEGGE
+SUMMARY:🛶 Men's Kayak Cross Final
+LOCATION:Nautical St - White water
 END:VEVENT
 BEGIN:VEVENT
 UID:20240805T175900Z-cycling-track-WOMENS-TEAM-SPRINT-FINALS-FOR-GOLD-GBR-N

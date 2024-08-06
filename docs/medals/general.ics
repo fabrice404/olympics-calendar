@@ -120,7 +120,10 @@ UID:20240803T073000Z-shooting-25M-PISTOL-WOMENS-FINAL
 DTSTAMP:20240803T073000Z
 DTSTART:20240803T073000Z
 DTEND:20240803T083000Z
-DESCRIPTION:Shooting - 25m Pistol Women's Final
+DESCRIPTION:Shooting - 25m Pistol Women's Final\n🇫🇷 Camille
+  JEDRZEJEWSKI\n🇮🇷 Haniyeh ROSTAMIYAN\n🇺🇸 Katelyn Morgan ABELN\n🇮🇳
+  Manu BHAKER\n🇻🇳 Thu Vinh TRINH\n🇭🇺 Veronika MAJOR\n🇰🇷 YANG
+  Jiin\n🇨🇳 ZHAO Nan
 SUMMARY:🔫 25m Pistol Women's Final
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
@@ -129,7 +132,9 @@ UID:20240803T080000Z-equestrian-DRESSAGE-TEAM-GRAND-PRIX-SPECIAL
 DTSTAMP:20240803T080000Z
 DTSTART:20240803T080000Z
 DTEND:20240803T133000Z
-DESCRIPTION:Equestrian - Dressage Team Grand Prix Special
+DESCRIPTION:Equestrian - Dressage Team Grand Prix Special\n🇦🇺 AUS\n🇦🇹
+  AUT\n🇧🇪 BEL\n🇩🇰 DEN\n🇫🇮 FIN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇳🇱
+  NED\n🇸🇪 SWE
 SUMMARY:🏇 Dressage Team Grand Prix Special
 LOCATION:Château de Versailles
 END:VEVENT
@@ -138,9 +143,7 @@ UID:20240803T081800Z-rowing-WOMENS-SINGLE-SCULLS-FINAL-A
 DTSTAMP:20240803T081800Z
 DTSTART:20240803T081800Z
 DTEND:20240803T082500Z
-DESCRIPTION:Rowing - Women's Single Sculls Final A\n🇧🇬 Desislava
-  ANGELOVA\n🇳🇿 Emma TWIGG\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇦🇺
-  Tara RIGNEY\n🇱🇹 Viktorija SENKUTE
+DESCRIPTION:Rowing - Women's Single Sculls Final A
 SUMMARY:🚣 Women's Single Sculls Final A
 LOCATION:Nautical St - Flat water
 END:VEVENT
@@ -149,8 +152,7 @@ UID:20240803T085000Z-rowing-WOMENS-EIGHT-FINAL-A
 DTSTAMP:20240803T085000Z
 DTSTART:20240803T085000Z
 DTEND:20240803T085700Z
-DESCRIPTION:Rowing - Women's Eight Final A\n🇦🇺 AUS\n🇨🇦 CAN\n🇬🇧
-  GBR\n🇮🇹 ITA\n🇷🇴 ROU\n🇺🇸 USA
+DESCRIPTION:Rowing - Women's Eight Final A
 SUMMARY:🚣 Women's Eight Final A
 LOCATION:Nautical St - Flat water
 END:VEVENT
@@ -196,8 +198,7 @@ UID:20240803T091000Z-rowing-MENS-EIGHT-FINAL-A
 DTSTAMP:20240803T091000Z
 DTSTART:20240803T091000Z
 DTEND:20240803T091700Z
-DESCRIPTION:Rowing - Men's Eight Final A\n🇦🇺 AUS\n🇩🇪 GER\n🇬🇧
-  GBR\n🇳🇱 NED\n🇷🇴 ROU\n🇺🇸 USA
+DESCRIPTION:Rowing - Men's Eight Final A
 SUMMARY:🚣 Men's Eight Final A
 LOCATION:Nautical St - Flat water
 END:VEVENT
@@ -206,9 +207,7 @@ UID:20240803T093000Z-rowing-MENS-SINGLE-SCULLS-FINAL-A
 DTSTAMP:20240803T093000Z
 DTSTART:20240803T093000Z
 DTEND:20240803T093700Z
-DESCRIPTION:Rowing - Men's Single Sculls Final A\n🇩🇪 Oliver ZEIDLER\n🇳🇱
-  Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim
-  BRYS\n🇦🇸 Yauheni ZALATY
+DESCRIPTION:Rowing - Men's Single Sculls Final A
 SUMMARY:🚣 Men's Single Sculls Final A
 LOCATION:Nautical St - Flat water
 END:VEVENT
@@ -287,30 +286,30 @@ SUMMARY:🏓 Women's Singles Gold Medal Match
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T123300Z-archery-WOMENS-INDIVIDUAL-BRONZE-MEDAL-MATCH-KOR-FRA
+UID:20240803T123300Z-archery-WOMENS-INDIVIDUAL-BRONZE-MEDAL-MATCH
 DTSTAMP:20240803T123300Z
 DTSTART:20240803T123300Z
 DTEND:20240803T124600Z
 DESCRIPTION:Archery - Women's Individual Bronze Medal Match
-SUMMARY:🏹 JEON Hunyoung 🇰🇷 - 🇫🇷 Lisa BARBELIN
+SUMMARY:🏹 Women's Individual Bronze Medal Match
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T124600Z-archery-WOMENS-INDIVIDUAL-GOLD-MEDAL-MATCH-KOR-KOR
+UID:20240803T124600Z-archery-WOMENS-INDIVIDUAL-GOLD-MEDAL-MATCH
 DTSTAMP:20240803T124600Z
 DTSTART:20240803T124600Z
 DTEND:20240803T125900Z
 DESCRIPTION:Archery - Women's Individual Gold Medal Match
-SUMMARY:🏹 LIM Sihyeon 🇰🇷 - 🇰🇷 NAM Suhyeon
+SUMMARY:🏹 Women's Individual Gold Medal Match
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T130000Z-badminton-WOMENS-DOUBLES-BRONZE-MEDAL-MATCH
+UID:20240803T130000Z-badminton-WOMENS-DOUBLES-BRONZE-MEDAL-MATCH-MAS-JPN
 DTSTAMP:20240803T130000Z
 DTSTART:20240803T130000Z
 DTEND:20240803T140000Z
 DESCRIPTION:Badminton - Women's Doubles Bronze Medal Match
-SUMMARY:🏸 Women's Doubles Bronze Medal Match
+SUMMARY:🏸 TAN/THINAAH 🇲🇾 - 🇯🇵 MATSUYAMA/SHIDA
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -318,7 +317,11 @@ UID:20240803T133000Z-artistic-gymnastics-MENS-FLOOR-EXERCISE-FINAL
 DTSTAMP:20240803T133000Z
 DTSTART:20240803T133000Z
 DTEND:20240803T140500Z
-DESCRIPTION:Artistic Gymnastics - Men's Floor Exercise Final
+DESCRIPTION:Artistic Gymnastics - Men's Floor Exercise Final\n🇮🇱 Artem
+  DOLGOPYAT\n🇵🇭 Carlos Edriel YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake
+  JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵
+  OKA Shinnosuke\n🇰🇷 RYU Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG
+  Boheng
 SUMMARY:🤸 Men's Floor Exercise Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -327,7 +330,9 @@ UID:20240803T133000Z-shooting-SKEET-MENS-FINAL
 DTSTAMP:20240803T133000Z
 DTSTART:20240803T133000Z
 DTEND:20240803T144500Z
-DESCRIPTION:Shooting - Skeet Men's Final
+DESCRIPTION:Shooting - Skeet Men's Final\n🇺🇸 Conner Lynn PRINCE\n🇹🇼 LEE
+  Meng Yuan\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇸🇪 Stefan NILSSON\n🇮🇹
+  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
 SUMMARY:🔫 Skeet Men's Final
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
@@ -341,12 +346,12 @@ SUMMARY:🥋 BRA 🇧🇷 - 🇮🇹 ITA
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T141000Z-badminton-WOMENS-DOUBLES-GOLD-MEDAL-MATCH
+UID:20240803T141000Z-badminton-WOMENS-DOUBLES-GOLD-MEDAL-MATCH-CHN-CHN
 DTSTAMP:20240803T141000Z
 DTSTART:20240803T141000Z
 DTEND:20240803T153000Z
 DESCRIPTION:Badminton - Women's Doubles Gold Medal Match
-SUMMARY:🏸 Women's Doubles Gold Medal Match
+SUMMARY:🏸 CHEN/JIA 🇨🇳 - 🇨🇳 LIU/TAN
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -354,7 +359,11 @@ UID:20240803T142000Z-artistic-gymnastics-WOMENS-VAULT-FINAL
 DTSTAMP:20240803T142000Z
 DTSTART:20240803T142000Z
 DTEND:20240803T150200Z
-DESCRIPTION:Artistic Gymnastics - Women's Vault Final
+DESCRIPTION:Artistic Gymnastics - Women's Vault Final\n🇰🇵 AN Chang
+  Ok\n🇲🇽 Alexa MORENO\n🇭🇺 Csenge Maria BACSKAY\n🇨🇦 Elsabeth
+  BLACK\n🇺🇸 Jade CAREY\n🇺🇸 Jordan CHILES\n🇫🇷 Ming VAN EIJKEN\n🇧🇷
+  Rebeca ANDRADE\n🇨🇦 Shallon OLSEN\n🇺🇸 Simone BILES\n🇧🇬 Valentina
+  GEORGIEVA\n🇰🇷 YEO Seojeong
 SUMMARY:🤸 Women's Vault Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -372,7 +381,11 @@ UID:20240803T151600Z-artistic-gymnastics-MENS-POMMEL-HORSE-FINAL
 DTSTAMP:20240803T151600Z
 DTSTART:20240803T151600Z
 DTEND:20240803T155200Z
-DESCRIPTION:Artistic Gymnastics - Men's Pommel Horse Final
+DESCRIPTION:Artistic Gymnastics - Men's Pommel Horse Final\n🇰🇷 HUR
+  Woong\n🇳🇱 Loran DE MUNCK\n🇬🇧 Max WHITLOCK\n🇰🇿 Nariman
+  KURBANOV\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg
+  VERNIAIEV\n🇮🇪 Rhys MC CLENAGHAN\n🇯🇵 SUGINO Takaaki\n🇺🇸 Stephen
+  NEDOROSCIK\n🇨🇳 ZOU Jingyuan
 SUMMARY:🤸 Men's Pommel Horse Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -395,12 +408,12 @@ SUMMARY:🥊 Women's 60kg - Semifinal
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T170000Z-fencing-WOMENS-SABRE-TEAM-BRONZE-MEDAL-MATCH
+UID:20240803T170000Z-fencing-WOMENS-SABRE-TEAM-BRONZE-MEDAL-MATCH-FRA-JPN
 DTSTAMP:20240803T170000Z
 DTSTART:20240803T170000Z
 DTEND:20240803T175000Z
 DESCRIPTION:Fencing - Women's Sabre Team Bronze Medal Match
-SUMMARY:🤺 Women's Sabre Team Bronze Medal Match
+SUMMARY:🤺 FRA 🇫🇷 - 🇯🇵 JPN
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -408,17 +421,21 @@ UID:20240803T173500Z-athletics-MENS-SHOT-PUT-FINAL
 DTSTAMP:20240803T173500Z
 DTSTART:20240803T173500Z
 DTEND:20240803T184500Z
-DESCRIPTION:Athletics - Men's Shot Put Final
+DESCRIPTION:Athletics - Men's Shot Put Final\n🇳🇬 Chukwuebuka Cornnell
+  ENEKWECHI\n🇳🇿 Jacko GILL\n🇺🇸 Joe KOVACS\n🇮🇹 Leonardo FABBRI\n🇳🇴
+  Marcus THOMSEN\n🇺🇸 Payton OTTERDAHL\n🇯🇲 Rajindra CAMPBELL\n🇺🇸 Ryan
+  CROUSER\n🇳🇿 Tom WALSH\n🇨🇿 Tomas STANEK\n🇲🇽 Uziel MUNOZ\n🇮🇹 Zane
+  WEIR
 SUMMARY:🏃 Men's Shot Put Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T180000Z-fencing-WOMENS-SABRE-TEAM-GOLD-MEDAL-MATCH
+UID:20240803T180000Z-fencing-WOMENS-SABRE-TEAM-GOLD-MEDAL-MATCH-KOR-UKR
 DTSTAMP:20240803T180000Z
 DTSTART:20240803T180000Z
 DTEND:20240803T185000Z
 DESCRIPTION:Fencing - Women's Sabre Team Gold Medal Match
-SUMMARY:🤺 Women's Sabre Team Gold Medal Match
+SUMMARY:🤺 KOR 🇰🇷 - 🇺🇦 UKR
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -426,7 +443,11 @@ UID:20240803T182000Z-athletics-WOMENS-TRIPLE-JUMP-FINAL
 DTSTAMP:20240803T182000Z
 DTSTART:20240803T182000Z
 DTEND:20240803T193700Z
-DESCRIPTION:Athletics - Women's Triple Jump Final
+DESCRIPTION:Athletics - Women's Triple Jump Final\n🇯🇲 Ackelia SMITH\n🇪🇸
+  Ana PELETEIRO-COMPAORE\n🇮🇹 Dariya DERKACH\n🇷🇴 Elena Andreea
+  TALOS\n🇫🇷 Ilionis GUILLAUME\n🇺🇸 Jasmine MOORE\n🇺🇸 Keturah
+  ORJI\n🇨🇺 Leyanis PEREZ HERNANDEZ\n🇨🇺 Liadagmis POVEA\n🇺🇦 Maryna
+  BEKH-ROMANCHUK\n🇯🇲 Shanieka RICKETTS\n🇩🇲 Thea LAFOND
 SUMMARY:🏃 Women's Triple Jump Final
 LOCATION:Stade de France
 END:VEVENT
@@ -435,7 +456,9 @@ UID:20240803T183000Z-swimming-MENS-100M-BUTTERFLY-FINAL
 DTSTAMP:20240803T183000Z
 DTSTART:20240803T183000Z
 DTEND:20240803T183700Z
-DESCRIPTION:Swimming - Men's 100m Butterfly Final
+DESCRIPTION:Swimming - Men's 100m Butterfly Final\n🇨🇦 Ilya KHARUN\n🇨🇦
+  Josh LIENDO\n🇭🇺 Kristof MILAK\n🇯🇵 MIZUNUMA Naoki\n🇦🇺 Matthew
+  TEMPLE\n🇫🇷 Maxime GROUSSET\n🇨🇭 Noe PONTI\n🇳🇱 Nyls KORSTANJE
 SUMMARY:🏊 Men's 100m Butterfly Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -444,7 +467,8 @@ UID:20240803T185500Z-athletics-4-X-400M-RELAY-MIXED-FINAL
 DTSTAMP:20240803T185500Z
 DTSTART:20240803T185500Z
 DTEND:20240803T185900Z
-DESCRIPTION:Athletics - 4 x 400m Relay Mixed Final
+DESCRIPTION:Athletics - 4 x 400m Relay Mixed Final\n🇧🇪 BEL\n🇫🇷
+  FRA\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇲 JAM\n🇳🇱 NED\n🇵🇱 POL\n🇺🇸 USA
 SUMMARY:🏃 4 x 400m Relay Mixed Final
 LOCATION:Stade de France
 END:VEVENT
@@ -453,7 +477,9 @@ UID:20240803T190800Z-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-FINAL
 DTSTAMP:20240803T190800Z
 DTSTART:20240803T190800Z
 DTEND:20240803T191500Z
-DESCRIPTION:Swimming - Women's 200m Individual Medley Final
+DESCRIPTION:Swimming - Women's 200m Individual Medley Final\n🇬🇧 Abbie
+  WOOD\n🇺🇸 Alex WALSH\n🇦🇺 Ella RAMSAY\n🇺🇸 Kate DOUGLASS\n🇦🇺 Kaylee
+  McKEOWN\n🇨🇦 Summer McINTOSH\n🇨🇦 Sydney PICKREM\n🇨🇳 YU Yiting
 SUMMARY:🏊 Women's 200m Individual Medley Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -462,7 +488,10 @@ UID:20240803T192000Z-athletics-WOMENS-100M-FINAL
 DTSTAMP:20240803T192000Z
 DTSTART:20240803T192000Z
 DTEND:20240803T192100Z
-DESCRIPTION:Athletics - Women's 100m Final
+DESCRIPTION:Athletics - Women's 100m Final\n🇬🇧 Daryll NEITA\n🇱🇨 Julien
+  ALFRED\n🇨🇮 Marie-Josee TA LOU-SMITH\n🇺🇸 Melissa JEFFERSON\n🇨🇭
+  Mujinga KAMBUNDJI\n🇺🇸 Sha'carri RICHARDSON\n🇯🇲 Tia CLAYTON\n🇺🇸
+  Twanisha TERRY
 SUMMARY:🏃 Women's 100m Final
 LOCATION:Stade de France
 END:VEVENT
@@ -471,7 +500,10 @@ UID:20240803T192800Z-swimming-WOMENS-800M-FREESTYLE-FINAL
 DTSTAMP:20240803T192800Z
 DTSTART:20240803T192800Z
 DTEND:20240803T194300Z
-DESCRIPTION:Swimming - Women's 800m Freestyle Final
+DESCRIPTION:Swimming - Women's 800m Freestyle Final\n🇫🇷 Anastasiia
+  KIRPICHNIKOVA\n🇦🇺 Ariarne TITMUS\n🇳🇿 Erika FAIRWEATHER\n🇩🇪 Isabel
+  GOSE\n🇺🇸 Katie LEDECKY\n🇦🇺 Lani PALLISTER\n🇺🇸 Paige MADDEN\n🇮🇹
+  Simona QUADARELLA
 SUMMARY:🏊 Women's 800m Freestyle Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -480,7 +512,13 @@ UID:20240803T194500Z-athletics-MENS-DECATHLON-1500M
 DTSTAMP:20240803T194500Z
 DTSTART:20240803T194500Z
 DTEND:20240803T195000Z
-DESCRIPTION:Athletics - Men's Decathlon 1500m
+DESCRIPTION:Athletics - Men's Decathlon 1500m\n🇵🇷 Ayden
+  OWENS-DELERME\n🇦🇺 Daniel GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath
+  BALDWIN\n🇪🇪 Janek OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷
+  Jose Fernando FERREIRA SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪
+  Leo NEUGEBAUER\n🇬🇩 Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus
+  ROOTH\n🇩🇪 Niklas KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven
+  ROOSEN\n🇩🇪 Till STEINFORTH\n🇺🇸 Zachery ZIEMEK
 SUMMARY:🏃 Men's Decathlon 1500m
 LOCATION:Stade de France
 END:VEVENT
@@ -489,7 +527,8 @@ UID:20240803T195800Z-swimming-MIXED-4-X-100M-MEDLEY-RELAY-FINAL
 DTSTAMP:20240803T195800Z
 DTSTART:20240803T195800Z
 DTEND:20240803T200800Z
-DESCRIPTION:Swimming - Mixed 4 x 100m Medley Relay Final
+DESCRIPTION:Swimming - Mixed 4 x 100m Medley Relay Final\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇯🇵 JPN\n🇳🇱 NED\n🇺🇸 USA
 SUMMARY:🏊 Mixed 4 x 100m Medley Relay Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -516,7 +555,13 @@ UID:20240804T080000Z-equestrian-DRESSAGE-INDIVIDUAL-GRAND-PRIX-FREESTYLE
 DTSTAMP:20240804T080000Z
 DTSTART:20240804T080000Z
 DTEND:20240804T113000Z
-DESCRIPTION:Equestrian - Dressage Individual Grand Prix Freestyle
+DESCRIPTION:Equestrian - Dressage Individual Grand Prix Freestyle\n🇬🇧
+  Becky MOODY\n🇬🇧 Carl HESTER\n🇩🇰 Cathrine LAUDRUP-DUFOUR\n🇬🇧
+  Charlotte FRY\n🇩🇰 Daniel BACHMANN ANDERSEN\n🇳🇱 Dinja van LIERE\n🇫🇮
+  Emma KANERVA\n🇳🇱 Emmelie SCHOLTENS\n🇩🇪 Frederic WANDRES\n🇳🇴 Isabel
+  FREESE\n🇩🇪 Isabell WERTH\n🇩🇪 Jessica von BREDOW-WERNDL\n🇩🇰 Nanna
+  SKODBORG MERRALD\n🇸🇪 Patrik KITTEL\n🇫🇷 Pauline BASQUIN\n🇵🇱 Sandra
+  SYSOJEVA\n🇸🇪 Therese NILSHAGEN\n🇦🇹 Victoria MAX-THEURER
 SUMMARY:🏇 Dressage Individual Grand Prix Freestyle
 LOCATION:Château de Versailles
 END:VEVENT
@@ -650,21 +695,21 @@ SUMMARY:🏓 Men's Singles Gold Medal Match
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T123300Z-archery-MENS-INDIVIDUAL-BRONZE-MEDAL-MATCH-KOR-GER
+UID:20240804T123300Z-archery-MENS-INDIVIDUAL-BRONZE-MEDAL-MATCH
 DTSTAMP:20240804T123300Z
 DTSTART:20240804T123300Z
 DTEND:20240804T124600Z
 DESCRIPTION:Archery - Men's Individual Bronze Medal Match
-SUMMARY:🏹 LEE Wooseok 🇰🇷 - 🇩🇪 Florian UNRUH
+SUMMARY:🏹 Men's Individual Bronze Medal Match
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T124600Z-archery-MENS-INDIVIDUAL-GOLD-MEDAL-MATCH-KOR-USA
+UID:20240804T124600Z-archery-MENS-INDIVIDUAL-GOLD-MEDAL-MATCH
 DTSTAMP:20240804T124600Z
 DTSTART:20240804T124600Z
 DTEND:20240804T125900Z
 DESCRIPTION:Archery - Men's Individual Gold Medal Match
-SUMMARY:🏹 KIM Woojin 🇰🇷 - 🇺🇸 Brady ELLISON
+SUMMARY:🏹 Men's Individual Gold Medal Match
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
@@ -672,17 +717,21 @@ UID:20240804T130000Z-artistic-gymnastics-MENS-RINGS-FINAL
 DTSTAMP:20240804T130000Z
 DTSTART:20240804T130000Z
 DTEND:20240804T133700Z
-DESCRIPTION:Artistic Gymnastics - Men's Rings Final
+DESCRIPTION:Artistic Gymnastics - Men's Rings Final\n🇹🇷 Adem ASIL\n🇺🇸
+  Asher HONG\n🇬🇷 Eleftherios PETROUNIAS\n🇧🇪 Glen CUYLE\n🇬🇧 Harry
+  HEPWORTH\n🇹🇷 Ibrahim COLAK\n🇨🇳 LIU Yang\n🇫🇷 Samir AIT SAID\n🇯🇵
+  TANIGAWA Wataru\n🇦🇲 Vahagn DAVTYAN\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU
+  Jingyuan
 SUMMARY:🤸 Men's Rings Final
 LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T130000Z-badminton-MENS-DOUBLES-BRONZE-MEDAL-MATCH
+UID:20240804T130000Z-badminton-MENS-DOUBLES-BRONZE-MEDAL-MATCH-MAS-DEN
 DTSTAMP:20240804T130000Z
 DTSTART:20240804T130000Z
 DTEND:20240804T140000Z
 DESCRIPTION:Badminton - Men's Doubles Bronze Medal Match
-SUMMARY:🏸 Men's Doubles Bronze Medal Match
+SUMMARY:🏸 CHIA/SOH 🇲🇾 - 🇩🇰 ASTRUP/RASMUSSEN
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -690,7 +739,9 @@ UID:20240804T133000Z-shooting-SKEET-WOMENS-FINAL
 DTSTAMP:20240804T133000Z
 DTSTART:20240804T133000Z
 DTEND:20240804T144500Z
-DESCRIPTION:Shooting - Skeet Women's Final
+DESCRIPTION:Shooting - Skeet Women's Final\n🇬🇧 Amber Jo RUTTER\n🇺🇸
+  Austen Jewell SMITH\n🇸🇰 Danka BARTEKOVA\n🇬🇷 Emmanouela
+  KATZOURAKI\n🇨🇱 Francisca CROVETTO CHADID\n🇸🇰 Vanesa HOCKOVA
 SUMMARY:🔫 Skeet Women's Final
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
@@ -699,17 +750,20 @@ UID:20240804T134000Z-artistic-gymnastics-WOMENS-UNEVEN-BARS-FINAL
 DTSTAMP:20240804T134000Z
 DTSTART:20240804T134000Z
 DTEND:20240804T142100Z
-DESCRIPTION:Artistic Gymnastics - Women's Uneven Bars Final
+DESCRIPTION:Artistic Gymnastics - Women's Uneven Bars Final\n🇮🇹 Alice
+  D'AMATO\n🇩🇪 Helen KEVRIC\n🇩🇿 Kaylia NEMOUR\n🇧🇪 Nina DERWAEL\n🇨🇳
+  QIU Qiyuan\n🇧🇷 Rebeca ANDRADE\n🇬🇧 Rebecca DOWNIE\n🇳🇱 Sanna
+  VEERMAN\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHANG Yihan
 SUMMARY:🤸 Women's Uneven Bars Final
 LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T141000Z-badminton-MENS-DOUBLES-GOLD-MEDAL-MATCH
+UID:20240804T141000Z-badminton-MENS-DOUBLES-GOLD-MEDAL-MATCH-CHN-TPE
 DTSTAMP:20240804T141000Z
 DTSTART:20240804T141000Z
 DTEND:20240804T153000Z
 DESCRIPTION:Badminton - Men's Doubles Gold Medal Match
-SUMMARY:🏸 Men's Doubles Gold Medal Match
+SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇹🇼 LEE/WANG
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -717,7 +771,10 @@ UID:20240804T142400Z-artistic-gymnastics-MENS-VAULT-FINAL
 DTSTAMP:20240804T142400Z
 DTSTART:20240804T142400Z
 DTEND:20240804T150700Z
-DESCRIPTION:Artistic Gymnastics - Men's Vault Final
+DESCRIPTION:Artistic Gymnastics - Men's Vault Final\n🇹🇷 Adem ASIL\n🇦🇲
+  Artur DAVTYAN\n🇺🇸 Asher HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel
+  YULO\n🇬🇧 Harry HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷
+  LEE Junho\n🇮🇷 Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
 SUMMARY:🤸 Men's Vault Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -771,7 +828,9 @@ UID:20240804T163000Z-swimming-WOMENS-50M-FREESTYLE-FINAL
 DTSTAMP:20240804T163000Z
 DTSTART:20240804T163000Z
 DTEND:20240804T163700Z
-DESCRIPTION:Swimming - Women's 50m Freestyle Final
+DESCRIPTION:Swimming - Women's 50m Freestyle Final\n🇺🇸 Gretchen
+  WALSH\n🇵🇱 Katarzyna WASICK\n🇦🇺 Meg HARRIS\n🇸🇮 Neza KLANCAR\n🇸🇪
+  Sarah SJOESTROEM\n🇦🇺 Shayna JACK\n🇨🇳 WU Qingfeng\n🇨🇳 ZHANG Yufei
 SUMMARY:🏊 Women's 50m Freestyle Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -780,7 +839,10 @@ UID:20240804T163700Z-swimming-MENS-1500M-FREESTYLE-FINAL
 DTSTAMP:20240804T163700Z
 DTSTART:20240804T163700Z
 DTEND:20240804T165800Z
-DESCRIPTION:Swimming - Men's 1500m Freestyle Final
+DESCRIPTION:Swimming - Men's 1500m Freestyle Final\n🇹🇳 Ahmed
+  JAOUADI\n🇺🇸 Bobby FINKE\n🇫🇷 Damien JOLY\n🇮🇪 Daniel WIFFEN\n🇫🇷
+  David AUBRY\n🇭🇺 David BETLEHEM\n🇮🇹 Gregorio PALTRINIERI\n🇹🇷 Kuzey
+  TUNCELLI
 SUMMARY:🏊 Men's 1500m Freestyle Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -789,17 +851,18 @@ UID:20240804T171000Z-swimming-MENS-4-X-100M-MEDLEY-RELAY-FINAL
 DTSTAMP:20240804T171000Z
 DTSTART:20240804T171000Z
 DTEND:20240804T172000Z
-DESCRIPTION:Swimming - Men's 4 x 100m Medley Relay Final
+DESCRIPTION:Swimming - Men's 4 x 100m Medley Relay Final\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇳🇱 NED\n🇺🇸 USA
 SUMMARY:🏊 Men's 4 x 100m Medley Relay Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T171000Z-fencing-MENS-FOIL-TEAM-BRONZE-MEDAL-MATCH
+UID:20240804T171000Z-fencing-MENS-FOIL-TEAM-BRONZE-MEDAL-MATCH-USA-FRA
 DTSTAMP:20240804T171000Z
 DTSTART:20240804T171000Z
 DTEND:20240804T182000Z
 DESCRIPTION:Fencing - Men's Foil Team Bronze Medal Match
-SUMMARY:🤺 Men's Foil Team Bronze Medal Match
+SUMMARY:🤺 USA 🇺🇸 - 🇫🇷 FRA
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -807,7 +870,8 @@ UID:20240804T173200Z-swimming-WOMENS-4-X-100M-MEDLEY-RELAY-FINAL
 DTSTAMP:20240804T173200Z
 DTSTART:20240804T173200Z
 DTEND:20240804T174200Z
-DESCRIPTION:Swimming - Women's 4 x 100m Medley Relay Final
+DESCRIPTION:Swimming - Women's 4 x 100m Medley Relay Final\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇯🇵 JPN\n🇳🇱 NED\n🇸🇪 SWE\n🇺🇸 USA
 SUMMARY:🏊 Women's 4 x 100m Medley Relay Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -816,7 +880,11 @@ UID:20240804T175500Z-athletics-WOMENS-HIGH-JUMP-FINAL
 DTSTAMP:20240804T175500Z
 DTSTART:20240804T175500Z
 DTEND:20240804T194000Z
-DESCRIPTION:Athletics - Women's High Jump Final
+DESCRIPTION:Athletics - Women's High Jump Final\n🇷🇸 Angelina TOPIC\n🇹🇷
+  Buse SAVASKAN\n🇩🇪 Christina HONSEL\n🇦🇺 Eleanor PATTERSON\n🇨🇾 Elena
+  KULICHENKO\n🇺🇦 Iryna GERASHCHENKO\n🇫🇷 Nawal MENIKER\n🇦🇺 Nicola
+  OLYSLAGERS\n🇺🇿 Safina SADULLAYEVA\n🇬🇷 Tatiana GUSIN\n🇧🇷 Valdileia
+  MARTINS\n🇺🇸 Vashti CUNNINGHAM\n🇺🇦 Yaroslava MAHUCHIKH
 SUMMARY:🏃 Women's High Jump Final
 LOCATION:Stade de France
 END:VEVENT
@@ -825,17 +893,21 @@ UID:20240804T183000Z-athletics-MENS-HAMMER-THROW-FINAL
 DTSTAMP:20240804T183000Z
 DTSTART:20240804T183000Z
 DTEND:20240804T194000Z
-DESCRIPTION:Athletics - Men's Hammer Throw Final
+DESCRIPTION:Athletics - Men's Hammer Throw Final\n🇭🇺 Bence HALASZ\n🇬🇷
+  Christos FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇩🇪
+  Merlin HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel FAJDEK\n🇨🇦 Rowan
+  HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱 Wojciech
+  NOWICKI\n🇫🇷 Yann CHAUSSINAND
 SUMMARY:🏃 Men's Hammer Throw Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T183000Z-fencing-MENS-FOIL-TEAM-GOLD-MEDAL-MATCH
+UID:20240804T183000Z-fencing-MENS-FOIL-TEAM-GOLD-MEDAL-MATCH-ITA-JPN
 DTSTAMP:20240804T183000Z
 DTSTART:20240804T183000Z
 DTEND:20240804T194000Z
 DESCRIPTION:Fencing - Men's Foil Team Gold Medal Match
-SUMMARY:🤺 Men's Foil Team Gold Medal Match
+SUMMARY:🤺 ITA 🇮🇹 - 🇯🇵 JPN
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -843,7 +915,9 @@ UID:20240804T195000Z-athletics-MENS-100M-FINAL
 DTSTAMP:20240804T195000Z
 DTSTART:20240804T195000Z
 DTEND:20240804T195100Z
-DESCRIPTION:Athletics - Men's 100m Final
+DESCRIPTION:Athletics - Men's 100m Final\n🇿🇦 Akani SIMBINE\n🇺🇸 Fred
+  KERLEY\n🇺🇸 Kenneth BEDNAREK\n🇯🇲 Kishane THOMPSON\n🇮🇹 Lamont Marcell
+  JACOBS\n🇧🇼 Letsile TEBOGO\n🇺🇸 Noah LYLES\n🇯🇲 Oblique SEVILLE
 SUMMARY:🏃 Men's 100m Final
 LOCATION:Stade de France
 END:VEVENT
@@ -863,17 +937,19 @@ UID:20240805T073000Z-shooting-25M-RAPID-FIRE-PISTOL-MENS-FINAL
 DTSTAMP:20240805T073000Z
 DTSTART:20240805T073000Z
 DTEND:20240805T083000Z
-DESCRIPTION:Shooting - 25m Rapid Fire Pistol Men's Final
+DESCRIPTION:Shooting - 25m Rapid Fire Pistol Men's Final\n🇰🇷 CHO
+  Yeongjae\n🇩🇪 Florian PETER\n🇨🇳 LI Yuehong\n🇮🇹 Massimo
+  SPINELLA\n🇺🇦 Pavlo KOROSTYLOV\n🇨🇳 WANG Xinjie
 SUMMARY:🔫 25m Rapid Fire Pistol Men's Final
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T085500Z-badminton-WOMENS-SINGLES-GOLD-MEDAL-MATCH
+UID:20240805T085500Z-badminton-WOMENS-SINGLES-GOLD-MEDAL-MATCH-KOR-CHN
 DTSTAMP:20240805T085500Z
 DTSTART:20240805T085500Z
 DTEND:20240805T103000Z
 DESCRIPTION:Badminton - Women's Singles Gold Medal Match
-SUMMARY:🏸 Women's Singles Gold Medal Match
+SUMMARY:🏸 AN Se Young 🇰🇷 - 🇨🇳 HE Bing Jiao
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -881,7 +957,11 @@ UID:20240805T094500Z-artistic-gymnastics-MENS-PARALLEL-BARS-FINAL
 DTSTAMP:20240805T094500Z
 DTSTART:20240805T094500Z
 DTEND:20240805T102400Z
-DESCRIPTION:Artistic Gymnastics - Men's Parallel Bars Final
+DESCRIPTION:Artistic Gymnastics - Men's Parallel Bars Final\n🇨🇴 Angel
+  BARAJAS\n🇹🇷 Ferhat ARICAN\n🇯🇵 HASHIMOTO Daiki\n🇺🇦 Illia
+  KOVTUN\n🇬🇧 Joe FRASER\n🇯🇵 KAYA Kazuma\n🇭🇺 Krisztofer MESZAROS\n🇩🇪
+  Lukas DAUSER\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇯🇵 TANIGAWA
+  Wataru\n🇨🇳 XIAO Ruoteng\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU Jingyuan
 SUMMARY:🤸 Men's Parallel Bars Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -890,7 +970,10 @@ UID:20240805T103800Z-artistic-gymnastics-WOMENS-BALANCE-BEAM-FINAL
 DTSTAMP:20240805T103800Z
 DTSTART:20240805T103800Z
 DTEND:20240805T111900Z
-DESCRIPTION:Artistic Gymnastics - Women's Balance Beam Final
+DESCRIPTION:Artistic Gymnastics - Women's Balance Beam Final\n🇮🇹 Alice
+  D'AMATO\n🇧🇷 Julia SOARES\n🇨🇳 LUO Huan\n🇮🇹 Manila ESPOSITO\n🇫🇷
+  Marine BOYER\n🇧🇷 Rebeca ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇳🇱 Sanne
+  WEVERS\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHOU Yaqin
 SUMMARY:🤸 Women's Balance Beam Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -899,7 +982,10 @@ UID:20240805T113300Z-artistic-gymnastics-MENS-HORIZONTAL-BAR-FINAL
 DTSTAMP:20240805T113300Z
 DTSTART:20240805T113300Z
 DTEND:20240805T120800Z
-DESCRIPTION:Artistic Gymnastics - Men's Horizontal Bar Final
+DESCRIPTION:Artistic Gymnastics - Men's Horizontal Bar Final\n🇨🇴 Angel
+  BARAJAS\n🇺🇸 Frederick RICHARD\n🇬🇧 Joe FRASER\n🇨🇾 Marios
+  GEORGIOU\n🇯🇵 OKA Shinnosuke\n🇨🇳 SU Weide\n🇯🇵 SUGINO Takaaki\n🇹🇼
+  TANG Chia-Hung\n🇭🇷 Tin SRBIC\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
 SUMMARY:🤸 Men's Horizontal Bar Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -908,44 +994,49 @@ UID:20240805T122300Z-artistic-gymnastics-WOMENS-FLOOR-EXERCISE-FINAL
 DTSTAMP:20240805T122300Z
 DTSTART:20240805T122300Z
 DTEND:20240805T130300Z
-DESCRIPTION:Artistic Gymnastics - Women's Floor Exercise Final
+DESCRIPTION:Artistic Gymnastics - Women's Floor Exercise Final\n🇮🇹 Alice
+  D'AMATO\n🇷🇴 Ana BARBOSU\n🇮🇹 Angela ANDREOLI\n🇨🇦 Elsabeth
+  BLACK\n🇧🇷 Jade BARBOSA\n🇺🇸 Jordan CHILES\n🇧🇷 Julia SOARES\n🇯🇵
+  KISHI Rina\n🇮🇹 Manila ESPOSITO\n🇨🇳 OU Yushan\n🇧🇷 Rebeca
+  ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇺🇸 Simone BILES\n🇨🇳 ZHANG
+  Yihan\n🇨🇳 ZHOU Yaqin
 SUMMARY:🤸 Women's Floor Exercise Final
 LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T123000Z-badminton-MENS-SINGLES-BRONZE-MEDAL-MATCH
+UID:20240805T123000Z-badminton-MENS-SINGLES-BRONZE-MEDAL-MATCH-MAS-IND
 DTSTAMP:20240805T123000Z
 DTSTART:20240805T123000Z
 DTEND:20240805T153000Z
 DESCRIPTION:Badminton - Men's Singles Bronze Medal Match
-SUMMARY:🏸 Men's Singles Bronze Medal Match
+SUMMARY:🏸 Zii Jia LEE 🇲🇾 - 🇮🇳 Lakshya SEN
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T130000Z-shooting-SKEET-MIXED-TEAM-BRONZE-MEDAL-MATCH
+UID:20240805T130000Z-shooting-SKEET-MIXED-TEAM-BRONZE-MEDAL-MATCH-CHN-IND
 DTSTAMP:20240805T130000Z
 DTSTART:20240805T130000Z
 DTEND:20240805T133000Z
 DESCRIPTION:Shooting - Skeet Mixed Team Bronze Medal Match
-SUMMARY:🔫 Skeet Mixed Team Bronze Medal Match
+SUMMARY:🔫 CHN 🇨🇳 - 🇮🇳 IND
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T130000Z-shooting-SKEET-MIXED-TEAM-GOLD-MEDAL-MATCH
+UID:20240805T130000Z-shooting-SKEET-MIXED-TEAM-GOLD-MEDAL-MATCH-ITA-USA
 DTSTAMP:20240805T130000Z
 DTSTART:20240805T130000Z
 DTEND:20240805T133000Z
 DESCRIPTION:Shooting - Skeet Mixed Team Gold Medal Match
-SUMMARY:🔫 Skeet Mixed Team Gold Medal Match
+SUMMARY:🔫 Italy 1 🇮🇹 - 🇺🇸 United States 1
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T134000Z-badminton-MENS-SINGLES-GOLD-MEDAL-MATCH
+UID:20240805T134000Z-badminton-MENS-SINGLES-GOLD-MEDAL-MATCH-THA-DEN
 DTSTAMP:20240805T134000Z
 DTSTART:20240805T134000Z
 DTEND:20240805T153000Z
 DESCRIPTION:Badminton - Men's Singles Gold Medal Match
-SUMMARY:🏸 Men's Singles Gold Medal Match
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇩🇰 Viktor AXELSEN
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -953,7 +1044,8 @@ UID:20240805T145500Z-canoe-slalom-WOMENS-KAYAK-CROSS-FINAL
 DTSTAMP:20240805T145500Z
 DTSTART:20240805T145500Z
 DTEND:20240805T150000Z
-DESCRIPTION:Canoe Slalom - Women's Kayak Cross Final
+DESCRIPTION:Canoe Slalom - Women's Kayak Cross Final\n🇫🇷 Angele HUG\n🇩🇪
+  Elena LILIK\n🇬🇧 Kimberley WOODS\n🇦🇺 Noemie FOX
 SUMMARY:🛶 Women's Kayak Cross Final
 LOCATION:Nautical St - White water
 END:VEVENT
@@ -962,7 +1054,8 @@ UID:20240805T150000Z-canoe-slalom-MENS-KAYAK-CROSS-FINAL
 DTSTAMP:20240805T150000Z
 DTSTART:20240805T150000Z
 DTEND:20240805T150500Z
-DESCRIPTION:Canoe Slalom - Men's Kayak Cross Final
+DESCRIPTION:Canoe Slalom - Men's Kayak Cross Final\n🇳🇿 Finn BUTCHER\n🇬🇧
+  Joseph CLARKE\n🇨🇿 Lukas ROHAN\n🇩🇪 Noah HEGGE
 SUMMARY:🛶 Men's Kayak Cross Final
 LOCATION:Nautical St - White water
 END:VEVENT
@@ -971,7 +1064,11 @@ UID:20240805T170000Z-athletics-MENS-POLE-VAULT-FINAL
 DTSTAMP:20240805T170000Z
 DTSTART:20240805T170000Z
 DTEND:20240805T192700Z
-DESCRIPTION:Athletics - Men's Pole Vault Final
+DESCRIPTION:Athletics - Men's Pole Vault Final\n🇸🇪 Armand DUPLANTIS\n🇩🇪
+  Bo Kanda LITA BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John
+  OBIENA\n🇹🇷 Ersu SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱
+  Menno VLOON\n🇩🇪 Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre
+  GUTTORMSEN\n🇱🇻 Valters KREISS
 SUMMARY:🏃 Men's Pole Vault Final
 LOCATION:Stade de France
 END:VEVENT
@@ -998,17 +1095,21 @@ UID:20240805T183000Z-athletics-WOMENS-DISCUS-THROW-FINAL
 DTSTAMP:20240805T183000Z
 DTSTART:20240805T183000Z
 DTEND:20240805T194000Z
-DESCRIPTION:Athletics - Women's Discus Throw Final
+DESCRIPTION:Athletics - Women's Discus Throw Final\n🇲🇩 Alexandra
+  EMILIANOV\n🇩🇪 Claudine VITA\n🇮🇹 Daisy OSAKUE\n🇨🇳 FENG Bin\n🇵🇹
+  Irina RODRIGUES\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin PUDENZ\n🇩🇪
+  Marike STEINACKER\n🇫🇷 Melina ROBERT-MICHON\n🇭🇷 Sandra ELKASEVIC\n🇺🇸
+  Valarie ALLMAN\n🇸🇪 Vanessa KAMGA
 SUMMARY:🏃 Women's Discus Throw Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T190000Z-3x3-basketball-WOMENS-BRONZE-MEDAL-GAME-CAN-USA
+UID:20240805T190000Z-3x3-basketball-WOMENS-BRONZE-MEDAL-GAME
 DTSTAMP:20240805T190000Z
 DTSTART:20240805T190000Z
 DTEND:20240805T192500Z
 DESCRIPTION:3x3 Basketball - Women's Bronze Medal Game
-SUMMARY:🏀 CAN 🇨🇦 - 🇺🇸 USA
+SUMMARY:🏀 Women's Bronze Medal Game
 LOCATION:La Concorde 1
 END:VEVENT
 BEGIN:VEVENT
@@ -1016,17 +1117,22 @@ UID:20240805T191500Z-athletics-WOMENS-5000M-FINAL
 DTSTAMP:20240805T191500Z
 DTSTART:20240805T191500Z
 DTEND:20240805T193200Z
-DESCRIPTION:Athletics - Women's 5000m Final
+DESCRIPTION:Athletics - Women's 5000m Final\n🇰🇪 Beatrice CHEBET\n🇪🇹
+  Ejgayehu TAYE\n🇺🇸 Elise CRANNY\n🇰🇪 Faith KIPYEGON\n🇧🇮 Francine
+  NIYOMUKUNZI\n🇪🇹 Gudaf TSEGAY\n🇻🇪 Joselyn Daniely BREA\n🇺🇸 Karissa
+  SCHWEIZER\n🇳🇴 Karoline Bjerkeli GROVDAL\n🇰🇪 Margaret Chelimo
+  KIPKEMBOI\n🇪🇹 Medina EISA\n🇮🇹 Nadia BATTOCLETTI\n🇫🇮 Nathalie
+  BLOMQVIST\n🇦🇺 Rose DAVIES\n🇳🇱 Sifan HASSAN\n🇺🇸 Whittni MORGAN
 SUMMARY:🏃 Women's 5000m Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T193000Z-3x3-basketball-MENS-BRONZE-MEDAL-GAME-LAT-LTU
+UID:20240805T193000Z-3x3-basketball-MENS-BRONZE-MEDAL-GAME
 DTSTAMP:20240805T193000Z
 DTSTART:20240805T193000Z
 DTEND:20240805T195500Z
 DESCRIPTION:3x3 Basketball - Men's Bronze Medal Game
-SUMMARY:🏀 LAT 🇱🇻 - 🇱🇹 LTU
+SUMMARY:🏀 Men's Bronze Medal Game
 LOCATION:La Concorde 1
 END:VEVENT
 BEGIN:VEVENT
@@ -1034,62 +1140,64 @@ UID:20240805T194700Z-athletics-WOMENS-800M-FINAL
 DTSTAMP:20240805T194700Z
 DTSTART:20240805T194700Z
 DTEND:20240805T194900Z
-DESCRIPTION:Athletics - Women's 800m Final
+DESCRIPTION:Athletics - Women's 800m Final\n🇺🇸 Juliette WHITTAKER\n🇬🇧
+  Keely HODGKINSON\n🇰🇪 Mary MORAA\n🇿🇦 Prudence SEKGODISO\n🇫🇷 Renelle
+  LAMOTE\n🇻🇨 Shafiqua MALONEY\n🇪🇹 Tsige DUGUMA\n🇪🇹 Worknesh MESELE
 SUMMARY:🏃 Women's 800m Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T200000Z-3x3-basketball-WOMENS-GOLD-MEDAL-GAME-GER-ESP
+UID:20240805T200000Z-3x3-basketball-WOMENS-GOLD-MEDAL-GAME
 DTSTAMP:20240805T200000Z
 DTSTART:20240805T200000Z
 DTEND:20240805T202500Z
 DESCRIPTION:3x3 Basketball - Women's Gold Medal Game
-SUMMARY:🏀 GER 🇩🇪 - 🇪🇸 ESP
+SUMMARY:🏀 Women's Gold Medal Game
 LOCATION:La Concorde 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T203000Z-3x3-basketball-MENS-GOLD-MEDAL-GAME-FRA-NED
+UID:20240805T203000Z-3x3-basketball-MENS-GOLD-MEDAL-GAME
 DTSTAMP:20240805T203000Z
 DTSTART:20240805T203000Z
 DTEND:20240805T205500Z
 DESCRIPTION:3x3 Basketball - Men's Gold Medal Game
-SUMMARY:🏀 FRA 🇫🇷 - 🇳🇱 NED
+SUMMARY:🏀 Men's Gold Medal Game
 LOCATION:La Concorde 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T225400Z-surfing-MENS-BRONZE-MEDAL-MATCH
+UID:20240805T225400Z-surfing-MENS-BRONZE-MEDAL-MATCH-BRA-PER
 DTSTAMP:20240805T225400Z
 DTSTART:20240805T225400Z
 DTEND:20240805T232900Z
 DESCRIPTION:Surfing - Men's Bronze Medal Match
-SUMMARY:🏄 Men's Bronze Medal Match
+SUMMARY:🏄 Gabriel MEDINA 🇧🇷 - 🇵🇪 Alonso CORREA
 LOCATION:Teahupo'o, Tahiti
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T233500Z-surfing-WOMENS-BRONZE-MEDAL-MATCH
+UID:20240805T233500Z-surfing-WOMENS-BRONZE-MEDAL-MATCH-FRA-CRC
 DTSTAMP:20240805T233500Z
 DTSTART:20240805T233500Z
 DTEND:20240806T001000Z
 DESCRIPTION:Surfing - Women's Bronze Medal Match
-SUMMARY:🏄 Women's Bronze Medal Match
+SUMMARY:🏄 Johanne DEFAY 🇫🇷 - 🇨🇷 Brisa HENNESSY
 LOCATION:Teahupo'o, Tahiti
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T001600Z-surfing-MENS-GOLD-MEDAL-MATCH
+UID:20240806T001600Z-surfing-MENS-GOLD-MEDAL-MATCH-FRA-AUS
 DTSTAMP:20240806T001600Z
 DTSTART:20240806T001600Z
 DTEND:20240806T005100Z
 DESCRIPTION:Surfing - Men's Gold Medal Match
-SUMMARY:🏄 Men's Gold Medal Match
+SUMMARY:🏄 Kauli VAAST 🇫🇷 - 🇦🇺 Jack ROBINSON
 LOCATION:Teahupo'o, Tahiti
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T005700Z-surfing-WOMENS-GOLD-MEDAL-MATCH
+UID:20240806T005700Z-surfing-WOMENS-GOLD-MEDAL-MATCH-USA-BRA
 DTSTAMP:20240806T005700Z
 DTSTART:20240806T005700Z
 DTEND:20240806T013200Z
 DESCRIPTION:Surfing - Women's Gold Medal Match
-SUMMARY:🏄 Women's Gold Medal Match
+SUMMARY:🏄 Caroline MARKS 🇺🇸 - 🇧🇷 Tatiana WESTON-WEBB
 LOCATION:Teahupo'o, Tahiti
 END:VEVENT
 BEGIN:VEVENT
@@ -1097,7 +1205,17 @@ UID:20240806T080000Z-equestrian-JUMPING-INDIVIDUAL-FINAL
 DTSTAMP:20240806T080000Z
 DTSTART:20240806T080000Z
 DTEND:20240806T092100Z
-DESCRIPTION:Equestrian - Jumping Individual Final
+DESCRIPTION:Equestrian - Jumping Individual Final\n🇸🇦 Abdulrahman
+  ALRAJHI\n🇲🇽 Andres AZCARRAGA\n🇬🇧 Ben MAHER\n🇩🇪 Christian
+  KUKUK\n🇮🇪 Daniel COYLE\n🇮🇹 Emanuele CAMILLI\n🇧🇪 Gilles THOMAS\n🇧🇪
+  Gregory WATHELET\n🇯🇵 HAASE SHIBAYAMA Takashi\n🇳🇱 Harrie
+  SMOLDERS\n🇬🇧 Harry CHARLES\n🇸🇪 Henrik von ECKERMANN\n🇦🇷 Jose Maria
+  (jr) LAROCCA\n🇫🇷 Julien EPAILLARD\n🇺🇸 Karl COOK\n🇳🇱 Kim EMMEN\n🇺🇸
+  Laura KRAUT\n🇳🇱 Maikel van der VLEUTEN\n🇨🇭 Martin FUCHS\n🇦🇹 Max
+  KUEHNER\n🇦🇪 Omar Abdul Aziz AL MARZOOQI\n🇩🇪 Philipp WEISHAUPT\n🇸🇦
+  Ramzy AL DUHAMI\n🇧🇷 Rodrigo PESSOA\n🇬🇧 Scott BRASH\n🇮🇪 Shane
+  SWEETNAM\n🇫🇷 Simon DELESTRE\n🇧🇷 Stephan de FREITAS BARCHA\n🇨🇭 Steve
+  GUERDAT\n🇳🇴 Victoria GULLIKSEN
 SUMMARY:🏇 Jumping Individual Final
 LOCATION:Château de Versailles
 END:VEVENT
@@ -1118,11 +1236,7 @@ UID:20240806T130000Z-diving-WOMENS-10M-PLATFORM-FINAL
 DTSTAMP:20240806T130000Z
 DTSTART:20240806T130000Z
 DTEND:20240806T141800Z
-DESCRIPTION:Diving - Women's 10m Platform Final\n🇯🇵 ARAI Matsuri\n🇲🇽
-  Alejandra OROZCO LOZA\n🇬🇧 Andrea SPENDOLINI SIRIEIX\n🇨🇳 CHEN
-  Yuxi\n🇨🇦 Caeli McKAY\n🇦🇺 Ellie COLE\n🇳🇱 Else PRAASTERINK\n🇲🇽
-  Gabriela AGUNDEZ GARCIA\n🇰🇵 KIM Mi Rae\n🇦🇺 Melissa WU\n🇨🇳 QUAN
-  Hongchan\n🇮🇹 Sarah JODOIN di MARIA
+DESCRIPTION:Diving - Women's 10m Platform Final
 SUMMARY:🏊 Women's 10m Platform Final
 LOCATION:Aquatics Centre
 END:VEVENT
@@ -1153,8 +1267,7 @@ UID:20240806T165700Z-wrestling-MENS-GRECO-ROMAN-60KG-BRONZE-MEDAL-MATCH
 DTSTAMP:20240806T165700Z
 DTSTART:20240806T165700Z
 DTEND:20240806T170400Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 60kg Bronze Medal Match\n🇰🇬
-  Zholaman SHARSHENBEKOV
+DESCRIPTION:Wrestling - Men's Greco-Roman 60kg Bronze Medal Match
 SUMMARY:🤼 Men's Greco-Roman 60kg Bronze Medal Match
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -1163,18 +1276,17 @@ UID:20240806T170400Z-wrestling-MENS-GRECO-ROMAN-60KG-BRONZE-MEDAL-MATCH
 DTSTAMP:20240806T170400Z
 DTSTART:20240806T170400Z
 DTEND:20240806T171100Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 60kg Bronze Medal Match\n🇰🇵 RI
-  Se Ung
+DESCRIPTION:Wrestling - Men's Greco-Roman 60kg Bronze Medal Match
 SUMMARY:🤼 Men's Greco-Roman 60kg Bronze Medal Match
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T171100Z-wrestling-MENS-GRECO-ROMAN-60KG-FINAL-JPN-CHN
+UID:20240806T171100Z-wrestling-MENS-GRECO-ROMAN-60KG-FINAL
 DTSTAMP:20240806T171100Z
 DTSTART:20240806T171100Z
 DTEND:20240806T171800Z
 DESCRIPTION:Wrestling - Men's Greco-Roman 60kg Final
-SUMMARY:🤼 FUMITA Kenichiro 🇯🇵 - 🇨🇳 CAO Liguo
+SUMMARY:🤼 Men's Greco-Roman 60kg Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1182,8 +1294,7 @@ UID:20240806T171800Z-wrestling-MENS-GRECO-ROMAN-130KG-BRONZE-MEDAL-MATCH
 DTSTAMP:20240806T171800Z
 DTSTART:20240806T171800Z
 DTEND:20240806T172500Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 130kg Bronze Medal Match\n🇦🇿
-  Sabah Saleh SHARIATI
+DESCRIPTION:Wrestling - Men's Greco-Roman 130kg Bronze Medal Match
 SUMMARY:🤼 Men's Greco-Roman 130kg Bronze Medal Match
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -1192,18 +1303,17 @@ UID:20240806T172500Z-wrestling-MENS-GRECO-ROMAN-130KG-BRONZE-MEDAL-MATCH
 DTSTAMP:20240806T172500Z
 DTSTART:20240806T172500Z
 DTEND:20240806T173200Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 130kg Bronze Medal Match\n🇨🇳
-  MENG Lingzhe
+DESCRIPTION:Wrestling - Men's Greco-Roman 130kg Bronze Medal Match
 SUMMARY:🤼 Men's Greco-Roman 130kg Bronze Medal Match
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T173200Z-wrestling-MENS-GRECO-ROMAN-130KG-FINAL-CUB-CHI
+UID:20240806T173200Z-wrestling-MENS-GRECO-ROMAN-130KG-FINAL
 DTSTAMP:20240806T173200Z
 DTSTART:20240806T173200Z
 DTEND:20240806T173900Z
 DESCRIPTION:Wrestling - Men's Greco-Roman 130kg Final
-SUMMARY:🤼 Mijain LOPEZ NUNEZ 🇨🇺 - 🇨🇱 Yasmani ACOSTA FERNANDEZ
+SUMMARY:🤼 Men's Greco-Roman 130kg Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1211,8 +1321,7 @@ UID:20240806T173900Z-wrestling-WOMENS-FREESTYLE-68KG-BRONZE-MEDAL-MATCH
 DTSTAMP:20240806T173900Z
 DTSTART:20240806T173900Z
 DTEND:20240806T174600Z
-DESCRIPTION:Wrestling - Women's Freestyle 68kg Bronze Medal Match\n🇰🇵 PAK
-  Sol Gum
+DESCRIPTION:Wrestling - Women's Freestyle 68kg Bronze Medal Match
 SUMMARY:🤼 Women's Freestyle 68kg Bronze Medal Match
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -1221,18 +1330,17 @@ UID:20240806T174600Z-wrestling-WOMENS-FREESTYLE-68KG-BRONZE-MEDAL-MATCH
 DTSTAMP:20240806T174600Z
 DTSTART:20240806T174600Z
 DTEND:20240806T175300Z
-DESCRIPTION:Wrestling - Women's Freestyle 68kg Bronze Medal Match\n🇳🇬
-  Blessing OBORUDUDU
+DESCRIPTION:Wrestling - Women's Freestyle 68kg Bronze Medal Match
 SUMMARY:🤼 Women's Freestyle 68kg Bronze Medal Match
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T175300Z-wrestling-WOMENS-FREESTYLE-68KG-FINAL-USA-KGZ
+UID:20240806T175300Z-wrestling-WOMENS-FREESTYLE-68KG-FINAL
 DTSTAMP:20240806T175300Z
 DTSTART:20240806T175300Z
 DTEND:20240806T180000Z
 DESCRIPTION:Wrestling - Women's Freestyle 68kg Final
-SUMMARY:🤼 Amit ELOR 🇺🇸 - 🇰🇬 Meerim ZHUMANAZAROVA
+SUMMARY:🤼 Women's Freestyle 68kg Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1240,7 +1348,11 @@ UID:20240806T175700Z-athletics-WOMENS-HAMMER-THROW-FINAL
 DTSTAMP:20240806T175700Z
 DTSTART:20240806T175700Z
 DTEND:20240806T190700Z
-DESCRIPTION:Athletics - Women's Hammer Throw Final
+DESCRIPTION:Athletics - Women's Hammer Throw Final\n🇵🇱 Anita
+  WLODARCZYK\n🇺🇸 Annette Nneka ECHIKUNWOKE\n🇷🇴 Bianca Florentina
+  GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸 Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰
+  Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇻🇪 Rosa Andreina
+  RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇨🇳 ZHAO Jie
 SUMMARY:🏃 Women's Hammer Throw Final
 LOCATION:Stade de France
 END:VEVENT
@@ -1267,7 +1379,11 @@ UID:20240806T181500Z-athletics-MENS-LONG-JUMP-FINAL
 DTSTAMP:20240806T181500Z
 DTSTART:20240806T181500Z
 DTEND:20240806T193500Z
-DESCRIPTION:Athletics - Men's Long Jump Final
+DESCRIPTION:Athletics - Men's Long Jump Final\n🇨🇴 Arnovis DALMERO\n🇯🇲
+  Carey McLEOD\n🇭🇷 Filip PRAVDICA\n🇬🇧 Jacob FINCHAM-DUKES\n🇮🇹 Mattia
+  FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🇨🇿 Radek JUSKA\n🇩🇪 Simon
+  BATZ\n🇨🇭 Simon EHAMMER\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳
+  ZHANG Mingkun
 SUMMARY:🏃 Men's Long Jump Final
 LOCATION:Stade de France
 END:VEVENT
@@ -1276,7 +1392,10 @@ UID:20240806T185000Z-athletics-MENS-1500M-FINAL
 DTSTAMP:20240806T185000Z
 DTSTART:20240806T185000Z
 DTEND:20240806T185400Z
-DESCRIPTION:Athletics - Men's 1500m Final
+DESCRIPTION:Athletics - Men's 1500m Final\n🇰🇪 Brian KOMEN\n🇺🇸 Cole
+  HOCKER\n🇺🇸 Hobbs KESSLER\n🇳🇴 Jakob INGEBRIGTSEN\n🇬🇧 Josh KERR\n🇳🇴
+  Narve Gilje NORDAS\n🇬🇧 Neil GOURLEY\n🇳🇱 Niels LAROS\n🇮🇹 Pietro
+  ARESE\n🇳🇱 Stefan NILLESSEN\n🇰🇪 Timothy CHERUIYOT\n🇺🇸 Yared NUGUSE
 SUMMARY:🏃 Men's 1500m Final
 LOCATION:Stade de France
 END:VEVENT
@@ -1285,7 +1404,12 @@ UID:20240806T191400Z-athletics-WOMENS-3000M-STEEPLECHASE-FINAL
 DTSTAMP:20240806T191400Z
 DTSTART:20240806T191400Z
 DTEND:20240806T192400Z
-DESCRIPTION:Athletics - Women's 3000m Steeplechase Final
+DESCRIPTION:Athletics - Women's 3000m Steeplechase Final\n🇫🇷 Alice
+  FINOT\n🇵🇱 Alicja KONIECZEK\n🇰🇪 Beatrice CHEPKOECH\n🇺🇸 Courtney
+  WAYMENT\n🇬🇧 Elizabeth BIRD\n🇰🇪 Faith CHEROTICH\n🇩🇪 Gesa Felicitas
+  KRAUSE\n🇪🇸 Irene SANCHEZ-ESCRIBANO\n🇩🇪 Lea MEYER\n🇪🇹 Lomi
+  MULETA\n🇰🇿 Norah JERUTO\n🇺🇬 Peruth CHEMUTAI\n🇪🇹 Sembo ALMAYEW\n🇺🇸
+  Valerie CONSTIEN\n🇧🇭 Winfred YAVI
 SUMMARY:🏃 Women's 3000m Steeplechase Final
 LOCATION:Stade de France
 END:VEVENT
@@ -1303,7 +1427,9 @@ UID:20240806T194000Z-athletics-WOMENS-200M-FINAL
 DTSTAMP:20240806T194000Z
 DTSTART:20240806T194000Z
 DTEND:20240806T194100Z
-DESCRIPTION:Athletics - Women's 200m Final
+DESCRIPTION:Athletics - Women's 200m Final\n🇺🇸 Brittany BROWN\n🇬🇧
+  Daryll NEITA\n🇬🇧 Dina ASHER-SMITH\n🇳🇬 Favour OFILI\n🇺🇸 Gabrielle
+  THOMAS\n🇨🇮 Jessika GBAI\n🇱🇨 Julien ALFRED\n🇺🇸 McKenzie LONG
 SUMMARY:🏃 Women's 200m Final
 LOCATION:Stade de France
 END:VEVENT
@@ -1548,7 +1674,11 @@ UID:20240807T182500Z-athletics-MENS-DISCUS-THROW-FINAL
 DTSTAMP:20240807T182500Z
 DTSTART:20240807T182500Z
 DTEND:20240807T193500Z
-DESCRIPTION:Athletics - Men's Discus Throw Final
+DESCRIPTION:Athletics - Men's Discus Throw Final\n🇼🇸 Alex ROSE\n🇷🇴 Alin
+  Alexandru FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇩🇪 Clemens PRUEFER\n🇸🇪
+  Daniel STAHL\n🇸🇮 Kristjan CEH\n🇦🇹 Lukas WEISSHAIDINGER\n🇦🇺 Matthew
+  DENNY\n🇱🇹 Mykolas ALEKNA\n🇯🇲 Ralford MULLINGS\n🇯🇲 Roje STONA\n🇯🇲
+  Traves SMIKLE
 SUMMARY:🏃 Men's Discus Throw Final
 LOCATION:Stade de France
 END:VEVENT
@@ -1656,7 +1786,13 @@ UID:20240807T194300Z-athletics-MENS-3000M-STEEPLECHASE-FINAL
 DTSTAMP:20240807T194300Z
 DTSTART:20240807T194300Z
 DTEND:20240807T195200Z
-DESCRIPTION:Athletics - Men's 3000m Steeplechase Final
+DESCRIPTION:Athletics - Men's 3000m Steeplechase Final\n🇰🇪 Abraham
+  KIBIWOT\n🇹🇳 Ahmed JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund
+  SABLE\n🇪🇸 Daniel ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon
+  DESGAGNES\n🇺🇸 Kenneth ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard
+  CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳 Mohamed Amin JHINAOUI\n🇲🇦 Mohamed
+  TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪 Simon Kiprop KOECH\n🇲🇦 Soufiane EL
+  BAKKALI
 SUMMARY:🏃 Men's 3000m Steeplechase Final
 LOCATION:Stade de France
 END:VEVENT
@@ -1854,12 +1990,12 @@ SUMMARY:⛵ Women's Kite Final - Race 2
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T150000Z-football-MENS-BRONZE-MEDAL-MATCH-EGY-MAR
+UID:20240808T150000Z-football-MENS-BRONZE-MEDAL-MATCH
 DTSTAMP:20240808T150000Z
 DTSTART:20240808T150000Z
 DTEND:20240808T164500Z
 DESCRIPTION:Football - Men's Bronze Medal Match
-SUMMARY:⚽ EGY 🇪🇬 - 🇲🇦 MAR
+SUMMARY:⚽ Men's Bronze Medal Match
 LOCATION:La Beaujoire Stadium
 END:VEVENT
 BEGIN:VEVENT
@@ -2303,12 +2439,12 @@ SUMMARY:🏐 Men's Bronze Medal Match
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T160000Z-football-MENS-GOLD-MEDAL-MATCH-FRA-ESP
+UID:20240809T160000Z-football-MENS-GOLD-MEDAL-MATCH
 DTSTAMP:20240809T160000Z
 DTSTART:20240809T160000Z
 DTEND:20240809T174500Z
 DESCRIPTION:Football - Men's Gold Medal Match
-SUMMARY:⚽ FRA 🇫🇷 - 🇪🇸 ESP
+SUMMARY:⚽ Men's Gold Medal Match
 LOCATION:Parc des Princes
 END:VEVENT
 BEGIN:VEVENT

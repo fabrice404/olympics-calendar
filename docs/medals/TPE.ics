@@ -4,6 +4,38 @@ PRODID:-//fabrice404//olympics-calendar//medals/TPE//EN
 X-WR-CALNAME:🇹🇼 Chinese Taipei 🏅 | Paris 2024
 NAME:🇹🇼 Chinese Taipei 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240803T133000Z-shooting-SKEET-MENS-FINAL
+DTSTAMP:20240803T133000Z
+DTSTART:20240803T133000Z
+DTEND:20240803T144500Z
+DESCRIPTION:Shooting - Skeet Men's Final\n🇺🇸 Conner Lynn PRINCE\n🇹🇼 LEE
+  Meng Yuan\n🇵🇪 Nicolas PACHECO ESPINOSA\n🇸🇪 Stefan NILSSON\n🇮🇹
+  Tammaro CASSANDRO\n🇺🇸 Vincent HANCOCK
+SUMMARY:🔫 Skeet Men's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T141000Z-badminton-MENS-DOUBLES-GOLD-MEDAL-MATCH-CHN-TPE
+DTSTAMP:20240804T141000Z
+DTSTART:20240804T141000Z
+DTEND:20240804T153000Z
+DESCRIPTION:Badminton - Men's Doubles Gold Medal Match
+SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇹🇼 LEE/WANG
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240805T113300Z-artistic-gymnastics-MENS-HORIZONTAL-BAR-FINAL
+DTSTAMP:20240805T113300Z
+DTSTART:20240805T113300Z
+DTEND:20240805T120800Z
+DESCRIPTION:Artistic Gymnastics - Men's Horizontal Bar Final\n🇨🇴 Angel
+  BARAJAS\n🇺🇸 Frederick RICHARD\n🇬🇧 Joe FRASER\n🇨🇾 Marios
+  GEORGIOU\n🇯🇵 OKA Shinnosuke\n🇨🇳 SU Weide\n🇯🇵 SUGINO Takaaki\n🇹🇼
+  TANG Chia-Hung\n🇭🇷 Tin SRBIC\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
+SUMMARY:🤸 Men's Horizontal Bar Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T173000Z-weightlifting-WOMENS-49KG
 DTSTAMP:20240807T173000Z
 DTSTART:20240807T173000Z

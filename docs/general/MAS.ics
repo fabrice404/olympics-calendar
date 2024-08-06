@@ -4,36 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//general/MAS//EN
 X-WR-CALNAME:🇲🇾 Malaysia | Paris 2024
 NAME:🇲🇾 Malaysia | Paris 2024
 BEGIN:VEVENT
-UID:20240725T073000Z-archery-WOMENS-INDIVIDUAL-RANKING-ROUND
-DTSTAMP:20240725T073000Z
-DTSTART:20240725T073000Z
-DTEND:20240725T103000Z
-DESCRIPTION:Archery - Women's Individual Ranking Round\n🇨🇳 AN
-  Qixuan\n🇲🇽 Alejandra VALENCIA\n🇲🇩 Alexandra MIRCA\n🇵🇷 Alondra
-  RIVERA\n🇫🇷 Amelie CORDEAU\n🇧🇷 Ana Luiza SLIACHTICAS CAETANO\n🇨🇴 Ana
-  RENDON MARTINEZ\n🇲🇽 Ana VAZQUEZ\n🇲🇽 Angela RUIZ\n🇮🇳 Ankita
-  BHAKAT\n🇲🇾 Ariana Nur Dania MOHAMAD ZAIRI\n🇮🇳 Bhajan KAUR\n🇬🇧
-  Bryony PITMAN\n🇹🇼 CHIU Yi-Ching\n🇫🇷 Caroline LOPEZ\n🇺🇸 Casey
-  KAUFHOLD\n🇺🇸 Catalina GNORIEGA\n🇩🇪 Charline SCHWARZ\n🇮🇹 Chiara
-  REBAGLIATI\n🇮🇳 Deepika KUMARI\n🇸🇰 Denisa BARANKOVA\n🇮🇩 Diananda
-  CHOIRUNISA\n🇪🇸 Elia CANALES\n🇹🇷 Elif Berra GOKKIR\n🇦🇹 Elisabeth
-  STRAKA\n🇬🇳 Fatoumata SYLLA\n🇳🇱 Gaby SCHLOESSER\n🇸🇲 Giorgia
-  CESARINI\n🇰🇷 JEON Hunyoung\n🇪🇬 Jana ALI\n🇺🇸 Jennifer MUCINO\n🇩🇪
-  Katharina BAUER\n🇩🇰 Kirstine DANSTRUP ANDERSEN\n🇹🇼 LEI
-  Chien-Ying\n🇨🇳 LI Jiaman\n🇹🇼 LI Tsai-Chi\n🇰🇷 LIM Sihyeon\n🇦🇺
-  Laura PAEGLIS\n🇳🇱 Laura van der WINKEL\n🇫🇷 Lisa BARBELIN\n🇷🇴
-  Madalina AMAISTROAIE\n🇨🇿 Marie HORACKOVA\n🇬🇧 Megs HAVERS\n🇩🇪
-  Michelle KROPPEN\n🇮🇱 Mikaella MOSHE\n🇮🇷 Mobina FALLAH\n🇰🇷 NAM
-  Suhyeon\n🇯🇵 NODA Satsuki\n🇲🇾 Nurul Azreena MOHAMAD FAZIL\n🇬🇧 Penny
-  HEALEY\n🇳🇱 Quinty ROEFFEN\n🇪🇪 Reena PARNAT\n🇮🇩 Rezza OCTAVIA\n🇹🇳
-  Rihab ELWALID\n🇲🇾 Syaqiera MASHAYIKH\n🇮🇩 Syifa Nurafifah KAMAL\n🇻🇳
-  Thi Anh Nguyet DO\n🇺🇦 Veronika MARCHENKO\n🇨🇦 Virginie CHENIER\n🇵🇱
-  Wioleta MYSZOR\n🇨🇳 YANG Xiaolei\n🇦🇿 Yaylagul RAMAZANOVA\n🇸🇮 Zana
-  PINTARIC\n🇺🇿 Ziyodakhon ABDUSATTOROVA
-SUMMARY:🏹 Women's Individual Ranking Round
-LOCATION:Invalides
-END:VEVENT
-BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -41,6 +11,63 @@ DTEND:20240726T210000Z
 DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
 SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T083500Z-athletics-MENS-100M-PRELIMINARY-ROUND
+DTSTAMP:20240803T083500Z
+DTSTART:20240803T083500Z
+DTEND:20240803T090000Z
+DESCRIPTION:Athletics - Men's 100m Preliminary Round\n🇱🇾 Ahmed
+  ESSABAI\n🇵🇦 Arturo Harmodio DELISER ESPINOSA\n🇲🇹 Beppe GRILLO\n🇭🇹
+  Christopher BORZOR\n🇭🇰 DIU Felix Chun Hei\n🇲🇪 Darko PESIC\n🇰🇾
+  Davonte HOWELL\n🇧🇯 Didier KIKI\n🇨🇩 Dominique Lasconi MULAMBA\n🇸🇨
+  Dylan SICOBO\n🇬🇲 Ebrahima CAMARA\n🇹🇯 Favoris MUZRAPOV\n🇲🇱 Fode
+  SISSOKO\n🇦🇱 Franko BURRAJ\n🇲🇺 Gary Noa Jerrel BIBI\n🇰🇲 Hachim
+  MAAROUFOU\n🇨🇫 Herve TOUMANDJI\n🇲🇻 Ibadulla ADAM\n🇧🇩 Imranur
+  RAHMAN\n🇸🇷 Jalen LISSE\n🇬🇺 Joseph GREEN\n🇹🇻 Karalo Hepoiteloto
+  MAIBUCA\n🇰🇮 Kenaz KANIWETE\n🇮🇩 Lalu Muhammad ZOHRI\n🇹🇴 Maleselo
+  FUKOFUKA\n🇹🇱 Manuel ATAIDE\n🇸🇬 Marc Brian LOUIS\n🇦🇴 Marcos
+  SANTOS\n🇭🇳 Melique GARCIA\n🇲🇾 Muhd Azeem FAHMI\n🇧🇳 Muhd Noor
+  Firdaus AR-RASYID\n🇰🇳 Naquille HARRIS\n🇬🇶 Remigio SANTANDER
+  VILLARUBIA\n🇲🇬 Rija Vatomanga GARDINER\n🇾🇪 Samer AL-YAFAEE\n🇫🇲
+  Scott James FITI\n🇬🇼 Seco CAMARA\n🇦🇫 Sha Mahmood NOOR ZAHI\n🇧🇿
+  Shaun GILL\n🇸🇿 Sibusiso MATSENJWA\n🇲🇿 Steven SABINO\n🇮🇶 Taha
+  Hussein YASEEN\n🇫🇯 Waisake TEWA\n🇲🇭 William REED\n🇳🇷 Winzar
+  KAKIOUEA\n🇬🇦 Wissy Frank HOYE YENDA MOUKOULA
+SUMMARY:🏃 Men's 100m Preliminary Round
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240803T095500Z-athletics-MENS-100M-ROUND-1
+DTSTAMP:20240803T095500Z
+DTSTART:20240803T095500Z
+DTEND:20240803T104400Z
+DESCRIPTION:Athletics - Men's 100m Round 1\n🇨🇦 Aaron BROWN\n🇬🇭
+  Abdul-Rasheed SAMINU\n🇯🇲 Ackeem BLAKE\n🇿🇦 Akani SIMBINE\n🇴🇲 Ali
+  Anwar Ali AL BALUSHI\n🇨🇦 Andre De GRASSE\n🇨🇮 Arthur CISSE\n🇵🇦
+  Arturo Harmodio DELISER ESPINOSA\n🇬🇭 Benjamin AZAMATI\n🇿🇦 Benjamin
+  RICHARDSON\n🇦🇬 Cejhae GREENE\n🇮🇹 Chituru ALI\n🇭🇹 Christopher
+  BORZOR\n🇰🇾 Davonte HOWELL\n🇹🇹 Devin AUGUSTINE\n🇨🇩 Dominique Lasconi
+  MULAMBA\n🏳️ Dorian KELETELA\n🇨🇦 Duan ASEMOTA\n🇸🇨 Dylan SICOBO\n🇬🇲
+  Ebrahima CAMARA\n🇬🇾 Emanuel ARCHIBALD\n🇨🇲 Emmanuel ESEME\n🇱🇷
+  Emmanuel MATADI\n🇧🇷 Erik CARDOSO\n🇳🇬 Favour Oghene Tejiri ASHE\n🇧🇷
+  Felipe BARDI\n🇰🇪 Ferdinand OMANYALA\n🇦🇱 Franko BURRAJ\n🇺🇸 Fred
+  KERLEY\n🇲🇺 Gary Noa Jerrel BIBI\n🇯🇵 HIGASHIDA Akihiro\n🇰🇲 Hachim
+  MAAROUFOU\n🇮🇷 Hassan TAFTIAN\n🇸🇪 Henrik LARSSON\n🇬🇧 Jeremiah
+  AZU\n🇨🇴 Jhonny RENTERIA JIMENEZ\n🇩🇴 Jose GONZALEZ\n🇦🇺 Joshua
+  AZZOPARDI\n🇩🇪 Joshua HARTMANN\n🇹🇷 Kayhan OZER\n🇳🇬 Kayinsola
+  AJAYI\n🇺🇸 Kenneth BEDNAREK\n🇯🇲 Kishane THOMPSON\n🇮🇩 Lalu Muhammad
+  ZOHRI\n🇮🇹 Lamont Marcell JACOBS\n🇧🇼 Letsile TEBOGO\n🇬🇧 Louie
+  HINCHLIFFE\n🇸🇬 Marc Brian LOUIS\n🇦🇴 Marcos SANTOS\n🇦🇹 Markus
+  FUCHS\n🇲🇾 Muhd Azeem FAHMI\n🇰🇳 Naquille HARRIS\n🇺🇸 Noah LYLES\n🇯🇲
+  Oblique SEVILLE\n🇵🇱 Oliwer WDOWIK\n🇩🇪 Owen ANSAH\n🇧🇷 Paulo Andre
+  CAMILO\n🇹🇭 Puripol BOONSON\n🇨🇺 Reynaldo R. ESPINOSA\n🇻🇬 Rikkoi
+  BRATHWAITE\n🇦🇺 Rohan BROWNING\n🇨🇴 Ronal LONGA\n🇯🇵 SAKAI
+  Ryuichiro\n🇯🇵 SANI BROWN Abdul Hakim\n🇿🇦 Shaun MASWANGANYI\n🇸🇿
+  Sibusiso MATSENJWA\n🇩🇰 Simon HANSEN\n🇮🇶 Taha Hussein YASEEN\n🇧🇸
+  Terrence JONES\n🇧🇸 Wanya McCOY\n🇨🇳 XIE Zhenye\n🇬🇧 Zharnel HUGHES
+SUMMARY:🏃 Men's 100m Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T100500Z-sailing-WOMENS-DINGHY-RACE-4
@@ -160,6 +187,24 @@ SUMMARY:⛵ Women's Dinghy - Race 6
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240803T130000Z-badminton-WOMENS-DOUBLES-BRONZE-MEDAL-MATCH-MAS-JPN
+DTSTAMP:20240803T130000Z
+DTSTART:20240803T130000Z
+DTEND:20240803T140000Z
+DESCRIPTION:Badminton - Women's Doubles Bronze Medal Match
+SUMMARY:🏸 TAN/THINAAH 🇲🇾 - 🇯🇵 MATSUYAMA/SHIDA
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T085000Z-badminton-MENS-SINGLES-SEMIFINAL-THA-MAS
+DTSTAMP:20240804T085000Z
+DTSTART:20240804T085000Z
+DTEND:20240804T095000Z
+DESCRIPTION:Badminton - Men's Singles Semifinal
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇲🇾 Zii Jia LEE
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T100500Z-sailing-MENS-DINGHY-RACE-7
 DTSTAMP:20240804T100500Z
 DTSTART:20240804T100500Z
@@ -270,6 +315,15 @@ SUMMARY:⛵ Women's Dinghy - Race 7
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T130000Z-badminton-MENS-DOUBLES-BRONZE-MEDAL-MATCH-MAS-DEN
+DTSTAMP:20240804T130000Z
+DTSTART:20240804T130000Z
+DTEND:20240804T140000Z
+DESCRIPTION:Badminton - Men's Doubles Bronze Medal Match
+SUMMARY:🏸 CHIA/SOH 🇲🇾 - 🇩🇰 ASTRUP/RASMUSSEN
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T134500Z-sailing-WOMENS-DINGHY-RACE-8
 DTSTAMP:20240804T134500Z
 DTSTART:20240804T134500Z
@@ -339,6 +393,15 @@ SUMMARY:⛵ Women's Dinghy - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T123000Z-badminton-MENS-SINGLES-BRONZE-MEDAL-MATCH-MAS-IND
+DTSTAMP:20240805T123000Z
+DTSTART:20240805T123000Z
+DTEND:20240805T153000Z
+DESCRIPTION:Badminton - Men's Singles Bronze Medal Match
+SUMMARY:🏸 Zii Jia LEE 🇲🇾 - 🇮🇳 Lakshya SEN
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T124500Z-sailing-MENS-DINGHY-RACE-9
 DTSTAMP:20240805T124500Z
 DTSTART:20240805T124500Z
@@ -387,24 +450,6 @@ SUMMARY:⛵ Men's Dinghy - Race 10
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T130000Z-diving-WOMENS-3M-SPRINGBOARD-PRELIMINARY
-DTSTAMP:20240807T130000Z
-DTSTART:20240807T130000Z
-DTEND:20240807T145700Z
-DESCRIPTION:Diving - Women's 3m Springboard Preliminary\n🇲🇽 Alejandra
-  ESTUDILLO TORRES\n🇺🇸 Alison GIBSON\n🇦🇺 Alysha KOLOI\n🇨🇺 Anisley
-  GARCIA NAVARRO\n🇲🇽 Aranza VAZQUEZ MONTANO\n🇨🇳 CHANG Yani\n🇨🇳 CHEN
-  Yiwen\n🇮🇹 Chiara PELLACANI\n🇯🇵 ENOMOTO Haruka\n🇮🇹 Elena
-  BERTOCCHI\n🇸🇪 Emilia NILSSON GARIP\n🇬🇧 Grace REID\n🇳🇴 Helle
-  TUXEN\n🇩🇪 Jette MULLER\n🇿🇦 Julia VINCENT\n🇰🇷 KIM Suji\n🇳🇿 Lizzie
-  ROUSSEL\n🇯🇵 MIKAMI Sayaka\n🇦🇺 Maddison KEENEY\n🇪🇬 Maha AMER\n🇨🇦
-  Margo ERLAM\n🇲🇾 Nur Dhabitah SABRI\n🇨🇺 Prisis RUIZ\n🇺🇸 Sarah
-  BACON\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇺🇦 Viktoriya
-  KESAR\n🇬🇧 Yasmin HARPER
-SUMMARY:🏊 Women's 3m Springboard Preliminary
-LOCATION:Aquatics Centre
-END:VEVENT
-BEGIN:VEVENT
 UID:20240807T130000Z-weightlifting-MENS-61KG
 DTSTAMP:20240807T130000Z
 DTSTART:20240807T130000Z
@@ -416,23 +461,6 @@ DESCRIPTION:Weightlifting - Men's 61kg\n🇮🇩 Eko IRAWAN\n🇺🇸 Hampton
   van Vinh TRINH
 SUMMARY:🏋 Men's 61kg
 LOCATION:South Paris Arena 6
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T080000Z-diving-MENS-10M-PLATFORM-PRELIMINARY
-DTSTAMP:20240809T080000Z
-DTSTART:20240809T080000Z
-DTEND:20240809T103900Z
-DESCRIPTION:Diving - Men's 10m Platform Preliminary\n🇨🇴 Alejandro
-  SOLARTE\n🇮🇹 Andreas Sargent LARSEN\n🇦🇹 Anton KNOLL\n🇲🇾 Bertrand
-  Rhodict ANAK LISES\n🇺🇸 Brandon LOSCHIAVO\n🇨🇳 CAO Yuan\n🇺🇸 Carson
-  TYLER\n🇦🇺 Cassiel ROUSSEAU\n🇰🇵 IM Yong Myong\n🇺🇿 Igor MYALIN\n🇦🇺
-  Jaxon BOWSHIRE\n🇰🇷 KIM Yeongtaek\n🇲🇽 Kevin BERLIN REYES\n🇬🇧 Kyle
-  KOTHARI\n🇺🇦 Mark HRYTSENKO\n🇨🇦 Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah
-  WILLIAMS\n🇪🇬 Ramez SOBHY\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo
-  GIOVANNINI\n🇵🇱 Robert LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN
-  Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪 Timo BARTHEL\n🇨🇳 YANG Hao
-SUMMARY:🏊 Men's 10m Platform Preliminary
-LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
