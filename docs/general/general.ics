@@ -7091,21 +7091,21 @@ SUMMARY:🤼 Akzhol MAKHMUDOV 🇰🇬 - 🇰🇿 Demeu ZHADRAYEV
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T102400Z-wrestling-WOMENS-FREESTYLE-50KG-14-FINAL-CHN-USA
+DTSTAMP:20240806T102400Z
+DTSTART:20240806T102400Z
+DTEND:20240806T103100Z
+DESCRIPTION:Wrestling - Women's Freestyle 50kg 1/4 Final
+SUMMARY:🤼 FENG Ziqi 🇨🇳 - 🇺🇸 Sarah Ann HILDEBRANDT
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T102400Z-wrestling-MENS-GRECO-ROMAN-97KG-14-FINAL-IRI-KGZ
 DTSTAMP:20240806T102400Z
 DTSTART:20240806T102400Z
 DTEND:20240806T103100Z
 DESCRIPTION:Wrestling - Men's Greco-Roman 97kg 1/4 Final
 SUMMARY:🤼 Mohammadhadi SARAVI 🇮🇷 - 🇰🇬 Uzur DZHUZUPBEKOV
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T102400Z-wrestling-WOMENS-FREESTYLE-50KG-14-FINAL
-DTSTAMP:20240806T102400Z
-DTSTART:20240806T102400Z
-DTEND:20240806T103100Z
-DESCRIPTION:Wrestling - Women's Freestyle 50kg 1/4 Final\n🇨🇳 FENG Ziqi
-SUMMARY:🤼 Women's Freestyle 50kg 1/4 Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -7156,12 +7156,12 @@ SUMMARY:🛹 Women's Park Prelims
 LOCATION:La Concorde 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T103100Z-wrestling-MENS-GRECO-ROMAN-77KG-14-FINAL
+UID:20240806T103100Z-wrestling-WOMENS-FREESTYLE-50KG-14-FINAL-AZE-MGL
 DTSTAMP:20240806T103100Z
 DTSTART:20240806T103100Z
 DTEND:20240806T103800Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 77kg 1/4 Final\n🇭🇺 Zoltan LEVAI
-SUMMARY:🤼 Men's Greco-Roman 77kg 1/4 Final
+DESCRIPTION:Wrestling - Women's Freestyle 50kg 1/4 Final
+SUMMARY:🤼 Mariya STADNIK 🇦🇿 - 🇲🇳 Otgonjargal DOLGORJAV
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -7169,17 +7169,17 @@ UID:20240806T103100Z-wrestling-MENS-GRECO-ROMAN-97KG-14-FINAL
 DTSTAMP:20240806T103100Z
 DTSTART:20240806T103100Z
 DTEND:20240806T103800Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 97kg 1/4 Final
+DESCRIPTION:Wrestling - Men's Greco-Roman 97kg 1/4 Final\n🇪🇬 Mohamed GABR
 SUMMARY:🤼 Men's Greco-Roman 97kg 1/4 Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T103100Z-wrestling-WOMENS-FREESTYLE-50KG-14-FINAL
+UID:20240806T103100Z-wrestling-MENS-GRECO-ROMAN-77KG-14-FINAL-HUN-AZE
 DTSTAMP:20240806T103100Z
 DTSTART:20240806T103100Z
 DTEND:20240806T103800Z
-DESCRIPTION:Wrestling - Women's Freestyle 50kg 1/4 Final
-SUMMARY:🤼 Women's Freestyle 50kg 1/4 Final
+DESCRIPTION:Wrestling - Men's Greco-Roman 77kg 1/4 Final
+SUMMARY:🤼 Zoltan LEVAI 🇭🇺 - 🇦🇿 Sanan SULEYMANOV
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -8292,7 +8292,17 @@ UID:20240807T080500Z-athletics-MENS-HIGH-JUMP-QUALIFICATION
 DTSTAMP:20240807T080500Z
 DTSTART:20240807T080500Z
 DTEND:20240807T101500Z
-DESCRIPTION:Athletics - Men's High Jump Qualification
+DESCRIPTION:Athletics - Men's High Jump Qualification\n🇯🇵 AKAMATSU
+  Ryoichi\n🇹🇷 Alperen ACET\n🇺🇦 Andrii PROTSENKO\n🇦🇺 Brandon
+  STARC\n🇿🇦 Brian RAATS\n🇧🇸 Donald THOMAS\n🇲🇽 Edgar RIVERA\n🇲🇽
+  Erick PORTILLO\n🇧🇷 Fernando FERREIRA\n🇮🇹 Gianmarco TAMBERI\n🇳🇿
+  Hamish KERR\n🇨🇿 Jan STEFELA\n🇦🇺 Joel BADEN\n🇺🇸 Juvaughn
+  HARRISON\n🇵🇷 Luis CASTRO RIVERA\n🇨🇺 Luis Enrique ZAYAS\n🇶🇦 Mutaz
+  Essa BARSHIM\n🇺🇦 Oleh DOROSHCHUK\n🇯🇲 Romaine BECKFORD\n🇯🇵 SHINNO
+  Tomohiro\n🇮🇳 Sarvesh Anil KUSHARE\n🇺🇸 Shelby McEWEN\n🇮🇹 Stefano
+  SOTTILE\n🇧🇪 Thomas CARMOY\n🇧🇬 Tihomir IVANOV\n🇩🇪 Tobias POTYE\n🇺🇸
+  Vernon TURNER\n🇺🇦 Vladyslav LAVSKYY\n🇨🇳 WANG Zhen\n🇰🇷 WOO
+  Sanghyeok\n🇦🇺 Yual REATH
 SUMMARY:🏃 Men's High Jump Qualification
 LOCATION:Stade de France
 END:VEVENT
@@ -9244,7 +9254,14 @@ UID:20240807T161500Z-athletics-WOMENS-POLE-VAULT-FINAL
 DTSTAMP:20240807T161500Z
 DTSTART:20240807T161500Z
 DTEND:20240807T193000Z
-DESCRIPTION:Athletics - Women's Pole Vault Final
+DESCRIPTION:Athletics - Women's Pole Vault Final\n🇬🇷 Aikaterini
+  STEFANIDI\n🇨🇦 Alysha NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica
+  MOSER\n🇩🇪 Anjuli KNAESCHE\n🇬🇷 Ariadni ADAMOPOULOU\n🇫🇮 Elina
+  LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇳🇿 Imogen
+  AYRIS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie
+  BONNIN\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇳🇿 Olivia
+  McTAGGART\n🇻🇪 Robeilys PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina
+  SUTEJ\n🇫🇮 Wilma MURTO
 SUMMARY:🏃 Women's Pole Vault Final
 LOCATION:Stade de France
 END:VEVENT

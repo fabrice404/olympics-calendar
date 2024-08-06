@@ -2338,12 +2338,12 @@ SUMMARY:⛵ 女子カイト - レース6
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T102400Z-wrestling-50KG2
+UID:20240806T102400Z-wrestling-50KG2-CHN-USA
 DTSTAMP:20240806T102400Z
 DTSTART:20240806T102400Z
 DTEND:20240806T103100Z
-DESCRIPTION:レスリング - 女子フリースタイル50kg級2回戦\n🇨🇳 FENG Ziqi
-SUMMARY:🤼 女子フリースタイル50kg級2回戦
+DESCRIPTION:レスリング - 女子フリースタイル50kg級2回戦
+SUMMARY:🤼 FENG Ziqi 🇨🇳 - 🇺🇸 Sarah Ann HILDEBRANDT
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -2806,6 +2806,24 @@ DTEND:20240807T110000Z
 DESCRIPTION:卓球 - 男子団体準々決勝
 SUMMARY:🏓 中国 🇨🇳 - 🇰🇷 大韓民国
 LOCATION:サウス・パリ・アリーナ4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T080500Z-athletics-
+DTSTAMP:20240807T080500Z
+DTSTART:20240807T080500Z
+DTEND:20240807T101500Z
+DESCRIPTION:陸上競技 - 男子走高跳予選\n🇯🇵 AKAMATSU Ryoichi\n🇹🇷 Alperen ACET\n🇺🇦
+  Andrii PROTSENKO\n🇦🇺 Brandon STARC\n🇿🇦 Brian RAATS\n🇧🇸 Donald
+  THOMAS\n🇲🇽 Edgar RIVERA\n🇲🇽 Erick PORTILLO\n🇧🇷 Fernando
+  FERREIRA\n🇮🇹 Gianmarco TAMBERI\n🇳🇿 Hamish KERR\n🇨🇿 Jan
+  STEFELA\n🇦🇺 Joel BADEN\n🇺🇸 Juvaughn HARRISON\n🇵🇷 Luis CASTRO
+  RIVERA\n🇨🇺 Luis Enrique ZAYAS\n🇶🇦 Mutaz Essa BARSHIM\n🇺🇦 Oleh
+  DOROSHCHUK\n🇯🇲 Romaine BECKFORD\n🇯🇵 SHINNO Tomohiro\n🇮🇳 Sarvesh
+  Anil KUSHARE\n🇺🇸 Shelby McEWEN\n🇮🇹 Stefano SOTTILE\n🇧🇪 Thomas
+  CARMOY\n🇧🇬 Tihomir IVANOV\n🇩🇪 Tobias POTYE\n🇺🇸 Vernon TURNER\n🇺🇦
+  Vladyslav LAVSKYY\n🇨🇳 WANG Zhen\n🇰🇷 WOO Sanghyeok\n🇦🇺 Yual REATH
+SUMMARY:🏃 男子走高跳予選
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T084000Z-canoe-sprint-K-11000M
