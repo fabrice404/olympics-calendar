@@ -1365,21 +1365,21 @@ SUMMARY:🏃 Метание молота, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T180500Z-cycling-track--3-
+UID:20240806T180500Z-cycling-track--3--AUS-FRA
 DTSTAMP:20240806T180500Z
 DTSTART:20240806T180500Z
 DTEND:20240806T180900Z
 DESCRIPTION:Трековые велогонки - Командный спринт, за 3-е место (м)
-SUMMARY:🚴 Командный спринт, за 3-е место (м)
+SUMMARY:🚴 Австралия 🇦🇺 - 🇫🇷 Франция
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T181000Z-cycling-track--
+UID:20240806T181000Z-cycling-track---NED-GBR
 DTSTAMP:20240806T181000Z
 DTSTART:20240806T181000Z
 DTEND:20240806T181400Z
 DESCRIPTION:Трековые велогонки - Командный спринт, финал (м)
-SUMMARY:🚴 Командный спринт, финал (м)
+SUMMARY:🚴 Нидерланды 🇳🇱 - 🇬🇧 Великобритания
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
@@ -1824,7 +1824,10 @@ UID:20240807T192000Z-athletics-400-
 DTSTAMP:20240807T192000Z
 DTSTART:20240807T192000Z
 DTEND:20240807T192100Z
-DESCRIPTION:Легкая атлетика - 400м, финал (м)
+DESCRIPTION:Легкая атлетика - 400м, финал (м)\n🇺🇸 Christopher
+  BAILEY\n🇹🇹 Jereem RICHARDS\n🇬🇩 Kirani JAMES\n🇬🇧 Matthew
+  HUDSON-SMITH\n🇺🇸 Michael NORMAN\n🇿🇲 Muzala SAMUKONGA\n🇺🇸 Quincy
+  HALL\n🇳🇬 Samuel OGAZI
 SUMMARY:🏃 400м, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

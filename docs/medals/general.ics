@@ -1353,12 +1353,12 @@ SUMMARY:🏃 Women's Hammer Throw Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T180500Z-cycling-track-MENS-TEAM-SPRINT-FINALS-FOR-BRONZE
+UID:20240806T180500Z-cycling-track-MENS-TEAM-SPRINT-FINALS-FOR-BRONZE-AUS-F
 DTSTAMP:20240806T180500Z
 DTSTART:20240806T180500Z
 DTEND:20240806T180900Z
 DESCRIPTION:Cycling Track - Men's Team Sprint, Finals - For Bronze
-SUMMARY:🚴 Men's Team Sprint, Finals - For Bronze
+SUMMARY:🚴 AUS 🇦🇺 - 🇫🇷 FRA
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
@@ -1808,7 +1808,10 @@ UID:20240807T192000Z-athletics-MENS-400M-FINAL
 DTSTAMP:20240807T192000Z
 DTSTART:20240807T192000Z
 DTEND:20240807T192100Z
-DESCRIPTION:Athletics - Men's 400m Final
+DESCRIPTION:Athletics - Men's 400m Final\n🇺🇸 Christopher BAILEY\n🇹🇹
+  Jereem RICHARDS\n🇬🇩 Kirani JAMES\n🇬🇧 Matthew HUDSON-SMITH\n🇺🇸
+  Michael NORMAN\n🇿🇲 Muzala SAMUKONGA\n🇺🇸 Quincy HALL\n🇳🇬 Samuel
+  OGAZI
 SUMMARY:🏃 Men's 400m Final
 LOCATION:Stade de France
 END:VEVENT

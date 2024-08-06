@@ -488,6 +488,15 @@ SUMMARY:🛹 Парк, финал (ж)
 LOCATION:Площадь Согласия 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T181000Z-cycling-track---NED-GBR
+DTSTAMP:20240806T181000Z
+DTSTART:20240806T181000Z
+DTEND:20240806T181400Z
+DESCRIPTION:Трековые велогонки - Командный спринт, финал (м)
+SUMMARY:🚴 Нидерланды 🇳🇱 - 🇬🇧 Великобритания
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T181500Z-athletics--
 DTSTAMP:20240806T181500Z
 DTSTART:20240806T181500Z
@@ -571,6 +580,18 @@ DESCRIPTION:Парусный спорт - Многокорпусник, меда
   WILKINSON/DAWSON
 SUMMARY:⛵ Многокорпусник, медальная гонка (микст)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T192000Z-athletics-400-
+DTSTAMP:20240807T192000Z
+DTSTART:20240807T192000Z
+DTEND:20240807T192100Z
+DESCRIPTION:Легкая атлетика - 400м, финал (м)\n🇺🇸 Christopher
+  BAILEY\n🇹🇹 Jereem RICHARDS\n🇬🇩 Kirani JAMES\n🇬🇧 Matthew
+  HUDSON-SMITH\n🇺🇸 Michael NORMAN\n🇿🇲 Muzala SAMUKONGA\n🇺🇸 Quincy
+  HALL\n🇳🇬 Samuel OGAZI
+SUMMARY:🏃 400м, финал (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T053000Z-marathon-swimming-10-
