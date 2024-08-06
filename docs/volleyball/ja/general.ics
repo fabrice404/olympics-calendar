@@ -4,417 +4,165 @@ PRODID:-//fabrice404//olympics-calendar//volleyball/ja/general//EN
 X-WR-CALNAME:🏐 バレーボール | Paris 2024
 NAME:🏐 バレーボール | Paris 2024
 BEGIN:VEVENT
-UID:20240727T070000Z-volleyball--C-JPN-GER
-DTSTAMP:20240727T070000Z
-DTSTART:20240727T070000Z
-DTEND:20240727T083000Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールC
-SUMMARY:🏐 日本 🇯🇵 - 🇩🇪 ドイツ
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T110000Z-volleyball--B-ITA-BRA
-DTSTAMP:20240727T110000Z
-DTSTART:20240727T110000Z
-DTEND:20240727T131500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールB
-SUMMARY:🏐 イタリア 🇮🇹 - 🇧🇷 ブラジル
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T150000Z-volleyball--B-POL-EGY
-DTSTAMP:20240727T150000Z
-DTSTART:20240727T150000Z
-DTEND:20240727T171500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールB
-SUMMARY:🏐 ポーランド 🇵🇱 - 🇪🇬 エジプト
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T190000Z-volleyball--C-USA-ARG
-DTSTAMP:20240727T190000Z
-DTSTART:20240727T190000Z
-DTEND:20240727T211500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールC
-SUMMARY:🏐 アメリカ合衆国 🇺🇸 - 🇦🇷 アルゼンチン
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T070000Z-volleyball--C-ITA-DOM
-DTSTAMP:20240728T070000Z
-DTSTART:20240728T070000Z
-DTEND:20240728T091500Z
-DESCRIPTION:バレーボール - 女子予選ラウンド - プールC
-SUMMARY:🏐 イタリア 🇮🇹 - 🇩🇴 ドミニカ共和国
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T110000Z-volleyball--B-POL-JPN
-DTSTAMP:20240728T110000Z
-DTSTART:20240728T110000Z
-DTEND:20240728T131500Z
-DESCRIPTION:バレーボール - 女子予選ラウンド - プールB
-SUMMARY:🏐 ポーランド 🇵🇱 - 🇯🇵 日本
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T150000Z-volleyball--A-FRA-SRB
-DTSTAMP:20240728T150000Z
-DTSTART:20240728T150000Z
-DTEND:20240728T171500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
-SUMMARY:🏐 フランス 🇫🇷 - 🇷🇸 セルビア
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T190000Z-volleyball--A-SLO-CAN
-DTSTAMP:20240728T190000Z
-DTSTART:20240728T190000Z
-DTEND:20240728T211500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
-SUMMARY:🏐 スロベニア 🇸🇮 - 🇨🇦 カナダ
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T070000Z-volleyball--C-TUR-NED
-DTSTAMP:20240729T070000Z
-DTSTART:20240729T070000Z
-DTEND:20240729T091500Z
-DESCRIPTION:バレーボール - 女子予選ラウンド - プールC
-SUMMARY:🏐 トルコ 🇹🇷 - 🇳🇱 オランダ
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T110000Z-volleyball--B-BRA-KEN
-DTSTAMP:20240729T110000Z
-DTSTART:20240729T110000Z
-DTEND:20240729T131500Z
-DESCRIPTION:バレーボール - 女子予選ラウンド - プールB
-SUMMARY:🏐 ブラジル 🇧🇷 - 🇰🇪 ケニア
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T150000Z-volleyball--A-USA-CHN
-DTSTAMP:20240729T150000Z
-DTSTART:20240729T150000Z
-DTEND:20240729T171500Z
-DESCRIPTION:バレーボール - 女子予選ラウンド - プールA
-SUMMARY:🏐 アメリカ合衆国 🇺🇸 - 🇨🇳 中国
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T190000Z-volleyball--A-FRA-SRB
-DTSTAMP:20240729T190000Z
-DTSTART:20240729T190000Z
-DTEND:20240729T211500Z
-DESCRIPTION:バレーボール - 女子予選ラウンド - プールA
-SUMMARY:🏐 フランス 🇫🇷 - 🇷🇸 セルビア
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T070000Z-volleyball--B-ITA-EGY
-DTSTAMP:20240730T070000Z
-DTSTART:20240730T070000Z
-DTEND:20240730T091500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールB
-SUMMARY:🏐 イタリア 🇮🇹 - 🇪🇬 エジプト
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T110000Z-volleyball--C-USA-GER
-DTSTAMP:20240730T110000Z
-DTSTART:20240730T110000Z
-DTEND:20240730T131500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールC
-SUMMARY:🏐 アメリカ合衆国 🇺🇸 - 🇩🇪 ドイツ
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T150000Z-volleyball--A-SLO-SRB
-DTSTAMP:20240730T150000Z
-DTSTART:20240730T150000Z
-DTEND:20240730T171500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
-SUMMARY:🏐 スロベニア 🇸🇮 - 🇷🇸 セルビア
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T190000Z-volleyball--A-FRA-CAN
-DTSTAMP:20240730T190000Z
-DTSTART:20240730T190000Z
-DTEND:20240730T211500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
-SUMMARY:🏐 フランス 🇫🇷 - 🇨🇦 カナダ
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T070000Z-volleyball--B-POL-BRA
-DTSTAMP:20240731T070000Z
-DTSTART:20240731T070000Z
-DTEND:20240731T091500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールB
-SUMMARY:🏐 ポーランド 🇵🇱 - 🇧🇷 ブラジル
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T110000Z-volleyball--C-JPN-ARG
-DTSTAMP:20240731T110000Z
-DTSTART:20240731T110000Z
-DTEND:20240731T131500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールC
-SUMMARY:🏐 日本 🇯🇵 - 🇦🇷 アルゼンチン
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T150000Z-volleyball--A-USA-SRB
-DTSTAMP:20240731T150000Z
-DTSTART:20240731T150000Z
-DTEND:20240731T171500Z
-DESCRIPTION:バレーボール - 女子予選ラウンド - プールA
-SUMMARY:🏐 アメリカ合衆国 🇺🇸 - 🇷🇸 セルビア
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T190000Z-volleyball--B-POL-KEN
-DTSTAMP:20240731T190000Z
-DTSTART:20240731T190000Z
-DTEND:20240731T211500Z
-DESCRIPTION:バレーボール - 女子予選ラウンド - プールB
-SUMMARY:🏐 ポーランド 🇵🇱 - 🇰🇪 ケニア
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T070000Z-volleyball--C-TUR-DOM
-DTSTAMP:20240801T070000Z
-DTSTART:20240801T070000Z
-DTEND:20240801T091500Z
-DESCRIPTION:バレーボール - 女子予選ラウンド - プールC
-SUMMARY:🏐 トルコ 🇹🇷 - 🇩🇴 ドミニカ共和国
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T110000Z-volleyball--B-BRA-JPN
-DTSTAMP:20240801T110000Z
-DTSTART:20240801T110000Z
-DTEND:20240801T131500Z
-DESCRIPTION:バレーボール - 女子予選ラウンド - プールB
-SUMMARY:🏐 ブラジル 🇧🇷 - 🇯🇵 日本
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T150000Z-volleyball--C-ITA-NED
-DTSTAMP:20240801T150000Z
-DTSTART:20240801T150000Z
-DTEND:20240801T171500Z
-DESCRIPTION:バレーボール - 女子予選ラウンド - プールC
-SUMMARY:🏐 イタリア 🇮🇹 - 🇳🇱 オランダ
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T190000Z-volleyball--A-FRA-CHN
-DTSTAMP:20240801T190000Z
-DTSTART:20240801T190000Z
-DTEND:20240801T211500Z
-DESCRIPTION:バレーボール - 女子予選ラウンド - プールA
-SUMMARY:🏐 フランス 🇫🇷 - 🇨🇳 中国
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T070000Z-volleyball--C-ARG-GER
-DTSTAMP:20240802T070000Z
-DTSTART:20240802T070000Z
-DTEND:20240802T091500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールC
-SUMMARY:🏐 アルゼンチン 🇦🇷 - 🇩🇪 ドイツ
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T110000Z-volleyball--B-BRA-EGY
-DTSTAMP:20240802T110000Z
-DTSTART:20240802T110000Z
-DTEND:20240802T131500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールB
-SUMMARY:🏐 ブラジル 🇧🇷 - 🇪🇬 エジプト
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T150000Z-volleyball--A-FRA-SLO
-DTSTAMP:20240802T150000Z
-DTSTART:20240802T150000Z
-DTEND:20240802T171500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
-SUMMARY:🏐 フランス 🇫🇷 - 🇸🇮 スロベニア
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T190000Z-volleyball--C-JPN-USA
-DTSTAMP:20240802T190000Z
-DTSTART:20240802T190000Z
-DTEND:20240802T211500Z
-DESCRIPTION:バレーボール - 男子予選ラウンド - プールC
-SUMMARY:🏐 日本 🇯🇵 - 🇺🇸 アメリカ合衆国
-LOCATION:サウス・パリ・アリーナ1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T070000Z-volleyball--C-NED-DOM
+UID:20240803T070000Z-volleyball--C
 DTSTAMP:20240803T070000Z
 DTSTART:20240803T070000Z
 DTEND:20240803T091500Z
 DESCRIPTION:バレーボール - 女子予選ラウンド - プールC
-SUMMARY:🏐 オランダ 🇳🇱 - 🇩🇴 ドミニカ共和国
+SUMMARY:🏐 女子予選ラウンド - プールC
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T110000Z-volleyball--B-JPN-KEN
+UID:20240803T110000Z-volleyball--B
 DTSTAMP:20240803T110000Z
 DTSTART:20240803T110000Z
 DTEND:20240803T131500Z
 DESCRIPTION:バレーボール - 女子予選ラウンド - プールB
-SUMMARY:🏐 日本 🇯🇵 - 🇰🇪 ケニア
+SUMMARY:🏐 女子予選ラウンド - プールB
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T150000Z-volleyball--B-POL-ITA
+UID:20240803T150000Z-volleyball--B
 DTSTAMP:20240803T150000Z
 DTSTART:20240803T150000Z
 DTEND:20240803T171500Z
 DESCRIPTION:バレーボール - 男子予選ラウンド - プールB
-SUMMARY:🏐 ポーランド 🇵🇱 - 🇮🇹 イタリア
+SUMMARY:🏐 男子予選ラウンド - プールB
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240803T190000Z-volleyball--A-CAN-SRB
+UID:20240803T190000Z-volleyball--A
 DTSTAMP:20240803T190000Z
 DTSTART:20240803T190000Z
 DTEND:20240803T211500Z
 DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
-SUMMARY:🏐 カナダ 🇨🇦 - 🇷🇸 セルビア
+SUMMARY:🏐 男子予選ラウンド - プールA
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T070000Z-volleyball--C-ITA-TUR
+UID:20240804T070000Z-volleyball--C
 DTSTAMP:20240804T070000Z
 DTSTART:20240804T070000Z
 DTEND:20240804T091500Z
 DESCRIPTION:バレーボール - 女子予選ラウンド - プールC
-SUMMARY:🏐 イタリア 🇮🇹 - 🇹🇷 トルコ
+SUMMARY:🏐 女子予選ラウンド - プールC
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T110000Z-volleyball--A-FRA-USA
+UID:20240804T110000Z-volleyball--A
 DTSTAMP:20240804T110000Z
 DTSTART:20240804T110000Z
 DTEND:20240804T131500Z
 DESCRIPTION:バレーボール - 女子予選ラウンド - プールA
-SUMMARY:🏐 フランス 🇫🇷 - 🇺🇸 アメリカ合衆国
+SUMMARY:🏐 女子予選ラウンド - プールA
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T150000Z-volleyball--A-CHN-SRB
+UID:20240804T150000Z-volleyball--A
 DTSTAMP:20240804T150000Z
 DTSTART:20240804T150000Z
 DTEND:20240804T171500Z
 DESCRIPTION:バレーボール - 女子予選ラウンド - プールA
-SUMMARY:🏐 中国 🇨🇳 - 🇷🇸 セルビア
+SUMMARY:🏐 女子予選ラウンド - プールA
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T190000Z-volleyball--B-BRA-POL
+UID:20240804T190000Z-volleyball--B
 DTSTAMP:20240804T190000Z
 DTSTART:20240804T190000Z
 DTEND:20240804T211500Z
 DESCRIPTION:バレーボール - 女子予選ラウンド - プールB
-SUMMARY:🏐 ブラジル 🇧🇷 - 🇵🇱 ポーランド
+SUMMARY:🏐 女子予選ラウンド - プールB
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T070000Z-volleyball--SLO-POL
+UID:20240805T070000Z-volleyball-
 DTSTAMP:20240805T070000Z
 DTSTART:20240805T070000Z
 DTEND:20240805T091500Z
 DESCRIPTION:バレーボール - 男子準々決勝
-SUMMARY:🏐 スロベニア 🇸🇮 - 🇵🇱 ポーランド
+SUMMARY:🏐 男子準々決勝
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T110000Z-volleyball--ITA-JPN
+UID:20240805T110000Z-volleyball-
 DTSTAMP:20240805T110000Z
 DTSTART:20240805T110000Z
 DTEND:20240805T131500Z
 DESCRIPTION:バレーボール - 男子準々決勝
-SUMMARY:🏐 イタリア 🇮🇹 - 🇯🇵 日本
+SUMMARY:🏐 男子準々決勝
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T150000Z-volleyball--FRA-GER
+UID:20240805T150000Z-volleyball-
 DTSTAMP:20240805T150000Z
 DTSTART:20240805T150000Z
 DTEND:20240805T171500Z
 DESCRIPTION:バレーボール - 男子準々決勝
-SUMMARY:🏐 フランス 🇫🇷 - 🇩🇪 ドイツ
+SUMMARY:🏐 男子準々決勝
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T190000Z-volleyball--USA-BRA
+UID:20240805T190000Z-volleyball-
 DTSTAMP:20240805T190000Z
 DTSTART:20240805T190000Z
 DTEND:20240805T211500Z
 DESCRIPTION:バレーボール - 男子準々決勝
-SUMMARY:🏐 アメリカ合衆国 🇺🇸 - 🇧🇷 ブラジル
+SUMMARY:🏐 男子準々決勝
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T070000Z-volleyball--CHN-TUR
+UID:20240806T070000Z-volleyball-
 DTSTAMP:20240806T070000Z
 DTSTART:20240806T070000Z
 DTEND:20240806T091500Z
 DESCRIPTION:バレーボール - 女子準々決勝
-SUMMARY:🏐 中国 🇨🇳 - 🇹🇷 トルコ
+SUMMARY:🏐 女子準々決勝
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T110000Z-volleyball--BRA-DOM
+UID:20240806T110000Z-volleyball-
 DTSTAMP:20240806T110000Z
 DTSTART:20240806T110000Z
 DTEND:20240806T131500Z
 DESCRIPTION:バレーボール - 女子準々決勝
-SUMMARY:🏐 ブラジル 🇧🇷 - 🇩🇴 ドミニカ共和国
+SUMMARY:🏐 女子準々決勝
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T150000Z-volleyball--USA-POL
+UID:20240806T150000Z-volleyball-
 DTSTAMP:20240806T150000Z
 DTSTART:20240806T150000Z
 DTEND:20240806T171500Z
 DESCRIPTION:バレーボール - 女子準々決勝
-SUMMARY:🏐 アメリカ合衆国 🇺🇸 - 🇵🇱 ポーランド
+SUMMARY:🏐 女子準々決勝
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T190000Z-volleyball--ITA-SRB
+UID:20240806T190000Z-volleyball-
 DTSTAMP:20240806T190000Z
 DTSTART:20240806T190000Z
 DTEND:20240806T211500Z
 DESCRIPTION:バレーボール - 女子準々決勝
-SUMMARY:🏐 イタリア 🇮🇹 - 🇷🇸 セルビア
+SUMMARY:🏐 女子準々決勝
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T140000Z-volleyball--POL-USA
+UID:20240807T140000Z-volleyball-
 DTSTAMP:20240807T140000Z
 DTSTART:20240807T140000Z
 DTEND:20240807T161500Z
 DESCRIPTION:バレーボール - 男子準決勝
-SUMMARY:🏐 ポーランド 🇵🇱 - 🇺🇸 アメリカ合衆国
+SUMMARY:🏐 男子準決勝
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T180000Z-volleyball--ITA-FRA
+UID:20240807T180000Z-volleyball-
 DTSTAMP:20240807T180000Z
 DTSTART:20240807T180000Z
 DTEND:20240807T201500Z
 DESCRIPTION:バレーボール - 男子準決勝
-SUMMARY:🏐 イタリア 🇮🇹 - 🇫🇷 フランス
+SUMMARY:🏐 男子準決勝
 LOCATION:サウス・パリ・アリーナ1
 END:VEVENT
 BEGIN:VEVENT

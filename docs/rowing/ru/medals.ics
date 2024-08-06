@@ -4,123 +4,11 @@ PRODID:-//fabrice404//olympics-calendar//rowing/ru/medals//EN
 X-WR-CALNAME:🚣 Академическая гребля 🏅 | Paris 2024
 NAME:🚣 Академическая гребля 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240731T102600Z-rowing--A-
-DTSTAMP:20240731T102600Z
-DTSTART:20240731T102600Z
-DTEND:20240731T103300Z
-DESCRIPTION:Академическая гребля - Четверки парные, финал A (м)\n🇬🇧
-  Великобритания\n🇩🇪 Германия\n🇮🇹 Италия\n🇳🇱 Нидерланды\n🇵🇱
-  Польша\n🇨🇭 Швейцария
-SUMMARY:🚣 Четверки парные, финал A (м)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T103800Z-rowing--A-
-DTSTAMP:20240731T103800Z
-DTSTART:20240731T103800Z
-DTEND:20240731T104500Z
-DESCRIPTION:Академическая гребля - Четверки парные, финал A (ж)\n🇬🇧
-  Великобритания\n🇩🇪 Германия\n🇨🇳 Китай\n🇳🇱 Нидерланды\n🇺🇦
-  Украина\n🇨🇭 Швейцария
-SUMMARY:🚣 Четверки парные, финал A (ж)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T091800Z-rowing--A-
-DTSTAMP:20240801T091800Z
-DTSTART:20240801T091800Z
-DTEND:20240801T092500Z
-DESCRIPTION:Академическая гребля - Двойки парные, финал A (ж)\n🇬🇧
-  Великобритания\n🇳🇱 Нидерланды\n🇳🇿 Новая Зеландия\n🇳🇴 Норвегия\n🇷🇴
-  Румыния\n🇫🇷 Франция
-SUMMARY:🚣 Двойки парные, финал A (ж)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T093000Z-rowing--A-
-DTSTAMP:20240801T093000Z
-DTSTART:20240801T093000Z
-DTEND:20240801T093700Z
-DESCRIPTION:Академическая гребля - Двойки парные, финал A (м)\n🇮🇪
-  Ирландия\n🇪🇸 Испания\n🇳🇱 Нидерланды\n🇳🇿 Новая Зеландия\n🇷🇴
-  Румыния\n🇺🇸 США
-SUMMARY:🚣 Двойки парные, финал A (м)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T095000Z-rowing--A-
-DTSTAMP:20240801T095000Z
-DTSTART:20240801T095000Z
-DTEND:20240801T095700Z
-DESCRIPTION:Академическая гребля - Четверки, финал A (ж)\n🇬🇧
-  Великобритания\n🇨🇳 Китай\n🇳🇱 Нидерланды\n🇳🇿 Новая Зеландия\n🇷🇴
-  Румыния\n🇺🇸 США
-SUMMARY:🚣 Четверки, финал A (ж)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T101000Z-rowing--A-
-DTSTAMP:20240801T101000Z
-DTSTART:20240801T101000Z
-DTEND:20240801T101700Z
-DESCRIPTION:Академическая гребля - Четверки, финал A (м)\n🇦🇺
-  Австралия\n🇬🇧 Великобритания\n🇮🇹 Италия\n🇳🇿 Новая Зеландия\n🇷🇴
-  Румыния\n🇺🇸 США
-SUMMARY:🚣 Четверки, финал A (м)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T093000Z-rowing--A-
-DTSTAMP:20240802T093000Z
-DTSTART:20240802T093000Z
-DTEND:20240802T093700Z
-DESCRIPTION:Академическая гребля - Двойки, финал A (м)\n🇬🇧
-  Великобритания\n🇮🇪 Ирландия\n🇪🇸 Испания\n🇷🇴 Румыния\n🇭🇷
-  Хорватия\n🇨🇭 Швейцария
-SUMMARY:🚣 Двойки, финал A (м)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T094200Z-rowing--A-
-DTSTAMP:20240802T094200Z
-DTSTART:20240802T094200Z
-DTEND:20240802T094900Z
-DESCRIPTION:Академическая гребля - Двойки, финал A (ж)\n🇦🇺
-  Австралия\n🇬🇷 Греция\n🇱🇹 Литва\n🇳🇱 Нидерланды\n🇷🇴 Румыния\n🇺🇸
-  США
-SUMMARY:🚣 Двойки, финал A (ж)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T100200Z-rowing--A-
-DTSTAMP:20240802T100200Z
-DTSTART:20240802T100200Z
-DTEND:20240802T100900Z
-DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал A
-  (м)\n🇬🇷 Греция\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇳🇴 Норвегия\n🇨🇿
-  Чехия\n🇨🇭 Швейцария
-SUMMARY:🚣 Двойки парные, легкий вес, финал A (м)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T102200Z-rowing--A-
-DTSTAMP:20240802T102200Z
-DTSTART:20240802T102200Z
-DTEND:20240802T102900Z
-DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал A
-  (ж)\n🇬🇧 Великобритания\n🇬🇷 Греция\n🇮🇪 Ирландия\n🇳🇿 Новая
-  Зеландия\n🇷🇴 Румыния\n🇺🇸 США
-SUMMARY:🚣 Двойки парные, легкий вес, финал A (ж)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T081800Z-rowing--A-
 DTSTAMP:20240803T081800Z
 DTSTART:20240803T081800Z
 DTEND:20240803T082500Z
-DESCRIPTION:Академическая гребля - Одиночки, финал A (ж)\n🇧🇬 Desislava
-  ANGELOVA\n🇳🇿 Emma TWIGG\n🇺🇸 Kara KOHLER\n🇳🇱 Karolien FLORIJN\n🇦🇺
-  Tara RIGNEY\n🇱🇹 Viktorija SENKUTE
+DESCRIPTION:Академическая гребля - Одиночки, финал A (ж)
 SUMMARY:🚣 Одиночки, финал A (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
@@ -129,9 +17,7 @@ UID:20240803T085000Z-rowing--A-
 DTSTAMP:20240803T085000Z
 DTSTART:20240803T085000Z
 DTEND:20240803T085700Z
-DESCRIPTION:Академическая гребля - Восьмерки, финал A (ж)\n🇦🇺
-  Австралия\n🇬🇧 Великобритания\n🇮🇹 Италия\n🇨🇦 Канада\n🇷🇴
-  Румыния\n🇺🇸 США
+DESCRIPTION:Академическая гребля - Восьмерки, финал A (ж)
 SUMMARY:🚣 Восьмерки, финал A (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
@@ -140,9 +26,7 @@ UID:20240803T091000Z-rowing--A-
 DTSTAMP:20240803T091000Z
 DTSTART:20240803T091000Z
 DTEND:20240803T091700Z
-DESCRIPTION:Академическая гребля - Восьмерки, финал A (м)\n🇦🇺
-  Австралия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇳🇱 Нидерланды\n🇷🇴
-  Румыния\n🇺🇸 США
+DESCRIPTION:Академическая гребля - Восьмерки, финал A (м)
 SUMMARY:🚣 Восьмерки, финал A (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
@@ -151,9 +35,7 @@ UID:20240803T093000Z-rowing--A-
 DTSTAMP:20240803T093000Z
 DTSTART:20240803T093000Z
 DTEND:20240803T093700Z
-DESCRIPTION:Академическая гребля - Одиночки, финал A (м)\n🇩🇪 Oliver
-  ZEIDLER\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇳🇿 Thomas
-  MACKINTOSH\n🇧🇪 Tim BRYS\n🇦🇸 Yauheni ZALATY
+DESCRIPTION:Академическая гребля - Одиночки, финал A (м)
 SUMMARY:🚣 Одиночки, финал A (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT

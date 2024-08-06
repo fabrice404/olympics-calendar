@@ -4,73 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//medals/ru/CRO//EN
 X-WR-CALNAME:🇭🇷 Croatia 🏅 | Paris 2024
 NAME:🇭🇷 Croatia 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T100000Z-shooting--10-
-DTSTAMP:20240729T100000Z
-DTSTART:20240729T100000Z
-DTEND:20240729T104500Z
-DESCRIPTION:Стрельба - Пневматическая винтовка 10м, финал (м)\n🇮🇳 Arjun
-  BABUTA\n🇰🇷 CHOE Daehan\n🇮🇹 Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo
-  Julian GUTIERREZ\n🇭🇷 Miran MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG
-  Lihao\n🇸🇪 Victor LINDGREN
-SUMMARY:🔫 Пневматическая винтовка 10м, финал (м)
-LOCATION:Стрелковый центр в Шатору
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T152000Z-canoe-slalom--
-DTSTAMP:20240729T152000Z
-DTSTART:20240729T152000Z
-DTEND:20240729T160400Z
-DESCRIPTION:Гребной слалом - Каноэ-одиночки, финал (м)\n🇬🇧 Adam
-  BURGESS\n🇸🇮 Benjamin SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam
-  JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸
-  Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan
-  CARTER\n🇸🇳 Yves BOURHIS
-SUMMARY:🛶 Каноэ-одиночки, финал (м)
-LOCATION:Водный ст. - Белая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T151200Z-judo--B-63--KOS-CRO
-DTSTAMP:20240730T151200Z
-DTSTART:20240730T151200Z
-DTEND:20240730T151800Z
-DESCRIPTION:Дзюдо - Поединок за бронзу B, до 63кг (ж)
-SUMMARY:🥋 Laura FAZLIU 🇽🇰 - 🇭🇷 Katarina KRISTO
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T150000Z-judo--70--CRO-GER
-DTSTAMP:20240731T150000Z
-DTSTART:20240731T150000Z
-DTEND:20240731T150600Z
-DESCRIPTION:Дзюдо - Финал, до 70кг (ж)
-SUMMARY:🥋 Barbara MATIC 🇭🇷 - 🇩🇪 Miriam BUTKEREIT
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T093000Z-rowing--A-
-DTSTAMP:20240802T093000Z
-DTSTART:20240802T093000Z
-DTEND:20240802T093700Z
-DESCRIPTION:Академическая гребля - Двойки, финал A (м)\n🇬🇧
-  Великобритания\n🇮🇪 Ирландия\n🇪🇸 Испания\n🇷🇴 Румыния\n🇭🇷
-  Хорватия\n🇨🇭 Швейцария
-SUMMARY:🚣 Двойки, финал A (м)
-LOCATION:Водный ст. - Гладкая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T111300Z-sailing--
-DTSTAMP:20240802T111300Z
-DTSTART:20240802T111300Z
-DTEND:20240802T113500Z
-DESCRIPTION:Парусный спорт - Скиф, медальная гонка (м)\n🇺🇸
-  BARROWS/HENKEN\n🇪🇸 BOTIN/TRITTEL\n🇵🇱 BUKSAK/WIERZBICKI\n🇮🇪
-  DICKSON/WADDILOVE\n🇳🇱 LAMBRIEX/WERKEN\n🇳🇿 McHARDIE/McKENZIE\n🇬🇧
-  PETERS/STERRITT\n🇭🇷 S FANTELA/M FANTELA\n🇨🇭 SCHNEITER/de PLANTA\n🇺🇾
-  UMPIERRE/DIZ
-SUMMARY:⛵ Скиф, медальная гонка (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T100000Z-tennis---CHN-CRO
 DTSTAMP:20240803T100000Z
 DTSTART:20240803T100000Z
@@ -104,19 +37,6 @@ SUMMARY:🤸 Перекладина, финал (м)
 LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T183000Z-athletics--
-DTSTAMP:20240805T183000Z
-DTSTART:20240805T183000Z
-DTEND:20240805T194000Z
-DESCRIPTION:Легкая атлетика - Метание диска, финал (ж)\n🇲🇩 Alexandra
-  EMILIANOV\n🇩🇪 Claudine VITA\n🇮🇹 Daisy OSAKUE\n🇨🇳 FENG Bin\n🇵🇹
-  Irina RODRIGUES\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Kristin PUDENZ\n🇩🇪
-  Marike STEINACKER\n🇫🇷 Melina ROBERT-MICHON\n🇭🇷 Sandra ELKASEVIC\n🇺🇸
-  Valarie ALLMAN\n🇸🇪 Vanessa KAMGA
-SUMMARY:🏃 Метание диска, финал (ж)
-LOCATION:«Стад-де-Франс»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T124300Z-sailing--
 DTSTAMP:20240806T124300Z
 DTSTART:20240806T124300Z
@@ -127,18 +47,5 @@ DESCRIPTION:Парусный спорт - Швертбот, медальная �
   CERVERA\n🇳🇱 Marit BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
 SUMMARY:⛵ Швертбот, медальная гонка (ж)
 LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T181500Z-athletics--
-DTSTAMP:20240806T181500Z
-DTSTART:20240806T181500Z
-DTEND:20240806T193500Z
-DESCRIPTION:Легкая атлетика - Прыжки в длину, финал (м)\n🇨🇴 Arnovis
-  DALMERO\n🇯🇲 Carey McLEOD\n🇭🇷 Filip PRAVDICA\n🇬🇧 Jacob
-  FINCHAM-DUKES\n🇮🇹 Mattia FURLANI\n🇬🇷 Miltiadis TENTOGLOU\n🇨🇿 Radek
-  JUSKA\n🇩🇪 Simon BATZ\n🇨🇭 Simon EHAMMER\n🇨🇳 WANG Jianan\n🇯🇲 Wayne
-  PINNOCK\n🇨🇳 ZHANG Mingkun
-SUMMARY:🏃 Прыжки в длину, финал (м)
-LOCATION:«Стад-де-Франс»
 END:VEVENT
 END:VCALENDAR

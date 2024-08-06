@@ -4,22 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//medals/zh/ALG//EN
 X-WR-CALNAME:🇩🇿 Algeria 🏅 | Paris 2024
 NAME:🇩🇿 Algeria 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240801T161500Z-artistic-gymnastics-
-DTSTAMP:20240801T161500Z
-DTSTART:20240801T161500Z
-DTEND:20240801T181009Z
-DESCRIPTION:竞技体操 - 女子全能决赛\n🇮🇹 Alice D'AMATO\n🇬🇧 Alice KINSELLA\n🇷🇴
-  Amalia GHIGOARTA\n🇷🇴 Ana BARBOSU\n🇨🇦 Ava STEWART\n🇭🇺 Bettina Lili
-  CZIFRA\n🇨🇦 Elsabeth BLACK\n🇵🇹 Filipa MARTINS\n🇧🇷 Flavia
-  SARAIVA\n🇬🇧 Georgia-Mae FENTON\n🇩🇪 Helen KEVRIC\n🇯🇵 KISHI
-  Rina\n🇩🇿 Kaylia NEMOUR\n🇨🇴 Luisa BLANCO\n🇮🇹 Manila ESPOSITO\n🇯🇵
-  NAKAMURA Haruka\n🇳🇱 Naomi VISSER\n🇨🇳 OU Yushan\n🇨🇳 QIU Qiyuan\n🇧🇷
-  Rebeca ANDRADE\n🇦🇺 Ruby PASS\n🇩🇪 Sarah VOSS\n🇺🇸 Simone BILES\n🇺🇸
-  Sunisa LEE
-SUMMARY:🤸 女子全能决赛
-LOCATION:贝尔西体育馆
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -45,14 +29,14 @@ DESCRIPTION:公路自行车 - 男子公路赛\n🇯🇵 ARASHIRO Yukiya\n🇲�
   POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
   SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
   WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
-  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇻🇪
-  Orluis AULAR\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan
-  GIBBONS\n🇮🇪 Ryan MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴
-  Soeren WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧
-  Stephen WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪
-  Tiesj BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin
-  MADOUAS\n🇧🇷 Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine
-  HAMZA\n🇰🇿 Yevgeniy FEDOROV
+  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
+  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
+  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
+  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
+  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
+  Yevgeniy FEDOROV
 SUMMARY:🚴 男子公路赛
 LOCATION:特罗卡德罗
 END:VEVENT
@@ -94,18 +78,6 @@ DESCRIPTION:公路自行车 - 女子公路赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA
   HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
 SUMMARY:🚴 女子公路赛
 LOCATION:特罗卡德罗
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T134000Z-artistic-gymnastics-
-DTSTAMP:20240804T134000Z
-DTSTART:20240804T134000Z
-DTEND:20240804T142100Z
-DESCRIPTION:竞技体操 - 女子高低杠决赛\n🇮🇹 Alice D'AMATO\n🇩🇪 Helen KEVRIC\n🇩🇿
-  Kaylia NEMOUR\n🇧🇪 Nina DERWAEL\n🇨🇳 QIU Qiyuan\n🇧🇷 Rebeca
-  ANDRADE\n🇬🇧 Rebecca DOWNIE\n🇳🇱 Sanna VEERMAN\n🇺🇸 Simone BILES\n🇺🇸
-  Sunisa LEE\n🇨🇳 ZHANG Yihan
-SUMMARY:🤸 女子高低杠决赛
-LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240806T203400Z-boxing-66--THA-ALG

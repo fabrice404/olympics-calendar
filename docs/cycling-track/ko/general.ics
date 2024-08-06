@@ -8,8 +8,7 @@ UID:20240805T150000Z-cycling-track--
 DTSTAMP:20240805T150000Z
 DTSTART:20240805T150000Z
 DTEND:20240805T152700Z
-DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 예선\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇩🇪 독일\n🇲🇽
-  멕시코\n🇬🇧 영국\n🇨🇳 중국\n🇨🇦 캐나다\n🇵🇱 폴란드
+DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 예선
 SUMMARY:🚴 여자 단체 스프린트, 예선
 LOCATION:국립 벨로드롬
 END:VEVENT
@@ -18,8 +17,7 @@ UID:20240805T152700Z-cycling-track--
 DTSTAMP:20240805T152700Z
 DTSTART:20240805T152700Z
 DTEND:20240805T165500Z
-DESCRIPTION:사이클 트랙 - 남자 단체 추발, 예선\n🇳🇿 뉴질랜드\n🇩🇰 덴마크\n🇩🇪 독일\n🇧🇪
-  벨기에\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇦 캐나다\n🇫🇷 프랑스
+DESCRIPTION:사이클 트랙 - 남자 단체 추발, 예선
 SUMMARY:🚴 남자 단체 추발, 예선
 LOCATION:국립 벨로드롬
 END:VEVENT
@@ -28,15 +26,7 @@ UID:20240805T165500Z-cycling-track--1
 DTSTAMP:20240805T165500Z
 DTSTART:20240805T165500Z
 DTEND:20240805T170900Z
-DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 1라운드\n🇨🇳 BAO Shanju\n🇲🇽 Daniela
-  GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma
-  HINZE\n🇨🇳 GUO Yufang\n🇳🇱 Hetty van de WOUW\n🇲🇽 Jessica SALAZAR
-  VALLES\n🇬🇧 Katy MARCHANT\n🇨🇦 Kelsey MITCHELL\n🇳🇱 Kyra
-  LAMBERINK\n🇨🇦 Lauriane GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena
-  KARWACKA\n🇵🇱 Nikola SIBIAK\n🇩🇪 Pauline GRABOSCH\n🇳🇿 Rebecca
-  PETCH\n🇨🇦 Sarah ORBAN\n🇳🇿 Shaane FULTON\n🇬🇧 Sophie CAPEWELL\n🇳🇱
-  Steffie van der PEET\n🇵🇱 Urszula LOS\n🇨🇳 YUAN Liying\n🇲🇽 Yuli
-  VERDUGO OSUNA
+DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 1라운드
 SUMMARY:🚴 여자 단체 스프린트, 1라운드
 LOCATION:국립 벨로드롬
 END:VEVENT
@@ -45,45 +35,44 @@ UID:20240805T170900Z-cycling-track--
 DTSTAMP:20240805T170900Z
 DTSTART:20240805T170900Z
 DTEND:20240805T174600Z
-DESCRIPTION:사이클 트랙 - 남자 단체 스프린트, 예선\n🇳🇱 네덜란드\n🇩🇪 독일\n🇬🇧 영국\n🇦🇺
-  오스트레일리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇫🇷 프랑스
+DESCRIPTION:사이클 트랙 - 남자 단체 스프린트, 예선
 SUMMARY:🚴 남자 단체 스프린트, 예선
 LOCATION:국립 벨로드롬
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T174600Z-cycling-track--7-8--POL-CAN
+UID:20240805T174600Z-cycling-track--7-8-
 DTSTAMP:20240805T174600Z
 DTSTART:20240805T174600Z
 DTEND:20240805T175000Z
 DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 결승 - 7-8위 결정전
-SUMMARY:🚴 폴란드 🇵🇱 - 🇨🇦 캐나다
+SUMMARY:🚴 여자 단체 스프린트, 결승 - 7-8위 결정전
 LOCATION:국립 벨로드롬
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T175000Z-cycling-track--5-6--MEX-CHN
+UID:20240805T175000Z-cycling-track--5-6-
 DTSTAMP:20240805T175000Z
 DTSTART:20240805T175000Z
 DTEND:20240805T175400Z
 DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 결승 - 5-6위 결정전
-SUMMARY:🚴 멕시코 🇲🇽 - 🇨🇳 중국
+SUMMARY:🚴 여자 단체 스프린트, 결승 - 5-6위 결정전
 LOCATION:국립 벨로드롬
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T175400Z-cycling-track---GER-NED
+UID:20240805T175400Z-cycling-track--
 DTSTAMP:20240805T175400Z
 DTSTART:20240805T175400Z
 DTEND:20240805T175800Z
 DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 결승 - 동메달 결정전
-SUMMARY:🚴 독일 🇩🇪 - 🇳🇱 네덜란드
+SUMMARY:🚴 여자 단체 스프린트, 결승 - 동메달 결정전
 LOCATION:국립 벨로드롬
 END:VEVENT
 BEGIN:VEVENT
-UID:20240805T175900Z-cycling-track---GBR-NZL
+UID:20240805T175900Z-cycling-track--
 DTSTAMP:20240805T175900Z
 DTSTART:20240805T175900Z
 DTEND:20240805T180300Z
 DESCRIPTION:사이클 트랙 - 여자 단체 스프린트, 결승 - 금메달 결정전
-SUMMARY:🚴 영국 🇬🇧 - 🇳🇿 뉴질랜드
+SUMMARY:🚴 여자 단체 스프린트, 결승 - 금메달 결정전
 LOCATION:국립 벨로드롬
 END:VEVENT
 BEGIN:VEVENT
@@ -91,8 +80,7 @@ UID:20240806T153000Z-cycling-track--
 DTSTAMP:20240806T153000Z
 DTSTART:20240806T153000Z
 DTEND:20240806T165900Z
-DESCRIPTION:사이클 트랙 - 여자 단체 추발, 예선\n🇳🇿 뉴질랜드\n🇩🇪 독일\n🇺🇸 미국\n🇮🇪
-  아일랜드\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇦 캐나다\n🇫🇷 프랑스
+DESCRIPTION:사이클 트랙 - 여자 단체 추발, 예선
 SUMMARY:🚴 여자 단체 추발, 예선
 LOCATION:국립 벨로드롬
 END:VEVENT
@@ -101,14 +89,7 @@ UID:20240806T165900Z-cycling-track--1
 DTSTAMP:20240806T165900Z
 DTSTART:20240806T165900Z
 DTEND:20240806T171400Z
-DESCRIPTION:사이클 트랙 - 남자 단체 스프린트, 1라운드\n🇬🇧 Ed LOWE\n🇫🇷 Florian
-  GRENGBO\n🇨🇳 GUO Shuai\n🇬🇧 Hamish TURNBULL\n🇳🇱 Harrie
-  LAVREYSEN\n🇬🇧 Jack CARLIN\n🇨🇦 James HEDGCOCK\n🇳🇱 Jeffrey
-  HOOGLAND\n🇨🇳 LIU Qi\n🇦🇺 Leigh HOFFMAN\n🇩🇪 Luca SPIEGEL\n🇦🇺
-  Matthew GLAETZER\n🇦🇺 Matthew RICHARDSON\n🇩🇪 Maximilian
-  DOERNBACH\n🇯🇵 NAGASAKO Yoshitaku\n🇨🇦 Nick WAMMES\n🇯🇵 OBARA
-  Yuta\n🇯🇵 OTA Kaiya\n🇫🇷 Rayan HELAL\n🇳🇱 Roy van den BERG\n🇫🇷
-  Sebastien VIGIER\n🇩🇪 Stefan BOETTICHER\n🇨🇦 Tyler RORKE\n🇨🇳 ZHOU Yu
+DESCRIPTION:사이클 트랙 - 남자 단체 스프린트, 1라운드
 SUMMARY:🚴 남자 단체 스프린트, 1라운드
 LOCATION:국립 벨로드롬
 END:VEVENT
@@ -117,17 +98,7 @@ UID:20240806T171400Z-cycling-track--1
 DTSTAMP:20240806T171400Z
 DTSTART:20240806T171400Z
 DTEND:20240806T175500Z
-DESCRIPTION:사이클 트랙 - 남자 단체 추발, 1라운드\n🇳🇿 Aaron GATE\n🇫🇷 Benjamin
-  THOMAS\n🇳🇿 Campbell STEWART\n🇩🇰 Carl-Frederik BEVORT\n🇨🇦 Carson
-  MATTERN\n🇦🇺 Conor LEAHY\n🇬🇧 Daniel BIGHAM\n🇨🇦 Dylan BIBIC\n🇬🇧
-  Ethan HAYTER\n🇬🇧 Ethan VERNON\n🇧🇪 Fabio van den BOSSCHE\n🇮🇹 Filippo
-  GANNA\n🇮🇹 Francesco LAMON\n🇮🇹 Jonathan MILAN\n🇳🇿 Keegan
-  HORNBLOW\n🇦🇺 Kell O'BRIEN\n🇧🇪 Lindsay de VYLDER\n🇨🇦 Mathias
-  GUILLEMETTE\n🇨🇦 Michael FOLEY\n🇩🇰 Niklas LARSEN\n🇧🇪 Noah
-  VANDENBRANDEN\n🇦🇺 Oliver BLEDDYN\n🇬🇧 Oliver WOOD\n🇩🇰 Rasmus Lund
-  PEDERSEN\n🇦🇺 Sam WELSFORD\n🇮🇹 Simone CONSONNI\n🇫🇷 Thomas
-  BOUDAT\n🇫🇷 Thomas DENIS\n🇩🇰 Tobias Aagaard HANSEN\n🇳🇿 Tom
-  SEXTON\n🇧🇪 Tuur DENS\n🇫🇷 Valentin TABELLION
+DESCRIPTION:사이클 트랙 - 남자 단체 추발, 1라운드
 SUMMARY:🚴 남자 단체 추발, 1라운드
 LOCATION:국립 벨로드롬
 END:VEVENT

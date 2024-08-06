@@ -4,64 +4,11 @@ PRODID:-//fabrice404//olympics-calendar//canoe-slalom/ru/medals//EN
 X-WR-CALNAME:🛶 Гребной слалом 🏅 | Paris 2024
 NAME:🛶 Гребной слалом 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T154500Z-canoe-slalom--
-DTSTAMP:20240728T154500Z
-DTSTART:20240728T154500Z
-DTEND:20240728T162900Z
-DESCRIPTION:Гребной слалом - Байдарки-одиночки, финал (ж)\n🇧🇷 Ana
-  SATILA\n🇫🇷 Camille PRIGENT\n🇦🇹 Corinna KUHNLE\n🇸🇰 Eliska
-  MINTALOVA\n🇸🇮 Eva TERCELJ\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱
-  Klaudia ZWOLINSKA\n🇳🇿 Luuka JONES\n🇪🇸 Maialen CHOURRAUT\n🇩🇪 Ricarda
-  FUNK\n🇮🇹 Stefanie HORN
-SUMMARY:🛶 Байдарки-одиночки, финал (ж)
-LOCATION:Водный ст. - Белая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T152000Z-canoe-slalom--
-DTSTAMP:20240729T152000Z
-DTSTART:20240729T152000Z
-DTEND:20240729T160400Z
-DESCRIPTION:Гребной слалом - Каноэ-одиночки, финал (м)\n🇬🇧 Adam
-  BURGESS\n🇸🇮 Benjamin SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam
-  JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸
-  Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan
-  CARTER\n🇸🇳 Yves BOURHIS
-SUMMARY:🛶 Каноэ-одиночки, финал (м)
-LOCATION:Водный ст. - Белая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T152500Z-canoe-slalom--
-DTSTAMP:20240731T152500Z
-DTSTART:20240731T152500Z
-DTEND:20240731T160900Z
-DESCRIPTION:Гребной слалом - Каноэ-одиночки, финал (ж)\n🇨🇭 Alena
-  MARX\n🇧🇷 Ana SATILA\n🇩🇪 Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy
-  LEIBFARTH\n🇨🇿 Gabriela SATKOVA\n🇦🇺 Jessica FOX\n🇬🇧 Mallory
-  FRANKLIN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇺🇦
-  Viktoriia US\n🇸🇰 Zuzana PANKOVA
-SUMMARY:🛶 Каноэ-одиночки, финал (ж)
-LOCATION:Водный ст. - Белая вода
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T153000Z-canoe-slalom--
-DTSTAMP:20240801T153000Z
-DTSTART:20240801T153000Z
-DTEND:20240801T161400Z
-DESCRIPTION:Гребной слалом - Байдарки-одиночки, финал (м)\n🇦🇹 Felix
-  OSCHMAUTZ\n🇮🇹 Giovanni de GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub
-  GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇬🇧 Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇩🇪
-  Noah HEGGE\n🇪🇸 Pau ECHANIZ\n🇨🇳 QUAN Xin\n🇦🇺 Timothy ANDERSON\n🇫🇷
-  Titouan CASTRYCK
-SUMMARY:🛶 Байдарки-одиночки, финал (м)
-LOCATION:Водный ст. - Белая вода
-END:VEVENT
-BEGIN:VEVENT
 UID:20240805T145500Z-canoe-slalom--
 DTSTAMP:20240805T145500Z
 DTSTART:20240805T145500Z
 DTEND:20240805T150000Z
-DESCRIPTION:Гребной слалом - Экстрим-слалом, финал (ж)\n🇫🇷 Angele
-  HUG\n🇩🇪 Elena LILIK\n🇬🇧 Kimberley WOODS\n🇦🇺 Noemie FOX
+DESCRIPTION:Гребной слалом - Экстрим-слалом, финал (ж)
 SUMMARY:🛶 Экстрим-слалом, финал (ж)
 LOCATION:Водный ст. - Белая вода
 END:VEVENT
@@ -70,8 +17,7 @@ UID:20240805T150000Z-canoe-slalom--
 DTSTAMP:20240805T150000Z
 DTSTART:20240805T150000Z
 DTEND:20240805T150500Z
-DESCRIPTION:Гребной слалом - Экстрим-слалом, финал (м)\n🇳🇿 Finn
-  BUTCHER\n🇬🇧 Joseph CLARKE\n🇨🇿 Lukas ROHAN\n🇩🇪 Noah HEGGE
+DESCRIPTION:Гребной слалом - Экстрим-слалом, финал (м)
 SUMMARY:🛶 Экстрим-слалом, финал (м)
 LOCATION:Водный ст. - Белая вода
 END:VEVENT

@@ -4,42 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//general/zh/KEN//EN
 X-WR-CALNAME:🇰🇪 Kenya | Paris 2024
 NAME:🇰🇪 Kenya | Paris 2024
 BEGIN:VEVENT
-UID:20240724T140000Z-rugby-sevens-B-ARG-KEN
-DTSTAMP:20240724T140000Z
-DTSTART:20240724T140000Z
-DTEND:20240724T141600Z
-DESCRIPTION:七人制橄榄球 - 男子分组循环赛B组
-SUMMARY:🏉 阿根廷 🇦🇷 - 🇰🇪 肯尼亚
-LOCATION:法兰西体育场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240724T170000Z-rugby-sevens-B-AUS-KEN
-DTSTAMP:20240724T170000Z
-DTSTART:20240724T170000Z
-DTEND:20240724T171600Z
-DESCRIPTION:七人制橄榄球 - 男子分组循环赛B组
-SUMMARY:🏉 澳大利亚 🇦🇺 - 🇰🇪 肯尼亚
-LOCATION:法兰西体育场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240725T120000Z-rugby-sevens-B-SAM-KEN
-DTSTAMP:20240725T120000Z
-DTSTART:20240725T120000Z
-DTEND:20240725T121600Z
-DESCRIPTION:七人制橄榄球 - 男子分组循环赛B组
-SUMMARY:🏉 萨摩亚 🇼🇸 - 🇰🇪 肯尼亚
-LOCATION:法兰西体育场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240725T183000Z-rugby-sevens-9-12-URU-KEN
-DTSTAMP:20240725T183000Z
-DTSTART:20240725T183000Z
-DTEND:20240725T184600Z
-DESCRIPTION:七人制橄榄球 - 男子9-12名排名赛
-SUMMARY:🏉 乌拉圭 🇺🇾 - 🇰🇪 肯尼亚
-LOCATION:法兰西体育场
-END:VEVENT
-BEGIN:VEVENT
 UID:20240726T173000Z-opening-ceremony
 DTSTAMP:20240726T173000Z
 DTSTART:20240726T173000Z
@@ -47,213 +11,6 @@ DTEND:20240726T210000Z
 DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
 SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T094000Z-fencing-32-KEN-UKR
-DTSTAMP:20240727T094000Z
-DTSTART:20240727T094000Z
-DTEND:20240727T100500Z
-DESCRIPTION:击剑 - 女子个人重剑32强
-SUMMARY:🤺 Alexandra NDOLO 🇰🇪 - 🇺🇦 Olena KRYVYTSKA
-LOCATION:巴黎大皇宫
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T094500Z-swimming-400
-DTSTAMP:20240727T094500Z
-DTSTART:20240727T094500Z
-DTEND:20240727T101400Z
-DESCRIPTION:游泳 - 男子400米自由泳分组预赛\n🇺🇸 Aaron SHACKELL\n🇹🇳 Ahmed
-  JAOUADI\n🇨🇷 Alberto VEGA\n🇻🇪 Alfonso Enrique MESTRE VIVAS\n🇨🇭
-  Antonio DJAKOVIC\n🇱🇹 Danas RAPSYS\n🇫🇷 David AUBRY\n🇨🇱 Eduardo
-  CISTERNAS\n🇧🇷 Eduardo OLIVEIRA de MORAES\n🇦🇺 Elijah WINNINGTON\n🇨🇳
-  FEI Liwei\n🇦🇹 Felix AUBOECK\n🇧🇷 Guilherme COSTA\n🇲🇾 Hoe Yean
-  KHIEW\n🇲🇦 Ilias EL FALLAKI\n🇺🇿 Ilya SIBIRTSEV\n🇵🇪 Joaquin
-  VARGAS\n🇧🇦 Jovan LEKIC\n🇰🇷 KIM Woomin\n🇬🇧 Kieran BIRD\n🇺🇸 Kieran
-  SMITH\n🇪🇪 Kregor ZIRK\n🇸🇲 Loris BIANCHI\n🇧🇪 Lucas HENVEAUX\n🇩🇪
-  Lukas MAERTENS\n🇮🇹 Marco de TULLIO\n🇮🇹 Matteo LAMBERTI\n🇲🇰 Nikola
-  GJURETANOVIKJ\n🇩🇪 Oliver KLEMET\n🇲🇩 Pavel ALOVATKI\n🇧🇬 Petar Petrov
-  MITSIN\n🇬🇾 Raekwon Jibril NOEL\n🇰🇪 Ridhwan Abubakar Bwana
-  MOHAMED\n🇦🇺 Samuel SHORT\n🇸🇪 Victor JOHANSSON\n🇨🇳 ZHANG
-  Zhanshuo\n🇭🇺 Zalan SARKANY
-SUMMARY:🏊 男子400米自由泳分组预赛
-LOCATION:拉德芳斯体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T150000Z-rugby-sevens-9-10-SAM-KEN
-DTSTAMP:20240727T150000Z
-DTSTART:20240727T150000Z
-DTEND:20240727T151600Z
-DESCRIPTION:七人制橄榄球 - 男子9-10名排名赛
-SUMMARY:🏉 萨摩亚 🇼🇸 - 🇰🇪 肯尼亚
-LOCATION:法兰西体育场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T110000Z-volleyball--B-BRA-KEN
-DTSTAMP:20240729T110000Z
-DTSTART:20240729T110000Z
-DTEND:20240729T131500Z
-DESCRIPTION:排球 - 女子预赛 - B组
-SUMMARY:🏐 巴西 🇧🇷 - 🇰🇪 肯尼亚
-LOCATION:南巴黎竞技场1号馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T190000Z-volleyball--B-POL-KEN
-DTSTAMP:20240731T190000Z
-DTSTART:20240731T190000Z
-DTEND:20240731T211500Z
-DESCRIPTION:排球 - 女子预赛 - B组
-SUMMARY:🏐 波兰 🇵🇱 - 🇰🇪 肯尼亚
-LOCATION:南巴黎竞技场1号馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T060000Z-athletics-20
-DTSTAMP:20240801T060000Z
-DTSTART:20240801T060000Z
-DTEND:20240801T073500Z
-DESCRIPTION:田径 - 男子20公里竞走决赛\n🇮🇳 Akshdeep SINGH\n🇪🇸 Alvaro MARTIN\n🇵🇱
-  Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence VENYERCSAN\n🇪🇨
-  Brian Daniel PINTADO\n🇰🇷 CHOE Byeongkwang\n🇧🇷 Caio BONFIM\n🇬🇧
-  Callum WILKINSON\n🇵🇪 Cesar Augusto RODRIGUEZ\n🇩🇪 Christopher
-  LINKE\n🇪🇨 David HURTADO\n🇦🇺 Declan TINGAY\n🇪🇸 Diego GARCIA
-  CARRERA\n🇸🇰 Dominik CERNY\n🇬🇹 Erick Bernabe BARRONDO\n🇨🇦 Evan
-  DUNFEE\n🇮🇹 Francesco FORTUNATO\n🇫🇷 Gabriel BORDIER\n🇯🇵 HAMANISHI
-  Ryo\n🇯🇵 IKEDA Koki\n🇺🇦 Ihor HLAVAN\n🇪🇨 Jordy Rafael JIMENEZ
-  ARROBO\n🇬🇹 Jose Alejandro BARRONDO\n🇲🇽 Jose Luis DOCTOR\n🇯🇵 KOGA
-  Yuta\n🇦🇺 Kyle SWAN\n🇨🇳 LI Yandong\n🇩🇪 Leo KOEPP\n🇵🇪 Luis Henry
-  CAMPOS\n🇵🇱 Maher BEN HLIMA\n🇮🇹 Massimo STANO\n🇭🇺 Mate
-  HELEBRANDT\n🇧🇷 Matheus CORREA\n🇧🇷 Max Batista GONCALVES dos
-  SANTOS\n🇪🇹 Misgana WAKUMA\n🇲🇽 Noel CHAMA\n🇮🇳 Paramjeet Singh
-  BISHT\n🇪🇸 Paul McGRATH\n🇸🇪 Perseus KARLSTROM\n🇦🇺 Rhydian
-  COWLEY\n🇲🇽 Ricardo ORTIZ\n🇮🇹 Riccardo ORSONI\n🇹🇷 Salih
-  KORKMAZ\n🇰🇪 Samuel Kireri GATHIMBA\n🇫🇮 Veli-Matti PARTANEN\n🇮🇳
-  Vikash SINGH\n🇨🇳 WANG Zhaozhao\n🇨🇳 ZHANG Jun
-SUMMARY:🏃 男子20公里竞走决赛
-LOCATION:特罗卡德罗
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T081200Z-judo-7832-KEN-POR
-DTSTAMP:20240801T081200Z
-DTSTART:20240801T081200Z
-DTEND:20240801T081800Z
-DESCRIPTION:柔道 - 女子78公斤级32强淘汰赛
-SUMMARY:🥋 Zeddy CHEROTICH 🇰🇪 - 🇵🇹 Patricia SAMPAIO
-LOCATION:战神广场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T091000Z-athletics-15001
-DTSTAMP:20240802T091000Z
-DTSTART:20240802T091000Z
-DTEND:20240802T093600Z
-DESCRIPTION:田径 - 男子1500米第1轮\n🇪🇹 Abdisa FAYISA\n🇦🇺 Adam SPENCER\n🇪🇸
-  Adel MECHAAL\n🇲🇦 Anass ESSAYI\n🇮🇪 Andrew COSCORAN\n🇫🇷 Azeddine
-  HABZ\n🇰🇪 Brian KOMEN\n🇮🇪 Cathal DOYLE\n🇨🇦 Charles
-  PHILIBERT-THIBOUTOT\n🇺🇸 Cole HOCKER\n🇪🇹 Ermias GIRMA\n🇮🇹 Federico
-  RIVA\n🇵🇱 Filip RAK\n🇬🇧 George MILLS\n🇺🇸 Hobbs KESSLER\n🇪🇸 Ignacio
-  FONTES\n🇵🇹 Isaac NADER\n🇳🇴 Jakob INGEBRIGTSEN\n🇧🇪 Jochem
-  VERMEULEN\n🇬🇧 Josh KERR\n🇨🇦 Kieran LUMB\n🇮🇪 Luke McCANN\n🇵🇱
-  Maciej WYDERKA\n🇫🇷 Mael GOUYETTE\n🇪🇸 Mario GARCIA\n🇩🇪 Marius
-  PROBST\n🇳🇴 Narve Gilje NORDAS\n🇬🇧 Neil GOURLEY\n🇳🇱 Niels
-  LAROS\n🇦🇺 Oliver HOARE\n🇮🇹 Ossama MESLEK\n🇮🇹 Pietro ARESE\n🇦🇹
-  Raphael PALLITSCH\n🇰🇪 Reynold CHERUIYOT\n🇩🇪 Robert FARKEN\n🇧🇪 Ruben
-  VERHEYDEN\n🇿🇦 Ryan MPHAHLELE\n🇸🇪 Samuel PIHLSTROM\n🇳🇿 Samuel
-  TANNER\n🇪🇹 Samuel TEFERA\n🇳🇱 Stefan NILLESSEN\n🇦🇺 Stewart
-  McSWEYN\n🇰🇪 Timothy CHERUIYOT\n🇿🇦 Tshepo TSHITE\n🇺🇸 Yared NUGUSE
-SUMMARY:🏃 男子1500米第1轮
-LOCATION:法兰西体育场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T161000Z-athletics-50001
-DTSTAMP:20240802T161000Z
-DTSTART:20240802T161000Z
-DTEND:20240802T165400Z
-DESCRIPTION:田径 - 女子5000米第1轮\n🇮🇳 ANKITA\n🇱🇻 Agate CAUNE\n🇲🇽 Alma Delia
-  CORTES\n🇰🇪 Beatrice CHEBET\n🇺🇬 Belinda CHEMUTAI\n🇨🇦 Briana
-  SCOTT\n🇪🇹 Ejgayehu TAYE\n🇺🇸 Elise CRANNY\n🇺🇬 Esther CHEBET\n🇰🇪
-  Faith KIPYEGON\n🇮🇹 Federica del BUONO\n🇧🇮 Francine NIYOMUKUNZI\n🇪🇹
-  Gudaf TSEGAY\n🇩🇪 Hanna KLEIN\n🇦🇺 Isobel BATT-DOYLE\n🇮🇪 Jodie
-  McCANN\n🇻🇪 Joselyn Daniely BREA\n🇺🇬 Joy CHEPTOYEK\n🇯🇵 KABASAWA
-  Wakana\n🇺🇸 Karissa SCHWEIZER\n🇳🇴 Karoline Bjerkeli GROVDAL\n🇸🇮
-  Klara LUKAN\n🇲🇽 Laura GALVAN\n🇦🇺 Lauren RYAN\n🇧🇪 Lisa ROOMS\n🇰🇪
-  Margaret Chelimo KIPKEMBOI\n🇵🇹 Mariana MACHADO\n🇪🇸 Marta GARCIA\n🇳🇱
-  Maureen KOSTER\n🇪🇹 Medina EISA\n🇮🇹 Nadia BATTOCLETTI\n🇫🇮 Nathalie
-  BLOMQVIST\n🇮🇳 Parul CHAUDHARY\n🇦🇺 Rose DAVIES\n🇩🇯 Samiyah HASSAN
-  NOUR\n🇫🇷 Sarah MADELEINE\n🇳🇱 Sifan HASSAN\n🇯🇵 TANAKA Nozomi\n🇭🇺
-  Viktoria WAGNER-GYURKES\n🇺🇸 Whittni MORGAN\n🇯🇵 YAMAMOTO Yuma
-SUMMARY:🏃 女子5000米第1轮
-LOCATION:法兰西体育场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T171000Z-athletics-4X4001
-DTSTAMP:20240802T171000Z
-DTSTART:20240802T171000Z
-DTEND:20240802T172600Z
-DESCRIPTION:田径 - 4x400米混合接力第1轮\n🇬🇧 Alex HAYDOCK-WILSON\n🇩🇪 Alica
-  SCHMIDT\n🇮🇹 Alice MANGIONE\n🇧🇸 Alonzo RUSSELL\n🇫🇷 Amandine
-  BROSSIER\n🇩🇴 Anabel MEDINA VENTURA\n🇮🇹 Anna POLINARI\n🇰🇪 Boniface
-  Ontuga MWERESA\n🇺🇸 Bryce DEADMON\n🇳🇱 Cathelijn PEETERS\n🇨🇭 Charles
-  DEVANTAY\n🇮🇪 Christopher O'DONNELL\n🇺🇦 Danylo DANYLENKO\n🇰🇪 David
-  Sanayek KAPIRANTE\n🇮🇹 Edoardo SCOTTI\n🇩🇪 Eileen DEMES\n🇳🇬 Ella
-  ONOJUVWEVWO\n🇩🇴 Erick SANCHEZ\n🇳🇱 Eugene OMALLA\n🇨🇭 Giulia
-  SENN\n🇧🇪 Helena PONETTE\n🇳🇬 Ifeanyi Emmanuel OJELI\n🇳🇱 Isaya KLEIN
-  IKKINK\n🇧🇸 Javonya VALCOURT\n🇩🇪 Jean Paul BREDAU\n🇧🇪 Jonathan
-  SACOOR\n🇯🇲 Junelle BROMFIELD\n🇵🇱 Justyna SWIETY-ERSETIC\n🇵🇱 Karol
-  ZALEWSKI\n🇺🇸 Kaylyn BROWN\n🇧🇪 Kevin BORLEE\n🇬🇧 Laviai NIELSEN\n🇳🇱
-  Lieke KLAVER\n🇨🇭 Lionel SPITZ\n🇫🇷 Louise MARAVAL\n🇮🇹 Luca
-  SITO\n🇵🇱 Maksymilian SZWED\n🇩🇪 Manuel SANDERS\n🇵🇱 Marika
-  POPOWICZ-DRAPALA\n🇺🇦 Maryana SHOSTAK\n🇰🇪 Mercy CHEBET\n🇩🇴 Milagros
-  DURAN\n🇫🇷 Muhammad Abdallah KOUNTA\n🇧🇪 Naomi van den BROECK\n🇬🇧
-  Nicole YEARGIN\n🇺🇦 Oleksandr POHORILKO\n🇳🇬 Patience Okon GEORGE\n🇧🇸
-  Quincy PENN\n🇯🇲 Reheem HAYLES\n🇩🇴 Robert KING\n🇳🇬 Samuel
-  OGAZI\n🇬🇧 Samuel REARDON\n🇺🇸 Shamier LITTLE\n🇮🇪 Sharlene
-  MAWDSLEY\n🇮🇪 Sophie BECKER\n🇯🇲 Stephenie Ann McPHERSON\n🇫🇷 Teo
-  ANDANT\n🇺🇦 Tetyana MELNYK\n🇮🇪 Thomas BARR\n🇺🇸 Vernon NORWOOD\n🇰🇪
-  Veronica Kamumbe MUTUA\n🇧🇸 Wendell MILLER\n🇨🇭 Yasmin GIGER\n🇯🇲
-  Zandrion BARNES
-SUMMARY:🏃 4x400米混合接力第1轮
-LOCATION:法兰西体育场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T174500Z-athletics-8001
-DTSTAMP:20240802T174500Z
-DTSTART:20240802T174500Z
-DTEND:20240802T182700Z
-DESCRIPTION:田径 - 女子800米第1轮\n🇦🇺 Abbey CALDWELL\n🇯🇲 Adelle TRACEY\n🇺🇸
-  Allie WILSON\n🇰🇼 Amal AL ROUMI\n🇫🇷 Anais BOURGOIN\n🇸🇮 Anita
-  HORVAT\n🇵🇱 Anna WIELGOSZ\n🇲🇦 Assia RAZIKI\n🇨🇭 Audrey WERRO\n🇦🇺
-  Catriona BISSET\n🇦🇺 Claudia HOLLINGSWORTH\n🇨🇺 Daily COOPER
-  GASPAR\n🇮🇹 Elena BELLO\n🇮🇹 Eloisa COIRO\n🇫🇮 Eveliina
-  MAATTANEN\n🇧🇷 Flavia Maria de LIMA\n🇱🇹 Gabija GALVYDYTE\n🇸🇰
-  Gabriela GAJANOVA\n🇽🇰 Gresa BAKRACI\n🇪🇹 Habitam ALEMU\n🇺🇬 Halimah
-  NAKAAYI\n🇨🇦 Jazz SHUKLA\n🇬🇧 Jemma REEKIE\n🇺🇸 Juliette
-  WHITTAKER\n🇬🇧 Keely HODGKINSON\n🇵🇸 Layla ALMASRI\n🇫🇷 Lena
-  KANDISSOUNON\n🇰🇪 Lilian ODIRA\n🇪🇸 Lorea IBARZABAL\n🇪🇸 Lorena
-  MARTIN\n🇩🇪 Majtie KOLBERG\n🇰🇪 Mary MORAA\n🇯🇲 Natoya
-  GOULE-TOPPIN\n🇧🇭 Nelly JEPKOSGEI\n🇺🇸 Nia AKINS\n🇧🇯 Noelie
-  YARIGO\n🇧🇼 Oratile NOWE\n🏳️ Perina Lokure NAKANG\n🇬🇧 Phoebe
-  GILL\n🇿🇦 Prudence SEKGODISO\n🇨🇭 Rachel PELLAUD\n🇫🇷 Renelle
-  LAMOTE\n🇨🇺 Rose Mary ALMANZA\n🇬🇲 Sanu JALLOW\n🇻🇨 Shafiqua
-  MALONEY\n🇱🇰 Tharushi KARUNARATHNA\n🇪🇹 Tsige DUGUMA\n🇨🇭 Valentina
-  ROSAMILIA\n🇰🇪 Vivian Chebet KIPROTICH\n🇪🇹 Worknesh MESELE
-SUMMARY:🏃 女子800米第1轮
-LOCATION:法兰西体育场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T192000Z-athletics-10000
-DTSTAMP:20240802T192000Z
-DTSTART:20240802T192000Z
-DTEND:20240802T195000Z
-DESCRIPTION:田径 - 男子10000米决赛\n🇪🇸 Abdessamad OUKHELFEN\n🇿🇦 Adriaan
-  WILDSCHUTT\n🇰🇪 Benard KIBET\n🇪🇹 Berihu AREGAWI\n🇧🇭 Birhanu
-  BALEW\n🇧🇮 Celestin NDIKUMANA\n🇰🇪 Daniel MATEIKO\n🇺🇸 Grant
-  FISHER\n🇧🇪 Isaac KIMELI\n🇺🇬 Jacob KIPLIMO\n🏳️ Jamal Abdelmaji EISA
-  MOHAMMED\n🇫🇷 Jimmy GRESSIER\n🇺🇬 Joshua CHEPTEGEI\n🇯🇵 KASAI
-  Jun\n🇺🇬 Martin KIPROTICH\n🇪🇷 Merhawi MEBRAHTU\n🇨🇦 Mohammed
-  AHMED\n🇰🇪 Nicholas KIPKORIR\n🇺🇸 Nico YOUNG\n🇯🇵 OTA Tomoki\n🇧🇮
-  Rodrigue KWIZERA\n🇪🇹 Selemon BAREGA\n🇪🇸 Thierry NDIKUMWENAYO\n🇺🇸
-  William KINCAID\n🇫🇷 Yann SCHRUB\n🇪🇹 Yomif KEJELCHA\n🇷🇼 Yves
-  NIMUBONA
-SUMMARY:🏃 男子10000米决赛
-LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-swimming-50
@@ -339,15 +96,6 @@ DESCRIPTION:田径 - 男子100米第1轮\n🇨🇦 Aaron BROWN\n🇬🇭 Abdul-R
   Terrence JONES\n🇧🇸 Wanya McCOY\n🇨🇳 XIE Zhenye\n🇬🇧 Zharnel HUGHES
 SUMMARY:🏃 男子100米第1轮
 LOCATION:法兰西体育场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T110000Z-volleyball--B-JPN-KEN
-DTSTAMP:20240803T110000Z
-DTSTART:20240803T110000Z
-DTEND:20240803T131500Z
-DESCRIPTION:排球 - 女子预赛 - B组
-SUMMARY:🏐 日本 🇯🇵 - 🇰🇪 肯尼亚
-LOCATION:南巴黎竞技场1号馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T080500Z-athletics-30001
@@ -530,6 +278,20 @@ DESCRIPTION:田径 - 女子1500米第1轮\n🇯🇲 Adelle TRACEY\n🇫🇷 Agat
   O'SULLIVAN\n🇰🇪 Susan Lokayo EJORE\n🇯🇵 TANAKA Nozomi\n🇱🇺 Vera
   HOFFMANN\n🇵🇱 Weronika LIZAKOWSKA\n🇺🇬 Winnie NANYONDO
 SUMMARY:🏃 女子1500米第1轮
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T082000Z-athletics--A
+DTSTAMP:20240806T082000Z
+DTSTART:20240806T082000Z
+DTEND:20240806T091600Z
+DESCRIPTION:田径 - 男子标枪资格赛 - A组\n🇷🇴 Alexandru Mihaita NOVAC\n🇺🇸 Curtis
+  THOMPSON\n🇯🇵 DEAN Roderick Genki\n🇵🇱 Dawid WEGNER\n🇪🇬 Ihab
+  ABDELRAHMAN\n🇨🇿 Jakub VADLEJCH\n🇩🇪 Julian WEBER\n🇰🇪 Julius
+  YEGO\n🇹🇹 Keshorn WALCOTT\n🇮🇳 Kishore JENA\n🇵🇹 Leandro RAMOS\n🇫🇮
+  Oliver HELANDER\n🇱🇻 Patriks GAILUMS\n🇧🇷 Pedro Henrique
+  RODRIGUES\n🇫🇷 Teura'itera'i TUPAIA\n🇫🇮 Toni KERANEN
+SUMMARY:🏃 男子标枪资格赛 - A组
 LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT

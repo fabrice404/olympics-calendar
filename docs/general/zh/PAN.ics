@@ -13,70 +13,6 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240728T092700Z-swimming-100
-DTSTAMP:20240728T092700Z
-DTSTART:20240728T092700Z
-DTEND:20240728T094200Z
-DESCRIPTION:游泳 - 女子100米蛙泳分组预赛\n🇯🇵 AOKI Reona\n🇦🇸 Alina ZMUSHKA\n🇬🇲
-  Aminata Nia-Maria BARROW\n🇮🇱 Anastasia GORBENKO\n🇬🇧 Angharad
-  EVANS\n🇩🇪 Anna ELENDT\n🇮🇹 Benedetta PILATO\n🇵🇱 Dominika
-  SZTANDERA\n🇦🇬 Ellie SHAW\n🇵🇦 Emily SANTOS SILVA\n🇺🇸 Emma
-  WEBER\n🇸🇬 En Yi Letitia SIM\n🇪🇪 Eneli JEFIMOVA\n🇫🇮 Ida HULKKO\n🇲🇦
-  Imane Houda EL BARODI\n🇦🇺 Jenna STRAUCH\n🇪🇸 Jessica VALL
-  MONTERO\n🇱🇹 Kotryna TETEREVKOVA\n🇨🇿 Kristyna HORSKA\n🇨🇰 Lanihei
-  CONNOLLY\n🇰🇼 Lara DASHTI\n🇺🇸 Lilly KING\n🇮🇹 Lisa ANGIOLINI\n🇨🇭
-  Lisa MAMIE\n🇱🇧 Lynn EL HAJJ\n🇦🇷 Macarena CEBALLOS\n🇮🇪 Mona Mc
-  SHARRY\n🇲🇾 Rouxin TAN\n🇱🇹 Ruta MEILUTYTE\n🇯🇵 SUZUKI Satomi\n🇨🇦
-  Sophie ANGUS\n🇸🇪 Sophie HANSSON\n🇨🇴 Stefania GOMEZ HURTADO\n🇨🇳 TANG
-  Qianting\n🇿🇦 Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YANG Chang
-SUMMARY:🏊 女子100米蛙泳分组预赛
-LOCATION:拉德芳斯体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T080000Z-judo-5732-PAN-EOR
-DTSTAMP:20240729T080000Z
-DTSTART:20240729T080000Z
-DTEND:20240729T080600Z
-DESCRIPTION:柔道 - 女子57公斤级32强淘汰赛
-SUMMARY:🥋 Kristine JIMENEZ 🇵🇦 - 🏳️ Muna DAHOUK
-LOCATION:战神广场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T091200Z-judo-5716-CAN-PAN
-DTSTAMP:20240729T091200Z
-DTSTART:20240729T091200Z
-DTEND:20240729T091800Z
-DESCRIPTION:柔道 - 女子57公斤级16强淘汰赛
-SUMMARY:🥋 Christa DEGUCHI 🇨🇦 - 🇵🇦 Kristine JIMENEZ
-LOCATION:战神广场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T110100Z-swimming-200
-DTSTAMP:20240730T110100Z
-DTSTART:20240730T110100Z
-DTEND:20240730T111900Z
-DESCRIPTION:游泳 - 男子200米蛙泳分组预赛\n🇱🇹 Aleksas SAVICKAS\n🇯🇴 Amro
-  AL-WIR\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦 Bernhard Tyler
-  CHRISTIANSON\n🇰🇷 CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳 DONG
-  Zhihao\n🇱🇻 Daniils BOBROVS\n🇰🇬 Denis PETRASHOV\n🇸🇪 Erik
-  PERSSON\n🇯🇵 HANAGURUMA Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺
-  Joshua YONG\n🇭🇳 Julio HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
-  EPITROPOV\n🇺🇸 Matt FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro
-  de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE
-  Ippei\n🇦🇺 Zac STUBBLETY-COOK
-SUMMARY:🏊 男子200米蛙泳分组预赛
-LOCATION:拉德芳斯体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T193600Z-boxing-75-16-PAN-KAZ
-DTSTAMP:20240731T193600Z
-DTSTART:20240731T193600Z
-DTEND:20240731T194700Z
-DESCRIPTION:拳击 - 女子75公斤级 - 预赛 - 16强赛
-SUMMARY:🥊 Atheyna Bibeichi BYLON 🇵🇦 - 🇰🇿 Valentina KHALZOVA
-LOCATION:北巴黎竞技场
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T083500Z-athletics-100
 DTSTAMP:20240803T083500Z
 DTSTART:20240803T083500Z
@@ -126,14 +62,14 @@ DESCRIPTION:公路自行车 - 男子公路赛\n🇯🇵 ARASHIRO Yukiya\n🇲�
   POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
   SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
   WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
-  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇻🇪
-  Orluis AULAR\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan
-  GIBBONS\n🇮🇪 Ryan MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴
-  Soeren WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧
-  Stephen WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪
-  Tiesj BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin
-  MADOUAS\n🇧🇷 Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine
-  HAMZA\n🇰🇿 Yevgeniy FEDOROV
+  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
+  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
+  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
+  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
+  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
+  Yevgeniy FEDOROV
 SUMMARY:🚴 男子公路赛
 LOCATION:特罗卡德罗
 END:VEVENT

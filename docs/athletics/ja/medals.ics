@@ -4,80 +4,11 @@ PRODID:-//fabrice404//olympics-calendar//athletics/ja/medals//EN
 X-WR-CALNAME:🏃 陸上競技 🏅 | Paris 2024
 NAME:🏃 陸上競技 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240801T060000Z-athletics-20KM
-DTSTAMP:20240801T060000Z
-DTSTART:20240801T060000Z
-DTEND:20240801T073500Z
-DESCRIPTION:陸上競技 - 男子20km競歩決勝\n🇮🇳 Akshdeep SINGH\n🇪🇸 Alvaro
-  MARTIN\n🇵🇱 Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence
-  VENYERCSAN\n🇪🇨 Brian Daniel PINTADO\n🇰🇷 CHOE Byeongkwang\n🇧🇷 Caio
-  BONFIM\n🇬🇧 Callum WILKINSON\n🇵🇪 Cesar Augusto RODRIGUEZ\n🇩🇪
-  Christopher LINKE\n🇪🇨 David HURTADO\n🇦🇺 Declan TINGAY\n🇪🇸 Diego
-  GARCIA CARRERA\n🇸🇰 Dominik CERNY\n🇬🇹 Erick Bernabe BARRONDO\n🇨🇦
-  Evan DUNFEE\n🇮🇹 Francesco FORTUNATO\n🇫🇷 Gabriel BORDIER\n🇯🇵
-  HAMANISHI Ryo\n🇯🇵 IKEDA Koki\n🇺🇦 Ihor HLAVAN\n🇪🇨 Jordy Rafael
-  JIMENEZ ARROBO\n🇬🇹 Jose Alejandro BARRONDO\n🇲🇽 Jose Luis DOCTOR\n🇯🇵
-  KOGA Yuta\n🇦🇺 Kyle SWAN\n🇨🇳 LI Yandong\n🇩🇪 Leo KOEPP\n🇵🇪 Luis
-  Henry CAMPOS\n🇵🇱 Maher BEN HLIMA\n🇮🇹 Massimo STANO\n🇭🇺 Mate
-  HELEBRANDT\n🇧🇷 Matheus CORREA\n🇧🇷 Max Batista GONCALVES dos
-  SANTOS\n🇪🇹 Misgana WAKUMA\n🇲🇽 Noel CHAMA\n🇮🇳 Paramjeet Singh
-  BISHT\n🇪🇸 Paul McGRATH\n🇸🇪 Perseus KARLSTROM\n🇦🇺 Rhydian
-  COWLEY\n🇲🇽 Ricardo ORTIZ\n🇮🇹 Riccardo ORSONI\n🇹🇷 Salih
-  KORKMAZ\n🇰🇪 Samuel Kireri GATHIMBA\n🇫🇮 Veli-Matti PARTANEN\n🇮🇳
-  Vikash SINGH\n🇨🇳 WANG Zhaozhao\n🇨🇳 ZHANG Jun
-SUMMARY:🏃 男子20km競歩決勝
-LOCATION:トロカベロ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T075000Z-athletics-20KM
-DTSTAMP:20240801T075000Z
-DTSTART:20240801T075000Z
-DTEND:20240801T093500Z
-DESCRIPTION:陸上競技 - 女子20km競歩決勝\n🇲🇽 Alegna GONZALEZ\n🇲🇽 Alejandra
-  ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹 Antonella
-  PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸 Cristina
-  MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica
-  SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨
-  Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima
-  MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇨🇳 LIU
-  Hong\n🇪🇸 Laura GARCIA-CARO\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila
-  OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria
-  KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz
-  ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳
-  PRIYANKA\n🇪🇨 Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de
-  ORBETA\n🇦🇺 Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹
-  Valentina TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷
-  Viviane LYRA\n🇨🇳 YANG Jiayu
-SUMMARY:🏃 女子20km競歩決勝
-LOCATION:トロカベロ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T192000Z-athletics-10000M
-DTSTAMP:20240802T192000Z
-DTSTART:20240802T192000Z
-DTEND:20240802T195000Z
-DESCRIPTION:陸上競技 - 男子10000m決勝\n🇪🇸 Abdessamad OUKHELFEN\n🇿🇦 Adriaan
-  WILDSCHUTT\n🇰🇪 Benard KIBET\n🇪🇹 Berihu AREGAWI\n🇧🇭 Birhanu
-  BALEW\n🇧🇮 Celestin NDIKUMANA\n🇰🇪 Daniel MATEIKO\n🇺🇸 Grant
-  FISHER\n🇧🇪 Isaac KIMELI\n🇺🇬 Jacob KIPLIMO\n🏳️ Jamal Abdelmaji EISA
-  MOHAMMED\n🇫🇷 Jimmy GRESSIER\n🇺🇬 Joshua CHEPTEGEI\n🇯🇵 KASAI
-  Jun\n🇺🇬 Martin KIPROTICH\n🇪🇷 Merhawi MEBRAHTU\n🇨🇦 Mohammed
-  AHMED\n🇰🇪 Nicholas KIPKORIR\n🇺🇸 Nico YOUNG\n🇯🇵 OTA Tomoki\n🇧🇮
-  Rodrigue KWIZERA\n🇪🇹 Selemon BAREGA\n🇪🇸 Thierry NDIKUMWENAYO\n🇺🇸
-  William KINCAID\n🇫🇷 Yann SCHRUB\n🇪🇹 Yomif KEJELCHA\n🇷🇼 Yves
-  NIMUBONA
-SUMMARY:🏃 男子10000m決勝
-LOCATION:スタッド・ド・フランス
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T173500Z-athletics-
 DTSTAMP:20240803T173500Z
 DTSTART:20240803T173500Z
 DTEND:20240803T184500Z
-DESCRIPTION:陸上競技 - 男子砲丸投決勝\n🇳🇬 Chukwuebuka Cornnell ENEKWECHI\n🇳🇿 Jacko
-  GILL\n🇺🇸 Joe KOVACS\n🇮🇹 Leonardo FABBRI\n🇳🇴 Marcus THOMSEN\n🇺🇸
-  Payton OTTERDAHL\n🇯🇲 Rajindra CAMPBELL\n🇺🇸 Ryan CROUSER\n🇳🇿 Tom
-  WALSH\n🇨🇿 Tomas STANEK\n🇲🇽 Uziel MUNOZ\n🇮🇹 Zane WEIR
+DESCRIPTION:陸上競技 - 男子砲丸投決勝
 SUMMARY:🏃 男子砲丸投決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -86,11 +17,7 @@ UID:20240803T182000Z-athletics-
 DTSTAMP:20240803T182000Z
 DTSTART:20240803T182000Z
 DTEND:20240803T193700Z
-DESCRIPTION:陸上競技 - 女子三段跳決勝\n🇯🇲 Ackelia SMITH\n🇪🇸 Ana
-  PELETEIRO-COMPAORE\n🇮🇹 Dariya DERKACH\n🇷🇴 Elena Andreea TALOS\n🇫🇷
-  Ilionis GUILLAUME\n🇺🇸 Jasmine MOORE\n🇺🇸 Keturah ORJI\n🇨🇺 Leyanis
-  PEREZ HERNANDEZ\n🇨🇺 Liadagmis POVEA\n🇺🇦 Maryna BEKH-ROMANCHUK\n🇯🇲
-  Shanieka RICKETTS\n🇩🇲 Thea LAFOND
+DESCRIPTION:陸上競技 - 女子三段跳決勝
 SUMMARY:🏃 女子三段跳決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -99,8 +26,7 @@ UID:20240803T185500Z-athletics-4400M
 DTSTAMP:20240803T185500Z
 DTSTART:20240803T185500Z
 DTEND:20240803T185900Z
-DESCRIPTION:陸上競技 - 混合4×400mリレー決勝\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇳🇱 オランダ\n🇯🇲
-  ジャマイカ\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇵🇱 ポーランド\n🇬🇧 英国
+DESCRIPTION:陸上競技 - 混合4×400mリレー決勝
 SUMMARY:🏃 混合4×400mリレー決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -109,10 +35,7 @@ UID:20240803T192000Z-athletics-100M
 DTSTAMP:20240803T192000Z
 DTSTART:20240803T192000Z
 DTEND:20240803T192100Z
-DESCRIPTION:陸上競技 - 女子100m決勝\n🇬🇧 Daryll NEITA\n🇱🇨 Julien ALFRED\n🇨🇮
-  Marie-Josee TA LOU-SMITH\n🇺🇸 Melissa JEFFERSON\n🇨🇭 Mujinga
-  KAMBUNDJI\n🇺🇸 Sha'carri RICHARDSON\n🇯🇲 Tia CLAYTON\n🇺🇸 Twanisha
-  TERRY
+DESCRIPTION:陸上競技 - 女子100m決勝
 SUMMARY:🏃 女子100m決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -121,13 +44,7 @@ UID:20240803T194500Z-athletics-1500M
 DTSTAMP:20240803T194500Z
 DTSTART:20240803T194500Z
 DTEND:20240803T195000Z
-DESCRIPTION:陸上競技 - 男子十種競技1500m\n🇵🇷 Ayden OWENS-DELERME\n🇦🇺 Daniel
-  GOLUBOVIC\n🇺🇸 Harrison WILLIAMS\n🇺🇸 Heath BALDWIN\n🇪🇪 Janek
-  OIGLANE\n🇪🇪 Johannes ERM\n🇪🇸 Jorge URENA\n🇧🇷 Jose Fernando FERREIRA
-  SANTANA\n🇪🇪 Karel TILGA\n🇧🇸 Ken MULLINGS\n🇩🇪 Leo NEUGEBAUER\n🇬🇩
-  Lindon VICTOR\n🇫🇷 Makenson GLETTY\n🇳🇴 Markus ROOTH\n🇩🇪 Niklas
-  KAUL\n🇳🇱 Rik TAAM\n🇳🇴 Sander SKOTHEIM\n🇳🇱 Sven ROOSEN\n🇩🇪 Till
-  STEINFORTH\n🇺🇸 Zachery ZIEMEK
+DESCRIPTION:陸上競技 - 男子十種競技1500m
 SUMMARY:🏃 男子十種競技1500m
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -136,11 +53,7 @@ UID:20240804T175500Z-athletics-
 DTSTAMP:20240804T175500Z
 DTSTART:20240804T175500Z
 DTEND:20240804T194000Z
-DESCRIPTION:陸上競技 - 女子走高跳決勝\n🇷🇸 Angelina TOPIC\n🇹🇷 Buse SAVASKAN\n🇩🇪
-  Christina HONSEL\n🇦🇺 Eleanor PATTERSON\n🇨🇾 Elena KULICHENKO\n🇺🇦
-  Iryna GERASHCHENKO\n🇫🇷 Nawal MENIKER\n🇦🇺 Nicola OLYSLAGERS\n🇺🇿
-  Safina SADULLAYEVA\n🇬🇷 Tatiana GUSIN\n🇧🇷 Valdileia MARTINS\n🇺🇸
-  Vashti CUNNINGHAM\n🇺🇦 Yaroslava MAHUCHIKH
+DESCRIPTION:陸上競技 - 女子走高跳決勝
 SUMMARY:🏃 女子走高跳決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -149,11 +62,7 @@ UID:20240804T183000Z-athletics-
 DTSTAMP:20240804T183000Z
 DTSTART:20240804T183000Z
 DTEND:20240804T194000Z
-DESCRIPTION:陸上競技 - 男子ハンマー投決勝\n🇭🇺 Bence HALASZ\n🇬🇷 Christos
-  FRANTZESKAKIS\n🇳🇴 Eivind HENRIKSEN\n🇨🇦 Ethan KATZBERG\n🇩🇪 Merlin
-  HUMMEL\n🇺🇦 Mykhaylo KOKHAN\n🇵🇱 Pawel FAJDEK\n🇨🇦 Rowan
-  HAMILTON\n🇺🇸 Rudy WINKLER\n🇳🇴 Thomas MARDAL\n🇵🇱 Wojciech
-  NOWICKI\n🇫🇷 Yann CHAUSSINAND
+DESCRIPTION:陸上競技 - 男子ハンマー投決勝
 SUMMARY:🏃 男子ハンマー投決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -162,9 +71,7 @@ UID:20240804T195000Z-athletics-100M
 DTSTAMP:20240804T195000Z
 DTSTART:20240804T195000Z
 DTEND:20240804T195100Z
-DESCRIPTION:陸上競技 - 男子100m決勝\n🇿🇦 Akani SIMBINE\n🇺🇸 Fred KERLEY\n🇺🇸
-  Kenneth BEDNAREK\n🇯🇲 Kishane THOMPSON\n🇮🇹 Lamont Marcell JACOBS\n🇧🇼
-  Letsile TEBOGO\n🇺🇸 Noah LYLES\n🇯🇲 Oblique SEVILLE
+DESCRIPTION:陸上競技 - 男子100m決勝
 SUMMARY:🏃 男子100m決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -173,11 +80,7 @@ UID:20240805T170000Z-athletics-
 DTSTAMP:20240805T170000Z
 DTSTART:20240805T170000Z
 DTEND:20240805T192700Z
-DESCRIPTION:陸上競技 - 男子棒高跳決勝\n🇸🇪 Armand DUPLANTIS\n🇩🇪 Bo Kanda LITA
-  BAEHRE\n🇬🇷 Emmanouil KARALIS\n🇵🇭 Ernest John OBIENA\n🇹🇷 Ersu
-  SASMA\n🇨🇳 HUANG Bokai\n🇦🇺 Kurtis MARSCHALL\n🇳🇱 Menno VLOON\n🇩🇪
-  Oleg ZERNIKEL\n🇺🇸 Sam KENDRICKS\n🇳🇴 Sondre GUTTORMSEN\n🇱🇻 Valters
-  KREISS
+DESCRIPTION:陸上競技 - 男子棒高跳決勝
 SUMMARY:🏃 男子棒高跳決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -186,11 +89,7 @@ UID:20240805T183000Z-athletics-
 DTSTAMP:20240805T183000Z
 DTSTART:20240805T183000Z
 DTEND:20240805T194000Z
-DESCRIPTION:陸上競技 - 女子円盤投決勝\n🇲🇩 Alexandra EMILIANOV\n🇩🇪 Claudine
-  VITA\n🇮🇹 Daisy OSAKUE\n🇨🇳 FENG Bin\n🇵🇹 Irina RODRIGUES\n🇳🇱
-  Jorinde van KLINKEN\n🇩🇪 Kristin PUDENZ\n🇩🇪 Marike STEINACKER\n🇫🇷
-  Melina ROBERT-MICHON\n🇭🇷 Sandra ELKASEVIC\n🇺🇸 Valarie ALLMAN\n🇸🇪
-  Vanessa KAMGA
+DESCRIPTION:陸上競技 - 女子円盤投決勝
 SUMMARY:🏃 女子円盤投決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -199,12 +98,7 @@ UID:20240805T191500Z-athletics-5000M
 DTSTAMP:20240805T191500Z
 DTSTART:20240805T191500Z
 DTEND:20240805T193200Z
-DESCRIPTION:陸上競技 - 女子5000m決勝\n🇰🇪 Beatrice CHEBET\n🇪🇹 Ejgayehu
-  TAYE\n🇺🇸 Elise CRANNY\n🇰🇪 Faith KIPYEGON\n🇧🇮 Francine
-  NIYOMUKUNZI\n🇪🇹 Gudaf TSEGAY\n🇻🇪 Joselyn Daniely BREA\n🇺🇸 Karissa
-  SCHWEIZER\n🇳🇴 Karoline Bjerkeli GROVDAL\n🇰🇪 Margaret Chelimo
-  KIPKEMBOI\n🇪🇹 Medina EISA\n🇮🇹 Nadia BATTOCLETTI\n🇫🇮 Nathalie
-  BLOMQVIST\n🇦🇺 Rose DAVIES\n🇳🇱 Sifan HASSAN\n🇺🇸 Whittni MORGAN
+DESCRIPTION:陸上競技 - 女子5000m決勝
 SUMMARY:🏃 女子5000m決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -213,9 +107,7 @@ UID:20240805T194700Z-athletics-800M
 DTSTAMP:20240805T194700Z
 DTSTART:20240805T194700Z
 DTEND:20240805T194900Z
-DESCRIPTION:陸上競技 - 女子800m決勝\n🇺🇸 Juliette WHITTAKER\n🇬🇧 Keely
-  HODGKINSON\n🇰🇪 Mary MORAA\n🇿🇦 Prudence SEKGODISO\n🇫🇷 Renelle
-  LAMOTE\n🇻🇨 Shafiqua MALONEY\n🇪🇹 Tsige DUGUMA\n🇪🇹 Worknesh MESELE
+DESCRIPTION:陸上競技 - 女子800m決勝
 SUMMARY:🏃 女子800m決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -224,11 +116,7 @@ UID:20240806T175700Z-athletics-
 DTSTAMP:20240806T175700Z
 DTSTART:20240806T175700Z
 DTEND:20240806T190700Z
-DESCRIPTION:陸上競技 - 女子ハンマー投決勝\n🇵🇱 Anita WLODARCZYK\n🇺🇸 Annette Nneka
-  ECHIKUNWOKE\n🇷🇴 Bianca Florentina GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸
-  Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰 Katrine Koch JACOBSEN\n🇫🇮 Krista
-  TERVO\n🇻🇪 Rosa Andreina RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja
-  KOSONEN\n🇨🇳 ZHAO Jie
+DESCRIPTION:陸上競技 - 女子ハンマー投決勝
 SUMMARY:🏃 女子ハンマー投決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -237,10 +125,7 @@ UID:20240806T181500Z-athletics-
 DTSTAMP:20240806T181500Z
 DTSTART:20240806T181500Z
 DTEND:20240806T193500Z
-DESCRIPTION:陸上競技 - 男子走幅跳決勝\n🇨🇴 Arnovis DALMERO\n🇯🇲 Carey McLEOD\n🇭🇷
-  Filip PRAVDICA\n🇬🇧 Jacob FINCHAM-DUKES\n🇮🇹 Mattia FURLANI\n🇬🇷
-  Miltiadis TENTOGLOU\n🇨🇿 Radek JUSKA\n🇩🇪 Simon BATZ\n🇨🇭 Simon
-  EHAMMER\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳 ZHANG Mingkun
+DESCRIPTION:陸上競技 - 男子走幅跳決勝
 SUMMARY:🏃 男子走幅跳決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -249,10 +134,7 @@ UID:20240806T185000Z-athletics-1500M
 DTSTAMP:20240806T185000Z
 DTSTART:20240806T185000Z
 DTEND:20240806T185400Z
-DESCRIPTION:陸上競技 - 男子1500m決勝\n🇰🇪 Brian KOMEN\n🇺🇸 Cole HOCKER\n🇺🇸
-  Hobbs KESSLER\n🇳🇴 Jakob INGEBRIGTSEN\n🇬🇧 Josh KERR\n🇳🇴 Narve Gilje
-  NORDAS\n🇬🇧 Neil GOURLEY\n🇳🇱 Niels LAROS\n🇮🇹 Pietro ARESE\n🇳🇱
-  Stefan NILLESSEN\n🇰🇪 Timothy CHERUIYOT\n🇺🇸 Yared NUGUSE
+DESCRIPTION:陸上競技 - 男子1500m決勝
 SUMMARY:🏃 男子1500m決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -261,12 +143,7 @@ UID:20240806T191400Z-athletics-3000
 DTSTAMP:20240806T191400Z
 DTSTART:20240806T191400Z
 DTEND:20240806T192400Z
-DESCRIPTION:陸上競技 - 女子3000ｍ障害決勝\n🇫🇷 Alice FINOT\n🇵🇱 Alicja
-  KONIECZEK\n🇰🇪 Beatrice CHEPKOECH\n🇺🇸 Courtney WAYMENT\n🇬🇧 Elizabeth
-  BIRD\n🇰🇪 Faith CHEROTICH\n🇩🇪 Gesa Felicitas KRAUSE\n🇪🇸 Irene
-  SANCHEZ-ESCRIBANO\n🇩🇪 Lea MEYER\n🇪🇹 Lomi MULETA\n🇰🇿 Norah
-  JERUTO\n🇺🇬 Peruth CHEMUTAI\n🇪🇹 Sembo ALMAYEW\n🇺🇸 Valerie
-  CONSTIEN\n🇧🇭 Winfred YAVI
+DESCRIPTION:陸上競技 - 女子3000ｍ障害決勝
 SUMMARY:🏃 女子3000ｍ障害決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -275,9 +152,7 @@ UID:20240806T194000Z-athletics-200M
 DTSTAMP:20240806T194000Z
 DTSTART:20240806T194000Z
 DTEND:20240806T194100Z
-DESCRIPTION:陸上競技 - 女子200m決勝\n🇺🇸 Brittany BROWN\n🇬🇧 Daryll NEITA\n🇬🇧
-  Dina ASHER-SMITH\n🇳🇬 Favour OFILI\n🇺🇸 Gabrielle THOMAS\n🇨🇮 Jessika
-  GBAI\n🇱🇨 Julien ALFRED\n🇺🇸 McKenzie LONG
+DESCRIPTION:陸上競技 - 女子200m決勝
 SUMMARY:🏃 女子200m決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -304,11 +179,7 @@ UID:20240807T182500Z-athletics-
 DTSTAMP:20240807T182500Z
 DTSTART:20240807T182500Z
 DTEND:20240807T193500Z
-DESCRIPTION:陸上競技 - 男子円盤投決勝\n🇼🇸 Alex ROSE\n🇷🇴 Alin Alexandru
-  FIRFIRICA\n🇱🇹 Andrius GUDZIUS\n🇩🇪 Clemens PRUEFER\n🇸🇪 Daniel
-  STAHL\n🇸🇮 Kristjan CEH\n🇦🇹 Lukas WEISSHAIDINGER\n🇦🇺 Matthew
-  DENNY\n🇱🇹 Mykolas ALEKNA\n🇯🇲 Ralford MULLINGS\n🇯🇲 Roje STONA\n🇯🇲
-  Traves SMIKLE
+DESCRIPTION:陸上競技 - 男子円盤投決勝
 SUMMARY:🏃 男子円盤投決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -326,12 +197,7 @@ UID:20240807T194300Z-athletics-3000M
 DTSTAMP:20240807T194300Z
 DTSTART:20240807T194300Z
 DTEND:20240807T195200Z
-DESCRIPTION:陸上競技 - 男子3000m障害決勝\n🇰🇪 Abraham KIBIWOT\n🇹🇳 Ahmed
-  JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund SABLE\n🇪🇸 Daniel
-  ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon DESGAGNES\n🇺🇸 Kenneth
-  ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳
-  Mohamed Amin JHINAOUI\n🇲🇦 Mohamed TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪
-  Simon Kiprop KOECH\n🇲🇦 Soufiane EL BAKKALI
+DESCRIPTION:陸上競技 - 男子3000m障害決勝
 SUMMARY:🏃 男子3000m障害決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT

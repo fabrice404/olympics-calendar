@@ -4,51 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//medals/AZE//EN
 X-WR-CALNAME:🇦🇿 Azerbaijan 🏅 | Paris 2024
 NAME:🇦🇿 Azerbaijan 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T151800Z-judo-MEN-73-KG-FINAL-AZE-FRA
-DTSTAMP:20240729T151800Z
-DTSTART:20240729T151800Z
-DTEND:20240729T152400Z
-DESCRIPTION:Judo - Men -73 kg Final
-SUMMARY:🥋 Hidayat HEYDAROV 🇦🇿 - 🇫🇷 Joan-Benjamin GABA
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T084500Z-triathlon-MENS-INDIVIDUAL
-DTSTAMP:20240731T084500Z
-DTSTART:20240731T084500Z
-DTEND:20240731T104500Z
-DESCRIPTION:Triathlon - Men's Individual\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto
-  GONZALEZ GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois
-  KNABL\n🇪🇸 Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR
-  MOYSEN\n🇭🇺 Bence BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto
-  GRAJALES\n🇭🇺 Csongor LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿
-  Dylan McCULLOUGH\n🇹🇬 Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix
-  DUCHAMPT\n🇨🇱 Gaspar RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden
-  WILDE\n🇿🇦 Henri SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad
-  ABDELMOULA\n🇲🇺 Jean Gael Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas
-  SCHOMBURG\n🇳🇴 Kristian BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo
-  BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷 Manoel MESSIAS\n🇧🇪 Marten VAN
-  RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew WRIGHT\n🇨🇭 Max STUDER\n🇧🇷
-  Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸 Morgan PEARSON\n🇯🇵 NENER
-  Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA Makoto\n🇫🇷 Pierre le
-  CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard MURRAY\n🇪🇸 Roberto SANCHEZ
-  MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧 Samuel DICKINSON\n🇺🇸 Seth
-  RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦
-  Tyler MISLAWCHUK\n🇧🇲 Tyler SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle
-  Bergsvik THORN
-SUMMARY:🏊 Men's Individual
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T150000Z-judo-MEN-100-KG-FINAL-AZE-GEO
-DTSTAMP:20240801T150000Z
-DTSTART:20240801T150000Z
-DTEND:20240801T150600Z
-DESCRIPTION:Judo - Men -100 kg Final
-SUMMARY:🥋 Zelym KOTSOIEV 🇦🇿 - 🇬🇪 Ilia SULAMANIDZE
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240802T115000Z-trampoline-gymnastics-WOMENS-FINAL
 DTSTAMP:20240802T115000Z
 DTSTART:20240802T115000Z
@@ -59,46 +14,5 @@ DESCRIPTION:Trampoline Gymnastics - Women's Final\n🇦🇸 Anzhela
   Sophiane METHOT\n🇦🇸 Viyaleta BARDZILOUSKAYA\n🇨🇳 ZHU Xueying
 SUMMARY:🤸 Women's Final
 LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T110800Z-boxing-MENS-92KG-SEMIFINAL-ESP-AZE
-DTSTAMP:20240804T110800Z
-DTSTART:20240804T110800Z
-DTEND:20240804T111900Z
-DESCRIPTION:Boxing - Men's 92kg - Semifinal
-SUMMARY:🥊 Enmanuel REYES PLA 🇪🇸 - 🇦🇿 Loren Berto ALFONSO DOMINGUEZ
-LOCATION:North Paris Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T171800Z-wrestling-MENS-GRECO-ROMAN-130KG-BRONZE-MEDAL-MATCH
-DTSTAMP:20240806T171800Z
-DTSTART:20240806T171800Z
-DTEND:20240806T172500Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 130kg Bronze Medal Match\n🇦🇿
-  Sabah Saleh SHARIATI
-SUMMARY:🤼 Men's Greco-Roman 130kg Bronze Medal Match
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T175700Z-athletics-WOMENS-HAMMER-THROW-FINAL
-DTSTAMP:20240806T175700Z
-DTSTART:20240806T175700Z
-DTEND:20240806T190700Z
-DESCRIPTION:Athletics - Women's Hammer Throw Final\n🇵🇱 Anita
-  WLODARCZYK\n🇺🇸 Annette Nneka ECHIKUNWOKE\n🇷🇴 Bianca Florentina
-  GHELBER\n🇨🇦 Camryn ROGERS\n🇺🇸 Deanna PRICE\n🇦🇿 Hanna SKYDAN\n🇩🇰
-  Katrine Koch JACOBSEN\n🇫🇮 Krista TERVO\n🇻🇪 Rosa Andreina
-  RODRIGUEZ\n🇮🇹 Sara FANTINI\n🇫🇮 Silja KOSONEN\n🇨🇳 ZHAO Jie
-SUMMARY:🏃 Women's Hammer Throw Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T203400Z-boxing-MENS-92KG-FINAL-AZE-UZB
-DTSTAMP:20240809T203400Z
-DTSTART:20240809T203400Z
-DTEND:20240809T204500Z
-DESCRIPTION:Boxing - Men's 92kg - Final
-SUMMARY:🥊 Loren Berto ALFONSO DOMINGUEZ 🇦🇿 - 🇺🇿 Lazizbek MULLOJONOV
-LOCATION:Roland-Garros Stadium
 END:VEVENT
 END:VCALENDAR

@@ -13,35 +13,6 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
-UID:20240727T080000Z-fencing-64-JPN-RWA
-DTSTAMP:20240727T080000Z
-DTSTART:20240727T080000Z
-DTEND:20240727T082500Z
-DESCRIPTION:击剑 - 女子个人重剑64强
-SUMMARY:🤺 YOSHIMURA Miho 🇯🇵 - 🇷🇼 Tufaha UWIHOREYE
-LOCATION:巴黎大皇宫
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T123000Z-cycling-road-
-DTSTAMP:20240727T123000Z
-DTSTART:20240727T123000Z
-DTEND:20240727T135900Z
-DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
-  HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
-  NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸
-  Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
-  Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱
-  Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace
-  BROWN\n🇦🇸 Hanna TSERAKH\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿
-  Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸
-  Mireia BENITO PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦
-  Olivia BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇦🇸 Tamara
-  DRONOVA\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦
-  Yuliia BIRIUKOVA
-SUMMARY:🚴 女子个人计时赛
-LOCATION:亚历山大三世桥
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
@@ -61,45 +32,6 @@ DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭
   BELOMOINA
 SUMMARY:🚴 女子越野赛
 LOCATION:埃朗库尔山
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T090000Z-swimming-100
-DTSTAMP:20240802T090000Z
-DTSTART:20240802T090000Z
-DTEND:20240802T091500Z
-DESCRIPTION:游泳 - 男子100米蝶泳分组预赛\n🇰🇿 Adilbek MUSSIN\n🇦🇺 Ben
-  ARMBRUSTER\n🇺🇸 Caeleb DRESSEL\n🇳🇿 Cameron GRAY\n🇿🇦 Chad le
-  CLOS\n🇫🇷 Clement SECCHI\n🇨🇿 Daniel GRACIK\n🇵🇹 Diogo MATOS
-  RIBEIRO\n🇮🇱 Gal COHEN GROUMI\n🇮🇶 Hasan Ali Khaleel AL-ZINKEE\n🇭🇺
-  Hubert KOS\n🇨🇦 Ilya KHARUN\n🇵🇱 Jakub MAJERSKI\n🇬🇧 James GUY\n🇵🇭
-  Jarod HATCH\n🇺🇬 Jesse Ssuubi SSENGONZI\n🇮🇩 Joe KURNIAWAN\n🇯🇲 Josh
-  KIRLEW\n🇨🇦 Josh LIENDO\n🇧🇬 Josif MILADINOV\n🇩🇪 Kaii WINKLER\n🇧🇷
-  Kayky MOTA\n🇭🇺 Kristof MILAK\n🇯🇵 MATSUMOTO Katsuhiro\n🇯🇵 MIZUNUMA
-  Naoki\n🇪🇸 Mario MOLLA YANES\n🇿🇦 Matthew SATES\n🇦🇺 Matthew
-  TEMPLE\n🇫🇷 Maxime GROUSSET\n🇲🇪 Milos MILENKOVIC\n🇭🇷 Nikola
-  MILJENIC\n🇨🇭 Noe PONTI\n🇳🇱 Nyls KORSTANJE\n🇷🇼 Oscar Cyusa PEYRE
-  MITILLA\n🇨🇳 SUN Jiajun\n🇦🇹 Simon BUCHER\n🇺🇸 Thomas HEILMAN\n🇮🇱
-  Tomer FRANKEL\n🇨🇳 WANG Changhao\n🇾🇪 Yusuf Marwan Abdullah NASSER
-SUMMARY:🏊 男子100米蝶泳分组预赛
-LOCATION:拉德芳斯体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T192000Z-athletics-10000
-DTSTAMP:20240802T192000Z
-DTSTART:20240802T192000Z
-DTEND:20240802T195000Z
-DESCRIPTION:田径 - 男子10000米决赛\n🇪🇸 Abdessamad OUKHELFEN\n🇿🇦 Adriaan
-  WILDSCHUTT\n🇰🇪 Benard KIBET\n🇪🇹 Berihu AREGAWI\n🇧🇭 Birhanu
-  BALEW\n🇧🇮 Celestin NDIKUMANA\n🇰🇪 Daniel MATEIKO\n🇺🇸 Grant
-  FISHER\n🇧🇪 Isaac KIMELI\n🇺🇬 Jacob KIPLIMO\n🏳️ Jamal Abdelmaji EISA
-  MOHAMMED\n🇫🇷 Jimmy GRESSIER\n🇺🇬 Joshua CHEPTEGEI\n🇯🇵 KASAI
-  Jun\n🇺🇬 Martin KIPROTICH\n🇪🇷 Merhawi MEBRAHTU\n🇨🇦 Mohammed
-  AHMED\n🇰🇪 Nicholas KIPKORIR\n🇺🇸 Nico YOUNG\n🇯🇵 OTA Tomoki\n🇧🇮
-  Rodrigue KWIZERA\n🇪🇹 Selemon BAREGA\n🇪🇸 Thierry NDIKUMWENAYO\n🇺🇸
-  William KINCAID\n🇫🇷 Yann SCHRUB\n🇪🇹 Yomif KEJELCHA\n🇷🇼 Yves
-  NIMUBONA
-SUMMARY:🏃 男子10000米决赛
-LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-swimming-50
@@ -162,14 +94,14 @@ DESCRIPTION:公路自行车 - 男子公路赛\n🇯🇵 ARASHIRO Yukiya\n🇲�
   POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
   SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
   WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
-  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇻🇪
-  Orluis AULAR\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan
-  GIBBONS\n🇮🇪 Ryan MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴
-  Soeren WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧
-  Stephen WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪
-  Tiesj BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin
-  MADOUAS\n🇧🇷 Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine
-  HAMZA\n🇰🇿 Yevgeniy FEDOROV
+  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
+  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
+  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
+  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
+  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
+  Yevgeniy FEDOROV
 SUMMARY:🚴 男子公路赛
 LOCATION:特罗卡德罗
 END:VEVENT

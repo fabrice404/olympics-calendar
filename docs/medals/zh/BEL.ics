@@ -4,46 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//medals/zh/BEL//EN
 X-WR-CALNAME:🇧🇪 Belgium 🏅 | Paris 2024
 NAME:🇧🇪 Belgium 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T123000Z-cycling-road-
-DTSTAMP:20240727T123000Z
-DTSTART:20240727T123000Z
-DTEND:20240727T135900Z
-DESCRIPTION:公路自行车 - 女子个人计时赛\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
-  HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
-  NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸
-  Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
-  Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱
-  Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace
-  BROWN\n🇦🇸 Hanna TSERAKH\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿
-  Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸
-  Mireia BENITO PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦
-  Olivia BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇦🇸 Tamara
-  DRONOVA\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦
-  Yuliia BIRIUKOVA
-SUMMARY:🚴 女子个人计时赛
-LOCATION:亚历山大三世桥
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T143200Z-cycling-road-
-DTSTAMP:20240727T143200Z
-DTSTART:20240727T143200Z
-DTEND:20240727T155700Z
-DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
-  BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
-  Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
-  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇦🇸 Gleb SYRITSA\n🇲🇳 Jambaljamts
-  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
-  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
-  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
-  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
-  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
-  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
-  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
-  Yevgeniy FEDOROV
-SUMMARY:🚴 男子个人计时赛
-LOCATION:亚历山大三世桥
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
@@ -65,17 +25,6 @@ SUMMARY:🚴 女子越野赛
 LOCATION:埃朗库尔山
 END:VEVENT
 BEGIN:VEVENT
-UID:20240729T090000Z-equestrian--
-DTSTAMP:20240729T090000Z
-DTSTART:20240729T090000Z
-DTEND:20240729T114000Z
-DESCRIPTION:马术 - 三项赛 - 团体场地障碍决赛\n🇨🇦 加拿大\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇳🇿
-  新西兰\n🇯🇵 日本\n🇧🇪 比利时\n🇫🇷 法国\n🇵🇱 波兰\n🇦🇺 澳大利亚\n🇮🇪 爱尔兰\n🇸🇪
-  瑞典\n🇨🇭 瑞士\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰
-SUMMARY:🏇 三项赛 - 团体场地障碍决赛
-LOCATION:凡尔赛宫
-END:VEVENT
-BEGIN:VEVENT
 UID:20240729T121000Z-cycling-mountain-bike-
 DTSTAMP:20240729T121000Z
 DTSTART:20240729T121000Z
@@ -94,121 +43,6 @@ DESCRIPTION:山地自行车 - 男子越野赛\n🇲🇽 Adair Zabdiel GUTIERREZ 
   ZALTSMAN\n🇧🇷 Ulan BASTOS GALINSKI\n🇫🇷 Victor KORETZKY
 SUMMARY:🚴 男子越野赛
 LOCATION:埃朗库尔山
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T130000Z-equestrian--
-DTSTAMP:20240729T130000Z
-DTSTART:20240729T130000Z
-DTEND:20240729T140000Z
-DESCRIPTION:马术 - 三项赛 - 个人场地障碍决赛\n🇮🇪 Austin O'CONNOR\n🇺🇸 Boyd
-  MARTIN\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
-  HALLIDAY\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida
-  ANDERSEN\n🇨🇳 HUA TIAN Alex\n🇳🇱 Janneke BOONZAAIJER\n🇩🇪 Julia
-  KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇧🇪 Lara de
-  LIEDEKERKE - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇩🇪 Michael
-  JUNG\n🇫🇷 Nicolas TOUZAINT\n🇯🇵 OIWA Yoshiaki\n🇬🇧 Rosalind
-  CANTER\n🇦🇺 Shane ROSE\n🇫🇷 Stephane LANDOIS\n🇯🇵 TOMOTO Kazuma\n🇳🇿
-  Tim PRICE\n🇬🇧 Tom McEWEN
-SUMMARY:🏇 三项赛 - 个人场地障碍决赛
-LOCATION:凡尔赛宫
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T144800Z-judo-81A-BEL-KOR
-DTSTAMP:20240730T144800Z
-DTSTART:20240730T144800Z
-DTEND:20240730T145400Z
-DESCRIPTION:柔道 - 男子81公斤级铜牌争夺赛A
-SUMMARY:🥋 Matthias CASSE 🇧🇪 - 🇰🇷 LEE Joonhwan
-LOCATION:战神广场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T060000Z-triathlon-
-DTSTAMP:20240731T060000Z
-DTSTART:20240731T060000Z
-DTEND:20240731T080500Z
-DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
-  PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧 Beth
-  POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
-  SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
-  HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
-  LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
-  Georgia TAYLOR-BROWN\n🇱🇺 Jeanne LEHAIR\n🇧🇪 Jolien VERMEYLEN\n🇦🇹
-  Julia HAUSER\n🇨🇭 Julie DERRON\n🇬🇧 Kate WAUGH\n🇺🇸 Kirsten
-  KASPER\n🇨🇳 LIN Xinyu\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇦🇹
-  Lisa PERTERER\n🇩🇪 Lisa TERTSCH\n🇲🇽 Lizeth RUEDA SANTOS\n🇳🇴 Lotte
-  MILLER\n🇬🇺 Manami IIJIMA\n🇨🇴 Maria Carolina VELASQUEZ SOTO\n🇵🇹
-  Maria TOME\n🇳🇱 Maya KINGMA\n🇵🇹 Melanie SANTOS\n🇪🇸 Miriam CASILLAS
-  GARCIA\n🇦🇺 Natalie van COEVORDEN\n🇳🇿 Nicole van der KAAY\n🇩🇪 Nina
-  EIM\n🇨🇿 Petra KURIKOVA\n🇳🇱 Rachel KLAMER\n🇵🇱 Roksana SLUPEK\n🇦🇷
-  Romina BIAGIOLI\n🇲🇽 Rosa Maria TAPIA VIDAL\n🇳🇴 Solveig LOVSETH\n🇦🇺
-  Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
-  SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
-  MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
-SUMMARY:🏊 女子个人赛
-LOCATION:亚历山大三世桥
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T084500Z-triathlon-
-DTSTAMP:20240731T084500Z
-DTSTART:20240731T084500Z
-DTEND:20240731T104500Z
-DESCRIPTION:铁人三项 - 男子个人赛\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto GONZALEZ
-  GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois KNABL\n🇪🇸
-  Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR MOYSEN\n🇭🇺 Bence
-  BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto GRAJALES\n🇭🇺 Csongor
-  LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿 Dylan McCULLOUGH\n🇹🇬
-  Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix DUCHAMPT\n🇨🇱 Gaspar
-  RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden WILDE\n🇿🇦 Henri
-  SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad ABDELMOULA\n🇲🇺 Jean Gael
-  Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas SCHOMBURG\n🇳🇴 Kristian
-  BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷
-  Manoel MESSIAS\n🇧🇪 Marten VAN RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew
-  WRIGHT\n🇨🇭 Max STUDER\n🇧🇷 Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸
-  Morgan PEARSON\n🇯🇵 NENER Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA
-  Makoto\n🇫🇷 Pierre le CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard
-  MURRAY\n🇪🇸 Roberto SANCHEZ MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧
-  Samuel DICKINSON\n🇺🇸 Seth RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim
-  HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦 Tyler MISLAWCHUK\n🇧🇲 Tyler
-  SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle Bergsvik THORN
-SUMMARY:🏊 男子个人赛
-LOCATION:亚历山大三世桥
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T145400Z-judo-70B-BEL-NED
-DTSTAMP:20240731T145400Z
-DTSTART:20240731T145400Z
-DTEND:20240731T150000Z
-DESCRIPTION:柔道 - 女子70公斤级铜牌争夺赛B
-SUMMARY:🥋 Gabriella WILLEMS 🇧🇪 - 🇳🇱 Sanne van DIJKE
-LOCATION:战神广场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T120000Z-equestrian-
-DTSTAMP:20240802T120000Z
-DTSTART:20240802T120000Z
-DTEND:20240802T134100Z
-DESCRIPTION:马术 - 团体场地障碍决赛\n🇮🇱 以色列\n🇲🇽 墨西哥\n🇩🇪 德国\n🇧🇪 比利时\n🇫🇷
-  法国\n🇮🇪 爱尔兰\n🇸🇪 瑞典\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰
-SUMMARY:🏇 团体场地障碍决赛
-LOCATION:凡尔赛宫
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T192000Z-athletics-10000
-DTSTAMP:20240802T192000Z
-DTSTART:20240802T192000Z
-DTEND:20240802T195000Z
-DESCRIPTION:田径 - 男子10000米决赛\n🇪🇸 Abdessamad OUKHELFEN\n🇿🇦 Adriaan
-  WILDSCHUTT\n🇰🇪 Benard KIBET\n🇪🇹 Berihu AREGAWI\n🇧🇭 Birhanu
-  BALEW\n🇧🇮 Celestin NDIKUMANA\n🇰🇪 Daniel MATEIKO\n🇺🇸 Grant
-  FISHER\n🇧🇪 Isaac KIMELI\n🇺🇬 Jacob KIPLIMO\n🏳️ Jamal Abdelmaji EISA
-  MOHAMMED\n🇫🇷 Jimmy GRESSIER\n🇺🇬 Joshua CHEPTEGEI\n🇯🇵 KASAI
-  Jun\n🇺🇬 Martin KIPROTICH\n🇪🇷 Merhawi MEBRAHTU\n🇨🇦 Mohammed
-  AHMED\n🇰🇪 Nicholas KIPKORIR\n🇺🇸 Nico YOUNG\n🇯🇵 OTA Tomoki\n🇧🇮
-  Rodrigue KWIZERA\n🇪🇹 Selemon BAREGA\n🇪🇸 Thierry NDIKUMWENAYO\n🇺🇸
-  William KINCAID\n🇫🇷 Yann SCHRUB\n🇪🇹 Yomif KEJELCHA\n🇷🇼 Yves
-  NIMUBONA
-SUMMARY:🏃 男子10000米决赛
-LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T080000Z-equestrian-
@@ -246,27 +80,16 @@ DESCRIPTION:公路自行车 - 男子公路赛\n🇯🇵 ARASHIRO Yukiya\n🇲�
   POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
   SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
   WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
-  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇻🇪
-  Orluis AULAR\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan
-  GIBBONS\n🇮🇪 Ryan MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴
-  Soeren WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧
-  Stephen WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪
-  Tiesj BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin
-  MADOUAS\n🇧🇷 Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine
-  HAMZA\n🇰🇿 Yevgeniy FEDOROV
+  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
+  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
+  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
+  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
+  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
+  Yevgeniy FEDOROV
 SUMMARY:🚴 男子公路赛
 LOCATION:特罗卡德罗
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T093000Z-rowing-A
-DTSTAMP:20240803T093000Z
-DTSTART:20240803T093000Z
-DTEND:20240803T093700Z
-DESCRIPTION:赛艇 - 男子单人双桨决赛A\n🇩🇪 Oliver ZEIDLER\n🇳🇱 Simon van DORP\n🇬🇷
-  Stefanos NTOUSKOS\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇦🇸 Yauheni
-  ZALATY
-SUMMARY:🚣 男子单人双桨决赛A
-LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T185500Z-athletics-4X400
@@ -277,33 +100,6 @@ DESCRIPTION:田径 - 4x400米混合接力决赛\n🇮🇹 意大利\n🇧🇪 �
   牙买加\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰
 SUMMARY:🏃 4x400米混合接力决赛
 LOCATION:法兰西体育场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T070000Z-golf-4
-DTSTAMP:20240804T070000Z
-DTSTART:20240804T070000Z
-DTEND:20240804T160000Z
-DESCRIPTION:高尔夫 - 男子第4回合\n🇰🇷 AN Byeong Hun\n🇲🇽 Abraham ANCER\n🇵🇱
-  Adrian MERONK\n🇧🇪 Adrien DUMONT de CHASSART\n🇦🇷 Alejandro TOSTI\n🇸🇪
-  Alex NOREN\n🇨🇴 Camilo VILLEGAS\n🇲🇽 Carlos ORTIZ\n🇿🇦 Christiaan
-  BEZUIDENHOUT\n🇺🇸 Collin MORIKAWA\n🇨🇦 Corey CONNERS\n🇨🇳 DOU
-  Zecheng\n🇳🇿 Daniel HILLIER\n🇪🇸 David PUIG\n🇦🇷 Emiliano GRILLO\n🇿🇦
-  Erik van ROOYEN\n🇵🇾 Fabrizio ZANOTTI\n🇮🇳 Gaganjeet BHULLAR\n🇲🇾
-  Gavin GREEN\n🇮🇹 Guido MIGLIOZZI\n🇦🇺 Jason DAY\n🇨🇱 Joaquin
-  NIEMANN\n🇨🇭 Joel GIRRBACH\n🇪🇸 Jon RAHM\n🇰🇷 KIM Tom\n🇹🇭 Kiradech
-  APHIBARNRAT\n🇳🇴 Kristoffer VENTURA\n🇸🇪 Ludvig ABERG\n🇯🇵 MATSUYAMA
-  Hideki\n🇮🇹 Matteo MANASSERO\n🇩🇪 Matthias SCHMID\n🇫🇷 Matthieu
-  PAVON\n🇦🇺 Min Woo LEE\n🇨🇱 Mito PEREIRA\n🇯🇵 NAKAJIMA Keita\n🇨🇦
-  Nick TAYLOR\n🇨🇴 Nico ECHAVARRIA\n🇩🇰 Nicolai HOJGAARD\n🇹🇼 PAN
-  C.T.\n🇹🇭 Phachara KHONGWATMAI\n🇵🇷 Rafa CAMPOS\n🇮🇪 Rory
-  McILROY\n🇳🇿 Ryan FOX\n🇫🇮 Sami VALIMAKI\n🇺🇸 Scottie SCHEFFLER\n🇦🇹
-  Sepp STRAKA\n🇮🇪 Shane LOWRY\n🇮🇳 Shubhankar SHARMA\n🇩🇪 Stephan
-  JAEGER\n🇫🇮 Tapio PULKKANEN\n🇧🇪 Thomas DETRY\n🇩🇰 Thorbjorn
-  OLESEN\n🇬🇧 Tommy FLEETWOOD\n🇫🇷 Victor PEREZ\n🇳🇴 Viktor
-  HOVLAND\n🇺🇸 Wyndham CLARK\n🇺🇸 Xander SCHAUFFELE\n🇹🇼 YU Kevin\n🇨🇳
-  YUAN Yechun
-SUMMARY:⛳ 男子第4回合
-LOCATION:国家高尔夫球场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240804T120000Z-cycling-road-
@@ -345,30 +141,6 @@ SUMMARY:🚴 女子公路赛
 LOCATION:特罗卡德罗
 END:VEVENT
 BEGIN:VEVENT
-UID:20240804T130000Z-artistic-gymnastics-
-DTSTAMP:20240804T130000Z
-DTSTART:20240804T130000Z
-DTEND:20240804T133700Z
-DESCRIPTION:竞技体操 - 男子吊环决赛\n🇹🇷 Adem ASIL\n🇺🇸 Asher HONG\n🇬🇷
-  Eleftherios PETROUNIAS\n🇧🇪 Glen CUYLE\n🇬🇧 Harry HEPWORTH\n🇹🇷
-  Ibrahim COLAK\n🇨🇳 LIU Yang\n🇫🇷 Samir AIT SAID\n🇯🇵 TANIGAWA
-  Wataru\n🇦🇲 Vahagn DAVTYAN\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU Jingyuan
-SUMMARY:🤸 男子吊环决赛
-LOCATION:贝尔西体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T134000Z-artistic-gymnastics-
-DTSTAMP:20240804T134000Z
-DTSTART:20240804T134000Z
-DTEND:20240804T142100Z
-DESCRIPTION:竞技体操 - 女子高低杠决赛\n🇮🇹 Alice D'AMATO\n🇩🇪 Helen KEVRIC\n🇩🇿
-  Kaylia NEMOUR\n🇧🇪 Nina DERWAEL\n🇨🇳 QIU Qiyuan\n🇧🇷 Rebeca
-  ANDRADE\n🇬🇧 Rebecca DOWNIE\n🇳🇱 Sanna VEERMAN\n🇺🇸 Simone BILES\n🇺🇸
-  Sunisa LEE\n🇨🇳 ZHANG Yihan
-SUMMARY:🤸 女子高低杠决赛
-LOCATION:贝尔西体育馆
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T080000Z-equestrian-
 DTSTAMP:20240806T080000Z
 DTSTART:20240806T080000Z
@@ -385,18 +157,6 @@ DESCRIPTION:马术 - 个人场地障碍决赛\n🇸🇦 Abdulrahman ALRAJHI\n�
   Stephan de FREITAS BARCHA\n🇨🇭 Steve GUERDAT\n🇳🇴 Victoria GULLIKSEN
 SUMMARY:🏇 个人场地障碍决赛
 LOCATION:凡尔赛宫
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T124300Z-sailing-
-DTSTAMP:20240806T124300Z
-DTSTART:20240806T124300Z
-DTEND:20240806T130300Z
-DESCRIPTION:帆船 - 女子帆船激光雷迪尔级奖牌赛\n🇩🇰 Anne-Marie RINDOM\n🇮🇹 Chiara BENINI
-  FLORIANI\n🇭🇷 Elena VOROBEVA\n🇧🇪 Emma PLASSCHAERT\n🇺🇸 Erika
-  REINEKE\n🇳🇴 Line Flem HOEST\n🇫🇷 Louise CERVERA\n🇳🇱 Marit
-  BOUWMEESTER\n🇨🇭 Maud JAYET\n🇨🇦 Sarah DOUGLAS
-SUMMARY:⛵ 女子帆船激光雷迪尔级奖牌赛
-LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T173000Z-weightlifting-49

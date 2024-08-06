@@ -4,69 +4,11 @@ PRODID:-//fabrice404//olympics-calendar//skateboarding/zh/general//EN
 X-WR-CALNAME:🛹 滑板 | Paris 2024
 NAME:🛹 滑板 | Paris 2024
 BEGIN:VEVENT
-UID:20240728T100000Z-skateboarding-
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T135000Z
-DESCRIPTION:滑板 - 女子街式赛预赛\n🇯🇵 AKAMA Liz\n🇿🇦 Boipelo AWUAH\n🇨🇳 CUI
-  Chenxi\n🇦🇺 Chloe COVELL\n🇪🇸 Daniela TEROL\n🇧🇷 Gabi MAZETTO\n🇦🇺
-  Haylie POWELL\n🇳🇱 Keet OLDENBEUVING\n🇦🇺 Liv LOVELACE\n🇫🇷 Lucie
-  SCHOONHEERE\n🇺🇸 Mariah DURAN\n🇯🇵 NAKAYAMA Funa\n🇪🇸 Natalia
-  MUNOZ\n🇺🇸 Paige HEYN\n🇧🇷 Pamela ROSA\n🇺🇸 Poe PINSON\n🇧🇷 Rayssa
-  LEAL\n🇳🇱 Roos ZWETSLOOT\n🇹🇭 Vareeraya SUKASEM\n🇯🇵 YOSHIZAWA
-  Coco\n🇨🇳 ZENG Wenhui\n🇨🇳 ZHU Yuanling
-SUMMARY:🛹 女子街式赛预赛
-LOCATION:协和广场3号场地
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T150000Z-skateboarding-
-DTSTAMP:20240728T150000Z
-DTSTART:20240728T150000Z
-DTEND:20240728T163000Z
-DESCRIPTION:滑板 - 女子街式赛决赛\n🇯🇵 AKAMA Liz\n🇨🇳 CUI Chenxi\n🇦🇺 Chloe
-  COVELL\n🇯🇵 NAKAYAMA Funa\n🇺🇸 Paige HEYN\n🇺🇸 Poe PINSON\n🇧🇷 Rayssa
-  LEAL\n🇯🇵 YOSHIZAWA Coco
-SUMMARY:🛹 女子街式赛决赛
-LOCATION:协和广场3号场地
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T100000Z-skateboarding-
-DTSTAMP:20240729T100000Z
-DTSTART:20240729T100000Z
-DTEND:20240729T135000Z
-DESCRIPTION:滑板 - 男子街式赛预赛\n🇫🇷 Aurelien GIRAUD\n🇿🇦 Brandon VALJALO\n🇺🇸
-  Chris JOSLIN\n🇨🇦 Cordano RUSSELL\n🇧🇷 Felipe GUSTAVO\n🇧🇷 Giovanni
-  VIANNA\n🇵🇹 Gustavo RIBEIRO\n🇯🇵 HORIGOME Yuto\n🇺🇸 Jagger EATON\n🇨🇴
-  Jhancarlos GONZALEZ\n🇫🇷 Joseph GARBACCIO\n🇧🇷 Kelvin HOEFLER\n🇦🇷
-  Matias DELL OLIO\n🇨🇦 Matt BERGER\n🇦🇷 Mauro IGLESIAS\n🇺🇸 Nyjah
-  HUSTON\n🇯🇵 ONODERA Ginwoo\n🇸🇰 Richard TURY\n🇨🇦 Ryan DECENZO\n🇯🇵
-  SHIRAI Sora\n🇦🇺 Shane O'NEILL\n🇫🇷 Vincent MILOU
-SUMMARY:🛹 男子街式赛预赛
-LOCATION:协和广场3号场地
-END:VEVENT
-BEGIN:VEVENT
-UID:20240729T150000Z-skateboarding-
-DTSTAMP:20240729T150000Z
-DTSTART:20240729T150000Z
-DTEND:20240729T163000Z
-DESCRIPTION:滑板 - 男子街式赛决赛\n🇨🇦 Cordano RUSSELL\n🇯🇵 HORIGOME Yuto\n🇺🇸
-  Jagger EATON\n🇧🇷 Kelvin HOEFLER\n🇦🇷 Matias DELL OLIO\n🇺🇸 Nyjah
-  HUSTON\n🇸🇰 Richard TURY\n🇯🇵 SHIRAI Sora
-SUMMARY:🛹 男子街式赛决赛
-LOCATION:协和广场3号场地
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T103000Z-skateboarding-
 DTSTAMP:20240806T103000Z
 DTSTART:20240806T103000Z
 DTEND:20240806T133100Z
-DESCRIPTION:滑板 - 女子公园赛预赛\n🇦🇺 Arisa TREW\n🇲🇦 Aya ASAQAS\n🇺🇸 Bryce
-  WETTSTEIN\n🇧🇷 Dora VARELLA\n🇫🇷 Emilie ALEXANDRE\n🇨🇦 Fay EBERT\n🇯🇵
-  HIRAKI Cocona\n🇫🇮 Heili SIRVIO\n🇧🇷 Isadora PACHECO\n🇪🇸 Julia
-  BENEDETTI\n🇯🇵 KUSAKI Hinano\n🇩🇪 Lilly STOEPHASIUS\n🇬🇧 Lola
-  TAMBLING\n🇺🇸 Minna STESS\n🇪🇸 Naia LASO\n🇫🇷 Nana TABOULET\n🇧🇷
-  Raicca VENTURA\n🇺🇸 Ruby LILLEY\n🇦🇺 Ruby TREW\n🇬🇧 Sky BROWN\n🇯🇵
-  YOSOZUMI Sakura\n🇨🇳 ZHENG Haohao
+DESCRIPTION:滑板 - 女子公园赛预赛
 SUMMARY:🛹 女子公园赛预赛
 LOCATION:协和广场4号场地
 END:VEVENT
@@ -84,13 +26,7 @@ UID:20240807T103000Z-skateboarding-
 DTSTAMP:20240807T103000Z
 DTSTART:20240807T103000Z
 DTEND:20240807T133100Z
-DESCRIPTION:滑板 - 男子公园赛预赛\n🇪🇸 Alain KORTABITARTE\n🇮🇹 Alessandro
-  MAZZARA\n🇮🇹 Alex SORGENTE\n🇬🇧 Andrew MACDONALD\n🇧🇷 Augusto
-  AKIO\n🇿🇦 Dallas OBERHOLZER\n🇪🇸 Danny LEON\n🇺🇸 Gavin BOTTGER\n🇸🇪
-  Hampus WINBERG\n🇦🇺 Keefer WILSON\n🇦🇺 Keegan PALMER\n🇦🇺 Kieran
-  WOOLLEY\n🇧🇷 Luigi CINI\n🇯🇵 NAGAHARA Yuro\n🇧🇷 Pedro BARROS\n🇵🇷
-  Steven PINEIRO\n🇺🇸 Tate CAREW\n🇵🇹 Thomas AUGUSTO\n🇺🇸 Tom
-  SCHAAR\n🇩🇪 Tyler EDTMAYER\n🇩🇰 Viktor SOLMUNDE\n🇫🇷 Vincent MATHERON
+DESCRIPTION:滑板 - 男子公园赛预赛
 SUMMARY:🛹 男子公园赛预赛
 LOCATION:协和广场4号场地
 END:VEVENT

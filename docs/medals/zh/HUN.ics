@@ -4,56 +4,6 @@ PRODID:-//fabrice404//olympics-calendar//medals/zh/HUN//EN
 X-WR-CALNAME:🇭🇺 Hungary 🏅 | Paris 2024
 NAME:🇭🇺 Hungary 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240727T143200Z-cycling-road-
-DTSTAMP:20240727T143200Z
-DTSTART:20240727T143200Z
-DTEND:20240727T155700Z
-DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
-  BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
-  Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
-  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇦🇸 Gleb SYRITSA\n🇲🇳 Jambaljamts
-  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
-  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
-  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
-  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
-  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
-  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
-  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
-  Yevgeniy FEDOROV
-SUMMARY:🚴 男子个人计时赛
-LOCATION:亚历山大三世桥
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T184000Z-fencing--HUN-EST
-DTSTAMP:20240727T184000Z
-DTSTART:20240727T184000Z
-DTEND:20240727T190500Z
-DESCRIPTION:击剑 - 女子个人重剑铜牌赛
-SUMMARY:🤺 Eszter MUHARI 🇭🇺 - 🇪🇪 Nelli DIFFERT
-LOCATION:巴黎大皇宫
-END:VEVENT
-BEGIN:VEVENT
-UID:20240727T194400Z-swimming-4X100
-DTSTAMP:20240727T194400Z
-DTSTART:20240727T194400Z
-DTEND:20240727T195400Z
-DESCRIPTION:游泳 - 男子4x100米自由泳接力决赛\n🇨🇳 中国\n🇨🇦 加拿大\n🇭🇺 匈牙利\n🇩🇪
-  德国\n🇮🇹 意大利\n🇦🇺 澳大利亚\n🇺🇸 美国\n🇬🇧 英国
-SUMMARY:🏊 男子4x100米自由泳接力决赛
-LOCATION:拉德芳斯体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T100000Z-shooting-10
-DTSTAMP:20240728T100000Z
-DTSTART:20240728T100000Z
-DTEND:20240728T104500Z
-DESCRIPTION:射击 - 女子10米气手枪决赛\n🇨🇳 JIANG Ranxin\n🇰🇷 KIM Yeji\n🇨🇳 LI
-  Xue\n🇮🇳 Manu BHAKER\n🇰🇷 OH Ye Jin\n🇹🇷 Sevval Ilayda TARHAN\n🇻🇳
-  Thu Vinh TRINH\n🇭🇺 Veronika MAJOR
-SUMMARY:🔫 女子10米气手枪决赛
-LOCATION:沙托鲁射击中心
-END:VEVENT
-BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
@@ -73,217 +23,6 @@ DESCRIPTION:山地自行车 - 女子越野赛\n🇨🇿 Adela HOLUBOVA\n🇨🇭
   BELOMOINA
 SUMMARY:🚴 女子越野赛
 LOCATION:埃朗库尔山
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T151200Z-judo-52B-HUN-FRA
-DTSTAMP:20240728T151200Z
-DTSTART:20240728T151200Z
-DTEND:20240728T151800Z
-DESCRIPTION:柔道 - 女子52公斤级铜牌争夺赛B
-SUMMARY:🥋 Reka PUPP 🇭🇺 - 🇫🇷 Amandine BUCHARD
-LOCATION:战神广场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240728T192000Z-fencing--EGY-HUN
-DTSTAMP:20240728T192000Z
-DTSTART:20240728T192000Z
-DTEND:20240728T194500Z
-DESCRIPTION:击剑 - 男子个人重剑铜牌赛
-SUMMARY:🤺 Mohamed ELSAYED 🇪🇬 - 🇭🇺 Tibor ANDRASFI
-LOCATION:巴黎大皇宫
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T060000Z-triathlon-
-DTSTAMP:20240731T060000Z
-DTSTART:20240731T060000Z
-DTEND:20240731T080500Z
-DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
-  PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧 Beth
-  POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
-  SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
-  HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
-  LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
-  Georgia TAYLOR-BROWN\n🇱🇺 Jeanne LEHAIR\n🇧🇪 Jolien VERMEYLEN\n🇦🇹
-  Julia HAUSER\n🇨🇭 Julie DERRON\n🇬🇧 Kate WAUGH\n🇺🇸 Kirsten
-  KASPER\n🇨🇳 LIN Xinyu\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇦🇹
-  Lisa PERTERER\n🇩🇪 Lisa TERTSCH\n🇲🇽 Lizeth RUEDA SANTOS\n🇳🇴 Lotte
-  MILLER\n🇬🇺 Manami IIJIMA\n🇨🇴 Maria Carolina VELASQUEZ SOTO\n🇵🇹
-  Maria TOME\n🇳🇱 Maya KINGMA\n🇵🇹 Melanie SANTOS\n🇪🇸 Miriam CASILLAS
-  GARCIA\n🇦🇺 Natalie van COEVORDEN\n🇳🇿 Nicole van der KAAY\n🇩🇪 Nina
-  EIM\n🇨🇿 Petra KURIKOVA\n🇳🇱 Rachel KLAMER\n🇵🇱 Roksana SLUPEK\n🇦🇷
-  Romina BIAGIOLI\n🇲🇽 Rosa Maria TAPIA VIDAL\n🇳🇴 Solveig LOVSETH\n🇦🇺
-  Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
-  SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
-  MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
-SUMMARY:🏊 女子个人赛
-LOCATION:亚历山大三世桥
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T084500Z-triathlon-
-DTSTAMP:20240731T084500Z
-DTSTART:20240731T084500Z
-DTEND:20240731T104500Z
-DESCRIPTION:铁人三项 - 男子个人赛\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto GONZALEZ
-  GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois KNABL\n🇪🇸
-  Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR MOYSEN\n🇭🇺 Bence
-  BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto GRAJALES\n🇭🇺 Csongor
-  LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿 Dylan McCULLOUGH\n🇹🇬
-  Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix DUCHAMPT\n🇨🇱 Gaspar
-  RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden WILDE\n🇿🇦 Henri
-  SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad ABDELMOULA\n🇲🇺 Jean Gael
-  Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas SCHOMBURG\n🇳🇴 Kristian
-  BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷
-  Manoel MESSIAS\n🇧🇪 Marten VAN RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew
-  WRIGHT\n🇨🇭 Max STUDER\n🇧🇷 Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸
-  Morgan PEARSON\n🇯🇵 NENER Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA
-  Makoto\n🇫🇷 Pierre le CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard
-  MURRAY\n🇪🇸 Roberto SANCHEZ MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧
-  Samuel DICKINSON\n🇺🇸 Seth RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim
-  HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦 Tyler MISLAWCHUK\n🇧🇲 Tyler
-  SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle Bergsvik THORN
-SUMMARY:🏊 男子个人赛
-LOCATION:亚历山大三世桥
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T153000Z-artistic-gymnastics-
-DTSTAMP:20240731T153000Z
-DTSTART:20240731T153000Z
-DTEND:20240731T180054Z
-DESCRIPTION:竞技体操 - 男子全能决赛\n🇵🇭 Carlos Edriel YULO\n🇳🇱 Casimir
-  SCHMIDT\n🇧🇷 Diogo SOARES\n🇨🇦 Felix DOLCI\n🇨🇭 Florian
-  LANGENEGGER\n🇳🇱 Frank RIJKEN\n🇺🇸 Frederick RICHARD\n🇯🇵 HASHIMOTO
-  Daiki\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇦🇺 Jesse MOORE\n🇬🇧 Joe
-  FRASER\n🇭🇺 Krisztofer MESZAROS\n🇮🇹 Mario MACCHIATI\n🇨🇭 Matteo
-  GIUBELLINI\n🇰🇿 Milad KARIMI\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA
-  Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇺🇸 Paul JUDA\n🇨🇦 Rene
-  COURNOYER\n🇨🇳 XIAO Ruoteng\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
-SUMMARY:🤸 男子全能决赛
-LOCATION:贝尔西体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T183000Z-fencing--HUN-KOR
-DTSTAMP:20240731T183000Z
-DTSTART:20240731T183000Z
-DTEND:20240731T192000Z
-DESCRIPTION:击剑 - 男子团体佩剑金牌赛
-SUMMARY:🤺 匈牙利 🇭🇺 - 🇰🇷 韩国
-LOCATION:巴黎大皇宫
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T183700Z-swimming-200
-DTSTAMP:20240731T183700Z
-DTSTART:20240731T183700Z
-DTEND:20240731T184500Z
-DESCRIPTION:游泳 - 男子200米蝶泳决赛\n🇮🇹 Alberto RAZZETTI\n🇨🇦 Ilya KHARUN\n🇪🇪
-  Kregor ZIRK\n🇭🇺 Kristof MILAK\n🇵🇱 Krzysztof CHMIELEWSKI\n🇫🇷 Leon
-  MARCHAND\n🇦🇹 Martin ESPERNBERGER\n🇨🇭 Noe PONTI
-SUMMARY:🏊 男子200米蝶泳决赛
-LOCATION:拉德芳斯体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T203900Z-swimming-100
-DTSTAMP:20240731T203900Z
-DTSTART:20240731T203900Z
-DTEND:20240731T204600Z
-DESCRIPTION:游泳 - 男子100米自由泳决赛\n🇺🇸 Chris GUILIANO\n🇷🇴 David
-  POPOVICI\n🇺🇸 Jack ALEXY\n🇩🇪 Josha SALCHOW\n🇦🇺 Kyle CHALMERS\n🇫🇷
-  Maxime GROUSSET\n🇭🇺 Nandor NEMETH\n🇨🇳 PAN Zhanle
-SUMMARY:🏊 男子100米自由泳决赛
-LOCATION:拉德芳斯体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T060000Z-athletics-20
-DTSTAMP:20240801T060000Z
-DTSTART:20240801T060000Z
-DTEND:20240801T073500Z
-DESCRIPTION:田径 - 男子20公里竞走决赛\n🇮🇳 Akshdeep SINGH\n🇪🇸 Alvaro MARTIN\n🇵🇱
-  Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence VENYERCSAN\n🇪🇨
-  Brian Daniel PINTADO\n🇰🇷 CHOE Byeongkwang\n🇧🇷 Caio BONFIM\n🇬🇧
-  Callum WILKINSON\n🇵🇪 Cesar Augusto RODRIGUEZ\n🇩🇪 Christopher
-  LINKE\n🇪🇨 David HURTADO\n🇦🇺 Declan TINGAY\n🇪🇸 Diego GARCIA
-  CARRERA\n🇸🇰 Dominik CERNY\n🇬🇹 Erick Bernabe BARRONDO\n🇨🇦 Evan
-  DUNFEE\n🇮🇹 Francesco FORTUNATO\n🇫🇷 Gabriel BORDIER\n🇯🇵 HAMANISHI
-  Ryo\n🇯🇵 IKEDA Koki\n🇺🇦 Ihor HLAVAN\n🇪🇨 Jordy Rafael JIMENEZ
-  ARROBO\n🇬🇹 Jose Alejandro BARRONDO\n🇲🇽 Jose Luis DOCTOR\n🇯🇵 KOGA
-  Yuta\n🇦🇺 Kyle SWAN\n🇨🇳 LI Yandong\n🇩🇪 Leo KOEPP\n🇵🇪 Luis Henry
-  CAMPOS\n🇵🇱 Maher BEN HLIMA\n🇮🇹 Massimo STANO\n🇭🇺 Mate
-  HELEBRANDT\n🇧🇷 Matheus CORREA\n🇧🇷 Max Batista GONCALVES dos
-  SANTOS\n🇪🇹 Misgana WAKUMA\n🇲🇽 Noel CHAMA\n🇮🇳 Paramjeet Singh
-  BISHT\n🇪🇸 Paul McGRATH\n🇸🇪 Perseus KARLSTROM\n🇦🇺 Rhydian
-  COWLEY\n🇲🇽 Ricardo ORTIZ\n🇮🇹 Riccardo ORSONI\n🇹🇷 Salih
-  KORKMAZ\n🇰🇪 Samuel Kireri GATHIMBA\n🇫🇮 Veli-Matti PARTANEN\n🇮🇳
-  Vikash SINGH\n🇨🇳 WANG Zhaozhao\n🇨🇳 ZHANG Jun
-SUMMARY:🏃 男子20公里竞走决赛
-LOCATION:特罗卡德罗
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T075000Z-athletics-20
-DTSTAMP:20240801T075000Z
-DTSTART:20240801T075000Z
-DTEND:20240801T093500Z
-DESCRIPTION:田径 - 女子20公里竞走决赛\n🇲🇽 Alegna GONZALEZ\n🇲🇽 Alejandra
-  ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹 Antonella
-  PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸 Cristina
-  MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica
-  SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨
-  Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima
-  MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇨🇳 LIU
-  Hong\n🇪🇸 Laura GARCIA-CARO\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila
-  OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria
-  KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz
-  ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳
-  PRIYANKA\n🇪🇨 Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de
-  ORBETA\n🇦🇺 Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹
-  Valentina TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷
-  Viviane LYRA\n🇨🇳 YANG Jiayu
-SUMMARY:🏃 女子20公里竞走决赛
-LOCATION:特罗卡德罗
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T161500Z-artistic-gymnastics-
-DTSTAMP:20240801T161500Z
-DTSTART:20240801T161500Z
-DTEND:20240801T181009Z
-DESCRIPTION:竞技体操 - 女子全能决赛\n🇮🇹 Alice D'AMATO\n🇬🇧 Alice KINSELLA\n🇷🇴
-  Amalia GHIGOARTA\n🇷🇴 Ana BARBOSU\n🇨🇦 Ava STEWART\n🇭🇺 Bettina Lili
-  CZIFRA\n🇨🇦 Elsabeth BLACK\n🇵🇹 Filipa MARTINS\n🇧🇷 Flavia
-  SARAIVA\n🇬🇧 Georgia-Mae FENTON\n🇩🇪 Helen KEVRIC\n🇯🇵 KISHI
-  Rina\n🇩🇿 Kaylia NEMOUR\n🇨🇴 Luisa BLANCO\n🇮🇹 Manila ESPOSITO\n🇯🇵
-  NAKAMURA Haruka\n🇳🇱 Naomi VISSER\n🇨🇳 OU Yushan\n🇨🇳 QIU Qiyuan\n🇧🇷
-  Rebeca ANDRADE\n🇦🇺 Ruby PASS\n🇩🇪 Sarah VOSS\n🇺🇸 Simone BILES\n🇺🇸
-  Sunisa LEE
-SUMMARY:🤸 女子全能决赛
-LOCATION:贝尔西体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T183800Z-swimming-200
-DTSTAMP:20240801T183800Z
-DTSTART:20240801T183800Z
-DTEND:20240801T184600Z
-DESCRIPTION:游泳 - 男子200米仰泳决赛\n🇬🇷 Apostolos CHRISTOU\n🇭🇺 Hubert KOS\n🇪🇸
-  Hugo GONZALEZ de OLIVEIRA\n🇺🇸 Keaton JONES\n🇩🇪 Lukas MAERTENS\n🇫🇷
-  Mewen TOMAC\n🇿🇦 Pieter COETZE\n🇨🇭 Roman MITYUKOV
-SUMMARY:🏊 男子200米仰泳决赛
-LOCATION:拉德芳斯体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T200300Z-swimming-4X200
-DTSTAMP:20240801T200300Z
-DTSTART:20240801T200300Z
-DTEND:20240801T201700Z
-DESCRIPTION:游泳 - 女子4x200米自由泳接力决赛\n🇨🇳 中国\n🇨🇦 加拿大\n🇭🇺 匈牙利\n🇧🇷
-  巴西\n🇳🇿 新西兰\n🇦🇺 澳大利亚\n🇺🇸 美国\n🇬🇧 英国
-SUMMARY:🏊 女子4x200米自由泳接力决赛
-LOCATION:拉德芳斯体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T183000Z-fencing--JPN-HUN
-DTSTAMP:20240802T183000Z
-DTSTART:20240802T183000Z
-DTEND:20240802T192000Z
-DESCRIPTION:击剑 - 男子团体重剑金牌赛
-SUMMARY:🤺 日本 🇯🇵 - 🇭🇺 匈牙利
-LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T073000Z-shooting-25
@@ -322,28 +61,16 @@ DESCRIPTION:公路自行车 - 男子公路赛\n🇯🇵 ARASHIRO Yukiya\n🇲�
   POEL\n🇺🇸 Matteo JORGENSON\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
   SCHACHMANN\n🇦🇺 Michael MATTHEWS\n🇩🇰 Michael MOERKOEV\n🇨🇦 Michael
   WOODS\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇺🇿 Nikita
-  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇻🇪
-  Orluis AULAR\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan
-  GIBBONS\n🇮🇪 Ryan MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴
-  Soeren WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧
-  Stephen WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪
-  Tiesj BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin
-  MADOUAS\n🇧🇷 Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine
-  HAMZA\n🇰🇿 Yevgeniy FEDOROV
+  TSVETKOV\n🇩🇪 Nils POLITT\n🇷🇸 Ognjen ILIC\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇿🇦 Ryan GIBBONS\n🇮🇪 Ryan
+  MULLEN\n🇨🇴 Santi BUITRAGO\n🇦🇺 Simon CLARKE\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇵🇱 Stanislaw ANIOLKOWSKI\n🇨🇭 Stefan KUENG\n🇬🇧 Stephen
+  WILLIAMS\n🇹🇭 Thanakhan CHAIYASOMBAT\n🇬🇧 Thomas PIDCOCK\n🇧🇪 Tiesj
+  BENOOT\n🇳🇴 Tobias FOSS\n🇱🇻 Toms SKUJINS\n🇫🇷 Valentin MADOUAS\n🇧🇷
+  Vinicius RANGEL COSTA\n🇧🇪 Wout van AERT\n🇩🇿 Yacine HAMZA\n🇰🇿
+  Yevgeniy FEDOROV
 SUMMARY:🚴 男子公路赛
 LOCATION:特罗卡德罗
-END:VEVENT
-BEGIN:VEVENT
-UID:20240803T142000Z-artistic-gymnastics-
-DTSTAMP:20240803T142000Z
-DTSTART:20240803T142000Z
-DTEND:20240803T150200Z
-DESCRIPTION:竞技体操 - 女子跳马决赛\n🇰🇵 AN Chang Ok\n🇲🇽 Alexa MORENO\n🇭🇺 Csenge
-  Maria BACSKAY\n🇨🇦 Elsabeth BLACK\n🇺🇸 Jade CAREY\n🇺🇸 Jordan
-  CHILES\n🇫🇷 Ming VAN EIJKEN\n🇧🇷 Rebeca ANDRADE\n🇨🇦 Shallon
-  OLSEN\n🇺🇸 Simone BILES\n🇧🇬 Valentina GEORGIEVA\n🇰🇷 YEO Seojeong
-SUMMARY:🤸 女子跳马决赛
-LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T183000Z-swimming-100
@@ -418,30 +145,5 @@ DESCRIPTION:田径 - 男子链球决赛\n🇭🇺 Bence HALASZ\n🇬🇷 Christo
   NOWICKI\n🇫🇷 Yann CHAUSSINAND
 SUMMARY:🏃 男子链球决赛
 LOCATION:法兰西体育场
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T094500Z-artistic-gymnastics-
-DTSTAMP:20240805T094500Z
-DTSTART:20240805T094500Z
-DTEND:20240805T102400Z
-DESCRIPTION:竞技体操 - 男子双杠决赛\n🇨🇴 Angel BARAJAS\n🇹🇷 Ferhat ARICAN\n🇯🇵
-  HASHIMOTO Daiki\n🇺🇦 Illia KOVTUN\n🇬🇧 Joe FRASER\n🇯🇵 KAYA
-  Kazuma\n🇭🇺 Krisztofer MESZAROS\n🇩🇪 Lukas DAUSER\n🇯🇵 OKA
-  Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇯🇵 TANIGAWA Wataru\n🇨🇳 XIAO
-  Ruoteng\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU Jingyuan
-SUMMARY:🤸 男子双杠决赛
-LOCATION:贝尔西体育馆
-END:VEVENT
-BEGIN:VEVENT
-UID:20240806T134300Z-sailing-
-DTSTAMP:20240806T134300Z
-DTSTART:20240806T134300Z
-DTEND:20240806T140300Z
-DESCRIPTION:帆船 - 男子帆船激光级奖牌赛\n🇨🇱 Clemente SEGUEL LACAMARA\n🇮🇪 Finn
-  LYNCH\n🇳🇴 Hermann TOMASGAARD\n🇭🇺 Jonatan VADNAI\n🇮🇹 Lorenzo Brando
-  CHIAVARINI\n🇦🇺 Matt WEARN\n🇬🇧 Michael BECKETT\n🇨🇾 Pavlos
-  KONTIDES\n🇵🇪 Stefano PESCHIERA\n🇳🇿 Thomas SAUNDERS
-SUMMARY:⛵ 男子帆船激光级奖牌赛
-LOCATION:马赛港
 END:VEVENT
 END:VCALENDAR

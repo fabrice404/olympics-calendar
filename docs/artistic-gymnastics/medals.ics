@@ -4,67 +4,11 @@ PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/medals//EN
 X-WR-CALNAME:🤸 Artistic Gymnastics 🏅 | Paris 2024
 NAME:🤸 Artistic Gymnastics 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240729T153000Z-artistic-gymnastics-MENS-TEAM-FINAL
-DTSTAMP:20240729T153000Z
-DTSTART:20240729T153000Z
-DTEND:20240729T180000Z
-DESCRIPTION:Artistic Gymnastics - Men's Team Final\n🇨🇦 CAN\n🇨🇳
-  CHN\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵 JPN\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA
-SUMMARY:🤸 Men's Team Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240730T161500Z-artistic-gymnastics-WOMENS-TEAM-FINAL
-DTSTAMP:20240730T161500Z
-DTSTART:20240730T161500Z
-DTEND:20240730T181000Z
-DESCRIPTION:Artistic Gymnastics - Women's Team Final\n🇧🇷 BRA\n🇨🇦
-  CAN\n🇨🇳 CHN\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵 JPN\n🇷🇴 ROU\n🇺🇸 USA
-SUMMARY:🤸 Women's Team Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T153000Z-artistic-gymnastics-MENS-ALL-AROUND-FINAL
-DTSTAMP:20240731T153000Z
-DTSTART:20240731T153000Z
-DTEND:20240731T180054Z
-DESCRIPTION:Artistic Gymnastics - Men's All-Around Final\n🇵🇭 Carlos
-  Edriel YULO\n🇳🇱 Casimir SCHMIDT\n🇧🇷 Diogo SOARES\n🇨🇦 Felix
-  DOLCI\n🇨🇭 Florian LANGENEGGER\n🇳🇱 Frank RIJKEN\n🇺🇸 Frederick
-  RICHARD\n🇯🇵 HASHIMOTO Daiki\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇦🇺
-  Jesse MOORE\n🇬🇧 Joe FRASER\n🇭🇺 Krisztofer MESZAROS\n🇮🇹 Mario
-  MACCHIATI\n🇨🇭 Matteo GIUBELLINI\n🇰🇿 Milad KARIMI\n🇩🇪 Nils
-  DUNKEL\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇺🇸 Paul JUDA\n🇨🇦
-  Rene COURNOYER\n🇨🇳 XIAO Ruoteng\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
-SUMMARY:🤸 Men's All-Around Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T161500Z-artistic-gymnastics-WOMENS-ALL-AROUND-FINAL
-DTSTAMP:20240801T161500Z
-DTSTART:20240801T161500Z
-DTEND:20240801T181009Z
-DESCRIPTION:Artistic Gymnastics - Women's All-Around Final\n🇮🇹 Alice
-  D'AMATO\n🇬🇧 Alice KINSELLA\n🇷🇴 Amalia GHIGOARTA\n🇷🇴 Ana
-  BARBOSU\n🇨🇦 Ava STEWART\n🇭🇺 Bettina Lili CZIFRA\n🇨🇦 Elsabeth
-  BLACK\n🇵🇹 Filipa MARTINS\n🇧🇷 Flavia SARAIVA\n🇬🇧 Georgia-Mae
-  FENTON\n🇩🇪 Helen KEVRIC\n🇯🇵 KISHI Rina\n🇩🇿 Kaylia NEMOUR\n🇨🇴
-  Luisa BLANCO\n🇮🇹 Manila ESPOSITO\n🇯🇵 NAKAMURA Haruka\n🇳🇱 Naomi
-  VISSER\n🇨🇳 OU Yushan\n🇨🇳 QIU Qiyuan\n🇧🇷 Rebeca ANDRADE\n🇦🇺 Ruby
-  PASS\n🇩🇪 Sarah VOSS\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE
-SUMMARY:🤸 Women's All-Around Final
-LOCATION:Bercy Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240803T133000Z-artistic-gymnastics-MENS-FLOOR-EXERCISE-FINAL
 DTSTAMP:20240803T133000Z
 DTSTART:20240803T133000Z
 DTEND:20240803T140500Z
-DESCRIPTION:Artistic Gymnastics - Men's Floor Exercise Final\n🇮🇱 Artem
-  DOLGOPYAT\n🇵🇭 Carlos Edriel YULO\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake
-  JARMAN\n🇪🇸 Joel PLATA\n🇬🇧 Luke WHITEHOUSE\n🇰🇿 Milad KARIMI\n🇯🇵
-  OKA Shinnosuke\n🇰🇷 RYU Sunghyun\n🇪🇸 Rayderley ZAPATA\n🇨🇳 ZHANG
-  Boheng
+DESCRIPTION:Artistic Gymnastics - Men's Floor Exercise Final
 SUMMARY:🤸 Men's Floor Exercise Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -73,11 +17,7 @@ UID:20240803T142000Z-artistic-gymnastics-WOMENS-VAULT-FINAL
 DTSTAMP:20240803T142000Z
 DTSTART:20240803T142000Z
 DTEND:20240803T150200Z
-DESCRIPTION:Artistic Gymnastics - Women's Vault Final\n🇰🇵 AN Chang
-  Ok\n🇲🇽 Alexa MORENO\n🇭🇺 Csenge Maria BACSKAY\n🇨🇦 Elsabeth
-  BLACK\n🇺🇸 Jade CAREY\n🇺🇸 Jordan CHILES\n🇫🇷 Ming VAN EIJKEN\n🇧🇷
-  Rebeca ANDRADE\n🇨🇦 Shallon OLSEN\n🇺🇸 Simone BILES\n🇧🇬 Valentina
-  GEORGIEVA\n🇰🇷 YEO Seojeong
+DESCRIPTION:Artistic Gymnastics - Women's Vault Final
 SUMMARY:🤸 Women's Vault Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -86,11 +26,7 @@ UID:20240803T151600Z-artistic-gymnastics-MENS-POMMEL-HORSE-FINAL
 DTSTAMP:20240803T151600Z
 DTSTART:20240803T151600Z
 DTEND:20240803T155200Z
-DESCRIPTION:Artistic Gymnastics - Men's Pommel Horse Final\n🇰🇷 HUR
-  Woong\n🇳🇱 Loran DE MUNCK\n🇬🇧 Max WHITLOCK\n🇰🇿 Nariman
-  KURBANOV\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg
-  VERNIAIEV\n🇮🇪 Rhys MC CLENAGHAN\n🇯🇵 SUGINO Takaaki\n🇺🇸 Stephen
-  NEDOROSCIK\n🇨🇳 ZOU Jingyuan
+DESCRIPTION:Artistic Gymnastics - Men's Pommel Horse Final
 SUMMARY:🤸 Men's Pommel Horse Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -99,11 +35,7 @@ UID:20240804T130000Z-artistic-gymnastics-MENS-RINGS-FINAL
 DTSTAMP:20240804T130000Z
 DTSTART:20240804T130000Z
 DTEND:20240804T133700Z
-DESCRIPTION:Artistic Gymnastics - Men's Rings Final\n🇹🇷 Adem ASIL\n🇺🇸
-  Asher HONG\n🇬🇷 Eleftherios PETROUNIAS\n🇧🇪 Glen CUYLE\n🇬🇧 Harry
-  HEPWORTH\n🇹🇷 Ibrahim COLAK\n🇨🇳 LIU Yang\n🇫🇷 Samir AIT SAID\n🇯🇵
-  TANIGAWA Wataru\n🇦🇲 Vahagn DAVTYAN\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU
-  Jingyuan
+DESCRIPTION:Artistic Gymnastics - Men's Rings Final
 SUMMARY:🤸 Men's Rings Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -112,10 +44,7 @@ UID:20240804T134000Z-artistic-gymnastics-WOMENS-UNEVEN-BARS-FINAL
 DTSTAMP:20240804T134000Z
 DTSTART:20240804T134000Z
 DTEND:20240804T142100Z
-DESCRIPTION:Artistic Gymnastics - Women's Uneven Bars Final\n🇮🇹 Alice
-  D'AMATO\n🇩🇪 Helen KEVRIC\n🇩🇿 Kaylia NEMOUR\n🇧🇪 Nina DERWAEL\n🇨🇳
-  QIU Qiyuan\n🇧🇷 Rebeca ANDRADE\n🇬🇧 Rebecca DOWNIE\n🇳🇱 Sanna
-  VEERMAN\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHANG Yihan
+DESCRIPTION:Artistic Gymnastics - Women's Uneven Bars Final
 SUMMARY:🤸 Women's Uneven Bars Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -124,10 +53,7 @@ UID:20240804T142400Z-artistic-gymnastics-MENS-VAULT-FINAL
 DTSTAMP:20240804T142400Z
 DTSTART:20240804T142400Z
 DTEND:20240804T150700Z
-DESCRIPTION:Artistic Gymnastics - Men's Vault Final\n🇹🇷 Adem ASIL\n🇦🇲
-  Artur DAVTYAN\n🇺🇸 Asher HONG\n🇭🇷 Aurel BENOVIC\n🇵🇭 Carlos Edriel
-  YULO\n🇬🇧 Harry HEPWORTH\n🇺🇦 Igor RADIVILOV\n🇬🇧 Jake JARMAN\n🇰🇷
-  LEE Junho\n🇮🇷 Mahdi OLFATI\n🇺🇦 Nazar CHEPURNYI
+DESCRIPTION:Artistic Gymnastics - Men's Vault Final
 SUMMARY:🤸 Men's Vault Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -136,11 +62,7 @@ UID:20240805T094500Z-artistic-gymnastics-MENS-PARALLEL-BARS-FINAL
 DTSTAMP:20240805T094500Z
 DTSTART:20240805T094500Z
 DTEND:20240805T102400Z
-DESCRIPTION:Artistic Gymnastics - Men's Parallel Bars Final\n🇨🇴 Angel
-  BARAJAS\n🇹🇷 Ferhat ARICAN\n🇯🇵 HASHIMOTO Daiki\n🇺🇦 Illia
-  KOVTUN\n🇬🇧 Joe FRASER\n🇯🇵 KAYA Kazuma\n🇭🇺 Krisztofer MESZAROS\n🇩🇪
-  Lukas DAUSER\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇯🇵 TANIGAWA
-  Wataru\n🇨🇳 XIAO Ruoteng\n🇨🇳 ZHANG Boheng\n🇨🇳 ZOU Jingyuan
+DESCRIPTION:Artistic Gymnastics - Men's Parallel Bars Final
 SUMMARY:🤸 Men's Parallel Bars Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -149,10 +71,7 @@ UID:20240805T103800Z-artistic-gymnastics-WOMENS-BALANCE-BEAM-FINAL
 DTSTAMP:20240805T103800Z
 DTSTART:20240805T103800Z
 DTEND:20240805T111900Z
-DESCRIPTION:Artistic Gymnastics - Women's Balance Beam Final\n🇮🇹 Alice
-  D'AMATO\n🇧🇷 Julia SOARES\n🇨🇳 LUO Huan\n🇮🇹 Manila ESPOSITO\n🇫🇷
-  Marine BOYER\n🇧🇷 Rebeca ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇳🇱 Sanne
-  WEVERS\n🇺🇸 Simone BILES\n🇺🇸 Sunisa LEE\n🇨🇳 ZHOU Yaqin
+DESCRIPTION:Artistic Gymnastics - Women's Balance Beam Final
 SUMMARY:🤸 Women's Balance Beam Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -161,10 +80,7 @@ UID:20240805T113300Z-artistic-gymnastics-MENS-HORIZONTAL-BAR-FINAL
 DTSTAMP:20240805T113300Z
 DTSTART:20240805T113300Z
 DTEND:20240805T120800Z
-DESCRIPTION:Artistic Gymnastics - Men's Horizontal Bar Final\n🇨🇴 Angel
-  BARAJAS\n🇺🇸 Frederick RICHARD\n🇬🇧 Joe FRASER\n🇨🇾 Marios
-  GEORGIOU\n🇯🇵 OKA Shinnosuke\n🇨🇳 SU Weide\n🇯🇵 SUGINO Takaaki\n🇹🇼
-  TANG Chia-Hung\n🇭🇷 Tin SRBIC\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
+DESCRIPTION:Artistic Gymnastics - Men's Horizontal Bar Final
 SUMMARY:🤸 Men's Horizontal Bar Final
 LOCATION:Bercy Arena
 END:VEVENT
@@ -173,12 +89,7 @@ UID:20240805T122300Z-artistic-gymnastics-WOMENS-FLOOR-EXERCISE-FINAL
 DTSTAMP:20240805T122300Z
 DTSTART:20240805T122300Z
 DTEND:20240805T130300Z
-DESCRIPTION:Artistic Gymnastics - Women's Floor Exercise Final\n🇮🇹 Alice
-  D'AMATO\n🇷🇴 Ana BARBOSU\n🇮🇹 Angela ANDREOLI\n🇨🇦 Elsabeth
-  BLACK\n🇧🇷 Jade BARBOSA\n🇺🇸 Jordan CHILES\n🇧🇷 Julia SOARES\n🇯🇵
-  KISHI Rina\n🇮🇹 Manila ESPOSITO\n🇨🇳 OU Yushan\n🇧🇷 Rebeca
-  ANDRADE\n🇷🇴 Sabrina MANECA-VOINEA\n🇺🇸 Simone BILES\n🇨🇳 ZHANG
-  Yihan\n🇨🇳 ZHOU Yaqin
+DESCRIPTION:Artistic Gymnastics - Women's Floor Exercise Final
 SUMMARY:🤸 Women's Floor Exercise Final
 LOCATION:Bercy Arena
 END:VEVENT
