@@ -7614,7 +7614,7 @@ UID:20240806T162200Z-wrestling-77KG
 DTSTAMP:20240806T162200Z
 DTSTART:20240806T162200Z
 DTEND:20240806T162900Z
-DESCRIPTION:レスリング - 男子グレコローマンスタイル77kg級準決勝
+DESCRIPTION:レスリング - 男子グレコローマンスタイル77kg級準決勝\n🇰🇿 Demeu ZHADRAYEV
 SUMMARY:🤼 男子グレコローマンスタイル77kg級準決勝
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
@@ -7623,7 +7623,7 @@ UID:20240806T162900Z-wrestling-97KG
 DTSTAMP:20240806T162900Z
 DTSTART:20240806T162900Z
 DTEND:20240806T163600Z
-DESCRIPTION:レスリング - 男子グレコローマンスタイル97kg級準決勝
+DESCRIPTION:レスリング - 男子グレコローマンスタイル97kg級準決勝\n🇦🇲 Artur ALEKSANYAN
 SUMMARY:🤼 男子グレコローマンスタイル97kg級準決勝
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
@@ -7637,12 +7637,12 @@ SUMMARY:🤼 男子グレコローマンスタイル97kg級準決勝
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T164300Z-wrestling-50KG
+UID:20240806T164300Z-wrestling-50KG-IND-CUB
 DTSTAMP:20240806T164300Z
 DTSTART:20240806T164300Z
 DTEND:20240806T165000Z
-DESCRIPTION:レスリング - 女子フリースタイル50kg級準決勝\n🇮🇳 Vinesh VINESH
-SUMMARY:🤼 女子フリースタイル50kg級準決勝
+DESCRIPTION:レスリング - 女子フリースタイル50kg級準決勝
+SUMMARY:🤼 Vinesh VINESH 🇮🇳 - 🇨🇺 Yusneylis GUZMAN LOPEZ
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -9493,7 +9493,14 @@ UID:20240807T180200Z-athletics-200M
 DTSTAMP:20240807T180200Z
 DTSTART:20240807T180200Z
 DTEND:20240807T181900Z
-DESCRIPTION:陸上競技 - 男子200m準決勝
+DESCRIPTION:陸上競技 - 男子200m準決勝\n🇨🇦 Aaron BROWN\n🇩🇴 Alexander OGANDO\n🇨🇦
+  Andre De GRASSE\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan LEVELL\n🇸🇪 Erik
+  ERLANDSSON\n🇺🇸 Erriyon KNIGHTON\n🇮🇹 Eseosa Fostine DESALU\n🇮🇹
+  Filippo TORTU\n🇱🇷 Joseph FAHNBULLEH\n🇩🇪 Joshua HARTMANN\n🇺🇸 Kenneth
+  BEDNAREK\n🇧🇼 Letsile TEBOGO\n🇿🇼 Makanakaishe CHARAMBA\n🇺🇸 Noah
+  LYLES\n🇧🇷 Renan CORREA\n🇫🇷 Ryan ZEZE\n🇿🇦 Shaun MASWANGANYI\n🇿🇼
+  Tapiwanashe MAKARAWU\n🇺🇬 Tarsis Gracious OROGOT\n🇯🇵 UZAWA Towa\n🇳🇬
+  Udodi Chudi ONWUZURIKE\n🇧🇸 Wanya McCOY\n🇿🇦 Wayde van NIEKERK
 SUMMARY:🏃 男子200m準決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -11135,7 +11142,11 @@ UID:20240808T180000Z-athletics-
 DTSTAMP:20240808T180000Z
 DTSTART:20240808T180000Z
 DTEND:20240808T192000Z
-DESCRIPTION:陸上競技 - 女子走幅跳決勝
+DESCRIPTION:陸上競技 - 女子走幅跳決勝\n🇯🇲 Ackelia SMITH\n🇷🇴 Alina
+  ROTARU-KOTTMANN\n🇳🇬 Ese BRUME\n🇫🇷 Hilary KPATCHA\n🇺🇸 Jasmine
+  MOORE\n🇮🇹 Larissa IAPICHINO\n🇩🇪 Malaika MIHAMBO\n🇧🇫 Marthe
+  KOALA\n🇺🇸 Monae' NICHOLS\n🇳🇬 Prestina Oluchi OCHONOGOR\n🇳🇬 Ruth
+  USORO\n🇺🇸 Tara DAVIS-WOODHALL
 SUMMARY:🏃 女子走幅跳決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
@@ -11207,7 +11218,11 @@ UID:20240808T182500Z-athletics-
 DTSTAMP:20240808T182500Z
 DTSTART:20240808T182500Z
 DTEND:20240808T193500Z
-DESCRIPTION:陸上競技 - 男子やり投決勝
+DESCRIPTION:陸上競技 - 男子やり投決勝\n🇬🇩 Anderson PETERS\n🇲🇩 Andrian
+  MARDARE\n🇵🇰 Arshad NADEEM\n🇨🇿 Jakub VADLEJCH\n🇩🇪 Julian WEBER\n🇰🇪
+  Julius YEGO\n🇹🇹 Keshorn WALCOTT\n🇫🇮 Lassi ETELATALO\n🇧🇷 Luiz
+  Mauricio da SILVA\n🇮🇳 Neeraj CHOPRA\n🇫🇮 Oliver HELANDER\n🇫🇮 Toni
+  KERANEN
 SUMMARY:🏃 男子やり投決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT

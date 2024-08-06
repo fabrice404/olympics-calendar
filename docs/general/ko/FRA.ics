@@ -3762,6 +3762,22 @@ SUMMARY:🏐 이탈리아 🇮🇹 - 🇫🇷 프랑스
 LOCATION:사우스 파리 아레나 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T180200Z-athletics--200M-
+DTSTAMP:20240807T180200Z
+DTSTART:20240807T180200Z
+DTEND:20240807T181900Z
+DESCRIPTION:육상 - 남자 200m 준결승\n🇨🇦 Aaron BROWN\n🇩🇴 Alexander OGANDO\n🇨🇦
+  Andre De GRASSE\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan LEVELL\n🇸🇪 Erik
+  ERLANDSSON\n🇺🇸 Erriyon KNIGHTON\n🇮🇹 Eseosa Fostine DESALU\n🇮🇹
+  Filippo TORTU\n🇱🇷 Joseph FAHNBULLEH\n🇩🇪 Joshua HARTMANN\n🇺🇸 Kenneth
+  BEDNAREK\n🇧🇼 Letsile TEBOGO\n🇿🇼 Makanakaishe CHARAMBA\n🇺🇸 Noah
+  LYLES\n🇧🇷 Renan CORREA\n🇫🇷 Ryan ZEZE\n🇿🇦 Shaun MASWANGANYI\n🇿🇼
+  Tapiwanashe MAKARAWU\n🇺🇬 Tarsis Gracious OROGOT\n🇯🇵 UZAWA Towa\n🇳🇬
+  Udodi Chudi ONWUZURIKE\n🇧🇸 Wanya McCOY\n🇿🇦 Wayde van NIEKERK
+SUMMARY:🏃 남자 200m 준결승
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T201800Z-boxing--92KG--FRA-ESP
 DTSTAMP:20240807T201800Z
 DTSTART:20240807T201800Z
@@ -3892,6 +3908,19 @@ DESCRIPTION:역도 - 남자 73kg\n🇰🇷 BAK Joohyo\n🇫🇷 Bernardin KINGUE
   Zhiyong\n🇹🇭 Weeraphon WICHUMA
 SUMMARY:🏋 남자 73kg
 LOCATION:사우스 파리 아레나 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T180000Z-athletics--
+DTSTAMP:20240808T180000Z
+DTSTART:20240808T180000Z
+DTEND:20240808T192000Z
+DESCRIPTION:육상 - 여자 멀리뛰기 결승\n🇯🇲 Ackelia SMITH\n🇷🇴 Alina
+  ROTARU-KOTTMANN\n🇳🇬 Ese BRUME\n🇫🇷 Hilary KPATCHA\n🇺🇸 Jasmine
+  MOORE\n🇮🇹 Larissa IAPICHINO\n🇩🇪 Malaika MIHAMBO\n🇧🇫 Marthe
+  KOALA\n🇺🇸 Monae' NICHOLS\n🇳🇬 Prestina Oluchi OCHONOGOR\n🇳🇬 Ruth
+  USORO\n🇺🇸 Tara DAVIS-WOODHALL
+SUMMARY:🏃 여자 멀리뛰기 결승
+LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T203400Z-boxing--51KG--FRA-UZB

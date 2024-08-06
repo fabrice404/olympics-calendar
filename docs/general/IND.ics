@@ -818,13 +818,12 @@ SUMMARY:🤼 Vinesh VINESH 🇮🇳 - 🇺🇦 Oksana LIVACH
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T164300Z-wrestling-WOMENS-FREESTYLE-50KG-SEMIFINAL
+UID:20240806T164300Z-wrestling-WOMENS-FREESTYLE-50KG-SEMIFINAL-IND-CUB
 DTSTAMP:20240806T164300Z
 DTSTART:20240806T164300Z
 DTEND:20240806T165000Z
-DESCRIPTION:Wrestling - Women's Freestyle 50kg Semifinal\n🇮🇳 Vinesh
-  VINESH
-SUMMARY:🤼 Women's Freestyle 50kg Semifinal
+DESCRIPTION:Wrestling - Women's Freestyle 50kg Semifinal
+SUMMARY:🤼 Vinesh VINESH 🇮🇳 - 🇨🇺 Yusneylis GUZMAN LOPEZ
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -946,6 +945,19 @@ DESCRIPTION:Golf - Women's Individual Stroke Play Round 2\n🇮🇳 Aditi
   Amy\n🇨🇳 YIN Ruoning
 SUMMARY:⛳ Women's Individual Stroke Play Round 2
 LOCATION:Le Golf National
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T182500Z-athletics-MENS-JAVELIN-THROW-FINAL
+DTSTAMP:20240808T182500Z
+DTSTART:20240808T182500Z
+DTEND:20240808T193500Z
+DESCRIPTION:Athletics - Men's Javelin Throw Final\n🇬🇩 Anderson
+  PETERS\n🇲🇩 Andrian MARDARE\n🇵🇰 Arshad NADEEM\n🇨🇿 Jakub
+  VADLEJCH\n🇩🇪 Julian WEBER\n🇰🇪 Julius YEGO\n🇹🇹 Keshorn WALCOTT\n🇫🇮
+  Lassi ETELATALO\n🇧🇷 Luiz Mauricio da SILVA\n🇮🇳 Neeraj CHOPRA\n🇫🇮
+  Oliver HELANDER\n🇫🇮 Toni KERANEN
+SUMMARY:🏃 Men's Javelin Throw Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

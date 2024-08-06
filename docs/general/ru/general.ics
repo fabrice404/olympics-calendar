@@ -7691,7 +7691,8 @@ UID:20240806T162200Z-wrestling--77-
 DTSTAMP:20240806T162200Z
 DTSTART:20240806T162200Z
 DTEND:20240806T162900Z
-DESCRIPTION:Борьба - Греко-римская, 77кг, полуфинал (м)
+DESCRIPTION:Борьба - Греко-римская, 77кг, полуфинал (м)\n🇰🇿 Demeu
+  ZHADRAYEV
 SUMMARY:🤼 Греко-римская, 77кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -7700,7 +7701,8 @@ UID:20240806T162900Z-wrestling--97-
 DTSTAMP:20240806T162900Z
 DTSTART:20240806T162900Z
 DTEND:20240806T163600Z
-DESCRIPTION:Борьба - Греко-римская, 97кг, полуфинал (м)
+DESCRIPTION:Борьба - Греко-римская, 97кг, полуфинал (м)\n🇦🇲 Artur
+  ALEKSANYAN
 SUMMARY:🤼 Греко-римская, 97кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -7714,13 +7716,12 @@ SUMMARY:🤼 Греко-римская, 97кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T164300Z-wrestling--50-
+UID:20240806T164300Z-wrestling--50--IND-CUB
 DTSTAMP:20240806T164300Z
 DTSTART:20240806T164300Z
 DTEND:20240806T165000Z
-DESCRIPTION:Борьба - Вольная борьба, 50кг, полуфинал (ж)\n🇮🇳 Vinesh
-  VINESH
-SUMMARY:🤼 Вольная борьба, 50кг, полуфинал (ж)
+DESCRIPTION:Борьба - Вольная борьба, 50кг, полуфинал (ж)
+SUMMARY:🤼 Vinesh VINESH 🇮🇳 - 🇨🇺 Yusneylis GUZMAN LOPEZ
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -9592,7 +9593,15 @@ UID:20240807T180200Z-athletics-200-
 DTSTAMP:20240807T180200Z
 DTSTART:20240807T180200Z
 DTEND:20240807T181900Z
-DESCRIPTION:Легкая атлетика - 200м, полуфинал (м)
+DESCRIPTION:Легкая атлетика - 200м, полуфинал (м)\n🇨🇦 Aaron BROWN\n🇩🇴
+  Alexander OGANDO\n🇨🇦 Andre De GRASSE\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan
+  LEVELL\n🇸🇪 Erik ERLANDSSON\n🇺🇸 Erriyon KNIGHTON\n🇮🇹 Eseosa Fostine
+  DESALU\n🇮🇹 Filippo TORTU\n🇱🇷 Joseph FAHNBULLEH\n🇩🇪 Joshua
+  HARTMANN\n🇺🇸 Kenneth BEDNAREK\n🇧🇼 Letsile TEBOGO\n🇿🇼 Makanakaishe
+  CHARAMBA\n🇺🇸 Noah LYLES\n🇧🇷 Renan CORREA\n🇫🇷 Ryan ZEZE\n🇿🇦 Shaun
+  MASWANGANYI\n🇿🇼 Tapiwanashe MAKARAWU\n🇺🇬 Tarsis Gracious OROGOT\n🇯🇵
+  UZAWA Towa\n🇳🇬 Udodi Chudi ONWUZURIKE\n🇧🇸 Wanya McCOY\n🇿🇦 Wayde van
+  NIEKERK
 SUMMARY:🏃 200м, полуфинал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
@@ -11240,7 +11249,11 @@ UID:20240808T180000Z-athletics--
 DTSTAMP:20240808T180000Z
 DTSTART:20240808T180000Z
 DTEND:20240808T192000Z
-DESCRIPTION:Легкая атлетика - Прыжки в длину, финал (ж)
+DESCRIPTION:Легкая атлетика - Прыжки в длину, финал (ж)\n🇯🇲 Ackelia
+  SMITH\n🇷🇴 Alina ROTARU-KOTTMANN\n🇳🇬 Ese BRUME\n🇫🇷 Hilary
+  KPATCHA\n🇺🇸 Jasmine MOORE\n🇮🇹 Larissa IAPICHINO\n🇩🇪 Malaika
+  MIHAMBO\n🇧🇫 Marthe KOALA\n🇺🇸 Monae' NICHOLS\n🇳🇬 Prestina Oluchi
+  OCHONOGOR\n🇳🇬 Ruth USORO\n🇺🇸 Tara DAVIS-WOODHALL
 SUMMARY:🏃 Прыжки в длину, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

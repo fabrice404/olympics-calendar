@@ -560,6 +560,23 @@ SUMMARY:🏃 400м с/б, полуфинал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T180200Z-athletics-200-
+DTSTAMP:20240807T180200Z
+DTSTART:20240807T180200Z
+DTEND:20240807T181900Z
+DESCRIPTION:Легкая атлетика - 200м, полуфинал (м)\n🇨🇦 Aaron BROWN\n🇩🇴
+  Alexander OGANDO\n🇨🇦 Andre De GRASSE\n🇨🇦 Brendon RODNEY\n🇯🇲 Bryan
+  LEVELL\n🇸🇪 Erik ERLANDSSON\n🇺🇸 Erriyon KNIGHTON\n🇮🇹 Eseosa Fostine
+  DESALU\n🇮🇹 Filippo TORTU\n🇱🇷 Joseph FAHNBULLEH\n🇩🇪 Joshua
+  HARTMANN\n🇺🇸 Kenneth BEDNAREK\n🇧🇼 Letsile TEBOGO\n🇿🇼 Makanakaishe
+  CHARAMBA\n🇺🇸 Noah LYLES\n🇧🇷 Renan CORREA\n🇫🇷 Ryan ZEZE\n🇿🇦 Shaun
+  MASWANGANYI\n🇿🇼 Tapiwanashe MAKARAWU\n🇺🇬 Tarsis Gracious OROGOT\n🇯🇵
+  UZAWA Towa\n🇳🇬 Udodi Chudi ONWUZURIKE\n🇧🇸 Wanya McCOY\n🇿🇦 Wayde van
+  NIEKERK
+SUMMARY:🏃 200м, полуфинал (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T184500Z-athletics-400-
 DTSTAMP:20240807T184500Z
 DTSTART:20240807T184500Z
@@ -617,6 +634,19 @@ DESCRIPTION:Тяжелая атлетика - 59кг (ж)\n🇻🇪 Anyelin VENE
   Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
 SUMMARY:🏋 59кг (ж)
 LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T180000Z-athletics--
+DTSTAMP:20240808T180000Z
+DTSTART:20240808T180000Z
+DTEND:20240808T192000Z
+DESCRIPTION:Легкая атлетика - Прыжки в длину, финал (ж)\n🇯🇲 Ackelia
+  SMITH\n🇷🇴 Alina ROTARU-KOTTMANN\n🇳🇬 Ese BRUME\n🇫🇷 Hilary
+  KPATCHA\n🇺🇸 Jasmine MOORE\n🇮🇹 Larissa IAPICHINO\n🇩🇪 Malaika
+  MIHAMBO\n🇧🇫 Marthe KOALA\n🇺🇸 Monae' NICHOLS\n🇳🇬 Prestina Oluchi
+  OCHONOGOR\n🇳🇬 Ruth USORO\n🇺🇸 Tara DAVIS-WOODHALL
+SUMMARY:🏃 Прыжки в длину, финал (ж)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T091100Z-taekwondo-18-67--CHN-NGR
