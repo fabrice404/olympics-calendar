@@ -48,4 +48,13 @@ DESCRIPTION:Волейбол - Полуфиналы (м)
 SUMMARY:🏐 Италия 🇮🇹 - 🇫🇷 Франция
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T180000Z-volleyball---TUR-ITA
+DTSTAMP:20240808T180000Z
+DTSTART:20240808T180000Z
+DTEND:20240808T201500Z
+DESCRIPTION:Волейбол - Полуфиналы (ж)
+SUMMARY:🏐 Турция 🇹🇷 - 🇮🇹 Италия
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
 END:VCALENDAR
