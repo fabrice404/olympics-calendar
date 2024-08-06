@@ -716,6 +716,15 @@ SUMMARY:🤼 Вольная борьба, 50кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T102400Z-wrestling--77-14--KGZ-KAZ
+DTSTAMP:20240806T102400Z
+DTSTART:20240806T102400Z
+DTEND:20240806T103100Z
+DESCRIPTION:Борьба - Греко-римская, 77кг, 1/4 финала (м)
+SUMMARY:🤼 Akzhol MAKHMUDOV 🇰🇬 - 🇰🇿 Demeu ZHADRAYEV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T102400Z-wrestling--50-14-
 DTSTAMP:20240806T102400Z
 DTSTART:20240806T102400Z
@@ -725,21 +734,12 @@ SUMMARY:🤼 Вольная борьба, 50кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240806T102400Z-wrestling--77-14-
-DTSTAMP:20240806T102400Z
-DTSTART:20240806T102400Z
-DTEND:20240806T103100Z
-DESCRIPTION:Борьба - Греко-римская, 77кг, 1/4 финала (м)\n🇰🇬 Akzhol
-  MAKHMUDOV
-SUMMARY:🤼 Греко-римская, 77кг, 1/4 финала (м)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240806T102400Z-wrestling--97-14-
 DTSTAMP:20240806T102400Z
 DTSTART:20240806T102400Z
 DTEND:20240806T103100Z
-DESCRIPTION:Борьба - Греко-римская, 97кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Греко-римская, 97кг, 1/4 финала (м)\n🇮🇷 Mohammadhadi
+  SARAVI
 SUMMARY:🤼 Греко-римская, 97кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
