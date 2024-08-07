@@ -89,4 +89,15 @@ DESCRIPTION:Скейтбординг - Парк, предварительные 
 SUMMARY:🛹 Парк, предварительные заезды (м)
 LOCATION:Площадь Согласия 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240807T153000Z-skateboarding--
+DTSTAMP:20240807T153000Z
+DTSTART:20240807T153000Z
+DTEND:20240807T161400Z
+DESCRIPTION:Скейтбординг - Парк, финал (м)\n🇮🇹 Alex SORGENTE\n🇧🇷
+  Augusto AKIO\n🇦🇺 Keefer WILSON\n🇦🇺 Keegan PALMER\n🇧🇷 Luigi
+  CINI\n🇧🇷 Pedro BARROS\n🇺🇸 Tate CAREW\n🇺🇸 Tom SCHAAR
+SUMMARY:🛹 Парк, финал (м)
+LOCATION:Площадь Согласия 4
+END:VEVENT
 END:VCALENDAR
