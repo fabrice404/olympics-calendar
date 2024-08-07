@@ -5889,6 +5889,20 @@ SUMMARY:⛵ Кайт, гонка 16 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T153000Z-cycling-track--116-
+DTSTAMP:20240807T153000Z
+DTSTART:20240807T153000Z
+DTEND:20240807T160400Z
+DESCRIPTION:Трековые велогонки - Спринт, 1/16 финала (м)\n🇨🇴 Cristian
+  David ORTEGA FONTALVO\n🇬🇧 Hamish TURNBULL\n🇳🇱 Harrie LAVREYSEN\n🇬🇧
+  Jack CARLIN\n🇸🇷 Jair TJON EN FA\n🇳🇱 Jeffrey HOOGLAND\n🇦🇺 Leigh
+  HOFFMAN\n🇵🇱 Mateusz RUDYK\n🇦🇺 Matthew RICHARDSON\n🇮🇱 Mikhail
+  YAKOVLEV\n🇲🇾 Mohd Azizulhasni AWANG\n🇹🇹 Nicholas PAUL\n🇯🇵 OBARA
+  Yuta\n🇯🇵 OTA Kaiya\n🇫🇷 Rayan HELAL\n🇱🇹 Vasilijus LENDEL
+SUMMARY:🚴 Спринт, 1/16 финала (м)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T173500Z-athletics-400-
 DTSTAMP:20240807T173500Z
 DTSTART:20240807T173500Z
@@ -6087,6 +6101,21 @@ DTEND:20240808T140000Z
 DESCRIPTION:Водное поло - Полуфинал (ж)
 SUMMARY:🤽 Нидерланды 🇳🇱 - 🇪🇸 Испания
 LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T151800Z-cycling-track--
+DTSTAMP:20240808T151800Z
+DTSTART:20240808T151800Z
+DTEND:20240808T153800Z
+DESCRIPTION:Трековые велогонки - Кейрин, четвертьфиналы (ж)\n🇲🇽 Daniela
+  GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma
+  HINZE\n🇨🇳 GUO Yufang\n🇳🇱 Hetty van de WOUW\n🇬🇧 Katy MARCHANT\n🇨🇦
+  Kelsey MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane GENEST\n🇩🇪 Lea
+  FRIEDRICH\n🇫🇷 Mathilde GROS\n🇧🇪 Nicky DEGRENDELE\n🇯🇵 OHTA
+  Riyu\n🇳🇿 Rebecca PETCH\n🇯🇵 SATO Mina\n🇳🇱 Steffie van der PEET\n🇨🇳
+  YUAN Liying
+SUMMARY:🚴 Кейрин, четвертьфиналы (ж)
+LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T170000Z-hockey---GER-NED
