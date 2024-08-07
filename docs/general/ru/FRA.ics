@@ -10177,6 +10177,16 @@ SUMMARY:🏃 110м с/б, полуфинал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T170700Z-cycling-track--5--GER-FRA
+DTSTAMP:20240807T170700Z
+DTSTART:20240807T170700Z
+DTEND:20240807T171700Z
+DESCRIPTION:Трековые велогонки - Командная гонка преследования, за 5-е
+  место (ж)
+SUMMARY:🚴 Германия 🇩🇪 - 🇫🇷 Франция
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T171500Z-athletics--
 DTSTAMP:20240807T171500Z
 DTSTART:20240807T171500Z
@@ -10794,6 +10804,21 @@ DESCRIPTION:Синхронное плавание - Дуэты, произвол
   Украина\n🇫🇷 Франция\n🇰🇷 Южная Корея\n🇯🇵 Япония
 SUMMARY:🏊 Дуэты, произвольная программа
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T175000Z-athletics-5000-
+DTSTAMP:20240810T175000Z
+DTSTART:20240810T175000Z
+DTEND:20240810T180500Z
+DESCRIPTION:Легкая атлетика - 5000м, финал (м)\n🇪🇹 Addisu YIHUNE\n🇪🇹
+  Biniam MEHARY\n🇪🇷 Dawit SEARE\n🏳️ Dominic Lokinyomo LOBALU\n🇰🇪 Edwin
+  KURGAT\n🇬🇧 George MILLS\n🇺🇸 Graham BLANKS\n🇺🇸 Grant FISHER\n🇪🇹
+  Hagos GEBRHIWET\n🇫🇷 Hugo HAY\n🇧🇪 Isaac KIMELI\n🇰🇪 Jacob KROP\n🇳🇴
+  Jakob INGEBRIGTSEN\n🇧🇪 John HEYMANS\n🇳🇱 Mike FOPPEN\n🇳🇴 Narve Gilje
+  NORDAS\n🇺🇬 Oscar CHELIMO\n🇰🇪 Ronald KWEMOI\n🇦🇺 Stewart
+  McSWEYN\n🇪🇸 Thierry NDIKUMWENAYO\n🇨🇦 Thomas FAFARD\n🇫🇷 Yann SCHRUB
+SUMMARY:🏃 5000м, финал (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

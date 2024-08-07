@@ -32765,7 +32765,7 @@ DTSTAMP:20240807T165700Z
 DTSTART:20240807T165700Z
 DTEND:20240807T170700Z
 DESCRIPTION:Cycling Track - Women's Team Pursuit, Finals - For Places 7-8
-SUMMARY:🚴 Women's Team Pursuit, Finals - For Places 7-8
+SUMMARY:🚴 AUS 🇦🇺 - 🇨🇦 CAN
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
@@ -32818,7 +32818,7 @@ DTSTAMP:20240807T170700Z
 DTSTART:20240807T170700Z
 DTEND:20240807T171700Z
 DESCRIPTION:Cycling Track - Women's Team Pursuit, Finals - For Places 5-6
-SUMMARY:🚴 Women's Team Pursuit, Finals - For Places 5-6
+SUMMARY:🚴 GER 🇩🇪 - 🇫🇷 FRA
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
@@ -32950,7 +32950,11 @@ UID:20240807T173800Z-cycling-track-MENS-SPRINT-18-FINALS
 DTSTAMP:20240807T173800Z
 DTSTART:20240807T173800Z
 DTEND:20240807T175800Z
-DESCRIPTION:Cycling Track - Men's Sprint, 1/8 Finals
+DESCRIPTION:Cycling Track - Men's Sprint, 1/8 Finals\n🇬🇧 Hamish
+  TURNBULL\n🇳🇱 Harrie LAVREYSEN\n🇬🇧 Jack CARLIN\n🇳🇱 Jeffrey
+  HOOGLAND\n🇦🇺 Leigh HOFFMAN\n🇵🇱 Mateusz RUDYK\n🇦🇺 Matthew
+  RICHARDSON\n🇮🇱 Mikhail YAKOVLEV\n🇲🇾 Mohd Azizulhasni AWANG\n🇹🇹
+  Nicholas PAUL\n🇯🇵 OBARA Yuta\n🇯🇵 OTA Kaiya
 SUMMARY:🚴 Men's Sprint, 1/8 Finals
 LOCATION:National Velodrome
 END:VEVENT
@@ -33530,21 +33534,21 @@ SUMMARY:🥋 Kevin Sogo KASSMAN 🇵🇬 - 🇬🇧 Bradly SINDEN
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T090000Z-wrestling-MENS-GRECO-ROMAN-87KG-REPECHAGE-COL-POL
+DTSTAMP:20240808T090000Z
+DTSTART:20240808T090000Z
+DTEND:20240808T090700Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 87kg Repechage
+SUMMARY:🤼 Carlos Andres MUNOZ JARAMILLO 🇨🇴 - 🇵🇱 Arkadiusz Marcin KULYN
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T090000Z-wrestling-MENS-GRECO-ROMAN-67KG-REPECHAGE-SRB-KGZ
 DTSTAMP:20240808T090000Z
 DTSTART:20240808T090000Z
 DTEND:20240808T090700Z
 DESCRIPTION:Wrestling - Men's Greco-Roman 67kg Repechage
 SUMMARY:🤼 Mate NEMES 🇷🇸 - 🇰🇬 Amantur ISMAILOV
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T090000Z-wrestling-MENS-GRECO-ROMAN-87KG-REPECHAGE
-DTSTAMP:20240808T090000Z
-DTSTART:20240808T090000Z
-DTEND:20240808T090700Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 87kg Repechage
-SUMMARY:🤼 Men's Greco-Roman 87kg Repechage
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -34920,7 +34924,8 @@ UID:20240808T171800Z-wrestling-MENS-GRECO-ROMAN-87KG-BRONZE-MEDAL-MATCH
 DTSTAMP:20240808T171800Z
 DTSTART:20240808T171800Z
 DTEND:20240808T172500Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 87kg Bronze Medal Match
+DESCRIPTION:Wrestling - Men's Greco-Roman 87kg Bronze Medal Match\n🇺🇦
+  Zhan BELENIUK
 SUMMARY:🤼 Men's Greco-Roman 87kg Bronze Medal Match
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -34978,7 +34983,8 @@ UID:20240808T173200Z-wrestling-MENS-GRECO-ROMAN-87KG-FINAL
 DTSTAMP:20240808T173200Z
 DTSTART:20240808T173200Z
 DTEND:20240808T173900Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 87kg Final
+DESCRIPTION:Wrestling - Men's Greco-Roman 87kg Final\n🇮🇷 Alireza
+  MOHMADIPIANI
 SUMMARY:🤼 Men's Greco-Roman 87kg Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -37829,7 +37835,13 @@ UID:20240810T175000Z-athletics-MENS-5000M-FINAL
 DTSTAMP:20240810T175000Z
 DTSTART:20240810T175000Z
 DTEND:20240810T180500Z
-DESCRIPTION:Athletics - Men's 5000m Final
+DESCRIPTION:Athletics - Men's 5000m Final\n🇪🇹 Addisu YIHUNE\n🇪🇹 Biniam
+  MEHARY\n🇪🇷 Dawit SEARE\n🏳️ Dominic Lokinyomo LOBALU\n🇰🇪 Edwin
+  KURGAT\n🇬🇧 George MILLS\n🇺🇸 Graham BLANKS\n🇺🇸 Grant FISHER\n🇪🇹
+  Hagos GEBRHIWET\n🇫🇷 Hugo HAY\n🇧🇪 Isaac KIMELI\n🇰🇪 Jacob KROP\n🇳🇴
+  Jakob INGEBRIGTSEN\n🇧🇪 John HEYMANS\n🇳🇱 Mike FOPPEN\n🇳🇴 Narve Gilje
+  NORDAS\n🇺🇬 Oscar CHELIMO\n🇰🇪 Ronald KWEMOI\n🇦🇺 Stewart
+  McSWEYN\n🇪🇸 Thierry NDIKUMWENAYO\n🇨🇦 Thomas FAFARD\n🇫🇷 Yann SCHRUB
 SUMMARY:🏃 Men's 5000m Final
 LOCATION:Stade de France
 END:VEVENT
