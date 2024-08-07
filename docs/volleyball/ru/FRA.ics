@@ -75,4 +75,13 @@ DESCRIPTION:Волейбол - Полуфиналы (м)
 SUMMARY:🏐 Италия 🇮🇹 - 🇫🇷 Франция
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240810T110000Z-volleyball---FRA-POL
+DTSTAMP:20240810T110000Z
+DTSTART:20240810T110000Z
+DTEND:20240810T131500Z
+DESCRIPTION:Волейбол - Финал (м)
+SUMMARY:🏐 Франция 🇫🇷 - 🇵🇱 Польша
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
 END:VCALENDAR

@@ -93,4 +93,13 @@ DESCRIPTION:배구 - 여자 준결승
 SUMMARY:🏐 튀르키예 🇹🇷 - 🇮🇹 이탈리아
 LOCATION:사우스 파리 아레나 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240809T140000Z-volleyball---ITA-USA
+DTSTAMP:20240809T140000Z
+DTSTART:20240809T140000Z
+DTEND:20240809T161500Z
+DESCRIPTION:배구 - 남자 동메달 결정전
+SUMMARY:🏐 이탈리아 🇮🇹 - 🇺🇸 미국
+LOCATION:사우스 파리 아레나 1
+END:VEVENT
 END:VCALENDAR
