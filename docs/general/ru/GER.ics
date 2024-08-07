@@ -8399,13 +8399,13 @@ SUMMARY:🤼 Lucia Yamileth YEPEZ GUZMAN 🇪🇨 - 🇩🇪 Annika WENDLE
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T170700Z-cycling-track--5--GER-FRA
+UID:20240807T170700Z-cycling-track--5--FRA-GER
 DTSTAMP:20240807T170700Z
 DTSTART:20240807T170700Z
 DTEND:20240807T171700Z
 DESCRIPTION:Трековые велогонки - Командная гонка преследования, за 5-е
   место (ж)
-SUMMARY:🚴 Германия 🇩🇪 - 🇫🇷 Франция
+SUMMARY:🚴 Франция 🇫🇷 - 🇩🇪 Германия
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
@@ -8917,6 +8917,15 @@ DTEND:20240809T144500Z
 DESCRIPTION:Футбол - Матч за 3-е место (ж)
 SUMMARY:⚽ Испания 🇪🇸 - 🇩🇪 Германия
 LOCATION:Стадион «Лион»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T143000Z-handball---GER-ESP
+DTSTAMP:20240809T143000Z
+DTSTART:20240809T143000Z
+DTEND:20240809T163000Z
+DESCRIPTION:Гандбол - Полуфинал (м)
+SUMMARY:🤾 Германия 🇩🇪 - 🇪🇸 Испания
+LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T073300Z-taekwondo-18-67--GER-CUB

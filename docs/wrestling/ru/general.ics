@@ -1444,21 +1444,21 @@ SUMMARY:🤼 Ishak GHAIOU 🇩🇿 - 🇨🇺 Luis Alberto ORTA SANCHEZ
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T090700Z-wrestling--87--DEN-GEO
+DTSTAMP:20240808T090700Z
+DTSTART:20240808T090700Z
+DTEND:20240808T091400Z
+DESCRIPTION:Борьба - Греко-римская, 87кг, утешительный раунд (м)
+SUMMARY:🤼 Turpal Ali BISULTANOV 🇩🇰 - 🇬🇪 Lasha GOBADZE
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T090700Z-wrestling--53-
 DTSTAMP:20240808T090700Z
 DTSTART:20240808T090700Z
 DTEND:20240808T091400Z
 DESCRIPTION:Борьба - Вольная борьба, 53кг, утешительный раунд
 SUMMARY:🤼 Вольная борьба, 53кг, утешительный раунд
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T090700Z-wrestling--87-
-DTSTAMP:20240808T090700Z
-DTSTART:20240808T090700Z
-DTEND:20240808T091400Z
-DESCRIPTION:Борьба - Греко-римская, 87кг, утешительный раунд (м)
-SUMMARY:🤼 Греко-римская, 87кг, утешительный раунд (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -1883,18 +1883,18 @@ UID:20240808T172500Z-wrestling--87-
 DTSTAMP:20240808T172500Z
 DTSTART:20240808T172500Z
 DTEND:20240808T173200Z
-DESCRIPTION:Борьба - Греко-римская, 87кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Греко-римская, 87кг, поединок за бронзу (м)\n🇭🇺
+  David LOSONCZI
 SUMMARY:🤼 Греко-римская, 87кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T173200Z-wrestling--87-
+UID:20240808T173200Z-wrestling--87--IRI-BUL
 DTSTAMP:20240808T173200Z
 DTSTART:20240808T173200Z
 DTEND:20240808T173900Z
-DESCRIPTION:Борьба - Греко-римская, 87кг, финал (м)\n🇮🇷 Alireza
-  MOHMADIPIANI
-SUMMARY:🤼 Греко-римская, 87кг, финал (м)
+DESCRIPTION:Борьба - Греко-римская, 87кг, финал (м)
+SUMMARY:🤼 Alireza MOHMADIPIANI 🇮🇷 - 🇧🇬 Semen Sergeevich NOVIKOV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
