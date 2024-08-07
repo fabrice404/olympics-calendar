@@ -8609,12 +8609,12 @@ SUMMARY:🧗 Трудность, полуфинал (ж)
 LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T080000Z-table-tennis--
+UID:20240808T080000Z-table-tennis---CHN-FRA
 DTSTAMP:20240808T080000Z
 DTSTART:20240808T080000Z
 DTEND:20240808T110000Z
-DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (м)\n🇨🇳 Китай
-SUMMARY:🏓 Полуфинал, командный разряд (м)
+DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (м)
+SUMMARY:🏓 Китай 🇨🇳 - 🇫🇷 Франция
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
@@ -8757,6 +8757,15 @@ DESCRIPTION:Тяжелая атлетика - 59кг (ж)\n🇻🇪 Anyelin VENE
   Folashade LAWAL\n🇨🇴 Yenny ALVAREZ
 SUMMARY:🏋 59кг (ж)
 LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T130000Z-table-tennis---CHN-KOR
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T160000Z
+DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (ж)
+SUMMARY:🏓 Китай 🇨🇳 - 🇰🇷 Южная Корея
+LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T151800Z-cycling-track--
