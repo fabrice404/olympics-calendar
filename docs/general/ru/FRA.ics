@@ -9854,6 +9854,23 @@ SUMMARY:🛶 Байдарки-одиночки 1000м, четвертьфина�
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T123000Z-cycling-track--132-
+DTSTAMP:20240807T123000Z
+DTSTART:20240807T123000Z
+DTEND:20240807T131000Z
+DESCRIPTION:Трековые велогонки - Спринт, 1/32 финала (м)\n🇨🇴 Cristian
+  David ORTEGA FONTALVO\n🇬🇧 Hamish TURNBULL\n🇳🇱 Harrie LAVREYSEN\n🇬🇧
+  Jack CARLIN\n🇸🇷 Jair TJON EN FA\n🇳🇱 Jeffrey HOOGLAND\n🇦🇺 Leigh
+  HOFFMAN\n🇩🇪 Luca SPIEGEL\n🇵🇱 Mateusz RUDYK\n🇦🇺 Matthew
+  RICHARDSON\n🇩🇪 Maximilian DOERNBACH\n🇮🇱 Mikhail YAKOVLEV\n🇲🇾 Mohd
+  Azizulhasni AWANG\n🇲🇾 Muhammad Shah Firdaus SAHROM\n🇹🇹 Nicholas
+  PAUL\n🇨🇦 Nick WAMMES\n🇯🇵 OBARA Yuta\n🇯🇵 OTA Kaiya\n🇫🇷 Rayan
+  HELAL\n🇳🇿 Sam DAKIN\n🇫🇷 Sebastien VIGIER\n🇨🇦 Tyler RORKE\n🇱🇹
+  Vasilijus LENDEL\n🇨🇳 ZHOU Yu
+SUMMARY:🚴 Спринт, 1/32 финала (м)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T124000Z-taekwondo--58--FRA-KOR
 DTSTAMP:20240807T124000Z
 DTSTART:20240807T124000Z
@@ -10429,6 +10446,24 @@ DESCRIPTION:Тяжелая атлетика - 73кг (м)\n🇰🇷 BAK Joohyo\n
   JUNIANSYAH\n🇨🇳 SHI Zhiyong\n🇹🇭 Weeraphon WICHUMA
 SUMMARY:🏋 73кг (м)
 LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173500Z-athletics-1500-
+DTSTAMP:20240808T173500Z
+DTSTART:20240808T173500Z
+DTEND:20240808T175200Z
+DESCRIPTION:Легкая атлетика - 1500м, полуфинал (ж)\n🇫🇷 Agathe
+  GUILLEMOT\n🇪🇸 Agueda MARQUES\n🇪🇹 Birke HAYLOM\n🇪🇹 Diribe
+  WELTEJI\n🇺🇸 Elle ST. PIERRE\n🇺🇸 Emily MACKAY\n🇪🇸 Esther
+  GUERRERO\n🇰🇪 Faith KIPYEGON\n🇬🇧 Georgia BELL\n🇦🇺 Georgia
+  GRIFFITH\n🇪🇹 Gudaf TSEGAY\n🇦🇺 Jessica HULL\n🇵🇱 Klaudia
+  KAZIMIERSKA\n🇬🇧 Laura MUIR\n🇮🇹 Ludovica CAVALLI\n🇳🇿 Maia
+  RAMSDEN\n🇪🇸 Marta PEREZ\n🇰🇪 Nelly CHEPCHIRCHIR\n🇺🇸 Nikki
+  HILTZ\n🇬🇧 Revee WALCOTT-NOLAN\n🇵🇹 Salome AFONSO\n🇮🇹 Sintayehu
+  VISSA\n🇰🇪 Susan Lokayo EJORE\n🇯🇵 TANAKA Nozomi\n🇵🇱 Weronika
+  LIZAKOWSKA
+SUMMARY:🏃 1500м, полуфинал (ж)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T173500Z-athletics--
