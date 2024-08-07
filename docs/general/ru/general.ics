@@ -32773,13 +32773,13 @@ SUMMARY:🤼 Slavik GALSTYAN 🇦🇲 - 🇮🇷 Saeid ESMAEILI LEIVESI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T162300Z-cycling-track--3--DEN-ITA
+UID:20240807T162300Z-cycling-track--3--ITA-DEN
 DTSTAMP:20240807T162300Z
 DTSTART:20240807T162300Z
 DTEND:20240807T163200Z
 DESCRIPTION:Трековые велогонки - Командная гонка преследования, за 3-е
   место (м)
-SUMMARY:🚴 Дания 🇩🇰 - 🇮🇹 Италия
+SUMMARY:🚴 Италия 🇮🇹 - 🇩🇰 Дания
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
@@ -33623,21 +33623,21 @@ SUMMARY:🥋 Kevin Sogo KASSMAN 🇵🇬 - 🇬🇧 Bradly SINDEN
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T090000Z-wrestling--67--SRB-KGZ
+DTSTAMP:20240808T090000Z
+DTSTART:20240808T090000Z
+DTEND:20240808T090700Z
+DESCRIPTION:Борьба - Греко-римская, 67кг, утешительный раунд (м)
+SUMMARY:🤼 Mate NEMES 🇷🇸 - 🇰🇬 Amantur ISMAILOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T090000Z-wrestling--53-
 DTSTAMP:20240808T090000Z
 DTSTART:20240808T090000Z
 DTEND:20240808T090700Z
 DESCRIPTION:Борьба - Вольная борьба, 53кг, утешительный раунд
 SUMMARY:🤼 Вольная борьба, 53кг, утешительный раунд
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T090000Z-wrestling--67-
-DTSTAMP:20240808T090000Z
-DTSTART:20240808T090000Z
-DTEND:20240808T090700Z
-DESCRIPTION:Борьба - Греко-римская, 67кг, утешительный раунд (м)
-SUMMARY:🤼 Греко-римская, 67кг, утешительный раунд (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -34963,7 +34963,8 @@ UID:20240808T165700Z-wrestling--67-
 DTSTAMP:20240808T165700Z
 DTSTART:20240808T165700Z
 DTEND:20240808T170400Z
-DESCRIPTION:Борьба - Греко-римская, 67кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Греко-римская, 67кг, поединок за бронзу (м)\n🇦🇿
+  Hasrat JAFAROV
 SUMMARY:🤼 Греко-римская, 67кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -35008,7 +35009,7 @@ UID:20240808T171100Z-wrestling--67-
 DTSTAMP:20240808T171100Z
 DTSTART:20240808T171100Z
 DTEND:20240808T171800Z
-DESCRIPTION:Борьба - Греко-римская, 67кг, финал (м)
+DESCRIPTION:Борьба - Греко-римская, 67кг, финал (м)\n🇺🇦 Parviz NASIBOV
 SUMMARY:🤼 Греко-римская, 67кг, финал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -36248,7 +36249,7 @@ UID:20240809T140000Z-volleyball--
 DTSTAMP:20240809T140000Z
 DTSTART:20240809T140000Z
 DTEND:20240809T161500Z
-DESCRIPTION:Волейбол - Матч за бронзу (м)
+DESCRIPTION:Волейбол - Матч за бронзу (м)\n🇺🇸 США
 SUMMARY:🏐 Матч за бронзу (м)
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
@@ -37389,7 +37390,7 @@ UID:20240810T110000Z-volleyball--
 DTSTAMP:20240810T110000Z
 DTSTART:20240810T110000Z
 DTEND:20240810T131500Z
-DESCRIPTION:Волейбол - Финал (м)
+DESCRIPTION:Волейбол - Финал (м)\n🇵🇱 Польша
 SUMMARY:🏐 Финал (м)
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
