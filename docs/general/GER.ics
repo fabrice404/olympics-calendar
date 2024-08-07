@@ -8467,6 +8467,25 @@ SUMMARY:🏃 Women's Heptathlon 100m Hurdles
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T082500Z-athletics-WOMENS-SHOT-PUT-QUALIFICATION
+DTSTAMP:20240808T082500Z
+DTSTART:20240808T082500Z
+DTEND:20240808T092100Z
+DESCRIPTION:Athletics - Women's Shot Put Qualification\n🇳🇱 Alida van
+  DAALEN\n🇩🇪 Alina KENZEL\n🇧🇷 Ana Caroline SILVA\n🇿🇦 Ashley
+  ERASMUS\n🇸🇪 Axelina JOHANSSON\n🇺🇸 Chase JACKSON\n🇯🇲 Danniel
+  THOMAS-DODD\n🇲🇩 Dimitriana BEZEDE\n🇵🇹 Eliana BANDEIRA\n🇹🇷 Emel
+  DERELI\n🇮🇸 Erna Soley GUNNARSDOTTIR\n🇸🇪 Fanny ROOS\n🇨🇳 GONG
+  Lijiao\n🇨🇱 Ivana Xennia GALLARDO\n🇺🇸 Jaida ROSS\n🇵🇹 Jessica
+  INCHUDE\n🇳🇱 Jessica SCHILDER\n🇳🇱 Jorinde van KLINKEN\n🇩🇪 Katharina
+  MAISCH\n🇵🇱 Klaudia KARDASZ\n🇧🇷 Livia AVANCINI\n🇯🇲 Lloydricia
+  CAMERON\n🇳🇿 Maddison-Lee WESCHE\n🇪🇸 Maria Belen TOIMIL\n🇿🇦 Mine de
+  KLERK\n🇨🇱 Natalia DUCO\n🇹🇹 Portious WARREN\n🇺🇸 Raven SAUNDERS\n🇨🇳
+  SONG Jiayuan\n🇨🇳 SUN Yue\n🇨🇦 Sarah MITTON\n🇩🇪 Yemisi OGUNLEYE
+SUMMARY:🏃 Women's Shot Put Qualification
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T083000Z-canoe-sprint-WOMENS-CANOE-SINGLE-200M-HEATS
 DTSTAMP:20240808T083000Z
 DTSTART:20240808T083000Z
@@ -8503,6 +8522,17 @@ SUMMARY:🏃 Women's Heptathlon High Jump
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T091000Z-athletics-WOMENS-4-X-100M-RELAY-ROUND-1
+DTSTAMP:20240808T091000Z
+DTSTART:20240808T091000Z
+DTEND:20240808T092000Z
+DESCRIPTION:Athletics - Women's 4 x 100m Relay Round 1\n🇦🇺 AUS\n🇧🇪
+  BEL\n🇨🇦 CAN\n🇨🇮 CIV\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇲
+  JAM\n🇳🇱 NED\n🇳🇬 NGR\n🇵🇱 POL\n🇪🇸 ESP\n🇨🇭 SUI\n🇹🇹 TTO\n🇺🇸 USA
+SUMMARY:🏃 Women's 4 x 100m Relay Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T093000Z-canoe-sprint-MENS-CANOE-DOUBLE-500M-SEMIFINAL-2
 DTSTAMP:20240808T093000Z
 DTSTART:20240808T093000Z
@@ -8512,6 +8542,17 @@ DESCRIPTION:Canoe Sprint - Men's Canoe Double 500m Semifinal 2\n🇮🇹
   LIU/JI\n🇷🇴 SPRINCEAN/NUTA
 SUMMARY:🛶 Men's Canoe Double 500m Semifinal 2
 LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T093500Z-athletics-MENS-4-X-100M-RELAY-ROUND-1
+DTSTAMP:20240808T093500Z
+DTSTART:20240808T093500Z
+DTEND:20240808T094500Z
+DESCRIPTION:Athletics - Men's 4 x 100m Relay Round 1\n🇦🇺 AUS\n🇧🇷
+  BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇭 GHA\n🇬🇧 GBR\n🇮🇹
+  ITA\n🇯🇲 JAM\n🇯🇵 JPN\n🇱🇷 LBR\n🇳🇱 NED\n🇳🇬 NGR\n🇿🇦 RSA\n🇺🇸 USA
+SUMMARY:🏃 Men's 4 x 100m Relay Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T100000Z-canoe-sprint-MENS-KAYAK-FOUR-500M-SEMIFINAL-2

@@ -8123,6 +8123,18 @@ SUMMARY:🏃 女子七種競技走高跳
 LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T091000Z-athletics-4100M
+DTSTAMP:20240808T091000Z
+DTSTART:20240808T091000Z
+DTEND:20240808T092000Z
+DESCRIPTION:陸上競技 - 女子4×100mリレー予選\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇨🇦 カナダ\n🇨🇮 コートジボワール\n🇯🇲 ジャマイカ\n🇨🇭 スイス\n🇪🇸 スペイン\n🇹🇹
+  トリニダード・トバゴ\n🇩🇪 ドイツ\n🇳🇬 ナイジェリア\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇵🇱 ポーランド\n🇬🇧
+  英国
+SUMMARY:🏃 女子4×100mリレー予選
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T093000Z-canoe-sprint-C-2500M-2
 DTSTAMP:20240808T093000Z
 DTSTART:20240808T093000Z
@@ -8132,6 +8144,17 @@ DESCRIPTION:カヌー・スプリント - 男子カナディアンペア（C-2�
   LIU/JI\n🇷🇴 SPRINCEAN/NUTA
 SUMMARY:🛶 男子カナディアンペア（C-2）500m準決勝 - 2組
 LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T093500Z-athletics-4100M
+DTSTAMP:20240808T093500Z
+DTSTART:20240808T093500Z
+DTEND:20240808T094500Z
+DESCRIPTION:陸上競技 - 男子4×100mリレー予選\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇳🇱 オランダ\n🇦🇺
+  オーストラリア\n🇨🇦 カナダ\n🇬🇭 ガーナ\n🇯🇲 ジャマイカ\n🇩🇪 ドイツ\n🇳🇬 ナイジェリア\n🇫🇷
+  フランス\n🇧🇷 ブラジル\n🇱🇷 リベリア\n🇨🇳 中国\n🇿🇦 南アフリカ\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏃 男子4×100mリレー予選
+LOCATION:スタッド・ド・フランス
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T110000Z-water-polo-5-8-ITA-CAN
