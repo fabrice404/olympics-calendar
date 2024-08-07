@@ -31777,6 +31777,15 @@ SUMMARY:⛵ Кайт, гонка 07 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T101000Z-wrestling--53-14--GER-TUR
+DTSTAMP:20240807T101000Z
+DTSTART:20240807T101000Z
+DTEND:20240807T101700Z
+DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/4 финала (ж)
+SUMMARY:🤼 Annika WENDLE 🇩🇪 - 🇹🇷 Zeynep YETGIL
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T101000Z-wrestling--87-14--POL-IRI
 DTSTAMP:20240807T101000Z
 DTSTART:20240807T101000Z
@@ -31792,16 +31801,6 @@ DTSTART:20240807T101000Z
 DTEND:20240807T101700Z
 DESCRIPTION:Борьба - Греко-римская, 67кг, 1/4 финала (м)
 SUMMARY:🤼 Hasrat JAFAROV 🇦🇿 - 🇲🇩 Valentin PETIC
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T101000Z-wrestling--53-14-
-DTSTAMP:20240807T101000Z
-DTSTART:20240807T101000Z
-DTEND:20240807T101700Z
-DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/4 финала (ж)\n🇩🇪 Annika
-  WENDLE
-SUMMARY:🤼 Вольная борьба, 53кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -31826,32 +31825,31 @@ SUMMARY:⛵ Швертбот, медальная гонка (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T101700Z-wrestling--67-14--KGZ-UKR
+DTSTAMP:20240807T101700Z
+DTSTART:20240807T101700Z
+DTEND:20240807T102400Z
+DESCRIPTION:Борьба - Греко-римская, 67кг, 1/4 финала (м)
+SUMMARY:🤼 Amantur ISMAILOV 🇰🇬 - 🇺🇦 Parviz NASIBOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T101700Z-wrestling--87-14--KAZ-UKR
+DTSTAMP:20240807T101700Z
+DTSTART:20240807T101700Z
+DTEND:20240807T102400Z
+DESCRIPTION:Борьба - Греко-римская, 87кг, 1/4 финала (м)
+SUMMARY:🤼 Nursultan TURSYNOV 🇰🇿 - 🇺🇦 Zhan BELENIUK
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T101700Z-wrestling--53-14-
 DTSTAMP:20240807T101700Z
 DTSTART:20240807T101700Z
 DTEND:20240807T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/4 финала (ж)\n🇯🇵 FUJINAMI
+  Akari
 SUMMARY:🤼 Вольная борьба, 53кг, 1/4 финала (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T101700Z-wrestling--67-14-
-DTSTAMP:20240807T101700Z
-DTSTART:20240807T101700Z
-DTEND:20240807T102400Z
-DESCRIPTION:Борьба - Греко-римская, 67кг, 1/4 финала (м)\n🇰🇬 Amantur
-  ISMAILOV
-SUMMARY:🤼 Греко-римская, 67кг, 1/4 финала (м)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T101700Z-wrestling--87-14-
-DTSTAMP:20240807T101700Z
-DTSTART:20240807T101700Z
-DTEND:20240807T102400Z
-DESCRIPTION:Борьба - Греко-римская, 87кг, 1/4 финала (м)\n🇰🇿 Nursultan
-  TURSYNOV
-SUMMARY:🤼 Греко-римская, 87кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -32383,13 +32381,12 @@ SUMMARY:🚴 Кейрин, утешительный раунд (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T131900Z-taekwondo--49-
+UID:20240807T131900Z-taekwondo--49--ESP-IRI
 DTSTAMP:20240807T131900Z
 DTSTART:20240807T131900Z
 DTEND:20240807T133200Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 49кг (ж)\n🇪🇸 Adriana CEREZO
-  IGLESIAS
-SUMMARY:🥋 Четвертьфинал, до 49кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 49кг (ж)
+SUMMARY:🥋 Adriana CEREZO IGLESIAS 🇪🇸 - 🇮🇷 Mobina NEMATZADEH
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -35181,7 +35178,9 @@ UID:20240809T081500Z-sport-climbing--
 DTSTAMP:20240809T081500Z
 DTSTART:20240809T081500Z
 DTEND:20240809T095200Z
-DESCRIPTION:Спортивное скалолазание - Боулдеринг, финал (м)
+DESCRIPTION:Спортивное скалолазание - Боулдеринг, финал (м)\n🇯🇵 ANRAKU
+  Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin DUFFY\n🇬🇧
+  Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧 Toby ROBERTS
 SUMMARY:🧗 Боулдеринг, финал (м)
 LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
@@ -35495,7 +35494,9 @@ UID:20240809T103500Z-sport-climbing--
 DTSTAMP:20240809T103500Z
 DTSTART:20240809T103500Z
 DTEND:20240809T112000Z
-DESCRIPTION:Спортивное скалолазание - Трудность, финал (м)
+DESCRIPTION:Спортивное скалолазание - Трудность, финал (м)\n🇯🇵 ANRAKU
+  Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin DUFFY\n🇬🇧
+  Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧 Toby ROBERTS
 SUMMARY:🧗 Трудность, финал (м)
 LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT

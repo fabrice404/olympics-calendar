@@ -10434,6 +10434,18 @@ SUMMARY:🥋 Kristina TEACHOUT 🇺🇸 - 🇫🇷 Magda WIET-HENIN
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T081500Z-sport-climbing-MENS-BOULDER-LEAD-FINAL-BOULDER
+DTSTAMP:20240809T081500Z
+DTSTART:20240809T081500Z
+DTEND:20240809T095200Z
+DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Final Boulder\n🇯🇵
+  ANRAKU Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin
+  DUFFY\n🇬🇧 Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧
+  Toby ROBERTS
+SUMMARY:🧗 Men's Boulder & Lead, Final Boulder
+LOCATION:Le Bourget Climbing Venue
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T084000Z-canoe-sprint-WOMENS-CANOE-DOUBLE-500M-SEMIFINAL-2
 DTSTAMP:20240809T084000Z
 DTSTART:20240809T084000Z
@@ -10455,6 +10467,17 @@ DESCRIPTION:Canoe Sprint - Women's Kayak Double 500m Semifinal 2\n🇳🇿
   STENSILS/WIKBERG\n🇨🇳 YU/CHEN
 SUMMARY:🛶 Women's Kayak Double 500m Semifinal 2
 LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103500Z-sport-climbing-MENS-BOULDER-LEAD-FINAL-LEAD
+DTSTAMP:20240809T103500Z
+DTSTART:20240809T103500Z
+DTEND:20240809T112000Z
+DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Final Lead\n🇯🇵 ANRAKU
+  Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin DUFFY\n🇬🇧
+  Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧 Toby ROBERTS
+SUMMARY:🧗 Men's Boulder & Lead, Final Lead
+LOCATION:Le Bourget Climbing Venue
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T130000Z-weightlifting-MENS-89KG

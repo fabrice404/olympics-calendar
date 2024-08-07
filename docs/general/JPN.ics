@@ -5958,6 +5958,16 @@ SUMMARY:🤼 SOGABE Kyotaro 🇯🇵 - 🇨🇺 Luis Alberto ORTA SANCHEZ
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T101700Z-wrestling-WOMENS-FREESTYLE-53KG-14-FINAL
+DTSTAMP:20240807T101700Z
+DTSTART:20240807T101700Z
+DTEND:20240807T102400Z
+DESCRIPTION:Wrestling - Women's Freestyle 53kg 1/4 Final\n🇯🇵 FUJINAMI
+  Akari
+SUMMARY:🤼 Women's Freestyle 53kg 1/4 Final
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T103000Z-skateboarding-MENS-PARK-PRELIMS
 DTSTAMP:20240807T103000Z
 DTSTART:20240807T103000Z
@@ -6286,6 +6296,29 @@ DESCRIPTION:Diving - Men's 10m Platform Preliminary\n🇨🇴 Alejandro
   Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪 Timo BARTHEL\n🇨🇳 YANG Hao
 SUMMARY:🏊 Men's 10m Platform Preliminary
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T081500Z-sport-climbing-MENS-BOULDER-LEAD-FINAL-BOULDER
+DTSTAMP:20240809T081500Z
+DTSTART:20240809T081500Z
+DTEND:20240809T095200Z
+DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Final Boulder\n🇯🇵
+  ANRAKU Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin
+  DUFFY\n🇬🇧 Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧
+  Toby ROBERTS
+SUMMARY:🧗 Men's Boulder & Lead, Final Boulder
+LOCATION:Le Bourget Climbing Venue
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103500Z-sport-climbing-MENS-BOULDER-LEAD-FINAL-LEAD
+DTSTAMP:20240809T103500Z
+DTSTART:20240809T103500Z
+DTEND:20240809T112000Z
+DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Final Lead\n🇯🇵 ANRAKU
+  Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin DUFFY\n🇬🇧
+  Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧 Toby ROBERTS
+SUMMARY:🧗 Men's Boulder & Lead, Final Lead
+LOCATION:Le Bourget Climbing Venue
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T173000Z-artistic-swimming-DUET-TECHNICAL-ROUTINE

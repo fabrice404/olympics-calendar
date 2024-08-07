@@ -3480,6 +3480,17 @@ SUMMARY:🏊 10км (м)
 LOCATION:Мост Александра III
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T081500Z-sport-climbing--
+DTSTAMP:20240809T081500Z
+DTSTART:20240809T081500Z
+DTEND:20240809T095200Z
+DESCRIPTION:Спортивное скалолазание - Боулдеринг, финал (м)\n🇯🇵 ANRAKU
+  Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin DUFFY\n🇬🇧
+  Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧 Toby ROBERTS
+SUMMARY:🧗 Боулдеринг, финал (м)
+LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T091000Z-canoe-sprint--500-1-
 DTSTAMP:20240809T091000Z
 DTSTART:20240809T091000Z
@@ -3490,6 +3501,17 @@ DESCRIPTION:Гребной спринт - Байдарки-двойки 500м, �
   SPICAR/HAVEL\n🇵🇱 STEPUN/KORSAK
 SUMMARY:🛶 Байдарки-двойки 500м, полуфинал 1 (м)
 LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103500Z-sport-climbing--
+DTSTAMP:20240809T103500Z
+DTSTART:20240809T103500Z
+DTEND:20240809T112000Z
+DESCRIPTION:Спортивное скалолазание - Трудность, финал (м)\n🇯🇵 ANRAKU
+  Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin DUFFY\n🇬🇧
+  Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧 Toby ROBERTS
+SUMMARY:🧗 Трудность, финал (м)
+LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T084700Z-taekwondo-18-67--CZE-KOR

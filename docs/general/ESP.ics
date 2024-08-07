@@ -6469,13 +6469,12 @@ SUMMARY:🏊 Women's 3m Springboard Preliminary
 LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T131900Z-taekwondo-WOMEN-49KG-QUARTERFINAL
+UID:20240807T131900Z-taekwondo-WOMEN-49KG-QUARTERFINAL-ESP-IRI
 DTSTAMP:20240807T131900Z
 DTSTART:20240807T131900Z
 DTEND:20240807T133200Z
-DESCRIPTION:Taekwondo - Women -49kg Quarterfinal\n🇪🇸 Adriana CEREZO
-  IGLESIAS
-SUMMARY:🥋 Women -49kg Quarterfinal
+DESCRIPTION:Taekwondo - Women -49kg Quarterfinal
+SUMMARY:🥋 Adriana CEREZO IGLESIAS 🇪🇸 - 🇮🇷 Mobina NEMATZADEH
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -6839,6 +6838,18 @@ SUMMARY:🥋 Aya SHEHATA 🇪🇬 - 🇪🇸 Cecilia CASTRO BURGOS
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T081500Z-sport-climbing-MENS-BOULDER-LEAD-FINAL-BOULDER
+DTSTAMP:20240809T081500Z
+DTSTART:20240809T081500Z
+DTEND:20240809T095200Z
+DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Final Boulder\n🇯🇵
+  ANRAKU Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin
+  DUFFY\n🇬🇧 Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧
+  Toby ROBERTS
+SUMMARY:🧗 Men's Boulder & Lead, Final Boulder
+LOCATION:Le Bourget Climbing Venue
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T083000Z-canoe-sprint-WOMENS-CANOE-DOUBLE-500M-SEMIFINAL-1
 DTSTAMP:20240809T083000Z
 DTSTART:20240809T083000Z
@@ -6872,6 +6883,17 @@ DESCRIPTION:Canoe Sprint - Men's Kayak Double 500m Semifinal 2\n🇪🇸
   del RIO/COOPER\n🇦🇺 van der WE/GREEN
 SUMMARY:🛶 Men's Kayak Double 500m Semifinal 2
 LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103500Z-sport-climbing-MENS-BOULDER-LEAD-FINAL-LEAD
+DTSTAMP:20240809T103500Z
+DTSTART:20240809T103500Z
+DTEND:20240809T112000Z
+DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Final Lead\n🇯🇵 ANRAKU
+  Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin DUFFY\n🇬🇧
+  Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧 Toby ROBERTS
+SUMMARY:🧗 Men's Boulder & Lead, Final Lead
+LOCATION:Le Bourget Climbing Venue
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T130000Z-football-WOMENS-BRONZE-MEDAL-MATCH-ESP-GER

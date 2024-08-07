@@ -3471,6 +3471,18 @@ SUMMARY:🏊 Men's 10km
 LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T081500Z-sport-climbing-MENS-BOULDER-LEAD-FINAL-BOULDER
+DTSTAMP:20240809T081500Z
+DTSTART:20240809T081500Z
+DTEND:20240809T095200Z
+DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Final Boulder\n🇯🇵
+  ANRAKU Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin
+  DUFFY\n🇬🇧 Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧
+  Toby ROBERTS
+SUMMARY:🧗 Men's Boulder & Lead, Final Boulder
+LOCATION:Le Bourget Climbing Venue
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T091000Z-canoe-sprint-MENS-KAYAK-DOUBLE-500M-SEMIFINAL-1
 DTSTAMP:20240809T091000Z
 DTSTART:20240809T091000Z
@@ -3481,6 +3493,17 @@ DESCRIPTION:Canoe Sprint - Men's Kayak Double 500m Semifinal 1\n🇺🇸
   SPICAR/HAVEL\n🇵🇱 STEPUN/KORSAK
 SUMMARY:🛶 Men's Kayak Double 500m Semifinal 1
 LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103500Z-sport-climbing-MENS-BOULDER-LEAD-FINAL-LEAD
+DTSTAMP:20240809T103500Z
+DTSTART:20240809T103500Z
+DTEND:20240809T112000Z
+DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Final Lead\n🇯🇵 ANRAKU
+  Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin DUFFY\n🇬🇧
+  Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧 Toby ROBERTS
+SUMMARY:🧗 Men's Boulder & Lead, Final Lead
+LOCATION:Le Bourget Climbing Venue
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T084700Z-taekwondo-WOMEN-67KG-ROUND-OF-16-CZE-KOR

@@ -6486,13 +6486,12 @@ SUMMARY:🏊 Трамплин 3м, предварительный раунд (ж
 LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T131900Z-taekwondo--49-
+UID:20240807T131900Z-taekwondo--49--ESP-IRI
 DTSTAMP:20240807T131900Z
 DTSTART:20240807T131900Z
 DTEND:20240807T133200Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 49кг (ж)\n🇪🇸 Adriana CEREZO
-  IGLESIAS
-SUMMARY:🥋 Четвертьфинал, до 49кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 49кг (ж)
+SUMMARY:🥋 Adriana CEREZO IGLESIAS 🇪🇸 - 🇮🇷 Mobina NEMATZADEH
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -6861,6 +6860,17 @@ SUMMARY:🥋 Aya SHEHATA 🇪🇬 - 🇪🇸 Cecilia CASTRO BURGOS
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T081500Z-sport-climbing--
+DTSTAMP:20240809T081500Z
+DTSTART:20240809T081500Z
+DTEND:20240809T095200Z
+DESCRIPTION:Спортивное скалолазание - Боулдеринг, финал (м)\n🇯🇵 ANRAKU
+  Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin DUFFY\n🇬🇧
+  Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧 Toby ROBERTS
+SUMMARY:🧗 Боулдеринг, финал (м)
+LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T083000Z-canoe-sprint--500-1-
 DTSTAMP:20240809T083000Z
 DTSTART:20240809T083000Z
@@ -6894,6 +6904,17 @@ DESCRIPTION:Гребной спринт - Байдарки-двойки 500м, �
   del RIO/COOPER\n🇦🇺 van der WE/GREEN
 SUMMARY:🛶 Байдарки-двойки 500м, полуфинал 2 (м)
 LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103500Z-sport-climbing--
+DTSTAMP:20240809T103500Z
+DTSTART:20240809T103500Z
+DTEND:20240809T112000Z
+DESCRIPTION:Спортивное скалолазание - Трудность, финал (м)\n🇯🇵 ANRAKU
+  Sorato\n🇨🇿 Adam ONDRA\n🇪🇸 Alberto GINES LOPEZ\n🇺🇸 Colin DUFFY\n🇬🇧
+  Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧 Toby ROBERTS
+SUMMARY:🧗 Трудность, финал (м)
+LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T130000Z-football--3--ESP-GER
