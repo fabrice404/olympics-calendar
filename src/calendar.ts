@@ -487,7 +487,19 @@ export class Calendar {
       content.push(`  <table class="table-full">`);
 
       let lastDate = "";
-      for (const medal of this.medals.filter((m) => m.noc === noc.noc).sort((a, b) => a.date > b.date ? -1 : 1)) {
+      for (const medal of this.medals
+        .filter((m) => m.noc === noc.noc)
+        .sort((a, b) => {
+          if (a.date !== b.date) {
+            return a.date > b.date ? -1 : 1
+          }
+          const colors = ["gold", "silver", "bronze"];
+          if (a.color !== b.color) {
+            return colors.indexOf(a.color) > colors.indexOf(b.color) ? 1 : -1;
+          }
+          return a.name > b.name ? 1 : -1;
+        })
+      ) {
         let medalDate = medal.date.substring(0, 10);
         if (medalDate !== lastDate) {
           content.push(`    <tr><td colspan="3" class="font-medium">${medalDate}</td></tr>`);
