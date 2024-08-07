@@ -4,6 +4,29 @@ PRODID:-//fabrice404//olympics-calendar//athletics/zh/COL//EN
 X-WR-CALNAME:🇨🇴 Colombia 田径 | Paris 2024
 NAME:🇨🇴 Colombia 田径 | Paris 2024
 BEGIN:VEVENT
+UID:20240801T075000Z-athletics-20
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
+DESCRIPTION:田径 - 女子20公里竞走决赛\n🇲🇽 Alegna GONZALEZ\n🇲🇽 Alejandra
+  ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹 Antonella
+  PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸 Cristina
+  MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica
+  SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨
+  Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima
+  MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇨🇳 LIU
+  Hong\n🇪🇸 Laura GARCIA-CARO\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila
+  OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria
+  KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz
+  ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳
+  PRIYANKA\n🇪🇨 Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de
+  ORBETA\n🇦🇺 Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹
+  Valentina TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷
+  Viviane LYRA\n🇨🇳 YANG Jiayu
+SUMMARY:🏃 女子20公里竞走决赛
+LOCATION:特罗卡德罗
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T095500Z-athletics-1001
 DTSTAMP:20240803T095500Z
 DTSTART:20240803T095500Z
@@ -213,6 +236,34 @@ DESCRIPTION:田径 - 马拉松竞走混合接力\n🇺🇦 BANZERUK/OLYANOVSKA\n
   ZHANG Jun/YANG Jiayu
 SUMMARY:🏃 马拉松竞走混合接力
 LOCATION:特罗卡德罗
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T082500Z-athletics--A
+DTSTAMP:20240807T082500Z
+DTSTART:20240807T082500Z
+DTEND:20240807T092100Z
+DESCRIPTION:田径 - 女子标枪资格赛 - A组\n🇮🇳 Annu RANI\n🇩🇪 Christin HUSSONG\n🇨🇳
+  DAI Qianqian\n🇱🇰 Dilhani LEKAMGE\n🇿🇦 Jo-Ane van DYK\n🇧🇷 Jucilene
+  Sales de LIMA\n🇦🇺 Kathryn MITCHELL\n🇱🇻 Lina MUZE-SIRMA\n🇦🇺
+  Mackenzie LITTLE\n🇺🇸 Maggie MALONE-HARDIN\n🇨🇴 Maria Lucelly
+  MURILLO\n🇨🇿 Nikola OGRODNIKOVA\n🇧🇸 Rhema OTABOR\n🇯🇵 SAITO
+  Marina\n🇳🇿 Tori PEETERS\n🇦🇹 Victoria HUDSON
+SUMMARY:🏃 女子标枪资格赛 - A组
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T095000Z-athletics--B
+DTSTAMP:20240807T095000Z
+DTSTART:20240807T095000Z
+DTEND:20240807T104600Z
+DESCRIPTION:田径 - 女子标枪资格赛 - B组\n🇷🇸 Adriana VILAGOS\n🇱🇻 Anete
+  SIETINA\n🇫🇮 Anni-Linnea ALANEN\n🇹🇷 Eda TUGSUZ\n🇬🇷 Elina
+  TZENGKO\n🇨🇴 Flor Denis RUIZ HURTADO\n🇯🇵 KITAGUCHI Haruka\n🇦🇺
+  Kelsey-Lee BARBER\n🇨🇳 LYU Huihui\n🇱🇹 Liveta JASIUNAITE\n🇵🇱 Maria
+  ANDREJCZYK\n🇳🇴 Marie-Therese OBST\n🇨🇿 Petra SICAKOVA\n🇭🇷 Sara
+  KOLAK\n🇯🇵 UEDA Momone\n🇪🇸 Yulenmis AGUILAR
+SUMMARY:🏃 女子标枪资格赛 - B组
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T171500Z-athletics-

@@ -4,6 +4,42 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ru/GER//EN
 X-WR-CALNAME:🇩🇪 Germany Бокс | Paris 2024
 NAME:🇩🇪 Germany Бокс | Paris 2024
 BEGIN:VEVENT
+UID:20240728T102000Z-boxing--116-50--GER-IND
+DTSTAMP:20240728T102000Z
+DTSTART:20240728T102000Z
+DTEND:20240728T103100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 50кг (ж)
+SUMMARY:🥊 Maxi Carina KLOETZER 🇩🇪 - 🇮🇳 Zareen NIKHAT
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T180000Z-boxing--116-71--GER-MOZ
+DTSTAMP:20240728T180000Z
+DTSTART:20240728T180000Z
+DTEND:20240728T181100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 71кг (м)
+SUMMARY:🥊 Magomed Elim Sultanovic SCHACHIDOV 🇩🇪 - 🇲🇿 Tiago MUXANGA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T105200Z-boxing--18-92--GER-AZE
+DTSTAMP:20240729T105200Z
+DTSTART:20240729T105200Z
+DTEND:20240729T110300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, свыше 92кг (м)
+SUMMARY:🥊 Nelvie Raman TIAFACK 🇩🇪 - 🇦🇿 Mahammad ABDULLAYEV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T153800Z-boxing--92--ITA-GER
+DTSTAMP:20240802T153800Z
+DTSTART:20240802T153800Z
+DTEND:20240802T154900Z
+DESCRIPTION:Бокс - Четвертьфинал, свыше 92кг (м)
+SUMMARY:🥊 Diego LENZI 🇮🇹 - 🇩🇪 Nelvie Raman TIAFACK
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T200200Z-boxing--92--GER-UZB
 DTSTAMP:20240807T200200Z
 DTSTART:20240807T200200Z

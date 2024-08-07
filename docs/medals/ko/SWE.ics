@@ -4,18 +4,36 @@ PRODID:-//fabrice404//olympics-calendar//medals/ko/SWE//EN
 X-WR-CALNAME:🇸🇪 Sweden 🏅 | Paris 2024
 NAME:🇸🇪 Sweden 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240727T145400Z-judo--48KG-B-KAZ-SWE
+DTSTAMP:20240727T145400Z
+DTSTART:20240727T145400Z
+DTEND:20240727T150000Z
+DESCRIPTION:유도 - 여자 -48kg 동메달 결정전 B
+SUMMARY:🥋 Abiba ABUZHAKYNOVA 🇰🇿 - 🇸🇪 Tara BABULFATH
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T193400Z-swimming--4-X-100M-
+DTSTAMP:20240727T193400Z
+DTSTART:20240727T193400Z
+DTEND:20240727T194400Z
+DESCRIPTION:경영 - 여자 4 x 100m 자유형 계영 결승\n🇺🇸 미국\n🇸🇪 스웨덴\n🇬🇧 영국\n🇦🇺
+  오스트레일리아\n🇮🇹 이탈리아\n🇨🇳 중국\n🇨🇦 캐나다\n🇫🇷 프랑스
+SUMMARY:🏊 여자 4 x 100m 자유형 계영 결승
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike--
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
 DESCRIPTION:사이클 산악자전거 - 여자 크로스컨트리\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
-  KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
-  Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
-  MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
-  SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella
-  HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla MWAMIKAZI\n🇸🇪 Jenny
-  RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷 Loana
-  LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
+  KELLER\n🇳🇱 Anne TERPSTRA\n🇭🇺 Blanka VAS\n🇿🇦 Candice LILL\n🇩🇰
+  Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella MACLEAN-HOWELL\n🇧🇪
+  Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ SUAREZ\n🇬🇧 Evie
+  RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella HOLMGREN\n🇪🇪 Janika
+  LOIV\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷
+  Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
   BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND PREVOT\n🇳🇱 Puck
   PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel QUEIROS\n🇦🇺 Rebecca
   HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
@@ -23,6 +41,163 @@ DESCRIPTION:사이클 산악자전거 - 여자 크로스컨트리\n🇨🇿 Adel
   BELOMOINA
 SUMMARY:🚴 여자 크로스컨트리
 LOCATION:엘랑쿠르 힐
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T184000Z-swimming--100M-
+DTSTAMP:20240728T184000Z
+DTSTART:20240728T184000Z
+DTEND:20240728T184600Z
+DESCRIPTION:경영 - 여자 100m 접영 결승\n🇩🇪 Angelina KOEHLER\n🇦🇺 Emma
+  McKEON\n🇺🇸 Gretchen WALSH\n🇯🇵 HIRAI Mizuki\n🇸🇪 Louise HANSSON\n🇨🇦
+  Margaret MAC NEIL\n🇺🇸 Torri HUSKE\n🇨🇳 ZHANG Yufei
+SUMMARY:🏊 여자 100m 접영 결승
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-equestrian--
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T114000Z
+DESCRIPTION:승마 - 종합마술 단체 장애물 결승\n🇳🇱 네덜란드\n🇳🇿 뉴질랜드\n🇩🇪 독일\n🇺🇸
+  미국\n🇧🇪 벨기에\n🇧🇷 브라질\n🇸🇪 스웨덴\n🇨🇭 스위스\n🇮🇪 아일랜드\n🇬🇧 영국\n🇦🇺
+  오스트레일리아\n🇮🇹 이탈리아\n🇯🇵 일본\n🇨🇦 캐나다\n🇵🇱 폴란드\n🇫🇷 프랑스
+SUMMARY:🏇 종합마술 단체 장애물 결승
+LOCATION:샤토 드 베르사유
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100000Z-shooting--10M-
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T104500Z
+DESCRIPTION:사격 - 남자 10m 공기소총 결승\n🇮🇳 Arjun BABUTA\n🇰🇷 CHOE Daehan\n🇮🇹
+  Danilo Dennis SOLLAZZO\n🇦🇷 Marcelo Julian GUTIERREZ\n🇭🇷 Miran
+  MARICIC\n🇭🇷 Petar GORSA\n🇨🇳 SHENG Lihao\n🇸🇪 Victor LINDGREN
+SUMMARY:🔫 남자 10m 공기소총 결승
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T130000Z-equestrian--
+DTSTAMP:20240729T130000Z
+DTSTART:20240729T130000Z
+DTEND:20240729T140000Z
+DESCRIPTION:승마 - 종합마술 개인 장애물 결승\n🇮🇪 Austin O'CONNOR\n🇺🇸 Boyd
+  MARTIN\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth
+  HALLIDAY\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida
+  ANDERSEN\n🇨🇳 HUA TIAN Alex\n🇳🇱 Janneke BOONZAAIJER\n🇩🇪 Julia
+  KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇧🇪 Lara de
+  LIEDEKERKE - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇩🇪 Michael
+  JUNG\n🇫🇷 Nicolas TOUZAINT\n🇯🇵 OIWA Yoshiaki\n🇬🇧 Rosalind
+  CANTER\n🇦🇺 Shane ROSE\n🇫🇷 Stephane LANDOIS\n🇯🇵 TOMOTO Kazuma\n🇳🇿
+  Tim PRICE\n🇬🇧 Tom McEWEN
+SUMMARY:🏇 종합마술 개인 장애물 결승
+LOCATION:샤토 드 베르사유
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T133000Z-shooting--
+DTSTAMP:20240730T133000Z
+DTSTART:20240730T133000Z
+DTEND:20240730T144500Z
+DESCRIPTION:사격 - 남자 트랩 결승\n🇺🇸 Derrick Scott MEIN\n🇦🇺 James
+  WILLETT\n🇬🇹 Jean Pierre BROL CARDENAS\n🇬🇧 Nathan HALES\n🇨🇳 QI
+  Ying\n🇸🇪 Rickard LEVIN-ANDERSSON
+SUMMARY:🔫 남자 트랩 결승
+LOCATION:샤토루 사격 센터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T060000Z-triathlon--
+DTSTAMP:20240731T060000Z
+DTSTART:20240731T060000Z
+DTEND:20240731T080500Z
+DESCRIPTION:트라이애슬론 - 여자 개인\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
+  PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧 Beth
+  POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
+  SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
+  HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
+  LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
+  Georgia TAYLOR-BROWN\n🇱🇺 Jeanne LEHAIR\n🇧🇪 Jolien VERMEYLEN\n🇦🇹
+  Julia HAUSER\n🇨🇭 Julie DERRON\n🇬🇧 Kate WAUGH\n🇺🇸 Kirsten
+  KASPER\n🇨🇳 LIN Xinyu\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇦🇹
+  Lisa PERTERER\n🇩🇪 Lisa TERTSCH\n🇲🇽 Lizeth RUEDA SANTOS\n🇳🇴 Lotte
+  MILLER\n🇬🇺 Manami IIJIMA\n🇨🇴 Maria Carolina VELASQUEZ SOTO\n🇵🇹
+  Maria TOME\n🇳🇱 Maya KINGMA\n🇵🇹 Melanie SANTOS\n🇪🇸 Miriam CASILLAS
+  GARCIA\n🇦🇺 Natalie van COEVORDEN\n🇳🇿 Nicole van der KAAY\n🇩🇪 Nina
+  EIM\n🇨🇿 Petra KURIKOVA\n🇳🇱 Rachel KLAMER\n🇵🇱 Roksana SLUPEK\n🇦🇷
+  Romina BIAGIOLI\n🇲🇽 Rosa Maria TAPIA VIDAL\n🇳🇴 Solveig LOVSETH\n🇦🇺
+  Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
+  SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
+  MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
+SUMMARY:🏊 여자 개인
+LOCATION:알렉상드르 3세 다리
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T183000Z-swimming--100M-
+DTSTAMP:20240731T183000Z
+DTSTART:20240731T183000Z
+DTEND:20240731T183700Z
+DESCRIPTION:경영 - 여자 100m 자유형 결승\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan
+  Bernadette\n🇳🇱 Marrit STEENBERGEN\n🇦🇺 Mollie O'CALLAGHAN\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Torri HUSKE\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 여자 100m 자유형 결승
+LOCATION:파리 라 데팡스 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T060000Z-athletics--20KM-
+DTSTAMP:20240801T060000Z
+DTSTART:20240801T060000Z
+DTEND:20240801T073500Z
+DESCRIPTION:육상 - 남자 20km 경보 결승\n🇮🇳 Akshdeep SINGH\n🇪🇸 Alvaro
+  MARTIN\n🇵🇱 Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence
+  VENYERCSAN\n🇪🇨 Brian Daniel PINTADO\n🇰🇷 CHOE Byeongkwang\n🇧🇷 Caio
+  BONFIM\n🇬🇧 Callum WILKINSON\n🇵🇪 Cesar Augusto RODRIGUEZ\n🇩🇪
+  Christopher LINKE\n🇪🇨 David HURTADO\n🇦🇺 Declan TINGAY\n🇪🇸 Diego
+  GARCIA CARRERA\n🇸🇰 Dominik CERNY\n🇬🇹 Erick Bernabe BARRONDO\n🇨🇦
+  Evan DUNFEE\n🇮🇹 Francesco FORTUNATO\n🇫🇷 Gabriel BORDIER\n🇯🇵
+  HAMANISHI Ryo\n🇯🇵 IKEDA Koki\n🇺🇦 Ihor HLAVAN\n🇪🇨 Jordy Rafael
+  JIMENEZ ARROBO\n🇬🇹 Jose Alejandro BARRONDO\n🇲🇽 Jose Luis DOCTOR\n🇯🇵
+  KOGA Yuta\n🇦🇺 Kyle SWAN\n🇨🇳 LI Yandong\n🇩🇪 Leo KOEPP\n🇵🇪 Luis
+  Henry CAMPOS\n🇵🇱 Maher BEN HLIMA\n🇮🇹 Massimo STANO\n🇭🇺 Mate
+  HELEBRANDT\n🇧🇷 Matheus CORREA\n🇧🇷 Max Batista GONCALVES dos
+  SANTOS\n🇪🇹 Misgana WAKUMA\n🇲🇽 Noel CHAMA\n🇮🇳 Paramjeet Singh
+  BISHT\n🇪🇸 Paul McGRATH\n🇸🇪 Perseus KARLSTROM\n🇦🇺 Rhydian
+  COWLEY\n🇲🇽 Ricardo ORTIZ\n🇮🇹 Riccardo ORSONI\n🇹🇷 Salih
+  KORKMAZ\n🇰🇪 Samuel Kireri GATHIMBA\n🇫🇮 Veli-Matti PARTANEN\n🇮🇳
+  Vikash SINGH\n🇨🇳 WANG Zhaozhao\n🇨🇳 ZHANG Jun
+SUMMARY:🏃 남자 20km 경보 결승
+LOCATION:트로카데로
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T153000Z-canoe-slalom--1-
+DTSTAMP:20240801T153000Z
+DTSTART:20240801T153000Z
+DTEND:20240801T161400Z
+DESCRIPTION:카누 슬라럼 - 남자 카약 1인승 결승\n🇦🇹 Felix OSCHMAUTZ\n🇮🇹 Giovanni de
+  GENNARO\n🇸🇪 Isak OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇬🇧
+  Joseph CLARKE\n🇨🇭 Martin DOUGOUD\n🇩🇪 Noah HEGGE\n🇪🇸 Pau
+  ECHANIZ\n🇨🇳 QUAN Xin\n🇦🇺 Timothy ANDERSON\n🇫🇷 Titouan CASTRYCK
+SUMMARY:🛶 남자 카약 1인승 결승
+LOCATION:카누 경기장 - 화이트워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T101300Z-sailing--
+DTSTAMP:20240802T101300Z
+DTSTART:20240802T101300Z
+DTEND:20240802T103800Z
+DESCRIPTION:요트 - 여자 스키프 메달 레이스\n🇳🇱 AANHOLT/DUETZ\n🇳🇿 ALEH/MEECH\n🇩🇪
+  BERGMANN/WILLE\n🇸🇪 BOBECK/NETZLER\n🇮🇹 GERMANI/BERTUZZI\n🇳🇴
+  NAESS/ROENNINGEN\n🇦🇺 PRICE/HASELDINE\n🇺🇸 ROBLE/SHEA\n🇧🇷
+  SOFFIATTI/KUNZE\n🇫🇷 STEYAERT/PICON
+SUMMARY:⛵ 여자 스키프 메달 레이스
+LOCATION:마르세유 마리나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T120000Z-equestrian--
+DTSTAMP:20240802T120000Z
+DTSTART:20240802T120000Z
+DTEND:20240802T134100Z
+DESCRIPTION:승마 - 장애물 단체 결승\n🇳🇱 네덜란드\n🇩🇪 독일\n🇲🇽 멕시코\n🇺🇸 미국\n🇧🇪
+  벨기에\n🇸🇪 스웨덴\n🇮🇪 아일랜드\n🇬🇧 영국\n🇮🇱 이스라엘\n🇫🇷 프랑스
+SUMMARY:🏇 장애물 단체 결승
+LOCATION:샤토 드 베르사유
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T080000Z-equestrian--

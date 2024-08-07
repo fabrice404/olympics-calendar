@@ -4,6 +4,51 @@ PRODID:-//fabrice404//olympics-calendar//basketball/ja/FRA//EN
 X-WR-CALNAME:🇫🇷 France バスケットボール | Paris 2024
 NAME:🇫🇷 France バスケットボール | Paris 2024
 BEGIN:VEVENT
+UID:20240727T151500Z-basketball--B-FRA-BRA
+DTSTAMP:20240727T151500Z
+DTSTART:20240727T151500Z
+DTEND:20240727T170000Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループB
+SUMMARY:🏀 フランス 🇫🇷 - 🇧🇷 ブラジル
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T151500Z-basketball--B-CAN-FRA
+DTSTAMP:20240729T151500Z
+DTSTART:20240729T151500Z
+DTEND:20240729T170000Z
+DESCRIPTION:バスケットボール - 女子予選ラウンド - グループB
+SUMMARY:🏀 カナダ 🇨🇦 - 🇫🇷 フランス
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T151500Z-basketball--B-JPN-FRA
+DTSTAMP:20240730T151500Z
+DTSTART:20240730T151500Z
+DTEND:20240730T170000Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループB
+SUMMARY:🏀 日本 🇯🇵 - 🇫🇷 フランス
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T151500Z-basketball--B-FRA-NGR
+DTSTAMP:20240801T151500Z
+DTSTART:20240801T151500Z
+DTEND:20240801T170000Z
+DESCRIPTION:バスケットボール - 女子予選ラウンド - グループB
+SUMMARY:🏀 フランス 🇫🇷 - 🇳🇬 ナイジェリア
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T190000Z-basketball--B-FRA-GER
+DTSTAMP:20240802T190000Z
+DTSTART:20240802T190000Z
+DTEND:20240802T204500Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループB
+SUMMARY:🏀 フランス 🇫🇷 - 🇩🇪 ドイツ
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T190000Z-basketball--B-AUS-FRA
 DTSTAMP:20240804T190000Z
 DTSTART:20240804T190000Z

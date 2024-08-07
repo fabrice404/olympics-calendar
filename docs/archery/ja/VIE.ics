@@ -61,4 +61,22 @@ DESCRIPTION:アーチェリー - 男子個人ランキングラウンド\n🇹�
 SUMMARY:🏹 男子個人ランキングラウンド
 LOCATION:アンヴァリッド
 END:VEVENT
+BEGIN:VEVENT
+UID:20240801T150100Z-archery-1-VIE-MDA
+DTSTAMP:20240801T150100Z
+DTSTART:20240801T150100Z
+DTEND:20240801T151400Z
+DESCRIPTION:アーチェリー - 男子個人1回戦
+SUMMARY:🏹 Quoc Phong le 🇻🇳 - 🇲🇩 Dan OLARU
+LOCATION:アンヴァリッド
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T180300Z-archery-1-VIE-IRI
+DTSTAMP:20240801T180300Z
+DTSTART:20240801T180300Z
+DTEND:20240801T181600Z
+DESCRIPTION:アーチェリー - 女子個人1回戦
+SUMMARY:🏹 Thi Anh Nguyet DO 🇻🇳 - 🇮🇷 Mobina FALLAH
+LOCATION:アンヴァリッド
+END:VEVENT
 END:VCALENDAR

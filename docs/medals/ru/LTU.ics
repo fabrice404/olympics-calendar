@@ -4,6 +4,40 @@ PRODID:-//fabrice404//olympics-calendar//medals/ru/LTU//EN
 X-WR-CALNAME:🇱🇹 Lithuania 🏅 | Paris 2024
 NAME:🇱🇹 Lithuania 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240729T184100Z-swimming-200-
+DTSTAMP:20240729T184100Z
+DTSTART:20240729T184100Z
+DTEND:20240729T184900Z
+DESCRIPTION:Плавание - 200м вольным стилем, финал (м)\n🇱🇹 Danas
+  RAPSYS\n🇷🇴 David POPOVICI\n🇬🇧 Duncan SCOTT\n🇩🇪 Lukas MAERTENS\n🇺🇸
+  Luke HOBSON\n🇯🇵 MATSUMOTO Katsuhiro\n🇬🇧 Matthew RICHARDS\n🇦🇺
+  Maximillian GIULIANI
+SUMMARY:🏊 200м вольным стилем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T191100Z-swimming-200-
+DTSTAMP:20240801T191100Z
+DTSTART:20240801T191100Z
+DTEND:20240801T191900Z
+DESCRIPTION:Плавание - 200м брассом, финал (ж)\n🇺🇸 Kate DOUGLASS\n🇿🇦
+  Kaylene CORBETT\n🇱🇹 Kotryna TETEREVKOVA\n🇺🇸 Lilly KING\n🇯🇵 SUZUKI
+  Satomi\n🇿🇦 Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YE Shiwen
+SUMMARY:🏊 200м брассом, финал (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T094200Z-rowing--A-
+DTSTAMP:20240802T094200Z
+DTSTART:20240802T094200Z
+DTEND:20240802T094900Z
+DESCRIPTION:Академическая гребля - Двойки, финал A (ж)\n🇦🇺
+  Австралия\n🇬🇷 Греция\n🇱🇹 Литва\n🇳🇱 Нидерланды\n🇷🇴 Румыния\n🇺🇸
+  США
+SUMMARY:🚣 Двойки, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T081800Z-rowing--A-
 DTSTAMP:20240803T081800Z
 DTSTART:20240803T081800Z

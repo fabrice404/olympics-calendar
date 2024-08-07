@@ -9,20 +9,38 @@ DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
 DESCRIPTION:Cycling Mountain Bike - Women's Cross-country\n🇨🇿 Adela
-  HOLUBOVA\n🇨🇭 Alessandra KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie
-  HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦 Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹
-  Chiara TEOCCHI\n🇬🇧 Ella MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽
-  Erika Monserrath RODRIGUEZ SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley
-  BATTEN\n🇨🇦 Isabella HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla
-  MWAMIKAZI\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura
-  STIGGER\n🇫🇷 Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona
-  MITTERWALLNER\n🇩🇪 Nina BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND
-  PREVOT\n🇳🇱 Puck PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel
-  QUEIROS\n🇦🇺 Rebecca HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia
+  HOLUBOVA\n🇨🇭 Alessandra KELLER\n🇳🇱 Anne TERPSTRA\n🇭🇺 Blanka
+  VAS\n🇿🇦 Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧
+  Ella MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath
+  RODRIGUEZ SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella
+  HOLMGREN\n🇪🇪 Janika LOIV\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI
+  Urara\n🇦🇹 Laura STIGGER\n🇫🇷 Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹
+  Mona MITTERWALLNER\n🇩🇪 Nina BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline
+  FERRAND PREVOT\n🇳🇱 Puck PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹
+  Raquel QUEIROS\n🇦🇺 Rebecca HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia
   BLUNK\n🇨🇭 Sina FREI\n🇩🇰 Sofie Heby PEDERSEN\n🇸🇮 Tanja ZAKELJ\n🇨🇳
   WU Zhifan\n🇺🇦 Yana BELOMOINA
 SUMMARY:🚴 Women's Cross-country
 LOCATION:Elancourt Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T144800Z-archery-WOMENS-TEAM-BRONZE-MEDAL-MATCH-NED-MEX
+DTSTAMP:20240728T144800Z
+DTSTART:20240728T144800Z
+DTEND:20240728T151100Z
+DESCRIPTION:Archery - Women's Team Bronze Medal Match
+SUMMARY:🏹 NED 🇳🇱 - 🇲🇽 MEX
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-diving-MENS-SYNCHRONISED-10M-PLATFORM-FINAL
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T095600Z
+DESCRIPTION:Diving - Men's Synchronised 10m Platform Final\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇲🇽 MEX\n🇺🇦 UKR
+SUMMARY:🏊 Men's Synchronised 10m Platform Final
+LOCATION:Aquatics Centre
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T121000Z-cycling-mountain-bike-MENS-CROSS-COUNTRY
@@ -44,6 +62,148 @@ DESCRIPTION:Cycling Mountain Bike - Men's Cross-country\n🇲🇽 Adair Zabdiel
   GALINSKI\n🇫🇷 Victor KORETZKY
 SUMMARY:🚴 Men's Cross-country
 LOCATION:Elancourt Hill
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T151800Z-judo-WOMEN-63-KG-FINAL-MEX-SLO
+DTSTAMP:20240730T151800Z
+DTSTART:20240730T151800Z
+DTEND:20240730T152400Z
+DESCRIPTION:Judo - Women -63 kg Final
+SUMMARY:🥋 Prisca AWITI ALCARAZ 🇲🇽 - 🇸🇮 Andreja LESKI
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T060000Z-triathlon-WOMENS-INDIVIDUAL
+DTSTAMP:20240731T060000Z
+DTSTART:20240731T060000Z
+DTEND:20240731T080500Z
+DESCRIPTION:Triathlon - Women's Individual\n🇳🇿 Ainsley THORPE\n🇩🇰
+  Alberte KJAER PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧
+  Beth POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
+  SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
+  HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
+  LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
+  Georgia TAYLOR-BROWN\n🇱🇺 Jeanne LEHAIR\n🇧🇪 Jolien VERMEYLEN\n🇦🇹
+  Julia HAUSER\n🇨🇭 Julie DERRON\n🇬🇧 Kate WAUGH\n🇺🇸 Kirsten
+  KASPER\n🇨🇳 LIN Xinyu\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇦🇹
+  Lisa PERTERER\n🇩🇪 Lisa TERTSCH\n🇲🇽 Lizeth RUEDA SANTOS\n🇳🇴 Lotte
+  MILLER\n🇬🇺 Manami IIJIMA\n🇨🇴 Maria Carolina VELASQUEZ SOTO\n🇵🇹
+  Maria TOME\n🇳🇱 Maya KINGMA\n🇵🇹 Melanie SANTOS\n🇪🇸 Miriam CASILLAS
+  GARCIA\n🇦🇺 Natalie van COEVORDEN\n🇳🇿 Nicole van der KAAY\n🇩🇪 Nina
+  EIM\n🇨🇿 Petra KURIKOVA\n🇳🇱 Rachel KLAMER\n🇵🇱 Roksana SLUPEK\n🇦🇷
+  Romina BIAGIOLI\n🇲🇽 Rosa Maria TAPIA VIDAL\n🇳🇴 Solveig LOVSETH\n🇦🇺
+  Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
+  SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
+  MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
+SUMMARY:🏊 Women's Individual
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T084500Z-triathlon-MENS-INDIVIDUAL
+DTSTAMP:20240731T084500Z
+DTSTART:20240731T084500Z
+DTEND:20240731T104500Z
+DESCRIPTION:Triathlon - Men's Individual\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto
+  GONZALEZ GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois
+  KNABL\n🇪🇸 Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR
+  MOYSEN\n🇭🇺 Bence BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto
+  GRAJALES\n🇭🇺 Csongor LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿
+  Dylan McCULLOUGH\n🇹🇬 Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix
+  DUCHAMPT\n🇨🇱 Gaspar RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden
+  WILDE\n🇿🇦 Henri SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad
+  ABDELMOULA\n🇲🇺 Jean Gael Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas
+  SCHOMBURG\n🇳🇴 Kristian BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo
+  BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷 Manoel MESSIAS\n🇧🇪 Marten VAN
+  RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew WRIGHT\n🇨🇭 Max STUDER\n🇧🇷
+  Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸 Morgan PEARSON\n🇯🇵 NENER
+  Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA Makoto\n🇫🇷 Pierre le
+  CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard MURRAY\n🇪🇸 Roberto SANCHEZ
+  MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧 Samuel DICKINSON\n🇺🇸 Seth
+  RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦
+  Tyler MISLAWCHUK\n🇧🇲 Tyler SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle
+  Bergsvik THORN
+SUMMARY:🏊 Men's Individual
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-diving-WOMENS-SYNCHRONISED-10M-PLATFORM-FINAL
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T094700Z
+DESCRIPTION:Diving - Women's Synchronised 10m Platform Final\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇰🇵 DPR Korea\n🇫🇷 FRA\n🇬🇧 GBR\n🇲🇽 MEX\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:🏊 Women's Synchronised 10m Platform Final
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T060000Z-athletics-MENS-20KM-RACE-WALK
+DTSTAMP:20240801T060000Z
+DTSTART:20240801T060000Z
+DTEND:20240801T073500Z
+DESCRIPTION:Athletics - Men's 20km Race Walk\n🇮🇳 Akshdeep SINGH\n🇪🇸
+  Alvaro MARTIN\n🇵🇱 Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence
+  VENYERCSAN\n🇪🇨 Brian Daniel PINTADO\n🇰🇷 CHOE Byeongkwang\n🇧🇷 Caio
+  BONFIM\n🇬🇧 Callum WILKINSON\n🇵🇪 Cesar Augusto RODRIGUEZ\n🇩🇪
+  Christopher LINKE\n🇪🇨 David HURTADO\n🇦🇺 Declan TINGAY\n🇪🇸 Diego
+  GARCIA CARRERA\n🇸🇰 Dominik CERNY\n🇬🇹 Erick Bernabe BARRONDO\n🇨🇦
+  Evan DUNFEE\n🇮🇹 Francesco FORTUNATO\n🇫🇷 Gabriel BORDIER\n🇯🇵
+  HAMANISHI Ryo\n🇯🇵 IKEDA Koki\n🇺🇦 Ihor HLAVAN\n🇪🇨 Jordy Rafael
+  JIMENEZ ARROBO\n🇬🇹 Jose Alejandro BARRONDO\n🇲🇽 Jose Luis DOCTOR\n🇯🇵
+  KOGA Yuta\n🇦🇺 Kyle SWAN\n🇨🇳 LI Yandong\n🇩🇪 Leo KOEPP\n🇵🇪 Luis
+  Henry CAMPOS\n🇵🇱 Maher BEN HLIMA\n🇮🇹 Massimo STANO\n🇭🇺 Mate
+  HELEBRANDT\n🇧🇷 Matheus CORREA\n🇧🇷 Max Batista GONCALVES dos
+  SANTOS\n🇪🇹 Misgana WAKUMA\n🇲🇽 Noel CHAMA\n🇮🇳 Paramjeet Singh
+  BISHT\n🇪🇸 Paul McGRATH\n🇸🇪 Perseus KARLSTROM\n🇦🇺 Rhydian
+  COWLEY\n🇲🇽 Ricardo ORTIZ\n🇮🇹 Riccardo ORSONI\n🇹🇷 Salih
+  KORKMAZ\n🇰🇪 Samuel Kireri GATHIMBA\n🇫🇮 Veli-Matti PARTANEN\n🇮🇳
+  Vikash SINGH\n🇨🇳 WANG Zhaozhao\n🇨🇳 ZHANG Jun
+SUMMARY:🏃 Men's 20km Race Walk
+LOCATION:Trocadéro
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-athletics-WOMENS-20KM-RACE-WALK
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
+DESCRIPTION:Athletics - Women's 20km Race Walk\n🇲🇽 Alegna GONZALEZ\n🇲🇽
+  Alejandra ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹
+  Antonella PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸
+  Cristina MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska
+  MARTINKOVA\n🇧🇷 Erica SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷
+  Gabriela de SOUSA\n🇪🇨 Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse
+  GUERRERO\n🇦🇺 Jemima MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly
+  GARCIA LEON\n🇨🇳 LIU Hong\n🇪🇸 Laura GARCIA-CARO\n🇨🇴 Lorena
+  ARENAS\n🇺🇦 Lyudmila OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz
+  BONILLA\n🇸🇰 Maria KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia
+  SAKHARUK\n🇵🇪 Mary Luz ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena
+  SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳 PRIYANKA\n🇪🇨 Paula Milena
+  TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de ORBETA\n🇦🇺 Rebecca
+  HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹 Valentina
+  TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷 Viviane
+  LYRA\n🇨🇳 YANG Jiayu
+SUMMARY:🏃 Women's 20km Race Walk
+LOCATION:Trocadéro
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T090000Z-diving-MENS-SYNCHRONISED-3M-SPRINGBOARD-FINAL
+DTSTAMP:20240802T090000Z
+DTSTART:20240802T090000Z
+DTEND:20240802T095500Z
+DESCRIPTION:Diving - Men's Synchronised 3m Springboard Final\n🇨🇳
+  CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇮🇹 ITA\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🏊 Men's Synchronised 3m Springboard Final
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T120000Z-equestrian-JUMPING-TEAM-FINAL
+DTSTAMP:20240802T120000Z
+DTSTART:20240802T120000Z
+DTEND:20240802T134100Z
+DESCRIPTION:Equestrian - Jumping Team Final\n🇧🇪 BEL\n🇫🇷 FRA\n🇩🇪
+  GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇱 ISR\n🇲🇽 MEX\n🇳🇱 NED\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏇 Jumping Team Final
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T142000Z-artistic-gymnastics-WOMENS-VAULT-FINAL

@@ -4,6 +4,37 @@ PRODID:-//fabrice404//olympics-calendar//medals/zh/NOR//EN
 X-WR-CALNAME:🇳🇴 Norway 🏅 | Paris 2024
 NAME:🇳🇴 Norway 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road-
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T155700Z
+DESCRIPTION:公路自行车 - 男子个人计时赛\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
+  BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
+  Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
+  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇦🇸 Gleb SYRITSA\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
+  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
+  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
+  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
+  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 男子个人计时赛
+LOCATION:亚历山大三世桥
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T073000Z-shooting-10
+DTSTAMP:20240729T073000Z
+DTSTART:20240729T073000Z
+DTEND:20240729T081500Z
+DESCRIPTION:射击 - 女子10米气步枪决赛\n🇰🇿 Alexandra Le\n🇨🇭 Audrey GOGNIAT\n🇰🇷
+  BAN Hyojin\n🇨🇳 HUANG Yuting\n🇳🇴 Jeanette Hegg DUESTAD\n🇫🇷 Oceanne
+  MULLER\n🇮🇳 Ramita RAMITA\n🇺🇸 Sagen MADDALENA
+SUMMARY:🔫 女子10米气步枪决赛
+LOCATION:沙托鲁射击中心
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T121000Z-cycling-mountain-bike-
 DTSTAMP:20240729T121000Z
 DTSTART:20240729T121000Z
@@ -22,6 +53,113 @@ DESCRIPTION:山地自行车 - 男子越野赛\n🇲🇽 Adair Zabdiel GUTIERREZ 
   ZALTSMAN\n🇧🇷 Ulan BASTOS GALINSKI\n🇫🇷 Victor KORETZKY
 SUMMARY:🚴 男子越野赛
 LOCATION:埃朗库尔山
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T060000Z-triathlon-
+DTSTAMP:20240731T060000Z
+DTSTART:20240731T060000Z
+DTEND:20240731T080500Z
+DESCRIPTION:铁人三项 - 女子个人赛\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
+  PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧 Beth
+  POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
+  SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
+  HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
+  LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
+  Georgia TAYLOR-BROWN\n🇱🇺 Jeanne LEHAIR\n🇧🇪 Jolien VERMEYLEN\n🇦🇹
+  Julia HAUSER\n🇨🇭 Julie DERRON\n🇬🇧 Kate WAUGH\n🇺🇸 Kirsten
+  KASPER\n🇨🇳 LIN Xinyu\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇦🇹
+  Lisa PERTERER\n🇩🇪 Lisa TERTSCH\n🇲🇽 Lizeth RUEDA SANTOS\n🇳🇴 Lotte
+  MILLER\n🇬🇺 Manami IIJIMA\n🇨🇴 Maria Carolina VELASQUEZ SOTO\n🇵🇹
+  Maria TOME\n🇳🇱 Maya KINGMA\n🇵🇹 Melanie SANTOS\n🇪🇸 Miriam CASILLAS
+  GARCIA\n🇦🇺 Natalie van COEVORDEN\n🇳🇿 Nicole van der KAAY\n🇩🇪 Nina
+  EIM\n🇨🇿 Petra KURIKOVA\n🇳🇱 Rachel KLAMER\n🇵🇱 Roksana SLUPEK\n🇦🇷
+  Romina BIAGIOLI\n🇲🇽 Rosa Maria TAPIA VIDAL\n🇳🇴 Solveig LOVSETH\n🇦🇺
+  Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
+  SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
+  MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
+SUMMARY:🏊 女子个人赛
+LOCATION:亚历山大三世桥
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T084500Z-triathlon-
+DTSTAMP:20240731T084500Z
+DTSTART:20240731T084500Z
+DTEND:20240731T104500Z
+DESCRIPTION:铁人三项 - 男子个人赛\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto GONZALEZ
+  GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois KNABL\n🇪🇸
+  Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR MOYSEN\n🇭🇺 Bence
+  BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto GRAJALES\n🇭🇺 Csongor
+  LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿 Dylan McCULLOUGH\n🇹🇬
+  Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix DUCHAMPT\n🇨🇱 Gaspar
+  RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden WILDE\n🇿🇦 Henri
+  SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad ABDELMOULA\n🇲🇺 Jean Gael
+  Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas SCHOMBURG\n🇳🇴 Kristian
+  BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷
+  Manoel MESSIAS\n🇧🇪 Marten VAN RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew
+  WRIGHT\n🇨🇭 Max STUDER\n🇧🇷 Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸
+  Morgan PEARSON\n🇯🇵 NENER Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA
+  Makoto\n🇫🇷 Pierre le CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard
+  MURRAY\n🇪🇸 Roberto SANCHEZ MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧
+  Samuel DICKINSON\n🇺🇸 Seth RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim
+  HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦 Tyler MISLAWCHUK\n🇧🇲 Tyler
+  SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle Bergsvik THORN
+SUMMARY:🏊 男子个人赛
+LOCATION:亚历山大三世桥
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T073000Z-shooting-50
+DTSTAMP:20240801T073000Z
+DTSTART:20240801T073000Z
+DTEND:20240801T083000Z
+DESCRIPTION:射击 - 男子50米步枪三姿决赛\n🇨🇿 Jiri PRIVRATSKY\n🇳🇴 Jon-Hermann
+  HEGG\n🇨🇳 LIU Yukun\n🇷🇸 Lazar KOVACEVIC\n🇫🇷 Lucas Bernard Denis
+  KRYZS\n🇺🇦 Serhiy KULISH\n🇮🇳 Swapnil KUSALE\n🇵🇱 Tomasz BARTNIK
+SUMMARY:🔫 男子50米步枪三姿决赛
+LOCATION:沙托鲁射击中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T091800Z-rowing-A
+DTSTAMP:20240801T091800Z
+DTSTART:20240801T091800Z
+DTEND:20240801T092500Z
+DESCRIPTION:赛艇 - 女子双人双桨决赛A\n🇳🇴 挪威\n🇳🇿 新西兰\n🇫🇷 法国\n🇷🇴 罗马尼亚\n🇬🇧
+  英国\n🇳🇱 荷兰
+SUMMARY:🚣 女子双人双桨决赛A
+LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-shooting-50
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T083000Z
+DESCRIPTION:射击 - 女子50米步枪三姿决赛\n🇨🇭 Chiara LEONE\n🇳🇴 Jeanette Hegg
+  DUESTAD\n🇦🇹 Nadine UNGERANK\n🇵🇱 Natalia KOCHANSKA\n🇺🇸 Sagen
+  MADDALENA\n🇩🇰 Stephanie Laura Scurrah GRUNDSOEE\n🇲🇳 Yesugen
+  OYUNBAT\n🇨🇳 ZHANG Qiongyue
+SUMMARY:🔫 女子50米步枪三姿决赛
+LOCATION:沙托鲁射击中心
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100200Z-rowing-A
+DTSTAMP:20240802T100200Z
+DTSTART:20240802T100200Z
+DTEND:20240802T100900Z
+DESCRIPTION:赛艇 - 男子轻量级双人双桨决赛A\n🇬🇷 希腊\n🇮🇹 意大利\n🇳🇴 挪威\n🇨🇿 捷克\n🇮🇪
+  爱尔兰\n🇨🇭 瑞士
+SUMMARY:🚣 男子轻量级双人双桨决赛A
+LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T101300Z-sailing-49FX
+DTSTAMP:20240802T101300Z
+DTSTART:20240802T101300Z
+DTEND:20240802T103800Z
+DESCRIPTION:帆船 - 女子帆船49人FX级奖牌赛\n🇳🇱 AANHOLT/DUETZ\n🇳🇿 ALEH/MEECH\n🇩🇪
+  BERGMANN/WILLE\n🇸🇪 BOBECK/NETZLER\n🇮🇹 GERMANI/BERTUZZI\n🇳🇴
+  NAESS/ROENNINGEN\n🇦🇺 PRICE/HASELDINE\n🇺🇸 ROBLE/SHEA\n🇧🇷
+  SOFFIATTI/KUNZE\n🇫🇷 STEYAERT/PICON
+SUMMARY:⛵ 女子帆船49人FX级奖牌赛
+LOCATION:马赛港
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-
@@ -262,11 +400,11 @@ DTSTART:20240807T161500Z
 DTEND:20240807T193000Z
 DESCRIPTION:田径 - 女子撑竿跳高决赛\n🇬🇷 Aikaterini STEFANIDI\n🇨🇦 Alysha
   NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica MOSER\n🇩🇪 Anjuli
-  KNAESCHE\n🇬🇷 Ariadni ADAMOPOULOU\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa
-  MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇳🇿 Imogen AYRIS\n🇺🇸 Katie
-  MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇦🇺 Nina
-  KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇳🇿 Olivia McTAGGART\n🇻🇪 Robeilys
-  PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
+  KNAESCHE\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza
+  McCARTNEY\n🇳🇿 Imogen AYRIS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud
+  RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon
+  CHAPELLE\n🇳🇿 Olivia McTAGGART\n🇻🇪 Robeilys PEINADO\n🇮🇹 Roberta
+  BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
 SUMMARY:🏃 女子撑竿跳高决赛
 LOCATION:法兰西体育场
 END:VEVENT

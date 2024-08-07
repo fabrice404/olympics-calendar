@@ -4,6 +4,186 @@ PRODID:-//fabrice404//olympics-calendar//badminton/ja/THA//EN
 X-WR-CALNAME:🇹🇭 Thailand バドミントン | Paris 2024
 NAME:🇹🇭 Thailand バドミントン | Paris 2024
 BEGIN:VEVENT
+UID:20240727T081000Z-badminton--B-THA-NED
+DTSTAMP:20240727T081000Z
+DTSTART:20240727T081000Z
+DTEND:20240727T085000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループB
+SUMMARY:🏸 PUAVARANUK/TAERATTANA 🇹🇭 - 🇳🇱 TABELING/PIEK
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T090000Z-badminton--C-THA-MRI
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T100000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループC
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇲🇺 Georges Julien PAUL
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T125000Z-badminton--D-THA-BRA
+DTSTAMP:20240727T125000Z
+DTSTART:20240727T125000Z
+DTEND:20240727T133000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループD
+SUMMARY:🏸 Supanida KATETHONG 🇹🇭 - 🇧🇷 Juliana VIANA VIERA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T173000Z-badminton--B-THA-FRA
+DTSTAMP:20240727T173000Z
+DTSTART:20240727T173000Z
+DTEND:20240727T181000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループB
+SUMMARY:🏸 JOMKOH/KEDREN 🇹🇭 - 🇫🇷 C. POPOV/TJ POPOV
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T200000Z-badminton--D-THA-FRA
+DTSTAMP:20240727T200000Z
+DTSTART:20240727T200000Z
+DTEND:20240727T210000Z
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 KITITHARAK/PRAJONGJAI 🇹🇭 - 🇫🇷 LAMBERT/TRAN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T143000Z-badminton--B-THA-CZE
+DTSTAMP:20240728T143000Z
+DTSTART:20240728T143000Z
+DTEND:20240728T153000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループB
+SUMMARY:🏸 JOMKOH/KEDREN 🇹🇭 - 🇨🇿 KRAL/MENDREK
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T173000Z-badminton--B-THA-ALG
+DTSTAMP:20240728T173000Z
+DTSTART:20240728T173000Z
+DTEND:20240728T181000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループB
+SUMMARY:🏸 PUAVARANUK/TAERATTANA 🇹🇭 - 🇩🇿 K. MAMMERI/T. MAMMERI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T120000Z-badminton--B-KOR-THA
+DTSTAMP:20240729T120000Z
+DTSTART:20240729T120000Z
+DTEND:20240729T124000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループB
+SUMMARY:🏸 SEO/CHAE 🇰🇷 - 🇹🇭 PUAVARANUK/TAERATTANA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T173000Z-badminton--D-THA-DEN
+DTSTAMP:20240729T173000Z
+DTSTART:20240729T173000Z
+DTEND:20240729T181000Z
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 KITITHARAK/PRAJONGJAI 🇹🇭 - 🇩🇰 FRUERGAARD/THYGESEN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T063000Z-badminton--E-THA-BEL
+DTSTAMP:20240730T063000Z
+DTSTART:20240730T063000Z
+DTEND:20240730T071000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループE
+SUMMARY:🏸 Ratchanok INTANON 🇹🇭 - 🇧🇪 Lianne TAN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T134000Z-badminton--B-KOR-THA
+DTSTAMP:20240730T134000Z
+DTSTART:20240730T134000Z
+DTEND:20240730T142000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループB
+SUMMARY:🏸 KANG/SEO 🇰🇷 - 🇹🇭 JOMKOH/KEDREN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T182000Z-badminton--D-THA-HKG
+DTSTAMP:20240730T182000Z
+DTSTART:20240730T182000Z
+DTEND:20240730T190000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループD
+SUMMARY:🏸 Supanida KATETHONG 🇹🇭 - 🇭🇰 LO Sin Yan Happy
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T191000Z-badminton--D-KOR-THA
+DTSTAMP:20240730T191000Z
+DTSTART:20240730T191000Z
+DTEND:20240730T201000Z
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 BAEK/LEE 🇰🇷 - 🇹🇭 KITITHARAK/PRAJONGJAI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T081000Z-badminton--C-THA-FIN
+DTSTAMP:20240731T081000Z
+DTSTART:20240731T081000Z
+DTEND:20240731T085000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループC
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇫🇮 Kalle KOLJONEN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T125000Z-badminton--E-TPE-THA
+DTSTAMP:20240731T125000Z
+DTSTART:20240731T125000Z
+DTEND:20240731T133000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループE
+SUMMARY:🏸 TAI Tzu Ying 🇹🇼 - 🇹🇭 Ratchanok INTANON
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T191000Z-badminton--JPN-THA
+DTSTAMP:20240731T191000Z
+DTSTART:20240731T191000Z
+DTEND:20240731T201000Z
+DESCRIPTION:バドミントン - 混合ダブルス準々決勝
+SUMMARY:🏸 WATANABE/HIGASHINO 🇯🇵 - 🇹🇭 PUAVARANUK/TAERATTANA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T074000Z-badminton-1-THA-JPN
+DTSTAMP:20240801T074000Z
+DTSTART:20240801T074000Z
+DTEND:20240801T090000Z
+DESCRIPTION:バドミントン - 男子シングルス1回戦
+SUMMARY:🏸 Kunlavut VITIDSARN 🇹🇭 - 🇯🇵 NISHIMOTO Kenta
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T121000Z-badminton--THA-TPE
+DTSTAMP:20240801T121000Z
+DTSTART:20240801T121000Z
+DTEND:20240801T130000Z
+DESCRIPTION:バドミントン - 男子ダブルス準々決勝
+SUMMARY:🏸 JOMKOH/KEDREN 🇹🇭 - 🇹🇼 LEE/WANG
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T163000Z-badminton-1-JPN-THA
+DTSTAMP:20240801T163000Z
+DTSTART:20240801T163000Z
+DTEND:20240801T172000Z
+DESCRIPTION:バドミントン - 女子シングルス1回戦
+SUMMARY:🏸 YAMAGUCHI Akane 🇯🇵 - 🇹🇭 Supanida KATETHONG
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T164500Z-badminton--CHN-THA
+DTSTAMP:20240802T164500Z
+DTSTART:20240802T164500Z
+DTEND:20240802T174500Z
+DESCRIPTION:バドミントン - 男子シングルス準々決勝
+SUMMARY:🏸 SHI Yu Qi 🇨🇳 - 🇹🇭 Kunlavut VITIDSARN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T074000Z-badminton--THA-INA
 DTSTAMP:20240803T074000Z
 DTSTART:20240803T074000Z

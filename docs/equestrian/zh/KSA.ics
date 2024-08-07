@@ -4,6 +4,18 @@ PRODID:-//fabrice404//olympics-calendar//equestrian/zh/KSA//EN
 X-WR-CALNAME:🇸🇦 Saudi Arabia 马术 | Paris 2024
 NAME:🇸🇦 Saudi Arabia 马术 | Paris 2024
 BEGIN:VEVENT
+UID:20240801T090000Z-equestrian-
+DTSTAMP:20240801T090000Z
+DTSTART:20240801T090000Z
+DTEND:20240801T120000Z
+DESCRIPTION:马术 - 团体场地障碍预赛\n🇮🇱 以色列\n🇨🇦 加拿大\n🇲🇽 墨西哥\n🇦🇹 奥地利\n🇧🇷
+  巴西\n🇩🇪 德国\n🇯🇵 日本\n🇧🇪 比利时\n🇸🇦 沙特阿拉伯\n🇫🇷 法国\n🇵🇱 波兰\n🇦🇺
+  澳大利亚\n🇮🇪 爱尔兰\n🇸🇪 瑞典\n🇨🇭 瑞士\n🇺🇸 美国\n🇬🇧 英国\n🇳🇱 荷兰\n🇪🇸
+  西班牙\n🇦🇪 阿联酋
+SUMMARY:🏇 团体场地障碍预赛
+LOCATION:凡尔赛宫
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T120000Z-equestrian-
 DTSTAMP:20240805T120000Z
 DTSTART:20240805T120000Z

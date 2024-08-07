@@ -4,6 +4,132 @@ PRODID:-//fabrice404//olympics-calendar//badminton/ja/TPE//EN
 X-WR-CALNAME:🇹🇼 Chinese Taipei バドミントン | Paris 2024
 NAME:🇹🇼 Chinese Taipei バドミントン | Paris 2024
 BEGIN:VEVENT
+UID:20240727T120000Z-badminton--C-HKG-TPE
+DTSTAMP:20240727T120000Z
+DTSTART:20240727T120000Z
+DTEND:20240727T124000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループC
+SUMMARY:🏸 TANG/TSE 🇭🇰 - 🇹🇼 YE/LEE
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T191000Z-badminton--D-JPN-TPE
+DTSTAMP:20240727T191000Z
+DTSTART:20240727T191000Z
+DTEND:20240727T195000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 HOKI/KOBAYASHI 🇯🇵 - 🇹🇼 LEE/WANG
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T072000Z-badminton--E-TPE-BEL
+DTSTAMP:20240728T072000Z
+DTSTART:20240728T072000Z
+DTEND:20240728T080000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループE
+SUMMARY:🏸 TAI Tzu Ying 🇹🇼 - 🇧🇪 Lianne TAN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T143000Z-badminton--I-TPE-MEX
+DTSTAMP:20240728T143000Z
+DTSTART:20240728T143000Z
+DTEND:20240728T153000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループI
+SUMMARY:🏸 CHOU Tien Chen 🇹🇼 - 🇲🇽 Luis Ramon GARRIDO
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T182000Z-badminton--D-DEN-TPE
+DTSTAMP:20240728T182000Z
+DTSTART:20240728T182000Z
+DTEND:20240728T190000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇹🇼 LEE/WANG
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T191000Z-badminton--C-JPN-TPE
+DTSTAMP:20240728T191000Z
+DTSTART:20240728T191000Z
+DTEND:20240728T210000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループC
+SUMMARY:🏸 WATANABE/HIGASHINO 🇯🇵 - 🇹🇼 YE/LEE
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T090000Z-badminton--D-TPE-USA
+DTSTAMP:20240730T090000Z
+DTSTART:20240730T090000Z
+DTEND:20240730T100000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 LEE/WANG 🇹🇼 - 🇺🇸 CHIU/YUAN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T120000Z-badminton--D-CHN-TPE
+DTSTAMP:20240731T120000Z
+DTSTART:20240731T120000Z
+DTEND:20240731T124000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループD
+SUMMARY:🏸 LIU/OU 🇨🇳 - 🇹🇼 LEE/WANG
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T125000Z-badminton--E-TPE-THA
+DTSTAMP:20240731T125000Z
+DTSTART:20240731T125000Z
+DTEND:20240731T133000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループE
+SUMMARY:🏸 TAI Tzu Ying 🇹🇼 - 🇹🇭 Ratchanok INTANON
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T134000Z-badminton--I-TPE-HKG
+DTSTAMP:20240731T134000Z
+DTSTART:20240731T134000Z
+DTEND:20240731T142000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループI
+SUMMARY:🏸 CHOU Tien Chen 🇹🇼 - 🇭🇰 LEE Cheuk Yiu
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T074000Z-badminton-1-TPE-JPN
+DTSTAMP:20240801T074000Z
+DTSTART:20240801T074000Z
+DTEND:20240801T090000Z
+DESCRIPTION:バドミントン - 男子シングルス1回戦
+SUMMARY:🏸 CHOU Tien Chen 🇹🇼 - 🇯🇵 NARAOKA Kodai
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T121000Z-badminton--THA-TPE
+DTSTAMP:20240801T121000Z
+DTSTART:20240801T121000Z
+DTEND:20240801T130000Z
+DESCRIPTION:バドミントン - 男子ダブルス準々決勝
+SUMMARY:🏸 JOMKOH/KEDREN 🇹🇭 - 🇹🇼 LEE/WANG
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100000Z-badminton--DEN-TPE
+DTSTAMP:20240802T100000Z
+DTSTART:20240802T100000Z
+DTEND:20240802T110000Z
+DESCRIPTION:バドミントン - 男子ダブルス準決勝
+SUMMARY:🏸 ASTRUP/RASMUSSEN 🇩🇰 - 🇹🇼 LEE/WANG
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T153500Z-badminton--TPE-IND
+DTSTAMP:20240802T153500Z
+DTSTART:20240802T153500Z
+DTEND:20240802T163500Z
+DESCRIPTION:バドミントン - 男子シングルス準々決勝
+SUMMARY:🏸 CHOU Tien Chen 🇹🇼 - 🇮🇳 Lakshya SEN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T141000Z-badminton--CHN-TPE
 DTSTAMP:20240804T141000Z
 DTSTART:20240804T141000Z

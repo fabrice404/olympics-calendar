@@ -4,6 +4,33 @@ PRODID:-//fabrice404//olympics-calendar//beach-volleyball/ja/CUB//EN
 X-WR-CALNAME:🇨🇺 Cuba ビーチバレーボール | Paris 2024
 NAME:🇨🇺 Cuba ビーチバレーボール | Paris 2024
 BEGIN:VEVENT
+UID:20240727T120000Z-beach-volleyball--D-USA-CUB
+DTSTAMP:20240727T120000Z
+DTSTART:20240727T120000Z
+DTEND:20240727T125000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールD
+SUMMARY:🏐 PARTAIN/BENESH 🇺🇸 - 🇨🇺 DIAZ/ALAYO
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T100000Z-beach-volleyball--D-BRA-CUB
+DTSTAMP:20240730T100000Z
+DTSTART:20240730T100000Z
+DTEND:20240730T105000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールD
+SUMMARY:🏐 GEORGE/ANDRE 🇧🇷 - 🇨🇺 DIAZ/ALAYO
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T100000Z-beach-volleyball--D-CUB-MAR
+DTSTAMP:20240801T100000Z
+DTSTART:20240801T100000Z
+DTEND:20240801T105000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールD
+SUMMARY:🏐 DIAZ/ALAYO 🇨🇺 - 🇲🇦 ABICHA/ELGRAOUI
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T120000Z-beach-volleyball-1-SWE-CUB
 DTSTAMP:20240804T120000Z
 DTSTART:20240804T120000Z

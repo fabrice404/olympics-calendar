@@ -4,6 +4,105 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ru/TUR//EN
 X-WR-CALNAME:🇹🇷 Türkiye Бокс | Paris 2024
 NAME:🇹🇷 Türkiye Бокс | Paris 2024
 BEGIN:VEVENT
+UID:20240727T180000Z-boxing--116-54--GBR-TUR
+DTSTAMP:20240727T180000Z
+DTSTART:20240727T180000Z
+DTEND:20240727T181100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 54кг (ж)
+SUMMARY:🥊 Charley DAVISON 🇬🇧 - 🇹🇷 Hatice AKBAS
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T184800Z-boxing--116-60--ITA-TUR
+DTSTAMP:20240727T184800Z
+DTSTART:20240727T184800Z
+DTEND:20240727T185900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 60кг (ж)
+SUMMARY:🥊 Alessia MESIANO 🇮🇹 - 🇹🇷 Gizem OZER
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T200800Z-boxing--116-80--TUR-ITA
+DTSTAMP:20240727T200800Z
+DTSTART:20240727T200800Z
+DTEND:20240727T201900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 80кг (м)
+SUMMARY:🥊 Kaan AYKUTSUN 🇹🇷 - 🇮🇹 Salvatore CAVALLARO
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T112400Z-boxing--116-57--TUR-MLI
+DTSTAMP:20240730T112400Z
+DTSTART:20240730T112400Z
+DTEND:20240730T113500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 57кг (ж)
+SUMMARY:🥊 Esra YILDIZ KAHRAMAN 🇹🇷 - 🇲🇱 Marine Fatoumatta Colette CAMAR
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T150600Z-boxing--18-54--AUS-TUR
+DTSTAMP:20240730T150600Z
+DTSTART:20240730T150600Z
+DTEND:20240730T151700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 54кг (ж)
+SUMMARY:🥊 Tiana ECHEGARAY 🇦🇺 - 🇹🇷 Hatice AKBAS
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T180000Z-boxing--18-51--TUR-KAZ
+DTSTAMP:20240730T180000Z
+DTSTART:20240730T180000Z
+DTEND:20240730T181100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 51кг (м)
+SUMMARY:🥊 Samet GUMUS 🇹🇷 - 🇰🇿 Saken BIBOSSINOV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T192000Z-boxing--18-80--TUR-CUB
+DTSTAMP:20240730T192000Z
+DTSTART:20240730T192000Z
+DTEND:20240730T193100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 80кг (м)
+SUMMARY:🥊 Kaan AYKUTSUN 🇹🇷 - 🇨🇺 Arlen LOPEZ CARDONA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T094800Z-boxing--18-66--TUR-POL
+DTSTAMP:20240801T094800Z
+DTSTART:20240801T094800Z
+DTEND:20240801T095900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 66кг (ж)
+SUMMARY:🥊 Busenaz SURMENELI 🇹🇷 - 🇵🇱 Aneta RYGIELSKA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T134600Z-boxing--18-50--TUR-MEX
+DTSTAMP:20240801T134600Z
+DTSTART:20240801T134600Z
+DTEND:20240801T135700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 50кг (ж)
+SUMMARY:🥊 Buse Naz CAKIROGLU 🇹🇷 - 🇲🇽 Fatima HERRERA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T152200Z-boxing--54--TUR-MGL
+DTSTAMP:20240801T152200Z
+DTSTART:20240801T152200Z
+DTEND:20240801T153300Z
+DESCRIPTION:Бокс - Четвертьфинал, до 54кг (ж)
+SUMMARY:🥊 Hatice AKBAS 🇹🇷 - 🇲🇳 Enkhjargal MUNGUNTSETSEG
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T140200Z-boxing--18-57--TUN-TUR
+DTSTAMP:20240802T140200Z
+DTSTART:20240802T140200Z
+DTEND:20240802T141300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 57кг (ж)
+SUMMARY:🥊 Khouloud HLIMI 🇹🇳 - 🇹🇷 Esra YILDIZ KAHRAMAN
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T150600Z-boxing--66--TUR-THA
 DTSTAMP:20240803T150600Z
 DTSTART:20240803T150600Z

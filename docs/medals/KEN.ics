@@ -4,6 +4,49 @@ PRODID:-//fabrice404//olympics-calendar//medals/KEN//EN
 X-WR-CALNAME:🇰🇪 Kenya 🏅 | Paris 2024
 NAME:🇰🇪 Kenya 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240801T060000Z-athletics-MENS-20KM-RACE-WALK
+DTSTAMP:20240801T060000Z
+DTSTART:20240801T060000Z
+DTEND:20240801T073500Z
+DESCRIPTION:Athletics - Men's 20km Race Walk\n🇮🇳 Akshdeep SINGH\n🇪🇸
+  Alvaro MARTIN\n🇵🇱 Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence
+  VENYERCSAN\n🇪🇨 Brian Daniel PINTADO\n🇰🇷 CHOE Byeongkwang\n🇧🇷 Caio
+  BONFIM\n🇬🇧 Callum WILKINSON\n🇵🇪 Cesar Augusto RODRIGUEZ\n🇩🇪
+  Christopher LINKE\n🇪🇨 David HURTADO\n🇦🇺 Declan TINGAY\n🇪🇸 Diego
+  GARCIA CARRERA\n🇸🇰 Dominik CERNY\n🇬🇹 Erick Bernabe BARRONDO\n🇨🇦
+  Evan DUNFEE\n🇮🇹 Francesco FORTUNATO\n🇫🇷 Gabriel BORDIER\n🇯🇵
+  HAMANISHI Ryo\n🇯🇵 IKEDA Koki\n🇺🇦 Ihor HLAVAN\n🇪🇨 Jordy Rafael
+  JIMENEZ ARROBO\n🇬🇹 Jose Alejandro BARRONDO\n🇲🇽 Jose Luis DOCTOR\n🇯🇵
+  KOGA Yuta\n🇦🇺 Kyle SWAN\n🇨🇳 LI Yandong\n🇩🇪 Leo KOEPP\n🇵🇪 Luis
+  Henry CAMPOS\n🇵🇱 Maher BEN HLIMA\n🇮🇹 Massimo STANO\n🇭🇺 Mate
+  HELEBRANDT\n🇧🇷 Matheus CORREA\n🇧🇷 Max Batista GONCALVES dos
+  SANTOS\n🇪🇹 Misgana WAKUMA\n🇲🇽 Noel CHAMA\n🇮🇳 Paramjeet Singh
+  BISHT\n🇪🇸 Paul McGRATH\n🇸🇪 Perseus KARLSTROM\n🇦🇺 Rhydian
+  COWLEY\n🇲🇽 Ricardo ORTIZ\n🇮🇹 Riccardo ORSONI\n🇹🇷 Salih
+  KORKMAZ\n🇰🇪 Samuel Kireri GATHIMBA\n🇫🇮 Veli-Matti PARTANEN\n🇮🇳
+  Vikash SINGH\n🇨🇳 WANG Zhaozhao\n🇨🇳 ZHANG Jun
+SUMMARY:🏃 Men's 20km Race Walk
+LOCATION:Trocadéro
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T192000Z-athletics-MENS-10000M-FINAL
+DTSTAMP:20240802T192000Z
+DTSTART:20240802T192000Z
+DTEND:20240802T195000Z
+DESCRIPTION:Athletics - Men's 10,000m Final\n🇪🇸 Abdessamad
+  OUKHELFEN\n🇿🇦 Adriaan WILDSCHUTT\n🇰🇪 Benard KIBET\n🇪🇹 Berihu
+  AREGAWI\n🇧🇭 Birhanu BALEW\n🇧🇮 Celestin NDIKUMANA\n🇰🇪 Daniel
+  MATEIKO\n🇺🇸 Grant FISHER\n🇧🇪 Isaac KIMELI\n🇺🇬 Jacob KIPLIMO\n🏳️
+  Jamal Abdelmaji EISA MOHAMMED\n🇫🇷 Jimmy GRESSIER\n🇺🇬 Joshua
+  CHEPTEGEI\n🇯🇵 KASAI Jun\n🇺🇬 Martin KIPROTICH\n🇪🇷 Merhawi
+  MEBRAHTU\n🇨🇦 Mohammed AHMED\n🇰🇪 Nicholas KIPKORIR\n🇺🇸 Nico
+  YOUNG\n🇯🇵 OTA Tomoki\n🇧🇮 Rodrigue KWIZERA\n🇪🇹 Selemon BAREGA\n🇪🇸
+  Thierry NDIKUMWENAYO\n🇺🇸 William KINCAID\n🇫🇷 Yann SCHRUB\n🇪🇹 Yomif
+  KEJELCHA\n🇷🇼 Yves NIMUBONA
+SUMMARY:🏃 Men's 10,000m Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T191500Z-athletics-WOMENS-5000M-FINAL
 DTSTAMP:20240805T191500Z
 DTSTART:20240805T191500Z

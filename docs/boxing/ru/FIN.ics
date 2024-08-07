@@ -4,6 +4,24 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ru/FIN//EN
 X-WR-CALNAME:🇫🇮 Finland Бокс | Paris 2024
 NAME:🇫🇮 Finland Бокс | Paris 2024
 BEGIN:VEVENT
+UID:20240728T190400Z-boxing--116-50--FIN-ZAM
+DTSTAMP:20240728T190400Z
+DTSTART:20240728T190400Z
+DTEND:20240728T191500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 50кг (ж)
+SUMMARY:🥊 Pihla KAIVO-OJA 🇫🇮 - 🇿🇲 Margaret TEMBO
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T140200Z-boxing--18-50--FIN-USA
+DTSTAMP:20240801T140200Z
+DTSTART:20240801T140200Z
+DTEND:20240801T141300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 50кг (ж)
+SUMMARY:🥊 Pihla KAIVO-OJA 🇫🇮 - 🇺🇸 Jennifer LOZANO
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T190400Z-boxing--50--TUR-FIN
 DTSTAMP:20240803T190400Z
 DTSTART:20240803T190400Z

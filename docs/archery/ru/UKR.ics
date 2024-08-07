@@ -62,4 +62,31 @@ DESCRIPTION:Стрельба из лука - Рейтинговый раунд, 
 SUMMARY:🏹 Рейтинговый раунд, индивидуальные (м)
 LOCATION:Дом инвалидов
 END:VEVENT
+BEGIN:VEVENT
+UID:20240730T111800Z-archery-132--BRA-UKR
+DTSTAMP:20240730T111800Z
+DTSTART:20240730T111800Z
+DTEND:20240730T113100Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (м)
+SUMMARY:🏹 Marcus D'ALMEIDA 🇧🇷 - 🇺🇦 Mykhailo USACH
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T091400Z-archery-132--UKR-TPE
+DTSTAMP:20240801T091400Z
+DTSTART:20240801T091400Z
+DTEND:20240801T092700Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (ж)
+SUMMARY:🏹 Veronika MARCHENKO 🇺🇦 - 🇹🇼 LI Tsai-Chi
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T095300Z-archery-116--UKR-MEX
+DTSTAMP:20240801T095300Z
+DTSTART:20240801T095300Z
+DTEND:20240801T100600Z
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)
+SUMMARY:🏹 Veronika MARCHENKO 🇺🇦 - 🇲🇽 Alejandra VALENCIA
+LOCATION:Дом инвалидов
+END:VEVENT
 END:VCALENDAR

@@ -4,6 +4,119 @@ PRODID:-//fabrice404//olympics-calendar//surfing/ru/USA//EN
 X-WR-CALNAME:🇺🇸 United States Серфинг | Paris 2024
 NAME:🇺🇸 United States Серфинг | Paris 2024
 BEGIN:VEVENT
+UID:20240727T200000Z-surfing--1-6-
+DTSTAMP:20240727T200000Z
+DTSTART:20240727T200000Z
+DTEND:20240727T203000Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 6 (м)\n🇲🇽 Alan CLELAND
+  QUINONEZ\n🇪🇸 Andy CRIERE\n🇺🇸 John John FLORENCE
+SUMMARY:🏄 Раунд 1, заезд 6 (м)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T203600Z-surfing--1-7-
+DTSTAMP:20240727T203600Z
+DTSTART:20240727T203600Z
+DTEND:20240727T210600Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 7 (м)\n🇺🇸 Griffin COLAPINTO\n🇫🇷
+  Kauli VAAST\n🇵🇪 Lucca MESINAS
+SUMMARY:🏄 Раунд 1, заезд 7 (м)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T214800Z-surfing--1-1-
+DTSTAMP:20240727T214800Z
+DTSTART:20240727T214800Z
+DTEND:20240727T221800Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 1 (ж)\n🇺🇸 Caroline MARKS\n🇿🇦 Sarah
+  BAUM\n🇵🇹 Yolanda HOPKINS
+SUMMARY:🏄 Раунд 1, заезд 1 (ж)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T233600Z-surfing--1-4-
+DTSTAMP:20240727T233600Z
+DTSTART:20240727T233600Z
+DTEND:20240728T000600Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 4 (ж)\n🇺🇸 Caitlin SIMMERS\n🇦🇺
+  Molly PICKLUM\n🇧🇷 Tatiana WESTON-WEBB
+SUMMARY:🏄 Раунд 1, заезд 4 (ж)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T020000Z-surfing--1-8-
+DTSTAMP:20240728T020000Z
+DTSTART:20240728T020000Z
+DTEND:20240728T023000Z
+DESCRIPTION:Серфинг - Раунд 1, заезд 8 (ж)\n🇺🇸 Carissa MOORE\n🇯🇵
+  MATSUDA Shino\n🇵🇹 Teresa BONVALOT
+SUMMARY:🏄 Раунд 1, заезд 8 (ж)
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T181200Z-surfing--3-3--FRA-USA
+DTSTAMP:20240729T181200Z
+DTSTART:20240729T181200Z
+DTEND:20240729T184200Z
+DESCRIPTION:Серфинг - Раунд 3, заезд 3 (м)
+SUMMARY:🏄 Kauli VAAST 🇫🇷 - 🇺🇸 Griffin COLAPINTO
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T203600Z-surfing--3-7--AUS-USA
+DTSTAMP:20240729T203600Z
+DTSTART:20240729T203600Z
+DTEND:20240729T210600Z
+DESCRIPTION:Серфинг - Раунд 3, заезд 7 (м)
+SUMMARY:🏄 Jack ROBINSON 🇦🇺 - 🇺🇸 John John FLORENCE
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T170000Z-surfing--3-1--USA-CHN
+DTSTAMP:20240801T170000Z
+DTSTART:20240801T170000Z
+DTEND:20240801T173000Z
+DESCRIPTION:Серфинг - Раунд 3, заезд 1 (ж)
+SUMMARY:🏄 Caroline MARKS 🇺🇸 - 🇨🇳 YANG Siqi
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T184800Z-surfing--3-4--USA-RSA
+DTSTAMP:20240801T184800Z
+DTSTART:20240801T184800Z
+DTEND:20240801T191800Z
+DESCRIPTION:Серфинг - Раунд 3, заезд 4 (ж)
+SUMMARY:🏄 Carissa MOORE 🇺🇸 - 🇿🇦 Sarah BAUM
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T200000Z-surfing--3-6--BRA-USA
+DTSTAMP:20240801T200000Z
+DTSTART:20240801T200000Z
+DTEND:20240801T203000Z
+DESCRIPTION:Серфинг - Раунд 3, заезд 6 (ж)
+SUMMARY:🏄 Tatiana WESTON-WEBB 🇧🇷 - 🇺🇸 Caitlin SIMMERS
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T001200Z-surfing-14-1--USA-AUS
+DTSTAMP:20240802T001200Z
+DTSTART:20240802T001200Z
+DTEND:20240802T004200Z
+DESCRIPTION:Серфинг - 1/4 финала, заезд 1 (ж)
+SUMMARY:🏄 Caroline MARKS 🇺🇸 - 🇦🇺 Tyler WRIGHT
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T004800Z-surfing-14-2--FRA-USA
+DTSTAMP:20240802T004800Z
+DTSTART:20240802T004800Z
+DTEND:20240802T011800Z
+DESCRIPTION:Серфинг - 1/4 финала, заезд 2 (ж)
+SUMMARY:🏄 Johanne DEFAY 🇫🇷 - 🇺🇸 Carissa MOORE
+LOCATION:Теахупоо, Таити
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T214200Z-surfing--1--USA-FRA
 DTSTAMP:20240805T214200Z
 DTSTART:20240805T214200Z

@@ -4,6 +4,24 @@ PRODID:-//fabrice404//olympics-calendar//beach-volleyball/ja/PAR//EN
 X-WR-CALNAME:🇵🇾 Paraguay ビーチバレーボール | Paris 2024
 NAME:🇵🇾 Paraguay ビーチバレーボール | Paris 2024
 BEGIN:VEVENT
+UID:20240729T130000Z-beach-volleyball--D-CAN-PAR
+DTSTAMP:20240729T130000Z
+DTSTART:20240729T130000Z
+DTEND:20240729T135000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールD
+SUMMARY:🏐 MELISSA/BRANDIE 🇨🇦 - 🇵🇾 POLETTI/MICHELLE
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T100000Z-beach-volleyball--D-LAT-PAR
+DTSTAMP:20240731T100000Z
+DTSTART:20240731T100000Z
+DTEND:20240731T105000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールD
+SUMMARY:🏐 TINA/ANASTASIJA 🇱🇻 - 🇵🇾 POLETTI/MICHELLE
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-beach-volleyball--D-SUI-PAR
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z

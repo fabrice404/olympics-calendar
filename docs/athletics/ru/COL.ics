@@ -4,6 +4,30 @@ PRODID:-//fabrice404//olympics-calendar//athletics/ru/COL//EN
 X-WR-CALNAME:🇨🇴 Colombia Легкая атлетика | Paris 2024
 NAME:🇨🇴 Colombia Легкая атлетика | Paris 2024
 BEGIN:VEVENT
+UID:20240801T075000Z-athletics--20-
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
+DESCRIPTION:Легкая атлетика - Ходьба 20км, финал (ж)\n🇲🇽 Alegna
+  GONZALEZ\n🇲🇽 Alejandra ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni
+  NTRISMPIOTI\n🇮🇹 Antonella PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷
+  Clemence BERETTA\n🇪🇸 Cristina MONTESINOS\n🇮🇹 Eleonora Anna
+  GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica SENA\n🇵🇪 Evelyn INGA\n🇯🇵
+  FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨 Glenda MOREJON\n🇸🇰 Hana
+  BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima MONTAG\n🇵🇱 Katarzyna
+  ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇨🇳 LIU Hong\n🇪🇸 Laura
+  GARCIA-CARO\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila OLYANOVSKA\n🇨🇳 MA
+  Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria KATERINKA CZAKOVA\n🇪🇸
+  Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz ANDIA\n🇹🇷 Meryem
+  BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳 PRIYANKA\n🇪🇨
+  Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de ORBETA\n🇦🇺
+  Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹 Valentina
+  TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷 Viviane
+  LYRA\n🇨🇳 YANG Jiayu
+SUMMARY:🏃 Ходьба 20км, финал (ж)
+LOCATION:Трокадеро
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T095500Z-athletics-100-1-
 DTSTAMP:20240803T095500Z
 DTSTART:20240803T095500Z
@@ -216,6 +240,36 @@ DESCRIPTION:Легкая атлетика - Ходьба, марафон, сме
   B/RECSEI R\n🇨🇳 ZHANG Jun/YANG Jiayu
 SUMMARY:🏃 Ходьба, марафон, смешанная эстафета
 LOCATION:Трокадеро
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T082500Z-athletics--
+DTSTAMP:20240807T082500Z
+DTSTART:20240807T082500Z
+DTEND:20240807T092100Z
+DESCRIPTION:Легкая атлетика - Метание копья, квалификация, группа А
+  (ж)\n🇮🇳 Annu RANI\n🇩🇪 Christin HUSSONG\n🇨🇳 DAI Qianqian\n🇱🇰
+  Dilhani LEKAMGE\n🇿🇦 Jo-Ane van DYK\n🇧🇷 Jucilene Sales de LIMA\n🇦🇺
+  Kathryn MITCHELL\n🇱🇻 Lina MUZE-SIRMA\n🇦🇺 Mackenzie LITTLE\n🇺🇸
+  Maggie MALONE-HARDIN\n🇨🇴 Maria Lucelly MURILLO\n🇨🇿 Nikola
+  OGRODNIKOVA\n🇧🇸 Rhema OTABOR\n🇯🇵 SAITO Marina\n🇳🇿 Tori
+  PEETERS\n🇦🇹 Victoria HUDSON
+SUMMARY:🏃 Метание копья, квалификация, группа А (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T095000Z-athletics--
+DTSTAMP:20240807T095000Z
+DTSTART:20240807T095000Z
+DTEND:20240807T104600Z
+DESCRIPTION:Легкая атлетика - Метание копья, квалификация, группа В
+  (ж)\n🇷🇸 Adriana VILAGOS\n🇱🇻 Anete SIETINA\n🇫🇮 Anni-Linnea
+  ALANEN\n🇹🇷 Eda TUGSUZ\n🇬🇷 Elina TZENGKO\n🇨🇴 Flor Denis RUIZ
+  HURTADO\n🇯🇵 KITAGUCHI Haruka\n🇦🇺 Kelsey-Lee BARBER\n🇨🇳 LYU
+  Huihui\n🇱🇹 Liveta JASIUNAITE\n🇵🇱 Maria ANDREJCZYK\n🇳🇴 Marie-Therese
+  OBST\n🇨🇿 Petra SICAKOVA\n🇭🇷 Sara KOLAK\n🇯🇵 UEDA Momone\n🇪🇸
+  Yulenmis AGUILAR
+SUMMARY:🏃 Метание копья, квалификация, группа В (ж)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T171500Z-athletics--

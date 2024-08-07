@@ -4,6 +4,28 @@ PRODID:-//fabrice404//olympics-calendar//athletics/ru/VEN//EN
 X-WR-CALNAME:🇻🇪 Venezuela Легкая атлетика | Paris 2024
 NAME:🇻🇪 Venezuela Легкая атлетика | Paris 2024
 BEGIN:VEVENT
+UID:20240802T161000Z-athletics-5000-1-
+DTSTAMP:20240802T161000Z
+DTSTART:20240802T161000Z
+DTEND:20240802T165400Z
+DESCRIPTION:Легкая атлетика - 5000м, раунд 1 (ж)\n🇮🇳 ANKITA\n🇱🇻 Agate
+  CAUNE\n🇲🇽 Alma Delia CORTES\n🇰🇪 Beatrice CHEBET\n🇺🇬 Belinda
+  CHEMUTAI\n🇨🇦 Briana SCOTT\n🇪🇹 Ejgayehu TAYE\n🇺🇸 Elise CRANNY\n🇺🇬
+  Esther CHEBET\n🇰🇪 Faith KIPYEGON\n🇮🇹 Federica del BUONO\n🇧🇮
+  Francine NIYOMUKUNZI\n🇪🇹 Gudaf TSEGAY\n🇩🇪 Hanna KLEIN\n🇦🇺 Isobel
+  BATT-DOYLE\n🇮🇪 Jodie McCANN\n🇻🇪 Joselyn Daniely BREA\n🇺🇬 Joy
+  CHEPTOYEK\n🇯🇵 KABASAWA Wakana\n🇺🇸 Karissa SCHWEIZER\n🇳🇴 Karoline
+  Bjerkeli GROVDAL\n🇸🇮 Klara LUKAN\n🇲🇽 Laura GALVAN\n🇦🇺 Lauren
+  RYAN\n🇧🇪 Lisa ROOMS\n🇰🇪 Margaret Chelimo KIPKEMBOI\n🇵🇹 Mariana
+  MACHADO\n🇪🇸 Marta GARCIA\n🇳🇱 Maureen KOSTER\n🇪🇹 Medina EISA\n🇮🇹
+  Nadia BATTOCLETTI\n🇫🇮 Nathalie BLOMQVIST\n🇮🇳 Parul CHAUDHARY\n🇦🇺
+  Rose DAVIES\n🇩🇯 Samiyah HASSAN NOUR\n🇫🇷 Sarah MADELEINE\n🇳🇱 Sifan
+  HASSAN\n🇯🇵 TANAKA Nozomi\n🇭🇺 Viktoria WAGNER-GYURKES\n🇺🇸 Whittni
+  MORGAN\n🇯🇵 YAMAMOTO Yuma
+SUMMARY:🏃 5000м, раунд 1 (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T094500Z-athletics--
 DTSTAMP:20240804T094500Z
 DTSTART:20240804T094500Z
@@ -158,12 +180,11 @@ DTSTART:20240807T161500Z
 DTEND:20240807T193000Z
 DESCRIPTION:Легкая атлетика - Прыжки с шестом, финал (ж)\n🇬🇷 Aikaterini
   STEFANIDI\n🇨🇦 Alysha NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica
-  MOSER\n🇩🇪 Anjuli KNAESCHE\n🇬🇷 Ariadni ADAMOPOULOU\n🇫🇮 Elina
-  LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇳🇿 Imogen
-  AYRIS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie
-  BONNIN\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇳🇿 Olivia
-  McTAGGART\n🇻🇪 Robeilys PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina
-  SUTEJ\n🇫🇮 Wilma MURTO
+  MOSER\n🇩🇪 Anjuli KNAESCHE\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa
+  MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇳🇿 Imogen AYRIS\n🇺🇸 Katie
+  MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇦🇺 Nina
+  KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇳🇿 Olivia McTAGGART\n🇻🇪 Robeilys
+  PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
 SUMMARY:🏃 Прыжки с шестом, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

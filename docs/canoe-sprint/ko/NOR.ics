@@ -84,4 +84,14 @@ DESCRIPTION:카누 스프린트 - 여자 카약 1인승 500m 예선\n🇳🇿 Ai
 SUMMARY:🛶 여자 카약 1인승 500m 예선
 LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T094000Z-canoe-sprint--500M-1
+DTSTAMP:20240808T094000Z
+DTSTART:20240808T094000Z
+DTEND:20240808T094700Z
+DESCRIPTION:카누 스프린트 - 여자 카약 무타포어 500m 준결승 1\n🇳🇴 노르웨이\n🇷🇸 세르비아\n🇦🇺
+  오스트레일리아\n🇨🇦 캐나다
+SUMMARY:🛶 여자 카약 무타포어 500m 준결승 1
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
 END:VCALENDAR

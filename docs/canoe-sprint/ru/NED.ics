@@ -64,4 +64,16 @@ DESCRIPTION:Гребной спринт - Байдарки-одиночки 500�
 SUMMARY:🛶 Байдарки-одиночки 500м, квалификация (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
+BEGIN:VEVENT
+UID:20240809T090000Z-canoe-sprint--500-2-
+DTSTAMP:20240809T090000Z
+DTSTART:20240809T090000Z
+DTEND:20240809T090700Z
+DESCRIPTION:Гребной спринт - Байдарки-двойки 500м, полуфинал 2 (ж)\n🇳🇿
+  CARRINGTON/HOSKIN\n🇪🇸 GARCIA OTE/OUZANDE\n🇫🇷 HOSTENS/PAOLETTI\n🇳🇱
+  KONIJN/VORSSELMAN\n🇩🇪 PASZEK/HAKE\n🇭🇺 PUPP/FOJT\n🇸🇪
+  STENSILS/WIKBERG\n🇨🇳 YU/CHEN
+SUMMARY:🛶 Байдарки-двойки 500м, полуфинал 2 (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
 END:VCALENDAR

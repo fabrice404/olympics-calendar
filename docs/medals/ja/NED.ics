@@ -4,18 +4,57 @@ PRODID:-//fabrice404//olympics-calendar//medals/ja/NED//EN
 X-WR-CALNAME:🇳🇱 Netherlands 🏅 | Paris 2024
 NAME:🇳🇱 Netherlands 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240727T123000Z-cycling-road-
+DTSTAMP:20240727T123000Z
+DTSTART:20240727T123000Z
+DTEND:20240727T135900Z
+DESCRIPTION:自転車ロードレース - 女子個人タイムトライアル\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧
+  Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪
+  Antonia NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup
+  LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi
+  VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO
+  BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia
+  BUJAK\n🇦🇺 Grace BROWN\n🇦🇸 Hanna TSERAKH\n🇨🇿 Julia KOPECKY\n🇫🇷
+  Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱 Marta
+  LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO PELLICER\n🇸🇰 Nora
+  JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇹🇭 Phetdarin
+  SOMRAT\n🇨🇳 TANG Xin\n🇦🇸 Tamara DRONOVA\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska
+  PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 女子個人タイムトライアル
+LOCATION:アレクサンドル3世橋
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road-
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T155700Z
+DESCRIPTION:自転車ロードレース - 男子個人タイムトライアル\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
+  BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
+  Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
+  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇦🇸 Gleb SYRITSA\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
+  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
+  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
+  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
+  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 男子個人タイムトライアル
+LOCATION:アレクサンドル3世橋
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
 DESCRIPTION:自転車マウンテンバイク - 女子クロスカントリー\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
-  KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
-  Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
-  MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
-  SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella
-  HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla MWAMIKAZI\n🇸🇪 Jenny
-  RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷 Loana
-  LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
+  KELLER\n🇳🇱 Anne TERPSTRA\n🇭🇺 Blanka VAS\n🇿🇦 Candice LILL\n🇩🇰
+  Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella MACLEAN-HOWELL\n🇧🇪
+  Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ SUAREZ\n🇬🇧 Evie
+  RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella HOLMGREN\n🇪🇪 Janika
+  LOIV\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷
+  Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
   BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND PREVOT\n🇳🇱 Puck
   PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel QUEIROS\n🇦🇺 Rebecca
   HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
@@ -23,6 +62,282 @@ DESCRIPTION:自転車マウンテンバイク - 女子クロスカントリー\n
   BELOMOINA
 SUMMARY:🚴 女子クロスカントリー
 LOCATION:エランクールの丘
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T144800Z-archery-3-NED-MEX
+DTSTAMP:20240728T144800Z
+DTSTART:20240728T144800Z
+DTEND:20240728T151100Z
+DESCRIPTION:アーチェリー - 女子団体3位決定戦
+SUMMARY:🏹 オランダ 🇳🇱 - 🇲🇽 メキシコ
+LOCATION:アンヴァリッド
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T194400Z-swimming-100M
+DTSTAMP:20240728T194400Z
+DTSTART:20240728T194400Z
+DTEND:20240728T195000Z
+DESCRIPTION:競泳 - 男子100m平泳ぎ決勝\n🇬🇧 Adam PEATY\n🇳🇱 Arno KAMMINGA\n🇳🇱
+  Caspar CORBEAU\n🇩🇪 Lucas MATZERATH\n🇩🇪 Melvin IMOUDU\n🇺🇸 Nic
+  FINK\n🇮🇹 Nicolo MARTINENGHI\n🇨🇳 QIN Haiyang
+SUMMARY:🏊 男子100m平泳ぎ決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-equestrian-
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T114000Z
+DESCRIPTION:馬術 - 総合馬術障害団体決勝\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇳🇱
+  オランダ\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇨🇭 スイス\n🇸🇪 スウェーデン\n🇩🇪 ドイツ\n🇳🇿
+  ニュージーランド\n🇫🇷 フランス\n🇧🇷 ブラジル\n🇧🇪 ベルギー\n🇵🇱 ポーランド\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏇 総合馬術障害団体決勝
+LOCATION:ベルサイユ宮殿
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T130000Z-equestrian-
+DTSTAMP:20240729T130000Z
+DTSTART:20240729T130000Z
+DTEND:20240729T140000Z
+DESCRIPTION:馬術 - 総合馬術障害個人決勝\n🇮🇪 Austin O'CONNOR\n🇺🇸 Boyd MARTIN\n🇦🇺
+  Christopher BURTON\n🇳🇿 Clarke JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇮🇹
+  Evelina BERTOLI\n🇨🇭 Felix VOGG\n🇸🇪 Frida ANDERSEN\n🇨🇳 HUA TIAN
+  Alex\n🇳🇱 Janneke BOONZAAIJER\n🇩🇪 Julia KRAJEWSKI\n🇫🇷 Karim Florent
+  LAGHOUAG\n🇧🇪 Karin DONCKERS\n🇧🇪 Lara de LIEDEKERKE - MEIER\n🇬🇧
+  Laura COLLETT\n🇸🇪 Louise ROMEIKE\n🇩🇪 Michael JUNG\n🇫🇷 Nicolas
+  TOUZAINT\n🇯🇵 OIWA Yoshiaki\n🇬🇧 Rosalind CANTER\n🇦🇺 Shane ROSE\n🇫🇷
+  Stephane LANDOIS\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇬🇧 Tom McEWEN
+SUMMARY:🏇 総合馬術障害個人決勝
+LOCATION:ベルサイユ宮殿
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T060000Z-triathlon-
+DTSTAMP:20240731T060000Z
+DTSTART:20240731T060000Z
+DTEND:20240731T080500Z
+DESCRIPTION:トライアスロン - 女子個人\n🇳🇿 Ainsley THORPE\n🇩🇰 Alberte KJAER
+  PEDERSEN\n🇮🇹 Alice BETTO\n🇪🇸 Anna GODOY CONTRERAS\n🇬🇧 Beth
+  POTTER\n🇮🇹 Bianca SEREGNI\n🇫🇷 Cassandre BEAUGRAND\n🇨🇭 Cathia
+  SCHAR\n🇧🇪 Claire MICHEL\n🇧🇷 Djenyfer ARNOLD\n🇮🇸 Edda
+  HANNESDOTTIR\n🇰🇿 Ekaterina SHABALINA\n🇪🇨 Elizabeth BRAVO\n🇫🇷 Emma
+  LOMBARDI\n🇨🇦 Emy LEGAULT\n🇧🇲 Erica HAWLEY\n🇧🇲 Flora DUFFY\n🇬🇧
+  Georgia TAYLOR-BROWN\n🇱🇺 Jeanne LEHAIR\n🇧🇪 Jolien VERMEYLEN\n🇦🇹
+  Julia HAUSER\n🇨🇭 Julie DERRON\n🇬🇧 Kate WAUGH\n🇺🇸 Kirsten
+  KASPER\n🇨🇳 LIN Xinyu\n🇩🇪 Laura LINDEMANN\n🇫🇷 Leonie PERIAULT\n🇦🇹
+  Lisa PERTERER\n🇩🇪 Lisa TERTSCH\n🇲🇽 Lizeth RUEDA SANTOS\n🇳🇴 Lotte
+  MILLER\n🇬🇺 Manami IIJIMA\n🇨🇴 Maria Carolina VELASQUEZ SOTO\n🇵🇹
+  Maria TOME\n🇳🇱 Maya KINGMA\n🇵🇹 Melanie SANTOS\n🇪🇸 Miriam CASILLAS
+  GARCIA\n🇦🇺 Natalie van COEVORDEN\n🇳🇿 Nicole van der KAAY\n🇩🇪 Nina
+  EIM\n🇨🇿 Petra KURIKOVA\n🇳🇱 Rachel KLAMER\n🇵🇱 Roksana SLUPEK\n🇦🇷
+  Romina BIAGIOLI\n🇲🇽 Rosa Maria TAPIA VIDAL\n🇳🇴 Solveig LOVSETH\n🇦🇺
+  Sophie LINN\n🇯🇵 TAKAHASHI Yuko\n🇺🇸 Taylor KNIBB\n🇺🇸 Taylor
+  SPIVEY\n🇸🇪 Tilda MANSSON\n🇮🇹 Verena STEINHAUSER\n🇿🇦 Vicky van der
+  MERWE\n🇧🇷 Vittoria LOPES\n🇭🇺 Zsanett KUTTOR-BRAGMAYER
+SUMMARY:🏊 女子個人
+LOCATION:アレクサンドル3世橋
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T084500Z-triathlon-
+DTSTAMP:20240731T084500Z
+DTSTART:20240731T084500Z
+DTEND:20240731T104500Z
+DESCRIPTION:トライアスロン - 男子個人\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto GONZALEZ
+  GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois KNABL\n🇪🇸
+  Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR MOYSEN\n🇭🇺 Bence
+  BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto GRAJALES\n🇭🇺 Csongor
+  LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿 Dylan McCULLOUGH\n🇹🇬
+  Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix DUCHAMPT\n🇨🇱 Gaspar
+  RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden WILDE\n🇿🇦 Henri
+  SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad ABDELMOULA\n🇲🇺 Jean Gael
+  Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas SCHOMBURG\n🇳🇴 Kristian
+  BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷
+  Manoel MESSIAS\n🇧🇪 Marten VAN RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew
+  WRIGHT\n🇨🇭 Max STUDER\n🇧🇷 Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸
+  Morgan PEARSON\n🇯🇵 NENER Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA
+  Makoto\n🇫🇷 Pierre le CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard
+  MURRAY\n🇪🇸 Roberto SANCHEZ MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧
+  Samuel DICKINSON\n🇺🇸 Seth RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim
+  HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦 Tyler MISLAWCHUK\n🇧🇲 Tyler
+  SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle Bergsvik THORN
+SUMMARY:🏊 男子個人
+LOCATION:アレクサンドル3世橋
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T102600Z-rowing-A
+DTSTAMP:20240731T102600Z
+DTSTART:20240731T102600Z
+DTEND:20240731T103300Z
+DESCRIPTION:ローイング - 男子クオドルプルスカル決勝A\n🇮🇹 イタリア\n🇳🇱 オランダ\n🇨🇭 スイス\n🇩🇪
+  ドイツ\n🇵🇱 ポーランド\n🇬🇧 英国
+SUMMARY:🚣 男子クオドルプルスカル決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T103800Z-rowing-A
+DTSTAMP:20240731T103800Z
+DTSTART:20240731T103800Z
+DTEND:20240731T104500Z
+DESCRIPTION:ローイング - 女子クオドルプルスカル決勝A\n🇺🇦 ウクライナ\n🇳🇱 オランダ\n🇨🇭 スイス\n🇩🇪
+  ドイツ\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🚣 女子クオドルプルスカル決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T145400Z-judo-70KG3B-BEL-NED
+DTSTAMP:20240731T145400Z
+DTSTART:20240731T145400Z
+DTEND:20240731T150000Z
+DESCRIPTION:柔道 - 女子70kg級3位決定戦B
+SUMMARY:🥋 Gabriella WILLEMS 🇧🇪 - 🇳🇱 Sanne van DIJKE
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T153000Z-artistic-gymnastics-
+DTSTAMP:20240731T153000Z
+DTSTART:20240731T153000Z
+DTEND:20240731T180054Z
+DESCRIPTION:体操競技 - 男子個人総合決勝\n🇵🇭 Carlos Edriel YULO\n🇳🇱 Casimir
+  SCHMIDT\n🇧🇷 Diogo SOARES\n🇨🇦 Felix DOLCI\n🇨🇭 Florian
+  LANGENEGGER\n🇳🇱 Frank RIJKEN\n🇺🇸 Frederick RICHARD\n🇯🇵 HASHIMOTO
+  Daiki\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇦🇺 Jesse MOORE\n🇬🇧 Joe
+  FRASER\n🇭🇺 Krisztofer MESZAROS\n🇮🇹 Mario MACCHIATI\n🇨🇭 Matteo
+  GIUBELLINI\n🇰🇿 Milad KARIMI\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA
+  Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇺🇸 Paul JUDA\n🇨🇦 Rene
+  COURNOYER\n🇨🇳 XIAO Ruoteng\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
+SUMMARY:🤸 男子個人総合決勝
+LOCATION:ベルシー・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T183000Z-swimming-100M
+DTSTAMP:20240731T183000Z
+DTSTART:20240731T183000Z
+DTEND:20240731T183700Z
+DESCRIPTION:競泳 - 女子100m自由形決勝\n🇺🇸 Gretchen WALSH\n🇭🇰 HAUGHEY Siobhan
+  Bernadette\n🇳🇱 Marrit STEENBERGEN\n🇦🇺 Mollie O'CALLAGHAN\n🇸🇪 Sarah
+  SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Torri HUSKE\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 女子100m自由形決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T203100Z-swimming-200M
+DTSTAMP:20240731T203100Z
+DTSTART:20240731T203100Z
+DTEND:20240731T203900Z
+DESCRIPTION:競泳 - 男子200m平泳ぎ決勝\n🇳🇱 Caspar CORBEAU\n🇨🇳 DONG Zhihao\n🇯🇵
+  HANAGURUMA Yu\n🇺🇸 Josh MATHENY\n🇦🇺 Joshua YONG\n🇫🇷 Leon
+  MARCHAND\n🇯🇵 WATANABE Ippei\n🇦🇺 Zac STUBBLETY-COOK
+SUMMARY:🏊 男子200m平泳ぎ決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T091800Z-rowing-A
+DTSTAMP:20240801T091800Z
+DTSTART:20240801T091800Z
+DTEND:20240801T092500Z
+DESCRIPTION:ローイング - 女子ダブルスカル決勝A\n🇳🇱 オランダ\n🇳🇿 ニュージーランド\n🇳🇴 ノルウェー\n🇫🇷
+  フランス\n🇷🇴 ルーマニア\n🇬🇧 英国
+SUMMARY:🚣 女子ダブルスカル決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T093000Z-rowing-A
+DTSTAMP:20240801T093000Z
+DTSTART:20240801T093000Z
+DTEND:20240801T093700Z
+DESCRIPTION:ローイング - 男子ダブルスカル決勝A\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇪🇸
+  スペイン\n🇳🇿 ニュージーランド\n🇷🇴 ルーマニア
+SUMMARY:🚣 男子ダブルスカル決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T095000Z-rowing-A
+DTSTAMP:20240801T095000Z
+DTSTART:20240801T095000Z
+DTEND:20240801T095700Z
+DESCRIPTION:ローイング - 女子フォア決勝A\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇳🇿 ニュージーランド\n🇷🇴
+  ルーマニア\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🚣 女子フォア決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T161500Z-artistic-gymnastics-
+DTSTAMP:20240801T161500Z
+DTSTART:20240801T161500Z
+DTEND:20240801T181009Z
+DESCRIPTION:体操競技 - 女子個人総合決勝\n🇮🇹 Alice D'AMATO\n🇬🇧 Alice KINSELLA\n🇷🇴
+  Amalia GHIGOARTA\n🇷🇴 Ana BARBOSU\n🇨🇦 Ava STEWART\n🇭🇺 Bettina Lili
+  CZIFRA\n🇨🇦 Elsabeth BLACK\n🇵🇹 Filipa MARTINS\n🇧🇷 Flavia
+  SARAIVA\n🇬🇧 Georgia-Mae FENTON\n🇩🇪 Helen KEVRIC\n🇯🇵 KISHI
+  Rina\n🇩🇿 Kaylia NEMOUR\n🇨🇴 Luisa BLANCO\n🇮🇹 Manila ESPOSITO\n🇯🇵
+  NAKAMURA Haruka\n🇳🇱 Naomi VISSER\n🇨🇳 OU Yushan\n🇨🇳 QIU Qiyuan\n🇧🇷
+  Rebeca ANDRADE\n🇦🇺 Ruby PASS\n🇩🇪 Sarah VOSS\n🇺🇸 Simone BILES\n🇺🇸
+  Sunisa LEE
+SUMMARY:🤸 女子個人総合決勝
+LOCATION:ベルシー・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T191100Z-swimming-200M
+DTSTAMP:20240801T191100Z
+DTSTART:20240801T191100Z
+DTEND:20240801T191900Z
+DESCRIPTION:競泳 - 女子200m平泳ぎ決勝\n🇺🇸 Kate DOUGLASS\n🇿🇦 Kaylene
+  CORBETT\n🇱🇹 Kotryna TETEREVKOVA\n🇺🇸 Lilly KING\n🇯🇵 SUZUKI
+  Satomi\n🇿🇦 Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YE Shiwen
+SUMMARY:🏊 女子200m平泳ぎ決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T094200Z-rowing-A
+DTSTAMP:20240802T094200Z
+DTSTART:20240802T094200Z
+DTEND:20240802T094900Z
+DESCRIPTION:ローイング - 女子ペア決勝A\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇬🇷
+  ギリシャ\n🇱🇹 リトアニア\n🇷🇴 ルーマニア
+SUMMARY:🚣 女子ペア決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100000Z-tennis-3-CAN-NED
+DTSTAMP:20240802T100000Z
+DTSTART:20240802T100000Z
+DTEND:20240802T160000Z
+DESCRIPTION:テニス - 混合ダブルス3位決定戦
+SUMMARY:🎾 DABROWSKI/AUGER-ALIAS 🇨🇦 - 🇳🇱 SCHUURS/KOOLHOF
+LOCATION:スタッド・ローラン・ギャロス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T101300Z-sailing-
+DTSTAMP:20240802T101300Z
+DTSTART:20240802T101300Z
+DTEND:20240802T103800Z
+DESCRIPTION:セーリング - 女子スキフ・メダルレース\n🇳🇱 AANHOLT/DUETZ\n🇳🇿 ALEH/MEECH\n🇩🇪
+  BERGMANN/WILLE\n🇸🇪 BOBECK/NETZLER\n🇮🇹 GERMANI/BERTUZZI\n🇳🇴
+  NAESS/ROENNINGEN\n🇦🇺 PRICE/HASELDINE\n🇺🇸 ROBLE/SHEA\n🇧🇷
+  SOFFIATTI/KUNZE\n🇫🇷 STEYAERT/PICON
+SUMMARY:⛵ 女子スキフ・メダルレース
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T111300Z-sailing-
+DTSTAMP:20240802T111300Z
+DTSTART:20240802T111300Z
+DTEND:20240802T113500Z
+DESCRIPTION:セーリング - 男子スキフ・メダルレース\n🇺🇸 BARROWS/HENKEN\n🇪🇸
+  BOTIN/TRITTEL\n🇵🇱 BUKSAK/WIERZBICKI\n🇮🇪 DICKSON/WADDILOVE\n🇳🇱
+  LAMBRIEX/WERKEN\n🇳🇿 McHARDIE/McKENZIE\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  FANTELA/M FANTELA\n🇨🇭 SCHNEITER/de PLANTA\n🇺🇾 UMPIERRE/DIZ
+SUMMARY:⛵ 男子スキフ・メダルレース
+LOCATION:マルセイユ・マリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T120000Z-equestrian-
+DTSTAMP:20240802T120000Z
+DTSTART:20240802T120000Z
+DTEND:20240802T134100Z
+DESCRIPTION:馬術 - 障害馬術団体決勝\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇳🇱
+  オランダ\n🇸🇪 スウェーデン\n🇩🇪 ドイツ\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽 メキシコ\n🇬🇧 英国
+SUMMARY:🏇 障害馬術団体決勝
+LOCATION:ベルサイユ宮殿
 END:VEVENT
 BEGIN:VEVENT
 UID:20240802T195000Z-cycling-bmx-racing-

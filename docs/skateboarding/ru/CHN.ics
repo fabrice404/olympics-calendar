@@ -4,6 +4,33 @@ PRODID:-//fabrice404//olympics-calendar//skateboarding/ru/CHN//EN
 X-WR-CALNAME:🇨🇳 China Скейтбординг | Paris 2024
 NAME:🇨🇳 China Скейтбординг | Paris 2024
 BEGIN:VEVENT
+UID:20240728T100000Z-skateboarding--
+DTSTAMP:20240728T100000Z
+DTSTART:20240728T100000Z
+DTEND:20240728T135000Z
+DESCRIPTION:Скейтбординг - Стрит, предварительные заезды (ж)\n🇯🇵 AKAMA
+  Liz\n🇿🇦 Boipelo AWUAH\n🇨🇳 CUI Chenxi\n🇦🇺 Chloe COVELL\n🇪🇸 Daniela
+  TEROL\n🇧🇷 Gabi MAZETTO\n🇦🇺 Haylie POWELL\n🇳🇱 Keet
+  OLDENBEUVING\n🇦🇺 Liv LOVELACE\n🇫🇷 Lucie SCHOONHEERE\n🇺🇸 Mariah
+  DURAN\n🇯🇵 NAKAYAMA Funa\n🇪🇸 Natalia MUNOZ\n🇺🇸 Paige HEYN\n🇧🇷
+  Pamela ROSA\n🇺🇸 Poe PINSON\n🇧🇷 Rayssa LEAL\n🇳🇱 Roos ZWETSLOOT\n🇹🇭
+  Vareeraya SUKASEM\n🇯🇵 YOSHIZAWA Coco\n🇨🇳 ZENG Wenhui\n🇨🇳 ZHU
+  Yuanling
+SUMMARY:🛹 Стрит, предварительные заезды (ж)
+LOCATION:Площадь Согласия 3
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T150000Z-skateboarding--
+DTSTAMP:20240728T150000Z
+DTSTART:20240728T150000Z
+DTEND:20240728T163000Z
+DESCRIPTION:Скейтбординг - Стрит, финал (ж)\n🇯🇵 AKAMA Liz\n🇨🇳 CUI
+  Chenxi\n🇦🇺 Chloe COVELL\n🇯🇵 NAKAYAMA Funa\n🇺🇸 Paige HEYN\n🇺🇸 Poe
+  PINSON\n🇧🇷 Rayssa LEAL\n🇯🇵 YOSHIZAWA Coco
+SUMMARY:🛹 Стрит, финал (ж)
+LOCATION:Площадь Согласия 3
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T103000Z-skateboarding--
 DTSTAMP:20240806T103000Z
 DTSTART:20240806T103000Z

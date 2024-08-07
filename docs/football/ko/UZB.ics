@@ -12,4 +12,22 @@ DESCRIPTION:축구 - 남자 C조
 SUMMARY:⚽ 우즈베키스탄 🇺🇿 - 🇪🇸 스페인
 LOCATION:파르크 데 프랭스
 END:VEVENT
+BEGIN:VEVENT
+UID:20240727T150000Z-football--C-UZB-EGY
+DTSTAMP:20240727T150000Z
+DTSTART:20240727T150000Z
+DTEND:20240727T164500Z
+DESCRIPTION:축구 - 남자 C조
+SUMMARY:⚽ 우즈베키스탄 🇺🇿 - 🇪🇬 이집트
+LOCATION:라 보주아르 스타디움
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T130000Z-football--C-DOM-UZB
+DTSTAMP:20240730T130000Z
+DTSTART:20240730T130000Z
+DTEND:20240730T144500Z
+DESCRIPTION:축구 - 남자 C조
+SUMMARY:⚽ 도미니카공화국 🇩🇴 - 🇺🇿 우즈베키스탄
+LOCATION:파르크 데 프랭스
+END:VEVENT
 END:VCALENDAR

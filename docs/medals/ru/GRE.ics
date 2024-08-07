@@ -4,6 +4,108 @@ PRODID:-//fabrice404//olympics-calendar//medals/ru/GRE//EN
 X-WR-CALNAME:🇬🇷 Greece 🏅 | Paris 2024
 NAME:🇬🇷 Greece 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240729T192700Z-swimming-100-
+DTSTAMP:20240729T192700Z
+DTSTART:20240729T192700Z
+DTEND:20240729T193400Z
+DESCRIPTION:Плавание - 100м на спине, финал (м)\n🇬🇷 Apostolos
+  CHRISTOU\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
+  COETZE\n🇺🇸 Ryan MURPHY\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷 Yohann
+  NDOYE-BROUARD
+SUMMARY:🏊 100м на спине, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T151200Z-judo--90--GRE-ESP
+DTSTAMP:20240731T151200Z
+DTSTART:20240731T151200Z
+DTEND:20240731T151800Z
+DESCRIPTION:Дзюдо - Поединок за бронзу В, до 90кг (м)
+SUMMARY:🥋 Theodoros TSELIDIS 🇬🇷 - 🇪🇸 Tristani MOSAKHLISHVILI
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-athletics--20-
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
+DESCRIPTION:Легкая атлетика - Ходьба 20км, финал (ж)\n🇲🇽 Alegna
+  GONZALEZ\n🇲🇽 Alejandra ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni
+  NTRISMPIOTI\n🇮🇹 Antonella PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷
+  Clemence BERETTA\n🇪🇸 Cristina MONTESINOS\n🇮🇹 Eleonora Anna
+  GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica SENA\n🇵🇪 Evelyn INGA\n🇯🇵
+  FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨 Glenda MOREJON\n🇸🇰 Hana
+  BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima MONTAG\n🇵🇱 Katarzyna
+  ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇨🇳 LIU Hong\n🇪🇸 Laura
+  GARCIA-CARO\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila OLYANOVSKA\n🇨🇳 MA
+  Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria KATERINKA CZAKOVA\n🇪🇸
+  Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz ANDIA\n🇹🇷 Meryem
+  BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳 PRIYANKA\n🇪🇨
+  Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de ORBETA\n🇦🇺
+  Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹 Valentina
+  TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷 Viviane
+  LYRA\n🇨🇳 YANG Jiayu
+SUMMARY:🏃 Ходьба 20км, финал (ж)
+LOCATION:Трокадеро
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T183800Z-swimming-200-
+DTSTAMP:20240801T183800Z
+DTSTART:20240801T183800Z
+DTEND:20240801T184600Z
+DESCRIPTION:Плавание - 200м на спине, финал (м)\n🇬🇷 Apostolos
+  CHRISTOU\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸 Keaton
+  JONES\n🇩🇪 Lukas MAERTENS\n🇫🇷 Mewen TOMAC\n🇿🇦 Pieter COETZE\n🇨🇭
+  Roman MITYUKOV
+SUMMARY:🏊 200м на спине, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T094200Z-rowing--A-
+DTSTAMP:20240802T094200Z
+DTSTART:20240802T094200Z
+DTEND:20240802T094900Z
+DESCRIPTION:Академическая гребля - Двойки, финал A (ж)\n🇦🇺
+  Австралия\n🇬🇷 Греция\n🇱🇹 Литва\n🇳🇱 Нидерланды\n🇷🇴 Румыния\n🇺🇸
+  США
+SUMMARY:🚣 Двойки, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100200Z-rowing--A-
+DTSTAMP:20240802T100200Z
+DTSTART:20240802T100200Z
+DTEND:20240802T100900Z
+DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал A
+  (м)\n🇬🇷 Греция\n🇮🇪 Ирландия\n🇮🇹 Италия\n🇳🇴 Норвегия\n🇨🇿
+  Чехия\n🇨🇭 Швейцария
+SUMMARY:🚣 Двойки парные, легкий вес, финал A (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T102200Z-rowing--A-
+DTSTAMP:20240802T102200Z
+DTSTART:20240802T102200Z
+DTEND:20240802T102900Z
+DESCRIPTION:Академическая гребля - Двойки парные, легкий вес, финал A
+  (ж)\n🇬🇧 Великобритания\n🇬🇷 Греция\n🇮🇪 Ирландия\n🇳🇿 Новая
+  Зеландия\n🇷🇴 Румыния\n🇺🇸 США
+SUMMARY:🚣 Двойки парные, легкий вес, финал A (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T183000Z-swimming-50-
+DTSTAMP:20240802T183000Z
+DTSTART:20240802T183000Z
+DTEND:20240802T183700Z
+DESCRIPTION:Плавание - 50м вольным стилем, финал (м)\n🇬🇧 Benjamin
+  PROUD\n🇺🇸 Caeleb DRESSEL\n🇦🇺 Cameron McEVOY\n🇫🇷 Florent
+  MANAUDOU\n🇰🇾 Jordan CROOKS\n🇨🇦 Josh LIENDO\n🇬🇷 Kristian
+  GKOLOMEEV\n🇮🇹 Leonardo DEPLANO
+SUMMARY:🏊 50м вольным стилем, финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road--
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -135,12 +237,11 @@ DTSTART:20240807T161500Z
 DTEND:20240807T193000Z
 DESCRIPTION:Легкая атлетика - Прыжки с шестом, финал (ж)\n🇬🇷 Aikaterini
   STEFANIDI\n🇨🇦 Alysha NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica
-  MOSER\n🇩🇪 Anjuli KNAESCHE\n🇬🇷 Ariadni ADAMOPOULOU\n🇫🇮 Elina
-  LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇳🇿 Imogen
-  AYRIS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie
-  BONNIN\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇳🇿 Olivia
-  McTAGGART\n🇻🇪 Robeilys PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina
-  SUTEJ\n🇫🇮 Wilma MURTO
+  MOSER\n🇩🇪 Anjuli KNAESCHE\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa
+  MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇳🇿 Imogen AYRIS\n🇺🇸 Katie
+  MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇦🇺 Nina
+  KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇳🇿 Olivia McTAGGART\n🇻🇪 Robeilys
+  PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
 SUMMARY:🏃 Прыжки с шестом, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

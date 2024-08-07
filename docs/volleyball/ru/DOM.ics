@@ -4,6 +4,24 @@ PRODID:-//fabrice404//olympics-calendar//volleyball/ru/DOM//EN
 X-WR-CALNAME:🇩🇴 Dominican Republic Волейбол | Paris 2024
 NAME:🇩🇴 Dominican Republic Волейбол | Paris 2024
 BEGIN:VEVENT
+UID:20240728T070000Z-volleyball--C--ITA-DOM
+DTSTAMP:20240728T070000Z
+DTSTART:20240728T070000Z
+DTEND:20240728T091500Z
+DESCRIPTION:Волейбол - Групповой этап - Группа C (ж)
+SUMMARY:🏐 Италия 🇮🇹 - 🇩🇴 Доминиканская Респ.
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T070000Z-volleyball--C--TUR-DOM
+DTSTAMP:20240801T070000Z
+DTSTART:20240801T070000Z
+DTEND:20240801T091500Z
+DESCRIPTION:Волейбол - Групповой этап - Группа C (ж)
+SUMMARY:🏐 Турция 🇹🇷 - 🇩🇴 Доминиканская Респ.
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T070000Z-volleyball--C--NED-DOM
 DTSTAMP:20240803T070000Z
 DTSTART:20240803T070000Z

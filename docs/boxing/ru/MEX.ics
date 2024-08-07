@@ -4,6 +4,51 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ru/MEX//EN
 X-WR-CALNAME:🇲🇽 Mexico Бокс | Paris 2024
 NAME:🇲🇽 Mexico Бокс | Paris 2024
 BEGIN:VEVENT
+UID:20240728T150600Z-boxing--116-50--MEX-ESP
+DTSTAMP:20240728T150600Z
+DTSTART:20240728T150600Z
+DTEND:20240728T151700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 50кг (ж)
+SUMMARY:🥊 Fatima HERRERA 🇲🇽 - 🇪🇸 Laura FUERTES FERNANDEZ
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T100400Z-boxing--18-635--UZB-MEX
+DTSTAMP:20240729T100400Z
+DTSTART:20240729T100400Z
+DTEND:20240729T101500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 63,5кг (м)
+SUMMARY:🥊 Ruslan ABDULLAEV 🇺🇿 - 🇲🇽 Miguel Angel MARTINEZ RAMIREZ
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T103600Z-boxing--18-75--AUS-MEX
+DTSTAMP:20240731T103600Z
+DTSTART:20240731T103600Z
+DTEND:20240731T104700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 75кг (ж)
+SUMMARY:🥊 Caitlin PARKER 🇦🇺 - 🇲🇽 Citlalli Vanessa ORTIZ
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T192000Z-boxing--18-71--MOZ-MEX
+DTSTAMP:20240731T192000Z
+DTSTART:20240731T192000Z
+DTEND:20240731T193100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 71кг (м)
+SUMMARY:🥊 Tiago MUXANGA 🇲🇿 - 🇲🇽 Marco Alonso VERDE ALVAREZ
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T134600Z-boxing--18-50--TUR-MEX
+DTSTAMP:20240801T134600Z
+DTSTART:20240801T134600Z
+DTEND:20240801T135700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 50кг (ж)
+SUMMARY:🥊 Buse Naz CAKIROGLU 🇹🇷 - 🇲🇽 Fatima HERRERA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T184800Z-boxing--71--IND-MEX
 DTSTAMP:20240803T184800Z
 DTSTART:20240803T184800Z

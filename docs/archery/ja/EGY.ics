@@ -61,4 +61,22 @@ DESCRIPTION:アーチェリー - 男子個人ランキングラウンド\n🇹�
 SUMMARY:🏹 男子個人ランキングラウンド
 LOCATION:アンヴァリッド
 END:VEVENT
+BEGIN:VEVENT
+UID:20240731T131500Z-archery-1-EGY-KOR
+DTSTAMP:20240731T131500Z
+DTSTART:20240731T131500Z
+DTEND:20240731T132800Z
+DESCRIPTION:アーチェリー - 女子個人1回戦
+SUMMARY:🏹 Jana ALI 🇪🇬 - 🇰🇷 NAM Suhyeon
+LOCATION:アンヴァリッド
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T100600Z-archery-1-GER-EGY
+DTSTAMP:20240801T100600Z
+DTSTART:20240801T100600Z
+DTEND:20240801T101900Z
+DESCRIPTION:アーチェリー - 男子個人1回戦
+SUMMARY:🏹 Florian UNRUH 🇩🇪 - 🇪🇬 Youssof TOLBA
+LOCATION:アンヴァリッド
+END:VEVENT
 END:VCALENDAR

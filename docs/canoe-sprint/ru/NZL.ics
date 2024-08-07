@@ -198,4 +198,38 @@ DESCRIPTION:Гребной спринт - Байдарки-одиночки 500�
 SUMMARY:🛶 Байдарки-одиночки 500м, квалификация (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T100000Z-canoe-sprint--500-2-
+DTSTAMP:20240808T100000Z
+DTSTART:20240808T100000Z
+DTEND:20240808T100700Z
+DESCRIPTION:Гребной спринт - Байдарки-четверки 500м, полуфинал 2 (м)\n🇭🇺
+  Венгрия\n🇩🇪 Германия\n🇩🇰 Дания\n🇱🇹 Литва\n🇳🇿 Новая Зеландия
+SUMMARY:🛶 Байдарки-четверки 500м, полуфинал 2 (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T090000Z-canoe-sprint--500-2-
+DTSTAMP:20240809T090000Z
+DTSTART:20240809T090000Z
+DTEND:20240809T090700Z
+DESCRIPTION:Гребной спринт - Байдарки-двойки 500м, полуфинал 2 (ж)\n🇳🇿
+  CARRINGTON/HOSKIN\n🇪🇸 GARCIA OTE/OUZANDE\n🇫🇷 HOSTENS/PAOLETTI\n🇳🇱
+  KONIJN/VORSSELMAN\n🇩🇪 PASZEK/HAKE\n🇭🇺 PUPP/FOJT\n🇸🇪
+  STENSILS/WIKBERG\n🇨🇳 YU/CHEN
+SUMMARY:🛶 Байдарки-двойки 500м, полуфинал 2 (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091000Z-canoe-sprint--500-1-
+DTSTAMP:20240809T091000Z
+DTSTART:20240809T091000Z
+DTEND:20240809T091700Z
+DESCRIPTION:Гребной спринт - Байдарки-двойки 500м, полуфинал 1 (м)\n🇺🇸
+  ECKER/SMALL\n🇭🇺 KOPASZ/VARGA\n🇳🇿 LEGARTH/IMRIE\n🇿🇦
+  LOVEMORE/BIRKETT\n🇭🇺 NADAS/TOTKA\n🇩🇪 SCHOPF/LEMKE\n🇨🇿
+  SPICAR/HAVEL\n🇵🇱 STEPUN/KORSAK
+SUMMARY:🛶 Байдарки-двойки 500м, полуфинал 1 (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
 END:VCALENDAR

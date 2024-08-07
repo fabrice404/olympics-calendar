@@ -4,6 +4,27 @@ PRODID:-//fabrice404//olympics-calendar//medals/ru/FIN//EN
 X-WR-CALNAME:🇫🇮 Finland 🏅 | Paris 2024
 NAME:🇫🇮 Finland 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240727T123000Z-cycling-road--
+DTSTAMP:20240727T123000Z
+DTSTART:20240727T123000Z
+DTEND:20240727T135900Z
+DESCRIPTION:Шоссейные велогонки - Раздельная гонка, индивидуальная
+  (ж)\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna HENDERSON\n🇦🇹 Anna
+  KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia NIEDERMAIER\n🇫🇷 Audrey
+  CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹
+  Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭
+  Elena HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma
+  Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace BROWN\n🇦🇸 Hanna
+  TSERAKH\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪
+  Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO
+  PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia
+  BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇦🇸 Tamara DRONOVA\n🇺🇸
+  Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia
+  BIRIUKOVA
+SUMMARY:🚴 Раздельная гонка, индивидуальная (ж)
+LOCATION:Мост Александра III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240729T121000Z-cycling-mountain-bike--
 DTSTAMP:20240729T121000Z
 DTSTART:20240729T121000Z
@@ -23,6 +44,31 @@ DESCRIPTION:Маунтинбайк - Кросс-кантри (м)\n🇲🇽 Adai
   GALINSKI\n🇫🇷 Victor KORETZKY
 SUMMARY:🚴 Кросс-кантри (м)
 LOCATION:Эланкур
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T060000Z-athletics--20-
+DTSTAMP:20240801T060000Z
+DTSTART:20240801T060000Z
+DTEND:20240801T073500Z
+DESCRIPTION:Легкая атлетика - Ходьба 20км, финал (м)\n🇮🇳 Akshdeep
+  SINGH\n🇪🇸 Alvaro MARTIN\n🇵🇱 Artur BRZOZOWSKI\n🇫🇷 Aurelien
+  QUINION\n🇭🇺 Bence VENYERCSAN\n🇪🇨 Brian Daniel PINTADO\n🇰🇷 CHOE
+  Byeongkwang\n🇧🇷 Caio BONFIM\n🇬🇧 Callum WILKINSON\n🇵🇪 Cesar Augusto
+  RODRIGUEZ\n🇩🇪 Christopher LINKE\n🇪🇨 David HURTADO\n🇦🇺 Declan
+  TINGAY\n🇪🇸 Diego GARCIA CARRERA\n🇸🇰 Dominik CERNY\n🇬🇹 Erick Bernabe
+  BARRONDO\n🇨🇦 Evan DUNFEE\n🇮🇹 Francesco FORTUNATO\n🇫🇷 Gabriel
+  BORDIER\n🇯🇵 HAMANISHI Ryo\n🇯🇵 IKEDA Koki\n🇺🇦 Ihor HLAVAN\n🇪🇨
+  Jordy Rafael JIMENEZ ARROBO\n🇬🇹 Jose Alejandro BARRONDO\n🇲🇽 Jose Luis
+  DOCTOR\n🇯🇵 KOGA Yuta\n🇦🇺 Kyle SWAN\n🇨🇳 LI Yandong\n🇩🇪 Leo
+  KOEPP\n🇵🇪 Luis Henry CAMPOS\n🇵🇱 Maher BEN HLIMA\n🇮🇹 Massimo
+  STANO\n🇭🇺 Mate HELEBRANDT\n🇧🇷 Matheus CORREA\n🇧🇷 Max Batista
+  GONCALVES dos SANTOS\n🇪🇹 Misgana WAKUMA\n🇲🇽 Noel CHAMA\n🇮🇳
+  Paramjeet Singh BISHT\n🇪🇸 Paul McGRATH\n🇸🇪 Perseus KARLSTROM\n🇦🇺
+  Rhydian COWLEY\n🇲🇽 Ricardo ORTIZ\n🇮🇹 Riccardo ORSONI\n🇹🇷 Salih
+  KORKMAZ\n🇰🇪 Samuel Kireri GATHIMBA\n🇫🇮 Veli-Matti PARTANEN\n🇮🇳
+  Vikash SINGH\n🇨🇳 WANG Zhaozhao\n🇨🇳 ZHANG Jun
+SUMMARY:🏃 Ходьба 20км, финал (м)
+LOCATION:Трокадеро
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T080000Z-equestrian--
@@ -175,12 +221,11 @@ DTSTART:20240807T161500Z
 DTEND:20240807T193000Z
 DESCRIPTION:Легкая атлетика - Прыжки с шестом, финал (ж)\n🇬🇷 Aikaterini
   STEFANIDI\n🇨🇦 Alysha NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica
-  MOSER\n🇩🇪 Anjuli KNAESCHE\n🇬🇷 Ariadni ADAMOPOULOU\n🇫🇮 Elina
-  LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇳🇿 Imogen
-  AYRIS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie
-  BONNIN\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇳🇿 Olivia
-  McTAGGART\n🇻🇪 Robeilys PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina
-  SUTEJ\n🇫🇮 Wilma MURTO
+  MOSER\n🇩🇪 Anjuli KNAESCHE\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa
+  MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇳🇿 Imogen AYRIS\n🇺🇸 Katie
+  MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇦🇺 Nina
+  KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇳🇿 Olivia McTAGGART\n🇻🇪 Robeilys
+  PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
 SUMMARY:🏃 Прыжки с шестом, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

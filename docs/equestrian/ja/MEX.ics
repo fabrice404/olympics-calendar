@@ -4,6 +4,28 @@ PRODID:-//fabrice404//olympics-calendar//equestrian/ja/MEX//EN
 X-WR-CALNAME:🇲🇽 Mexico 馬術 | Paris 2024
 NAME:🇲🇽 Mexico 馬術 | Paris 2024
 BEGIN:VEVENT
+UID:20240801T090000Z-equestrian-
+DTSTAMP:20240801T090000Z
+DTSTART:20240801T090000Z
+DTEND:20240801T120000Z
+DESCRIPTION:馬術 - 障害馬術団体予選\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇦🇪 アラブ首長国連邦\n🇮🇱
+  イスラエル\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇦🇹 オーストリア\n🇨🇦 カナダ\n🇸🇦 サウジアラビア\n🇨🇭
+  スイス\n🇸🇪 スウェーデン\n🇪🇸 スペイン\n🇩🇪 ドイツ\n🇫🇷 フランス\n🇧🇷 ブラジル\n🇧🇪
+  ベルギー\n🇵🇱 ポーランド\n🇲🇽 メキシコ\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🏇 障害馬術団体予選
+LOCATION:ベルサイユ宮殿
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T120000Z-equestrian-
+DTSTAMP:20240802T120000Z
+DTSTART:20240802T120000Z
+DTEND:20240802T134100Z
+DESCRIPTION:馬術 - 障害馬術団体決勝\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇮🇱 イスラエル\n🇳🇱
+  オランダ\n🇸🇪 スウェーデン\n🇩🇪 ドイツ\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇲🇽 メキシコ\n🇬🇧 英国
+SUMMARY:🏇 障害馬術団体決勝
+LOCATION:ベルサイユ宮殿
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T120000Z-equestrian-
 DTSTAMP:20240805T120000Z
 DTSTART:20240805T120000Z

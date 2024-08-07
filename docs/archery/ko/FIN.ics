@@ -31,4 +31,13 @@ DESCRIPTION:양궁 - 남자 개인 랭킹 라운드\n🇹🇷 Abdullah YILDIRMIS
 SUMMARY:🏹 남자 개인 랭킹 라운드
 LOCATION:앵발리드
 END:VEVENT
+BEGIN:VEVENT
+UID:20240730T101300Z-archery--64--FIN-TPE
+DTSTAMP:20240730T101300Z
+DTSTART:20240730T101300Z
+DTEND:20240730T102600Z
+DESCRIPTION:양궁 - 남자 개인 64강 엘리미네이션 라운드
+SUMMARY:🏹 Antti TEKONIEMI 🇫🇮 - 🇹🇼 TAI Yu-Hsuan
+LOCATION:앵발리드
+END:VEVENT
 END:VCALENDAR

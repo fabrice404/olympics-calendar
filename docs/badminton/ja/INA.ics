@@ -4,6 +4,168 @@ PRODID:-//fabrice404//olympics-calendar//badminton/ja/INA//EN
 X-WR-CALNAME:🇮🇩 Indonesia バドミントン | Paris 2024
 NAME:🇮🇩 Indonesia バドミントン | Paris 2024
 BEGIN:VEVENT
+UID:20240727T090000Z-badminton--A-JPN-INA
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T100000Z
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 MATSUMOTO/NAGAHARA 🇯🇵 - 🇮🇩 RAHAYU/RAMADHANTI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T125000Z-badminton--C-INA-GER
+DTSTAMP:20240727T125000Z
+DTSTART:20240727T125000Z
+DTEND:20240727T133000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループC
+SUMMARY:🏸 ALFIAN/ARDIANTO 🇮🇩 - 🇩🇪 LAMSFUSS/SEIDEL
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T134000Z-badminton--A-KOR-INA
+DTSTAMP:20240727T134000Z
+DTSTART:20240727T134000Z
+DTEND:20240727T142000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
+SUMMARY:🏸 KIM/JEONG 🇰🇷 - 🇮🇩 RIVALDY/MENTARI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T143000Z-badminton--L-INA-BEL
+DTSTAMP:20240727T143000Z
+DTSTART:20240727T143000Z
+DTEND:20240727T153000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループL
+SUMMARY:🏸 Jonatan CHRISTIE 🇮🇩 - 🇧🇪 Julien CARRAGGI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T081000Z-badminton--A-CHN-INA
+DTSTAMP:20240728T081000Z
+DTSTART:20240728T081000Z
+DTEND:20240728T085000Z
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 CHEN/JIA 🇨🇳 - 🇮🇩 RAHAYU/RAMADHANTI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T120000Z-badminton--H-INA-USA
+DTSTAMP:20240728T120000Z
+DTSTART:20240728T120000Z
+DTEND:20240728T124000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループH
+SUMMARY:🏸 Anthony Sinisuka GINTING 🇮🇩 - 🇺🇸 Howard SHU
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T120000Z-badminton--A-CHN-INA
+DTSTAMP:20240728T120000Z
+DTSTART:20240728T120000Z
+DTEND:20240728T124000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
+SUMMARY:🏸 ZHENG/HUANG 🇨🇳 - 🇮🇩 RIVALDY/MENTARI
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T125000Z-badminton--G-INA-UKR
+DTSTAMP:20240728T125000Z
+DTSTART:20240728T125000Z
+DTEND:20240728T133000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループG
+SUMMARY:🏸 Gregoria Mariska TUNJUNG 🇮🇩 - 🇺🇦 Polina BUHROVA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T081000Z-badminton--A-INA-FRA
+DTSTAMP:20240729T081000Z
+DTSTART:20240729T081000Z
+DTEND:20240729T085000Z
+DESCRIPTION:バドミントン - 混合ダブルス予選ラウンド - グループA
+SUMMARY:🏸 RIVALDY/MENTARI 🇮🇩 - 🇫🇷 GICQUEL/DELRUE
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-badminton--C-INA-FRA
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T100000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループC
+SUMMARY:🏸 ALFIAN/ARDIANTO 🇮🇩 - 🇫🇷 CORVEE/LABAR
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T120000Z-badminton--L-INA-GUA
+DTSTAMP:20240729T120000Z
+DTSTART:20240729T120000Z
+DTEND:20240729T120000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループL
+SUMMARY:🏸 Jonatan CHRISTIE 🇮🇩 - 🇬🇹 Kevin CORDON
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T081000Z-badminton--A-INA-MAS
+DTSTAMP:20240730T081000Z
+DTSTART:20240730T081000Z
+DTEND:20240730T085000Z
+DESCRIPTION:バドミントン - 女子ダブルス予選ラウンド - グループA
+SUMMARY:🏸 RAHAYU/RAMADHANTI 🇮🇩 - 🇲🇾 TAN/THINAAH
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T120000Z-badminton--C-IND-INA
+DTSTAMP:20240730T120000Z
+DTSTART:20240730T120000Z
+DTEND:20240730T124000Z
+DESCRIPTION:バドミントン - 男子ダブルス予選ラウンド - グループC
+SUMMARY:🏸 RANKIREDDY/SHETTY 🇮🇳 - 🇮🇩 ALFIAN/ARDIANTO
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T081000Z-badminton--L-INA-IND
+DTSTAMP:20240731T081000Z
+DTSTART:20240731T081000Z
+DTEND:20240731T085000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループL
+SUMMARY:🏸 Jonatan CHRISTIE 🇮🇩 - 🇮🇳 Lakshya SEN
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T134000Z-badminton--G-INA-CZE
+DTSTAMP:20240731T134000Z
+DTSTART:20240731T134000Z
+DTEND:20240731T142000Z
+DESCRIPTION:バドミントン - 女子シングルス予選ラウンド - グループG
+SUMMARY:🏸 Gregoria Mariska TUNJUNG 🇮🇩 - 🇨🇿 Tereza SVABIKOVA
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T143000Z-badminton--H-INA-FRA
+DTSTAMP:20240731T143000Z
+DTSTART:20240731T143000Z
+DTEND:20240731T151000Z
+DESCRIPTION:バドミントン - 男子シングルス予選ラウンド - グループH
+SUMMARY:🏸 Anthony Sinisuka GINTING 🇮🇩 - 🇫🇷 Toma Junior POPOV
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T110000Z-badminton--CHN-INA
+DTSTAMP:20240801T110000Z
+DTSTART:20240801T110000Z
+DTEND:20240801T120000Z
+DESCRIPTION:バドミントン - 男子ダブルス準々決勝
+SUMMARY:🏸 LIANG/WANG 🇨🇳 - 🇮🇩 ALFIAN/ARDIANTO
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T173000Z-badminton-1-INA-KOR
+DTSTAMP:20240801T173000Z
+DTSTART:20240801T173000Z
+DTEND:20240801T182000Z
+DESCRIPTION:バドミントン - 女子シングルス1回戦
+SUMMARY:🏸 Gregoria Mariska TUNJUNG 🇮🇩 - 🇰🇷 KIM Ga Eun
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T074000Z-badminton--THA-INA
 DTSTAMP:20240803T074000Z
 DTSTART:20240803T074000Z

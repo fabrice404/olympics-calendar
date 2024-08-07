@@ -4,6 +4,42 @@ PRODID:-//fabrice404//olympics-calendar//volleyball/ja/POL//EN
 X-WR-CALNAME:🇵🇱 Poland バレーボール | Paris 2024
 NAME:🇵🇱 Poland バレーボール | Paris 2024
 BEGIN:VEVENT
+UID:20240727T150000Z-volleyball--B-POL-EGY
+DTSTAMP:20240727T150000Z
+DTSTART:20240727T150000Z
+DTEND:20240727T171500Z
+DESCRIPTION:バレーボール - 男子予選ラウンド - プールB
+SUMMARY:🏐 ポーランド 🇵🇱 - 🇪🇬 エジプト
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T110000Z-volleyball--B-POL-JPN
+DTSTAMP:20240728T110000Z
+DTSTART:20240728T110000Z
+DTEND:20240728T131500Z
+DESCRIPTION:バレーボール - 女子予選ラウンド - プールB
+SUMMARY:🏐 ポーランド 🇵🇱 - 🇯🇵 日本
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T070000Z-volleyball--B-POL-BRA
+DTSTAMP:20240731T070000Z
+DTSTART:20240731T070000Z
+DTEND:20240731T091500Z
+DESCRIPTION:バレーボール - 男子予選ラウンド - プールB
+SUMMARY:🏐 ポーランド 🇵🇱 - 🇧🇷 ブラジル
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T190000Z-volleyball--B-POL-KEN
+DTSTAMP:20240731T190000Z
+DTSTART:20240731T190000Z
+DTEND:20240731T211500Z
+DESCRIPTION:バレーボール - 女子予選ラウンド - プールB
+SUMMARY:🏐 ポーランド 🇵🇱 - 🇰🇪 ケニア
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T150000Z-volleyball--B-POL-ITA
 DTSTAMP:20240803T150000Z
 DTSTART:20240803T150000Z

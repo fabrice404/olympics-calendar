@@ -4,6 +4,24 @@ PRODID:-//fabrice404//olympics-calendar//beach-volleyball/ja/POL//EN
 X-WR-CALNAME:🇵🇱 Poland ビーチバレーボール | Paris 2024
 NAME:🇵🇱 Poland ビーチバレーボール | Paris 2024
 BEGIN:VEVENT
+UID:20240730T070000Z-beach-volleyball--C-POL-AUS
+DTSTAMP:20240730T070000Z
+DTSTART:20240730T070000Z
+DTEND:20240730T075000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールC
+SUMMARY:🏐 BRYL/LOSIAK 🇵🇱 - 🇦🇺 HODGES/SCHUBERT
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T190000Z-beach-volleyball--C-POL-FRA
+DTSTAMP:20240801T190000Z
+DTSTART:20240801T190000Z
+DTEND:20240801T195000Z
+DESCRIPTION:ビーチバレーボール - 男子予選ラウンド - プールC
+SUMMARY:🏐 BRYL/LOSIAK 🇵🇱 - 🇫🇷 BASSEREAU/LYNEEL
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T070000Z-beach-volleyball--C-GER-POL
 DTSTAMP:20240803T070000Z
 DTSTART:20240803T070000Z

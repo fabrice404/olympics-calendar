@@ -4,6 +4,165 @@ PRODID:-//fabrice404//olympics-calendar//medals/IRL//EN
 X-WR-CALNAME:🇮🇪 Ireland 🏅 | Paris 2024
 NAME:🇮🇪 Ireland 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T155700Z
+DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
+  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
+  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇦🇸 Gleb
+  SYRITSA\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh
+  TARLING\n🇫🇷 Kevin VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas
+  PLAPP\n🇺🇸 Magnus SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias
+  SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰
+  Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias
+  FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
+SUMMARY:🚴 Men's Individual Time Trial
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-equestrian-EVENTING-TEAM-JUMPING-FINAL
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T114000Z
+DESCRIPTION:Equestrian - Eventing Team Jumping Final\n🇦🇺 AUS\n🇧🇪
+  BEL\n🇧🇷 BRA\n🇨🇦 CAN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇸🇪 SWE\n🇨🇭 SUI\n🇺🇸 USA
+SUMMARY:🏇 Eventing Team Jumping Final
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T130000Z-equestrian-EVENTING-INDIVIDUAL-JUMPING-FINAL
+DTSTAMP:20240729T130000Z
+DTSTART:20240729T130000Z
+DTEND:20240729T140000Z
+DESCRIPTION:Equestrian - Eventing Individual Jumping Final\n🇮🇪 Austin
+  O'CONNOR\n🇺🇸 Boyd MARTIN\n🇦🇺 Christopher BURTON\n🇳🇿 Clarke
+  JOHNSTONE\n🇺🇸 Elisabeth HALLIDAY\n🇮🇹 Evelina BERTOLI\n🇨🇭 Felix
+  VOGG\n🇸🇪 Frida ANDERSEN\n🇨🇳 HUA TIAN Alex\n🇳🇱 Janneke
+  BOONZAAIJER\n🇩🇪 Julia KRAJEWSKI\n🇫🇷 Karim Florent LAGHOUAG\n🇧🇪
+  Karin DONCKERS\n🇧🇪 Lara de LIEDEKERKE - MEIER\n🇬🇧 Laura COLLETT\n🇸🇪
+  Louise ROMEIKE\n🇩🇪 Michael JUNG\n🇫🇷 Nicolas TOUZAINT\n🇯🇵 OIWA
+  Yoshiaki\n🇬🇧 Rosalind CANTER\n🇦🇺 Shane ROSE\n🇫🇷 Stephane
+  LANDOIS\n🇯🇵 TOMOTO Kazuma\n🇳🇿 Tim PRICE\n🇬🇧 Tom McEWEN
+SUMMARY:🏇 Eventing Individual Jumping Final
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T152000Z-canoe-slalom-MENS-CANOE-SINGLE-FINAL
+DTSTAMP:20240729T152000Z
+DTSTART:20240729T152000Z
+DTEND:20240729T160400Z
+DESCRIPTION:Canoe Slalom - Men's Canoe Single Final\n🇬🇧 Adam
+  BURGESS\n🇸🇮 Benjamin SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam
+  JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸
+  Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan
+  CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 Men's Canoe Single Final
+LOCATION:Nautical St - White water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T183000Z-swimming-WOMENS-400M-INDIVIDUAL-MEDLEY-FINAL
+DTSTAMP:20240729T183000Z
+DTSTART:20240729T183000Z
+DTEND:20240729T184100Z
+DESCRIPTION:Swimming - Women's 400m Individual Medley Final\n🇦🇺 Ella
+  RAMSAY\n🇮🇪 Ellen WALSHE\n🇺🇸 Emma WEYANT\n🇬🇧 Freya Constance
+  COLBERT\n🇺🇸 Katie GRIMES\n🇬🇧 Katie SHANAHAN\n🇯🇵 NARITA Mio\n🇨🇦
+  Summer McINTOSH
+SUMMARY:🏊 Women's 400m Individual Medley Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T193400Z-swimming-WOMENS-100M-BREASTSTROKE-FINAL
+DTSTAMP:20240729T193400Z
+DTSTART:20240729T193400Z
+DTEND:20240729T194100Z
+DESCRIPTION:Swimming - Women's 100m Breaststroke Final\n🇦🇸 Alina
+  ZMUSHKA\n🇬🇧 Angharad EVANS\n🇮🇹 Benedetta PILATO\n🇪🇪 Eneli
+  JEFIMOVA\n🇺🇸 Lilly KING\n🇮🇪 Mona Mc SHARRY\n🇨🇳 TANG Qianting\n🇿🇦
+  Tatjana SMITH
+SUMMARY:🏊 Women's 100m Breaststroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T190700Z-swimming-MENS-800M-FREESTYLE-FINAL
+DTSTAMP:20240730T190700Z
+DTSTART:20240730T190700Z
+DTEND:20240730T192100Z
+DESCRIPTION:Swimming - Men's 800m Freestyle Final\n🇹🇳 Ahmed JAOUADI\n🇺🇸
+  Bobby FINKE\n🇮🇪 Daniel WIFFEN\n🇫🇷 David AUBRY\n🇦🇺 Elijah
+  WINNINGTON\n🇮🇹 Gregorio PALTRINIERI\n🇮🇹 Luca de TULLIO\n🇩🇪 Sven
+  SCHWARZ
+SUMMARY:🏊 Men's 800m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T093000Z-rowing-MENS-DOUBLE-SCULLS-FINAL-A
+DTSTAMP:20240801T093000Z
+DTSTART:20240801T093000Z
+DTEND:20240801T093700Z
+DESCRIPTION:Rowing - Men's Double Sculls Final A\n🇮🇪 IRL\n🇳🇱 NED\n🇳🇿
+  NZL\n🇷🇴 ROU\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:🚣 Men's Double Sculls Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T093000Z-rowing-MENS-PAIR-FINAL-A
+DTSTAMP:20240802T093000Z
+DTSTART:20240802T093000Z
+DTEND:20240802T093700Z
+DESCRIPTION:Rowing - Men's Pair Final A\n🇭🇷 CRO\n🇬🇧 GBR\n🇮🇪 IRL\n🇷🇴
+  ROU\n🇪🇸 ESP\n🇨🇭 SUI
+SUMMARY:🚣 Men's Pair Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100200Z-rowing-LIGHTWEIGHT-MENS-DOUBLE-SCULLS-FINAL-A
+DTSTAMP:20240802T100200Z
+DTSTART:20240802T100200Z
+DTEND:20240802T100900Z
+DESCRIPTION:Rowing - Lightweight Men's Double Sculls Final A\n🇨🇿
+  CZE\n🇬🇷 GRE\n🇮🇪 IRL\n🇮🇹 ITA\n🇳🇴 NOR\n🇨🇭 SUI
+SUMMARY:🚣 Lightweight Men's Double Sculls Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T102200Z-rowing-LIGHTWEIGHT-WOMENS-DOUBLE-SCULLS-FINAL-A
+DTSTAMP:20240802T102200Z
+DTSTART:20240802T102200Z
+DTEND:20240802T102900Z
+DESCRIPTION:Rowing - Lightweight Women's Double Sculls Final A\n🇬🇧
+  GBR\n🇬🇷 GRE\n🇮🇪 IRL\n🇳🇿 NZL\n🇷🇴 ROU\n🇺🇸 USA
+SUMMARY:🚣 Lightweight Women's Double Sculls Final A
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T111300Z-sailing-MENS-SKIFF-MEDAL-RACE
+DTSTAMP:20240802T111300Z
+DTSTART:20240802T111300Z
+DTEND:20240802T113500Z
+DESCRIPTION:Sailing - Men's Skiff Medal Race\n🇺🇸 BARROWS/HENKEN\n🇪🇸
+  BOTIN/TRITTEL\n🇵🇱 BUKSAK/WIERZBICKI\n🇮🇪 DICKSON/WADDILOVE\n🇳🇱
+  LAMBRIEX/WERKEN\n🇳🇿 McHARDIE/McKENZIE\n🇬🇧 PETERS/STERRITT\n🇭🇷 S
+  FANTELA/M FANTELA\n🇨🇭 SCHNEITER/de PLANTA\n🇺🇾 UMPIERRE/DIZ
+SUMMARY:⛵ Men's Skiff Medal Race
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T120000Z-equestrian-JUMPING-TEAM-FINAL
+DTSTAMP:20240802T120000Z
+DTSTART:20240802T120000Z
+DTEND:20240802T134100Z
+DESCRIPTION:Equestrian - Jumping Team Final\n🇧🇪 BEL\n🇫🇷 FRA\n🇩🇪
+  GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇱 ISR\n🇲🇽 MEX\n🇳🇱 NED\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏇 Jumping Team Final
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z

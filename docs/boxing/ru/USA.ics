@@ -4,6 +4,105 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ru/USA//EN
 X-WR-CALNAME:🇺🇸 United States Бокс | Paris 2024
 NAME:🇺🇸 United States Бокс | Paris 2024
 BEGIN:VEVENT
+UID:20240727T192000Z-boxing--116-60--FRA-USA
+DTSTAMP:20240727T192000Z
+DTSTART:20240727T192000Z
+DTEND:20240727T193100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 60кг (ж)
+SUMMARY:🥊 Estelle MOSSELY 🇫🇷 - 🇺🇸 Jajaira GONZALEZ
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T090000Z-boxing--116-51--EOR-USA
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T091100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 51кг (м)
+SUMMARY:🥊 Omid AHMADISAFA 🏳️ - 🇺🇸 Roscoe HILL
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T103600Z-boxing--18-92--USA-ITA
+DTSTAMP:20240729T103600Z
+DTSTART:20240729T103600Z
+DTEND:20240729T104700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, свыше 92кг (м)
+SUMMARY:🥊 Joshua EDWARDS 🇺🇸 - 🇮🇹 Diego LENZI
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T183200Z-boxing--18-60--USA-BRA
+DTSTAMP:20240729T183200Z
+DTSTART:20240729T183200Z
+DTEND:20240729T184300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 60кг (ж)
+SUMMARY:🥊 Jajaira GONZALEZ 🇺🇸 - 🇧🇷 Beatriz Iasmin SOARES FERREIRA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T090000Z-boxing--18-51--FRA-USA
+DTSTAMP:20240730T090000Z
+DTSTART:20240730T090000Z
+DTEND:20240730T091100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 51кг (м)
+SUMMARY:🥊 Billal BENNAMA 🇫🇷 - 🇺🇸 Roscoe HILL
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T153800Z-boxing--116-57--USA-TJK
+DTSTAMP:20240730T153800Z
+DTSTART:20240730T153800Z
+DTEND:20240730T154900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 57кг (ж)
+SUMMARY:🥊 Alyssa MENDOZA 🇺🇸 - 🇹🇯 Mijgona SAMADOVA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T094800Z-boxing--18-71--USA-TPE
+DTSTAMP:20240731T094800Z
+DTSTART:20240731T094800Z
+DTEND:20240731T095900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 71кг (м)
+SUMMARY:🥊 Omari JONES 🇺🇸 - 🇹🇼 KAN Chia Wei
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T140200Z-boxing--18-57--USA-BRA
+DTSTAMP:20240731T140200Z
+DTSTART:20240731T140200Z
+DTEND:20240731T141300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 57кг (м)
+SUMMARY:🥊 Jahmal HARVEY 🇺🇸 - 🇧🇷 Luiz Gabriel OLIVEIRA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T140200Z-boxing--18-50--FIN-USA
+DTSTAMP:20240801T140200Z
+DTSTART:20240801T140200Z
+DTEND:20240801T141300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 50кг (ж)
+SUMMARY:🥊 Pihla KAIVO-OJA 🇫🇮 - 🇺🇸 Jennifer LOZANO
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T145000Z-boxing--18-66--UZB-USA
+DTSTAMP:20240801T145000Z
+DTSTART:20240801T145000Z
+DTEND:20240801T150100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 66кг (ж)
+SUMMARY:🥊 Navbakhor KHAMIDOVA 🇺🇿 - 🇺🇸 Morelle McCANE
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T141800Z-boxing--18-57--USA-BRA
+DTSTAMP:20240802T141800Z
+DTSTART:20240802T141800Z
+DTEND:20240802T142900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 57кг (ж)
+SUMMARY:🥊 Alyssa MENDOZA 🇺🇸 - 🇧🇷 Jucielen CERQUEIRA ROMEU
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T140200Z-boxing--71--BUL-USA
 DTSTAMP:20240803T140200Z
 DTSTART:20240803T140200Z

@@ -4,6 +4,58 @@ PRODID:-//fabrice404//olympics-calendar//medals/MGL//EN
 X-WR-CALNAME:🇲🇳 Mongolia 🏅 | Paris 2024
 NAME:🇲🇳 Mongolia 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road-MENS-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T155700Z
+DESCRIPTION:Cycling Road - Men's Individual Time Trial\n🇲🇦 Achraf ED
+  DOGHMY\n🇮🇹 Alberto BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷
+  Biniam GIRMAY\n🇺🇸 Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek
+  GEE\n🇦🇹 Felix GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇦🇸 Gleb
+  SYRITSA\n🇲🇳 Jambaljamts SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh
+  TARLING\n🇫🇷 Kevin VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas
+  PLAPP\n🇺🇸 Magnus SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias
+  SKJELMOSE\n🇩🇪 Maximilian SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰
+  Mikkel Norsgaard BJERG\n🇵🇹 Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO\n🇧🇪
+  Remco EVENEPOEL\n🇵🇹 Rui COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren
+  WAERENSKJOLD\n🇨🇭 Stefan BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias
+  FOSS\n🇧🇪 Wout van AERT\n🇰🇿 Yevgeniy FEDOROV
+SUMMARY:🚴 Men's Individual Time Trial
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T150000Z-judo-WOMEN-48-KG-FINAL-JPN-MGL
+DTSTAMP:20240727T150000Z
+DTSTART:20240727T150000Z
+DTEND:20240727T150600Z
+DESCRIPTION:Judo - Women -48 kg Final
+SUMMARY:🥋 TSUNODA Natsumi 🇯🇵 - 🇲🇳 Baasankhuu BAVUUDORJ
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073000Z-shooting-10M-AIR-PISTOL-MENS-FINAL
+DTSTAMP:20240728T073000Z
+DTSTART:20240728T073000Z
+DTEND:20240728T081500Z
+DESCRIPTION:Shooting - 10m Air Pistol Men's Final\n🇩🇪 Christian
+  REITZ\n🇷🇸 Damir MIKEC\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇮🇹 Federico Nilo
+  MALDINI\n🇰🇷 LEE Wonho\n🇮🇹 Paolo MONNA\n🇩🇪 Robin WALTER\n🇨🇳 XIE Yu
+SUMMARY:🔫 10m Air Pistol Men's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-shooting-50M-RIFLE-3-POSITIONS-WOMENS-FINAL
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T083000Z
+DESCRIPTION:Shooting - 50m Rifle 3 Positions Women's Final\n🇨🇭 Chiara
+  LEONE\n🇳🇴 Jeanette Hegg DUESTAD\n🇦🇹 Nadine UNGERANK\n🇵🇱 Natalia
+  KOCHANSKA\n🇺🇸 Sagen MADDALENA\n🇩🇰 Stephanie Laura Scurrah
+  GRUNDSOEE\n🇲🇳 Yesugen OYUNBAT\n🇨🇳 ZHANG Qiongyue
+SUMMARY:🔫 50m Rifle 3 Positions Women's Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z

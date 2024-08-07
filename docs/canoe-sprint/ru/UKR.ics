@@ -162,4 +162,25 @@ DESCRIPTION:Гребной спринт - Каноэ-одиночки 200м, к�
 SUMMARY:🛶 Каноэ-одиночки 200м, квалификация (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T095000Z-canoe-sprint--500-1-
+DTSTAMP:20240808T095000Z
+DTSTART:20240808T095000Z
+DTEND:20240808T095700Z
+DESCRIPTION:Гребной спринт - Байдарки-четверки 500м, полуфинал 1 (м)\n🇦🇺
+  Австралия\n🇪🇸 Испания\n🇨🇦 Канада\n🇷🇸 Сербия\n🇺🇦 Украина
+SUMMARY:🛶 Байдарки-четверки 500м, полуфинал 1 (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T084000Z-canoe-sprint--500-2-
+DTSTAMP:20240809T084000Z
+DTSTART:20240809T084000Z
+DTEND:20240809T084700Z
+DESCRIPTION:Гребной спринт - Каноэ-двойки 500м, полуфинал 2 (ж)\n🇲🇩
+  COCIU/OLARASU\n🇭🇺 KISS/NAGY\n🇺🇦 LUZAN/RYBACHOK\n🇨🇦
+  MACKENZIE/VINCENT\n🇫🇷 RENARD/DORANGE
+SUMMARY:🛶 Каноэ-двойки 500м, полуфинал 2 (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
 END:VCALENDAR

@@ -4,6 +4,16 @@ PRODID:-//fabrice404//olympics-calendar//diving/ja/PRK//EN
 X-WR-CALNAME:🇰🇵 North Korea 飛込 | Paris 2024
 NAME:🇰🇵 North Korea 飛込 | Paris 2024
 BEGIN:VEVENT
+UID:20240731T090000Z-diving-10M
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T094700Z
+DESCRIPTION:飛込 - 女子シンクロナイズドダイビング10m高飛込\n🇺🇸 アメリカ合衆国\n🇺🇦 ウクライナ\n🇨🇦
+  カナダ\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳 中国\n🇰🇵 朝鮮民主主義人民共和国\n🇬🇧 英国
+SUMMARY:🏊 女子シンクロナイズドダイビング10m高飛込
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T080000Z-diving-10M
 DTSTAMP:20240805T080000Z
 DTSTART:20240805T080000Z

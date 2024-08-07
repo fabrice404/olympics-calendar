@@ -4,18 +4,47 @@ PRODID:-//fabrice404//olympics-calendar//medals/ja/UKR//EN
 X-WR-CALNAME:🇺🇦 Ukraine 🏅 | Paris 2024
 NAME:🇺🇦 Ukraine 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240727T090000Z-diving-3M
+DTSTAMP:20240727T090000Z
+DTSTART:20240727T090000Z
+DTEND:20240727T094600Z
+DESCRIPTION:飛込 - 女子シンクロナイズドダイビング3m飛板飛込\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇺🇦
+  ウクライナ\n🇦🇺 オーストラリア\n🇩🇪 ドイツ\n🇫🇷 フランス\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🏊 女子シンクロナイズドダイビング3m飛板飛込
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T123000Z-cycling-road-
+DTSTAMP:20240727T123000Z
+DTSTART:20240727T123000Z
+DTEND:20240727T135900Z
+DESCRIPTION:自転車ロードレース - 女子個人タイムトライアル\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧
+  Anna HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪
+  Antonia NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup
+  LUDWIG\n🇺🇸 Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi
+  VOLLERING\n🇷🇼 Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO
+  BORGHINI\n🇳🇱 Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia
+  BUJAK\n🇦🇺 Grace BROWN\n🇦🇸 Hanna TSERAKH\n🇨🇿 Julia KOPECKY\n🇫🇷
+  Juliette LABOUS\n🇳🇿 Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱 Marta
+  LACH\n🇩🇪 Mieke KROEGER\n🇪🇸 Mireia BENITO PELLICER\n🇸🇰 Nora
+  JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦 Olivia BARIL\n🇹🇭 Phetdarin
+  SOMRAT\n🇨🇳 TANG Xin\n🇦🇸 Tamara DRONOVA\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska
+  PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦 Yuliia BIRIUKOVA
+SUMMARY:🚴 女子個人タイムトライアル
+LOCATION:アレクサンドル3世橋
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike-
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
 DESCRIPTION:自転車マウンテンバイク - 女子クロスカントリー\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
-  KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
-  Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
-  MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
-  SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella
-  HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla MWAMIKAZI\n🇸🇪 Jenny
-  RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷 Loana
-  LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
+  KELLER\n🇳🇱 Anne TERPSTRA\n🇭🇺 Blanka VAS\n🇿🇦 Candice LILL\n🇩🇰
+  Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella MACLEAN-HOWELL\n🇧🇪
+  Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ SUAREZ\n🇬🇧 Evie
+  RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella HOLMGREN\n🇪🇪 Janika
+  LOIV\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷
+  Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
   BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND PREVOT\n🇳🇱 Puck
   PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel QUEIROS\n🇦🇺 Rebecca
   HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
@@ -23,6 +52,16 @@ DESCRIPTION:自転車マウンテンバイク - 女子クロスカントリー\n
   BELOMOINA
 SUMMARY:🚴 女子クロスカントリー
 LOCATION:エランクールの丘
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-diving-10M
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T095600Z
+DESCRIPTION:飛込 - 男子シンクロナイズドダイビング10m高飛込\n🇺🇦 ウクライナ\n🇦🇺 オーストラリア\n🇨🇦
+  カナダ\n🇩🇪 ドイツ\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🏊 男子シンクロナイズドダイビング10m高飛込
+LOCATION:アクアティックス・センター
 END:VEVENT
 BEGIN:VEVENT
 UID:20240729T121000Z-cycling-mountain-bike-
@@ -44,6 +83,144 @@ DESCRIPTION:自転車マウンテンバイク - 男子クロスカントリー\n
   GALINSKI\n🇫🇷 Victor KORETZKY
 SUMMARY:🚴 男子クロスカントリー
 LOCATION:エランクールの丘
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T153000Z-artistic-gymnastics-
+DTSTAMP:20240729T153000Z
+DTSTART:20240729T153000Z
+DTEND:20240729T180000Z
+DESCRIPTION:体操競技 - 男子団体決勝\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇺🇦 ウクライナ\n🇨🇦
+  カナダ\n🇨🇭 スイス\n🇨🇳 中国\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🤸 男子団体決勝
+LOCATION:ベルシー・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T185000Z-fencing--KOR-UKR
+DTSTAMP:20240729T185000Z
+DTSTART:20240729T185000Z
+DTEND:20240729T191500Z
+DESCRIPTION:フェンシング - 女子サーブル個人３位決定戦
+SUMMARY:🤺 CHOI Sebin 🇰🇷 - 🇺🇦 Olga KHARLAN
+LOCATION:グラン・パレ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-diving-10M
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T094700Z
+DESCRIPTION:飛込 - 女子シンクロナイズドダイビング10m高飛込\n🇺🇸 アメリカ合衆国\n🇺🇦 ウクライナ\n🇨🇦
+  カナダ\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳 中国\n🇰🇵 朝鮮民主主義人民共和国\n🇬🇧 英国
+SUMMARY:🏊 女子シンクロナイズドダイビング10m高飛込
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T103800Z-rowing-A
+DTSTAMP:20240731T103800Z
+DTSTART:20240731T103800Z
+DTEND:20240731T104500Z
+DESCRIPTION:ローイング - 女子クオドルプルスカル決勝A\n🇺🇦 ウクライナ\n🇳🇱 オランダ\n🇨🇭 スイス\n🇩🇪
+  ドイツ\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🚣 女子クオドルプルスカル決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T152500Z-canoe-slalom-
+DTSTAMP:20240731T152500Z
+DTSTART:20240731T152500Z
+DTEND:20240731T160900Z
+DESCRIPTION:カヌー・スラローム - 女子カナディアンシングル決勝\n🇨🇭 Alena MARX\n🇧🇷 Ana
+  SATILA\n🇩🇪 Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy
+  LEIBFARTH\n🇨🇿 Gabriela SATKOVA\n🇦🇺 Jessica FOX\n🇬🇧 Mallory
+  FRANKLIN\n🇪🇸 Miren LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇺🇦
+  Viktoriia US\n🇸🇰 Zuzana PANKOVA
+SUMMARY:🛶 女子カナディアンシングル決勝
+LOCATION:ノーティカル ST - ホワイトウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T153000Z-artistic-gymnastics-
+DTSTAMP:20240731T153000Z
+DTSTART:20240731T153000Z
+DTEND:20240731T180054Z
+DESCRIPTION:体操競技 - 男子個人総合決勝\n🇵🇭 Carlos Edriel YULO\n🇳🇱 Casimir
+  SCHMIDT\n🇧🇷 Diogo SOARES\n🇨🇦 Felix DOLCI\n🇨🇭 Florian
+  LANGENEGGER\n🇳🇱 Frank RIJKEN\n🇺🇸 Frederick RICHARD\n🇯🇵 HASHIMOTO
+  Daiki\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇦🇺 Jesse MOORE\n🇬🇧 Joe
+  FRASER\n🇭🇺 Krisztofer MESZAROS\n🇮🇹 Mario MACCHIATI\n🇨🇭 Matteo
+  GIUBELLINI\n🇰🇿 Milad KARIMI\n🇩🇪 Nils DUNKEL\n🇯🇵 OKA
+  Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇺🇸 Paul JUDA\n🇨🇦 Rene
+  COURNOYER\n🇨🇳 XIAO Ruoteng\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
+SUMMARY:🤸 男子個人総合決勝
+LOCATION:ベルシー・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T060000Z-athletics-20KM
+DTSTAMP:20240801T060000Z
+DTSTART:20240801T060000Z
+DTEND:20240801T073500Z
+DESCRIPTION:陸上競技 - 男子20km競歩決勝\n🇮🇳 Akshdeep SINGH\n🇪🇸 Alvaro
+  MARTIN\n🇵🇱 Artur BRZOZOWSKI\n🇫🇷 Aurelien QUINION\n🇭🇺 Bence
+  VENYERCSAN\n🇪🇨 Brian Daniel PINTADO\n🇰🇷 CHOE Byeongkwang\n🇧🇷 Caio
+  BONFIM\n🇬🇧 Callum WILKINSON\n🇵🇪 Cesar Augusto RODRIGUEZ\n🇩🇪
+  Christopher LINKE\n🇪🇨 David HURTADO\n🇦🇺 Declan TINGAY\n🇪🇸 Diego
+  GARCIA CARRERA\n🇸🇰 Dominik CERNY\n🇬🇹 Erick Bernabe BARRONDO\n🇨🇦
+  Evan DUNFEE\n🇮🇹 Francesco FORTUNATO\n🇫🇷 Gabriel BORDIER\n🇯🇵
+  HAMANISHI Ryo\n🇯🇵 IKEDA Koki\n🇺🇦 Ihor HLAVAN\n🇪🇨 Jordy Rafael
+  JIMENEZ ARROBO\n🇬🇹 Jose Alejandro BARRONDO\n🇲🇽 Jose Luis DOCTOR\n🇯🇵
+  KOGA Yuta\n🇦🇺 Kyle SWAN\n🇨🇳 LI Yandong\n🇩🇪 Leo KOEPP\n🇵🇪 Luis
+  Henry CAMPOS\n🇵🇱 Maher BEN HLIMA\n🇮🇹 Massimo STANO\n🇭🇺 Mate
+  HELEBRANDT\n🇧🇷 Matheus CORREA\n🇧🇷 Max Batista GONCALVES dos
+  SANTOS\n🇪🇹 Misgana WAKUMA\n🇲🇽 Noel CHAMA\n🇮🇳 Paramjeet Singh
+  BISHT\n🇪🇸 Paul McGRATH\n🇸🇪 Perseus KARLSTROM\n🇦🇺 Rhydian
+  COWLEY\n🇲🇽 Ricardo ORTIZ\n🇮🇹 Riccardo ORSONI\n🇹🇷 Salih
+  KORKMAZ\n🇰🇪 Samuel Kireri GATHIMBA\n🇫🇮 Veli-Matti PARTANEN\n🇮🇳
+  Vikash SINGH\n🇨🇳 WANG Zhaozhao\n🇨🇳 ZHANG Jun
+SUMMARY:🏃 男子20km競歩決勝
+LOCATION:トロカベロ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T073000Z-shooting-50M3
+DTSTAMP:20240801T073000Z
+DTSTART:20240801T073000Z
+DTEND:20240801T083000Z
+DESCRIPTION:射撃 - 男子50mライフル3姿勢個人ファイナル\n🇨🇿 Jiri PRIVRATSKY\n🇳🇴
+  Jon-Hermann HEGG\n🇨🇳 LIU Yukun\n🇷🇸 Lazar KOVACEVIC\n🇫🇷 Lucas
+  Bernard Denis KRYZS\n🇺🇦 Serhiy KULISH\n🇮🇳 Swapnil KUSALE\n🇵🇱 Tomasz
+  BARTNIK
+SUMMARY:🔫 男子50mライフル3姿勢個人ファイナル
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-athletics-20KM
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
+DESCRIPTION:陸上競技 - 女子20km競歩決勝\n🇲🇽 Alegna GONZALEZ\n🇲🇽 Alejandra
+  ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹 Antonella
+  PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸 Cristina
+  MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica
+  SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨
+  Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima
+  MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇨🇳 LIU
+  Hong\n🇪🇸 Laura GARCIA-CARO\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila
+  OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria
+  KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz
+  ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳
+  PRIYANKA\n🇪🇨 Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de
+  ORBETA\n🇦🇺 Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹
+  Valentina TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷
+  Viviane LYRA\n🇨🇳 YANG Jiayu
+SUMMARY:🏃 女子20km競歩決勝
+LOCATION:トロカベロ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T090000Z-diving-3M
+DTSTAMP:20240802T090000Z
+DTSTART:20240802T090000Z
+DTEND:20240802T095500Z
+DESCRIPTION:飛込 - 男子シンクロナイズドダイビング3m飛板飛込\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇺🇦
+  ウクライナ\n🇪🇸 スペイン\n🇫🇷 フランス\n🇲🇽 メキシコ\n🇨🇳 中国\n🇬🇧 英国
+SUMMARY:🏊 男子シンクロナイズドダイビング3m飛板飛込
+LOCATION:アクアティックス・センター
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-

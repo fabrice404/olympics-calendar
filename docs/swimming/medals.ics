@@ -4,6 +4,318 @@ PRODID:-//fabrice404//olympics-calendar//swimming/medals//EN
 X-WR-CALNAME:🏊 Swimming 🏅 | Paris 2024
 NAME:🏊 Swimming 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240727T184200Z-swimming-MENS-400M-FREESTYLE-FINAL
+DTSTAMP:20240727T184200Z
+DTSTART:20240727T184200Z
+DTEND:20240727T185200Z
+DESCRIPTION:Swimming - Men's 400m Freestyle Final\n🇺🇸 Aaron
+  SHACKELL\n🇦🇺 Elijah WINNINGTON\n🇨🇳 FEI Liwei\n🇧🇷 Guilherme
+  COSTA\n🇰🇷 KIM Woomin\n🇩🇪 Lukas MAERTENS\n🇩🇪 Oliver KLEMET\n🇦🇺
+  Samuel SHORT
+SUMMARY:🏊 Men's 400m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T185200Z-swimming-WOMENS-400M-FREESTYLE-FINAL
+DTSTAMP:20240727T185200Z
+DTSTART:20240727T185200Z
+DTEND:20240727T190200Z
+DESCRIPTION:Swimming - Women's 400m Freestyle Final\n🇦🇺 Ariarne
+  TITMUS\n🇳🇿 Erika FAIRWEATHER\n🇩🇪 Isabel GOSE\n🇦🇺 Jamie
+  PERKINS\n🇺🇸 Katie LEDECKY\n🇧🇷 Maria Fernanda COSTA\n🇺🇸 Paige
+  MADDEN\n🇨🇦 Summer McINTOSH
+SUMMARY:🏊 Women's 400m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T193400Z-swimming-WOMENS-4-X-100M-FREESTYLE-RELAY-FINAL
+DTSTAMP:20240727T193400Z
+DTSTART:20240727T193400Z
+DTEND:20240727T194400Z
+DESCRIPTION:Swimming - Women's 4 x 100m Freestyle Relay Final\n🇦🇺
+  AUS\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇮🇹 ITA\n🇸🇪 SWE\n🇺🇸 USA
+SUMMARY:🏊 Women's 4 x 100m Freestyle Relay Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T194400Z-swimming-MENS-4-X-100M-FREESTYLE-RELAY-FINAL
+DTSTAMP:20240727T194400Z
+DTSTART:20240727T194400Z
+DTEND:20240727T195400Z
+DESCRIPTION:Swimming - Men's 4 x 100m Freestyle Relay Final\n🇦🇺 AUS\n🇨🇦
+  CAN\n🇨🇳 CHN\n🇩🇪 GER\n🇬🇧 GBR\n🇭🇺 HUN\n🇮🇹 ITA\n🇺🇸 USA
+SUMMARY:🏊 Men's 4 x 100m Freestyle Relay Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T183000Z-swimming-MENS-400M-INDIVIDUAL-MEDLEY-FINAL
+DTSTAMP:20240728T183000Z
+DTSTART:20240728T183000Z
+DTEND:20240728T184000Z
+DESCRIPTION:Swimming - Men's 400m Individual Medley Final\n🇮🇹 Alberto
+  RAZZETTI\n🇺🇸 Carson FOSTER\n🇩🇪 Cedric BUESSING\n🇫🇷 Leon
+  MARCHAND\n🇳🇿 Lewis CLAREBURT\n🇯🇵 MATSUSHITA Tomoyuki\n🇬🇧 Max
+  LITCHFIELD\n🇯🇵 SETO Daiya
+SUMMARY:🏊 Men's 400m Individual Medley Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T184000Z-swimming-WOMENS-100M-BUTTERFLY-FINAL
+DTSTAMP:20240728T184000Z
+DTSTART:20240728T184000Z
+DTEND:20240728T184600Z
+DESCRIPTION:Swimming - Women's 100m Butterfly Final\n🇩🇪 Angelina
+  KOEHLER\n🇦🇺 Emma McKEON\n🇺🇸 Gretchen WALSH\n🇯🇵 HIRAI Mizuki\n🇸🇪
+  Louise HANSSON\n🇨🇦 Margaret MAC NEIL\n🇺🇸 Torri HUSKE\n🇨🇳 ZHANG
+  Yufei
+SUMMARY:🏊 Women's 100m Butterfly Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T194400Z-swimming-MENS-100M-BREASTSTROKE-FINAL
+DTSTAMP:20240728T194400Z
+DTSTART:20240728T194400Z
+DTEND:20240728T195000Z
+DESCRIPTION:Swimming - Men's 100m Breaststroke Final\n🇬🇧 Adam PEATY\n🇳🇱
+  Arno KAMMINGA\n🇳🇱 Caspar CORBEAU\n🇩🇪 Lucas MATZERATH\n🇩🇪 Melvin
+  IMOUDU\n🇺🇸 Nic FINK\n🇮🇹 Nicolo MARTINENGHI\n🇨🇳 QIN Haiyang
+SUMMARY:🏊 Men's 100m Breaststroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T183000Z-swimming-WOMENS-400M-INDIVIDUAL-MEDLEY-FINAL
+DTSTAMP:20240729T183000Z
+DTSTART:20240729T183000Z
+DTEND:20240729T184100Z
+DESCRIPTION:Swimming - Women's 400m Individual Medley Final\n🇦🇺 Ella
+  RAMSAY\n🇮🇪 Ellen WALSHE\n🇺🇸 Emma WEYANT\n🇬🇧 Freya Constance
+  COLBERT\n🇺🇸 Katie GRIMES\n🇬🇧 Katie SHANAHAN\n🇯🇵 NARITA Mio\n🇨🇦
+  Summer McINTOSH
+SUMMARY:🏊 Women's 400m Individual Medley Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T184100Z-swimming-MENS-200M-FREESTYLE-FINAL
+DTSTAMP:20240729T184100Z
+DTSTART:20240729T184100Z
+DTEND:20240729T184900Z
+DESCRIPTION:Swimming - Men's 200m Freestyle Final\n🇱🇹 Danas RAPSYS\n🇷🇴
+  David POPOVICI\n🇬🇧 Duncan SCOTT\n🇩🇪 Lukas MAERTENS\n🇺🇸 Luke
+  HOBSON\n🇯🇵 MATSUMOTO Katsuhiro\n🇬🇧 Matthew RICHARDS\n🇦🇺 Maximillian
+  GIULIANI
+SUMMARY:🏊 Men's 200m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T192700Z-swimming-MENS-100M-BACKSTROKE-FINAL
+DTSTAMP:20240729T192700Z
+DTSTART:20240729T192700Z
+DTEND:20240729T193400Z
+DESCRIPTION:Swimming - Men's 100m Backstroke Final\n🇬🇷 Apostolos
+  CHRISTOU\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter
+  COETZE\n🇺🇸 Ryan MURPHY\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷 Yohann
+  NDOYE-BROUARD
+SUMMARY:🏊 Men's 100m Backstroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T193400Z-swimming-WOMENS-100M-BREASTSTROKE-FINAL
+DTSTAMP:20240729T193400Z
+DTSTART:20240729T193400Z
+DTEND:20240729T194100Z
+DESCRIPTION:Swimming - Women's 100m Breaststroke Final\n🇦🇸 Alina
+  ZMUSHKA\n🇬🇧 Angharad EVANS\n🇮🇹 Benedetta PILATO\n🇪🇪 Eneli
+  JEFIMOVA\n🇺🇸 Lilly KING\n🇮🇪 Mona Mc SHARRY\n🇨🇳 TANG Qianting\n🇿🇦
+  Tatjana SMITH
+SUMMARY:🏊 Women's 100m Breaststroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T195300Z-swimming-WOMENS-200M-FREESTYLE-FINAL
+DTSTAMP:20240729T195300Z
+DTSTART:20240729T195300Z
+DTEND:20240729T200100Z
+DESCRIPTION:Swimming - Women's 200m Freestyle Final\n🇦🇺 Ariarne
+  TITMUS\n🇨🇿 Barbora SEEMANOVA\n🇺🇸 Claire WEINSTEIN\n🇳🇿 Erika
+  FAIRWEATHER\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇨🇦 Mary-Sophie
+  HARVEY\n🇦🇺 Mollie O'CALLAGHAN\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 Women's 200m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T190000Z-swimming-WOMENS-100M-BACKSTROKE-FINAL
+DTSTAMP:20240730T190000Z
+DTSTART:20240730T190000Z
+DTEND:20240730T190700Z
+DESCRIPTION:Swimming - Women's 100m Backstroke Final\n🇫🇷 Beryl
+  GASTALDELLO\n🇫🇷 Emma TEREBO\n🇨🇦 Ingrid WILM\n🇦🇺 Iona ANDERSON\n🇺🇸
+  Katharine BERKOFF\n🇦🇺 Kaylee McKEOWN\n🇨🇦 Kylie MASSE\n🇺🇸 Regan
+  SMITH
+SUMMARY:🏊 Women's 100m Backstroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T190700Z-swimming-MENS-800M-FREESTYLE-FINAL
+DTSTAMP:20240730T190700Z
+DTSTART:20240730T190700Z
+DTEND:20240730T192100Z
+DESCRIPTION:Swimming - Men's 800m Freestyle Final\n🇹🇳 Ahmed JAOUADI\n🇺🇸
+  Bobby FINKE\n🇮🇪 Daniel WIFFEN\n🇫🇷 David AUBRY\n🇦🇺 Elijah
+  WINNINGTON\n🇮🇹 Gregorio PALTRINIERI\n🇮🇹 Luca de TULLIO\n🇩🇪 Sven
+  SCHWARZ
+SUMMARY:🏊 Men's 800m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T201500Z-swimming-MENS-4-X-200M-FREESTYLE-RELAY-FINAL
+DTSTAMP:20240730T201500Z
+DTSTART:20240730T201500Z
+DTEND:20240730T202800Z
+DESCRIPTION:Swimming - Men's 4 x 200m Freestyle Relay Final\n🇦🇺 AUS\n🇨🇳
+  CHN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇱 ISR\n🇯🇵 JPN\n🇰🇷 KOR\n🇺🇸 USA
+SUMMARY:🏊 Men's 4 x 200m Freestyle Relay Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T183000Z-swimming-WOMENS-100M-FREESTYLE-FINAL
+DTSTAMP:20240731T183000Z
+DTSTART:20240731T183000Z
+DTEND:20240731T183700Z
+DESCRIPTION:Swimming - Women's 100m Freestyle Final\n🇺🇸 Gretchen
+  WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇳🇱 Marrit STEENBERGEN\n🇦🇺
+  Mollie O'CALLAGHAN\n🇸🇪 Sarah SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Torri
+  HUSKE\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 Women's 100m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T183700Z-swimming-MENS-200M-BUTTERFLY-FINAL
+DTSTAMP:20240731T183700Z
+DTSTART:20240731T183700Z
+DTEND:20240731T184500Z
+DESCRIPTION:Swimming - Men's 200m Butterfly Final\n🇮🇹 Alberto
+  RAZZETTI\n🇨🇦 Ilya KHARUN\n🇪🇪 Kregor ZIRK\n🇭🇺 Kristof MILAK\n🇵🇱
+  Krzysztof CHMIELEWSKI\n🇫🇷 Leon MARCHAND\n🇦🇹 Martin ESPERNBERGER\n🇨🇭
+  Noe PONTI
+SUMMARY:🏊 Men's 200m Butterfly Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T191300Z-swimming-WOMENS-1500M-FREESTYLE-FINAL
+DTSTAMP:20240731T191300Z
+DTSTART:20240731T191300Z
+DTEND:20240731T193500Z
+DESCRIPTION:Swimming - Women's 1500m Freestyle Final\n🇫🇷 Anastasiia
+  KIRPICHNIKOVA\n🇧🇷 Beatriz DIZOTTI\n🇩🇪 Isabel GOSE\n🇺🇸 Katie
+  LEDECKY\n🇨🇳 LI Bingjie\n🇩🇪 Leonie MAERTENS\n🇦🇺 Moesha JOHNSON\n🇮🇹
+  Simona QUADARELLA
+SUMMARY:🏊 Women's 1500m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T203100Z-swimming-MENS-200M-BREASTSTROKE-FINAL
+DTSTAMP:20240731T203100Z
+DTSTART:20240731T203100Z
+DTEND:20240731T203900Z
+DESCRIPTION:Swimming - Men's 200m Breaststroke Final\n🇳🇱 Caspar
+  CORBEAU\n🇨🇳 DONG Zhihao\n🇯🇵 HANAGURUMA Yu\n🇺🇸 Josh MATHENY\n🇦🇺
+  Joshua YONG\n🇫🇷 Leon MARCHAND\n🇯🇵 WATANABE Ippei\n🇦🇺 Zac
+  STUBBLETY-COOK
+SUMMARY:🏊 Men's 200m Breaststroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T203900Z-swimming-MENS-100M-FREESTYLE-FINAL
+DTSTAMP:20240731T203900Z
+DTSTART:20240731T203900Z
+DTEND:20240731T204600Z
+DESCRIPTION:Swimming - Men's 100m Freestyle Final\n🇺🇸 Chris
+  GUILIANO\n🇷🇴 David POPOVICI\n🇺🇸 Jack ALEXY\n🇩🇪 Josha SALCHOW\n🇦🇺
+  Kyle CHALMERS\n🇫🇷 Maxime GROUSSET\n🇭🇺 Nandor NEMETH\n🇨🇳 PAN Zhanle
+SUMMARY:🏊 Men's 100m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T183000Z-swimming-WOMENS-200M-BUTTERFLY-FINAL
+DTSTAMP:20240801T183000Z
+DTSTART:20240801T183000Z
+DTEND:20240801T183800Z
+DESCRIPTION:Swimming - Women's 200m Butterfly Final\n🇦🇺 Abbey Lee
+  CONNOR\n🇺🇸 Alex SHACKELL\n🇦🇺 Elizabeth DEKKERS\n🇩🇰 Helena Rosendahl
+  BACH\n🇬🇧 Laura STEPHENS\n🇺🇸 Regan SMITH\n🇨🇦 Summer McINTOSH\n🇨🇳
+  ZHANG Yufei
+SUMMARY:🏊 Women's 200m Butterfly Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T183800Z-swimming-MENS-200M-BACKSTROKE-FINAL
+DTSTAMP:20240801T183800Z
+DTSTART:20240801T183800Z
+DTEND:20240801T184600Z
+DESCRIPTION:Swimming - Men's 200m Backstroke Final\n🇬🇷 Apostolos
+  CHRISTOU\n🇭🇺 Hubert KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸 Keaton
+  JONES\n🇩🇪 Lukas MAERTENS\n🇫🇷 Mewen TOMAC\n🇿🇦 Pieter COETZE\n🇨🇭
+  Roman MITYUKOV
+SUMMARY:🏊 Men's 200m Backstroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T191100Z-swimming-WOMENS-200M-BREASTSTROKE-FINAL
+DTSTAMP:20240801T191100Z
+DTSTART:20240801T191100Z
+DTEND:20240801T191900Z
+DESCRIPTION:Swimming - Women's 200m Breaststroke Final\n🇺🇸 Kate
+  DOUGLASS\n🇿🇦 Kaylene CORBETT\n🇱🇹 Kotryna TETEREVKOVA\n🇺🇸 Lilly
+  KING\n🇯🇵 SUZUKI Satomi\n🇿🇦 Tatjana SMITH\n🇳🇱 Tes SCHOUTEN\n🇨🇳 YE
+  Shiwen
+SUMMARY:🏊 Women's 200m Breaststroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T200300Z-swimming-WOMENS-4-X-200M-FREESTYLE-RELAY-FINAL
+DTSTAMP:20240801T200300Z
+DTSTART:20240801T200300Z
+DTEND:20240801T201700Z
+DESCRIPTION:Swimming - Women's 4 x 200m Freestyle Relay Final\n🇦🇺
+  AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇬🇧 GBR\n🇭🇺 HUN\n🇳🇿 NZL\n🇺🇸 USA
+SUMMARY:🏊 Women's 4 x 200m Freestyle Relay Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T183000Z-swimming-MENS-50M-FREESTYLE-FINAL
+DTSTAMP:20240802T183000Z
+DTSTART:20240802T183000Z
+DTEND:20240802T183700Z
+DESCRIPTION:Swimming - Men's 50m Freestyle Final\n🇬🇧 Benjamin PROUD\n🇺🇸
+  Caeleb DRESSEL\n🇦🇺 Cameron McEVOY\n🇫🇷 Florent MANAUDOU\n🇰🇾 Jordan
+  CROOKS\n🇨🇦 Josh LIENDO\n🇬🇷 Kristian GKOLOMEEV\n🇮🇹 Leonardo DEPLANO
+SUMMARY:🏊 Men's 50m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T183700Z-swimming-WOMENS-200M-BACKSTROKE-FINAL
+DTSTAMP:20240802T183700Z
+DTSTART:20240802T183700Z
+DTEND:20240802T184500Z
+DESCRIPTION:Swimming - Women's 200m Backstroke Final\n🇦🇸 Anastasiya
+  SHKURDAI\n🇬🇧 Honey OSRIN\n🇬🇧 Katie SHANAHAN\n🇦🇺 Kaylee
+  McKEOWN\n🇨🇦 Kylie MASSE\n🇨🇳 PENG Xuwei\n🇺🇸 Phoebe BACON\n🇺🇸 Regan
+  SMITH
+SUMMARY:🏊 Women's 200m Backstroke Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T184500Z-swimming-MENS-200M-INDIVIDUAL-MEDLEY-FINAL
+DTSTAMP:20240802T184500Z
+DTSTART:20240802T184500Z
+DTEND:20240802T185300Z
+DESCRIPTION:Swimming - Men's 200m Individual Medley Final\n🇮🇹 Alberto
+  RAZZETTI\n🇺🇸 Carson FOSTER\n🇬🇧 Duncan SCOTT\n🇨🇦 Finlay KNOX\n🇫🇷
+  Leon MARCHAND\n🇯🇵 SETO Daiya\n🇬🇧 Tom DEAN\n🇨🇳 WANG Shun
+SUMMARY:🏊 Men's 200m Individual Medley Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T183000Z-swimming-MENS-100M-BUTTERFLY-FINAL
 DTSTAMP:20240803T183000Z
 DTSTART:20240803T183000Z

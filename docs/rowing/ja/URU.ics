@@ -4,6 +4,54 @@ PRODID:-//fabrice404//olympics-calendar//rowing/ja/URU//EN
 X-WR-CALNAME:🇺🇾 Uruguay ローイング | Paris 2024
 NAME:🇺🇾 Uruguay ローイング | Paris 2024
 BEGIN:VEVENT
+UID:20240727T070000Z-rowing-
+DTSTAMP:20240727T070000Z
+DTSTART:20240727T070000Z
+DTEND:20240727T080700Z
+DESCRIPTION:ローイング - 男子シングルスカル予選\n🇯🇵 ARAKAWA Ryuta\n🇸🇩 Abdalla
+  AHMED\n🇪🇬 Abdelkhalek ELBANNA\n🇦🇴 Andre MATIAS\n🇮🇳 Balraj
+  PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾 Bruno CETRARO
+  BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇧🇲 Dara ALIZADEH\n🇱🇹
+  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
+  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇮🇩
+  MEMO\n🇷🇴 Mihai CHIRUTA\n🇱🇾 Mohamed BUKRAH\n🇹🇳 Mohamed TAIEB\n🇩🇪
+  Oliver ZEIDLER\n🇹🇭 Premanut WATTANANUSITH\n🇲🇨 Quentin
+  ANTOGNELLI\n🇨🇺 Reidy CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon
+  van DORP\n🇬🇷 Stefanos NTOUSKOS\n🇿🇼 Stephen COX\n🇩🇰 Sverri
+  NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim BRYS\n🇰🇿 Vladislav
+  YAKOVLEV\n🇦🇸 Yauheni ZALATY
+SUMMARY:🚣 男子シングルスカル予選
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T081000Z-rowing-
+DTSTAMP:20240730T081000Z
+DTSTART:20240730T081000Z
+DTEND:20240730T084700Z
+DESCRIPTION:ローイング - 男子シングルスカル準々決勝\n🇯🇵 ARAKAWA Ryuta\n🇪🇬 Abdelkhalek
+  ELBANNA\n🇮🇳 Balraj PANWAR\n🇭🇺 Bendeguz Pal PETERVARI MOLNAR\n🇺🇾
+  Bruno CETRARO BERRIOLO\n🇭🇰 CHIU Hin Chun\n🇭🇷 Damir MARTIN\n🇱🇹
+  Giedrius BIELIAUSKAS\n🇸🇮 Isak Ivan ZVEGELJ\n🇺🇸 Jacob PLIHAL\n🇵🇾
+  Javier INSFRAN\n🇧🇬 Kristian VASILEV\n🇧🇷 Lucas VERTHEIN FERREIRA\n🇷🇴
+  Mihai CHIRUTA\n🇩🇪 Oliver ZEIDLER\n🇲🇨 Quentin ANTOGNELLI\n🇨🇺 Reidy
+  CARDONA BLANCO\n🇩🇿 Sid Ali BOUDINA\n🇳🇱 Simon van DORP\n🇬🇷 Stefanos
+  NTOUSKOS\n🇩🇰 Sverri NIELSEN\n🇳🇿 Thomas MACKINTOSH\n🇧🇪 Tim
+  BRYS\n🇦🇸 Yauheni ZALATY
+SUMMARY:🚣 男子シングルスカル準々決勝
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-rowing-AB-1
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T075700Z
+DESCRIPTION:ローイング - 男子シングルスカル準決勝A/B - 1組\n🇯🇵 ARAKAWA Ryuta\n🇺🇾 Bruno
+  CETRARO BERRIOLO\n🇱🇹 Giedrius BIELIAUSKAS\n🇳🇱 Simon van DORP\n🇳🇿
+  Thomas MACKINTOSH\n🇧🇪 Tim BRYS
+SUMMARY:🚣 男子シングルスカル準決勝A/B - 1組
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T080600Z-rowing-B
 DTSTAMP:20240803T080600Z
 DTSTART:20240803T080600Z

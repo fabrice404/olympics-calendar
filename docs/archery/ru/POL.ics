@@ -33,4 +33,22 @@ DESCRIPTION:Стрельба из лука - Рейтинговый раунд, 
 SUMMARY:🏹 Рейтинговый раунд, индивидуальные (ж)
 LOCATION:Дом инвалидов
 END:VEVENT
+BEGIN:VEVENT
+UID:20240730T114400Z-archery-132--IND-POL
+DTSTAMP:20240730T114400Z
+DTSTART:20240730T114400Z
+DTEND:20240730T115700Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (ж)
+SUMMARY:🏹 Ankita BHAKAT 🇮🇳 - 🇵🇱 Wioleta MYSZOR
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T122300Z-archery-116--POL-IND
+DTSTAMP:20240730T122300Z
+DTSTART:20240730T122300Z
+DTEND:20240730T123600Z
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)
+SUMMARY:🏹 Wioleta MYSZOR 🇵🇱 - 🇮🇳 Bhajan KAUR
+LOCATION:Дом инвалидов
+END:VEVENT
 END:VCALENDAR

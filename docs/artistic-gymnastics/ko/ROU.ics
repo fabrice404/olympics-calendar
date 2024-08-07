@@ -4,6 +4,32 @@ PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/ko/ROU//EN
 X-WR-CALNAME:🇷🇴 Romania 기계체조 | Paris 2024
 NAME:🇷🇴 Romania 기계체조 | Paris 2024
 BEGIN:VEVENT
+UID:20240730T161500Z-artistic-gymnastics--
+DTSTAMP:20240730T161500Z
+DTSTART:20240730T161500Z
+DTEND:20240730T181000Z
+DESCRIPTION:기계체조 - 여자 단체 결승\n🇷🇴 루마니아\n🇺🇸 미국\n🇧🇷 브라질\n🇬🇧 영국\n🇮🇹
+  이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다
+SUMMARY:🤸 여자 단체 결승
+LOCATION:베르시 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T161500Z-artistic-gymnastics--
+DTSTAMP:20240801T161500Z
+DTSTART:20240801T161500Z
+DTEND:20240801T181009Z
+DESCRIPTION:기계체조 - 여자 종합 결승\n🇮🇹 Alice D'AMATO\n🇬🇧 Alice KINSELLA\n🇷🇴
+  Amalia GHIGOARTA\n🇷🇴 Ana BARBOSU\n🇨🇦 Ava STEWART\n🇭🇺 Bettina Lili
+  CZIFRA\n🇨🇦 Elsabeth BLACK\n🇵🇹 Filipa MARTINS\n🇧🇷 Flavia
+  SARAIVA\n🇬🇧 Georgia-Mae FENTON\n🇩🇪 Helen KEVRIC\n🇯🇵 KISHI
+  Rina\n🇩🇿 Kaylia NEMOUR\n🇨🇴 Luisa BLANCO\n🇮🇹 Manila ESPOSITO\n🇯🇵
+  NAKAMURA Haruka\n🇳🇱 Naomi VISSER\n🇨🇳 OU Yushan\n🇨🇳 QIU Qiyuan\n🇧🇷
+  Rebeca ANDRADE\n🇦🇺 Ruby PASS\n🇩🇪 Sarah VOSS\n🇺🇸 Simone BILES\n🇺🇸
+  Sunisa LEE
+SUMMARY:🤸 여자 종합 결승
+LOCATION:베르시 아레나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T103800Z-artistic-gymnastics--
 DTSTAMP:20240805T103800Z
 DTSTART:20240805T103800Z

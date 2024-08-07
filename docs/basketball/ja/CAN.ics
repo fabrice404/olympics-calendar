@@ -4,6 +4,51 @@ PRODID:-//fabrice404//olympics-calendar//basketball/ja/CAN//EN
 X-WR-CALNAME:🇨🇦 Canada バスケットボール | Paris 2024
 NAME:🇨🇦 Canada バスケットボール | Paris 2024
 BEGIN:VEVENT
+UID:20240727T190000Z-basketball--A-GRE-CAN
+DTSTAMP:20240727T190000Z
+DTSTART:20240727T190000Z
+DTEND:20240727T204500Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループA
+SUMMARY:🏀 ギリシャ 🇬🇷 - 🇨🇦 カナダ
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T151500Z-basketball--B-CAN-FRA
+DTSTAMP:20240729T151500Z
+DTSTART:20240729T151500Z
+DTEND:20240729T170000Z
+DESCRIPTION:バスケットボール - 女子予選ラウンド - グループB
+SUMMARY:🏀 カナダ 🇨🇦 - 🇫🇷 フランス
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T113000Z-basketball--A-CAN-AUS
+DTSTAMP:20240730T113000Z
+DTSTART:20240730T113000Z
+DTEND:20240730T131500Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループA
+SUMMARY:🏀 カナダ 🇨🇦 - 🇦🇺 オーストラリア
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T113000Z-basketball--B-AUS-CAN
+DTSTAMP:20240801T113000Z
+DTSTART:20240801T113000Z
+DTEND:20240801T131500Z
+DESCRIPTION:バスケットボール - 女子予選ラウンド - グループB
+SUMMARY:🏀 オーストラリア 🇦🇺 - 🇨🇦 カナダ
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T151500Z-basketball--A-CAN-ESP
+DTSTAMP:20240802T151500Z
+DTSTART:20240802T151500Z
+DTEND:20240802T170000Z
+DESCRIPTION:バスケットボール - 男子予選ラウンド - グループA
+SUMMARY:🏀 カナダ 🇨🇦 - 🇪🇸 スペイン
+LOCATION:スタッド・ピエール＝モーロワ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T113000Z-basketball--B-CAN-NGR
 DTSTAMP:20240804T113000Z
 DTSTART:20240804T113000Z

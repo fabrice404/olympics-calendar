@@ -4,6 +4,42 @@ PRODID:-//fabrice404//olympics-calendar//beach-volleyball/ja/SUI//EN
 X-WR-CALNAME:🇨🇭 Switzerland ビーチバレーボール | Paris 2024
 NAME:🇨🇭 Switzerland ビーチバレーボール | Paris 2024
 BEGIN:VEVENT
+UID:20240729T100000Z-beach-volleyball--F-SUI-ESP
+DTSTAMP:20240729T100000Z
+DTSTART:20240729T100000Z
+DTEND:20240729T105000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールF
+SUMMARY:🏐 HUBERLI/BRUNNER 🇨🇭 - 🇪🇸 ALVAREZ M/MORENO
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T150000Z-beach-volleyball--D-LAT-SUI
+DTSTAMP:20240729T150000Z
+DTSTART:20240729T150000Z
+DTEND:20240729T155000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールD
+SUMMARY:🏐 TINA/ANASTASIJA 🇱🇻 - 🇨🇭 ESMEE/ZOE
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T080000Z-beach-volleyball--F-SUI-GER
+DTSTAMP:20240731T080000Z
+DTSTART:20240731T080000Z
+DTEND:20240731T085000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールF
+SUMMARY:🏐 HUBERLI/BRUNNER 🇨🇭 - 🇩🇪 LUDWIG/LIPPMANN
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T193000Z-beach-volleyball--D-CAN-SUI
+DTSTAMP:20240731T193000Z
+DTSTART:20240731T193000Z
+DTEND:20240731T195000Z
+DESCRIPTION:ビーチバレーボール - 女子予選ラウンド - プールD
+SUMMARY:🏐 MELISSA/BRANDIE 🇨🇦 - 🇨🇭 ESMEE/ZOE
+LOCATION:エッフェル塔スタジアム
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-beach-volleyball--D-SUI-PAR
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z

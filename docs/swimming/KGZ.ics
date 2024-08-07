@@ -4,6 +4,58 @@ PRODID:-//fabrice404//olympics-calendar//swimming/KGZ//EN
 X-WR-CALNAME:🇰🇬 Kyrgyzstan Swimming | Paris 2024
 NAME:🇰🇬 Kyrgyzstan Swimming | Paris 2024
 BEGIN:VEVENT
+UID:20240727T093000Z-swimming-MENS-100M-BREASTSTROKE-HEATS
+DTSTAMP:20240727T093000Z
+DTSTART:20240727T093000Z
+DTEND:20240727T094400Z
+DESCRIPTION:Swimming - Men's 100m Breaststroke - Heats\n🇶🇦 Abdulaziz
+  AL-OBAIDLY\n🇬🇧 Adam PEATY\n🇧🇼 Adrian ROBINSON\n🇭🇹 Alexandre
+  GRAND'PIERRE\n🇱🇹 Andrius SIDLAUSKAS\n🇮🇸 Anton McKEE\n🇳🇱 Arno
+  KAMMINGA\n🇹🇷 Berkay OGRETIR\n🇦🇹 Bernhard REITSHAMMER\n🇰🇷 CHOI
+  Dongyeol\n🇳🇱 Caspar CORBEAU\n🇸🇿 Chadd NG CHIU HING NING\n🇺🇸 Charlie
+  SWANSON\n🇰🇬 Denis PETRASHOV\n🇦🇸 Evgenii SOMOV\n🇦🇸 Ilya
+  SHYMANOVICH\n🇦🇬 Jadon WUILLIEZ\n🇬🇧 James WILBY\n🇵🇱 Jan
+  KALUSOWSKI\n🇲🇬 Jonathan RAHARVEL\n🇦🇺 Joshua YONG\n🇩🇪 Lucas
+  MATZERATH\n🇮🇹 Ludovico Blu Art VIBERTI\n🇲🇿 Matthew LAWRENCE\n🇩🇪
+  Melvin IMOUDU\n🇦🇸 Micah MASEI\n🇲🇽 Miguel Alejandro de LARA
+  OJEDA\n🇺🇸 Nic FINK\n🇮🇹 Nicolo MARTINENGHI\n🇨🇳 QIN Haiyang\n🇮🇱 Ron
+  POLONSKY\n🇨🇳 SUN Jiajun\n🇦🇺 Sam WILLIAMSON\n🇱🇦 Steven
+  INSIXIENGMAY\n🇯🇵 TANIGUCHI Taku\n🇫🇲 Tasi LIMTIACO
+SUMMARY:🏊 Men's 100m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T110100Z-swimming-MENS-200M-BREASTSTROKE-HEATS
+DTSTAMP:20240730T110100Z
+DTSTART:20240730T110100Z
+DTEND:20240730T111900Z
+DESCRIPTION:Swimming - Men's 200m Breaststroke - Heats\n🇱🇹 Aleksas
+  SAVICKAS\n🇯🇴 Amro AL-WIR\n🇮🇸 Anton McKEE\n🇳🇱 Arno KAMMINGA\n🇵🇦
+  Bernhard Tyler CHRISTIANSON\n🇰🇷 CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳
+  DONG Zhihao\n🇱🇻 Daniils BOBROVS\n🇰🇬 Denis PETRASHOV\n🇸🇪 Erik
+  PERSSON\n🇯🇵 HANAGURUMA Yu\n🇵🇱 Jan KALUSOWSKI\n🇺🇸 Josh MATHENY\n🇦🇺
+  Joshua YONG\n🇭🇳 Julio HORREGO\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
+  EPITROPOV\n🇺🇸 Matt FALLON\n🇫🇮 Matti MATTSSON\n🇲🇽 Miguel Alejandro
+  de LARA OJEDA\n🇨🇳 QIN Haiyang\n🇧🇭 Saud GHALI\n🇯🇵 WATANABE
+  Ippei\n🇦🇺 Zac STUBBLETY-COOK
+SUMMARY:🏊 Men's 200m Breaststroke - Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T195900Z-swimming-MENS-200M-BREASTSTROKE-SEMIFINALS
+DTSTAMP:20240730T195900Z
+DTSTART:20240730T195900Z
+DTEND:20240730T201500Z
+DESCRIPTION:Swimming - Men's 200m Breaststroke Semifinals\n🇮🇸 Anton
+  McKEE\n🇰🇷 CHO Sung Jae\n🇳🇱 Caspar CORBEAU\n🇨🇳 DONG Zhihao\n🇰🇬
+  Denis PETRASHOV\n🇸🇪 Erik PERSSON\n🇯🇵 HANAGURUMA Yu\n🇺🇸 Josh
+  MATHENY\n🇦🇺 Joshua YONG\n🇫🇷 Leon MARCHAND\n🇧🇬 Lyubomir
+  EPITROPOV\n🇺🇸 Matt FALLON\n🇲🇽 Miguel Alejandro de LARA OJEDA\n🇨🇳
+  QIN Haiyang\n🇯🇵 WATANABE Ippei\n🇦🇺 Zac STUBBLETY-COOK
+SUMMARY:🏊 Men's 200m Breaststroke Semifinals
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-swimming-WOMENS-50M-FREESTYLE-HEATS
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z

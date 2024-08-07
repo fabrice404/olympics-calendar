@@ -4,6 +4,32 @@ PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/UKR//EN
 X-WR-CALNAME:🇺🇦 Ukraine Artistic Gymnastics | Paris 2024
 NAME:🇺🇦 Ukraine Artistic Gymnastics | Paris 2024
 BEGIN:VEVENT
+UID:20240729T153000Z-artistic-gymnastics-MENS-TEAM-FINAL
+DTSTAMP:20240729T153000Z
+DTSTART:20240729T153000Z
+DTEND:20240729T180000Z
+DESCRIPTION:Artistic Gymnastics - Men's Team Final\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵 JPN\n🇨🇭 SUI\n🇺🇦 UKR\n🇺🇸 USA
+SUMMARY:🤸 Men's Team Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T153000Z-artistic-gymnastics-MENS-ALL-AROUND-FINAL
+DTSTAMP:20240731T153000Z
+DTSTART:20240731T153000Z
+DTEND:20240731T180054Z
+DESCRIPTION:Artistic Gymnastics - Men's All-Around Final\n🇵🇭 Carlos
+  Edriel YULO\n🇳🇱 Casimir SCHMIDT\n🇧🇷 Diogo SOARES\n🇨🇦 Felix
+  DOLCI\n🇨🇭 Florian LANGENEGGER\n🇳🇱 Frank RIJKEN\n🇺🇸 Frederick
+  RICHARD\n🇯🇵 HASHIMOTO Daiki\n🇺🇦 Illia KOVTUN\n🇬🇧 Jake JARMAN\n🇦🇺
+  Jesse MOORE\n🇬🇧 Joe FRASER\n🇭🇺 Krisztofer MESZAROS\n🇮🇹 Mario
+  MACCHIATI\n🇨🇭 Matteo GIUBELLINI\n🇰🇿 Milad KARIMI\n🇩🇪 Nils
+  DUNKEL\n🇯🇵 OKA Shinnosuke\n🇺🇦 Oleg VERNIAIEV\n🇺🇸 Paul JUDA\n🇨🇦
+  Rene COURNOYER\n🇨🇳 XIAO Ruoteng\n🇮🇹 Yumin ABBADINI\n🇨🇳 ZHANG Boheng
+SUMMARY:🤸 Men's All-Around Final
+LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T133000Z-artistic-gymnastics-MENS-FLOOR-EXERCISE-FINAL
 DTSTAMP:20240803T133000Z
 DTSTART:20240803T133000Z

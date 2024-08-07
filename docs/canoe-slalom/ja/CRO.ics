@@ -4,6 +4,82 @@ PRODID:-//fabrice404//olympics-calendar//canoe-slalom/ja/CRO//EN
 X-WR-CALNAME:🇭🇷 Croatia カヌー・スラローム | Paris 2024
 NAME:🇭🇷 Croatia カヌー・スラローム | Paris 2024
 BEGIN:VEVENT
+UID:20240727T130000Z-canoe-slalom-1
+DTSTAMP:20240727T130000Z
+DTSTART:20240727T130000Z
+DTEND:20240727T135200Z
+DESCRIPTION:カヌー・スラローム - 男子カナディアンシングル予選1本目\n🇬🇧 Adam BURGESS\n🇨🇦 Alex
+  BALDONI\n🏳️ Amir REZANEJAD\n🇸🇮 Benjamin SAVSEK\n🇺🇸 Casey
+  EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇯🇵 HANEDA Takuya\n🇳🇱 Joris
+  OTTEN\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija
+  MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇧🇷 Pedro
+  GONCALVES\n🇮🇹 Raffaello IVALDI\n🇹🇳 Salim JEMAI\n🇩🇪 Sideris
+  TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 男子カナディアンシングル予選1本目
+LOCATION:ノーティカル ST - ホワイトウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T151000Z-canoe-slalom-2
+DTSTAMP:20240727T151000Z
+DTSTART:20240727T151000Z
+DTEND:20240727T160200Z
+DESCRIPTION:カヌー・スラローム - 男子カナディアンシングル予選2本目\n🇬🇧 Adam BURGESS\n🇨🇦 Alex
+  BALDONI\n🏳️ Amir REZANEJAD\n🇸🇮 Benjamin SAVSEK\n🇺🇸 Casey
+  EICHFELD\n🇵🇱 Grzegorz HEDWIG\n🇯🇵 HANEDA Takuya\n🇳🇱 Joris
+  OTTEN\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej BENUS\n🇭🇷 Matija
+  MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇧🇷 Pedro
+  GONCALVES\n🇮🇹 Raffaello IVALDI\n🇹🇳 Salim JEMAI\n🇩🇪 Sideris
+  TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 男子カナディアンシングル予選2本目
+LOCATION:ノーティカル ST - ホワイトウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T133000Z-canoe-slalom-
+DTSTAMP:20240729T133000Z
+DTSTART:20240729T133000Z
+DTEND:20240729T142400Z
+DESCRIPTION:カヌー・スラローム - 男子カナディアンシングル準決勝\n🇬🇧 Adam BURGESS\n🇨🇦 Alex
+  BALDONI\n🇸🇮 Benjamin SAVSEK\n🇺🇸 Casey EICHFELD\n🇵🇱 Grzegorz
+  HEDWIG\n🇯🇵 HANEDA Takuya\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰 Matej
+  BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas GESTIN\n🇮🇹
+  Raffaello IVALDI\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves
+  BOURHIS
+SUMMARY:🛶 男子カナディアンシングル準決勝
+LOCATION:ノーティカル ST - ホワイトウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T152000Z-canoe-slalom-
+DTSTAMP:20240729T152000Z
+DTSTART:20240729T152000Z
+DTEND:20240729T160400Z
+DESCRIPTION:カヌー・スラローム - 男子カナディアンシングル決勝\n🇬🇧 Adam BURGESS\n🇸🇮 Benjamin
+  SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰
+  Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas
+  GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 男子カナディアンシングル決勝
+LOCATION:ノーティカル ST - ホワイトウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T133000Z-canoe-slalom-
+DTSTAMP:20240802T133000Z
+DTSTART:20240802T133000Z
+DTEND:20240802T142700Z
+DESCRIPTION:カヌー・スラローム - 男子カヤッククロス・タイムトライアル\n🇬🇧 Adam BURGESS\n🇨🇦 Alex
+  BALDONI\n🏳️ Amir REZANEJAD\n🇰🇲 Andy BARAT\n🇸🇮 Benjamin SAVSEK\n🇫🇷
+  Boris NEVEU\n🇺🇸 Casey EICHFELD\n🇦🇹 Felix OSCHMAUTZ\n🇳🇿 Finn
+  BUTCHER\n🇮🇹 Giovanni de GENNARO\n🇵🇱 Grzegorz HEDWIG\n🇸🇪 Isak
+  OHRSTROM\n🇸🇰 Jakub GRIGAR\n🇨🇿 Jiri PRSKAVEC\n🇳🇱 Joris OTTEN\n🇬🇧
+  Joseph CLARKE\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇪🇸 Manuel OCHOA\n🇨🇭
+  Martin DOUGOUD\n🇸🇰 Matej BENUS\n🇵🇱 Mateusz POLACZYK\n🇲🇦 Mathis
+  SOUDI\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇩🇪 Noah HEGGE\n🇮🇪 Noel
+  HENDRICK\n🇧🇷 Pedro GONCALVES\n🇸🇮 Peter KAUZER\n🇨🇳 QUAN Xin\n🇹🇳
+  Salim JEMAI\n🇩🇪 Stefan HENGST\n🇯🇵 TANAKA Yuuki\n🇦🇺 Timothy
+  ANDERSON\n🇫🇷 Titouan CASTRYCK\n🇦🇺 Tristan CARTER\n🇹🇼 WU
+  Shao-Hsuan\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 男子カヤッククロス・タイムトライアル
+LOCATION:ノーティカル ST - ホワイトウォーター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T144000Z-canoe-slalom-1
 DTSTAMP:20240803T144000Z
 DTSTART:20240803T144000Z

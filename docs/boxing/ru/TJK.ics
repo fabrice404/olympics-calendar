@@ -4,6 +4,42 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ru/TJK//EN
 X-WR-CALNAME:🇹🇯 Tajikistan Бокс | Paris 2024
 NAME:🇹🇯 Tajikistan Бокс | Paris 2024
 BEGIN:VEVENT
+UID:20240727T150600Z-boxing--116-635--TJK-BUL
+DTSTAMP:20240727T150600Z
+DTSTART:20240727T150600Z
+DTEND:20240727T151700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 63,5кг (м)
+SUMMARY:🥊 Bakhodur USMONOV 🇹🇯 - 🇧🇬 Radoslav Simeonov ROSENOV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T184800Z-boxing--18-92--GEO-TJK
+DTSTAMP:20240728T184800Z
+DTSTART:20240728T184800Z
+DTEND:20240728T185900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 92кг (м)
+SUMMARY:🥊 Georgii KUSHITASHVILI 🇬🇪 - 🇹🇯 Davlat BOLTAEV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T153800Z-boxing--116-57--USA-TJK
+DTSTAMP:20240730T153800Z
+DTSTART:20240730T153800Z
+DTEND:20240730T154900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 57кг (ж)
+SUMMARY:🥊 Alyssa MENDOZA 🇺🇸 - 🇹🇯 Mijgona SAMADOVA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T200800Z-boxing--92--IRL-TJK
+DTSTAMP:20240801T200800Z
+DTSTART:20240801T200800Z
+DTEND:20240801T201900Z
+DESCRIPTION:Бокс - Четвертьфинал, до 92кг (м)
+SUMMARY:🥊 Jack MARLEY 🇮🇪 - 🇹🇯 Davlat BOLTAEV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T153800Z-boxing--92--UZB-TJK
 DTSTAMP:20240804T153800Z
 DTSTART:20240804T153800Z

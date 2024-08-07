@@ -4,6 +4,39 @@ PRODID:-//fabrice404//olympics-calendar//athletics/EGY//EN
 X-WR-CALNAME:🇪🇬 Egypt Athletics | Paris 2024
 NAME:🇪🇬 Egypt Athletics | Paris 2024
 BEGIN:VEVENT
+UID:20240802T081000Z-athletics-MENS-HAMMER-THROW-QUALIFICATION-GROUP-A
+DTSTAMP:20240802T081000Z
+DTSTART:20240802T081000Z
+DTEND:20240802T090600Z
+DESCRIPTION:Athletics - Men's Hammer Throw Qualification - Group A\n🇺🇸
+  Daniel HAUGH\n🇭🇺 Donat VARGA\n🇨🇱 Humberto MANSILLA\n🇭🇷 Matija
+  GREGURIC\n🇬🇷 Michail ANASTASAKIS\n🇪🇬 Mostafa ELGAMEL\n🇺🇦 Mykhaylo
+  KOKHAN\n🇨🇿 Patrik HAJEK\n🇸🇪 Ragnar CARLSSON\n🇨🇦 Rowan
+  HAMILTON\n🇲🇩 Serghei MARGHIEV\n🇩🇪 Soeren KLOSE\n🇳🇴 Thomas
+  MARDAL\n🇨🇳 WANG Qi\n🇵🇱 Wojciech NOWICKI\n🇫🇷 Yann CHAUSSINAND
+SUMMARY:🏃 Men's Hammer Throw Qualification - Group A
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T181000Z-athletics-MENS-SHOT-PUT-QUALIFICATION
+DTSTAMP:20240802T181000Z
+DTSTART:20240802T181000Z
+DTEND:20240802T185800Z
+DESCRIPTION:Athletics - Men's Shot Put Qualification\n🇷🇴 Andrei Rares
+  TOADER\n🇷🇸 Armin SINANCEVIC\n🇱🇺 Bob BERTEMES\n🇳🇬 Chukwuebuka
+  Cornnell ENEKWECHI\n🇮🇪 Eric FAVORS\n🇭🇷 Filip MIHALJEVIC\n🇵🇹
+  Francisco BELO\n🇳🇿 Jacko GILL\n🇺🇸 Joe KOVACS\n🇵🇱 Konrad
+  BUKOWIECKI\n🇿🇦 Kyle BLIGNAUT\n🇮🇹 Leonardo FABBRI\n🇳🇴 Marcus
+  THOMSEN\n🇧🇦 Mesud PEZER\n🇵🇱 Michal HARATYK\n🇸🇦 Mohamed Daouda
+  TOLO\n🇪🇬 Mohamed KHALIFA\n🇪🇬 Mostafa Amr HASSAN\n🇦🇷 Nazareno
+  SASIA\n🇺🇸 Payton OTTERDAHL\n🇯🇲 Rajindra CAMPBELL\n🇺🇦 Roman
+  KOKOSHKO\n🇺🇸 Ryan CROUSER\n🇬🇧 Scott LINCOLN\n🇮🇳 Tajinderpal Singh
+  TOOR\n🇳🇿 Tom WALSH\n🇨🇿 Tomas STANEK\n🇵🇹 Tsanko ARNAUDOV\n🇲🇽 Uziel
+  MUNOZ\n🇧🇷 Welington MORAIS\n🇮🇹 Zane WEIR
+SUMMARY:🏃 Men's Shot Put Qualification
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T082000Z-athletics-MENS-JAVELIN-THROW-QUALIFICATION-GROUP-A
 DTSTAMP:20240806T082000Z
 DTSTART:20240806T082000Z

@@ -4,6 +4,24 @@ PRODID:-//fabrice404//olympics-calendar//volleyball/ru/TUR//EN
 X-WR-CALNAME:🇹🇷 Türkiye Волейбол | Paris 2024
 NAME:🇹🇷 Türkiye Волейбол | Paris 2024
 BEGIN:VEVENT
+UID:20240729T070000Z-volleyball--C--TUR-NED
+DTSTAMP:20240729T070000Z
+DTSTART:20240729T070000Z
+DTEND:20240729T091500Z
+DESCRIPTION:Волейбол - Групповой этап - Группа C (ж)
+SUMMARY:🏐 Турция 🇹🇷 - 🇳🇱 Нидерланды
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T070000Z-volleyball--C--TUR-DOM
+DTSTAMP:20240801T070000Z
+DTSTART:20240801T070000Z
+DTEND:20240801T091500Z
+DESCRIPTION:Волейбол - Групповой этап - Группа C (ж)
+SUMMARY:🏐 Турция 🇹🇷 - 🇩🇴 Доминиканская Респ.
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T070000Z-volleyball--C--ITA-TUR
 DTSTAMP:20240804T070000Z
 DTSTART:20240804T070000Z

@@ -4,6 +4,42 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ru/UKR//EN
 X-WR-CALNAME:🇺🇦 Ukraine Бокс | Paris 2024
 NAME:🇺🇦 Ukraine Бокс | Paris 2024
 BEGIN:VEVENT
+UID:20240729T145000Z-boxing--18-92--AUS-UKR
+DTSTAMP:20240729T145000Z
+DTSTART:20240729T145000Z
+DTEND:20240729T150100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, свыше 92кг (м)
+SUMMARY:🥊 Teremoana TEREMOANA 🇦🇺 - 🇺🇦 Dmytro LOVCHYNSKYI
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T183200Z-boxing--18-80--UKR-HUN
+DTSTAMP:20240730T183200Z
+DTSTART:20240730T183200Z
+DTEND:20240730T184300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 80кг (м)
+SUMMARY:🥊 Oleksandr KHYZHNIAK 🇺🇦 - 🇭🇺 Pylyp AKILOV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T183200Z-boxing--18-57--UKR-BUL
+DTSTAMP:20240731T183200Z
+DTSTART:20240731T183200Z
+DTEND:20240731T184300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 57кг (м)
+SUMMARY:🥊 Aider ABDURAIMOV 🇺🇦 - 🇧🇬 Javier IBANEZ DIAZ
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T193600Z-boxing--80--UKR-BRA
+DTSTAMP:20240802T193600Z
+DTSTART:20240802T193600Z
+DTEND:20240802T194700Z
+DESCRIPTION:Бокс - Четвертьфинал, до 80кг (м)
+SUMMARY:🥊 Oleksandr KHYZHNIAK 🇺🇦 - 🇧🇷 Wanderley de SOUZA PEREIRA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T152200Z-boxing--80--UKR-CUB
 DTSTAMP:20240804T152200Z
 DTSTART:20240804T152200Z

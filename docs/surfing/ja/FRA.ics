@@ -4,6 +4,109 @@ PRODID:-//fabrice404//olympics-calendar//surfing/ja/FRA//EN
 X-WR-CALNAME:🇫🇷 France サーフィン | Paris 2024
 NAME:🇫🇷 France サーフィン | Paris 2024
 BEGIN:VEVENT
+UID:20240727T173600Z-surfing-1-2
+DTSTAMP:20240727T173600Z
+DTSTART:20240727T173600Z
+DTEND:20240727T180600Z
+DESCRIPTION:サーフィン - 男子第1ラウンド - 第2ヒート\n🇦🇺 Jack ROBINSON\n🇫🇷 Joan
+  DURU\n🇿🇦 Matthew McGILLIVRAY
+SUMMARY:🏄 男子第1ラウンド - 第2ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T203600Z-surfing-1-7
+DTSTAMP:20240727T203600Z
+DTSTART:20240727T203600Z
+DTEND:20240727T210600Z
+DESCRIPTION:サーフィン - 男子第1ラウンド - 第7ヒート\n🇺🇸 Griffin COLAPINTO\n🇫🇷 Kauli
+  VAAST\n🇵🇪 Lucca MESINAS
+SUMMARY:🏄 男子第1ラウンド - 第7ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T222400Z-surfing-1-2
+DTSTAMP:20240727T222400Z
+DTSTART:20240727T222400Z
+DTEND:20240727T225400Z
+DESCRIPTION:サーフィン - 女子第1ラウンド - 第2ヒート\n🇪🇸 Janire GONZALEZ ETXABARRI\n🇵🇪
+  Sol AGUIRRE\n🇫🇷 Vahine FIERRO
+SUMMARY:🏄 女子第1ラウンド - 第2ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T001200Z-surfing-1-5
+DTSTAMP:20240728T001200Z
+DTSTART:20240728T001200Z
+DTEND:20240728T004200Z
+DESCRIPTION:サーフィン - 女子第1ラウンド - 第5ヒート\n🇨🇷 Brisa HENNESSY\n🇳🇮 Candelaria
+  RESANO\n🇫🇷 Johanne DEFAY
+SUMMARY:🏄 女子第1ラウンド - 第5ヒート
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T184800Z-surfing-2-4-FRA-AUS
+DTSTAMP:20240728T184800Z
+DTSTART:20240728T184800Z
+DTEND:20240728T191800Z
+DESCRIPTION:サーフィン - 女子第2ラウンド - 第4ヒート
+SUMMARY:🏄 Johanne DEFAY 🇫🇷 - 🇦🇺 Molly PICKLUM
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T234600Z-surfing-2-4-FRA-RSA
+DTSTAMP:20240728T234600Z
+DTSTART:20240728T234600Z
+DTEND:20240729T001600Z
+DESCRIPTION:サーフィン - 男子第2ラウンド - 第4ヒート
+SUMMARY:🏄 Kauli VAAST 🇫🇷 - 🇿🇦 Matthew McGILLIVRAY
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T181200Z-surfing-3-3-FRA-USA
+DTSTAMP:20240729T181200Z
+DTSTART:20240729T181200Z
+DTEND:20240729T184200Z
+DESCRIPTION:サーフィン - 男子第3ラウンド - 第3ヒート
+SUMMARY:🏄 Kauli VAAST 🇫🇷 - 🇺🇸 Griffin COLAPINTO
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T184800Z-surfing-3-4-FRA-MEX
+DTSTAMP:20240729T184800Z
+DTSTART:20240729T184800Z
+DTEND:20240729T191800Z
+DESCRIPTION:サーフィン - 男子第3ラウンド - 第4ヒート
+SUMMARY:🏄 Joan DURU 🇫🇷 - 🇲🇽 Alan CLELAND QUINONEZ
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T181200Z-surfing-3-3-FRA-FRA
+DTSTAMP:20240801T181200Z
+DTSTART:20240801T181200Z
+DTEND:20240801T184200Z
+DESCRIPTION:サーフィン - 女子第3ラウンド - 第3ヒート
+SUMMARY:🏄 Johanne DEFAY 🇫🇷 - 🇫🇷 Vahine FIERRO
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T222400Z-surfing--2-FRA-FRA
+DTSTAMP:20240801T222400Z
+DTSTART:20240801T222400Z
+DTEND:20240801T225400Z
+DESCRIPTION:サーフィン - 男子準々決勝 - 第2ヒート
+SUMMARY:🏄 Kauli VAAST 🇫🇷 - 🇫🇷 Joan DURU
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T004800Z-surfing--2-FRA-USA
+DTSTAMP:20240802T004800Z
+DTSTART:20240802T004800Z
+DTEND:20240802T011800Z
+DESCRIPTION:サーフィン - 女子準々決勝 - 第2ヒート
+SUMMARY:🏄 Johanne DEFAY 🇫🇷 - 🇺🇸 Carissa MOORE
+LOCATION:タウポ、タヒチ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T203000Z-surfing--1-FRA-PER
 DTSTAMP:20240805T203000Z
 DTSTART:20240805T203000Z

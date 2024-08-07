@@ -4,6 +4,105 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ru/CHN//EN
 X-WR-CALNAME:🇨🇳 China Бокс | Paris 2024
 NAME:🇨🇳 China Бокс | Paris 2024
 BEGIN:VEVENT
+UID:20240728T100400Z-boxing--18-92--ESP-CHN
+DTSTAMP:20240728T100400Z
+DTSTART:20240728T100400Z
+DTEND:20240728T101500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 92кг (м)
+SUMMARY:🥊 Enmanuel REYES PLA 🇪🇸 - 🇨🇳 HAN Xuezhen
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T090000Z-boxing--18-60--CHN-VIE
+DTSTAMP:20240729T090000Z
+DTSTART:20240729T090000Z
+DTEND:20240729T091100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 60кг (ж)
+SUMMARY:🥊 YANG Wenlu 🇨🇳 - 🇻🇳 Thi Linh HA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T094800Z-boxing--18-80--CHN-DOM
+DTSTAMP:20240730T094800Z
+DTSTART:20240730T094800Z
+DTEND:20240730T095900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 80кг (м)
+SUMMARY:🥊 TUOHETAERBIEKE Tanglatihan 🇨🇳 - 🇩🇴 Cristian Javier PINALES
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T103600Z-boxing--18-54--IRL-CHN
+DTSTAMP:20240730T103600Z
+DTSTART:20240730T103600Z
+DTEND:20240730T104700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 54кг (ж)
+SUMMARY:🥊 Jennifer LEHANE 🇮🇪 - 🇨🇳 CHANG Yuan
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T200800Z-boxing--116-57--CHN-ITA
+DTSTAMP:20240730T200800Z
+DTSTART:20240730T200800Z
+DTEND:20240730T201900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 57кг (ж)
+SUMMARY:🥊 XU Zichun 🇨🇳 - 🇮🇹 Irma TESTA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T100400Z-boxing--18-75--CHN-PHI
+DTSTAMP:20240731T100400Z
+DTSTART:20240731T100400Z
+DTEND:20240731T101500Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 75кг (ж)
+SUMMARY:🥊 LI Qian 🇨🇳 - 🇵🇭 Hergie BACYADAN
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T110800Z-boxing--60--CHN-SRB
+DTSTAMP:20240731T110800Z
+DTSTART:20240731T110800Z
+DTEND:20240731T111900Z
+DESCRIPTION:Бокс - Четвертьфинал, до 60кг (ж)
+SUMMARY:🥊 YANG Wenlu 🇨🇳 - 🇷🇸 Natalia SHADRINA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T090000Z-boxing--18-50--CHN-IND
+DTSTAMP:20240801T090000Z
+DTSTART:20240801T090000Z
+DTEND:20240801T091100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 50кг (ж)
+SUMMARY:🥊 WU Yu 🇨🇳 - 🇮🇳 Zareen NIKHAT
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T103600Z-boxing--54--BUL-CHN
+DTSTAMP:20240801T103600Z
+DTSTART:20240801T103600Z
+DTEND:20240801T104700Z
+DESCRIPTION:Бокс - Четвертьфинал, до 54кг (ж)
+SUMMARY:🥊 Stanimira PETROVA 🇧🇬 - 🇨🇳 CHANG Yuan
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T184800Z-boxing--18-66--MOZ-CHN
+DTSTAMP:20240801T184800Z
+DTSTART:20240801T184800Z
+DTEND:20240801T185900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 66кг (ж)
+SUMMARY:🥊 Alcinda Lucas dos SANTOS 🇲🇿 - 🇨🇳 YANG Liu
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T181600Z-boxing--18-57--CHN-COL
+DTSTAMP:20240802T181600Z
+DTSTART:20240802T181600Z
+DTEND:20240802T182700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 57кг (ж)
+SUMMARY:🥊 XU Zichun 🇨🇳 - 🇨🇴 Valeria ARBOLEDA MENDOZA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T143400Z-boxing--50--CHN-THA
 DTSTAMP:20240803T143400Z
 DTSTART:20240803T143400Z

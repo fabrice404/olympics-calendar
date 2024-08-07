@@ -4,6 +4,33 @@ PRODID:-//fabrice404//olympics-calendar//water-polo/ja/MNE//EN
 X-WR-CALNAME:🇲🇪 Montenegro 水球 | Paris 2024
 NAME:🇲🇪 Montenegro 水球 | Paris 2024
 BEGIN:VEVENT
+UID:20240728T143500Z-water-polo--A-CRO-MNE
+DTSTAMP:20240728T143500Z
+DTSTART:20240728T143500Z
+DTEND:20240728T160000Z
+DESCRIPTION:水球 - 男子予選ラウンド - グループA
+SUMMARY:🤽 クロアチア 🇭🇷 - 🇲🇪 モンテネグロ
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T173000Z-water-polo--A-MNE-GRE
+DTSTAMP:20240730T173000Z
+DTSTART:20240730T173000Z
+DTEND:20240730T185500Z
+DESCRIPTION:水球 - 男子予選ラウンド - グループA
+SUMMARY:🤽 モンテネグロ 🇲🇪 - 🇬🇷 ギリシャ
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T143500Z-water-polo--A-ITA-MNE
+DTSTAMP:20240801T143500Z
+DTSTART:20240801T143500Z
+DTEND:20240801T160000Z
+DESCRIPTION:水球 - 男子予選ラウンド - グループA
+SUMMARY:🤽 イタリア 🇮🇹 - 🇲🇪 モンテネグロ
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T143500Z-water-polo--A-MNE-USA
 DTSTAMP:20240803T143500Z
 DTSTART:20240803T143500Z

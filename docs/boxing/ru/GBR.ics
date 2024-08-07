@@ -4,6 +4,60 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ru/GBR//EN
 X-WR-CALNAME:🇬🇧 Great Britain Бокс | Paris 2024
 NAME:🇬🇧 Great Britain Бокс | Paris 2024
 BEGIN:VEVENT
+UID:20240727T180000Z-boxing--116-54--GBR-TUR
+DTSTAMP:20240727T180000Z
+DTSTART:20240727T180000Z
+DTEND:20240727T181100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 54кг (ж)
+SUMMARY:🥊 Charley DAVISON 🇬🇧 - 🇹🇷 Hatice AKBAS
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T105200Z-boxing--116-66--GBR-POL
+DTSTAMP:20240728T105200Z
+DTSTART:20240728T105200Z
+DTEND:20240728T110300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 66кг (ж)
+SUMMARY:🥊 Rosie ECCLES 🇬🇧 - 🇵🇱 Aneta RYGIELSKA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T181600Z-boxing--18-92--GBR-BRA
+DTSTAMP:20240728T181600Z
+DTSTART:20240728T181600Z
+DTEND:20240728T182700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 92кг (м)
+SUMMARY:🥊 Patrick James BROWN 🇬🇧 - 🇧🇷 Keno Marley MACHADO
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T193600Z-boxing--18-92--ARM-GBR
+DTSTAMP:20240729T193600Z
+DTSTART:20240729T193600Z
+DTEND:20240729T194700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, свыше 92кг (м)
+SUMMARY:🥊 Davit CHALOYAN 🇦🇲 - 🇬🇧 Delicious ORIE
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T105200Z-boxing--18-75--GBR-MAR
+DTSTAMP:20240731T105200Z
+DTSTART:20240731T105200Z
+DTEND:20240731T110300Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 75кг (ж)
+SUMMARY:🥊 Chantelle Jordan REID 🇬🇧 - 🇲🇦 Khadija MARDI
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T184800Z-boxing--18-71--GBR-SRB
+DTSTAMP:20240731T184800Z
+DTSTART:20240731T184800Z
+DTEND:20240731T185900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 71кг (м)
+SUMMARY:🥊 Lewis RICHARDSON 🇬🇧 - 🇷🇸 Vakhid ABBASOV
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T183200Z-boxing--71--JOR-GBR
 DTSTAMP:20240803T183200Z
 DTSTART:20240803T183200Z

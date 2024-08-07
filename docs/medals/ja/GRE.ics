@@ -4,6 +4,101 @@ PRODID:-//fabrice404//olympics-calendar//medals/ja/GRE//EN
 X-WR-CALNAME:🇬🇷 Greece 🏅 | Paris 2024
 NAME:🇬🇷 Greece 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240729T192700Z-swimming-100M
+DTSTAMP:20240729T192700Z
+DTSTART:20240729T192700Z
+DTEND:20240729T193400Z
+DESCRIPTION:競泳 - 男子100m背泳ぎ決勝\n🇬🇷 Apostolos CHRISTOU\n🇪🇸 Hugo GONZALEZ
+  de OLIVEIRA\n🇬🇧 Oliver MORGAN\n🇿🇦 Pieter COETZE\n🇺🇸 Ryan
+  MURPHY\n🇮🇹 Thomas CECCON\n🇨🇳 XU Jiayu\n🇫🇷 Yohann NDOYE-BROUARD
+SUMMARY:🏊 男子100m背泳ぎ決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T151200Z-judo-90KG3B-GRE-ESP
+DTSTAMP:20240731T151200Z
+DTSTART:20240731T151200Z
+DTEND:20240731T151800Z
+DESCRIPTION:柔道 - 男子90kg級3位決定戦B
+SUMMARY:🥋 Theodoros TSELIDIS 🇬🇷 - 🇪🇸 Tristani MOSAKHLISHVILI
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T075000Z-athletics-20KM
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
+DESCRIPTION:陸上競技 - 女子20km競歩決勝\n🇲🇽 Alegna GONZALEZ\n🇲🇽 Alejandra
+  ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹 Antonella
+  PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸 Cristina
+  MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica
+  SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨
+  Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima
+  MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇨🇳 LIU
+  Hong\n🇪🇸 Laura GARCIA-CARO\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila
+  OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria
+  KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz
+  ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳
+  PRIYANKA\n🇪🇨 Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de
+  ORBETA\n🇦🇺 Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹
+  Valentina TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷
+  Viviane LYRA\n🇨🇳 YANG Jiayu
+SUMMARY:🏃 女子20km競歩決勝
+LOCATION:トロカベロ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T183800Z-swimming-200M
+DTSTAMP:20240801T183800Z
+DTSTART:20240801T183800Z
+DTEND:20240801T184600Z
+DESCRIPTION:競泳 - 男子200m背泳ぎ決勝\n🇬🇷 Apostolos CHRISTOU\n🇭🇺 Hubert
+  KOS\n🇪🇸 Hugo GONZALEZ de OLIVEIRA\n🇺🇸 Keaton JONES\n🇩🇪 Lukas
+  MAERTENS\n🇫🇷 Mewen TOMAC\n🇿🇦 Pieter COETZE\n🇨🇭 Roman MITYUKOV
+SUMMARY:🏊 男子200m背泳ぎ決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T094200Z-rowing-A
+DTSTAMP:20240802T094200Z
+DTSTART:20240802T094200Z
+DTEND:20240802T094900Z
+DESCRIPTION:ローイング - 女子ペア決勝A\n🇺🇸 アメリカ合衆国\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇬🇷
+  ギリシャ\n🇱🇹 リトアニア\n🇷🇴 ルーマニア
+SUMMARY:🚣 女子ペア決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T100200Z-rowing-A
+DTSTAMP:20240802T100200Z
+DTSTART:20240802T100200Z
+DTEND:20240802T100900Z
+DESCRIPTION:ローイング - 男子軽量級ダブルスカル決勝A\n🇮🇪 アイルランド\n🇮🇹 イタリア\n🇬🇷 ギリシャ\n🇨🇭
+  スイス\n🇨🇿 チェコ\n🇳🇴 ノルウェー
+SUMMARY:🚣 男子軽量級ダブルスカル決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T102200Z-rowing-A
+DTSTAMP:20240802T102200Z
+DTSTART:20240802T102200Z
+DTEND:20240802T102900Z
+DESCRIPTION:ローイング - 女子軽量級ダブルスカル決勝A\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇬🇷
+  ギリシャ\n🇳🇿 ニュージーランド\n🇷🇴 ルーマニア\n🇬🇧 英国
+SUMMARY:🚣 女子軽量級ダブルスカル決勝A
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T183000Z-swimming-50M
+DTSTAMP:20240802T183000Z
+DTSTART:20240802T183000Z
+DTEND:20240802T183700Z
+DESCRIPTION:競泳 - 男子50m自由形決勝\n🇬🇧 Benjamin PROUD\n🇺🇸 Caeleb DRESSEL\n🇦🇺
+  Cameron McEVOY\n🇫🇷 Florent MANAUDOU\n🇰🇾 Jordan CROOKS\n🇨🇦 Josh
+  LIENDO\n🇬🇷 Kristian GKOLOMEEV\n🇮🇹 Leonardo DEPLANO
+SUMMARY:🏊 男子50m自由形決勝
+LOCATION:パリ・ラ・デファンス・アレナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
@@ -132,11 +227,11 @@ DTSTART:20240807T161500Z
 DTEND:20240807T193000Z
 DESCRIPTION:陸上競技 - 女子棒高跳決勝\n🇬🇷 Aikaterini STEFANIDI\n🇨🇦 Alysha
   NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica MOSER\n🇩🇪 Anjuli
-  KNAESCHE\n🇬🇷 Ariadni ADAMOPOULOU\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa
-  MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇳🇿 Imogen AYRIS\n🇺🇸 Katie
-  MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇦🇺 Nina
-  KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇳🇿 Olivia McTAGGART\n🇻🇪 Robeilys
-  PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
+  KNAESCHE\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza
+  McCARTNEY\n🇳🇿 Imogen AYRIS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud
+  RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon
+  CHAPELLE\n🇳🇿 Olivia McTAGGART\n🇻🇪 Robeilys PEINADO\n🇮🇹 Roberta
+  BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
 SUMMARY:🏃 女子棒高跳決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT

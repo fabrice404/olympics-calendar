@@ -4,6 +4,114 @@ PRODID:-//fabrice404//olympics-calendar//3x3-basketball/ja/FRA//EN
 X-WR-CALNAME:🇫🇷 France 3x3 バスケットボール | Paris 2024
 NAME:🇫🇷 France 3x3 バスケットボール | Paris 2024
 BEGIN:VEVENT
+UID:20240730T193000Z-3x3-basketball--FRA-CHN
+DTSTAMP:20240730T193000Z
+DTSTART:20240730T193000Z
+DTEND:20240730T195500Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 フランス 🇫🇷 - 🇨🇳 中国
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T200500Z-3x3-basketball--POL-FRA
+DTSTAMP:20240730T200500Z
+DTSTART:20240730T200500Z
+DTEND:20240730T203000Z
+DESCRIPTION:3x3 バスケットボール - 男子予選ラウンド
+SUMMARY:🏀 ポーランド 🇵🇱 - 🇫🇷 フランス
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T190000Z-3x3-basketball--FRA-ESP
+DTSTAMP:20240731T190000Z
+DTSTART:20240731T190000Z
+DTEND:20240731T192500Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 フランス 🇫🇷 - 🇪🇸 スペイン
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T200500Z-3x3-basketball--LTU-FRA
+DTSTAMP:20240731T200500Z
+DTSTART:20240731T200500Z
+DTEND:20240731T203000Z
+DESCRIPTION:3x3 バスケットボール - 男子予選ラウンド
+SUMMARY:🏀 リトアニア 🇱🇹 - 🇫🇷 フランス
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T103000Z-3x3-basketball--AZE-FRA
+DTSTAMP:20240801T103000Z
+DTSTART:20240801T103000Z
+DTEND:20240801T105500Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 アゼルバイジャン 🇦🇿 - 🇫🇷 フランス
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T120500Z-3x3-basketball--NED-FRA
+DTSTAMP:20240801T120500Z
+DTSTART:20240801T120500Z
+DTEND:20240801T123000Z
+DESCRIPTION:3x3 バスケットボール - 男子予選ラウンド
+SUMMARY:🏀 オランダ 🇳🇱 - 🇫🇷 フランス
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T200000Z-3x3-basketball--CAN-FRA
+DTSTAMP:20240801T200000Z
+DTSTART:20240801T200000Z
+DTEND:20240801T202500Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 カナダ 🇨🇦 - 🇫🇷 フランス
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T203500Z-3x3-basketball--SRB-FRA
+DTSTAMP:20240801T203500Z
+DTSTART:20240801T203500Z
+DTEND:20240801T210000Z
+DESCRIPTION:3x3 バスケットボール - 男子予選ラウンド
+SUMMARY:🏀 セルビア 🇷🇸 - 🇫🇷 フランス
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T110000Z-3x3-basketball--USA-FRA
+DTSTAMP:20240802T110000Z
+DTSTART:20240802T110000Z
+DTEND:20240802T112500Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 アメリカ合衆国 🇺🇸 - 🇫🇷 フランス
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T120500Z-3x3-basketball--FRA-LAT
+DTSTAMP:20240802T120500Z
+DTSTART:20240802T120500Z
+DTEND:20240802T123000Z
+DESCRIPTION:3x3 バスケットボール - 男子予選ラウンド
+SUMMARY:🏀 フランス 🇫🇷 - 🇱🇻 ラトビア
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T163500Z-3x3-basketball--FRA-USA
+DTSTAMP:20240802T163500Z
+DTSTART:20240802T163500Z
+DTEND:20240802T170000Z
+DESCRIPTION:3x3 バスケットボール - 男子予選ラウンド
+SUMMARY:🏀 フランス 🇫🇷 - 🇺🇸 アメリカ合衆国
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T193000Z-3x3-basketball--FRA-GER
+DTSTAMP:20240802T193000Z
+DTSTART:20240802T193000Z
+DTEND:20240802T195500Z
+DESCRIPTION:3x3 バスケットボール - 女子予選ラウンド
+SUMMARY:🏀 フランス 🇫🇷 - 🇩🇪 ドイツ
+LOCATION:コンコルド広場1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T163500Z-3x3-basketball--FRA-AUS
 DTSTAMP:20240803T163500Z
 DTSTART:20240803T163500Z

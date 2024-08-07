@@ -4,6 +4,84 @@ PRODID:-//fabrice404//olympics-calendar//medals/HKG//EN
 X-WR-CALNAME:🇭🇰 Hong Kong 🏅 | Paris 2024
 NAME:🇭🇰 Hong Kong 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240727T193000Z-fencing-WOMENS-PE-INDIVIDUAL-GOLD-MEDAL-BOUT-FRA-HKG
+DTSTAMP:20240727T193000Z
+DTSTART:20240727T193000Z
+DTEND:20240727T195500Z
+DESCRIPTION:Fencing - Women's Épée Individual Gold Medal Bout
+SUMMARY:🤺 Auriane MALLO-BRETON 🇫🇷 - 🇭🇰 KONG Man Wai Vivian
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T195300Z-swimming-WOMENS-200M-FREESTYLE-FINAL
+DTSTAMP:20240729T195300Z
+DTSTART:20240729T195300Z
+DTEND:20240729T200100Z
+DESCRIPTION:Swimming - Women's 200m Freestyle Final\n🇦🇺 Ariarne
+  TITMUS\n🇨🇿 Barbora SEEMANOVA\n🇺🇸 Claire WEINSTEIN\n🇳🇿 Erika
+  FAIRWEATHER\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇨🇦 Mary-Sophie
+  HARVEY\n🇦🇺 Mollie O'CALLAGHAN\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 Women's 200m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T201000Z-fencing-MENS-FOIL-INDIVIDUAL-GOLD-MEDAL-BOUT-ITA-HKG
+DTSTAMP:20240729T201000Z
+DTSTART:20240729T201000Z
+DTEND:20240729T204000Z
+DESCRIPTION:Fencing - Men's Foil Individual Gold Medal Bout
+SUMMARY:🤺 Filippo MACCHI 🇮🇹 - 🇭🇰 CHEUNG Ka Long
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T113000Z-table-tennis-MIXED-DOUBLES-BRONZE-MEDAL-MATCH-KOR-HKG
+DTSTAMP:20240730T113000Z
+DTSTART:20240730T113000Z
+DTEND:20240730T123000Z
+DESCRIPTION:Table Tennis - Mixed Doubles Bronze Medal Match
+SUMMARY:🏓 LIM/SHIN 🇰🇷 - 🇭🇰 WONG/DOO
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T084500Z-triathlon-MENS-INDIVIDUAL
+DTSTAMP:20240731T084500Z
+DTSTART:20240731T084500Z
+DTEND:20240731T104500Z
+DESCRIPTION:Triathlon - Men's Individual\n🇨🇭 Adrien BRIFFOD\n🇪🇸 Alberto
+  GONZALEZ GARCIA\n🇮🇹 Alessio CROCIANI\n🇬🇧 Alex YEE\n🇦🇹 Alois
+  KNABL\n🇪🇸 Antonio SERRAT SEOANE\n🇲🇽 Aram Michell PENAFLOR
+  MOYSEN\n🇭🇺 Bence BICSAK\n🇨🇦 Charles PAQUET\n🇲🇽 Crisanto
+  GRAJALES\n🇭🇺 Csongor LEHMANN\n🇨🇱 Diego MOYA\n🇫🇷 Dorian CONINX\n🇳🇿
+  Dylan McCULLOUGH\n🇹🇬 Eloi ADJAVON\n🇩🇰 Emil HOLM\n🇷🇴 Felix
+  DUCHAMPT\n🇨🇱 Gaspar RIVEROS\n🇮🇹 Gianluca POZZATTI\n🇳🇿 Hayden
+  WILDE\n🇿🇦 Henri SCHOEMAN\n🇿🇦 Jamie RIDDLE\n🇲🇦 Jawad
+  ABDELMOULA\n🇲🇺 Jean Gael Laurent L'ENTETE\n🇧🇪 Jelle GEENS\n🇩🇪 Jonas
+  SCHOMBURG\n🇳🇴 Kristian BLUMMENFELT\n🇩🇪 Lasse LUEHRS\n🇫🇷 Leo
+  BERGERE\n🇦🇺 Luke WILLIAN\n🇧🇷 Manoel MESSIAS\n🇧🇪 Marten VAN
+  RIEL\n🇦🇺 Matthew HAUSER\n🇧🇧 Matthew WRIGHT\n🇨🇭 Max STUDER\n🇧🇷
+  Miguel HIDALGO\n🇳🇱 Mitch KOLKMAN\n🇺🇸 Morgan PEARSON\n🇯🇵 NENER
+  Kenji\n🇭🇰 NG Jason Tai Long\n🇯🇵 ODAKURA Makoto\n🇫🇷 Pierre le
+  CORRE\n🇵🇹 Ricardo BATISTA\n🇳🇱 Richard MURRAY\n🇪🇸 Roberto SANCHEZ
+  MANTECON\n🇦🇿 Rostislav PEVTSOV\n🇬🇧 Samuel DICKINSON\n🇺🇸 Seth
+  RIDER\n🇮🇱 Shachar SAGIV\n🇩🇪 Tim HELLWIG\n🇦🇹 Tjebbe KAINDL\n🇨🇦
+  Tyler MISLAWCHUK\n🇧🇲 Tyler SMITH\n🇵🇹 Vasco VILACA\n🇳🇴 Vetle
+  Bergsvik THORN
+SUMMARY:🏊 Men's Individual
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T183000Z-swimming-WOMENS-100M-FREESTYLE-FINAL
+DTSTAMP:20240731T183000Z
+DTSTART:20240731T183000Z
+DTEND:20240731T183700Z
+DESCRIPTION:Swimming - Women's 100m Freestyle Final\n🇺🇸 Gretchen
+  WALSH\n🇭🇰 HAUGHEY Siobhan Bernadette\n🇳🇱 Marrit STEENBERGEN\n🇦🇺
+  Mollie O'CALLAGHAN\n🇸🇪 Sarah SJOESTROEM\n🇦🇺 Shayna JACK\n🇺🇸 Torri
+  HUSKE\n🇨🇳 YANG Junxuan
+SUMMARY:🏊 Women's 100m Freestyle Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-MENS-ROAD-RACE
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z

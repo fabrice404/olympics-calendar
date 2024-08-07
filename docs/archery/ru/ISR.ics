@@ -62,4 +62,22 @@ DESCRIPTION:Стрельба из лука - Рейтинговый раунд, 
 SUMMARY:🏹 Рейтинговый раунд, индивидуальные (м)
 LOCATION:Дом инвалидов
 END:VEVENT
+BEGIN:VEVENT
+UID:20240731T115700Z-archery-132--ROU-ISR
+DTSTAMP:20240731T115700Z
+DTSTART:20240731T115700Z
+DTEND:20240731T121000Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (ж)
+SUMMARY:🏹 Madalina AMAISTROAIE 🇷🇴 - 🇮🇱 Mikaella MOSHE
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T133000Z-archery-132--NED-ISR
+DTSTAMP:20240801T133000Z
+DTSTART:20240801T133000Z
+DTEND:20240801T134300Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (м)
+SUMMARY:🏹 Steve WIJLER 🇳🇱 - 🇮🇱 Roy DROR
+LOCATION:Дом инвалидов
+END:VEVENT
 END:VCALENDAR

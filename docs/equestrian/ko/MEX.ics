@@ -4,6 +4,28 @@ PRODID:-//fabrice404//olympics-calendar//equestrian/ko/MEX//EN
 X-WR-CALNAME:🇲🇽 Mexico 승마 | Paris 2024
 NAME:🇲🇽 Mexico 승마 | Paris 2024
 BEGIN:VEVENT
+UID:20240801T090000Z-equestrian--
+DTSTAMP:20240801T090000Z
+DTSTART:20240801T090000Z
+DTEND:20240801T120000Z
+DESCRIPTION:승마 - 장애물 단체 예선\n🇳🇱 네덜란드\n🇩🇪 독일\n🇲🇽 멕시코\n🇺🇸 미국\n🇧🇪
+  벨기에\n🇧🇷 브라질\n🇸🇦 사우디 아라비아\n🇸🇪 스웨덴\n🇨🇭 스위스\n🇪🇸 스페인\n🇦🇪
+  아랍에미리트\n🇮🇪 아일랜드\n🇬🇧 영국\n🇦🇺 오스트레일리아\n🇦🇹 오스트리아\n🇮🇱 이스라엘\n🇯🇵
+  일본\n🇨🇦 캐나다\n🇵🇱 폴란드\n🇫🇷 프랑스
+SUMMARY:🏇 장애물 단체 예선
+LOCATION:샤토 드 베르사유
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T120000Z-equestrian--
+DTSTAMP:20240802T120000Z
+DTSTART:20240802T120000Z
+DTEND:20240802T134100Z
+DESCRIPTION:승마 - 장애물 단체 결승\n🇳🇱 네덜란드\n🇩🇪 독일\n🇲🇽 멕시코\n🇺🇸 미국\n🇧🇪
+  벨기에\n🇸🇪 스웨덴\n🇮🇪 아일랜드\n🇬🇧 영국\n🇮🇱 이스라엘\n🇫🇷 프랑스
+SUMMARY:🏇 장애물 단체 결승
+LOCATION:샤토 드 베르사유
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T120000Z-equestrian--
 DTSTAMP:20240805T120000Z
 DTSTART:20240805T120000Z

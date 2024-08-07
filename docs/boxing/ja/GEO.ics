@@ -4,6 +4,33 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ja/GEO//EN
 X-WR-CALNAME:🇬🇪 Georgia ボクシング | Paris 2024
 NAME:🇬🇪 Georgia ボクシング | Paris 2024
 BEGIN:VEVENT
+UID:20240728T184800Z-boxing-92KG-16-GEO-TJK
+DTSTAMP:20240728T184800Z
+DTSTART:20240728T184800Z
+DTEND:20240728T185900Z
+DESCRIPTION:ボクシング - 男子92kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Georgii KUSHITASHVILI 🇬🇪 - 🇹🇯 Davlat BOLTAEV
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T184800Z-boxing-635KG-16-GEO-AZE
+DTSTAMP:20240729T184800Z
+DTSTART:20240729T184800Z
+DTEND:20240729T185900Z
+DESCRIPTION:ボクシング - 男子63.5kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Lasha GURULI 🇬🇪 - 🇦🇿 Malik HASANOV
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T193600Z-boxing-635KG--GEO-KAZ
+DTSTAMP:20240801T193600Z
+DTSTART:20240801T193600Z
+DTEND:20240801T194700Z
+DESCRIPTION:ボクシング - 男子63.5kg級 - 準々決勝
+SUMMARY:🥊 Lasha GURULI 🇬🇪 - 🇰🇿 Bazarbay Uulu MUKHAMMEDSABYR
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T150600Z-boxing-635KG--CUB-GEO
 DTSTAMP:20240804T150600Z
 DTSTART:20240804T150600Z

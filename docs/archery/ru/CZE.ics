@@ -62,4 +62,31 @@ DESCRIPTION:Стрельба из лука - Рейтинговый раунд, 
 SUMMARY:🏹 Рейтинговый раунд, индивидуальные (м)
 LOCATION:Дом инвалидов
 END:VEVENT
+BEGIN:VEVENT
+UID:20240730T171600Z-archery-132--CZE-IND
+DTSTAMP:20240730T171600Z
+DTSTART:20240730T171600Z
+DTEND:20240730T172900Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (м)
+SUMMARY:🏹 Adam LI 🇨🇿 - 🇮🇳 Dhiraj BOMMADEVARA
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T130200Z-archery-132--CZE-UZB
+DTSTAMP:20240731T130200Z
+DTSTART:20240731T130200Z
+DTEND:20240731T131500Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (ж)
+SUMMARY:🏹 Marie HORACKOVA 🇨🇿 - 🇺🇿 Ziyodakhon ABDUSATTOROVA
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T134100Z-archery-116--CZE-KOR
+DTSTAMP:20240731T134100Z
+DTSTART:20240731T134100Z
+DTEND:20240731T135400Z
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (ж)
+SUMMARY:🏹 Marie HORACKOVA 🇨🇿 - 🇰🇷 NAM Suhyeon
+LOCATION:Дом инвалидов
+END:VEVENT
 END:VCALENDAR

@@ -62,4 +62,31 @@ DESCRIPTION:Стрельба из лука - Рейтинговый раунд, 
 SUMMARY:🏹 Рейтинговый раунд, индивидуальные (м)
 LOCATION:Дом инвалидов
 END:VEVENT
+BEGIN:VEVENT
+UID:20240730T103900Z-archery-132--MDA-MAS
+DTSTAMP:20240730T103900Z
+DTSTART:20240730T103900Z
+DTEND:20240730T105200Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (ж)
+SUMMARY:🏹 Alexandra MIRCA 🇲🇩 - 🇲🇾 Syaqiera MASHAYIKH
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T150100Z-archery-132--VIE-MDA
+DTSTAMP:20240801T150100Z
+DTSTART:20240801T150100Z
+DTEND:20240801T151400Z
+DESCRIPTION:Стрельба из лука - 1/32 финала, индивидуальные (м)
+SUMMARY:🏹 Quoc Phong le 🇻🇳 - 🇲🇩 Dan OLARU
+LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T154000Z-archery-116--COL-MDA
+DTSTAMP:20240801T154000Z
+DTSTART:20240801T154000Z
+DTEND:20240801T155300Z
+DESCRIPTION:Стрельба из лука - 1/16 финала, индивидуальные (м)
+SUMMARY:🏹 Santiago ARCILA 🇨🇴 - 🇲🇩 Dan OLARU
+LOCATION:Дом инвалидов
+END:VEVENT
 END:VCALENDAR

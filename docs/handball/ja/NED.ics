@@ -13,6 +13,33 @@ SUMMARY:🤾 オランダ 🇳🇱 - 🇦🇴 アンゴラ
 LOCATION:サウス・パリ・アリーナ6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240728T190000Z-handball--B-FRA-NED
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T203000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 フランス 🇫🇷 - 🇳🇱 オランダ
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T120000Z-handball--B-NED-ESP
+DTSTAMP:20240730T120000Z
+DTSTART:20240730T120000Z
+DTEND:20240730T133000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 オランダ 🇳🇱 - 🇪🇸 スペイン
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T070000Z-handball--B-NED-BRA
+DTSTAMP:20240801T070000Z
+DTSTART:20240801T070000Z
+DTEND:20240801T083000Z
+DESCRIPTION:ハンドボール - 女子予選ラウンド - グループB
+SUMMARY:🤾 オランダ 🇳🇱 - 🇧🇷 ブラジル
+LOCATION:サウス・パリ・アリーナ6
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T070000Z-handball--B-HUN-NED
 DTSTAMP:20240803T070000Z
 DTSTART:20240803T070000Z

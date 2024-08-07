@@ -4,6 +4,33 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ja/KOR//EN
 X-WR-CALNAME:🇰🇷 Korea ボクシング | Paris 2024
 NAME:🇰🇷 Korea ボクシング | Paris 2024
 BEGIN:VEVENT
+UID:20240727T145000Z-boxing-60KG-32-TPE-KOR
+DTSTAMP:20240727T145000Z
+DTSTART:20240727T145000Z
+DTEND:20240727T150100Z
+DESCRIPTION:ボクシング - 女子60kg級 - 予選 - ラウンド32
+SUMMARY:🥊 WU Shih Yi 🇹🇼 - 🇰🇷 OH Yeonji
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T193600Z-boxing-54KG-16-BRA-KOR
+DTSTAMP:20240730T193600Z
+DTSTART:20240730T193600Z
+DTEND:20240730T194700Z
+DESCRIPTION:ボクシング - 女子54kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Tatiana Regina de JESUS CHAGAS 🇧🇷 - 🇰🇷 IM Aeji
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T190400Z-boxing-54KG--KOR-COL
+DTSTAMP:20240801T190400Z
+DTSTART:20240801T190400Z
+DTEND:20240801T191500Z
+DESCRIPTION:ボクシング - 女子54kg級 - 準々決勝
+SUMMARY:🥊 IM Aeji 🇰🇷 - 🇨🇴 Yeni Marcela ARIAS CASTANEDA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T143400Z-boxing-54KG--TUR-KOR
 DTSTAMP:20240804T143400Z
 DTSTART:20240804T143400Z

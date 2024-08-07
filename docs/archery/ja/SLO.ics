@@ -61,4 +61,22 @@ DESCRIPTION:アーチェリー - 男子個人ランキングラウンド\n🇹�
 SUMMARY:🏹 男子個人ランキングラウンド
 LOCATION:アンヴァリッド
 END:VEVENT
+BEGIN:VEVENT
+UID:20240730T102600Z-archery-1-BRA-SLO
+DTSTAMP:20240730T102600Z
+DTSTART:20240730T102600Z
+DTEND:20240730T103900Z
+DESCRIPTION:アーチェリー - 女子個人1回戦
+SUMMARY:🏹 Ana Luiza SLIACHTICAS CAETANO 🇧🇷 - 🇸🇮 Zana PINTARIC
+LOCATION:アンヴァリッド
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T172400Z-archery-1-SLO-ITA
+DTSTAMP:20240801T172400Z
+DTSTART:20240801T172400Z
+DTEND:20240801T173700Z
+DESCRIPTION:アーチェリー - 男子個人1回戦
+SUMMARY:🏹 Ziga RAVNIKAR 🇸🇮 - 🇮🇹 Federico MUSOLESI
+LOCATION:アンヴァリッド
+END:VEVENT
 END:VCALENDAR

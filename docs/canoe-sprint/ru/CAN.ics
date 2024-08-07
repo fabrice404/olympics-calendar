@@ -222,4 +222,59 @@ DESCRIPTION:Гребной спринт - Каноэ-одиночки 200м, к�
 SUMMARY:🛶 Каноэ-одиночки 200м, квалификация (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T094000Z-canoe-sprint--500-1-
+DTSTAMP:20240808T094000Z
+DTSTART:20240808T094000Z
+DTEND:20240808T094700Z
+DESCRIPTION:Гребной спринт - Байдарки-четверки 500м, полуфинал 1 (ж)\n🇦🇺
+  Австралия\n🇨🇦 Канада\n🇳🇴 Норвегия\n🇷🇸 Сербия
+SUMMARY:🛶 Байдарки-четверки 500м, полуфинал 1 (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T095000Z-canoe-sprint--500-1-
+DTSTAMP:20240808T095000Z
+DTSTART:20240808T095000Z
+DTEND:20240808T095700Z
+DESCRIPTION:Гребной спринт - Байдарки-четверки 500м, полуфинал 1 (м)\n🇦🇺
+  Австралия\n🇪🇸 Испания\n🇨🇦 Канада\n🇷🇸 Сербия\n🇺🇦 Украина
+SUMMARY:🛶 Байдарки-четверки 500м, полуфинал 1 (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T084000Z-canoe-sprint--500-2-
+DTSTAMP:20240809T084000Z
+DTSTART:20240809T084000Z
+DTEND:20240809T084700Z
+DESCRIPTION:Гребной спринт - Каноэ-двойки 500м, полуфинал 2 (ж)\n🇲🇩
+  COCIU/OLARASU\n🇭🇺 KISS/NAGY\n🇺🇦 LUZAN/RYBACHOK\n🇨🇦
+  MACKENZIE/VINCENT\n🇫🇷 RENARD/DORANGE
+SUMMARY:🛶 Каноэ-двойки 500м, полуфинал 2 (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T085000Z-canoe-sprint--500-1-
+DTSTAMP:20240809T085000Z
+DTSTART:20240809T085000Z
+DTEND:20240809T085700Z
+DESCRIPTION:Гребной спринт - Байдарки-двойки 500м, полуфинал 1 (ж)\n🇲🇽
+  ALANIS MOR/BRIONES FR\n🇦🇺 BEERE/BULL\n🇭🇺 CSIPES/GAZSO\n🇵🇱
+  KLATT/WISNIEWSKA\n🇵🇱 NAJA/PULAWSKA\n🇧🇪 PETERS/BROEKX\n🇩🇪
+  ROEHLINGS/JAGSCH\n🇨🇦 STOTT/DAVISON
+SUMMARY:🛶 Байдарки-двойки 500м, полуфинал 1 (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T092000Z-canoe-sprint--500-2-
+DTSTAMP:20240809T092000Z
+DTSTART:20240809T092000Z
+DTEND:20240809T092700Z
+DESCRIPTION:Гребной спринт - Байдарки-двойки 500м, полуфинал 2 (м)\n🇪🇸
+  AREVALO/GERMADE\n🇷🇸 DZOMBETA/TORUBAROV\n🇷🇸 NOVAKOVIC/DRAGOSAVLJ\n🇨🇦
+  POULIN/McTAVISH\n🇩🇪 RENDSCHMID/LIEBSCHER-\n🇵🇹 RIBEIRO/BAPTISTA\n🇪🇸
+  del RIO/COOPER\n🇦🇺 van der WE/GREEN
+SUMMARY:🛶 Байдарки-двойки 500м, полуфинал 2 (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
 END:VCALENDAR

@@ -4,6 +4,51 @@ PRODID:-//fabrice404//olympics-calendar//volleyball/ja/FRA//EN
 X-WR-CALNAME:🇫🇷 France バレーボール | Paris 2024
 NAME:🇫🇷 France バレーボール | Paris 2024
 BEGIN:VEVENT
+UID:20240728T150000Z-volleyball--A-FRA-SRB
+DTSTAMP:20240728T150000Z
+DTSTART:20240728T150000Z
+DTEND:20240728T171500Z
+DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 フランス 🇫🇷 - 🇷🇸 セルビア
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T190000Z-volleyball--A-FRA-SRB
+DTSTAMP:20240729T190000Z
+DTSTART:20240729T190000Z
+DTEND:20240729T211500Z
+DESCRIPTION:バレーボール - 女子予選ラウンド - プールA
+SUMMARY:🏐 フランス 🇫🇷 - 🇷🇸 セルビア
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T190000Z-volleyball--A-FRA-CAN
+DTSTAMP:20240730T190000Z
+DTSTART:20240730T190000Z
+DTEND:20240730T211500Z
+DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 フランス 🇫🇷 - 🇨🇦 カナダ
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T190000Z-volleyball--A-FRA-CHN
+DTSTAMP:20240801T190000Z
+DTSTART:20240801T190000Z
+DTEND:20240801T211500Z
+DESCRIPTION:バレーボール - 女子予選ラウンド - プールA
+SUMMARY:🏐 フランス 🇫🇷 - 🇨🇳 中国
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T150000Z-volleyball--A-FRA-SLO
+DTSTAMP:20240802T150000Z
+DTSTART:20240802T150000Z
+DTEND:20240802T171500Z
+DESCRIPTION:バレーボール - 男子予選ラウンド - プールA
+SUMMARY:🏐 フランス 🇫🇷 - 🇸🇮 スロベニア
+LOCATION:サウス・パリ・アリーナ1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T110000Z-volleyball--A-FRA-USA
 DTSTAMP:20240804T110000Z
 DTSTART:20240804T110000Z

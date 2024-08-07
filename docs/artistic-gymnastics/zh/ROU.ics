@@ -4,6 +4,32 @@ PRODID:-//fabrice404//olympics-calendar//artistic-gymnastics/zh/ROU//EN
 X-WR-CALNAME:🇷🇴 Romania 竞技体操 | Paris 2024
 NAME:🇷🇴 Romania 竞技体操 | Paris 2024
 BEGIN:VEVENT
+UID:20240730T161500Z-artistic-gymnastics-
+DTSTAMP:20240730T161500Z
+DTSTART:20240730T161500Z
+DTEND:20240730T181000Z
+DESCRIPTION:竞技体操 - 女子团体决赛\n🇨🇳 中国\n🇨🇦 加拿大\n🇧🇷 巴西\n🇮🇹 意大利\n🇯🇵
+  日本\n🇷🇴 罗马尼亚\n🇺🇸 美国\n🇬🇧 英国
+SUMMARY:🤸 女子团体决赛
+LOCATION:贝尔西体育馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T161500Z-artistic-gymnastics-
+DTSTAMP:20240801T161500Z
+DTSTART:20240801T161500Z
+DTEND:20240801T181009Z
+DESCRIPTION:竞技体操 - 女子全能决赛\n🇮🇹 Alice D'AMATO\n🇬🇧 Alice KINSELLA\n🇷🇴
+  Amalia GHIGOARTA\n🇷🇴 Ana BARBOSU\n🇨🇦 Ava STEWART\n🇭🇺 Bettina Lili
+  CZIFRA\n🇨🇦 Elsabeth BLACK\n🇵🇹 Filipa MARTINS\n🇧🇷 Flavia
+  SARAIVA\n🇬🇧 Georgia-Mae FENTON\n🇩🇪 Helen KEVRIC\n🇯🇵 KISHI
+  Rina\n🇩🇿 Kaylia NEMOUR\n🇨🇴 Luisa BLANCO\n🇮🇹 Manila ESPOSITO\n🇯🇵
+  NAKAMURA Haruka\n🇳🇱 Naomi VISSER\n🇨🇳 OU Yushan\n🇨🇳 QIU Qiyuan\n🇧🇷
+  Rebeca ANDRADE\n🇦🇺 Ruby PASS\n🇩🇪 Sarah VOSS\n🇺🇸 Simone BILES\n🇺🇸
+  Sunisa LEE
+SUMMARY:🤸 女子全能决赛
+LOCATION:贝尔西体育馆
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T103800Z-artistic-gymnastics-
 DTSTAMP:20240805T103800Z
 DTSTART:20240805T103800Z

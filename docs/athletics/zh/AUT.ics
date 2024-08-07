@@ -4,6 +4,28 @@ PRODID:-//fabrice404//olympics-calendar//athletics/zh/AUT//EN
 X-WR-CALNAME:🇦🇹 Austria 田径 | Paris 2024
 NAME:🇦🇹 Austria 田径 | Paris 2024
 BEGIN:VEVENT
+UID:20240802T091000Z-athletics-15001
+DTSTAMP:20240802T091000Z
+DTSTART:20240802T091000Z
+DTEND:20240802T093600Z
+DESCRIPTION:田径 - 男子1500米第1轮\n🇪🇹 Abdisa FAYISA\n🇦🇺 Adam SPENCER\n🇪🇸
+  Adel MECHAAL\n🇲🇦 Anass ESSAYI\n🇮🇪 Andrew COSCORAN\n🇫🇷 Azeddine
+  HABZ\n🇰🇪 Brian KOMEN\n🇮🇪 Cathal DOYLE\n🇨🇦 Charles
+  PHILIBERT-THIBOUTOT\n🇺🇸 Cole HOCKER\n🇪🇹 Ermias GIRMA\n🇮🇹 Federico
+  RIVA\n🇵🇱 Filip RAK\n🇬🇧 George MILLS\n🇺🇸 Hobbs KESSLER\n🇪🇸 Ignacio
+  FONTES\n🇵🇹 Isaac NADER\n🇳🇴 Jakob INGEBRIGTSEN\n🇧🇪 Jochem
+  VERMEULEN\n🇬🇧 Josh KERR\n🇨🇦 Kieran LUMB\n🇮🇪 Luke McCANN\n🇵🇱
+  Maciej WYDERKA\n🇫🇷 Mael GOUYETTE\n🇪🇸 Mario GARCIA\n🇩🇪 Marius
+  PROBST\n🇳🇴 Narve Gilje NORDAS\n🇬🇧 Neil GOURLEY\n🇳🇱 Niels
+  LAROS\n🇦🇺 Oliver HOARE\n🇮🇹 Ossama MESLEK\n🇮🇹 Pietro ARESE\n🇦🇹
+  Raphael PALLITSCH\n🇰🇪 Reynold CHERUIYOT\n🇩🇪 Robert FARKEN\n🇧🇪 Ruben
+  VERHEYDEN\n🇿🇦 Ryan MPHAHLELE\n🇸🇪 Samuel PIHLSTROM\n🇳🇿 Samuel
+  TANNER\n🇪🇹 Samuel TEFERA\n🇳🇱 Stefan NILLESSEN\n🇦🇺 Stewart
+  McSWEYN\n🇰🇪 Timothy CHERUIYOT\n🇿🇦 Tshepo TSHITE\n🇺🇸 Yared NUGUSE
+SUMMARY:🏃 男子1500米第1轮
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T095500Z-athletics-1001
 DTSTAMP:20240803T095500Z
 DTSTART:20240803T095500Z
@@ -124,6 +146,20 @@ DESCRIPTION:田径 - 男子110米跨栏复活赛\n🇩🇿 Amine BOUANANI\n🇪�
   SANTA MARIA\n🇨🇳 QIN Weibo\n🇧🇷 Rafael PEREIRA\n🇫🇷 Raphael
   MOHAMED\n🇯🇵 TAKAYAMA Shunya\n🇦🇺 Tayleb WILLIS\n🇫🇷 Wilhem BELOCIAN
 SUMMARY:🏃 男子110米跨栏复活赛
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T082500Z-athletics--A
+DTSTAMP:20240807T082500Z
+DTSTART:20240807T082500Z
+DTEND:20240807T092100Z
+DESCRIPTION:田径 - 女子标枪资格赛 - A组\n🇮🇳 Annu RANI\n🇩🇪 Christin HUSSONG\n🇨🇳
+  DAI Qianqian\n🇱🇰 Dilhani LEKAMGE\n🇿🇦 Jo-Ane van DYK\n🇧🇷 Jucilene
+  Sales de LIMA\n🇦🇺 Kathryn MITCHELL\n🇱🇻 Lina MUZE-SIRMA\n🇦🇺
+  Mackenzie LITTLE\n🇺🇸 Maggie MALONE-HARDIN\n🇨🇴 Maria Lucelly
+  MURILLO\n🇨🇿 Nikola OGRODNIKOVA\n🇧🇸 Rhema OTABOR\n🇯🇵 SAITO
+  Marina\n🇳🇿 Tori PEETERS\n🇦🇹 Victoria HUDSON
+SUMMARY:🏃 女子标枪资格赛 - A组
 LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT

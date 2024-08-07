@@ -4,6 +4,33 @@ PRODID:-//fabrice404//olympics-calendar//water-polo/ja/CRO//EN
 X-WR-CALNAME:🇭🇷 Croatia 水球 | Paris 2024
 NAME:🇭🇷 Croatia 水球 | Paris 2024
 BEGIN:VEVENT
+UID:20240728T143500Z-water-polo--A-CRO-MNE
+DTSTAMP:20240728T143500Z
+DTSTART:20240728T143500Z
+DTEND:20240728T160000Z
+DESCRIPTION:水球 - 男子予選ラウンド - グループA
+SUMMARY:🤽 クロアチア 🇭🇷 - 🇲🇪 モンテネグロ
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T100500Z-water-polo--A-CRO-ITA
+DTSTAMP:20240730T100500Z
+DTSTART:20240730T100500Z
+DTEND:20240730T113000Z
+DESCRIPTION:水球 - 男子予選ラウンド - グループA
+SUMMARY:🤽 クロアチア 🇭🇷 - 🇮🇹 イタリア
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T173000Z-water-polo--A-ROU-CRO
+DTSTAMP:20240801T173000Z
+DTSTART:20240801T173000Z
+DTEND:20240801T185500Z
+DESCRIPTION:水球 - 男子予選ラウンド - グループA
+SUMMARY:🤽 ルーマニア 🇷🇴 - 🇭🇷 クロアチア
+LOCATION:アクアティックス・センター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T100500Z-water-polo--A-CRO-GRE
 DTSTAMP:20240803T100500Z
 DTSTART:20240803T100500Z

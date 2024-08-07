@@ -4,6 +4,105 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ja/USA//EN
 X-WR-CALNAME:🇺🇸 United States ボクシング | Paris 2024
 NAME:🇺🇸 United States ボクシング | Paris 2024
 BEGIN:VEVENT
+UID:20240727T192000Z-boxing-60KG-32-FRA-USA
+DTSTAMP:20240727T192000Z
+DTSTART:20240727T192000Z
+DTEND:20240727T193100Z
+DESCRIPTION:ボクシング - 女子60kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Estelle MOSSELY 🇫🇷 - 🇺🇸 Jajaira GONZALEZ
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T090000Z-boxing-51KG-32-EOR-USA
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T091100Z
+DESCRIPTION:ボクシング - 男子51kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Omid AHMADISAFA 🏳️ - 🇺🇸 Roscoe HILL
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T103600Z-boxing-92KG-16-USA-ITA
+DTSTAMP:20240729T103600Z
+DTSTART:20240729T103600Z
+DTEND:20240729T104700Z
+DESCRIPTION:ボクシング - 男子92kg超級 - 予選 - ラウンド16
+SUMMARY:🥊 Joshua EDWARDS 🇺🇸 - 🇮🇹 Diego LENZI
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T183200Z-boxing-60KG-16-USA-BRA
+DTSTAMP:20240729T183200Z
+DTSTART:20240729T183200Z
+DTEND:20240729T184300Z
+DESCRIPTION:ボクシング - 女子60kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Jajaira GONZALEZ 🇺🇸 - 🇧🇷 Beatriz Iasmin SOARES FERREIRA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T090000Z-boxing-51KG-16-FRA-USA
+DTSTAMP:20240730T090000Z
+DTSTART:20240730T090000Z
+DTEND:20240730T091100Z
+DESCRIPTION:ボクシング - 男子51kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Billal BENNAMA 🇫🇷 - 🇺🇸 Roscoe HILL
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T153800Z-boxing-57KG-32-USA-TJK
+DTSTAMP:20240730T153800Z
+DTSTART:20240730T153800Z
+DTEND:20240730T154900Z
+DESCRIPTION:ボクシング - 女子57kg級 - 予選 - ラウンド32
+SUMMARY:🥊 Alyssa MENDOZA 🇺🇸 - 🇹🇯 Mijgona SAMADOVA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T094800Z-boxing-71KG-16-USA-TPE
+DTSTAMP:20240731T094800Z
+DTSTART:20240731T094800Z
+DTEND:20240731T095900Z
+DESCRIPTION:ボクシング - 男子71kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Omari JONES 🇺🇸 - 🇹🇼 KAN Chia Wei
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T140200Z-boxing-57KG-16-USA-BRA
+DTSTAMP:20240731T140200Z
+DTSTART:20240731T140200Z
+DTEND:20240731T141300Z
+DESCRIPTION:ボクシング - 男子57kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Jahmal HARVEY 🇺🇸 - 🇧🇷 Luiz Gabriel OLIVEIRA
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T140200Z-boxing-50KG-16-FIN-USA
+DTSTAMP:20240801T140200Z
+DTSTART:20240801T140200Z
+DTEND:20240801T141300Z
+DESCRIPTION:ボクシング - 女子50kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Pihla KAIVO-OJA 🇫🇮 - 🇺🇸 Jennifer LOZANO
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T145000Z-boxing-66KG-16-UZB-USA
+DTSTAMP:20240801T145000Z
+DTSTART:20240801T145000Z
+DTEND:20240801T150100Z
+DESCRIPTION:ボクシング - 女子66kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Navbakhor KHAMIDOVA 🇺🇿 - 🇺🇸 Morelle McCANE
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T141800Z-boxing-57KG-16-USA-BRA
+DTSTAMP:20240802T141800Z
+DTSTART:20240802T141800Z
+DTEND:20240802T142900Z
+DESCRIPTION:ボクシング - 女子57kg級 - 予選 - ラウンド16
+SUMMARY:🥊 Alyssa MENDOZA 🇺🇸 - 🇧🇷 Jucielen CERQUEIRA ROMEU
+LOCATION:ノース・パリ・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T140200Z-boxing-71KG--BUL-USA
 DTSTAMP:20240803T140200Z
 DTSTART:20240803T140200Z

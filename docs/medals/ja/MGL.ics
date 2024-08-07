@@ -4,6 +4,58 @@ PRODID:-//fabrice404//olympics-calendar//medals/ja/MGL//EN
 X-WR-CALNAME:🇲🇳 Mongolia 🏅 | Paris 2024
 NAME:🇲🇳 Mongolia 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road-
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T155700Z
+DESCRIPTION:自転車ロードレース - 男子個人タイムトライアル\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
+  BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
+  Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
+  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇦🇸 Gleb SYRITSA\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
+  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
+  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
+  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
+  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 男子個人タイムトライアル
+LOCATION:アレクサンドル3世橋
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T150000Z-judo-48KG-JPN-MGL
+DTSTAMP:20240727T150000Z
+DTSTART:20240727T150000Z
+DTEND:20240727T150600Z
+DESCRIPTION:柔道 - 女子48kg級決勝
+SUMMARY:🥋 TSUNODA Natsumi 🇯🇵 - 🇲🇳 Baasankhuu BAVUUDORJ
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T073000Z-shooting-10M
+DTSTAMP:20240728T073000Z
+DTSTART:20240728T073000Z
+DTEND:20240728T081500Z
+DESCRIPTION:射撃 - 男子10mエアピストル個人ファイナル\n🇩🇪 Christian REITZ\n🇷🇸 Damir
+  MIKEC\n🇲🇳 Davaakhuu ENKHTAIVAN\n🇮🇹 Federico Nilo MALDINI\n🇰🇷 LEE
+  Wonho\n🇮🇹 Paolo MONNA\n🇩🇪 Robin WALTER\n🇨🇳 XIE Yu
+SUMMARY:🔫 男子10mエアピストル個人ファイナル
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T073000Z-shooting-50M3
+DTSTAMP:20240802T073000Z
+DTSTART:20240802T073000Z
+DTEND:20240802T083000Z
+DESCRIPTION:射撃 - 女子50mライフル3姿勢個人ファイナル\n🇨🇭 Chiara LEONE\n🇳🇴 Jeanette Hegg
+  DUESTAD\n🇦🇹 Nadine UNGERANK\n🇵🇱 Natalia KOCHANSKA\n🇺🇸 Sagen
+  MADDALENA\n🇩🇰 Stephanie Laura Scurrah GRUNDSOEE\n🇲🇳 Yesugen
+  OYUNBAT\n🇨🇳 ZHANG Qiongyue
+SUMMARY:🔫 女子50mライフル3姿勢個人ファイナル
+LOCATION:シャトールー射撃センター
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z

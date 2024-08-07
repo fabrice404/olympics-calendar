@@ -4,6 +4,87 @@ PRODID:-//fabrice404//olympics-calendar//boxing/ru/CUB//EN
 X-WR-CALNAME:🇨🇺 Cuba Бокс | Paris 2024
 NAME:🇨🇺 Cuba Бокс | Paris 2024
 BEGIN:VEVENT
+UID:20240727T193600Z-boxing--116-635--CUB-PNG
+DTSTAMP:20240727T193600Z
+DTSTART:20240727T193600Z
+DTEND:20240727T194700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/16 финала, до 63,5кг (м)
+SUMMARY:🥊 Erislandy ALVAREZ BORGES 🇨🇺 - 🇵🇬 John UME
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T141800Z-boxing--18-92--AZE-CUB
+DTSTAMP:20240728T141800Z
+DTSTART:20240728T141800Z
+DTEND:20240728T142900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 92кг (м)
+SUMMARY:🥊 Loren Berto ALFONSO DOMINGUEZ 🇦🇿 - 🇨🇺 Julio Cesar la CRUZ PE
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T141800Z-boxing--18-635--ALG-CUB
+DTSTAMP:20240729T141800Z
+DTSTART:20240729T141800Z
+DTEND:20240729T142900Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 63,5кг (м)
+SUMMARY:🥊 Jugurtha AIT BEKKA 🇩🇿 - 🇨🇺 Erislandy ALVAREZ BORGES
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T091600Z-boxing--18-51--CUB-BRA
+DTSTAMP:20240730T091600Z
+DTSTART:20240730T091600Z
+DTEND:20240730T092700Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 51кг (м)
+SUMMARY:🥊 Alejandro CLARO FIZ 🇨🇺 - 🇧🇷 Michael Douglas da SILVA TRINDAD
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T192000Z-boxing--18-80--TUR-CUB
+DTSTAMP:20240730T192000Z
+DTSTART:20240730T192000Z
+DTEND:20240730T193100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 80кг (м)
+SUMMARY:🥊 Kaan AYKUTSUN 🇹🇷 - 🇨🇺 Arlen LOPEZ CARDONA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T180000Z-boxing--18-57--KGZ-CUB
+DTSTAMP:20240731T180000Z
+DTSTART:20240731T180000Z
+DTEND:20240731T181100Z
+DESCRIPTION:Бокс - Предварительный этап, 1/8 финала, до 57кг (м)
+SUMMARY:🥊 Munarbek SEIITBEK UULU 🇰🇬 - 🇨🇺 Saidel Ivan HORTA RODRIGUEZ d
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240801T192000Z-boxing--635--CUB-THA
+DTSTAMP:20240801T192000Z
+DTSTART:20240801T192000Z
+DTEND:20240801T193100Z
+DESCRIPTION:Бокс - Четвертьфинал, до 63,5кг (м)
+SUMMARY:🥊 Erislandy ALVAREZ BORGES 🇨🇺 - 🇹🇭 Bunjong SINSIRI
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T143400Z-boxing--51--FRA-CUB
+DTSTAMP:20240802T143400Z
+DTSTART:20240802T143400Z
+DTEND:20240802T144500Z
+DESCRIPTION:Бокс - Четвертьфинал, до 51кг (м)
+SUMMARY:🥊 Billal BENNAMA 🇫🇷 - 🇨🇺 Alejandro CLARO FIZ
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T195200Z-boxing--80--UZB-CUB
+DTSTAMP:20240802T195200Z
+DTSTART:20240802T195200Z
+DTEND:20240802T200300Z
+DESCRIPTION:Бокс - Четвертьфинал, до 80кг (м)
+SUMMARY:🥊 Turabek KHABIBULLAEV 🇺🇿 - 🇨🇺 Arlen LOPEZ CARDONA
+LOCATION:Арена «Париж-Север»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240804T150600Z-boxing--635--CUB-GEO
 DTSTAMP:20240804T150600Z
 DTSTART:20240804T150600Z

@@ -4,18 +4,57 @@ PRODID:-//fabrice404//olympics-calendar//medals/ko/SLO//EN
 X-WR-CALNAME:🇸🇮 Slovenia 🏅 | Paris 2024
 NAME:🇸🇮 Slovenia 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240727T123000Z-cycling-road--
+DTSTAMP:20240727T123000Z
+DTSTART:20240727T123000Z
+DTEND:20240727T135900Z
+DESCRIPTION:사이클 도로 - 여자 개인 도로독주\n🇵🇱 Agnieszka SKALNIAK-SOJKA\n🇬🇧 Anna
+  HENDERSON\n🇦🇹 Anna KIESENHOFER\n🇫🇮 Anniina AHTOSALO\n🇩🇪 Antonia
+  NIEDERMAIER\n🇫🇷 Audrey CORDON RAGOT\n🇩🇰 Cecilie Uttrup LUDWIG\n🇺🇸
+  Chloe DYGERT\n🇦🇹 Christina SCHWEINBERGER\n🇳🇱 Demi VOLLERING\n🇷🇼
+  Diane INGABIRE\n🇨🇭 Elena HARTMANN\n🇮🇹 Elisa LONGO BORGHINI\n🇳🇱
+  Ellen van DIJK\n🇩🇰 Emma Norsgaard BJERG\n🇸🇮 Eugenia BUJAK\n🇦🇺 Grace
+  BROWN\n🇦🇸 Hanna TSERAKH\n🇨🇿 Julia KOPECKY\n🇫🇷 Juliette LABOUS\n🇳🇿
+  Kim CADZOW\n🇧🇪 Lotte KOPECKY\n🇵🇱 Marta LACH\n🇩🇪 Mieke KROEGER\n🇪🇸
+  Mireia BENITO PELLICER\n🇸🇰 Nora JENCUSOVA\n🇺🇿 Olga ZABELINSKAYA\n🇨🇦
+  Olivia BARIL\n🇹🇭 Phetdarin SOMRAT\n🇨🇳 TANG Xin\n🇦🇸 Tamara
+  DRONOVA\n🇺🇸 Taylor KNIBB\n🇸🇮 Urska PINTAR\n🇦🇫 Yulduz HASHIMI\n🇺🇦
+  Yuliia BIRIUKOVA
+SUMMARY:🚴 여자 개인 도로독주
+LOCATION:알렉상드르 3세 다리
+END:VEVENT
+BEGIN:VEVENT
+UID:20240727T143200Z-cycling-road--
+DTSTAMP:20240727T143200Z
+DTSTART:20240727T143200Z
+DTEND:20240727T155700Z
+DESCRIPTION:사이클 도로 - 남자 개인 도로독주\n🇲🇦 Achraf ED DOGHMY\n🇮🇹 Alberto
+  BETTIOL\n🏳️ Amir ANSARI\n🇭🇺 Attila VALTER\n🇪🇷 Biniam GIRMAY\n🇺🇸
+  Brandon McNULTY\n🇳🇱 Daan HOOLE\n🇨🇦 Derek GEE\n🇦🇹 Felix
+  GROSSSCHARTNER\n🇮🇹 Filippo GANNA\n🇦🇸 Gleb SYRITSA\n🇲🇳 Jambaljamts
+  SAINBAYAR\n🇸🇮 Jan TRATNIK\n🇬🇧 Josh TARLING\n🇫🇷 Kevin
+  VAUQUELIN\n🇳🇿 Laurence PITHIE\n🇦🇺 Lucas PLAPP\n🇺🇸 Magnus
+  SHEFFIELD\n🇨🇿 Mathias VACEK\n🇩🇰 Mattias SKJELMOSE\n🇩🇪 Maximilian
+  SCHACHMANN\n🇵🇱 Michal KWIATKOWSKI\n🇩🇰 Mikkel Norsgaard BJERG\n🇵🇹
+  Nelson OLIVEIRA\n🇪🇸 Oier LAZKANO\n🇧🇪 Remco EVENEPOEL\n🇵🇹 Rui
+  COSTA\n🇮🇪 Ryan MULLEN\n🇳🇴 Soeren WAERENSKJOLD\n🇨🇭 Stefan
+  BISSEGGER\n🇨🇭 Stefan KUENG\n🇳🇴 Tobias FOSS\n🇧🇪 Wout van AERT\n🇰🇿
+  Yevgeniy FEDOROV
+SUMMARY:🚴 남자 개인 도로독주
+LOCATION:알렉상드르 3세 다리
+END:VEVENT
+BEGIN:VEVENT
 UID:20240728T121000Z-cycling-mountain-bike--
 DTSTAMP:20240728T121000Z
 DTSTART:20240728T121000Z
 DTEND:20240728T134000Z
 DESCRIPTION:사이클 산악자전거 - 여자 크로스컨트리\n🇨🇿 Adela HOLUBOVA\n🇨🇭 Alessandra
-  KELLER\n🇳🇱 Anne TERPSTRA\n🇲🇺 Aurelie HALBWACHS\n🇭🇺 Blanka VAS\n🇿🇦
-  Candice LILL\n🇩🇰 Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella
-  MACLEAN-HOWELL\n🇧🇪 Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ
-  SUAREZ\n🇬🇧 Evie RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella
-  HOLMGREN\n🇪🇪 Janika LOIV\n🇷🇼 Jazilla MWAMIKAZI\n🇸🇪 Jenny
-  RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷 Loana
-  LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
+  KELLER\n🇳🇱 Anne TERPSTRA\n🇭🇺 Blanka VAS\n🇿🇦 Candice LILL\n🇩🇰
+  Caroline BOHE\n🇮🇹 Chiara TEOCCHI\n🇬🇧 Ella MACLEAN-HOWELL\n🇧🇪
+  Emeline DETILLEUX\n🇲🇽 Erika Monserrath RODRIGUEZ SUAREZ\n🇬🇧 Evie
+  RICHARDS\n🇺🇸 Haley BATTEN\n🇨🇦 Isabella HOLMGREN\n🇪🇪 Janika
+  LOIV\n🇸🇪 Jenny RISSVEDS\n🇯🇵 KAWAGUCHI Urara\n🇦🇹 Laura STIGGER\n🇫🇷
+  Loana LECOMTE\n🇮🇹 Martina BERTA\n🇦🇹 Mona MITTERWALLNER\n🇩🇪 Nina
   BENZ\n🇵🇱 Paula GORYCKA\n🇫🇷 Pauline FERRAND PREVOT\n🇳🇱 Puck
   PIETERSE\n🇧🇷 Raiza GOULAO HENRIQUE\n🇵🇹 Raquel QUEIROS\n🇦🇺 Rebecca
   HENDERSON\n🇳🇿 Samara MAXWELL\n🇺🇸 Savilia BLUNK\n🇨🇭 Sina FREI\n🇩🇰
@@ -23,6 +62,53 @@ DESCRIPTION:사이클 산악자전거 - 여자 크로스컨트리\n🇨🇿 Adel
   BELOMOINA
 SUMMARY:🚴 여자 크로스컨트리
 LOCATION:엘랑쿠르 힐
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T154500Z-canoe-slalom--1-
+DTSTAMP:20240728T154500Z
+DTSTART:20240728T154500Z
+DTEND:20240728T162900Z
+DESCRIPTION:카누 슬라럼 - 여자 카약 1인승 결승\n🇧🇷 Ana SATILA\n🇫🇷 Camille
+  PRIGENT\n🇦🇹 Corinna KUHNLE\n🇸🇰 Eliska MINTALOVA\n🇸🇮 Eva
+  TERCELJ\n🇦🇺 Jessica FOX\n🇬🇧 Kimberley WOODS\n🇵🇱 Klaudia
+  ZWOLINSKA\n🇳🇿 Luuka JONES\n🇪🇸 Maialen CHOURRAUT\n🇩🇪 Ricarda
+  FUNK\n🇮🇹 Stefanie HORN
+SUMMARY:🛶 여자 카약 1인승 결승
+LOCATION:카누 경기장 - 화이트워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240729T152000Z-canoe-slalom--1-
+DTSTAMP:20240729T152000Z
+DTSTART:20240729T152000Z
+DTEND:20240729T160400Z
+DESCRIPTION:카누 슬라럼 - 남자 카누 1인승 결승\n🇬🇧 Adam BURGESS\n🇸🇮 Benjamin
+  SAVSEK\n🇵🇱 Grzegorz HEDWIG\n🇮🇪 Liam JEGOU\n🇨🇿 Lukas ROHAN\n🇸🇰
+  Matej BENUS\n🇭🇷 Matija MARINIC\n🇪🇸 Miquel TRAVE\n🇫🇷 Nicolas
+  GESTIN\n🇩🇪 Sideris TASIADIS\n🇦🇺 Tristan CARTER\n🇸🇳 Yves BOURHIS
+SUMMARY:🛶 남자 카누 1인승 결승
+LOCATION:카누 경기장 - 화이트워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240730T151800Z-judo--63KG--MEX-SLO
+DTSTAMP:20240730T151800Z
+DTSTART:20240730T151800Z
+DTEND:20240730T152400Z
+DESCRIPTION:유도 - 여자 -63kg 결승
+SUMMARY:🥋 Prisca AWITI ALCARAZ 🇲🇽 - 🇸🇮 Andreja LESKI
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T152500Z-canoe-slalom--1-
+DTSTAMP:20240731T152500Z
+DTSTART:20240731T152500Z
+DTEND:20240731T160900Z
+DESCRIPTION:카누 슬라럼 - 여자 카누 1인승 결승\n🇨🇭 Alena MARX\n🇧🇷 Ana SATILA\n🇩🇪
+  Elena LILIK\n🇸🇮 Eva Alina HOCEVAR\n🇺🇸 Evy LEIBFARTH\n🇨🇿 Gabriela
+  SATKOVA\n🇦🇺 Jessica FOX\n🇬🇧 Mallory FRANKLIN\n🇪🇸 Miren
+  LAZKANO\n🇦🇩 Monica DORIA VILARRUBLA\n🇺🇦 Viktoriia US\n🇸🇰 Zuzana
+  PANKOVA
+SUMMARY:🛶 여자 카누 1인승 결승
+LOCATION:카누 경기장 - 화이트워터
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road--
@@ -118,11 +204,11 @@ DTSTART:20240807T161500Z
 DTEND:20240807T193000Z
 DESCRIPTION:육상 - 여자 장대높이뛰기 결승\n🇬🇷 Aikaterini STEFANIDI\n🇨🇦 Alysha
   NEWMAN\n🇨🇿 Amalie SVABIKOVA\n🇨🇭 Angelica MOSER\n🇩🇪 Anjuli
-  KNAESCHE\n🇬🇷 Ariadni ADAMOPOULOU\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa
-  MOLINAROLO\n🇳🇿 Eliza McCARTNEY\n🇳🇿 Imogen AYRIS\n🇺🇸 Katie
-  MOON\n🇳🇴 Lene Onsrud RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇦🇺 Nina
-  KENNEDY\n🇫🇷 Ninon CHAPELLE\n🇳🇿 Olivia McTAGGART\n🇻🇪 Robeilys
-  PEINADO\n🇮🇹 Roberta BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
+  KNAESCHE\n🇫🇮 Elina LAMPELA\n🇮🇹 Elisa MOLINAROLO\n🇳🇿 Eliza
+  McCARTNEY\n🇳🇿 Imogen AYRIS\n🇺🇸 Katie MOON\n🇳🇴 Lene Onsrud
+  RETZIUS\n🇫🇷 Marie-Julie BONNIN\n🇦🇺 Nina KENNEDY\n🇫🇷 Ninon
+  CHAPELLE\n🇳🇿 Olivia McTAGGART\n🇻🇪 Robeilys PEINADO\n🇮🇹 Roberta
+  BRUNI\n🇸🇮 Tina SUTEJ\n🇫🇮 Wilma MURTO
 SUMMARY:🏃 여자 장대높이뛰기 결승
 LOCATION:스타드 드 프랑스
 END:VEVENT

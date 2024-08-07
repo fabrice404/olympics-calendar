@@ -4,6 +4,42 @@ PRODID:-//fabrice404//olympics-calendar//basketball/ru/PUR//EN
 X-WR-CALNAME:🇵🇷 Puerto Rico Баскетбол | Paris 2024
 NAME:🇵🇷 Puerto Rico Баскетбол | Paris 2024
 BEGIN:VEVENT
+UID:20240728T090000Z-basketball---SSD-PUR
+DTSTAMP:20240728T090000Z
+DTSTART:20240728T090000Z
+DTEND:20240728T104500Z
+DESCRIPTION:Баскетбол - Групповой этап, группа С (м)
+SUMMARY:🏀 Южный Судан 🇸🇸 - 🇵🇷 Пуэрто-Рико
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240728T190000Z-basketball---SRB-PUR
+DTSTAMP:20240728T190000Z
+DTSTART:20240728T190000Z
+DTEND:20240728T204500Z
+DESCRIPTION:Баскетбол - Групповой этап, группа А (ж)
+SUMMARY:🏀 Сербия 🇷🇸 - 🇵🇷 Пуэрто-Рико
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T090000Z-basketball---PUR-ESP
+DTSTAMP:20240731T090000Z
+DTSTART:20240731T090000Z
+DTEND:20240731T104500Z
+DESCRIPTION:Баскетбол - Групповой этап, группа А (ж)
+SUMMARY:🏀 Пуэрто-Рико 🇵🇷 - 🇪🇸 Испания
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240731T151500Z-basketball---PUR-SRB
+DTSTAMP:20240731T151500Z
+DTSTART:20240731T151500Z
+DTEND:20240731T170000Z
+DESCRIPTION:Баскетбол - Групповой этап, группа С (м)
+SUMMARY:🏀 Пуэрто-Рико 🇵🇷 - 🇷🇸 Сербия
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240803T090000Z-basketball---CHN-PUR
 DTSTAMP:20240803T090000Z
 DTSTART:20240803T090000Z
