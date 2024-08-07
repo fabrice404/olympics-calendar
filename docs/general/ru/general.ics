@@ -31834,22 +31834,21 @@ SUMMARY:🤼 Amantur ISMAILOV 🇰🇬 - 🇺🇦 Parviz NASIBOV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T101700Z-wrestling--53-14--JPN-MGL
+DTSTAMP:20240807T101700Z
+DTSTART:20240807T101700Z
+DTEND:20240807T102400Z
+DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/4 финала (ж)
+SUMMARY:🤼 FUJINAMI Akari 🇯🇵 - 🇲🇳 Khulan BATKHUYAG
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T101700Z-wrestling--87-14--KAZ-UKR
 DTSTAMP:20240807T101700Z
 DTSTART:20240807T101700Z
 DTEND:20240807T102400Z
 DESCRIPTION:Борьба - Греко-римская, 87кг, 1/4 финала (м)
 SUMMARY:🤼 Nursultan TURSYNOV 🇰🇿 - 🇺🇦 Zhan BELENIUK
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240807T101700Z-wrestling--53-14-
-DTSTAMP:20240807T101700Z
-DTSTART:20240807T101700Z
-DTEND:20240807T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/4 финала (ж)\n🇯🇵 FUJINAMI
-  Akari
-SUMMARY:🤼 Вольная борьба, 53кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -31872,7 +31871,7 @@ UID:20240807T102400Z-wrestling--53-14-
 DTSTAMP:20240807T102400Z
 DTSTART:20240807T102400Z
 DTEND:20240807T103100Z
-DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/4 финала (ж)\n🇨🇳 PANG Qianyu
 SUMMARY:🤼 Вольная борьба, 53кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -31881,7 +31880,8 @@ UID:20240807T102400Z-wrestling--67-14-
 DTSTAMP:20240807T102400Z
 DTSTART:20240807T102400Z
 DTEND:20240807T103100Z
-DESCRIPTION:Борьба - Греко-римская, 67кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Греко-римская, 67кг, 1/4 финала (м)\n🇦🇲 Slavik
+  GALSTYAN
 SUMMARY:🤼 Греко-римская, 67кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -31890,7 +31890,8 @@ UID:20240807T102400Z-wrestling--87-14-
 DTSTAMP:20240807T102400Z
 DTSTART:20240807T102400Z
 DTEND:20240807T103100Z
-DESCRIPTION:Борьба - Греко-римская, 87кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Греко-римская, 87кг, 1/4 финала (м)\n🇧🇬 Semen
+  Sergeevich NOVIKOV
 SUMMARY:🤼 Греко-римская, 87кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -32400,13 +32401,12 @@ SUMMARY:🚴 Спринт, 1/32 финала, утешительный раун�
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T133200Z-taekwondo--58-
+UID:20240807T133200Z-taekwondo--58--ESP-AZE
 DTSTAMP:20240807T133200Z
 DTSTART:20240807T133200Z
 DTEND:20240807T134500Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 58кг (м)\n🇪🇸 Adrian VICENTE
-  YUNTA
-SUMMARY:🥋 Четвертьфинал, до 58кг (м)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 58кг (м)
+SUMMARY:🥋 Adrian VICENTE YUNTA 🇪🇸 - 🇦🇿 Gashim MAGOMEDOV
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -33449,7 +33449,7 @@ UID:20240808T080000Z-table-tennis--
 DTSTAMP:20240808T080000Z
 DTSTART:20240808T080000Z
 DTEND:20240808T110000Z
-DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (м)
+DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (м)\n🇨🇳 Китай
 SUMMARY:🏓 Полуфинал, командный разряд (м)
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
@@ -34150,7 +34150,11 @@ UID:20240808T130000Z-diving--3-
 DTSTAMP:20240808T130000Z
 DTSTART:20240808T130000Z
 DTEND:20240808T141900Z
-DESCRIPTION:Прыжки в воду - Трамплин 3м, финал (м)
+DESCRIPTION:Прыжки в воду - Трамплин 3м, финал (м)\n🇺🇸 Carson TYLER\n🇬🇧
+  Jack LAUGHER\n🇩🇴 Jonathan RUVALCABA\n🇬🇧 Jordan HOULDEN\n🇫🇷 Jules
+  BOUYER\n🇦🇺 Kurtis MATHEWS\n🇨🇴 Luis Felipe URIBE BERMUDEZ\n🇩🇪 Moritz
+  WESEMANN\n🇲🇽 Osmar OLVERA IBARRA\n🇨🇳 WANG Zongyuan\n🇰🇷 WOO
+  Haram\n🇨🇳 XIE Siyi
 SUMMARY:🏊 Трамплин 3м, финал (м)
 LOCATION:Центр водных видов спорта
 END:VEVENT
@@ -34752,13 +34756,12 @@ SUMMARY:🏐 Турция 🇹🇷 - 🇮🇹 Италия
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T180000Z-table-tennis--
+UID:20240808T180000Z-table-tennis---GER-JPN
 DTSTAMP:20240808T180000Z
 DTSTART:20240808T180000Z
 DTEND:20240808T210000Z
-DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (ж)\n🇯🇵
-  Япония
-SUMMARY:🏓 Полуфинал, командный разряд (ж)
+DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (ж)
+SUMMARY:🏓 Германия 🇩🇪 - 🇯🇵 Япония
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
@@ -37401,7 +37404,11 @@ UID:20240810T170000Z-athletics--
 DTSTAMP:20240810T170000Z
 DTSTART:20240810T170000Z
 DTEND:20240810T185300Z
-DESCRIPTION:Легкая атлетика - Прыжки в высоту, финал (м)
+DESCRIPTION:Легкая атлетика - Прыжки в высоту, финал (м)\n🇯🇵 AKAMATSU
+  Ryoichi\n🇿🇦 Brian RAATS\n🇮🇹 Gianmarco TAMBERI\n🇳🇿 Hamish KERR\n🇨🇿
+  Jan STEFELA\n🇶🇦 Mutaz Essa BARSHIM\n🇺🇦 Oleh DOROSHCHUK\n🇯🇲 Romaine
+  BECKFORD\n🇺🇸 Shelby McEWEN\n🇮🇹 Stefano SOTTILE\n🇧🇬 Tihomir
+  IVANOV\n🇰🇷 WOO Sanghyeok
 SUMMARY:🏃 Прыжки в высоту, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

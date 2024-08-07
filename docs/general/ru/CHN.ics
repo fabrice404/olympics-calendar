@@ -8002,6 +8002,15 @@ SUMMARY:⛵ Кайт, гонка 08 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T102400Z-wrestling--53-14-
+DTSTAMP:20240807T102400Z
+DTSTART:20240807T102400Z
+DTEND:20240807T103100Z
+DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/4 финала (ж)\n🇨🇳 PANG Qianyu
+SUMMARY:🤼 Вольная борьба, 53кг, 1/4 финала (ж)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T104300Z-sailing--08-
 DTSTAMP:20240807T104300Z
 DTSTART:20240807T104300Z
@@ -8518,6 +8527,15 @@ SUMMARY:🧗 Трудность, полуфинал (ж)
 LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T080000Z-table-tennis--
+DTSTAMP:20240808T080000Z
+DTSTART:20240808T080000Z
+DTEND:20240808T110000Z
+DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (м)\n🇨🇳 Китай
+SUMMARY:🏓 Полуфинал, командный разряд (м)
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T081000Z-taekwondo-18-68--CHN-HUN
 DTSTAMP:20240808T081000Z
 DTSTART:20240808T081000Z
@@ -8597,6 +8615,19 @@ DESCRIPTION:Легкая атлетика - Эстафета 4х100м, раун�
   Ямайка\n🇯🇵 Япония
 SUMMARY:🏃 Эстафета 4х100м, раунд 1 (м)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T130000Z-diving--3-
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T141900Z
+DESCRIPTION:Прыжки в воду - Трамплин 3м, финал (м)\n🇺🇸 Carson TYLER\n🇬🇧
+  Jack LAUGHER\n🇩🇴 Jonathan RUVALCABA\n🇬🇧 Jordan HOULDEN\n🇫🇷 Jules
+  BOUYER\n🇦🇺 Kurtis MATHEWS\n🇨🇴 Luis Felipe URIBE BERMUDEZ\n🇩🇪 Moritz
+  WESEMANN\n🇲🇽 Osmar OLVERA IBARRA\n🇨🇳 WANG Zongyuan\n🇰🇷 WOO
+  Haram\n🇨🇳 XIE Siyi
+SUMMARY:🏊 Трамплин 3м, финал (м)
+LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T130000Z-weightlifting-59-

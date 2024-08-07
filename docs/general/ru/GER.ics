@@ -8612,6 +8612,19 @@ SUMMARY:🛶 Байдарки-четверки 500м, полуфинал 2 (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T130000Z-diving--3-
+DTSTAMP:20240808T130000Z
+DTSTART:20240808T130000Z
+DTEND:20240808T141900Z
+DESCRIPTION:Прыжки в воду - Трамплин 3м, финал (м)\n🇺🇸 Carson TYLER\n🇬🇧
+  Jack LAUGHER\n🇩🇴 Jonathan RUVALCABA\n🇬🇧 Jordan HOULDEN\n🇫🇷 Jules
+  BOUYER\n🇦🇺 Kurtis MATHEWS\n🇨🇴 Luis Felipe URIBE BERMUDEZ\n🇩🇪 Moritz
+  WESEMANN\n🇲🇽 Osmar OLVERA IBARRA\n🇨🇳 WANG Zongyuan\n🇰🇷 WOO
+  Haram\n🇨🇳 XIE Siyi
+SUMMARY:🏊 Трамплин 3м, финал (м)
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T153000Z-basketball-12--FRA-GER
 DTSTAMP:20240808T153000Z
 DTSTART:20240808T153000Z
@@ -8657,6 +8670,15 @@ DESCRIPTION:Легкая атлетика - Прыжки в длину, фина
   OCHONOGOR\n🇳🇬 Ruth USORO\n🇺🇸 Tara DAVIS-WOODHALL
 SUMMARY:🏃 Прыжки в длину, финал (ж)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T180000Z-table-tennis---GER-JPN
+DTSTAMP:20240808T180000Z
+DTSTART:20240808T180000Z
+DTEND:20240808T210000Z
+DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (ж)
+SUMMARY:🏓 Германия 🇩🇪 - 🇯🇵 Япония
+LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T182500Z-athletics--

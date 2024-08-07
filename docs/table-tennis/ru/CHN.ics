@@ -246,4 +246,13 @@ DESCRIPTION:Настольный теннис - 1/4 финала, командн
 SUMMARY:🏓 Китай 🇨🇳 - 🇹🇼 Chinese Taipei
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T080000Z-table-tennis--
+DTSTAMP:20240808T080000Z
+DTSTART:20240808T080000Z
+DTEND:20240808T110000Z
+DESCRIPTION:Настольный теннис - Полуфинал, командный разряд (м)\n🇨🇳 Китай
+SUMMARY:🏓 Полуфинал, командный разряд (м)
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
 END:VCALENDAR

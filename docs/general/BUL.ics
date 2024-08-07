@@ -755,6 +755,16 @@ SUMMARY:🤼 Semen Sergeevich NOVIKOV 🇧🇬 - 🇩🇰 Turpal Ali BISULTANOV
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T102400Z-wrestling-MENS-GRECO-ROMAN-87KG-14-FINAL
+DTSTAMP:20240807T102400Z
+DTSTART:20240807T102400Z
+DTEND:20240807T103100Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 87kg 1/4 Final\n🇧🇬 Semen
+  Sergeevich NOVIKOV
+SUMMARY:🤼 Men's Greco-Roman 87kg 1/4 Final
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T113000Z-canoe-sprint-WOMENS-KAYAK-SINGLE-500M-QUARTERFINALS
 DTSTAMP:20240807T113000Z
 DTSTART:20240807T113000Z
@@ -829,6 +839,19 @@ DESCRIPTION:Weightlifting - Men's 89kg\n🇦🇲 Andranik KARAPETYAN\n🇮🇹
   Dongju\n🇨🇴 Yeison LOPEZ
 SUMMARY:🏋 Men's 89kg
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T170000Z-athletics-MENS-HIGH-JUMP-FINAL
+DTSTAMP:20240810T170000Z
+DTSTART:20240810T170000Z
+DTEND:20240810T185300Z
+DESCRIPTION:Athletics - Men's High Jump Final\n🇯🇵 AKAMATSU Ryoichi\n🇿🇦
+  Brian RAATS\n🇮🇹 Gianmarco TAMBERI\n🇳🇿 Hamish KERR\n🇨🇿 Jan
+  STEFELA\n🇶🇦 Mutaz Essa BARSHIM\n🇺🇦 Oleh DOROSHCHUK\n🇯🇲 Romaine
+  BECKFORD\n🇺🇸 Shelby McEWEN\n🇮🇹 Stefano SOTTILE\n🇧🇬 Tihomir
+  IVANOV\n🇰🇷 WOO Sanghyeok
+SUMMARY:🏃 Men's High Jump Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

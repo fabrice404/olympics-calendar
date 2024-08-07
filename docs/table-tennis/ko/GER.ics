@@ -120,4 +120,13 @@ DESCRIPTION:탁구 - 여자 단체 8강
 SUMMARY:🏓 인도 🇮🇳 - 🇩🇪 독일
 LOCATION:사우스 파리 아레나 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T180000Z-table-tennis---GER-JPN
+DTSTAMP:20240808T180000Z
+DTSTART:20240808T180000Z
+DTEND:20240808T210000Z
+DESCRIPTION:탁구 - 여자 단체 준결승
+SUMMARY:🏓 독일 🇩🇪 - 🇯🇵 일본
+LOCATION:사우스 파리 아레나 4
+END:VEVENT
 END:VCALENDAR
