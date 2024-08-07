@@ -1664,6 +1664,18 @@ SUMMARY:🏃 Прыжки в длину, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T183000Z-athletics-200-
+DTSTAMP:20240808T183000Z
+DTSTART:20240808T183000Z
+DTEND:20240808T183100Z
+DESCRIPTION:Легкая атлетика - 200м, финал (м)\n🇩🇴 Alexander OGANDO\n🇺🇸
+  Erriyon KNIGHTON\n🇱🇷 Joseph FAHNBULLEH\n🇺🇸 Kenneth BEDNAREK\n🇧🇼
+  Letsile TEBOGO\n🇿🇼 Makanakaishe CHARAMBA\n🇺🇸 Noah LYLES\n🇿🇼
+  Tapiwanashe MAKARAWU
+SUMMARY:🏃 200м, финал (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T192500Z-athletics-400-
 DTSTAMP:20240808T192500Z
 DTSTART:20240808T192500Z
@@ -1738,6 +1750,19 @@ DESCRIPTION:Тяжелая атлетика - 71кг (ж)\n🇧🇷 Amanda da CO
   Siuzanna VALODZKA\n🇵🇭 Vanessa SARNO
 SUMMARY:🏋 71кг (ж)
 LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T181300Z-athletics--
+DTSTAMP:20240809T181300Z
+DTSTART:20240809T181300Z
+DTEND:20240809T193800Z
+DESCRIPTION:Легкая атлетика - Тройной прыжок, финал (м)\n🇧🇷 Almir dos
+  SANTOS\n🇮🇹 Andy DIAZ HERNANDEZ\n🇦🇺 Connor MURPHY\n🇧🇫 Hugues Fabrice
+  ZANGO\n🇯🇲 Jaydon HIBBERT\n🇪🇸 Jordan Alejandro DIAZ FORTUN\n🇨🇺
+  Lazaro MARTINEZ\n🇩🇪 Max HESS\n🇵🇹 Pedro PICHARDO\n🇺🇸 Salif
+  MANE\n🇩🇿 Yasser Mohammed TRIKI\n🇨🇳 ZHU Yaming
+SUMMARY:🏃 Тройной прыжок, финал (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T194500Z-athletics-400-

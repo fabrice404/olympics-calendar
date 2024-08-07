@@ -3,4 +3,16 @@ VERSION:2.0
 PRODID:-//fabrice404//olympics-calendar//medals/ZIM//EN
 X-WR-CALNAME:🇿🇼 Zimbabwe 🏅 | Paris 2024
 NAME:🇿🇼 Zimbabwe 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240808T183000Z-athletics-MENS-200M-FINAL
+DTSTAMP:20240808T183000Z
+DTSTART:20240808T183000Z
+DTEND:20240808T183100Z
+DESCRIPTION:Athletics - Men's 200m Final\n🇩🇴 Alexander OGANDO\n🇺🇸
+  Erriyon KNIGHTON\n🇱🇷 Joseph FAHNBULLEH\n🇺🇸 Kenneth BEDNAREK\n🇧🇼
+  Letsile TEBOGO\n🇿🇼 Makanakaishe CHARAMBA\n🇺🇸 Noah LYLES\n🇿🇼
+  Tapiwanashe MAKARAWU
+SUMMARY:🏃 Men's 200m Final
+LOCATION:Stade de France
+END:VEVENT
 END:VCALENDAR
