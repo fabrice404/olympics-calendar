@@ -5994,6 +5994,22 @@ SUMMARY:🏊 여자 3m 스프링보드 예선
 LOCATION:아쿠아틱 센터
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T131000Z-cycling-track--
+DTSTAMP:20240807T131000Z
+DTSTART:20240807T131000Z
+DTEND:20240807T133000Z
+DESCRIPTION:사이클 트랙 - 여자 경륜, 패자부활전\n🇦🇺 Chloe MORAN\n🇲🇽 Daniela GAXIOLA
+  GONZALEZ\n🇳🇬 Ese UKPESERAYE\n🇧🇪 Julie NICOLAES\n🇬🇧 Katy
+  MARCHANT\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane
+  GENEST\n🇵🇱 Marlena KARWACKA\n🇨🇴 Martha BAYONA PINEDA\n🇮🇹 Miriam
+  VECE\n🇲🇾 Nurul Izzah Izzati MOHD ASRI\n🇯🇵 OHTA Riyu\n🇳🇿 Rebecca
+  PETCH\n🇮🇹 Sara FIORIN\n🇨🇴 Stefany CUADRADO FLOREZ\n🇳🇱 Steffie van
+  der PEET\n🇫🇷 Taky Marie Divine KOUAME\n🇵🇱 Urszula LOS\n🇲🇽 Yuli
+  VERDUGO OSUNA
+SUMMARY:🚴 여자 경륜, 패자부활전
+LOCATION:국립 벨로드롬
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T134300Z-sailing--
 DTSTAMP:20240807T134300Z
 DTSTART:20240807T134300Z
@@ -6184,6 +6200,33 @@ DESCRIPTION:육상 - 여자 100m 허들 패자부활전\n🇦🇺 Celeste MUCCI\
   Yanni
 SUMMARY:🏃 여자 100m 허들 패자부활전
 LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T091400Z-wrestling--57KG-16-JPN-IRI
+DTSTAMP:20240808T091400Z
+DTSTART:20240808T091400Z
+DTEND:20240808T092100Z
+DESCRIPTION:레슬링 - 남자 자유형 57kg 16강
+SUMMARY:🤼 HIGUCHI Rei 🇯🇵 - 🇮🇷 Alireza SARLAK
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T091400Z-wrestling--57KG-16-JPN-CAN
+DTSTAMP:20240808T091400Z
+DTSTART:20240808T091400Z
+DTEND:20240808T092100Z
+DESCRIPTION:레슬링 - 여자 자유형 57kg 16강
+SUMMARY:🤼 SAKURAI Tsugumi 🇯🇵 - 🇨🇦 Hannah Fay TAYLOR
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T092100Z-wrestling--86KG-16-ALG-JPN
+DTSTAMP:20240808T092100Z
+DTSTART:20240808T092100Z
+DTEND:20240808T092800Z
+DESCRIPTION:레슬링 - 남자 자유형 86kg 16강
+SUMMARY:🤼 Fateh BENFERDJALLAH 🇩🇿 - 🇯🇵 ISHIGURO Hayato
+LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T093500Z-athletics--4-X-100M-1

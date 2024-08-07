@@ -852,6 +852,22 @@ SUMMARY:🚴 女子ケイリン第1ラウンド
 LOCATION:ヴェロドローム・ナシオナル
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T131000Z-cycling-track-
+DTSTAMP:20240807T131000Z
+DTSTART:20240807T131000Z
+DTEND:20240807T133000Z
+DESCRIPTION:自転車トラックレース - 女子ケイリン敗者復活戦\n🇦🇺 Chloe MORAN\n🇲🇽 Daniela
+  GAXIOLA GONZALEZ\n🇳🇬 Ese UKPESERAYE\n🇧🇪 Julie NICOLAES\n🇬🇧 Katy
+  MARCHANT\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane
+  GENEST\n🇵🇱 Marlena KARWACKA\n🇨🇴 Martha BAYONA PINEDA\n🇮🇹 Miriam
+  VECE\n🇲🇾 Nurul Izzah Izzati MOHD ASRI\n🇯🇵 OHTA Riyu\n🇳🇿 Rebecca
+  PETCH\n🇮🇹 Sara FIORIN\n🇨🇴 Stefany CUADRADO FLOREZ\n🇳🇱 Steffie van
+  der PEET\n🇫🇷 Taky Marie Divine KOUAME\n🇵🇱 Urszula LOS\n🇲🇽 Yuli
+  VERDUGO OSUNA
+SUMMARY:🚴 女子ケイリン敗者復活戦
+LOCATION:ヴェロドローム・ナシオナル
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T173500Z-athletics-400M
 DTSTAMP:20240807T173500Z
 DTSTART:20240807T173500Z
@@ -962,6 +978,15 @@ DESCRIPTION:陸上競技 - 男子4×100mリレー予選\n🇺🇸 アメリカ�
   フランス\n🇧🇷 ブラジル\n🇱🇷 リベリア\n🇨🇳 中国\n🇿🇦 南アフリカ\n🇯🇵 日本\n🇬🇧 英国
 SUMMARY:🏃 男子4×100mリレー予選
 LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T094200Z-wrestling-57KG1-NGR-ALG
+DTSTAMP:20240808T094200Z
+DTSTART:20240808T094200Z
+DTEND:20240808T094900Z
+DESCRIPTION:レスリング - 女子フリースタイル57kg級1回戦
+SUMMARY:🤼 Odunayo Folasade ADEKUOROYE 🇳🇬 - 🇩🇿 Chaimaa Fouzia AOUISSI
+LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T100000Z-athletics-800M

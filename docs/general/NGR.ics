@@ -863,6 +863,22 @@ SUMMARY:🚴 Women's Keirin, First Round
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T131000Z-cycling-track-WOMENS-KEIRIN-REPECHAGES
+DTSTAMP:20240807T131000Z
+DTSTART:20240807T131000Z
+DTEND:20240807T133000Z
+DESCRIPTION:Cycling Track - Women's Keirin, Repechages\n🇦🇺 Chloe
+  MORAN\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇬 Ese UKPESERAYE\n🇧🇪 Julie
+  NICOLAES\n🇬🇧 Katy MARCHANT\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina
+  CLONAN\n🇨🇦 Lauriane GENEST\n🇵🇱 Marlena KARWACKA\n🇨🇴 Martha BAYONA
+  PINEDA\n🇮🇹 Miriam VECE\n🇲🇾 Nurul Izzah Izzati MOHD ASRI\n🇯🇵 OHTA
+  Riyu\n🇳🇿 Rebecca PETCH\n🇮🇹 Sara FIORIN\n🇨🇴 Stefany CUADRADO
+  FLOREZ\n🇳🇱 Steffie van der PEET\n🇫🇷 Taky Marie Divine KOUAME\n🇵🇱
+  Urszula LOS\n🇲🇽 Yuli VERDUGO OSUNA
+SUMMARY:🚴 Women's Keirin, Repechages
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T173500Z-athletics-MENS-400M-HURDLES-SEMI-FINAL
 DTSTAMP:20240807T173500Z
 DTSTART:20240807T173500Z
@@ -975,6 +991,15 @@ DESCRIPTION:Athletics - Men's 4 x 100m Relay Round 1\n🇦🇺 AUS\n🇧🇷
   ITA\n🇯🇲 JAM\n🇯🇵 JPN\n🇱🇷 LBR\n🇳🇱 NED\n🇳🇬 NGR\n🇿🇦 RSA\n🇺🇸 USA
 SUMMARY:🏃 Men's 4 x 100m Relay Round 1
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T094200Z-wrestling-WOMENS-FREESTYLE-57KG-18-FINAL-NGR-ALG
+DTSTAMP:20240808T094200Z
+DTSTART:20240808T094200Z
+DTEND:20240808T094900Z
+DESCRIPTION:Wrestling - Women's Freestyle 57kg 1/8 Final
+SUMMARY:🤼 Odunayo Folasade ADEKUOROYE 🇳🇬 - 🇩🇿 Chaimaa Fouzia AOUISSI
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T100000Z-athletics-MENS-800M-REPECHAGE-ROUND

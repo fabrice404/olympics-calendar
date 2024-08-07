@@ -5813,6 +5813,22 @@ SUMMARY:🏊 Трамплин 3м, предварительный раунд (ж
 LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T131000Z-cycling-track--
+DTSTAMP:20240807T131000Z
+DTSTART:20240807T131000Z
+DTEND:20240807T133000Z
+DESCRIPTION:Трековые велогонки - Кейрин, утешительный раунд (ж)\n🇦🇺 Chloe
+  MORAN\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇬 Ese UKPESERAYE\n🇧🇪 Julie
+  NICOLAES\n🇬🇧 Katy MARCHANT\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina
+  CLONAN\n🇨🇦 Lauriane GENEST\n🇵🇱 Marlena KARWACKA\n🇨🇴 Martha BAYONA
+  PINEDA\n🇮🇹 Miriam VECE\n🇲🇾 Nurul Izzah Izzati MOHD ASRI\n🇯🇵 OHTA
+  Riyu\n🇳🇿 Rebecca PETCH\n🇮🇹 Sara FIORIN\n🇨🇴 Stefany CUADRADO
+  FLOREZ\n🇳🇱 Steffie van der PEET\n🇫🇷 Taky Marie Divine KOUAME\n🇵🇱
+  Urszula LOS\n🇲🇽 Yuli VERDUGO OSUNA
+SUMMARY:🚴 Кейрин, утешительный раунд (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T140000Z-sailing--12-
 DTSTAMP:20240807T140000Z
 DTSTART:20240807T140000Z
@@ -6089,6 +6105,24 @@ DESCRIPTION:Легкая атлетика - Эстафета 4х100м, раун�
   Франция\n🇨🇭 Швейцария\n🇯🇲 Ямайка
 SUMMARY:🏃 Эстафета 4х100м, раунд 1 (ж)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T091400Z-wrestling--57-18--JPN-CAN
+DTSTAMP:20240808T091400Z
+DTSTART:20240808T091400Z
+DTEND:20240808T092100Z
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/8 финала (ж)
+SUMMARY:🤼 SAKURAI Tsugumi 🇯🇵 - 🇨🇦 Hannah Fay TAYLOR
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T092800Z-wrestling--86-18--BUL-CAN
+DTSTAMP:20240808T092800Z
+DTSTART:20240808T092800Z
+DTEND:20240808T093500Z
+DESCRIPTION:Борьба - Вольная борьба, 86кг, 1/8 финала (м)
+SUMMARY:🤼 Magomed Eldarovitch RAMAZANOV 🇧🇬 - 🇨🇦 Alexander Robert MOORE
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T093500Z-athletics--4100-1-
