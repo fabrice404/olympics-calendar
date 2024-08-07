@@ -9370,10 +9370,10 @@ SUMMARY:🏃 Men's 5000m Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T094200Z-wrestling-WOMENS-FREESTYLE-53KG-18-FINAL-JPN-USA
-DTSTAMP:20240807T094200Z
-DTSTART:20240807T094200Z
-DTEND:20240807T094900Z
+UID:20240807T093500Z-wrestling-WOMENS-FREESTYLE-53KG-18-FINAL-JPN-USA
+DTSTAMP:20240807T093500Z
+DTSTART:20240807T093500Z
+DTEND:20240807T094200Z
 DESCRIPTION:Wrestling - Women's Freestyle 53kg 1/8 Final
 SUMMARY:🤼 FUJINAMI Akari 🇯🇵 - 🇺🇸 Dominique Olivia PARRISH
 LOCATION:Champ-de-Mars Arena
@@ -9897,12 +9897,12 @@ SUMMARY:🏃 Men's 400m Hurdles Semi-Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T175300Z-wrestling-WOMENS-FREESTYLE-50KG-FINAL-IND-USA
+UID:20240807T175300Z-wrestling-WOMENS-FREESTYLE-50KG-FINAL-CUB-USA
 DTSTAMP:20240807T175300Z
 DTSTART:20240807T175300Z
 DTEND:20240807T180000Z
 DESCRIPTION:Wrestling - Women's Freestyle 50kg Final
-SUMMARY:🤼 Vinesh VINESH 🇮🇳 - 🇺🇸 Sarah Ann HILDEBRANDT
+SUMMARY:🤼 Yusneylis GUZMAN LOPEZ 🇨🇺 - 🇺🇸 Sarah Ann HILDEBRANDT
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -10044,6 +10044,22 @@ SUMMARY:🧗 Women's Boulder & Lead, Semifinal Lead
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T080500Z-athletics-WOMENS-HEPTATHLON-100M-HURDLES
+DTSTAMP:20240808T080500Z
+DTSTART:20240808T080500Z
+DTEND:20240808T082200Z
+DESCRIPTION:Athletics - Women's Heptathlon 100m Hurdles\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇺🇸 Anna HALL\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk
+  VETTER\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪
+  Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇳🇱 Emma OOSTERWEGEL\n🇬🇧 Jade
+  O'DOWDA\n🇬🇧 Katarina JOHNSON-THOMPSON\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha
+  ARAUJO\n🇧🇪 Nafissatou THIAM\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮
+  Saga VANNINEN\n🇳🇱 Sofie DOKTER\n🇩🇪 Sophie WEISSENBERG\n🇮🇹 Sveva
+  GEREVINI\n🇺🇸 Taliyah BROOKS\n🇦🇺 Tori WEST\n🇭🇺 Xenia KRIZSAN
+SUMMARY:🏃 Women's Heptathlon 100m Hurdles
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T083000Z-canoe-sprint-WOMENS-CANOE-SINGLE-200M-HEATS
 DTSTAMP:20240808T083000Z
 DTSTART:20240808T083000Z
@@ -10064,6 +10080,22 @@ SUMMARY:🛶 Women's Canoe Single 200m Heats
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T090500Z-athletics-WOMENS-HEPTATHLON-HIGH-JUMP
+DTSTAMP:20240808T090500Z
+DTSTART:20240808T090500Z
+DTEND:20240808T104900Z
+DESCRIPTION:Athletics - Women's Heptathlon High Jump\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇺🇸 Anna HALL\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk
+  VETTER\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪
+  Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇳🇱 Emma OOSTERWEGEL\n🇬🇧 Jade
+  O'DOWDA\n🇬🇧 Katarina JOHNSON-THOMPSON\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha
+  ARAUJO\n🇧🇪 Nafissatou THIAM\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮
+  Saga VANNINEN\n🇳🇱 Sofie DOKTER\n🇩🇪 Sophie WEISSENBERG\n🇮🇹 Sveva
+  GEREVINI\n🇺🇸 Taliyah BROOKS\n🇦🇺 Tori WEST\n🇭🇺 Xenia KRIZSAN
+SUMMARY:🏃 Women's Heptathlon High Jump
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T091100Z-taekwondo-WOMEN-57KG-ROUND-OF-16-USA-TUN
 DTSTAMP:20240808T091100Z
 DTSTART:20240808T091100Z
@@ -10080,6 +10112,22 @@ DTEND:20240808T161500Z
 DESCRIPTION:Volleyball - Women's Semifinals
 SUMMARY:🏐 BRA 🇧🇷 - 🇺🇸 USA
 LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173500Z-athletics-WOMENS-HEPTATHLON-SHOT-PUT
+DTSTAMP:20240808T173500Z
+DTSTART:20240808T173500Z
+DTEND:20240808T181700Z
+DESCRIPTION:Athletics - Women's Heptathlon Shot Put\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇺🇸 Anna HALL\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk
+  VETTER\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪
+  Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇳🇱 Emma OOSTERWEGEL\n🇬🇧 Jade
+  O'DOWDA\n🇬🇧 Katarina JOHNSON-THOMPSON\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha
+  ARAUJO\n🇧🇪 Nafissatou THIAM\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮
+  Saga VANNINEN\n🇳🇱 Sofie DOKTER\n🇩🇪 Sophie WEISSENBERG\n🇮🇹 Sveva
+  GEREVINI\n🇺🇸 Taliyah BROOKS\n🇦🇺 Tori WEST\n🇭🇺 Xenia KRIZSAN
+SUMMARY:🏃 Women's Heptathlon Shot Put
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T173500Z-water-polo-WOMENS-SEMIFINAL-AUS-USA
@@ -10101,6 +10149,22 @@ DESCRIPTION:Athletics - Women's Long Jump Final\n🇯🇲 Ackelia SMITH\n🇷�
   KOALA\n🇺🇸 Monae' NICHOLS\n🇳🇬 Prestina Oluchi OCHONOGOR\n🇳🇬 Ruth
   USORO\n🇺🇸 Tara DAVIS-WOODHALL
 SUMMARY:🏃 Women's Long Jump Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T185500Z-athletics-WOMENS-HEPTATHLON-200M
+DTSTAMP:20240808T185500Z
+DTSTART:20240808T185500Z
+DTEND:20240808T191200Z
+DESCRIPTION:Athletics - Women's Heptathlon 200m\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇺🇸 Anna HALL\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk
+  VETTER\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪
+  Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇳🇱 Emma OOSTERWEGEL\n🇬🇧 Jade
+  O'DOWDA\n🇬🇧 Katarina JOHNSON-THOMPSON\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha
+  ARAUJO\n🇧🇪 Nafissatou THIAM\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮
+  Saga VANNINEN\n🇳🇱 Sofie DOKTER\n🇩🇪 Sophie WEISSENBERG\n🇮🇹 Sveva
+  GEREVINI\n🇺🇸 Taliyah BROOKS\n🇦🇺 Tori WEST\n🇭🇺 Xenia KRIZSAN
+SUMMARY:🏃 Women's Heptathlon 200m
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

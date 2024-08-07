@@ -7341,6 +7341,22 @@ SUMMARY:🧗 Women's Boulder & Lead, Semifinal Lead
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T080500Z-athletics-WOMENS-HEPTATHLON-100M-HURDLES
+DTSTAMP:20240808T080500Z
+DTSTART:20240808T080500Z
+DTEND:20240808T082200Z
+DESCRIPTION:Athletics - Women's Heptathlon 100m Hurdles\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇺🇸 Anna HALL\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk
+  VETTER\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪
+  Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇳🇱 Emma OOSTERWEGEL\n🇬🇧 Jade
+  O'DOWDA\n🇬🇧 Katarina JOHNSON-THOMPSON\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha
+  ARAUJO\n🇧🇪 Nafissatou THIAM\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮
+  Saga VANNINEN\n🇳🇱 Sofie DOKTER\n🇩🇪 Sophie WEISSENBERG\n🇮🇹 Sveva
+  GEREVINI\n🇺🇸 Taliyah BROOKS\n🇦🇺 Tori WEST\n🇭🇺 Xenia KRIZSAN
+SUMMARY:🏃 Women's Heptathlon 100m Hurdles
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T085900Z-taekwondo-MEN-68KG-ROUND-OF-16-PNG-GBR
 DTSTAMP:20240808T085900Z
 DTSTART:20240808T085900Z
@@ -7350,6 +7366,22 @@ SUMMARY:🥋 Kevin Sogo KASSMAN 🇵🇬 - 🇬🇧 Bradly SINDEN
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T090500Z-athletics-WOMENS-HEPTATHLON-HIGH-JUMP
+DTSTAMP:20240808T090500Z
+DTSTART:20240808T090500Z
+DTEND:20240808T104900Z
+DESCRIPTION:Athletics - Women's Heptathlon High Jump\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇺🇸 Anna HALL\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk
+  VETTER\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪
+  Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇳🇱 Emma OOSTERWEGEL\n🇬🇧 Jade
+  O'DOWDA\n🇬🇧 Katarina JOHNSON-THOMPSON\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha
+  ARAUJO\n🇧🇪 Nafissatou THIAM\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮
+  Saga VANNINEN\n🇳🇱 Sofie DOKTER\n🇩🇪 Sophie WEISSENBERG\n🇮🇹 Sveva
+  GEREVINI\n🇺🇸 Taliyah BROOKS\n🇦🇺 Tori WEST\n🇭🇺 Xenia KRIZSAN
+SUMMARY:🏃 Women's Heptathlon High Jump
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T100000Z-taekwondo-WOMEN-57KG-ROUND-OF-16-GBR-MKD
 DTSTAMP:20240808T100000Z
 DTSTART:20240808T100000Z
@@ -7357,6 +7389,38 @@ DTEND:20240808T101300Z
 DESCRIPTION:Taekwondo - Women -57kg Round of 16
 SUMMARY:🥋 Jade JONES 🇬🇧 - 🇲🇰 Miljana RELJIKJ
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T173500Z-athletics-WOMENS-HEPTATHLON-SHOT-PUT
+DTSTAMP:20240808T173500Z
+DTSTART:20240808T173500Z
+DTEND:20240808T181700Z
+DESCRIPTION:Athletics - Women's Heptathlon Shot Put\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇺🇸 Anna HALL\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk
+  VETTER\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪
+  Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇳🇱 Emma OOSTERWEGEL\n🇬🇧 Jade
+  O'DOWDA\n🇬🇧 Katarina JOHNSON-THOMPSON\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha
+  ARAUJO\n🇧🇪 Nafissatou THIAM\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮
+  Saga VANNINEN\n🇳🇱 Sofie DOKTER\n🇩🇪 Sophie WEISSENBERG\n🇮🇹 Sveva
+  GEREVINI\n🇺🇸 Taliyah BROOKS\n🇦🇺 Tori WEST\n🇭🇺 Xenia KRIZSAN
+SUMMARY:🏃 Women's Heptathlon Shot Put
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T185500Z-athletics-WOMENS-HEPTATHLON-200M
+DTSTAMP:20240808T185500Z
+DTSTART:20240808T185500Z
+DTEND:20240808T191200Z
+DESCRIPTION:Athletics - Women's Heptathlon 200m\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇺🇸 Anna HALL\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk
+  VETTER\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇦🇺 Camryn NEWTON-SMITH\n🇩🇪
+  Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇳🇱 Emma OOSTERWEGEL\n🇬🇧 Jade
+  O'DOWDA\n🇬🇧 Katarina JOHNSON-THOMPSON\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha
+  ARAUJO\n🇧🇪 Nafissatou THIAM\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮
+  Saga VANNINEN\n🇳🇱 Sofie DOKTER\n🇩🇪 Sophie WEISSENBERG\n🇮🇹 Sveva
+  GEREVINI\n🇺🇸 Taliyah BROOKS\n🇦🇺 Tori WEST\n🇭🇺 Xenia KRIZSAN
+SUMMARY:🏃 Women's Heptathlon 200m
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T053000Z-marathon-swimming-MENS-10KM
