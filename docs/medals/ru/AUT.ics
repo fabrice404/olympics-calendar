@@ -350,19 +350,6 @@ SUMMARY:🏊 Смешанная эстафета
 LOCATION:Мост Александра III
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T134300Z-sailing--
-DTSTAMP:20240807T134300Z
-DTSTART:20240807T134300Z
-DTEND:20240807T140300Z
-DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (микст)\n🇵🇹
-  COSTA/JOAO\n🇸🇪 DAHLBERG/KARLSSON\n🇧🇷 DUARTE HAD/SWAN\n🇮🇱
-  HASSON/LASRY\n🇦🇺 JERWOOD/NICHOLAS\n🇫🇷 LECOINTRE/MION\n🇨🇭
-  MERMOD/SIEGENTHALER\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹 VADLAU/MAEHR\n🇪🇸
-  XAMMAR/BRUGMAN
-SUMMARY:⛵ Швертбот, медальная гонка (микст)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240807T182500Z-athletics--
 DTSTAMP:20240807T182500Z
 DTSTART:20240807T182500Z
@@ -374,6 +361,19 @@ DESCRIPTION:Легкая атлетика - Метание диска, фина�
   MULLINGS\n🇯🇲 Roje STONA\n🇯🇲 Traves SMIKLE
 SUMMARY:🏃 Метание диска, финал (м)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T094300Z-sailing--
+DTSTAMP:20240808T094300Z
+DTSTART:20240808T094300Z
+DTEND:20240808T100300Z
+DESCRIPTION:Парусный спорт - Швертбот, медальная гонка (микст)\n🇵🇹
+  COSTA/JOAO\n🇸🇪 DAHLBERG/KARLSSON\n🇧🇷 DUARTE HAD/SWAN\n🇮🇱
+  HASSON/LASRY\n🇦🇺 JERWOOD/NICHOLAS\n🇫🇷 LECOINTRE/MION\n🇨🇭
+  MERMOD/SIEGENTHALER\n🇯🇵 OKADA/YOSHIOKA\n🇦🇹 VADLAU/MAEHR\n🇪🇸
+  XAMMAR/BRUGMAN
+SUMMARY:⛵ Швертбот, медальная гонка (микст)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T053000Z-marathon-swimming-10-

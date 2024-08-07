@@ -1551,6 +1551,15 @@ SUMMARY:🏃 Прыжки с шестом, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T172800Z-cycling-track---USA-NZL
+DTSTAMP:20240807T172800Z
+DTSTART:20240807T172800Z
+DTEND:20240807T173800Z
+DESCRIPTION:Трековые велогонки - Командная гонка преследования, финал (ж)
+SUMMARY:🚴 США 🇺🇸 - 🇳🇿 Новая Зеландия
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T173000Z-artistic-swimming--
 DTSTAMP:20240807T173000Z
 DTSTART:20240807T173000Z
@@ -1664,6 +1673,18 @@ DESCRIPTION:Легкая атлетика - 400м с/б, финал (ж)\n🇺�
   CLAYTON\n🇨🇦 Savannah SUTHERLAND\n🇯🇲 Shiann SALMON\n🇺🇸 Sydney
   McLAUGHLIN-LEVRONE
 SUMMARY:🏃 400м с/б, финал (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T194500Z-athletics-110-
+DTSTAMP:20240808T194500Z
+DTSTART:20240808T194500Z
+DTEND:20240808T194600Z
+DESCRIPTION:Легкая атлетика - 110м с/б, финал (м)\n🇺🇸 Daniel
+  ROBERTS\n🇪🇸 Enrique LLOPIS\n🇺🇸 Freddie CRITTENDEN\n🇺🇸 Grant
+  HOLLOWAY\n🇯🇲 Hansle PARCHMENT\n🇯🇵 MURATAKE Rachid\n🇯🇲 Orlando
+  BENNETT\n🇯🇲 Rasheed BROADBELL
+SUMMARY:🏃 110м с/б, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT

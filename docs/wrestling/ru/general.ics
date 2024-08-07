@@ -1408,6 +1408,15 @@ SUMMARY:🤼 Yusneylis GUZMAN LOPEZ 🇨🇺 - 🇺🇸 Sarah Ann HILDEBRANDT
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T090000Z-wrestling--53--PRK-ROU
+DTSTAMP:20240808T090000Z
+DTSTART:20240808T090000Z
+DTEND:20240808T090700Z
+DESCRIPTION:Борьба - Вольная борьба, 53кг, утешительный раунд
+SUMMARY:🤼 CHOE Hyo Gyong 🇰🇵 - 🇷🇴 Andreea Beatrice ANA
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T090000Z-wrestling--87--COL-POL
 DTSTAMP:20240808T090000Z
 DTSTART:20240808T090000Z
@@ -1426,12 +1435,12 @@ SUMMARY:🤼 Mate NEMES 🇷🇸 - 🇰🇬 Amantur ISMAILOV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T090000Z-wrestling--53-
-DTSTAMP:20240808T090000Z
-DTSTART:20240808T090000Z
-DTEND:20240808T090700Z
+UID:20240808T090700Z-wrestling--53--USA-MGL
+DTSTAMP:20240808T090700Z
+DTSTART:20240808T090700Z
+DTEND:20240808T091400Z
 DESCRIPTION:Борьба - Вольная борьба, 53кг, утешительный раунд
-SUMMARY:🤼 Вольная борьба, 53кг, утешительный раунд
+SUMMARY:🤼 Dominique Olivia PARRISH 🇺🇸 - 🇲🇳 Khulan BATKHUYAG
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -1450,15 +1459,6 @@ DTSTART:20240808T090700Z
 DTEND:20240808T091400Z
 DESCRIPTION:Борьба - Греко-римская, 87кг, утешительный раунд (м)
 SUMMARY:🤼 Turpal Ali BISULTANOV 🇩🇰 - 🇬🇪 Lasha GOBADZE
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T090700Z-wrestling--53-
-DTSTAMP:20240808T090700Z
-DTSTART:20240808T090700Z
-DTEND:20240808T091400Z
-DESCRIPTION:Борьба - Вольная борьба, 53кг, утешительный раунд
-SUMMARY:🤼 Вольная борьба, 53кг, утешительный раунд
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -1902,7 +1902,8 @@ UID:20240808T173900Z-wrestling--53-
 DTSTAMP:20240808T173900Z
 DTSTART:20240808T173900Z
 DTEND:20240808T174600Z
-DESCRIPTION:Борьба - Вольная борьба, 53кг, поединок за бронзу (ж)
+DESCRIPTION:Борьба - Вольная борьба, 53кг, поединок за бронзу (ж)\n🇩🇪
+  Annika WENDLE
 SUMMARY:🤼 Вольная борьба, 53кг, поединок за бронзу (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -1911,17 +1912,18 @@ UID:20240808T174600Z-wrestling--53-
 DTSTAMP:20240808T174600Z
 DTSTART:20240808T174600Z
 DTEND:20240808T175300Z
-DESCRIPTION:Борьба - Вольная борьба, 53кг, поединок за бронзу (ж)
+DESCRIPTION:Борьба - Вольная борьба, 53кг, поединок за бронзу (ж)\n🇨🇳
+  PANG Qianyu
 SUMMARY:🤼 Вольная борьба, 53кг, поединок за бронзу (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T175300Z-wrestling--53-
+UID:20240808T175300Z-wrestling--53--ECU-JPN
 DTSTAMP:20240808T175300Z
 DTSTART:20240808T175300Z
 DTEND:20240808T180000Z
 DESCRIPTION:Борьба - Вольная борьба, 53кг, финал (ж)
-SUMMARY:🤼 Вольная борьба, 53кг, финал (ж)
+SUMMARY:🤼 Lucia Yamileth YEPEZ GUZMAN 🇪🇨 - 🇯🇵 FUJINAMI Akari
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
