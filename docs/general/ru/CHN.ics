@@ -8273,12 +8273,12 @@ SUMMARY:🏓 Китай 🇨🇳 - 🇹🇼 Chinese Taipei
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T134500Z-taekwondo--49-
+UID:20240807T134500Z-taekwondo--49--CHN-TUR
 DTSTAMP:20240807T134500Z
 DTSTART:20240807T134500Z
 DTEND:20240807T135800Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 49кг (ж)\n🇨🇳 GUO Qing
-SUMMARY:🥋 Четвертьфинал, до 49кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 49кг (ж)
+SUMMARY:🥋 GUO Qing 🇨🇳 - 🇹🇷 Merve DINCEL KAVURAT
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -8420,6 +8420,15 @@ DESCRIPTION:Парусный спорт - Кайт, гонка 16 (м)\n🇫🇷
   TYSON\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS\n🇨🇴 Victor BOLANOS LOPEZ
 SUMMARY:⛵ Кайт, гонка 16 (м)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T165000Z-wrestling--53--JPN-CHN
+DTSTAMP:20240807T165000Z
+DTSTART:20240807T165000Z
+DTEND:20240807T165700Z
+DESCRIPTION:Борьба - Вольная борьба, 53кг, полуфинал (ж)
+SUMMARY:🤼 FUJINAMI Akari 🇯🇵 - 🇨🇳 PANG Qianyu
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T170000Z-hockey---BEL-CHN

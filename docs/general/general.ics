@@ -32069,17 +32069,17 @@ UID:20240807T115200Z-cycling-track-WOMENS-TEAM-PURSUIT-FIRST-ROUND
 DTSTAMP:20240807T115200Z
 DTSTART:20240807T115200Z
 DTEND:20240807T123000Z
-DESCRIPTION:Cycling Track - Women's Team Pursuit, First Round\n🇳🇿 Ally
-  WOLLASTON\n🇬🇧 Anna MORRIS\n🇨🇦 Ariane BONHOMME\n🇳🇿 Bryony
-  BOTHA\n🇮🇹 Chiara CONSONNI\n🇺🇸 Chloe DYGERT\n🇦🇺 Chloe MORAN\n🇫🇷
-  Clara COPPONI\n🇬🇧 Elinor BARKER\n🇳🇿 Emily SHEARMAN\n🇨🇦 Erin
-  ATTWELL\n🇩🇪 Franziska BRAUSSE\n🇦🇺 Georgia BAKER\n🇺🇸 Jennifer
-  VALENTE\n🇬🇧 Jessica ROBERTS\n🇬🇧 Josie KNIGHT\n🇺🇸 Kristen
-  FAULKNER\n🇩🇪 Laura SUESSEMILCH\n🇮🇹 Letizia PATERNOSTER\n🇺🇸 Lily
-  WILLIAMS\n🇩🇪 Lisa KLEIN\n🇦🇺 Maeve PLOUFFE\n🇨🇦 Maggie
-  COLES-LYSTER\n🇫🇷 Marie le NET\n🇫🇷 Marion BORRAS\n🇮🇹 Martina
-  FIDANZA\n🇩🇪 Mieke KROEGER\n🇳🇿 Nicole SHIELDS\n🇨🇦 Sarah van
-  DAM\n🇦🇺 Sophie EDWARDS\n🇫🇷 Valentine FORTIN\n🇮🇹 Vittoria GUAZZINI
+DESCRIPTION:Cycling Track - Women's Team Pursuit, First Round\n🇦🇺 Alex
+  MANLY\n🇳🇿 Ally WOLLASTON\n🇬🇧 Anna MORRIS\n🇨🇦 Ariane BONHOMME\n🇳🇿
+  Bryony BOTHA\n🇺🇸 Chloe DYGERT\n🇫🇷 Clara COPPONI\n🇬🇧 Elinor
+  BARKER\n🇮🇹 Elisa BALSAMO\n🇳🇿 Emily SHEARMAN\n🇨🇦 Erin ATTWELL\n🇩🇪
+  Franziska BRAUSSE\n🇦🇺 Georgia BAKER\n🇺🇸 Jennifer VALENTE\n🇬🇧
+  Jessica ROBERTS\n🇬🇧 Josie KNIGHT\n🇺🇸 Kristen FAULKNER\n🇩🇪 Laura
+  SUESSEMILCH\n🇮🇹 Letizia PATERNOSTER\n🇺🇸 Lily WILLIAMS\n🇩🇪 Lisa
+  KLEIN\n🇦🇺 Maeve PLOUFFE\n🇨🇦 Maggie COLES-LYSTER\n🇫🇷 Marion
+  BORRAS\n🇮🇹 Martina FIDANZA\n🇩🇪 Mieke KROEGER\n🇳🇿 Nicole
+  SHIELDS\n🇨🇦 Sarah van DAM\n🇦🇺 Sophie EDWARDS\n🇫🇷 Valentine
+  FORTIN\n🇫🇷 Victoire BERTEAU\n🇮🇹 Vittoria GUAZZINI
 SUMMARY:🚴 Women's Team Pursuit, First Round
 LOCATION:National Velodrome
 END:VEVENT
@@ -32351,12 +32351,12 @@ SUMMARY:⛵ Mixed Dinghy Medal Race
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T134500Z-taekwondo-WOMEN-49KG-QUARTERFINAL
+UID:20240807T134500Z-taekwondo-WOMEN-49KG-QUARTERFINAL-CHN-TUR
 DTSTAMP:20240807T134500Z
 DTSTART:20240807T134500Z
 DTEND:20240807T135800Z
-DESCRIPTION:Taekwondo - Women -49kg Quarterfinal\n🇨🇳 GUO Qing
-SUMMARY:🥋 Women -49kg Quarterfinal
+DESCRIPTION:Taekwondo - Women -49kg Quarterfinal
+SUMMARY:🥋 GUO Qing 🇨🇳 - 🇹🇷 Merve DINCEL KAVURAT
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -32630,7 +32630,8 @@ UID:20240807T161500Z-wrestling-MENS-GRECO-ROMAN-67KG-SEMIFINAL
 DTSTAMP:20240807T161500Z
 DTSTART:20240807T161500Z
 DTEND:20240807T162200Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 67kg Semifinal
+DESCRIPTION:Wrestling - Men's Greco-Roman 67kg Semifinal\n🇦🇿 Hasrat
+  JAFAROV
 SUMMARY:🤼 Men's Greco-Roman 67kg Semifinal
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -32672,7 +32673,8 @@ UID:20240807T162900Z-wrestling-MENS-GRECO-ROMAN-87KG-SEMIFINAL
 DTSTAMP:20240807T162900Z
 DTSTART:20240807T162900Z
 DTEND:20240807T163600Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 87kg Semifinal
+DESCRIPTION:Wrestling - Men's Greco-Roman 87kg Semifinal\n🇮🇷 Alireza
+  MOHMADIPIANI
 SUMMARY:🤼 Men's Greco-Roman 87kg Semifinal
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -32713,13 +32715,12 @@ SUMMARY:🤼 Lucia Yamileth YEPEZ GUZMAN 🇪🇨 - 🇩🇪 Annika WENDLE
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T165000Z-wrestling-WOMENS-FREESTYLE-53KG-SEMIFINAL
+UID:20240807T165000Z-wrestling-WOMENS-FREESTYLE-53KG-SEMIFINAL-JPN-CHN
 DTSTAMP:20240807T165000Z
 DTSTART:20240807T165000Z
 DTEND:20240807T165700Z
-DESCRIPTION:Wrestling - Women's Freestyle 53kg Semifinal\n🇯🇵 FUJINAMI
-  Akari
-SUMMARY:🤼 Women's Freestyle 53kg Semifinal
+DESCRIPTION:Wrestling - Women's Freestyle 53kg Semifinal
+SUMMARY:🤼 FUJINAMI Akari 🇯🇵 - 🇨🇳 PANG Qianyu
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
