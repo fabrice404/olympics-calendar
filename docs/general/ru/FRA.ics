@@ -9619,6 +9619,15 @@ SUMMARY:⛵ Кайт, гонка 08 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T102400Z-wrestling--67-14--ARM-FRA
+DTSTAMP:20240807T102400Z
+DTSTART:20240807T102400Z
+DTEND:20240807T103100Z
+DESCRIPTION:Борьба - Греко-римская, 67кг, 1/4 финала (м)
+SUMMARY:🤼 Slavik GALSTYAN 🇦🇲 - 🇫🇷 Mamadassa SYLLA
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T103000Z-skateboarding--
 DTSTAMP:20240807T103000Z
 DTSTART:20240807T103000Z
@@ -10341,6 +10350,26 @@ DESCRIPTION:Легкая атлетика - Эстафета 4х100м, раун�
   Нигерия\n🇳🇱 Нидерланды\n🇺🇸 США\n🇫🇷 Франция\n🇿🇦 Южная Африка\n🇯🇲
   Ямайка\n🇯🇵 Япония
 SUMMARY:🏃 Эстафета 4х100м, раунд 1 (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T100000Z-athletics-800-
+DTSTAMP:20240808T100000Z
+DTSTART:20240808T100000Z
+DTEND:20240808T102600Z
+DESCRIPTION:Легкая атлетика - 800м, утешительный раунд (м)\n🇲🇦 Abdelati
+  EL GUESSE\n🇸🇸 Abraham GUEM\n🇶🇦 Abubaker Haydar ABDALLA\n🇪🇸 Adrian
+  BEN\n🇸🇴 Ali Idow HASSAN\n🇫🇷 Benjamin ROBERT\n🇺🇸 Brandon
+  MILLER\n🇰🇭 Bunthorn CHHUN\n🇫🇷 Corentin le CLEZIO\n🇩🇲 Dennick
+  LUKE\n🇳🇬 Edose IBADIN\n🇪🇸 Elvin Josue CANALES\n🇻🇨 Handal
+  ROBAN\n🇨🇿 Jakub DUDYCHA\n🇳🇿 James PRESTON\n🇲🇽 Jesus Tonatiu
+  LOPEZ\n🇻🇪 Jose MAITA\n🇦🇺 Joseph DENG\n🇧🇼 Kethobogile HAINGURA\n🇰🇪
+  Koitatoi KIDALI\n🇵🇱 Mateusz BORKOWSKI\n🇩🇿 Mohamed Ali GOUANED\n🇵🇸
+  Mohammed DWEDAR\n🏳️ Musa SULIMAN\n🇯🇲 Navasky ANDERSON\n🇦🇺 Peter
+  BOL\n🇧🇪 Pieter SISK\n🇳🇱 Ryan CLARKE\n🇮🇹 Simone BARONTINI\n🇩🇿
+  Slimane MOULA\n🇧🇪 Tibo de SMET\n🇳🇴 Tobias GRONSTAD\n🇺🇬 Tom
+  DRADRIGA\n🇧🇼 Tumo NKAPE\n🇦🇲 Yervand MKRTCHYAN
+SUMMARY:🏃 800м, утешительный раунд (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT

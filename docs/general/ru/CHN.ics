@@ -8002,12 +8002,12 @@ SUMMARY:⛵ Кайт, гонка 08 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240807T102400Z-wrestling--53-14-
+UID:20240807T102400Z-wrestling--53-14--CHN-SWE
 DTSTAMP:20240807T102400Z
 DTSTART:20240807T102400Z
 DTEND:20240807T103100Z
-DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/4 финала (ж)\n🇨🇳 PANG Qianyu
-SUMMARY:🤼 Вольная борьба, 53кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 53кг, 1/4 финала (ж)
+SUMMARY:🤼 PANG Qianyu 🇨🇳 - 🇸🇪 Emma Jonna MALMGREN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -8192,6 +8192,20 @@ SUMMARY:🛶 Байдарки-одиночки 1000м, четвертьфина�
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T124000Z-canoe-sprint--1000-
+DTSTAMP:20240807T124000Z
+DTSTART:20240807T124000Z
+DTEND:20240807T130700Z
+DESCRIPTION:Гребной спринт - Каноэ-одиночки 1000м, четвертьфиналы (м)\n🇭🇺
+  Balazs ADOLF\n🇦🇴 Benilson SANDA\n🇮🇹 Carlo TACCHINI\n🇭🇺 Daniel
+  FEJES\n🏳️ Fernando Dayan JORGE ENRIQUEZ\n🇹🇳 Ghailene KHATTALI\n🇨🇳 JI
+  Bowen\n🇨🇺 Jose Ramon PELIER CORDOVA\n🇹🇼 LAI Kuan-Chieh\n🇧🇷 Mateus
+  NUNES BASTOS dos SANTOS\n🇮🇷 Mohammad Nabi REZAEI\n🇮🇹 Nicolae
+  CRACIUN\n🇪🇸 Pablo CRESPO\n🇺🇦 Pavlo ALTUKHOV\n🇰🇿 Sergey YEMELYANOV
+SUMMARY:🛶 Каноэ-одиночки 1000м, четвертьфиналы (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T124300Z-sailing--11-
 DTSTAMP:20240807T124300Z
 DTSTART:20240807T124300Z
@@ -8246,6 +8260,15 @@ DTEND:20240807T160000Z
 DESCRIPTION:Настольный теннис - 1/4 финала, командный разряд (ж)
 SUMMARY:🏓 Китай 🇨🇳 - 🇹🇼 Chinese Taipei
 LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T134500Z-taekwondo--49-
+DTSTAMP:20240807T134500Z
+DTSTART:20240807T134500Z
+DTEND:20240807T135800Z
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 49кг (ж)\n🇨🇳 GUO Qing
+SUMMARY:🥋 Четвертьфинал, до 49кг (ж)
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T140000Z-sailing--12-
