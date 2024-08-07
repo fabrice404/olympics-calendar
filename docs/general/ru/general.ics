@@ -31940,7 +31940,7 @@ BEGIN:VEVENT
 UID:20240807T103500Z-sport-climbing--
 DTSTAMP:20240807T103500Z
 DTSTART:20240807T103500Z
-DTEND:20240807T104300Z
+DTEND:20240807T104100Z
 DESCRIPTION:Спортивное скалолазание - Скорость, четвертьфиналы (ж)
 SUMMARY:🧗 Скорость, четвертьфиналы (ж)
 LOCATION:Скалодром «Ле-Бурже»
@@ -32010,7 +32010,7 @@ BEGIN:VEVENT
 UID:20240807T104630Z-sport-climbing--
 DTSTAMP:20240807T104630Z
 DTSTART:20240807T104630Z
-DTEND:20240807T105030Z
+DTEND:20240807T104830Z
 DESCRIPTION:Спортивное скалолазание - Скорость, полуфиналы (ж)
 SUMMARY:🧗 Скорость, полуфиналы (ж)
 LOCATION:Скалодром «Ле-Бурже»
@@ -32034,7 +32034,7 @@ BEGIN:VEVENT
 UID:20240807T105430Z-sport-climbing--
 DTSTAMP:20240807T105430Z
 DTSTART:20240807T105430Z
-DTEND:20240807T105930Z
+DTEND:20240807T105700Z
 DESCRIPTION:Спортивное скалолазание - Скорость, финал (ж)\n🇵🇱 Aleksandra
   KALUCKA\n🇵🇱 Aleksandra MIROSLAW\n🇨🇳 DENG Lijuan\n🇮🇩 Rajiah
   SALLSABILLAH
@@ -32751,7 +32751,8 @@ UID:20240807T162200Z-wrestling--67-
 DTSTAMP:20240807T162200Z
 DTSTART:20240807T162200Z
 DTEND:20240807T162900Z
-DESCRIPTION:Борьба - Греко-римская, 67кг, полуфинал (м)
+DESCRIPTION:Борьба - Греко-римская, 67кг, полуфинал (м)\n🇦🇲 Slavik
+  GALSTYAN
 SUMMARY:🤼 Греко-римская, 67кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -32788,7 +32789,8 @@ UID:20240807T163600Z-wrestling--87-
 DTSTAMP:20240807T163600Z
 DTSTART:20240807T163600Z
 DTEND:20240807T164300Z
-DESCRIPTION:Борьба - Греко-римская, 87кг, полуфинал (м)
+DESCRIPTION:Борьба - Греко-римская, 87кг, полуфинал (м)\n🇧🇬 Semen
+  Sergeevich NOVIKOV
 SUMMARY:🤼 Греко-римская, 87кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -33564,7 +33566,14 @@ UID:20240808T083500Z-athletics-100-
 DTSTAMP:20240808T083500Z
 DTSTART:20240808T083500Z
 DTEND:20240808T085200Z
-DESCRIPTION:Легкая атлетика - 100м с/б, утешительный раунд (ж)
+DESCRIPTION:Легкая атлетика - 100м с/б, утешительный раунд (ж)\n🇦🇺
+  Celeste MUCCI\n🇧🇸 Denisha CARTWRIGHT\n🇱🇷 Ebony MORRISON\n🇭🇹 Emelia
+  CHATFIELD\n🇭🇺 Greta KEREKES\n🇮🇳 Jyothi YARRAJI\n🇨🇳 LIN Yuwei\n🇫🇷
+  Laeticia BAPTE\n🇦🇺 Liz CLAY\n🇫🇮 Lotta HARALA\n🇭🇺 Luca KOZAK\n🇳🇱
+  Maayke TJIN-A-LIM\n🇪🇨 Maribel Vanessa CAICEDO\n🇿🇦 Marione
+  FOURIE\n🇨🇦 Michelle HARRISON\n🇦🇺 Michelle JENNEKE\n🇫🇮 Reetta
+  HURSKE\n🇲🇬 Sidonie FIADANANTSOA\n🇯🇵 TANAKA Yumi\n🇸🇰 Viktoria
+  FORSTER\n🇨🇳 WU Yanni
 SUMMARY:🏃 100м с/б, утешительный раунд (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

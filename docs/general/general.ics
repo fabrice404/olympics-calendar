@@ -31857,7 +31857,7 @@ BEGIN:VEVENT
 UID:20240807T103500Z-sport-climbing-WOMENS-SPEED-QUARTERFINALS
 DTSTAMP:20240807T103500Z
 DTSTART:20240807T103500Z
-DTEND:20240807T104300Z
+DTEND:20240807T104100Z
 DESCRIPTION:Sport Climbing - Women's Speed, Quarterfinals
 SUMMARY:🧗 Women's Speed, Quarterfinals
 LOCATION:Le Bourget Climbing Venue
@@ -31927,7 +31927,7 @@ BEGIN:VEVENT
 UID:20240807T104630Z-sport-climbing-WOMENS-SPEED-SEMIFINALS
 DTSTAMP:20240807T104630Z
 DTSTART:20240807T104630Z
-DTEND:20240807T105030Z
+DTEND:20240807T104830Z
 DESCRIPTION:Sport Climbing - Women's Speed, Semifinals
 SUMMARY:🧗 Women's Speed, Semifinals
 LOCATION:Le Bourget Climbing Venue
@@ -31951,7 +31951,7 @@ BEGIN:VEVENT
 UID:20240807T105430Z-sport-climbing-WOMENS-SPEED-FINAL
 DTSTAMP:20240807T105430Z
 DTSTART:20240807T105430Z
-DTEND:20240807T105930Z
+DTEND:20240807T105700Z
 DESCRIPTION:Sport Climbing - Women's Speed, Final\n🇵🇱 Aleksandra
   KALUCKA\n🇵🇱 Aleksandra MIROSLAW\n🇨🇳 DENG Lijuan\n🇮🇩 Rajiah
   SALLSABILLAH
@@ -32162,12 +32162,14 @@ UID:20240807T123000Z-cycling-track-MENS-SPRINT-132-FINALS
 DTSTAMP:20240807T123000Z
 DTSTART:20240807T123000Z
 DTEND:20240807T131000Z
-DESCRIPTION:Cycling Track - Men's Sprint, 1/32 Finals\n🇬🇧 Hamish
-  TURNBULL\n🇳🇱 Harrie LAVREYSEN\n🇬🇧 Jack CARLIN\n🇸🇷 Jair TJON EN
-  FA\n🇳🇱 Jeffrey HOOGLAND\n🇦🇺 Leigh HOFFMAN\n🇦🇺 Matthew
-  RICHARDSON\n🇩🇪 Maximilian DOERNBACH\n🇮🇱 Mikhail YAKOVLEV\n🇲🇾
-  Muhammad Shah Firdaus SAHROM\n🇹🇹 Nicholas PAUL\n🇨🇦 Nick WAMMES\n🇯🇵
-  OBARA Yuta\n🇯🇵 OTA Kaiya\n🇫🇷 Sebastien VIGIER\n🇨🇦 Tyler RORKE\n🇱🇹
+DESCRIPTION:Cycling Track - Men's Sprint, 1/32 Finals\n🇨🇴 Cristian David
+  ORTEGA FONTALVO\n🇬🇧 Hamish TURNBULL\n🇳🇱 Harrie LAVREYSEN\n🇬🇧 Jack
+  CARLIN\n🇸🇷 Jair TJON EN FA\n🇳🇱 Jeffrey HOOGLAND\n🇦🇺 Leigh
+  HOFFMAN\n🇩🇪 Luca SPIEGEL\n🇵🇱 Mateusz RUDYK\n🇦🇺 Matthew
+  RICHARDSON\n🇩🇪 Maximilian DOERNBACH\n🇮🇱 Mikhail YAKOVLEV\n🇲🇾 Mohd
+  Azizulhasni AWANG\n🇲🇾 Muhammad Shah Firdaus SAHROM\n🇹🇹 Nicholas
+  PAUL\n🇨🇦 Nick WAMMES\n🇯🇵 OBARA Yuta\n🇯🇵 OTA Kaiya\n🇫🇷 Rayan
+  HELAL\n🇳🇿 Sam DAKIN\n🇫🇷 Sebastien VIGIER\n🇨🇦 Tyler RORKE\n🇱🇹
   Vasilijus LENDEL\n🇨🇳 ZHOU Yu
 SUMMARY:🚴 Men's Sprint, 1/32 Finals
 LOCATION:National Velodrome
@@ -32660,7 +32662,8 @@ UID:20240807T162200Z-wrestling-MENS-GRECO-ROMAN-67KG-SEMIFINAL
 DTSTAMP:20240807T162200Z
 DTSTART:20240807T162200Z
 DTEND:20240807T162900Z
-DESCRIPTION:Wrestling - Men's Greco-Roman 67kg Semifinal
+DESCRIPTION:Wrestling - Men's Greco-Roman 67kg Semifinal\n🇦🇲 Slavik
+  GALSTYAN
 SUMMARY:🤼 Men's Greco-Roman 67kg Semifinal
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
