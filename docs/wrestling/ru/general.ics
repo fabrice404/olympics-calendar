@@ -1691,7 +1691,8 @@ UID:20240808T101000Z-wrestling--57-14-
 DTSTAMP:20240808T101000Z
 DTSTART:20240808T101000Z
 DTEND:20240808T101700Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)\n🇯🇵 SAKURAI
+  Tsugumi
 SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -1718,7 +1719,7 @@ UID:20240808T101700Z-wrestling--57-14-
 DTSTAMP:20240808T101700Z
 DTSTART:20240808T101700Z
 DTEND:20240808T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (м)\n🇮🇳 Aman AMAN
 SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -1876,13 +1877,12 @@ SUMMARY:🤼 Arkadiusz Marcin KULYNYCZ 🇵🇱 - 🇺🇦 Zhan BELENIUK
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T172500Z-wrestling--87-
+UID:20240808T172500Z-wrestling--87--DEN-HUN
 DTSTAMP:20240808T172500Z
 DTSTART:20240808T172500Z
 DTEND:20240808T173200Z
-DESCRIPTION:Борьба - Греко-римская, 87кг, поединок за бронзу (м)\n🇭🇺
-  David LOSONCZI
-SUMMARY:🤼 Греко-римская, 87кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Греко-римская, 87кг, поединок за бронзу (м)
+SUMMARY:🤼 Turpal Ali BISULTANOV 🇩🇰 - 🇭🇺 David LOSONCZI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
