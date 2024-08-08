@@ -486,6 +486,28 @@ SUMMARY:🚣 Majdouline EL ALLAOUI 🇲🇦 - 🇹🇬 Akoko KOMLANVI
 LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
+UID:20240802T091000Z-athletics-15001
+DTSTAMP:20240802T091000Z
+DTSTART:20240802T091000Z
+DTEND:20240802T093600Z
+DESCRIPTION:田径 - 男子1500米第1轮\n🇪🇹 Abdisa FAYISA\n🇦🇺 Adam SPENCER\n🇪🇸
+  Adel MECHAAL\n🇲🇦 Anass ESSAYI\n🇮🇪 Andrew COSCORAN\n🇫🇷 Azeddine
+  HABZ\n🇰🇪 Brian KOMEN\n🇮🇪 Cathal DOYLE\n🇨🇦 Charles
+  PHILIBERT-THIBOUTOT\n🇺🇸 Cole HOCKER\n🇪🇹 Ermias GIRMA\n🇮🇹 Federico
+  RIVA\n🇵🇱 Filip RAK\n🇬🇧 George MILLS\n🇺🇸 Hobbs KESSLER\n🇪🇸 Ignacio
+  FONTES\n🇵🇹 Isaac NADER\n🇳🇴 Jakob INGEBRIGTSEN\n🇧🇪 Jochem
+  VERMEULEN\n🇬🇧 Josh KERR\n🇨🇦 Kieran LUMB\n🇮🇪 Luke McCANN\n🇵🇱
+  Maciej WYDERKA\n🇫🇷 Mael GOUYETTE\n🇪🇸 Mario GARCIA\n🇩🇪 Marius
+  PROBST\n🇳🇴 Narve Gilje NORDAS\n🇬🇧 Neil GOURLEY\n🇳🇱 Niels
+  LAROS\n🇦🇺 Oliver HOARE\n🇮🇹 Ossama MESLEK\n🇮🇹 Pietro ARESE\n🇦🇹
+  Raphael PALLITSCH\n🇰🇪 Reynold CHERUIYOT\n🇩🇪 Robert FARKEN\n🇧🇪 Ruben
+  VERHEYDEN\n🇿🇦 Ryan MPHAHLELE\n🇸🇪 Samuel PIHLSTROM\n🇳🇿 Samuel
+  TANNER\n🇪🇹 Samuel TEFERA\n🇳🇱 Stefan NILLESSEN\n🇦🇺 Stewart
+  McSWEYN\n🇰🇪 Timothy CHERUIYOT\n🇿🇦 Tshepo TSHITE\n🇺🇸 Yared NUGUSE
+SUMMARY:🏃 男子1500米第1轮
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240802T130000Z-football-14-MAR-USA
 DTSTAMP:20240802T130000Z
 DTSTART:20240802T130000Z
@@ -513,6 +535,31 @@ DESCRIPTION:皮划艇激流回旋 - 男子极限皮艇计时赛\n🇬🇧 Adam B
   Shao-Hsuan\n🇸🇳 Yves BOURHIS
 SUMMARY:🛶 男子极限皮艇计时赛
 LOCATION:马恩河畔韦尔水上体育场 - 激流回旋
+END:VEVENT
+BEGIN:VEVENT
+UID:20240802T174500Z-athletics-8001
+DTSTAMP:20240802T174500Z
+DTSTART:20240802T174500Z
+DTEND:20240802T182700Z
+DESCRIPTION:田径 - 女子800米第1轮\n🇦🇺 Abbey CALDWELL\n🇯🇲 Adelle TRACEY\n🇺🇸
+  Allie WILSON\n🇰🇼 Amal AL ROUMI\n🇫🇷 Anais BOURGOIN\n🇸🇮 Anita
+  HORVAT\n🇵🇱 Anna WIELGOSZ\n🇲🇦 Assia RAZIKI\n🇨🇭 Audrey WERRO\n🇦🇺
+  Catriona BISSET\n🇦🇺 Claudia HOLLINGSWORTH\n🇨🇺 Daily COOPER
+  GASPAR\n🇮🇹 Elena BELLO\n🇮🇹 Eloisa COIRO\n🇫🇮 Eveliina
+  MAATTANEN\n🇧🇷 Flavia Maria de LIMA\n🇱🇹 Gabija GALVYDYTE\n🇸🇰
+  Gabriela GAJANOVA\n🇽🇰 Gresa BAKRACI\n🇪🇹 Habitam ALEMU\n🇺🇬 Halimah
+  NAKAAYI\n🇨🇦 Jazz SHUKLA\n🇬🇧 Jemma REEKIE\n🇺🇸 Juliette
+  WHITTAKER\n🇬🇧 Keely HODGKINSON\n🇵🇸 Layla ALMASRI\n🇫🇷 Lena
+  KANDISSOUNON\n🇰🇪 Lilian ODIRA\n🇪🇸 Lorea IBARZABAL\n🇪🇸 Lorena
+  MARTIN\n🇩🇪 Majtie KOLBERG\n🇰🇪 Mary MORAA\n🇯🇲 Natoya
+  GOULE-TOPPIN\n🇧🇭 Nelly JEPKOSGEI\n🇺🇸 Nia AKINS\n🇧🇯 Noelie
+  YARIGO\n🇧🇼 Oratile NOWE\n🏳️ Perina Lokure NAKANG\n🇬🇧 Phoebe
+  GILL\n🇿🇦 Prudence SEKGODISO\n🇨🇭 Rachel PELLAUD\n🇫🇷 Renelle
+  LAMOTE\n🇨🇺 Rose Mary ALMANZA\n🇬🇲 Sanu JALLOW\n🇻🇨 Shafiqua
+  MALONEY\n🇱🇰 Tharushi KARUNARATHNA\n🇪🇹 Tsige DUGUMA\n🇨🇭 Valentina
+  ROSAMILIA\n🇰🇪 Vivian Chebet KIPROTICH\n🇪🇹 Worknesh MESELE
+SUMMARY:🏃 女子800米第1轮
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240803T090000Z-cycling-road-
@@ -595,6 +642,44 @@ SUMMARY:🥊 Caitlin PARKER 🇦🇺 - 🇲🇦 Khadija MARDI
 LOCATION:北巴黎竞技场
 END:VEVENT
 BEGIN:VEVENT
+UID:20240804T103500Z-athletics-4001
+DTSTAMP:20240804T103500Z
+DTSTART:20240804T103500Z
+DTEND:20240804T110800Z
+DESCRIPTION:田径 - 女子400米跨栏第1轮\n🇦🇺 Alanah YUKICH\n🇮🇹 Alice MURARO\n🇳🇴
+  Amalie IUEL\n🇺🇸 Anna COCKRELL\n🇺🇦 Anna RYZHYKOVA\n🇮🇹 Ayomide
+  FOLORUNSO\n🇩🇪 Carolina KRAFZIK\n🇳🇱 Cathelijn PEETERS\n🇧🇷 Chayenne
+  da SILVA\n🇵🇹 Fatoumata Binta DIALLO\n🇳🇱 Femke BOL\n🇵🇦 Gianna
+  WOODRUFF\n🇵🇷 Grace CLAXTON\n🇧🇪 Hanne CLAES\n🇯🇲 Janieve
+  RUSSELL\n🇺🇸 Jasmine JONES\n🇬🇧 Jessie KNIGHT\n🇧🇭 Kemi ADEKOYA\n🇵🇭
+  Lauren HOFFMAN\n🇬🇧 Lina NIELSEN\n🇨🇲 Linda ANGOUNOU\n🇳🇴 Line
+  KLOSTER\n🇫🇷 Louise MARAVAL\n🇨🇳 MO Jiadie\n🇧🇪 Naomi van den
+  BROECK\n🇨🇿 Nikoleta JICHOVA\n🇲🇦 Noura ENNADI\n🇧🇪 Paulien
+  COUCKUYT\n🇮🇹 Rebecca SARTORI\n🇿🇦 Rogail JOSEPH\n🇯🇲 Rushell
+  CLAYTON\n🇦🇺 Sarah CARLI\n🇨🇦 Savannah SUTHERLAND\n🇫🇷 Shana
+  GREBO\n🇯🇲 Shiann SALMON\n🇺🇸 Sydney McLAUGHLIN-LEVRONE\n🇫🇮 Viivi
+  LEHIKOINEN\n🇺🇦 Viktoriya TKACHUK\n🇨🇭 Yasmin GIGER\n🇿🇦 Zeney
+  GELDENHUYS
+SUMMARY:🏃 女子400米跨栏第1轮
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240804T191000Z-athletics-1500
+DTSTAMP:20240804T191000Z
+DTSTART:20240804T191000Z
+DTEND:20240804T192400Z
+DESCRIPTION:田径 - 男子1500米半决赛\n🇲🇦 Anass ESSAYI\n🇫🇷 Azeddine HABZ\n🇰🇪
+  Brian KOMEN\n🇮🇪 Cathal DOYLE\n🇨🇦 Charles PHILIBERT-THIBOUTOT\n🇺🇸
+  Cole HOCKER\n🇪🇹 Ermias GIRMA\n🇮🇹 Federico RIVA\n🇬🇧 George
+  MILLS\n🇺🇸 Hobbs KESSLER\n🇵🇹 Isaac NADER\n🇳🇴 Jakob
+  INGEBRIGTSEN\n🇬🇧 Josh KERR\n🇳🇴 Narve Gilje NORDAS\n🇬🇧 Neil
+  GOURLEY\n🇳🇱 Niels LAROS\n🇮🇹 Ossama MESLEK\n🇮🇹 Pietro ARESE\n🇰🇪
+  Reynold CHERUIYOT\n🇩🇪 Robert FARKEN\n🇪🇹 Samuel TEFERA\n🇳🇱 Stefan
+  NILLESSEN\n🇰🇪 Timothy CHERUIYOT\n🇺🇸 Yared NUGUSE
+SUMMARY:🏃 男子1500米半决赛
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240805T133500Z-wrestling-13018-MAR-LTU
 DTSTAMP:20240805T133500Z
 DTSTART:20240805T133500Z
@@ -613,6 +698,26 @@ SUMMARY:⚽ 摩洛哥 🇲🇦 - 🇪🇸 西班牙
 LOCATION:马赛体育场
 END:VEVENT
 BEGIN:VEVENT
+UID:20240805T170400Z-athletics-30001
+DTSTAMP:20240805T170400Z
+DTSTART:20240805T170400Z
+DTEND:20240805T174500Z
+DESCRIPTION:田径 - 男子3000米障碍赛第1轮\n🇯🇵 AOKI Ryoma\n🇰🇪 Abraham KIBIWOT\n🇹🇳
+  Ahmed JAZIRI\n🇫🇷 Alexis MIELLET\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund
+  SABLE\n🇦🇺 Ben BUCKINGHAM\n🇩🇿 Bilal TABTI\n🇪🇸 Daniel ARCE\n🇲🇦 Faid
+  EL MOSTAFA\n🇩🇪 Frederik RUPPERT\n🇳🇿 Geordie BEAMISH\n🇪🇹 Getnet
+  WALE\n🇺🇸 James CORRIGAN\n🇨🇦 Jean-Simon DESGAGNES\n🇩🇪 Karl
+  BEBENDORF\n🇺🇸 Kenneth ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard
+  CHEMUTAI\n🇫🇷 Louis GILAVERT\n🇯🇵 MIURA Ryuji\n🇦🇺 Matthew
+  CLARKE\n🇺🇸 Matthew WILKINSON\n🇹🇳 Mohamed Amin JHINAOUI\n🇲🇦 Mohamed
+  TINDOUFT\n🇦🇩 Nahuel CARABANA\n🇫🇷 Nicolas-Marie DARU\n🇮🇹 Osama
+  ZOGHLAMI\n🇱🇺 Ruben QUERINJEAN\n🇪🇹 Samuel FIREWU\n🇰🇪 Simon Kiprop
+  KOECH\n🇲🇦 Soufiane EL BAKKALI\n🇨🇿 Tomas HABARTA\n🇫🇮 Topi
+  RAITANEN\n🇩🇪 Velten SCHNEIDER\n🇮🇹 Yassin BOUIH
+SUMMARY:🏃 男子3000米障碍赛第1轮
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240806T103000Z-skateboarding-
 DTSTAMP:20240806T103000Z
 DTSTART:20240806T103000Z
@@ -626,6 +731,23 @@ DESCRIPTION:滑板 - 女子公园赛预赛\n🇦🇺 Arisa TREW\n🇲🇦 Aya AS
   YOSOZUMI Sakura\n🇨🇳 ZHENG Haohao
 SUMMARY:🛹 女子公园赛预赛
 LOCATION:协和广场4号场地
+END:VEVENT
+BEGIN:VEVENT
+UID:20240806T180700Z-athletics-400
+DTSTAMP:20240806T180700Z
+DTSTART:20240806T180700Z
+DTEND:20240806T182800Z
+DESCRIPTION:田径 - 女子400米跨栏半决赛\n🇦🇺 Alanah YUKICH\n🇳🇴 Amalie IUEL\n🇺🇸
+  Anna COCKRELL\n🇺🇦 Anna RYZHYKOVA\n🇮🇹 Ayomide FOLORUNSO\n🇳🇱
+  Cathelijn PEETERS\n🇵🇹 Fatoumata Binta DIALLO\n🇳🇱 Femke BOL\n🇧🇪
+  Hanne CLAES\n🇯🇲 Janieve RUSSELL\n🇺🇸 Jasmine JONES\n🇬🇧 Jessie
+  KNIGHT\n🇬🇧 Lina NIELSEN\n🇫🇷 Louise MARAVAL\n🇨🇳 MO Jiadie\n🇧🇪
+  Naomi van den BROECK\n🇲🇦 Noura ENNADI\n🇧🇪 Paulien COUCKUYT\n🇿🇦
+  Rogail JOSEPH\n🇯🇲 Rushell CLAYTON\n🇨🇦 Savannah SUTHERLAND\n🇫🇷 Shana
+  GREBO\n🇯🇲 Shiann SALMON\n🇺🇸 Sydney McLAUGHLIN-LEVRONE\n🇿🇦 Zeney
+  GELDENHUYS
+SUMMARY:🏃 女子400米跨栏半决赛
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240807T070000Z-golf-1
@@ -691,6 +813,31 @@ SUMMARY:🥋 Panipak WONGPATTANAKIT 🇹🇭 - 🇲🇦 Oumaima EL BOUCHTI
 LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
+UID:20240807T095500Z-athletics-8001
+DTSTAMP:20240807T095500Z
+DTSTART:20240807T095500Z
+DTEND:20240807T103700Z
+DESCRIPTION:田径 - 男子800米第1轮\n🇲🇦 Abdelati EL GUESSE\n🇸🇸 Abraham
+  GUEM\n🇶🇦 Abubaker Haydar ABDALLA\n🇪🇸 Adrian BEN\n🇸🇴 Ali Idow
+  HASSAN\n🇸🇪 Andreas KRAMER\n🇬🇧 Ben PATTISON\n🇫🇷 Benjamin
+  ROBERT\n🇺🇸 Brandon MILLER\n🇺🇸 Bryce HOPPEL\n🇰🇭 Bunthorn CHHUN\n🇮🇹
+  Catalin TECUCEANU\n🇫🇷 Corentin le CLEZIO\n🇩🇲 Dennick LUKE\n🇩🇿
+  Djamel SEDJATI\n🇿🇦 Edmund du PLESSIS\n🇳🇬 Edose IBADIN\n🇧🇪 Eliott
+  CRESTAN\n🇬🇧 Elliot GILES\n🇪🇸 Elvin Josue CANALES\n🇰🇪 Emmanuel
+  WANYONYI\n🇫🇷 Gabriel TUAL\n🇻🇨 Handal ROBAN\n🇺🇸 Hobbs KESSLER\n🇨🇿
+  Jakub DUDYCHA\n🇳🇿 James PRESTON\n🇲🇽 Jesus Tonatiu LOPEZ\n🇻🇪 Jose
+  MAITA\n🇦🇺 Joseph DENG\n🇧🇼 Kethobogile HAINGURA\n🇰🇪 Koitatoi
+  KIDALI\n🇨🇦 Marco AROP\n🇮🇪 Mark ENGLISH\n🇵🇱 Mateusz BORKOWSKI\n🇬🇧
+  Max BURGIN\n🇪🇸 Mohamed ATTAOUI\n🇩🇿 Mohamed Ali GOUANED\n🇵🇸 Mohammed
+  DWEDAR\n🏳️ Musa SULIMAN\n🇯🇲 Navasky ANDERSON\n🇦🇺 Peter BOL\n🇦🇺
+  Peyton CRAIG\n🇧🇪 Pieter SISK\n🇳🇱 Ryan CLARKE\n🇮🇹 Simone
+  BARONTINI\n🇩🇿 Slimane MOULA\n🇧🇪 Tibo de SMET\n🇳🇴 Tobias
+  GRONSTAD\n🇺🇬 Tom DRADRIGA\n🇧🇼 Tshepiso MASALELA\n🇧🇼 Tumo
+  NKAPE\n🇰🇪 Wyclife KINYAMAL\n🇦🇲 Yervand MKRTCHYAN
+SUMMARY:🏃 男子800米第1轮
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T121000Z-canoe-sprint-100014
 DTSTAMP:20240807T121000Z
 DTSTART:20240807T121000Z
@@ -713,6 +860,20 @@ DTEND:20240807T174000Z
 DESCRIPTION:跆拳道 - 女子49公斤级复活赛
 SUMMARY:🥋 Dunya Ali M ABUTALEB 🇸🇦 - 🇲🇦 Oumaima EL BOUCHTI
 LOCATION:巴黎大皇宫
+END:VEVENT
+BEGIN:VEVENT
+UID:20240807T194300Z-athletics-3000
+DTSTAMP:20240807T194300Z
+DTSTART:20240807T194300Z
+DTEND:20240807T195200Z
+DESCRIPTION:田径 - 男子3000米障碍赛决赛\n🇰🇪 Abraham KIBIWOT\n🇹🇳 Ahmed
+  JAZIRI\n🇰🇪 Amos SEREM\n🇮🇳 Avinash Mukund SABLE\n🇪🇸 Daniel
+  ARCE\n🇪🇹 Getnet WALE\n🇨🇦 Jean-Simon DESGAGNES\n🇺🇸 Kenneth
+  ROOKS\n🇪🇹 Lamecha GIRMA\n🇺🇬 Leonard CHEMUTAI\n🇯🇵 MIURA Ryuji\n🇹🇳
+  Mohamed Amin JHINAOUI\n🇲🇦 Mohamed TINDOUFT\n🇪🇹 Samuel FIREWU\n🇰🇪
+  Simon Kiprop KOECH\n🇲🇦 Soufiane EL BAKKALI
+SUMMARY:🏃 男子3000米障碍赛决赛
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T070000Z-golf-2
@@ -739,6 +900,26 @@ DESCRIPTION:高尔夫 - 女子第2回合\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane 
   WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳 YIN Ruoning
 SUMMARY:⛳ 女子第2回合
 LOCATION:国家高尔夫球场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T100000Z-athletics-800
+DTSTAMP:20240808T100000Z
+DTSTART:20240808T100000Z
+DTEND:20240808T102600Z
+DESCRIPTION:田径 - 男子800米复活赛\n🇲🇦 Abdelati EL GUESSE\n🇸🇸 Abraham
+  GUEM\n🇶🇦 Abubaker Haydar ABDALLA\n🇪🇸 Adrian BEN\n🇸🇴 Ali Idow
+  HASSAN\n🇫🇷 Benjamin ROBERT\n🇺🇸 Brandon MILLER\n🇰🇭 Bunthorn
+  CHHUN\n🇫🇷 Corentin le CLEZIO\n🇩🇲 Dennick LUKE\n🇳🇬 Edose
+  IBADIN\n🇪🇸 Elvin Josue CANALES\n🇻🇨 Handal ROBAN\n🇨🇿 Jakub
+  DUDYCHA\n🇳🇿 James PRESTON\n🇲🇽 Jesus Tonatiu LOPEZ\n🇻🇪 Jose
+  MAITA\n🇦🇺 Joseph DENG\n🇧🇼 Kethobogile HAINGURA\n🇰🇪 Koitatoi
+  KIDALI\n🇵🇱 Mateusz BORKOWSKI\n🇩🇿 Mohamed Ali GOUANED\n🇵🇸 Mohammed
+  DWEDAR\n🏳️ Musa SULIMAN\n🇯🇲 Navasky ANDERSON\n🇦🇺 Peter BOL\n🇧🇪
+  Pieter SISK\n🇳🇱 Ryan CLARKE\n🇮🇹 Simone BARONTINI\n🇩🇿 Slimane
+  MOULA\n🇧🇪 Tibo de SMET\n🇳🇴 Tobias GRONSTAD\n🇺🇬 Tom DRADRIGA\n🇧🇼
+  Tumo NKAPE\n🇦🇲 Yervand MKRTCHYAN
+SUMMARY:🏃 男子800米复活赛
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T150000Z-football--EGY-MAR

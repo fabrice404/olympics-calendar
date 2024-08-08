@@ -62,6 +62,29 @@ SUMMARY:🚴 女子公园赛决赛
 LOCATION:协和广场2号场地
 END:VEVENT
 BEGIN:VEVENT
+UID:20240801T075000Z-athletics-20
+DTSTAMP:20240801T075000Z
+DTSTART:20240801T075000Z
+DTEND:20240801T093500Z
+DESCRIPTION:田径 - 女子20公里竞走决赛\n🇲🇽 Alegna GONZALEZ\n🇲🇽 Alejandra
+  ORTEGA\n🇵🇹 Ana CABECINHA\n🇬🇷 Antigoni NTRISMPIOTI\n🇮🇹 Antonella
+  PALMISANO\n🇫🇷 Camille MOUTARD\n🇫🇷 Clemence BERETTA\n🇪🇸 Cristina
+  MONTESINOS\n🇮🇹 Eleonora Anna GIORGI\n🇨🇿 Eliska MARTINKOVA\n🇧🇷 Erica
+  SENA\n🇵🇪 Evelyn INGA\n🇯🇵 FUJII Nanako\n🇧🇷 Gabriela de SOUSA\n🇪🇨
+  Glenda MOREJON\n🇸🇰 Hana BURZALOVA\n🇲🇽 Ilse GUERRERO\n🇦🇺 Jemima
+  MONTAG\n🇵🇱 Katarzyna ZDZIEBLO\n🇵🇪 Kimberly GARCIA LEON\n🇨🇳 LIU
+  Hong\n🇪🇸 Laura GARCIA-CARO\n🇨🇴 Lorena ARENAS\n🇺🇦 Lyudmila
+  OLYANOVSKA\n🇨🇳 MA Zhenxia\n🇪🇨 Magaly Beatriz BONILLA\n🇸🇰 Maria
+  KATERINKA CZAKOVA\n🇪🇸 Maria PEREZ\n🇺🇦 Mariia SAKHARUK\n🇵🇪 Mary Luz
+  ANDIA\n🇹🇷 Meryem BEKMEZ\n🇺🇦 Olena SOBCHUK\n🇦🇺 Olivia SANDERY\n🇮🇳
+  PRIYANKA\n🇪🇨 Paula Milena TORRES\n🇫🇷 Pauline STEY\n🇵🇷 Rachelle de
+  ORBETA\n🇦🇺 Rebecca HENDERSON\n🇭🇺 Rita RECSEI\n🇩🇪 Saskia FEIGE\n🇮🇹
+  Valentina TRAPLETTI\n🇭🇺 Viktoria MADARASZ\n🇵🇹 Vitoria OLIVEIRA\n🇧🇷
+  Viviane LYRA\n🇨🇳 YANG Jiayu
+SUMMARY:🏃 女子20公里竞走决赛
+LOCATION:特罗卡德罗
+END:VEVENT
+BEGIN:VEVENT
 UID:20240801T161500Z-artistic-gymnastics-
 DTSTAMP:20240801T161500Z
 DTSTART:20240801T161500Z
@@ -229,6 +252,18 @@ SUMMARY:🤸 男子单杠决赛
 LOCATION:贝尔西体育馆
 END:VEVENT
 BEGIN:VEVENT
+UID:20240806T181500Z-athletics-
+DTSTAMP:20240806T181500Z
+DTSTART:20240806T181500Z
+DTEND:20240806T193500Z
+DESCRIPTION:田径 - 男子跳远决赛\n🇨🇴 Arnovis DALMERO\n🇯🇲 Carey McLEOD\n🇭🇷
+  Filip PRAVDICA\n🇬🇧 Jacob FINCHAM-DUKES\n🇮🇹 Mattia FURLANI\n🇬🇷
+  Miltiadis TENTOGLOU\n🇨🇿 Radek JUSKA\n🇩🇪 Simon BATZ\n🇨🇭 Simon
+  EHAMMER\n🇨🇳 WANG Jianan\n🇯🇲 Wayne PINNOCK\n🇨🇳 ZHANG Mingkun
+SUMMARY:🏃 男子跳远决赛
+LOCATION:法兰西体育场
+END:VEVENT
+BEGIN:VEVENT
 UID:20240807T053000Z-athletics-
 DTSTAMP:20240807T053000Z
 DTSTART:20240807T053000Z
@@ -309,5 +344,18 @@ DESCRIPTION:举重 - 女子71公斤级\n🇧🇷 Amanda da COSTA SCHOTT\n🇪�
   VALODZKA\n🇵🇭 Vanessa SARNO
 SUMMARY:🏋 女子71公斤级
 LOCATION:南巴黎竞技场6号馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173000Z-athletics-
+DTSTAMP:20240810T173000Z
+DTSTART:20240810T173000Z
+DTEND:20240810T184800Z
+DESCRIPTION:田径 - 女子标枪决赛\n🇬🇷 Elina TZENGKO\n🇨🇴 Flor Denis RUIZ
+  HURTADO\n🇿🇦 Jo-Ane van DYK\n🇯🇵 KITAGUCHI Haruka\n🇦🇺 Kathryn
+  MITCHELL\n🇦🇺 Mackenzie LITTLE\n🇵🇱 Maria ANDREJCZYK\n🇳🇴
+  Marie-Therese OBST\n🇨🇿 Nikola OGRODNIKOVA\n🇭🇷 Sara KOLAK\n🇯🇵 UEDA
+  Momone\n🇪🇸 Yulenmis AGUILAR
+SUMMARY:🏃 女子标枪决赛
+LOCATION:法兰西体育场
 END:VEVENT
 END:VCALENDAR
