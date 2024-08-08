@@ -1338,6 +1338,19 @@ SUMMARY:🥊 CHANG Yuan 🇨🇳 - 🇹🇷 Hatice AKBAS
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T130000Z-diving-WOMENS-3M-SPRINGBOARD-FINAL
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T140600Z
+DESCRIPTION:Diving - Women's 3m Springboard Final\n🇲🇽 Alejandra ESTUDILLO
+  TORRES\n🇨🇳 CHANG Yani\n🇨🇳 CHEN Yiwen\n🇮🇹 Chiara PELLACANI\n🇸🇪
+  Emilia NILSSON GARIP\n🇬🇧 Grace REID\n🇿🇦 Julia VINCENT\n🇦🇺 Maddison
+  KEENEY\n🇲🇾 Nur Dhabitah SABRI\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸 Valeria
+  ANTOLINO\n🇬🇧 Yasmin HARPER
+SUMMARY:🏊 Women's 3m Springboard Final
+LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T173700Z-athletics-WOMENS-SHOT-PUT-FINAL
 DTSTAMP:20240809T173700Z
 DTSTART:20240809T173700Z
@@ -1348,6 +1361,16 @@ DESCRIPTION:Athletics - Women's Shot Put Final\n🇩🇪 Alina KENZEL\n🇸🇪
   WESCHE\n🇺🇸 Raven SAUNDERS\n🇨🇳 SONG Jiayuan\n🇨🇦 Sarah MITTON\n🇩🇪
   Yemisi OGUNLEYE
 SUMMARY:🏃 Women's Shot Put Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T174700Z-athletics-MENS-4-X-100M-RELAY-FINAL
+DTSTAMP:20240809T174700Z
+DTSTART:20240809T174700Z
+DTEND:20240809T174800Z
+DESCRIPTION:Athletics - Men's 4 x 100m Relay Final\n🇨🇦 CAN\n🇨🇳
+  CHN\n🇫🇷 FRA\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵 JPN\n🇿🇦 RSA\n🇺🇸 USA
+SUMMARY:🏃 Men's 4 x 100m Relay Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

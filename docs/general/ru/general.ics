@@ -34179,13 +34179,12 @@ SUMMARY:🤼 Bekzat ALMAZ UULU 🇰🇬 - 🇺🇸 Spencer Richard LEE
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T102400Z-wrestling--57-14-
+UID:20240808T102400Z-wrestling--57-14--NGR-CHN
 DTSTAMP:20240808T102400Z
 DTSTART:20240808T102400Z
 DTEND:20240808T103100Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)\n🇳🇬 Odunayo
-  Folasade ADEKUOROYE
-SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)
+SUMMARY:🤼 Odunayo Folasade ADEKUOROYE 🇳🇬 - 🇨🇳 HONG Kexin
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -34193,7 +34192,8 @@ UID:20240808T102400Z-wrestling--86-14-
 DTSTAMP:20240808T102400Z
 DTSTART:20240808T102400Z
 DTEND:20240808T103100Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 86кг, 1/4 финала (м)\n🇸🇲 Myles Nazem
+  AMINE
 SUMMARY:🤼 Вольная борьба, 86кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -34202,7 +34202,8 @@ UID:20240808T103100Z-wrestling--57-14-
 DTSTAMP:20240808T103100Z
 DTSTART:20240808T103100Z
 DTEND:20240808T103800Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)\n🇧🇷 Giullia
+  PENALBER
 SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -34211,7 +34212,8 @@ UID:20240808T103100Z-wrestling--57-14-
 DTSTAMP:20240808T103100Z
 DTSTART:20240808T103100Z
 DTEND:20240808T103800Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (м)\n🇺🇿 Gulomjon
+  ABDULLAEV
 SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -34738,7 +34740,7 @@ UID:20240808T135800Z-taekwondo--68-
 DTSTAMP:20240808T135800Z
 DTSTART:20240808T135800Z
 DTEND:20240808T141100Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 68кг (м)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 68кг (м)\n🇯🇴 Zaid KAREEM
 SUMMARY:🥋 Четвертьфинал, до 68кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -36233,7 +36235,11 @@ UID:20240809T130000Z-diving--3-
 DTSTAMP:20240809T130000Z
 DTSTART:20240809T130000Z
 DTEND:20240809T140600Z
-DESCRIPTION:Прыжки в воду - Трамплин 3м, финал (ж)
+DESCRIPTION:Прыжки в воду - Трамплин 3м, финал (ж)\n🇲🇽 Alejandra
+  ESTUDILLO TORRES\n🇨🇳 CHANG Yani\n🇨🇳 CHEN Yiwen\n🇮🇹 Chiara
+  PELLACANI\n🇸🇪 Emilia NILSSON GARIP\n🇬🇧 Grace REID\n🇿🇦 Julia
+  VINCENT\n🇦🇺 Maddison KEENEY\n🇲🇾 Nur Dhabitah SABRI\n🇩🇪 Saskia
+  OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇬🇧 Yasmin HARPER
 SUMMARY:🏊 Трамплин 3м, финал (ж)
 LOCATION:Центр водных видов спорта
 END:VEVENT
@@ -36679,7 +36685,9 @@ UID:20240809T174700Z-athletics--4100-
 DTSTAMP:20240809T174700Z
 DTSTART:20240809T174700Z
 DTEND:20240809T174800Z
-DESCRIPTION:Легкая атлетика - Эстафета 4х100м, финал (м)
+DESCRIPTION:Легкая атлетика - Эстафета 4х100м, финал (м)\n🇬🇧
+  Великобритания\n🇮🇹 Италия\n🇨🇦 Канада\n🇨🇳 Китай\n🇺🇸 США\n🇫🇷
+  Франция\n🇿🇦 Южная Африка\n🇯🇵 Япония
 SUMMARY:🏃 Эстафета 4х100м, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

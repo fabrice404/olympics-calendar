@@ -1248,6 +1248,19 @@ SUMMARY:🧗 남자 볼더 & 리드, 결승 - 리드
 LOCATION:르 부르제 클라이밍 경기장
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T130000Z-diving--3M-
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T140600Z
+DESCRIPTION:다이빙 - 여자 3m 스프링보드 결승\n🇲🇽 Alejandra ESTUDILLO TORRES\n🇨🇳
+  CHANG Yani\n🇨🇳 CHEN Yiwen\n🇮🇹 Chiara PELLACANI\n🇸🇪 Emilia NILSSON
+  GARIP\n🇬🇧 Grace REID\n🇿🇦 Julia VINCENT\n🇦🇺 Maddison KEENEY\n🇲🇾
+  Nur Dhabitah SABRI\n🇩🇪 Saskia OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇬🇧
+  Yasmin HARPER
+SUMMARY:🏊 여자 3m 스프링보드 결승
+LOCATION:아쿠아틱 센터
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T173000Z-athletics--4-X-100M-
 DTSTAMP:20240809T173000Z
 DTSTART:20240809T173000Z
@@ -1255,6 +1268,16 @@ DTEND:20240809T173100Z
 DESCRIPTION:육상 - 여자 4 x 100m 계주 결승\n🇳🇱 네덜란드\n🇩🇪 독일\n🇺🇸 미국\n🇨🇭
   스위스\n🇬🇧 영국\n🇯🇲 자메이카\n🇨🇦 캐나다\n🇫🇷 프랑스
 SUMMARY:🏃 여자 4 x 100m 계주 결승
+LOCATION:스타드 드 프랑스
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T174700Z-athletics--4-X-100M-
+DTSTAMP:20240809T174700Z
+DTSTART:20240809T174700Z
+DTEND:20240809T174800Z
+DESCRIPTION:육상 - 남자 4 x 100m 계주 결승\n🇿🇦 남아프리카공화국\n🇺🇸 미국\n🇬🇧 영국\n🇮🇹
+  이탈리아\n🇯🇵 일본\n🇨🇳 중국\n🇨🇦 캐나다\n🇫🇷 프랑스
+SUMMARY:🏃 남자 4 x 100m 계주 결승
 LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT

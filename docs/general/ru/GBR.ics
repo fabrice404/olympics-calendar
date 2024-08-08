@@ -7938,6 +7938,19 @@ SUMMARY:🧗 Трудность, финал (м)
 LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T130000Z-diving--3-
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T140600Z
+DESCRIPTION:Прыжки в воду - Трамплин 3м, финал (ж)\n🇲🇽 Alejandra
+  ESTUDILLO TORRES\n🇨🇳 CHANG Yani\n🇨🇳 CHEN Yiwen\n🇮🇹 Chiara
+  PELLACANI\n🇸🇪 Emilia NILSSON GARIP\n🇬🇧 Grace REID\n🇿🇦 Julia
+  VINCENT\n🇦🇺 Maddison KEENEY\n🇲🇾 Nur Dhabitah SABRI\n🇩🇪 Saskia
+  OETTINGHAUS\n🇪🇸 Valeria ANTOLINO\n🇬🇧 Yasmin HARPER
+SUMMARY:🏊 Трамплин 3м, финал (ж)
+LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T173000Z-athletics--4100-
 DTSTAMP:20240809T173000Z
 DTSTART:20240809T173000Z
@@ -7960,6 +7973,17 @@ DESCRIPTION:Синхронное плавание - Дуэты, техничес
   Украина\n🇫🇷 Франция\n🇰🇷 Южная Корея\n🇯🇵 Япония
 SUMMARY:🏊 Дуэты, техническая программа
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T174700Z-athletics--4100-
+DTSTAMP:20240809T174700Z
+DTSTART:20240809T174700Z
+DTEND:20240809T174800Z
+DESCRIPTION:Легкая атлетика - Эстафета 4х100м, финал (м)\n🇬🇧
+  Великобритания\n🇮🇹 Италия\n🇨🇦 Канада\n🇨🇳 Китай\n🇺🇸 США\n🇫🇷
+  Франция\n🇿🇦 Южная Африка\n🇯🇵 Япония
+SUMMARY:🏃 Эстафета 4х100м, финал (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T180000Z-athletics-400-
