@@ -6538,6 +6538,15 @@ SUMMARY:🚴 Кейрин, четвертьфиналы (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T161500Z-wrestling--57-
+DTSTAMP:20240808T161500Z
+DTSTART:20240808T161500Z
+DTEND:20240808T162200Z
+DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (м)\n🇯🇵 HIGUCHI Rei
+SUMMARY:🤼 Вольная борьба, 57кг, полуфинал (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T173000Z-weightlifting-73-
 DTSTAMP:20240808T173000Z
 DTSTART:20240808T173000Z
@@ -6720,6 +6729,28 @@ DESCRIPTION:Легкая атлетика - 10000м, финал (ж)\n🇫🇷 A
   TAKASHIMA Yuka\n🇪🇹 Tsigie GEBRESELAMA\n🇺🇸 Weini KELATI FREZGHI
 SUMMARY:🏃 10000м, финал (ж)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T081500Z-sport-climbing--
+DTSTAMP:20240810T081500Z
+DTSTART:20240810T081500Z
+DTEND:20240810T095200Z
+DESCRIPTION:Спортивное скалолазание - Боулдеринг, финал (ж)\n🇺🇸 Brooke
+  RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica PILZ\n🇯🇵
+  MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
+SUMMARY:🧗 Боулдеринг, финал (ж)
+LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T103500Z-sport-climbing--
+DTSTAMP:20240810T103500Z
+DTSTART:20240810T103500Z
+DTEND:20240810T112000Z
+DESCRIPTION:Спортивное скалолазание - Трудность, финал (ж)\n🇺🇸 Brooke
+  RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica PILZ\n🇯🇵
+  MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
+SUMMARY:🧗 Трудность, финал (ж)
+LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T170000Z-athletics--

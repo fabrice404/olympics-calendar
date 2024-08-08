@@ -34179,6 +34179,15 @@ SUMMARY:🤼 Bekzat ALMAZ UULU 🇰🇬 - 🇺🇸 Spencer Richard LEE
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T102400Z-wrestling--86-14--SMR-AZE
+DTSTAMP:20240808T102400Z
+DTSTART:20240808T102400Z
+DTEND:20240808T103100Z
+DESCRIPTION:Борьба - Вольная борьба, 86кг, 1/4 финала (м)
+SUMMARY:🤼 Myles Nazem AMINE 🇸🇲 - 🇦🇿 Osman NURMAGOMEDOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T102400Z-wrestling--57-14--NGR-CHN
 DTSTAMP:20240808T102400Z
 DTSTART:20240808T102400Z
@@ -34188,33 +34197,21 @@ SUMMARY:🤼 Odunayo Folasade ADEKUOROYE 🇳🇬 - 🇨🇳 HONG Kexin
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T102400Z-wrestling--86-14-
-DTSTAMP:20240808T102400Z
-DTSTART:20240808T102400Z
-DTEND:20240808T103100Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, 1/4 финала (м)\n🇸🇲 Myles Nazem
-  AMINE
-SUMMARY:🤼 Вольная борьба, 86кг, 1/4 финала (м)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T103100Z-wrestling--57-14-
+UID:20240808T103100Z-wrestling--57-14--BRA-MDA
 DTSTAMP:20240808T103100Z
 DTSTART:20240808T103100Z
 DTEND:20240808T103800Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)\n🇧🇷 Giullia
-  PENALBER
-SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)
+SUMMARY:🤼 Giullia PENALBER 🇧🇷 - 🇲🇩 Anastasia NICHITA
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T103100Z-wrestling--57-14-
+UID:20240808T103100Z-wrestling--57-14--UZB-ARM
 DTSTAMP:20240808T103100Z
 DTSTART:20240808T103100Z
 DTEND:20240808T103800Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (м)\n🇺🇿 Gulomjon
-  ABDULLAEV
-SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (м)
+SUMMARY:🤼 Gulomjon ABDULLAEV 🇺🇿 - 🇦🇲 Arsen HARUTYUNYAN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -34709,12 +34706,12 @@ SUMMARY:⛵ Maximilian MAEDER 🇸🇬 - 🇸🇮 Toni VODISEK
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T134500Z-taekwondo--57-
+UID:20240808T134500Z-taekwondo--57--LBN-MKD
 DTSTAMP:20240808T134500Z
 DTSTART:20240808T134500Z
 DTEND:20240808T135800Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 57кг (ж)\n🇱🇧 Laetitia AOUN
-SUMMARY:🥋 Четвертьфинал, до 57кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 57кг (ж)
+SUMMARY:🥋 Laetitia AOUN 🇱🇧 - 🇲🇰 Miljana RELJIKJ
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -34979,7 +34976,7 @@ UID:20240808T161500Z-wrestling--57-
 DTSTAMP:20240808T161500Z
 DTSTART:20240808T161500Z
 DTEND:20240808T162200Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (м)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (м)\n🇯🇵 HIGUCHI Rei
 SUMMARY:🤼 Вольная борьба, 57кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -37194,7 +37191,9 @@ UID:20240810T081500Z-sport-climbing--
 DTSTAMP:20240810T081500Z
 DTSTART:20240810T081500Z
 DTEND:20240810T095200Z
-DESCRIPTION:Спортивное скалолазание - Боулдеринг, финал (ж)
+DESCRIPTION:Спортивное скалолазание - Боулдеринг, финал (ж)\n🇺🇸 Brooke
+  RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica PILZ\n🇯🇵
+  MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
 SUMMARY:🧗 Боулдеринг, финал (ж)
 LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
@@ -37489,7 +37488,9 @@ UID:20240810T103500Z-sport-climbing--
 DTSTAMP:20240810T103500Z
 DTSTART:20240810T103500Z
 DTEND:20240810T112000Z
-DESCRIPTION:Спортивное скалолазание - Трудность, финал (ж)
+DESCRIPTION:Спортивное скалолазание - Трудность, финал (ж)\n🇺🇸 Brooke
+  RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica PILZ\n🇯🇵
+  MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
 SUMMARY:🧗 Трудность, финал (ж)
 LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT

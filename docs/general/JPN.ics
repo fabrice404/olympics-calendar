@@ -6521,6 +6521,15 @@ SUMMARY:🚴 Women's Keirin, Quarterfinals
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T161500Z-wrestling-MENS-FREESTYLE-57KG-SEMIFINAL
+DTSTAMP:20240808T161500Z
+DTSTART:20240808T161500Z
+DTEND:20240808T162200Z
+DESCRIPTION:Wrestling - Men's Freestyle 57kg Semifinal\n🇯🇵 HIGUCHI Rei
+SUMMARY:🤼 Men's Freestyle 57kg Semifinal
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T173000Z-weightlifting-MENS-73KG
 DTSTAMP:20240808T173000Z
 DTSTART:20240808T173000Z
@@ -6698,6 +6707,30 @@ DESCRIPTION:Athletics - Women's 10,000m Final\n🇫🇷 Alessia ZARBO\n🇺🇬
   TAKASHIMA Yuka\n🇪🇹 Tsigie GEBRESELAMA\n🇺🇸 Weini KELATI FREZGHI
 SUMMARY:🏃 Women's 10,000m Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T081500Z-sport-climbing-WOMENS-BOULDER-LEAD-FINAL-BOULDER
+DTSTAMP:20240810T081500Z
+DTSTART:20240810T081500Z
+DTEND:20240810T095200Z
+DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Final Boulder\n🇺🇸
+  Brooke RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica
+  PILZ\n🇯🇵 MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun
+SUMMARY:🧗 Women's Boulder & Lead, Final Boulder
+LOCATION:Le Bourget Climbing Venue
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T103500Z-sport-climbing-WOMENS-BOULDER-LEAD-FINAL-LEAD
+DTSTAMP:20240810T103500Z
+DTSTART:20240810T103500Z
+DTEND:20240810T112000Z
+DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Final Lead\n🇺🇸
+  Brooke RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica
+  PILZ\n🇯🇵 MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun
+SUMMARY:🧗 Women's Boulder & Lead, Final Lead
+LOCATION:Le Bourget Climbing Venue
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T170000Z-athletics-MENS-HIGH-JUMP-FINAL

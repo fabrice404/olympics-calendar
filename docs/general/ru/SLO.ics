@@ -2772,6 +2772,17 @@ SUMMARY:🤾 Словения 🇸🇮 - 🇩🇰 Дания
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T081500Z-sport-climbing--
+DTSTAMP:20240810T081500Z
+DTSTART:20240810T081500Z
+DTEND:20240810T095200Z
+DESCRIPTION:Спортивное скалолазание - Боулдеринг, финал (ж)\n🇺🇸 Brooke
+  RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica PILZ\n🇯🇵
+  MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
+SUMMARY:🧗 Боулдеринг, финал (ж)
+LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T094800Z-taekwondo-18-80--SLO-NOR
 DTSTAMP:20240810T094800Z
 DTSTART:20240810T094800Z
@@ -2779,6 +2790,17 @@ DTEND:20240810T100000Z
 DESCRIPTION:Тхэквондо - 1/8 финала, свыше 80кг (м)
 SUMMARY:🥋 Patrik DIVKOVIC 🇸🇮 - 🇳🇴 Richard Andre ORDEMANN
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T103500Z-sport-climbing--
+DTSTAMP:20240810T103500Z
+DTSTART:20240810T103500Z
+DTEND:20240810T112000Z
+DESCRIPTION:Спортивное скалолазание - Трудность, финал (ж)\n🇺🇸 Brooke
+  RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica PILZ\n🇯🇵
+  MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
+SUMMARY:🧗 Трудность, финал (ж)
+LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

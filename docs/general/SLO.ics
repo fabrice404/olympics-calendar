@@ -2772,6 +2772,18 @@ SUMMARY:🤾 SLO 🇸🇮 - 🇩🇰 DEN
 LOCATION:Pierre Mauroy Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T081500Z-sport-climbing-WOMENS-BOULDER-LEAD-FINAL-BOULDER
+DTSTAMP:20240810T081500Z
+DTSTART:20240810T081500Z
+DTEND:20240810T095200Z
+DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Final Boulder\n🇺🇸
+  Brooke RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica
+  PILZ\n🇯🇵 MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun
+SUMMARY:🧗 Women's Boulder & Lead, Final Boulder
+LOCATION:Le Bourget Climbing Venue
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T094800Z-taekwondo-MEN-80KG-ROUND-OF-16-SLO-NOR
 DTSTAMP:20240810T094800Z
 DTSTART:20240810T094800Z
@@ -2779,6 +2791,18 @@ DTEND:20240810T100000Z
 DESCRIPTION:Taekwondo - Men +80kg Round of 16
 SUMMARY:🥋 Patrik DIVKOVIC 🇸🇮 - 🇳🇴 Richard Andre ORDEMANN
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T103500Z-sport-climbing-WOMENS-BOULDER-LEAD-FINAL-LEAD
+DTSTAMP:20240810T103500Z
+DTSTART:20240810T103500Z
+DTEND:20240810T112000Z
+DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Final Lead\n🇺🇸
+  Brooke RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica
+  PILZ\n🇯🇵 MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun
+SUMMARY:🧗 Women's Boulder & Lead, Final Lead
+LOCATION:Le Bourget Climbing Venue
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

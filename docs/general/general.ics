@@ -34086,13 +34086,12 @@ SUMMARY:🤼 Bekzat ALMAZ UULU 🇰🇬 - 🇺🇸 Spencer Richard LEE
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T102400Z-wrestling-MENS-FREESTYLE-86KG-14-FINAL
+UID:20240808T102400Z-wrestling-MENS-FREESTYLE-86KG-14-FINAL-SMR-AZE
 DTSTAMP:20240808T102400Z
 DTSTART:20240808T102400Z
 DTEND:20240808T103100Z
-DESCRIPTION:Wrestling - Men's Freestyle 86kg 1/4 Final\n🇸🇲 Myles Nazem
-  AMINE
-SUMMARY:🤼 Men's Freestyle 86kg 1/4 Final
+DESCRIPTION:Wrestling - Men's Freestyle 86kg 1/4 Final
+SUMMARY:🤼 Myles Nazem AMINE 🇸🇲 - 🇦🇿 Osman NURMAGOMEDOV
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -34105,13 +34104,21 @@ SUMMARY:🤼 Odunayo Folasade ADEKUOROYE 🇳🇬 - 🇨🇳 HONG Kexin
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T103100Z-wrestling-MENS-FREESTYLE-57KG-14-FINAL
+UID:20240808T103100Z-wrestling-WOMENS-FREESTYLE-57KG-14-FINAL-BRA-MDA
 DTSTAMP:20240808T103100Z
 DTSTART:20240808T103100Z
 DTEND:20240808T103800Z
-DESCRIPTION:Wrestling - Men's Freestyle 57kg 1/4 Final\n🇺🇿 Gulomjon
-  ABDULLAEV
-SUMMARY:🤼 Men's Freestyle 57kg 1/4 Final
+DESCRIPTION:Wrestling - Women's Freestyle 57kg 1/4 Final
+SUMMARY:🤼 Giullia PENALBER 🇧🇷 - 🇲🇩 Anastasia NICHITA
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T103100Z-wrestling-MENS-FREESTYLE-57KG-14-FINAL-UZB-ARM
+DTSTAMP:20240808T103100Z
+DTSTART:20240808T103100Z
+DTEND:20240808T103800Z
+DESCRIPTION:Wrestling - Men's Freestyle 57kg 1/4 Final
+SUMMARY:🤼 Gulomjon ABDULLAEV 🇺🇿 - 🇦🇲 Arsen HARUTYUNYAN
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -34121,16 +34128,6 @@ DTSTART:20240808T103100Z
 DTEND:20240808T103800Z
 DESCRIPTION:Wrestling - Men's Freestyle 86kg 1/4 Final
 SUMMARY:🤼 Men's Freestyle 86kg 1/4 Final
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T103100Z-wrestling-WOMENS-FREESTYLE-57KG-14-FINAL
-DTSTAMP:20240808T103100Z
-DTSTART:20240808T103100Z
-DTEND:20240808T103800Z
-DESCRIPTION:Wrestling - Women's Freestyle 57kg 1/4 Final\n🇧🇷 Giullia
-  PENALBER
-SUMMARY:🤼 Women's Freestyle 57kg 1/4 Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -34616,12 +34613,12 @@ SUMMARY:⛵ Maximilian MAEDER 🇸🇬 - 🇸🇮 Toni VODISEK
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T134500Z-taekwondo-WOMEN-57KG-QUARTERFINAL
+UID:20240808T134500Z-taekwondo-WOMEN-57KG-QUARTERFINAL-LBN-MKD
 DTSTAMP:20240808T134500Z
 DTSTART:20240808T134500Z
 DTEND:20240808T135800Z
-DESCRIPTION:Taekwondo - Women -57kg Quarterfinal\n🇱🇧 Laetitia AOUN
-SUMMARY:🥋 Women -57kg Quarterfinal
+DESCRIPTION:Taekwondo - Women -57kg Quarterfinal
+SUMMARY:🥋 Laetitia AOUN 🇱🇧 - 🇲🇰 Miljana RELJIKJ
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -34886,7 +34883,7 @@ UID:20240808T161500Z-wrestling-MENS-FREESTYLE-57KG-SEMIFINAL
 DTSTAMP:20240808T161500Z
 DTSTART:20240808T161500Z
 DTEND:20240808T162200Z
-DESCRIPTION:Wrestling - Men's Freestyle 57kg Semifinal
+DESCRIPTION:Wrestling - Men's Freestyle 57kg Semifinal\n🇯🇵 HIGUCHI Rei
 SUMMARY:🤼 Men's Freestyle 57kg Semifinal
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -37089,7 +37086,10 @@ UID:20240810T081500Z-sport-climbing-WOMENS-BOULDER-LEAD-FINAL-BOULDER
 DTSTAMP:20240810T081500Z
 DTSTART:20240810T081500Z
 DTEND:20240810T095200Z
-DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Final Boulder
+DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Final Boulder\n🇺🇸
+  Brooke RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica
+  PILZ\n🇯🇵 MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun
 SUMMARY:🧗 Women's Boulder & Lead, Final Boulder
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
@@ -37382,7 +37382,10 @@ UID:20240810T103500Z-sport-climbing-WOMENS-BOULDER-LEAD-FINAL-LEAD
 DTSTAMP:20240810T103500Z
 DTSTART:20240810T103500Z
 DTEND:20240810T112000Z
-DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Final Lead
+DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Final Lead\n🇺🇸
+  Brooke RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica
+  PILZ\n🇯🇵 MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO
+  Chaehyun
 SUMMARY:🧗 Women's Boulder & Lead, Final Lead
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
