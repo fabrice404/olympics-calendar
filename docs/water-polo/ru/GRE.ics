@@ -120,4 +120,13 @@ DESCRIPTION:Водное поло - Матчи за 5-8 места (м)
 SUMMARY:🤽 Греция 🇬🇷 - 🇦🇺 Австралия
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240810T070000Z-water-polo--7-8--GRE-CAN
+DTSTAMP:20240810T070000Z
+DTSTART:20240810T070000Z
+DTEND:20240810T082500Z
+DESCRIPTION:Водное поло - Матч за 7-8 места (ж)
+SUMMARY:🤽 Греция 🇬🇷 - 🇨🇦 Канада
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
 END:VCALENDAR

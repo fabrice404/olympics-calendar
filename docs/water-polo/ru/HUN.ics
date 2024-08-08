@@ -120,4 +120,13 @@ DESCRIPTION:Водное поло - Полуфинал (м)
 SUMMARY:🤽 Венгрия 🇭🇺 - 🇭🇷 Хорватия
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240810T120000Z-water-polo--5-6--HUN-ITA
+DTSTAMP:20240810T120000Z
+DTSTART:20240810T120000Z
+DTEND:20240810T132500Z
+DESCRIPTION:Водное поло - Матч за 5-6 места (ж)
+SUMMARY:🤽 Венгрия 🇭🇺 - 🇮🇹 Италия
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
 END:VCALENDAR
