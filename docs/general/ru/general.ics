@@ -34726,26 +34726,6 @@ SUMMARY:🥋 Laetitia AOUN 🇱🇧 - 🇲🇰 Miljana RELJIKJ
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T134900Z-sailing--2-
-DTSTAMP:20240808T134900Z
-DTSTART:20240808T134900Z
-DTEND:20240808T135500Z
-DESCRIPTION:Парусный спорт - Кайт, финал, гонка 2 (м)\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
-SUMMARY:⛵ Кайт, финал, гонка 2 (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T135800Z-sailing--3-
-DTSTAMP:20240808T135800Z
-DTSTART:20240808T135800Z
-DTEND:20240808T140400Z
-DESCRIPTION:Парусный спорт - Кайт, финал, гонка 3 (м)\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
-SUMMARY:⛵ Кайт, финал, гонка 3 (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240808T135800Z-taekwondo--68--JOR-TUR
 DTSTAMP:20240808T135800Z
 DTSTART:20240808T135800Z
@@ -34764,16 +34744,6 @@ SUMMARY:🏐 Бразилия 🇧🇷 - 🇺🇸 США
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T140700Z-sailing--4-
-DTSTAMP:20240808T140700Z
-DTSTART:20240808T140700Z
-DTEND:20240808T141300Z
-DESCRIPTION:Парусный спорт - Кайт, финал, гонка 4 (м)\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
-SUMMARY:⛵ Кайт, финал, гонка 4 (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240808T141100Z-taekwondo--57--KOR-CHN
 DTSTAMP:20240808T141100Z
 DTSTART:20240808T141100Z
@@ -34783,16 +34753,6 @@ SUMMARY:🥋 KIM Yujin 🇰🇷 - 🇨🇳 LUO Zongshi
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T141600Z-sailing--5-
-DTSTAMP:20240808T141600Z
-DTSTART:20240808T141600Z
-DTEND:20240808T142200Z
-DESCRIPTION:Парусный спорт - Кайт, финал, гонка 5 (м)\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
-SUMMARY:⛵ Кайт, финал, гонка 5 (м)
-LOCATION:Марсельская гавань
-END:VEVENT
-BEGIN:VEVENT
 UID:20240808T142400Z-taekwondo--68--ESP-UZB
 DTSTAMP:20240808T142400Z
 DTSTART:20240808T142400Z
@@ -34800,16 +34760,6 @@ DTEND:20240808T143700Z
 DESCRIPTION:Тхэквондо - Полуфинал, до 68кг (м)
 SUMMARY:🥋 Javier PEREZ POLO 🇪🇸 - 🇺🇿 Ulugbek RASHITOV
 LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T142500Z-sailing--6-
-DTSTAMP:20240808T142500Z
-DTSTART:20240808T142500Z
-DTEND:20240808T143100Z
-DESCRIPTION:Парусный спорт - Кайт, финал, гонка 6 (м)\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
-SUMMARY:⛵ Кайт, финал, гонка 6 (м)
-LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T143000Z-handball---SWE-FRA
@@ -35180,7 +35130,15 @@ UID:20240808T172700Z-cycling-track--4-4-
 DTSTAMP:20240808T172700Z
 DTSTART:20240808T172700Z
 DTEND:20240808T180400Z
-DESCRIPTION:Трековые велогонки - Омниум, по очкам (4 из 4) (м)
+DESCRIPTION:Трековые велогонки - Омниум, по очкам (4 из 4) (м)\n🇳🇿 Aaron
+  GATE\n🇵🇱 Alan BANASZEK\n🇪🇸 Albert TORRES BARCELO\n🇨🇭 Alex
+  VOGEL\n🇫🇷 Benjamin THOMAS\n🇮🇩 Bernard van AERT\n🇨🇦 Dylan
+  BIBIC\n🇮🇹 Elia VIVIANI\n🇬🇧 Ethan HAYTER\n🇧🇪 Fabio van den
+  BOSSCHE\n🇨🇴 Fernando GAVIRIA RENDON\n🇺🇸 Grant KOONTZ\n🇵🇹 Iuri
+  LEITAO\n🇨🇿 Jan VONES\n🇳🇱 Jan Willem van SCHIP\n🇯🇵 KUBOKI
+  Kazushige\n🇩🇰 Niklas LARSEN\n🇲🇽 Ricardo PENA SALAS\n🇦🇺 Sam
+  WELSFORD\n🇩🇪 Tim Torn TEUTENBERG\n🇦🇹 Tim WAFLER\n🇪🇬 Youssef
+  ABOUELHASSAN
 SUMMARY:🚴 Омниум, по очкам (4 из 4) (м)
 LOCATION:Национальный велодром
 END:VEVENT
@@ -35837,6 +35795,15 @@ SUMMARY:🏃 Эстафета 4х400м, раунд 1 (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T090700Z-wrestling--86--AUS-GRE
+DTSTAMP:20240809T090700Z
+DTSTART:20240809T090700Z
+DTEND:20240809T091400Z
+DESCRIPTION:Борьба - Вольная борьба, 86кг, утешительный раунд (м)
+SUMMARY:🤼 Jayden Alexander LAWRENCE 🇦🇺 - 🇬🇷 Dauren KURUGLIEV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T090700Z-wrestling--57--CHN-KGZ
 DTSTAMP:20240809T090700Z
 DTSTART:20240809T090700Z
@@ -35852,15 +35819,6 @@ DTSTART:20240809T090700Z
 DTEND:20240809T091400Z
 DESCRIPTION:Борьба - Вольная борьба, 57кг, утешительный раунд
 SUMMARY:🤼 Вольная борьба, 57кг, утешительный раунд
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T090700Z-wrestling--86-
-DTSTAMP:20240809T090700Z
-DTSTART:20240809T090700Z
-DTEND:20240809T091400Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, утешительный раунд (м)
-SUMMARY:🤼 Вольная борьба, 86кг, утешительный раунд (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -36246,6 +36204,16 @@ SUMMARY:🤼 Вольная борьба, 74кг, 1/8 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T101300Z-sailing--2-
+DTSTAMP:20240809T101300Z
+DTSTART:20240809T101300Z
+DTEND:20240809T101900Z
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 2 (м)\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
+SUMMARY:⛵ Кайт, финал, гонка 2 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T101300Z-taekwondo-18-80--EGY-DEN
 DTSTAMP:20240809T101300Z
 DTSTART:20240809T101300Z
@@ -36282,6 +36250,16 @@ SUMMARY:🤼 Вольная борьба, 62кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T102200Z-sailing--3-
+DTSTAMP:20240809T102200Z
+DTSTART:20240809T102200Z
+DTEND:20240809T102800Z
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 3 (м)\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
+SUMMARY:⛵ Кайт, финал, гонка 3 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T102400Z-wrestling--125-14-
 DTSTAMP:20240809T102400Z
 DTSTART:20240809T102400Z
@@ -36307,6 +36285,16 @@ DTEND:20240809T103100Z
 DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
 SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103100Z-sailing--4-
+DTSTAMP:20240809T103100Z
+DTSTART:20240809T103100Z
+DTEND:20240809T103700Z
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 4 (м)\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
+SUMMARY:⛵ Кайт, финал, гонка 4 (м)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T103100Z-wrestling--125-14-
@@ -36365,6 +36353,16 @@ SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T104000Z-sailing--5-
+DTSTAMP:20240809T104000Z
+DTSTART:20240809T104000Z
+DTEND:20240809T104600Z
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 5 (м)\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
+SUMMARY:⛵ Кайт, финал, гонка 5 (м)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T104000Z-canoe-sprint--500-
 DTSTAMP:20240809T104000Z
 DTSTART:20240809T104000Z
@@ -36381,6 +36379,16 @@ DTEND:20240809T105200Z
 DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
 SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T104900Z-sailing--6-
+DTSTAMP:20240809T104900Z
+DTSTART:20240809T104900Z
+DTEND:20240809T105500Z
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 6 (м)\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
+SUMMARY:⛵ Кайт, финал, гонка 6 (м)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T105000Z-canoe-sprint--500-
@@ -37310,7 +37318,8 @@ UID:20240809T175500Z-wrestling--86-
 DTSTAMP:20240809T175500Z
 DTSTART:20240809T175500Z
 DTEND:20240809T180500Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 86кг, поединок за бронзу (м)\n🇸🇲
+  Myles Nazem AMINE
 SUMMARY:🤼 Вольная борьба, 86кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -37355,13 +37364,12 @@ SUMMARY:🏑 Нидерланды 🇳🇱 - 🇨🇳 Китай
 LOCATION:Стадион «Ив дю Мануар»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T180500Z-wrestling--86-
+UID:20240809T180500Z-wrestling--86--BUL-IRI
 DTSTAMP:20240809T180500Z
 DTSTART:20240809T180500Z
 DTEND:20240809T181500Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, финал (м)\n🇧🇬 Magomed
-  Eldarovitch RAMAZANOV
-SUMMARY:🤼 Вольная борьба, 86кг, финал (м)
+DESCRIPTION:Борьба - Вольная борьба, 86кг, финал (м)
+SUMMARY:🤼 Magomed Eldarovitch RAMAZANOV 🇧🇬 - 🇮🇷 Hassan YAZDANICHARATI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT

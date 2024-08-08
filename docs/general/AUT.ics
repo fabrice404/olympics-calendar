@@ -3452,56 +3452,6 @@ SUMMARY:⛵ Men's Kite Final - Race 1
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T134900Z-sailing-MENS-KITE-FINAL-RACE-2
-DTSTAMP:20240808T134900Z
-DTSTART:20240808T134900Z
-DTEND:20240808T135500Z
-DESCRIPTION:Sailing - Men's Kite Final - Race 2\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
-SUMMARY:⛵ Men's Kite Final - Race 2
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T135800Z-sailing-MENS-KITE-FINAL-RACE-3
-DTSTAMP:20240808T135800Z
-DTSTART:20240808T135800Z
-DTEND:20240808T140400Z
-DESCRIPTION:Sailing - Men's Kite Final - Race 3\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
-SUMMARY:⛵ Men's Kite Final - Race 3
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T140700Z-sailing-MENS-KITE-FINAL-RACE-4
-DTSTAMP:20240808T140700Z
-DTSTART:20240808T140700Z
-DTEND:20240808T141300Z
-DESCRIPTION:Sailing - Men's Kite Final - Race 4\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
-SUMMARY:⛵ Men's Kite Final - Race 4
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T141600Z-sailing-MENS-KITE-FINAL-RACE-5
-DTSTAMP:20240808T141600Z
-DTSTART:20240808T141600Z
-DTEND:20240808T142200Z
-DESCRIPTION:Sailing - Men's Kite Final - Race 5\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
-SUMMARY:⛵ Men's Kite Final - Race 5
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
-UID:20240808T142500Z-sailing-MENS-KITE-FINAL-RACE-6
-DTSTAMP:20240808T142500Z
-DTSTART:20240808T142500Z
-DTEND:20240808T143100Z
-DESCRIPTION:Sailing - Men's Kite Final - Race 6\n🇸🇬 Maximilian
-  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
-SUMMARY:⛵ Men's Kite Final - Race 6
-LOCATION:Marseille Marina
-END:VEVENT
-BEGIN:VEVENT
 UID:20240808T150000Z-cycling-track-MENS-OMNIUM-SCRATCH-RACE-14
 DTSTAMP:20240808T150000Z
 DTSTART:20240808T150000Z
@@ -3553,6 +3503,23 @@ SUMMARY:🚴 Men's Omnium, Elimination Race 3/4
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T172700Z-cycling-track-MENS-OMNIUM-POINTS-RACE-44
+DTSTAMP:20240808T172700Z
+DTSTART:20240808T172700Z
+DTEND:20240808T180400Z
+DESCRIPTION:Cycling Track - Men's Omnium, Points Race 4/4\n🇳🇿 Aaron
+  GATE\n🇵🇱 Alan BANASZEK\n🇪🇸 Albert TORRES BARCELO\n🇨🇭 Alex
+  VOGEL\n🇫🇷 Benjamin THOMAS\n🇮🇩 Bernard van AERT\n🇨🇦 Dylan
+  BIBIC\n🇮🇹 Elia VIVIANI\n🇬🇧 Ethan HAYTER\n🇧🇪 Fabio van den
+  BOSSCHE\n🇨🇴 Fernando GAVIRIA RENDON\n🇺🇸 Grant KOONTZ\n🇵🇹 Iuri
+  LEITAO\n🇨🇿 Jan VONES\n🇳🇱 Jan Willem van SCHIP\n🇯🇵 KUBOKI
+  Kazushige\n🇩🇰 Niklas LARSEN\n🇲🇽 Ricardo PENA SALAS\n🇦🇺 Sam
+  WELSFORD\n🇩🇪 Tim Torn TEUTENBERG\n🇦🇹 Tim WAFLER\n🇪🇬 Youssef
+  ABOUELHASSAN
+SUMMARY:🚴 Men's Omnium, Points Race 4/4
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T053000Z-marathon-swimming-MENS-10KM
 DTSTAMP:20240809T053000Z
 DTSTART:20240809T053000Z
@@ -3601,6 +3568,36 @@ SUMMARY:🧗 Men's Boulder & Lead, Final Boulder
 LOCATION:Le Bourget Climbing Venue
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T101300Z-sailing-MENS-KITE-FINAL-RACE-2
+DTSTAMP:20240809T101300Z
+DTSTART:20240809T101300Z
+DTEND:20240809T101900Z
+DESCRIPTION:Sailing - Men's Kite Final - Race 2\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
+SUMMARY:⛵ Men's Kite Final - Race 2
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T102200Z-sailing-MENS-KITE-FINAL-RACE-3
+DTSTAMP:20240809T102200Z
+DTSTART:20240809T102200Z
+DTEND:20240809T102800Z
+DESCRIPTION:Sailing - Men's Kite Final - Race 3\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
+SUMMARY:⛵ Men's Kite Final - Race 3
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103100Z-sailing-MENS-KITE-FINAL-RACE-4
+DTSTAMP:20240809T103100Z
+DTSTART:20240809T103100Z
+DTEND:20240809T103700Z
+DESCRIPTION:Sailing - Men's Kite Final - Race 4\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
+SUMMARY:⛵ Men's Kite Final - Race 4
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T103500Z-sport-climbing-MENS-BOULDER-LEAD-FINAL-LEAD
 DTSTAMP:20240809T103500Z
 DTSTART:20240809T103500Z
@@ -3610,6 +3607,26 @@ DESCRIPTION:Sport Climbing - Men's Boulder & Lead, Final Lead\n🇯🇵 ANRAKU
   Hamish McARTHUR\n🇦🇹 Jakob SCHUBERT\n🇫🇷 Paul JENFT\n🇬🇧 Toby ROBERTS
 SUMMARY:🧗 Men's Boulder & Lead, Final Lead
 LOCATION:Le Bourget Climbing Venue
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T104000Z-sailing-MENS-KITE-FINAL-RACE-5
+DTSTAMP:20240809T104000Z
+DTSTART:20240809T104000Z
+DTEND:20240809T104600Z
+DESCRIPTION:Sailing - Men's Kite Final - Race 5\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
+SUMMARY:⛵ Men's Kite Final - Race 5
+LOCATION:Marseille Marina
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T104900Z-sailing-MENS-KITE-FINAL-RACE-6
+DTSTAMP:20240809T104900Z
+DTSTART:20240809T104900Z
+DTEND:20240809T105500Z
+DESCRIPTION:Sailing - Men's Kite Final - Race 6\n🇸🇬 Maximilian
+  MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
+SUMMARY:⛵ Men's Kite Final - Race 6
+LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T173000Z-artistic-swimming-DUET-TECHNICAL-ROUTINE
