@@ -34313,7 +34313,10 @@ UID:20240808T113000Z-canoe-sprint--500-
 DTSTAMP:20240808T113000Z
 DTSTART:20240808T113000Z
 DTEND:20240808T113700Z
-DESCRIPTION:Гребной спринт - Каноэ-двойки 500м, финал А (м)
+DESCRIPTION:Гребной спринт - Каноэ-двойки 500м, финал А (м)\n🇭🇺
+  ADOLF/HAJDU\n🇮🇹 CASADEI/TACCHINI\n🇨🇿 FUKSA/FUKSA\n🇩🇪
+  KRETSCHMER/HECKER\n🇨🇳 LIU/JI\n🇪🇸 MORENO/DOMINGUEZ\n🇧🇷
+  NASCIMENTO/GUIMARAES\n🇦🇸 PETROV/KOROVASHKO
 SUMMARY:🛶 Каноэ-двойки 500м, финал А (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
@@ -35020,13 +35023,12 @@ SUMMARY:🤼 Aaron Marquel BROOKS 🇺🇸 - 🇧🇬 Magomed Eldarovitch RAMAZA
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T163600Z-wrestling--86-
+UID:20240808T163600Z-wrestling--86--SMR-IRI
 DTSTAMP:20240808T163600Z
 DTSTART:20240808T163600Z
 DTEND:20240808T164300Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, полуфинал (м)\n🇸🇲 Myles Nazem
-  AMINE
-SUMMARY:🤼 Вольная борьба, 86кг, полуфинал (м)
+DESCRIPTION:Борьба - Вольная борьба, 86кг, полуфинал (м)
+SUMMARY:🤼 Myles Nazem AMINE 🇸🇲 - 🇮🇷 Hassan YAZDANICHARATI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
