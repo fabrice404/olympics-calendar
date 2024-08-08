@@ -34103,13 +34103,12 @@ SUMMARY:🤼 HIGUCHI Rei 🇯🇵 - 🇵🇷 Darian Toi CRUZ
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T101000Z-wrestling--57-14-
+UID:20240808T101000Z-wrestling--57-14--JPN-ECU
 DTSTAMP:20240808T101000Z
 DTSTART:20240808T101000Z
 DTEND:20240808T101700Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)\n🇯🇵 SAKURAI
-  Tsugumi
-SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)
+SUMMARY:🤼 SAKURAI Tsugumi 🇯🇵 - 🇪🇨 Luisa Elizabeth VALVERDE MELENDRES
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -34131,12 +34130,12 @@ SUMMARY:🥋 Hakan RECBER 🇹🇷 - 🇧🇫 Ibrahim MAIGA
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T101700Z-wrestling--57-14-
+UID:20240808T101700Z-wrestling--57-14--IND-ALB
 DTSTAMP:20240808T101700Z
 DTSTART:20240808T101700Z
 DTEND:20240808T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)
-SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (м)
+SUMMARY:🤼 Aman AMAN 🇮🇳 - 🇦🇱 Zelimkhan ABAKAROV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -34144,8 +34143,8 @@ UID:20240808T101700Z-wrestling--57-14-
 DTSTAMP:20240808T101700Z
 DTSTART:20240808T101700Z
 DTEND:20240808T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (м)\n🇮🇳 Aman AMAN
-SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)
+SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -34618,13 +34617,12 @@ SUMMARY:⛵ Кайт, полуфинал B, гонка 5 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T131900Z-taekwondo--57-
+UID:20240808T131900Z-taekwondo--57--IRI-TUN
 DTSTAMP:20240808T131900Z
 DTSTART:20240808T131900Z
 DTEND:20240808T133200Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 57кг (ж)\n🇮🇷 Nahid
-  KIYANICHANDEH
-SUMMARY:🥋 Четвертьфинал, до 57кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 57кг (ж)
+SUMMARY:🥋 Nahid KIYANICHANDEH 🇮🇷 - 🇹🇳 Chaima TOUMI
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -36634,7 +36632,11 @@ UID:20240809T173700Z-athletics--
 DTSTAMP:20240809T173700Z
 DTSTART:20240809T173700Z
 DTEND:20240809T184700Z
-DESCRIPTION:Легкая атлетика - Толкание ядра, финал (ж)
+DESCRIPTION:Легкая атлетика - Толкание ядра, финал (ж)\n🇩🇪 Alina
+  KENZEL\n🇸🇪 Axelina JOHANSSON\n🇸🇪 Fanny ROOS\n🇨🇳 GONG Lijiao\n🇺🇸
+  Jaida ROSS\n🇵🇹 Jessica INCHUDE\n🇳🇱 Jessica SCHILDER\n🇳🇿
+  Maddison-Lee WESCHE\n🇺🇸 Raven SAUNDERS\n🇨🇳 SONG Jiayuan\n🇨🇦 Sarah
+  MITTON\n🇩🇪 Yemisi OGUNLEYE
 SUMMARY:🏃 Толкание ядра, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
