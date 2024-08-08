@@ -34253,7 +34253,7 @@ BEGIN:VEVENT
 UID:20240808T104630Z-sport-climbing--
 DTSTAMP:20240808T104630Z
 DTSTART:20240808T104630Z
-DTEND:20240808T105030Z
+DTEND:20240808T104830Z
 DESCRIPTION:Спортивное скалолазание - Скорость, полуфиналы (м)
 SUMMARY:🧗 Скорость, полуфиналы (м)
 LOCATION:Скалодром «Ле-Бурже»
@@ -34262,7 +34262,7 @@ BEGIN:VEVENT
 UID:20240808T105430Z-sport-climbing--
 DTSTAMP:20240808T105430Z
 DTSTART:20240808T105430Z
-DTEND:20240808T105930Z
+DTEND:20240808T105700Z
 DESCRIPTION:Спортивное скалолазание - Скорость, финал (м)\n🇮🇷 Reza ALI
   POUR\n🇺🇸 Sam WATSON\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU Peng
 SUMMARY:🧗 Скорость, финал (м)
@@ -35024,7 +35024,8 @@ UID:20240808T163600Z-wrestling--86-
 DTSTAMP:20240808T163600Z
 DTSTART:20240808T163600Z
 DTEND:20240808T164300Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, полуфинал (м)
+DESCRIPTION:Борьба - Вольная борьба, 86кг, полуфинал (м)\n🇸🇲 Myles Nazem
+  AMINE
 SUMMARY:🤼 Вольная борьба, 86кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
