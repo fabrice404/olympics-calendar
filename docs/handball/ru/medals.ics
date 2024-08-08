@@ -4,21 +4,21 @@ PRODID:-//fabrice404//olympics-calendar//handball/ru/medals//EN
 X-WR-CALNAME:🤾 Гандбол 🏅 | Paris 2024
 NAME:🤾 Гандбол 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240810T080000Z-handball--3-
+UID:20240810T080000Z-handball--3--DEN-SWE
 DTSTAMP:20240810T080000Z
 DTSTART:20240810T080000Z
 DTEND:20240810T100000Z
-DESCRIPTION:Гандбол - Матч за 3-е место (ж)\n🇸🇪 Швеция
-SUMMARY:🤾 Матч за 3-е место (ж)
+DESCRIPTION:Гандбол - Матч за 3-е место (ж)
+SUMMARY:🤾 Дания 🇩🇰 - 🇸🇪 Швеция
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T130000Z-handball--
+UID:20240810T130000Z-handball---NOR-FRA
 DTSTAMP:20240810T130000Z
 DTSTART:20240810T130000Z
 DTEND:20240810T150000Z
-DESCRIPTION:Гандбол - Финал (ж)\n🇫🇷 Франция
-SUMMARY:🤾 Финал (ж)
+DESCRIPTION:Гандбол - Финал (ж)
+SUMMARY:🤾 Норвегия 🇳🇴 - 🇫🇷 Франция
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT

@@ -129,4 +129,13 @@ DESCRIPTION:Гандбол - Полуфинал (м)
 SUMMARY:🤾 Словения 🇸🇮 - 🇩🇰 Дания
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240810T080000Z-handball--3--DEN-SWE
+DTSTAMP:20240810T080000Z
+DTSTART:20240810T080000Z
+DTEND:20240810T100000Z
+DESCRIPTION:Гандбол - Матч за 3-е место (ж)
+SUMMARY:🤾 Дания 🇩🇰 - 🇸🇪 Швеция
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
 END:VCALENDAR

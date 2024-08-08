@@ -120,4 +120,13 @@ DESCRIPTION:Гандбол - Полуфинал (ж)
 SUMMARY:🤾 Норвегия 🇳🇴 - 🇩🇰 Дания
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240810T130000Z-handball---NOR-FRA
+DTSTAMP:20240810T130000Z
+DTSTART:20240810T130000Z
+DTEND:20240810T150000Z
+DESCRIPTION:Гандбол - Финал (ж)
+SUMMARY:🤾 Норвегия 🇳🇴 - 🇫🇷 Франция
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
 END:VCALENDAR
