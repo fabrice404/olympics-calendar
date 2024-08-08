@@ -8631,12 +8631,13 @@ DESCRIPTION:陸上競技 - 男子4×100mリレー予選\n🇨🇦 Aaron BROWN\n�
   AKINTOLA\n🇨🇦 Andre De GRASSE\n🇿🇦 Bayanda WALAZA\n🇬🇭 Benjamin
   AZAMATI\n🇿🇦 Bradley NKOANA\n🇨🇦 Brendon RODNEY\n🇨🇳 CHEN
   Jiapeng\n🇦🇺 Calab LAW\n🇺🇸 Christian COLEMAN\n🇺🇸 Courtney
-  LINDSEY\n🇨🇳 DENG Zhijian\n🇳🇱 Elvis AFRIFA\n🇧🇷 Erik CARDOSO\n🇮🇹
-  Eseosa Fostine DESALU\n🇳🇬 Favour Oghene Tejiri ASHE\n🇧🇷 Felipe
-  BARDI\n🇮🇹 Filippo TORTU\n🇺🇸 Fred KERLEY\n🇧🇷 Gabriel dos
-  SANTOS\n🇬🇭 Ibrahim FUSEINI\n🇦🇺 Jacob DESPARD\n🇫🇷 Jeff ERIUS\n🇯🇲
-  Jehlani GORDON\n🇯🇲 Jelani WALKER\n🇬🇧 Jeremiah AZU\n🇨🇦 Jerome
-  BLAKE\n🇬🇭 Joseph Paul AMOAH\n🇦🇺 Joshua AZZOPARDI\n🇯🇵 KIRYU
+  LINDSEY\n🇨🇳 DENG Zhijian\n🇳🇱 Elvis AFRIFA\n🇱🇷 Emmanuel MATADI\n🇧🇷
+  Erik CARDOSO\n🇮🇹 Eseosa Fostine DESALU\n🇳🇬 Favour Oghene Tejiri
+  ASHE\n🇧🇷 Felipe BARDI\n🇮🇹 Filippo TORTU\n🇺🇸 Fred KERLEY\n🇧🇷
+  Gabriel dos SANTOS\n🇬🇭 Ibrahim FUSEINI\n🇱🇷 Jabez REEVES\n🇦🇺 Jacob
+  DESPARD\n🇫🇷 Jeff ERIUS\n🇯🇲 Jehlani GORDON\n🇯🇲 Jelani WALKER\n🇬🇧
+  Jeremiah AZU\n🇨🇦 Jerome BLAKE\n🇱🇷 John SHERMAN\n🇱🇷 Joseph
+  FAHNBULLEH\n🇬🇭 Joseph Paul AMOAH\n🇦🇺 Joshua AZZOPARDI\n🇯🇵 KIRYU
   Yoshihide\n🇳🇬 Kayinsola AJAYI\n🇩🇪 Kevin KRANZ\n🇯🇲 Kishane
   THOMPSON\n🇺🇸 Kyree KING\n🇦🇺 Lachlan KENNEDY\n🇮🇹 Lamont Marcell
   JACOBS\n🇬🇧 Louie HINCHLIFFE\n🇩🇪 Lucas ANSAH-PEPRAH\n🇮🇹 Matteo
@@ -8666,6 +8667,23 @@ DTEND:20240808T095600Z
 DESCRIPTION:レスリング - 男子フリースタイル57kg級1回戦
 SUMMARY:🤼 Spencer Richard LEE 🇺🇸 - 🇨🇳 ZOU Wanhao
 LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T104000Z-canoe-sprint-C-1200M
+DTSTAMP:20240808T104000Z
+DTSTART:20240808T104000Z
+DTEND:20240808T110700Z
+DESCRIPTION:カヌー・スプリント - 女子カナディアンシングル（C-1）200m準々決勝\n🇭🇺 Agnes Anna
+  KISS\n🇺🇦 Anastasiia RYBACHOK\n🇳🇬 Ayomide Powei BELLO\n🇳🇬 Beauty
+  Akinaere OTUEDO\n🇸🇳 Combe SECK\n🇲🇩 Daniela COCIU\n🇫🇷 Eugenie
+  DORANGE\n🇸🇹 Herminia TEIXEIRA SANTANA\n🇨🇱 Karen ROCO\n🇵🇱 Katarzyna
+  SZPERKIEWICZ\n🇭🇺 Kincso TAKACS\n🇨🇳 LIN Wenjun\n🇩🇪 Lisa JAHN\n🇺🇦
+  Liudmyla LUZAN\n🇩🇪 Maike JAKOB\n🇨🇴 Manuela GOMEZ SANCHEZ\n🇲🇩 Maria
+  OLARASU\n🇰🇿 Mariya BROVKOVA\n🇺🇿 Nilufar ZOKIROVA\n🇦🇸 Olesia
+  ROMASENKO\n🇬🇺 Raina TAITINGFONG\n🇻🇳 Thi Huong NGUYEN\n🇨🇺 Yinnoly
+  Francheska LOPEZ LAMADRID
+SUMMARY:🛶 女子カナディアンシングル（C-1）200m準々決勝
+LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T110300Z-sailing--A-1
@@ -8829,12 +8847,12 @@ SUMMARY:🏋 男子73kg級
 LOCATION:サウス・パリ・アリーナ6
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T174600Z-wrestling-53KG3
+UID:20240808T174600Z-wrestling-53KG3-MGL-CHN
 DTSTAMP:20240808T174600Z
 DTSTART:20240808T174600Z
 DTEND:20240808T175300Z
-DESCRIPTION:レスリング - 女子フリースタイル53kg級3位決定戦\n🇨🇳 PANG Qianyu
-SUMMARY:🤼 女子フリースタイル53kg級3位決定戦
+DESCRIPTION:レスリング - 女子フリースタイル53kg級3位決定戦
+SUMMARY:🤼 Khulan BATKHUYAG 🇲🇳 - 🇨🇳 PANG Qianyu
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
 BEGIN:VEVENT

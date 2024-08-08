@@ -5838,6 +5838,23 @@ SUMMARY:🏃 Men's 800m Repechage Round
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T104000Z-canoe-sprint-WOMENS-CANOE-SINGLE-200M-QUARTERFINALS
+DTSTAMP:20240808T104000Z
+DTSTART:20240808T104000Z
+DTEND:20240808T110700Z
+DESCRIPTION:Canoe Sprint - Women's Canoe Single 200m Quarterfinals\n🇭🇺
+  Agnes Anna KISS\n🇺🇦 Anastasiia RYBACHOK\n🇳🇬 Ayomide Powei BELLO\n🇳🇬
+  Beauty Akinaere OTUEDO\n🇸🇳 Combe SECK\n🇲🇩 Daniela COCIU\n🇫🇷 Eugenie
+  DORANGE\n🇸🇹 Herminia TEIXEIRA SANTANA\n🇨🇱 Karen ROCO\n🇵🇱 Katarzyna
+  SZPERKIEWICZ\n🇭🇺 Kincso TAKACS\n🇨🇳 LIN Wenjun\n🇩🇪 Lisa JAHN\n🇺🇦
+  Liudmyla LUZAN\n🇩🇪 Maike JAKOB\n🇨🇴 Manuela GOMEZ SANCHEZ\n🇲🇩 Maria
+  OLARASU\n🇰🇿 Mariya BROVKOVA\n🇺🇿 Nilufar ZOKIROVA\n🇦🇸 Olesia
+  ROMASENKO\n🇬🇺 Raina TAITINGFONG\n🇻🇳 Thi Huong NGUYEN\n🇨🇺 Yinnoly
+  Francheska LOPEZ LAMADRID
+SUMMARY:🛶 Women's Canoe Single 200m Quarterfinals
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T114200Z-sailing-WOMENS-KITE-SEMIFINAL-B-RACE-1
 DTSTAMP:20240808T114200Z
 DTSTART:20240808T114200Z
@@ -5940,6 +5957,15 @@ DESCRIPTION:Cycling Track - Men's Omnium, Scratch Race 1/4\n🇳🇿 Aaron
   ABOUELHASSAN
 SUMMARY:🚴 Men's Omnium, Scratch Race 1/4
 LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T171800Z-wrestling-MENS-GRECO-ROMAN-87KG-BRONZE-MEDAL-MATCH-POL
+DTSTAMP:20240808T171800Z
+DTSTART:20240808T171800Z
+DTEND:20240808T172500Z
+DESCRIPTION:Wrestling - Men's Greco-Roman 87kg Bronze Medal Match
+SUMMARY:🤼 Arkadiusz Marcin KULYNYCZ 🇵🇱 - 🇺🇦 Zhan BELENIUK
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T173500Z-athletics-WOMENS-1500M-SEMI-FINAL
