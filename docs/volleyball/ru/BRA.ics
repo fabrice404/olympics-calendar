@@ -84,4 +84,13 @@ DESCRIPTION:Волейбол - Полуфиналы (ж)
 SUMMARY:🏐 Бразилия 🇧🇷 - 🇺🇸 США
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
+BEGIN:VEVENT
+UID:20240810T151500Z-volleyball--
+DTSTAMP:20240810T151500Z
+DTSTART:20240810T151500Z
+DTEND:20240810T173000Z
+DESCRIPTION:Волейбол - Матч за бронзу (ж)\n🇧🇷 Бразилия
+SUMMARY:🏐 Матч за бронзу (ж)
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
 END:VCALENDAR

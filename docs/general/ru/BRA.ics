@@ -6445,6 +6445,15 @@ SUMMARY:⚽ Бразилия 🇧🇷 - 🇺🇸 США
 LOCATION:«Парк-де-Пренс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T151500Z-volleyball--
+DTSTAMP:20240810T151500Z
+DTSTART:20240810T151500Z
+DTEND:20240810T173000Z
+DESCRIPTION:Волейбол - Матч за бронзу (ж)\n🇧🇷 Бразилия
+SUMMARY:🏐 Матч за бронзу (ж)
+LOCATION:Арена «Париж-Юг» 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z
