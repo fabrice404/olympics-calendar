@@ -6070,19 +6070,6 @@ SUMMARY:🛶 Каноэ-двойки 500м, полуфинал 1 (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T093500Z-athletics--4100-1-
-DTSTAMP:20240808T093500Z
-DTSTART:20240808T093500Z
-DTEND:20240808T094500Z
-DESCRIPTION:Легкая атлетика - Эстафета 4х100м, раунд 1 (м)\n🇦🇺
-  Австралия\n🇧🇷 Бразилия\n🇬🇧 Великобритания\n🇬🇭 Гана\n🇩🇪
-  Германия\n🇮🇹 Италия\n🇨🇦 Канада\n🇨🇳 Китай\n🇱🇷 Либерия\n🇳🇬
-  Нигерия\n🇳🇱 Нидерланды\n🇺🇸 США\n🇫🇷 Франция\n🇿🇦 Южная Африка\n🇯🇲
-  Ямайка\n🇯🇵 Япония
-SUMMARY:🏃 Эстафета 4х100м, раунд 1 (м)
-LOCATION:«Стад-де-Франс»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240808T094300Z-sailing--
 DTSTAMP:20240808T094300Z
 DTSTART:20240808T094300Z
@@ -6178,13 +6165,12 @@ SUMMARY:⛵ Кайт, полуфинал A, гонка 3 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T125300Z-taekwondo--57-
+UID:20240808T125300Z-taekwondo--57--BRA-CHN
 DTSTAMP:20240808T125300Z
 DTSTART:20240808T125300Z
 DTEND:20240808T130600Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 57кг (ж)\n🇧🇷 Maria Clara
-  PACHECO
-SUMMARY:🥋 Четвертьфинал, до 57кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 57кг (ж)
+SUMMARY:🥋 Maria Clara PACHECO 🇧🇷 - 🇨🇳 LUO Zongshi
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
