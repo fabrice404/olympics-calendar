@@ -3102,6 +3102,15 @@ SUMMARY:🥋 Skylar PARK 🇨🇦 - 🇹🇷 Hatice Kubra ILGUN
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T175300Z-taekwondo--68--BRA-TUR
+DTSTAMP:20240808T175300Z
+DTSTART:20240808T175300Z
+DTEND:20240808T180600Z
+DESCRIPTION:Тхэквондо - Утешительный поединок, до 68кг (м)
+SUMMARY:🥋 Edival PONTES 🇧🇷 - 🇹🇷 Hakan RECBER
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T180000Z-volleyball---TUR-ITA
 DTSTAMP:20240808T180000Z
 DTSTART:20240808T180000Z
@@ -3197,6 +3206,21 @@ DTEND:20240810T083500Z
 DESCRIPTION:Тхэквондо - 1/8 финала, свыше 67кг (ж)
 SUMMARY:🥋 Nafia KUS AYDIN 🇹🇷 - 🇨🇱 Fernanda AGUIRRE
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T121000Z-modern-pentathlon--B-
+DTSTAMP:20240810T121000Z
+DTSTART:20240810T121000Z
+DTEND:20240810T123000Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал B, фехтование,
+  бонус-раунд (ж)\n🇺🇿 Alise FAKHRUTDINOVA\n🇨🇭 Anna JURT\n🇵🇱 Anna
+  MALISZEWSKA\n🇭🇺 Blanka GUZI\n🇫🇷 Elodie CLOUVEL\n🇱🇹 Gintare
+  VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇰🇷 KIM Sunwoo\n🇪🇸 Laura
+  HEREDIA\n🇲🇽 Mariana ARCEO\n🇭🇺 Michelle GULYAS\n🇵🇱 Natalia
+  DOMINIAK\n🇪🇨 Sol NARANJO\n🇬🇹 Sophia HERNANDEZ\n🇯🇵 UCHIDA
+  Misaki\n🇺🇦 Valeriia PERMYKINA\n🇨🇿 Veronika NOVOTNA\n🇨🇳 ZHANG Mingyu
+SUMMARY:🤺 Личный зачет, полуфинал B, фехтование, бонус-раунд (ж)
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

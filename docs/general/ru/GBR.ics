@@ -7818,6 +7818,23 @@ SUMMARY:⛵ Кайт, финал, гонка 6 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T153800Z-cycling-track--2-4-
+DTSTAMP:20240808T153800Z
+DTSTART:20240808T153800Z
+DTEND:20240808T160100Z
+DESCRIPTION:Трековые велогонки - Омниум, темповая (2 из 4) (м)\n🇳🇿 Aaron
+  GATE\n🇵🇱 Alan BANASZEK\n🇪🇸 Albert TORRES BARCELO\n🇨🇭 Alex
+  VOGEL\n🇫🇷 Benjamin THOMAS\n🇮🇩 Bernard van AERT\n🇨🇦 Dylan
+  BIBIC\n🇮🇹 Elia VIVIANI\n🇬🇧 Ethan HAYTER\n🇧🇪 Fabio van den
+  BOSSCHE\n🇨🇴 Fernando GAVIRIA RENDON\n🇺🇸 Grant KOONTZ\n🇵🇹 Iuri
+  LEITAO\n🇨🇿 Jan VONES\n🇳🇱 Jan Willem van SCHIP\n🇯🇵 KUBOKI
+  Kazushige\n🇩🇰 Niklas LARSEN\n🇲🇽 Ricardo PENA SALAS\n🇦🇺 Sam
+  WELSFORD\n🇩🇪 Tim Torn TEUTENBERG\n🇦🇹 Tim WAFLER\n🇪🇬 Youssef
+  ABOUELHASSAN
+SUMMARY:🚴 Омниум, темповая (2 из 4) (м)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T173500Z-athletics-1500-
 DTSTAMP:20240808T173500Z
 DTSTART:20240808T173500Z
@@ -7850,6 +7867,15 @@ DESCRIPTION:Легкая атлетика - Семиборье, ядро (ж)\n�
   GEREVINI\n🇺🇸 Taliyah BROOKS\n🇦🇺 Tori WEST\n🇭🇺 Xenia KRIZSAN
 SUMMARY:🏃 Семиборье, ядро (ж)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T181900Z-taekwondo--68-
+DTSTAMP:20240808T181900Z
+DTSTART:20240808T181900Z
+DTEND:20240808T183400Z
+DESCRIPTION:Тхэквондо - Поединки за бронзу, до 68кг (м)\n🇬🇧 Bradly SINDEN
+SUMMARY:🥋 Поединки за бронзу, до 68кг (м)
+LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T185500Z-athletics--200-
@@ -8101,6 +8127,22 @@ DTEND:20240810T073300Z
 DESCRIPTION:Тхэквондо - 1/8 финала, свыше 80кг (м)
 SUMMARY:🥋 Abdoul ISSOUFOU 🇳🇪 - 🇬🇧 Caden CUNNINGHAM
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T081000Z-modern-pentathlon--A-
+DTSTAMP:20240810T081000Z
+DTSTART:20240810T081000Z
+DTEND:20240810T083000Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, фехтование,
+  бонус-раунд (ж)\n🇮🇹 Alice SOTERO\n🇩🇪 Annika ZILLEKENS\n🇮🇹 Elena
+  MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷 Isabela ABREU\n🇺🇸
+  Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza BRYSON\n🇱🇹 Laura
+  ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
+  OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪 Rebecca
+  LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿 Yelena
+  POTAPENKO
+SUMMARY:🤺 Личный зачет, полуфинал A, фехтование, бонус-раунд (ж)
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T081500Z-sport-climbing--

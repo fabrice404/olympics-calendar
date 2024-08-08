@@ -3544,6 +3544,22 @@ SUMMARY:🏓 Матч за бронзу, командный разряд (ж)
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T081000Z-modern-pentathlon--A-
+DTSTAMP:20240810T081000Z
+DTSTART:20240810T081000Z
+DTEND:20240810T083000Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, фехтование,
+  бонус-раунд (ж)\n🇮🇹 Alice SOTERO\n🇩🇪 Annika ZILLEKENS\n🇮🇹 Elena
+  MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷 Isabela ABREU\n🇺🇸
+  Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza BRYSON\n🇱🇹 Laura
+  ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
+  OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪 Rebecca
+  LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿 Yelena
+  POTAPENKO
+SUMMARY:🤺 Личный зачет, полуфинал A, фехтование, бонус-раунд (ж)
+LOCATION:Версаль
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T081500Z-sport-climbing--
 DTSTAMP:20240810T081500Z
 DTSTART:20240810T081500Z
@@ -3586,6 +3602,21 @@ DESCRIPTION:Спортивное скалолазание - Трудность, 
   MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
 SUMMARY:🧗 Трудность, финал (ж)
 LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T121000Z-modern-pentathlon--B-
+DTSTAMP:20240810T121000Z
+DTSTART:20240810T121000Z
+DTEND:20240810T123000Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал B, фехтование,
+  бонус-раунд (ж)\n🇺🇿 Alise FAKHRUTDINOVA\n🇨🇭 Anna JURT\n🇵🇱 Anna
+  MALISZEWSKA\n🇭🇺 Blanka GUZI\n🇫🇷 Elodie CLOUVEL\n🇱🇹 Gintare
+  VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇰🇷 KIM Sunwoo\n🇪🇸 Laura
+  HEREDIA\n🇲🇽 Mariana ARCEO\n🇭🇺 Michelle GULYAS\n🇵🇱 Natalia
+  DOMINIAK\n🇪🇨 Sol NARANJO\n🇬🇹 Sophia HERNANDEZ\n🇯🇵 UCHIDA
+  Misaki\n🇺🇦 Valeriia PERMYKINA\n🇨🇿 Veronika NOVOTNA\n🇨🇳 ZHANG Mingyu
+SUMMARY:🤺 Личный зачет, полуфинал B, фехтование, бонус-раунд (ж)
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T140000Z-weightlifting-81-

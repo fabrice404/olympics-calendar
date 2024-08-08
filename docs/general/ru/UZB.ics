@@ -1286,12 +1286,12 @@ SUMMARY:🤼 Spencer Richard LEE 🇺🇸 - 🇺🇿 Gulomjon ABDULLAEV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T191900Z-taekwondo--68-
+UID:20240808T191900Z-taekwondo--68--UZB-JOR
 DTSTAMP:20240808T191900Z
 DTSTART:20240808T191900Z
 DTEND:20240808T193400Z
-DESCRIPTION:Тхэквондо - Финал, до 68кг (м)\n🇺🇿 Ulugbek RASHITOV
-SUMMARY:🥋 Финал, до 68кг (м)
+DESCRIPTION:Тхэквондо - Финал, до 68кг (м)
+SUMMARY:🥋 Ulugbek RASHITOV 🇺🇿 - 🇯🇴 Zaid KAREEM
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -1405,6 +1405,21 @@ DTEND:20240810T094800Z
 DESCRIPTION:Тхэквондо - 1/8 финала, свыше 67кг (ж)
 SUMMARY:🥋 Astan Katherine Feghe BATHILY 🇨🇮 - 🇺🇿 Svetlana OSIPOVA
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T121000Z-modern-pentathlon--B-
+DTSTAMP:20240810T121000Z
+DTSTART:20240810T121000Z
+DTEND:20240810T123000Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал B, фехтование,
+  бонус-раунд (ж)\n🇺🇿 Alise FAKHRUTDINOVA\n🇨🇭 Anna JURT\n🇵🇱 Anna
+  MALISZEWSKA\n🇭🇺 Blanka GUZI\n🇫🇷 Elodie CLOUVEL\n🇱🇹 Gintare
+  VENCKAUSKAITE\n🇹🇷 Ilke OZYUKSEL\n🇰🇷 KIM Sunwoo\n🇪🇸 Laura
+  HEREDIA\n🇲🇽 Mariana ARCEO\n🇭🇺 Michelle GULYAS\n🇵🇱 Natalia
+  DOMINIAK\n🇪🇨 Sol NARANJO\n🇬🇹 Sophia HERNANDEZ\n🇯🇵 UCHIDA
+  Misaki\n🇺🇦 Valeriia PERMYKINA\n🇨🇿 Veronika NOVOTNA\n🇨🇳 ZHANG Mingyu
+SUMMARY:🤺 Личный зачет, полуфинал B, фехтование, бонус-раунд (ж)
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T140000Z-weightlifting-81-
