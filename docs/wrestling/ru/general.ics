@@ -1924,7 +1924,7 @@ BEGIN:VEVENT
 UID:20240809T090000Z-wrestling--57-
 DTSTAMP:20240809T090000Z
 DTSTART:20240809T090000Z
-DTEND:20240809T092000Z
+DTEND:20240809T090700Z
 DESCRIPTION:Борьба - Вольная борьба, 57кг, утешительный раунд
 SUMMARY:🤼 Вольная борьба, 57кг, утешительный раунд
 LOCATION:Арена «Марсово поле»
@@ -1933,7 +1933,7 @@ BEGIN:VEVENT
 UID:20240809T090000Z-wrestling--57-
 DTSTAMP:20240809T090000Z
 DTSTART:20240809T090000Z
-DTEND:20240809T092000Z
+DTEND:20240809T090700Z
 DESCRIPTION:Борьба - Вольная борьба, 57кг, утешительный раунд (м)
 SUMMARY:🤼 Вольная борьба, 57кг, утешительный раунд (м)
 LOCATION:Арена «Марсово поле»
@@ -1942,70 +1942,377 @@ BEGIN:VEVENT
 UID:20240809T090000Z-wrestling--86-
 DTSTAMP:20240809T090000Z
 DTSTART:20240809T090000Z
-DTEND:20240809T092000Z
+DTEND:20240809T090700Z
 DESCRIPTION:Борьба - Вольная борьба, 86кг, утешительный раунд (м)
 SUMMARY:🤼 Вольная борьба, 86кг, утешительный раунд (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T093000Z-wrestling--74-
-DTSTAMP:20240809T093000Z
-DTSTART:20240809T093000Z
-DTEND:20240809T094000Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, квалификация (м)
-SUMMARY:🤼 Вольная борьба, 74кг, квалификация (м)
+UID:20240809T090700Z-wrestling--57-
+DTSTAMP:20240809T090700Z
+DTSTART:20240809T090700Z
+DTEND:20240809T091400Z
+DESCRIPTION:Борьба - Вольная борьба, 57кг, утешительный раунд
+SUMMARY:🤼 Вольная борьба, 57кг, утешительный раунд
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T093000Z-wrestling--125-18-
-DTSTAMP:20240809T093000Z
-DTSTART:20240809T093000Z
-DTEND:20240809T105000Z
-DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/8 финала (м)
-SUMMARY:🤼 Вольная борьба, 125кг, 1/8 финала (м)
+UID:20240809T090700Z-wrestling--57-
+DTSTAMP:20240809T090700Z
+DTSTART:20240809T090700Z
+DTEND:20240809T091400Z
+DESCRIPTION:Борьба - Вольная борьба, 57кг, утешительный раунд (м)
+SUMMARY:🤼 Вольная борьба, 57кг, утешительный раунд (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T093000Z-wrestling--62-18-
-DTSTAMP:20240809T093000Z
-DTSTART:20240809T093000Z
-DTEND:20240809T105000Z
+UID:20240809T090700Z-wrestling--86-
+DTSTAMP:20240809T090700Z
+DTSTART:20240809T090700Z
+DTEND:20240809T091400Z
+DESCRIPTION:Борьба - Вольная борьба, 86кг, утешительный раунд (м)
+SUMMARY:🤼 Вольная борьба, 86кг, утешительный раунд (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091400Z-wrestling--62-18--KGZ-NGR
+DTSTAMP:20240809T091400Z
+DTSTART:20240809T091400Z
+DTEND:20240809T092100Z
 DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/8 финала (ж)
-SUMMARY:🤼 Вольная борьба, 62кг, 1/8 финала (ж)
+SUMMARY:🤼 Aisuluu TYNYBEKOVA 🇰🇬 - 🇳🇬 Esther Omolayo KOLAWOLE
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T094000Z-wrestling--74-18-
-DTSTAMP:20240809T094000Z
-DTSTART:20240809T094000Z
-DTEND:20240809T110000Z
+UID:20240809T091400Z-wrestling--125-18--IRI-KGZ
+DTSTAMP:20240809T091400Z
+DTSTART:20240809T091400Z
+DTEND:20240809T092100Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/8 финала (м)
+SUMMARY:🤼 Amir Hossein ZARE 🇮🇷 - 🇰🇬 Aiaal LAZAREV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091400Z-wrestling--74--ITA-IRI
+DTSTAMP:20240809T091400Z
+DTSTART:20240809T091400Z
+DTEND:20240809T092100Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, квалификация (м)
+SUMMARY:🤼 Frank CHAMIZO MARQUEZ 🇮🇹 - 🇮🇷 Yones EMAMICHOGHAEI
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T092100Z-wrestling--125-18--CAN-CHN
+DTSTAMP:20240809T092100Z
+DTSTART:20240809T092100Z
+DTEND:20240809T092800Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/8 финала (м)
+SUMMARY:🤼 Amarveer DHESI 🇨🇦 - 🇨🇳 DENG Zhiwei
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T092100Z-wrestling--62-18--TUR-USA
+DTSTAMP:20240809T092100Z
+DTSTART:20240809T092100Z
+DTEND:20240809T092800Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/8 финала (ж)
+SUMMARY:🤼 Nesrin BAS 🇹🇷 - 🇺🇸 Kayla Colleen MIRACLE
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T092100Z-wrestling--74--UZB-AIN
+DTSTAMP:20240809T092100Z
+DTSTART:20240809T092100Z
+DTEND:20240809T092800Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, квалификация (м)
+SUMMARY:🤼 Razambek Salambekovitch JAMALOV 🇺🇿 - 🇦🇸 Mahamedkhabib KADZIM
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T092800Z-wrestling--62-18--BUL-SWE
+DTSTAMP:20240809T092800Z
+DTSTART:20240809T092800Z
+DTEND:20240809T093500Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/8 финала (ж)
+SUMMARY:🤼 Bilyana Zhivkova DUDOVA 🇧🇬 - 🇸🇪 Sara Johanna LINDBORG
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T092800Z-wrestling--125-18--HUN-NGR
+DTSTAMP:20240809T092800Z
+DTSTART:20240809T092800Z
+DTEND:20240809T093500Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/8 финала (м)
+SUMMARY:🤼 Daniel LIGETI 🇭🇺 - 🇳🇬 Ashton Adeyemi MUTUWA
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T092800Z-wrestling--74-18--USA-VEN
+DTSTAMP:20240809T092800Z
+DTSTART:20240809T092800Z
+DTEND:20240809T093500Z
 DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)
+SUMMARY:🤼 Kyle Douglas DAKE 🇺🇸 - 🇻🇪 Anthony Jose MONTERO CHIRINOS
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T093500Z-wrestling--74-18--SRB-EOR
+DTSTAMP:20240809T093500Z
+DTSTART:20240809T093500Z
+DTEND:20240809T094200Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)
+SUMMARY:🤼 Hetik CABOLOV 🇷🇸 - 🏳️ Iman MAHDAVI
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T093500Z-wrestling--125-18--PUR-TUR
+DTSTAMP:20240809T093500Z
+DTSTART:20240809T093500Z
+DTEND:20240809T094200Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/8 финала (м)
+SUMMARY:🤼 Jonovan Darius SMITH 🇵🇷 - 🇹🇷 Taha AKGUL
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T093500Z-wrestling--62-18--MGL-UKR
+DTSTAMP:20240809T093500Z
+DTSTART:20240809T093500Z
+DTEND:20240809T094200Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/8 финала (ж)
+SUMMARY:🤼 Orkhon PUREVDORJ 🇲🇳 - 🇺🇦 Iryna KOLIADENKO
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T094200Z-wrestling--74-18--CUB-JPN
+DTSTAMP:20240809T094200Z
+DTSTART:20240809T094200Z
+DTEND:20240809T094900Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)
+SUMMARY:🤼 Geandry GARZON CABALLERO 🇨🇺 - 🇯🇵 TAKATANI Daichi
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T094200Z-wrestling--62-18--NOR-TUN
+DTSTAMP:20240809T094200Z
+DTSTART:20240809T094200Z
+DTEND:20240809T094900Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/8 финала (ж)
+SUMMARY:🤼 Grace Jacob BULLEN 🇳🇴 - 🇹🇳 Siwar BOUSETA
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T094200Z-wrestling--125-18--USA-MGL
+DTSTAMP:20240809T094200Z
+DTSTART:20240809T094200Z
+DTEND:20240809T094900Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/8 финала (м)
+SUMMARY:🤼 Mason Mark PARRIS 🇺🇸 - 🇲🇳 Lkhagvagerel MUNKHTUR
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T094900Z-wrestling--125-18--EGY-AZE
+DTSTAMP:20240809T094900Z
+DTSTART:20240809T094900Z
+DTEND:20240809T095600Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/8 финала (м)
+SUMMARY:🤼 Diaaeldin ABDELMOTTALEB 🇪🇬 - 🇦🇿 Giorgi MESHVILDISHVILI
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T094900Z-wrestling--62-18--KOR-GER
+DTSTAMP:20240809T094900Z
+DTSTART:20240809T094900Z
+DTEND:20240809T095600Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/8 финала (ж)
+SUMMARY:🤼 LEE Hanbit 🇰🇷 - 🇩🇪 Luisa Helga Gerda NIEMESCH
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T094900Z-wrestling--74-18-
+DTSTAMP:20240809T094900Z
+DTSTART:20240809T094900Z
+DTEND:20240809T095600Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)\n🇬🇼 Bacar NDUM
 SUMMARY:🤼 Вольная борьба, 74кг, 1/8 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T105000Z-wrestling--125-14-
-DTSTAMP:20240809T105000Z
-DTSTART:20240809T105000Z
-DTEND:20240809T113000Z
+UID:20240809T095600Z-wrestling--62-18--CAN-FRA
+DTSTAMP:20240809T095600Z
+DTSTART:20240809T095600Z
+DTEND:20240809T100300Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/8 финала (ж)
+SUMMARY:🤼 Ana Paula GODINEZ GONZALEZ 🇨🇦 - 🇫🇷 Ameline DOUARRE
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T095600Z-wrestling--74-18--GRE-TJK
+DTSTAMP:20240809T095600Z
+DTSTART:20240809T095600Z
+DTEND:20240809T100300Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)
+SUMMARY:🤼 Georgios KOUGIOUMTSIDIS 🇬🇷 - 🇹🇯 Viktor RASSADIN
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T095600Z-wrestling--125-18--POL-KAZ
+DTSTAMP:20240809T095600Z
+DTSTART:20240809T095600Z
+DTEND:20240809T100300Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/8 финала (м)
+SUMMARY:🤼 Robert BARAN 🇵🇱 - 🇰🇿 Yusup BATIRMURZAEV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T100300Z-wrestling--74-18--EGY-CHN
+DTSTAMP:20240809T100300Z
+DTSTART:20240809T100300Z
+DTEND:20240809T101000Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)
+SUMMARY:🤼 Amr HUSSEN 🇪🇬 - 🇨🇳 LU Feng
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T100300Z-wrestling--62-18--ROU-JPN
+DTSTAMP:20240809T100300Z
+DTSTART:20240809T100300Z
+DTEND:20240809T101000Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/8 финала (ж)
+SUMMARY:🤼 Kriszta Tunde INCZE 🇷🇴 - 🇯🇵 MOTOKI Sakura
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T100300Z-wrestling--125-18--UKR-GEO
+DTSTAMP:20240809T100300Z
+DTSTART:20240809T100300Z
+DTEND:20240809T101000Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/8 финала (м)
+SUMMARY:🤼 Oleksandr KHOTSIANIVSKYI 🇺🇦 - 🇬🇪 Geno PETRIASHVILI
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T101000Z-wrestling--125-14-
+DTSTAMP:20240809T101000Z
+DTSTART:20240809T101000Z
+DTEND:20240809T101700Z
 DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)
 SUMMARY:🤼 Вольная борьба, 125кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T105000Z-wrestling--62-14-
-DTSTAMP:20240809T105000Z
-DTSTART:20240809T105000Z
-DTEND:20240809T113000Z
+UID:20240809T101000Z-wrestling--62-14-
+DTSTAMP:20240809T101000Z
+DTSTART:20240809T101000Z
+DTEND:20240809T101700Z
 DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)
 SUMMARY:🤼 Вольная борьба, 62кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T110000Z-wrestling--74-14-
-DTSTAMP:20240809T110000Z
-DTSTART:20240809T110000Z
-DTEND:20240809T114000Z
+UID:20240809T101000Z-wrestling--74-18-
+DTSTAMP:20240809T101000Z
+DTSTART:20240809T101000Z
+DTEND:20240809T101700Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)\n🇸🇰 Tajmuraz
+  Mairbekovic SALKAZANOV
+SUMMARY:🤼 Вольная борьба, 74кг, 1/8 финала (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T101700Z-wrestling--74-18--ALB-AZE
+DTSTAMP:20240809T101700Z
+DTSTART:20240809T101700Z
+DTEND:20240809T102400Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)
+SUMMARY:🤼 Chermen VALIEV 🇦🇱 - 🇦🇿 Turan BAYRAMOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T101700Z-wrestling--125-14-
+DTSTAMP:20240809T101700Z
+DTSTART:20240809T101700Z
+DTEND:20240809T102400Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)
+SUMMARY:🤼 Вольная борьба, 125кг, 1/4 финала (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T101700Z-wrestling--62-14-
+DTSTAMP:20240809T101700Z
+DTSTART:20240809T101700Z
+DTEND:20240809T102400Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)
+SUMMARY:🤼 Вольная борьба, 62кг, 1/4 финала (ж)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T102400Z-wrestling--125-14-
+DTSTAMP:20240809T102400Z
+DTSTART:20240809T102400Z
+DTEND:20240809T103100Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)
+SUMMARY:🤼 Вольная борьба, 125кг, 1/4 финала (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T102400Z-wrestling--62-14-
+DTSTAMP:20240809T102400Z
+DTSTART:20240809T102400Z
+DTEND:20240809T103100Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)
+SUMMARY:🤼 Вольная борьба, 62кг, 1/4 финала (ж)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T102400Z-wrestling--74-14-
+DTSTAMP:20240809T102400Z
+DTSTART:20240809T102400Z
+DTEND:20240809T103100Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
+SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103100Z-wrestling--125-14-
+DTSTAMP:20240809T103100Z
+DTSTART:20240809T103100Z
+DTEND:20240809T103800Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)
+SUMMARY:🤼 Вольная борьба, 125кг, 1/4 финала (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103100Z-wrestling--62-14-
+DTSTAMP:20240809T103100Z
+DTSTART:20240809T103100Z
+DTEND:20240809T103800Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)
+SUMMARY:🤼 Вольная борьба, 62кг, 1/4 финала (ж)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103100Z-wrestling--74-14-
+DTSTAMP:20240809T103100Z
+DTSTART:20240809T103100Z
+DTEND:20240809T103800Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
+SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103800Z-wrestling--74-14-
+DTSTAMP:20240809T103800Z
+DTSTART:20240809T103800Z
+DTEND:20240809T104500Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
+SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T104500Z-wrestling--74-14-
+DTSTAMP:20240809T104500Z
+DTSTART:20240809T104500Z
+DTEND:20240809T105200Z
 DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
 SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
@@ -2065,30 +2372,48 @@ SUMMARY:🤼 Вольная борьба, 62кг, полуфинал (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T173000Z-wrestling--57-
-DTSTAMP:20240809T173000Z
-DTSTART:20240809T173000Z
-DTEND:20240809T174000Z
+UID:20240809T171500Z-wrestling--57-
+DTSTAMP:20240809T171500Z
+DTSTART:20240809T171500Z
+DTEND:20240809T172500Z
 DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (м)
 SUMMARY:🤼 Вольная борьба, 57кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T174000Z-wrestling--57-
-DTSTAMP:20240809T174000Z
-DTSTART:20240809T174000Z
-DTEND:20240809T175000Z
+UID:20240809T172500Z-wrestling--57-
+DTSTAMP:20240809T172500Z
+DTSTART:20240809T172500Z
+DTEND:20240809T173500Z
 DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (м)
 SUMMARY:🤼 Вольная борьба, 57кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T175500Z-wrestling--57-
+UID:20240809T173500Z-wrestling--57-
+DTSTAMP:20240809T173500Z
+DTSTART:20240809T173500Z
+DTEND:20240809T174500Z
+DESCRIPTION:Борьба - Вольная борьба, 57кг, финал (м)
+SUMMARY:🤼 Вольная борьба, 57кг, финал (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T174500Z-wrestling--86-
+DTSTAMP:20240809T174500Z
+DTSTART:20240809T174500Z
+DTEND:20240809T175500Z
+DESCRIPTION:Борьба - Вольная борьба, 86кг, поединок за бронзу (м)
+SUMMARY:🤼 Вольная борьба, 86кг, поединок за бронзу (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T175500Z-wrestling--86-
 DTSTAMP:20240809T175500Z
 DTSTART:20240809T175500Z
 DTEND:20240809T180500Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, финал (м)
-SUMMARY:🤼 Вольная борьба, 57кг, финал (м)
+DESCRIPTION:Борьба - Вольная борьба, 86кг, поединок за бронзу (м)
+SUMMARY:🤼 Вольная борьба, 86кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -2096,51 +2421,33 @@ UID:20240809T180500Z-wrestling--86-
 DTSTAMP:20240809T180500Z
 DTSTART:20240809T180500Z
 DTEND:20240809T181500Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, поединок за бронзу (м)
-SUMMARY:🤼 Вольная борьба, 86кг, поединок за бронзу (м)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T181500Z-wrestling--86-
-DTSTAMP:20240809T181500Z
-DTSTART:20240809T181500Z
-DTEND:20240809T182500Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, поединок за бронзу (м)
-SUMMARY:🤼 Вольная борьба, 86кг, поединок за бронзу (м)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T183000Z-wrestling--86-
-DTSTAMP:20240809T183000Z
-DTSTART:20240809T183000Z
-DTEND:20240809T184000Z
 DESCRIPTION:Борьба - Вольная борьба, 86кг, финал (м)
 SUMMARY:🤼 Вольная борьба, 86кг, финал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T185000Z-wrestling--57-
-DTSTAMP:20240809T185000Z
-DTSTART:20240809T185000Z
-DTEND:20240809T190000Z
+UID:20240809T181500Z-wrestling--57-
+DTSTAMP:20240809T181500Z
+DTSTART:20240809T181500Z
+DTEND:20240809T182500Z
 DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (ж)
 SUMMARY:🤼 Вольная борьба, 57кг, поединок за бронзу (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T190000Z-wrestling--57-
-DTSTAMP:20240809T190000Z
-DTSTART:20240809T190000Z
-DTEND:20240809T191000Z
+UID:20240809T182500Z-wrestling--57-
+DTSTAMP:20240809T182500Z
+DTSTART:20240809T182500Z
+DTEND:20240809T183500Z
 DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (ж)
 SUMMARY:🤼 Вольная борьба, 57кг, поединок за бронзу (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T191500Z-wrestling--57-
-DTSTAMP:20240809T191500Z
-DTSTART:20240809T191500Z
-DTEND:20240809T192500Z
+UID:20240809T183500Z-wrestling--57-
+DTSTAMP:20240809T183500Z
+DTSTART:20240809T183500Z
+DTEND:20240809T184500Z
 DESCRIPTION:Борьба - Вольная борьба, 57кг, финал (ж)
 SUMMARY:🤼 Вольная борьба, 57кг, финал (ж)
 LOCATION:Арена «Марсово поле»
