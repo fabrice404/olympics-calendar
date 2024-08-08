@@ -10890,6 +10890,18 @@ SUMMARY:🛶 Байдарки-двойки 500м, полуфинал 2 (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T094000Z-canoe-sprint--1000-2-
+DTSTAMP:20240809T094000Z
+DTSTART:20240809T094000Z
+DTEND:20240809T094700Z
+DESCRIPTION:Гребной спринт - Каноэ-одиночки 1000м, полуфинал 2 (м)\n🇫🇷
+  Adrien BART\n🇭🇺 Balazs ADOLF\n🇭🇺 Daniel FEJES\n🇨🇳 LIU Hao\n🇨🇿
+  Martin FUKSA\n🇪🇸 Pablo CRESPO\n🇲🇩 Serghei TARNOVSCHI\n🇦🇸 Zakhar
+  PETROV
+SUMMARY:🛶 Каноэ-одиночки 1000м, полуфинал 2 (м)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T103500Z-sport-climbing--
 DTSTAMP:20240809T103500Z
 DTSTART:20240809T103500Z
@@ -10977,6 +10989,30 @@ DTEND:20240810T072100Z
 DESCRIPTION:Тхэквондо - 1/8 финала, свыше 67кг (ж)
 SUMMARY:🥋 Munira ABDUSALOMOVA 🇹🇯 - 🇫🇷 Althea LAURIN
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T084000Z-canoe-sprint--500-2-
+DTSTAMP:20240810T084000Z
+DTSTART:20240810T084000Z
+DTEND:20240810T084700Z
+DESCRIPTION:Гребной спринт - Байдарки-одиночки 500м, полуфинал 2 (ж)\n🇭🇷
+  Anamaria GOVORCINOVIC\n🇩🇰 Emma Aastrand JORGENSEN\n🇳🇿 Lisa
+  CARRINGTON\n🇫🇷 Manon HOSTENS\n🇸🇪 Melina ANDERSSON\n🇷🇸 Milica
+  NOVAKOVIC\n🇨🇦 Riley MELANSON\n🇳🇱 Ruth VORSSELMAN
+SUMMARY:🛶 Байдарки-одиночки 500м, полуфинал 2 (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T092000Z-canoe-sprint--1000-2-
+DTSTAMP:20240810T092000Z
+DTSTART:20240810T092000Z
+DTEND:20240810T092700Z
+DESCRIPTION:Гребной спринт - Байдарки-одиночки 1000м, полуфинал 2 (м)\n🇭🇺
+  Adam VARGA\n🇪🇸 Adrian del RIO\n🇦🇷 Agustin VERNICE\n🇩🇪 Anton
+  WINKELMANN\n🇿🇦 Hamish LOVEMORE\n🇨🇿 Josef DOSTAL\n🇫🇷 Maxime
+  BEAUMONT\n🇦🇸 Uladzislau KRAVETS
+SUMMARY:🛶 Байдарки-одиночки 1000м, полуфинал 2 (м)
+LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T110000Z-volleyball---FRA-POL
