@@ -671,10 +671,26 @@ UID:20240809T090500Z-athletics-4400M
 DTSTAMP:20240809T090500Z
 DTSTART:20240809T090500Z
 DTEND:20240809T092100Z
-DESCRIPTION:陸上競技 - 男子4×400mリレー予選\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇮🇳 インド\n🇪🇸
-  スペイン\n🇹🇹 トリニダード・トバゴ\n🇩🇪 ドイツ\n🇳🇬 ナイジェリア\n🇫🇷 フランス\n🇧🇷 ブラジル\n🇧🇪
-  ベルギー\n🇧🇼 ボツワナ\n🇵🇱 ポーランド\n🇿🇦 南アフリカ\n🇯🇵 日本\n🇬🇧 英国
+DESCRIPTION:陸上競技 - 男子4×400mリレー予選\n🇺🇸 アメリカ合衆国\n🇮🇹 イタリア\n🇮🇳 インド\n🇿🇲
+  ザンビア\n🇪🇸 スペイン\n🇹🇹 トリニダード・トバゴ\n🇩🇪 ドイツ\n🇳🇬 ナイジェリア\n🇫🇷 フランス\n🇧🇷
+  ブラジル\n🇧🇪 ベルギー\n🇧🇼 ボツワナ\n🇵🇱 ポーランド\n🇿🇦 南アフリカ\n🇯🇵 日本\n🇬🇧 英国
 SUMMARY:🏃 男子4×400mリレー予選
+LOCATION:スタッド・ド・フランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T100500Z-athletics-100M
+DTSTAMP:20240809T100500Z
+DTSTART:20240809T100500Z
+DTEND:20240809T102200Z
+DESCRIPTION:陸上競技 - 女子100mハードル準決勝\n🇯🇲 Ackera NUGENT\n🇺🇸 Alaysha
+  JOHNSON\n🇧🇸 Charisma TAYLOR\n🇬🇧 Cindy SEMBER\n🇫🇷 Cyrena
+  SAMBA-MAYELA\n🇯🇲 Danielle WILLIAMS\n🇧🇸 Devynne CHARLTON\n🇨🇭 Ditaji
+  KAMBUNDJI\n🇱🇷 Ebony MORRISON\n🇯🇵 FUKUBE Mako\n🇺🇸 Grace STARK\n🇯🇲
+  Janeek BROWN\n🇵🇷 Jasmine CAMACHO-QUINN\n🇫🇮 Lotta HARALA\n🇳🇱 Maayke
+  TJIN-A-LIM\n🇨🇦 Mariam ABDUL-RASHID\n🇪🇨 Maribel Vanessa CAICEDO\n🇿🇦
+  Marione FOURIE\n🇺🇸 Masai RUSSELL\n🇳🇱 Nadine VISSER\n🇵🇱 Pia
+  SKRZYSZOWSKA\n🇮🇪 Sarah LAVIN\n🇯🇵 TANAKA Yumi\n🇳🇬 Tobi AMUSAN
+SUMMARY:🏃 女子100mハードル準決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT
 END:VCALENDAR

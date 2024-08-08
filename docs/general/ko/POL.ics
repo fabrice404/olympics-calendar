@@ -5971,6 +5971,15 @@ SUMMARY:🏃 여자 7종경기 포환던지기
 LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T180400Z-cycling-track--5-8-
+DTSTAMP:20240808T180400Z
+DTSTART:20240808T180400Z
+DTEND:20240808T180900Z
+DESCRIPTION:사이클 트랙 - 남자 스프린트, 5-8위 결정전\n🇬🇧 영국\n🇯🇵 일본\n🇵🇱 폴란드
+SUMMARY:🚴 남자 스프린트, 5-8위 결정전
+LOCATION:국립 벨로드롬
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T185500Z-athletics--7-200M
 DTSTAMP:20240808T185500Z
 DTSTART:20240808T185500Z
@@ -6063,7 +6072,7 @@ DTSTART:20240809T090500Z
 DTEND:20240809T092100Z
 DESCRIPTION:육상 - 남자 4 x 400m 계주 1라운드\n🇳🇬 나이지리아\n🇿🇦 남아프리카공화국\n🇩🇪
   독일\n🇺🇸 미국\n🇧🇪 벨기에\n🇧🇼 보츠와나\n🇧🇷 브라질\n🇪🇸 스페인\n🇬🇧 영국\n🇮🇹
-  이탈리아\n🇮🇳 인도\n🇯🇵 일본\n🇹🇹 트리니다드토바고\n🇵🇱 폴란드\n🇫🇷 프랑스
+  이탈리아\n🇮🇳 인도\n🇯🇵 일본\n🇿🇲 잠비아\n🇹🇹 트리니다드토바고\n🇵🇱 폴란드\n🇫🇷 프랑스
 SUMMARY:🏃 남자 4 x 400m 계주 1라운드
 LOCATION:스타드 드 프랑스
 END:VEVENT
@@ -6098,6 +6107,22 @@ DTEND:20240809T100300Z
 DESCRIPTION:레슬링 - 남자 자유형 125kg 16강
 SUMMARY:🤼 Robert BARAN 🇵🇱 - 🇰🇿 Yusup BATIRMURZAEV
 LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T100500Z-athletics--100M-
+DTSTAMP:20240809T100500Z
+DTSTART:20240809T100500Z
+DTEND:20240809T102200Z
+DESCRIPTION:육상 - 여자 100m 허들 준결승\n🇯🇲 Ackera NUGENT\n🇺🇸 Alaysha
+  JOHNSON\n🇧🇸 Charisma TAYLOR\n🇬🇧 Cindy SEMBER\n🇫🇷 Cyrena
+  SAMBA-MAYELA\n🇯🇲 Danielle WILLIAMS\n🇧🇸 Devynne CHARLTON\n🇨🇭 Ditaji
+  KAMBUNDJI\n🇱🇷 Ebony MORRISON\n🇯🇵 FUKUBE Mako\n🇺🇸 Grace STARK\n🇯🇲
+  Janeek BROWN\n🇵🇷 Jasmine CAMACHO-QUINN\n🇫🇮 Lotta HARALA\n🇳🇱 Maayke
+  TJIN-A-LIM\n🇨🇦 Mariam ABDUL-RASHID\n🇪🇨 Maribel Vanessa CAICEDO\n🇿🇦
+  Marione FOURIE\n🇺🇸 Masai RUSSELL\n🇳🇱 Nadine VISSER\n🇵🇱 Pia
+  SKRZYSZOWSKA\n🇮🇪 Sarah LAVIN\n🇯🇵 TANAKA Yumi\n🇳🇬 Tobi AMUSAN
+SUMMARY:🏃 여자 100m 허들 준결승
+LOCATION:스타드 드 프랑스
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T120000Z-cycling-track--

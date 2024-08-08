@@ -9064,7 +9064,7 @@ DTSTART:20240809T090500Z
 DTEND:20240809T092100Z
 DESCRIPTION:육상 - 남자 4 x 400m 계주 1라운드\n🇳🇬 나이지리아\n🇿🇦 남아프리카공화국\n🇩🇪
   독일\n🇺🇸 미국\n🇧🇪 벨기에\n🇧🇼 보츠와나\n🇧🇷 브라질\n🇪🇸 스페인\n🇬🇧 영국\n🇮🇹
-  이탈리아\n🇮🇳 인도\n🇯🇵 일본\n🇹🇹 트리니다드토바고\n🇵🇱 폴란드\n🇫🇷 프랑스
+  이탈리아\n🇮🇳 인도\n🇯🇵 일본\n🇿🇲 잠비아\n🇹🇹 트리니다드토바고\n🇵🇱 폴란드\n🇫🇷 프랑스
 SUMMARY:🏃 남자 4 x 400m 계주 1라운드
 LOCATION:스타드 드 프랑스
 END:VEVENT
@@ -9280,6 +9280,15 @@ DESCRIPTION:카누 스프린트 - 여자 카약 1인승 500m 준결승 1\n🇳�
   FERNANDEZ\n🇸🇬 Jiexian Stephenie CHEN\n🇧🇪 Lize BROEKX\n🇨🇳 WANG Nan
 SUMMARY:🛶 여자 카약 1인승 500m 준결승 1
 LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T090000Z-basketball--
+DTSTAMP:20240810T090000Z
+DTSTART:20240810T090000Z
+DTEND:20240810T104500Z
+DESCRIPTION:농구 - 남자 동메달 결정전\n🇩🇪 독일
+SUMMARY:🏀 남자 동메달 결정전
+LOCATION:베르시 아레나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T091000Z-canoe-sprint--1-1000M-1

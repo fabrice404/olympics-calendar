@@ -9210,7 +9210,7 @@ DTSTART:20240809T090500Z
 DTEND:20240809T092100Z
 DESCRIPTION:Athletics - Men's 4 x 400m Relay Round 1\n🇧🇪 BEL\n🇧🇼
   BOT\n🇧🇷 BRA\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇳 IND\n🇮🇹 ITA\n🇯🇵
-  JPN\n🇳🇬 NGR\n🇵🇱 POL\n🇿🇦 RSA\n🇪🇸 ESP\n🇹🇹 TTO\n🇺🇸 USA
+  JPN\n🇳🇬 NGR\n🇵🇱 POL\n🇿🇦 RSA\n🇪🇸 ESP\n🇹🇹 TTO\n🇺🇸 USA\n🇿🇲 ZAM
 SUMMARY:🏃 Men's 4 x 400m Relay Round 1
 LOCATION:Stade de France
 END:VEVENT
@@ -9431,6 +9431,15 @@ DESCRIPTION:Canoe Sprint - Women's Kayak Single 500m Semifinal 1\n🇳🇿
   Lize BROEKX\n🇨🇳 WANG Nan
 SUMMARY:🛶 Women's Kayak Single 500m Semifinal 1
 LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T090000Z-basketball-MENS-BRONZE-MEDAL-GAME
+DTSTAMP:20240810T090000Z
+DTSTART:20240810T090000Z
+DTEND:20240810T104500Z
+DESCRIPTION:Basketball - Men's Bronze Medal Game\n🇩🇪 GER
+SUMMARY:🏀 Men's Bronze Medal Game
+LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T091000Z-canoe-sprint-MENS-KAYAK-SINGLE-1000M-SEMIFINAL-1
