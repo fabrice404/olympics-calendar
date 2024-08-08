@@ -230,4 +230,36 @@ DESCRIPTION:Трековые велогонки - Кейрин, четверть
 SUMMARY:🚴 Кейрин, четвертьфиналы (ж)
 LOCATION:Национальный велодром
 END:VEVENT
+BEGIN:VEVENT
+UID:20240809T120000Z-cycling-track--
+DTSTAMP:20240809T120000Z
+DTSTART:20240809T120000Z
+DTEND:20240809T124100Z
+DESCRIPTION:Трековые велогонки - Спринт, квалификация (ж)\n🇨🇳 BAO
+  Shanju\n🇦🇺 Chloe MORAN\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse
+  ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma HINZE\n🇳🇬 Ese UKPESERAYE\n🇳🇱
+  Hetty van de WOUW\n🇧🇪 Julie NICOLAES\n🇨🇦 Kelsey MITCHELL\n🇦🇺
+  Kristina CLONAN\n🇨🇦 Lauriane GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena
+  KARWACKA\n🇨🇴 Martha BAYONA PINEDA\n🇫🇷 Mathilde GROS\n🇮🇹 Miriam
+  VECE\n🇧🇪 Nicky DEGRENDELE\n🇵🇱 Nikola SIBIAK\n🇲🇾 Nurul Izzah Izzati
+  MOHD ASRI\n🇯🇵 OHTA Riyu\n🇯🇵 SATO Mina\n🇮🇹 Sara FIORIN\n🇳🇿 Shaane
+  FULTON\n🇬🇧 Sophie CAPEWELL\n🇨🇴 Stefany CUADRADO FLOREZ\n🇳🇱 Steffie
+  van der PEET\n🇫🇷 Taky Marie Divine KOUAME\n🇨🇳 YUAN Liying\n🇲🇽 Yuli
+  VERDUGO OSUNA
+SUMMARY:🚴 Спринт, квалификация (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T160900Z-cycling-track--
+DTSTAMP:20240809T160900Z
+DTSTART:20240809T160900Z
+DTEND:20240809T170200Z
+DESCRIPTION:Трековые велогонки - Мэдисон, финал (ж)\n🇦🇺 Австралия\n🇧🇪
+  Бельгия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇩🇰 Дания\n🇮🇪
+  Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇱 Нидерланды\n🇳🇿 Новая
+  Зеландия\n🇵🇱 Польша\n🇺🇸 США\n🇫🇷 Франция\n🇨🇭 Швейцария\n🇯🇵
+  Япония
+SUMMARY:🚴 Мэдисон, финал (ж)
+LOCATION:Национальный велодром
+END:VEVENT
 END:VCALENDAR

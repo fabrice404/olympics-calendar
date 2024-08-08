@@ -10542,30 +10542,33 @@ SUMMARY:🤾 スウェーデン 🇸🇪 - 🇫🇷 フランス
 LOCATION:スタッド・ピエール＝モーロワ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T143700Z-sailing--1-FRA-GBR
+UID:20240808T143700Z-sailing--1
 DTSTAMP:20240808T143700Z
 DTSTART:20240808T143700Z
 DTEND:20240808T144300Z
-DESCRIPTION:セーリング - 女子カイト決勝戦 - レース1
-SUMMARY:⛵ Lauriane NOLOT 🇫🇷 - 🇬🇧 Eleanor ALDRIDGE
+DESCRIPTION:セーリング - 女子カイト決勝戦 - レース1\n🇺🇸 Daniela MOROZ\n🇬🇧 Eleanor
+  ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ 女子カイト決勝戦 - レース1
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T144600Z-sailing--2-FRA-GBR
+UID:20240808T144600Z-sailing--2
 DTSTAMP:20240808T144600Z
 DTSTART:20240808T144600Z
 DTEND:20240808T145200Z
-DESCRIPTION:セーリング - 女子カイト決勝戦 - レース2
-SUMMARY:⛵ Lauriane NOLOT 🇫🇷 - 🇬🇧 Eleanor ALDRIDGE
+DESCRIPTION:セーリング - 女子カイト決勝戦 - レース2\n🇺🇸 Daniela MOROZ\n🇬🇧 Eleanor
+  ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ 女子カイト決勝戦 - レース2
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T145500Z-sailing--3-FRA-GBR
+UID:20240808T145500Z-sailing--3
 DTSTAMP:20240808T145500Z
 DTSTART:20240808T145500Z
 DTEND:20240808T150100Z
-DESCRIPTION:セーリング - 女子カイト決勝戦 - レース3
-SUMMARY:⛵ Lauriane NOLOT 🇫🇷 - 🇬🇧 Eleanor ALDRIDGE
+DESCRIPTION:セーリング - 女子カイト決勝戦 - レース3\n🇺🇸 Daniela MOROZ\n🇬🇧 Eleanor
+  ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ 女子カイト決勝戦 - レース3
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -10585,21 +10588,23 @@ SUMMARY:🚴 男子オムニアムⅠスクラッチレース
 LOCATION:ヴェロドローム・ナシオナル
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T150400Z-sailing--4-FRA-GBR
+UID:20240808T150400Z-sailing--4
 DTSTAMP:20240808T150400Z
 DTSTART:20240808T150400Z
 DTEND:20240808T151000Z
-DESCRIPTION:セーリング - 女子カイト決勝戦 - レース4
-SUMMARY:⛵ Lauriane NOLOT 🇫🇷 - 🇬🇧 Eleanor ALDRIDGE
+DESCRIPTION:セーリング - 女子カイト決勝戦 - レース4\n🇺🇸 Daniela MOROZ\n🇬🇧 Eleanor
+  ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ 女子カイト決勝戦 - レース4
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T151300Z-sailing--5-FRA-GBR
+UID:20240808T151300Z-sailing--5
 DTSTAMP:20240808T151300Z
 DTSTART:20240808T151300Z
 DTEND:20240808T151900Z
-DESCRIPTION:セーリング - 女子カイト決勝戦 - レース5
-SUMMARY:⛵ Lauriane NOLOT 🇫🇷 - 🇬🇧 Eleanor ALDRIDGE
+DESCRIPTION:セーリング - 女子カイト決勝戦 - レース5\n🇺🇸 Daniela MOROZ\n🇬🇧 Eleanor
+  ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ 女子カイト決勝戦 - レース5
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -10618,12 +10623,13 @@ SUMMARY:🚴 女子ケイリン準々決勝
 LOCATION:ヴェロドローム・ナシオナル
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T152200Z-sailing--6-FRA-GBR
+UID:20240808T152200Z-sailing--6
 DTSTAMP:20240808T152200Z
 DTSTART:20240808T152200Z
 DTEND:20240808T152800Z
-DESCRIPTION:セーリング - 女子カイト決勝戦 - レース6
-SUMMARY:⛵ Lauriane NOLOT 🇫🇷 - 🇬🇧 Eleanor ALDRIDGE
+DESCRIPTION:セーリング - 女子カイト決勝戦 - レース6\n🇺🇸 Daniela MOROZ\n🇬🇧 Eleanor
+  ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ 女子カイト決勝戦 - レース6
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -10887,6 +10893,24 @@ SUMMARY:🤺 男子フェンシングボーナスラウンド準決勝A
 LOCATION:ベルサイユ宮殿
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T120000Z-cycling-track-
+DTSTAMP:20240809T120000Z
+DTSTART:20240809T120000Z
+DTEND:20240809T124100Z
+DESCRIPTION:自転車トラックレース - 女子スプリント予選\n🇨🇳 BAO Shanju\n🇦🇺 Chloe MORAN\n🇲🇽
+  Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪
+  Emma HINZE\n🇳🇬 Ese UKPESERAYE\n🇳🇱 Hetty van de WOUW\n🇧🇪 Julie
+  NICOLAES\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina CLONAN\n🇨🇦 Lauriane
+  GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena KARWACKA\n🇨🇴 Martha BAYONA
+  PINEDA\n🇫🇷 Mathilde GROS\n🇮🇹 Miriam VECE\n🇧🇪 Nicky DEGRENDELE\n🇵🇱
+  Nikola SIBIAK\n🇲🇾 Nurul Izzah Izzati MOHD ASRI\n🇯🇵 OHTA Riyu\n🇯🇵
+  SATO Mina\n🇮🇹 Sara FIORIN\n🇳🇿 Shaane FULTON\n🇬🇧 Sophie
+  CAPEWELL\n🇨🇴 Stefany CUADRADO FLOREZ\n🇳🇱 Steffie van der PEET\n🇫🇷
+  Taky Marie Divine KOUAME\n🇨🇳 YUAN Liying\n🇲🇽 Yuli VERDUGO OSUNA
+SUMMARY:🚴 女子スプリント予選
+LOCATION:ヴェロドローム・ナシオナル
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T130000Z-weightlifting-89KG
 DTSTAMP:20240809T130000Z
 DTSTART:20240809T130000Z
@@ -10907,6 +10931,17 @@ DTEND:20240809T174500Z
 DESCRIPTION:サッカー - 男子決勝戦
 SUMMARY:⚽ フランス 🇫🇷 - 🇪🇸 スペイン
 LOCATION:パルク・デ・プランス
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T160900Z-cycling-track-
+DTSTAMP:20240809T160900Z
+DTSTART:20240809T160900Z
+DTEND:20240809T170200Z
+DESCRIPTION:自転車トラックレース - 女子マディソン決勝\n🇮🇪 アイルランド\n🇺🇸 アメリカ合衆国\n🇮🇹
+  イタリア\n🇳🇱 オランダ\n🇦🇺 オーストラリア\n🇨🇦 カナダ\n🇨🇭 スイス\n🇩🇰 デンマーク\n🇩🇪
+  ドイツ\n🇳🇿 ニュージーランド\n🇫🇷 フランス\n🇧🇪 ベルギー\n🇵🇱 ポーランド\n🇯🇵 日本\n🇬🇧 英国
+SUMMARY:🚴 女子マディソン決勝
+LOCATION:ヴェロドローム・ナシオナル
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T173000Z-athletics-4100M

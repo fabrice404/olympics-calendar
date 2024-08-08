@@ -10520,6 +10520,36 @@ SUMMARY:🏐 Бразилия 🇧🇷 - 🇺🇸 США
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T143700Z-sailing--1-
+DTSTAMP:20240808T143700Z
+DTSTART:20240808T143700Z
+DTEND:20240808T144300Z
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 1 (ж)\n🇺🇸 Daniela
+  MOROZ\n🇬🇧 Eleanor ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ Кайт, финал, гонка 1 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T144600Z-sailing--2-
+DTSTAMP:20240808T144600Z
+DTSTART:20240808T144600Z
+DTEND:20240808T145200Z
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 2 (ж)\n🇺🇸 Daniela
+  MOROZ\n🇬🇧 Eleanor ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ Кайт, финал, гонка 2 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T145500Z-sailing--3-
+DTSTAMP:20240808T145500Z
+DTSTART:20240808T145500Z
+DTEND:20240808T150100Z
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 3 (ж)\n🇺🇸 Daniela
+  MOROZ\n🇬🇧 Eleanor ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ Кайт, финал, гонка 3 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T150000Z-cycling-track--1-4-
 DTSTAMP:20240808T150000Z
 DTSTART:20240808T150000Z
@@ -10535,6 +10565,36 @@ DESCRIPTION:Трековые велогонки - Омниум, скрэтч (1 
   ABOUELHASSAN
 SUMMARY:🚴 Омниум, скрэтч (1 из 4) (м)
 LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T150400Z-sailing--4-
+DTSTAMP:20240808T150400Z
+DTSTART:20240808T150400Z
+DTEND:20240808T151000Z
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 4 (ж)\n🇺🇸 Daniela
+  MOROZ\n🇬🇧 Eleanor ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ Кайт, финал, гонка 4 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T151300Z-sailing--5-
+DTSTAMP:20240808T151300Z
+DTSTART:20240808T151300Z
+DTEND:20240808T151900Z
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 5 (ж)\n🇺🇸 Daniela
+  MOROZ\n🇬🇧 Eleanor ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ Кайт, финал, гонка 5 (ж)
+LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T152200Z-sailing--6-
+DTSTAMP:20240808T152200Z
+DTSTART:20240808T152200Z
+DTEND:20240808T152800Z
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 6 (ж)\n🇺🇸 Daniela
+  MOROZ\n🇬🇧 Eleanor ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ Кайт, финал, гонка 6 (ж)
+LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T162200Z-wrestling--57--USA-UZB
@@ -10865,6 +10925,19 @@ DTEND:20240809T171500Z
 DESCRIPTION:Баскетбол - 1/2 финала (ж)
 SUMMARY:🏀 США 🇺🇸 - 🇦🇺 Австралия
 LOCATION:Арена «Берси»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T160900Z-cycling-track--
+DTSTAMP:20240809T160900Z
+DTSTART:20240809T160900Z
+DTEND:20240809T170200Z
+DESCRIPTION:Трековые велогонки - Мэдисон, финал (ж)\n🇦🇺 Австралия\n🇧🇪
+  Бельгия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇩🇰 Дания\n🇮🇪
+  Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇱 Нидерланды\n🇳🇿 Новая
+  Зеландия\n🇵🇱 Польша\n🇺🇸 США\n🇫🇷 Франция\n🇨🇭 Швейцария\n🇯🇵
+  Япония
+SUMMARY:🚴 Мэдисон, финал (ж)
+LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T173000Z-athletics--4100-

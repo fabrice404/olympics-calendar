@@ -797,6 +797,19 @@ SUMMARY:🏃 400м с/б, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T160900Z-cycling-track--
+DTSTAMP:20240809T160900Z
+DTSTART:20240809T160900Z
+DTEND:20240809T170200Z
+DESCRIPTION:Трековые велогонки - Мэдисон, финал (ж)\n🇦🇺 Австралия\n🇧🇪
+  Бельгия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇩🇰 Дания\n🇮🇪
+  Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇱 Нидерланды\n🇳🇿 Новая
+  Зеландия\n🇵🇱 Польша\n🇺🇸 США\n🇫🇷 Франция\n🇨🇭 Швейцария\n🇯🇵
+  Япония
+SUMMARY:🚴 Мэдисон, финал (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T173000Z-athletics--4100-
 DTSTAMP:20240809T173000Z
 DTSTART:20240809T173000Z
@@ -845,6 +858,15 @@ DESCRIPTION:Легкая атлетика - 10000м, финал (ж)\n🇫🇷 A
   TAKASHIMA Yuka\n🇪🇹 Tsigie GEBRESELAMA\n🇺🇸 Weini KELATI FREZGHI
 SUMMARY:🏃 10000м, финал (ж)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T083500Z-water-polo--
+DTSTAMP:20240810T083500Z
+DTSTART:20240810T083500Z
+DTEND:20240810T100000Z
+DESCRIPTION:Водное поло - Матч за бронзу (ж)\n🇳🇱 Нидерланды
+SUMMARY:🤽 Матч за бронзу (ж)
+LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-artistic-swimming--

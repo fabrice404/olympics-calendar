@@ -779,6 +779,17 @@ SUMMARY:🏃 Women's 400m Hurdles Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T160900Z-cycling-track-WOMENS-MADISON-FINAL
+DTSTAMP:20240809T160900Z
+DTSTART:20240809T160900Z
+DTEND:20240809T170200Z
+DESCRIPTION:Cycling Track - Women's Madison, Final\n🇦🇺 AUS\n🇧🇪
+  BEL\n🇨🇦 CAN\n🇩🇰 DEN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇪 IRL\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇱 POL\n🇨🇭 SUI\n🇺🇸 USA
+SUMMARY:🚴 Women's Madison, Final
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T173000Z-athletics-WOMENS-4-X-100M-RELAY-FINAL
 DTSTAMP:20240809T173000Z
 DTSTART:20240809T173000Z
@@ -826,6 +837,15 @@ DESCRIPTION:Athletics - Women's 10,000m Final\n🇫🇷 Alessia ZARBO\n🇺🇬
   TAKASHIMA Yuka\n🇪🇹 Tsigie GEBRESELAMA\n🇺🇸 Weini KELATI FREZGHI
 SUMMARY:🏃 Women's 10,000m Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T083500Z-water-polo-WOMENS-BRONZE-MEDAL-MATCH
+DTSTAMP:20240810T083500Z
+DTSTART:20240810T083500Z
+DTEND:20240810T100000Z
+DESCRIPTION:Water Polo - Women's Bronze Medal Match\n🇳🇱 NED
+SUMMARY:🤽 Women's Bronze Medal Match
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-artistic-swimming-DUET-FREE-ROUTINE

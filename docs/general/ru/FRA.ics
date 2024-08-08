@@ -10705,30 +10705,33 @@ SUMMARY:🤾 Швеция 🇸🇪 - 🇫🇷 Франция
 LOCATION:Стадион «Пьер Моруа»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T143700Z-sailing--1--FRA-GBR
+UID:20240808T143700Z-sailing--1-
 DTSTAMP:20240808T143700Z
 DTSTART:20240808T143700Z
 DTEND:20240808T144300Z
-DESCRIPTION:Парусный спорт - Кайт, финал, гонка 1 (ж)
-SUMMARY:⛵ Lauriane NOLOT 🇫🇷 - 🇬🇧 Eleanor ALDRIDGE
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 1 (ж)\n🇺🇸 Daniela
+  MOROZ\n🇬🇧 Eleanor ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ Кайт, финал, гонка 1 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T144600Z-sailing--2--FRA-GBR
+UID:20240808T144600Z-sailing--2-
 DTSTAMP:20240808T144600Z
 DTSTART:20240808T144600Z
 DTEND:20240808T145200Z
-DESCRIPTION:Парусный спорт - Кайт, финал, гонка 2 (ж)
-SUMMARY:⛵ Lauriane NOLOT 🇫🇷 - 🇬🇧 Eleanor ALDRIDGE
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 2 (ж)\n🇺🇸 Daniela
+  MOROZ\n🇬🇧 Eleanor ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ Кайт, финал, гонка 2 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T145500Z-sailing--3--FRA-GBR
+UID:20240808T145500Z-sailing--3-
 DTSTAMP:20240808T145500Z
 DTSTART:20240808T145500Z
 DTEND:20240808T150100Z
-DESCRIPTION:Парусный спорт - Кайт, финал, гонка 3 (ж)
-SUMMARY:⛵ Lauriane NOLOT 🇫🇷 - 🇬🇧 Eleanor ALDRIDGE
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 3 (ж)\n🇺🇸 Daniela
+  MOROZ\n🇬🇧 Eleanor ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ Кайт, финал, гонка 3 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
@@ -10749,21 +10752,23 @@ SUMMARY:🚴 Омниум, скрэтч (1 из 4) (м)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T150400Z-sailing--4--FRA-GBR
+UID:20240808T150400Z-sailing--4-
 DTSTAMP:20240808T150400Z
 DTSTART:20240808T150400Z
 DTEND:20240808T151000Z
-DESCRIPTION:Парусный спорт - Кайт, финал, гонка 4 (ж)
-SUMMARY:⛵ Lauriane NOLOT 🇫🇷 - 🇬🇧 Eleanor ALDRIDGE
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 4 (ж)\n🇺🇸 Daniela
+  MOROZ\n🇬🇧 Eleanor ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ Кайт, финал, гонка 4 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T151300Z-sailing--5--FRA-GBR
+UID:20240808T151300Z-sailing--5-
 DTSTAMP:20240808T151300Z
 DTSTART:20240808T151300Z
 DTEND:20240808T151900Z
-DESCRIPTION:Парусный спорт - Кайт, финал, гонка 5 (ж)
-SUMMARY:⛵ Lauriane NOLOT 🇫🇷 - 🇬🇧 Eleanor ALDRIDGE
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 5 (ж)\n🇺🇸 Daniela
+  MOROZ\n🇬🇧 Eleanor ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ Кайт, финал, гонка 5 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
@@ -10782,12 +10787,13 @@ SUMMARY:🚴 Кейрин, четвертьфиналы (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T152200Z-sailing--6--FRA-GBR
+UID:20240808T152200Z-sailing--6-
 DTSTAMP:20240808T152200Z
 DTSTART:20240808T152200Z
 DTEND:20240808T152800Z
-DESCRIPTION:Парусный спорт - Кайт, финал, гонка 6 (ж)
-SUMMARY:⛵ Lauriane NOLOT 🇫🇷 - 🇬🇧 Eleanor ALDRIDGE
+DESCRIPTION:Парусный спорт - Кайт, финал, гонка 6 (ж)\n🇺🇸 Daniela
+  MOROZ\n🇬🇧 Eleanor ALDRIDGE\n🇫🇷 Lauriane NOLOT
+SUMMARY:⛵ Кайт, финал, гонка 6 (ж)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
@@ -11058,6 +11064,25 @@ SUMMARY:🤺 Личный зачет, полуфинал A, фехтование
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T120000Z-cycling-track--
+DTSTAMP:20240809T120000Z
+DTSTART:20240809T120000Z
+DTEND:20240809T124100Z
+DESCRIPTION:Трековые велогонки - Спринт, квалификация (ж)\n🇨🇳 BAO
+  Shanju\n🇦🇺 Chloe MORAN\n🇲🇽 Daniela GAXIOLA GONZALEZ\n🇳🇿 Ellesse
+  ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma HINZE\n🇳🇬 Ese UKPESERAYE\n🇳🇱
+  Hetty van de WOUW\n🇧🇪 Julie NICOLAES\n🇨🇦 Kelsey MITCHELL\n🇦🇺
+  Kristina CLONAN\n🇨🇦 Lauriane GENEST\n🇩🇪 Lea FRIEDRICH\n🇵🇱 Marlena
+  KARWACKA\n🇨🇴 Martha BAYONA PINEDA\n🇫🇷 Mathilde GROS\n🇮🇹 Miriam
+  VECE\n🇧🇪 Nicky DEGRENDELE\n🇵🇱 Nikola SIBIAK\n🇲🇾 Nurul Izzah Izzati
+  MOHD ASRI\n🇯🇵 OHTA Riyu\n🇯🇵 SATO Mina\n🇮🇹 Sara FIORIN\n🇳🇿 Shaane
+  FULTON\n🇬🇧 Sophie CAPEWELL\n🇨🇴 Stefany CUADRADO FLOREZ\n🇳🇱 Steffie
+  van der PEET\n🇫🇷 Taky Marie Divine KOUAME\n🇨🇳 YUAN Liying\n🇲🇽 Yuli
+  VERDUGO OSUNA
+SUMMARY:🚴 Спринт, квалификация (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T130000Z-weightlifting-89-
 DTSTAMP:20240809T130000Z
 DTSTART:20240809T130000Z
@@ -11078,6 +11103,19 @@ DTEND:20240809T174500Z
 DESCRIPTION:Футбол - Финал (м)
 SUMMARY:⚽ Франция 🇫🇷 - 🇪🇸 Испания
 LOCATION:«Парк-де-Пренс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T160900Z-cycling-track--
+DTSTAMP:20240809T160900Z
+DTSTART:20240809T160900Z
+DTEND:20240809T170200Z
+DESCRIPTION:Трековые велогонки - Мэдисон, финал (ж)\n🇦🇺 Австралия\n🇧🇪
+  Бельгия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇩🇰 Дания\n🇮🇪
+  Ирландия\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇱 Нидерланды\n🇳🇿 Новая
+  Зеландия\n🇵🇱 Польша\n🇺🇸 США\n🇫🇷 Франция\n🇨🇭 Швейцария\n🇯🇵
+  Япония
+SUMMARY:🚴 Мэдисон, финал (ж)
+LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T173000Z-athletics--4100-
