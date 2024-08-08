@@ -35015,7 +35015,11 @@ UID:20240808T161500Z-cycling-track--
 DTSTAMP:20240808T161500Z
 DTSTART:20240808T161500Z
 DTEND:20240808T162500Z
-DESCRIPTION:Трековые велогонки - Кейрин, полуфиналы (ж)
+DESCRIPTION:Трековые велогонки - Кейрин, полуфиналы (ж)\n🇲🇽 Daniela
+  GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma
+  HINZE\n🇳🇱 Hetty van de WOUW\n🇬🇧 Katy MARCHANT\n🇩🇪 Lea
+  FRIEDRICH\n🇫🇷 Mathilde GROS\n🇧🇪 Nicky DEGRENDELE\n🇯🇵 OHTA
+  Riyu\n🇳🇿 Rebecca PETCH\n🇳🇱 Steffie van der PEET
 SUMMARY:🚴 Кейрин, полуфиналы (ж)
 LOCATION:Национальный велодром
 END:VEVENT
@@ -36705,12 +36709,12 @@ SUMMARY:🥋 Четвертьфинал, до 80кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T140000Z-breaking--
+UID:20240809T140000Z-breaking---NED-EOR
 DTSTAMP:20240809T140000Z
 DTSTART:20240809T140000Z
-DTEND:20240809T140700Z
+DTEND:20240809T140745Z
 DESCRIPTION:Брейкинг - Би-герлз пре-квалификац. баттл
-SUMMARY:🤸 Би-герлз пре-квалификац. баттл
+SUMMARY:🤸 INDIA 🇳🇱 - 🏳️ TALASH
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
@@ -36732,6 +36736,15 @@ SUMMARY:🏐 Италия 🇮🇹 - 🇺🇸 США
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T140700Z-breaking---LTU-FRA
+DTSTAMP:20240809T140700Z
+DTSTART:20240809T140700Z
+DTEND:20240809T141250Z
+DESCRIPTION:Брейкинг - Групповой этап, группа В (ж)
+SUMMARY:🤸 NICKA 🇱🇹 - 🇫🇷 SYSSY
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T141100Z-taekwondo--67-
 DTSTAMP:20240809T141100Z
 DTSTART:20240809T141100Z
@@ -36739,6 +36752,24 @@ DTEND:20240809T142400Z
 DESCRIPTION:Тхэквондо - Полуфинал, до 67кг (ж)
 SUMMARY:🥋 Полуфинал, до 67кг (ж)
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T141300Z-breaking---USA-AUS
+DTSTAMP:20240809T141300Z
+DTSTART:20240809T141300Z
+DTEND:20240809T141900Z
+DESCRIPTION:Брейкинг - Групповой этап, группа В (ж)
+SUMMARY:🤸 LOGISTX 🇺🇸 - 🇦🇺 RAYGUN
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T141900Z-breaking--C--JPN-ITA
+DTSTAMP:20240809T141900Z
+DTSTART:20240809T141900Z
+DTEND:20240809T142500Z
+DESCRIPTION:Брейкинг - Групповой этап, группа C (ж)
+SUMMARY:🤸 AMI 🇯🇵 - 🇮🇹 ANTI
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T142400Z-taekwondo--80-
@@ -36750,6 +36781,15 @@ SUMMARY:🥋 Полуфинал, до 80кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T142500Z-breaking--C--MAR-CHN
+DTSTAMP:20240809T142500Z
+DTSTART:20240809T142500Z
+DTEND:20240809T143100Z
+DESCRIPTION:Брейкинг - Групповой этап, группа C (ж)
+SUMMARY:🤸 ELMAMOUNY 🇲🇦 - 🇨🇳 YING ZI
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T143000Z-handball---GER-ESP
 DTSTAMP:20240809T143000Z
 DTSTART:20240809T143000Z
@@ -36757,6 +36797,24 @@ DTEND:20240809T163000Z
 DESCRIPTION:Гандбол - Полуфинал (м)
 SUMMARY:🤾 Германия 🇩🇪 - 🇪🇸 Испания
 LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T143100Z-breaking--D--JPN-UKR
+DTSTAMP:20240809T143100Z
+DTSTART:20240809T143100Z
+DTEND:20240809T143700Z
+DESCRIPTION:Брейкинг - Групповой этап, группа D (ж)
+SUMMARY:🤸 AYUMI 🇯🇵 - 🇺🇦 STEFANI
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T143700Z-breaking--D--UKR-FRA
+DTSTAMP:20240809T143700Z
+DTSTART:20240809T143700Z
+DTEND:20240809T144300Z
+DESCRIPTION:Брейкинг - Групповой этап, группа D (ж)
+SUMMARY:🤸 KATE 🇺🇦 - 🇫🇷 CARLOTA
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T143700Z-taekwondo--67-
@@ -36768,6 +36826,24 @@ SUMMARY:🥋 Полуфинал, до 67кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T144300Z-breaking---CHN-USA
+DTSTAMP:20240809T144300Z
+DTSTART:20240809T144300Z
+DTEND:20240809T144900Z
+DESCRIPTION:Брейкинг - Групповой этап, группа А (ж)
+SUMMARY:🤸 671 🇨🇳 - 🇺🇸 SUNNY
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T144900Z-breaking--
+DTSTAMP:20240809T144900Z
+DTSTART:20240809T144900Z
+DTEND:20240809T145630Z
+DESCRIPTION:Брейкинг - Групповой этап, группа А (ж)\n🇵🇹 VANESSA
+SUMMARY:🤸 Групповой этап, группа А (ж)
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T145000Z-taekwondo--80-
 DTSTAMP:20240809T145000Z
 DTSTART:20240809T145000Z
@@ -36775,6 +36851,15 @@ DTEND:20240809T150300Z
 DESCRIPTION:Тхэквондо - Полуфинал, до 80кг (м)
 SUMMARY:🥋 Полуфинал, до 80кг (м)
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T145700Z-breaking---LTU-USA
+DTSTAMP:20240809T145700Z
+DTSTART:20240809T145700Z
+DTEND:20240809T150300Z
+DESCRIPTION:Брейкинг - Групповой этап, группа В (ж)
+SUMMARY:🤸 NICKA 🇱🇹 - 🇺🇸 LOGISTX
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T150000Z-modern-pentathlon--B-
@@ -36787,6 +36872,51 @@ SUMMARY:🤺 Личный зачет, полуфинал B, верховая е�
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T150300Z-breaking---AUS-FRA
+DTSTAMP:20240809T150300Z
+DTSTART:20240809T150300Z
+DTEND:20240809T150900Z
+DESCRIPTION:Брейкинг - Групповой этап, группа В (ж)
+SUMMARY:🤸 RAYGUN 🇦🇺 - 🇫🇷 SYSSY
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T150900Z-breaking--C--JPN-MAR
+DTSTAMP:20240809T150900Z
+DTSTART:20240809T150900Z
+DTEND:20240809T151500Z
+DESCRIPTION:Брейкинг - Групповой этап, группа C (ж)
+SUMMARY:🤸 AMI 🇯🇵 - 🇲🇦 ELMAMOUNY
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T151500Z-breaking--C--CHN-ITA
+DTSTAMP:20240809T151500Z
+DTSTART:20240809T151500Z
+DTEND:20240809T152100Z
+DESCRIPTION:Брейкинг - Групповой этап, группа C (ж)
+SUMMARY:🤸 YING ZI 🇨🇳 - 🇮🇹 ANTI
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T152100Z-breaking--D--JPN-UKR
+DTSTAMP:20240809T152100Z
+DTSTART:20240809T152100Z
+DTEND:20240809T152700Z
+DESCRIPTION:Брейкинг - Групповой этап, группа D (ж)
+SUMMARY:🤸 AYUMI 🇯🇵 - 🇺🇦 KATE
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T152700Z-breaking--D--FRA-UKR
+DTSTAMP:20240809T152700Z
+DTSTART:20240809T152700Z
+DTEND:20240809T153300Z
+DESCRIPTION:Брейкинг - Групповой этап, группа D (ж)
+SUMMARY:🤸 CARLOTA 🇫🇷 - 🇺🇦 STEFANI
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T153000Z-basketball-12--USA-AUS
 DTSTAMP:20240809T153000Z
 DTSTART:20240809T153000Z
@@ -36794,6 +36924,24 @@ DTEND:20240809T171500Z
 DESCRIPTION:Баскетбол - 1/2 финала (ж)
 SUMMARY:🏀 США 🇺🇸 - 🇦🇺 Австралия
 LOCATION:Арена «Берси»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T153300Z-breaking---CHN-POR
+DTSTAMP:20240809T153300Z
+DTSTART:20240809T153300Z
+DTEND:20240809T153900Z
+DESCRIPTION:Брейкинг - Групповой этап, группа А (ж)
+SUMMARY:🤸 671 🇨🇳 - 🇵🇹 VANESSA
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T153900Z-breaking--
+DTSTAMP:20240809T153900Z
+DTSTART:20240809T153900Z
+DTEND:20240809T154530Z
+DESCRIPTION:Брейкинг - Групповой этап, группа А (ж)\n🇺🇸 SUNNY
+SUMMARY:🤸 Групповой этап, группа А (ж)
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T154000Z-modern-pentathlon--B-
@@ -36809,6 +36957,33 @@ DESCRIPTION:Современное пятиборье - Личный зачет,
   SEO Changwan\n🇺🇦 Vladyslav CHEKAN
 SUMMARY:🤺 Личный зачет, полуфинал B, фехтование, бонус-раунд (м)
 LOCATION:Версаль
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T154500Z-breaking---AUS-LTU
+DTSTAMP:20240809T154500Z
+DTSTART:20240809T154500Z
+DTEND:20240809T155100Z
+DESCRIPTION:Брейкинг - Групповой этап, группа В (ж)
+SUMMARY:🤸 RAYGUN 🇦🇺 - 🇱🇹 NICKA
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T155100Z-breaking---USA-FRA
+DTSTAMP:20240809T155100Z
+DTSTART:20240809T155100Z
+DTEND:20240809T155700Z
+DESCRIPTION:Брейкинг - Групповой этап, группа В (ж)
+SUMMARY:🤸 LOGISTX 🇺🇸 - 🇫🇷 SYSSY
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T155700Z-breaking--C--CHN-JPN
+DTSTAMP:20240809T155700Z
+DTSTART:20240809T155700Z
+DTEND:20240809T160300Z
+DESCRIPTION:Брейкинг - Групповой этап, группа C (ж)
+SUMMARY:🤸 YING ZI 🇨🇳 - 🇯🇵 AMI
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T160000Z-cycling-track--1-
@@ -36838,6 +37013,24 @@ SUMMARY:⚽ Франция 🇫🇷 - 🇪🇸 Испания
 LOCATION:«Парк-де-Пренс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T160300Z-breaking--C--MAR-ITA
+DTSTAMP:20240809T160300Z
+DTSTART:20240809T160300Z
+DTEND:20240809T160900Z
+DESCRIPTION:Брейкинг - Групповой этап, группа C (ж)
+SUMMARY:🤸 ELMAMOUNY 🇲🇦 - 🇮🇹 ANTI
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T160900Z-breaking--D--FRA-JPN
+DTSTAMP:20240809T160900Z
+DTSTART:20240809T160900Z
+DTEND:20240809T161500Z
+DESCRIPTION:Брейкинг - Групповой этап, группа D (ж)
+SUMMARY:🤸 CARLOTA 🇫🇷 - 🇯🇵 AYUMI
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T160900Z-cycling-track--
 DTSTAMP:20240809T160900Z
 DTSTART:20240809T160900Z
@@ -36861,6 +37054,15 @@ SUMMARY:🤺 Личный зачет, полуфинал B, плавание, 20
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T161500Z-breaking--D--UKR-UKR
+DTSTAMP:20240809T161500Z
+DTSTART:20240809T161500Z
+DTEND:20240809T162100Z
+DESCRIPTION:Брейкинг - Групповой этап, группа D (ж)
+SUMMARY:🤸 KATE 🇺🇦 - 🇺🇦 STEFANI
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T161500Z-wrestling--74-
 DTSTAMP:20240809T161500Z
 DTSTART:20240809T161500Z
@@ -36870,6 +37072,15 @@ SUMMARY:🤼 Вольная борьба, 74кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T162100Z-breaking--
+DTSTAMP:20240809T162100Z
+DTSTART:20240809T162100Z
+DTEND:20240809T162700Z
+DESCRIPTION:Брейкинг - Групповой этап, группа А (ж)\n🇨🇳 671
+SUMMARY:🤸 Групповой этап, группа А (ж)
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T162500Z-wrestling--74-
 DTSTAMP:20240809T162500Z
 DTSTART:20240809T162500Z
@@ -36877,6 +37088,15 @@ DTEND:20240809T163500Z
 DESCRIPTION:Борьба - Вольная борьба, 74кг, полуфинал (м)
 SUMMARY:🤼 Вольная борьба, 74кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T162700Z-breaking---POR-USA
+DTSTAMP:20240809T162700Z
+DTSTART:20240809T162700Z
+DTEND:20240809T163620Z
+DESCRIPTION:Брейкинг - Групповой этап, группа А (ж)
+SUMMARY:🤸 VANESSA 🇵🇹 - 🇺🇸 SUNNY
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T163500Z-wrestling--125-
@@ -37119,7 +37339,7 @@ BEGIN:VEVENT
 UID:20240809T180000Z-breaking--1-
 DTSTAMP:20240809T180000Z
 DTSTART:20240809T180000Z
-DTEND:20240809T180700Z
+DTEND:20240809T180745Z
 DESCRIPTION:Брейкинг - Четвертьфинал 1 (ж)
 SUMMARY:🤸 Четвертьфинал 1 (ж)
 LOCATION:Площадь Согласия 1
@@ -37155,7 +37375,7 @@ BEGIN:VEVENT
 UID:20240809T180700Z-breaking--2-
 DTSTAMP:20240809T180700Z
 DTSTART:20240809T180700Z
-DTEND:20240809T181400Z
+DTEND:20240809T181445Z
 DESCRIPTION:Брейкинг - Четвертьфинал 2 (ж)
 SUMMARY:🤸 Четвертьфинал 2 (ж)
 LOCATION:Площадь Согласия 1
@@ -37174,10 +37394,10 @@ SUMMARY:🏃 Тройной прыжок, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T181400Z-breaking--3-
-DTSTAMP:20240809T181400Z
-DTSTART:20240809T181400Z
-DTEND:20240809T182100Z
+UID:20240809T181500Z-breaking--3-
+DTSTAMP:20240809T181500Z
+DTSTART:20240809T181500Z
+DTEND:20240809T182245Z
 DESCRIPTION:Брейкинг - Четвертьфинал 3 (ж)
 SUMMARY:🤸 Четвертьфинал 3 (ж)
 LOCATION:Площадь Согласия 1
@@ -37201,10 +37421,10 @@ SUMMARY:🥋 Поединки за бронзу, до 67кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T182200Z-breaking--4-
-DTSTAMP:20240809T182200Z
-DTSTART:20240809T182200Z
-DTEND:20240809T182900Z
+UID:20240809T182300Z-breaking--4-
+DTSTAMP:20240809T182300Z
+DTSTART:20240809T182300Z
+DTEND:20240809T183045Z
 DESCRIPTION:Брейкинг - Четвертьфинал 4 (ж)
 SUMMARY:🤸 Четвертьфинал 4 (ж)
 LOCATION:Площадь Согласия 1
@@ -37246,10 +37466,10 @@ SUMMARY:🤼 Вольная борьба, 57кг, финал (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T184500Z-breaking--1-
-DTSTAMP:20240809T184500Z
-DTSTART:20240809T184500Z
-DTEND:20240809T185200Z
+UID:20240809T184700Z-breaking--1-
+DTSTAMP:20240809T184700Z
+DTSTART:20240809T184700Z
+DTEND:20240809T185445Z
 DESCRIPTION:Брейкинг - Полуфинал 1 (ж)
 SUMMARY:🤸 Полуфинал 1 (ж)
 LOCATION:Площадь Согласия 1
@@ -37264,10 +37484,10 @@ SUMMARY:🥋 Поединки за бронзу, до 67кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T185200Z-breaking--2-
-DTSTAMP:20240809T185200Z
-DTSTART:20240809T185200Z
-DTEND:20240809T185900Z
+UID:20240809T185500Z-breaking--2-
+DTSTAMP:20240809T185500Z
+DTSTART:20240809T185500Z
+DTEND:20240809T190245Z
 DESCRIPTION:Брейкинг - Полуфинал 2 (ж)
 SUMMARY:🤸 Полуфинал 2 (ж)
 LOCATION:Площадь Согласия 1
@@ -37317,10 +37537,10 @@ SUMMARY:🥋 Поединки за бронзу, до 80кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T191500Z-breaking--3-
-DTSTAMP:20240809T191500Z
-DTSTART:20240809T191500Z
-DTEND:20240809T192200Z
+UID:20240809T191900Z-breaking--3-
+DTSTAMP:20240809T191900Z
+DTSTART:20240809T191900Z
+DTEND:20240809T192810Z
 DESCRIPTION:Брейкинг - Баттл за 3-е место (ж)
 SUMMARY:🤸 Баттл за 3-е место (ж)
 LOCATION:Площадь Согласия 1
@@ -37335,10 +37555,10 @@ SUMMARY:🥋 Финал, до 67кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T192300Z-breaking--
-DTSTAMP:20240809T192300Z
-DTSTART:20240809T192300Z
-DTEND:20240809T193000Z
+UID:20240809T192900Z-breaking--
+DTSTAMP:20240809T192900Z
+DTSTART:20240809T192900Z
+DTEND:20240809T193810Z
 DESCRIPTION:Брейкинг - Финал (ж)
 SUMMARY:🤸 Финал (ж)
 LOCATION:Площадь Согласия 1
@@ -38141,6 +38361,15 @@ SUMMARY:🥋 Четвертьфинал, свыше 80кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T140000Z-breaking---JPN-USA
+DTSTAMP:20240810T140000Z
+DTSTART:20240810T140000Z
+DTEND:20240810T140550Z
+DESCRIPTION:Брейкинг - Групповой этап, группа А (м)
+SUMMARY:🤸 SHIGEKIX 🇯🇵 - 🇺🇸 VICTOR
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T140000Z-breaking--
 DTSTAMP:20240810T140000Z
 DTSTART:20240810T140000Z
@@ -38164,6 +38393,33 @@ SUMMARY:🏋 81кг (ж)
 LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T140500Z-breaking---CHN-JPN
+DTSTAMP:20240810T140500Z
+DTSTART:20240810T140500Z
+DTEND:20240810T141100Z
+DESCRIPTION:Брейкинг - Групповой этап, группа А (м)
+SUMMARY:🤸 LITHE-ING 🇨🇳 - 🇯🇵 HIRO10
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T141100Z-breaking---CAN-FRA
+DTSTAMP:20240810T141100Z
+DTSTART:20240810T141100Z
+DTEND:20240810T141700Z
+DESCRIPTION:Брейкинг - Групповой этап, группа В (м)
+SUMMARY:🤸 PHIL WIZARD 🇨🇦 - 🇫🇷 DANY DANN
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T141700Z-breaking---AUS-UKR
+DTSTAMP:20240810T141700Z
+DTSTART:20240810T141700Z
+DTEND:20240810T142300Z
+DESCRIPTION:Брейкинг - Групповой этап, группа В (м)
+SUMMARY:🤸 J ATTACK 🇦🇺 - 🇺🇦 KUZYA
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T142100Z-taekwondo--67-
 DTSTAMP:20240810T142100Z
 DTSTART:20240810T142100Z
@@ -38171,6 +38427,33 @@ DTEND:20240810T143600Z
 DESCRIPTION:Тхэквондо - Полуфинал, свыше 67кг (ж)
 SUMMARY:🥋 Полуфинал, свыше 67кг (ж)
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T142300Z-breaking--C--USA-FRA
+DTSTAMP:20240810T142300Z
+DTSTART:20240810T142300Z
+DTEND:20240810T142900Z
+DESCRIPTION:Брейкинг - Групповой этап, группа C (м)
+SUMMARY:🤸 JEFFRO 🇺🇸 - 🇫🇷 LAGAET
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T142900Z-breaking--C--KOR-NED
+DTSTAMP:20240810T142900Z
+DTSTART:20240810T142900Z
+DTEND:20240810T143500Z
+DESCRIPTION:Брейкинг - Групповой этап, группа C (м)
+SUMMARY:🤸 HONGTEN 🇰🇷 - 🇳🇱 LEE
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T143500Z-breaking--D--KAZ-NED
+DTSTAMP:20240810T143500Z
+DTSTART:20240810T143500Z
+DTEND:20240810T144100Z
+DESCRIPTION:Брейкинг - Групповой этап, группа D (м)
+SUMMARY:🤸 AMIR 🇰🇿 - 🇳🇱 MENNO
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T143600Z-taekwondo--80-
@@ -38182,6 +38465,24 @@ SUMMARY:🥋 Полуфинал, свыше 80кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T144100Z-breaking--D--TPE-MAR
+DTSTAMP:20240810T144100Z
+DTSTART:20240810T144100Z
+DTEND:20240810T144830Z
+DESCRIPTION:Брейкинг - Групповой этап, группа D (м)
+SUMMARY:🤸 QUAKE 🇹🇼 - 🇲🇦 BILLY
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T144900Z-breaking---JPN-JPN
+DTSTAMP:20240810T144900Z
+DTSTART:20240810T144900Z
+DTEND:20240810T145500Z
+DESCRIPTION:Брейкинг - Групповой этап, группа А (м)
+SUMMARY:🤸 SHIGEKIX 🇯🇵 - 🇯🇵 HIRO10
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T144900Z-taekwondo--67-
 DTSTAMP:20240810T144900Z
 DTSTART:20240810T144900Z
@@ -38189,6 +38490,15 @@ DTEND:20240810T150200Z
 DESCRIPTION:Тхэквондо - Полуфинал, свыше 67кг (ж)
 SUMMARY:🥋 Полуфинал, свыше 67кг (ж)
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T145500Z-breaking---USA-CHN
+DTSTAMP:20240810T145500Z
+DTSTART:20240810T145500Z
+DTEND:20240810T150100Z
+DESCRIPTION:Брейкинг - Групповой этап, группа А (м)
+SUMMARY:🤸 VICTOR 🇺🇸 - 🇨🇳 LITHE-ING
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T150000Z-cycling-track--18-
@@ -38209,6 +38519,15 @@ SUMMARY:⚽ Бразилия 🇧🇷 - 🇺🇸 США
 LOCATION:«Парк-де-Пренс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T150100Z-breaking---CAN-UKR
+DTSTAMP:20240810T150100Z
+DTSTART:20240810T150100Z
+DTEND:20240810T150700Z
+DESCRIPTION:Брейкинг - Групповой этап, группа В (м)
+SUMMARY:🤸 PHIL WIZARD 🇨🇦 - 🇺🇦 KUZYA
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T150200Z-taekwondo--80-
 DTSTAMP:20240810T150200Z
 DTSTART:20240810T150200Z
@@ -38216,6 +38535,24 @@ DTEND:20240810T151500Z
 DESCRIPTION:Тхэквондо - Полуфинал, свыше 80кг (м)
 SUMMARY:🥋 Полуфинал, свыше 80кг (м)
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T150700Z-breaking---FRA-AUS
+DTSTAMP:20240810T150700Z
+DTSTART:20240810T150700Z
+DTEND:20240810T151300Z
+DESCRIPTION:Брейкинг - Групповой этап, группа В (м)
+SUMMARY:🤸 DANY DANN 🇫🇷 - 🇦🇺 J ATTACK
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T151300Z-breaking--C--USA-NED
+DTSTAMP:20240810T151300Z
+DTSTART:20240810T151300Z
+DTEND:20240810T151900Z
+DESCRIPTION:Брейкинг - Групповой этап, группа C (м)
+SUMMARY:🤸 JEFFRO 🇺🇸 - 🇳🇱 LEE
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T151500Z-volleyball--
@@ -38227,6 +38564,15 @@ SUMMARY:🏐 Матч за бронзу (ж)
 LOCATION:Арена «Париж-Юг» 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T151900Z-breaking--C--FRA-KOR
+DTSTAMP:20240810T151900Z
+DTSTART:20240810T151900Z
+DTEND:20240810T152500Z
+DESCRIPTION:Брейкинг - Групповой этап, группа C (м)
+SUMMARY:🤸 LAGAET 🇫🇷 - 🇰🇷 HONGTEN
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T151900Z-cycling-track--
 DTSTAMP:20240810T151900Z
 DTSTART:20240810T151900Z
@@ -38234,6 +38580,15 @@ DTEND:20240810T155000Z
 DESCRIPTION:Трековые велогонки - Кейрин, первый раунд (м)
 SUMMARY:🚴 Кейрин, первый раунд (м)
 LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T152500Z-breaking--D--KAZ-MAR
+DTSTAMP:20240810T152500Z
+DTSTART:20240810T152500Z
+DTEND:20240810T153100Z
+DESCRIPTION:Брейкинг - Групповой этап, группа D (м)
+SUMMARY:🤸 AMIR 🇰🇿 - 🇲🇦 BILLY
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T153000Z-modern-pentathlon--
@@ -38245,6 +38600,42 @@ SUMMARY:🤺 Личный зачет, финал, конкур (м)
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T153100Z-breaking--D--NED-TPE
+DTSTAMP:20240810T153100Z
+DTSTART:20240810T153100Z
+DTEND:20240810T153830Z
+DESCRIPTION:Брейкинг - Групповой этап, группа D (м)
+SUMMARY:🤸 MENNO 🇳🇱 - 🇹🇼 QUAKE
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T153800Z-breaking---CHN-JPN
+DTSTAMP:20240810T153800Z
+DTSTART:20240810T153800Z
+DTEND:20240810T154400Z
+DESCRIPTION:Брейкинг - Групповой этап, группа А (м)
+SUMMARY:🤸 LITHE-ING 🇨🇳 - 🇯🇵 SHIGEKIX
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T154400Z-breaking---JPN-USA
+DTSTAMP:20240810T154400Z
+DTSTART:20240810T154400Z
+DTEND:20240810T155000Z
+DESCRIPTION:Брейкинг - Групповой этап, группа А (м)
+SUMMARY:🤸 HIRO10 🇯🇵 - 🇺🇸 VICTOR
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T155000Z-breaking---AUS-CAN
+DTSTAMP:20240810T155000Z
+DTSTART:20240810T155000Z
+DTEND:20240810T155600Z
+DESCRIPTION:Брейкинг - Групповой этап, группа В (м)
+SUMMARY:🤸 J ATTACK 🇦🇺 - 🇨🇦 PHIL WIZARD
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T155000Z-cycling-track--18-
 DTSTAMP:20240810T155000Z
 DTSTART:20240810T155000Z
@@ -38254,6 +38645,15 @@ SUMMARY:🚴 Спринт, 1/8 финала, утешительный раунд
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T155600Z-breaking---UKR-FRA
+DTSTAMP:20240810T155600Z
+DTSTART:20240810T155600Z
+DTEND:20240810T160200Z
+DESCRIPTION:Брейкинг - Групповой этап, группа В (м)
+SUMMARY:🤸 KUZYA 🇺🇦 - 🇫🇷 DANY DANN
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T155900Z-cycling-track--
 DTSTAMP:20240810T155900Z
 DTSTART:20240810T155900Z
@@ -38261,6 +38661,24 @@ DTEND:20240810T170700Z
 DESCRIPTION:Трековые велогонки - Мэдисон, финал (м)
 SUMMARY:🚴 Мэдисон, финал (м)
 LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T160200Z-breaking--C--KOR-USA
+DTSTAMP:20240810T160200Z
+DTSTART:20240810T160200Z
+DTEND:20240810T160800Z
+DESCRIPTION:Брейкинг - Групповой этап, группа C (м)
+SUMMARY:🤸 HONGTEN 🇰🇷 - 🇺🇸 JEFFRO
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T160800Z-breaking--C--NED-FRA
+DTSTAMP:20240810T160800Z
+DTSTART:20240810T160800Z
+DTEND:20240810T161400Z
+DESCRIPTION:Брейкинг - Групповой этап, группа C (м)
+SUMMARY:🤸 LEE 🇳🇱 - 🇫🇷 LAGAET
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T161000Z-modern-pentathlon--
@@ -38273,6 +38691,15 @@ SUMMARY:🤺 Личный зачет, финал, фехтование, бону
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T161400Z-breaking--D--TPE-KAZ
+DTSTAMP:20240810T161400Z
+DTSTART:20240810T161400Z
+DTEND:20240810T162000Z
+DESCRIPTION:Брейкинг - Групповой этап, группа D (м)
+SUMMARY:🤸 QUAKE 🇹🇼 - 🇰🇿 AMIR
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T161500Z-wrestling--65-
 DTSTAMP:20240810T161500Z
 DTSTART:20240810T161500Z
@@ -38280,6 +38707,15 @@ DTEND:20240810T162500Z
 DESCRIPTION:Борьба - Вольная борьба, 65кг, полуфинал (м)
 SUMMARY:🤼 Вольная борьба, 65кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T162000Z-breaking--D--MAR-NED
+DTSTAMP:20240810T162000Z
+DTSTART:20240810T162000Z
+DTEND:20240810T162600Z
+DESCRIPTION:Брейкинг - Групповой этап, группа D (м)
+SUMMARY:🤸 BILLY 🇲🇦 - 🇳🇱 MENNO
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T162500Z-wrestling--65-
@@ -38511,7 +38947,7 @@ BEGIN:VEVENT
 UID:20240810T180000Z-breaking--1-
 DTSTAMP:20240810T180000Z
 DTSTART:20240810T180000Z
-DTEND:20240810T180700Z
+DTEND:20240810T180745Z
 DESCRIPTION:Брейкинг - Четвертьфинал 1 (м)
 SUMMARY:🤸 Четвертьфинал 1 (м)
 LOCATION:Площадь Согласия 1
@@ -38538,7 +38974,7 @@ BEGIN:VEVENT
 UID:20240810T180700Z-breaking--2-
 DTSTAMP:20240810T180700Z
 DTSTART:20240810T180700Z
-DTEND:20240810T181400Z
+DTEND:20240810T181445Z
 DESCRIPTION:Брейкинг - Четвертьфинал 2 (м)
 SUMMARY:🤸 Четвертьфинал 2 (м)
 LOCATION:Площадь Согласия 1
@@ -38553,15 +38989,6 @@ SUMMARY:🚴 Спринт, четвертьфиналы, заезд 3 (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T181400Z-breaking--3-
-DTSTAMP:20240810T181400Z
-DTSTART:20240810T181400Z
-DTEND:20240810T182200Z
-DESCRIPTION:Брейкинг - Четвертьфинал 3 (м)
-SUMMARY:🤸 Четвертьфинал 3 (м)
-LOCATION:Площадь Согласия 1
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T181500Z-athletics-1500-
 DTSTAMP:20240810T181500Z
 DTSTART:20240810T181500Z
@@ -38569,6 +38996,15 @@ DTEND:20240810T181900Z
 DESCRIPTION:Легкая атлетика - 1500м, финал (ж)
 SUMMARY:🏃 1500м, финал (ж)
 LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T181500Z-breaking--3-
+DTSTAMP:20240810T181500Z
+DTSTART:20240810T181500Z
+DTEND:20240810T182245Z
+DESCRIPTION:Брейкинг - Четвертьфинал 3 (м)
+SUMMARY:🤸 Четвертьфинал 3 (м)
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T181500Z-wrestling--125-
@@ -38589,10 +39025,10 @@ SUMMARY:🥋 Поединки за бронзу, свыше 80кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T182200Z-breaking--4-
-DTSTAMP:20240810T182200Z
-DTSTART:20240810T182200Z
-DTEND:20240810T182900Z
+UID:20240810T182300Z-breaking--4-
+DTSTAMP:20240810T182300Z
+DTSTART:20240810T182300Z
+DTEND:20240810T183045Z
 DESCRIPTION:Брейкинг - Четвертьфинал 4 (м)
 SUMMARY:🤸 Четвертьфинал 4 (м)
 LOCATION:Площадь Согласия 1
@@ -38629,10 +39065,10 @@ SUMMARY:🥋 Поединки за бронзу, свыше 67кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T184500Z-breaking--1-
-DTSTAMP:20240810T184500Z
-DTSTART:20240810T184500Z
-DTEND:20240810T185200Z
+UID:20240810T184700Z-breaking--1-
+DTSTAMP:20240810T184700Z
+DTSTART:20240810T184700Z
+DTEND:20240810T185445Z
 DESCRIPTION:Брейкинг - Полуфинал 1 (м)
 SUMMARY:🤸 Полуфинал 1 (м)
 LOCATION:Площадь Согласия 1
@@ -38656,10 +39092,10 @@ SUMMARY:🤼 Вольная борьба, 62кг, поединок за брон
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T185200Z-breaking--2-
-DTSTAMP:20240810T185200Z
-DTSTART:20240810T185200Z
-DTEND:20240810T185900Z
+UID:20240810T185500Z-breaking--2-
+DTSTAMP:20240810T185500Z
+DTSTART:20240810T185500Z
+DTEND:20240810T190245Z
 DESCRIPTION:Брейкинг - Полуфинал 2 (м)
 SUMMARY:🤸 Полуфинал 2 (м)
 LOCATION:Площадь Согласия 1
@@ -38710,15 +39146,6 @@ SUMMARY:🏃 Эстафета 4х400м, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T191500Z-breaking--3-
-DTSTAMP:20240810T191500Z
-DTSTART:20240810T191500Z
-DTEND:20240810T192200Z
-DESCRIPTION:Брейкинг - Баттл за 3-е место (м)
-SUMMARY:🤸 Баттл за 3-е место (м)
-LOCATION:Площадь Согласия 1
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T191500Z-wrestling--62-
 DTSTAMP:20240810T191500Z
 DTSTART:20240810T191500Z
@@ -38726,6 +39153,15 @@ DTEND:20240810T192500Z
 DESCRIPTION:Борьба - Вольная борьба, 62кг, финал (ж)
 SUMMARY:🤼 Вольная борьба, 62кг, финал (ж)
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T191900Z-breaking--3-
+DTSTAMP:20240810T191900Z
+DTSTART:20240810T191900Z
+DTEND:20240810T192810Z
+DESCRIPTION:Брейкинг - Баттл за 3-е место (м)
+SUMMARY:🤸 Баттл за 3-е место (м)
+LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T191900Z-taekwondo--80-
@@ -38737,10 +39173,10 @@ SUMMARY:🥋 Финал, свыше 80кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T192300Z-breaking--
-DTSTAMP:20240810T192300Z
-DTSTART:20240810T192300Z
-DTEND:20240810T193000Z
+UID:20240810T192900Z-breaking--
+DTSTAMP:20240810T192900Z
+DTSTART:20240810T192900Z
+DTEND:20240810T193810Z
 DESCRIPTION:Брейкинг - Финал (м)
 SUMMARY:🤸 Финал (м)
 LOCATION:Площадь Согласия 1
