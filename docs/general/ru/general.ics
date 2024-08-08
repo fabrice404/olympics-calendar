@@ -35037,7 +35037,15 @@ UID:20240808T162500Z-cycling-track--3-4-
 DTSTAMP:20240808T162500Z
 DTSTART:20240808T162500Z
 DTEND:20240808T164700Z
-DESCRIPTION:Трековые велогонки - Омниум, на выбывание (3 из 4) (м)
+DESCRIPTION:Трековые велогонки - Омниум, на выбывание (3 из 4) (м)\n🇳🇿
+  Aaron GATE\n🇵🇱 Alan BANASZEK\n🇪🇸 Albert TORRES BARCELO\n🇨🇭 Alex
+  VOGEL\n🇫🇷 Benjamin THOMAS\n🇮🇩 Bernard van AERT\n🇨🇦 Dylan
+  BIBIC\n🇮🇹 Elia VIVIANI\n🇬🇧 Ethan HAYTER\n🇧🇪 Fabio van den
+  BOSSCHE\n🇨🇴 Fernando GAVIRIA RENDON\n🇺🇸 Grant KOONTZ\n🇵🇹 Iuri
+  LEITAO\n🇨🇿 Jan VONES\n🇳🇱 Jan Willem van SCHIP\n🇯🇵 KUBOKI
+  Kazushige\n🇩🇰 Niklas LARSEN\n🇲🇽 Ricardo PENA SALAS\n🇦🇺 Sam
+  WELSFORD\n🇩🇪 Tim Torn TEUTENBERG\n🇦🇹 Tim WAFLER\n🇪🇬 Youssef
+  ABOUELHASSAN
 SUMMARY:🚴 Омниум, на выбывание (3 из 4) (м)
 LOCATION:Национальный велодром
 END:VEVENT
@@ -35804,15 +35812,6 @@ DTSTART:20240809T090000Z
 DTEND:20240809T090700Z
 DESCRIPTION:Борьба - Вольная борьба, 57кг, утешительный раунд
 SUMMARY:🤼 Вольная борьба, 57кг, утешительный раунд
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T090000Z-wrestling--57-
-DTSTAMP:20240809T090000Z
-DTSTART:20240809T090000Z
-DTEND:20240809T090700Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, утешительный раунд (м)
-SUMMARY:🤼 Вольная борьба, 57кг, утешительный раунд (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -37163,12 +37162,12 @@ SUMMARY:🚴 Спринт, 1/16 финала (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T171500Z-wrestling--57-
+UID:20240809T171500Z-wrestling--57--PUR-IND
 DTSTAMP:20240809T171500Z
 DTSTART:20240809T171500Z
 DTEND:20240809T172500Z
 DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (м)
-SUMMARY:🤼 Вольная борьба, 57кг, поединок за бронзу (м)
+SUMMARY:🤼 Darian Toi CRUZ 🇵🇷 - 🇮🇳 Aman AMAN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -37231,7 +37230,7 @@ UID:20240809T173500Z-wrestling--57-
 DTSTAMP:20240809T173500Z
 DTSTART:20240809T173500Z
 DTEND:20240809T174500Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, финал (м)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, финал (м)\n🇯🇵 HIGUCHI Rei
 SUMMARY:🤼 Вольная борьба, 57кг, финал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT

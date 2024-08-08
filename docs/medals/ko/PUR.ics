@@ -68,4 +68,13 @@ DESCRIPTION:골프 - 남자 개인 스트로크 플레이 4라운드\n🇰🇷 A
 SUMMARY:⛳ 남자 개인 스트로크 플레이 4라운드
 LOCATION:골프 나시오날
 END:VEVENT
+BEGIN:VEVENT
+UID:20240809T171500Z-wrestling--57KG--PUR-IND
+DTSTAMP:20240809T171500Z
+DTSTART:20240809T171500Z
+DTEND:20240809T172500Z
+DESCRIPTION:레슬링 - 남자 자유형 57kg 동메달 결정전
+SUMMARY:🤼 Darian Toi CRUZ 🇵🇷 - 🇮🇳 Aman AMAN
+LOCATION:샹드마르 아레나
+END:VEVENT
 END:VCALENDAR
