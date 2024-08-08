@@ -10347,6 +10347,16 @@ SUMMARY:🤼 Bekzat ALMAZ UULU 🇰🇬 - 🇺🇸 Spencer Richard LEE
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T105430Z-sport-climbing--
+DTSTAMP:20240808T105430Z
+DTSTART:20240808T105430Z
+DTEND:20240808T105930Z
+DESCRIPTION:Спортивное скалолазание - Скорость, финал (м)\n🇮🇷 Reza ALI
+  POUR\n🇺🇸 Sam WATSON\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU Peng
+SUMMARY:🧗 Скорость, финал (м)
+LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T111200Z-sailing--B-1-
 DTSTAMP:20240808T111200Z
 DTSTART:20240808T111200Z
@@ -10525,6 +10535,25 @@ DESCRIPTION:Трековые велогонки - Омниум, скрэтч (1 
   ABOUELHASSAN
 SUMMARY:🚴 Омниум, скрэтч (1 из 4) (м)
 LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T162200Z-wrestling--57-
+DTSTAMP:20240808T162200Z
+DTSTART:20240808T162200Z
+DTEND:20240808T162900Z
+DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (м)\n🇺🇸 Spencer
+  Richard LEE
+SUMMARY:🤼 Вольная борьба, 57кг, полуфинал (м)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T164300Z-wrestling--57--JPN-USA
+DTSTAMP:20240808T164300Z
+DTSTART:20240808T164300Z
+DTEND:20240808T165000Z
+DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (ж)
+SUMMARY:🤼 SAKURAI Tsugumi 🇯🇵 - 🇺🇸 Helen Louise MAROULIS
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240808T173500Z-athletics-1500-

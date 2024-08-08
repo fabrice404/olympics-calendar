@@ -34197,6 +34197,15 @@ SUMMARY:🤼 Odunayo Folasade ADEKUOROYE 🇳🇬 - 🇨🇳 HONG Kexin
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T103100Z-wrestling--86-14--GRE-IRI
+DTSTAMP:20240808T103100Z
+DTSTART:20240808T103100Z
+DTEND:20240808T103800Z
+DESCRIPTION:Борьба - Вольная борьба, 86кг, 1/4 финала (м)
+SUMMARY:🤼 Dauren KURUGLIEV 🇬🇷 - 🇮🇷 Hassan YAZDANICHARATI
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T103100Z-wrestling--57-14--BRA-MDA
 DTSTAMP:20240808T103100Z
 DTSTART:20240808T103100Z
@@ -34215,20 +34224,10 @@ SUMMARY:🤼 Gulomjon ABDULLAEV 🇺🇿 - 🇦🇲 Arsen HARUTYUNYAN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T103100Z-wrestling--86-14-
-DTSTAMP:20240808T103100Z
-DTSTART:20240808T103100Z
-DTEND:20240808T103800Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, 1/4 финала (м)\n🇬🇷 Dauren
-  KURUGLIEV
-SUMMARY:🤼 Вольная борьба, 86кг, 1/4 финала (м)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240808T103500Z-sport-climbing--
 DTSTAMP:20240808T103500Z
 DTSTART:20240808T103500Z
-DTEND:20240808T104300Z
+DTEND:20240808T104100Z
 DESCRIPTION:Спортивное скалолазание - Скорость, четвертьфиналы (м)
 SUMMARY:🧗 Скорость, четвертьфиналы (м)
 LOCATION:Скалодром «Ле-Бурже»
@@ -34264,7 +34263,8 @@ UID:20240808T105430Z-sport-climbing--
 DTSTAMP:20240808T105430Z
 DTSTART:20240808T105430Z
 DTEND:20240808T105930Z
-DESCRIPTION:Спортивное скалолазание - Скорость, финал (м)
+DESCRIPTION:Спортивное скалолазание - Скорость, финал (м)\n🇮🇷 Reza ALI
+  POUR\n🇺🇸 Sam WATSON\n🇮🇩 Veddriq LEONARDO\n🇨🇳 WU Peng
 SUMMARY:🧗 Скорость, финал (м)
 LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
@@ -34734,12 +34734,12 @@ SUMMARY:⛵ Maximilian MAEDER 🇸🇬 - 🇸🇮 Toni VODISEK
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T135800Z-taekwondo--68-
+UID:20240808T135800Z-taekwondo--68--JOR-TUR
 DTSTAMP:20240808T135800Z
 DTSTART:20240808T135800Z
 DTEND:20240808T141100Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 68кг (м)\n🇯🇴 Zaid KAREEM
-SUMMARY:🥋 Четвертьфинал, до 68кг (м)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 68кг (м)
+SUMMARY:🥋 Zaid KAREEM 🇯🇴 - 🇹🇷 Hakan RECBER
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -34995,7 +34995,8 @@ UID:20240808T162200Z-wrestling--57-
 DTSTAMP:20240808T162200Z
 DTSTART:20240808T162200Z
 DTEND:20240808T162900Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (м)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (м)\n🇺🇸 Spencer
+  Richard LEE
 SUMMARY:🤼 Вольная борьба, 57кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -35027,13 +35028,12 @@ SUMMARY:🤼 Вольная борьба, 86кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T164300Z-wrestling--57-
+UID:20240808T164300Z-wrestling--57--JPN-USA
 DTSTAMP:20240808T164300Z
 DTSTART:20240808T164300Z
 DTEND:20240808T165000Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (ж)\n🇯🇵 SAKURAI
-  Tsugumi
-SUMMARY:🤼 Вольная борьба, 57кг, полуфинал (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (ж)
+SUMMARY:🤼 SAKURAI Tsugumi 🇯🇵 - 🇺🇸 Helen Louise MAROULIS
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT

@@ -100,4 +100,14 @@ DESCRIPTION:스포츠클라이밍 - 여자 볼더 & 리드, 준결승 - 리드\n
 SUMMARY:🧗 여자 볼더 & 리드, 준결승 - 리드
 LOCATION:르 부르제 클라이밍 경기장
 END:VEVENT
+BEGIN:VEVENT
+UID:20240808T105430Z-sport-climbing--
+DTSTAMP:20240808T105430Z
+DTSTART:20240808T105430Z
+DTEND:20240808T105930Z
+DESCRIPTION:스포츠클라이밍 - 남자 스피드, 결승\n🇮🇷 Reza ALI POUR\n🇺🇸 Sam WATSON\n🇮🇩
+  Veddriq LEONARDO\n🇨🇳 WU Peng
+SUMMARY:🧗 남자 스피드, 결승
+LOCATION:르 부르제 클라이밍 경기장
+END:VEVENT
 END:VCALENDAR
