@@ -264,4 +264,13 @@ DESCRIPTION:Настольный теннис - Полуфинал, команд
 SUMMARY:🏓 Китай 🇨🇳 - 🇰🇷 Южная Корея
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
+BEGIN:VEVENT
+UID:20240809T130000Z-table-tennis---CHN-SWE
+DTSTAMP:20240809T130000Z
+DTSTART:20240809T130000Z
+DTEND:20240809T160000Z
+DESCRIPTION:Настольный теннис - Финал, командный разряд (м)
+SUMMARY:🏓 Китай 🇨🇳 - 🇸🇪 Швеция
+LOCATION:Арена «Париж-Юг» 4
+END:VEVENT
 END:VCALENDAR
