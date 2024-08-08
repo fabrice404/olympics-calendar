@@ -10329,13 +10329,21 @@ SUMMARY:🤼 Aaron Marquel BROOKS 🇺🇸 - 🇯🇵 ISHIGURO Hayato
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T101700Z-wrestling--57-14-
+UID:20240808T101700Z-wrestling--57-14--USA-UKR
 DTSTAMP:20240808T101700Z
 DTSTART:20240808T101700Z
 DTEND:20240808T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)\n🇺🇸 Helen
-  Louise MAROULIS
-SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)
+SUMMARY:🤼 Helen Louise MAROULIS 🇺🇸 - 🇺🇦 Alina HRUSHYNA AKOBIIA
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240808T102400Z-wrestling--57-14--KGZ-USA
+DTSTAMP:20240808T102400Z
+DTSTART:20240808T102400Z
+DTEND:20240808T103100Z
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (м)
+SUMMARY:🤼 Bekzat ALMAZ UULU 🇰🇬 - 🇺🇸 Spencer Richard LEE
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -10713,6 +10721,19 @@ DTEND:20240809T091100Z
 DESCRIPTION:Тхэквондо - 1/8 финала, до 80кг (м)
 SUMMARY:🥋 Farzad MANSOURI 🏳️ - 🇺🇸 CJ NICKOLAS
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T090500Z-athletics--4400-1-
+DTSTAMP:20240809T090500Z
+DTSTART:20240809T090500Z
+DTEND:20240809T092100Z
+DESCRIPTION:Легкая атлетика - Эстафета 4х400м, раунд 1 (м)\n🇧🇪
+  Бельгия\n🇧🇼 Ботсвана\n🇧🇷 Бразилия\n🇬🇧 Великобритания\n🇩🇪
+  Германия\n🇮🇳 Индия\n🇪🇸 Испания\n🇮🇹 Италия\n🇳🇬 Нигерия\n🇵🇱
+  Польша\n🇺🇸 США\n🇹🇹 Тринидад и Тобаго\n🇫🇷 Франция\n🇿🇦 Южная
+  Африка\n🇯🇵 Япония
+SUMMARY:🏃 Эстафета 4х400м, раунд 1 (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T091000Z-canoe-sprint--500-1-

@@ -1058,6 +1058,16 @@ SUMMARY:🏃 Men's 800m Repechage Round
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T102400Z-wrestling-WOMENS-FREESTYLE-57KG-14-FINAL
+DTSTAMP:20240808T102400Z
+DTSTART:20240808T102400Z
+DTEND:20240808T103100Z
+DESCRIPTION:Wrestling - Women's Freestyle 57kg 1/4 Final\n🇳🇬 Odunayo
+  Folasade ADEKUOROYE
+SUMMARY:🤼 Women's Freestyle 57kg 1/4 Final
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T104000Z-canoe-sprint-WOMENS-CANOE-SINGLE-200M-QUARTERFINALS
 DTSTAMP:20240808T104000Z
 DTSTART:20240808T104000Z
@@ -1098,6 +1108,17 @@ DESCRIPTION:Athletics - Women's Long Jump Final\n🇯🇲 Ackelia SMITH\n🇷�
   KOALA\n🇺🇸 Monae' NICHOLS\n🇳🇬 Prestina Oluchi OCHONOGOR\n🇳🇬 Ruth
   USORO\n🇺🇸 Tara DAVIS-WOODHALL
 SUMMARY:🏃 Women's Long Jump Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T090500Z-athletics-MENS-4-X-400M-RELAY-ROUND-1
+DTSTAMP:20240809T090500Z
+DTSTART:20240809T090500Z
+DTEND:20240809T092100Z
+DESCRIPTION:Athletics - Men's 4 x 400m Relay Round 1\n🇧🇪 BEL\n🇧🇼
+  BOT\n🇧🇷 BRA\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇳 IND\n🇮🇹 ITA\n🇯🇵
+  JPN\n🇳🇬 NGR\n🇵🇱 POL\n🇿🇦 RSA\n🇪🇸 ESP\n🇹🇹 TTO\n🇺🇸 USA
+SUMMARY:🏃 Men's 4 x 400m Relay Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

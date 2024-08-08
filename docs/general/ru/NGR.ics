@@ -1058,6 +1058,16 @@ SUMMARY:🏃 800м, утешительный раунд (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240808T102400Z-wrestling--57-14-
+DTSTAMP:20240808T102400Z
+DTSTART:20240808T102400Z
+DTEND:20240808T103100Z
+DESCRIPTION:Борьба - Вольная борьба, 57кг, 1/4 финала (ж)\n🇳🇬 Odunayo
+  Folasade ADEKUOROYE
+SUMMARY:🤼 Вольная борьба, 57кг, 1/4 финала (ж)
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240808T104000Z-canoe-sprint--200-
 DTSTAMP:20240808T104000Z
 DTSTART:20240808T104000Z
@@ -1098,6 +1108,19 @@ DESCRIPTION:Легкая атлетика - Прыжки в длину, фина
   MIHAMBO\n🇧🇫 Marthe KOALA\n🇺🇸 Monae' NICHOLS\n🇳🇬 Prestina Oluchi
   OCHONOGOR\n🇳🇬 Ruth USORO\n🇺🇸 Tara DAVIS-WOODHALL
 SUMMARY:🏃 Прыжки в длину, финал (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T090500Z-athletics--4400-1-
+DTSTAMP:20240809T090500Z
+DTSTART:20240809T090500Z
+DTEND:20240809T092100Z
+DESCRIPTION:Легкая атлетика - Эстафета 4х400м, раунд 1 (м)\n🇧🇪
+  Бельгия\n🇧🇼 Ботсвана\n🇧🇷 Бразилия\n🇬🇧 Великобритания\n🇩🇪
+  Германия\n🇮🇳 Индия\n🇪🇸 Испания\n🇮🇹 Италия\n🇳🇬 Нигерия\n🇵🇱
+  Польша\n🇺🇸 США\n🇹🇹 Тринидад и Тобаго\n🇫🇷 Франция\n🇿🇦 Южная
+  Африка\n🇯🇵 Япония
+SUMMARY:🏃 Эстафета 4х400м, раунд 1 (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
