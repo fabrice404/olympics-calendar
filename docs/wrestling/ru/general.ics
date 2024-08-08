@@ -1781,17 +1781,18 @@ UID:20240808T103100Z-wrestling--86-14-
 DTSTAMP:20240808T103100Z
 DTSTART:20240808T103100Z
 DTEND:20240808T103800Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 86кг, 1/4 финала (м)\n🇬🇷 Dauren
+  KURUGLIEV
 SUMMARY:🤼 Вольная борьба, 86кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240808T161500Z-wrestling--57-
+UID:20240808T161500Z-wrestling--57--JPN-IND
 DTSTAMP:20240808T161500Z
 DTSTART:20240808T161500Z
 DTEND:20240808T162200Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (м)\n🇯🇵 HIGUCHI Rei
-SUMMARY:🤼 Вольная борьба, 57кг, полуфинал (м)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (м)
+SUMMARY:🤼 HIGUCHI Rei 🇯🇵 - 🇮🇳 Aman AMAN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -1826,7 +1827,8 @@ UID:20240808T164300Z-wrestling--57-
 DTSTAMP:20240808T164300Z
 DTSTART:20240808T164300Z
 DTEND:20240808T165000Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, полуфинал (ж)\n🇯🇵 SAKURAI
+  Tsugumi
 SUMMARY:🤼 Вольная борьба, 57кг, полуфинал (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
