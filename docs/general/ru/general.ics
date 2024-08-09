@@ -36311,6 +36311,15 @@ SUMMARY:🥋 Seif EISSA 🇪🇬 - 🇩🇰 Edi HRNIC
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T101700Z-wrestling--62-14--BUL-UKR
+DTSTAMP:20240809T101700Z
+DTSTART:20240809T101700Z
+DTEND:20240809T102400Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)
+SUMMARY:🤼 Bilyana Zhivkova DUDOVA 🇧🇬 - 🇺🇦 Iryna KOLIADENKO
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T101700Z-wrestling--125-14--HUN-TUR
 DTSTAMP:20240809T101700Z
 DTSTART:20240809T101700Z
@@ -36326,16 +36335,6 @@ DTSTART:20240809T101700Z
 DTEND:20240809T102400Z
 DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
 SUMMARY:🤼 Kyle Douglas DAKE 🇺🇸 - 🇮🇷 Yones EMAMICHOGHAEI
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T101700Z-wrestling--62-14-
-DTSTAMP:20240809T101700Z
-DTSTART:20240809T101700Z
-DTEND:20240809T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)\n🇧🇬 Bilyana
-  Zhivkova DUDOVA
-SUMMARY:🤼 Вольная борьба, 62кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -36358,13 +36357,12 @@ SUMMARY:🤼 Hetik CABOLOV 🇷🇸 - 🇯🇵 TAKATANI Daichi
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T102400Z-wrestling--125-14-
+UID:20240809T102400Z-wrestling--125-14--MGL-AZE
 DTSTAMP:20240809T102400Z
 DTSTART:20240809T102400Z
 DTEND:20240809T103100Z
-DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)\n🇲🇳
-  Lkhagvagerel MUNKHTUR
-SUMMARY:🤼 Вольная борьба, 125кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)
+SUMMARY:🤼 Lkhagvagerel MUNKHTUR 🇲🇳 - 🇦🇿 Giorgi MESHVILDISHVILI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -36372,7 +36370,8 @@ UID:20240809T102400Z-wrestling--62-14-
 DTSTAMP:20240809T102400Z
 DTSTART:20240809T102400Z
 DTEND:20240809T103100Z
-DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)\n🇳🇴 Grace Jacob
+  BULLEN
 SUMMARY:🤼 Вольная борьба, 62кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -36385,6 +36384,15 @@ DESCRIPTION:Парусный спорт - Кайт, финал, гонка 4 (м
   MAEDER\n🇮🇹 Riccardo PIANOSI\n🇸🇮 Toni VODISEK\n🇦🇹 Valentin BONTUS
 SUMMARY:⛵ Кайт, финал, гонка 4 (м)
 LOCATION:Марсельская гавань
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103100Z-wrestling--74-14--TJK-CHN
+DTSTAMP:20240809T103100Z
+DTSTART:20240809T103100Z
+DTEND:20240809T103800Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
+SUMMARY:🤼 Viktor RASSADIN 🇹🇯 - 🇨🇳 LU Feng
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T103100Z-wrestling--125-14-
@@ -36402,16 +36410,6 @@ DTSTART:20240809T103100Z
 DTEND:20240809T103800Z
 DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)
 SUMMARY:🤼 Вольная борьба, 62кг, 1/4 финала (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T103100Z-wrestling--74-14-
-DTSTAMP:20240809T103100Z
-DTSTART:20240809T103100Z
-DTEND:20240809T103800Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)\n🇹🇯 Viktor
-  RASSADIN
-SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -36761,12 +36759,12 @@ SUMMARY:🚴 Спринт, полуфиналы, заезд 2 (м)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T133200Z-taekwondo--80-
+UID:20240809T133200Z-taekwondo--80--USA-BUR
 DTSTAMP:20240809T133200Z
 DTSTART:20240809T133200Z
 DTEND:20240809T134500Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 80кг (м)\n🇺🇸 CJ NICKOLAS
-SUMMARY:🥋 Четвертьфинал, до 80кг (м)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 80кг (м)
+SUMMARY:🥋 CJ NICKOLAS 🇺🇸 - 🇧🇫 Faysal SAWADOGO
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
