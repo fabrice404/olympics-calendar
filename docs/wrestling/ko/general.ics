@@ -2461,21 +2461,21 @@ SUMMARY:🤼 여자 자유형 62kg 패자부활전
 LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T090700Z-wrestling--74KG--AIN-SVK
+DTSTAMP:20240810T090700Z
+DTSTART:20240810T090700Z
+DTEND:20240810T091400Z
+DESCRIPTION:레슬링 - 남자 자유형 74kg 패자부활전
+SUMMARY:🤼 Mahamedkhabib KADZIMAHAMEDAU 🇦🇸 - 🇸🇰 Tajmuraz Mairbekovic SA
+LOCATION:샹드마르 아레나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T090700Z-wrestling--125KG-
 DTSTAMP:20240810T090700Z
 DTSTART:20240810T090700Z
 DTEND:20240810T091400Z
 DESCRIPTION:레슬링 - 남자 자유형 125kg 패자부활전
 SUMMARY:🤼 남자 자유형 125kg 패자부활전
-LOCATION:샹드마르 아레나
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T090700Z-wrestling--74KG-
-DTSTAMP:20240810T090700Z
-DTSTART:20240810T090700Z
-DTEND:20240810T091400Z
-DESCRIPTION:레슬링 - 남자 자유형 74kg 패자부활전
-SUMMARY:🤼 남자 자유형 74kg 패자부활전
 LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT
@@ -2537,7 +2537,7 @@ UID:20240810T092100Z-wrestling--74KG-
 DTSTAMP:20240810T092100Z
 DTSTART:20240810T092100Z
 DTEND:20240810T092800Z
-DESCRIPTION:레슬링 - 남자 자유형 74kg 패자부활전
+DESCRIPTION:레슬링 - 남자 자유형 74kg 패자부활전\n🇦🇱 Chermen VALIEV
 SUMMARY:🤼 남자 자유형 74kg 패자부활전
 LOCATION:샹드마르 아레나
 END:VEVENT
@@ -2897,17 +2897,17 @@ UID:20240810T172500Z-wrestling--74KG-
 DTSTAMP:20240810T172500Z
 DTSTART:20240810T172500Z
 DTEND:20240810T173500Z
-DESCRIPTION:레슬링 - 남자 자유형 74kg 동메달 결정전
+DESCRIPTION:레슬링 - 남자 자유형 74kg 동메달 결정전\n🇹🇯 Viktor RASSADIN
 SUMMARY:🤼 남자 자유형 74kg 동메달 결정전
 LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T173500Z-wrestling--74KG-
+UID:20240810T173500Z-wrestling--74KG--JPN-UZB
 DTSTAMP:20240810T173500Z
 DTSTART:20240810T173500Z
 DTEND:20240810T174500Z
-DESCRIPTION:레슬링 - 남자 자유형 74kg 결승\n🇯🇵 TAKATANI Daichi
-SUMMARY:🤼 남자 자유형 74kg 결승
+DESCRIPTION:레슬링 - 남자 자유형 74kg 결승
+SUMMARY:🤼 TAKATANI Daichi 🇯🇵 - 🇺🇿 Razambek Salambekovitch JAMALOV
 LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT

@@ -37514,12 +37514,12 @@ SUMMARY:🥋 Leon SEJRANOVIC 🇦🇺 - 🇩🇰 Edi HRNIC
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T180700Z-breaking--2-
+UID:20240809T180700Z-breaking--2--JPN-NED
 DTSTAMP:20240809T180700Z
 DTSTART:20240809T180700Z
 DTEND:20240809T181445Z
-DESCRIPTION:Брейкинг - Четвертьфинал 2 (ж)\n🇯🇵 AYUMI
-SUMMARY:🤸 Четвертьфинал 2 (ж)
+DESCRIPTION:Брейкинг - Четвертьфинал 2 (ж)
+SUMMARY:🤸 AYUMI 🇯🇵 - 🇳🇱 INDIA
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
@@ -37536,12 +37536,12 @@ SUMMARY:🏃 Тройной прыжок, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T181500Z-breaking--3-
+UID:20240809T181500Z-breaking--3--CHN-UKR
 DTSTAMP:20240809T181500Z
 DTSTART:20240809T181500Z
 DTEND:20240809T182245Z
-DESCRIPTION:Брейкинг - Четвертьфинал 3 (ж)\n🇺🇦 KATE
-SUMMARY:🤸 Четвертьфинал 3 (ж)
+DESCRIPTION:Брейкинг - Четвертьфинал 3 (ж)
+SUMMARY:🤸 671 🇨🇳 - 🇺🇦 KATE
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
@@ -38101,6 +38101,15 @@ SUMMARY:🏀 Германия 🇩🇪 - 🇷🇸 Сербия
 LOCATION:Арена «Берси»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T090700Z-wrestling--74--AIN-SVK
+DTSTAMP:20240810T090700Z
+DTSTART:20240810T090700Z
+DTEND:20240810T091400Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, утешительный раунд (м)
+SUMMARY:🤼 Mahamedkhabib KADZIMAHAMEDAU 🇦🇸 - 🇸🇰 Tajmuraz Mairbekovic SA
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T090700Z-wrestling--125-
 DTSTAMP:20240810T090700Z
 DTSTART:20240810T090700Z
@@ -38116,15 +38125,6 @@ DTSTART:20240810T090700Z
 DTEND:20240810T091400Z
 DESCRIPTION:Борьба - Вольная борьба, 62кг, утешительный раунд
 SUMMARY:🤼 Вольная борьба, 62кг, утешительный раунд
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T090700Z-wrestling--74-
-DTSTAMP:20240810T090700Z
-DTSTART:20240810T090700Z
-DTEND:20240810T091400Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, утешительный раунд (м)
-SUMMARY:🤼 Вольная борьба, 74кг, утешительный раунд (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -38220,7 +38220,8 @@ UID:20240810T092100Z-wrestling--74-
 DTSTAMP:20240810T092100Z
 DTSTART:20240810T092100Z
 DTEND:20240810T092800Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, утешительный раунд (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, утешительный раунд (м)\n🇦🇱
+  Chermen VALIEV
 SUMMARY:🤼 Вольная борьба, 74кг, утешительный раунд (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -39330,7 +39331,8 @@ UID:20240810T172500Z-wrestling--74-
 DTSTAMP:20240810T172500Z
 DTSTART:20240810T172500Z
 DTEND:20240810T173500Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, поединок за бронзу (м)\n🇹🇯
+  Viktor RASSADIN
 SUMMARY:🤼 Вольная борьба, 74кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -39382,12 +39384,12 @@ SUMMARY:🏃 100м с/б, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T173500Z-wrestling--74-
+UID:20240810T173500Z-wrestling--74--JPN-UZB
 DTSTAMP:20240810T173500Z
 DTSTART:20240810T173500Z
 DTEND:20240810T174500Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, финал (м)\n🇯🇵 TAKATANI Daichi
-SUMMARY:🤼 Вольная борьба, 74кг, финал (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, финал (м)
+SUMMARY:🤼 TAKATANI Daichi 🇯🇵 - 🇺🇿 Razambek Salambekovitch JAMALOV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT

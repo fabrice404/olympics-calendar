@@ -4800,7 +4800,8 @@ UID:20240810T172500Z-wrestling--74-
 DTSTAMP:20240810T172500Z
 DTSTART:20240810T172500Z
 DTEND:20240810T173500Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, поединок за бронзу (м)\n🇹🇯
+  Viktor RASSADIN
 SUMMARY:🤼 Вольная борьба, 74кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -4843,12 +4844,12 @@ SUMMARY:🏃 100м с/б, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T173500Z-wrestling--74-
+UID:20240810T173500Z-wrestling--74--JPN-UZB
 DTSTAMP:20240810T173500Z
 DTSTART:20240810T173500Z
 DTEND:20240810T174500Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, финал (м)\n🇯🇵 TAKATANI Daichi
-SUMMARY:🤼 Вольная борьба, 74кг, финал (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, финал (м)
+SUMMARY:🤼 TAKATANI Daichi 🇯🇵 - 🇺🇿 Razambek Salambekovitch JAMALOV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
