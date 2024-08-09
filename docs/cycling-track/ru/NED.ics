@@ -343,6 +343,15 @@ SUMMARY:🚴 Спринт, 1/32 финала, утешительный раун�
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T160000Z-cycling-track--1--NED-AUS
+DTSTAMP:20240809T160000Z
+DTSTART:20240809T160000Z
+DTEND:20240809T160900Z
+DESCRIPTION:Трековые велогонки - Спринт, финалы, заезд 1 (м)
+SUMMARY:🚴 Harrie LAVREYSEN 🇳🇱 - 🇦🇺 Matthew RICHARDSON
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T160900Z-cycling-track--
 DTSTAMP:20240809T160900Z
 DTSTART:20240809T160900Z

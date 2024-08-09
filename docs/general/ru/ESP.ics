@@ -7680,6 +7680,15 @@ SUMMARY:🤽 Матч за 5-6 места (м)
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240811T070000Z-handball--3-
+DTSTAMP:20240811T070000Z
+DTSTART:20240811T070000Z
+DTEND:20240811T090000Z
+DESCRIPTION:Гандбол - Матч за 3-е место (м)\n🇪🇸 Испания
+SUMMARY:🤾 Матч за 3-е место (м)
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
 DTSTAMP:20240811T190000Z
 DTSTART:20240811T190000Z
