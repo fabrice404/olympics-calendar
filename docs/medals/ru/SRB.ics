@@ -173,4 +173,13 @@ DESCRIPTION:Баскетбол - Матч за 3-е место (м)
 SUMMARY:🏀 Германия 🇩🇪 - 🇷🇸 Сербия
 LOCATION:Арена «Берси»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240811T120000Z-water-polo--
+DTSTAMP:20240811T120000Z
+DTSTART:20240811T120000Z
+DTEND:20240811T132500Z
+DESCRIPTION:Водное поло - Финал (м)\n🇷🇸 Сербия
+SUMMARY:🤽 Финал (м)
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
 END:VCALENDAR
