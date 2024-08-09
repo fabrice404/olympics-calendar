@@ -36131,22 +36131,21 @@ SUMMARY:🤼 Kriszta Tunde INCZE 🇷🇴 - 🇯🇵 MOTOKI Sakura
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T100300Z-wrestling-MENS-FREESTYLE-74KG-18-FINAL
-DTSTAMP:20240809T100300Z
-DTSTART:20240809T100300Z
-DTEND:20240809T101000Z
-DESCRIPTION:Wrestling - Men's Freestyle 74kg 1/8 Final\n🇸🇰 Tajmuraz
-  Mairbekovic SALKAZANOV
-SUMMARY:🤼 Men's Freestyle 74kg 1/8 Final
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240809T100300Z-wrestling-MENS-FREESTYLE-125KG-18-FINAL-UKR-GEO
 DTSTAMP:20240809T100300Z
 DTSTART:20240809T100300Z
 DTEND:20240809T101000Z
 DESCRIPTION:Wrestling - Men's Freestyle 125kg 1/8 Final
 SUMMARY:🤼 Oleksandr KHOTSIANIVSKYI 🇺🇦 - 🇬🇪 Geno PETRIASHVILI
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T100300Z-wrestling-MENS-FREESTYLE-74KG-18-FINAL-SVK-UZB
+DTSTAMP:20240809T100300Z
+DTSTART:20240809T100300Z
+DTEND:20240809T101000Z
+DESCRIPTION:Wrestling - Men's Freestyle 74kg 1/8 Final
+SUMMARY:🤼 Tajmuraz Mairbekovic SALKAZANOV 🇸🇰 - 🇺🇿 Razambek Salambekovi
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -36180,7 +36179,8 @@ UID:20240809T101000Z-wrestling-MENS-FREESTYLE-125KG-14-FINAL
 DTSTAMP:20240809T101000Z
 DTSTART:20240809T101000Z
 DTEND:20240809T101700Z
-DESCRIPTION:Wrestling - Men's Freestyle 125kg 1/4 Final
+DESCRIPTION:Wrestling - Men's Freestyle 125kg 1/4 Final\n🇮🇷 Amir Hossein
+  ZARE
 SUMMARY:🤼 Men's Freestyle 125kg 1/4 Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -36189,7 +36189,8 @@ UID:20240809T101000Z-wrestling-WOMENS-FREESTYLE-62KG-14-FINAL
 DTSTAMP:20240809T101000Z
 DTSTART:20240809T101000Z
 DTEND:20240809T101700Z
-DESCRIPTION:Wrestling - Women's Freestyle 62kg 1/4 Final
+DESCRIPTION:Wrestling - Women's Freestyle 62kg 1/4 Final\n🇰🇬 Aisuluu
+  TYNYBEKOVA
 SUMMARY:🤼 Women's Freestyle 62kg 1/4 Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -36226,7 +36227,8 @@ UID:20240809T101700Z-wrestling-MENS-FREESTYLE-74KG-14-FINAL
 DTSTAMP:20240809T101700Z
 DTSTART:20240809T101700Z
 DTEND:20240809T102400Z
-DESCRIPTION:Wrestling - Men's Freestyle 74kg 1/4 Final
+DESCRIPTION:Wrestling - Men's Freestyle 74kg 1/4 Final\n🇺🇸 Kyle Douglas
+  DAKE
 SUMMARY:🤼 Men's Freestyle 74kg 1/4 Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -36399,7 +36401,12 @@ DTSTAMP:20240809T110000Z
 DTSTART:20240809T110000Z
 DTEND:20240809T113500Z
 DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final A, Riding Show
-  Jumping
+  Jumping\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre DALLENBACH\n🇪🇨 Andres
+  TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽 Duilio CARRILLO\n🇲🇽
+  Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿 Georgiy
+  BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO Shuai\n🇨🇿 Marek
+  GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻 Pavels
+  SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin PRADES
 SUMMARY:🤺 Men's Individual, Semi-final A, Riding Show Jumping
 LOCATION:Château de Versailles
 END:VEVENT
@@ -36640,7 +36647,7 @@ UID:20240809T131900Z-taekwondo-WOMEN-67KG-QUARTERFINAL
 DTSTAMP:20240809T131900Z
 DTSTART:20240809T131900Z
 DTEND:20240809T133200Z
-DESCRIPTION:Taekwondo - Women -67kg Quarterfinal
+DESCRIPTION:Taekwondo - Women -67kg Quarterfinal\n🇯🇴 Julyana ALSADEQ
 SUMMARY:🥋 Women -67kg Quarterfinal
 LOCATION:Grand Palais
 END:VEVENT

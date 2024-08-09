@@ -36239,13 +36239,12 @@ SUMMARY:🤼 Oleksandr KHOTSIANIVSKYI 🇺🇦 - 🇬🇪 Geno PETRIASHVILI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T100300Z-wrestling--74-18-
+UID:20240809T100300Z-wrestling--74-18--SVK-UZB
 DTSTAMP:20240809T100300Z
 DTSTART:20240809T100300Z
 DTEND:20240809T101000Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)\n🇸🇰 Tajmuraz
-  Mairbekovic SALKAZANOV
-SUMMARY:🤼 Вольная борьба, 74кг, 1/8 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/8 финала (м)
+SUMMARY:🤼 Tajmuraz Mairbekovic SALKAZANOV 🇸🇰 - 🇺🇿 Razambek Salambekovi
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -36266,6 +36265,15 @@ SUMMARY:🏃 100м с/б, полуфинал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T101000Z-wrestling--125-14--IRI-CAN
+DTSTAMP:20240809T101000Z
+DTSTART:20240809T101000Z
+DTEND:20240809T101700Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)
+SUMMARY:🤼 Amir Hossein ZARE 🇮🇷 - 🇨🇦 Amarveer DHESI
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T101000Z-wrestling--74-18--ALB-AZE
 DTSTAMP:20240809T101000Z
 DTSTART:20240809T101000Z
@@ -36275,20 +36283,12 @@ SUMMARY:🤼 Chermen VALIEV 🇦🇱 - 🇦🇿 Turan BAYRAMOV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T101000Z-wrestling--125-14-
-DTSTAMP:20240809T101000Z
-DTSTART:20240809T101000Z
-DTEND:20240809T101700Z
-DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)
-SUMMARY:🤼 Вольная борьба, 125кг, 1/4 финала (м)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240809T101000Z-wrestling--62-14-
 DTSTAMP:20240809T101000Z
 DTSTART:20240809T101000Z
 DTEND:20240809T101700Z
-DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)\n🇰🇬 Aisuluu
+  TYNYBEKOVA
 SUMMARY:🤼 Вольная борьба, 62кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -36334,7 +36334,8 @@ UID:20240809T101700Z-wrestling--74-14-
 DTSTAMP:20240809T101700Z
 DTSTART:20240809T101700Z
 DTEND:20240809T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)\n🇺🇸 Kyle
+  Douglas DAKE
 SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -36498,7 +36499,12 @@ DTSTAMP:20240809T110000Z
 DTSTART:20240809T110000Z
 DTEND:20240809T113500Z
 DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, верховая
-  езда (м)
+  езда (м)\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre DALLENBACH\n🇪🇨 Andres
+  TORRES\n🇹🇷 Bugra UNAL\n🇭🇺 Csaba BOHM\n🇲🇽 Duilio CARRILLO\n🇲🇽
+  Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇰🇿 Georgiy
+  BORODA-DUDOCHKIN\n🇫🇷 Jean-Baptiste MOURCIA\n🇨🇳 LUO Shuai\n🇨🇿 Marek
+  GRYCZ\n🇨🇿 Martin VLACH\n🇮🇹 Matteo CICINELLI\n🇱🇻 Pavels
+  SVECOVS\n🇹🇭 Phurit YOHUANG\n🇧🇬 Todor MIHALEV\n🇫🇷 Valentin PRADES
 SUMMARY:🤺 Личный зачет, полуфинал A, верховая езда (м)
 LOCATION:Версаль
 END:VEVENT
@@ -36740,7 +36746,7 @@ UID:20240809T131900Z-taekwondo--67-
 DTSTAMP:20240809T131900Z
 DTSTART:20240809T131900Z
 DTEND:20240809T133200Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 67кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 67кг (ж)\n🇯🇴 Julyana ALSADEQ
 SUMMARY:🥋 Четвертьфинал, до 67кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
