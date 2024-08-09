@@ -8212,6 +8212,20 @@ SUMMARY:🚴 Women's Madison, Final
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T171000Z-cycling-track-WOMENS-SPRINT-116-FINALS
+DTSTAMP:20240809T171000Z
+DTSTART:20240809T171000Z
+DTEND:20240809T173800Z
+DESCRIPTION:Cycling Track - Women's Sprint, 1/16 Finals\n🇲🇽 Daniela
+  GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma
+  HINZE\n🇳🇱 Hetty van de WOUW\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina
+  CLONAN\n🇨🇦 Lauriane GENEST\n🇩🇪 Lea FRIEDRICH\n🇨🇴 Martha BAYONA
+  PINEDA\n🇫🇷 Mathilde GROS\n🇯🇵 SATO Mina\n🇳🇿 Shaane FULTON\n🇬🇧
+  Sophie CAPEWELL\n🇳🇱 Steffie van der PEET\n🇫🇷 Taky Marie Divine KOUAME
+SUMMARY:🚴 Women's Sprint, 1/16 Finals
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T173000Z-athletics-WOMENS-4-X-100M-RELAY-FINAL
 DTSTAMP:20240809T173000Z
 DTSTART:20240809T173000Z
@@ -8401,6 +8415,36 @@ DESCRIPTION:Sport Climbing - Women's Boulder & Lead, Final Lead\n🇺🇸
   Chaehyun
 SUMMARY:🧗 Women's Boulder & Lead, Final Lead
 LOCATION:Le Bourget Climbing Venue
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T151900Z-cycling-track-MENS-KEIRIN-FIRST-ROUND
+DTSTAMP:20240810T151900Z
+DTSTART:20240810T151900Z
+DTEND:20240810T155000Z
+DESCRIPTION:Cycling Track - Men's Keirin, First Round\n🇰🇿 Andrey
+  CHUGAY\n🇨🇴 Cristian David ORTEGA FONTALVO\n🇬🇧 Hamish TURNBULL\n🇳🇱
+  Harrie LAVREYSEN\n🇬🇧 Jack CARLIN\n🇹🇭 Jai ANGSUTHASAWIT\n🇸🇷 Jair
+  TJON EN FA\n🇨🇦 James HEDGCOCK\n🇿🇦 Jean SPIES\n🇳🇱 Jeffrey
+  HOOGLAND\n🇨🇴 Kevin Santiago QUINTERO CHAVARRO\n🇹🇹 Kwesi BROWNE\n🇨🇳
+  LIU Qi\n🇩🇪 Luca SPIEGEL\n🇵🇱 Mateusz RUDYK\n🇦🇺 Matthew
+  GLAETZER\n🇦🇺 Matthew RICHARDSON\n🇩🇪 Maximilian DOERNBACH\n🇮🇱
+  Mikhail YAKOVLEV\n🇲🇾 Mohd Azizulhasni AWANG\n🇲🇾 Muhammad Shah Firdaus
+  SAHROM\n🇯🇵 NAKANO Shinji\n🇹🇹 Nicholas PAUL\n🇨🇦 Nick WAMMES\n🇯🇵
+  OTA Kaiya\n🇫🇷 Rayan HELAL\n🇳🇿 Sam DAKIN\n🇫🇷 Sebastien VIGIER\n🇱🇹
+  Vasilijus LENDEL\n🇨🇳 ZHOU Yu
+SUMMARY:🚴 Men's Keirin, First Round
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T155900Z-cycling-track-MENS-MADISON-FINAL
+DTSTAMP:20240810T155900Z
+DTSTART:20240810T155900Z
+DTEND:20240810T170700Z
+DESCRIPTION:Cycling Track - Men's Madison, Final\n🇦🇺 AUS\n🇦🇹 AUT\n🇧🇪
+  BEL\n🇨🇦 CAN\n🇨🇿 CZE\n🇩🇰 DEN\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇳🇿 NZL\n🇵🇹 POR\n🇪🇸 ESP
+SUMMARY:🚴 Men's Madison, Final
+LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T170500Z-athletics-MENS-800M-FINAL

@@ -7045,6 +7045,20 @@ SUMMARY:🤼 Grace Jacob BULLEN 🇳🇴 - 🇯🇵 MOTOKI Sakura
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T171000Z-cycling-track--116-
+DTSTAMP:20240809T171000Z
+DTSTART:20240809T171000Z
+DTEND:20240809T173800Z
+DESCRIPTION:Трековые велогонки - Спринт, 1/16 финала (ж)\n🇲🇽 Daniela
+  GAXIOLA GONZALEZ\n🇳🇿 Ellesse ANDREWS\n🇬🇧 Emma FINUCANE\n🇩🇪 Emma
+  HINZE\n🇳🇱 Hetty van de WOUW\n🇨🇦 Kelsey MITCHELL\n🇦🇺 Kristina
+  CLONAN\n🇨🇦 Lauriane GENEST\n🇩🇪 Lea FRIEDRICH\n🇨🇴 Martha BAYONA
+  PINEDA\n🇫🇷 Mathilde GROS\n🇯🇵 SATO Mina\n🇳🇿 Shaane FULTON\n🇬🇧
+  Sophie CAPEWELL\n🇳🇱 Steffie van der PEET\n🇫🇷 Taky Marie Divine KOUAME
+SUMMARY:🚴 Спринт, 1/16 финала (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T173000Z-artistic-swimming--
 DTSTAMP:20240809T173000Z
 DTSTART:20240809T173000Z
@@ -7254,6 +7268,25 @@ SUMMARY:🤸 SHIGEKIX 🇯🇵 - 🇯🇵 HIRO10
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T151900Z-cycling-track--
+DTSTAMP:20240810T151900Z
+DTSTART:20240810T151900Z
+DTEND:20240810T155000Z
+DESCRIPTION:Трековые велогонки - Кейрин, первый раунд (м)\n🇰🇿 Andrey
+  CHUGAY\n🇨🇴 Cristian David ORTEGA FONTALVO\n🇬🇧 Hamish TURNBULL\n🇳🇱
+  Harrie LAVREYSEN\n🇬🇧 Jack CARLIN\n🇹🇭 Jai ANGSUTHASAWIT\n🇸🇷 Jair
+  TJON EN FA\n🇨🇦 James HEDGCOCK\n🇿🇦 Jean SPIES\n🇳🇱 Jeffrey
+  HOOGLAND\n🇨🇴 Kevin Santiago QUINTERO CHAVARRO\n🇹🇹 Kwesi BROWNE\n🇨🇳
+  LIU Qi\n🇩🇪 Luca SPIEGEL\n🇵🇱 Mateusz RUDYK\n🇦🇺 Matthew
+  GLAETZER\n🇦🇺 Matthew RICHARDSON\n🇩🇪 Maximilian DOERNBACH\n🇮🇱
+  Mikhail YAKOVLEV\n🇲🇾 Mohd Azizulhasni AWANG\n🇲🇾 Muhammad Shah Firdaus
+  SAHROM\n🇯🇵 NAKANO Shinji\n🇹🇹 Nicholas PAUL\n🇨🇦 Nick WAMMES\n🇯🇵
+  OTA Kaiya\n🇫🇷 Rayan HELAL\n🇳🇿 Sam DAKIN\n🇫🇷 Sebastien VIGIER\n🇱🇹
+  Vasilijus LENDEL\n🇨🇳 ZHOU Yu
+SUMMARY:🚴 Кейрин, первый раунд (м)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T153800Z-breaking---CHN-JPN
 DTSTAMP:20240810T153800Z
 DTSTART:20240810T153800Z
@@ -7270,6 +7303,18 @@ DTEND:20240810T155000Z
 DESCRIPTION:Брейкинг - Групповой этап, группа А (м)
 SUMMARY:🤸 HIRO10 🇯🇵 - 🇺🇸 VICTOR
 LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T155900Z-cycling-track--
+DTSTAMP:20240810T155900Z
+DTSTART:20240810T155900Z
+DTEND:20240810T170700Z
+DESCRIPTION:Трековые велогонки - Мэдисон, финал (м)\n🇦🇺 Австралия\n🇦🇹
+  Австрия\n🇧🇪 Бельгия\n🇬🇧 Великобритания\n🇩🇪 Германия\n🇩🇰
+  Дания\n🇪🇸 Испания\n🇮🇹 Италия\n🇨🇦 Канада\n🇳🇱 Нидерланды\n🇳🇿
+  Новая Зеландия\n🇵🇹 Португалия\n🇫🇷 Франция\n🇨🇿 Чехия\n🇯🇵 Япония
+SUMMARY:🚴 Мэдисон, финал (м)
+LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T170000Z-athletics--
