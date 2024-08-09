@@ -9152,6 +9152,44 @@ SUMMARY:🏊 Men's 10km
 LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T070000Z-golf-WOMENS-INDIVIDUAL-STROKE-PLAY-ROUND-3
+DTSTAMP:20240809T070000Z
+DTSTART:20240809T070000Z
+DTEND:20240809T160000Z
+DESCRIPTION:Golf - Women's Individual Stroke Play Round 3\n🇮🇳 Aditi
+  ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦 Alena SHARP\n🇮🇹 Alessandra
+  FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana BELAC\n🇳🇱 Anne van
+  DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭 Atthaya THITIKUL\n🇪🇸
+  Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦 Brooke M. HENDERSON\n🇹🇼
+  CHIEN Pei-Yun\n🇪🇸 Carlota CIGANDA\n🇳🇴 Celine BORGE\n🇫🇷 Celine
+  BOUTIER\n🇬🇧 Charley HULL\n🇮🇳 Diksha DAGAR\n🇵🇭 Dottie ARDINA\n🇩🇰
+  Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪 Esther HENSELEIT\n🇲🇽 Gaby
+  LOPEZ\n🇬🇧 Georgia HALL\n🇹🇼 HSU Wei-Ling\n🇦🇺 Hannah GREEN\n🇲🇦 Ines
+  LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇰🇷 KO Jin Young\n🇨🇿 Klara DAVIDSON
+  SPILKOVA\n🇨🇳 LIN Xiyu Janet\n🇮🇪 Leona MAGUIRE\n🇺🇸 Lilia VU\n🇸🇪
+  Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴 Madelene STAVNAR\n🇸🇪 Maja STARK\n🇧🇪
+  Manon DE ROEY\n🇲🇽 Maria FASSI\n🇨🇴 Mariajo URIBE\n🇦🇺 Minjee
+  LEE\n🇨🇭 Morgane METRAUX\n🇩🇰 Nanna KOERSTZ MADSEN\n🇺🇸 Nelly
+  KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty TAVATANAKIT\n🇿🇦 Paula
+  RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia BABNIK\n🇺🇸 Rose ZHANG\n🇯🇵 SASO
+  Yuka\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah SCHOBER\n🇸🇬 Shannon TAN\n🇮🇪
+  Stephanie MEADOW\n🇫🇮 Ursula WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG
+  Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ Women's Individual Stroke Play Round 3
+LOCATION:Le Golf National
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T080000Z-rhythmic-gymnastics-GROUP-ALL-AROUND-QUALIFICATION-PAR
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:Rhythmic Gymnastics - Group All-Around Qualification - Part 1
+  of 2\n🇦🇺 AUS\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷
+  FRA\n🇩🇪 GER\n🇮🇱 ISR\n🇮🇹 ITA\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇦 UKR\n🇺🇿 UZB
+SUMMARY:🤸 Group All-Around Qualification - Part 1 of 2
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T080000Z-diving-MENS-10M-PLATFORM-PRELIMINARY
 DTSTAMP:20240809T080000Z
 DTSTART:20240809T080000Z
@@ -9252,6 +9290,17 @@ SUMMARY:🛶 Men's Kayak Double 500m Semifinal 1
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T091600Z-rhythmic-gymnastics-GROUP-ALL-AROUND-QUALIFICATION-PAR
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:Rhythmic Gymnastics - Group All-Around Qualification - Part 2
+  of 2\n🇦🇺 AUS\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷
+  FRA\n🇩🇪 GER\n🇮🇱 ISR\n🇮🇹 ITA\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇦 UKR\n🇺🇿 UZB
+SUMMARY:🤸 Group All-Around Qualification - Part 2 of 2
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T092000Z-canoe-sprint-MENS-KAYAK-DOUBLE-500M-SEMIFINAL-2
 DTSTAMP:20240809T092000Z
 DTSTART:20240809T092000Z
@@ -9283,6 +9332,19 @@ DTEND:20240809T095600Z
 DESCRIPTION:Wrestling - Women's Freestyle 62kg 1/8 Final
 SUMMARY:🤼 LEE Hanbit 🇰🇷 - 🇩🇪 Luisa Helga Gerda NIEMESCH
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103200Z-athletics-WOMENS-HEPTATHLON-JAVELIN-THROW-GROUP-B
+DTSTAMP:20240809T103200Z
+DTSTART:20240809T103200Z
+DTEND:20240809T111400Z
+DESCRIPTION:Athletics - Women's Heptathlon Javelin Throw - Group B\n🇨🇭
+  Annik KAELIN\n🇳🇱 Anouk VETTER\n🇫🇷 Auriana LAZRAQ-KHLASS\n🇩🇪 Carolin
+  SCHAEFER\n🇺🇸 Chari HAWKINS\n🇳🇱 Emma OOSTERWEGEL\n🇮🇪 Kate
+  O'CONNOR\n🇨🇴 Martha ARAUJO\n🇧🇪 Nafissatou THIAM\n🇳🇱 Sofie
+  DOKTER\n🇦🇺 Tori WEST
+SUMMARY:🏃 Women's Heptathlon Javelin Throw - Group B
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T114000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-A-FENCING

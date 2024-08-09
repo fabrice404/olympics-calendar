@@ -8378,6 +8378,43 @@ SUMMARY:🏊 男子10公里
 LOCATION:亚历山大三世桥
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T070000Z-golf-3
+DTSTAMP:20240809T070000Z
+DTSTART:20240809T070000Z
+DTEND:20240809T160000Z
+DESCRIPTION:高尔夫 - 女子第3回合\n🇮🇳 Aditi ASHOK\n🇨🇭 Albane VALENZUELA\n🇨🇦
+  Alena SHARP\n🇮🇹 Alessandra FANALI\n🇩🇪 Alexandra FORSTERLING\n🇸🇮 Ana
+  BELAC\n🇳🇱 Anne van DAM\n🇿🇦 Ashleigh BUHAI\n🇲🇾 Ashley LAU\n🇹🇭
+  Atthaya THITIKUL\n🇪🇸 Azahara MUNOZ\n🇵🇭 Bianca PAGDANGANAN\n🇨🇦
+  Brooke M. HENDERSON\n🇹🇼 CHIEN Pei-Yun\n🇪🇸 Carlota CIGANDA\n🇳🇴
+  Celine BORGE\n🇫🇷 Celine BOUTIER\n🇬🇧 Charley HULL\n🇮🇳 Diksha
+  DAGAR\n🇵🇭 Dottie ARDINA\n🇩🇰 Emily K PEDERSEN\n🇦🇹 Emma SPITZ\n🇩🇪
+  Esther HENSELEIT\n🇲🇽 Gaby LOPEZ\n🇬🇧 Georgia HALL\n🇹🇼 HSU
+  Wei-Ling\n🇦🇺 Hannah GREEN\n🇲🇦 Ines LAKLALECH\n🇰🇷 KIM Hyo Joo\n🇰🇷
+  KO Jin Young\n🇨🇿 Klara DAVIDSON SPILKOVA\n🇨🇳 LIN Xiyu Janet\n🇮🇪
+  Leona MAGUIRE\n🇺🇸 Lilia VU\n🇸🇪 Linn GRANT\n🇳🇿 Lydia KO\n🇳🇴
+  Madelene STAVNAR\n🇸🇪 Maja STARK\n🇧🇪 Manon DE ROEY\n🇲🇽 Maria
+  FASSI\n🇨🇴 Mariajo URIBE\n🇦🇺 Minjee LEE\n🇨🇭 Morgane METRAUX\n🇩🇰
+  Nanna KOERSTZ MADSEN\n🇺🇸 Nelly KORDA\n🇫🇮 Noora KOMULAINEN\n🇹🇭 Patty
+  TAVATANAKIT\n🇿🇦 Paula RETO\n🇫🇷 Perrine DELACOUR\n🇸🇮 Pia
+  BABNIK\n🇺🇸 Rose ZHANG\n🇯🇵 SASO Yuka\n🇨🇿 Sara KOUSKOVA\n🇦🇹 Sarah
+  SCHOBER\n🇸🇬 Shannon TAN\n🇮🇪 Stephanie MEADOW\n🇫🇮 Ursula
+  WIKSTROM\n🇯🇵 YAMASHITA Miyu\n🇰🇷 YANG Amy\n🇨🇳 YIN Ruoning
+SUMMARY:⛳ 女子第3回合
+LOCATION:国家高尔夫球场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T080000Z-rhythmic-gymnastics--
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:艺术体操 - 团体全能预赛 - 第一部分\n🇨🇳 中国\n🇺🇦 乌克兰\n🇺🇿 乌兹别克斯坦\n🇮🇱
+  以色列\n🇧🇬 保加利亚\n🇪🇬 埃及\n🇲🇽 墨西哥\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇫🇷
+  法国\n🇦🇺 澳大利亚\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆
+SUMMARY:🤸 团体全能预赛 - 第一部分
+LOCATION:拉夏贝尔门体育馆
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T080000Z-diving-10
 DTSTAMP:20240809T080000Z
 DTSTART:20240809T080000Z
@@ -8432,6 +8469,17 @@ SUMMARY:🤼 Jayden Alexander LAWRENCE 🇦🇺 - 🇬🇷 Dauren KURUGLIEV
 LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T091600Z-rhythmic-gymnastics--
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:艺术体操 - 团体全能预赛 - 第二部分\n🇨🇳 中国\n🇺🇦 乌克兰\n🇺🇿 乌兹别克斯坦\n🇮🇱
+  以色列\n🇧🇬 保加利亚\n🇪🇬 埃及\n🇲🇽 墨西哥\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇫🇷
+  法国\n🇦🇺 澳大利亚\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆
+SUMMARY:🤸 团体全能预赛 - 第二部分
+LOCATION:拉夏贝尔门体育馆
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T092000Z-canoe-sprint-5002
 DTSTAMP:20240809T092000Z
 DTSTART:20240809T092000Z
@@ -8442,6 +8490,18 @@ DESCRIPTION:皮划艇静水 - 男子500米双人皮艇半决赛2\n🇪🇸 AREVA
   van der WE/GREEN
 SUMMARY:🛶 男子500米双人皮艇半决赛2
 LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T092300Z-athletics--A
+DTSTAMP:20240809T092300Z
+DTSTART:20240809T092300Z
+DTEND:20240809T100500Z
+DESCRIPTION:田径 - 女子七项全能标枪 - A组\n🇵🇱 Adrianna SULEK-SCHUBERT\n🇺🇸 Anna
+  HALL\n🇦🇺 Camryn NEWTON-SMITH\n🇬🇧 Jade O'DOWDA\n🇬🇧 Katarina
+  JOHNSON-THOMPSON\n🇧🇪 Noor VIDTS\n🇭🇺 Rita NEMES\n🇫🇮 Saga
+  VANNINEN\n🇮🇹 Sveva GEREVINI\n🇺🇸 Taliyah BROOKS\n🇭🇺 Xenia KRIZSAN
+SUMMARY:🏃 女子七项全能标枪 - A组
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T093000Z-athletics-800
@@ -8467,6 +8527,18 @@ DTEND:20240809T100000Z
 DESCRIPTION:跆拳道 - 男子80公斤级16强赛
 SUMMARY:🥋 Leon SEJRANOVIC 🇦🇺 - 🇹🇳 Firas KATOUSSI
 LOCATION:巴黎大皇宫
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T103200Z-athletics--B
+DTSTAMP:20240809T103200Z
+DTSTART:20240809T103200Z
+DTEND:20240809T111400Z
+DESCRIPTION:田径 - 女子七项全能标枪 - B组\n🇨🇭 Annik KAELIN\n🇳🇱 Anouk VETTER\n🇫🇷
+  Auriana LAZRAQ-KHLASS\n🇩🇪 Carolin SCHAEFER\n🇺🇸 Chari HAWKINS\n🇳🇱
+  Emma OOSTERWEGEL\n🇮🇪 Kate O'CONNOR\n🇨🇴 Martha ARAUJO\n🇧🇪 Nafissatou
+  THIAM\n🇳🇱 Sofie DOKTER\n🇦🇺 Tori WEST
+SUMMARY:🏃 女子七项全能标枪 - B组
+LOCATION:法兰西体育场
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T120000Z-cycling-track-

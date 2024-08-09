@@ -2398,6 +2398,17 @@ SUMMARY:🤼 Arkadiusz Marcin KULYNYCZ 🇵🇱 - 🇺🇦 Zhan BELENIUK
 LOCATION:샹드마르 아레나
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T080000Z-rhythmic-gymnastics--1
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:리듬체조 - 단체 종합 예선 - 1부\n🇩🇪 독일\n🇲🇽 멕시코\n🇧🇬 불가리아\n🇧🇷
+  브라질\n🇪🇸 스페인\n🇦🇿 아제르바이잔\n🇦🇺 오스트레일리아\n🇺🇿 우즈베키스탄\n🇺🇦 우크라이나\n🇮🇱
+  이스라엘\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇨🇳 중국\n🇫🇷 프랑스
+SUMMARY:🤸 단체 종합 예선 - 1부
+LOCATION:라 샤펠 아레나
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T080000Z-diving--10M-
 DTSTAMP:20240809T080000Z
 DTSTART:20240809T080000Z
@@ -2424,6 +2435,17 @@ DESCRIPTION:카누 스프린트 - 여자 카누 2인승 500m 준결승 2\n🇲�
   RENARD/DORANGE
 SUMMARY:🛶 여자 카누 2인승 500m 준결승 2
 LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091600Z-rhythmic-gymnastics--2
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:리듬체조 - 단체 종합 예선 - 2부\n🇩🇪 독일\n🇲🇽 멕시코\n🇧🇬 불가리아\n🇧🇷
+  브라질\n🇪🇸 스페인\n🇦🇿 아제르바이잔\n🇦🇺 오스트레일리아\n🇺🇿 우즈베키스탄\n🇺🇦 우크라이나\n🇮🇱
+  이스라엘\n🇪🇬 이집트\n🇮🇹 이탈리아\n🇨🇳 중국\n🇫🇷 프랑스
+SUMMARY:🤸 단체 종합 예선 - 2부
+LOCATION:라 샤펠 아레나
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T093500Z-wrestling--62KG-16-MGL-UKR
@@ -2524,6 +2546,30 @@ DESCRIPTION:카누 스프린트 - 여자 카약 1인승 500m 준결승 4\n🇨�
   Mariya POVKH\n🇨🇦 Michelle RUSSELL\n🇳🇱 Selma KONIJN\n🇭🇺 Tamara
   CSIPES
 SUMMARY:🛶 여자 카약 1인승 500m 준결승 4
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T094000Z-canoe-sprint--1-200M-1
+DTSTAMP:20240810T094000Z
+DTSTART:20240810T094000Z
+DTEND:20240810T094700Z
+DESCRIPTION:카누 스프린트 - 여자 카누 1인승 200m 준결승 1\n🇭🇺 Agnes Anna KISS\n🇵🇱
+  Dorota BOROWSKA\n🇨🇳 LIN Wenjun\n🇺🇦 Liudmyla LUZAN\n🇪🇸 Maria
+  CORBERA\n🇨🇦 Sophia JENSEN\n🇨🇺 Yarisleidis CIRILO DUBOYS\n🇦🇸 Yuliya
+  TRUSHKINA
+SUMMARY:🛶 여자 카누 1인승 200m 준결승 1
+LOCATION:카누 경기장 - 플랫워터
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T095000Z-canoe-sprint--1-200M-2
+DTSTAMP:20240810T095000Z
+DTSTART:20240810T095000Z
+DTEND:20240810T095700Z
+DESCRIPTION:카누 스프린트 - 여자 카누 1인승 200m 준결승 2\n🇺🇦 Anastasiia RYBACHOK\n🇪🇸
+  Antia JACOME\n🇨🇱 Karen ROCO\n🇨🇦 Katie VINCENT\n🇭🇺 Kincso
+  TAKACS\n🇨🇱 Maria Jose MAILLIARD\n🇺🇸 Nevin HARRISON\n🇧🇷 Valdenice
+  CONCEICAO DO NASCIMENTO
+SUMMARY:🛶 여자 카누 1인승 200m 준결승 2
 LOCATION:카누 경기장 - 플랫워터
 END:VEVENT
 BEGIN:VEVENT

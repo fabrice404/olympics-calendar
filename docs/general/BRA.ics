@@ -6309,6 +6309,17 @@ SUMMARY:🥋 Saleh ELSHARABATY 🇯🇴 - 🇧🇷 Henrique Marqu. RODRIGUES FER
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T080000Z-rhythmic-gymnastics-GROUP-ALL-AROUND-QUALIFICATION-PAR
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:Rhythmic Gymnastics - Group All-Around Qualification - Part 1
+  of 2\n🇦🇺 AUS\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷
+  FRA\n🇩🇪 GER\n🇮🇱 ISR\n🇮🇹 ITA\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇦 UKR\n🇺🇿 UZB
+SUMMARY:🤸 Group All-Around Qualification - Part 1 of 2
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T090500Z-athletics-MENS-4-X-400M-RELAY-ROUND-1
 DTSTAMP:20240809T090500Z
 DTSTART:20240809T090500Z
@@ -6327,6 +6338,17 @@ DTEND:20240809T091400Z
 DESCRIPTION:Wrestling - Women's Freestyle 57kg Repechage
 SUMMARY:🤼 Sandra PARUSZEWSKI 🇩🇪 - 🇧🇷 Giullia PENALBER
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091600Z-rhythmic-gymnastics-GROUP-ALL-AROUND-QUALIFICATION-PAR
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:Rhythmic Gymnastics - Group All-Around Qualification - Part 2
+  of 2\n🇦🇺 AUS\n🇦🇿 AZE\n🇧🇷 BRA\n🇧🇬 BUL\n🇨🇳 CHN\n🇪🇬 EGY\n🇫🇷
+  FRA\n🇩🇪 GER\n🇮🇱 ISR\n🇮🇹 ITA\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇦 UKR\n🇺🇿 UZB
+SUMMARY:🤸 Group All-Around Qualification - Part 2 of 2
+LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T093000Z-canoe-sprint-MENS-CANOE-SINGLE-1000M-SEMIFINAL-1
@@ -6422,6 +6444,18 @@ DESCRIPTION:Canoe Sprint - Women's Kayak Single 500m Semifinal 3\n🇭🇺
   Dominika PUTTO\n🇧🇪 Hermien PETERS\n🇵🇹 Teresa PORTELA\n🇨🇳 YIN
   Mengdie\n🇧🇬 Yoana GEORGIEVA
 SUMMARY:🛶 Women's Kayak Single 500m Semifinal 3
+LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T095000Z-canoe-sprint-WOMENS-CANOE-SINGLE-200M-SEMIFINAL-2
+DTSTAMP:20240810T095000Z
+DTSTART:20240810T095000Z
+DTEND:20240810T095700Z
+DESCRIPTION:Canoe Sprint - Women's Canoe Single 200m Semifinal 2\n🇺🇦
+  Anastasiia RYBACHOK\n🇪🇸 Antia JACOME\n🇨🇱 Karen ROCO\n🇨🇦 Katie
+  VINCENT\n🇭🇺 Kincso TAKACS\n🇨🇱 Maria Jose MAILLIARD\n🇺🇸 Nevin
+  HARRISON\n🇧🇷 Valdenice CONCEICAO DO NASCIMENTO
+SUMMARY:🛶 Women's Canoe Single 200m Semifinal 2
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT

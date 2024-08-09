@@ -1313,6 +1313,19 @@ SUMMARY:🥊 Billal BENNAMA 🇫🇷 - 🇺🇿 Hasanboy DUSMATOV
 LOCATION:Стадион «Ролан Гаррос»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T080000Z-rhythmic-gymnastics--1-2
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:Художественная гимнастика - Групповое многоборье, квалификация,
+  часть 1 из 2\n🇦🇺 Австралия\n🇦🇿 Азербайджан\n🇧🇬 Болгария\n🇧🇷
+  Бразилия\n🇩🇪 Германия\n🇪🇬 Египет\n🇮🇱 Израиль\n🇪🇸 Испания\n🇮🇹
+  Италия\n🇨🇳 Китай\n🇲🇽 Мексика\n🇺🇿 Узбекистан\n🇺🇦 Украина\n🇫🇷
+  Франция
+SUMMARY:🤸 Групповое многоборье, квалификация, часть 1 из 2
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T080000Z-diving--10-
 DTSTAMP:20240809T080000Z
 DTSTART:20240809T080000Z
@@ -1356,6 +1369,19 @@ DTEND:20240809T092100Z
 DESCRIPTION:Борьба - Вольная борьба, 74кг, квалификация (м)
 SUMMARY:🤼 Razambek Salambekovitch JAMALOV 🇺🇿 - 🇦🇸 Mahamedkhabib KADZIM
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091600Z-rhythmic-gymnastics--2-2
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:Художественная гимнастика - Групповое многоборье, квалификация,
+  часть 2 из 2\n🇦🇺 Австралия\n🇦🇿 Азербайджан\n🇧🇬 Болгария\n🇧🇷
+  Бразилия\n🇩🇪 Германия\n🇪🇬 Египет\n🇮🇱 Израиль\n🇪🇸 Испания\n🇮🇹
+  Италия\n🇨🇳 Китай\n🇲🇽 Мексика\n🇺🇿 Узбекистан\n🇺🇦 Украина\n🇫🇷
+  Франция
+SUMMARY:🤸 Групповое многоборье, квалификация, часть 2 из 2
+LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T100000Z-taekwondo-18-67--SRB-UZB

@@ -6222,6 +6222,19 @@ SUMMARY:🛶 Байдарки-двойки 500м, полуфинал 1 (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T092300Z-athletics--
+DTSTAMP:20240809T092300Z
+DTSTART:20240809T092300Z
+DTEND:20240809T100500Z
+DESCRIPTION:Легкая атлетика - Семиборье, копье, группа А (ж)\n🇵🇱 Adrianna
+  SULEK-SCHUBERT\n🇺🇸 Anna HALL\n🇦🇺 Camryn NEWTON-SMITH\n🇬🇧 Jade
+  O'DOWDA\n🇬🇧 Katarina JOHNSON-THOMPSON\n🇧🇪 Noor VIDTS\n🇭🇺 Rita
+  NEMES\n🇫🇮 Saga VANNINEN\n🇮🇹 Sveva GEREVINI\n🇺🇸 Taliyah BROOKS\n🇭🇺
+  Xenia KRIZSAN
+SUMMARY:🏃 Семиборье, копье, группа А (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T093000Z-canoe-sprint--1000-1-
 DTSTAMP:20240809T093000Z
 DTSTART:20240809T093000Z
@@ -6338,6 +6351,18 @@ DESCRIPTION:Гребной спринт - Байдарки-одиночки 500�
   Dominika PUTTO\n🇧🇪 Hermien PETERS\n🇵🇹 Teresa PORTELA\n🇨🇳 YIN
   Mengdie\n🇧🇬 Yoana GEORGIEVA
 SUMMARY:🛶 Байдарки-одиночки 500м, полуфинал 3 (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T094000Z-canoe-sprint--200-1-
+DTSTAMP:20240810T094000Z
+DTSTART:20240810T094000Z
+DTEND:20240810T094700Z
+DESCRIPTION:Гребной спринт - Каноэ-одиночки 200м, полуфинал 1 (ж)\n🇭🇺
+  Agnes Anna KISS\n🇵🇱 Dorota BOROWSKA\n🇨🇳 LIN Wenjun\n🇺🇦 Liudmyla
+  LUZAN\n🇪🇸 Maria CORBERA\n🇨🇦 Sophia JENSEN\n🇨🇺 Yarisleidis CIRILO
+  DUBOYS\n🇦🇸 Yuliya TRUSHKINA
+SUMMARY:🛶 Каноэ-одиночки 200м, полуфинал 1 (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT

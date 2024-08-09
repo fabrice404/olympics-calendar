@@ -6227,6 +6227,17 @@ SUMMARY:🥋 Saleh ELSHARABATY 🇯🇴 - 🇧🇷 Henrique Marqu. RODRIGUES FER
 LOCATION:巴黎大皇宫
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T080000Z-rhythmic-gymnastics--
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:艺术体操 - 团体全能预赛 - 第一部分\n🇨🇳 中国\n🇺🇦 乌克兰\n🇺🇿 乌兹别克斯坦\n🇮🇱
+  以色列\n🇧🇬 保加利亚\n🇪🇬 埃及\n🇲🇽 墨西哥\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇫🇷
+  法国\n🇦🇺 澳大利亚\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆
+SUMMARY:🤸 团体全能预赛 - 第一部分
+LOCATION:拉夏贝尔门体育馆
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T090500Z-athletics-4X4001
 DTSTAMP:20240809T090500Z
 DTSTART:20240809T090500Z
@@ -6245,6 +6256,17 @@ DTEND:20240809T091400Z
 DESCRIPTION:摔跤 - 女子自由式57公斤复活赛
 SUMMARY:🤼 Sandra PARUSZEWSKI 🇩🇪 - 🇧🇷 Giullia PENALBER
 LOCATION:战神广场
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091600Z-rhythmic-gymnastics--
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:艺术体操 - 团体全能预赛 - 第二部分\n🇨🇳 中国\n🇺🇦 乌克兰\n🇺🇿 乌兹别克斯坦\n🇮🇱
+  以色列\n🇧🇬 保加利亚\n🇪🇬 埃及\n🇲🇽 墨西哥\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇫🇷
+  法国\n🇦🇺 澳大利亚\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆
+SUMMARY:🤸 团体全能预赛 - 第二部分
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T093000Z-canoe-sprint-10001
@@ -6337,6 +6359,18 @@ DESCRIPTION:皮划艇静水 - 女子500米单人皮艇半决赛3\n🇭🇺 Alida
   VERGUTZ\n🇦🇷 Brenda ROJAS\n🇵🇱 Dominika PUTTO\n🇧🇪 Hermien
   PETERS\n🇵🇹 Teresa PORTELA\n🇨🇳 YIN Mengdie\n🇧🇬 Yoana GEORGIEVA
 SUMMARY:🛶 女子500米单人皮艇半决赛3
+LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T095000Z-canoe-sprint-2002
+DTSTAMP:20240810T095000Z
+DTSTART:20240810T095000Z
+DTEND:20240810T095700Z
+DESCRIPTION:皮划艇静水 - 女子200米单人划艇半决赛2\n🇺🇦 Anastasiia RYBACHOK\n🇪🇸 Antia
+  JACOME\n🇨🇱 Karen ROCO\n🇨🇦 Katie VINCENT\n🇭🇺 Kincso TAKACS\n🇨🇱
+  Maria Jose MAILLIARD\n🇺🇸 Nevin HARRISON\n🇧🇷 Valdenice CONCEICAO DO
+  NASCIMENTO
+SUMMARY:🛶 女子200米单人划艇半决赛2
 LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT

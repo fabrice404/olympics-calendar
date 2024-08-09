@@ -6234,6 +6234,17 @@ SUMMARY:🥋 Saleh ELSHARABATY 🇯🇴 - 🇧🇷 Henrique Marqu. RODRIGUES FER
 LOCATION:グラン・パレ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T080000Z-rhythmic-gymnastics-
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:新体操 - 団体総合予選前半\n🇦🇿 アゼルバイジャン\n🇮🇱 イスラエル\n🇮🇹 イタリア\n🇺🇦
+  ウクライナ\n🇺🇿 ウズベキスタン\n🇪🇬 エジプト\n🇦🇺 オーストラリア\n🇪🇸 スペイン\n🇩🇪 ドイツ\n🇫🇷
+  フランス\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇲🇽 メキシコ\n🇨🇳 中国
+SUMMARY:🤸 団体総合予選前半
+LOCATION:ラ・シャペル・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T090500Z-athletics-4400M
 DTSTAMP:20240809T090500Z
 DTSTART:20240809T090500Z
@@ -6252,6 +6263,17 @@ DTEND:20240809T091400Z
 DESCRIPTION:レスリング - 女子フリースタイル57kg級敗者復活戦
 SUMMARY:🤼 Sandra PARUSZEWSKI 🇩🇪 - 🇧🇷 Giullia PENALBER
 LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091600Z-rhythmic-gymnastics-
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:新体操 - 団体総合予選後半\n🇦🇿 アゼルバイジャン\n🇮🇱 イスラエル\n🇮🇹 イタリア\n🇺🇦
+  ウクライナ\n🇺🇿 ウズベキスタン\n🇪🇬 エジプト\n🇦🇺 オーストラリア\n🇪🇸 スペイン\n🇩🇪 ドイツ\n🇫🇷
+  フランス\n🇧🇷 ブラジル\n🇧🇬 ブルガリア\n🇲🇽 メキシコ\n🇨🇳 中国
+SUMMARY:🤸 団体総合予選後半
+LOCATION:ラ・シャペル・アリーナ
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T093000Z-canoe-sprint-C-11000M-1
@@ -6345,6 +6367,18 @@ DESCRIPTION:カヌー・スプリント - 女子カヤックシングル（K-1�
   PUTTO\n🇧🇪 Hermien PETERS\n🇵🇹 Teresa PORTELA\n🇨🇳 YIN Mengdie\n🇧🇬
   Yoana GEORGIEVA
 SUMMARY:🛶 女子カヤックシングル（K-1）500m準決勝 - 3組
+LOCATION:ノーティカル ST - フラットウォーター
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T095000Z-canoe-sprint-C-1200M-2
+DTSTAMP:20240810T095000Z
+DTSTART:20240810T095000Z
+DTEND:20240810T095700Z
+DESCRIPTION:カヌー・スプリント - 女子カナディアンシングル（C-1）200m準決勝 - 2組\n🇺🇦 Anastasiia
+  RYBACHOK\n🇪🇸 Antia JACOME\n🇨🇱 Karen ROCO\n🇨🇦 Katie VINCENT\n🇭🇺
+  Kincso TAKACS\n🇨🇱 Maria Jose MAILLIARD\n🇺🇸 Nevin HARRISON\n🇧🇷
+  Valdenice CONCEICAO DO NASCIMENTO
+SUMMARY:🛶 女子カナディアンシングル（C-1）200m準決勝 - 2組
 LOCATION:ノーティカル ST - フラットウォーター
 END:VEVENT
 BEGIN:VEVENT

@@ -6331,6 +6331,19 @@ SUMMARY:🥋 Saleh ELSHARABATY 🇯🇴 - 🇧🇷 Henrique Marqu. RODRIGUES FER
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T080000Z-rhythmic-gymnastics--1-2
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:Художественная гимнастика - Групповое многоборье, квалификация,
+  часть 1 из 2\n🇦🇺 Австралия\n🇦🇿 Азербайджан\n🇧🇬 Болгария\n🇧🇷
+  Бразилия\n🇩🇪 Германия\n🇪🇬 Египет\n🇮🇱 Израиль\n🇪🇸 Испания\n🇮🇹
+  Италия\n🇨🇳 Китай\n🇲🇽 Мексика\n🇺🇿 Узбекистан\n🇺🇦 Украина\n🇫🇷
+  Франция
+SUMMARY:🤸 Групповое многоборье, квалификация, часть 1 из 2
+LOCATION:Арена «Ла-Шапель»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T090500Z-athletics--4400-1-
 DTSTAMP:20240809T090500Z
 DTSTART:20240809T090500Z
@@ -6351,6 +6364,19 @@ DTEND:20240809T091400Z
 DESCRIPTION:Борьба - Вольная борьба, 57кг, утешительный раунд
 SUMMARY:🤼 Sandra PARUSZEWSKI 🇩🇪 - 🇧🇷 Giullia PENALBER
 LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091600Z-rhythmic-gymnastics--2-2
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:Художественная гимнастика - Групповое многоборье, квалификация,
+  часть 2 из 2\n🇦🇺 Австралия\n🇦🇿 Азербайджан\n🇧🇬 Болгария\n🇧🇷
+  Бразилия\n🇩🇪 Германия\n🇪🇬 Египет\n🇮🇱 Израиль\n🇪🇸 Испания\n🇮🇹
+  Италия\n🇨🇳 Китай\n🇲🇽 Мексика\n🇺🇿 Узбекистан\n🇺🇦 Украина\n🇫🇷
+  Франция
+SUMMARY:🤸 Групповое многоборье, квалификация, часть 2 из 2
+LOCATION:Арена «Ла-Шапель»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T093000Z-canoe-sprint--1000-1-
@@ -6446,6 +6472,18 @@ DESCRIPTION:Гребной спринт - Байдарки-одиночки 500�
   Dominika PUTTO\n🇧🇪 Hermien PETERS\n🇵🇹 Teresa PORTELA\n🇨🇳 YIN
   Mengdie\n🇧🇬 Yoana GEORGIEVA
 SUMMARY:🛶 Байдарки-одиночки 500м, полуфинал 3 (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T095000Z-canoe-sprint--200-2-
+DTSTAMP:20240810T095000Z
+DTSTART:20240810T095000Z
+DTEND:20240810T095700Z
+DESCRIPTION:Гребной спринт - Каноэ-одиночки 200м, полуфинал 2 (ж)\n🇺🇦
+  Anastasiia RYBACHOK\n🇪🇸 Antia JACOME\n🇨🇱 Karen ROCO\n🇨🇦 Katie
+  VINCENT\n🇭🇺 Kincso TAKACS\n🇨🇱 Maria Jose MAILLIARD\n🇺🇸 Nevin
+  HARRISON\n🇧🇷 Valdenice CONCEICAO DO NASCIMENTO
+SUMMARY:🛶 Каноэ-одиночки 200м, полуфинал 2 (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT

@@ -2390,6 +2390,17 @@ SUMMARY:🤼 Arkadiusz Marcin KULYNYCZ 🇵🇱 - 🇺🇦 Zhan BELENIUK
 LOCATION:战神广场
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T080000Z-rhythmic-gymnastics--
+DTSTAMP:20240809T080000Z
+DTSTART:20240809T080000Z
+DTEND:20240809T091600Z
+DESCRIPTION:艺术体操 - 团体全能预赛 - 第一部分\n🇨🇳 中国\n🇺🇦 乌克兰\n🇺🇿 乌兹别克斯坦\n🇮🇱
+  以色列\n🇧🇬 保加利亚\n🇪🇬 埃及\n🇲🇽 墨西哥\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇫🇷
+  法国\n🇦🇺 澳大利亚\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆
+SUMMARY:🤸 团体全能预赛 - 第一部分
+LOCATION:拉夏贝尔门体育馆
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T080000Z-diving-10
 DTSTAMP:20240809T080000Z
 DTSTART:20240809T080000Z
@@ -2416,6 +2427,17 @@ DESCRIPTION:皮划艇静水 - 女子500米双人划艇半决赛2\n🇲🇩 COCIU
   RENARD/DORANGE
 SUMMARY:🛶 女子500米双人划艇半决赛2
 LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T091600Z-rhythmic-gymnastics--
+DTSTAMP:20240809T091600Z
+DTSTART:20240809T091600Z
+DTEND:20240809T103200Z
+DESCRIPTION:艺术体操 - 团体全能预赛 - 第二部分\n🇨🇳 中国\n🇺🇦 乌克兰\n🇺🇿 乌兹别克斯坦\n🇮🇱
+  以色列\n🇧🇬 保加利亚\n🇪🇬 埃及\n🇲🇽 墨西哥\n🇧🇷 巴西\n🇩🇪 德国\n🇮🇹 意大利\n🇫🇷
+  法国\n🇦🇺 澳大利亚\n🇪🇸 西班牙\n🇦🇿 阿塞拜疆
+SUMMARY:🤸 团体全能预赛 - 第二部分
+LOCATION:拉夏贝尔门体育馆
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T093500Z-wrestling-6218-MGL-UKR
@@ -2514,6 +2536,29 @@ DESCRIPTION:皮划艇静水 - 女子500米单人皮艇半决赛4\n🇨🇿 Anezk
   LAZKANO\n🇲🇽 Karina ALANIS MORALES\n🇸🇪 Linnea STENSILS\n🇺🇦 Mariya
   POVKH\n🇨🇦 Michelle RUSSELL\n🇳🇱 Selma KONIJN\n🇭🇺 Tamara CSIPES
 SUMMARY:🛶 女子500米单人皮艇半决赛4
+LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T094000Z-canoe-sprint-2001
+DTSTAMP:20240810T094000Z
+DTSTART:20240810T094000Z
+DTEND:20240810T094700Z
+DESCRIPTION:皮划艇静水 - 女子200米单人划艇半决赛1\n🇭🇺 Agnes Anna KISS\n🇵🇱 Dorota
+  BOROWSKA\n🇨🇳 LIN Wenjun\n🇺🇦 Liudmyla LUZAN\n🇪🇸 Maria CORBERA\n🇨🇦
+  Sophia JENSEN\n🇨🇺 Yarisleidis CIRILO DUBOYS\n🇦🇸 Yuliya TRUSHKINA
+SUMMARY:🛶 女子200米单人划艇半决赛1
+LOCATION:马恩河畔韦尔水上体育场 - 静水
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T095000Z-canoe-sprint-2002
+DTSTAMP:20240810T095000Z
+DTSTART:20240810T095000Z
+DTEND:20240810T095700Z
+DESCRIPTION:皮划艇静水 - 女子200米单人划艇半决赛2\n🇺🇦 Anastasiia RYBACHOK\n🇪🇸 Antia
+  JACOME\n🇨🇱 Karen ROCO\n🇨🇦 Katie VINCENT\n🇭🇺 Kincso TAKACS\n🇨🇱
+  Maria Jose MAILLIARD\n🇺🇸 Nevin HARRISON\n🇧🇷 Valdenice CONCEICAO DO
+  NASCIMENTO
+SUMMARY:🛶 女子200米单人划艇半决赛2
 LOCATION:马恩河畔韦尔水上体育场 - 静水
 END:VEVENT
 BEGIN:VEVENT
