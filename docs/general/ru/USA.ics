@@ -11232,13 +11232,12 @@ SUMMARY:🏃 Толкание ядра, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T174500Z-wrestling--86-
+UID:20240809T174500Z-wrestling--86--UZB-USA
 DTSTAMP:20240809T174500Z
 DTSTART:20240809T174500Z
 DTEND:20240809T175500Z
-DESCRIPTION:Борьба - Вольная борьба, 86кг, поединок за бронзу (м)\n🇺🇸
-  Aaron Marquel BROOKS
-SUMMARY:🤼 Вольная борьба, 86кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 86кг, поединок за бронзу (м)
+SUMMARY:🤼 Javrail SHAPIEV 🇺🇿 - 🇺🇸 Aaron Marquel BROOKS
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -11278,13 +11277,12 @@ SUMMARY:🏃 Тройной прыжок, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T181500Z-wrestling--57-
+UID:20240809T181500Z-wrestling--57--CAN-USA
 DTSTAMP:20240809T181500Z
 DTSTART:20240809T181500Z
 DTEND:20240809T182500Z
-DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (ж)\n🇺🇸
-  Helen Louise MAROULIS
-SUMMARY:🤼 Вольная борьба, 57кг, поединок за бронзу (ж)
+DESCRIPTION:Борьба - Вольная борьба, 57кг, поединок за бронзу (ж)
+SUMMARY:🤼 Hannah Fay TAYLOR 🇨🇦 - 🇺🇸 Helen Louise MAROULIS
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -11512,6 +11510,17 @@ DESCRIPTION:Легкая атлетика - 1500м, финал (ж)\n🇫🇷 Ag
   Klaudia KAZIMIERSKA\n🇬🇧 Laura MUIR\n🇺🇸 Nikki HILTZ\n🇰🇪 Susan Lokayo
   EJORE
 SUMMARY:🏃 1500м, финал (ж)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T191400Z-athletics--4400-
+DTSTAMP:20240810T191400Z
+DTSTART:20240810T191400Z
+DTEND:20240810T191800Z
+DESCRIPTION:Легкая атлетика - Эстафета 4х400м, финал (ж)\n🇧🇪
+  Бельгия\n🇬🇧 Великобритания\n🇮🇪 Ирландия\n🇨🇦 Канада\n🇳🇱
+  Нидерланды\n🇺🇸 США\n🇫🇷 Франция\n🇯🇲 Ямайка
+SUMMARY:🏃 Эстафета 4х400м, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
