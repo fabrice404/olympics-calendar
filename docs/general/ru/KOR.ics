@@ -3542,13 +3542,28 @@ SUMMARY:🏋 89кг (м)
 LOCATION:Арена «Париж-Юг» 6
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T142400Z-taekwondo--80-
+UID:20240809T142400Z-taekwondo--80--KOR-IRI
 DTSTAMP:20240809T142400Z
 DTSTART:20240809T142400Z
 DTEND:20240809T143700Z
-DESCRIPTION:Тхэквондо - Полуфинал, до 80кг (м)\n🇰🇷 SEO Geonwoo
-SUMMARY:🥋 Полуфинал, до 80кг (м)
+DESCRIPTION:Тхэквондо - Полуфинал, до 80кг (м)
+SUMMARY:🥋 SEO Geonwoo 🇰🇷 - 🇮🇷 Mehran BARKHORDARI
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T150000Z-modern-pentathlon--B-
+DTSTAMP:20240809T150000Z
+DTSTART:20240809T150000Z
+DTEND:20240809T153500Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал B, верховая
+  езда (м)\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs SZEP\n🇬🇧 Charles
+  BROWN\n🇨🇱 Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹 Giorgio MALAN\n🇰🇷
+  JUN Woongtae\n🇬🇧 Joseph CHOONG\n🇵🇱 Kamil KASPERCZAK\n🇨🇳 LI
+  Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos ROJAS\n🇩🇪 Marvin
+  DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷
+  SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 Личный зачет, полуфинал B, верховая езда (м)
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240809T154000Z-modern-pentathlon--B-
