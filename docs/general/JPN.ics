@@ -7017,6 +7017,21 @@ SUMMARY:🤼 Kyle Douglas DAKE 🇺🇸 - 🇯🇵 TAKATANI Daichi
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T164000Z-modern-pentathlon-MENS-INDIVIDUAL-SEMI-FINAL-B-LASER-R
+DTSTAMP:20240809T164000Z
+DTSTART:20240809T164000Z
+DTEND:20240809T170000Z
+DESCRIPTION:Modern Pentathlon - Men's Individual, Semi-final B, Laser
+  Run\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs SZEP\n🇬🇧 Charles BROWN\n🇨🇱
+  Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹 Giorgio MALAN\n🇰🇷 JUN
+  Woongtae\n🇬🇧 Joseph CHOONG\n🇵🇱 Kamil KASPERCZAK\n🇨🇳 LI
+  Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos ROJAS\n🇩🇪 Marvin
+  DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷
+  SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 Men's Individual, Semi-final B, Laser Run
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T170500Z-wrestling-WOMENS-FREESTYLE-62KG-SEMIFINAL-NOR-JPN
 DTSTAMP:20240809T170500Z
 DTSTART:20240809T170500Z
@@ -7087,6 +7102,15 @@ DTSTART:20240809T180000Z
 DTEND:20240809T180745Z
 DESCRIPTION:Breaking - B-Girls Quarterfinal 1
 SUMMARY:🤸 SYSSY 🇫🇷 - 🇯🇵 AMI
+LOCATION:La Concorde 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T180700Z-breaking-B-GIRLS-QUARTERFINAL-2
+DTSTAMP:20240809T180700Z
+DTSTART:20240809T180700Z
+DTEND:20240809T181445Z
+DESCRIPTION:Breaking - B-Girls Quarterfinal 2\n🇯🇵 AYUMI
+SUMMARY:🤸 B-Girls Quarterfinal 2
 LOCATION:La Concorde 1
 END:VEVENT
 BEGIN:VEVENT
@@ -7342,6 +7366,15 @@ DESCRIPTION:Artistic Swimming - Duet Free Routine\n🇦🇺 AUS\n🇦🇹 AUT\n�
   UKR\n🇺🇸 USA
 SUMMARY:🏊 Duet Free Routine
 LOCATION:Aquatics Centre
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173500Z-wrestling-MENS-FREESTYLE-74KG-FINAL
+DTSTAMP:20240810T173500Z
+DTSTART:20240810T173500Z
+DTEND:20240810T174500Z
+DESCRIPTION:Wrestling - Men's Freestyle 74kg Final\n🇯🇵 TAKATANI Daichi
+SUMMARY:🤼 Men's Freestyle 74kg Final
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T183000Z-weightlifting-MENS-102KG

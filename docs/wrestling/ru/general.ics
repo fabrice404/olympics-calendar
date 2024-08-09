@@ -2461,15 +2461,6 @@ SUMMARY:🤼 Вольная борьба, 62кг, утешительный ра�
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T090000Z-wrestling--74-
-DTSTAMP:20240810T090000Z
-DTSTART:20240810T090000Z
-DTEND:20240810T090700Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, утешительный раунд (м)
-SUMMARY:🤼 Вольная борьба, 74кг, утешительный раунд (м)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T090700Z-wrestling--125-
 DTSTAMP:20240810T090700Z
 DTSTART:20240810T090700Z
@@ -2506,21 +2497,21 @@ SUMMARY:🤼 Aiperi MEDET KYZY 🇰🇬 - 🇨🇳 WANG Juan
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T091400Z-wrestling--74--CUB-SRB
+DTSTAMP:20240810T091400Z
+DTSTART:20240810T091400Z
+DTEND:20240810T092100Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, утешительный раунд (м)
+SUMMARY:🤼 Geandry GARZON CABALLERO 🇨🇺 - 🇷🇸 Hetik CABOLOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T091400Z-wrestling--97-18--AZE-DOM
 DTSTAMP:20240810T091400Z
 DTSTART:20240810T091400Z
 DTEND:20240810T092100Z
 DESCRIPTION:Борьба - Вольная борьба, 97кг, 1/8 финала (м)
 SUMMARY:🤼 Magomedkhan MAGOMEDOV 🇦🇿 - 🇩🇴 Luis Miguel PEREZ SOSA
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T091400Z-wrestling--74-
-DTSTAMP:20240810T091400Z
-DTSTART:20240810T091400Z
-DTEND:20240810T092100Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, утешительный раунд (м)
-SUMMARY:🤼 Вольная борьба, 74кг, утешительный раунд (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -2897,7 +2888,8 @@ UID:20240810T171500Z-wrestling--74-
 DTSTAMP:20240810T171500Z
 DTSTART:20240810T171500Z
 DTEND:20240810T172500Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, поединок за бронзу (м)\n🇺🇸
+  Kyle Douglas DAKE
 SUMMARY:🤼 Вольная борьба, 74кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -2915,7 +2907,7 @@ UID:20240810T173500Z-wrestling--74-
 DTSTAMP:20240810T173500Z
 DTSTART:20240810T173500Z
 DTEND:20240810T174500Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, финал (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, финал (м)\n🇯🇵 TAKATANI Daichi
 SUMMARY:🤼 Вольная борьба, 74кг, финал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT

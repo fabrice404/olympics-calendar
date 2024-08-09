@@ -7036,6 +7036,21 @@ SUMMARY:🤼 Kyle Douglas DAKE 🇺🇸 - 🇯🇵 TAKATANI Daichi
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T164000Z-modern-pentathlon--B-
+DTSTAMP:20240809T164000Z
+DTSTART:20240809T164000Z
+DTEND:20240809T170000Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал B, лазер-ран
+  (м)\n🇬🇹 Andres FERNANDEZ\n🇭🇺 Balazs SZEP\n🇬🇧 Charles BROWN\n🇨🇱
+  Esteban BUSTOS\n🇦🇷 Franco SERRANO\n🇮🇹 Giorgio MALAN\n🇰🇷 JUN
+  Woongtae\n🇬🇧 Joseph CHOONG\n🇵🇱 Kamil KASPERCZAK\n🇨🇳 LI
+  Shuhuan\n🇵🇱 Lukasz GUTKOWSKI\n🇨🇺 Marcos ROJAS\n🇩🇪 Marvin
+  DOGUE\n🇪🇬 Mohanad SHABAN\n🇺🇦 Oleksandr TOVKAI\n🇯🇵 SATO Taishu\n🇰🇷
+  SEO Changwan\n🇺🇦 Vladyslav CHEKAN
+SUMMARY:🤺 Личный зачет, полуфинал B, лазер-ран (м)
+LOCATION:Версаль
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T170500Z-wrestling--62--NOR-JPN
 DTSTAMP:20240809T170500Z
 DTSTART:20240809T170500Z
@@ -7108,6 +7123,15 @@ DTSTART:20240809T180000Z
 DTEND:20240809T180745Z
 DESCRIPTION:Брейкинг - Четвертьфинал 1 (ж)
 SUMMARY:🤸 SYSSY 🇫🇷 - 🇯🇵 AMI
+LOCATION:Площадь Согласия 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240809T180700Z-breaking--2-
+DTSTAMP:20240809T180700Z
+DTSTART:20240809T180700Z
+DTEND:20240809T181445Z
+DESCRIPTION:Брейкинг - Четвертьфинал 2 (ж)\n🇯🇵 AYUMI
+SUMMARY:🤸 Четвертьфинал 2 (ж)
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
@@ -7363,6 +7387,15 @@ DESCRIPTION:Синхронное плавание - Дуэты, произвол
   Украина\n🇫🇷 Франция\n🇰🇷 Южная Корея\n🇯🇵 Япония
 SUMMARY:🏊 Дуэты, произвольная программа
 LOCATION:Центр водных видов спорта
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173500Z-wrestling--74-
+DTSTAMP:20240810T173500Z
+DTSTART:20240810T173500Z
+DTEND:20240810T174500Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, финал (м)\n🇯🇵 TAKATANI Daichi
+SUMMARY:🤼 Вольная борьба, 74кг, финал (м)
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T183000Z-weightlifting--102-

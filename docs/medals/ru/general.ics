@@ -4766,17 +4766,6 @@ SUMMARY:🏃 Прыжки в высоту, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T170500Z-athletics-800-
-DTSTAMP:20240810T170500Z
-DTSTART:20240810T170500Z
-DTEND:20240810T170700Z
-DESCRIPTION:Легкая атлетика - 800м, финал (м)\n🇺🇸 Bryce HOPPEL\n🇩🇿
-  Djamel SEDJATI\n🇰🇪 Emmanuel WANYONYI\n🇫🇷 Gabriel TUAL\n🇨🇦 Marco
-  AROP\n🇬🇧 Max BURGIN\n🇪🇸 Mohamed ATTAOUI\n🇧🇼 Tshepiso MASALELA
-SUMMARY:🏃 800м, финал (м)
-LOCATION:«Стад-де-Франс»
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T171000Z-modern-pentathlon--
 DTSTAMP:20240810T171000Z
 DTSTART:20240810T171000Z
@@ -4786,11 +4775,23 @@ SUMMARY:🤺 Личный зачет, финал, лазер-ран (м)
 LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T171500Z-athletics-800-
+DTSTAMP:20240810T171500Z
+DTSTART:20240810T171500Z
+DTEND:20240810T171700Z
+DESCRIPTION:Легкая атлетика - 800м, финал (м)\n🇺🇸 Bryce HOPPEL\n🇩🇿
+  Djamel SEDJATI\n🇰🇪 Emmanuel WANYONYI\n🇫🇷 Gabriel TUAL\n🇨🇦 Marco
+  AROP\n🇬🇧 Max BURGIN\n🇪🇸 Mohamed ATTAOUI\n🇧🇼 Tshepiso MASALELA
+SUMMARY:🏃 800м, финал (м)
+LOCATION:«Стад-де-Франс»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T171500Z-wrestling--74-
 DTSTAMP:20240810T171500Z
 DTSTART:20240810T171500Z
 DTEND:20240810T172500Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, поединок за бронзу (м)\n🇺🇸
+  Kyle Douglas DAKE
 SUMMARY:🤼 Вольная борьба, 74кг, поединок за бронзу (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -4846,7 +4847,7 @@ UID:20240810T173500Z-wrestling--74-
 DTSTAMP:20240810T173500Z
 DTSTART:20240810T173500Z
 DTEND:20240810T174500Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, финал (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, финал (м)\n🇯🇵 TAKATANI Daichi
 SUMMARY:🤼 Вольная борьба, 74кг, финал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
