@@ -9262,6 +9262,18 @@ SUMMARY:🛶 Каноэ-двойки 500м, финал А (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T110000Z-canoe-sprint--500-
+DTSTAMP:20240809T110000Z
+DTSTART:20240809T110000Z
+DTEND:20240809T110700Z
+DESCRIPTION:Гребной спринт - Байдарки-двойки 500м, финал В (ж)\n🇲🇽 ALANIS
+  MOR/BRIONES FR\n🇪🇸 GARCIA OTE/OUZANDE\n🇫🇷 HOSTENS/PAOLETTI\n🇵🇱
+  KLATT/WISNIEWSKA\n🇵🇱 NAJA/PULAWSKA\n🇸🇪 STENSILS/WIKBERG\n🇨🇦
+  STOTT/DAVISON\n🇨🇳 YU/CHEN
+SUMMARY:🛶 Байдарки-двойки 500м, финал В (ж)
+LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T110000Z-modern-pentathlon--A-
 DTSTAMP:20240809T110000Z
 DTSTART:20240809T110000Z
@@ -9529,6 +9541,21 @@ DESCRIPTION:Легкая атлетика - Марафон, финал (м)\n�
   CRIPPA\n🇳🇴 Zerei Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
 SUMMARY:🏃 Марафон, финал (м)
 LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T080000Z-diving--10-
+DTSTAMP:20240810T080000Z
+DTSTART:20240810T080000Z
+DTEND:20240810T095400Z
+DESCRIPTION:Прыжки в воду - Вышка 10м, полуфинал (м)\n🇮🇹 Andreas Sargent
+  LARSEN\n🇺🇸 Brandon LOSCHIAVO\n🇨🇳 CAO Yuan\n🇦🇺 Cassiel
+  ROUSSEAU\n🇦🇺 Jaxon BOWSHIRE\n🇲🇽 Kevin BERLIN REYES\n🇬🇧 Kyle
+  KOTHARI\n🇨🇦 Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇺🇦 Oleksii
+  SEREDA\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo GIOVANNINI\n🇵🇱 Robert
+  LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪
+  Timo BARTHEL\n🇨🇳 YANG Hao
+SUMMARY:🏊 Вышка 10м, полуфинал (м)
+LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T081000Z-taekwondo-18-80--USA-CHN

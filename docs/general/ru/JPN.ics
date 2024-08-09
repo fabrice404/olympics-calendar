@@ -6981,6 +6981,15 @@ SUMMARY:🚴 Мэдисон, финал (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T161500Z-wrestling--74--USA-JPN
+DTSTAMP:20240809T161500Z
+DTSTART:20240809T161500Z
+DTEND:20240809T162500Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, полуфинал (м)
+SUMMARY:🤼 Kyle Douglas DAKE 🇺🇸 - 🇯🇵 TAKATANI Daichi
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T173000Z-artistic-swimming--
 DTSTAMP:20240809T173000Z
 DTSTART:20240809T173000Z
@@ -7082,6 +7091,21 @@ DESCRIPTION:Легкая атлетика - Марафон, финал (м)\n�
   CRIPPA\n🇳🇴 Zerei Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
 SUMMARY:🏃 Марафон, финал (м)
 LOCATION:Дом инвалидов
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T080000Z-diving--10-
+DTSTAMP:20240810T080000Z
+DTSTART:20240810T080000Z
+DTEND:20240810T095400Z
+DESCRIPTION:Прыжки в воду - Вышка 10м, полуфинал (м)\n🇮🇹 Andreas Sargent
+  LARSEN\n🇺🇸 Brandon LOSCHIAVO\n🇨🇳 CAO Yuan\n🇦🇺 Cassiel
+  ROUSSEAU\n🇦🇺 Jaxon BOWSHIRE\n🇲🇽 Kevin BERLIN REYES\n🇬🇧 Kyle
+  KOTHARI\n🇨🇦 Nathan ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇺🇦 Oleksii
+  SEREDA\n🇲🇽 Randal WILLARS VALDEZ\n🇮🇹 Riccardo GIOVANNINI\n🇵🇱 Robert
+  LUKASZEWICZ\n🇨🇦 Rylan WIENS\n🇰🇷 SHIN Jungwhi\n🇯🇵 TAMAI Rikuto\n🇩🇪
+  Timo BARTHEL\n🇨🇳 YANG Hao
+SUMMARY:🏊 Вышка 10м, полуфинал (м)
+LOCATION:Центр водных видов спорта
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T081500Z-sport-climbing--
