@@ -66,4 +66,13 @@ DESCRIPTION:Водное поло - Полуфинал (м)
 SUMMARY:🤽 Венгрия 🇭🇺 - 🇭🇷 Хорватия
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240811T120000Z-water-polo---SRB-CRO
+DTSTAMP:20240811T120000Z
+DTSTART:20240811T120000Z
+DTEND:20240811T132500Z
+DESCRIPTION:Водное поло - Финал (м)
+SUMMARY:🤽 Сербия 🇷🇸 - 🇭🇷 Хорватия
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
 END:VCALENDAR
