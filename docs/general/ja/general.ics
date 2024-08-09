@@ -36070,6 +36070,15 @@ SUMMARY:⛵ 男子カイト決勝戦 - レース3
 LOCATION:マルセイユ・マリーナ
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T102400Z-wrestling-62KG2-NOR-GER
+DTSTAMP:20240809T102400Z
+DTSTART:20240809T102400Z
+DTEND:20240809T103100Z
+DESCRIPTION:レスリング - 女子フリースタイル62kg級2回戦
+SUMMARY:🤼 Grace Jacob BULLEN 🇳🇴 - 🇩🇪 Luisa Helga Gerda NIEMESCH
+LOCATION:シャン・ド・マルス・アリーナ
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T102400Z-wrestling-74KG2-SRB-JPN
 DTSTAMP:20240809T102400Z
 DTSTART:20240809T102400Z
@@ -36085,15 +36094,6 @@ DTSTART:20240809T102400Z
 DTEND:20240809T103100Z
 DESCRIPTION:レスリング - 男子フリースタイル125kg級2回戦
 SUMMARY:🤼 Lkhagvagerel MUNKHTUR 🇲🇳 - 🇦🇿 Giorgi MESHVILDISHVILI
-LOCATION:シャン・ド・マルス・アリーナ
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T102400Z-wrestling-62KG2
-DTSTAMP:20240809T102400Z
-DTSTART:20240809T102400Z
-DTEND:20240809T103100Z
-DESCRIPTION:レスリング - 女子フリースタイル62kg級2回戦\n🇳🇴 Grace Jacob BULLEN
-SUMMARY:🤼 女子フリースタイル62kg級2回戦
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
 BEGIN:VEVENT
@@ -36129,7 +36129,7 @@ UID:20240809T103100Z-wrestling-125KG2
 DTSTAMP:20240809T103100Z
 DTSTART:20240809T103100Z
 DTEND:20240809T103800Z
-DESCRIPTION:レスリング - 男子フリースタイル125kg級2回戦
+DESCRIPTION:レスリング - 男子フリースタイル125kg級2回戦\n🇵🇱 Robert BARAN
 SUMMARY:🤼 男子フリースタイル125kg級2回戦
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
@@ -36161,7 +36161,7 @@ UID:20240809T103800Z-wrestling-74KG2
 DTSTAMP:20240809T103800Z
 DTSTART:20240809T103800Z
 DTEND:20240809T104500Z
-DESCRIPTION:レスリング - 男子フリースタイル74kg級2回戦
+DESCRIPTION:レスリング - 男子フリースタイル74kg級2回戦\n🇺🇿 Razambek Salambekovitch JAMALOV
 SUMMARY:🤼 男子フリースタイル74kg級2回戦
 LOCATION:シャン・ド・マルス・アリーナ
 END:VEVENT
@@ -36498,7 +36498,7 @@ UID:20240809T134500Z-taekwondo-67KG
 DTSTAMP:20240809T134500Z
 DTSTART:20240809T134500Z
 DTEND:20240809T135800Z
-DESCRIPTION:テコンドー - 女子67kg級準々決勝
+DESCRIPTION:テコンドー - 女子67kg級準々決勝\n🇹🇭 Sasikarn TONGCHAN
 SUMMARY:🥋 女子67kg級準々決勝
 LOCATION:グラン・パレ
 END:VEVENT
@@ -36516,7 +36516,7 @@ UID:20240809T135800Z-taekwondo-80KG
 DTSTAMP:20240809T135800Z
 DTSTART:20240809T135800Z
 DTEND:20240809T141100Z
-DESCRIPTION:テコンドー - 男子80kg級準々決勝
+DESCRIPTION:テコンドー - 男子80kg級準々決勝\n🇹🇳 Firas KATOUSSI
 SUMMARY:🥋 男子80kg級準々決勝
 LOCATION:グラン・パレ
 END:VEVENT
@@ -37443,7 +37443,32 @@ UID:20240810T060000Z-athletics-
 DTSTAMP:20240810T060000Z
 DTSTART:20240810T060000Z
 DTEND:20240810T084500Z
-DESCRIPTION:陸上競技 - 男子マラソン決勝
+DESCRIPTION:陸上競技 - 男子マラソン決勝\n🇯🇵 AKASAKI Akira\n🇳🇱 Abdi NAGEEYE\n🇬🇹
+  Alberto GONZALEZ MINDEZ\n🇰🇪 Alexander MUNYAO\n🇹🇿 Alphonce Felix
+  SIMBU\n🇩🇪 Amanal PETROS\n🇦🇺 Andrew BUCHANAN\n🇺🇬 Andrew Rotich
+  KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇨🇦 Cameron LEVINS\n🇨🇱
+  Carlos DIAZ\n🇵🇪 Christian PACHECO\n🇺🇸 Clayton YOUNG\n🇺🇸 Conner
+  MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰 Dario IVANOVSKI\n🇪🇹 Deresa
+  GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪 Eliud KIPCHOGE\n🇿🇦 Elroy
+  GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob FANIEL\n🇫🇷 Felix BOUR\n🇹🇿
+  Gabriel Gerald GEAY\n🇮🇱 Gashau AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il
+  Ryong\n🇨🇳 HE Jie\n🇧🇴 Hector GARIBAY\n🇪🇷 Henok TESFAY\n🇨🇱 Hugo
+  CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯 Ibrahim HASSAN\n🇿🇼 Isaac
+  MPOFU\n🇯🇵 KOYAMA Naoki\n🇹🇷 Kaan Kigen OZBILEN\n🇪🇹 Kenenisa
+  BEKELE\n🇳🇱 Khalid CHOUKOUD\n🇧🇪 Koen NAERT\n🇺🇸 Leonard KORIR\n🇦🇺
+  Liam ADAMS\n🇬🇧 Mahamed MAHAMED\n🇮🇱 Maru TEFERI\n🇨🇭 Matthias
+  KYBURZ\n🇧🇪 Michael SOMERS\n🇯🇴 Moath ALKHAWALDEH\n🇲🇦 Mohcin
+  OUTALHA\n🇫🇷 Morhad AMDOUNI\n🇫🇷 Nicolas NAVARRO\n🇯🇵 OSAKO
+  Suguru\n🇲🇦 Othmane EL GOUMRI\n🇦🇺 Patrick TIERNAN\n🇬🇧 Philip
+  SESEMANN\n🇩🇪 Richard RINGER\n🇨🇦 Rory LINKLETTER\n🇪🇷 Samsom
+  AMARE\n🇵🇹 Samuel BARATA\n🇩🇪 Samuel FITWI SIBHATU\n🇨🇻 Samuel
+  FREIRE\n🇲🇳 Ser-Od BAT-OCHIR\n🇺🇿 Shokhrukh DAVLYATOV\n🇳🇴 Sondre
+  Nordstad MOEN\n🇺🇬 Stephen KISSA\n🇿🇦 Stephen MOKOKA\n🇸🇪 Suldan
+  HASSAN\n🏳️ Tachlowini GABRIYESOS\n🇨🇭 Tadesse ABRAHAM\n🇪🇹 Tamirat
+  TOLA\n🇪🇸 Tariku NOVALES\n🇱🇸 Tebello RAMAKONGOANA\n🇹🇩 Valentin
+  BETOUDJI\n🇺🇬 Victor KIPLANGAT\n🇨🇳 WU Xiangdong\n🇨🇳 YANG
+  Shaohui\n🇪🇸 Yago ROJO\n🇸🇩 Yaseen ABDALLA\n🇮🇹 Yemaneberhan
+  CRIPPA\n🇳🇴 Zerei Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
 SUMMARY:🏃 男子マラソン決勝
 LOCATION:アンヴァリッド
 END:VEVENT
@@ -38665,7 +38690,9 @@ UID:20240810T173500Z-athletics-100M
 DTSTAMP:20240810T173500Z
 DTSTART:20240810T173500Z
 DTEND:20240810T173600Z
-DESCRIPTION:陸上競技 - 女子100mハードル決勝
+DESCRIPTION:陸上競技 - 女子100mハードル決勝\n🇯🇲 Ackera NUGENT\n🇺🇸 Alaysha
+  JOHNSON\n🇫🇷 Cyrena SAMBA-MAYELA\n🇧🇸 Devynne CHARLTON\n🇺🇸 Grace
+  STARK\n🇵🇷 Jasmine CAMACHO-QUINN\n🇺🇸 Masai RUSSELL\n🇳🇱 Nadine VISSER
 SUMMARY:🏃 女子100mハードル決勝
 LOCATION:スタッド・ド・フランス
 END:VEVENT

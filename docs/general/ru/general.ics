@@ -36348,6 +36348,15 @@ SUMMARY:⛵ Кайт, финал, гонка 3 (м)
 LOCATION:Марсельская гавань
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T102400Z-wrestling--62-14--NOR-GER
+DTSTAMP:20240809T102400Z
+DTSTART:20240809T102400Z
+DTEND:20240809T103100Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)
+SUMMARY:🤼 Grace Jacob BULLEN 🇳🇴 - 🇩🇪 Luisa Helga Gerda NIEMESCH
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T102400Z-wrestling--74-14--SRB-JPN
 DTSTAMP:20240809T102400Z
 DTSTART:20240809T102400Z
@@ -36363,16 +36372,6 @@ DTSTART:20240809T102400Z
 DTEND:20240809T103100Z
 DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)
 SUMMARY:🤼 Lkhagvagerel MUNKHTUR 🇲🇳 - 🇦🇿 Giorgi MESHVILDISHVILI
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T102400Z-wrestling--62-14-
-DTSTAMP:20240809T102400Z
-DTSTART:20240809T102400Z
-DTEND:20240809T103100Z
-DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)\n🇳🇴 Grace Jacob
-  BULLEN
-SUMMARY:🤼 Вольная борьба, 62кг, 1/4 финала (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -36399,7 +36398,8 @@ UID:20240809T103100Z-wrestling--125-14-
 DTSTAMP:20240809T103100Z
 DTSTART:20240809T103100Z
 DTEND:20240809T103800Z
-DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 125кг, 1/4 финала (м)\n🇵🇱 Robert
+  BARAN
 SUMMARY:🤼 Вольная борьба, 125кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -36441,7 +36441,8 @@ UID:20240809T103800Z-wrestling--74-14-
 DTSTAMP:20240809T103800Z
 DTSTART:20240809T103800Z
 DTEND:20240809T104500Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, 1/4 финала (м)\n🇺🇿 Razambek
+  Salambekovitch JAMALOV
 SUMMARY:🤼 Вольная борьба, 74кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -36782,7 +36783,7 @@ UID:20240809T134500Z-taekwondo--67-
 DTSTAMP:20240809T134500Z
 DTSTART:20240809T134500Z
 DTEND:20240809T135800Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 67кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 67кг (ж)\n🇹🇭 Sasikarn TONGCHAN
 SUMMARY:🥋 Четвертьфинал, до 67кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -36800,7 +36801,7 @@ UID:20240809T135800Z-taekwondo--80-
 DTSTAMP:20240809T135800Z
 DTSTART:20240809T135800Z
 DTEND:20240809T141100Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 80кг (м)
+DESCRIPTION:Тхэквондо - Четвертьфинал, до 80кг (м)\n🇹🇳 Firas KATOUSSI
 SUMMARY:🥋 Четвертьфинал, до 80кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -37740,7 +37741,32 @@ UID:20240810T060000Z-athletics--
 DTSTAMP:20240810T060000Z
 DTSTART:20240810T060000Z
 DTEND:20240810T084500Z
-DESCRIPTION:Легкая атлетика - Марафон, финал (м)
+DESCRIPTION:Легкая атлетика - Марафон, финал (м)\n🇯🇵 AKASAKI Akira\n🇳🇱
+  Abdi NAGEEYE\n🇬🇹 Alberto GONZALEZ MINDEZ\n🇰🇪 Alexander MUNYAO\n🇹🇿
+  Alphonce Felix SIMBU\n🇩🇪 Amanal PETROS\n🇦🇺 Andrew BUCHANAN\n🇺🇬
+  Andrew Rotich KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇨🇦 Cameron
+  LEVINS\n🇨🇱 Carlos DIAZ\n🇵🇪 Christian PACHECO\n🇺🇸 Clayton
+  YOUNG\n🇺🇸 Conner MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰 Dario IVANOVSKI\n🇪🇹
+  Deresa GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪 Eliud KIPCHOGE\n🇿🇦
+  Elroy GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob FANIEL\n🇫🇷 Felix BOUR\n🇹🇿
+  Gabriel Gerald GEAY\n🇮🇱 Gashau AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il
+  Ryong\n🇨🇳 HE Jie\n🇧🇴 Hector GARIBAY\n🇪🇷 Henok TESFAY\n🇨🇱 Hugo
+  CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯 Ibrahim HASSAN\n🇿🇼 Isaac
+  MPOFU\n🇯🇵 KOYAMA Naoki\n🇹🇷 Kaan Kigen OZBILEN\n🇪🇹 Kenenisa
+  BEKELE\n🇳🇱 Khalid CHOUKOUD\n🇧🇪 Koen NAERT\n🇺🇸 Leonard KORIR\n🇦🇺
+  Liam ADAMS\n🇬🇧 Mahamed MAHAMED\n🇮🇱 Maru TEFERI\n🇨🇭 Matthias
+  KYBURZ\n🇧🇪 Michael SOMERS\n🇯🇴 Moath ALKHAWALDEH\n🇲🇦 Mohcin
+  OUTALHA\n🇫🇷 Morhad AMDOUNI\n🇫🇷 Nicolas NAVARRO\n🇯🇵 OSAKO
+  Suguru\n🇲🇦 Othmane EL GOUMRI\n🇦🇺 Patrick TIERNAN\n🇬🇧 Philip
+  SESEMANN\n🇩🇪 Richard RINGER\n🇨🇦 Rory LINKLETTER\n🇪🇷 Samsom
+  AMARE\n🇵🇹 Samuel BARATA\n🇩🇪 Samuel FITWI SIBHATU\n🇨🇻 Samuel
+  FREIRE\n🇲🇳 Ser-Od BAT-OCHIR\n🇺🇿 Shokhrukh DAVLYATOV\n🇳🇴 Sondre
+  Nordstad MOEN\n🇺🇬 Stephen KISSA\n🇿🇦 Stephen MOKOKA\n🇸🇪 Suldan
+  HASSAN\n🏳️ Tachlowini GABRIYESOS\n🇨🇭 Tadesse ABRAHAM\n🇪🇹 Tamirat
+  TOLA\n🇪🇸 Tariku NOVALES\n🇱🇸 Tebello RAMAKONGOANA\n🇹🇩 Valentin
+  BETOUDJI\n🇺🇬 Victor KIPLANGAT\n🇨🇳 WU Xiangdong\n🇨🇳 YANG
+  Shaohui\n🇪🇸 Yago ROJO\n🇸🇩 Yaseen ABDALLA\n🇮🇹 Yemaneberhan
+  CRIPPA\n🇳🇴 Zerei Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
 SUMMARY:🏃 Марафон, финал (м)
 LOCATION:Дом инвалидов
 END:VEVENT
@@ -38974,7 +39000,10 @@ UID:20240810T173500Z-athletics-100-
 DTSTAMP:20240810T173500Z
 DTSTART:20240810T173500Z
 DTEND:20240810T173600Z
-DESCRIPTION:Легкая атлетика - 100м с/б, финал (ж)
+DESCRIPTION:Легкая атлетика - 100м с/б, финал (ж)\n🇯🇲 Ackera NUGENT\n🇺🇸
+  Alaysha JOHNSON\n🇫🇷 Cyrena SAMBA-MAYELA\n🇧🇸 Devynne CHARLTON\n🇺🇸
+  Grace STARK\n🇵🇷 Jasmine CAMACHO-QUINN\n🇺🇸 Masai RUSSELL\n🇳🇱 Nadine
+  VISSER
 SUMMARY:🏃 100м с/б, финал (ж)
 LOCATION:«Стад-де-Франс»
 END:VEVENT

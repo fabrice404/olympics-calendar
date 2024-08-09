@@ -36249,6 +36249,15 @@ SUMMARY:⛵ Men's Kite Final - Race 3
 LOCATION:Marseille Marina
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T102400Z-wrestling-WOMENS-FREESTYLE-62KG-14-FINAL-NOR-GER
+DTSTAMP:20240809T102400Z
+DTSTART:20240809T102400Z
+DTEND:20240809T103100Z
+DESCRIPTION:Wrestling - Women's Freestyle 62kg 1/4 Final
+SUMMARY:🤼 Grace Jacob BULLEN 🇳🇴 - 🇩🇪 Luisa Helga Gerda NIEMESCH
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T102400Z-wrestling-MENS-FREESTYLE-74KG-14-FINAL-SRB-JPN
 DTSTAMP:20240809T102400Z
 DTSTART:20240809T102400Z
@@ -36267,16 +36276,6 @@ SUMMARY:🤼 Lkhagvagerel MUNKHTUR 🇲🇳 - 🇦🇿 Giorgi MESHVILDISHVILI
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T102400Z-wrestling-WOMENS-FREESTYLE-62KG-14-FINAL
-DTSTAMP:20240809T102400Z
-DTSTART:20240809T102400Z
-DTEND:20240809T103100Z
-DESCRIPTION:Wrestling - Women's Freestyle 62kg 1/4 Final\n🇳🇴 Grace Jacob
-  BULLEN
-SUMMARY:🤼 Women's Freestyle 62kg 1/4 Final
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240809T103100Z-sailing-MENS-KITE-FINAL-RACE-4
 DTSTAMP:20240809T103100Z
 DTSTART:20240809T103100Z
@@ -36291,7 +36290,7 @@ UID:20240809T103100Z-wrestling-MENS-FREESTYLE-125KG-14-FINAL
 DTSTAMP:20240809T103100Z
 DTSTART:20240809T103100Z
 DTEND:20240809T103800Z
-DESCRIPTION:Wrestling - Men's Freestyle 125kg 1/4 Final
+DESCRIPTION:Wrestling - Men's Freestyle 125kg 1/4 Final\n🇵🇱 Robert BARAN
 SUMMARY:🤼 Men's Freestyle 125kg 1/4 Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -36342,7 +36341,8 @@ UID:20240809T103800Z-wrestling-MENS-FREESTYLE-74KG-14-FINAL
 DTSTAMP:20240809T103800Z
 DTSTART:20240809T103800Z
 DTEND:20240809T104500Z
-DESCRIPTION:Wrestling - Men's Freestyle 74kg 1/4 Final
+DESCRIPTION:Wrestling - Men's Freestyle 74kg 1/4 Final\n🇺🇿 Razambek
+  Salambekovitch JAMALOV
 SUMMARY:🤼 Men's Freestyle 74kg 1/4 Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -36681,7 +36681,7 @@ UID:20240809T134500Z-taekwondo-WOMEN-67KG-QUARTERFINAL
 DTSTAMP:20240809T134500Z
 DTSTART:20240809T134500Z
 DTEND:20240809T135800Z
-DESCRIPTION:Taekwondo - Women -67kg Quarterfinal
+DESCRIPTION:Taekwondo - Women -67kg Quarterfinal\n🇹🇭 Sasikarn TONGCHAN
 SUMMARY:🥋 Women -67kg Quarterfinal
 LOCATION:Grand Palais
 END:VEVENT
@@ -36699,7 +36699,7 @@ UID:20240809T135800Z-taekwondo-MEN-80KG-QUARTERFINAL
 DTSTAMP:20240809T135800Z
 DTSTART:20240809T135800Z
 DTEND:20240809T141100Z
-DESCRIPTION:Taekwondo - Men -80kg Quarterfinal
+DESCRIPTION:Taekwondo - Men -80kg Quarterfinal\n🇹🇳 Firas KATOUSSI
 SUMMARY:🥋 Men -80kg Quarterfinal
 LOCATION:Grand Palais
 END:VEVENT
@@ -37632,7 +37632,32 @@ UID:20240810T060000Z-athletics-MENS-MARATHON
 DTSTAMP:20240810T060000Z
 DTSTART:20240810T060000Z
 DTEND:20240810T084500Z
-DESCRIPTION:Athletics - Men's Marathon
+DESCRIPTION:Athletics - Men's Marathon\n🇯🇵 AKASAKI Akira\n🇳🇱 Abdi
+  NAGEEYE\n🇬🇹 Alberto GONZALEZ MINDEZ\n🇰🇪 Alexander MUNYAO\n🇹🇿
+  Alphonce Felix SIMBU\n🇩🇪 Amanal PETROS\n🇦🇺 Andrew BUCHANAN\n🇺🇬
+  Andrew Rotich KWEMOI\n🇧🇪 Bashir ABDI\n🇰🇪 Benson KIPRUTO\n🇨🇦 Cameron
+  LEVINS\n🇨🇱 Carlos DIAZ\n🇵🇪 Christian PACHECO\n🇺🇸 Clayton
+  YOUNG\n🇺🇸 Conner MANTZ\n🇮🇹 Daniele MEUCCI\n🇲🇰 Dario IVANOVSKI\n🇪🇹
+  Deresa GELETA\n🇻🇮 Eduardo Terrance GARCIA\n🇰🇪 Eliud KIPCHOGE\n🇿🇦
+  Elroy GELANT\n🇬🇧 Emile CAIRESS\n🇮🇹 Eyob FANIEL\n🇫🇷 Felix BOUR\n🇹🇿
+  Gabriel Gerald GEAY\n🇮🇱 Gashau AYALE\n🇮🇱 Girmaw AMARE\n🇰🇵 HAN Il
+  Ryong\n🇨🇳 HE Jie\n🇧🇴 Hector GARIBAY\n🇪🇷 Henok TESFAY\n🇨🇱 Hugo
+  CATRILEO\n🇪🇸 Ibrahim CHAKIR\n🇩🇯 Ibrahim HASSAN\n🇿🇼 Isaac
+  MPOFU\n🇯🇵 KOYAMA Naoki\n🇹🇷 Kaan Kigen OZBILEN\n🇪🇹 Kenenisa
+  BEKELE\n🇳🇱 Khalid CHOUKOUD\n🇧🇪 Koen NAERT\n🇺🇸 Leonard KORIR\n🇦🇺
+  Liam ADAMS\n🇬🇧 Mahamed MAHAMED\n🇮🇱 Maru TEFERI\n🇨🇭 Matthias
+  KYBURZ\n🇧🇪 Michael SOMERS\n🇯🇴 Moath ALKHAWALDEH\n🇲🇦 Mohcin
+  OUTALHA\n🇫🇷 Morhad AMDOUNI\n🇫🇷 Nicolas NAVARRO\n🇯🇵 OSAKO
+  Suguru\n🇲🇦 Othmane EL GOUMRI\n🇦🇺 Patrick TIERNAN\n🇬🇧 Philip
+  SESEMANN\n🇩🇪 Richard RINGER\n🇨🇦 Rory LINKLETTER\n🇪🇷 Samsom
+  AMARE\n🇵🇹 Samuel BARATA\n🇩🇪 Samuel FITWI SIBHATU\n🇨🇻 Samuel
+  FREIRE\n🇲🇳 Ser-Od BAT-OCHIR\n🇺🇿 Shokhrukh DAVLYATOV\n🇳🇴 Sondre
+  Nordstad MOEN\n🇺🇬 Stephen KISSA\n🇿🇦 Stephen MOKOKA\n🇸🇪 Suldan
+  HASSAN\n🏳️ Tachlowini GABRIYESOS\n🇨🇭 Tadesse ABRAHAM\n🇪🇹 Tamirat
+  TOLA\n🇪🇸 Tariku NOVALES\n🇱🇸 Tebello RAMAKONGOANA\n🇹🇩 Valentin
+  BETOUDJI\n🇺🇬 Victor KIPLANGAT\n🇨🇳 WU Xiangdong\n🇨🇳 YANG
+  Shaohui\n🇪🇸 Yago ROJO\n🇸🇩 Yaseen ABDALLA\n🇮🇹 Yemaneberhan
+  CRIPPA\n🇳🇴 Zerei Kbrom MEZNGI\n🇲🇦 Zouhair TALBI
 SUMMARY:🏃 Men's Marathon
 LOCATION:Invalides
 END:VEVENT
@@ -38865,7 +38890,10 @@ UID:20240810T173500Z-athletics-WOMENS-100M-HURDLES-FINAL
 DTSTAMP:20240810T173500Z
 DTSTART:20240810T173500Z
 DTEND:20240810T173600Z
-DESCRIPTION:Athletics - Women's 100m Hurdles Final
+DESCRIPTION:Athletics - Women's 100m Hurdles Final\n🇯🇲 Ackera
+  NUGENT\n🇺🇸 Alaysha JOHNSON\n🇫🇷 Cyrena SAMBA-MAYELA\n🇧🇸 Devynne
+  CHARLTON\n🇺🇸 Grace STARK\n🇵🇷 Jasmine CAMACHO-QUINN\n🇺🇸 Masai
+  RUSSELL\n🇳🇱 Nadine VISSER
 SUMMARY:🏃 Women's 100m Hurdles Final
 LOCATION:Stade de France
 END:VEVENT
