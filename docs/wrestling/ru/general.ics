@@ -2312,7 +2312,8 @@ UID:20240809T161500Z-wrestling--74-
 DTSTAMP:20240809T161500Z
 DTSTART:20240809T161500Z
 DTEND:20240809T162500Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, полуфинал (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, полуфинал (м)\n🇺🇸 Kyle Douglas
+  DAKE
 SUMMARY:🤼 Вольная борьба, 74кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -2326,13 +2327,12 @@ SUMMARY:🤼 Вольная борьба, 74кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240809T163500Z-wrestling--125-
+UID:20240809T163500Z-wrestling--125--IRI-TUR
 DTSTAMP:20240809T163500Z
 DTSTART:20240809T163500Z
 DTEND:20240809T164500Z
-DESCRIPTION:Борьба - Вольная борьба, 125кг, полуфинал (м)\n🇮🇷 Amir
-  Hossein ZARE
-SUMMARY:🤼 Вольная борьба, 125кг, полуфинал (м)
+DESCRIPTION:Борьба - Вольная борьба, 125кг, полуфинал (м)
+SUMMARY:🤼 Amir Hossein ZARE 🇮🇷 - 🇹🇷 Taha AKGUL
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -2349,7 +2349,8 @@ UID:20240809T165500Z-wrestling--62-
 DTSTAMP:20240809T165500Z
 DTSTART:20240809T165500Z
 DTEND:20240809T170500Z
-DESCRIPTION:Борьба - Вольная борьба, 62кг, полуфинал (ж)
+DESCRIPTION:Борьба - Вольная борьба, 62кг, полуфинал (ж)\n🇰🇬 Aisuluu
+  TYNYBEKOVA
 SUMMARY:🤼 Вольная борьба, 62кг, полуфинал (ж)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
