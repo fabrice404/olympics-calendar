@@ -6511,6 +6511,15 @@ SUMMARY:🛶 Women's Kayak Single 500m Semifinal 3
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T090700Z-wrestling-MENS-FREESTYLE-125KG-REPECHAGE-UKR-POL
+DTSTAMP:20240810T090700Z
+DTSTART:20240810T090700Z
+DTEND:20240810T091400Z
+DESCRIPTION:Wrestling - Men's Freestyle 125kg Repechage
+SUMMARY:🤼 Oleksandr KHOTSIANIVSKYI 🇺🇦 - 🇵🇱 Robert BARAN
+LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T092100Z-wrestling-MENS-FREESTYLE-97KG-18-FINAL-MDA-POL
 DTSTAMP:20240810T092100Z
 DTSTART:20240810T092100Z
@@ -6587,6 +6596,21 @@ DESCRIPTION:Cycling Track - Men's Keirin, First Round\n🇰🇿 Andrey
   Vasilijus LENDEL\n🇨🇳 ZHOU Yu
 SUMMARY:🚴 Men's Keirin, First Round
 LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T161000Z-modern-pentathlon-MENS-INDIVIDUAL-FINAL-FENCING-BONUS-
+DTSTAMP:20240810T161000Z
+DTSTART:20240810T161000Z
+DTEND:20240810T163000Z
+DESCRIPTION:Modern Pentathlon - Men's Individual, Final, Fencing Bonus
+  Round\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre DALLENBACH\n🇭🇺 Balazs
+  SZEP\n🇭🇺 Csaba BOHM\n🇲🇽 Emiliano HERNANDEZ\n🇩🇪 Fabian LIEBIG\n🇮🇹
+  Giorgio MALAN\n🇰🇷 JUN Woongtae\n🇫🇷 Jean-Baptiste MOURCIA\n🇬🇧 Joseph
+  CHOONG\n🇵🇱 Lukasz GUTKOWSKI\n🇩🇪 Marvin DOGUE\n🇮🇹 Matteo
+  CICINELLI\n🇪🇬 Mohanad SHABAN\n🇱🇻 Pavels SVECOVS\n🇯🇵 SATO
+  Taishu\n🇰🇷 SEO Changwan\n🇫🇷 Valentin PRADES
+SUMMARY:🤺 Men's Individual, Final, Fencing Bonus Round
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-athletics-WOMENS-JAVELIN-THROW-FINAL

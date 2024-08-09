@@ -129,4 +129,13 @@ DESCRIPTION:Водное поло - Финал (ж)
 SUMMARY:🤽 Австралия 🇦🇺 - 🇪🇸 Испания
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240810T173500Z-water-polo--7-8--AUS-ITA
+DTSTAMP:20240810T173500Z
+DTSTART:20240810T173500Z
+DTEND:20240810T190000Z
+DESCRIPTION:Водное поло - Матч за 7-8 места (м)
+SUMMARY:🤽 Австралия 🇦🇺 - 🇮🇹 Италия
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
 END:VCALENDAR

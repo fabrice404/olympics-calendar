@@ -6533,6 +6533,15 @@ SUMMARY:🛶 Байдарки-одиночки 500м, полуфинал 3 (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T090700Z-wrestling--125--UKR-POL
+DTSTAMP:20240810T090700Z
+DTSTART:20240810T090700Z
+DTEND:20240810T091400Z
+DESCRIPTION:Борьба - Вольная борьба, 125кг, утешительный раунд (м)
+SUMMARY:🤼 Oleksandr KHOTSIANIVSKYI 🇺🇦 - 🇵🇱 Robert BARAN
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T092100Z-wrestling--97-18--MDA-POL
 DTSTAMP:20240810T092100Z
 DTSTART:20240810T092100Z
@@ -6609,6 +6618,21 @@ DESCRIPTION:Трековые велогонки - Кейрин, первый р�
   Vasilijus LENDEL\n🇨🇳 ZHOU Yu
 SUMMARY:🚴 Кейрин, первый раунд (м)
 LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T161000Z-modern-pentathlon--
+DTSTAMP:20240810T161000Z
+DTSTART:20240810T161000Z
+DTEND:20240810T163000Z
+DESCRIPTION:Современное пятиборье - Личный зачет, финал, фехтование,
+  бонус-раунд (м)\n🇪🇬 Ahmed ELGENDY\n🇨🇭 Alexandre DALLENBACH\n🇭🇺
+  Balazs SZEP\n🇭🇺 Csaba BOHM\n🇲🇽 Emiliano HERNANDEZ\n🇩🇪 Fabian
+  LIEBIG\n🇮🇹 Giorgio MALAN\n🇰🇷 JUN Woongtae\n🇫🇷 Jean-Baptiste
+  MOURCIA\n🇬🇧 Joseph CHOONG\n🇵🇱 Lukasz GUTKOWSKI\n🇩🇪 Marvin
+  DOGUE\n🇮🇹 Matteo CICINELLI\n🇪🇬 Mohanad SHABAN\n🇱🇻 Pavels
+  SVECOVS\n🇯🇵 SATO Taishu\n🇰🇷 SEO Changwan\n🇫🇷 Valentin PRADES
+SUMMARY:🤺 Личный зачет, финал, фехтование, бонус-раунд (м)
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T173000Z-athletics--

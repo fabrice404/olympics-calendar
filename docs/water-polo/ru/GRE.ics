@@ -129,4 +129,13 @@ DESCRIPTION:Водное поло - Матч за 7-8 места (ж)
 SUMMARY:🤽 Греция 🇬🇷 - 🇨🇦 Канада
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
+BEGIN:VEVENT
+UID:20240811T070000Z-water-polo--5-6--GRE-ESP
+DTSTAMP:20240811T070000Z
+DTSTART:20240811T070000Z
+DTEND:20240811T082500Z
+DESCRIPTION:Водное поло - Матч за 5-6 места (м)
+SUMMARY:🤽 Греция 🇬🇷 - 🇪🇸 Испания
+LOCATION:Арена «Пари-Ла-Дефанс»
+END:VEVENT
 END:VCALENDAR
