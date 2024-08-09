@@ -414,4 +414,13 @@ DESCRIPTION:Трековые велогонки - Мэдисон, финал (м
 SUMMARY:🚴 Мэдисон, финал (м)
 LOCATION:Национальный велодром
 END:VEVENT
+BEGIN:VEVENT
+UID:20240811T113000Z-handball---GER-DEN
+DTSTAMP:20240811T113000Z
+DTSTART:20240811T113000Z
+DTEND:20240811T133000Z
+DESCRIPTION:Гандбол - Финал (м)
+SUMMARY:🤾 Германия 🇩🇪 - 🇩🇰 Дания
+LOCATION:Стадион «Пьер Моруа»
+END:VEVENT
 END:VCALENDAR
