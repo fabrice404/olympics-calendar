@@ -6860,6 +6860,15 @@ SUMMARY:🤼 Hetik CABOLOV 🇷🇸 - 🇯🇵 TAKATANI Daichi
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240809T103100Z-wrestling--62-14--CAN-JPN
+DTSTAMP:20240809T103100Z
+DTSTART:20240809T103100Z
+DTEND:20240809T103800Z
+DESCRIPTION:Борьба - Вольная борьба, 62кг, 1/4 финала (ж)
+SUMMARY:🤼 Ana Paula GODINEZ GONZALEZ 🇨🇦 - 🇯🇵 MOTOKI Sakura
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240809T103500Z-sport-climbing--
 DTSTAMP:20240809T103500Z
 DTSTART:20240809T103500Z
@@ -7216,6 +7225,17 @@ DESCRIPTION:Тяжелая атлетика - Свыше 102кг (м)\n🇪🇬 
   LALAYAN\n🇩🇿 Walid BIDANI
 SUMMARY:🏋 Свыше 102кг (м)
 LOCATION:Арена «Париж-Юг» 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T190000Z-athletics--4400-
+DTSTAMP:20240810T190000Z
+DTSTART:20240810T190000Z
+DTEND:20240810T190300Z
+DESCRIPTION:Легкая атлетика - Эстафета 4х400м, финал (м)\n🇧🇪
+  Бельгия\n🇧🇼 Ботсвана\n🇬🇧 Великобритания\n🇿🇲 Замбия\n🇮🇹
+  Италия\n🇺🇸 США\n🇫🇷 Франция\n🇿🇦 Южная Африка\n🇯🇵 Япония
+SUMMARY:🏃 Эстафета 4х400м, финал (м)
+LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony

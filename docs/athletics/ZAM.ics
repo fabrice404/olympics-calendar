@@ -86,4 +86,14 @@ DESCRIPTION:Athletics - Men's 4 x 400m Relay Round 1\n🇮🇹 Alessandro
 SUMMARY:🏃 Men's 4 x 400m Relay Round 1
 LOCATION:Stade de France
 END:VEVENT
+BEGIN:VEVENT
+UID:20240810T190000Z-athletics-MENS-4-X-400M-RELAY-FINAL
+DTSTAMP:20240810T190000Z
+DTSTART:20240810T190000Z
+DTEND:20240810T190300Z
+DESCRIPTION:Athletics - Men's 4 x 400m Relay Final\n🇧🇪 BEL\n🇧🇼
+  BOT\n🇫🇷 FRA\n🇬🇧 GBR\n🇮🇹 ITA\n🇯🇵 JPN\n🇿🇦 RSA\n🇺🇸 USA\n🇿🇲 ZAM
+SUMMARY:🏃 Men's 4 x 400m Relay Final
+LOCATION:Stade de France
+END:VEVENT
 END:VCALENDAR
