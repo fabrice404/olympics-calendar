@@ -38572,22 +38572,21 @@ SUMMARY:🤼 KIYOOKA Kotaro 🇯🇵 - 🇵🇷 Sebastian C RIVERA
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T102400Z-wrestling--76-14-
+UID:20240810T102400Z-wrestling--97-14--USA-CUB
+DTSTAMP:20240810T102400Z
+DTSTART:20240810T102400Z
+DTEND:20240810T103100Z
+DESCRIPTION:Борьба - Вольная борьба, 97кг, 1/4 финала (м)
+SUMMARY:🤼 Kyle Frederick SNYDER 🇺🇸 - 🇨🇺 Arturo SILOT TORRES
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T102400Z-wrestling--76-14--COL-MGL
 DTSTAMP:20240810T102400Z
 DTSTART:20240810T102400Z
 DTEND:20240810T103100Z
 DESCRIPTION:Борьба - Вольная борьба, 76кг, 1/4 финала (ж)
-SUMMARY:🤼 Вольная борьба, 76кг, 1/4 финала (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T102400Z-wrestling--97-14-
-DTSTAMP:20240810T102400Z
-DTSTART:20240810T102400Z
-DTEND:20240810T103100Z
-DESCRIPTION:Борьба - Вольная борьба, 97кг, 1/4 финала (м)\n🇺🇸 Kyle
-  Frederick SNYDER
-SUMMARY:🤼 Вольная борьба, 97кг, 1/4 финала (м)
+SUMMARY:🤼 Tatiana RENTERIA RENTERIA 🇨🇴 - 🇲🇳 Davaanasan ENKH AMAR
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -38629,12 +38628,12 @@ SUMMARY:🧗 Трудность, финал (ж)
 LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T103800Z-wrestling--65-14-
+UID:20240810T103800Z-wrestling--65-14--ALB-IRI
 DTSTAMP:20240810T103800Z
 DTSTART:20240810T103800Z
 DTEND:20240810T104500Z
 DESCRIPTION:Борьба - Вольная борьба, 65кг, 1/4 финала (м)
-SUMMARY:🤼 Вольная борьба, 65кг, 1/4 финала (м)
+SUMMARY:🤼 Islam DUDAEV 🇦🇱 - 🇮🇷 Rahman AMOUZADKHALILI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -38799,7 +38798,11 @@ UID:20240810T130000Z-diving--10-
 DTSTAMP:20240810T130000Z
 DTSTART:20240810T130000Z
 DTEND:20240810T142000Z
-DESCRIPTION:Прыжки в воду - Вышка 10м, финал (м)
+DESCRIPTION:Прыжки в воду - Вышка 10м, финал (м)\n🇨🇳 CAO Yuan\n🇦🇺
+  Cassiel ROUSSEAU\n🇲🇽 Kevin BERLIN REYES\n🇬🇧 Kyle KOTHARI\n🇨🇦 Nathan
+  ZSOMBOR-MURRAY\n🇬🇧 Noah WILLIAMS\n🇺🇦 Oleksii SEREDA\n🇲🇽 Randal
+  WILLARS VALDEZ\n🇨🇦 Rylan WIENS\n🇯🇵 TAMAI Rikuto\n🇩🇪 Timo
+  BARTHEL\n🇨🇳 YANG Hao
 SUMMARY:🏊 Вышка 10м, финал (м)
 LOCATION:Центр водных видов спорта
 END:VEVENT
@@ -38868,13 +38871,12 @@ SUMMARY:🤽 Австралия 🇦🇺 - 🇪🇸 Испания
 LOCATION:Арена «Пари-Ла-Дефанс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T134500Z-taekwondo--67-
+UID:20240810T134500Z-taekwondo--67--UZB-GBR
 DTSTAMP:20240810T134500Z
 DTSTART:20240810T134500Z
 DTEND:20240810T135800Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, свыше 67кг (ж)\n🇺🇿 Svetlana
-  OSIPOVA
-SUMMARY:🥋 Четвертьфинал, свыше 67кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, свыше 67кг (ж)
+SUMMARY:🥋 Svetlana OSIPOVA 🇺🇿 - 🇬🇧 Rebecca McGOWAN
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
@@ -38882,7 +38884,8 @@ UID:20240810T135800Z-taekwondo--80-
 DTSTAMP:20240810T135800Z
 DTSTART:20240810T135800Z
 DTEND:20240810T141100Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, свыше 80кг (м)
+DESCRIPTION:Тхэквондо - Четвертьфинал, свыше 80кг (м)\n🇳🇴 Richard Andre
+  ORDEMANN
 SUMMARY:🥋 Четвертьфинал, свыше 80кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
