@@ -38263,7 +38263,13 @@ DTSTAMP:20240810T092400Z
 DTSTART:20240810T092400Z
 DTEND:20240810T094400Z
 DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, лазер-ран
-  (ж)
+  (ж)\n🇮🇹 Alice SOTERO\n🇩🇪 Annika ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺
+  Genevieve JANSE van RENSBURG\n🇧🇷 Isabela ABREU\n🇺🇸 Jessica
+  SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza BRYSON\n🇱🇹 Laura
+  ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
+  OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪 Rebecca
+  LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿 Yelena
+  POTAPENKO
 SUMMARY:🤺 Личный зачет, полуфинал A, лазер-ран (ж)
 LOCATION:Версаль
 END:VEVENT
@@ -38365,22 +38371,21 @@ SUMMARY:🤼 Kyle Frederick SNYDER 🇺🇸 - 🇨🇳 HABILA Awusayiman
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T094200Z-wrestling--74--AIN-ALB
+DTSTAMP:20240810T094200Z
+DTSTART:20240810T094200Z
+DTEND:20240810T094900Z
+DESCRIPTION:Борьба - Вольная борьба, 74кг, утешительный раунд (м)
+SUMMARY:🤼 Mahamedkhabib KADZIMAHAMEDAU 🇦🇸 - 🇦🇱 Chermen VALIEV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T094200Z-wrestling--76-18--COL-TUN
 DTSTAMP:20240810T094200Z
 DTSTART:20240810T094200Z
 DTEND:20240810T094900Z
 DESCRIPTION:Борьба - Вольная борьба, 76кг, 1/8 финала (ж)
 SUMMARY:🤼 Tatiana RENTERIA RENTERIA 🇨🇴 - 🇹🇳 Zaineb SGHAIER
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T094200Z-wrestling--74-
-DTSTAMP:20240810T094200Z
-DTSTART:20240810T094200Z
-DTEND:20240810T094900Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, утешительный раунд (м)\n🇦🇱
-  Chermen VALIEV
-SUMMARY:🤼 Вольная борьба, 74кг, утешительный раунд (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -38834,7 +38839,7 @@ UID:20240810T131900Z-taekwondo--67-
 DTSTAMP:20240810T131900Z
 DTSTART:20240810T131900Z
 DTEND:20240810T133200Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, свыше 67кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, свыше 67кг (ж)\n🇰🇷 LEE Dabin
 SUMMARY:🥋 Четвертьфинал, свыше 67кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -39444,13 +39449,12 @@ SUMMARY:🥋 Утешительный поединок, свыше 67кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T174500Z-wrestling--125-
+UID:20240810T174500Z-wrestling--125--KGZ-TUR
 DTSTAMP:20240810T174500Z
 DTSTART:20240810T174500Z
 DTEND:20240810T175500Z
-DESCRIPTION:Борьба - Вольная борьба, 125кг, поединок за бронзу (м)\n🇹🇷
-  Taha AKGUL
-SUMMARY:🤼 Вольная борьба, 125кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 125кг, поединок за бронзу (м)
+SUMMARY:🤼 Aiaal LAZAREV 🇰🇬 - 🇹🇷 Taha AKGUL
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -39487,13 +39491,12 @@ SUMMARY:🥋 Утешительный поединок, свыше 80кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T175500Z-wrestling--125-
+UID:20240810T175500Z-wrestling--125--POL-AZE
 DTSTAMP:20240810T175500Z
 DTSTART:20240810T175500Z
 DTEND:20240810T180500Z
-DESCRIPTION:Борьба - Вольная борьба, 125кг, поединок за бронзу (м)\n🇦🇿
-  Giorgi MESHVILDISHVILI
-SUMMARY:🤼 Вольная борьба, 125кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 125кг, поединок за бронзу (м)
+SUMMARY:🤼 Robert BARAN 🇵🇱 - 🇦🇿 Giorgi MESHVILDISHVILI
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -39564,13 +39567,12 @@ SUMMARY:🤸 Четвертьфинал 3 (м)
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T181500Z-wrestling--62-
+UID:20240810T181500Z-wrestling--62--MGL-KGZ
 DTSTAMP:20240810T181500Z
 DTSTART:20240810T181500Z
 DTEND:20240810T182500Z
-DESCRIPTION:Борьба - Вольная борьба, 62кг, поединок за бронзу (ж)\n🇰🇬
-  Aisuluu TYNYBEKOVA
-SUMMARY:🤼 Вольная борьба, 62кг, поединок за бронзу (ж)
+DESCRIPTION:Борьба - Вольная борьба, 62кг, поединок за бронзу (ж)
+SUMMARY:🤼 Orkhon PUREVDORJ 🇲🇳 - 🇰🇬 Aisuluu TYNYBEKOVA
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
