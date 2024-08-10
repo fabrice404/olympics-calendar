@@ -8767,6 +8767,15 @@ SUMMARY:🏃 Эстафета 4х400м, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T190400Z-taekwondo--67--GBR-TUR
+DTSTAMP:20240810T190400Z
+DTSTART:20240810T190400Z
+DTEND:20240810T191900Z
+DESCRIPTION:Тхэквондо - Поединки за бронзу, свыше 67кг (ж)
+SUMMARY:🥋 Rebecca McGOWAN 🇬🇧 - 🇹🇷 Nafia KUS AYDIN
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T191400Z-athletics--4400-
 DTSTAMP:20240810T191400Z
 DTSTART:20240810T191400Z
@@ -8840,6 +8849,21 @@ DESCRIPTION:Трековые велогонки - Омниум, скрэтч (1 
   Maike van der DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija
   BALEISYTE\n🇫🇷 Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
 SUMMARY:🚴 Омниум, скрэтч (1 из 4) (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T092900Z-cycling-track--
+DTSTAMP:20240811T092900Z
+DTSTART:20240811T092900Z
+DTEND:20240811T095000Z
+DESCRIPTION:Трековые велогонки - Кейрин, четвертьфиналы (м)\n🇨🇴 Cristian
+  David ORTEGA FONTALVO\n🇬🇧 Hamish TURNBULL\n🇳🇱 Harrie LAVREYSEN\n🇬🇧
+  Jack CARLIN\n🇨🇦 James HEDGCOCK\n🇳🇱 Jeffrey HOOGLAND\n🇨🇴 Kevin
+  Santiago QUINTERO CHAVARRO\n🇩🇪 Luca SPIEGEL\n🇵🇱 Mateusz RUDYK\n🇦🇺
+  Matthew GLAETZER\n🇦🇺 Matthew RICHARDSON\n🇮🇱 Mikhail YAKOVLEV\n🇲🇾
+  Muhammad Shah Firdaus SAHROM\n🇯🇵 NAKANO Shinji\n🇹🇹 Nicholas
+  PAUL\n🇨🇦 Nick WAMMES\n🇯🇵 OTA Kaiya\n🇳🇿 Sam DAKIN
+SUMMARY:🚴 Кейрин, четвертьфиналы (м)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
