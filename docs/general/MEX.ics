@@ -3204,10 +3204,10 @@ SUMMARY:🛶 Women's Kayak Single 500m Semifinal 4
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T092400Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-A-LASER
-DTSTAMP:20240810T092400Z
-DTSTART:20240810T092400Z
-DTEND:20240810T094400Z
+UID:20240810T092700Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-A-LASER
+DTSTAMP:20240810T092700Z
+DTSTART:20240810T092700Z
+DTEND:20240810T094700Z
 DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final A, Laser
   Run\n🇮🇹 Alice SOTERO\n🇩🇪 Annika ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺
   Genevieve JANSE van RENSBURG\n🇧🇷 Isabela ABREU\n🇺🇸 Jessica
@@ -3242,6 +3242,15 @@ DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final B, Fencing
   Misaki\n🇺🇦 Valeriia PERMYKINA\n🇨🇿 Veronika NOVOTNA\n🇨🇳 ZHANG Mingyu
 SUMMARY:🤺 Women's Individual, Semi-final B, Fencing Bonus Round
 LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T133200Z-taekwondo-MEN-80KG-QUARTERFINAL
+DTSTAMP:20240810T133200Z
+DTSTART:20240810T133200Z
+DTEND:20240810T134500Z
+DESCRIPTION:Taekwondo - Men +80kg Quarterfinal\n🇲🇽 Carlos SANSORES
+SUMMARY:🥋 Men +80kg Quarterfinal
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T161000Z-modern-pentathlon-MENS-INDIVIDUAL-FINAL-FENCING-BONUS-

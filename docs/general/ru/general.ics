@@ -38258,10 +38258,10 @@ SUMMARY:🥋 Nikita RAFALOVICH 🇺🇿 - 🇮🇷 Arian SALIMI
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T092400Z-modern-pentathlon--A-
-DTSTAMP:20240810T092400Z
-DTSTART:20240810T092400Z
-DTEND:20240810T094400Z
+UID:20240810T092700Z-modern-pentathlon--A-
+DTSTAMP:20240810T092700Z
+DTSTART:20240810T092700Z
+DTEND:20240810T094700Z
 DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, лазер-ран
   (ж)\n🇮🇹 Alice SOTERO\n🇩🇪 Annika ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺
   Genevieve JANSE van RENSBURG\n🇧🇷 Isabela ABREU\n🇺🇸 Jessica
@@ -38522,7 +38522,8 @@ UID:20240810T101000Z-wrestling--97-14-
 DTSTAMP:20240810T101000Z
 DTSTART:20240810T101000Z
 DTEND:20240810T101700Z
-DESCRIPTION:Борьба - Вольная борьба, 97кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 97кг, 1/4 финала (м)\n🇦🇿 Magomedkhan
+  MAGOMEDOV
 SUMMARY:🤼 Вольная борьба, 97кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -38540,7 +38541,8 @@ UID:20240810T101700Z-wrestling--65-14-
 DTSTAMP:20240810T101700Z
 DTSTART:20240810T101700Z
 DTEND:20240810T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 65кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 65кг, 1/4 финала (м)\n🇦🇲 Vazgen
+  TEVANYAN
 SUMMARY:🤼 Вольная борьба, 65кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -38848,7 +38850,7 @@ UID:20240810T133200Z-taekwondo--80-
 DTSTAMP:20240810T133200Z
 DTSTART:20240810T133200Z
 DTEND:20240810T134500Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, свыше 80кг (м)
+DESCRIPTION:Тхэквондо - Четвертьфинал, свыше 80кг (м)\n🇲🇽 Carlos SANSORES
 SUMMARY:🥋 Четвертьфинал, свыше 80кг (м)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -39594,13 +39596,12 @@ SUMMARY:🤸 Четвертьфинал 4 (м)
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T182500Z-wrestling--62-
+UID:20240810T182500Z-wrestling--62--CAN-NOR
 DTSTAMP:20240810T182500Z
 DTSTART:20240810T182500Z
 DTEND:20240810T183500Z
-DESCRIPTION:Борьба - Вольная борьба, 62кг, поединок за бронзу (ж)\n🇳🇴
-  Grace Jacob BULLEN
-SUMMARY:🤼 Вольная борьба, 62кг, поединок за бронзу (ж)
+DESCRIPTION:Борьба - Вольная борьба, 62кг, поединок за бронзу (ж)
+SUMMARY:🤼 Ana Paula GODINEZ GONZALEZ 🇨🇦 - 🇳🇴 Grace Jacob BULLEN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
