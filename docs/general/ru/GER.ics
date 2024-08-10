@@ -10072,6 +10072,15 @@ SUMMARY:🥋 Lorena BRANDL 🇩🇪 - 🇹🇯 Munira ABDUSALOMOVA
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T183400Z-taekwondo--67--KOR-GER
+DTSTAMP:20240810T183400Z
+DTSTART:20240810T183400Z
+DTEND:20240810T184900Z
+DESCRIPTION:Тхэквондо - Поединки за бронзу, свыше 67кг (ж)
+SUMMARY:🥋 LEE Dabin 🇰🇷 - 🇩🇪 Lorena BRANDL
+LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T203000Z-beach-volleyball---SWE-GER
 DTSTAMP:20240810T203000Z
 DTSTART:20240810T203000Z
@@ -10134,6 +10143,16 @@ DESCRIPTION:Трековые велогонки - Омниум, скрэтч (1 
   Maike van der DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija
   BALEISYTE\n🇫🇷 Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
 SUMMARY:🚴 Омниум, скрэтч (1 из 4) (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T102500Z-cycling-track--5-8-
+DTSTAMP:20240811T102500Z
+DTSTART:20240811T102500Z
+DTEND:20240811T102900Z
+DESCRIPTION:Трековые велогонки - Спринт, за 5-8 места (ж)\n🇬🇧
+  Великобритания\n🇩🇪 Германия\n🇨🇦 Канада\n🇨🇴 Колумбия
+SUMMARY:🚴 Спринт, за 5-8 места (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
