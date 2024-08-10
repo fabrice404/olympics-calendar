@@ -7591,12 +7591,12 @@ SUMMARY:🤼 TAKATANI Daichi 🇯🇵 - 🇺🇿 Razambek Salambekovitch JAMALOV
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T181500Z-breaking--3-
+UID:20240810T181500Z-breaking--3--JPN-NED
 DTSTAMP:20240810T181500Z
 DTSTART:20240810T181500Z
 DTEND:20240810T182245Z
-DESCRIPTION:Брейкинг - Четвертьфинал 3 (м)\n🇯🇵 SHIGEKIX
-SUMMARY:🤸 Четвертьфинал 3 (м)
+DESCRIPTION:Брейкинг - Четвертьфинал 3 (м)
+SUMMARY:🤸 SHIGEKIX 🇯🇵 - 🇳🇱 MENNO
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
@@ -7687,6 +7687,15 @@ DESCRIPTION:Трековые велогонки - Омниум, скрэтч (1 
   BALEISYTE\n🇫🇷 Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
 SUMMARY:🚴 Омниум, скрэтч (1 из 4) (ж)
 LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T102000Z-wrestling--65--JPN-IRI
+DTSTAMP:20240811T102000Z
+DTSTART:20240811T102000Z
+DTEND:20240811T103000Z
+DESCRIPTION:Борьба - Вольная борьба, 65кг, финал (м)
+SUMMARY:🤼 KIYOOKA Kotaro 🇯🇵 - 🇮🇷 Rahman AMOUZADKHALILI
+LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240811T190000Z-closing-ceremony
