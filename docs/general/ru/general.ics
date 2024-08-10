@@ -37969,22 +37969,6 @@ SUMMARY:🥋 Jonathan HEALY 🇺🇸 - 🇨🇳 SONG Zhaoxiang
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T081000Z-modern-pentathlon--A-
-DTSTAMP:20240810T081000Z
-DTSTART:20240810T081000Z
-DTEND:20240810T083000Z
-DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, фехтование,
-  бонус-раунд (ж)\n🇮🇹 Alice SOTERO\n🇩🇪 Annika ZILLEKENS\n🇮🇹 Elena
-  MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷 Isabela ABREU\n🇺🇸
-  Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza BRYSON\n🇱🇹 Laura
-  ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
-  OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪 Rebecca
-  LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿 Yelena
-  POTAPENKO
-SUMMARY:🤺 Личный зачет, полуфинал A, фехтование, бонус-раунд (ж)
-LOCATION:Версаль
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T081500Z-sport-climbing--
 DTSTAMP:20240810T081500Z
 DTSTART:20240810T081500Z
@@ -38003,6 +37987,22 @@ DTEND:20240810T083500Z
 DESCRIPTION:Тхэквондо - 1/8 финала, свыше 67кг (ж)
 SUMMARY:🥋 Nafia KUS AYDIN 🇹🇷 - 🇨🇱 Fernanda AGUIRRE
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T082400Z-modern-pentathlon--A-
+DTSTAMP:20240810T082400Z
+DTSTART:20240810T082400Z
+DTEND:20240810T084400Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, фехтование,
+  бонус-раунд (ж)\n🇮🇹 Alice SOTERO\n🇩🇪 Annika ZILLEKENS\n🇮🇹 Elena
+  MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷 Isabela ABREU\n🇺🇸
+  Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza BRYSON\n🇱🇹 Laura
+  ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
+  OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪 Rebecca
+  LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿 Yelena
+  POTAPENKO
+SUMMARY:🤺 Личный зачет, полуфинал A, фехтование, бонус-раунд (ж)
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T083000Z-canoe-sprint--500-1-
@@ -38047,16 +38047,6 @@ SUMMARY:🛶 Байдарки-одиночки 500м, полуфинал 2 (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T084000Z-modern-pentathlon--A-200-
-DTSTAMP:20240810T084000Z
-DTSTART:20240810T084000Z
-DTEND:20240810T085500Z
-DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, плавание,
-  200м вольным стилем (ж)
-SUMMARY:🤺 Личный зачет, полуфинал A, плавание, 200м вольным стилем (ж)
-LOCATION:Версаль
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T084700Z-taekwondo-18-67--CZE-KOR
 DTSTAMP:20240810T084700Z
 DTSTART:20240810T084700Z
@@ -38076,6 +38066,16 @@ DESCRIPTION:Гребной спринт - Байдарки-одиночки 500�
   Mengdie\n🇧🇬 Yoana GEORGIEVA
 SUMMARY:🛶 Байдарки-одиночки 500м, полуфинал 3 (ж)
 LOCATION:Водный ст. - Гладкая вода
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T085400Z-modern-pentathlon--A-200-
+DTSTAMP:20240810T085400Z
+DTSTART:20240810T085400Z
+DTEND:20240810T090900Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, плавание,
+  200м вольным стилем (ж)
+SUMMARY:🤺 Личный зачет, полуфинал A, плавание, 200м вольным стилем (ж)
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T085900Z-taekwondo-18-80--GBS-MEX
@@ -38174,16 +38174,6 @@ SUMMARY:🛶 Байдарки-одиночки 1000м, полуфинал 1 (м)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T091000Z-modern-pentathlon--A-
-DTSTAMP:20240810T091000Z
-DTSTART:20240810T091000Z
-DTEND:20240810T093000Z
-DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, лазер-ран
-  (ж)
-SUMMARY:🤺 Личный зачет, полуфинал A, лазер-ран (ж)
-LOCATION:Версаль
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T091100Z-taekwondo-18-67--CHN-AUT
 DTSTAMP:20240810T091100Z
 DTSTART:20240810T091100Z
@@ -38266,6 +38256,16 @@ DTEND:20240810T093600Z
 DESCRIPTION:Тхэквондо - 1/8 финала, свыше 80кг (м)
 SUMMARY:🥋 Nikita RAFALOVICH 🇺🇿 - 🇮🇷 Arian SALIMI
 LOCATION:Гран-Пале
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T092400Z-modern-pentathlon--A-
+DTSTAMP:20240810T092400Z
+DTSTART:20240810T092400Z
+DTEND:20240810T094400Z
+DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, лазер-ран
+  (ж)
+SUMMARY:🤺 Личный зачет, полуфинал A, лазер-ран (ж)
+LOCATION:Версаль
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T092800Z-wrestling--97-18--GEO-RSA
@@ -38779,7 +38779,7 @@ UID:20240810T125300Z-taekwondo--67-
 DTSTAMP:20240810T125300Z
 DTSTART:20240810T125300Z
 DTEND:20240810T130600Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, свыше 67кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, свыше 67кг (ж)\n🇯🇴 Rama ABO-ALRUB
 SUMMARY:🥋 Четвертьфинал, свыше 67кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -39342,13 +39342,12 @@ SUMMARY:🏃 800м, финал (м)
 LOCATION:«Стад-де-Франс»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T171500Z-wrestling--74-
+UID:20240810T171500Z-wrestling--74--SRB-USA
 DTSTAMP:20240810T171500Z
 DTSTART:20240810T171500Z
 DTEND:20240810T172500Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, поединок за бронзу (м)\n🇺🇸
-  Kyle Douglas DAKE
-SUMMARY:🤼 Вольная борьба, 74кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, поединок за бронзу (м)
+SUMMARY:🤼 Hetik CABOLOV 🇷🇸 - 🇺🇸 Kyle Douglas DAKE
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -39800,32 +39799,33 @@ DESCRIPTION:Легкая атлетика - Марафон, финал (ж)\n�
   ORJUELA\n🇳🇱 Anne LUIJTEN\n🇨🇳 BAI Li\n🇭🇷 Bojana BJELJAC\n🇬🇧 Calli
   HAUGER-THACKERY\n🇫🇮 Camilla RICHARDSSON\n🇳🇿 Camille FRENCH\n🇸🇪
   Carolina WIKSTROM\n🇧🇪 Chloe HERBIET\n🇿🇦 Cian OLDKNOW\n🇲🇽 Citlali
-  CRISTIAN MOSCOTE\n🇷🇼 Clementine MUKANDANGA\n🇦🇷 Daiana OCAMPO\n🇺🇸
-  Dakotah LINDWURM\n🇷🇴 Delvine Relin MERINGOR\n🇪🇷 Dolshi TESFU\n🇩🇪
-  Domenika MAYER\n🇺🇸 Emily SISSON\n🇪🇸 Esther NAVARRETE\n🇧🇭 Eunice
-  Chebichii CHUMBA\n🇨🇭 Fabienne SCHLUMPF\n🇲🇦 Fatima Ezzahra
-  GARDADI\n🇺🇸 Fiona O'KEEFFE\n🇮🇪 Fionnuala McCORMACK\n🇦🇷 Florencia
-  BORELLI\n🇦🇺 Genevieve GREGSON\n🇿🇦 Gerda STEYN\n🇮🇹 Giovanna
-  EPIS\n🇵🇪 Gladys TEJEDA\n🇧🇪 Hanne VERBRUGGEN\n🇳🇦 Helalia
-  JOHANNES\n🇨🇭 Helen BEKELE\n🇰🇪 Hellen OBIRI\n🇯🇵 ICHIYAMA Mao\n🇿🇦
-  Irvette van ZYL\n🇹🇿 Jackline SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan
-  Chelimo MELLY\n🇦🇹 Julia MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳
-  Khishigsaikhan GALBADRAKH\n🇧🇹 Kinzang LHAMO\n🇩🇪 Laura
-  HOTTENROTT\n🇮🇱 Lonah Chemtai SALPETER\n🇵🇪 Luz Mery ROJAS\n🇯🇵 MAEDA
-  Honami\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida MAAYOUF\n🇨🇦 Malindi
-  ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ FLORES\n🇲🇺 Marie
-  PERRIER\n🇪🇨 Mary Zenaida GRANJA\n🇭🇷 Matea PARLOV KOSTRO\n🇪🇹 Megertu
-  ALEMU\n🇫🇷 Mekdes WOLDU\n🇩🇪 Melat Yisak KEJETA\n🇫🇷 Meline
-  ROLLIN\n🇫🇷 Melody JULIEN\n🇺🇬 Mercyline CHELANGAT\n🇪🇸 Meritxell
-  SOLER\n🇨🇿 Moira STEWARTOVA\n🇱🇸 Mokulubete Blandina MAKATISI\n🇲🇳
-  Munkhzaya BAYARTSOGT\n🇰🇪 Peres JEPCHIRCHIR\n🇲🇦 Rahma TAHIRI\n🇺🇬
-  Rebecca CHEPTEGEI\n🇪🇨 Rosa Alva CHACHA\n🇧🇭 Rose CHELIMO\n🇬🇧 Rose
-  HARVEY\n🇿🇼 Rutendo Joan NYAHORA\n🇯🇵 SUZUKI Yuka\n🇰🇬 Sardana
-  TROFIMOVA\n🇳🇵 Shantoshi SHRESTHA\n🇰🇪 Sharon LOKEDI\n🇳🇱 Sifan
-  HASSAN\n🇪🇨 Silvia Patricia ORTIZ MOROCHO\n🇦🇺 Sinead DIVER\n🇮🇹
-  Sofiia YAREMCHUK\n🇺🇬 Stella CHESANG\n🇵🇹 Susana SANTOS\n🇨🇿 Tereza
-  HROCHOVA\n🇵🇪 Thalia VALDIVIA\n🇧🇭 Tigist GASHAW\n🇪🇹 Tigst
-  ASSEFA\n🇨🇳 XIA Yuyu\n🇨🇳 ZHANG Deshun\n🇰🇿 Zhanna MAMAZHANOVA
+  CRISTIAN MOSCOTE\n🇬🇧 Clara EVANS\n🇷🇼 Clementine MUKANDANGA\n🇦🇷
+  Daiana OCAMPO\n🇺🇸 Dakotah LINDWURM\n🇷🇴 Delvine Relin MERINGOR\n🇪🇷
+  Dolshi TESFU\n🇩🇪 Domenika MAYER\n🇺🇸 Emily SISSON\n🇪🇸 Esther
+  NAVARRETE\n🇧🇭 Eunice Chebichii CHUMBA\n🇨🇭 Fabienne SCHLUMPF\n🇲🇦
+  Fatima Ezzahra GARDADI\n🇺🇸 Fiona O'KEEFFE\n🇮🇪 Fionnuala
+  McCORMACK\n🇦🇷 Florencia BORELLI\n🇦🇺 Genevieve GREGSON\n🇿🇦 Gerda
+  STEYN\n🇮🇹 Giovanna EPIS\n🇵🇪 Gladys TEJEDA\n🇧🇪 Hanne
+  VERBRUGGEN\n🇳🇦 Helalia JOHANNES\n🇨🇭 Helen BEKELE\n🇰🇪 Hellen
+  OBIRI\n🇯🇵 ICHIYAMA Mao\n🇿🇦 Irvette van ZYL\n🇹🇿 Jackline
+  SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan Chelimo MELLY\n🇦🇹 Julia
+  MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳 Khishigsaikhan GALBADRAKH\n🇧🇹
+  Kinzang LHAMO\n🇩🇪 Laura HOTTENROTT\n🇮🇱 Lonah Chemtai SALPETER\n🇵🇪
+  Luz Mery ROJAS\n🇯🇵 MAEDA Honami\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida
+  MAAYOUF\n🇨🇦 Malindi ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ
+  FLORES\n🇲🇺 Marie PERRIER\n🇪🇨 Mary Zenaida GRANJA\n🇭🇷 Matea PARLOV
+  KOSTRO\n🇪🇹 Megertu ALEMU\n🇫🇷 Mekdes WOLDU\n🇩🇪 Melat Yisak
+  KEJETA\n🇫🇷 Meline ROLLIN\n🇫🇷 Melody JULIEN\n🇺🇬 Mercyline
+  CHELANGAT\n🇪🇸 Meritxell SOLER\n🇨🇿 Moira STEWARTOVA\n🇱🇸 Mokulubete
+  Blandina MAKATISI\n🇲🇳 Munkhzaya BAYARTSOGT\n🇰🇪 Peres
+  JEPCHIRCHIR\n🇲🇦 Rahma TAHIRI\n🇺🇬 Rebecca CHEPTEGEI\n🇪🇨 Rosa Alva
+  CHACHA\n🇧🇭 Rose CHELIMO\n🇬🇧 Rose HARVEY\n🇿🇼 Rutendo Joan
+  NYAHORA\n🇯🇵 SUZUKI Yuka\n🇰🇬 Sardana TROFIMOVA\n🇳🇵 Shantoshi
+  SHRESTHA\n🇰🇪 Sharon LOKEDI\n🇳🇱 Sifan HASSAN\n🇪🇨 Silvia Patricia
+  ORTIZ MOROCHO\n🇦🇺 Sinead DIVER\n🇮🇹 Sofiia YAREMCHUK\n🇺🇬 Stella
+  CHESANG\n🇵🇹 Susana SANTOS\n🇨🇿 Tereza HROCHOVA\n🇵🇪 Thalia
+  VALDIVIA\n🇧🇭 Tigist GASHAW\n🇪🇹 Tigst ASSEFA\n🇨🇳 XIA Yuyu\n🇨🇳
+  ZHANG Deshun\n🇰🇿 Zhanna MAMAZHANOVA
 SUMMARY:🏃 Марафон, финал (ж)
 LOCATION:Дом инвалидов
 END:VEVENT

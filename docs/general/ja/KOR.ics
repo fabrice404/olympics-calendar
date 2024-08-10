@@ -3635,21 +3635,6 @@ SUMMARY:🏓 大韓民国 🇰🇷 - 🇩🇪 ドイツ
 LOCATION:サウス・パリ・アリーナ4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T081000Z-modern-pentathlon-A
-DTSTAMP:20240810T081000Z
-DTSTART:20240810T081000Z
-DTEND:20240810T083000Z
-DESCRIPTION:近代五種 - 女子フェンシングボーナスラウンド準決勝A\n🇮🇹 Alice SOTERO\n🇩🇪 Annika
-  ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷
-  Isabela ABREU\n🇺🇸 Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza
-  BRYSON\n🇱🇹 Laura ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak
-  ISMAIL\n🇫🇷 Marie OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪
-  Rebecca LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿
-  Yelena POTAPENKO
-SUMMARY:🤺 女子フェンシングボーナスラウンド準決勝A
-LOCATION:ベルサイユ宮殿
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T081500Z-sport-climbing-
 DTSTAMP:20240810T081500Z
 DTSTART:20240810T081500Z
@@ -3659,6 +3644,21 @@ DESCRIPTION:スポーツクライミング - 女子ボルダー&リード、ボ�
   Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
 SUMMARY:🧗 女子ボルダー&リード、ボルダー決勝戦
 LOCATION:ル・ブルジェ・スポーツクライミング
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T082400Z-modern-pentathlon-A
+DTSTAMP:20240810T082400Z
+DTSTART:20240810T082400Z
+DTEND:20240810T084400Z
+DESCRIPTION:近代五種 - 女子フェンシングボーナスラウンド準決勝A\n🇮🇹 Alice SOTERO\n🇩🇪 Annika
+  ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷
+  Isabela ABREU\n🇺🇸 Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza
+  BRYSON\n🇱🇹 Laura ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak
+  ISMAIL\n🇫🇷 Marie OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪
+  Rebecca LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿
+  Yelena POTAPENKO
+SUMMARY:🤺 女子フェンシングボーナスラウンド準決勝A
+LOCATION:ベルサイユ宮殿
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T084700Z-taekwondo-67KG1-CZE-KOR

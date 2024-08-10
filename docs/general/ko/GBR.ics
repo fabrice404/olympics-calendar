@@ -8294,21 +8294,6 @@ SUMMARY:🏊 남자 10m 플랫폼 준결승
 LOCATION:아쿠아틱 센터
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T081000Z-modern-pentathlon--A-
-DTSTAMP:20240810T081000Z
-DTSTART:20240810T081000Z
-DTEND:20240810T083000Z
-DESCRIPTION:근대5종 - 여자 준결승 A 펜싱 보너스 라운드\n🇮🇹 Alice SOTERO\n🇩🇪 Annika
-  ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷
-  Isabela ABREU\n🇺🇸 Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza
-  BRYSON\n🇱🇹 Laura ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak
-  ISMAIL\n🇫🇷 Marie OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪
-  Rebecca LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿
-  Yelena POTAPENKO
-SUMMARY:🤺 여자 준결승 A 펜싱 보너스 라운드
-LOCATION:샤토 드 베르사유
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T081500Z-sport-climbing--
 DTSTAMP:20240810T081500Z
 DTSTART:20240810T081500Z
@@ -8318,6 +8303,21 @@ DESCRIPTION:스포츠클라이밍 - 여자 볼더 & 리드, 결승 - 볼더\n�
   Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
 SUMMARY:🧗 여자 볼더 & 리드, 결승 - 볼더
 LOCATION:르 부르제 클라이밍 경기장
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T082400Z-modern-pentathlon--A-
+DTSTAMP:20240810T082400Z
+DTSTART:20240810T082400Z
+DTEND:20240810T084400Z
+DESCRIPTION:근대5종 - 여자 준결승 A 펜싱 보너스 라운드\n🇮🇹 Alice SOTERO\n🇩🇪 Annika
+  ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷
+  Isabela ABREU\n🇺🇸 Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza
+  BRYSON\n🇱🇹 Laura ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak
+  ISMAIL\n🇫🇷 Marie OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪
+  Rebecca LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿
+  Yelena POTAPENKO
+SUMMARY:🤺 여자 준결승 A 펜싱 보너스 라운드
+LOCATION:샤토 드 베르사유
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T100000Z-taekwondo--67KG-16-GBR-FIJ
@@ -8486,17 +8486,17 @@ DESCRIPTION:육상 - 여자 마라톤 결승\n🇵🇱 Aleksandra LISOWSKA\n🇪
   SHANKULE\n🇵🇱 Angelika MACH\n🇨🇴 Angie ORJUELA\n🇳🇱 Anne LUIJTEN\n🇨🇳
   BAI Li\n🇭🇷 Bojana BJELJAC\n🇬🇧 Calli HAUGER-THACKERY\n🇫🇮 Camilla
   RICHARDSSON\n🇳🇿 Camille FRENCH\n🇸🇪 Carolina WIKSTROM\n🇧🇪 Chloe
-  HERBIET\n🇿🇦 Cian OLDKNOW\n🇲🇽 Citlali CRISTIAN MOSCOTE\n🇷🇼
-  Clementine MUKANDANGA\n🇦🇷 Daiana OCAMPO\n🇺🇸 Dakotah LINDWURM\n🇷🇴
-  Delvine Relin MERINGOR\n🇪🇷 Dolshi TESFU\n🇩🇪 Domenika MAYER\n🇺🇸
-  Emily SISSON\n🇪🇸 Esther NAVARRETE\n🇧🇭 Eunice Chebichii CHUMBA\n🇨🇭
-  Fabienne SCHLUMPF\n🇲🇦 Fatima Ezzahra GARDADI\n🇺🇸 Fiona O'KEEFFE\n🇮🇪
-  Fionnuala McCORMACK\n🇦🇷 Florencia BORELLI\n🇦🇺 Genevieve GREGSON\n🇿🇦
-  Gerda STEYN\n🇮🇹 Giovanna EPIS\n🇵🇪 Gladys TEJEDA\n🇧🇪 Hanne
-  VERBRUGGEN\n🇳🇦 Helalia JOHANNES\n🇨🇭 Helen BEKELE\n🇰🇪 Hellen
-  OBIRI\n🇯🇵 ICHIYAMA Mao\n🇿🇦 Irvette van ZYL\n🇹🇿 Jackline
-  SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan Chelimo MELLY\n🇦🇹 Julia
-  MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳 Khishigsaikhan GALBADRAKH\n🇧🇹
+  HERBIET\n🇿🇦 Cian OLDKNOW\n🇲🇽 Citlali CRISTIAN MOSCOTE\n🇬🇧 Clara
+  EVANS\n🇷🇼 Clementine MUKANDANGA\n🇦🇷 Daiana OCAMPO\n🇺🇸 Dakotah
+  LINDWURM\n🇷🇴 Delvine Relin MERINGOR\n🇪🇷 Dolshi TESFU\n🇩🇪 Domenika
+  MAYER\n🇺🇸 Emily SISSON\n🇪🇸 Esther NAVARRETE\n🇧🇭 Eunice Chebichii
+  CHUMBA\n🇨🇭 Fabienne SCHLUMPF\n🇲🇦 Fatima Ezzahra GARDADI\n🇺🇸 Fiona
+  O'KEEFFE\n🇮🇪 Fionnuala McCORMACK\n🇦🇷 Florencia BORELLI\n🇦🇺
+  Genevieve GREGSON\n🇿🇦 Gerda STEYN\n🇮🇹 Giovanna EPIS\n🇵🇪 Gladys
+  TEJEDA\n🇧🇪 Hanne VERBRUGGEN\n🇳🇦 Helalia JOHANNES\n🇨🇭 Helen
+  BEKELE\n🇰🇪 Hellen OBIRI\n🇯🇵 ICHIYAMA Mao\n🇿🇦 Irvette van ZYL\n🇹🇿
+  Jackline SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan Chelimo MELLY\n🇦🇹
+  Julia MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳 Khishigsaikhan GALBADRAKH\n🇧🇹
   Kinzang LHAMO\n🇩🇪 Laura HOTTENROTT\n🇮🇱 Lonah Chemtai SALPETER\n🇵🇪
   Luz Mery ROJAS\n🇯🇵 MAEDA Honami\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida
   MAAYOUF\n🇨🇦 Malindi ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ

@@ -3685,10 +3685,21 @@ SUMMARY:🏓 Южная Корея 🇰🇷 - 🇩🇪 Германия
 LOCATION:Арена «Париж-Юг» 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T081000Z-modern-pentathlon--A-
-DTSTAMP:20240810T081000Z
-DTSTART:20240810T081000Z
-DTEND:20240810T083000Z
+UID:20240810T081500Z-sport-climbing--
+DTSTAMP:20240810T081500Z
+DTSTART:20240810T081500Z
+DTEND:20240810T095200Z
+DESCRIPTION:Спортивное скалолазание - Боулдеринг, финал (ж)\n🇺🇸 Brooke
+  RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica PILZ\n🇯🇵
+  MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
+SUMMARY:🧗 Боулдеринг, финал (ж)
+LOCATION:Скалодром «Ле-Бурже»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T082400Z-modern-pentathlon--A-
+DTSTAMP:20240810T082400Z
+DTSTART:20240810T082400Z
+DTEND:20240810T084400Z
 DESCRIPTION:Современное пятиборье - Личный зачет, полуфинал A, фехтование,
   бонус-раунд (ж)\n🇮🇹 Alice SOTERO\n🇩🇪 Annika ZILLEKENS\n🇮🇹 Elena
   MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷 Isabela ABREU\n🇺🇸
@@ -3699,17 +3710,6 @@ DESCRIPTION:Современное пятиборье - Личный зачет,
   POTAPENKO
 SUMMARY:🤺 Личный зачет, полуфинал A, фехтование, бонус-раунд (ж)
 LOCATION:Версаль
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T081500Z-sport-climbing--
-DTSTAMP:20240810T081500Z
-DTSTART:20240810T081500Z
-DTEND:20240810T095200Z
-DESCRIPTION:Спортивное скалолазание - Боулдеринг, финал (ж)\n🇺🇸 Brooke
-  RABOUTOU\n🇬🇧 Erin McNEICE\n🇸🇮 Janja GARNBRET\n🇦🇹 Jessica PILZ\n🇯🇵
-  MORI Ai\n🇦🇺 Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
-SUMMARY:🧗 Боулдеринг, финал (ж)
-LOCATION:Скалодром «Ле-Бурже»
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T084700Z-taekwondo-18-67--CZE-KOR

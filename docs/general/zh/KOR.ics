@@ -3632,21 +3632,6 @@ SUMMARY:🏓 韩国 🇰🇷 - 🇩🇪 德国
 LOCATION:南巴黎竞技场4号馆
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T081000Z-modern-pentathlon-A-
-DTSTAMP:20240810T081000Z
-DTSTART:20240810T081000Z
-DTEND:20240810T083000Z
-DESCRIPTION:现代五项 - 女子半决赛A - 击剑奖励附加回合\n🇮🇹 Alice SOTERO\n🇩🇪 Annika
-  ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷
-  Isabela ABREU\n🇺🇸 Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza
-  BRYSON\n🇱🇹 Laura ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak
-  ISMAIL\n🇫🇷 Marie OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪
-  Rebecca LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿
-  Yelena POTAPENKO
-SUMMARY:🤺 女子半决赛A - 击剑奖励附加回合
-LOCATION:凡尔赛宫
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T081500Z-sport-climbing--
 DTSTAMP:20240810T081500Z
 DTSTART:20240810T081500Z
@@ -3656,6 +3641,21 @@ DESCRIPTION:运动攀岩 - 女子攀石和难度攀岩决赛 - 攀石\n🇺🇸 
   Oceania MACKENZIE\n🇫🇷 Oriane BERTONE\n🇰🇷 SEO Chaehyun
 SUMMARY:🧗 女子攀石和难度攀岩决赛 - 攀石
 LOCATION:勒布尔歇运动攀岩馆
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T082400Z-modern-pentathlon-A-
+DTSTAMP:20240810T082400Z
+DTSTART:20240810T082400Z
+DTEND:20240810T084400Z
+DESCRIPTION:现代五项 - 女子半决赛A - 击剑奖励附加回合\n🇮🇹 Alice SOTERO\n🇩🇪 Annika
+  ZILLEKENS\n🇮🇹 Elena MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷
+  Isabela ABREU\n🇺🇸 Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza
+  BRYSON\n🇱🇹 Laura ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak
+  ISMAIL\n🇫🇷 Marie OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪
+  Rebecca LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿
+  Yelena POTAPENKO
+SUMMARY:🤺 女子半决赛A - 击剑奖励附加回合
+LOCATION:凡尔赛宫
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T084700Z-taekwondo-6716-CZE-KOR

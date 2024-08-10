@@ -37865,22 +37865,6 @@ SUMMARY:🥋 Jonathan HEALY 🇺🇸 - 🇨🇳 SONG Zhaoxiang
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T081000Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-A-FENCI
-DTSTAMP:20240810T081000Z
-DTSTART:20240810T081000Z
-DTEND:20240810T083000Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final A, Fencing
-  Bonus Round\n🇮🇹 Alice SOTERO\n🇩🇪 Annika ZILLEKENS\n🇮🇹 Elena
-  MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷 Isabela ABREU\n🇺🇸
-  Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza BRYSON\n🇱🇹 Laura
-  ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
-  OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪 Rebecca
-  LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿 Yelena
-  POTAPENKO
-SUMMARY:🤺 Women's Individual, Semi-final A, Fencing Bonus Round
-LOCATION:Château de Versailles
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T081500Z-sport-climbing-WOMENS-BOULDER-LEAD-FINAL-BOULDER
 DTSTAMP:20240810T081500Z
 DTSTART:20240810T081500Z
@@ -37900,6 +37884,22 @@ DTEND:20240810T083500Z
 DESCRIPTION:Taekwondo - Women +67kg Round of 16
 SUMMARY:🥋 Nafia KUS AYDIN 🇹🇷 - 🇨🇱 Fernanda AGUIRRE
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T082400Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-A-FENCI
+DTSTAMP:20240810T082400Z
+DTSTART:20240810T082400Z
+DTEND:20240810T084400Z
+DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final A, Fencing
+  Bonus Round\n🇮🇹 Alice SOTERO\n🇩🇪 Annika ZILLEKENS\n🇮🇹 Elena
+  MICHELI\n🇦🇺 Genevieve JANSE van RENSBURG\n🇧🇷 Isabela ABREU\n🇺🇸
+  Jessica SAVNER\n🇬🇧 Kate FRENCH\n🇬🇧 Kerenza BRYSON\n🇱🇹 Laura
+  ASADAUSKAITE\n🇨🇿 Lucie HLAVACKOVA\n🇪🇬 Malak ISMAIL\n🇫🇷 Marie
+  OTEIZA\n🇸🇪 Marlena JAWAID\n🇲🇽 Mayan OLIVER\n🇩🇪 Rebecca
+  LANGREHR\n🇰🇷 SEONG Seungmin\n🇪🇬 Salma ABDELMAKSOUD\n🇰🇿 Yelena
+  POTAPENKO
+SUMMARY:🤺 Women's Individual, Semi-final A, Fencing Bonus Round
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T083000Z-canoe-sprint-WOMENS-KAYAK-SINGLE-500M-SEMIFINAL-1
@@ -37944,16 +37944,6 @@ SUMMARY:🛶 Women's Kayak Single 500m Semifinal 2
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T084000Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-A-SWIMM
-DTSTAMP:20240810T084000Z
-DTSTART:20240810T084000Z
-DTEND:20240810T085500Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final A, Swimming
-  200m Freestyle
-SUMMARY:🤺 Women's Individual, Semi-final A, Swimming 200m Freestyle
-LOCATION:Château de Versailles
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T084700Z-taekwondo-WOMEN-67KG-ROUND-OF-16-CZE-KOR
 DTSTAMP:20240810T084700Z
 DTSTART:20240810T084700Z
@@ -37973,6 +37963,16 @@ DESCRIPTION:Canoe Sprint - Women's Kayak Single 500m Semifinal 3\n🇭🇺
   Mengdie\n🇧🇬 Yoana GEORGIEVA
 SUMMARY:🛶 Women's Kayak Single 500m Semifinal 3
 LOCATION:Nautical St - Flat water
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T085400Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-A-SWIMM
+DTSTAMP:20240810T085400Z
+DTSTART:20240810T085400Z
+DTEND:20240810T090900Z
+DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final A, Swimming
+  200m Freestyle
+SUMMARY:🤺 Women's Individual, Semi-final A, Swimming 200m Freestyle
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T085900Z-taekwondo-MEN-80KG-ROUND-OF-16-GBS-MEX
@@ -38071,15 +38071,6 @@ SUMMARY:🛶 Men's Kayak Single 1000m Semifinal 1
 LOCATION:Nautical St - Flat water
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T091000Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-A-LASER
-DTSTAMP:20240810T091000Z
-DTSTART:20240810T091000Z
-DTEND:20240810T093000Z
-DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final A, Laser Run
-SUMMARY:🤺 Women's Individual, Semi-final A, Laser Run
-LOCATION:Château de Versailles
-END:VEVENT
-BEGIN:VEVENT
 UID:20240810T091100Z-taekwondo-WOMEN-67KG-ROUND-OF-16-CHN-AUT
 DTSTAMP:20240810T091100Z
 DTSTART:20240810T091100Z
@@ -38162,6 +38153,15 @@ DTEND:20240810T093600Z
 DESCRIPTION:Taekwondo - Men +80kg Round of 16
 SUMMARY:🥋 Nikita RAFALOVICH 🇺🇿 - 🇮🇷 Arian SALIMI
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T092400Z-modern-pentathlon-WOMENS-INDIVIDUAL-SEMI-FINAL-A-LASER
+DTSTAMP:20240810T092400Z
+DTSTART:20240810T092400Z
+DTEND:20240810T094400Z
+DESCRIPTION:Modern Pentathlon - Women's Individual, Semi-final A, Laser Run
+SUMMARY:🤺 Women's Individual, Semi-final A, Laser Run
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240810T092800Z-wrestling-MENS-FREESTYLE-97KG-18-FINAL-GEO-RSA
@@ -38675,7 +38675,7 @@ UID:20240810T125300Z-taekwondo-WOMEN-67KG-QUARTERFINAL
 DTSTAMP:20240810T125300Z
 DTSTART:20240810T125300Z
 DTEND:20240810T130600Z
-DESCRIPTION:Taekwondo - Women +67kg Quarterfinal
+DESCRIPTION:Taekwondo - Women +67kg Quarterfinal\n🇯🇴 Rama ABO-ALRUB
 SUMMARY:🥋 Women +67kg Quarterfinal
 LOCATION:Grand Palais
 END:VEVENT
@@ -39237,13 +39237,12 @@ SUMMARY:🏃 Men's 800m Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T171500Z-wrestling-MENS-FREESTYLE-74KG-BRONZE-MEDAL-MATCH
+UID:20240810T171500Z-wrestling-MENS-FREESTYLE-74KG-BRONZE-MEDAL-MATCH-SRB-U
 DTSTAMP:20240810T171500Z
 DTSTART:20240810T171500Z
 DTEND:20240810T172500Z
-DESCRIPTION:Wrestling - Men's Freestyle 74kg Bronze Medal Match\n🇺🇸 Kyle
-  Douglas DAKE
-SUMMARY:🤼 Men's Freestyle 74kg Bronze Medal Match
+DESCRIPTION:Wrestling - Men's Freestyle 74kg Bronze Medal Match
+SUMMARY:🤼 Hetik CABOLOV 🇷🇸 - 🇺🇸 Kyle Douglas DAKE
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -39691,32 +39690,33 @@ DESCRIPTION:Athletics - Women's Marathon\n🇵🇱 Aleksandra LISOWSKA\n🇪🇹
   LUIJTEN\n🇨🇳 BAI Li\n🇭🇷 Bojana BJELJAC\n🇬🇧 Calli
   HAUGER-THACKERY\n🇫🇮 Camilla RICHARDSSON\n🇳🇿 Camille FRENCH\n🇸🇪
   Carolina WIKSTROM\n🇧🇪 Chloe HERBIET\n🇿🇦 Cian OLDKNOW\n🇲🇽 Citlali
-  CRISTIAN MOSCOTE\n🇷🇼 Clementine MUKANDANGA\n🇦🇷 Daiana OCAMPO\n🇺🇸
-  Dakotah LINDWURM\n🇷🇴 Delvine Relin MERINGOR\n🇪🇷 Dolshi TESFU\n🇩🇪
-  Domenika MAYER\n🇺🇸 Emily SISSON\n🇪🇸 Esther NAVARRETE\n🇧🇭 Eunice
-  Chebichii CHUMBA\n🇨🇭 Fabienne SCHLUMPF\n🇲🇦 Fatima Ezzahra
-  GARDADI\n🇺🇸 Fiona O'KEEFFE\n🇮🇪 Fionnuala McCORMACK\n🇦🇷 Florencia
-  BORELLI\n🇦🇺 Genevieve GREGSON\n🇿🇦 Gerda STEYN\n🇮🇹 Giovanna
-  EPIS\n🇵🇪 Gladys TEJEDA\n🇧🇪 Hanne VERBRUGGEN\n🇳🇦 Helalia
-  JOHANNES\n🇨🇭 Helen BEKELE\n🇰🇪 Hellen OBIRI\n🇯🇵 ICHIYAMA Mao\n🇿🇦
-  Irvette van ZYL\n🇹🇿 Jackline SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan
-  Chelimo MELLY\n🇦🇹 Julia MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳
-  Khishigsaikhan GALBADRAKH\n🇧🇹 Kinzang LHAMO\n🇩🇪 Laura
-  HOTTENROTT\n🇮🇱 Lonah Chemtai SALPETER\n🇵🇪 Luz Mery ROJAS\n🇯🇵 MAEDA
-  Honami\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida MAAYOUF\n🇨🇦 Malindi
-  ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ FLORES\n🇲🇺 Marie
-  PERRIER\n🇪🇨 Mary Zenaida GRANJA\n🇭🇷 Matea PARLOV KOSTRO\n🇪🇹 Megertu
-  ALEMU\n🇫🇷 Mekdes WOLDU\n🇩🇪 Melat Yisak KEJETA\n🇫🇷 Meline
-  ROLLIN\n🇫🇷 Melody JULIEN\n🇺🇬 Mercyline CHELANGAT\n🇪🇸 Meritxell
-  SOLER\n🇨🇿 Moira STEWARTOVA\n🇱🇸 Mokulubete Blandina MAKATISI\n🇲🇳
-  Munkhzaya BAYARTSOGT\n🇰🇪 Peres JEPCHIRCHIR\n🇲🇦 Rahma TAHIRI\n🇺🇬
-  Rebecca CHEPTEGEI\n🇪🇨 Rosa Alva CHACHA\n🇧🇭 Rose CHELIMO\n🇬🇧 Rose
-  HARVEY\n🇿🇼 Rutendo Joan NYAHORA\n🇯🇵 SUZUKI Yuka\n🇰🇬 Sardana
-  TROFIMOVA\n🇳🇵 Shantoshi SHRESTHA\n🇰🇪 Sharon LOKEDI\n🇳🇱 Sifan
-  HASSAN\n🇪🇨 Silvia Patricia ORTIZ MOROCHO\n🇦🇺 Sinead DIVER\n🇮🇹
-  Sofiia YAREMCHUK\n🇺🇬 Stella CHESANG\n🇵🇹 Susana SANTOS\n🇨🇿 Tereza
-  HROCHOVA\n🇵🇪 Thalia VALDIVIA\n🇧🇭 Tigist GASHAW\n🇪🇹 Tigst
-  ASSEFA\n🇨🇳 XIA Yuyu\n🇨🇳 ZHANG Deshun\n🇰🇿 Zhanna MAMAZHANOVA
+  CRISTIAN MOSCOTE\n🇬🇧 Clara EVANS\n🇷🇼 Clementine MUKANDANGA\n🇦🇷
+  Daiana OCAMPO\n🇺🇸 Dakotah LINDWURM\n🇷🇴 Delvine Relin MERINGOR\n🇪🇷
+  Dolshi TESFU\n🇩🇪 Domenika MAYER\n🇺🇸 Emily SISSON\n🇪🇸 Esther
+  NAVARRETE\n🇧🇭 Eunice Chebichii CHUMBA\n🇨🇭 Fabienne SCHLUMPF\n🇲🇦
+  Fatima Ezzahra GARDADI\n🇺🇸 Fiona O'KEEFFE\n🇮🇪 Fionnuala
+  McCORMACK\n🇦🇷 Florencia BORELLI\n🇦🇺 Genevieve GREGSON\n🇿🇦 Gerda
+  STEYN\n🇮🇹 Giovanna EPIS\n🇵🇪 Gladys TEJEDA\n🇧🇪 Hanne
+  VERBRUGGEN\n🇳🇦 Helalia JOHANNES\n🇨🇭 Helen BEKELE\n🇰🇪 Hellen
+  OBIRI\n🇯🇵 ICHIYAMA Mao\n🇿🇦 Irvette van ZYL\n🇹🇿 Jackline
+  SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan Chelimo MELLY\n🇦🇹 Julia
+  MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳 Khishigsaikhan GALBADRAKH\n🇧🇹
+  Kinzang LHAMO\n🇩🇪 Laura HOTTENROTT\n🇮🇱 Lonah Chemtai SALPETER\n🇵🇪
+  Luz Mery ROJAS\n🇯🇵 MAEDA Honami\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida
+  MAAYOUF\n🇨🇦 Malindi ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ
+  FLORES\n🇲🇺 Marie PERRIER\n🇪🇨 Mary Zenaida GRANJA\n🇭🇷 Matea PARLOV
+  KOSTRO\n🇪🇹 Megertu ALEMU\n🇫🇷 Mekdes WOLDU\n🇩🇪 Melat Yisak
+  KEJETA\n🇫🇷 Meline ROLLIN\n🇫🇷 Melody JULIEN\n🇺🇬 Mercyline
+  CHELANGAT\n🇪🇸 Meritxell SOLER\n🇨🇿 Moira STEWARTOVA\n🇱🇸 Mokulubete
+  Blandina MAKATISI\n🇲🇳 Munkhzaya BAYARTSOGT\n🇰🇪 Peres
+  JEPCHIRCHIR\n🇲🇦 Rahma TAHIRI\n🇺🇬 Rebecca CHEPTEGEI\n🇪🇨 Rosa Alva
+  CHACHA\n🇧🇭 Rose CHELIMO\n🇬🇧 Rose HARVEY\n🇿🇼 Rutendo Joan
+  NYAHORA\n🇯🇵 SUZUKI Yuka\n🇰🇬 Sardana TROFIMOVA\n🇳🇵 Shantoshi
+  SHRESTHA\n🇰🇪 Sharon LOKEDI\n🇳🇱 Sifan HASSAN\n🇪🇨 Silvia Patricia
+  ORTIZ MOROCHO\n🇦🇺 Sinead DIVER\n🇮🇹 Sofiia YAREMCHUK\n🇺🇬 Stella
+  CHESANG\n🇵🇹 Susana SANTOS\n🇨🇿 Tereza HROCHOVA\n🇵🇪 Thalia
+  VALDIVIA\n🇧🇭 Tigist GASHAW\n🇪🇹 Tigst ASSEFA\n🇨🇳 XIA Yuyu\n🇨🇳
+  ZHANG Deshun\n🇰🇿 Zhanna MAMAZHANOVA
 SUMMARY:🏃 Women's Marathon
 LOCATION:Invalides
 END:VEVENT
