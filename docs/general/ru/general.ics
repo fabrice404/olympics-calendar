@@ -39593,7 +39593,7 @@ BEGIN:VEVENT
 UID:20240810T181400Z-cycling-track--3-
 DTSTAMP:20240810T181400Z
 DTSTART:20240810T181400Z
-DTEND:20240810T182000Z
+DTEND:20240810T181400Z
 DESCRIPTION:Трековые велогонки - Спринт, четвертьфиналы, заезд 3 (ж)
 SUMMARY:🚴 Спринт, четвертьфиналы, заезд 3 (ж)
 LOCATION:Национальный велодром
@@ -39688,22 +39688,21 @@ SUMMARY:🤼 Iryna KOLIADENKO 🇺🇦 - 🇯🇵 MOTOKI Sakura
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T184700Z-breaking--1-
+UID:20240810T184700Z-breaking--1--FRA-USA
 DTSTAMP:20240810T184700Z
 DTSTART:20240810T184700Z
 DTEND:20240810T185445Z
-DESCRIPTION:Брейкинг - Полуфинал 1 (м)\n🇫🇷 DANY DANN
-SUMMARY:🤸 Полуфинал 1 (м)
+DESCRIPTION:Брейкинг - Полуфинал 1 (м)
+SUMMARY:🤸 DANY DANN 🇫🇷 - 🇺🇸 VICTOR
 LOCATION:Площадь Согласия 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T184900Z-taekwondo--80-
+UID:20240810T184900Z-taekwondo--80--MEX-CIV
 DTSTAMP:20240810T184900Z
 DTSTART:20240810T184900Z
 DTEND:20240810T190400Z
-DESCRIPTION:Тхэквондо - Поединки за бронзу, свыше 80кг (м)\n🇨🇮 Cheick
-  Sallah CISSE
-SUMMARY:🥋 Поединки за бронзу, свыше 80кг (м)
+DESCRIPTION:Тхэквондо - Поединки за бронзу, свыше 80кг (м)
+SUMMARY:🥋 Carlos SANSORES 🇲🇽 - 🇨🇮 Cheick Sallah CISSE
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
