@@ -38536,31 +38536,30 @@ SUMMARY:🥋 Ivan SAPINA 🇭🇷 - 🇬🇲 Alasan ANN
 LOCATION:Гран-Пале
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T101700Z-wrestling--97-14--GEO-UKR
+DTSTAMP:20240810T101700Z
+DTSTART:20240810T101700Z
+DTEND:20240810T102400Z
+DESCRIPTION:Борьба - Вольная борьба, 97кг, 1/4 финала (м)
+SUMMARY:🤼 Givi MATCHARASHVILI 🇬🇪 - 🇺🇦 Murazi McHEDLIDZE
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
+UID:20240810T101700Z-wrestling--76-14--CUB-USA
+DTSTAMP:20240810T101700Z
+DTSTART:20240810T101700Z
+DTEND:20240810T102400Z
+DESCRIPTION:Борьба - Вольная борьба, 76кг, 1/4 финала (ж)
+SUMMARY:🤼 Milaimy de la Carid. MARIN POTRILLE 🇨🇺 - 🇺🇸 Kennedy Alexis B
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T101700Z-wrestling--65-14--ARM-MGL
 DTSTAMP:20240810T101700Z
 DTSTART:20240810T101700Z
 DTEND:20240810T102400Z
 DESCRIPTION:Борьба - Вольная борьба, 65кг, 1/4 финала (м)
 SUMMARY:🤼 Vazgen TEVANYAN 🇦🇲 - 🇲🇳 Tulga TUMUR OCHIR
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T101700Z-wrestling--76-14-
-DTSTAMP:20240810T101700Z
-DTSTART:20240810T101700Z
-DTEND:20240810T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 76кг, 1/4 финала (ж)
-SUMMARY:🤼 Вольная борьба, 76кг, 1/4 финала (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T101700Z-wrestling--97-14-
-DTSTAMP:20240810T101700Z
-DTSTART:20240810T101700Z
-DTEND:20240810T102400Z
-DESCRIPTION:Борьба - Вольная борьба, 97кг, 1/4 финала (м)\n🇬🇪 Givi
-  MATCHARASHVILI
-SUMMARY:🤼 Вольная борьба, 97кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -38595,7 +38594,8 @@ UID:20240810T103100Z-wrestling--65-14-
 DTSTAMP:20240810T103100Z
 DTSTART:20240810T103100Z
 DTEND:20240810T103800Z
-DESCRIPTION:Борьба - Вольная борьба, 65кг, 1/4 финала (м)
+DESCRIPTION:Борьба - Вольная борьба, 65кг, 1/4 финала (м)\n🇭🇺 Iszmail
+  MUSZUKAJEV
 SUMMARY:🤼 Вольная борьба, 65кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
@@ -38872,7 +38872,8 @@ UID:20240810T134500Z-taekwondo--67-
 DTSTAMP:20240810T134500Z
 DTSTART:20240810T134500Z
 DTEND:20240810T135800Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, свыше 67кг (ж)
+DESCRIPTION:Тхэквондо - Четвертьфинал, свыше 67кг (ж)\n🇺🇿 Svetlana
+  OSIPOVA
 SUMMARY:🥋 Четвертьфинал, свыше 67кг (ж)
 LOCATION:Гран-Пале
 END:VEVENT
@@ -39371,13 +39372,12 @@ SUMMARY:🚴 Кейрин, утешительный раунд (м)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
-UID:20240810T172500Z-wrestling--74-
+UID:20240810T172500Z-wrestling--74--ALB-TJK
 DTSTAMP:20240810T172500Z
 DTSTART:20240810T172500Z
 DTEND:20240810T173500Z
-DESCRIPTION:Борьба - Вольная борьба, 74кг, поединок за бронзу (м)\n🇹🇯
-  Viktor RASSADIN
-SUMMARY:🤼 Вольная борьба, 74кг, поединок за бронзу (м)
+DESCRIPTION:Борьба - Вольная борьба, 74кг, поединок за бронзу (м)
+SUMMARY:🤼 Chermen VALIEV 🇦🇱 - 🇹🇯 Viktor RASSADIN
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT

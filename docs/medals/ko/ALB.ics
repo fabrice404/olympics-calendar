@@ -1,15 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//medals/ALB//EN
+PRODID:-//fabrice404//olympics-calendar//medals/ko/ALB//EN
 X-WR-CALNAME:🇦🇱 Albania 🏅 | Paris 2024
 NAME:🇦🇱 Albania 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240810T172500Z-wrestling-MENS-FREESTYLE-74KG-BRONZE-MEDAL-MATCH-ALB-T
+UID:20240810T172500Z-wrestling--74KG--ALB-TJK
 DTSTAMP:20240810T172500Z
 DTSTART:20240810T172500Z
 DTEND:20240810T173500Z
-DESCRIPTION:Wrestling - Men's Freestyle 74kg Bronze Medal Match
+DESCRIPTION:레슬링 - 남자 자유형 74kg 동메달 결정전
 SUMMARY:🤼 Chermen VALIEV 🇦🇱 - 🇹🇯 Viktor RASSADIN
-LOCATION:Champ-de-Mars Arena
+LOCATION:샹드마르 아레나
 END:VEVENT
 END:VCALENDAR
