@@ -38590,6 +38590,15 @@ SUMMARY:🤼 Tatiana RENTERIA RENTERIA 🇨🇴 - 🇲🇳 Davaanasan ENKH AMAR
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
+UID:20240810T103100Z-wrestling--97-14--KAZ-BRN
+DTSTAMP:20240810T103100Z
+DTSTART:20240810T103100Z
+DTEND:20240810T103800Z
+DESCRIPTION:Борьба - Вольная борьба, 97кг, 1/4 финала (м)
+SUMMARY:🤼 Alisher YERGALI 🇰🇿 - 🇧🇭 Akhmed TAZHUDINOV
+LOCATION:Арена «Марсово поле»
+END:VEVENT
+BEGIN:VEVENT
 UID:20240810T103100Z-wrestling--65-14--HUN-AZE
 DTSTAMP:20240810T103100Z
 DTSTART:20240810T103100Z
@@ -38603,18 +38612,9 @@ UID:20240810T103100Z-wrestling--76-14-
 DTSTAMP:20240810T103100Z
 DTSTART:20240810T103100Z
 DTEND:20240810T103800Z
-DESCRIPTION:Борьба - Вольная борьба, 76кг, 1/4 финала (ж)
+DESCRIPTION:Борьба - Вольная борьба, 76кг, 1/4 финала (ж)\n🇹🇷 Yasemin
+  ADAR YIGIT
 SUMMARY:🤼 Вольная борьба, 76кг, 1/4 финала (ж)
-LOCATION:Арена «Марсово поле»
-END:VEVENT
-BEGIN:VEVENT
-UID:20240810T103100Z-wrestling--97-14-
-DTSTAMP:20240810T103100Z
-DTSTART:20240810T103100Z
-DTEND:20240810T103800Z
-DESCRIPTION:Борьба - Вольная борьба, 97кг, 1/4 финала (м)\n🇰🇿 Alisher
-  YERGALI
-SUMMARY:🤼 Вольная борьба, 97кг, 1/4 финала (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
 BEGIN:VEVENT
@@ -38654,7 +38654,10 @@ UID:20240810T105000Z-canoe-sprint--500-
 DTSTAMP:20240810T105000Z
 DTSTART:20240810T105000Z
 DTEND:20240810T105700Z
-DESCRIPTION:Гребной спринт - Байдарки-одиночки 500м, финал В (ж)
+DESCRIPTION:Гребной спринт - Байдарки-одиночки 500м, финал В (ж)\n🇦🇺
+  Alyce WOOD\n🇨🇿 Anezka PALOUDOVA\n🇸🇪 Linnea STENSILS\n🇧🇪 Lize
+  BROEKX\n🇸🇪 Melina ANDERSSON\n🇷🇸 Milica NOVAKOVIC\n🇵🇹 Teresa
+  PORTELA\n🇨🇳 YIN Mengdie
 SUMMARY:🛶 Байдарки-одиночки 500м, финал В (ж)
 LOCATION:Водный ст. - Гладкая вода
 END:VEVENT
@@ -39249,7 +39252,8 @@ UID:20240810T161500Z-wrestling--65-
 DTSTAMP:20240810T161500Z
 DTSTART:20240810T161500Z
 DTEND:20240810T162500Z
-DESCRIPTION:Борьба - Вольная борьба, 65кг, полуфинал (м)
+DESCRIPTION:Борьба - Вольная борьба, 65кг, полуфинал (м)\n🇲🇳 Tulga TUMUR
+  OCHIR
 SUMMARY:🤼 Вольная борьба, 65кг, полуфинал (м)
 LOCATION:Арена «Марсово поле»
 END:VEVENT
