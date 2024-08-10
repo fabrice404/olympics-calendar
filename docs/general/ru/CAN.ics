@@ -7204,21 +7204,20 @@ DESCRIPTION:Легкая атлетика - Марафон, финал (ж)\n�
   SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan Chelimo MELLY\n🇦🇹 Julia
   MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳 Khishigsaikhan GALBADRAKH\n🇧🇹
   Kinzang LHAMO\n🇩🇪 Laura HOTTENROTT\n🇮🇱 Lonah Chemtai SALPETER\n🇵🇪
-  Luz Mery ROJAS\n🇯🇵 MAEDA Honami\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida
-  MAAYOUF\n🇨🇦 Malindi ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ
-  FLORES\n🇲🇺 Marie PERRIER\n🇪🇨 Mary Zenaida GRANJA\n🇭🇷 Matea PARLOV
-  KOSTRO\n🇪🇹 Megertu ALEMU\n🇫🇷 Mekdes WOLDU\n🇩🇪 Melat Yisak
-  KEJETA\n🇫🇷 Meline ROLLIN\n🇫🇷 Melody JULIEN\n🇺🇬 Mercyline
-  CHELANGAT\n🇪🇸 Meritxell SOLER\n🇨🇿 Moira STEWARTOVA\n🇱🇸 Mokulubete
-  Blandina MAKATISI\n🇲🇳 Munkhzaya BAYARTSOGT\n🇰🇪 Peres
-  JEPCHIRCHIR\n🇲🇦 Rahma TAHIRI\n🇺🇬 Rebecca CHEPTEGEI\n🇪🇨 Rosa Alva
-  CHACHA\n🇧🇭 Rose CHELIMO\n🇬🇧 Rose HARVEY\n🇿🇼 Rutendo Joan
-  NYAHORA\n🇯🇵 SUZUKI Yuka\n🇰🇬 Sardana TROFIMOVA\n🇳🇵 Shantoshi
-  SHRESTHA\n🇰🇪 Sharon LOKEDI\n🇳🇱 Sifan HASSAN\n🇪🇨 Silvia Patricia
-  ORTIZ MOROCHO\n🇦🇺 Sinead DIVER\n🇮🇹 Sofiia YAREMCHUK\n🇺🇬 Stella
-  CHESANG\n🇵🇹 Susana SANTOS\n🇨🇿 Tereza HROCHOVA\n🇵🇪 Thalia
-  VALDIVIA\n🇧🇭 Tigist GASHAW\n🇪🇹 Tigst ASSEFA\n🇨🇳 XIA Yuyu\n🇨🇳
-  ZHANG Deshun\n🇰🇿 Zhanna MAMAZHANOVA
+  Luz Mery ROJAS\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida MAAYOUF\n🇨🇦 Malindi
+  ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ FLORES\n🇲🇺 Marie
+  PERRIER\n🇪🇨 Mary Zenaida GRANJA\n🇭🇷 Matea PARLOV KOSTRO\n🇪🇹 Megertu
+  ALEMU\n🇫🇷 Mekdes WOLDU\n🇩🇪 Melat Yisak KEJETA\n🇫🇷 Meline
+  ROLLIN\n🇫🇷 Melody JULIEN\n🇺🇬 Mercyline CHELANGAT\n🇪🇸 Meritxell
+  SOLER\n🇨🇿 Moira STEWARTOVA\n🇱🇸 Mokulubete Blandina MAKATISI\n🇲🇳
+  Munkhzaya BAYARTSOGT\n🇰🇪 Peres JEPCHIRCHIR\n🇲🇦 Rahma TAHIRI\n🇺🇬
+  Rebecca CHEPTEGEI\n🇪🇨 Rosa Alva CHACHA\n🇧🇭 Rose CHELIMO\n🇬🇧 Rose
+  HARVEY\n🇿🇼 Rutendo Joan NYAHORA\n🇯🇵 SUZUKI Yuka\n🇰🇬 Sardana
+  TROFIMOVA\n🇳🇵 Shantoshi SHRESTHA\n🇰🇪 Sharon LOKEDI\n🇳🇱 Sifan
+  HASSAN\n🇪🇨 Silvia Patricia ORTIZ MOROCHO\n🇦🇺 Sinead DIVER\n🇮🇹
+  Sofiia YAREMCHUK\n🇺🇬 Stella CHESANG\n🇵🇹 Susana SANTOS\n🇨🇿 Tereza
+  HROCHOVA\n🇵🇪 Thalia VALDIVIA\n🇧🇭 Tigist GASHAW\n🇪🇹 Tigst
+  ASSEFA\n🇨🇳 XIA Yuyu\n🇨🇳 ZHANG Deshun\n🇰🇿 Zhanna MAMAZHANOVA
 SUMMARY:🏃 Марафон, финал (ж)
 LOCATION:Дом инвалидов
 END:VEVENT
@@ -7261,6 +7260,17 @@ DTEND:20240811T102900Z
 DESCRIPTION:Трековые велогонки - Спринт, за 5-8 места (ж)\n🇬🇧
   Великобритания\n🇩🇪 Германия\n🇨🇦 Канада\n🇨🇴 Колумбия
 SUMMARY:🚴 Спринт, за 5-8 места (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T114400Z-cycling-track--3-
+DTSTAMP:20240811T114400Z
+DTSTART:20240811T114400Z
+DTEND:20240811T114800Z
+DESCRIPTION:Трековые велогонки - Спринт, финалы, заезд 3 (ж)\n🇩🇪 Emma
+  HINZE\n🇨🇦 Kelsey MITCHELL\n🇨🇴 Martha BAYONA PINEDA\n🇬🇧 Sophie
+  CAPEWELL
+SUMMARY:🚴 Спринт, финалы, заезд 3 (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT

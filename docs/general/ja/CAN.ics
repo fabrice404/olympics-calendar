@@ -7078,21 +7078,20 @@ DESCRIPTION:陸上競技 - 女子マラソン決勝\n🇵🇱 Aleksandra LISOWSK
   Jackline SAKILU\n🇦🇺 Jessica STENSON\n🇷🇴 Joan Chelimo MELLY\n🇦🇹
   Julia MAYER\n🇲🇦 Kaoutar FARKOUSSI\n🇲🇳 Khishigsaikhan GALBADRAKH\n🇧🇹
   Kinzang LHAMO\n🇩🇪 Laura HOTTENROTT\n🇮🇱 Lonah Chemtai SALPETER\n🇵🇪
-  Luz Mery ROJAS\n🇯🇵 MAEDA Honami\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida
-  MAAYOUF\n🇨🇦 Malindi ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ
-  FLORES\n🇲🇺 Marie PERRIER\n🇪🇨 Mary Zenaida GRANJA\n🇭🇷 Matea PARLOV
-  KOSTRO\n🇪🇹 Megertu ALEMU\n🇫🇷 Mekdes WOLDU\n🇩🇪 Melat Yisak
-  KEJETA\n🇫🇷 Meline ROLLIN\n🇫🇷 Melody JULIEN\n🇺🇬 Mercyline
-  CHELANGAT\n🇪🇸 Meritxell SOLER\n🇨🇿 Moira STEWARTOVA\n🇱🇸 Mokulubete
-  Blandina MAKATISI\n🇲🇳 Munkhzaya BAYARTSOGT\n🇰🇪 Peres
-  JEPCHIRCHIR\n🇲🇦 Rahma TAHIRI\n🇺🇬 Rebecca CHEPTEGEI\n🇪🇨 Rosa Alva
-  CHACHA\n🇧🇭 Rose CHELIMO\n🇬🇧 Rose HARVEY\n🇿🇼 Rutendo Joan
-  NYAHORA\n🇯🇵 SUZUKI Yuka\n🇰🇬 Sardana TROFIMOVA\n🇳🇵 Shantoshi
-  SHRESTHA\n🇰🇪 Sharon LOKEDI\n🇳🇱 Sifan HASSAN\n🇪🇨 Silvia Patricia
-  ORTIZ MOROCHO\n🇦🇺 Sinead DIVER\n🇮🇹 Sofiia YAREMCHUK\n🇺🇬 Stella
-  CHESANG\n🇵🇹 Susana SANTOS\n🇨🇿 Tereza HROCHOVA\n🇵🇪 Thalia
-  VALDIVIA\n🇧🇭 Tigist GASHAW\n🇪🇹 Tigst ASSEFA\n🇨🇳 XIA Yuyu\n🇨🇳
-  ZHANG Deshun\n🇰🇿 Zhanna MAMAZHANOVA
+  Luz Mery ROJAS\n🇹🇿 Magdalena SHAURI\n🇪🇸 Majida MAAYOUF\n🇨🇦 Malindi
+  ELMORE\n🇮🇱 Maor TIYOURI\n🇲🇽 Margarita HERNANDEZ FLORES\n🇲🇺 Marie
+  PERRIER\n🇪🇨 Mary Zenaida GRANJA\n🇭🇷 Matea PARLOV KOSTRO\n🇪🇹 Megertu
+  ALEMU\n🇫🇷 Mekdes WOLDU\n🇩🇪 Melat Yisak KEJETA\n🇫🇷 Meline
+  ROLLIN\n🇫🇷 Melody JULIEN\n🇺🇬 Mercyline CHELANGAT\n🇪🇸 Meritxell
+  SOLER\n🇨🇿 Moira STEWARTOVA\n🇱🇸 Mokulubete Blandina MAKATISI\n🇲🇳
+  Munkhzaya BAYARTSOGT\n🇰🇪 Peres JEPCHIRCHIR\n🇲🇦 Rahma TAHIRI\n🇺🇬
+  Rebecca CHEPTEGEI\n🇪🇨 Rosa Alva CHACHA\n🇧🇭 Rose CHELIMO\n🇬🇧 Rose
+  HARVEY\n🇿🇼 Rutendo Joan NYAHORA\n🇯🇵 SUZUKI Yuka\n🇰🇬 Sardana
+  TROFIMOVA\n🇳🇵 Shantoshi SHRESTHA\n🇰🇪 Sharon LOKEDI\n🇳🇱 Sifan
+  HASSAN\n🇪🇨 Silvia Patricia ORTIZ MOROCHO\n🇦🇺 Sinead DIVER\n🇮🇹
+  Sofiia YAREMCHUK\n🇺🇬 Stella CHESANG\n🇵🇹 Susana SANTOS\n🇨🇿 Tereza
+  HROCHOVA\n🇵🇪 Thalia VALDIVIA\n🇧🇭 Tigist GASHAW\n🇪🇹 Tigst
+  ASSEFA\n🇨🇳 XIA Yuyu\n🇨🇳 ZHANG Deshun\n🇰🇿 Zhanna MAMAZHANOVA
 SUMMARY:🏃 女子マラソン決勝
 LOCATION:アンヴァリッド
 END:VEVENT
@@ -7135,6 +7134,16 @@ DTEND:20240811T102900Z
 DESCRIPTION:自転車トラックレース - 女子スプリント決勝5-8位決定戦\n🇨🇦 カナダ\n🇨🇴 コロンビア\n🇩🇪
   ドイツ\n🇬🇧 英国
 SUMMARY:🚴 女子スプリント決勝5-8位決定戦
+LOCATION:ヴェロドローム・ナシオナル
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T114400Z-cycling-track--
+DTSTAMP:20240811T114400Z
+DTSTART:20240811T114400Z
+DTEND:20240811T114800Z
+DESCRIPTION:自転車トラックレース - 女子スプリント決勝 - 勝者決定戦\n🇩🇪 Emma HINZE\n🇨🇦 Kelsey
+  MITCHELL\n🇨🇴 Martha BAYONA PINEDA\n🇬🇧 Sophie CAPEWELL
+SUMMARY:🚴 女子スプリント決勝 - 勝者決定戦
 LOCATION:ヴェロドローム・ナシオナル
 END:VEVENT
 BEGIN:VEVENT
