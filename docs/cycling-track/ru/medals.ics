@@ -141,23 +141,23 @@ SUMMARY:🚴 Мэдисон, финал (м)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
+UID:20240811T111500Z-cycling-track--2--GBR-NED
+DTSTAMP:20240811T111500Z
+DTSTART:20240811T111500Z
+DTEND:20240811T112300Z
+DESCRIPTION:Трековые велогонки - Спринт, финалы, заезд 2 (ж)
+SUMMARY:🚴 Emma FINUCANE 🇬🇧 - 🇳🇱 Hetty van de WOUW
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240811T113200Z-cycling-track--
 DTSTAMP:20240811T113200Z
 DTSTART:20240811T113200Z
 DTEND:20240811T114400Z
-DESCRIPTION:Трековые велогонки - Кейрин, финал (м)
+DESCRIPTION:Трековые велогонки - Кейрин, финал (м)\n🇳🇱 Harrie
+  LAVREYSEN\n🇬🇧 Jack CARLIN\n🇦🇺 Matthew GLAETZER\n🇦🇺 Matthew
+  RICHARDSON\n🇲🇾 Muhammad Shah Firdaus SAHROM\n🇯🇵 NAKANO Shinji
 SUMMARY:🚴 Кейрин, финал (м)
-LOCATION:Национальный велодром
-END:VEVENT
-BEGIN:VEVENT
-UID:20240811T114400Z-cycling-track--3-
-DTSTAMP:20240811T114400Z
-DTSTART:20240811T114400Z
-DTEND:20240811T114400Z
-DESCRIPTION:Трековые велогонки - Спринт, финалы, заезд 3 (ж)\n🇩🇪 Emma
-  HINZE\n🇨🇦 Kelsey MITCHELL\n🇨🇴 Martha BAYONA PINEDA\n🇬🇧 Sophie
-  CAPEWELL
-SUMMARY:🚴 Спринт, финалы, заезд 3 (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
