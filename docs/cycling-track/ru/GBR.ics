@@ -613,6 +613,15 @@ SUMMARY:🚴 Омниум, на выбывание (3 из 4) (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 BEGIN:VEVENT
+UID:20240811T111500Z-cycling-track--2--NED-GBR
+DTSTAMP:20240811T111500Z
+DTSTART:20240811T111500Z
+DTEND:20240811T112300Z
+DESCRIPTION:Трековые велогонки - Спринт, финалы, заезд 2 (ж)
+SUMMARY:🚴 Hetty van de WOUW 🇳🇱 - 🇬🇧 Emma FINUCANE
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
 UID:20240811T114400Z-cycling-track--3-
 DTSTAMP:20240811T114400Z
 DTSTART:20240811T114400Z
@@ -621,6 +630,22 @@ DESCRIPTION:Трековые велогонки - Спринт, финалы, з
   HINZE\n🇨🇦 Kelsey MITCHELL\n🇨🇴 Martha BAYONA PINEDA\n🇬🇧 Sophie
   CAPEWELL
 SUMMARY:🚴 Спринт, финалы, заезд 3 (ж)
+LOCATION:Национальный велодром
+END:VEVENT
+BEGIN:VEVENT
+UID:20240811T115600Z-cycling-track--4-4-
+DTSTAMP:20240811T115600Z
+DTSTART:20240811T115600Z
+DTEND:20240811T122800Z
+DESCRIPTION:Трековые велогонки - Омниум, по очкам (4 из 4) (ж)\n🇨🇭 Aline
+  SEITZ\n🇳🇿 Ally WOLLASTON\n🇩🇰 Amalie DIDERIKSEN\n🇳🇴 Anita
+  STENBERG\n🇵🇱 Daria PIKULIK\n🇪🇬 Ebtissam ZAYED\n🇩🇪 Franziska
+  BRAUSSE\n🇦🇺 Georgia BAKER\n🇺🇸 Jennifer VALENTE\n🇯🇵 KAJIHARA
+  Yumi\n🇭🇰 LEE Sze Wing\n🇨🇳 LIU Jiali\n🇮🇪 Lara GILLESPIE\n🇮🇹
+  Letizia PATERNOSTER\n🇧🇪 Lotte KOPECKY\n🇨🇦 Maggie COLES-LYSTER\n🇳🇱
+  Maike van der DUIN\n🇵🇹 Maria MARTINS\n🇬🇧 Neah EVANS\n🇱🇹 Olivija
+  BALEISYTE\n🇫🇷 Valentine FORTIN\n🇲🇽 Victoria VELASCO FUENTES
+SUMMARY:🚴 Омниум, по очкам (4 из 4) (ж)
 LOCATION:Национальный велодром
 END:VEVENT
 END:VCALENDAR
