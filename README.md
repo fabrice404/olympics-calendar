@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository will be updated for the Paralympics a few days before the event begins. Thank you for your patience!
+
 # Olympics Calendar
 This repository contains a script to generate calendar files (.ics) for the Paris 2024 Summer Olympic Games, allowing you to sync sports events with your Google Calendar.
 
