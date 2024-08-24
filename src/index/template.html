@@ -3,7 +3,7 @@
 
 <head>
   <title>Paris 2024 - {{translate_calendars}}</title>
-  <link href="https://fabrice404.github.io/olympics-calendar/main.css?refresh=20240-08-06-08-45" rel="stylesheet">
+  <link href="https://fabrice404.github.io/olympics-calendar/main.css?refresh={{refresh}}" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Paris 2024 - {{translate_calendars}}">
   <meta name="keywords" content="Paris 2024 - {{translate_calendars}}">
@@ -26,12 +26,12 @@
             <li><a href="./today.html">{{translate_todaysEvents}}</a></li>
             <li><a href="./medals.html">{{translate_medalsTable}}</a></li>
             <hr />
-            <li><a href="https://fabrice404.github.io/olympics-calendar/index.html">English</a></li>
+            <!-- <li><a href="https://fabrice404.github.io/olympics-calendar/index.html">English</a></li>
             <li><a href="https://fabrice404.github.io/olympics-calendar/ja/index.html">日本語</a></li>
             <li><a href="https://fabrice404.github.io/olympics-calendar/ko/index.html">한국어</a></li>
             <li><a href="https://fabrice404.github.io/olympics-calendar/ru/index.html">Русский</a></li>
             <li><a href="https://fabrice404.github.io/olympics-calendar/zh/index.html">中文</a></li>
-            <hr />
+            <hr /> -->
             <li><a href="https://github.com/fabrice404/olympics-calendar" target="_blank">Source code</a></li>
           </ul>
         </div>
@@ -66,7 +66,7 @@
   <script>
     const showModal = (key, language) => {
       document.querySelector("#modal #link")
-        .setAttribute('value', `https://fabrice404.github.io/olympics-calendar/${key}.ics`);
+        .setAttribute('value', `https://fabrice404.github.io/olympics-calendar/${language}/${key}.ics`);
       modal.showModal();
     };
   </script>

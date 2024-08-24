@@ -1,42 +1,0 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//taekwondo/ru/DEN//EN
-X-WR-CALNAME:🇩🇰 Denmark Тхэквондо | Paris 2024
-NAME:🇩🇰 Denmark Тхэквондо | Paris 2024
-BEGIN:VEVENT
-UID:20240809T101300Z-taekwondo-18-80--EGY-DEN
-DTSTAMP:20240809T101300Z
-DTSTART:20240809T101300Z
-DTEND:20240809T102500Z
-DESCRIPTION:Тхэквондо - 1/8 финала, до 80кг (м)
-SUMMARY:🥋 Seif EISSA 🇪🇬 - 🇩🇰 Edi HRNIC
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T135800Z-taekwondo--80--TUN-DEN
-DTSTAMP:20240809T135800Z
-DTSTART:20240809T135800Z
-DTEND:20240809T141100Z
-DESCRIPTION:Тхэквондо - Четвертьфинал, до 80кг (м)
-SUMMARY:🥋 Firas KATOUSSI 🇹🇳 - 🇩🇰 Edi HRNIC
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T180600Z-taekwondo--80--AUS-DEN
-DTSTAMP:20240809T180600Z
-DTSTART:20240809T180600Z
-DTEND:20240809T181900Z
-DESCRIPTION:Тхэквондо - Утешительный поединок, до 80кг (м)
-SUMMARY:🥋 Leon SEJRANOVIC 🇦🇺 - 🇩🇰 Edi HRNIC
-LOCATION:Гран-Пале
-END:VEVENT
-BEGIN:VEVENT
-UID:20240809T190400Z-taekwondo--80--DEN-KOR
-DTSTAMP:20240809T190400Z
-DTSTART:20240809T190400Z
-DTEND:20240809T191900Z
-DESCRIPTION:Тхэквондо - Поединки за бронзу, до 80кг (м)
-SUMMARY:🥋 Edi HRNIC 🇩🇰 - 🇰🇷 SEO Geonwoo
-LOCATION:Гран-Пале
-END:VEVENT
-END:VCALENDAR

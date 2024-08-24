@@ -116,4 +116,5 @@ export const translate = (text: string, language: string) => text
   .replace(/\{\{translate_noEventToday}}/gi, noEventToday.get(language)!)
   .replace(/\{\{translate_openingCeremony}}/gi, openingCeremony.get(language)!)
   .replace(/\{\{translate_todaysEvents}}/gi, todaysEvents.get(language)!)
+  .replace(/\{\{refresh}}/gi, "20240824T2035")
   ;

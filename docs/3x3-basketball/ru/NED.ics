@@ -1,87 +1,0 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//3x3-basketball/ru/NED//EN
-X-WR-CALNAME:🇳🇱 Netherlands Баскетбол 3х3 | Paris 2024
-NAME:🇳🇱 Netherlands Баскетбол 3х3 | Paris 2024
-BEGIN:VEVENT
-UID:20240730T170500Z-3x3-basketball---CHN-NED
-DTSTAMP:20240730T170500Z
-DTSTART:20240730T170500Z
-DTEND:20240730T173000Z
-DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
-SUMMARY:🏀 Китай 🇨🇳 - 🇳🇱 Нидерланды
-LOCATION:Площадь Согласия 1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240731T163500Z-3x3-basketball---LAT-NED
-DTSTAMP:20240731T163500Z
-DTSTART:20240731T163500Z
-DTEND:20240731T170000Z
-DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
-SUMMARY:🏀 Латвия 🇱🇻 - 🇳🇱 Нидерланды
-LOCATION:Площадь Согласия 1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T080500Z-3x3-basketball---NED-SRB
-DTSTAMP:20240801T080500Z
-DTSTART:20240801T080500Z
-DTEND:20240801T083000Z
-DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
-SUMMARY:🏀 Нидерланды 🇳🇱 - 🇷🇸 Сербия
-LOCATION:Площадь Согласия 1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240801T120500Z-3x3-basketball---NED-FRA
-DTSTAMP:20240801T120500Z
-DTSTART:20240801T120500Z
-DTEND:20240801T123000Z
-DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
-SUMMARY:🏀 Нидерланды 🇳🇱 - 🇫🇷 Франция
-LOCATION:Площадь Согласия 1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T083500Z-3x3-basketball---POL-NED
-DTSTAMP:20240802T083500Z
-DTSTART:20240802T083500Z
-DTEND:20240802T090000Z
-DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
-SUMMARY:🏀 Польша 🇵🇱 - 🇳🇱 Нидерланды
-LOCATION:Площадь Согласия 1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240802T113500Z-3x3-basketball---NED-LTU
-DTSTAMP:20240802T113500Z
-DTSTART:20240802T113500Z
-DTEND:20240802T120000Z
-DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
-SUMMARY:🏀 Нидерланды 🇳🇱 - 🇱🇹 Литва
-LOCATION:Площадь Согласия 1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240804T170500Z-3x3-basketball---USA-NED
-DTSTAMP:20240804T170500Z
-DTSTART:20240804T170500Z
-DTEND:20240804T173000Z
-DESCRIPTION:Баскетбол 3х3 - Групповой этап (м)
-SUMMARY:🏀 США 🇺🇸 - 🇳🇱 Нидерланды
-LOCATION:Площадь Согласия 1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T160000Z-3x3-basketball-12--NED-LTU
-DTSTAMP:20240805T160000Z
-DTSTART:20240805T160000Z
-DTEND:20240805T162500Z
-DESCRIPTION:Баскетбол 3х3 - 1/2 финала (м)
-SUMMARY:🏀 Нидерланды 🇳🇱 - 🇱🇹 Литва
-LOCATION:Площадь Согласия 1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240805T203000Z-3x3-basketball---FRA-NED
-DTSTAMP:20240805T203000Z
-DTSTART:20240805T203000Z
-DTEND:20240805T205500Z
-DESCRIPTION:Баскетбол 3х3 - Финал (м)
-SUMMARY:🏀 Франция 🇫🇷 - 🇳🇱 Нидерланды
-LOCATION:Площадь Согласия 1
-END:VEVENT
-END:VCALENDAR

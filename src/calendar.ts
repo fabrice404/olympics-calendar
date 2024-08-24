@@ -79,7 +79,7 @@ export class Calendar {
 
     if (!hasFile(cacheFile)) {
       this.debug(`Downloading schedule for ${sportKey} in ${this.language}`);
-      const response = await fetch(`https://olympics.com/${this.language}/paris-2024/schedule/${sportKey}`);
+      const response = await fetch(`https://olympics.com/${this.language}/paris-2024/paralympic-games/schedule/${sportKey}`);
       const content = await response.text();
       saveFile(cacheFile, content);
     }
@@ -167,8 +167,8 @@ export class Calendar {
   }
 
   private genereateEventsCeremonies() {
-    let startDateUtc = new Date("2024-07-26T17:30:00Z").toISOString().replace(".000", "");
-    let endDateUtc = new Date("2024-07-26T21:00:00Z").toISOString().replace(".000", "");
+    let startDateUtc = new Date("2024-08-28T18:00:00Z").toISOString().replace(".000", "");
+    let endDateUtc = new Date("2024-08-28T21:00:00Z").toISOString().replace(".000", "");
 
     const opening: Event = {
       UID: `${startDateUtc.replace(/[:-]/g, "")}-opening-ceremony`,
@@ -187,8 +187,8 @@ export class Calendar {
     };
     this.events.push(opening);
 
-    startDateUtc = new Date("2024-08-11T19:00:00Z").toISOString().replace(".000", "");
-    endDateUtc = new Date("2024-08-11T21:15:00Z").toISOString().replace(".000", "");
+    startDateUtc = new Date("2024-09-08T19:00:00Z").toISOString().replace(".000", "");
+    endDateUtc = new Date("2024-09-08T22:00:00Z").toISOString().replace(".000", "");
 
     const closing: Event = {
       UID: `${startDateUtc.replace(/[:-]/g, "")}-closing-ceremony`,
@@ -209,10 +209,7 @@ export class Calendar {
   }
 
   private getKey(sportKey: string, noc: string) {
-    if (this.language === "en") {
-      return `${sportKey}/${noc}`;
-    }
-    return `${sportKey}/${this.language}/${noc}`;
+    return `${this.language}/${sportKey}/${noc}`;
   }
 
   private sortEvents(a: Event, b: Event) {
