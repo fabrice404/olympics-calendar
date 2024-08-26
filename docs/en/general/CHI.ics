@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/CHI//EN
+X-WR-CALNAME:🇨🇱 Chile | Paris 2024
+NAME:🇨🇱 Chile | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
+SUMMARY:Paris 2024 - {{translate_openingCeremon}}
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T110000Z-para-archery-WOMENS-INDIVIDUAL-COMPOUND-OPEN-RANKING-R
+DTSTAMP:20240829T110000Z
+DTSTART:20240829T110000Z
+DTEND:20240829T133000Z
+DESCRIPTION:Para Archery - Women's Individual Compound Open Ranking
+  Round\n🇵🇭 Agustina Maximo BANTILOC\n🇦🇺 Ameera LEE\n🇰🇷 CHOI
+  Nami\n🇪🇨 Diana GONZABAY GUAMAN\n🇮🇹 Eleonora SARTI\n🇮🇷 Fatemeh
+  HEMMATI\n🇮🇹 Giulia PESCI\n🇰🇷 JEONG Jinyoung\n🇧🇷 Jane Karla
+  GOGEL\n🇬🇧 Jodie GRINHAM\n🇧🇩 Joma AKTER\n🇫🇷 Julie RIGAULT
+  CHUPIN\n🇮🇪 Kerrie LEONARD\n🇵🇱 Kseniya MARKITANTOVA\n🇨🇳 LIN
+  Yueshan\n🇨🇷 Maria del Pilar RIVEROS\n🇨🇱 Mariana ZUNIGA\n🇦🇺
+  Melissa-Anne TANNER\n🇲🇾 Nur Jannaton ABDUL JALIL\n🇸🇬 Nur Syahidah
+  ALIM\n🇹🇷 Oznur CURE GIRDI\n🇬🇧 Phoebe PATERSON PINE\n🇮🇳 SARITA\n🇮🇶
+  Sarah AL-HAMEED\n🇹🇷 Sevgi YORULMAZ\n🇮🇳 Sheetal DEVI\n🇮🇩 Teodora
+  Audi Ayudia FERELLY\n🇨🇳 ZHOU Jiamin
+SUMMARY:Women's Individual Compound Open Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

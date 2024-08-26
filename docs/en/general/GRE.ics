@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/GRE//EN
+X-WR-CALNAME:🇬🇷 Greece | Paris 2024
+NAME:🇬🇷 Greece | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
+SUMMARY:Paris 2024 - {{translate_openingCeremon}}
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T150000Z-para-archery-WOMENS-INDIVIDUAL-RECURVE-OPEN-RANKING-RO
+DTSTAMP:20240829T150000Z
+DTSTART:20240829T150000Z
+DTEND:20240829T173000Z
+DESCRIPTION:Para Archery - Women's Individual Recurve Open Ranking
+  Round\n🇦🇺 Amanda JENNINGS\n🇺🇦 Anna-Viktoriia SHEVCHENKO\n🇫🇷 Aziza
+  BENHAMI\n🇵🇪 Daniela Cecilia CAMPOS MARZANO\n🇬🇷 Dorothea
+  POIMENIDOU\n🇮🇹 Elisabetta MIJNO\n🇩🇪 Flora KLIEM\n🇰🇷 JANG
+  Gyeongsuk\n🇨🇺 Leydis Lazara POSADA CANIZARES\n🇨🇴 Maria Monica DAZA
+  GUZMAN\n🇹🇷 Merve Nur EROGLU\n🇵🇱 Milena OLSZEWSKA\n🇲🇳 Oyun-Erdene
+  BUYANJARGAL\n🇮🇳 POOJA\n🇹🇭 Phattharaphon PATTAWAEO\n🇲🇳 Selengee
+  DEMBEREL\n🇮🇷 Somayeh RAHIMI GHAHDERIJANI\n🇮🇹 Veronica FLORENO\n🇨🇳
+  WU Chunyan\n🇨🇳 WU Yang\n🇮🇩 Wahyu Retno WULANDARI\n🇹🇷 Yagmur
+  SENGUL\n🇸🇮 Ziva LAVRINC
+SUMMARY:Women's Individual Recurve Open Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

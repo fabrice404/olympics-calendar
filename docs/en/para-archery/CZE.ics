@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/para-archery/CZE//EN
+X-WR-CALNAME:🇨🇿 Czechia Para Archery | Paris 2024
+NAME:🇨🇿 Czechia Para Archery | Paris 2024
+BEGIN:VEVENT
+UID:20240829T070000Z-para-archery-MENS-INDIVIDUAL-W1-RANKING-ROUND
+DTSTAMP:20240829T070000Z
+DTSTART:20240829T070000Z
+DTEND:20240829T093000Z
+DESCRIPTION:Para Archery - Men's Individual W1 Ranking Round\n🇹🇷 Bahattin
+  HEKIMOGLU\n🇫🇷 Damien LETULLE\n🇨🇿 David DRAHONINSKY\n🇧🇷 Eugenio
+  SANTANA FRANCO\n🇨🇳 HAN Guifei\n🇺🇸 Jason TABANSKY\n🇫🇮 Jean-Pierre
+  ANTONIOS\n🇰🇷 PARK Hong Jo\n🇮🇹 Paolo TONON\n🇿🇦 Shaun ANDERSON\n🇭🇺
+  Tamas GASPAR\n🇹🇷 Yigit Caner AYDIN\n🇨🇳 ZHANG Tianxin
+SUMMARY:Men's Individual W1 Ranking Round
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T070000Z-para-archery-WOMENS-INDIVIDUAL-W1-RANKING-ROUND
+DTSTAMP:20240829T070000Z
+DTSTART:20240829T070000Z
+DTEND:20240829T093000Z
+DESCRIPTION:Para Archery - Women's Individual W1 Ranking Round\n🇮🇹 Asia
+  PELLIZZARI\n🇨🇳 CHEN Minyi\n🇮🇹 Daila DAMENO\n🇧🇷 Juliana Cristina
+  FERREIRA da SILVA\n🇰🇷 KIM Okgeum\n🇨🇳 LIU Jing\n🇹🇷 Nil MISIR\n🇨🇿
+  Sarka PULTAR MUSILOVA\n🇨🇿 Tereza BRANDTLOVA\n🇺🇸 Tracy OTTO\n🇬🇧
+  Victoria KINGSTONE
+SUMMARY:Women's Individual W1 Ranking Round
+LOCATION:Invalides
+END:VEVENT
+END:VCALENDAR
