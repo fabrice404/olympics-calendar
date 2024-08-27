@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/BHU//EN
+X-WR-CALNAME:🇧🇹 Bhutan | Paris 2024
+NAME:🇧🇹 Bhutan | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
+SUMMARY:Paris 2024 - {{translate_openingCeremon}}
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T070000Z-shooting-para-sport-R2-WOMENS-10M-AIR-RIFLE-STANDING-S
+DTSTAMP:20240830T070000Z
+DTSTART:20240830T070000Z
+DTEND:20240830T081500Z
+DESCRIPTION:Shooting Para Sport - R2 - Women's 10m Air Rifle Standing SH1
+  Qualification\n🇸🇪 Anna BENSON\n🇮🇳 Avani LEKHARA\n🇹🇷 Cagla BAS\n🇹🇭
+  Chutima SAENLAR\n🇵🇱 Emilia BABSKA\n🇺🇦 Iryna SHCHETNIK\n🇷🇸 Jelena
+  PANTOVIC\n🇧🇹 Kinley DEM\n🇰🇷 LEE Yoojeong\n🇰🇷 LEE Yunri\n🇮🇳 Mona
+  AGARWAL\n🇦🇺 Natalie SMITH\n🇮🇷 Roghayeh SHOJAEI\n🇸🇰 Veronika
+  VADOVICOVA\n🇹🇭 Wannipa LEUNGVILAI\n🇨🇳 ZHANG Cuiping\n🇨🇳 ZHONG Yixin
+SUMMARY:R2 - Women's 10m Air Rifle Standing SH1 Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR
