@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/GUI//EN
+X-WR-CALNAME:🇬🇳 Guinea | Paris 2024
+NAME:🇬🇳 Guinea | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
+SUMMARY:Paris 2024 - {{translate_openingCeremon}}
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T105700Z-para-athletics-MENS-100M-T47-ROUND-1
+DTSTAMP:20240830T105700Z
+DTSTART:20240830T105700Z
+DTEND:20240830T111100Z
+DESCRIPTION:Para Athletics - Men's 100m - T47 Round 1\n🇲🇦 Aymane EL
+  HADDAOUI\n🇲🇦 Ayoub SADNI\n🇬🇦 Davy Rendhel MOUKAGNI MOUKAGNI\n🇧🇯
+  Fayssal ATCHIBA\n🇱🇷 Jutomu KOLLIE\n🇺🇸 Korban BEST\n🇿🇼 Kudakwashe
+  Paidamoyo CHIGWEDERE\n🇧🇷 Lucas SOUSA PEREIRA\n🇩🇴 Luis Andres VASQUEZ
+  SEGURA\n🇨🇴 Luis Fernando LARA RODALLEGA\n🇵🇱 Michal DERUS\n🇧🇷
+  Petrucio FERREIRA dos SANTOS\n🇩🇪 Phil GROLLA\n🇨🇺 Raciel GONZALEZ
+  ISIDORIA\n🇺🇸 Rayven SAMPLE\n🇨🇳 WANG Hao\n🇧🇷 Washington JUNIOR\n🇬🇳
+  Yamoussa SYLLA
+SUMMARY:Men's 100m - T47 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

@@ -4,6 +4,17 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/UZB//EN
 X-WR-CALNAME:🇺🇿 Uzbekistan 🏅 | Paris 2024
 NAME:🇺🇿 Uzbekistan 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240830T170800Z-para-athletics-MENS-LONG-JUMP-T11-FINAL
+DTSTAMP:20240830T170800Z
+DTSTART:20240830T170800Z
+DTEND:20240830T181600Z
+DESCRIPTION:Para Athletics - Men's Long Jump - T11 Final\n🇨🇳 CHEN
+  Shichang\n🇪🇸 Joan MUNAR MARTINEZ\n🇺🇿 Urganchbek EGAMNAZAROV\n🇨🇳 YE
+  Tao\n🇨🇳 di Dongdong
+SUMMARY:Men's Long Jump - T11 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T175100Z-para-swimming-WOMENS-100M-BACKSTROKE-S13-FINAL
 DTSTAMP:20240830T175100Z
 DTSTART:20240830T175100Z
@@ -14,5 +25,18 @@ DESCRIPTION:Para Swimming - Women's 100m Backstroke - S13 Final\n🇮🇹
   TOSHPULATOVA
 SUMMARY:Women's 100m Backstroke - S13 Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T185200Z-para-athletics-MENS-SHOT-PUT-F37-FINAL
+DTSTAMP:20240830T185200Z
+DTSTART:20240830T185200Z
+DTEND:20240830T195500Z
+DESCRIPTION:Para Athletics - Men's Shot Put - F37 Final\n🇹🇳 Ahmed BEN
+  MOSLAH\n🇰🇼 Dhari BUTI\n🇱🇹 Donatas DUNDZYS\n🇧🇷 Emanoel Victor SOUZA
+  de OLIVEIRA\n🇵🇱 Jakub MIROSLAW\n🇺🇿 Kudratillokhon MARUFKHUJAEV\n🇲🇽
+  Luis Carlos LOPEZ VALENZUELA\n🇮🇳 MANU\n🇺🇦 Mykola ZHABNYAK\n🇺🇿
+  Tolibboy YULDASHEV
+SUMMARY:Men's Shot Put - F37 Final
+LOCATION:Stade de France
 END:VEVENT
 END:VCALENDAR
