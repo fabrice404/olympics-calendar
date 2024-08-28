@@ -176,14 +176,14 @@ export class Calendar {
       DTSTART: startDateUtc.replace(/[:-]/g, ""),
       DTEND: endDateUtc.replace(/[:-]/g, ""),
       DESCRIPTION: `Paris 2024 - {{translate_openingCeremony}}`,
-      SUMMARY: `Paris 2024 - {{translate_openingCeremon}}`,
+      SUMMARY: `Paris 2024 - {{translate_openingCeremony}}`,
       LOCATION: "Paris",
       _COMPETITORS: [],
       _GENDER: "",
       _MEDAL: false,
       _NOCS: this.nocs,
       _SPORT: "",
-      _UNITNAME: "",
+      _UNITNAME: `Paris 2024 - {{translate_openingCeremony}}`,
     };
     this.events.push(opening);
 
@@ -195,15 +195,15 @@ export class Calendar {
       DTSTAMP: startDateUtc.replace(/[:-]/g, ""),
       DTSTART: startDateUtc.replace(/[:-]/g, ""),
       DTEND: endDateUtc.replace(/[:-]/g, ""),
-      DESCRIPTION: "Paris 2024 - Closing ceremony",
-      SUMMARY: "Paris 2024 - Closing ceremony",
+      DESCRIPTION: `Paris 2024 - {{translate_closingCeremony}}`,
+      SUMMARY: `Paris 2024 - {{translate_closingCeremony}}`,
       LOCATION: "Stade de France, Saint-Denis",
       _COMPETITORS: [],
       _GENDER: "",
       _MEDAL: false,
       _NOCS: this.nocs,
       _SPORT: "",
-      _UNITNAME: "",
+      _UNITNAME: `Paris 2024 - {{translate_closingCeremony}}`,
     };
     this.events.push(closing);
   }
