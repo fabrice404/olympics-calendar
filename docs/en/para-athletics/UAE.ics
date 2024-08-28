@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//en/medals/IRI//EN
-X-WR-CALNAME:🇮🇷 Iran 🏅 | Paris 2024
-NAME:🇮🇷 Iran 🏅 | Paris 2024
+PRODID:-//fabrice404//olympics-calendar//en/para-athletics/UAE//EN
+X-WR-CALNAME:🇦🇪 United Arab Emirates Para Athletics | Paris 2024
+NAME:🇦🇪 United Arab Emirates Para Athletics | Paris 2024
 BEGIN:VEVENT
 UID:20240830T160000Z-para-athletics-WOMENS-CLUB-THROW-F32-FINAL
 DTSTAMP:20240830T160000Z
@@ -15,18 +15,6 @@ DESCRIPTION:Para Athletics - Women's Club Throw - F32 Final\n🇺🇦
   HABIBI\n🇦🇺 Rosemary LITTLE\n🇵🇱 Roza KOZAKOWSKA\n🇦🇺 Sarah
   CLIFTON-BLIGH\n🇦🇪 Thekra ALKAABI\n🇧🇷 Wanna Helena BRITO OLIVEIRA
 SUMMARY:Women's Club Throw - F32 Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240830T170500Z-para-athletics-MENS-SHOT-PUT-F55-FINAL
-DTSTAMP:20240830T170500Z
-DTSTART:20240830T170500Z
-DTEND:20240830T194000Z
-DESCRIPTION:Para Athletics - Men's Shot Put - F55 Final\n🇵🇱 Damian
-  LIGEZA\n🇵🇸 Fadi J S ALDEEB\n🇮🇷 Hamed AMIRI\n🇵🇱 Lech STOLTMAN\n🇷🇸
-  Nebojsa DURIC\n🇦🇿 Olokhan MUSAYEV\n🇧🇬 Ruzhdi RUZHDI\n🇦🇲 Sargis
-  STEPANYAN\n🇧🇷 Wallace SANTOS\n🇮🇷 Zafar ZAKER
-SUMMARY:Men's Shot Put - F55 Final
 LOCATION:Stade de France
 END:VEVENT
 END:VCALENDAR

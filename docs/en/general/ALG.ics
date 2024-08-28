@@ -1,20 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//en/medals/MAR//EN
-X-WR-CALNAME:🇲🇦 Morocco 🏅 | Paris 2024
-NAME:🇲🇦 Morocco 🏅 | Paris 2024
+PRODID:-//fabrice404//olympics-calendar//en/general/ALG//EN
+X-WR-CALNAME:🇩🇿 Algeria | Paris 2024
+NAME:🇩🇿 Algeria | Paris 2024
 BEGIN:VEVENT
-UID:20240830T083900Z-para-athletics-WOMENS-SHOT-PUT-F41-FINAL
-DTSTAMP:20240830T083900Z
-DTSTART:20240830T083900Z
-DTEND:20240830T094500Z
-DESCRIPTION:Para Athletics - Women's Shot Put - F41 Final\n🇦🇷 Antonella
-  RUIZ DIAZ\n🇨🇦 Charlotte BOLTON\n🇪🇨 Estefany Gisela LOPEZ MACAS\n🇲🇦
-  Hayat EL GARAA\n🇺🇿 Kubaro KHAKIMOVA\n🇺🇿 Madina MUKHTOROVA\n🇨🇴
-  Mayerli BUITRAGO ARIZA\n🇹🇳 Raoua TLILI\n🇹🇳 Samar BEN KOELLEB\n🇨🇫
-  Veronica NDAKARA\n🇲🇦 Youssra KARIM
-SUMMARY:Women's Shot Put - F41 Final
-LOCATION:Stade de France
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
+SUMMARY:Paris 2024 - {{translate_openingCeremon}}
+LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T160000Z-para-athletics-WOMENS-CLUB-THROW-F32-FINAL
@@ -29,5 +25,14 @@ DESCRIPTION:Para Athletics - Women's Club Throw - F32 Final\n🇺🇦
   CLIFTON-BLIGH\n🇦🇪 Thekra ALKAABI\n🇧🇷 Wanna Helena BRITO OLIVEIRA
 SUMMARY:Women's Club Throw - F32 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
 END:VEVENT
 END:VCALENDAR

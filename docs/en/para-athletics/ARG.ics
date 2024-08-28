@@ -4,6 +4,20 @@ PRODID:-//fabrice404//olympics-calendar//en/para-athletics/ARG//EN
 X-WR-CALNAME:🇦🇷 Argentina Para Athletics | Paris 2024
 NAME:🇦🇷 Argentina Para Athletics | Paris 2024
 BEGIN:VEVENT
+UID:20240830T083100Z-para-athletics-WOMENS-LONG-JUMP-T11-FINAL
+DTSTAMP:20240830T083100Z
+DTSTART:20240830T083100Z
+DTEND:20240830T100100Z
+DESCRIPTION:Para Athletics - Women's Long Jump - T11 Final\n🇪🇸 Alba
+  GARCIA FALAGAN\n🇧🇷 Alice de OLIVEIRA CORREA\n🇮🇹 Arjola DEDAJ\n🇺🇿
+  Asila MIRZAYOROVA\n🇫🇷 Delya BOULAGHLEM\n🇻🇪 Franyeli Nataly VARGAS
+  RUIZ\n🇧🇷 Lorena SILVA SPOLADORE\n🇦🇷 Rosario Trinidad COPPOLA
+  MOLINA\n🇻🇪 Rosibel COLMENARES\n🇦🇷 Sofia Valentina CASSE\n🇨🇳 ZHOU
+  Guohua
+SUMMARY:Women's Long Jump - T11 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T083400Z-para-athletics-MENS-100M-T12-ROUND-1
 DTSTAMP:20240830T083400Z
 DTSTART:20240830T083400Z
@@ -26,6 +40,20 @@ DESCRIPTION:Para Athletics - Women's Shot Put - F41 Final\n🇦🇷 Antonella
   Mayerli BUITRAGO ARIZA\n🇹🇳 Raoua TLILI\n🇹🇳 Samar BEN KOELLEB\n🇨🇫
   Veronica NDAKARA\n🇲🇦 Youssra KARIM
 SUMMARY:Women's Shot Put - F41 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T160000Z-para-athletics-WOMENS-CLUB-THROW-F32-FINAL
+DTSTAMP:20240830T160000Z
+DTSTART:20240830T160000Z
+DTEND:20240830T200000Z
+DESCRIPTION:Para Athletics - Women's Club Throw - F32 Final\n🇺🇦
+  Anastasiia MOSKALENKO\n🇧🇷 Giovanna BOSCOLO CASTILHO GONCALV\n🇦🇷
+  Marilu Romina FERNANDEZ\n🇹🇳 Maroua IBRAHMI\n🇺🇿 Maxliyo AKRAMOVA\n🇩🇿
+  Mounia GASMI\n🇦🇪 Noura ALKTEBI\n🇲🇦 Oumaima OUBRAYM\n🇮🇷 Parastoo
+  HABIBI\n🇦🇺 Rosemary LITTLE\n🇵🇱 Roza KOZAKOWSKA\n🇦🇺 Sarah
+  CLIFTON-BLIGH\n🇦🇪 Thekra ALKAABI\n🇧🇷 Wanna Helena BRITO OLIVEIRA
+SUMMARY:Women's Club Throw - F32 Final
 LOCATION:Stade de France
 END:VEVENT
 END:VCALENDAR
