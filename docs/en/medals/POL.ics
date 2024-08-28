@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/medals/POL//EN
+X-WR-CALNAME:🇵🇱 Poland 🏅 | Paris 2024
+NAME:🇵🇱 Poland 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240829T155000Z-para-swimming-MENS-100M-BACKSTROKE-S1-FINAL
+DTSTAMP:20240829T155000Z
+DTSTART:20240829T155000Z
+DTEND:20240829T160000Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S1 Final\n🇺🇦 Anton
+  KOL\n🇬🇷 Dimitrios KARYPIDIS\n🇮🇹 Francesco BETTELLA\n🇧🇷 Jose Ronaldo
+  da SILVA\n🇵🇱 Kamil OTOWSKI\n🇪🇸 Miguel Angel NAVARRO RIOFRIO\n🇬🇷
+  Nikolaos KONTOU
+SUMMARY:Men's 100m Backstroke - S1 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T172200Z-para-swimming-MENS-50M-BACKSTROKE-S1-FINAL
+DTSTAMP:20240831T172200Z
+DTSTART:20240831T172200Z
+DTEND:20240831T173000Z
+DESCRIPTION:Para Swimming - Men's 50m Backstroke - S1 Final\n🇺🇦 Anton
+  KOL\n🇬🇷 Dimitrios KARYPIDIS\n🇮🇹 Francesco BETTELLA\n🇧🇷 Jose Ronaldo
+  da SILVA\n🇵🇱 Kamil OTOWSKI\n🇪🇸 Miguel Angel NAVARRO RIOFRIO\n🇬🇷
+  Nikolaos KONTOU
+SUMMARY:Men's 50m Backstroke - S1 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

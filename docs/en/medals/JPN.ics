@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/medals/JPN//EN
+X-WR-CALNAME:🇯🇵 Japan 🏅 | Paris 2024
+NAME:🇯🇵 Japan 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240829T171200Z-para-swimming-MENS-50M-BREASTSTROKE-SB3-FINAL
+DTSTAMP:20240829T171200Z
+DTSTART:20240829T171200Z
+DTEND:20240829T171900Z
+DESCRIPTION:Para Swimming - Men's 50m Breaststroke - SB3 Final\n🇮🇱 Ami
+  Omer DADAON\n🇦🇹 Andreas ERNHOFER\n🇮🇹 Efrem MORELLI\n🇲🇽 Gustavo
+  Ramon SANCHEZ MARTINEZ\n🇰🇷 JO Giseong\n🇪🇸 Miguel LUQUE\n🇯🇵 SUZUKI
+  Takayuki\n🇪🇸 Vicente GIL
+SUMMARY:Men's 50m Breaststroke - SB3 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T163300Z-para-swimming-MENS-400M-FREESTYLE-S11-FINAL
+DTSTAMP:20240830T163300Z
+DTSTART:20240830T163300Z
+DTEND:20240830T164400Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S11 Final\n🇺🇦 Danylo
+  CHUFAROV\n🇨🇿 David KRATOCHVIL\n🇨🇳 HUA Dongdong\n🇵🇹 Marco
+  MENESES\n🇺🇦 Mykhailo SERBIN\n🇳🇱 Rogier DORSMAN\n🇯🇵 TOMITA
+  Uchu\n🇨🇳 ZHANG Bowen
+SUMMARY:Men's 400m Freestyle - S11 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T181900Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-S14-FINAL
+DTSTAMP:20240901T181900Z
+DTSTART:20240901T181900Z
+DTEND:20240901T182900Z
+DESCRIPTION:Para Swimming - Mixed 4x100m Freestyle Relay - S14 Final\n🇦🇺
+  AUS\n🇧🇷 BRA\n🇬🇧 GBR\n🇭🇰 Hong Kong, China\n🇯🇵 JPN
+SUMMARY:Mixed 4x100m Freestyle Relay - S14 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T175800Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-49-POINTS-F
+DTSTAMP:20240904T175800Z
+DTSTART:20240904T175800Z
+DTEND:20240904T180900Z
+DESCRIPTION:Para Swimming - Mixed 4x100m Freestyle Relay - 49 Points
+  Final\n🇧🇷 BRA\n🇨🇳 CHN\n🇬🇧 GBR\n🇯🇵 JPN\n🇪🇸 ESP\n🇺🇦 UKR\n🇺🇸
+  USA
+SUMMARY:Mixed 4x100m Freestyle Relay - 49 Points Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

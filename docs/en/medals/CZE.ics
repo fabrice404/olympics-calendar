@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/medals/CZE//EN
+X-WR-CALNAME:🇨🇿 Czechia 🏅 | Paris 2024
+NAME:🇨🇿 Czechia 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240830T163300Z-para-swimming-MENS-400M-FREESTYLE-S11-FINAL
+DTSTAMP:20240830T163300Z
+DTSTART:20240830T163300Z
+DTEND:20240830T164400Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S11 Final\n🇺🇦 Danylo
+  CHUFAROV\n🇨🇿 David KRATOCHVIL\n🇨🇳 HUA Dongdong\n🇵🇹 Marco
+  MENESES\n🇺🇦 Mykhailo SERBIN\n🇳🇱 Rogier DORSMAN\n🇯🇵 TOMITA
+  Uchu\n🇨🇳 ZHANG Bowen
+SUMMARY:Men's 400m Freestyle - S11 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T165600Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM11-FINAL
+DTSTAMP:20240903T165600Z
+DTSTART:20240903T165600Z
+DTEND:20240903T170500Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM11 Final\n🇨🇴
+  Brayan Mauricio TRIANA HERRERA\n🇺🇦 Danylo CHUFAROV\n🇨🇿 David
+  KRATOCHVIL\n🇪🇸 Jose Ramon CANTERO ELVIRA\n🇵🇹 Marco MENESES\n🇺🇦
+  Mykhailo SERBIN\n🇳🇱 Rogier DORSMAN\n🇨🇳 YANG Bozun
+SUMMARY:Men's 200m Individual Medley - SM11 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

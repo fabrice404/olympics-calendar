@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/UGA//EN
+X-WR-CALNAME:🇺🇬 Uganda | Paris 2024
+NAME:🇺🇬 Uganda | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
+SUMMARY:Paris 2024 - {{translate_openingCeremon}}
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T091825Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB8-HEATS
+DTSTAMP:20240830T091825Z
+DTSTART:20240830T091825Z
+DTEND:20240830T092700Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB8 Heats\n🇪🇸
+  Anastasiya DMYTRIV DMYTRIV\n🇬🇧 Brock WHISTON\n🇨🇷 Camila HAASE\n🇮🇪
+  Ellen KEANE\n🇯🇵 FUKUDA Kanon\n🇺🇬 Husnah KUKUNDAKWE\n🇨🇳 JIANG
+  Shengnan\n🇨🇦 Katarina ROXON\n🇪🇸 Nuria MARQUES SOTO\n🇭🇷 Paula
+  NOVINA\n🇯🇵 UTSUGI Mikuni\n🇨🇳 ZHU Hui
+SUMMARY:Women's 100m Breaststroke - SB8 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T081645Z-para-swimming-WOMENS-100M-BUTTERFLY-S8-HEATS
+DTSTAMP:20240907T081645Z
+DTSTART:20240907T081645Z
+DTEND:20240907T082504Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S8 Heats\n🇬🇧 Alice
+  TAI\n🇬🇧 Brock WHISTON\n🇺🇬 Husnah KUKUNDAKWE\n🇨🇳 JIANG
+  Shengnan\n🇺🇸 Jessica LONG\n🇨🇳 LU Weiyuan\n🇨🇴 Laura Carolina
+  GONZALEZ RODRIGUEZ\n🇦🇷 Maria Jazmin ARAGON DIANI\n🇧🇷 Vitoria Caroline
+  da SILVA RIBEIRO\n🇨🇳 ZHU Hui
+SUMMARY:Women's 100m Butterfly - S8 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

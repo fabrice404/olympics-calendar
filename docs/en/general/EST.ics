@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/EST//EN
+X-WR-CALNAME:🇪🇪 Estonia | Paris 2024
+NAME:🇪🇪 Estonia | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
+SUMMARY:Paris 2024 - {{translate_openingCeremon}}
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T085725Z-para-swimming-WOMENS-50M-FREESTYLE-S10-HEATS
+DTSTAMP:20240829T085725Z
+DTSTART:20240829T085725Z
+DTEND:20240829T090353Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S10 Heats\n🇮🇹 Alessia
+  SCORTECHINI\n🇦🇺 Alexa LEARY\n🇨🇦 Arianna HUNSICKER\n🇨🇦 Aurelie
+  RIVARD\n🇭🇺 Bianka PAP\n🇨🇳 CHEN Yi\n🇺🇸 Christie
+  RALEIGH-CROSSLEY\n🇫🇷 Emeline PIERRE\n🇦🇺 Jasmine GREENWOOD\n🇨🇦 Katie
+  COSGRIFFE\n🇦🇺 Keira STEPHENS\n🇨🇴 Maria Paula BARRERA ZAPATA\n🇧🇷
+  Mariana RIBEIRO\n🇪🇪 Susannah KAUL
+SUMMARY:Women's 50m Freestyle - S10 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T091022Z-para-swimming-MENS-100M-BREASTSTROKE-SB8-HEATS
+DTSTAMP:20240830T091022Z
+DTSTART:20240830T091022Z
+DTEND:20240830T091825Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB8 Heats\n🇦🇹
+  Andreas ONEA\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇪🇸 Carlos MARTINEZ
+  FERNANDEZ\n🇮🇹 Federico MORLACCHI\n🇳🇿 Joshua WILLMER\n🇨🇳 LI
+  Ting\n🇪🇸 Oscar SALGUERO GALISTEO\n🇪🇪 Robin LIKSOR\n🇦🇺 Timothy
+  HODGE\n🇨🇱 Vicente Enrique ALMONACID HEYL\n🇨🇳 XU Haijiao\n🇨🇳 YANG
+  Guanglong
+SUMMARY:Men's 100m Breaststroke - SB8 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T081000Z-para-swimming-WOMENS-100M-BACKSTROKE-S10-HEATS
+DTSTAMP:20240906T081000Z
+DTSTART:20240906T081000Z
+DTEND:20240906T081827Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S10 Heats\n🇺🇸
+  Alexandra TRUWIT\n🇫🇷 Anaelle ROULET\n🇨🇦 Arianna HUNSICKER\n🇨🇦
+  Aurelie RIVARD\n🇭🇺 Bianka PAP\n🇨🇳 CHEN Yi\n🇫🇷 Emeline PIERRE\n🇦🇺
+  Jasmine GREENWOOD\n🇨🇦 Katie COSGRIFFE\n🇳🇱 Lisa KRUGER\n🇪🇪 Susannah
+  KAUL\n🇺🇸 Taylor WINNETT\n🇨🇳 ZHANG Meng
+SUMMARY:Women's 100m Backstroke - S10 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T083831Z-para-swimming-MENS-50M-BACKSTROKE-S4-HEATS
+DTSTAMP:20240907T083831Z
+DTSTART:20240907T083831Z
+DTEND:20240907T084713Z
+DESCRIPTION:Para Swimming - Men's 50m Backstroke - S4 Heats\n🇦🇹 Andreas
+  ERNHOFER\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇮🇱 Ariel MALYAR\n🇨🇿
+  Arnost PETRACEK\n🇳🇿 Cameron LESLIE\n🇫🇷 Dimitri GRANJUX\n🇺🇦 Dmytro
+  VYNOHRADETS\n🇮🇹 Federico CRISTIANI\n🇰🇷 JO Giseong\n🇲🇽 Jesus
+  HERNANDEZ HERNANDEZ\n🇪🇪 Matz TOPKIN\n🇪🇸 Miguel LUQUE\n🇨🇳 ZOU
+  Liankang
+SUMMARY:Men's 50m Backstroke - S4 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

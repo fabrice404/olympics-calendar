@@ -13,6 +13,18 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T073000Z-para-swimming-MENS-400M-FREESTYLE-S9-HEATS
+DTSTAMP:20240829T073000Z
+DTSTART:20240829T073000Z
+DTEND:20240829T074422Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S9 Heats\n🇧🇷 Andrey
+  RIBEIRO WOYCZAK MADEIRA\n🇦🇺 Brenden HALL\n🇪🇸 Jacobo GARRIDO
+  BRUN\n🇯🇵 KAWABUCHI Taiyo\n🇱🇰 Naveed RAHEEM\n🇧🇪 Sam de VISSER\n🇮🇹
+  Simone BARLAAM\n🇦🇺 Timothy HODGE\n🇫🇷 Ugo DIDIER\n🇨🇳 XIE Zhili
+SUMMARY:Men's 400m Freestyle - S9 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T083000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-B-BE
 DTSTAMP:20240829T083000Z
 DTSTART:20240829T083000Z
@@ -51,6 +63,18 @@ SUMMARY:Men's Individual Compound Open Ranking Round
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T085407Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB9-HEATS
+DTSTAMP:20240830T085407Z
+DTSTART:20240830T085407Z
+DTEND:20240830T090213Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB9 Heats\n🇳🇱
+  Chantalle ZIJDERVELD\n🇦🇷 Daniela GIMENEZ\n🇳🇿 Gabriella SMITH\n🇦🇺
+  Keira STEPHENS\n🇳🇱 Lisa KRUGER\n🇺🇸 Summer SCHMIT\n🇧🇪 Tatyana
+  LEBRUN\n🇨🇳 ZHANG Meng\n🇵🇱 Zuzanna BORUSZEWSKA
+SUMMARY:Women's 100m Breaststroke - SB9 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T094000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-B-BE
 DTSTAMP:20240830T094000Z
 DTSTART:20240830T094000Z
@@ -76,6 +100,34 @@ DTEND:20240830T171000Z
 DESCRIPTION:Boccia - Men's Individual - BC2 Preliminary Round Pool B
 SUMMARY: Worawut SAENGAMPA 🇹🇭 - 🇧🇪 Francis ROMBOUTS
 LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T093324Z-para-swimming-WOMENS-100M-BUTTERFLY-S10-HEATS
+DTSTAMP:20240903T093324Z
+DTSTART:20240903T093324Z
+DTEND:20240903T094120Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S10 Heats\n🇮🇹
+  Alessia SCORTECHINI\n🇨🇳 CHEN Yi\n🇬🇧 Callie-Ann WARRINGTON\n🇭🇺
+  Csenge HOTZ\n🇬🇧 Faye ROGERS\n🇦🇺 Jasmine GREENWOOD\n🇨🇦 Katie
+  COSGRIFFE\n🇳🇿 Lili-Fox MASON\n🇳🇱 Lisa KRUGER\n🇨🇴 Maria Paula
+  BARRERA ZAPATA\n🇵🇱 Oliwia JABLONSKA\n🇦🇺 Poppy WILSON\n🇧🇪 Tatyana
+  LEBRUN\n🇺🇸 Taylor WINNETT
+SUMMARY:Women's 100m Butterfly - S10 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T074018Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM10-HEATS
+DTSTAMP:20240907T074018Z
+DTSTART:20240907T074018Z
+DTEND:20240907T075113Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM10
+  Heats\n🇭🇺 Bianka PAP\n🇨🇳 CHEN Yi\n🇭🇺 Csenge HOTZ\n🇫🇷 Elodie
+  LORANDI\n🇬🇧 Faye ROGERS\n🇳🇿 Gabriella SMITH\n🇦🇺 Jasmine
+  GREENWOOD\n🇨🇦 Katie COSGRIFFE\n🇦🇺 Keira STEPHENS\n🇳🇱 Lisa
+  KRUGER\n🇵🇱 Oliwia JABLONSKA\n🇧🇪 Tatyana LEBRUN\n🇺🇸 Taylor
+  WINNETT\n🇨🇳 ZHANG Meng
+SUMMARY:Women's 200m Individual Medley - SM10 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

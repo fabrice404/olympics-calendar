@@ -13,6 +13,19 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T081317Z-para-swimming-WOMENS-100M-BACKSTROKE-S2-HEATS
+DTSTAMP:20240829T081317Z
+DTSTART:20240829T081317Z
+DTEND:20240829T082836Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S2 Heats\n🇮🇹 Angela
+  PROCIDA\n🇬🇷 Areti Aravela SPYRIDOU\n🇹🇷 Elif ILDEM\n🇲🇽 Fabiola
+  RAMIREZ MARTINEZ\n🇲🇽 Haidee Viviana ACEVES PEREZ\n🇷🇸 Katarina
+  DRAGANOV-CORDAS\n🇦🇿 Konul SULEYMANOVA\n🇸🇬 Pin Xiu YIP\n🇪🇸 Teresa
+  PERALES\n🇭🇺 Zsanett ADAMI-ROZSA
+SUMMARY:Women's 100m Backstroke - S2 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T110000Z-para-archery-MENS-INDIVIDUAL-RECURVE-OPEN-RANKING-ROUN
 DTSTAMP:20240829T110000Z
 DTSTART:20240829T110000Z
@@ -70,6 +83,19 @@ SUMMARY:Men K44 -70kg Quarterfinal
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T073000Z-para-swimming-MENS-100M-BACKSTROKE-S12-HEATS
+DTSTAMP:20240831T073000Z
+DTSTART:20240831T073000Z
+DTEND:20240831T073819Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S12 Heats\n🇪🇸 Alex
+  VILLAREJO MARTIN\n🇨🇳 DENG Jieqiu\n🇨🇴 Daniel GIRALDO CORREA\n🇺🇦
+  Dmytro SUKHANOV\n🇧🇷 Douglas MATERA\n🇺🇸 Evan WILKERSON\n🇮🇩 Maulana
+  Rifky YAVIANDA\n🇦🇿 Raman SALEI\n🇺🇦 Roman MYCHKA\n🇬🇧 Stephen
+  CLEGG\n🇺🇦 Yaroslav DENYSENKO
+SUMMARY:Men's 100m Backstroke - S12 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T085300Z-para-taekwondo-MEN-K44-80KG-ROUND-OF-16
 DTSTAMP:20240831T085300Z
 DTSTART:20240831T085300Z
@@ -78,6 +104,19 @@ DESCRIPTION:Para Taekwondo - Men K44 -80kg Round of 16\n🇦🇿 Abulfaz
   ABUZARLI
 SUMMARY:Men K44 -80kg Round of 16
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T090344Z-para-swimming-WOMENS-50M-BACKSTROKE-S2-HEATS
+DTSTAMP:20240831T090344Z
+DTSTART:20240831T090344Z
+DTEND:20240831T091510Z
+DESCRIPTION:Para Swimming - Women's 50m Backstroke - S2 Heats\n🇮🇹 Angela
+  PROCIDA\n🇬🇷 Areti Aravela SPYRIDOU\n🇹🇷 Elif ILDEM\n🇲🇽 Fabiola
+  RAMIREZ MARTINEZ\n🇲🇽 Haidee Viviana ACEVES PEREZ\n🇷🇸 Katarina
+  DRAGANOV-CORDAS\n🇦🇿 Konul SULEYMANOVA\n🇸🇬 Pin Xiu YIP\n🇪🇸 Teresa
+  PERALES\n🇭🇺 Zsanett ADAMI-ROZSA
+SUMMARY:Women's 50m Backstroke - S2 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T100000Z-shooting-para-sport-P2-WOMENS-10M-AIR-PISTOL-SH1-QUALI
@@ -97,6 +136,19 @@ SUMMARY:P2 - Women's 10m Air Pistol SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T073000Z-para-swimming-MENS-100M-FREESTYLE-S12-HEATS
+DTSTAMP:20240904T073000Z
+DTSTART:20240904T073000Z
+DTEND:20240904T073726Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S12 Heats\n🇪🇸 Alex
+  VILLAREJO MARTIN\n🇨🇴 Daniel GIRALDO CORREA\n🇺🇿 Dmitriy HORLIN\n🇺🇸
+  Evan WILKERSON\n🇺🇦 Illia YAREMENKO\n🇪🇸 Ivan SALGUERO OTEIZA\n🇫🇷
+  Kylian PORTAL\n🇺🇦 Maksym VERAKSA\n🇮🇩 Maulana Rifky YAVIANDA\n🇦🇿
+  Raman SALEI\n🇬🇧 Stephen CLEGG\n🇺🇦 Yaroslav DENYSENKO
+SUMMARY:Men's 100m Freestyle - S12 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T073000Z-shooting-para-sport-P4-MIXED-50M-PISTOL-SH1-QUALIFICAT
 DTSTAMP:20240904T073000Z
 DTSTART:20240904T073000Z
@@ -114,6 +166,18 @@ DESCRIPTION:Shooting Para Sport - P4 - Mixed 50m Pistol SH1
   PESEK\n🇨🇳 YANG Chao\n🇺🇸 Yan Xiao GONG\n🇷🇸 Zivko PAPAZ
 SUMMARY:P4 - Mixed 50m Pistol SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T084713Z-para-swimming-MENS-100M-BUTTERFLY-S12-HEATS
+DTSTAMP:20240907T084713Z
+DTSTART:20240907T084713Z
+DTEND:20240907T085446Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S12 Heats\n🇨🇳 DENG
+  Jieqiu\n🇨🇴 Daniel GIRALDO CORREA\n🇺🇿 Dmitriy HORLIN\n🇧🇷 Douglas
+  MATERA\n🇺🇸 Evan WILKERSON\n🇺🇦 Illia YAREMENKO\n🇫🇷 Kylian
+  PORTAL\n🇦🇿 Raman SALEI\n🇬🇧 Stephen CLEGG\n🇺🇦 Yaroslav DENYSENKO
+SUMMARY:Men's 100m Butterfly - S12 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

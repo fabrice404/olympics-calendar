@@ -13,6 +13,19 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T075934Z-para-swimming-MENS-100M-BACKSTROKE-S2-HEATS
+DTSTAMP:20240829T075934Z
+DTSTART:20240829T075934Z
+DTEND:20240829T081317Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S2 Heats\n🇨🇱 Alberto
+  Caroly ABARZA DIAZ\n🇸🇪 Conrad HILDEBRAND\n🇲🇽 Cristopher Gregorio
+  TRONCO SANCHEZ\n🇧🇷 Gabriel Geraldo dos SANTOS ARAUJO\n🇵🇱 Jacek
+  CZECH\n🇲🇽 Jesus Rey LOPEZ CERVANTES\n🇪🇸 Mikel ERDOZAIN OTERINO\n🇵🇪
+  Rodrigo SANTILLAN\n🇺🇦 Roman BONDARENKO
+SUMMARY:Men's 100m Backstroke - S2 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T084500Z-para-table-tennis-MENS-DOUBLES-MD8-ROUND-OF-16-KOR-CHI
 DTSTAMP:20240829T084500Z
 DTSTART:20240829T084500Z
@@ -86,6 +99,20 @@ SUMMARY: CHAN Ho Yuen 🇭🇰 - 🇨🇱 Jaime ARANGUIZ
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T091022Z-para-swimming-MENS-100M-BREASTSTROKE-SB8-HEATS
+DTSTAMP:20240830T091022Z
+DTSTART:20240830T091022Z
+DTEND:20240830T091825Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB8 Heats\n🇦🇹
+  Andreas ONEA\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇪🇸 Carlos MARTINEZ
+  FERNANDEZ\n🇮🇹 Federico MORLACCHI\n🇳🇿 Joshua WILLMER\n🇨🇳 LI
+  Ting\n🇪🇸 Oscar SALGUERO GALISTEO\n🇪🇪 Robin LIKSOR\n🇦🇺 Timothy
+  HODGE\n🇨🇱 Vicente Enrique ALMONACID HEYL\n🇨🇳 XU Haijiao\n🇨🇳 YANG
+  Guanglong
+SUMMARY:Men's 100m Breaststroke - SB8 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T100000Z-wheelchair-tennis-MENS-SINGLES-FIRST-ROUND-ISR-CHI
 DTSTAMP:20240830T100000Z
 DTSTART:20240830T100000Z
@@ -111,6 +138,32 @@ DTEND:20240830T180000Z
 DESCRIPTION:Para Badminton - Men's Singles WH2 Group Play Stage - Group D
 SUMMARY: Jaime ARANGUIZ 🇨🇱 - 🇲🇾 Noor Azwan BIN NOORLAN
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T085314Z-para-swimming-MENS-50M-BACKSTROKE-S2-HEATS
+DTSTAMP:20240831T085314Z
+DTSTART:20240831T085314Z
+DTEND:20240831T090344Z
+DESCRIPTION:Para Swimming - Men's 50m Backstroke - S2 Heats\n🇨🇱 Alberto
+  Caroly ABARZA DIAZ\n🇸🇪 Conrad HILDEBRAND\n🇲🇽 Cristopher Gregorio
+  TRONCO SANCHEZ\n🇧🇷 Gabriel Geraldo dos SANTOS ARAUJO\n🇵🇱 Jacek
+  CZECH\n🇲🇽 Jesus Rey LOPEZ CERVANTES\n🇪🇸 Mikel ERDOZAIN OTERINO\n🇵🇪
+  Rodrigo SANTILLAN\n🇺🇦 Roman BONDARENKO
+SUMMARY:Men's 50m Backstroke - S2 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T082603Z-para-swimming-WOMENS-100M-BUTTERFLY-S9-HEATS
+DTSTAMP:20240906T082603Z
+DTSTART:20240906T082603Z
+DTEND:20240906T083409Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S9 Heats\n🇪🇸
+  Anastasiya DMYTRIV DMYTRIV\n🇺🇸 Christie RALEIGH-CROSSLEY\n🇦🇺 Emily
+  BEECROFT\n🇳🇱 Florianne BULTJE\n🇺🇾 Hanna ARIAS\n🇨🇱 Kiara Pollet
+  GODOY SOTO\n🇨🇳 LIU Ying\n🇺🇸 Lizzi SMITH\n🇨🇦 Mary JIBB\n🇨🇳 XU
+  Jialing\n🇭🇺 Zsofia KONKOLY
+SUMMARY:Women's 100m Butterfly - S9 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

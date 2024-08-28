@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/CYP//EN
+X-WR-CALNAME:🇨🇾 Cyprus | Paris 2024
+NAME:🇨🇾 Cyprus | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
+SUMMARY:Paris 2024 - {{translate_openingCeremon}}
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T094634Z-para-swimming-WOMENS-50M-FREESTYLE-S11-HEATS
+DTSTAMP:20240831T094634Z
+DTSTART:20240831T094634Z
+DTEND:20240831T095443Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S11 Heats\n🇦🇷 Analuz
+  PELLITERO\n🇺🇸 Anastasia PAGONIS\n🇯🇵 ISHIURA Tomomi\n🇨🇾 Karolina
+  PELENDRITOU\n🇺🇦 Kateryna TKACHUK\n🇨🇳 LI Guizhi\n🇳🇱 Liesette
+  BRUINSMA\n🇨🇳 MA Jia\n🇺🇦 Maryna PIDDUBNA\n🇲🇽 Matilde Estefania
+  ALCAZAR FIGUEROA\n🇦🇷 Nadia BAEZ\n🇯🇵 ONO Chikako\n🇬🇧 Scarlett
+  HUMPHREY\n🇸🇰 Tatiana BLATTNEROVA\n🇨🇳 ZHANG Xiaotong
+SUMMARY:Women's 50m Freestyle - S11 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

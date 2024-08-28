@@ -69,6 +69,26 @@ SUMMARY: Muhamad SYAFA 🇮🇩 - 🇸🇰 Tomas KRAL
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T091120Z-para-swimming-WOMENS-100M-BUTTERFLY-S13-HEATS
+DTSTAMP:20240829T091120Z
+DTSTART:20240829T091120Z
+DTEND:20240829T091914Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S13 Heats\n🇮🇹
+  Alessia BERRA\n🇧🇷 Ana Karolina SOARES de OLIVEIRA\n🇪🇸 Ariadna EDO
+  BELTRAN\n🇭🇰 CHAN Yui Lam\n🇭🇰 CHEUNG Ho Ying\n🇮🇹 Carlotta
+  GILLI\n🇪🇸 Eva CORONADO TEJEDA\n🇯🇵 FUKUI Kasumi\n🇺🇸 Gia
+  PERGOLINI\n🇺🇸 Grace NUHFER\n🇦🇹 Janina FALK\n🇵🇱 Joanna MENDAK\n🇰🇷
+  KANG Jungeun\n🇯🇵 KINOSHITA Aira\n🇫🇷 Leane MORCEAU\n🇬🇧 Louise
+  FIDDES\n🇧🇷 Lucilene da SILVA SOUSA\n🇧🇷 Maria Carolina GOMES
+  SANTIAGO\n🇪🇸 Maria DELGADO NADAL\n🇪🇸 Marian POLO LOPEZ\n🇺🇿 Muslima
+  ODILOVA\n🇹🇭 Nattharinee KHAJHONMATHA\n🇺🇸 Olivia CHAMBERS\n🇬🇧 Olivia
+  NEWMAN-BARONIUS\n🇦🇺 Paige LEONHARDT\n🇬🇧 Poppy MASKILL\n🇮🇪 Roisin NI
+  RIAIN\n🇦🇺 Ruby STORM\n🇺🇿 Shokhsanamkhon TOSHPULATOVA\n🇮🇩 Syuci
+  INDRIANI
+SUMMARY:Women's 100m Butterfly - S13 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T094000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-D-IN
 DTSTAMP:20240829T094000Z
 DTSTART:20240829T094000Z
@@ -365,6 +385,19 @@ SUMMARY: SETIAWAN/SADIYAH 🇮🇩 - 🇨🇳 YANG J/YANG QX
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T073000Z-para-swimming-MENS-100M-BACKSTROKE-S12-HEATS
+DTSTAMP:20240831T073000Z
+DTSTART:20240831T073000Z
+DTEND:20240831T073819Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S12 Heats\n🇪🇸 Alex
+  VILLAREJO MARTIN\n🇨🇳 DENG Jieqiu\n🇨🇴 Daniel GIRALDO CORREA\n🇺🇦
+  Dmytro SUKHANOV\n🇧🇷 Douglas MATERA\n🇺🇸 Evan WILKERSON\n🇮🇩 Maulana
+  Rifky YAVIANDA\n🇦🇿 Raman SALEI\n🇺🇦 Roman MYCHKA\n🇬🇧 Stephen
+  CLEGG\n🇺🇦 Yaroslav DENYSENKO
+SUMMARY:Men's 100m Backstroke - S12 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T105000Z-boccia-MENS-INDIVIDUAL-BC1-PRELIMINARY-ROUND-POOL-B-IN
 DTSTAMP:20240831T105000Z
 DTSTART:20240831T105000Z
@@ -395,6 +428,32 @@ DESCRIPTION:Shooting Para Sport - R5 - Mixed 10m Air Rifle Prone SH2
   PLAKUSHCHYI\n🇬🇪 Vladimer TCHINTCHARAULI
 SUMMARY:R5 - Mixed 10m Air Rifle Prone SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T073827Z-para-swimming-MENS-100M-BACKSTROKE-S9-HEATS
+DTSTAMP:20240903T073827Z
+DTSTART:20240903T073827Z
+DTEND:20240903T074640Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S9 Heats\n🇮🇪 Barry
+  McCLEMENTS\n🇦🇺 Brenden HALL\n🇵🇱 Igor HREHOROWICZ\n🇮🇩 Jendi
+  PANGABEAN\n🇳🇿 Jesse REYNOLDS\n🇧🇷 Lucas Lamente MOZELA\n🇮🇹 Simone
+  BARLAAM\n🇮🇹 Simone CIULLI\n🇦🇺 Timothy HODGE\n🇫🇷 Ugo DIDIER\n🇧🇷
+  Victor dos SANTOS ALMEIDA\n🇺🇦 Yurii BOZHYNSKYI
+SUMMARY:Men's 100m Backstroke - S9 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T073000Z-para-swimming-MENS-100M-FREESTYLE-S12-HEATS
+DTSTAMP:20240904T073000Z
+DTSTART:20240904T073000Z
+DTEND:20240904T073726Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S12 Heats\n🇪🇸 Alex
+  VILLAREJO MARTIN\n🇨🇴 Daniel GIRALDO CORREA\n🇺🇿 Dmitriy HORLIN\n🇺🇸
+  Evan WILKERSON\n🇺🇦 Illia YAREMENKO\n🇪🇸 Ivan SALGUERO OTEIZA\n🇫🇷
+  Kylian PORTAL\n🇺🇦 Maksym VERAKSA\n🇮🇩 Maulana Rifky YAVIANDA\n🇦🇿
+  Raman SALEI\n🇬🇧 Stephen CLEGG\n🇺🇦 Yaroslav DENYSENKO
+SUMMARY:Men's 100m Freestyle - S12 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

@@ -31,6 +31,19 @@ SUMMARY: CZUPER/JAKIMCZUK 🇵🇱 - 🇪🇬 RAMADAN/RASLAN
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T085110Z-para-swimming-MENS-50M-FREESTYLE-S10-HEATS
+DTSTAMP:20240829T085110Z
+DTSTART:20240829T085110Z
+DTEND:20240829T085725Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S10 Heats\n🇵🇱 Alan
+  OGORZALEK\n🇪🇸 David LEVECQ\n🇨🇦 Fernando LU\n🇺🇦 Ihor NIMCHENKO\n🇯🇵
+  MINAI Akito\n🇧🇷 Phelipe Andrews MELO RODRIGUES\n🇦🇺 Rowan
+  CROTHERS\n🇮🇹 Stefano RAIMONDI\n🇦🇺 Thomas GALLAGHER\n🇺🇸 Yaseen
+  EL-DEMERDASH\n🇪🇬 Zeiad Tarek HASBY
+SUMMARY:Men's 50m Freestyle - S10 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T085300Z-para-taekwondo-WOMEN-K44-52KG-ROUND-OF-16-EGY-KEN
 DTSTAMP:20240829T085300Z
 DTSTART:20240829T085300Z
@@ -38,6 +51,19 @@ DTEND:20240829T090400Z
 DESCRIPTION:Para Taekwondo - Women K44 -52kg Round of 16
 SUMMARY: Salma ALI ABD AL MONEEM HASSAN 🇪🇬 - 🇰🇪 Neema Stency OBONYO
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T091914Z-para-swimming-MENS-200M-FREESTYLE-S5-HEATS
+DTSTAMP:20240829T091914Z
+DTSTART:20240829T091914Z
+DTEND:20240829T093129Z
+DESCRIPTION:Para Swimming - Men's 200m Freestyle - S5 Heats\n🇪🇸 Antoni
+  PONCE BERTRAN\n🇮🇹 Francesco BOCCIARDO\n🇨🇳 GUO Jincheng\n🇨🇴 Kevin
+  Alfonso MORENO GUALACO\n🇪🇸 Luis HUERTA POZA\n🇨🇴 Miguel Angel RINCON
+  NARVAEZ\n🇲🇾 Muhammad Nur Syaiful ZULKAFLI\n🇺🇦 Oleksandr KOMAROV\n🇹🇭
+  Phuchit AINGCHAIYAPHUM\n🇨🇳 WANG Lichao\n🇪🇬 Zeyad KAHIL
+SUMMARY:Men's 200m Freestyle - S5 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240829T105000Z-boccia-WOMENS-INDIVIDUAL-BC4-PRELIMINARY-ROUND-POOL-B-
@@ -182,6 +208,21 @@ DTEND:20240902T113000Z
 DESCRIPTION:Sitting Volleyball - Men's Preliminary Round - Pool A
 SUMMARY: EGY 🇪🇬 - 🇰🇿 KAZ
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T092000Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM5-HEATS
+DTSTAMP:20240907T092000Z
+DTSTART:20240907T092000Z
+DTEND:20240907T094357Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM5
+  Heats\n🇪🇸 Berta GARCIA GRAU\n🇨🇳 CHENG Jiao\n🇨🇦 Clemence PARE\n🇵🇪
+  Dunia FELICES\n🇧🇷 Esthefany RODRIGUES\n🇨🇴 Gabriela OVIEDO RUEDA\n🇮🇹
+  Giulia GHIRETTI\n🇨🇳 HE Shenggao\n🇨🇦 Hannah OUELLETTE\n🇿🇦 Kat
+  SWANEPOEL\n🇨🇳 LU Dong\n🇪🇬 Malak ABDELSHAFI\n🇬🇷 Maria Fanouria
+  TZIVELEKI\n🇹🇷 Meryem Nur TUNUG\n🇮🇹 Monica BOGGIONI\n🇹🇷 Sevilay
+  OZTURK\n🇫🇷 Solene SACHE\n🇹🇭 Wilasini WONGNONTHAPHOOM\n🇯🇵 YUI Maori
+SUMMARY:Women's 200m Individual Medley - SM5 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

@@ -23,6 +23,19 @@ SUMMARY: MATHEZ/RENGGLI 🇨🇭 - 🇹🇼 HU/YANG
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T084351Z-para-swimming-WOMENS-50M-FREESTYLE-S6-HEATS
+DTSTAMP:20240829T084351Z
+DTSTART:20240829T084351Z
+DTEND:20240829T085110Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S6 Heats\n🇺🇦 Anna
+  HONTAR\n🇮🇪 Dearbhaile BRADY\n🇺🇸 Ellie MARKS\n🇨🇳 JIANG Yuyan\n🇲🇹
+  Maja THEUMA\n🇨🇴 Mariana GUERRERO MARTINEZ\n🇧🇷 Mayara DO AMARAL
+  PETZOLD\n🇮🇪 Nicole TURNER\n🇲🇳 Nomuun KHUREL\n🇨🇭 Nora MEISTER\n🇨🇦
+  Shelby NEWKIRK\n🇩🇪 Verena SCHOTT\n🇨🇳 ZHANG Li\n🇨🇳 ZHU Ji
+SUMMARY:Women's 50m Freestyle - S6 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T100000Z-para-cycling-track-WOMENS-C4-5-500M-TIME-TRIAL-QUALIFY
 DTSTAMP:20240829T100000Z
 DTSTART:20240829T100000Z
@@ -66,6 +79,21 @@ DTEND:20240830T071000Z
 DESCRIPTION:Para Badminton - Women's Singles WH2 Group Play Stage - Group C
 SUMMARY: YANG I-Chen 🇹🇼 - 🇨🇭 Ilaria RENGGLI
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T075821Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM6-HEATS
+DTSTAMP:20240830T075821Z
+DTSTART:20240830T075821Z
+DTEND:20240830T081512Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM6 Heats\n🇹🇭
+  Aekkarin NOITHAT\n🇭🇺 Bence IVAN\n🇬🇧 Bruce DEE\n🇨🇴 David Felipe
+  RENDON ACOSTA\n🇪🇸 David SANCHEZ SIERRA\n🇨🇳 GUO Jincheng\n🇲🇽 Jesus
+  Alberto GUTIERREZ BERMUDEZ\n🇲🇽 Juan Jose GUTIERREZ BERMUDEZ\n🇨🇭 Leo
+  McCREA\n🇺🇸 Morgan RAY\n🇨🇴 Nelson CRISPIN CORZO\n🇲🇽 Raul GUTIERREZ
+  BERMUDEZ\n🇧🇷 Talisson Henrique GLOCK\n🇨🇳 WANG Jingang\n🇨🇳 YANG
+  Hong\n🇺🇸 Zach SHATTUCK
+SUMMARY:Men's 200m Individual Medley - SM6 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T091000Z-para-badminton-WOMENS-DOUBLES-WH1-WH2-GROUP-PLAY-STAGE
@@ -125,6 +153,18 @@ SUMMARY: MATSUMOTO Takumi 🇯🇵 - 🇨🇭 Luca OLGIATI
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T091535Z-para-swimming-MENS-100M-BREASTSTROKE-SB5-HEATS
+DTSTAMP:20240901T091535Z
+DTSTART:20240901T091535Z
+DTEND:20240901T092511Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB5 Heats\n🇺🇦
+  Andrii DRAPKIN\n🇪🇸 Antoni PONCE BERTRAN\n🇺🇦 Danylo SEMENYKHIN\n🇻🇳
+  Dat le\n🇦🇷 German Leonel AREVALO\n🇻🇳 Hai DO\n🇨🇭 Leo McCREA\n🇲🇽
+  Pedro RANGEL HARO\n🇧🇷 Roberto ALCALDE RODRIGUEZ
+SUMMARY:Men's 100m Breaststroke - SB5 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T093000Z-shooting-para-sport-R5-MIXED-10M-AIR-RIFLE-PRONE-SH2-Q
 DTSTAMP:20240901T093000Z
 DTSTART:20240901T093000Z
@@ -148,6 +188,19 @@ SUMMARY:R5 - Mixed 10m Air Rifle Prone SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T090435Z-para-swimming-WOMENS-100M-FREESTYLE-S7-HEATS
+DTSTAMP:20240904T090435Z
+DTSTART:20240904T090435Z
+DTEND:20240904T091239Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S7 Heats\n🇦🇺 Chloe
+  OSBORN\n🇺🇸 Ellie MARKS\n🇮🇹 Giulia TERZI\n🇦🇺 Holly WARN\n🇨🇳 JIANG
+  Yuyan\n🇺🇸 McKenzie COAN\n🇺🇸 Morgan STICKNEY\n🇲🇽 Naomi Alejandra
+  ORTIZ MENDEZ\n🇨🇭 Nora MEISTER\n🇨🇦 Sabrina DUCHESNE\n🇨🇴 Sara VARGAS
+  BLANCO\n🇨🇦 Shelby NEWKIRK\n🇨🇦 Tess ROUTLIFFE\n🇺🇦 Veronika KORZHOVA
+SUMMARY:Women's 100m Freestyle - S7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T103000Z-shooting-para-sport-R9-MIXED-50M-RIFLE-PRONE-SH2-QUALI
 DTSTAMP:20240904T103000Z
 DTSTART:20240904T103000Z
@@ -164,6 +217,31 @@ DESCRIPTION:Shooting Para Sport - R9 - Mixed 50m Rifle Prone SH2
   PLAKUSHCHYI\n🇬🇪 Vladimer TCHINTCHARAULI\n🇷🇸 Zdravko SAVANOVIC
 SUMMARY:R9 - Mixed 50m Rifle Prone SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T154100Z-para-swimming-WOMENS-400M-FREESTYLE-S6-FINAL
+DTSTAMP:20240906T154100Z
+DTSTART:20240906T154100Z
+DTEND:20240906T155200Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S6 Final\n🇮🇹 Arianna
+  TALAMONA\n🇭🇺 Evelin SZARAZ\n🇨🇳 JIANG Yuyan\n🇧🇷 Laila SUZIGAN
+  ABATE\n🇬🇧 Maisie SUMMERS-NEWTON\n🇨🇭 Nora MEISTER\n🇨🇳 ZHANG Li\n🇨🇳
+  ZHU Ji
+SUMMARY:Women's 400m Freestyle - S6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T075947Z-para-swimming-WOMENS-100M-BACKSTROKE-S6-HEATS
+DTSTAMP:20240907T075947Z
+DTSTART:20240907T075947Z
+DTEND:20240907T080913Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S6 Heats\n🇺🇦 Anna
+  HONTAR\n🇮🇹 Arianna TALAMONA\n🇺🇸 Ellie MARKS\n🇱🇹 Gabriele
+  CEPAVICIUTE\n🇨🇳 JIANG Yuyan\n🇧🇷 Mayara DO AMARAL PETZOLD\n🇭🇰 NG
+  Cheuk Yan\n🇲🇳 Nomuun KHUREL\n🇨🇭 Nora MEISTER\n🇨🇦 Shelby
+  NEWKIRK\n🇩🇪 Verena SCHOTT\n🇨🇳 ZHU Ji
+SUMMARY:Women's 100m Backstroke - S6 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

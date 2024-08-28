@@ -13,6 +13,19 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T075934Z-para-swimming-MENS-100M-BACKSTROKE-S2-HEATS
+DTSTAMP:20240829T075934Z
+DTSTART:20240829T075934Z
+DTEND:20240829T081317Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S2 Heats\n🇨🇱 Alberto
+  Caroly ABARZA DIAZ\n🇸🇪 Conrad HILDEBRAND\n🇲🇽 Cristopher Gregorio
+  TRONCO SANCHEZ\n🇧🇷 Gabriel Geraldo dos SANTOS ARAUJO\n🇵🇱 Jacek
+  CZECH\n🇲🇽 Jesus Rey LOPEZ CERVANTES\n🇪🇸 Mikel ERDOZAIN OTERINO\n🇵🇪
+  Rodrigo SANTILLAN\n🇺🇦 Roman BONDARENKO
+SUMMARY:Men's 100m Backstroke - S2 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T083100Z-para-taekwondo-WOMEN-K44-47KG-ROUND-OF-16-PER-CMR
 DTSTAMP:20240829T083100Z
 DTSTART:20240829T083100Z
@@ -127,6 +140,19 @@ SUMMARY:R1 - Men's 10m Air Rifle Standing SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T085314Z-para-swimming-MENS-50M-BACKSTROKE-S2-HEATS
+DTSTAMP:20240831T085314Z
+DTSTART:20240831T085314Z
+DTEND:20240831T090344Z
+DESCRIPTION:Para Swimming - Men's 50m Backstroke - S2 Heats\n🇨🇱 Alberto
+  Caroly ABARZA DIAZ\n🇸🇪 Conrad HILDEBRAND\n🇲🇽 Cristopher Gregorio
+  TRONCO SANCHEZ\n🇧🇷 Gabriel Geraldo dos SANTOS ARAUJO\n🇵🇱 Jacek
+  CZECH\n🇲🇽 Jesus Rey LOPEZ CERVANTES\n🇪🇸 Mikel ERDOZAIN OTERINO\n🇵🇪
+  Rodrigo SANTILLAN\n🇺🇦 Roman BONDARENKO
+SUMMARY:Men's 50m Backstroke - S2 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T120000Z-boccia-WOMENS-INDIVIDUAL-BC3-PRELIMINARY-ROUND-POOL-D-
 DTSTAMP:20240831T120000Z
 DTSTART:20240831T120000Z
@@ -176,6 +202,21 @@ DESCRIPTION:Shooting Para Sport - R6 - Mixed 50m Rifle Prone SH1
   GALOGAVROS\n🇮🇱 Yuliya CHERNOY\n🇨🇳 ZHANG Cuiping
 SUMMARY:R6 - Mixed 50m Rifle Prone SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T092000Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM5-HEATS
+DTSTAMP:20240907T092000Z
+DTSTART:20240907T092000Z
+DTEND:20240907T094357Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM5
+  Heats\n🇪🇸 Berta GARCIA GRAU\n🇨🇳 CHENG Jiao\n🇨🇦 Clemence PARE\n🇵🇪
+  Dunia FELICES\n🇧🇷 Esthefany RODRIGUES\n🇨🇴 Gabriela OVIEDO RUEDA\n🇮🇹
+  Giulia GHIRETTI\n🇨🇳 HE Shenggao\n🇨🇦 Hannah OUELLETTE\n🇿🇦 Kat
+  SWANEPOEL\n🇨🇳 LU Dong\n🇪🇬 Malak ABDELSHAFI\n🇬🇷 Maria Fanouria
+  TZIVELEKI\n🇹🇷 Meryem Nur TUNUG\n🇮🇹 Monica BOGGIONI\n🇹🇷 Sevilay
+  OZTURK\n🇫🇷 Solene SACHE\n🇹🇭 Wilasini WONGNONTHAPHOOM\n🇯🇵 YUI Maori
+SUMMARY:Women's 200m Individual Medley - SM5 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

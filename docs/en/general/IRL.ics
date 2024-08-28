@@ -13,6 +13,39 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T084351Z-para-swimming-WOMENS-50M-FREESTYLE-S6-HEATS
+DTSTAMP:20240829T084351Z
+DTSTART:20240829T084351Z
+DTEND:20240829T085110Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S6 Heats\n🇺🇦 Anna
+  HONTAR\n🇮🇪 Dearbhaile BRADY\n🇺🇸 Ellie MARKS\n🇨🇳 JIANG Yuyan\n🇲🇹
+  Maja THEUMA\n🇨🇴 Mariana GUERRERO MARTINEZ\n🇧🇷 Mayara DO AMARAL
+  PETZOLD\n🇮🇪 Nicole TURNER\n🇲🇳 Nomuun KHUREL\n🇨🇭 Nora MEISTER\n🇨🇦
+  Shelby NEWKIRK\n🇩🇪 Verena SCHOTT\n🇨🇳 ZHANG Li\n🇨🇳 ZHU Ji
+SUMMARY:Women's 50m Freestyle - S6 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T091120Z-para-swimming-WOMENS-100M-BUTTERFLY-S13-HEATS
+DTSTAMP:20240829T091120Z
+DTSTART:20240829T091120Z
+DTEND:20240829T091914Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S13 Heats\n🇮🇹
+  Alessia BERRA\n🇧🇷 Ana Karolina SOARES de OLIVEIRA\n🇪🇸 Ariadna EDO
+  BELTRAN\n🇭🇰 CHAN Yui Lam\n🇭🇰 CHEUNG Ho Ying\n🇮🇹 Carlotta
+  GILLI\n🇪🇸 Eva CORONADO TEJEDA\n🇯🇵 FUKUI Kasumi\n🇺🇸 Gia
+  PERGOLINI\n🇺🇸 Grace NUHFER\n🇦🇹 Janina FALK\n🇵🇱 Joanna MENDAK\n🇰🇷
+  KANG Jungeun\n🇯🇵 KINOSHITA Aira\n🇫🇷 Leane MORCEAU\n🇬🇧 Louise
+  FIDDES\n🇧🇷 Lucilene da SILVA SOUSA\n🇧🇷 Maria Carolina GOMES
+  SANTIAGO\n🇪🇸 Maria DELGADO NADAL\n🇪🇸 Marian POLO LOPEZ\n🇺🇿 Muslima
+  ODILOVA\n🇹🇭 Nattharinee KHAJHONMATHA\n🇺🇸 Olivia CHAMBERS\n🇬🇧 Olivia
+  NEWMAN-BARONIUS\n🇦🇺 Paige LEONHARDT\n🇬🇧 Poppy MASKILL\n🇮🇪 Roisin NI
+  RIAIN\n🇦🇺 Ruby STORM\n🇺🇿 Shokhsanamkhon TOSHPULATOVA\n🇮🇩 Syuci
+  INDRIANI
+SUMMARY:Women's 100m Butterfly - S13 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T105500Z-para-cycling-track-WOMENS-C1-3-3000M-INDIVIDUAL-PURSUI
 DTSTAMP:20240829T105500Z
 DTSTART:20240829T105500Z
@@ -57,6 +90,97 @@ DESCRIPTION:Para Cycling Track - Men's B 4000m Individual Pursuit
   Thomas ULBRICHT\n🇳🇱 Tristan BANGMA\n🇳🇱 Vincent ter SCHURE
 SUMMARY:Men's B 4000m Individual Pursuit Qualifying
 LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T091825Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB8-HEATS
+DTSTAMP:20240830T091825Z
+DTSTART:20240830T091825Z
+DTEND:20240830T092700Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB8 Heats\n🇪🇸
+  Anastasiya DMYTRIV DMYTRIV\n🇬🇧 Brock WHISTON\n🇨🇷 Camila HAASE\n🇮🇪
+  Ellen KEANE\n🇯🇵 FUKUDA Kanon\n🇺🇬 Husnah KUKUNDAKWE\n🇨🇳 JIANG
+  Shengnan\n🇨🇦 Katarina ROXON\n🇪🇸 Nuria MARQUES SOTO\n🇭🇷 Paula
+  NOVINA\n🇯🇵 UTSUGI Mikuni\n🇨🇳 ZHU Hui
+SUMMARY:Women's 100m Breaststroke - SB8 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T175100Z-para-swimming-WOMENS-100M-BACKSTROKE-S13-FINAL
+DTSTAMP:20240830T175100Z
+DTSTART:20240830T175100Z
+DTEND:20240830T175800Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S13 Final\n🇮🇹
+  Carlotta GILLI\n🇪🇸 Emma FELIU MARTIN\n🇺🇸 Gia PERGOLINI\n🇺🇸 Grace
+  NUHFER\n🇪🇸 Marian POLO LOPEZ\n🇮🇪 Roisin NI RIAIN\n🇺🇿 Shokhsanamkhon
+  TOSHPULATOVA
+SUMMARY:Women's 100m Backstroke - S13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T073827Z-para-swimming-MENS-100M-BACKSTROKE-S9-HEATS
+DTSTAMP:20240903T073827Z
+DTSTART:20240903T073827Z
+DTEND:20240903T074640Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S9 Heats\n🇮🇪 Barry
+  McCLEMENTS\n🇦🇺 Brenden HALL\n🇵🇱 Igor HREHOROWICZ\n🇮🇩 Jendi
+  PANGABEAN\n🇳🇿 Jesse REYNOLDS\n🇧🇷 Lucas Lamente MOZELA\n🇮🇹 Simone
+  BARLAAM\n🇮🇹 Simone CIULLI\n🇦🇺 Timothy HODGE\n🇫🇷 Ugo DIDIER\n🇧🇷
+  Victor dos SANTOS ALMEIDA\n🇺🇦 Yurii BOZHYNSKYI
+SUMMARY:Men's 100m Backstroke - S9 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T074640Z-para-swimming-WOMENS-100M-BACKSTROKE-S9-HEATS
+DTSTAMP:20240903T074640Z
+DTSTART:20240903T074640Z
+DTEND:20240903T075516Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S9 Heats\n🇪🇸
+  Beatriz LERIDA MALDONADO\n🇺🇸 Christie RALEIGH-CROSSLEY\n🇮🇪 Ellen
+  KEANE\n🇭🇷 Emma MECIC\n🇺🇸 Hannah ASPDEN\n🇩🇰 Johanne OELAND
+  FROEKJAER\n🇨🇳 LIU Ying\n🇺🇸 Lizzi SMITH\n🇧🇷 Mariana RIBEIRO\n🇨🇦
+  Mary JIBB\n🇪🇸 Nuria MARQUES SOTO\n🇯🇵 UTSUGI Mikuni\n🇭🇺 Zsofia
+  KONKOLY
+SUMMARY:Women's 100m Backstroke - S9 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T081510Z-para-swimming-WOMENS-50M-BUTTERFLY-S6-HEATS
+DTSTAMP:20240903T081510Z
+DTSTART:20240903T081510Z
+DTEND:20240903T082152Z
+DESCRIPTION:Para Swimming - Women's 50m Butterfly - S6 Heats\n🇺🇦 Anna
+  HONTAR\n🇮🇪 Dearbhaile BRADY\n🇺🇸 Ellie MARKS\n🇬🇧 Grace HARVEY\n🇨🇳
+  JIANG Yuyan\n🇨🇳 LIU Daomin\n🇨🇴 Mariana GUERRERO MARTINEZ\n🇧🇷 Mayara
+  DO AMARAL PETZOLD\n🇮🇪 Nicole TURNER\n🇩🇪 Verena SCHOTT\n🇨🇳 ZHU Ji
+SUMMARY:Women's 50m Butterfly - S6 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T091508Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM13-HEATS
+DTSTAMP:20240903T091508Z
+DTSTART:20240903T091508Z
+DTEND:20240903T092557Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM13
+  Heats\n🇪🇸 Ariadna EDO BELTRAN\n🇮🇹 Carlotta GILLI\n🇺🇸 Colleen
+  YOUNG\n🇺🇸 Grace NUHFER\n🇩🇪 Johanna DOEHLER\n🇧🇷 Maria Carolina GOMES
+  SANTIAGO\n🇪🇸 Marian POLO LOPEZ\n🇺🇸 Olivia CHAMBERS\n🇮🇪 Roisin NI
+  RIAIN\n🇺🇿 Shokhsanamkhon TOSHPULATOVA
+SUMMARY:Women's 200m Individual Medley - SM13 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T081827Z-para-swimming-MENS-100M-BUTTERFLY-S9-HEATS
+DTSTAMP:20240906T081827Z
+DTSTART:20240906T081827Z
+DTEND:20240906T082603Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S9 Heats\n🇮🇪 Barry
+  McCLEMENTS\n🇦🇺 Brenden HALL\n🇮🇹 Federico MORLACCHI\n🇫🇷 Hector
+  DENAYER\n🇵🇱 Igor HREHOROWICZ\n🇪🇸 Jacobo GARRIDO BRUN\n🇨🇿 Jonas
+  KESNAR\n🇪🇸 Jose Antonio MARI ALCARAZ\n🇦🇺 Lewis BISHOP\n🇩🇪 Malte
+  BRAUNSCHWEIG\n🇮🇹 Simone BARLAAM\n🇮🇹 Simone CIULLI\n🇦🇺 Timothy
+  HODGE\n🇨🇳 XIE Zhili
+SUMMARY:Men's 100m Butterfly - S9 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

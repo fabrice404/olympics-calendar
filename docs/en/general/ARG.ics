@@ -22,6 +22,20 @@ SUMMARY: Miguel Issac GALEANO 🇦🇷 - 🇹🇭 Thanwa KAENKHAM
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T082836Z-para-swimming-MENS-100M-BUTTERFLY-S14-HEATS
+DTSTAMP:20240829T082836Z
+DTSTART:20240829T082836Z
+DTEND:20240829T083558Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S14 Heats\n🇩🇰
+  Alexander HILLHOUSE\n🇦🇺 Benjamin HANCE\n🇰🇷 CHO Wonsang\n🇬🇧 Cameron
+  VEARNCOMBE\n🇺🇦 Dmytro VANZENKO\n🇧🇷 Gabriel BANDEIRA\n🇰🇷 LEE
+  Inkook\n🇦🇷 Lautaro Daniel MAIDANA CANCINOS\n🇺🇸 Lawrence SAPP\n🇯🇵
+  MURAKAMI Shunya\n🇮🇸 Robert Isak JONSSON\n🇬🇧 William ELLARD\n🇯🇵
+  YAMAGUCHI Naohide
+SUMMARY:Men's 100m Butterfly - S14 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T093000Z-para-table-tennis-MENS-DOUBLES-MD8-ROUND-OF-16-ARG-TUR
 DTSTAMP:20240829T093000Z
 DTSTART:20240829T093000Z
@@ -29,6 +43,21 @@ DTEND:20240829T101500Z
 DESCRIPTION:Para Table Tennis - Men's Doubles - MD8 - Round of 16
 SUMMARY: COPOLA/ROMERO 🇦🇷 - 🇹🇷 OZTURK/TURAN
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T093129Z-para-swimming-WOMENS-200M-FREESTYLE-S5-HEATS
+DTSTAMP:20240829T093129Z
+DTSTART:20240829T093129Z
+DTEND:20240829T095234Z
+DESCRIPTION:Para Swimming - Women's 200m Freestyle - S5 Heats\n🇨🇿 Agata
+  KOUPILOVA\n🇨🇦 Clemence PARE\n🇦🇷 Elizabeth NORIEGA\n🇧🇷 Esthefany
+  RODRIGUES\n🇨🇦 Hannah OUELLETTE\n🇺🇦 Iryna POIDA\n🇲🇽 Karina Amayrani
+  HERNANDEZ TORRES\n🇨🇳 LIU Yu\n🇨🇳 LU Dong\n🇧🇷 Lidia VIEIRA da
+  CRUZ\n🇬🇷 Maria Fanouria TZIVELEKI\n🇹🇷 Meryem Nur TUNUG\n🇮🇹 Monica
+  BOGGIONI\n🇹🇷 Sumeyye BOYACI\n🇩🇪 Tanja SCHOLZ\n🇬🇧 Tully
+  KEARNEY\n🇹🇭 Wilasini WONGNONTHAPHOOM\n🇨🇳 YAO Cuan\n🇯🇵 YUI Maori
+SUMMARY:Women's 200m Freestyle - S5 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240829T094000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-F-AR
@@ -116,6 +145,46 @@ SUMMARY: Anna NTENTA 🇬🇷 - 🇦🇷 Stefania FERRANDO
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T073905Z-para-swimming-WOMENS-100M-FREESTYLE-S5-HEATS
+DTSTAMP:20240830T073905Z
+DTSTART:20240830T073905Z
+DTEND:20240830T074849Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S5 Heats\n🇨🇿 Agata
+  KOUPILOVA\n🇦🇷 Elizabeth NORIEGA\n🇧🇷 Esthefany RODRIGUES\n🇩🇪 Gina
+  BOETTCHER\n🇺🇦 Iryna POIDA\n🇨🇳 LIU Yu\n🇨🇳 LU Dong\n🇮🇹 Monica
+  BOGGIONI\n🇧🇷 Patricia PEREIRA dos SANTOS\n🇹🇷 Sevilay OZTURK\n🇹🇷
+  Sumeyye BOYACI\n🇬🇧 Suzanna HEXT\n🇩🇪 Tanja SCHOLZ\n🇬🇧 Tully
+  KEARNEY\n🇨🇳 YAO Cuan
+SUMMARY:Women's 100m Freestyle - S5 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T084609Z-para-swimming-MENS-100M-BREASTSTROKE-SB9-HEATS
+DTSTAMP:20240830T084609Z
+DTSTART:20240830T084609Z
+DTEND:20240830T085407Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB9 Heats\n🇨🇦
+  Fernando LU\n🇳🇴 Fredrik SOLBERG\n🇫🇷 Hector DENAYER\n🇧🇷 Lucas
+  Lamente MOZELA\n🇩🇪 Maurice WETEKAM\n🇮🇹 Riccardo MENCIOTTI\n🇧🇷 Ruan
+  Felipe LIMA de SOUZA\n🇦🇷 Santiago Gabriel SENESTRO\n🇮🇷 Shahin
+  IZADYAR\n🇮🇷 Sina ZEYGHAMINEJAD\n🇮🇹 Stefano RAIMONDI\n🇨🇳 TANG
+  Shuyuan\n🇨🇿 Tadeas STRASIK\n🇵🇹 Tomas CORDEIRO
+SUMMARY:Men's 100m Breaststroke - SB9 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T085407Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB9-HEATS
+DTSTAMP:20240830T085407Z
+DTSTART:20240830T085407Z
+DTEND:20240830T090213Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB9 Heats\n🇳🇱
+  Chantalle ZIJDERVELD\n🇦🇷 Daniela GIMENEZ\n🇳🇿 Gabriella SMITH\n🇦🇺
+  Keira STEPHENS\n🇳🇱 Lisa KRUGER\n🇺🇸 Summer SCHMIT\n🇧🇪 Tatyana
+  LEBRUN\n🇨🇳 ZHANG Meng\n🇵🇱 Zuzanna BORUSZEWSKA
+SUMMARY:Women's 100m Breaststroke - SB9 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T090700Z-para-taekwondo-MEN-K44-70KG-ROUND-OF-16-THA-ARG
 DTSTAMP:20240830T090700Z
 DTSTART:20240830T090700Z
@@ -199,6 +268,46 @@ SUMMARY: Damian ISKRZYCKI 🇵🇱 - 🇦🇷 Rodrigo ROMERO
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T080605Z-para-swimming-MENS-100M-BACKSTROKE-S8-HEATS
+DTSTAMP:20240831T080605Z
+DTSTART:20240831T080605Z
+DTEND:20240831T081421Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S8 Heats\n🇺🇦 Bohdan
+  HRYNENKO\n🇪🇸 Inigo LLOPIS SANZ\n🇺🇸 Jack O'NEIL\n🇦🇺 Jesse
+  AUNGLES\n🇯🇵 KUBOTA Kota\n🇨🇳 LIU Fengqi\n🇮🇱 Mark MALYAR\n🇺🇸
+  Matthew TORRES\n🇯🇵 OGIWARA Kotaro\n🇦🇷 Pipo CARLOMAGNO\n🇨🇦 Reid
+  MAXWELL\n🇹🇷 Turgut Aslan YARAMAN
+SUMMARY:Men's 100m Backstroke - S8 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T091510Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM7-HEATS
+DTSTAMP:20240831T091510Z
+DTSTART:20240831T091510Z
+DTEND:20240831T092617Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM7 Heats\n🇺🇦
+  Andrii TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian
+  SADIE\n🇵🇭 Ernie GAWILAN\n🇺🇸 Evan AUSTIN\n🇨🇳 HUANG Xianquan\n🇦🇷
+  Inaki BASILOFF\n🇱🇻 Jurijs SEMJONOVS\n🇺🇦 Yevhenii BOHODAIKO\n🇨🇺
+  Yosjaniel HERNANDEZ VELEZ
+SUMMARY:Men's 200m Individual Medley - SM7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T094634Z-para-swimming-WOMENS-50M-FREESTYLE-S11-HEATS
+DTSTAMP:20240831T094634Z
+DTSTART:20240831T094634Z
+DTEND:20240831T095443Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S11 Heats\n🇦🇷 Analuz
+  PELLITERO\n🇺🇸 Anastasia PAGONIS\n🇯🇵 ISHIURA Tomomi\n🇨🇾 Karolina
+  PELENDRITOU\n🇺🇦 Kateryna TKACHUK\n🇨🇳 LI Guizhi\n🇳🇱 Liesette
+  BRUINSMA\n🇨🇳 MA Jia\n🇺🇦 Maryna PIDDUBNA\n🇲🇽 Matilde Estefania
+  ALCAZAR FIGUEROA\n🇦🇷 Nadia BAEZ\n🇯🇵 ONO Chikako\n🇬🇧 Scarlett
+  HUMPHREY\n🇸🇰 Tatiana BLATTNEROVA\n🇨🇳 ZHANG Xiaotong
+SUMMARY:Women's 50m Freestyle - S11 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T120000Z-boccia-WOMENS-INDIVIDUAL-BC3-PRELIMINARY-ROUND-POOL-D-
 DTSTAMP:20240831T120000Z
 DTSTART:20240831T120000Z
@@ -215,6 +324,30 @@ DTEND:20240831T161500Z
 DESCRIPTION:Boccia - Men's Individual - BC3 Preliminary Round Pool B
 SUMMARY: TSE Tak Wah 🇭🇰 - 🇦🇷 Rodrigo ROMERO
 LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T082514Z-para-swimming-WOMENS-100M-BACKSTROKE-S11-HEATS
+DTSTAMP:20240901T082514Z
+DTSTART:20240901T082514Z
+DTEND:20240901T083527Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S11 Heats\n🇦🇷
+  Analuz PELLITERO\n🇨🇳 CAI Liwen\n🇯🇵 ISHIURA Tomomi\n🇺🇦 Kateryna
+  TKACHUK\n🇨🇳 LI Guizhi\n🇨🇳 MA Jia\n🇮🇹 Martina RABBOLINI\n🇺🇦 Maryna
+  PIDDUBNA\n🇲🇽 Matilde Estefania ALCAZAR FIGUEROA\n🇯🇵 ONO Chikako
+SUMMARY:Women's 100m Backstroke - S11 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T091535Z-para-swimming-MENS-100M-BREASTSTROKE-SB5-HEATS
+DTSTAMP:20240901T091535Z
+DTSTART:20240901T091535Z
+DTEND:20240901T092511Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB5 Heats\n🇺🇦
+  Andrii DRAPKIN\n🇪🇸 Antoni PONCE BERTRAN\n🇺🇦 Danylo SEMENYKHIN\n🇻🇳
+  Dat le\n🇦🇷 German Leonel AREVALO\n🇻🇳 Hai DO\n🇨🇭 Leo McCREA\n🇲🇽
+  Pedro RANGEL HARO\n🇧🇷 Roberto ALCALDE RODRIGUEZ
+SUMMARY:Men's 100m Breaststroke - SB5 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T093000Z-shooting-para-sport-R5-MIXED-10M-AIR-RIFLE-PRONE-SH2-Q
@@ -258,6 +391,32 @@ SUMMARY: ARG 🇦🇷 - 🇨🇴 COL
 LOCATION:Eiffel Tower Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240903T073000Z-para-swimming-MENS-100M-BACKSTROKE-S7-HEATS
+DTSTAMP:20240903T073000Z
+DTSTART:20240903T073000Z
+DTEND:20240903T073827Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S7 Heats\n🇺🇦 Andrii
+  TRUSOV\n🇿🇦 Christian SADIE\n🇮🇹 Federico BICELLI\n🇨🇳 HUANG
+  Xianquan\n🇦🇷 Inaki BASILOFF\n🇱🇻 Jurijs SEMJONOVS\n🇸🇬 Wei Soong
+  TOH\n🇺🇦 Yevhenii BOHODAIKO\n🇺🇦 Yurii SHENHUR
+SUMMARY:Men's 100m Backstroke - S7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T083008Z-para-swimming-WOMENS-50M-BACKSTROKE-S5-HEATS
+DTSTAMP:20240903T083008Z
+DTSTART:20240903T083008Z
+DTEND:20240903T083853Z
+DESCRIPTION:Para Swimming - Women's 50m Backstroke - S5 Heats\n🇨🇿 Agata
+  KOUPILOVA\n🇵🇭 Angel Mae OTOM\n🇦🇷 Elizabeth NORIEGA\n🇨🇴 Gabriela
+  OVIEDO RUEDA\n🇨🇳 HE Shenggao\n🇺🇦 Iryna POIDA\n🇲🇽 Karina Amayrani
+  HERNANDEZ TORRES\n🇿🇦 Kat SWANEPOEL\n🇨🇳 LIU Yu\n🇨🇳 LU Dong\n🇮🇹
+  Monica BOGGIONI\n🇹🇷 Sevilay OZTURK\n🇫🇷 Solene SACHE\n🇹🇷 Sumeyye
+  BOYACI\n🇬🇧 Tully KEARNEY\n🇹🇭 Wilasini WONGNONTHAPHOOM
+SUMMARY:Women's 50m Backstroke - S5 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240903T113000Z-blind-football-MENS-PRELIMINARY-ROUND-GROUP-B-ARG-JPN
 DTSTAMP:20240903T113000Z
 DTSTART:20240903T113000Z
@@ -265,6 +424,100 @@ DTEND:20240903T123000Z
 DESCRIPTION:Blind Football - Men's Preliminary Round Group B
 SUMMARY: ARG 🇦🇷 - 🇯🇵 JPN
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T080159Z-para-swimming-MENS-100M-BACKSTROKE-S10-HEATS
+DTSTAMP:20240906T080159Z
+DTSTART:20240906T080159Z
+DTEND:20240906T081000Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S10 Heats\n🇨🇦
+  Alexander ELLIOT\n🇳🇱 Bas TAKKEN\n🇺🇦 Ihor NIMCHENKO\n🇯🇵 MINAI
+  Akito\n🇳🇱 Olivier van de VOORT\n🇮🇹 Riccardo MENCIOTTI\n🇦🇷 Santiago
+  Gabriel SENESTRO\n🇮🇹 Stefano RAIMONDI\n🇦🇺 Thomas GALLAGHER\n🇵🇹
+  Tomas CORDEIRO\n🇺🇸 Yaseen EL-DEMERDASH
+SUMMARY:Men's 100m Backstroke - S10 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T083409Z-para-swimming-MENS-100M-BACKSTROKE-S14-HEATS
+DTSTAMP:20240906T083409Z
+DTSTART:20240906T083409Z
+DTEND:20240906T084552Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S14 Heats\n🇩🇰
+  Alexander HILLHOUSE\n🇧🇷 Arthur XAVIER RIBEIRO\n🇦🇺 Benjamin
+  HANCE\n🇧🇷 Gabriel BANDEIRA\n🇨🇴 Juan Esteban GARCIA SANCHEZ\n🇰🇷 LEE
+  Inkook\n🇦🇷 Lautaro Daniel MAIDANA CANCINOS\n🇬🇧 Louis LAWLOR\n🇳🇱
+  Marc EVERS\n🇬🇧 Mark TOMPSETT\n🇲🇾 Muhammad Imaan Ai. MUHAMMAD
+  REDZUAN\n🇨🇦 Nicholas BENNETT\n🇦🇺 Ricky BETAR\n🇭🇰 TANG Wai Lok\n🇺🇦
+  Vasyl KRAINYK\n🇬🇧 William ELLARD\n🇯🇵 YAMAGUCHI Naohide
+SUMMARY:Men's 100m Backstroke - S14 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T073000Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM10-HEATS
+DTSTAMP:20240907T073000Z
+DTSTART:20240907T073000Z
+DTEND:20240907T074018Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM10 Heats\n🇵🇱
+  Alan OGORZALEK\n🇦🇺 Alex SAFFY\n🇨🇦 Alexander ELLIOT\n🇳🇱 Bas
+  TAKKEN\n🇦🇺 Col PEARSE\n🇨🇦 Fernando LU\n🇺🇦 Ihor NIMCHENKO\n🇯🇵
+  MINAI Akito\n🇮🇹 Riccardo MENCIOTTI\n🇧🇷 Ruan Felipe LIMA de
+  SOUZA\n🇦🇷 Santiago Gabriel SENESTRO\n🇮🇷 Sina ZEYGHAMINEJAD\n🇮🇹
+  Stefano RAIMONDI\n🇨🇿 Tadeas STRASIK\n🇵🇹 Tomas CORDEIRO
+SUMMARY:Men's 200m Individual Medley - SM10 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T075113Z-para-swimming-MENS-100M-BACKSTROKE-S6-HEATS
+DTSTAMP:20240907T075113Z
+DTSTART:20240907T075113Z
+DTEND:20240907T075947Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S6 Heats\n🇮🇹 Antonio
+  FANTIN\n🇵🇹 Daniel VIDEIRA\n🇪🇸 David SANCHEZ SIERRA\n🇭🇷 Dino
+  SINOVCIC\n🇨🇳 JIA Hongguang\n🇲🇽 Jesus Alberto GUTIERREZ BERMUDEZ\n🇦🇷
+  Matias de ANDRADE\n🇳🇱 Thijs van HOFWEEGEN\n🇨🇳 WANG Jingang\n🇨🇳 YANG
+  Hong
+SUMMARY:Men's 100m Backstroke - S6 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T081645Z-para-swimming-WOMENS-100M-BUTTERFLY-S8-HEATS
+DTSTAMP:20240907T081645Z
+DTSTART:20240907T081645Z
+DTEND:20240907T082504Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S8 Heats\n🇬🇧 Alice
+  TAI\n🇬🇧 Brock WHISTON\n🇺🇬 Husnah KUKUNDAKWE\n🇨🇳 JIANG
+  Shengnan\n🇺🇸 Jessica LONG\n🇨🇳 LU Weiyuan\n🇨🇴 Laura Carolina
+  GONZALEZ RODRIGUEZ\n🇦🇷 Maria Jazmin ARAGON DIANI\n🇧🇷 Vitoria Caroline
+  da SILVA RIBEIRO\n🇨🇳 ZHU Hui
+SUMMARY:Women's 100m Butterfly - S8 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T082504Z-para-swimming-MENS-50M-BUTTERFLY-S7-HEATS
+DTSTAMP:20240907T082504Z
+DTSTART:20240907T082504Z
+DTEND:20240907T083134Z
+DESCRIPTION:Para Swimming - Men's 50m Butterfly - S7 Heats\n🇺🇦 Andrii
+  TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian SADIE\n🇺🇸
+  Evan AUSTIN\n🇨🇳 HUANG Xianquan\n🇦🇷 Inaki BASILOFF\n🇱🇻 Jurijs
+  SEMJONOVS\n🇮🇳 Suyash Narayan JADHAV\n🇸🇬 Wei Soong TOH\n🇺🇦 Yevhenii
+  BOHODAIKO\n🇺🇦 Yurii SHENHUR
+SUMMARY:Men's 50m Butterfly - S7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T085446Z-para-swimming-WOMENS-100M-FREESTYLE-S11-HEATS
+DTSTAMP:20240907T085446Z
+DTSTART:20240907T085446Z
+DTEND:20240907T090408Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S11 Heats\n🇦🇷 Analuz
+  PELLITERO\n🇺🇸 Anastasia PAGONIS\n🇨🇳 CAI Liwen\n🇯🇵 ISHIURA
+  Tomomi\n🇺🇦 Kateryna TKACHUK\n🇨🇳 LI Guizhi\n🇳🇱 Liesette
+  BRUINSMA\n🇺🇦 Maryna PIDDUBNA\n🇲🇽 Matilde Estefania ALCAZAR
+  FIGUEROA\n🇸🇰 Tatiana BLATTNEROVA\n🇨🇳 ZHANG Xiaotong
+SUMMARY:Women's 100m Freestyle - S11 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

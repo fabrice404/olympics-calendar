@@ -13,6 +13,19 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T091510Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM7-HEATS
+DTSTAMP:20240831T091510Z
+DTSTART:20240831T091510Z
+DTEND:20240831T092617Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM7 Heats\n🇺🇦
+  Andrii TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian
+  SADIE\n🇵🇭 Ernie GAWILAN\n🇺🇸 Evan AUSTIN\n🇨🇳 HUANG Xianquan\n🇦🇷
+  Inaki BASILOFF\n🇱🇻 Jurijs SEMJONOVS\n🇺🇦 Yevhenii BOHODAIKO\n🇨🇺
+  Yosjaniel HERNANDEZ VELEZ
+SUMMARY:Men's 200m Individual Medley - SM7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T100000Z-shooting-para-sport-P2-WOMENS-10M-AIR-PISTOL-SH1-QUALI
 DTSTAMP:20240831T100000Z
 DTSTART:20240831T100000Z
@@ -28,6 +41,44 @@ DESCRIPTION:Shooting Para Sport - P2 - Women's 10m Air Pistol SH1
   ECHEVARRIA
 SUMMARY:P2 - Women's 10m Air Pistol SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T073000Z-para-swimming-MENS-100M-BACKSTROKE-S7-HEATS
+DTSTAMP:20240903T073000Z
+DTSTART:20240903T073000Z
+DTEND:20240903T073827Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S7 Heats\n🇺🇦 Andrii
+  TRUSOV\n🇿🇦 Christian SADIE\n🇮🇹 Federico BICELLI\n🇨🇳 HUANG
+  Xianquan\n🇦🇷 Inaki BASILOFF\n🇱🇻 Jurijs SEMJONOVS\n🇸🇬 Wei Soong
+  TOH\n🇺🇦 Yevhenii BOHODAIKO\n🇺🇦 Yurii SHENHUR
+SUMMARY:Men's 100m Backstroke - S7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T085744Z-para-swimming-MENS-50M-FREESTYLE-S7-HEATS
+DTSTAMP:20240904T085744Z
+DTSTART:20240904T085744Z
+DTEND:20240904T090435Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S7 Heats\n🇺🇦 Andrii
+  TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian SADIE\n🇧🇷
+  Daniel XAVIER MENDES\n🇮🇹 Federico BICELLI\n🇨🇳 JIA Hongguang\n🇱🇻
+  Jurijs SEMJONOVS\n🇭🇳 Olvin CRUZ\n🇸🇬 Wei Soong TOH\n🇺🇦 Yevhenii
+  BOHODAIKO\n🇨🇺 Yosjaniel HERNANDEZ VELEZ\n🇺🇦 Yurii SHENHUR
+SUMMARY:Men's 50m Freestyle - S7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T082504Z-para-swimming-MENS-50M-BUTTERFLY-S7-HEATS
+DTSTAMP:20240907T082504Z
+DTSTART:20240907T082504Z
+DTEND:20240907T083134Z
+DESCRIPTION:Para Swimming - Men's 50m Butterfly - S7 Heats\n🇺🇦 Andrii
+  TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian SADIE\n🇺🇸
+  Evan AUSTIN\n🇨🇳 HUANG Xianquan\n🇦🇷 Inaki BASILOFF\n🇱🇻 Jurijs
+  SEMJONOVS\n🇮🇳 Suyash Narayan JADHAV\n🇸🇬 Wei Soong TOH\n🇺🇦 Yevhenii
+  BOHODAIKO\n🇺🇦 Yurii SHENHUR
+SUMMARY:Men's 50m Butterfly - S7 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

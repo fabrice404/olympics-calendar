@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/MLT//EN
+X-WR-CALNAME:🇲🇹 Malta | Paris 2024
+NAME:🇲🇹 Malta | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
+SUMMARY:Paris 2024 - {{translate_openingCeremon}}
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T084351Z-para-swimming-WOMENS-50M-FREESTYLE-S6-HEATS
+DTSTAMP:20240829T084351Z
+DTSTART:20240829T084351Z
+DTEND:20240829T085110Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S6 Heats\n🇺🇦 Anna
+  HONTAR\n🇮🇪 Dearbhaile BRADY\n🇺🇸 Ellie MARKS\n🇨🇳 JIANG Yuyan\n🇲🇹
+  Maja THEUMA\n🇨🇴 Mariana GUERRERO MARTINEZ\n🇧🇷 Mayara DO AMARAL
+  PETZOLD\n🇮🇪 Nicole TURNER\n🇲🇳 Nomuun KHUREL\n🇨🇭 Nora MEISTER\n🇨🇦
+  Shelby NEWKIRK\n🇩🇪 Verena SCHOTT\n🇨🇳 ZHANG Li\n🇨🇳 ZHU Ji
+SUMMARY:Women's 50m Freestyle - S6 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

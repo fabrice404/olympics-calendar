@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/medals/MEX//EN
+X-WR-CALNAME:🇲🇽 Mexico 🏅 | Paris 2024
+NAME:🇲🇽 Mexico 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240829T171200Z-para-swimming-MENS-50M-BREASTSTROKE-SB3-FINAL
+DTSTAMP:20240829T171200Z
+DTSTART:20240829T171200Z
+DTEND:20240829T171900Z
+DESCRIPTION:Para Swimming - Men's 50m Breaststroke - SB3 Final\n🇮🇱 Ami
+  Omer DADAON\n🇦🇹 Andreas ERNHOFER\n🇮🇹 Efrem MORELLI\n🇲🇽 Gustavo
+  Ramon SANCHEZ MARTINEZ\n🇰🇷 JO Giseong\n🇪🇸 Miguel LUQUE\n🇯🇵 SUZUKI
+  Takayuki\n🇪🇸 Vicente GIL
+SUMMARY:Men's 50m Breaststroke - SB3 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T170400Z-para-swimming-WOMENS-50M-BACKSTROKE-S4-FINAL
+DTSTAMP:20240907T170400Z
+DTSTART:20240907T170400Z
+DTEND:20240907T171100Z
+DESCRIPTION:Para Swimming - Women's 50m Backstroke - S4 Final\n🇬🇷
+  Alexandra STAMATOPOULOU\n🇩🇪 Gina BOETTCHER\n🇧🇷 Lidia VIEIRA da
+  CRUZ\n🇺🇦 Maryna VERBOVA\n🇲🇽 Nely Edith MIRANDA HERRERA\n🇨🇳 PENG
+  Qiuping\n🇩🇪 Tanja SCHOLZ
+SUMMARY:Women's 50m Backstroke - S4 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

@@ -13,6 +13,19 @@ SUMMARY:Paris 2024 - {{translate_openingCeremon}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T075934Z-para-swimming-MENS-100M-BACKSTROKE-S2-HEATS
+DTSTAMP:20240829T075934Z
+DTSTART:20240829T075934Z
+DTEND:20240829T081317Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S2 Heats\n🇨🇱 Alberto
+  Caroly ABARZA DIAZ\n🇸🇪 Conrad HILDEBRAND\n🇲🇽 Cristopher Gregorio
+  TRONCO SANCHEZ\n🇧🇷 Gabriel Geraldo dos SANTOS ARAUJO\n🇵🇱 Jacek
+  CZECH\n🇲🇽 Jesus Rey LOPEZ CERVANTES\n🇪🇸 Mikel ERDOZAIN OTERINO\n🇵🇪
+  Rodrigo SANTILLAN\n🇺🇦 Roman BONDARENKO
+SUMMARY:Men's 100m Backstroke - S2 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T105500Z-para-cycling-track-WOMENS-C1-3-3000M-INDIVIDUAL-PURSUI
 DTSTAMP:20240829T105500Z
 DTSTART:20240829T105500Z
@@ -87,6 +100,33 @@ SUMMARY:R4 - Mixed 10m Air Rifle Standing SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T075603Z-para-swimming-WOMENS-200M-FREESTYLE-S14-HEATS
+DTSTAMP:20240831T075603Z
+DTSTART:20240831T075603Z
+DTEND:20240831T080605Z
+DESCRIPTION:Para Swimming - Women's 200m Freestyle - S14 Heats\n🇫🇷 Assya
+  MAURIN ESPIAU\n🇭🇰 CHAN Yui Lam\n🇭🇰 CHEUNG Ho Ying\n🇪🇸 Eva CORONADO
+  TEJEDA\n🇯🇵 KINOSHITA Aira\n🇬🇧 Louise FIDDES\n🇦🇺 Madeleine
+  McTERNAN\n🇹🇭 Nattharinee KHAJHONMATHA\n🇬🇧 Olivia
+  NEWMAN-BARONIUS\n🇸🇪 Pernilla LINDBERG\n🇬🇧 Poppy MASKILL\n🇦🇺 Ruby
+  STORM
+SUMMARY:Women's 200m Freestyle - S14 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T085314Z-para-swimming-MENS-50M-BACKSTROKE-S2-HEATS
+DTSTAMP:20240831T085314Z
+DTSTART:20240831T085314Z
+DTEND:20240831T090344Z
+DESCRIPTION:Para Swimming - Men's 50m Backstroke - S2 Heats\n🇨🇱 Alberto
+  Caroly ABARZA DIAZ\n🇸🇪 Conrad HILDEBRAND\n🇲🇽 Cristopher Gregorio
+  TRONCO SANCHEZ\n🇧🇷 Gabriel Geraldo dos SANTOS ARAUJO\n🇵🇱 Jacek
+  CZECH\n🇲🇽 Jesus Rey LOPEZ CERVANTES\n🇪🇸 Mikel ERDOZAIN OTERINO\n🇵🇪
+  Rodrigo SANTILLAN\n🇺🇦 Roman BONDARENKO
+SUMMARY:Men's 50m Backstroke - S2 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T093000Z-shooting-para-sport-R5-MIXED-10M-AIR-RIFLE-PRONE-SH2-Q
 DTSTAMP:20240901T093000Z
 DTSTART:20240901T093000Z
@@ -123,6 +163,20 @@ DESCRIPTION:Shooting Para Sport - R8 - Women's 50m Rifle 3 Positions SH1
   Cuiping
 SUMMARY:R8 - Women's 50m Rifle 3 Positions SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T075459Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM14-HEATS
+DTSTAMP:20240904T075459Z
+DTSTART:20240904T075459Z
+DTEND:20240904T080542Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM14
+  Heats\n🇧🇷 Ana Karolina SOARES de OLIVEIRA\n🇫🇷 Assya MAURIN
+  ESPIAU\n🇭🇰 CHAN Yui Lam\n🇭🇰 CHEUNG Ho Ying\n🇲🇽 Citli Siloe SALINAS
+  ROJAS\n🇦🇹 Janina FALK\n🇯🇵 KINOSHITA Aira\n🇬🇧 Louise FIDDES\n🇹🇭
+  Nattharinee KHAJHONMATHA\n🇬🇧 Olivia NEWMAN-BARONIUS\n🇦🇺 Paige
+  LEONHARDT\n🇸🇪 Pernilla LINDBERG\n🇬🇧 Poppy MASKILL
+SUMMARY:Women's 200m Individual Medley - SM14 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T103000Z-shooting-para-sport-R9-MIXED-50M-RIFLE-PRONE-SH2-QUALI
@@ -162,6 +216,21 @@ DESCRIPTION:Shooting Para Sport - R6 - Mixed 50m Rifle Prone SH1
   GALOGAVROS\n🇮🇱 Yuliya CHERNOY\n🇨🇳 ZHANG Cuiping
 SUMMARY:R6 - Mixed 50m Rifle Prone SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T083134Z-para-swimming-WOMENS-50M-BUTTERFLY-S7-HEATS
+DTSTAMP:20240907T083134Z
+DTSTART:20240907T083134Z
+DTEND:20240907T083831Z
+DESCRIPTION:Para Swimming - Women's 50m Butterfly - S7 Heats\n🇩🇴
+  Alejandra AYBAR\n🇨🇦 Danielle DORRIS\n🇮🇹 Giulia TERZI\n🇬🇧 Iona
+  WINNIFRITH\n🇺🇸 Julia GAFFNEY\n🇺🇸 Mallory WEGGEMANN\n🇺🇸 McKenzie
+  COAN\n🇯🇵 NISHIDA An\n🇲🇽 Naomi Alejandra ORTIZ MENDEZ\n🇲🇽 Naomi
+  SOMELLERA MANDUJANO\n🇸🇪 Nicola ST CLAIR MAITLAND\n🇨🇴 Sara VARGAS
+  BLANCO\n🇨🇦 Tess ROUTLIFFE\n🇺🇦 Veronika KORZHOVA\n🇨🇴 Zharith
+  Alejandra RODRIGUEZ SILVA
+SUMMARY:Women's 50m Butterfly - S7 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

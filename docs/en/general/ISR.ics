@@ -40,6 +40,18 @@ SUMMARY: Cynthia MATHEZ 🇨🇭 - 🇮🇱 Nina GORODETZKY
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T171200Z-para-swimming-MENS-50M-BREASTSTROKE-SB3-FINAL
+DTSTAMP:20240829T171200Z
+DTSTART:20240829T171200Z
+DTEND:20240829T171900Z
+DESCRIPTION:Para Swimming - Men's 50m Breaststroke - SB3 Final\n🇮🇱 Ami
+  Omer DADAON\n🇦🇹 Andreas ERNHOFER\n🇮🇹 Efrem MORELLI\n🇲🇽 Gustavo
+  Ramon SANCHEZ MARTINEZ\n🇰🇷 JO Giseong\n🇪🇸 Miguel LUQUE\n🇯🇵 SUZUKI
+  Takayuki\n🇪🇸 Vicente GIL
+SUMMARY:Men's 50m Breaststroke - SB3 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T073000Z-para-taekwondo-MEN-K44-63KG-ROUND-OF-16-KOR-ISR
 DTSTAMP:20240830T073000Z
 DTSTART:20240830T073000Z
@@ -47,6 +59,20 @@ DTEND:20240830T073900Z
 DESCRIPTION:Para Taekwondo - Men K44 -63kg Round of 16
 SUMMARY: LEE Dongho 🇰🇷 - 🇮🇱 Adnan MILAD
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T074849Z-para-swimming-MENS-100M-FREESTYLE-S4-HEATS
+DTSTAMP:20240830T074849Z
+DTSTART:20240830T074849Z
+DTEND:20240830T075821Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S4 Heats\n🇮🇱 Ami Omer
+  DADAON\n🇦🇹 Andreas ERNHOFER\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇮🇱
+  Ariel MALYAR\n🇳🇿 Cameron LESLIE\n🇫🇷 David SMETANINE\n🇫🇷 Dimitri
+  GRANJUX\n🇮🇹 Federico CRISTIANI\n🇲🇽 Gustavo Ramon SANCHEZ
+  MARTINEZ\n🇮🇹 Luigi BEGGIATO\n🇯🇵 SUZUKI Takayuki\n🇨🇦 Sebastian
+  MASSABIE
+SUMMARY:Men's 100m Freestyle - S4 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T083000Z-goalball-WOMENS-PRELIMINARY-ROUND-POOL-C-BRA-ISR
@@ -112,6 +138,19 @@ SUMMARY: Thomas JAKOBS 🇫🇷 - 🇮🇱 Amir LEVI
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T080605Z-para-swimming-MENS-100M-BACKSTROKE-S8-HEATS
+DTSTAMP:20240831T080605Z
+DTSTART:20240831T080605Z
+DTEND:20240831T081421Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S8 Heats\n🇺🇦 Bohdan
+  HRYNENKO\n🇪🇸 Inigo LLOPIS SANZ\n🇺🇸 Jack O'NEIL\n🇦🇺 Jesse
+  AUNGLES\n🇯🇵 KUBOTA Kota\n🇨🇳 LIU Fengqi\n🇮🇱 Mark MALYAR\n🇺🇸
+  Matthew TORRES\n🇯🇵 OGIWARA Kotaro\n🇦🇷 Pipo CARLOMAGNO\n🇨🇦 Reid
+  MAXWELL\n🇹🇷 Turgut Aslan YARAMAN
+SUMMARY:Men's 100m Backstroke - S8 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T083000Z-goalball-WOMENS-PRELIMINARY-ROUND-POOL-C-TUR-ISR
 DTSTAMP:20240831T083000Z
 DTSTART:20240831T083000Z
@@ -142,6 +181,32 @@ SUMMARY:R3 - Mixed 10m Air Rifle Prone SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T075307Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM8-HEATS
+DTSTAMP:20240901T075307Z
+DTSTART:20240901T075307Z
+DTEND:20240901T080349Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM8 Heats\n🇦🇹
+  Andreas ONEA\n🇪🇸 Carlos MARTINEZ FERNANDEZ\n🇬🇷 Dimosthenis
+  MICHALENTZAKIS\n🇵🇹 Diogo CANCELA\n🇨🇳 LIU Fengqi\n🇮🇱 Mark
+  MALYAR\n🇵🇱 Michal GOLUS\n🇺🇸 Noah JAFFE\n🇯🇵 OGIWARA Kotaro\n🇨🇦
+  Reid MAXWELL\n🇹🇷 Turgut Aslan YARAMAN\n🇨🇳 XU Haijiao\n🇨🇳 YANG
+  Guanglong
+SUMMARY:Men's 200m Individual Medley - SM8 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T083527Z-para-swimming-MENS-150M-INDIVIDUAL-MEDLEY-SM4-HEATS
+DTSTAMP:20240901T083527Z
+DTSTART:20240901T083527Z
+DTEND:20240901T084722Z
+DESCRIPTION:Para Swimming - Men's 150m Individual Medley - SM4 Heats\n🇮🇱
+  Ami Omer DADAON\n🇦🇹 Andreas ERNHOFER\n🇲🇽 Angel de Jesus CAMACHO
+  RAMIREZ\n🇫🇷 Dimitri GRANJUX\n🇮🇹 Efrem MORELLI\n🇲🇽 Gustavo Ramon
+  SANCHEZ MARTINEZ\n🇰🇷 JO Giseong\n🇪🇸 Miguel LUQUE
+SUMMARY:Men's 150m Individual Medley - SM4 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T124500Z-goalball-WOMENS-PRELIMINARY-ROUND-POOL-C-ISR-CHN
 DTSTAMP:20240901T124500Z
 DTSTART:20240901T124500Z
@@ -149,6 +214,48 @@ DTEND:20240901T140000Z
 DESCRIPTION:Goalball - Women's Preliminary Round - Pool C
 SUMMARY: ISR 🇮🇱 - 🇨🇳 CHN
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T075516Z-para-swimming-MENS-200M-FREESTYLE-S4-HEATS
+DTSTAMP:20240903T075516Z
+DTSTART:20240903T075516Z
+DTEND:20240903T080827Z
+DESCRIPTION:Para Swimming - Men's 200m Freestyle - S4 Heats\n🇮🇱 Ami Omer
+  DADAON\n🇦🇹 Andreas ERNHOFER\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇮🇱
+  Ariel MALYAR\n🇳🇿 Cameron LESLIE\n🇫🇷 David SMETANINE\n🇫🇷 Dimitri
+  GRANJUX\n🇮🇹 Federico CRISTIANI\n🇲🇽 Gustavo Ramon SANCHEZ
+  MARTINEZ\n🇮🇹 Luigi BEGGIATO\n🇯🇵 SUZUKI Takayuki\n🇨🇦 Sebastian
+  MASSABIE
+SUMMARY:Men's 200m Freestyle - S4 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T085154Z-para-swimming-WOMENS-100M-FREESTYLE-S3-HEATS
+DTSTAMP:20240903T085154Z
+DTSTART:20240903T085154Z
+DTEND:20240903T090456Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S3 Heats\n🇨🇦 Aly van
+  WYCK-SMART\n🇺🇦 Anhelina MALTSEVA\n🇮🇹 Domiziana MECENATE\n🇧🇷 Edenia
+  NOGUEIRA GARCIA\n🇬🇧 Ellie CHALLIS\n🇲🇽 Haidee Viviana ACEVES
+  PEREZ\n🇺🇸 Leanne SMITH\n🇧🇷 Maiara Regina PEREIRA BARRETO\n🇪🇸 Marta
+  FERNANDEZ INFANTE\n🇨🇦 Nikita ENS\n🇲🇽 Patricia VALLE BENITEZ\n🇦🇺
+  Rachael WATSON\n🇮🇸 Sonja SIGURDARDOTTIR\n🇪🇸 Teresa PERALES\n🇮🇱
+  Veronika GUIRENKO
+SUMMARY:Women's 100m Freestyle - S3 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T080542Z-para-swimming-MENS-400M-FREESTYLE-S8-HEATS
+DTSTAMP:20240904T080542Z
+DTSTART:20240904T080542Z
+DTEND:20240904T082030Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S8 Heats\n🇮🇹 Alberto
+  AMODEO\n🇦🇺 Callum SIMPSON\n🇵🇹 Diogo CANCELA\n🇪🇸 Inigo LLOPIS
+  SANZ\n🇨🇳 LI Ting\n🇮🇱 Mark MALYAR\n🇺🇸 Matthew TORRES\n🇺🇸 Noah
+  JAFFE\n🇨🇦 Philippe VACHON\n🇨🇦 Reid MAXWELL\n🇹🇷 Turgut Aslan
+  YARAMAN\n🇨🇳 WU Hongliang\n🇨🇳 XU Haijiao
+SUMMARY:Men's 400m Freestyle - S8 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T073000Z-shooting-para-sport-R6-MIXED-50M-RIFLE-PRONE-SH1-QUALI
@@ -170,6 +277,47 @@ DESCRIPTION:Shooting Para Sport - R6 - Mixed 50m Rifle Prone SH1
   GALOGAVROS\n🇮🇱 Yuliya CHERNOY\n🇨🇳 ZHANG Cuiping
 SUMMARY:R6 - Mixed 50m Rifle Prone SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T090342Z-para-swimming-MENS-50M-FREESTYLE-S4-HEATS
+DTSTAMP:20240906T090342Z
+DTSTART:20240906T090342Z
+DTEND:20240906T091130Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S4 Heats\n🇮🇱 Ami Omer
+  DADAON\n🇦🇹 Andreas ERNHOFER\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇮🇱
+  Ariel MALYAR\n🇳🇿 Cameron LESLIE\n🇫🇷 David SMETANINE\n🇫🇷 Dimitri
+  GRANJUX\n🇮🇹 Federico CRISTIANI\n🇮🇹 Luigi BEGGIATO\n🇯🇵 SUZUKI
+  Takayuki\n🇨🇦 Sebastian MASSABIE
+SUMMARY:Men's 50m Freestyle - S4 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T092834Z-para-swimming-MENS-100M-FREESTYLE-S8-HEATS
+DTSTAMP:20240906T092834Z
+DTSTART:20240906T092834Z
+DTEND:20240906T093609Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S8 Heats\n🇮🇹 Alberto
+  AMODEO\n🇦🇺 Callum SIMPSON\n🇬🇷 Dimosthenis MICHALENTZAKIS\n🇧🇷
+  Gabriel Cristiano SILVA de SOUZA\n🇪🇸 Inigo LLOPIS SANZ\n🇨🇳 LIU
+  Fengqi\n🇮🇱 Mark MALYAR\n🇺🇸 Matthew TORRES\n🇵🇱 Michal GOLUS\n🇺🇸
+  Noah JAFFE\n🇯🇵 OGIWARA Kotaro\n🇨🇦 Reid MAXWELL\n🇹🇷 Turgut Aslan
+  YARAMAN\n🇨🇳 WU Hongliang\n🇨🇳 XU Haijiao
+SUMMARY:Men's 100m Freestyle - S8 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T083831Z-para-swimming-MENS-50M-BACKSTROKE-S4-HEATS
+DTSTAMP:20240907T083831Z
+DTSTART:20240907T083831Z
+DTEND:20240907T084713Z
+DESCRIPTION:Para Swimming - Men's 50m Backstroke - S4 Heats\n🇦🇹 Andreas
+  ERNHOFER\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇮🇱 Ariel MALYAR\n🇨🇿
+  Arnost PETRACEK\n🇳🇿 Cameron LESLIE\n🇫🇷 Dimitri GRANJUX\n🇺🇦 Dmytro
+  VYNOHRADETS\n🇮🇹 Federico CRISTIANI\n🇰🇷 JO Giseong\n🇲🇽 Jesus
+  HERNANDEZ HERNANDEZ\n🇪🇪 Matz TOPKIN\n🇪🇸 Miguel LUQUE\n🇨🇳 ZOU
+  Liankang
+SUMMARY:Men's 50m Backstroke - S4 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

@@ -26,6 +26,19 @@ SUMMARY:Men's Individual W1 Ranking Round
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T090353Z-para-swimming-MENS-100M-BUTTERFLY-S13-HEATS
+DTSTAMP:20240829T090353Z
+DTSTART:20240829T090353Z
+DTEND:20240829T091120Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S13 Heats\n🇫🇷 Alex
+  PORTAL\n🇪🇸 Enrique Jose ALHAMBRA MOLLAR\n🇺🇿 Islam ASLANOV\n🇪🇸 Juan
+  FERRON GUTIERREZ\n🇺🇿 Kirill PANKOV\n🇺🇿 Muzaffar TURSUNKHUJAEV\n🇿🇦
+  Nathan HENDRICKS\n🇺🇦 Oleksii VIRCHENKO\n🇩🇪 Philip HEBMUELLER\n🇯🇵
+  SAITO Genki
+SUMMARY:Men's 100m Butterfly - S13 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T120000Z-boccia-MENS-INDIVIDUAL-BC3-PRELIMINARY-ROUND-POOL-A-AU
 DTSTAMP:20240829T120000Z
 DTSTART:20240829T120000Z
@@ -42,6 +55,19 @@ DTEND:20240829T194500Z
 DESCRIPTION:Boccia - Women's Individual - BC3 Preliminary Round Pool B
 SUMMARY: HO Yuen Kei 🇭🇰 - 🇿🇦 Elanza JORDAAN
 LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T090213Z-para-swimming-MENS-100M-BACKSTROKE-S13-HEATS
+DTSTAMP:20240830T090213Z
+DTSTART:20240830T090213Z
+DTEND:20240830T091022Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S13 Heats\n🇫🇷 Alex
+  PORTAL\n🇪🇸 Enrique Jose ALHAMBRA MOLLAR\n🇺🇿 Islam ASLANOV\n🇺🇿
+  Kirill PANKOV\n🇺🇿 Muzaffar TURSUNKHUJAEV\n🇿🇦 Nathan HENDRICKS\n🇺🇦
+  Oleksii VIRCHENKO\n🇩🇪 Philip HEBMUELLER\n🇯🇵 SAITO Genki\n🇺🇦 Sergii
+  KLIPPERT\n🇳🇱 Thomas van WANROOIJ
+SUMMARY:Men's 100m Backstroke - S13 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T100000Z-wheelchair-tennis-MENS-SINGLES-FIRST-ROUND-RSA-BRA
@@ -89,6 +115,44 @@ SUMMARY: William ARNOTT 🇬🇧 - 🇿🇦 Karabo MORAPEDI
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T082309Z-para-swimming-MENS-400M-FREESTYLE-S13-HEATS
+DTSTAMP:20240831T082309Z
+DTSTART:20240831T082309Z
+DTEND:20240831T083735Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S13 Heats\n🇫🇷 Alex
+  PORTAL\n🇺🇿 Dmitriy HORLIN\n🇺🇿 Firdavsbek MUSABEKOV\n🇪🇸 Ivan
+  SALGUERO OTEIZA\n🇪🇸 Juan FERRON GUTIERREZ\n🇫🇷 Kylian PORTAL\n🇺🇦
+  Kyrylo GARASHCHENKO\n🇺🇿 Muzaffar TURSUNKHUJAEV\n🇿🇦 Nathan
+  HENDRICKS\n🇯🇵 SAITO Genki
+SUMMARY:Men's 400m Freestyle - S13 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T083735Z-para-swimming-WOMENS-400M-FREESTYLE-S13-HEATS
+DTSTAMP:20240831T083735Z
+DTSTART:20240831T083735Z
+DTEND:20240831T085314Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S13 Heats\n🇿🇦 Alani
+  FERREIRA\n🇺🇦 Anna STETSENKO\n🇪🇸 Ariadna EDO BELTRAN\n🇮🇹 Carlotta
+  GILLI\n🇿🇦 Danika VYNCKE\n🇪🇸 Emma FELIU MARTIN\n🇩🇪 Johanna
+  DOEHLER\n🇺🇸 Olivia CHAMBERS\n🇺🇿 Shokhsanamkhon TOSHPULATOVA
+SUMMARY:Women's 400m Freestyle - S13 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T091510Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM7-HEATS
+DTSTAMP:20240831T091510Z
+DTSTART:20240831T091510Z
+DTEND:20240831T092617Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM7 Heats\n🇺🇦
+  Andrii TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian
+  SADIE\n🇵🇭 Ernie GAWILAN\n🇺🇸 Evan AUSTIN\n🇨🇳 HUANG Xianquan\n🇦🇷
+  Inaki BASILOFF\n🇱🇻 Jurijs SEMJONOVS\n🇺🇦 Yevhenii BOHODAIKO\n🇨🇺
+  Yosjaniel HERNANDEZ VELEZ
+SUMMARY:Men's 200m Individual Medley - SM7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T120000Z-boccia-WOMENS-INDIVIDUAL-BC3-PRELIMINARY-ROUND-POOL-B-
 DTSTAMP:20240831T120000Z
 DTSTART:20240831T120000Z
@@ -105,6 +169,100 @@ DTEND:20240831T161500Z
 DESCRIPTION:Boccia - Men's Individual - BC3 Preliminary Round Pool A
 SUMMARY: Patrick WILSON 🇬🇧 - 🇿🇦 Karabo MORAPEDI
 LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T073000Z-para-swimming-MENS-100M-BACKSTROKE-S7-HEATS
+DTSTAMP:20240903T073000Z
+DTSTART:20240903T073000Z
+DTEND:20240903T073827Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S7 Heats\n🇺🇦 Andrii
+  TRUSOV\n🇿🇦 Christian SADIE\n🇮🇹 Federico BICELLI\n🇨🇳 HUANG
+  Xianquan\n🇦🇷 Inaki BASILOFF\n🇱🇻 Jurijs SEMJONOVS\n🇸🇬 Wei Soong
+  TOH\n🇺🇦 Yevhenii BOHODAIKO\n🇺🇦 Yurii SHENHUR
+SUMMARY:Men's 100m Backstroke - S7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T083008Z-para-swimming-WOMENS-50M-BACKSTROKE-S5-HEATS
+DTSTAMP:20240903T083008Z
+DTSTART:20240903T083008Z
+DTEND:20240903T083853Z
+DESCRIPTION:Para Swimming - Women's 50m Backstroke - S5 Heats\n🇨🇿 Agata
+  KOUPILOVA\n🇵🇭 Angel Mae OTOM\n🇦🇷 Elizabeth NORIEGA\n🇨🇴 Gabriela
+  OVIEDO RUEDA\n🇨🇳 HE Shenggao\n🇺🇦 Iryna POIDA\n🇲🇽 Karina Amayrani
+  HERNANDEZ TORRES\n🇿🇦 Kat SWANEPOEL\n🇨🇳 LIU Yu\n🇨🇳 LU Dong\n🇮🇹
+  Monica BOGGIONI\n🇹🇷 Sevilay OZTURK\n🇫🇷 Solene SACHE\n🇹🇷 Sumeyye
+  BOYACI\n🇬🇧 Tully KEARNEY\n🇹🇭 Wilasini WONGNONTHAPHOOM
+SUMMARY:Women's 50m Backstroke - S5 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T090456Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM13-HEATS
+DTSTAMP:20240903T090456Z
+DTSTART:20240903T090456Z
+DTEND:20240903T091508Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM13 Heats\n🇫🇷
+  Alex PORTAL\n🇺🇸 David Henry ABRAHAMS\n🇺🇿 Dmitriy HORLIN\n🇺🇿
+  Firdavsbek MUSABEKOV\n🇺🇦 Kyrylo GARASHCHENKO\n🇺🇿 Muzaffar
+  TURSUNKHUJAEV\n🇿🇦 Nathan HENDRICKS\n🇰🇿 Nurdaulet ZHUMAGALI\n🇩🇪
+  Philip HEBMUELLER\n🇯🇵 SAITO Genki\n🇩🇪 Taliso ENGEL\n🇳🇱 Thomas van
+  WANROOIJ
+SUMMARY:Men's 200m Individual Medley - SM13 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T073726Z-para-swimming-WOMENS-100M-FREESTYLE-S12-HEATS
+DTSTAMP:20240904T073726Z
+DTSTART:20240904T073726Z
+DTEND:20240904T074506Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S12 Heats\n🇿🇦 Alani
+  FERREIRA\n🇮🇹 Alessia BERRA\n🇺🇦 Anna STETSENKO\n🇻🇪 Belkis MOTA\n🇦🇺
+  Jenna JONES\n🇸🇰 Karina PETRIKOVICOVA\n🇫🇷 Leane MORCEAU\n🇧🇷 Lucilene
+  da SILVA SOUSA\n🇧🇷 Maria Carolina GOMES SANTIAGO\n🇪🇸 Maria DELGADO
+  NADAL\n🇩🇪 Naomi Maike SCHWARZ\n🇯🇵 TSUJIUCHI Ayano
+SUMMARY:Women's 100m Freestyle - S12 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T085744Z-para-swimming-MENS-50M-FREESTYLE-S7-HEATS
+DTSTAMP:20240904T085744Z
+DTSTART:20240904T085744Z
+DTEND:20240904T090435Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S7 Heats\n🇺🇦 Andrii
+  TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian SADIE\n🇧🇷
+  Daniel XAVIER MENDES\n🇮🇹 Federico BICELLI\n🇨🇳 JIA Hongguang\n🇱🇻
+  Jurijs SEMJONOVS\n🇭🇳 Olvin CRUZ\n🇸🇬 Wei Soong TOH\n🇺🇦 Yevhenii
+  BOHODAIKO\n🇨🇺 Yosjaniel HERNANDEZ VELEZ\n🇺🇦 Yurii SHENHUR
+SUMMARY:Men's 50m Freestyle - S7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T082504Z-para-swimming-MENS-50M-BUTTERFLY-S7-HEATS
+DTSTAMP:20240907T082504Z
+DTSTART:20240907T082504Z
+DTEND:20240907T083134Z
+DESCRIPTION:Para Swimming - Men's 50m Butterfly - S7 Heats\n🇺🇦 Andrii
+  TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian SADIE\n🇺🇸
+  Evan AUSTIN\n🇨🇳 HUANG Xianquan\n🇦🇷 Inaki BASILOFF\n🇱🇻 Jurijs
+  SEMJONOVS\n🇮🇳 Suyash Narayan JADHAV\n🇸🇬 Wei Soong TOH\n🇺🇦 Yevhenii
+  BOHODAIKO\n🇺🇦 Yurii SHENHUR
+SUMMARY:Men's 50m Butterfly - S7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T092000Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM5-HEATS
+DTSTAMP:20240907T092000Z
+DTSTART:20240907T092000Z
+DTEND:20240907T094357Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM5
+  Heats\n🇪🇸 Berta GARCIA GRAU\n🇨🇳 CHENG Jiao\n🇨🇦 Clemence PARE\n🇵🇪
+  Dunia FELICES\n🇧🇷 Esthefany RODRIGUES\n🇨🇴 Gabriela OVIEDO RUEDA\n🇮🇹
+  Giulia GHIRETTI\n🇨🇳 HE Shenggao\n🇨🇦 Hannah OUELLETTE\n🇿🇦 Kat
+  SWANEPOEL\n🇨🇳 LU Dong\n🇪🇬 Malak ABDELSHAFI\n🇬🇷 Maria Fanouria
+  TZIVELEKI\n🇹🇷 Meryem Nur TUNUG\n🇮🇹 Monica BOGGIONI\n🇹🇷 Sevilay
+  OZTURK\n🇫🇷 Solene SACHE\n🇹🇭 Wilasini WONGNONTHAPHOOM\n🇯🇵 YUI Maori
+SUMMARY:Women's 200m Individual Medley - SM5 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

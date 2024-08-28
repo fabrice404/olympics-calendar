@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/medals/HUN//EN
+X-WR-CALNAME:🇭🇺 Hungary 🏅 | Paris 2024
+NAME:🇭🇺 Hungary 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240901T153700Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB6-FINAL
+DTSTAMP:20240901T153700Z
+DTSTART:20240901T153700Z
+DTEND:20240901T154400Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB6 Final\n🇺🇸
+  Ahalya LETTENBERGER\n🇩🇴 Alejandra AYBAR\n🇭🇺 Evelin SZARAZ\n🇨🇳 HE
+  Shenggao\n🇨🇳 LIU Daomin\n🇬🇧 Maisie SUMMERS-NEWTON\n🇭🇰 NG Cheuk
+  Yan\n🇺🇦 Veronika KORZHOVA
+SUMMARY:Women's 100m Breaststroke - SB6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T154100Z-para-swimming-WOMENS-400M-FREESTYLE-S6-FINAL
+DTSTAMP:20240906T154100Z
+DTSTART:20240906T154100Z
+DTEND:20240906T155200Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S6 Final\n🇮🇹 Arianna
+  TALAMONA\n🇭🇺 Evelin SZARAZ\n🇨🇳 JIANG Yuyan\n🇧🇷 Laila SUZIGAN
+  ABATE\n🇬🇧 Maisie SUMMERS-NEWTON\n🇨🇭 Nora MEISTER\n🇨🇳 ZHANG Li\n🇨🇳
+  ZHU Ji
+SUMMARY:Women's 400m Freestyle - S6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR
