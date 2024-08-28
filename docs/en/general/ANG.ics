@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//en/general/NAM//EN
-X-WR-CALNAME:🇳🇦 Namibia | Paris 2024
-NAME:🇳🇦 Namibia | Paris 2024
+PRODID:-//fabrice404//olympics-calendar//en/general/ANG//EN
+X-WR-CALNAME:🇦🇴 Angola | Paris 2024
+NAME:🇦🇴 Angola | Paris 2024
 BEGIN:VEVENT
 UID:20240828T180000Z-opening-ceremony
 DTSTAMP:20240828T180000Z
@@ -24,19 +24,6 @@ DESCRIPTION:Para Athletics - Women's 400m - T11 Round 1\n🇨🇴 Angie Lizeth
   Juliana Ngleya MOKO\n🇨🇳 LIU Cuiqing\n🇳🇦 Lahja ISHITILE\n🇹🇭
   Suneeporn TANOMWONG\n🇧🇷 Thalita Vitoria SIMPLICIO da SILVA
 SUMMARY:Women's 400m - T11 Round 1
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240830T103200Z-para-athletics-MENS-100M-T37-ROUND-1
-DTSTAMP:20240830T103200Z
-DTSTART:20240830T103200Z
-DTEND:20240830T104600Z
-DESCRIPTION:Para Athletics - Men's 100m - T37 Round 1\n🇸🇦 Ali
-  ALNAKHLI\n🇨🇴 Andres MALAMBO RACHEZ\n🇧🇷 Christian Gabriel LUIZ da
-  COSTA\n🇧🇷 Edson CAVALCANTE PINHEIRO\n🇺🇦 Mykola RAISKYI\n🇳🇦 Petrus
-  KARULI\n🇧🇷 Ricardo GOMES de MENDONCA\n🇮🇩 Saptoyogo PURNOMO\n🇫🇷
-  Valentin BERTRAND\n🇺🇦 Vladyslav ZAHREBELNYI
-SUMMARY:Men's 100m - T37 Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

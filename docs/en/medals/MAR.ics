@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//en/medals/CAN//EN
-X-WR-CALNAME:🇨🇦 Canada 🏅 | Paris 2024
-NAME:🇨🇦 Canada 🏅 | Paris 2024
+PRODID:-//fabrice404//olympics-calendar//en/medals/MAR//EN
+X-WR-CALNAME:🇲🇦 Morocco 🏅 | Paris 2024
+NAME:🇲🇦 Morocco 🏅 | Paris 2024
 BEGIN:VEVENT
 UID:20240830T083900Z-para-athletics-WOMENS-SHOT-PUT-F41-FINAL
 DTSTAMP:20240830T083900Z
@@ -15,16 +15,5 @@ DESCRIPTION:Para Athletics - Women's Shot Put - F41 Final\n🇦🇷 Antonella
   Veronica NDAKARA\n🇲🇦 Youssra KARIM
 SUMMARY:Women's Shot Put - F41 Final
 LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240907T183400Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-34-POINTS-F
-DTSTAMP:20240907T183400Z
-DTSTART:20240907T183400Z
-DTEND:20240907T184500Z
-DESCRIPTION:Para Swimming - Mixed 4x100m Freestyle Relay - 34 Points
-  Final\n🇦🇺 AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇫🇷 FRA\n🇮🇹 ITA\n🇪🇸
-  ESP\n🇺🇸 USA
-SUMMARY:Mixed 4x100m Freestyle Relay - 34 Points Final
-LOCATION:Paris La Defense Arena
 END:VEVENT
 END:VCALENDAR
