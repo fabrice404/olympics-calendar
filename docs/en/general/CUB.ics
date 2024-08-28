@@ -71,7 +71,7 @@ BEGIN:VEVENT
 UID:20240831T091510Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM7-HEATS
 DTSTAMP:20240831T091510Z
 DTSTART:20240831T091510Z
-DTEND:20240831T092617Z
+DTEND:20240831T092555Z
 DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM7 Heats\n🇺🇦
   Andrii TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian
   SADIE\n🇵🇭 Ernie GAWILAN\n🇺🇸 Evan AUSTIN\n🇨🇳 HUANG Xianquan\n🇦🇷
@@ -124,6 +124,18 @@ SUMMARY:P3 - Mixed 25m Pistol SH1 Qualification Precision
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T073000Z-para-swimming-MENS-400M-FREESTYLE-S7-HEATS
+DTSTAMP:20240902T073000Z
+DTSTART:20240902T073000Z
+DTEND:20240902T074602Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S7 Heats\n🇺🇦 Andrii
+  TRUSOV\n🇵🇭 Ernie GAWILAN\n🇺🇸 Evan AUSTIN\n🇮🇹 Federico BICELLI\n🇨🇳
+  HUANG Xianquan\n🇦🇷 Inaki BASILOFF\n🇨🇺 Yosjaniel HERNANDEZ VELEZ\n🇺🇦
+  Yurii SHENHUR
+SUMMARY:Men's 400m Freestyle - S7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T073000Z-shooting-para-sport-P4-MIXED-50M-PISTOL-SH1-QUALIFICAT
 DTSTAMP:20240904T073000Z
 DTSTART:20240904T073000Z
@@ -146,7 +158,7 @@ BEGIN:VEVENT
 UID:20240904T085744Z-para-swimming-MENS-50M-FREESTYLE-S7-HEATS
 DTSTAMP:20240904T085744Z
 DTSTART:20240904T085744Z
-DTEND:20240904T090435Z
+DTEND:20240904T090409Z
 DESCRIPTION:Para Swimming - Men's 50m Freestyle - S7 Heats\n🇺🇦 Andrii
   TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian SADIE\n🇧🇷
   Daniel XAVIER MENDES\n🇮🇹 Federico BICELLI\n🇨🇳 JIA Hongguang\n🇱🇻
@@ -156,10 +168,24 @@ SUMMARY:Men's 50m Freestyle - S7 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T074626Z-para-swimming-MENS-100M-FREESTYLE-S6-HEATS
+DTSTAMP:20240905T074626Z
+DTSTART:20240905T074626Z
+DTEND:20240905T075359Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S6 Heats\n🇮🇹 Antonio
+  FANTIN\n🇧🇷 Daniel XAVIER MENDES\n🇨🇴 David Felipe RENDON ACOSTA\n🇧🇷
+  Gabriel MELONE de OLIVEIRA\n🇨🇳 JIA Hongguang\n🇲🇽 Jesus Alberto
+  GUTIERREZ BERMUDEZ\n🇨🇳 LUO Jinbiao\n🇫🇷 Laurent CHARDARD\n🇨🇺 Lorenzo
+  PEREZ ESCALONA\n🇨🇴 Nelson CRISPIN CORZO\n🇮🇶 Qasim AL-KHAFAJI\n🇧🇷
+  Talisson Henrique GLOCK\n🇳🇱 Thijs van HOFWEEGEN
+SUMMARY:Men's 100m Freestyle - S6 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T073000Z-para-swimming-MENS-400M-FREESTYLE-S6-HEATS
 DTSTAMP:20240906T073000Z
 DTSTART:20240906T073000Z
-DTEND:20240906T074559Z
+DTEND:20240906T074541Z
 DESCRIPTION:Para Swimming - Men's 400m Freestyle - S6 Heats\n🇮🇹 Antonio
   FANTIN\n🇨🇴 David Felipe RENDON ACOSTA\n🇲🇽 Jesus Alberto GUTIERREZ
   BERMUDEZ\n🇲🇽 Juan Jose GUTIERREZ BERMUDEZ\n🇨🇳 LUO Jinbiao\n🇨🇺

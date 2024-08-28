@@ -16,7 +16,7 @@ BEGIN:VEVENT
 UID:20240830T091825Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB8-HEATS
 DTSTAMP:20240830T091825Z
 DTSTART:20240830T091825Z
-DTEND:20240830T092700Z
+DTEND:20240830T092630Z
 DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB8 Heats\n🇪🇸
   Anastasiya DMYTRIV DMYTRIV\n🇬🇧 Brock WHISTON\n🇨🇷 Camila HAASE\n🇮🇪
   Ellen KEANE\n🇯🇵 FUKUDA Kanon\n🇺🇬 Husnah KUKUNDAKWE\n🇨🇳 JIANG
@@ -26,10 +26,24 @@ SUMMARY:Women's 100m Breaststroke - SB8 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T091542Z-para-swimming-WOMENS-50M-FREESTYLE-S8-HEATS
+DTSTAMP:20240905T091542Z
+DTSTART:20240905T091542Z
+DTEND:20240905T092149Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S8 Heats\n🇬🇧 Alice
+  TAI\n🇧🇷 Cecilia Kethlen JERONIMO de ARAUJO\n🇺🇬 Husnah
+  KUKUNDAKWE\n🇨🇳 JIANG Shengnan\n🇨🇳 JIN Xiaoqin\n🇺🇸 Mallory
+  WEGGEMANN\n🇺🇸 McKenzie COAN\n🇭🇷 Paula NOVINA\n🇳🇿 Tupou NEIUFI\n🇧🇷
+  Vitoria Caroline da SILVA RIBEIRO\n🇮🇹 Xenia Francesca PALAZZO\n🇨🇳 ZHU
+  Hui
+SUMMARY:Women's 50m Freestyle - S8 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T081645Z-para-swimming-WOMENS-100M-BUTTERFLY-S8-HEATS
 DTSTAMP:20240907T081645Z
 DTSTART:20240907T081645Z
-DTEND:20240907T082504Z
+DTEND:20240907T082440Z
 DESCRIPTION:Para Swimming - Women's 100m Butterfly - S8 Heats\n🇬🇧 Alice
   TAI\n🇬🇧 Brock WHISTON\n🇺🇬 Husnah KUKUNDAKWE\n🇨🇳 JIANG
   Shengnan\n🇺🇸 Jessica LONG\n🇨🇳 LU Weiyuan\n🇨🇴 Laura Carolina

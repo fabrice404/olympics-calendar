@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID:20240831T094634Z-para-swimming-WOMENS-50M-FREESTYLE-S11-HEATS
 DTSTAMP:20240831T094634Z
 DTSTART:20240831T094634Z
-DTEND:20240831T095443Z
+DTEND:20240831T095411Z
 DESCRIPTION:Para Swimming - Women's 50m Freestyle - S11 Heats\n🇦🇷 Analuz
   PELLITERO\n🇺🇸 Anastasia PAGONIS\n🇯🇵 ISHIURA Tomomi\n🇨🇾 Karolina
   PELENDRITOU\n🇺🇦 Kateryna TKACHUK\n🇨🇳 LI Guizhi\n🇳🇱 Liesette
@@ -15,6 +15,18 @@ DESCRIPTION:Para Swimming - Women's 50m Freestyle - S11 Heats\n🇦🇷 Analuz
   ALCAZAR FIGUEROA\n🇦🇷 Nadia BAEZ\n🇯🇵 ONO Chikako\n🇬🇧 Scarlett
   HUMPHREY\n🇸🇰 Tatiana BLATTNEROVA\n🇨🇳 ZHANG Xiaotong
 SUMMARY:Women's 50m Freestyle - S11 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T081919Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB11-HEATS
+DTSTAMP:20240905T081919Z
+DTSTART:20240905T081919Z
+DTEND:20240905T082909Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB11 Heats\n🇨🇳
+  CAI Liwen\n🇨🇾 Karolina PELENDRITOU\n🇺🇦 Kateryna TKACHUK\n🇨🇳 MA
+  Jia\n🇮🇹 Martina RABBOLINI\n🇺🇦 Maryna PIDDUBNA\n🇦🇷 Nadia BAEZ\n🇬🇧
+  Scarlett HUMPHREY\n🇸🇰 Tatiana BLATTNEROVA\n🇨🇳 ZHANG Xiaotong
+SUMMARY:Women's 100m Breaststroke - SB11 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 END:VCALENDAR

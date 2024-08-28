@@ -90,7 +90,7 @@ BEGIN:VEVENT
 UID:20240903T080827Z-para-swimming-MENS-50M-BUTTERFLY-S6-HEATS
 DTSTAMP:20240903T080827Z
 DTSTART:20240903T080827Z
-DTEND:20240903T081510Z
+DTEND:20240903T081446Z
 DESCRIPTION:Para Swimming - Men's 50m Butterfly - S6 Heats\n🇹🇭 Aekkarin
   NOITHAT\n🇪🇸 David SANCHEZ SIERRA\n🇧🇷 Gabriel MELONE de OLIVEIRA\n🇨🇳
   JIA Hongguang\n🇲🇽 Jesus Alberto GUTIERREZ BERMUDEZ\n🇲🇽 Juan Jose
@@ -98,6 +98,20 @@ DESCRIPTION:Para Swimming - Men's 50m Butterfly - S6 Heats\n🇹🇭 Aekkarin
   CORZO\n🇮🇶 Qasim AL-KHAFAJI\n🇨🇳 WANG Jingang\n🇨🇳 YANG Hong\n🇺🇸
   Zach SHATTUCK
 SUMMARY:Men's 50m Butterfly - S6 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T074626Z-para-swimming-MENS-100M-FREESTYLE-S6-HEATS
+DTSTAMP:20240905T074626Z
+DTSTART:20240905T074626Z
+DTEND:20240905T075359Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S6 Heats\n🇮🇹 Antonio
+  FANTIN\n🇧🇷 Daniel XAVIER MENDES\n🇨🇴 David Felipe RENDON ACOSTA\n🇧🇷
+  Gabriel MELONE de OLIVEIRA\n🇨🇳 JIA Hongguang\n🇲🇽 Jesus Alberto
+  GUTIERREZ BERMUDEZ\n🇨🇳 LUO Jinbiao\n🇫🇷 Laurent CHARDARD\n🇨🇺 Lorenzo
+  PEREZ ESCALONA\n🇨🇴 Nelson CRISPIN CORZO\n🇮🇶 Qasim AL-KHAFAJI\n🇧🇷
+  Talisson Henrique GLOCK\n🇳🇱 Thijs van HOFWEEGEN
+SUMMARY:Men's 100m Freestyle - S6 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT

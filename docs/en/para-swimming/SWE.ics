@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID:20240829T075934Z-para-swimming-MENS-100M-BACKSTROKE-S2-HEATS
 DTSTAMP:20240829T075934Z
 DTSTART:20240829T075934Z
-DTEND:20240829T081317Z
+DTEND:20240829T081257Z
 DESCRIPTION:Para Swimming - Men's 100m Backstroke - S2 Heats\n🇨🇱 Alberto
   Caroly ABARZA DIAZ\n🇸🇪 Conrad HILDEBRAND\n🇲🇽 Cristopher Gregorio
   TRONCO SANCHEZ\n🇧🇷 Gabriel Geraldo dos SANTOS ARAUJO\n🇵🇱 Jacek
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 UID:20240831T075603Z-para-swimming-WOMENS-200M-FREESTYLE-S14-HEATS
 DTSTAMP:20240831T075603Z
 DTSTART:20240831T075603Z
-DTEND:20240831T080605Z
+DTEND:20240831T080539Z
 DESCRIPTION:Para Swimming - Women's 200m Freestyle - S14 Heats\n🇫🇷 Assya
   MAURIN ESPIAU\n🇭🇰 CHAN Yui Lam\n🇭🇰 CHEUNG Ho Ying\n🇪🇸 Eva CORONADO
   TEJEDA\n🇯🇵 KINOSHITA Aira\n🇬🇧 Louise FIDDES\n🇦🇺 Madeleine
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 UID:20240831T085314Z-para-swimming-MENS-50M-BACKSTROKE-S2-HEATS
 DTSTAMP:20240831T085314Z
 DTSTART:20240831T085314Z
-DTEND:20240831T090344Z
+DTEND:20240831T090324Z
 DESCRIPTION:Para Swimming - Men's 50m Backstroke - S2 Heats\n🇨🇱 Alberto
   Caroly ABARZA DIAZ\n🇸🇪 Conrad HILDEBRAND\n🇲🇽 Cristopher Gregorio
   TRONCO SANCHEZ\n🇧🇷 Gabriel Geraldo dos SANTOS ARAUJO\n🇵🇱 Jacek
@@ -44,10 +44,51 @@ SUMMARY:Men's 50m Backstroke - S2 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T074620Z-para-swimming-WOMENS-400M-FREESTYLE-S7-HEATS
+DTSTAMP:20240902T074620Z
+DTSTART:20240902T074620Z
+DTEND:20240902T080322Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S7 Heats\n🇺🇸 Ahalya
+  LETTENBERGER\n🇦🇺 Chloe OSBORN\n🇮🇹 Giulia TERZI\n🇦🇺 Holly WARN\n🇺🇸
+  McKenzie COAN\n🇺🇸 Morgan STICKNEY\n🇲🇽 Naomi Alejandra ORTIZ
+  MENDEZ\n🇲🇽 Naomi SOMELLERA MANDUJANO\n🇸🇪 Nicola ST CLAIR
+  MAITLAND\n🇨🇦 Sabrina DUCHESNE\n🇺🇦 Veronika KORZHOVA
+SUMMARY:Women's 400m Freestyle - S7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T084104Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB14-HEATS
+DTSTAMP:20240902T084104Z
+DTSTART:20240902T084104Z
+DTEND:20240902T084852Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB14 Heats\n🇫🇷
+  Assya MAURIN ESPIAU\n🇧🇷 Beatriz BORGES CARNEIRO\n🇭🇰 CHAN Yui
+  Lam\n🇭🇰 CHEUNG Ho Ying\n🇲🇽 Citli Siloe SALINAS ROJAS\n🇧🇷 Debora
+  BORGES CARNEIRO\n🇦🇹 Janina FALK\n🇬🇧 Louise FIDDES\n🇬🇧 Olivia
+  NEWMAN-BARONIUS\n🇦🇺 Paige LEONHARDT\n🇸🇪 Pernilla LINDBERG\n🇦🇺 Ruby
+  STORM\n🇯🇵 SERIZAWA Mikika
+SUMMARY:Women's 100m Breaststroke - SB14 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T092628Z-para-swimming-MENS-200M-FREESTYLE-S2-HEATS
+DTSTAMP:20240902T092628Z
+DTSTART:20240902T092628Z
+DTEND:20240902T094553Z
+DESCRIPTION:Para Swimming - Men's 200m Freestyle - S2 Heats\n🇨🇱 Alberto
+  Caroly ABARZA DIAZ\n🇧🇷 Bruno BECKER da SILVA\n🇸🇪 Conrad
+  HILDEBRAND\n🇲🇽 Cristopher Gregorio TRONCO SANCHEZ\n🇧🇷 Gabriel Geraldo
+  dos SANTOS ARAUJO\n🇵🇱 Jacek CZECH\n🇲🇽 Jesus Rey LOPEZ CERVANTES\n🇵🇱
+  Kamil OTOWSKI\n🇪🇸 Mikel ERDOZAIN OTERINO\n🇵🇪 Rodrigo SANTILLAN\n🇺🇦
+  Roman BONDARENKO
+SUMMARY:Men's 200m Freestyle - S2 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T075459Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM14-HEATS
 DTSTAMP:20240904T075459Z
 DTSTART:20240904T075459Z
-DTEND:20240904T080542Z
+DTEND:20240904T080514Z
 DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM14
   Heats\n🇧🇷 Ana Karolina SOARES de OLIVEIRA\n🇫🇷 Assya MAURIN
   ESPIAU\n🇭🇰 CHAN Yui Lam\n🇭🇰 CHEUNG Ho Ying\n🇲🇽 Citli Siloe SALINAS
@@ -61,7 +102,7 @@ BEGIN:VEVENT
 UID:20240907T083134Z-para-swimming-WOMENS-50M-BUTTERFLY-S7-HEATS
 DTSTAMP:20240907T083134Z
 DTSTART:20240907T083134Z
-DTEND:20240907T083831Z
+DTEND:20240907T083759Z
 DESCRIPTION:Para Swimming - Women's 50m Butterfly - S7 Heats\n🇩🇴
   Alejandra AYBAR\n🇨🇦 Danielle DORRIS\n🇮🇹 Giulia TERZI\n🇬🇧 Iona
   WINNIFRITH\n🇺🇸 Julia GAFFNEY\n🇺🇸 Mallory WEGGEMANN\n🇺🇸 McKenzie

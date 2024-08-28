@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID:20240904T073726Z-para-swimming-WOMENS-100M-FREESTYLE-S12-HEATS
 DTSTAMP:20240904T073726Z
 DTSTART:20240904T073726Z
-DTEND:20240904T074506Z
+DTEND:20240904T074442Z
 DESCRIPTION:Para Swimming - Women's 100m Freestyle - S12 Heats\n🇿🇦 Alani
   FERREIRA\n🇮🇹 Alessia BERRA\n🇺🇦 Anna STETSENKO\n🇻🇪 Belkis MOTA\n🇦🇺
   Jenna JONES\n🇸🇰 Karina PETRIKOVICOVA\n🇫🇷 Leane MORCEAU\n🇧🇷 Lucilene
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 UID:20240904T083715Z-para-swimming-MENS-50M-BREASTSTROKE-SB2-HEATS
 DTSTAMP:20240904T083715Z
 DTSTART:20240904T083715Z
-DTEND:20240904T084756Z
+DTEND:20240904T084732Z
 DESCRIPTION:Para Swimming - Men's 50m Breaststroke - SB2 Heats\n🇲🇽
   Arnulfo CASTORENA\n🇧🇷 Bruno BECKER da SILVA\n🇹🇭 Charkorn
   KAEWSRI\n🇲🇽 Cristopher Gregorio TRONCO SANCHEZ\n🇪🇸 Daniel FERRER
@@ -28,6 +28,19 @@ DESCRIPTION:Para Swimming - Men's 50m Breaststroke - SB2 Heats\n🇲🇽
   KOSTAKIS\n🇧🇦 Ismail BARLOV\n🇻🇪 Jose MONTILLA\n🇵🇱 Krzysztof
   LECHNIAK\n🇲🇽 Marcos Rafael ZARATE RODRIGUEZ
 SUMMARY:Men's 50m Breaststroke - SB2 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T085911Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB12-HEATS
+DTSTAMP:20240905T085911Z
+DTSTART:20240905T085911Z
+DTEND:20240905T090712Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB12 Heats\n🇿🇦
+  Alani FERREIRA\n🇮🇹 Alessia BERRA\n🇻🇪 Belkis MOTA\n🇩🇪 Elena
+  KRAWZOW\n🇦🇺 Jenna JONES\n🇸🇰 Karina PETRIKOVICOVA\n🇧🇷 Maria Carolina
+  GOMES SANTIAGO\n🇧🇷 Raquel VIEL\n🇸🇬 Sophie Jin Wen SOON\n🇨🇳 ZHENG
+  Jietong
+SUMMARY:Women's 100m Breaststroke - SB12 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 END:VCALENDAR

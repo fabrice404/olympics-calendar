@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID:20240831T091510Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM7-HEATS
 DTSTAMP:20240831T091510Z
 DTSTART:20240831T091510Z
-DTEND:20240831T092617Z
+DTEND:20240831T092555Z
 DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM7 Heats\n🇺🇦
   Andrii TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian
   SADIE\n🇵🇭 Ernie GAWILAN\n🇺🇸 Evan AUSTIN\n🇨🇳 HUANG Xianquan\n🇦🇷
@@ -17,10 +17,22 @@ SUMMARY:Men's 200m Individual Medley - SM7 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T073000Z-para-swimming-MENS-400M-FREESTYLE-S7-HEATS
+DTSTAMP:20240902T073000Z
+DTSTART:20240902T073000Z
+DTEND:20240902T074602Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S7 Heats\n🇺🇦 Andrii
+  TRUSOV\n🇵🇭 Ernie GAWILAN\n🇺🇸 Evan AUSTIN\n🇮🇹 Federico BICELLI\n🇨🇳
+  HUANG Xianquan\n🇦🇷 Inaki BASILOFF\n🇨🇺 Yosjaniel HERNANDEZ VELEZ\n🇺🇦
+  Yurii SHENHUR
+SUMMARY:Men's 400m Freestyle - S7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240903T083008Z-para-swimming-WOMENS-50M-BACKSTROKE-S5-HEATS
 DTSTAMP:20240903T083008Z
 DTSTART:20240903T083008Z
-DTEND:20240903T083853Z
+DTEND:20240903T083821Z
 DESCRIPTION:Para Swimming - Women's 50m Backstroke - S5 Heats\n🇨🇿 Agata
   KOUPILOVA\n🇵🇭 Angel Mae OTOM\n🇦🇷 Elizabeth NORIEGA\n🇨🇴 Gabriela
   OVIEDO RUEDA\n🇨🇳 HE Shenggao\n🇺🇦 Iryna POIDA\n🇲🇽 Karina Amayrani
@@ -34,7 +46,7 @@ BEGIN:VEVENT
 UID:20240906T075340Z-para-swimming-WOMENS-50M-BUTTERFLY-S5-HEATS
 DTSTAMP:20240906T075340Z
 DTSTART:20240906T075340Z
-DTEND:20240906T080159Z
+DTEND:20240906T080133Z
 DESCRIPTION:Para Swimming - Women's 50m Butterfly - S5 Heats\n🇵🇭 Angel
   Mae OTOM\n🇪🇸 Berta GARCIA GRAU\n🇨🇳 CHENG Jiao\n🇧🇷 Esthefany
   RODRIGUES\n🇮🇹 Giulia GHIRETTI\n🇨🇳 HE Shenggao\n🇨🇦 Hannah

@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID:20240829T074422Z-para-swimming-WOMENS-400M-FREESTYLE-S9-HEATS
 DTSTAMP:20240829T074422Z
 DTSTART:20240829T074422Z
-DTEND:20240829T075934Z
+DTEND:20240829T075912Z
 DESCRIPTION:Para Swimming - Women's 400m Freestyle - S9 Heats\n🇫🇷 Agathe
   PAULI\n🇪🇸 Beatriz LERIDA MALDONADO\n🇭🇷 Emma MECIC\n🇺🇸 Keegan
   KNOTT\n🇦🇺 Lakeisha PATTERSON\n🇪🇸 Nuria MARQUES SOTO\n🇺🇸 Summer
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 UID:20240829T081317Z-para-swimming-WOMENS-100M-BACKSTROKE-S2-HEATS
 DTSTAMP:20240829T081317Z
 DTSTART:20240829T081317Z
-DTEND:20240829T082836Z
+DTEND:20240829T082814Z
 DESCRIPTION:Para Swimming - Women's 100m Backstroke - S2 Heats\n🇮🇹 Angela
   PROCIDA\n🇬🇷 Areti Aravela SPYRIDOU\n🇹🇷 Elif ILDEM\n🇲🇽 Fabiola
   RAMIREZ MARTINEZ\n🇲🇽 Haidee Viviana ACEVES PEREZ\n🇷🇸 Katarina
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 UID:20240829T085725Z-para-swimming-WOMENS-50M-FREESTYLE-S10-HEATS
 DTSTAMP:20240829T085725Z
 DTSTART:20240829T085725Z
-DTEND:20240829T090353Z
+DTEND:20240829T090323Z
 DESCRIPTION:Para Swimming - Women's 50m Freestyle - S10 Heats\n🇮🇹 Alessia
   SCORTECHINI\n🇦🇺 Alexa LEARY\n🇨🇦 Arianna HUNSICKER\n🇨🇦 Aurelie
   RIVARD\n🇭🇺 Bianka PAP\n🇨🇳 CHEN Yi\n🇺🇸 Christie
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 UID:20240830T075821Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM6-HEATS
 DTSTAMP:20240830T075821Z
 DTSTART:20240830T075821Z
-DTEND:20240830T081512Z
+DTEND:20240830T081438Z
 DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM6 Heats\n🇹🇭
   Aekkarin NOITHAT\n🇭🇺 Bence IVAN\n🇬🇧 Bruce DEE\n🇨🇴 David Felipe
   RENDON ACOSTA\n🇪🇸 David SANCHEZ SIERRA\n🇨🇳 GUO Jincheng\n🇲🇽 Jesus
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 UID:20240830T081512Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM6-HEATS
 DTSTAMP:20240830T081512Z
 DTSTART:20240830T081512Z
-DTEND:20240830T082741Z
+DTEND:20240830T082721Z
 DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM6
   Heats\n🇺🇸 Ellie MARKS\n🇭🇺 Evelin SZARAZ\n🇱🇹 Gabriele
   CEPAVICIUTE\n🇬🇧 Grace HARVEY\n🇨🇳 JIANG Yuyan\n🇨🇳 LIU Daomin\n🇬🇧
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 UID:20240831T090344Z-para-swimming-WOMENS-50M-BACKSTROKE-S2-HEATS
 DTSTAMP:20240831T090344Z
 DTSTART:20240831T090344Z
-DTEND:20240831T091510Z
+DTEND:20240831T091448Z
 DESCRIPTION:Para Swimming - Women's 50m Backstroke - S2 Heats\n🇮🇹 Angela
   PROCIDA\n🇬🇷 Areti Aravela SPYRIDOU\n🇹🇷 Elif ILDEM\n🇲🇽 Fabiola
   RAMIREZ MARTINEZ\n🇲🇽 Haidee Viviana ACEVES PEREZ\n🇷🇸 Katarina
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 UID:20240901T074531Z-para-swimming-WOMENS-100M-FREESTYLE-S10-HEATS
 DTSTAMP:20240901T074531Z
 DTSTART:20240901T074531Z
-DTEND:20240901T075307Z
+DTEND:20240901T075237Z
 DESCRIPTION:Para Swimming - Women's 100m Freestyle - S10 Heats\n🇮🇹
   Alessia SCORTECHINI\n🇺🇸 Alexandra TRUWIT\n🇨🇦 Arianna HUNSICKER\n🇨🇦
   Aurelie RIVARD\n🇭🇺 Bianka PAP\n🇨🇳 CHEN Yi\n🇬🇧 Callie-Ann
@@ -110,10 +110,22 @@ SUMMARY:Women's 100m Breaststroke - SB6 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T091539Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB4-HEATS
+DTSTAMP:20240902T091539Z
+DTSTART:20240902T091539Z
+DTEND:20240902T092606Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB4 Heats\n🇪🇸
+  Berta GARCIA GRAU\n🇨🇳 CHENG Jiao\n🇭🇺 Fanni ILLES\n🇨🇴 Gabriela
+  OVIEDO RUEDA\n🇮🇹 Giulia GHIRETTI\n🇨🇳 LIU Yu\n🇪🇬 Malak
+  ABDELSHAFI\n🇫🇷 Solene SACHE\n🇨🇳 YAO Cuan
+SUMMARY:Women's 100m Breaststroke - SB4 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240903T074640Z-para-swimming-WOMENS-100M-BACKSTROKE-S9-HEATS
 DTSTAMP:20240903T074640Z
 DTSTART:20240903T074640Z
-DTEND:20240903T075516Z
+DTEND:20240903T075448Z
 DESCRIPTION:Para Swimming - Women's 100m Backstroke - S9 Heats\n🇪🇸
   Beatriz LERIDA MALDONADO\n🇺🇸 Christie RALEIGH-CROSSLEY\n🇮🇪 Ellen
   KEANE\n🇭🇷 Emma MECIC\n🇺🇸 Hannah ASPDEN\n🇩🇰 Johanne OELAND
@@ -127,7 +139,7 @@ BEGIN:VEVENT
 UID:20240903T093324Z-para-swimming-WOMENS-100M-BUTTERFLY-S10-HEATS
 DTSTAMP:20240903T093324Z
 DTSTART:20240903T093324Z
-DTEND:20240903T094120Z
+DTEND:20240903T094052Z
 DESCRIPTION:Para Swimming - Women's 100m Butterfly - S10 Heats\n🇮🇹
   Alessia SCORTECHINI\n🇨🇳 CHEN Yi\n🇬🇧 Callie-Ann WARRINGTON\n🇭🇺
   Csenge HOTZ\n🇬🇧 Faye ROGERS\n🇦🇺 Jasmine GREENWOOD\n🇨🇦 Katie
@@ -138,10 +150,37 @@ SUMMARY:Women's 100m Butterfly - S10 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T075425Z-para-swimming-WOMENS-400M-FREESTYLE-S10-HEATS
+DTSTAMP:20240905T075425Z
+DTSTART:20240905T075425Z
+DTEND:20240905T080921Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S10 Heats\n🇺🇸
+  Alexandra TRUWIT\n🇨🇦 Aurelie RIVARD\n🇭🇺 Bianka PAP\n🇭🇺 Csenge
+  HOTZ\n🇫🇷 Elodie LORANDI\n🇬🇧 Faye ROGERS\n🇳🇿 Gabriella SMITH\n🇳🇿
+  Lili-Fox MASON\n🇨🇴 Maria Paula BARRERA ZAPATA\n🇵🇱 Oliwia
+  JABLONSKA\n🇦🇺 Poppy WILSON\n🇺🇸 Taylor WINNETT
+SUMMARY:Women's 400m Freestyle - S10 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T083951Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM9-HEATS
+DTSTAMP:20240905T083951Z
+DTSTART:20240905T083951Z
+DTEND:20240905T085040Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM9
+  Heats\n🇪🇸 Anastasiya DMYTRIV DMYTRIV\n🇨🇷 Camila HAASE\n🇭🇷 Emma
+  MECIC\n🇨🇦 Katarina ROXON\n🇨🇳 LIU Ying\n🇦🇺 Lakeisha PATTERSON\n🇨🇦
+  Mary JIBB\n🇺🇸 Natalie SIMS\n🇪🇸 Nuria MARQUES SOTO\n🇪🇸 Sarai
+  GASCON\n🇺🇸 Summer SCHMIT\n🇬🇧 Toni SHAW\n🇨🇳 XU Jialing\n🇭🇺 Zsofia
+  KONKOLY\n🇵🇱 Zuzanna BORUSZEWSKA
+SUMMARY:Women's 200m Individual Medley - SM9 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T081000Z-para-swimming-WOMENS-100M-BACKSTROKE-S10-HEATS
 DTSTAMP:20240906T081000Z
 DTSTART:20240906T081000Z
-DTEND:20240906T081827Z
+DTEND:20240906T081759Z
 DESCRIPTION:Para Swimming - Women's 100m Backstroke - S10 Heats\n🇺🇸
   Alexandra TRUWIT\n🇫🇷 Anaelle ROULET\n🇨🇦 Arianna HUNSICKER\n🇨🇦
   Aurelie RIVARD\n🇭🇺 Bianka PAP\n🇨🇳 CHEN Yi\n🇫🇷 Emeline PIERRE\n🇦🇺
@@ -154,7 +193,7 @@ BEGIN:VEVENT
 UID:20240906T082603Z-para-swimming-WOMENS-100M-BUTTERFLY-S9-HEATS
 DTSTAMP:20240906T082603Z
 DTSTART:20240906T082603Z
-DTEND:20240906T083409Z
+DTEND:20240906T083347Z
 DESCRIPTION:Para Swimming - Women's 100m Butterfly - S9 Heats\n🇪🇸
   Anastasiya DMYTRIV DMYTRIV\n🇺🇸 Christie RALEIGH-CROSSLEY\n🇦🇺 Emily
   BEECROFT\n🇳🇱 Florianne BULTJE\n🇺🇾 Hanna ARIAS\n🇨🇱 Kiara Pollet
@@ -179,7 +218,7 @@ BEGIN:VEVENT
 UID:20240907T074018Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM10-HEATS
 DTSTAMP:20240907T074018Z
 DTSTART:20240907T074018Z
-DTEND:20240907T075113Z
+DTEND:20240907T075045Z
 DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM10
   Heats\n🇭🇺 Bianka PAP\n🇨🇳 CHEN Yi\n🇭🇺 Csenge HOTZ\n🇫🇷 Elodie
   LORANDI\n🇬🇧 Faye ROGERS\n🇳🇿 Gabriella SMITH\n🇦🇺 Jasmine

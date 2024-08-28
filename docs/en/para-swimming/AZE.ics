@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID:20240829T081317Z-para-swimming-WOMENS-100M-BACKSTROKE-S2-HEATS
 DTSTAMP:20240829T081317Z
 DTSTART:20240829T081317Z
-DTEND:20240829T082836Z
+DTEND:20240829T082814Z
 DESCRIPTION:Para Swimming - Women's 100m Backstroke - S2 Heats\n🇮🇹 Angela
   PROCIDA\n🇬🇷 Areti Aravela SPYRIDOU\n🇹🇷 Elif ILDEM\n🇲🇽 Fabiola
   RAMIREZ MARTINEZ\n🇲🇽 Haidee Viviana ACEVES PEREZ\n🇷🇸 Katarina
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 UID:20240831T073000Z-para-swimming-MENS-100M-BACKSTROKE-S12-HEATS
 DTSTAMP:20240831T073000Z
 DTSTART:20240831T073000Z
-DTEND:20240831T073819Z
+DTEND:20240831T073751Z
 DESCRIPTION:Para Swimming - Men's 100m Backstroke - S12 Heats\n🇪🇸 Alex
   VILLAREJO MARTIN\n🇨🇳 DENG Jieqiu\n🇨🇴 Daniel GIRALDO CORREA\n🇺🇦
   Dmytro SUKHANOV\n🇧🇷 Douglas MATERA\n🇺🇸 Evan WILKERSON\n🇮🇩 Maulana
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 UID:20240831T090344Z-para-swimming-WOMENS-50M-BACKSTROKE-S2-HEATS
 DTSTAMP:20240831T090344Z
 DTSTART:20240831T090344Z
-DTEND:20240831T091510Z
+DTEND:20240831T091448Z
 DESCRIPTION:Para Swimming - Women's 50m Backstroke - S2 Heats\n🇮🇹 Angela
   PROCIDA\n🇬🇷 Areti Aravela SPYRIDOU\n🇹🇷 Elif ILDEM\n🇲🇽 Fabiola
   RAMIREZ MARTINEZ\n🇲🇽 Haidee Viviana ACEVES PEREZ\n🇷🇸 Katarina
@@ -43,10 +43,23 @@ SUMMARY:Women's 50m Backstroke - S2 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T084918Z-para-swimming-MENS-50M-FREESTYLE-S13-HEATS
+DTSTAMP:20240902T084918Z
+DTSTART:20240902T084918Z
+DTEND:20240902T085508Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S13 Heats\n🇪🇸 Enrique
+  Jose ALHAMBRA MOLLAR\n🇺🇦 Illia YAREMENKO\n🇺🇿 Islam ASLANOV\n🇺🇿
+  Kirill PANKOV\n🇺🇦 Maksym VERAKSA\n🇺🇿 Muzaffar TURSUNKHUJAEV\n🇨🇦
+  Nicolas Guy TURBIDE\n🇺🇦 Oleksii VIRCHENKO\n🇦🇿 Raman SALEI\n🇩🇪
+  Taliso ENGEL
+SUMMARY:Men's 50m Freestyle - S13 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T073000Z-para-swimming-MENS-100M-FREESTYLE-S12-HEATS
 DTSTAMP:20240904T073000Z
 DTSTART:20240904T073000Z
-DTEND:20240904T073726Z
+DTEND:20240904T073656Z
 DESCRIPTION:Para Swimming - Men's 100m Freestyle - S12 Heats\n🇪🇸 Alex
   VILLAREJO MARTIN\n🇨🇴 Daniel GIRALDO CORREA\n🇺🇿 Dmitriy HORLIN\n🇺🇸
   Evan WILKERSON\n🇺🇦 Illia YAREMENKO\n🇪🇸 Ivan SALGUERO OTEIZA\n🇫🇷
@@ -56,10 +69,24 @@ SUMMARY:Men's 100m Freestyle - S12 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T085110Z-para-swimming-MENS-100M-BREASTSTROKE-SB13-HEATS
+DTSTAMP:20240905T085110Z
+DTSTART:20240905T085110Z
+DTEND:20240905T085839Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB13 Heats\n🇪🇸 Alex
+  VILLAREJO MARTIN\n🇺🇸 David Henry ABRAHAMS\n🇺🇿 Firdavsbek
+  MUSABEKOV\n🇪🇸 Ivan SALGUERO OTEIZA\n🇬🇧 Matthew REDFERN\n🇿🇦 Nathan
+  HENDRICKS\n🇰🇿 Nurdaulet ZHUMAGALI\n🇺🇦 Oleksii FEDYNA\n🇩🇪 Philip
+  HEBMUELLER\n🇺🇦 Roman MYCHKA\n🇯🇵 SAITO Genki\n🇩🇪 Taliso ENGEL\n🇳🇱
+  Thomas van WANROOIJ\n🇦🇿 Vali ISRAFILOV
+SUMMARY:Men's 100m Breaststroke - SB13 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T084713Z-para-swimming-MENS-100M-BUTTERFLY-S12-HEATS
 DTSTAMP:20240907T084713Z
 DTSTART:20240907T084713Z
-DTEND:20240907T085446Z
+DTEND:20240907T085420Z
 DESCRIPTION:Para Swimming - Men's 100m Butterfly - S12 Heats\n🇨🇳 DENG
   Jieqiu\n🇨🇴 Daniel GIRALDO CORREA\n🇺🇿 Dmitriy HORLIN\n🇧🇷 Douglas
   MATERA\n🇺🇸 Evan WILKERSON\n🇺🇦 Illia YAREMENKO\n🇫🇷 Kylian

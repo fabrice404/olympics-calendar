@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:20240830T091825Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB8-HEATS
 DTSTAMP:20240830T091825Z
 DTSTART:20240830T091825Z
-DTEND:20240830T092700Z
+DTEND:20240830T092630Z
 DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB8 Heats\n🇪🇸
   Anastasiya DMYTRIV DMYTRIV\n🇬🇧 Brock WHISTON\n🇨🇷 Camila HAASE\n🇮🇪
   Ellen KEANE\n🇯🇵 FUKUDA Kanon\n🇺🇬 Husnah KUKUNDAKWE\n🇨🇳 JIANG
@@ -98,6 +98,20 @@ DESCRIPTION:Shooting Para Sport - P2 - Women's 10m Air Pistol SH1
   ECHEVARRIA
 SUMMARY:P2 - Women's 10m Air Pistol SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T083951Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM9-HEATS
+DTSTAMP:20240905T083951Z
+DTSTART:20240905T083951Z
+DTEND:20240905T085040Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM9
+  Heats\n🇪🇸 Anastasiya DMYTRIV DMYTRIV\n🇨🇷 Camila HAASE\n🇭🇷 Emma
+  MECIC\n🇨🇦 Katarina ROXON\n🇨🇳 LIU Ying\n🇦🇺 Lakeisha PATTERSON\n🇨🇦
+  Mary JIBB\n🇺🇸 Natalie SIMS\n🇪🇸 Nuria MARQUES SOTO\n🇪🇸 Sarai
+  GASCON\n🇺🇸 Summer SCHMIT\n🇬🇧 Toni SHAW\n🇨🇳 XU Jialing\n🇭🇺 Zsofia
+  KONKOLY\n🇵🇱 Zuzanna BORUSZEWSKA
+SUMMARY:Women's 200m Individual Medley - SM9 Heats
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

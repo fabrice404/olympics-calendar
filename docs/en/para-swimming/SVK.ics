@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID:20240830T082741Z-para-swimming-WOMENS-400M-FREESTYLE-S11-HEATS
 DTSTAMP:20240830T082741Z
 DTSTART:20240830T082741Z
-DTEND:20240830T084609Z
+DTEND:20240830T084547Z
 DESCRIPTION:Para Swimming - Women's 400m Freestyle - S11 Heats\n🇺🇸
   Anastasia PAGONIS\n🇨🇳 CAI Liwen\n🇬🇧 Eliza HUMPHREY\n🇳🇱 Liesette
   BRUINSMA\n🇮🇹 Martina RABBOLINI\n🇲🇽 Matilde Estefania ALCAZAR
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 UID:20240831T073819Z-para-swimming-WOMENS-100M-BACKSTROKE-S12-HEATS
 DTSTAMP:20240831T073819Z
 DTSTART:20240831T073819Z
-DTEND:20240831T074647Z
+DTEND:20240831T074627Z
 DESCRIPTION:Para Swimming - Women's 100m Backstroke - S12 Heats\n🇺🇦 Anna
   STETSENKO\n🇦🇺 Jenna JONES\n🇸🇰 Karina PETRIKOVICOVA\n🇫🇷 Leane
   MORCEAU\n🇧🇷 Maria Carolina GOMES SANTIAGO\n🇪🇸 Maria DELGADO
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 UID:20240831T094634Z-para-swimming-WOMENS-50M-FREESTYLE-S11-HEATS
 DTSTAMP:20240831T094634Z
 DTSTART:20240831T094634Z
-DTEND:20240831T095443Z
+DTEND:20240831T095411Z
 DESCRIPTION:Para Swimming - Women's 50m Freestyle - S11 Heats\n🇦🇷 Analuz
   PELLITERO\n🇺🇸 Anastasia PAGONIS\n🇯🇵 ISHIURA Tomomi\n🇨🇾 Karolina
   PELENDRITOU\n🇺🇦 Kateryna TKACHUK\n🇨🇳 LI Guizhi\n🇳🇱 Liesette
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 UID:20240904T073726Z-para-swimming-WOMENS-100M-FREESTYLE-S12-HEATS
 DTSTAMP:20240904T073726Z
 DTSTART:20240904T073726Z
-DTEND:20240904T074506Z
+DTEND:20240904T074442Z
 DESCRIPTION:Para Swimming - Women's 100m Freestyle - S12 Heats\n🇿🇦 Alani
   FERREIRA\n🇮🇹 Alessia BERRA\n🇺🇦 Anna STETSENKO\n🇻🇪 Belkis MOTA\n🇦🇺
   Jenna JONES\n🇸🇰 Karina PETRIKOVICOVA\n🇫🇷 Leane MORCEAU\n🇧🇷 Lucilene
@@ -57,10 +57,35 @@ SUMMARY:Women's 100m Freestyle - S12 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T081919Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB11-HEATS
+DTSTAMP:20240905T081919Z
+DTSTART:20240905T081919Z
+DTEND:20240905T082909Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB11 Heats\n🇨🇳
+  CAI Liwen\n🇨🇾 Karolina PELENDRITOU\n🇺🇦 Kateryna TKACHUK\n🇨🇳 MA
+  Jia\n🇮🇹 Martina RABBOLINI\n🇺🇦 Maryna PIDDUBNA\n🇦🇷 Nadia BAEZ\n🇬🇧
+  Scarlett HUMPHREY\n🇸🇰 Tatiana BLATTNEROVA\n🇨🇳 ZHANG Xiaotong
+SUMMARY:Women's 100m Breaststroke - SB11 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T085911Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB12-HEATS
+DTSTAMP:20240905T085911Z
+DTSTART:20240905T085911Z
+DTEND:20240905T090712Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB12 Heats\n🇿🇦
+  Alani FERREIRA\n🇮🇹 Alessia BERRA\n🇻🇪 Belkis MOTA\n🇩🇪 Elena
+  KRAWZOW\n🇦🇺 Jenna JONES\n🇸🇰 Karina PETRIKOVICOVA\n🇧🇷 Maria Carolina
+  GOMES SANTIAGO\n🇧🇷 Raquel VIEL\n🇸🇬 Sophie Jin Wen SOON\n🇨🇳 ZHENG
+  Jietong
+SUMMARY:Women's 100m Breaststroke - SB12 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T085446Z-para-swimming-WOMENS-100M-FREESTYLE-S11-HEATS
 DTSTAMP:20240907T085446Z
 DTSTART:20240907T085446Z
-DTEND:20240907T090408Z
+DTEND:20240907T090342Z
 DESCRIPTION:Para Swimming - Women's 100m Freestyle - S11 Heats\n🇦🇷 Analuz
   PELLITERO\n🇺🇸 Anastasia PAGONIS\n🇨🇳 CAI Liwen\n🇯🇵 ISHIURA
   Tomomi\n🇺🇦 Kateryna TKACHUK\n🇨🇳 LI Guizhi\n🇳🇱 Liesette

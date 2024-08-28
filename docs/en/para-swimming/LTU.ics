@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID:20240830T081512Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM6-HEATS
 DTSTAMP:20240830T081512Z
 DTSTART:20240830T081512Z
-DTEND:20240830T082741Z
+DTEND:20240830T082721Z
 DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM6
   Heats\n🇺🇸 Ellie MARKS\n🇭🇺 Evelin SZARAZ\n🇱🇹 Gabriele
   CEPAVICIUTE\n🇬🇧 Grace HARVEY\n🇨🇳 JIANG Yuyan\n🇨🇳 LIU Daomin\n🇬🇧
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:20240831T093843Z-para-swimming-MENS-50M-FREESTYLE-S11-HEATS
 DTSTAMP:20240831T093843Z
 DTSTART:20240831T093843Z
-DTEND:20240831T094634Z
+DTEND:20240831T094608Z
 DESCRIPTION:Para Swimming - Men's 50m Freestyle - S11 Heats\n🇨🇴 Brayan
   Mauricio TRIANA HERRERA\n🇺🇦 Danylo CHUFAROV\n🇨🇿 David
   KRATOCHVIL\n🇱🇹 Edgaras MATAKAS\n🇨🇳 HUA Dongdong\n🇪🇸 Jose Ramon
@@ -30,10 +30,23 @@ SUMMARY:Men's 50m Freestyle - S11 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T080945Z-para-swimming-MENS-100M-BREASTSTROKE-SB11-HEATS
+DTSTAMP:20240905T080945Z
+DTSTART:20240905T080945Z
+DTEND:20240905T081859Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB11 Heats\n🇰🇿 Amir
+  MURATBEKOV\n🇨🇴 Brayan Mauricio TRIANA HERRERA\n🇺🇦 Danylo
+  CHUFAROV\n🇨🇿 David KRATOCHVIL\n🇱🇹 Edgaras MATAKAS\n🇪🇸 Jose Ramon
+  CANTERO ELVIRA\n🇨🇴 Leider Albeiro LEMUS ROJAS\n🇳🇱 Rogier
+  DORSMAN\n🇨🇳 YANG Bozun
+SUMMARY:Men's 100m Breaststroke - SB11 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T075947Z-para-swimming-WOMENS-100M-BACKSTROKE-S6-HEATS
 DTSTAMP:20240907T075947Z
 DTSTART:20240907T075947Z
-DTEND:20240907T080913Z
+DTEND:20240907T080849Z
 DESCRIPTION:Para Swimming - Women's 100m Backstroke - S6 Heats\n🇺🇦 Anna
   HONTAR\n🇮🇹 Arianna TALAMONA\n🇺🇸 Ellie MARKS\n🇱🇹 Gabriele
   CEPAVICIUTE\n🇨🇳 JIANG Yuyan\n🇧🇷 Mayara DO AMARAL PETZOLD\n🇭🇰 NG

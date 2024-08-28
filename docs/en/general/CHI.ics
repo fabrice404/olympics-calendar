@@ -16,7 +16,7 @@ BEGIN:VEVENT
 UID:20240829T075934Z-para-swimming-MENS-100M-BACKSTROKE-S2-HEATS
 DTSTAMP:20240829T075934Z
 DTSTART:20240829T075934Z
-DTEND:20240829T081317Z
+DTEND:20240829T081257Z
 DESCRIPTION:Para Swimming - Men's 100m Backstroke - S2 Heats\n🇨🇱 Alberto
   Caroly ABARZA DIAZ\n🇸🇪 Conrad HILDEBRAND\n🇲🇽 Cristopher Gregorio
   TRONCO SANCHEZ\n🇧🇷 Gabriel Geraldo dos SANTOS ARAUJO\n🇵🇱 Jacek
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 UID:20240830T091022Z-para-swimming-MENS-100M-BREASTSTROKE-SB8-HEATS
 DTSTAMP:20240830T091022Z
 DTSTART:20240830T091022Z
-DTEND:20240830T091825Z
+DTEND:20240830T091757Z
 DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB8 Heats\n🇦🇹
   Andreas ONEA\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇪🇸 Carlos MARTINEZ
   FERNANDEZ\n🇮🇹 Federico MORLACCHI\n🇳🇿 Joshua WILLMER\n🇨🇳 LI
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 UID:20240831T085314Z-para-swimming-MENS-50M-BACKSTROKE-S2-HEATS
 DTSTAMP:20240831T085314Z
 DTSTART:20240831T085314Z
-DTEND:20240831T090344Z
+DTEND:20240831T090324Z
 DESCRIPTION:Para Swimming - Men's 50m Backstroke - S2 Heats\n🇨🇱 Alberto
   Caroly ABARZA DIAZ\n🇸🇪 Conrad HILDEBRAND\n🇲🇽 Cristopher Gregorio
   TRONCO SANCHEZ\n🇧🇷 Gabriel Geraldo dos SANTOS ARAUJO\n🇵🇱 Jacek
@@ -153,10 +153,24 @@ SUMMARY:Men's 50m Backstroke - S2 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T092628Z-para-swimming-MENS-200M-FREESTYLE-S2-HEATS
+DTSTAMP:20240902T092628Z
+DTSTART:20240902T092628Z
+DTEND:20240902T094553Z
+DESCRIPTION:Para Swimming - Men's 200m Freestyle - S2 Heats\n🇨🇱 Alberto
+  Caroly ABARZA DIAZ\n🇧🇷 Bruno BECKER da SILVA\n🇸🇪 Conrad
+  HILDEBRAND\n🇲🇽 Cristopher Gregorio TRONCO SANCHEZ\n🇧🇷 Gabriel Geraldo
+  dos SANTOS ARAUJO\n🇵🇱 Jacek CZECH\n🇲🇽 Jesus Rey LOPEZ CERVANTES\n🇵🇱
+  Kamil OTOWSKI\n🇪🇸 Mikel ERDOZAIN OTERINO\n🇵🇪 Rodrigo SANTILLAN\n🇺🇦
+  Roman BONDARENKO
+SUMMARY:Men's 200m Freestyle - S2 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T082603Z-para-swimming-WOMENS-100M-BUTTERFLY-S9-HEATS
 DTSTAMP:20240906T082603Z
 DTSTART:20240906T082603Z
-DTEND:20240906T083409Z
+DTEND:20240906T083347Z
 DESCRIPTION:Para Swimming - Women's 100m Butterfly - S9 Heats\n🇪🇸
   Anastasiya DMYTRIV DMYTRIV\n🇺🇸 Christie RALEIGH-CROSSLEY\n🇦🇺 Emily
   BEECROFT\n🇳🇱 Florianne BULTJE\n🇺🇾 Hanna ARIAS\n🇨🇱 Kiara Pollet

@@ -7,7 +7,7 @@ BEGIN:VEVENT
 UID:20240829T091914Z-para-swimming-MENS-200M-FREESTYLE-S5-HEATS
 DTSTAMP:20240829T091914Z
 DTSTART:20240829T091914Z
-DTEND:20240829T093129Z
+DTEND:20240829T093105Z
 DESCRIPTION:Para Swimming - Men's 200m Freestyle - S5 Heats\n🇪🇸 Antoni
   PONCE BERTRAN\n🇮🇹 Francesco BOCCIARDO\n🇨🇳 GUO Jincheng\n🇨🇴 Kevin
   Alfonso MORENO GUALACO\n🇪🇸 Luis HUERTA POZA\n🇨🇴 Miguel Angel RINCON
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 UID:20240830T073000Z-para-swimming-MENS-100M-FREESTYLE-S5-HEATS
 DTSTAMP:20240830T073000Z
 DTSTART:20240830T073000Z
-DTEND:20240830T073905Z
+DTEND:20240830T073841Z
 DESCRIPTION:Para Swimming - Men's 100m Freestyle - S5 Heats\n🇬🇷
   Alexandros-Stylianos LERGIOS\n🇮🇹 Francesco BOCCIARDO\n🇨🇳 GUO
   Jincheng\n🇯🇵 HINATA Kaede\n🇪🇸 Luis HUERTA POZA\n🇲🇾 Muhammad Nur
@@ -30,10 +30,37 @@ SUMMARY:Men's 100m Freestyle - S5 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T090450Z-para-swimming-MENS-100M-BREASTSTROKE-SB4-HEATS
+DTSTAMP:20240902T090450Z
+DTSTART:20240902T090450Z
+DTEND:20240902T091519Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB4 Heats\n🇬🇷
+  Antonios TSAPATAKIS\n🇪🇸 Luis HUERTA POZA\n🇮🇹 Manuel Mateo
+  BORTUZZO\n🇩🇴 Marcos Miguel JIMENEZ SENCION\n🇨🇴 Miguel Angel RINCON
+  NARVAEZ\n🇲🇾 Muhammad Nur Syaiful ZULKAFLI\n🇦🇷 Nicolas RIVERO\n🇺🇦
+  Oleksandr KOMAROV\n🇪🇬 Zeyad KAHIL
+SUMMARY:Men's 100m Breaststroke - SB4 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T073845Z-para-swimming-MENS-50M-FREESTYLE-S5-HEATS
+DTSTAMP:20240905T073845Z
+DTSTART:20240905T073845Z
+DTEND:20240905T074600Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S5 Heats\n🇺🇸 Abbas
+  KARIMI\n🇬🇷 Alexandros-Stylianos LERGIOS\n🇮🇹 Francesco BOCCIARDO\n🇨🇳
+  GUO Jincheng\n🇯🇵 HINATA Kaede\n🇩🇴 Marcos Miguel JIMENEZ SENCION\n🇲🇾
+  Muhammad Nur Syaiful ZULKAFLI\n🇺🇦 Oleksandr KOMAROV\n🇧🇷 Samuel da
+  SILVA de OLIVEIRA\n🇨🇳 WANG Lichao\n🇨🇳 YUAN Weiyi\n🇺🇦 Yaroslav
+  SEMENENKO
+SUMMARY:Men's 50m Freestyle - S5 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T083409Z-para-swimming-MENS-100M-BACKSTROKE-S14-HEATS
 DTSTAMP:20240906T083409Z
 DTSTART:20240906T083409Z
-DTEND:20240906T084552Z
+DTEND:20240906T084518Z
 DESCRIPTION:Para Swimming - Men's 100m Backstroke - S14 Heats\n🇩🇰
   Alexander HILLHOUSE\n🇧🇷 Arthur XAVIER RIBEIRO\n🇦🇺 Benjamin
   HANCE\n🇧🇷 Gabriel BANDEIRA\n🇨🇴 Juan Esteban GARCIA SANCHEZ\n🇰🇷 LEE

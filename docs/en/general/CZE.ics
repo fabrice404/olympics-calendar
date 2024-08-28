@@ -51,7 +51,7 @@ BEGIN:VEVENT
 UID:20240829T093129Z-para-swimming-WOMENS-200M-FREESTYLE-S5-HEATS
 DTSTAMP:20240829T093129Z
 DTSTART:20240829T093129Z
-DTEND:20240829T095234Z
+DTEND:20240829T095154Z
 DESCRIPTION:Para Swimming - Women's 200m Freestyle - S5 Heats\n🇨🇿 Agata
   KOUPILOVA\n🇨🇦 Clemence PARE\n🇦🇷 Elizabeth NORIEGA\n🇧🇷 Esthefany
   RODRIGUES\n🇨🇦 Hannah OUELLETTE\n🇺🇦 Iryna POIDA\n🇲🇽 Karina Amayrani
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 UID:20240830T073905Z-para-swimming-WOMENS-100M-FREESTYLE-S5-HEATS
 DTSTAMP:20240830T073905Z
 DTSTART:20240830T073905Z
-DTEND:20240830T074849Z
+DTEND:20240830T074817Z
 DESCRIPTION:Para Swimming - Women's 100m Freestyle - S5 Heats\n🇨🇿 Agata
   KOUPILOVA\n🇦🇷 Elizabeth NORIEGA\n🇧🇷 Esthefany RODRIGUES\n🇩🇪 Gina
   BOETTCHER\n🇺🇦 Iryna POIDA\n🇨🇳 LIU Yu\n🇨🇳 LU Dong\n🇮🇹 Monica
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 UID:20240830T084609Z-para-swimming-MENS-100M-BREASTSTROKE-SB9-HEATS
 DTSTAMP:20240830T084609Z
 DTSTART:20240830T084609Z
-DTEND:20240830T085407Z
+DTEND:20240830T085335Z
 DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB9 Heats\n🇨🇦
   Fernando LU\n🇳🇴 Fredrik SOLBERG\n🇫🇷 Hector DENAYER\n🇧🇷 Lucas
   Lamente MOZELA\n🇩🇪 Maurice WETEKAM\n🇮🇹 Riccardo MENCIOTTI\n🇧🇷 Ruan
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 UID:20240831T081421Z-para-swimming-WOMENS-100M-BACKSTROKE-S8-HEATS
 DTSTAMP:20240831T081421Z
 DTSTART:20240831T081421Z
-DTEND:20240831T082309Z
+DTEND:20240831T082243Z
 DESCRIPTION:Para Swimming - Women's 100m Backstroke - S8 Heats\n🇨🇿
   Alexandra BORSKA\n🇬🇧 Alice TAI\n🇦🇺 Ella JONES\n🇺🇸 Jessica
   LONG\n🇨🇳 LU Weiyuan\n🇨🇴 Laura Carolina GONZALEZ RODRIGUEZ\n🇩🇪 Mira
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 UID:20240831T093843Z-para-swimming-MENS-50M-FREESTYLE-S11-HEATS
 DTSTAMP:20240831T093843Z
 DTSTART:20240831T093843Z
-DTEND:20240831T094634Z
+DTEND:20240831T094608Z
 DESCRIPTION:Para Swimming - Men's 50m Freestyle - S11 Heats\n🇨🇴 Brayan
   Mauricio TRIANA HERRERA\n🇺🇦 Danylo CHUFAROV\n🇨🇿 David
   KRATOCHVIL\n🇱🇹 Edgaras MATAKAS\n🇨🇳 HUA Dongdong\n🇪🇸 Jose Ramon
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 UID:20240901T080349Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM8-HEATS
 DTSTAMP:20240901T080349Z
 DTSTART:20240901T080349Z
-DTEND:20240901T081528Z
+DTEND:20240901T081500Z
 DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM8
   Heats\n🇬🇧 Alice TAI\n🇬🇧 Brock WHISTON\n🇨🇳 JIANG Shengnan\n🇺🇸
   Jessica LONG\n🇨🇳 LU Weiyuan\n🇨🇴 Laura Carolina GONZALEZ
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 UID:20240901T081528Z-para-swimming-MENS-100M-BACKSTROKE-S11-HEATS
 DTSTAMP:20240901T081528Z
 DTSTART:20240901T081528Z
-DTEND:20240901T082514Z
+DTEND:20240901T082454Z
 DESCRIPTION:Para Swimming - Men's 100m Backstroke - S11 Heats\n🇺🇦 Danylo
   CHUFAROV\n🇨🇿 David KRATOCHVIL\n🇨🇳 HUA Dongdong\n🇮🇸 Mar
   GUNNARSSON\n🇵🇹 Marco MENESES\n🇺🇦 Mykhailo SERBIN\n🇳🇱 Rogier
@@ -245,10 +245,21 @@ SUMMARY:P3 - Mixed 25m Pistol SH1 Qualification Precision
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T094617Z-para-swimming-MIXED-4X100M-MEDLEY-RELAY-34-POINTS-HEAT
+DTSTAMP:20240902T094617Z
+DTSTART:20240902T094617Z
+DTEND:20240902T100101Z
+DESCRIPTION:Para Swimming - Mixed 4x100m Medley Relay - 34 Points
+  Heats\n🇦🇺 AUS\n🇧🇷 BRA\n🇨🇦 CAN\n🇨🇳 CHN\n🇨🇿 CZE\n🇫🇷 FRA\n🇮🇹
+  ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇪🇸 ESP\n🇺🇸 USA
+SUMMARY:Mixed 4x100m Medley Relay - 34 Points Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240903T083008Z-para-swimming-WOMENS-50M-BACKSTROKE-S5-HEATS
 DTSTAMP:20240903T083008Z
 DTSTART:20240903T083008Z
-DTEND:20240903T083853Z
+DTEND:20240903T083821Z
 DESCRIPTION:Para Swimming - Women's 50m Backstroke - S5 Heats\n🇨🇿 Agata
   KOUPILOVA\n🇵🇭 Angel Mae OTOM\n🇦🇷 Elizabeth NORIEGA\n🇨🇴 Gabriela
   OVIEDO RUEDA\n🇨🇳 HE Shenggao\n🇺🇦 Iryna POIDA\n🇲🇽 Karina Amayrani
@@ -262,7 +273,7 @@ BEGIN:VEVENT
 UID:20240903T092557Z-para-swimming-MENS-100M-BUTTERFLY-S10-HEATS
 DTSTAMP:20240903T092557Z
 DTSTART:20240903T092557Z
-DTEND:20240903T093324Z
+DTEND:20240903T093258Z
 DESCRIPTION:Para Swimming - Men's 100m Butterfly - S10 Heats\n🇵🇱 Alan
   OGORZALEK\n🇦🇺 Alex SAFFY\n🇨🇦 Alexander ELLIOT\n🇦🇺 Col PEARSE\n🇪🇸
   David LEVECQ\n🇨🇦 Fernando LU\n🇺🇦 Ihor NIMCHENKO\n🇯🇵 MINAI
@@ -306,7 +317,7 @@ BEGIN:VEVENT
 UID:20240904T082030Z-para-swimming-WOMENS-400M-FREESTYLE-S8-HEATS
 DTSTAMP:20240904T082030Z
 DTSTART:20240904T082030Z
-DTEND:20240904T083715Z
+DTEND:20240904T083645Z
 DESCRIPTION:Para Swimming - Women's 400m Freestyle - S8 Heats\n🇨🇦 Abi
   TRIPP\n🇨🇿 Alexandra BORSKA\n🇬🇧 Alice TAI\n🇬🇧 Brock WHISTON\n🇨🇳
   CHEN Shuling\n🇦🇺 Ella JONES\n🇺🇸 Jessica LONG\n🇩🇪 Mira Jeanne
@@ -317,10 +328,50 @@ SUMMARY:Women's 400m Freestyle - S8 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T073000Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB7-HEATS
+DTSTAMP:20240905T073000Z
+DTSTART:20240905T073000Z
+DTEND:20240905T073825Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB7 Heats\n🇨🇦 Abi
+  TRIPP\n🇨🇳 CHEN Shuling\n🇨🇴 Gisell Natalia PRADA PACHON\n🇬🇧 Iona
+  WINNIFRITH\n🇪🇸 Nahia ZUDAIRE BORREZO\n🇲🇽 Naomi SOMELLERA
+  MANDUJANO\n🇲🇽 Natalia Nicole GONZALEZ GUEMEZ\n🇨🇦 Tess ROUTLIFFE\n🇨🇿
+  Vendula DUSKOVA
+SUMMARY:Women's 100m Breaststroke - SB7 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T080945Z-para-swimming-MENS-100M-BREASTSTROKE-SB11-HEATS
+DTSTAMP:20240905T080945Z
+DTSTART:20240905T080945Z
+DTEND:20240905T081859Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB11 Heats\n🇰🇿 Amir
+  MURATBEKOV\n🇨🇴 Brayan Mauricio TRIANA HERRERA\n🇺🇦 Danylo
+  CHUFAROV\n🇨🇿 David KRATOCHVIL\n🇱🇹 Edgaras MATAKAS\n🇪🇸 Jose Ramon
+  CANTERO ELVIRA\n🇨🇴 Leider Albeiro LEMUS ROJAS\n🇳🇱 Rogier
+  DORSMAN\n🇨🇳 YANG Bozun
+SUMMARY:Men's 100m Breaststroke - SB11 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T082931Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM9-HEATS
+DTSTAMP:20240905T082931Z
+DTSTART:20240905T082931Z
+DTEND:20240905T083921Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM9 Heats\n🇪🇸
+  Ariel Enrique SCHRENCK MARTINEZ\n🇫🇷 Hector DENAYER\n🇵🇱 Igor
+  HREHOROWICZ\n🇪🇸 Jacobo GARRIDO BRUN\n🇪🇸 Jian Wang ESCANILLA
+  CANDIAL\n🇨🇿 Jonas KESNAR\n🇯🇵 KAWABUCHI Taiyo\n🇧🇷 Lucas Lamente
+  MOZELA\n🇩🇪 Maurice WETEKAM\n🇦🇺 Timothy HODGE\n🇫🇷 Ugo DIDIER\n🇨🇳
+  XIE Zhili
+SUMMARY:Men's 200m Individual Medley - SM9 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T081827Z-para-swimming-MENS-100M-BUTTERFLY-S9-HEATS
 DTSTAMP:20240906T081827Z
 DTSTART:20240906T081827Z
-DTEND:20240906T082603Z
+DTEND:20240906T082533Z
 DESCRIPTION:Para Swimming - Men's 100m Butterfly - S9 Heats\n🇮🇪 Barry
   McCLEMENTS\n🇦🇺 Brenden HALL\n🇮🇹 Federico MORLACCHI\n🇫🇷 Hector
   DENAYER\n🇵🇱 Igor HREHOROWICZ\n🇪🇸 Jacobo GARRIDO BRUN\n🇨🇿 Jonas
@@ -334,7 +385,7 @@ BEGIN:VEVENT
 UID:20240906T091924Z-para-swimming-MENS-100M-BUTTERFLY-S11-HEATS
 DTSTAMP:20240906T091924Z
 DTSTART:20240906T091924Z
-DTEND:20240906T092834Z
+DTEND:20240906T092814Z
 DESCRIPTION:Para Swimming - Men's 100m Butterfly - S11 Heats\n🇺🇦 Danylo
   CHUFAROV\n🇨🇿 David KRATOCHVIL\n🇨🇳 HUA Dongdong\n🇪🇸 Jose Ramon
   CANTERO ELVIRA\n🇯🇵 KIMURA Keiichi\n🇺🇦 Mykhailo SERBIN\n🇳🇱 Rogier
@@ -347,7 +398,7 @@ BEGIN:VEVENT
 UID:20240907T073000Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM10-HEATS
 DTSTAMP:20240907T073000Z
 DTSTART:20240907T073000Z
-DTEND:20240907T074018Z
+DTEND:20240907T073946Z
 DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM10 Heats\n🇵🇱
   Alan OGORZALEK\n🇦🇺 Alex SAFFY\n🇨🇦 Alexander ELLIOT\n🇳🇱 Bas
   TAKKEN\n🇦🇺 Col PEARSE\n🇨🇦 Fernando LU\n🇺🇦 Ihor NIMCHENKO\n🇯🇵
@@ -361,7 +412,7 @@ BEGIN:VEVENT
 UID:20240907T083831Z-para-swimming-MENS-50M-BACKSTROKE-S4-HEATS
 DTSTAMP:20240907T083831Z
 DTSTART:20240907T083831Z
-DTEND:20240907T084713Z
+DTEND:20240907T084645Z
 DESCRIPTION:Para Swimming - Men's 50m Backstroke - S4 Heats\n🇦🇹 Andreas
   ERNHOFER\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇮🇱 Ariel MALYAR\n🇨🇿
   Arnost PETRACEK\n🇳🇿 Cameron LESLIE\n🇫🇷 Dimitri GRANJUX\n🇺🇦 Dmytro
