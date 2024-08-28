@@ -4,6 +4,32 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/IND//EN
 X-WR-CALNAME:🇮🇳 India 🏅 | Paris 2024
 NAME:🇮🇳 India 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240830T080000Z-para-athletics-WOMENS-DISCUS-THROW-F55-FINAL
+DTSTAMP:20240830T080000Z
+DTSTART:20240830T080000Z
+DTEND:20240830T111500Z
+DESCRIPTION:Para Athletics - Women's Discus Throw - F55 Final\n🇨🇳 DONG
+  Feixia\n🇱🇻 Diana KRUMINA\n🇨🇴 Erica Maria CASTANO SALAZAR\n🇵🇦 Iveth
+  del Rosario VALDES ROMERO\n🇮🇳 Karam Jyoti KARAMJYOTI\n🇲🇱 Korotoumou
+  COULIBALY\n🇲🇽 Maria Guadalupe NAVARRO HERNANDEZ\n🇺🇿 Natalya
+  SEMYONOVA\n🇲🇦 Norelhouda EL KAOUI\n🇺🇿 Nurkhon KURBANOVA\n🇧🇭 Rooba
+  ALOMARI\n🇲🇽 Rosa Maria GUERRERO CAZARES\n🇮🇳 Sakshi KASANA
+SUMMARY:Women's Discus Throw - F55 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T111500Z-para-athletics-WOMENS-100M-T35-FINAL
+DTSTAMP:20240830T111500Z
+DTSTART:20240830T111500Z
+DTEND:20240830T112200Z
+DESCRIPTION:Para Athletics - Women's 100m - T35 Final\n🇮🇶 Fatimah
+  SUWAED\n🇨🇳 GUO Qianqian\n🇵🇱 Ingrid RENECKA\n🇩🇪 Isabelle
+  FOERDER\n🇵🇱 Jagoda KIBIL\n🇳🇱 Nienke TIMMER\n🇮🇳 Preethi PAL\n🇰🇿
+  Saltanat ABILKHASSYMKYZY\n🇨🇳 ZHOU Xia
+SUMMARY:Women's 100m - T35 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T185200Z-para-athletics-MENS-SHOT-PUT-F37-FINAL
 DTSTAMP:20240830T185200Z
 DTSTART:20240830T185200Z

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/MLI//EN
+X-WR-CALNAME:🇲🇱 Mali | Paris 2024
+NAME:🇲🇱 Mali | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
+SUMMARY:Paris 2024 - {{translate_openingCeremon}}
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T080000Z-para-athletics-WOMENS-DISCUS-THROW-F55-FINAL
+DTSTAMP:20240830T080000Z
+DTSTART:20240830T080000Z
+DTEND:20240830T111500Z
+DESCRIPTION:Para Athletics - Women's Discus Throw - F55 Final\n🇨🇳 DONG
+  Feixia\n🇱🇻 Diana KRUMINA\n🇨🇴 Erica Maria CASTANO SALAZAR\n🇵🇦 Iveth
+  del Rosario VALDES ROMERO\n🇮🇳 Karam Jyoti KARAMJYOTI\n🇲🇱 Korotoumou
+  COULIBALY\n🇲🇽 Maria Guadalupe NAVARRO HERNANDEZ\n🇺🇿 Natalya
+  SEMYONOVA\n🇲🇦 Norelhouda EL KAOUI\n🇺🇿 Nurkhon KURBANOVA\n🇧🇭 Rooba
+  ALOMARI\n🇲🇽 Rosa Maria GUERRERO CAZARES\n🇮🇳 Sakshi KASANA
+SUMMARY:Women's Discus Throw - F55 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing ceremony
+SUMMARY:Paris 2024 - Closing ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

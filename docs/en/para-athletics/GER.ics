@@ -4,6 +4,19 @@ PRODID:-//fabrice404//olympics-calendar//en/para-athletics/GER//EN
 X-WR-CALNAME:🇩🇪 Germany Para Athletics | Paris 2024
 NAME:🇩🇪 Germany Para Athletics | Paris 2024
 BEGIN:VEVENT
+UID:20240830T095000Z-para-athletics-WOMENS-5000M-T54-ROUND-1
+DTSTAMP:20240830T095000Z
+DTSTART:20240830T095000Z
+DTEND:20240830T103200Z
+DESCRIPTION:Para Athletics - Women's 5000m - T54 Round 1\n🇧🇷 Aline dos
+  SANTOS ROCHA\n🇨🇭 Catherine DEBRUNNER\n🇬🇧 Eden RAINBOW-COOPER\n🇺🇸
+  Jenna FESEMYER\n🇦🇺 Madison de ROZARIO\n🇨🇭 Manuela SCHAER\n🇩🇪 Merle
+  Marie MENJE\n🇨🇭 Patricia EACHUS\n🇮🇪 Shauna BOCQUET\n🇺🇸 Susannah
+  SCARONI\n🇨🇳 TIAN Yajuan\n🇧🇷 Vanessa Cristina de SOUZA
+SUMMARY:Women's 5000m - T54 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T105700Z-para-athletics-MENS-100M-T47-ROUND-1
 DTSTAMP:20240830T105700Z
 DTSTART:20240830T105700Z
@@ -17,6 +30,31 @@ DESCRIPTION:Para Athletics - Men's 100m - T47 Round 1\n🇲🇦 Aymane EL
   ISIDORIA\n🇺🇸 Rayven SAMPLE\n🇨🇳 WANG Hao\n🇧🇷 Washington JUNIOR\n🇬🇳
   Yamoussa SYLLA
 SUMMARY:Men's 100m - T47 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T111500Z-para-athletics-WOMENS-100M-T35-FINAL
+DTSTAMP:20240830T111500Z
+DTSTART:20240830T111500Z
+DTEND:20240830T112200Z
+DESCRIPTION:Para Athletics - Women's 100m - T35 Final\n🇮🇶 Fatimah
+  SUWAED\n🇨🇳 GUO Qianqian\n🇵🇱 Ingrid RENECKA\n🇩🇪 Isabelle
+  FOERDER\n🇵🇱 Jagoda KIBIL\n🇳🇱 Nienke TIMMER\n🇮🇳 Preethi PAL\n🇰🇿
+  Saltanat ABILKHASSYMKYZY\n🇨🇳 ZHOU Xia
+SUMMARY:Women's 100m - T35 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T181800Z-para-athletics-WOMENS-400M-T47-ROUND-1
+DTSTAMP:20240830T181800Z
+DTSTART:20240830T181800Z
+DTEND:20240830T183400Z
+DESCRIPTION:Para Athletics - Women's 400m - T47 Round 1\n🇧🇮 Adeline
+  MUSHIRANZIGO\n🇨🇱 Amanda CERNA\n🇨🇦 Amanda RUMMERY\n🇧🇷 Fernanda Yara
+  da SILVA\n🇩🇪 Jule ROSS\n🇬🇳 Kadiatou BANGOURA\n🇨🇳 LI Lu\n🇻🇪
+  Lisbeli Marina VERA ANDRADE\n🇧🇷 Maria Clara AUGUSTO da SILVA\n🇭🇺
+  Petra LUTERAN\n🇯🇵 TSUJI Sae\n🇦🇷 Teresita Daiana BRIOZZI
+SUMMARY:Women's 400m - T47 Round 1
 LOCATION:Stade de France
 END:VEVENT
 END:VCALENDAR
