@@ -510,6 +510,18 @@ SUMMARY: BRA 🇧🇷 - 🇮🇱 ISR
 LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T083400Z-para-athletics-MENS-100M-T12-ROUND-1
+DTSTAMP:20240830T083400Z
+DTSTART:20240830T083400Z
+DTEND:20240830T085800Z
+DESCRIPTION:Para Athletics - Men's 100m - T12 Round 1\n🇲🇻 Abdul Razzag
+  ABDUL SAMAD\n🇦🇷 Fernando VAZQUEZ\n🇿🇦 Jaco SMIT\n🇧🇷 Joeferson
+  MARINHO de OLIVEIRA\n🇧🇷 Kesley TEODORO\n🇧🇷 Marcos Vinicius de
+  OLIVEIRA\n🇲🇦 Mouncef BOUJA\n🇺🇸 Noah MALONE\n🇬🇧 Zachary SHAW
+SUMMARY:Men's 100m - T12 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T084609Z-para-swimming-MENS-100M-BREASTSTROKE-SB9-HEATS
 DTSTAMP:20240830T084609Z
 DTSTART:20240830T084609Z
@@ -597,6 +609,19 @@ DTEND:20240830T111000Z
 DESCRIPTION:Para Badminton - Women's Singles WH1 Group Play Stage - Group C
 SUMMARY: Chokyu YUKA 🇨🇦 - 🇧🇷 Daniele Torres SOUZA
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T103200Z-para-athletics-MENS-100M-T37-ROUND-1
+DTSTAMP:20240830T103200Z
+DTSTART:20240830T103200Z
+DTEND:20240830T104600Z
+DESCRIPTION:Para Athletics - Men's 100m - T37 Round 1\n🇸🇦 Ali
+  ALNAKHLI\n🇨🇴 Andres MALAMBO RACHEZ\n🇧🇷 Christian Gabriel LUIZ da
+  COSTA\n🇧🇷 Edson CAVALCANTE PINHEIRO\n🇺🇦 Mykola RAISKYI\n🇳🇦 Petrus
+  KARULI\n🇧🇷 Ricardo GOMES de MENDONCA\n🇮🇩 Saptoyogo PURNOMO\n🇫🇷
+  Valentin BERTRAND\n🇺🇦 Vladyslav ZAHREBELNYI
+SUMMARY:Men's 100m - T37 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T105000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-F-AR
