@@ -9,7 +9,7 @@ DTSTAMP:20240828T180000Z
 DTSTART:20240828T180000Z
 DTEND:20240828T210000Z
 DESCRIPTION:Paris 2024 - {{translate_openingCeremony}}
-SUMMARY:Paris 2024 - {{translate_openingCeremon}}
+SUMMARY:Paris 2024 - {{translate_openingCeremony}}
 LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
@@ -1839,8 +1839,8 @@ UID:20240908T190000Z-closing-ceremony
 DTSTAMP:20240908T190000Z
 DTSTART:20240908T190000Z
 DTEND:20240908T220000Z
-DESCRIPTION:Paris 2024 - Closing ceremony
-SUMMARY:Paris 2024 - Closing ceremony
+DESCRIPTION:Paris 2024 - {{translate_closingCeremony}}
+SUMMARY:Paris 2024 - {{translate_closingCeremony}}
 LOCATION:Stade de France, Saint-Denis
 END:VEVENT
 END:VCALENDAR
