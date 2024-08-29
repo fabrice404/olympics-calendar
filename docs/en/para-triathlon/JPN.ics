@@ -4,10 +4,22 @@ PRODID:-//fabrice404//olympics-calendar//en/para-triathlon/JPN//EN
 X-WR-CALNAME:🇯🇵 Japan Para Triathlon | Paris 2024
 NAME:🇯🇵 Japan Para Triathlon | Paris 2024
 BEGIN:VEVENT
-UID:20240901T063000Z-para-triathlon-WOMENS-PTS2
-DTSTAMP:20240901T063000Z
-DTSTART:20240901T063000Z
-DTEND:20240901T095500Z
+UID:20240901T061500Z-para-triathlon-MENS-PTWC
+DTSTAMP:20240901T061500Z
+DTSTART:20240901T061500Z
+DTEND:20240901T072500Z
+DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
+  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
+  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
+  Louis NOEL\n🇦🇺 Nic BEVERIDGE
+SUMMARY:Men's PTWC
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T073500Z-para-triathlon-WOMENS-PTS2
+DTSTAMP:20240901T073500Z
+DTSTART:20240901T073500Z
+DTEND:20240901T091500Z
 DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
   FRANCIS\n🇫🇷 Cecile SABOUREAU\n🇻🇪 Emma Juaisca RODRIGUEZ
   RODRIGUEZ\n🇯🇵 HATA Yukako\n🇺🇸 Hailey DANZ\n🇺🇸 Melissa
@@ -17,41 +29,29 @@ SUMMARY:Women's PTS2
 LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T081500Z-para-triathlon-MENS-PTS4
-DTSTAMP:20240901T081500Z
-DTSTART:20240901T081500Z
-DTEND:20240901T095500Z
-DESCRIPTION:Para Triathlon - Men's PTS4\n🇪🇸 Alejandro SANCHEZ
-  PALOMERO\n🇫🇷 Alexis HANQUINQUANT\n🇭🇷 Antonio FRANKO\n🇺🇸 Carson
-  CLOUGH\n🇺🇸 Eric McELVENNY\n🇬🇧 Finley JAKES\n🇫🇷 Gregoire
-  BERTHON\n🇦🇺 Jeremy PEACOCK\n🇦🇺 Liam TWOMEY\n🇬🇧 Michael TAYLOR\n🇪🇸
-  Nil RIUDAVETS VICTORY\n🇫🇷 Pierre-Antoine BAELE\n🇯🇵 UDA Hideki
-SUMMARY:Men's PTS4
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240902T061500Z-para-triathlon-MENS-PTWC
-DTSTAMP:20240902T061500Z
-DTSTART:20240902T061500Z
-DTEND:20240902T093500Z
-DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
-  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
-  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
-  Louis NOEL\n🇦🇺 Nic BEVERIDGE
-SUMMARY:Men's PTWC
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240902T080000Z-para-triathlon-MENS-PTVI
-DTSTAMP:20240902T080000Z
-DTSTART:20240902T080000Z
-DTEND:20240902T093500Z
+UID:20240901T100000Z-para-triathlon-MENS-PTVI
+DTSTAMP:20240901T100000Z
+DTSTART:20240901T100000Z
+DTEND:20240901T110500Z
 DESCRIPTION:Para Triathlon - Men's PTVI\n🇫🇷 Antoine PEREL\n🇬🇧 Dave
   ELLIS\n🇪🇸 Hector CATALA LAPARRA\n🇪🇸 Jose Luis GARCIA SERRANO\n🇺🇸
   Kyle COON\n🇷🇸 Lazar FILIPOVIC\n🇵🇱 Lukasz WIETECKI\n🇬🇧 Oscar
   KELLY\n🇺🇸 Owen CRAVENS\n🇦🇺 Sam HARDING\n🇫🇷 Thibaut RIGAUDEAU\n🇯🇵
   YONEOKA Satoru
 SUMMARY:Men's PTVI
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T102500Z-para-triathlon-MENS-PTS4
+DTSTAMP:20240901T102500Z
+DTSTART:20240901T102500Z
+DTEND:20240901T113500Z
+DESCRIPTION:Para Triathlon - Men's PTS4\n🇪🇸 Alejandro SANCHEZ
+  PALOMERO\n🇫🇷 Alexis HANQUINQUANT\n🇭🇷 Antonio FRANKO\n🇺🇸 Carson
+  CLOUGH\n🇺🇸 Eric McELVENNY\n🇬🇧 Finley JAKES\n🇫🇷 Gregoire
+  BERTHON\n🇦🇺 Jeremy PEACOCK\n🇦🇺 Liam TWOMEY\n🇬🇧 Michael TAYLOR\n🇪🇸
+  Nil RIUDAVETS VICTORY\n🇫🇷 Pierre-Antoine BAELE\n🇯🇵 UDA Hideki
+SUMMARY:Men's PTS4
 LOCATION:Pont Alexandre III
 END:VEVENT
 END:VCALENDAR

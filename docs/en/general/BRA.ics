@@ -1223,6 +1223,18 @@ SUMMARY: CAN 🇨🇦 - 🇧🇷 BRA
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T062000Z-para-triathlon-WOMENS-PTWC
+DTSTAMP:20240901T062000Z
+DTSTART:20240901T062000Z
+DTEND:20240901T074000Z
+DESCRIPTION:Para Triathlon - Women's PTWC\n🇲🇽 Brenda OSNAYA ALVAREZ\n🇺🇸
+  Emelia PERRY\n🇪🇸 Eva Maria MORAL PEDRERO\n🇧🇷 Jessica FERREIRA\n🇺🇸
+  Kendall GRETSCH\n🇦🇺 Lauren PARKER\n🇨🇦 Leanne TAYLOR\n🇬🇧 Melissa
+  NICHOLLS\n🇫🇷 Mona FRANCIS
+SUMMARY:Women's PTWC
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T073815Z-para-swimming-MENS-100M-FREESTYLE-S10-HEATS
 DTSTAMP:20240901T073815Z
 DTSTART:20240901T073815Z
@@ -1243,18 +1255,6 @@ DTEND:20240901T082500Z
 DESCRIPTION:Para Archery - Men's Individual W1 1/8 Elimination
 SUMMARY: Eugenio SANTANA FRANCO 🇧🇷 - 🇺🇸 Jason TABANSKY
 LOCATION:Invalides
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T081000Z-para-triathlon-MENS-PTS5
-DTSTAMP:20240901T081000Z
-DTSTART:20240901T081000Z
-DTEND:20240901T095500Z
-DESCRIPTION:Para Triathlon - Men's PTS5\n🇭🇺 Bence MOCSARI\n🇺🇸 Chris
-  HAMMER\n🇦🇺 David BRYANT\n🇵🇹 Filipe MARQUES\n🇦🇺 Jack HOWELL\n🇪🇸
-  Jairo RUIZ LOPEZ\n🇩🇪 Martin SCHULZ\n🇧🇷 Ronan CORDEIRO\n🇨🇦 Stefan
-  DANIEL\n🇹🇷 Ugurcan OZER
-SUMMARY:Men's PTS5
-LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T081528Z-para-swimming-MENS-100M-BACKSTROKE-S11-HEATS
@@ -1353,6 +1353,31 @@ SUMMARY: IR Iran 🇮🇷 - 🇧🇷 Brazil
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T100500Z-para-triathlon-WOMENS-PTVI
+DTSTAMP:20240901T100500Z
+DTSTART:20240901T100500Z
+DTEND:20240901T113000Z
+DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
+  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
+  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
+  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
+  RODRIGUEZ
+SUMMARY:Women's PTVI
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T102000Z-para-triathlon-MENS-PTS5
+DTSTAMP:20240901T102000Z
+DTSTART:20240901T102000Z
+DTEND:20240901T113000Z
+DESCRIPTION:Para Triathlon - Men's PTS5\n🇭🇺 Bence MOCSARI\n🇺🇸 Chris
+  HAMMER\n🇦🇺 David BRYANT\n🇵🇹 Filipe MARQUES\n🇦🇺 Jack HOWELL\n🇪🇸
+  Jairo RUIZ LOPEZ\n🇩🇪 Martin SCHULZ\n🇧🇷 Ronan CORDEIRO\n🇨🇦 Stefan
+  DANIEL\n🇹🇷 Ugurcan OZER
+SUMMARY:Men's PTS5
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T163000Z-blind-football-MENS-PRELIMINARY-ROUND-GROUP-A-BRA-TUR
 DTSTAMP:20240901T163000Z
 DTSTART:20240901T163000Z
@@ -1370,18 +1395,6 @@ DESCRIPTION:Para Swimming - Mixed 4x100m Freestyle Relay - S14 Final\n🇦🇺
   AUS\n🇧🇷 BRA\n🇬🇧 GBR\n🇭🇰 Hong Kong, China\n🇯🇵 JPN
 SUMMARY:Mixed 4x100m Freestyle Relay - S14 Final
 LOCATION:Paris La Defense Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240902T062500Z-para-triathlon-WOMENS-PTWC
-DTSTAMP:20240902T062500Z
-DTSTART:20240902T062500Z
-DTEND:20240902T093500Z
-DESCRIPTION:Para Triathlon - Women's PTWC\n🇲🇽 Brenda OSNAYA ALVAREZ\n🇺🇸
-  Emelia PERRY\n🇪🇸 Eva Maria MORAL PEDRERO\n🇧🇷 Jessica FERREIRA\n🇺🇸
-  Kendall GRETSCH\n🇦🇺 Lauren PARKER\n🇨🇦 Leanne TAYLOR\n🇬🇧 Melissa
-  NICHOLLS\n🇫🇷 Mona FRANCIS
-SUMMARY:Women's PTWC
-LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T074000Z-para-archery-MIXED-TEAM-W1-QUARTERFINAL-BRA-CZE
@@ -1406,19 +1419,6 @@ DESCRIPTION:Para Swimming - Men's 50m Freestyle - S9 Heats\n🇧🇧 Antwahn
   DIDIER\n🇨🇳 XIE Zhili\n🇺🇦 Yurii BOZHYNSKYI
 SUMMARY:Men's 50m Freestyle - S9 Heats
 LOCATION:Paris La Defense Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240902T081000Z-para-triathlon-WOMENS-PTVI
-DTSTAMP:20240902T081000Z
-DTSTART:20240902T081000Z
-DTEND:20240902T093500Z
-DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
-  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
-  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
-  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
-  RODRIGUEZ
-SUMMARY:Women's PTVI
-LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T082309Z-para-swimming-WOMENS-50M-BACKSTROKE-S3-HEATS

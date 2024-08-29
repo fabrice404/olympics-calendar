@@ -789,40 +789,27 @@ SUMMARY:Men's 50m Backstroke - S1 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T061500Z-para-triathlon-MENS-PTS3
-DTSTAMP:20240901T061500Z
-DTSTART:20240901T061500Z
-DTEND:20240901T095500Z
+UID:20240901T062000Z-para-triathlon-WOMENS-PTWC
+DTSTAMP:20240901T062000Z
+DTSTART:20240901T062000Z
+DTEND:20240901T074000Z
+DESCRIPTION:Para Triathlon - Women's PTWC\n🇲🇽 Brenda OSNAYA ALVAREZ\n🇺🇸
+  Emelia PERRY\n🇪🇸 Eva Maria MORAL PEDRERO\n🇧🇷 Jessica FERREIRA\n🇺🇸
+  Kendall GRETSCH\n🇦🇺 Lauren PARKER\n🇨🇦 Leanne TAYLOR\n🇬🇧 Melissa
+  NICHOLLS\n🇫🇷 Mona FRANCIS
+SUMMARY:Women's PTWC
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T072500Z-para-triathlon-MENS-PTS3
+DTSTAMP:20240901T072500Z
+DTSTART:20240901T072500Z
+DTEND:20240901T085000Z
 DESCRIPTION:Para Triathlon - Men's PTS3\n🇫🇷 Cedric DENUZIERE\n🇪🇸 Daniel
   MOLINA\n🇪🇸 Diego LARDON FERRER\n🇬🇧 Henry URAND\n🇦🇺 Justin
   GODFREY\n🇰🇷 KIM Hwang Tae\n🇩🇪 Max GELHAAR\n🇫🇷 Michael HERTER\n🇳🇱
   Nico van der BURGT
 SUMMARY:Men's PTS3
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T062000Z-para-triathlon-MENS-PTS2
-DTSTAMP:20240901T062000Z
-DTSTART:20240901T062000Z
-DTEND:20240901T095500Z
-DESCRIPTION:Para Triathlon - Men's PTS2\n🇫🇷 Geoffrey WERSY\n🇮🇹 Gianluca
-  VALORI\n🇨🇴 Juan Esteban PATINO GIRALDO\n🇫🇷 Jules RIBSTEIN\n🇪🇸
-  Lionel MORALES\n🇺🇸 Mark BARR\n🇳🇱 Maurits MORSINK\n🇺🇸 Mohamed
-  LAHNA\n🇦🇺 Thomas GOODMAN\n🇧🇪 Wim de PAEPE
-SUMMARY:Men's PTS2
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T063000Z-para-triathlon-WOMENS-PTS2
-DTSTAMP:20240901T063000Z
-DTSTART:20240901T063000Z
-DTEND:20240901T095500Z
-DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
-  FRANCIS\n🇫🇷 Cecile SABOUREAU\n🇻🇪 Emma Juaisca RODRIGUEZ
-  RODRIGUEZ\n🇯🇵 HATA Yukako\n🇺🇸 Hailey DANZ\n🇺🇸 Melissa
-  STOCKWELL\n🇩🇪 Neele LUDWIG\n🇪🇸 Rakel MATEO URIARTE\n🇮🇹 Veronica
-  Yoko PLEBANI
-SUMMARY:Women's PTS2
 LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
@@ -845,6 +832,31 @@ DESCRIPTION:Shooting Para Sport - R3 - Mixed 10m Air Rifle Prone SH1
   CHERNOY\n🇨🇳 ZHONG Yixin
 SUMMARY:R3 - Mixed 10m Air Rifle Prone SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T073000Z-para-triathlon-MENS-PTS2
+DTSTAMP:20240901T073000Z
+DTSTART:20240901T073000Z
+DTEND:20240901T085500Z
+DESCRIPTION:Para Triathlon - Men's PTS2\n🇫🇷 Geoffrey WERSY\n🇮🇹 Gianluca
+  VALORI\n🇨🇴 Juan Esteban PATINO GIRALDO\n🇫🇷 Jules RIBSTEIN\n🇪🇸
+  Lionel MORALES\n🇺🇸 Mark BARR\n🇳🇱 Maurits MORSINK\n🇺🇸 Mohamed
+  LAHNA\n🇦🇺 Thomas GOODMAN\n🇧🇪 Wim de PAEPE
+SUMMARY:Men's PTS2
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T073500Z-para-triathlon-WOMENS-PTS2
+DTSTAMP:20240901T073500Z
+DTSTART:20240901T073500Z
+DTEND:20240901T091500Z
+DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
+  FRANCIS\n🇫🇷 Cecile SABOUREAU\n🇻🇪 Emma Juaisca RODRIGUEZ
+  RODRIGUEZ\n🇯🇵 HATA Yukako\n🇺🇸 Hailey DANZ\n🇺🇸 Melissa
+  STOCKWELL\n🇩🇪 Neele LUDWIG\n🇪🇸 Rakel MATEO URIARTE\n🇮🇹 Veronica
+  Yoko PLEBANI
+SUMMARY:Women's PTS2
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T073815Z-para-swimming-MENS-100M-FREESTYLE-S10-HEATS
@@ -885,57 +897,6 @@ DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM8
   NOVINA\n🇨🇿 Vendula DUSKOVA\n🇮🇹 Xenia Francesca PALAZZO\n🇨🇳 ZHU Hui
 SUMMARY:Women's 200m Individual Medley - SM8 Heats
 LOCATION:Paris La Defense Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T081000Z-para-triathlon-MENS-PTS5
-DTSTAMP:20240901T081000Z
-DTSTART:20240901T081000Z
-DTEND:20240901T095500Z
-DESCRIPTION:Para Triathlon - Men's PTS5\n🇭🇺 Bence MOCSARI\n🇺🇸 Chris
-  HAMMER\n🇦🇺 David BRYANT\n🇵🇹 Filipe MARQUES\n🇦🇺 Jack HOWELL\n🇪🇸
-  Jairo RUIZ LOPEZ\n🇩🇪 Martin SCHULZ\n🇧🇷 Ronan CORDEIRO\n🇨🇦 Stefan
-  DANIEL\n🇹🇷 Ugurcan OZER
-SUMMARY:Men's PTS5
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T081500Z-para-triathlon-MENS-PTS4
-DTSTAMP:20240901T081500Z
-DTSTART:20240901T081500Z
-DTEND:20240901T095500Z
-DESCRIPTION:Para Triathlon - Men's PTS4\n🇪🇸 Alejandro SANCHEZ
-  PALOMERO\n🇫🇷 Alexis HANQUINQUANT\n🇭🇷 Antonio FRANKO\n🇺🇸 Carson
-  CLOUGH\n🇺🇸 Eric McELVENNY\n🇬🇧 Finley JAKES\n🇫🇷 Gregoire
-  BERTHON\n🇦🇺 Jeremy PEACOCK\n🇦🇺 Liam TWOMEY\n🇬🇧 Michael TAYLOR\n🇪🇸
-  Nil RIUDAVETS VICTORY\n🇫🇷 Pierre-Antoine BAELE\n🇯🇵 UDA Hideki
-SUMMARY:Men's PTS4
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T082000Z-para-triathlon-WOMENS-PTS5
-DTSTAMP:20240901T082000Z
-DTSTART:20240901T082000Z
-DTEND:20240901T095500Z
-DESCRIPTION:Para Triathlon - Women's PTS5\n🇺🇦 Alisa KOLPAKCHY\n🇪🇸
-  Andrea MIGUELEZ RANZ\n🇬🇧 Claire CASHMORE\n🇺🇸 Grace NORMAN\n🇫🇷
-  Gwladys LEMOUSSU\n🇨🇦 Kamylle FRENETTE\n🇪🇪 Laura-Liis JUURSALU\n🇬🇧
-  Lauren STEADMAN\n🇵🇱 Marta DZIECIATKOWSKA\n🇵🇱 Monika BELCZEWSKA
-SUMMARY:Women's PTS5
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T082500Z-para-triathlon-WOMENS-PTS4
-DTSTAMP:20240901T082500Z
-DTSTART:20240901T082500Z
-DTEND:20240901T095500Z
-DESCRIPTION:Para Triathlon - Women's PTS4\n🇫🇷 Camille SENECLAUZE\n🇮🇪
-  Cassie CAVA\n🇫🇷 Elise MARC\n🇩🇪 Elke van ENGELEN\n🇺🇸 Emma
-  MEYERS\n🇦🇺 Grace BRIMELOW\n🇬🇧 Hannah MOORE\n🇺🇸 Kelly
-  ELMLINGER\n🇲🇽 Kenia Yesenia VILLALOBOS VARGAS\n🇿🇦 Kirsty WEIR\n🇪🇸
-  Marta FRANCES GOMEZ\n🇬🇧 Megan RICHTER\n🇺🇸 Rachel WATTS\n🇦🇺 Sally
-  PILBEAM
-SUMMARY:Women's PTS4
-LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T083527Z-para-swimming-MENS-150M-INDIVIDUAL-MEDLEY-SM4-HEATS
@@ -999,6 +960,83 @@ SUMMARY:R5 - Mixed 10m Air Rifle Prone SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T100000Z-para-triathlon-MENS-PTVI
+DTSTAMP:20240901T100000Z
+DTSTART:20240901T100000Z
+DTEND:20240901T110500Z
+DESCRIPTION:Para Triathlon - Men's PTVI\n🇫🇷 Antoine PEREL\n🇬🇧 Dave
+  ELLIS\n🇪🇸 Hector CATALA LAPARRA\n🇪🇸 Jose Luis GARCIA SERRANO\n🇺🇸
+  Kyle COON\n🇷🇸 Lazar FILIPOVIC\n🇵🇱 Lukasz WIETECKI\n🇬🇧 Oscar
+  KELLY\n🇺🇸 Owen CRAVENS\n🇦🇺 Sam HARDING\n🇫🇷 Thibaut RIGAUDEAU\n🇯🇵
+  YONEOKA Satoru
+SUMMARY:Men's PTVI
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T100500Z-para-triathlon-WOMENS-PTVI
+DTSTAMP:20240901T100500Z
+DTSTART:20240901T100500Z
+DTEND:20240901T113000Z
+DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
+  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
+  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
+  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
+  RODRIGUEZ
+SUMMARY:Women's PTVI
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T102000Z-para-triathlon-MENS-PTS5
+DTSTAMP:20240901T102000Z
+DTSTART:20240901T102000Z
+DTEND:20240901T113000Z
+DESCRIPTION:Para Triathlon - Men's PTS5\n🇭🇺 Bence MOCSARI\n🇺🇸 Chris
+  HAMMER\n🇦🇺 David BRYANT\n🇵🇹 Filipe MARQUES\n🇦🇺 Jack HOWELL\n🇪🇸
+  Jairo RUIZ LOPEZ\n🇩🇪 Martin SCHULZ\n🇧🇷 Ronan CORDEIRO\n🇨🇦 Stefan
+  DANIEL\n🇹🇷 Ugurcan OZER
+SUMMARY:Men's PTS5
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T102500Z-para-triathlon-MENS-PTS4
+DTSTAMP:20240901T102500Z
+DTSTART:20240901T102500Z
+DTEND:20240901T113500Z
+DESCRIPTION:Para Triathlon - Men's PTS4\n🇪🇸 Alejandro SANCHEZ
+  PALOMERO\n🇫🇷 Alexis HANQUINQUANT\n🇭🇷 Antonio FRANKO\n🇺🇸 Carson
+  CLOUGH\n🇺🇸 Eric McELVENNY\n🇬🇧 Finley JAKES\n🇫🇷 Gregoire
+  BERTHON\n🇦🇺 Jeremy PEACOCK\n🇦🇺 Liam TWOMEY\n🇬🇧 Michael TAYLOR\n🇪🇸
+  Nil RIUDAVETS VICTORY\n🇫🇷 Pierre-Antoine BAELE\n🇯🇵 UDA Hideki
+SUMMARY:Men's PTS4
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T103500Z-para-triathlon-WOMENS-PTS5
+DTSTAMP:20240901T103500Z
+DTSTART:20240901T103500Z
+DTEND:20240901T120000Z
+DESCRIPTION:Para Triathlon - Women's PTS5\n🇺🇦 Alisa KOLPAKCHY\n🇪🇸
+  Andrea MIGUELEZ RANZ\n🇬🇧 Claire CASHMORE\n🇺🇸 Grace NORMAN\n🇫🇷
+  Gwladys LEMOUSSU\n🇨🇦 Kamylle FRENETTE\n🇪🇪 Laura-Liis JUURSALU\n🇬🇧
+  Lauren STEADMAN\n🇵🇱 Marta DZIECIATKOWSKA\n🇵🇱 Monika BELCZEWSKA
+SUMMARY:Women's PTS5
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T104000Z-para-triathlon-WOMENS-PTS4
+DTSTAMP:20240901T104000Z
+DTSTART:20240901T104000Z
+DTEND:20240901T122000Z
+DESCRIPTION:Para Triathlon - Women's PTS4\n🇫🇷 Camille SENECLAUZE\n🇮🇪
+  Cassie CAVA\n🇫🇷 Elise MARC\n🇩🇪 Elke van ENGELEN\n🇺🇸 Emma
+  MEYERS\n🇦🇺 Grace BRIMELOW\n🇬🇧 Hannah MOORE\n🇺🇸 Kelly
+  ELMLINGER\n🇲🇽 Kenia Yesenia VILLALOBOS VARGAS\n🇿🇦 Kirsty WEIR\n🇪🇸
+  Marta FRANCES GOMEZ\n🇬🇧 Megan RICHTER\n🇺🇸 Rachel WATTS\n🇦🇺 Sally
+  PILBEAM
+SUMMARY:Women's PTS4
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T161500Z-wheelchair-basketball-MENS-PRELIMINARY-ROUND-GROUP-B-N
 DTSTAMP:20240901T161500Z
 DTSTART:20240901T161500Z
@@ -1017,31 +1055,6 @@ SUMMARY: ESP 🇪🇸 - 🇨🇦 CAN
 LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240902T062500Z-para-triathlon-WOMENS-PTWC
-DTSTAMP:20240902T062500Z
-DTSTART:20240902T062500Z
-DTEND:20240902T093500Z
-DESCRIPTION:Para Triathlon - Women's PTWC\n🇲🇽 Brenda OSNAYA ALVAREZ\n🇺🇸
-  Emelia PERRY\n🇪🇸 Eva Maria MORAL PEDRERO\n🇧🇷 Jessica FERREIRA\n🇺🇸
-  Kendall GRETSCH\n🇦🇺 Lauren PARKER\n🇨🇦 Leanne TAYLOR\n🇬🇧 Melissa
-  NICHOLLS\n🇫🇷 Mona FRANCIS
-SUMMARY:Women's PTWC
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240902T080000Z-para-triathlon-MENS-PTVI
-DTSTAMP:20240902T080000Z
-DTSTART:20240902T080000Z
-DTEND:20240902T093500Z
-DESCRIPTION:Para Triathlon - Men's PTVI\n🇫🇷 Antoine PEREL\n🇬🇧 Dave
-  ELLIS\n🇪🇸 Hector CATALA LAPARRA\n🇪🇸 Jose Luis GARCIA SERRANO\n🇺🇸
-  Kyle COON\n🇷🇸 Lazar FILIPOVIC\n🇵🇱 Lukasz WIETECKI\n🇬🇧 Oscar
-  KELLY\n🇺🇸 Owen CRAVENS\n🇦🇺 Sam HARDING\n🇫🇷 Thibaut RIGAUDEAU\n🇯🇵
-  YONEOKA Satoru
-SUMMARY:Men's PTVI
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240902T080344Z-para-swimming-MENS-50M-FREESTYLE-S9-HEATS
 DTSTAMP:20240902T080344Z
 DTSTART:20240902T080344Z
@@ -1055,19 +1068,6 @@ DESCRIPTION:Para Swimming - Men's 50m Freestyle - S9 Heats\n🇧🇧 Antwahn
   DIDIER\n🇨🇳 XIE Zhili\n🇺🇦 Yurii BOZHYNSKYI
 SUMMARY:Men's 50m Freestyle - S9 Heats
 LOCATION:Paris La Defense Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240902T081000Z-para-triathlon-WOMENS-PTVI
-DTSTAMP:20240902T081000Z
-DTSTART:20240902T081000Z
-DTEND:20240902T093500Z
-DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
-  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
-  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
-  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
-  RODRIGUEZ
-SUMMARY:Women's PTVI
-LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T081320Z-para-swimming-MENS-50M-BACKSTROKE-S3-HEATS

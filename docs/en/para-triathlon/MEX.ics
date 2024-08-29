@@ -4,10 +4,22 @@ PRODID:-//fabrice404//olympics-calendar//en/para-triathlon/MEX//EN
 X-WR-CALNAME:🇲🇽 Mexico Para Triathlon | Paris 2024
 NAME:🇲🇽 Mexico Para Triathlon | Paris 2024
 BEGIN:VEVENT
-UID:20240901T082500Z-para-triathlon-WOMENS-PTS4
-DTSTAMP:20240901T082500Z
-DTSTART:20240901T082500Z
-DTEND:20240901T095500Z
+UID:20240901T062000Z-para-triathlon-WOMENS-PTWC
+DTSTAMP:20240901T062000Z
+DTSTART:20240901T062000Z
+DTEND:20240901T074000Z
+DESCRIPTION:Para Triathlon - Women's PTWC\n🇲🇽 Brenda OSNAYA ALVAREZ\n🇺🇸
+  Emelia PERRY\n🇪🇸 Eva Maria MORAL PEDRERO\n🇧🇷 Jessica FERREIRA\n🇺🇸
+  Kendall GRETSCH\n🇦🇺 Lauren PARKER\n🇨🇦 Leanne TAYLOR\n🇬🇧 Melissa
+  NICHOLLS\n🇫🇷 Mona FRANCIS
+SUMMARY:Women's PTWC
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T104000Z-para-triathlon-WOMENS-PTS4
+DTSTAMP:20240901T104000Z
+DTSTART:20240901T104000Z
+DTEND:20240901T122000Z
 DESCRIPTION:Para Triathlon - Women's PTS4\n🇫🇷 Camille SENECLAUZE\n🇮🇪
   Cassie CAVA\n🇫🇷 Elise MARC\n🇩🇪 Elke van ENGELEN\n🇺🇸 Emma
   MEYERS\n🇦🇺 Grace BRIMELOW\n🇬🇧 Hannah MOORE\n🇺🇸 Kelly
@@ -15,18 +27,6 @@ DESCRIPTION:Para Triathlon - Women's PTS4\n🇫🇷 Camille SENECLAUZE\n🇮🇪
   Marta FRANCES GOMEZ\n🇬🇧 Megan RICHTER\n🇺🇸 Rachel WATTS\n🇦🇺 Sally
   PILBEAM
 SUMMARY:Women's PTS4
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240902T062500Z-para-triathlon-WOMENS-PTWC
-DTSTAMP:20240902T062500Z
-DTSTART:20240902T062500Z
-DTEND:20240902T093500Z
-DESCRIPTION:Para Triathlon - Women's PTWC\n🇲🇽 Brenda OSNAYA ALVAREZ\n🇺🇸
-  Emelia PERRY\n🇪🇸 Eva Maria MORAL PEDRERO\n🇧🇷 Jessica FERREIRA\n🇺🇸
-  Kendall GRETSCH\n🇦🇺 Lauren PARKER\n🇨🇦 Leanne TAYLOR\n🇬🇧 Melissa
-  NICHOLLS\n🇫🇷 Mona FRANCIS
-SUMMARY:Women's PTWC
 LOCATION:Pont Alexandre III
 END:VEVENT
 END:VCALENDAR

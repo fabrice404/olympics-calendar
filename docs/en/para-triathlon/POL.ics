@@ -4,28 +4,28 @@ PRODID:-//fabrice404//olympics-calendar//en/para-triathlon/POL//EN
 X-WR-CALNAME:🇵🇱 Poland Para Triathlon | Paris 2024
 NAME:🇵🇱 Poland Para Triathlon | Paris 2024
 BEGIN:VEVENT
-UID:20240901T082000Z-para-triathlon-WOMENS-PTS5
-DTSTAMP:20240901T082000Z
-DTSTART:20240901T082000Z
-DTEND:20240901T095500Z
-DESCRIPTION:Para Triathlon - Women's PTS5\n🇺🇦 Alisa KOLPAKCHY\n🇪🇸
-  Andrea MIGUELEZ RANZ\n🇬🇧 Claire CASHMORE\n🇺🇸 Grace NORMAN\n🇫🇷
-  Gwladys LEMOUSSU\n🇨🇦 Kamylle FRENETTE\n🇪🇪 Laura-Liis JUURSALU\n🇬🇧
-  Lauren STEADMAN\n🇵🇱 Marta DZIECIATKOWSKA\n🇵🇱 Monika BELCZEWSKA
-SUMMARY:Women's PTS5
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240902T080000Z-para-triathlon-MENS-PTVI
-DTSTAMP:20240902T080000Z
-DTSTART:20240902T080000Z
-DTEND:20240902T093500Z
+UID:20240901T100000Z-para-triathlon-MENS-PTVI
+DTSTAMP:20240901T100000Z
+DTSTART:20240901T100000Z
+DTEND:20240901T110500Z
 DESCRIPTION:Para Triathlon - Men's PTVI\n🇫🇷 Antoine PEREL\n🇬🇧 Dave
   ELLIS\n🇪🇸 Hector CATALA LAPARRA\n🇪🇸 Jose Luis GARCIA SERRANO\n🇺🇸
   Kyle COON\n🇷🇸 Lazar FILIPOVIC\n🇵🇱 Lukasz WIETECKI\n🇬🇧 Oscar
   KELLY\n🇺🇸 Owen CRAVENS\n🇦🇺 Sam HARDING\n🇫🇷 Thibaut RIGAUDEAU\n🇯🇵
   YONEOKA Satoru
 SUMMARY:Men's PTVI
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T103500Z-para-triathlon-WOMENS-PTS5
+DTSTAMP:20240901T103500Z
+DTSTART:20240901T103500Z
+DTEND:20240901T120000Z
+DESCRIPTION:Para Triathlon - Women's PTS5\n🇺🇦 Alisa KOLPAKCHY\n🇪🇸
+  Andrea MIGUELEZ RANZ\n🇬🇧 Claire CASHMORE\n🇺🇸 Grace NORMAN\n🇫🇷
+  Gwladys LEMOUSSU\n🇨🇦 Kamylle FRENETTE\n🇪🇪 Laura-Liis JUURSALU\n🇬🇧
+  Lauren STEADMAN\n🇵🇱 Marta DZIECIATKOWSKA\n🇵🇱 Monika BELCZEWSKA
+SUMMARY:Women's PTS5
 LOCATION:Pont Alexandre III
 END:VEVENT
 END:VCALENDAR

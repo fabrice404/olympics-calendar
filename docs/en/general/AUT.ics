@@ -120,6 +120,18 @@ SUMMARY: Man-Kei TO 🇧🇪 - 🇦🇹 Henriett KOOSZ
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T061500Z-para-triathlon-MENS-PTWC
+DTSTAMP:20240901T061500Z
+DTSTART:20240901T061500Z
+DTEND:20240901T072500Z
+DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
+  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
+  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
+  Louis NOEL\n🇦🇺 Nic BEVERIDGE
+SUMMARY:Men's PTWC
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T075307Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM8-HEATS
 DTSTAMP:20240901T075307Z
 DTSTART:20240901T075307Z
@@ -167,18 +179,6 @@ DESCRIPTION:Shooting Para Sport - R5 - Mixed 10m Air Rifle Prone SH2
   PLAKUSHCHYI\n🇬🇪 Vladimer TCHINTCHARAULI
 SUMMARY:R5 - Mixed 10m Air Rifle Prone SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240902T061500Z-para-triathlon-MENS-PTWC
-DTSTAMP:20240902T061500Z
-DTSTART:20240902T061500Z
-DTEND:20240902T093500Z
-DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
-  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
-  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
-  Louis NOEL\n🇦🇺 Nic BEVERIDGE
-SUMMARY:Men's PTWC
-LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T084104Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB14-HEATS
