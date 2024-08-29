@@ -400,13 +400,12 @@ SUMMARY:Men's 100m Backstroke - S1 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240829T155300Z-para-taekwondo-WOMEN-K44-52KG-REPECHAGE
+UID:20240829T155300Z-para-taekwondo-WOMEN-K44-52KG-REPECHAGE-BRA-TUR
 DTSTAMP:20240829T155300Z
 DTSTART:20240829T155300Z
 DTEND:20240829T160400Z
-DESCRIPTION:Para Taekwondo - Women K44 -52kg Repechage\n🇧🇷 Maria Eduarda
-  MACHADO STUMPF
-SUMMARY:Women K44 -52kg Repechage
+DESCRIPTION:Para Taekwondo - Women K44 -52kg Repechage
+SUMMARY: Maria Eduarda MACHADO STUMPF 🇧🇷 - 🇹🇷 Meryem Betul CAVDAR
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -544,6 +543,19 @@ SUMMARY: USA 🇺🇸 - 🇧🇷 BRA
 LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T073000Z-para-rowing-PR1-WOMENS-SINGLE-SCULLS-HEATS
+DTSTAMP:20240830T073000Z
+DTSTART:20240830T073000Z
+DTEND:20240830T081000Z
+DESCRIPTION:Para Rowing - PR1 Women’s Single Sculls Heats\n🇺🇦 Anna
+  SHEREMET\n🇰🇪 Asiya Muhammed SURURU\n🇳🇴 Birgit Lovise Roekkum
+  SKARSTEIN\n🇦🇷 Brenda SARDON\n🇨🇭 Claire GHIRINGHELLI\n🇧🇷 Claudia
+  Cicero dos SANTOS\n🇸🇪 Ebba EINARSSON\n🇰🇷 KIM Sejeong\n🇮🇱 Moran
+  SAMUEL\n🇺🇿 Mukhayyo ABDUSATTOROVA\n🇫🇷 Nathalie BENOIT\n🇨🇳 WANG Lili
+SUMMARY:PR1 Women’s Single Sculls Heats
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T073905Z-para-swimming-WOMENS-100M-FREESTYLE-S5-HEATS
 DTSTAMP:20240830T073905Z
 DTSTART:20240830T073905Z
@@ -668,6 +680,23 @@ SUMMARY:Mixed 4x50m Freestyle Relay - 20 Points Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T093000Z-para-rowing-PR3-MIXED-DOUBLE-SCULLS-HEATS
+DTSTAMP:20240830T093000Z
+DTSTART:20240830T093000Z
+DTEND:20240830T101000Z
+DESCRIPTION:Para Rowing - PR3 Mixed Double Sculls Heats\n🇮🇳 ANITA\n🇪🇬
+  Ali ELZIENY\n🇲🇽 Angeles Britani GUTIERREZ VIEYRA\n🇬🇧 Annabel
+  CADDICK\n🇹🇭 Chintana CHUEASAART\n🇺🇦 Dariia KOTYK\n🇧🇷 Diana Cristina
+  BARCELOS de OLIVEIRA\n🇫🇷 Guylaine MARCHAND\n🇩🇪 Hermine KRUMBEIN\n🇧🇷
+  Jairo Natanael FROHLICH KLUG\n🇩🇪 Jan HELMICH\n🇦🇺 Jed
+  ALTSCHWAGER\n🇫🇷 Laurent CADOT\n🇪🇬 Marwa ABDELAAL\n🇲🇽 Miguel Angel
+  NIETO CARPIO\n🇮🇳 Narayana KONGANAPALLE\n🇦🇺 Nikki AYERS\n🇹🇭 Poramin
+  PHONGAMTHIPPAYAKUL\n🇺🇸 Saige HARPER\n🇬🇧 Samuel MURRAY\n🇺🇦 Stanislav
+  SAMOLIUK\n🇺🇸 Todd VOGT
+SUMMARY:PR3 Mixed Double Sculls Heats
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T093000Z-para-cycling-track-MENS-C4-5-1000M-TIME-TRIAL-QUALIFYI
 DTSTAMP:20240830T093000Z
 DTSTART:20240830T093000Z
@@ -741,6 +770,28 @@ DTEND:20240830T160000Z
 DESCRIPTION:Wheelchair Tennis - Quad Doubles Quarter-final
 SUMMARY: PENA/SILVA 🇧🇷 - 🇹🇷 ALTINEL/KAPLAN
 LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T101000Z-para-rowing-PR3-MIXED-COXED-FOUR-HEATS
+DTSTAMP:20240830T101000Z
+DTSTART:20240830T101000Z
+DTEND:20240830T105000Z
+DESCRIPTION:Para Rowing - PR3 Mixed Coxed Four Heats\n🇺🇸 Alex FLYNN\n🇦🇺
+  Alexandra VINEY\n🇧🇷 Alina DUMAS\n🇰🇷 BAE Jiin\n🇺🇸 Ben
+  WASHBURNE\n🇰🇷 CHOI Seonwoong\n🇫🇷 Candyce CHAFA\n🇮🇹 Carolina
+  FORESTI\n🇪🇸 Daniel DIAZ ALCAIDE\n🇬🇧 Ed FULLER\n🇧🇷 Erik Matheus da
+  SILVA LIMA\n🇬🇧 Francesca ALLEN\n🇧🇷 Gabriel MENDES de SOUZA\n🇺🇸
+  Gemma WOLLENSCHLAEGER\n🇬🇧 Giedre RAKAUSKAITE\n🇫🇷 Gregoire
+  BIREAU\n🇮🇹 Greta Elizabeth MUTI\n🇨🇳 JIANG Lingtao\n🇪🇸 Josefa
+  BENITEZ GUZMAN\n🇬🇧 Josh O'BRIEN\n🇰🇷 KANG Hyounjoo\n🇩🇪 Kathrin
+  MARCHAND\n🇰🇷 LEE Seungho\n🇩🇪 Marc LEMBECK\n🇮🇹 Marco FRANK\n🇫🇷
+  Margot BOULET\n🇧🇷 Priscila BARRETO de SOUZA\n🇫🇷 Remy TARANTO\n🇪🇸
+  Saul PENA PUENTE\n🇺🇸 Skylar DAHL\n🇦🇺 Susannah LUTZE\n🇩🇪 Susanne
+  LACKNER\n🇦🇺 Tobiah GOFFSASSEN\n🇦🇺 Tom BIRTWHISTLE\n🇮🇹 Tommaso
+  SCHETTINO\n🇩🇪 Valentin LUZ\n🇪🇸 Veronica RODRIGUEZ PULIDO\n🇨🇳 WANG
+  Xixi\n🇨🇳 WU Yunlong\n🇨🇳 ZENG Wanbin
+SUMMARY:PR3 Mixed Coxed Four Heats
+LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T102400Z-para-taekwondo-WOMEN-K44-57KG-QUARTERFINAL
