@@ -4,6 +4,18 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/SRB//EN
 X-WR-CALNAME:🇷🇸 Serbia 🏅 | Paris 2024
 NAME:🇷🇸 Serbia 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240829T161000Z-para-swimming-WOMENS-100M-BACKSTROKE-S2-FINAL
+DTSTAMP:20240829T161000Z
+DTSTART:20240829T161000Z
+DTEND:20240829T162000Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S2 Final\n🇮🇹 Angela
+  PROCIDA\n🇲🇽 Fabiola RAMIREZ MARTINEZ\n🇲🇽 Haidee Viviana ACEVES
+  PEREZ\n🇷🇸 Katarina DRAGANOV-CORDAS\n🇸🇬 Pin Xiu YIP\n🇪🇸 Teresa
+  PERALES\n🇭🇺 Zsanett ADAMI-ROZSA
+SUMMARY:Women's 100m Backstroke - S2 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T170500Z-para-athletics-MENS-SHOT-PUT-F55-FINAL
 DTSTAMP:20240830T170500Z
 DTSTART:20240830T170500Z

@@ -4,6 +4,78 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/AUS//EN
 X-WR-CALNAME:🇦🇺 Australia 🏅 | Paris 2024
 NAME:🇦🇺 Australia 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240829T153000Z-para-swimming-MENS-400M-FREESTYLE-S9-FINAL
+DTSTAMP:20240829T153000Z
+DTSTART:20240829T153000Z
+DTEND:20240829T154000Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S9 Final\n🇧🇷 Andrey
+  RIBEIRO WOYCZAK MADEIRA\n🇦🇺 Brenden HALL\n🇪🇸 Jacobo GARRIDO
+  BRUN\n🇯🇵 KAWABUCHI Taiyo\n🇧🇪 Sam de VISSER\n🇮🇹 Simone BARLAAM\n🇦🇺
+  Timothy HODGE\n🇫🇷 Ugo DIDIER
+SUMMARY:Men's 400m Freestyle - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T154000Z-para-swimming-WOMENS-400M-FREESTYLE-S9-FINAL
+DTSTAMP:20240829T154000Z
+DTSTART:20240829T154000Z
+DTEND:20240829T155000Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S9 Final\n🇫🇷 Agathe
+  PAULI\n🇭🇷 Emma MECIC\n🇦🇺 Lakeisha PATTERSON\n🇪🇸 Nuria MARQUES
+  SOTO\n🇬🇧 Toni SHAW\n🇮🇹 Vittoria BIANCO\n🇨🇳 XU Jialing\n🇭🇺 Zsofia
+  KONKOLY
+SUMMARY:Women's 400m Freestyle - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T163600Z-para-swimming-MENS-100M-BUTTERFLY-S14-FINAL
+DTSTAMP:20240829T163600Z
+DTSTART:20240829T163600Z
+DTEND:20240829T164200Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S14 Final\n🇩🇰
+  Alexander HILLHOUSE\n🇦🇺 Benjamin HANCE\n🇬🇧 Cameron VEARNCOMBE\n🇺🇦
+  Dmytro VANZENKO\n🇧🇷 Gabriel BANDEIRA\n🇮🇸 Robert Isak JONSSON\n🇬🇧
+  William ELLARD\n🇯🇵 YAMAGUCHI Naohide
+SUMMARY:Men's 100m Butterfly - S14 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T164200Z-para-swimming-WOMENS-100M-BUTTERFLY-S14-FINAL
+DTSTAMP:20240829T164200Z
+DTSTART:20240829T164200Z
+DTEND:20240829T164800Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S14 Final\n🇭🇰 CHAN
+  Yui Lam\n🇯🇵 KINOSHITA Aira\n🇬🇧 Louise FIDDES\n🇬🇧 Olivia
+  NEWMAN-BARONIUS\n🇦🇺 Paige LEONHARDT\n🇬🇧 Poppy MASKILL\n🇮🇩 Syuci
+  INDRIANI
+SUMMARY:Women's 100m Butterfly - S14 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T174100Z-para-swimming-MENS-50M-FREESTYLE-S10-FINAL
+DTSTAMP:20240829T174100Z
+DTSTART:20240829T174100Z
+DTEND:20240829T174700Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S10 Final\n🇨🇦 Fernando
+  LU\n🇺🇦 Ihor NIMCHENKO\n🇧🇷 Phelipe Andrews MELO RODRIGUES\n🇦🇺 Rowan
+  CROTHERS\n🇮🇹 Stefano RAIMONDI\n🇦🇺 Thomas GALLAGHER\n🇪🇬 Zeiad Tarek
+  HASBY
+SUMMARY:Men's 50m Freestyle - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T174700Z-para-swimming-WOMENS-50M-FREESTYLE-S10-FINAL
+DTSTAMP:20240829T174700Z
+DTSTART:20240829T174700Z
+DTEND:20240829T175300Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S10 Final\n🇮🇹 Alessia
+  SCORTECHINI\n🇦🇺 Alexa LEARY\n🇨🇦 Aurelie RIVARD\n🇨🇳 CHEN Yi\n🇺🇸
+  Christie RALEIGH-CROSSLEY\n🇫🇷 Emeline PIERRE\n🇦🇺 Jasmine
+  GREENWOOD\n🇧🇷 Mariana RIBEIRO
+SUMMARY:Women's 50m Freestyle - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T100900Z-para-athletics-MENS-JAVELIN-THROW-F38-FINAL
 DTSTAMP:20240830T100900Z
 DTSTART:20240830T100900Z

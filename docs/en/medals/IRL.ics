@@ -4,6 +4,30 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/IRL//EN
 X-WR-CALNAME:🇮🇪 Ireland 🏅 | Paris 2024
 NAME:🇮🇪 Ireland 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240829T171900Z-para-swimming-WOMENS-50M-FREESTYLE-S6-FINAL
+DTSTAMP:20240829T171900Z
+DTSTART:20240829T171900Z
+DTEND:20240829T172500Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S6 Final\n🇺🇦 Anna
+  HONTAR\n🇺🇸 Ellie MARKS\n🇨🇳 JIANG Yuyan\n🇧🇷 Mayara DO AMARAL
+  PETZOLD\n🇮🇪 Nicole TURNER\n🇨🇭 Nora MEISTER\n🇨🇦 Shelby NEWKIRK\n🇨🇳
+  ZHU Ji
+SUMMARY:Women's 50m Freestyle - S6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T181500Z-para-swimming-WOMENS-100M-BUTTERFLY-S13-FINAL
+DTSTAMP:20240829T181500Z
+DTSTART:20240829T181500Z
+DTEND:20240829T182200Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S13 Final\n🇮🇹
+  Carlotta GILLI\n🇺🇸 Grace NUHFER\n🇵🇱 Joanna MENDAK\n🇪🇸 Maria DELGADO
+  NADAL\n🇺🇿 Muslima ODILOVA\n🇺🇸 Olivia CHAMBERS\n🇮🇪 Roisin NI
+  RIAIN\n🇺🇿 Shokhsanamkhon TOSHPULATOVA
+SUMMARY:Women's 100m Butterfly - S13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T175100Z-para-swimming-WOMENS-100M-BACKSTROKE-S13-FINAL
 DTSTAMP:20240830T175100Z
 DTSTART:20240830T175100Z

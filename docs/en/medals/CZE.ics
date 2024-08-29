@@ -4,6 +4,17 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/CZE//EN
 X-WR-CALNAME:🇨🇿 Czechia 🏅 | Paris 2024
 NAME:🇨🇿 Czechia 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240829T184600Z-para-swimming-WOMENS-200M-FREESTYLE-S5-FINAL
+DTSTAMP:20240829T184600Z
+DTSTART:20240829T184600Z
+DTEND:20240829T185600Z
+DESCRIPTION:Para Swimming - Women's 200m Freestyle - S5 Final\n🇨🇿 Agata
+  KOUPILOVA\n🇺🇦 Iryna POIDA\n🇨🇳 LIU Yu\n🇨🇳 LU Dong\n🇮🇹 Monica
+  BOGGIONI\n🇩🇪 Tanja SCHOLZ\n🇬🇧 Tully KEARNEY\n🇨🇳 YAO Cuan
+SUMMARY:Women's 200m Freestyle - S5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T100900Z-para-athletics-MENS-JAVELIN-THROW-F38-FINAL
 DTSTAMP:20240830T100900Z
 DTSTART:20240830T100900Z

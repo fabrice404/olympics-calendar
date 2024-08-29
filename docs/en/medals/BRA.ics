@@ -4,6 +4,18 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/BRA//EN
 X-WR-CALNAME:🇧🇷 Brazil 🏅 | Paris 2024
 NAME:🇧🇷 Brazil 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240829T153000Z-para-swimming-MENS-400M-FREESTYLE-S9-FINAL
+DTSTAMP:20240829T153000Z
+DTSTART:20240829T153000Z
+DTEND:20240829T154000Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S9 Final\n🇧🇷 Andrey
+  RIBEIRO WOYCZAK MADEIRA\n🇦🇺 Brenden HALL\n🇪🇸 Jacobo GARRIDO
+  BRUN\n🇯🇵 KAWABUCHI Taiyo\n🇧🇪 Sam de VISSER\n🇮🇹 Simone BARLAAM\n🇦🇺
+  Timothy HODGE\n🇫🇷 Ugo DIDIER
+SUMMARY:Men's 400m Freestyle - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T155000Z-para-swimming-MENS-100M-BACKSTROKE-S1-FINAL
 DTSTAMP:20240829T155000Z
 DTSTART:20240829T155000Z
@@ -13,6 +25,66 @@ DESCRIPTION:Para Swimming - Men's 100m Backstroke - S1 Final\n🇺🇦 Anton
   da SILVA\n🇵🇱 Kamil OTOWSKI\n🇪🇸 Miguel Angel NAVARRO RIOFRIO\n🇬🇷
   Nikolaos KONTOU
 SUMMARY:Men's 100m Backstroke - S1 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T160000Z-para-swimming-MENS-100M-BACKSTROKE-S2-FINAL
+DTSTAMP:20240829T160000Z
+DTSTART:20240829T160000Z
+DTEND:20240829T161000Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S2 Final\n🇨🇱 Alberto
+  Caroly ABARZA DIAZ\n🇲🇽 Cristopher Gregorio TRONCO SANCHEZ\n🇧🇷 Gabriel
+  Geraldo dos SANTOS ARAUJO\n🇵🇱 Jacek CZECH\n🇲🇽 Jesus Rey LOPEZ
+  CERVANTES\n🇵🇪 Rodrigo SANTILLAN\n🇺🇦 Roman BONDARENKO
+SUMMARY:Men's 100m Backstroke - S2 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T163600Z-para-swimming-MENS-100M-BUTTERFLY-S14-FINAL
+DTSTAMP:20240829T163600Z
+DTSTART:20240829T163600Z
+DTEND:20240829T164200Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S14 Final\n🇩🇰
+  Alexander HILLHOUSE\n🇦🇺 Benjamin HANCE\n🇬🇧 Cameron VEARNCOMBE\n🇺🇦
+  Dmytro VANZENKO\n🇧🇷 Gabriel BANDEIRA\n🇮🇸 Robert Isak JONSSON\n🇬🇧
+  William ELLARD\n🇯🇵 YAMAGUCHI Naohide
+SUMMARY:Men's 100m Butterfly - S14 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T171900Z-para-swimming-WOMENS-50M-FREESTYLE-S6-FINAL
+DTSTAMP:20240829T171900Z
+DTSTART:20240829T171900Z
+DTEND:20240829T172500Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S6 Final\n🇺🇦 Anna
+  HONTAR\n🇺🇸 Ellie MARKS\n🇨🇳 JIANG Yuyan\n🇧🇷 Mayara DO AMARAL
+  PETZOLD\n🇮🇪 Nicole TURNER\n🇨🇭 Nora MEISTER\n🇨🇦 Shelby NEWKIRK\n🇨🇳
+  ZHU Ji
+SUMMARY:Women's 50m Freestyle - S6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T174100Z-para-swimming-MENS-50M-FREESTYLE-S10-FINAL
+DTSTAMP:20240829T174100Z
+DTSTART:20240829T174100Z
+DTEND:20240829T174700Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S10 Final\n🇨🇦 Fernando
+  LU\n🇺🇦 Ihor NIMCHENKO\n🇧🇷 Phelipe Andrews MELO RODRIGUES\n🇦🇺 Rowan
+  CROTHERS\n🇮🇹 Stefano RAIMONDI\n🇦🇺 Thomas GALLAGHER\n🇪🇬 Zeiad Tarek
+  HASBY
+SUMMARY:Men's 50m Freestyle - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T174700Z-para-swimming-WOMENS-50M-FREESTYLE-S10-FINAL
+DTSTAMP:20240829T174700Z
+DTSTART:20240829T174700Z
+DTEND:20240829T175300Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S10 Final\n🇮🇹 Alessia
+  SCORTECHINI\n🇦🇺 Alexa LEARY\n🇨🇦 Aurelie RIVARD\n🇨🇳 CHEN Yi\n🇺🇸
+  Christie RALEIGH-CROSSLEY\n🇫🇷 Emeline PIERRE\n🇦🇺 Jasmine
+  GREENWOOD\n🇧🇷 Mariana RIBEIRO
+SUMMARY:Women's 50m Freestyle - S10 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT

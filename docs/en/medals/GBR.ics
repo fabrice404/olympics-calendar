@@ -4,6 +4,29 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/GBR//EN
 X-WR-CALNAME:🇬🇧 Great Britain 🏅 | Paris 2024
 NAME:🇬🇧 Great Britain 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240829T134500Z-para-cycling-track-WOMENS-C4-5-500M-TIME-TRIAL-FINAL
+DTSTAMP:20240829T134500Z
+DTSTART:20240829T134500Z
+DTEND:20240829T140700Z
+DESCRIPTION:Para Cycling Track - Women's C4-5 500m Time Trial - Final\n🇳🇱
+  Caroline GROOT\n🇬🇧 Kadeena COX\n🇨🇦 Kate O'BRIEN\n🇨🇳 LI
+  Xiaohui\n🇫🇷 Marie PATOUILLET\n🇳🇿 Nicole MURRAY
+SUMMARY:Women's C4-5 500m Time Trial - Final
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T154000Z-para-swimming-WOMENS-400M-FREESTYLE-S9-FINAL
+DTSTAMP:20240829T154000Z
+DTSTART:20240829T154000Z
+DTEND:20240829T155000Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S9 Final\n🇫🇷 Agathe
+  PAULI\n🇭🇷 Emma MECIC\n🇦🇺 Lakeisha PATTERSON\n🇪🇸 Nuria MARQUES
+  SOTO\n🇬🇧 Toni SHAW\n🇮🇹 Vittoria BIANCO\n🇨🇳 XU Jialing\n🇭🇺 Zsofia
+  KONKOLY
+SUMMARY:Women's 400m Freestyle - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T163000Z-para-table-tennis-WOMENS-DOUBLES-WD14-SEMIFINAL-2-CHN-
 DTSTAMP:20240829T163000Z
 DTSTART:20240829T163000Z
@@ -11,6 +34,41 @@ DTEND:20240829T171500Z
 DESCRIPTION:Para Table Tennis - Women's Doubles - WD14 - Semifinal 2
 SUMMARY: HUANG/JIN 🇨🇳 - 🇬🇧 PICKARD/TWOMEY
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T163600Z-para-swimming-MENS-100M-BUTTERFLY-S14-FINAL
+DTSTAMP:20240829T163600Z
+DTSTART:20240829T163600Z
+DTEND:20240829T164200Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S14 Final\n🇩🇰
+  Alexander HILLHOUSE\n🇦🇺 Benjamin HANCE\n🇬🇧 Cameron VEARNCOMBE\n🇺🇦
+  Dmytro VANZENKO\n🇧🇷 Gabriel BANDEIRA\n🇮🇸 Robert Isak JONSSON\n🇬🇧
+  William ELLARD\n🇯🇵 YAMAGUCHI Naohide
+SUMMARY:Men's 100m Butterfly - S14 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T164200Z-para-swimming-WOMENS-100M-BUTTERFLY-S14-FINAL
+DTSTAMP:20240829T164200Z
+DTSTART:20240829T164200Z
+DTEND:20240829T164800Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S14 Final\n🇭🇰 CHAN
+  Yui Lam\n🇯🇵 KINOSHITA Aira\n🇬🇧 Louise FIDDES\n🇬🇧 Olivia
+  NEWMAN-BARONIUS\n🇦🇺 Paige LEONHARDT\n🇬🇧 Poppy MASKILL\n🇮🇩 Syuci
+  INDRIANI
+SUMMARY:Women's 100m Butterfly - S14 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T184600Z-para-swimming-WOMENS-200M-FREESTYLE-S5-FINAL
+DTSTAMP:20240829T184600Z
+DTSTART:20240829T184600Z
+DTEND:20240829T185600Z
+DESCRIPTION:Para Swimming - Women's 200m Freestyle - S5 Final\n🇨🇿 Agata
+  KOUPILOVA\n🇺🇦 Iryna POIDA\n🇨🇳 LIU Yu\n🇨🇳 LU Dong\n🇮🇹 Monica
+  BOGGIONI\n🇩🇪 Tanja SCHOLZ\n🇬🇧 Tully KEARNEY\n🇨🇳 YAO Cuan
+SUMMARY:Women's 200m Freestyle - S5 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T153700Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB6-FINAL

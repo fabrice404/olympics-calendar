@@ -4,6 +4,30 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/UZB//EN
 X-WR-CALNAME:🇺🇿 Uzbekistan 🏅 | Paris 2024
 NAME:🇺🇿 Uzbekistan 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240829T180900Z-para-swimming-MENS-100M-BUTTERFLY-S13-FINAL
+DTSTAMP:20240829T180900Z
+DTSTART:20240829T180900Z
+DTEND:20240829T181500Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S13 Final\n🇫🇷 Alex
+  PORTAL\n🇪🇸 Enrique Jose ALHAMBRA MOLLAR\n🇪🇸 Juan FERRON
+  GUTIERREZ\n🇺🇿 Kirill PANKOV\n🇺🇿 Muzaffar TURSUNKHUJAEV\n🇿🇦 Nathan
+  HENDRICKS\n🇺🇦 Oleksii VIRCHENKO
+SUMMARY:Men's 100m Butterfly - S13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T181500Z-para-swimming-WOMENS-100M-BUTTERFLY-S13-FINAL
+DTSTAMP:20240829T181500Z
+DTSTART:20240829T181500Z
+DTEND:20240829T182200Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S13 Final\n🇮🇹
+  Carlotta GILLI\n🇺🇸 Grace NUHFER\n🇵🇱 Joanna MENDAK\n🇪🇸 Maria DELGADO
+  NADAL\n🇺🇿 Muslima ODILOVA\n🇺🇸 Olivia CHAMBERS\n🇮🇪 Roisin NI
+  RIAIN\n🇺🇿 Shokhsanamkhon TOSHPULATOVA
+SUMMARY:Women's 100m Butterfly - S13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T080000Z-para-athletics-WOMENS-DISCUS-THROW-F55-FINAL
 DTSTAMP:20240830T080000Z
 DTSTART:20240830T080000Z

@@ -4,6 +4,30 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/ITA//EN
 X-WR-CALNAME:🇮🇹 Italy 🏅 | Paris 2024
 NAME:🇮🇹 Italy 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240829T153000Z-para-swimming-MENS-400M-FREESTYLE-S9-FINAL
+DTSTAMP:20240829T153000Z
+DTSTART:20240829T153000Z
+DTEND:20240829T154000Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S9 Final\n🇧🇷 Andrey
+  RIBEIRO WOYCZAK MADEIRA\n🇦🇺 Brenden HALL\n🇪🇸 Jacobo GARRIDO
+  BRUN\n🇯🇵 KAWABUCHI Taiyo\n🇧🇪 Sam de VISSER\n🇮🇹 Simone BARLAAM\n🇦🇺
+  Timothy HODGE\n🇫🇷 Ugo DIDIER
+SUMMARY:Men's 400m Freestyle - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T154000Z-para-swimming-WOMENS-400M-FREESTYLE-S9-FINAL
+DTSTAMP:20240829T154000Z
+DTSTART:20240829T154000Z
+DTEND:20240829T155000Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S9 Final\n🇫🇷 Agathe
+  PAULI\n🇭🇷 Emma MECIC\n🇦🇺 Lakeisha PATTERSON\n🇪🇸 Nuria MARQUES
+  SOTO\n🇬🇧 Toni SHAW\n🇮🇹 Vittoria BIANCO\n🇨🇳 XU Jialing\n🇭🇺 Zsofia
+  KONKOLY
+SUMMARY:Women's 400m Freestyle - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T155000Z-para-swimming-MENS-100M-BACKSTROKE-S1-FINAL
 DTSTAMP:20240829T155000Z
 DTSTART:20240829T155000Z
@@ -16,15 +40,85 @@ SUMMARY:Men's 100m Backstroke - S1 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T161000Z-para-swimming-WOMENS-100M-BACKSTROKE-S2-FINAL
+DTSTAMP:20240829T161000Z
+DTSTART:20240829T161000Z
+DTEND:20240829T162000Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S2 Final\n🇮🇹 Angela
+  PROCIDA\n🇲🇽 Fabiola RAMIREZ MARTINEZ\n🇲🇽 Haidee Viviana ACEVES
+  PEREZ\n🇷🇸 Katarina DRAGANOV-CORDAS\n🇸🇬 Pin Xiu YIP\n🇪🇸 Teresa
+  PERALES\n🇭🇺 Zsanett ADAMI-ROZSA
+SUMMARY:Women's 100m Backstroke - S2 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T171200Z-para-swimming-MENS-50M-BREASTSTROKE-SB3-FINAL
 DTSTAMP:20240829T171200Z
 DTSTART:20240829T171200Z
 DTEND:20240829T171900Z
 DESCRIPTION:Para Swimming - Men's 50m Breaststroke - SB3 Final\n🇮🇱 Ami
-  Omer DADAON\n🇦🇹 Andreas ERNHOFER\n🇮🇹 Efrem MORELLI\n🇲🇽 Gustavo
-  Ramon SANCHEZ MARTINEZ\n🇰🇷 JO Giseong\n🇪🇸 Miguel LUQUE\n🇯🇵 SUZUKI
-  Takayuki\n🇪🇸 Vicente GIL
+  Omer DADAON\n🇮🇹 Efrem MORELLI\n🇲🇽 Gustavo Ramon SANCHEZ
+  MARTINEZ\n🇰🇷 JO Giseong\n🇪🇸 Miguel LUQUE\n🇯🇵 SUZUKI Takayuki\n🇪🇸
+  Vicente GIL
 SUMMARY:Men's 50m Breaststroke - SB3 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T174100Z-para-swimming-MENS-50M-FREESTYLE-S10-FINAL
+DTSTAMP:20240829T174100Z
+DTSTART:20240829T174100Z
+DTEND:20240829T174700Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S10 Final\n🇨🇦 Fernando
+  LU\n🇺🇦 Ihor NIMCHENKO\n🇧🇷 Phelipe Andrews MELO RODRIGUES\n🇦🇺 Rowan
+  CROTHERS\n🇮🇹 Stefano RAIMONDI\n🇦🇺 Thomas GALLAGHER\n🇪🇬 Zeiad Tarek
+  HASBY
+SUMMARY:Men's 50m Freestyle - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T174700Z-para-swimming-WOMENS-50M-FREESTYLE-S10-FINAL
+DTSTAMP:20240829T174700Z
+DTSTART:20240829T174700Z
+DTEND:20240829T175300Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S10 Final\n🇮🇹 Alessia
+  SCORTECHINI\n🇦🇺 Alexa LEARY\n🇨🇦 Aurelie RIVARD\n🇨🇳 CHEN Yi\n🇺🇸
+  Christie RALEIGH-CROSSLEY\n🇫🇷 Emeline PIERRE\n🇦🇺 Jasmine
+  GREENWOOD\n🇧🇷 Mariana RIBEIRO
+SUMMARY:Women's 50m Freestyle - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T181500Z-para-swimming-WOMENS-100M-BUTTERFLY-S13-FINAL
+DTSTAMP:20240829T181500Z
+DTSTART:20240829T181500Z
+DTEND:20240829T182200Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S13 Final\n🇮🇹
+  Carlotta GILLI\n🇺🇸 Grace NUHFER\n🇵🇱 Joanna MENDAK\n🇪🇸 Maria DELGADO
+  NADAL\n🇺🇿 Muslima ODILOVA\n🇺🇸 Olivia CHAMBERS\n🇮🇪 Roisin NI
+  RIAIN\n🇺🇿 Shokhsanamkhon TOSHPULATOVA
+SUMMARY:Women's 100m Butterfly - S13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T183800Z-para-swimming-MENS-200M-FREESTYLE-S5-FINAL
+DTSTAMP:20240829T183800Z
+DTSTART:20240829T183800Z
+DTEND:20240829T184600Z
+DESCRIPTION:Para Swimming - Men's 200m Freestyle - S5 Final\n🇪🇸 Antoni
+  PONCE BERTRAN\n🇮🇹 Francesco BOCCIARDO\n🇨🇳 GUO Jincheng\n🇪🇸 Luis
+  HUERTA POZA\n🇺🇦 Oleksandr KOMAROV\n🇨🇳 WANG Lichao\n🇪🇬 Zeyad KAHIL
+SUMMARY:Men's 200m Freestyle - S5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T184600Z-para-swimming-WOMENS-200M-FREESTYLE-S5-FINAL
+DTSTAMP:20240829T184600Z
+DTSTART:20240829T184600Z
+DTEND:20240829T185600Z
+DESCRIPTION:Para Swimming - Women's 200m Freestyle - S5 Final\n🇨🇿 Agata
+  KOUPILOVA\n🇺🇦 Iryna POIDA\n🇨🇳 LIU Yu\n🇨🇳 LU Dong\n🇮🇹 Monica
+  BOGGIONI\n🇩🇪 Tanja SCHOLZ\n🇬🇧 Tully KEARNEY\n🇨🇳 YAO Cuan
+SUMMARY:Women's 200m Freestyle - S5 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT

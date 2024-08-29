@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/medals/EGY//EN
+X-WR-CALNAME:🇪🇬 Egypt 🏅 | Paris 2024
+NAME:🇪🇬 Egypt 🏅 | Paris 2024
+BEGIN:VEVENT
+UID:20240829T174100Z-para-swimming-MENS-50M-FREESTYLE-S10-FINAL
+DTSTAMP:20240829T174100Z
+DTSTART:20240829T174100Z
+DTEND:20240829T174700Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S10 Final\n🇨🇦 Fernando
+  LU\n🇺🇦 Ihor NIMCHENKO\n🇧🇷 Phelipe Andrews MELO RODRIGUES\n🇦🇺 Rowan
+  CROTHERS\n🇮🇹 Stefano RAIMONDI\n🇦🇺 Thomas GALLAGHER\n🇪🇬 Zeiad Tarek
+  HASBY
+SUMMARY:Men's 50m Freestyle - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T183800Z-para-swimming-MENS-200M-FREESTYLE-S5-FINAL
+DTSTAMP:20240829T183800Z
+DTSTART:20240829T183800Z
+DTEND:20240829T184600Z
+DESCRIPTION:Para Swimming - Men's 200m Freestyle - S5 Final\n🇪🇸 Antoni
+  PONCE BERTRAN\n🇮🇹 Francesco BOCCIARDO\n🇨🇳 GUO Jincheng\n🇪🇸 Luis
+  HUERTA POZA\n🇺🇦 Oleksandr KOMAROV\n🇨🇳 WANG Lichao\n🇪🇬 Zeyad KAHIL
+SUMMARY:Men's 200m Freestyle - S5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+END:VCALENDAR

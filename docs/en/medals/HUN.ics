@@ -4,6 +4,30 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/HUN//EN
 X-WR-CALNAME:🇭🇺 Hungary 🏅 | Paris 2024
 NAME:🇭🇺 Hungary 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240829T154000Z-para-swimming-WOMENS-400M-FREESTYLE-S9-FINAL
+DTSTAMP:20240829T154000Z
+DTSTART:20240829T154000Z
+DTEND:20240829T155000Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S9 Final\n🇫🇷 Agathe
+  PAULI\n🇭🇷 Emma MECIC\n🇦🇺 Lakeisha PATTERSON\n🇪🇸 Nuria MARQUES
+  SOTO\n🇬🇧 Toni SHAW\n🇮🇹 Vittoria BIANCO\n🇨🇳 XU Jialing\n🇭🇺 Zsofia
+  KONKOLY
+SUMMARY:Women's 400m Freestyle - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T161000Z-para-swimming-WOMENS-100M-BACKSTROKE-S2-FINAL
+DTSTAMP:20240829T161000Z
+DTSTART:20240829T161000Z
+DTEND:20240829T162000Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S2 Final\n🇮🇹 Angela
+  PROCIDA\n🇲🇽 Fabiola RAMIREZ MARTINEZ\n🇲🇽 Haidee Viviana ACEVES
+  PEREZ\n🇷🇸 Katarina DRAGANOV-CORDAS\n🇸🇬 Pin Xiu YIP\n🇪🇸 Teresa
+  PERALES\n🇭🇺 Zsanett ADAMI-ROZSA
+SUMMARY:Women's 100m Backstroke - S2 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T153700Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB6-FINAL
 DTSTAMP:20240901T153700Z
 DTSTART:20240901T153700Z

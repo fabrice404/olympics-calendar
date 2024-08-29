@@ -332,6 +332,18 @@ SUMMARY:Men's Individual Compound Open Ranking Round
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T153000Z-para-swimming-MENS-400M-FREESTYLE-S9-FINAL
+DTSTAMP:20240829T153000Z
+DTSTART:20240829T153000Z
+DTEND:20240829T154000Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S9 Final\n🇧🇷 Andrey
+  RIBEIRO WOYCZAK MADEIRA\n🇦🇺 Brenden HALL\n🇪🇸 Jacobo GARRIDO
+  BRUN\n🇯🇵 KAWABUCHI Taiyo\n🇧🇪 Sam de VISSER\n🇮🇹 Simone BARLAAM\n🇦🇺
+  Timothy HODGE\n🇫🇷 Ugo DIDIER
+SUMMARY:Men's 400m Freestyle - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T154500Z-para-table-tennis-MIXED-DOUBLES-XD17-ROUND-OF-32-JPN-R
 DTSTAMP:20240829T154500Z
 DTSTART:20240829T154500Z
@@ -339,6 +351,18 @@ DTEND:20240829T163000Z
 DESCRIPTION:Para Table Tennis - Mixed Doubles - XD17 - Round of 32
 SUMMARY: IWABUCHI/TOMONO 🇯🇵 - 🇷🇴 SIMION/CIRIPAN
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T163600Z-para-swimming-MENS-100M-BUTTERFLY-S14-FINAL
+DTSTAMP:20240829T163600Z
+DTSTART:20240829T163600Z
+DTEND:20240829T164200Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S14 Final\n🇩🇰
+  Alexander HILLHOUSE\n🇦🇺 Benjamin HANCE\n🇬🇧 Cameron VEARNCOMBE\n🇺🇦
+  Dmytro VANZENKO\n🇧🇷 Gabriel BANDEIRA\n🇮🇸 Robert Isak JONSSON\n🇬🇧
+  William ELLARD\n🇯🇵 YAMAGUCHI Naohide
+SUMMARY:Men's 100m Butterfly - S14 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240829T164000Z-para-badminton-MIXED-DOUBLES-SL3-SU5-GROUP-PLAY-STAGE-
@@ -349,6 +373,18 @@ DESCRIPTION:Para Badminton - Mixed Doubles SL3-SU5 Group Play Stage - Group
   B
 SUMMARY: IMAI/ITO 🇯🇵 - 🇨🇳 YANG J/YANG QX
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240829T164200Z-para-swimming-WOMENS-100M-BUTTERFLY-S14-FINAL
+DTSTAMP:20240829T164200Z
+DTSTART:20240829T164200Z
+DTEND:20240829T164800Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S14 Final\n🇭🇰 CHAN
+  Yui Lam\n🇯🇵 KINOSHITA Aira\n🇬🇧 Louise FIDDES\n🇬🇧 Olivia
+  NEWMAN-BARONIUS\n🇦🇺 Paige LEONHARDT\n🇬🇧 Poppy MASKILL\n🇮🇩 Syuci
+  INDRIANI
+SUMMARY:Women's 100m Butterfly - S14 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240829T170000Z-goalball-WOMENS-PRELIMINARY-ROUND-POOL-D-KOR-JPN
@@ -365,9 +401,9 @@ DTSTAMP:20240829T171200Z
 DTSTART:20240829T171200Z
 DTEND:20240829T171900Z
 DESCRIPTION:Para Swimming - Men's 50m Breaststroke - SB3 Final\n🇮🇱 Ami
-  Omer DADAON\n🇦🇹 Andreas ERNHOFER\n🇮🇹 Efrem MORELLI\n🇲🇽 Gustavo
-  Ramon SANCHEZ MARTINEZ\n🇰🇷 JO Giseong\n🇪🇸 Miguel LUQUE\n🇯🇵 SUZUKI
-  Takayuki\n🇪🇸 Vicente GIL
+  Omer DADAON\n🇮🇹 Efrem MORELLI\n🇲🇽 Gustavo Ramon SANCHEZ
+  MARTINEZ\n🇰🇷 JO Giseong\n🇪🇸 Miguel LUQUE\n🇯🇵 SUZUKI Takayuki\n🇪🇸
+  Vicente GIL
 SUMMARY:Men's 50m Breaststroke - SB3 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
