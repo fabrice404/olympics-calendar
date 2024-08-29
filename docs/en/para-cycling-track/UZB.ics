@@ -1,22 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//en/para-cycling-track/AUS//EN
-X-WR-CALNAME:🇦🇺 Australia Para Cycling Track | Paris 2024
-NAME:🇦🇺 Australia Para Cycling Track | Paris 2024
-BEGIN:VEVENT
-UID:20240829T114100Z-para-cycling-track-MENS-B-4000M-INDIVIDUAL-PURSUIT-QUA
-DTSTAMP:20240829T114100Z
-DTSTART:20240829T114100Z
-DTEND:20240829T124800Z
-DESCRIPTION:Para Cycling Track - Men's B 4000m Individual Pursuit
-  Qualifying\n🇫🇷 Alexandre LLOVERAS\n🇺🇸 Branden WALTON\n🇮🇪 Damien
-  VEREKER\n🇬🇭 Frederick ASSOR\n🇬🇧 James BALL\n🇯🇵 KIMURA Kazuhei\n🇦🇺
-  Kane PERRIS\n🇵🇱 Karol KOPICZ\n🇮🇹 Lorenzo BERNARD\n🇮🇪 Martin
-  GORDON\n🇦🇷 Maximiliano GOMEZ\n🇬🇧 Neil FACHIE\n🇬🇧 Steve BATE\n🇩🇪
-  Thomas ULBRICHT\n🇳🇱 Tristan BANGMA\n🇳🇱 Vincent ter SCHURE
-SUMMARY:Men's B 4000m Individual Pursuit Qualifying
-LOCATION:National Velodrome
-END:VEVENT
+PRODID:-//fabrice404//olympics-calendar//en/para-cycling-track/UZB//EN
+X-WR-CALNAME:🇺🇿 Uzbekistan Para Cycling Track | Paris 2024
+NAME:🇺🇿 Uzbekistan Para Cycling Track | Paris 2024
 BEGIN:VEVENT
 UID:20240830T093000Z-para-cycling-track-MENS-C4-5-1000M-TIME-TRIAL-QUALIFYI
 DTSTAMP:20240830T093000Z
@@ -32,18 +18,6 @@ DESCRIPTION:Para Cycling Track - Men's C4-5 1000m Time Trial -
   Oskars GAILISS\n🇪🇸 Pablo JARAMILLO GALLARDO\n🇮🇪 Ronan GRIMES\n🇨🇭
   Timothy ZEMP\n🇺🇦 Yehor DEMENTYEV\n🇭🇺 Zsombor WERMESER
 SUMMARY:Men's C4-5 1000m Time Trial - Qualifying
-LOCATION:National Velodrome
-END:VEVENT
-BEGIN:VEVENT
-UID:20240830T101500Z-para-cycling-track-WOMENS-C4-3000M-INDIVIDUAL-PURSUIT-
-DTSTAMP:20240830T101500Z
-DTSTART:20240830T101500Z
-DTEND:20240830T105400Z
-DESCRIPTION:Para Cycling Track - Women's C4 3000m Individual Pursuit
-  Qualifying\n🇳🇿 Anna TAYLOR\n🇦🇺 Emily PETRICOLA\n🇨🇭 Franziska
-  MATILE-DOERIG\n🇨🇦 Keely SHAW\n🇨🇳 LI Xiaohui\n🇦🇺 Meg LEMON\n🇺🇸
-  Samantha BOSCO\n🇺🇸 Shawn MORELLI
-SUMMARY:Women's C4 3000m Individual Pursuit Qualifying
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
