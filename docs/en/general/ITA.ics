@@ -707,6 +707,31 @@ SUMMARY:Men's 50m Backstroke - S1 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T062000Z-para-triathlon-MENS-PTS2
+DTSTAMP:20240901T062000Z
+DTSTART:20240901T062000Z
+DTEND:20240901T095500Z
+DESCRIPTION:Para Triathlon - Men's PTS2\n🇫🇷 Geoffrey WERSY\n🇮🇹 Gianluca
+  VALORI\n🇨🇴 Juan Esteban PATINO GIRALDO\n🇫🇷 Jules RIBSTEIN\n🇪🇸
+  Lionel MORALES\n🇺🇸 Mark BARR\n🇳🇱 Maurits MORSINK\n🇺🇸 Mohamed
+  LAHNA\n🇦🇺 Thomas GOODMAN\n🇧🇪 Wim de PAEPE
+SUMMARY:Men's PTS2
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T063000Z-para-triathlon-WOMENS-PTS2
+DTSTAMP:20240901T063000Z
+DTSTART:20240901T063000Z
+DTEND:20240901T095500Z
+DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
+  FRANCIS\n🇫🇷 Cecile SABOUREAU\n🇻🇪 Emma Juaisca RODRIGUEZ
+  RODRIGUEZ\n🇯🇵 HATA Yukako\n🇺🇸 Hailey DANZ\n🇺🇸 Melissa
+  STOCKWELL\n🇩🇪 Neele LUDWIG\n🇪🇸 Rakel MATEO URIARTE\n🇮🇹 Veronica
+  Yoko PLEBANI
+SUMMARY:Women's PTS2
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T073815Z-para-swimming-MENS-100M-FREESTYLE-S10-HEATS
 DTSTAMP:20240901T073815Z
 DTSTART:20240901T073815Z
@@ -838,6 +863,18 @@ SUMMARY: ITA 🇮🇹 - 🇨🇳 CHN
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T061500Z-para-triathlon-MENS-PTWC
+DTSTAMP:20240902T061500Z
+DTSTART:20240902T061500Z
+DTEND:20240902T093500Z
+DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
+  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
+  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
+  Louis NOEL\n🇦🇺 Nic BEVERIDGE
+SUMMARY:Men's PTWC
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240902T072000Z-para-archery-MIXED-TEAM-W1-QUARTERFINAL-ITA-USA
 DTSTAMP:20240902T072000Z
 DTSTART:20240902T072000Z
@@ -885,6 +922,19 @@ DESCRIPTION:Para Swimming - Men's 50m Freestyle - S9 Heats\n🇧🇧 Antwahn
   DIDIER\n🇨🇳 XIE Zhili\n🇺🇦 Yurii BOZHYNSKYI
 SUMMARY:Men's 50m Freestyle - S9 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T081000Z-para-triathlon-WOMENS-PTVI
+DTSTAMP:20240902T081000Z
+DTSTART:20240902T081000Z
+DTEND:20240902T093500Z
+DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
+  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
+  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
+  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
+  RODRIGUEZ
+SUMMARY:Women's PTVI
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T081320Z-para-swimming-MENS-50M-BACKSTROKE-S3-HEATS

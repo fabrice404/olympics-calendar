@@ -165,6 +165,18 @@ SUMMARY:Men's 50m Backstroke - S1 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T081000Z-para-triathlon-MENS-PTS5
+DTSTAMP:20240901T081000Z
+DTSTART:20240901T081000Z
+DTEND:20240901T095500Z
+DESCRIPTION:Para Triathlon - Men's PTS5\n🇭🇺 Bence MOCSARI\n🇺🇸 Chris
+  HAMMER\n🇦🇺 David BRYANT\n🇵🇹 Filipe MARQUES\n🇦🇺 Jack HOWELL\n🇪🇸
+  Jairo RUIZ LOPEZ\n🇩🇪 Martin SCHULZ\n🇧🇷 Ronan CORDEIRO\n🇨🇦 Stefan
+  DANIEL\n🇹🇷 Ugurcan OZER
+SUMMARY:Men's PTS5
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T181900Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-S14-FINAL
 DTSTAMP:20240901T181900Z
 DTSTART:20240901T181900Z
@@ -173,6 +185,31 @@ DESCRIPTION:Para Swimming - Mixed 4x100m Freestyle Relay - S14 Final\n🇦🇺
   AUS\n🇧🇷 BRA\n🇬🇧 GBR\n🇭🇰 Hong Kong, China\n🇯🇵 JPN
 SUMMARY:Mixed 4x100m Freestyle Relay - S14 Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T062500Z-para-triathlon-WOMENS-PTWC
+DTSTAMP:20240902T062500Z
+DTSTART:20240902T062500Z
+DTEND:20240902T093500Z
+DESCRIPTION:Para Triathlon - Women's PTWC\n🇲🇽 Brenda OSNAYA ALVAREZ\n🇺🇸
+  Emelia PERRY\n🇪🇸 Eva Maria MORAL PEDRERO\n🇧🇷 Jessica FERREIRA\n🇺🇸
+  Kendall GRETSCH\n🇦🇺 Lauren PARKER\n🇨🇦 Leanne TAYLOR\n🇬🇧 Melissa
+  NICHOLLS\n🇫🇷 Mona FRANCIS
+SUMMARY:Women's PTWC
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T081000Z-para-triathlon-WOMENS-PTVI
+DTSTAMP:20240902T081000Z
+DTSTART:20240902T081000Z
+DTEND:20240902T093500Z
+DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
+  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
+  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
+  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
+  RODRIGUEZ
+SUMMARY:Women's PTVI
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T175800Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-49-POINTS-F

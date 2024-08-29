@@ -392,6 +392,20 @@ SUMMARY:Men's 100m Breaststroke - SB6 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T082500Z-para-triathlon-WOMENS-PTS4
+DTSTAMP:20240901T082500Z
+DTSTART:20240901T082500Z
+DTEND:20240901T095500Z
+DESCRIPTION:Para Triathlon - Women's PTS4\n🇫🇷 Camille SENECLAUZE\n🇮🇪
+  Cassie CAVA\n🇫🇷 Elise MARC\n🇩🇪 Elke van ENGELEN\n🇺🇸 Emma
+  MEYERS\n🇦🇺 Grace BRIMELOW\n🇬🇧 Hannah MOORE\n🇺🇸 Kelly
+  ELMLINGER\n🇲🇽 Kenia Yesenia VILLALOBOS VARGAS\n🇿🇦 Kirsty WEIR\n🇪🇸
+  Marta FRANCES GOMEZ\n🇬🇧 Megan RICHTER\n🇺🇸 Rachel WATTS\n🇦🇺 Sally
+  PILBEAM
+SUMMARY:Women's PTS4
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T082514Z-para-swimming-WOMENS-100M-BACKSTROKE-S11-HEATS
 DTSTAMP:20240901T082514Z
 DTSTART:20240901T082514Z
@@ -453,6 +467,18 @@ DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB5 Heats\n🇺🇦
   Pedro RANGEL HARO\n🇧🇷 Roberto ALCALDE RODRIGUEZ
 SUMMARY:Men's 100m Breaststroke - SB5 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T062500Z-para-triathlon-WOMENS-PTWC
+DTSTAMP:20240902T062500Z
+DTSTART:20240902T062500Z
+DTEND:20240902T093500Z
+DESCRIPTION:Para Triathlon - Women's PTWC\n🇲🇽 Brenda OSNAYA ALVAREZ\n🇺🇸
+  Emelia PERRY\n🇪🇸 Eva Maria MORAL PEDRERO\n🇧🇷 Jessica FERREIRA\n🇺🇸
+  Kendall GRETSCH\n🇦🇺 Lauren PARKER\n🇨🇦 Leanne TAYLOR\n🇬🇧 Melissa
+  NICHOLLS\n🇫🇷 Mona FRANCIS
+SUMMARY:Women's PTWC
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T074620Z-para-swimming-WOMENS-400M-FREESTYLE-S7-HEATS

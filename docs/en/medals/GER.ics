@@ -14,6 +14,16 @@ SUMMARY: Ricardo TEN ARGILES 🇪🇸 - 🇩🇪 Pierre SENSKA
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
+UID:20240829T142400Z-para-cycling-track-WOMENS-C1-3-3000M-INDIVIDUAL-PURSUI
+DTSTAMP:20240829T142400Z
+DTSTART:20240829T142400Z
+DTEND:20240829T144100Z
+DESCRIPTION:Para Cycling Track - Women's C1-3 3000m Individual Pursuit
+  Final - Bronze
+SUMMARY: Maike HAUSBERGER 🇩🇪 - 🇨🇭 Flurina RIGLING
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
 UID:20240829T163000Z-para-table-tennis-WOMENS-DOUBLES-WD14-SEMIFINAL-1-NOR-
 DTSTAMP:20240829T163000Z
 DTSTART:20240829T163000Z
@@ -44,6 +54,70 @@ DESCRIPTION:Para Athletics - Women's 100m - T35 Final\n🇮🇶 Fatimah
   Saltanat ABILKHASSYMKYZY\n🇨🇳 ZHOU Xia
 SUMMARY:Women's 100m - T35 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T061500Z-para-triathlon-MENS-PTS3
+DTSTAMP:20240901T061500Z
+DTSTART:20240901T061500Z
+DTEND:20240901T095500Z
+DESCRIPTION:Para Triathlon - Men's PTS3\n🇫🇷 Cedric DENUZIERE\n🇪🇸 Daniel
+  MOLINA\n🇪🇸 Diego LARDON FERRER\n🇬🇧 Henry URAND\n🇦🇺 Justin
+  GODFREY\n🇰🇷 KIM Hwang Tae\n🇩🇪 Max GELHAAR\n🇫🇷 Michael HERTER\n🇳🇱
+  Nico van der BURGT
+SUMMARY:Men's PTS3
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T063000Z-para-triathlon-WOMENS-PTS2
+DTSTAMP:20240901T063000Z
+DTSTART:20240901T063000Z
+DTEND:20240901T095500Z
+DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
+  FRANCIS\n🇫🇷 Cecile SABOUREAU\n🇻🇪 Emma Juaisca RODRIGUEZ
+  RODRIGUEZ\n🇯🇵 HATA Yukako\n🇺🇸 Hailey DANZ\n🇺🇸 Melissa
+  STOCKWELL\n🇩🇪 Neele LUDWIG\n🇪🇸 Rakel MATEO URIARTE\n🇮🇹 Veronica
+  Yoko PLEBANI
+SUMMARY:Women's PTS2
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T081000Z-para-triathlon-MENS-PTS5
+DTSTAMP:20240901T081000Z
+DTSTART:20240901T081000Z
+DTEND:20240901T095500Z
+DESCRIPTION:Para Triathlon - Men's PTS5\n🇭🇺 Bence MOCSARI\n🇺🇸 Chris
+  HAMMER\n🇦🇺 David BRYANT\n🇵🇹 Filipe MARQUES\n🇦🇺 Jack HOWELL\n🇪🇸
+  Jairo RUIZ LOPEZ\n🇩🇪 Martin SCHULZ\n🇧🇷 Ronan CORDEIRO\n🇨🇦 Stefan
+  DANIEL\n🇹🇷 Ugurcan OZER
+SUMMARY:Men's PTS5
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T082500Z-para-triathlon-WOMENS-PTS4
+DTSTAMP:20240901T082500Z
+DTSTART:20240901T082500Z
+DTEND:20240901T095500Z
+DESCRIPTION:Para Triathlon - Women's PTS4\n🇫🇷 Camille SENECLAUZE\n🇮🇪
+  Cassie CAVA\n🇫🇷 Elise MARC\n🇩🇪 Elke van ENGELEN\n🇺🇸 Emma
+  MEYERS\n🇦🇺 Grace BRIMELOW\n🇬🇧 Hannah MOORE\n🇺🇸 Kelly
+  ELMLINGER\n🇲🇽 Kenia Yesenia VILLALOBOS VARGAS\n🇿🇦 Kirsty WEIR\n🇪🇸
+  Marta FRANCES GOMEZ\n🇬🇧 Megan RICHTER\n🇺🇸 Rachel WATTS\n🇦🇺 Sally
+  PILBEAM
+SUMMARY:Women's PTS4
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T081000Z-para-triathlon-WOMENS-PTVI
+DTSTAMP:20240902T081000Z
+DTSTART:20240902T081000Z
+DTEND:20240902T093500Z
+DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
+  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
+  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
+  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
+  RODRIGUEZ
+SUMMARY:Women's PTVI
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240907T170400Z-para-swimming-WOMENS-50M-BACKSTROKE-S4-FINAL
