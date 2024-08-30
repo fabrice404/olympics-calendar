@@ -3912,12 +3912,21 @@ SUMMARY: Yuliya LYPETSKA 🇺🇦 - 🇫🇯 Irene MAR
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T094000Z-boccia-WOMENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-A-
+UID:20240830T094000Z-boccia-WOMENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-B-
 DTSTAMP:20240830T094000Z
 DTSTART:20240830T094000Z
 DTEND:20240830T104000Z
-DESCRIPTION:Boccia - Women's Individual - BC2 Preliminary Round Pool A
-SUMMARY: Cristina GONCALVES 🇵🇹 - 🇪🇨 Joselyn LEON
+DESCRIPTION:Boccia - Women's Individual - BC2 Preliminary Round Pool B
+SUMMARY: Eliska JANKECHOVA 🇸🇰 - 🇸🇻 Rebeca DUARTE
+LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T094000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-A-FR
+DTSTAMP:20240830T094000Z
+DTSTART:20240830T094000Z
+DTEND:20240830T104000Z
+DESCRIPTION:Boccia - Men's Individual - BC2 Preliminary Round Pool A
+SUMMARY: Faycal MEGUENNI 🇫🇷 - 🇸🇰 Robert MEZIK
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -3927,6 +3936,15 @@ DTSTART:20240830T094000Z
 DTEND:20240830T104000Z
 DESCRIPTION:Boccia - Men's Individual - BC2 Preliminary Round Pool B
 SUMMARY: Francis ROMBOUTS 🇧🇪 - 🇹🇳 Ayed BEN YOUB
+LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T094000Z-boccia-WOMENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-A-
+DTSTAMP:20240830T094000Z
+DTSTART:20240830T094000Z
+DTEND:20240830T104000Z
+DESCRIPTION:Boccia - Women's Individual - BC2 Preliminary Round Pool A
+SUMMARY: Joselyn LEON 🇪🇨 - 🇵🇹 Cristina GONCALVES
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -3945,24 +3963,6 @@ DTSTART:20240830T094000Z
 DTEND:20240830T104000Z
 DESCRIPTION:Boccia - Men's Individual - BC2 Preliminary Round Pool C
 SUMMARY: Nadav LEVI 🇮🇱 - 🇹🇳 Achraf TAYAHI
-LOCATION:South Paris Arena 1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240830T094000Z-boccia-WOMENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-B-
-DTSTAMP:20240830T094000Z
-DTSTART:20240830T094000Z
-DTEND:20240830T104000Z
-DESCRIPTION:Boccia - Women's Individual - BC2 Preliminary Round Pool B
-SUMMARY: Rebeca DUARTE 🇸🇻 - 🇸🇰 Eliska JANKECHOVA
-LOCATION:South Paris Arena 1
-END:VEVENT
-BEGIN:VEVENT
-UID:20240830T094000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-A-SV
-DTSTAMP:20240830T094000Z
-DTSTART:20240830T094000Z
-DTEND:20240830T104000Z
-DESCRIPTION:Boccia - Men's Individual - BC2 Preliminary Round Pool A
-SUMMARY: Robert MEZIK 🇸🇰 - 🇫🇷 Faycal MEGUENNI
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -5951,7 +5951,10 @@ UID:20240830T171200Z-para-athletics-MENS-400M-T52-FINAL
 DTSTAMP:20240830T171200Z
 DTSTART:20240830T171200Z
 DTEND:20240830T172000Z
-DESCRIPTION:Para Athletics - Men's 400m - T52 Final
+DESCRIPTION:Para Athletics - Men's 400m - T52 Final\n🇨🇦 Anthony
+  BOUCHARD\n🇨🇭 Fabian BLUM\n🇯🇵 ITO Tomoya\n🇵🇭 Jerrold Pete
+  MANGLIWAN\n🇲🇽 Leonardo de Jesus PEREZ JUAREZ\n🇧🇪 Maxime CARABIN\n🇯🇵
+  SATO Tomoki\n🇲🇽 Salvador HERNANDEZ MONDRAGON
 SUMMARY:Men's 400m - T52 Final
 LOCATION:Stade de France
 END:VEVENT
@@ -7314,7 +7317,11 @@ DTSTAMP:20240831T090200Z
 DTSTART:20240831T090200Z
 DTEND:20240831T095800Z
 DESCRIPTION:Para Cycling Track - Men's C4 4000m Individual Pursuit
-  Qualifying
+  Qualifying\n🇬🇧 Archie ATKINSON\n🇳🇿 Ben WESTENBERG\n🇺🇸 Bryan
+  LARSEN\n🇷🇴 Carol-Eduard NOVAK\n🇪🇸 Damian RAMOS SANCHEZ\n🇫🇷 Gatien
+  le ROUSSEAU\n🇩🇴 Jose Frank RODRIGUEZ HERNANDEZ\n🇸🇰 Jozef
+  METELKA\n🇫🇷 Kevin le CUNFF\n🇮🇩 Muhammad Fadli IMAMMUDDIN\n🇱🇻 Oskars
+  GAILISS\n🇮🇪 Ronan GRIMES\n🇨🇭 Timothy ZEMP
 SUMMARY:Men's C4 4000m Individual Pursuit Qualifying
 LOCATION:National Velodrome
 END:VEVENT
@@ -7654,7 +7661,12 @@ DTSTAMP:20240831T095800Z
 DTSTART:20240831T095800Z
 DTEND:20240831T105600Z
 DESCRIPTION:Para Cycling Track - Men's C5 4000m Individual Pursuit
-  Qualifying
+  Qualifying\n🇦🇪 Ahmed ALBEDWAWI\n🇺🇿 Azimbek ABDULLAEV\n🇬🇧 Blaine
+  HUNT\n🇨🇴 Carlos Andres VARGAS VILLANUEVA\n🇳🇱 Daniel ABRAHAM
+  GEBRU\n🇫🇷 Dorian FOULON\n🇨🇴 Edwin Fabian MATIZ RUIZ\n🇺🇸 Elouan
+  GARDON\n🇦🇹 Franz-Josef LASSER\n🇨🇱 Hernan MOYA CONTRERAS\n🇧🇷 Lauro
+  Cesar MOURO CHAMAN\n🇳🇱 Martin van de POL\n🇺🇦 Yehor DEMENTYEV\n🇭🇺
+  Zsombor WERMESER
 SUMMARY:Men's C5 4000m Individual Pursuit Qualifying
 LOCATION:National Velodrome
 END:VEVENT

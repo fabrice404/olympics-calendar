@@ -686,12 +686,12 @@ SUMMARY:Men's C4-5 1000m Time Trial - Qualifying
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T094000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-A-SV
+UID:20240830T094000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-A-FR
 DTSTAMP:20240830T094000Z
 DTSTART:20240830T094000Z
 DTEND:20240830T104000Z
 DESCRIPTION:Boccia - Men's Individual - BC2 Preliminary Round Pool A
-SUMMARY: Robert MEZIK 🇸🇰 - 🇫🇷 Faycal MEGUENNI
+SUMMARY: Faycal MEGUENNI 🇫🇷 - 🇸🇰 Robert MEZIK
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -1214,6 +1214,20 @@ SUMMARY:Men's 400m Freestyle - S13 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T090200Z-para-cycling-track-MENS-C4-4000M-INDIVIDUAL-PURSUIT-QU
+DTSTAMP:20240831T090200Z
+DTSTART:20240831T090200Z
+DTEND:20240831T095800Z
+DESCRIPTION:Para Cycling Track - Men's C4 4000m Individual Pursuit
+  Qualifying\n🇬🇧 Archie ATKINSON\n🇳🇿 Ben WESTENBERG\n🇺🇸 Bryan
+  LARSEN\n🇷🇴 Carol-Eduard NOVAK\n🇪🇸 Damian RAMOS SANCHEZ\n🇫🇷 Gatien
+  le ROUSSEAU\n🇩🇴 Jose Frank RODRIGUEZ HERNANDEZ\n🇸🇰 Jozef
+  METELKA\n🇫🇷 Kevin le CUNFF\n🇮🇩 Muhammad Fadli IMAMMUDDIN\n🇱🇻 Oskars
+  GAILISS\n🇮🇪 Ronan GRIMES\n🇨🇭 Timothy ZEMP
+SUMMARY:Men's C4 4000m Individual Pursuit Qualifying
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T095000Z-para-badminton-MENS-SINGLES-SL4-GROUP-PLAY-STAGE-GROUP
 DTSTAMP:20240831T095000Z
 DTSTART:20240831T095000Z
@@ -1221,6 +1235,21 @@ DTEND:20240831T123000Z
 DESCRIPTION:Para Badminton - Men's Singles SL4 Group Play Stage - Group D
 SUMMARY: Lucas MAZUR 🇫🇷 - 🇮🇳 Tarun TARUN
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T095800Z-para-cycling-track-MENS-C5-4000M-INDIVIDUAL-PURSUIT-QU
+DTSTAMP:20240831T095800Z
+DTSTART:20240831T095800Z
+DTEND:20240831T105600Z
+DESCRIPTION:Para Cycling Track - Men's C5 4000m Individual Pursuit
+  Qualifying\n🇦🇪 Ahmed ALBEDWAWI\n🇺🇿 Azimbek ABDULLAEV\n🇬🇧 Blaine
+  HUNT\n🇨🇴 Carlos Andres VARGAS VILLANUEVA\n🇳🇱 Daniel ABRAHAM
+  GEBRU\n🇫🇷 Dorian FOULON\n🇨🇴 Edwin Fabian MATIZ RUIZ\n🇺🇸 Elouan
+  GARDON\n🇦🇹 Franz-Josef LASSER\n🇨🇱 Hernan MOYA CONTRERAS\n🇧🇷 Lauro
+  Cesar MOURO CHAMAN\n🇳🇱 Martin van de POL\n🇺🇦 Yehor DEMENTYEV\n🇭🇺
+  Zsombor WERMESER
+SUMMARY:Men's C5 4000m Individual Pursuit Qualifying
+LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T100000Z-shooting-para-sport-P2-WOMENS-10M-AIR-PISTOL-SH1-QUALI
