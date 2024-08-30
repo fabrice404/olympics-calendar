@@ -906,21 +906,6 @@ SUMMARY:Men's 100m Breaststroke - SB9 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T085000Z-para-rowing-PR2-MIXED-DOUBLE-SCULLS-HEATS
-DTSTAMP:20240830T085000Z
-DTSTART:20240830T085000Z
-DTEND:20240830T091700Z
-DESCRIPTION:Para Rowing - PR2 Mixed Double Sculls Heats\n🇺🇦 Anna
-  AISANOVA\n🇫🇷 Benjamin DAVIET\n🇳🇱 Corne de KONING\n🇳🇱 Esther van der
-  LOOS\n🇬🇧 Gregg STEVENSON\n🇺🇦 Iaroslav KOIUDA\n🇨🇳 JIANG Jijian\n🇵🇱
-  Jolanta MAJKA\n🇮🇪 Katie O'BRIEN\n🇨🇳 LIU Shuang\n🇬🇧 Lauren
-  ROWLES\n🇵🇱 Michal Grzegorz GADOWSKI\n🇹🇷 Nursen SEN\n🇫🇷 Perle
-  BOUGE\n🇮🇱 Saleh SHAHIN\n🇮🇱 Shahar MILFELDER\n🇮🇪 Tiarnan
-  O'DONNELL\n🇹🇷 Yigit Dogukan BOZKURT
-SUMMARY:PR2 Mixed Double Sculls Heats
-LOCATION:Vaires-sur-Marne Stadium
-END:VEVENT
-BEGIN:VEVENT
 UID:20240830T085407Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB9-HEATS
 DTSTAMP:20240830T085407Z
 DTSTART:20240830T085407Z
@@ -1136,25 +1121,18 @@ SUMMARY:Men's Javelin Throw - F38 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T101000Z-para-rowing-PR3-MIXED-COXED-FOUR-HEATS
-DTSTAMP:20240830T101000Z
-DTSTART:20240830T101000Z
+UID:20240830T101500Z-para-rowing-PR2-MIXED-DOUBLE-SCULLS-HEATS
+DTSTAMP:20240830T101500Z
+DTSTART:20240830T101500Z
 DTEND:20240830T103700Z
-DESCRIPTION:Para Rowing - PR3 Mixed Coxed Four Heats\n🇺🇸 Alex FLYNN\n🇦🇺
-  Alexandra VINEY\n🇧🇷 Alina DUMAS\n🇰🇷 BAE Jiin\n🇺🇸 Ben
-  WASHBURNE\n🇰🇷 CHOI Seonwoong\n🇫🇷 Candyce CHAFA\n🇮🇹 Carolina
-  FORESTI\n🇪🇸 Daniel DIAZ ALCAIDE\n🇬🇧 Ed FULLER\n🇧🇷 Erik Matheus da
-  SILVA LIMA\n🇬🇧 Francesca ALLEN\n🇧🇷 Gabriel MENDES de SOUZA\n🇺🇸
-  Gemma WOLLENSCHLAEGER\n🇬🇧 Giedre RAKAUSKAITE\n🇫🇷 Gregoire
-  BIREAU\n🇮🇹 Greta Elizabeth MUTI\n🇨🇳 JIANG Lingtao\n🇪🇸 Josefa
-  BENITEZ GUZMAN\n🇬🇧 Josh O'BRIEN\n🇰🇷 KANG Hyounjoo\n🇩🇪 Kathrin
-  MARCHAND\n🇰🇷 LEE Seungho\n🇩🇪 Marc LEMBECK\n🇮🇹 Marco FRANK\n🇫🇷
-  Margot BOULET\n🇧🇷 Priscila BARRETO de SOUZA\n🇫🇷 Remy TARANTO\n🇪🇸
-  Saul PENA PUENTE\n🇺🇸 Skylar DAHL\n🇦🇺 Susannah LUTZE\n🇩🇪 Susanne
-  LACKNER\n🇦🇺 Tobiah GOFFSASSEN\n🇦🇺 Tom BIRTWHISTLE\n🇮🇹 Tommaso
-  SCHETTINO\n🇩🇪 Valentin LUZ\n🇪🇸 Veronica RODRIGUEZ PULIDO\n🇨🇳 WANG
-  Xixi\n🇨🇳 WU Yunlong\n🇨🇳 ZENG Wanbin
-SUMMARY:PR3 Mixed Coxed Four Heats
+DESCRIPTION:Para Rowing - PR2 Mixed Double Sculls Heats\n🇺🇦 Anna
+  AISANOVA\n🇫🇷 Benjamin DAVIET\n🇳🇱 Corne de KONING\n🇳🇱 Esther van der
+  LOOS\n🇬🇧 Gregg STEVENSON\n🇺🇦 Iaroslav KOIUDA\n🇨🇳 JIANG Jijian\n🇵🇱
+  Jolanta MAJKA\n🇮🇪 Katie O'BRIEN\n🇨🇳 LIU Shuang\n🇬🇧 Lauren
+  ROWLES\n🇵🇱 Michal Grzegorz GADOWSKI\n🇹🇷 Nursen SEN\n🇫🇷 Perle
+  BOUGE\n🇮🇱 Saleh SHAHIN\n🇮🇱 Shahar MILFELDER\n🇮🇪 Tiarnan
+  O'DONNELL\n🇹🇷 Yigit Dogukan BOZKURT
+SUMMARY:PR2 Mixed Double Sculls Heats
 LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
@@ -1269,6 +1247,28 @@ DESCRIPTION:Para Athletics - Women's 100m - T35 Final\n🇮🇶 Fatimah
   Saltanat ABILKHASSYMKYZY\n🇨🇳 ZHOU Xia
 SUMMARY:Women's 100m - T35 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T111500Z-para-rowing-PR3-MIXED-COXED-FOUR-HEATS
+DTSTAMP:20240830T111500Z
+DTSTART:20240830T111500Z
+DTEND:20240830T113700Z
+DESCRIPTION:Para Rowing - PR3 Mixed Coxed Four Heats\n🇺🇸 Alex FLYNN\n🇦🇺
+  Alexandra VINEY\n🇧🇷 Alina DUMAS\n🇰🇷 BAE Jiin\n🇺🇸 Ben
+  WASHBURNE\n🇰🇷 CHOI Seonwoong\n🇫🇷 Candyce CHAFA\n🇮🇹 Carolina
+  FORESTI\n🇪🇸 Daniel DIAZ ALCAIDE\n🇬🇧 Ed FULLER\n🇧🇷 Erik Matheus da
+  SILVA LIMA\n🇬🇧 Francesca ALLEN\n🇧🇷 Gabriel MENDES de SOUZA\n🇺🇸
+  Gemma WOLLENSCHLAEGER\n🇬🇧 Giedre RAKAUSKAITE\n🇫🇷 Gregoire
+  BIREAU\n🇮🇹 Greta Elizabeth MUTI\n🇨🇳 JIANG Lingtao\n🇪🇸 Josefa
+  BENITEZ GUZMAN\n🇬🇧 Josh O'BRIEN\n🇰🇷 KANG Hyounjoo\n🇩🇪 Kathrin
+  MARCHAND\n🇰🇷 LEE Seungho\n🇩🇪 Marc LEMBECK\n🇮🇹 Marco FRANK\n🇫🇷
+  Margot BOULET\n🇧🇷 Priscila BARRETO de SOUZA\n🇫🇷 Remy TARANTO\n🇪🇸
+  Saul PENA PUENTE\n🇺🇸 Skylar DAHL\n🇦🇺 Susannah LUTZE\n🇩🇪 Susanne
+  LACKNER\n🇦🇺 Tobiah GOFFSASSEN\n🇦🇺 Tom BIRTWHISTLE\n🇮🇹 Tommaso
+  SCHETTINO\n🇩🇪 Valentin LUZ\n🇪🇸 Veronica RODRIGUEZ PULIDO\n🇨🇳 WANG
+  Xixi\n🇨🇳 WU Yunlong\n🇨🇳 ZENG Wanbin
+SUMMARY:PR3 Mixed Coxed Four Heats
+LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T120000Z-para-table-tennis-WOMENS-DOUBLES-WD20-QUARTERFINAL-4-C

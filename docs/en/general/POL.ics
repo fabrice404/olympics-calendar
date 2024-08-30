@@ -315,21 +315,6 @@ SUMMARY: GRUDZIEN/PEK 🇵🇱 - 🇧🇷 MANARA/RAUEN
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T085000Z-para-rowing-PR2-MIXED-DOUBLE-SCULLS-HEATS
-DTSTAMP:20240830T085000Z
-DTSTART:20240830T085000Z
-DTEND:20240830T091700Z
-DESCRIPTION:Para Rowing - PR2 Mixed Double Sculls Heats\n🇺🇦 Anna
-  AISANOVA\n🇫🇷 Benjamin DAVIET\n🇳🇱 Corne de KONING\n🇳🇱 Esther van der
-  LOOS\n🇬🇧 Gregg STEVENSON\n🇺🇦 Iaroslav KOIUDA\n🇨🇳 JIANG Jijian\n🇵🇱
-  Jolanta MAJKA\n🇮🇪 Katie O'BRIEN\n🇨🇳 LIU Shuang\n🇬🇧 Lauren
-  ROWLES\n🇵🇱 Michal Grzegorz GADOWSKI\n🇹🇷 Nursen SEN\n🇫🇷 Perle
-  BOUGE\n🇮🇱 Saleh SHAHIN\n🇮🇱 Shahar MILFELDER\n🇮🇪 Tiarnan
-  O'DONNELL\n🇹🇷 Yigit Dogukan BOZKURT
-SUMMARY:PR2 Mixed Double Sculls Heats
-LOCATION:Vaires-sur-Marne Stadium
-END:VEVENT
-BEGIN:VEVENT
 UID:20240830T085407Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB9-HEATS
 DTSTAMP:20240830T085407Z
 DTSTART:20240830T085407Z
@@ -381,6 +366,21 @@ DTEND:20240830T101300Z
 DESCRIPTION:Para Taekwondo - Women K44 -65kg Round of 16
 SUMMARY: Christina GKENTZOU 🇬🇷 - 🇵🇱 Patrycja ZEWAR
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T101500Z-para-rowing-PR2-MIXED-DOUBLE-SCULLS-HEATS
+DTSTAMP:20240830T101500Z
+DTSTART:20240830T101500Z
+DTEND:20240830T103700Z
+DESCRIPTION:Para Rowing - PR2 Mixed Double Sculls Heats\n🇺🇦 Anna
+  AISANOVA\n🇫🇷 Benjamin DAVIET\n🇳🇱 Corne de KONING\n🇳🇱 Esther van der
+  LOOS\n🇬🇧 Gregg STEVENSON\n🇺🇦 Iaroslav KOIUDA\n🇨🇳 JIANG Jijian\n🇵🇱
+  Jolanta MAJKA\n🇮🇪 Katie O'BRIEN\n🇨🇳 LIU Shuang\n🇬🇧 Lauren
+  ROWLES\n🇵🇱 Michal Grzegorz GADOWSKI\n🇹🇷 Nursen SEN\n🇫🇷 Perle
+  BOUGE\n🇮🇱 Saleh SHAHIN\n🇮🇱 Shahar MILFELDER\n🇮🇪 Tiarnan
+  O'DONNELL\n🇹🇷 Yigit Dogukan BOZKURT
+SUMMARY:PR2 Mixed Double Sculls Heats
+LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T105700Z-para-athletics-MENS-100M-T47-ROUND-1
