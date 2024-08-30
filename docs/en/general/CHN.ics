@@ -1453,6 +1453,15 @@ SUMMARY:Women's 400m Freestyle - S11 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T165900Z-para-taekwondo-WOMEN-K44-65KG-SEMIFINAL
+DTSTAMP:20240830T165900Z
+DTSTART:20240830T165900Z
+DTEND:20240830T171000Z
+DESCRIPTION:Para Taekwondo - Women K44 -65kg Semifinal\n🇨🇳 YAO Yinan
+SUMMARY:Women K44 -65kg Semifinal
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T170000Z-para-table-tennis-MENS-DOUBLES-MD8-SEMIFINAL-1-THA-CHN
 DTSTAMP:20240830T170000Z
 DTSTART:20240830T170000Z
@@ -1565,6 +1574,18 @@ DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB9 Final\n🇳🇱
   Keira STEPHENS\n🇳🇱 Lisa KRUGER\n🇧🇪 Tatyana LEBRUN\n🇨🇳 ZHANG Meng
 SUMMARY:Women's 100m Breaststroke - SB9 Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T172900Z-para-athletics-MENS-100M-T47-FINAL
+DTSTAMP:20240830T172900Z
+DTSTART:20240830T172900Z
+DTEND:20240830T173600Z
+DESCRIPTION:Para Athletics - Men's 100m - T47 Final\n🇲🇦 Aymane EL
+  HADDAOUI\n🇺🇸 Korban BEST\n🇿🇼 Kudakwashe Paidamoyo CHIGWEDERE\n🇧🇷
+  Lucas SOUSA PEREIRA\n🇧🇷 Petrucio FERREIRA dos SANTOS\n🇨🇺 Raciel
+  GONZALEZ ISIDORIA\n🇨🇳 WANG Hao\n🇧🇷 Washington JUNIOR
+SUMMARY:Men's 100m - T47 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T173800Z-para-athletics-WOMENS-400M-T11-SEMI-FINALS
@@ -1879,6 +1900,18 @@ DTEND:20240831T123000Z
 DESCRIPTION:Para Badminton - Men's Singles SL3 Group Play Stage - Group A
 SUMMARY: Manoj SARKAR 🇮🇳 - 🇨🇳 YANG Jianyuan
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T084000Z-para-athletics-WOMENS-5000M-T54-FINAL
+DTSTAMP:20240831T084000Z
+DTSTART:20240831T084000Z
+DTEND:20240831T090100Z
+DESCRIPTION:Para Athletics - Women's 5000m - T54 Final\n🇨🇭 Catherine
+  DEBRUNNER\n🇬🇧 Eden RAINBOW-COOPER\n🇺🇸 Jenna FESEMYER\n🇦🇺 Madison de
+  ROZARIO\n🇨🇭 Manuela SCHAER\n🇩🇪 Merle Marie MENJE\n🇨🇭 Patricia
+  EACHUS\n🇮🇪 Shauna BOCQUET\n🇺🇸 Susannah SCARONI\n🇨🇳 TIAN Yajuan
+SUMMARY:Women's 5000m - T54 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T084200Z-para-taekwondo-MEN-K44-80KG-ROUND-OF-16-CHN-DOM
