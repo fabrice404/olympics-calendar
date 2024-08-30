@@ -716,6 +716,18 @@ SUMMARY: Serhiy ATAMANENKO 🇺🇦 - 🇧🇪 Piotr van MONTAGU
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T172000Z-para-athletics-MENS-100M-T37-FINAL
+DTSTAMP:20240830T172000Z
+DTSTART:20240830T172000Z
+DTEND:20240830T172700Z
+DESCRIPTION:Para Athletics - Men's 100m - T37 Final\n🇸🇦 Ali
+  ALNAKHLI\n🇧🇷 Christian Gabriel LUIZ da COSTA\n🇧🇷 Edson CAVALCANTE
+  PINHEIRO\n🇺🇦 Mykola RAISKYI\n🇧🇷 Ricardo GOMES de MENDONCA\n🇮🇩
+  Saptoyogo PURNOMO\n🇺🇦 Vladyslav ZAHREBELNYI
+SUMMARY:Men's 100m - T37 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T174400Z-para-swimming-MENS-100M-BACKSTROKE-S13-FINAL
 DTSTAMP:20240830T174400Z
 DTSTART:20240830T174400Z
@@ -908,6 +920,22 @@ DESCRIPTION:Para Swimming - Men's 50m Backstroke - S2 Heats\n🇨🇱 Alberto
   Rodrigo SANTILLAN\n🇺🇦 Roman BONDARENKO
 SUMMARY:Men's 50m Backstroke - S2 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T091000Z-para-rowing-PR3-MIXED-DOUBLE-SCULLS-REPECHAGES
+DTSTAMP:20240831T091000Z
+DTSTART:20240831T091000Z
+DTEND:20240831T093700Z
+DESCRIPTION:Para Rowing - PR3 Mixed Double Sculls Repechages\n🇮🇳
+  ANITA\n🇪🇬 Ali ELZIENY\n🇲🇽 Angeles Britani GUTIERREZ VIEYRA\n🇬🇧
+  Annabel CADDICK\n🇹🇭 Chintana CHUEASAART\n🇺🇦 Dariia KOTYK\n🇧🇷 Diana
+  Cristina BARCELOS de OLIVEIRA\n🇫🇷 Guylaine MARCHAND\n🇧🇷 Jairo
+  Natanael FROHLICH KLUG\n🇫🇷 Laurent CADOT\n🇪🇬 Marwa ABDELAAL\n🇲🇽
+  Miguel Angel NIETO CARPIO\n🇮🇳 Narayana KONGANAPALLE\n🇹🇭 Poramin
+  PHONGAMTHIPPAYAKUL\n🇺🇸 Saige HARPER\n🇬🇧 Samuel MURRAY\n🇺🇦 Stanislav
+  SAMOLIUK\n🇺🇸 Todd VOGT
+SUMMARY:PR3 Mixed Double Sculls Repechages
+LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T091500Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM7-HEATS
