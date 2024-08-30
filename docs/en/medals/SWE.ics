@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//en/medals/SVK//EN
-X-WR-CALNAME:🇸🇰 Slovakia 🏅 | Paris 2024
-NAME:🇸🇰 Slovakia 🏅 | Paris 2024
+PRODID:-//fabrice404//olympics-calendar//en/medals/SWE//EN
+X-WR-CALNAME:🇸🇪 Sweden 🏅 | Paris 2024
+NAME:🇸🇪 Sweden 🏅 | Paris 2024
 BEGIN:VEVENT
 UID:20240830T094500Z-shooting-para-sport-R2-WOMENS-10M-AIR-RIFLE-STANDING-S
 DTSTAMP:20240830T094500Z
@@ -14,14 +14,5 @@ DESCRIPTION:Shooting Para Sport - R2 - Women's 10m Air Rifle Standing SH1
   Cuiping\n🇨🇳 ZHONG Yixin
 SUMMARY:R2 - Women's 10m Air Rifle Standing SH1 Final
 LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240830T150000Z-para-table-tennis-MENS-DOUBLES-MD4-SEMIFINAL-2-SVK-KOR
-DTSTAMP:20240830T150000Z
-DTSTART:20240830T150000Z
-DTEND:20240830T160000Z
-DESCRIPTION:Para Table Tennis - Men's Doubles - MD4 - Semifinal 2
-SUMMARY: LOVAS/RIAPOS 🇸🇰 - 🇰🇷 CHA/PARK
-LOCATION:South Paris Arena 4
 END:VEVENT
 END:VCALENDAR

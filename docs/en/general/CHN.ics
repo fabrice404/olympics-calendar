@@ -909,7 +909,7 @@ BEGIN:VEVENT
 UID:20240830T085000Z-para-rowing-PR2-MIXED-DOUBLE-SCULLS-HEATS
 DTSTAMP:20240830T085000Z
 DTSTART:20240830T085000Z
-DTEND:20240830T093000Z
+DTEND:20240830T091700Z
 DESCRIPTION:Para Rowing - PR2 Mixed Double Sculls Heats\n🇺🇦 Anna
   AISANOVA\n🇫🇷 Benjamin DAVIET\n🇳🇱 Corne de KONING\n🇳🇱 Esther van der
   LOOS\n🇬🇧 Gregg STEVENSON\n🇺🇦 Iaroslav KOIUDA\n🇨🇳 JIANG Jijian\n🇵🇱
@@ -1044,6 +1044,18 @@ SUMMARY:Mixed 4x50m Freestyle Relay - 20 Points Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T094500Z-shooting-para-sport-R2-WOMENS-10M-AIR-RIFLE-STANDING-S
+DTSTAMP:20240830T094500Z
+DTSTART:20240830T094500Z
+DTEND:20240830T101500Z
+DESCRIPTION:Shooting Para Sport - R2 - Women's 10m Air Rifle Standing SH1
+  Final\n🇸🇪 Anna BENSON\n🇮🇳 Avani LEKHARA\n🇺🇦 Iryna SHCHETNIK\n🇰🇷
+  LEE Yunri\n🇮🇳 Mona AGARWAL\n🇸🇰 Veronika VADOVICOVA\n🇨🇳 ZHANG
+  Cuiping\n🇨🇳 ZHONG Yixin
+SUMMARY:R2 - Women's 10m Air Rifle Standing SH1 Final
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T095000Z-para-athletics-WOMENS-5000M-T54-ROUND-1
 DTSTAMP:20240830T095000Z
 DTSTART:20240830T095000Z
@@ -1127,7 +1139,7 @@ BEGIN:VEVENT
 UID:20240830T101000Z-para-rowing-PR3-MIXED-COXED-FOUR-HEATS
 DTSTAMP:20240830T101000Z
 DTSTART:20240830T101000Z
-DTEND:20240830T105000Z
+DTEND:20240830T103700Z
 DESCRIPTION:Para Rowing - PR3 Mixed Coxed Four Heats\n🇺🇸 Alex FLYNN\n🇦🇺
   Alexandra VINEY\n🇧🇷 Alina DUMAS\n🇰🇷 BAE Jiin\n🇺🇸 Ben
   WASHBURNE\n🇰🇷 CHOI Seonwoong\n🇫🇷 Candyce CHAFA\n🇮🇹 Carolina

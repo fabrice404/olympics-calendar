@@ -3618,7 +3618,7 @@ BEGIN:VEVENT
 UID:20240830T085000Z-para-rowing-PR2-MIXED-DOUBLE-SCULLS-HEATS
 DTSTAMP:20240830T085000Z
 DTSTART:20240830T085000Z
-DTEND:20240830T093000Z
+DTEND:20240830T091700Z
 DESCRIPTION:Para Rowing - PR2 Mixed Double Sculls Heats\n🇺🇦 Anna
   AISANOVA\n🇫🇷 Benjamin DAVIET\n🇳🇱 Corne de KONING\n🇳🇱 Esther van der
   LOOS\n🇬🇧 Gregg STEVENSON\n🇺🇦 Iaroslav KOIUDA\n🇨🇳 JIANG Jijian\n🇵🇱
@@ -3885,7 +3885,7 @@ BEGIN:VEVENT
 UID:20240830T093000Z-para-rowing-PR3-MIXED-DOUBLE-SCULLS-HEATS
 DTSTAMP:20240830T093000Z
 DTSTART:20240830T093000Z
-DTEND:20240830T101000Z
+DTEND:20240830T095700Z
 DESCRIPTION:Para Rowing - PR3 Mixed Double Sculls Heats\n🇮🇳 ANITA\n🇪🇬
   Ali ELZIENY\n🇲🇽 Angeles Britani GUTIERREZ VIEYRA\n🇬🇧 Annabel
   CADDICK\n🇹🇭 Chintana CHUEASAART\n🇺🇦 Dariia KOTYK\n🇧🇷 Diana Cristina
@@ -4021,7 +4021,9 @@ DTSTAMP:20240830T094500Z
 DTSTART:20240830T094500Z
 DTEND:20240830T101500Z
 DESCRIPTION:Shooting Para Sport - R2 - Women's 10m Air Rifle Standing SH1
-  Final
+  Final\n🇸🇪 Anna BENSON\n🇮🇳 Avani LEKHARA\n🇺🇦 Iryna SHCHETNIK\n🇰🇷
+  LEE Yunri\n🇮🇳 Mona AGARWAL\n🇸🇰 Veronika VADOVICOVA\n🇨🇳 ZHANG
+  Cuiping\n🇨🇳 ZHONG Yixin
 SUMMARY:R2 - Women's 10m Air Rifle Standing SH1 Final
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
@@ -4365,7 +4367,7 @@ BEGIN:VEVENT
 UID:20240830T101000Z-para-rowing-PR3-MIXED-COXED-FOUR-HEATS
 DTSTAMP:20240830T101000Z
 DTSTART:20240830T101000Z
-DTEND:20240830T105000Z
+DTEND:20240830T103700Z
 DESCRIPTION:Para Rowing - PR3 Mixed Coxed Four Heats\n🇺🇸 Alex FLYNN\n🇦🇺
   Alexandra VINEY\n🇧🇷 Alina DUMAS\n🇰🇷 BAE Jiin\n🇺🇸 Ben
   WASHBURNE\n🇰🇷 CHOI Seonwoong\n🇫🇷 Candyce CHAFA\n🇮🇹 Carolina
@@ -4575,13 +4577,12 @@ SUMMARY:Men's C2 3000m Individual Pursuit Qualifying
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T105700Z-para-taekwondo-MEN-K44-63KG-QUARTERFINAL
+UID:20240830T105700Z-para-taekwondo-MEN-K44-63KG-QUARTERFINAL-IRI-BRA
 DTSTAMP:20240830T105700Z
 DTSTART:20240830T105700Z
 DTEND:20240830T110800Z
-DESCRIPTION:Para Taekwondo - Men K44 -63kg Quarterfinal\n🇧🇷 Nathan
-  TORQUATO
-SUMMARY:Men K44 -63kg Quarterfinal
+DESCRIPTION:Para Taekwondo - Men K44 -63kg Quarterfinal
+SUMMARY: Saeid SADEGHIANPOUR 🇮🇷 - 🇧🇷 Nathan TORQUATO
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -8464,7 +8465,8 @@ UID:20240831T145500Z-para-archery-WOMENS-INDIVIDUAL-COMPOUND-OPEN-18-ELIMIN
 DTSTAMP:20240831T145500Z
 DTSTART:20240831T145500Z
 DTEND:20240831T151200Z
-DESCRIPTION:Para Archery - Women's Individual Compound Open 1/8 Elimination
+DESCRIPTION:Para Archery - Women's Individual Compound Open 1/8
+  Elimination\n🇦🇺 Ameera LEE
 SUMMARY:Women's Individual Compound Open 1/8 Elimination
 LOCATION:Invalides
 END:VEVENT

@@ -343,7 +343,7 @@ BEGIN:VEVENT
 UID:20240830T093000Z-para-rowing-PR3-MIXED-DOUBLE-SCULLS-HEATS
 DTSTAMP:20240830T093000Z
 DTSTART:20240830T093000Z
-DTEND:20240830T101000Z
+DTEND:20240830T095700Z
 DESCRIPTION:Para Rowing - PR3 Mixed Double Sculls Heats\n🇮🇳 ANITA\n🇪🇬
   Ali ELZIENY\n🇲🇽 Angeles Britani GUTIERREZ VIEYRA\n🇬🇧 Annabel
   CADDICK\n🇹🇭 Chintana CHUEASAART\n🇺🇦 Dariia KOTYK\n🇧🇷 Diana Cristina
@@ -365,6 +365,18 @@ DESCRIPTION:Para Archery - Women's Individual Compound Open 1/16
   Elimination
 SUMMARY: SARITA 🇮🇳 - 🇲🇾 Nur Jannaton ABDUL JALIL
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T094500Z-shooting-para-sport-R2-WOMENS-10M-AIR-RIFLE-STANDING-S
+DTSTAMP:20240830T094500Z
+DTSTART:20240830T094500Z
+DTEND:20240830T101500Z
+DESCRIPTION:Shooting Para Sport - R2 - Women's 10m Air Rifle Standing SH1
+  Final\n🇸🇪 Anna BENSON\n🇮🇳 Avani LEKHARA\n🇺🇦 Iryna SHCHETNIK\n🇰🇷
+  LEE Yunri\n🇮🇳 Mona AGARWAL\n🇸🇰 Veronika VADOVICOVA\n🇨🇳 ZHANG
+  Cuiping\n🇨🇳 ZHONG Yixin
+SUMMARY:R2 - Women's 10m Air Rifle Standing SH1 Final
+LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T105400Z-para-cycling-track-MENS-C2-3000M-INDIVIDUAL-PURSUIT-QU
