@@ -803,12 +803,12 @@ SUMMARY:PR3 Mixed Double Sculls Heats
 LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T105000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-F-PO
+UID:20240830T105000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-F-FR
 DTSTAMP:20240830T105000Z
 DTSTART:20240830T105000Z
 DTEND:20240830T120500Z
 DESCRIPTION:Boccia - Men's Individual - BC2 Preliminary Round Pool F
-SUMMARY: David ARAUJO 🇵🇹 - 🇫🇷 Aurelien FABRE
+SUMMARY: Aurelien FABRE 🇫🇷 - 🇵🇹 David ARAUJO
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -1236,6 +1236,18 @@ SUMMARY:Men's 400m Freestyle - S13 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T085000Z-para-rowing-PR2-MIXED-DOUBLE-SCULLS-REPECHAGES
+DTSTAMP:20240831T085000Z
+DTSTART:20240831T085000Z
+DTEND:20240831T091000Z
+DESCRIPTION:Para Rowing - PR2 Mixed Double Sculls Repechages\n🇺🇦 Anna
+  AISANOVA\n🇫🇷 Benjamin DAVIET\n🇳🇱 Corne de KONING\n🇳🇱 Esther van der
+  LOOS\n🇺🇦 Iaroslav KOIUDA\n🇮🇪 Katie O'BRIEN\n🇹🇷 Nursen SEN\n🇫🇷
+  Perle BOUGE\n🇮🇪 Tiarnan O'DONNELL\n🇹🇷 Yigit Dogukan BOZKURT
+SUMMARY:PR2 Mixed Double Sculls Repechages
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T090200Z-para-cycling-track-MENS-C4-4000M-INDIVIDUAL-PURSUIT-QU
 DTSTAMP:20240831T090200Z
 DTSTART:20240831T090200Z
@@ -1404,6 +1416,19 @@ DTEND:20240831T181500Z
 DESCRIPTION:Goalball - Women's Preliminary Round - Pool D
 SUMMARY: FRA 🇫🇷 - 🇰🇷 KOR
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T170000Z-para-athletics-MENS-JAVELIN-THROW-F57-FINAL
+DTSTAMP:20240831T170000Z
+DTSTART:20240831T170000Z
+DTEND:20240831T194500Z
+DESCRIPTION:Para Athletics - Men's Javelin Throw - F57 Final\n🇮🇷 Amanolah
+  PAPI\n🇧🇷 Cicero Valdiran LINS NOBRE\n🇮🇩 Fauzi PURWOLAKSONO\n🇸🇱
+  George WYNDHAM\n🇨🇻 Marilson FERNANDES SEMEDO\n🇹🇷 Muhammet
+  KHALVANDI\n🇦🇷 Pablo Damian GIMENEZ REINOSO\n🇮🇳 Parveen KUMAR\n🇫🇷
+  Vitolio KAVAKAVA\n🇺🇿 Yorkinbek ODILOV\n🇸🇳 Youssoupha DIOUF
+SUMMARY:Men's Javelin Throw - F57 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T172600Z-para-athletics-MENS-100M-T38-FINAL

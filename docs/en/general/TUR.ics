@@ -516,6 +516,18 @@ SUMMARY: TUR 🇹🇷 - 🇮🇱 ISR
 LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T085000Z-para-rowing-PR2-MIXED-DOUBLE-SCULLS-REPECHAGES
+DTSTAMP:20240831T085000Z
+DTSTART:20240831T085000Z
+DTEND:20240831T091000Z
+DESCRIPTION:Para Rowing - PR2 Mixed Double Sculls Repechages\n🇺🇦 Anna
+  AISANOVA\n🇫🇷 Benjamin DAVIET\n🇳🇱 Corne de KONING\n🇳🇱 Esther van der
+  LOOS\n🇺🇦 Iaroslav KOIUDA\n🇮🇪 Katie O'BRIEN\n🇹🇷 Nursen SEN\n🇫🇷
+  Perle BOUGE\n🇮🇪 Tiarnan O'DONNELL\n🇹🇷 Yigit Dogukan BOZKURT
+SUMMARY:PR2 Mixed Double Sculls Repechages
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T090300Z-para-swimming-WOMENS-50M-BACKSTROKE-S2-HEATS
 DTSTAMP:20240831T090300Z
 DTSTART:20240831T090300Z
@@ -572,6 +584,19 @@ DESCRIPTION:Para Archery - Women's Individual Compound Open 1/8
   Elimination\n🇹🇷 Oznur CURE GIRDI
 SUMMARY:Women's Individual Compound Open 1/8 Elimination
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T170000Z-para-athletics-MENS-JAVELIN-THROW-F57-FINAL
+DTSTAMP:20240831T170000Z
+DTSTART:20240831T170000Z
+DTEND:20240831T194500Z
+DESCRIPTION:Para Athletics - Men's Javelin Throw - F57 Final\n🇮🇷 Amanolah
+  PAPI\n🇧🇷 Cicero Valdiran LINS NOBRE\n🇮🇩 Fauzi PURWOLAKSONO\n🇸🇱
+  George WYNDHAM\n🇨🇻 Marilson FERNANDES SEMEDO\n🇹🇷 Muhammet
+  KHALVANDI\n🇦🇷 Pablo Damian GIMENEZ REINOSO\n🇮🇳 Parveen KUMAR\n🇫🇷
+  Vitolio KAVAKAVA\n🇺🇿 Yorkinbek ODILOV\n🇸🇳 Youssoupha DIOUF
+SUMMARY:Men's Javelin Throw - F57 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T190800Z-para-athletics-MENS-100M-T12-FINAL

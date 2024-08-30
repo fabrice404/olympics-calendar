@@ -1,19 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//en/medals/INA//EN
-X-WR-CALNAME:🇮🇩 Indonesia 🏅 | Paris 2024
-NAME:🇮🇩 Indonesia 🏅 | Paris 2024
+PRODID:-//fabrice404//olympics-calendar//en/general/SLE//EN
+X-WR-CALNAME:🇸🇱 Sierra Leone | Paris 2024
+NAME:🇸🇱 Sierra Leone | Paris 2024
 BEGIN:VEVENT
-UID:20240829T164200Z-para-swimming-WOMENS-100M-BUTTERFLY-S14-FINAL
-DTSTAMP:20240829T164200Z
-DTSTART:20240829T164200Z
-DTEND:20240829T164800Z
-DESCRIPTION:Para Swimming - Women's 100m Butterfly - S14 Final\n🇭🇰 CHAN
-  Yui Lam\n🇯🇵 KINOSHITA Aira\n🇬🇧 Louise FIDDES\n🇬🇧 Olivia
-  NEWMAN-BARONIUS\n🇦🇺 Paige LEONHARDT\n🇬🇧 Poppy MASKILL\n🇮🇩 Syuci
-  INDRIANI
-SUMMARY:Women's 100m Butterfly - S14 Final
-LOCATION:Paris La Defense Arena
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - Opening Ceremony
+SUMMARY:Paris 2024 - Opening Ceremony
+LOCATION:Paris
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T170000Z-para-athletics-MENS-JAVELIN-THROW-F57-FINAL
@@ -27,5 +24,14 @@ DESCRIPTION:Para Athletics - Men's Javelin Throw - F57 Final\n🇮🇷 Amanolah
   Vitolio KAVAKAVA\n🇺🇿 Yorkinbek ODILOV\n🇸🇳 Youssoupha DIOUF
 SUMMARY:Men's Javelin Throw - F57 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing Ceremony
+SUMMARY:Paris 2024 - Closing Ceremony
+LOCATION:Stade de France, Saint-Denis
 END:VEVENT
 END:VCALENDAR

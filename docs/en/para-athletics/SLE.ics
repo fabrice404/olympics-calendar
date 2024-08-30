@@ -1,20 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//en/medals/INA//EN
-X-WR-CALNAME:🇮🇩 Indonesia 🏅 | Paris 2024
-NAME:🇮🇩 Indonesia 🏅 | Paris 2024
-BEGIN:VEVENT
-UID:20240829T164200Z-para-swimming-WOMENS-100M-BUTTERFLY-S14-FINAL
-DTSTAMP:20240829T164200Z
-DTSTART:20240829T164200Z
-DTEND:20240829T164800Z
-DESCRIPTION:Para Swimming - Women's 100m Butterfly - S14 Final\n🇭🇰 CHAN
-  Yui Lam\n🇯🇵 KINOSHITA Aira\n🇬🇧 Louise FIDDES\n🇬🇧 Olivia
-  NEWMAN-BARONIUS\n🇦🇺 Paige LEONHARDT\n🇬🇧 Poppy MASKILL\n🇮🇩 Syuci
-  INDRIANI
-SUMMARY:Women's 100m Butterfly - S14 Final
-LOCATION:Paris La Defense Arena
-END:VEVENT
+PRODID:-//fabrice404//olympics-calendar//en/para-athletics/SLE//EN
+X-WR-CALNAME:🇸🇱 Sierra Leone Para Athletics | Paris 2024
+NAME:🇸🇱 Sierra Leone Para Athletics | Paris 2024
 BEGIN:VEVENT
 UID:20240831T170000Z-para-athletics-MENS-JAVELIN-THROW-F57-FINAL
 DTSTAMP:20240831T170000Z
