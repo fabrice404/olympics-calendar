@@ -105,8 +105,8 @@ DTSTAMP:20240830T170800Z
 DTSTART:20240830T170800Z
 DTEND:20240830T181600Z
 DESCRIPTION:Para Athletics - Men's Long Jump - T11 Final\n🇨🇳 CHEN
-  Shichang\n🇪🇸 Joan MUNAR MARTINEZ\n🇺🇿 Urganchbek EGAMNAZAROV\n🇨🇳 YE
-  Tao\n🇨🇳 di Dongdong
+  Shichang\n🇨🇳 DI Dongdong\n🇪🇸 Joan MUNAR MARTINEZ\n🇺🇿 Urganchbek
+  EGAMNAZAROV\n🇨🇳 YE Tao
 SUMMARY:Men's Long Jump - T11 Final
 LOCATION:Stade de France
 END:VEVENT
@@ -230,11 +230,11 @@ DTSTAMP:20240831T102600Z
 DTSTART:20240831T102600Z
 DTEND:20240831T110100Z
 DESCRIPTION:Para Athletics - Men's 400m - T11 Round 1\n🇳🇦 Ananias
-  SHIKONGO\n🇳🇦 Chris KINDA\n🇧🇷 Daniel MENDES da SILVA\n🇪🇸 Eduardo
-  Manuel UCEDA NOVAS\n🇻🇪 Enderson German SANTOS GONZALEZ\n🇧🇷 Felipe de
-  SOUZA GOMES\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain MOHAMED\n🇮🇶 Mohammed
-  AYADE\n🇫🇷 Timothee ADOLPHE\n🇺🇿 Urganchbek EGAMNAZAROV\n🇱🇸 Zimesele
-  KHAMOQANE\n🇨🇳 di Dongdong
+  SHIKONGO\n🇳🇦 Chris KINDA\n🇨🇳 DI Dongdong\n🇧🇷 Daniel MENDES da
+  SILVA\n🇪🇸 Eduardo Manuel UCEDA NOVAS\n🇻🇪 Enderson German SANTOS
+  GONZALEZ\n🇧🇷 Felipe de SOUZA GOMES\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain
+  MOHAMED\n🇮🇶 Mohammed AYADE\n🇫🇷 Timothee ADOLPHE\n🇺🇿 Urganchbek
+  EGAMNAZAROV\n🇱🇸 Zimesele KHAMOQANE
 SUMMARY:Men's 400m - T11 Round 1
 LOCATION:Stade de France
 END:VEVENT
@@ -260,6 +260,17 @@ DESCRIPTION:Para Athletics - Men's 100m - T38 Final\n🇮🇶 Ali
   Alejandro CAMPAS SANCHEZ\n🇺🇸 Nick MAYHUGH\n🇺🇸 Ryan MEDRANO\n🇨🇴
   Santiago SOLIS TORRES\n🇬🇧 Thomas YOUNG\n🇨🇳 ZHOU Peng
 SUMMARY:Men's 100m - T38 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T175900Z-para-athletics-WOMENS-400M-T11-FINAL
+DTSTAMP:20240831T175900Z
+DTSTART:20240831T175900Z
+DTEND:20240831T180700Z
+DESCRIPTION:Para Athletics - Women's 400m - T11 Final\n🇨🇳 HE
+  Shanshan\n🇨🇴 Ionis Dayana SALCEDO RODRIGUEZ\n🇳🇦 Lahja ISHITILE\n🇧🇷
+  Thalita Vitoria SIMPLICIO da SILVA
+SUMMARY:Women's 400m - T11 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

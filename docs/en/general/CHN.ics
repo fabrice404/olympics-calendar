@@ -1503,8 +1503,8 @@ DTSTAMP:20240830T170800Z
 DTSTART:20240830T170800Z
 DTEND:20240830T181600Z
 DESCRIPTION:Para Athletics - Men's Long Jump - T11 Final\n🇨🇳 CHEN
-  Shichang\n🇪🇸 Joan MUNAR MARTINEZ\n🇺🇿 Urganchbek EGAMNAZAROV\n🇨🇳 YE
-  Tao\n🇨🇳 di Dongdong
+  Shichang\n🇨🇳 DI Dongdong\n🇪🇸 Joan MUNAR MARTINEZ\n🇺🇿 Urganchbek
+  EGAMNAZAROV\n🇨🇳 YE Tao
 SUMMARY:Men's Long Jump - T11 Final
 LOCATION:Stade de France
 END:VEVENT
@@ -1725,13 +1725,12 @@ SUMMARY: YAO Yinan 🇨🇳 - 🇬🇷 Christina GKENTZOU
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T200000Z-para-taekwondo-WOMEN-K44-57KG-GOLD-MEDAL-CONTEST
+UID:20240830T200000Z-para-taekwondo-WOMEN-K44-57KG-GOLD-MEDAL-CONTEST-CHN-T
 DTSTAMP:20240830T200000Z
 DTSTART:20240830T200000Z
 DTEND:20240830T201400Z
-DESCRIPTION:Para Taekwondo - Women K44 -57kg Gold Medal Contest\n🇨🇳 LI
-  Yujie
-SUMMARY:Women K44 -57kg Gold Medal Contest
+DESCRIPTION:Para Taekwondo - Women K44 -57kg Gold Medal Contest
+SUMMARY: LI Yujie 🇨🇳 - 🇹🇷 Gamze GURDAL
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -1961,12 +1960,12 @@ SUMMARY:Men's C1-3 1000m Time Trial - Qualifying
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:20240831T083000Z-boccia-MENS-INDIVIDUAL-BC2-PLAYOFF
+UID:20240831T083000Z-boccia-MENS-INDIVIDUAL-BC2-PLAYOFF-JPN-CHN
 DTSTAMP:20240831T083000Z
 DTSTART:20240831T083000Z
 DTEND:20240831T093000Z
-DESCRIPTION:Boccia - Men's Individual - BC2 Playoff\n🇨🇳 YAN Zhiqiang
-SUMMARY:Men's Individual - BC2 Playoff
+DESCRIPTION:Boccia - Men's Individual - BC2 Playoff
+SUMMARY: SUGIMURA Hidetaka 🇯🇵 - 🇨🇳 YAN Zhiqiang
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -2119,16 +2118,52 @@ SUMMARY: GLINBANCHE/JAION 🇹🇭 - 🇨🇳 ZHAI/GU
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T100000Z-wheelchair-tennis-WOMENS-SINGLES-FIRST-ROUND-CHN-NED
+DTSTAMP:20240831T100000Z
+DTSTART:20240831T100000Z
+DTEND:20240831T113000Z
+DESCRIPTION:Wheelchair Tennis - Women's Singles First Round
+SUMMARY: ZHU Zhenzhen 🇨🇳 - 🇳🇱 Lizzy de GREEF
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T100000Z-wheelchair-tennis-MENS-DOUBLES-FIRST-ROUND-FRA-CHN
+DTSTAMP:20240831T100000Z
+DTSTART:20240831T100000Z
+DTEND:20240831T130000Z
+DESCRIPTION:Wheelchair Tennis - Men's Doubles First Round
+SUMMARY: LAGET/MENGUY 🇫🇷 - 🇨🇳 DONG/JI
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T100000Z-wheelchair-tennis-WOMENS-SINGLES-FIRST-ROUND-CHN-NED
+DTSTAMP:20240831T100000Z
+DTSTART:20240831T100000Z
+DTEND:20240831T130000Z
+DESCRIPTION:Wheelchair Tennis - Women's Singles First Round
+SUMMARY: WANG Ziying 🇨🇳 - 🇳🇱 Jinte BOS
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T100000Z-wheelchair-tennis-WOMENS-SINGLES-FIRST-ROUND-USA-CHN
+DTSTAMP:20240831T100000Z
+DTSTART:20240831T100000Z
+DTEND:20240831T160000Z
+DESCRIPTION:Wheelchair Tennis - Women's Singles First Round
+SUMMARY: Dana MATHEWSON 🇺🇸 - 🇨🇳 LI Xiaohui
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T102600Z-para-athletics-MENS-400M-T11-ROUND-1
 DTSTAMP:20240831T102600Z
 DTSTART:20240831T102600Z
 DTEND:20240831T110100Z
 DESCRIPTION:Para Athletics - Men's 400m - T11 Round 1\n🇳🇦 Ananias
-  SHIKONGO\n🇳🇦 Chris KINDA\n🇧🇷 Daniel MENDES da SILVA\n🇪🇸 Eduardo
-  Manuel UCEDA NOVAS\n🇻🇪 Enderson German SANTOS GONZALEZ\n🇧🇷 Felipe de
-  SOUZA GOMES\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain MOHAMED\n🇮🇶 Mohammed
-  AYADE\n🇫🇷 Timothee ADOLPHE\n🇺🇿 Urganchbek EGAMNAZAROV\n🇱🇸 Zimesele
-  KHAMOQANE\n🇨🇳 di Dongdong
+  SHIKONGO\n🇳🇦 Chris KINDA\n🇨🇳 DI Dongdong\n🇧🇷 Daniel MENDES da
+  SILVA\n🇪🇸 Eduardo Manuel UCEDA NOVAS\n🇻🇪 Enderson German SANTOS
+  GONZALEZ\n🇧🇷 Felipe de SOUZA GOMES\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain
+  MOHAMED\n🇮🇶 Mohammed AYADE\n🇫🇷 Timothee ADOLPHE\n🇺🇿 Urganchbek
+  EGAMNAZAROV\n🇱🇸 Zimesele KHAMOQANE
 SUMMARY:Men's 400m - T11 Round 1
 LOCATION:Stade de France
 END:VEVENT
@@ -2167,6 +2202,15 @@ DTEND:20240831T120000Z
 DESCRIPTION:Para Table Tennis - Men's Doubles - MD18 - Semifinal 1
 SUMMARY: MANARA/MASSAD 🇧🇷 - 🇨🇳 LIU/ZHAO
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T110000Z-wheelchair-tennis-WOMENS-SINGLES-FIRST-ROUND-CHN-RSA
+DTSTAMP:20240831T110000Z
+DTSTART:20240831T110000Z
+DTEND:20240831T123000Z
+DESCRIPTION:Wheelchair Tennis - Women's Singles First Round
+SUMMARY: GUO Luoyao 🇨🇳 - 🇿🇦 Kgothatso MONTJANE
+LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T111000Z-para-badminton-MENS-SINGLES-WH1-GROUP-PLAY-STAGE-GROUP
@@ -2235,6 +2279,17 @@ DESCRIPTION:Para Athletics - Men's 100m - T38 Final\n🇮🇶 Ali
   Alejandro CAMPAS SANCHEZ\n🇺🇸 Nick MAYHUGH\n🇺🇸 Ryan MEDRANO\n🇨🇴
   Santiago SOLIS TORRES\n🇬🇧 Thomas YOUNG\n🇨🇳 ZHOU Peng
 SUMMARY:Men's 100m - T38 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T175900Z-para-athletics-WOMENS-400M-T11-FINAL
+DTSTAMP:20240831T175900Z
+DTSTART:20240831T175900Z
+DTEND:20240831T180700Z
+DESCRIPTION:Para Athletics - Women's 400m - T11 Final\n🇨🇳 HE
+  Shanshan\n🇨🇴 Ionis Dayana SALCEDO RODRIGUEZ\n🇳🇦 Lahja ISHITILE\n🇧🇷
+  Thalita Vitoria SIMPLICIO da SILVA
+SUMMARY:Women's 400m - T11 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

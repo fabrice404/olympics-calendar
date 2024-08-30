@@ -1428,16 +1428,25 @@ SUMMARY:Men's C5 4000m Individual Pursuit Qualifying
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T100000Z-wheelchair-tennis-QUAD-SINGLES-FIRST-ROUND-BRA-CAN
+DTSTAMP:20240831T100000Z
+DTSTART:20240831T100000Z
+DTEND:20240831T130000Z
+DESCRIPTION:Wheelchair Tennis - Quad Singles First Round
+SUMMARY: Ymanitu SILVA 🇧🇷 - 🇨🇦 Robert SHAW
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T102600Z-para-athletics-MENS-400M-T11-ROUND-1
 DTSTAMP:20240831T102600Z
 DTSTART:20240831T102600Z
 DTEND:20240831T110100Z
 DESCRIPTION:Para Athletics - Men's 400m - T11 Round 1\n🇳🇦 Ananias
-  SHIKONGO\n🇳🇦 Chris KINDA\n🇧🇷 Daniel MENDES da SILVA\n🇪🇸 Eduardo
-  Manuel UCEDA NOVAS\n🇻🇪 Enderson German SANTOS GONZALEZ\n🇧🇷 Felipe de
-  SOUZA GOMES\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain MOHAMED\n🇮🇶 Mohammed
-  AYADE\n🇫🇷 Timothee ADOLPHE\n🇺🇿 Urganchbek EGAMNAZAROV\n🇱🇸 Zimesele
-  KHAMOQANE\n🇨🇳 di Dongdong
+  SHIKONGO\n🇳🇦 Chris KINDA\n🇨🇳 DI Dongdong\n🇧🇷 Daniel MENDES da
+  SILVA\n🇪🇸 Eduardo Manuel UCEDA NOVAS\n🇻🇪 Enderson German SANTOS
+  GONZALEZ\n🇧🇷 Felipe de SOUZA GOMES\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain
+  MOHAMED\n🇮🇶 Mohammed AYADE\n🇫🇷 Timothee ADOLPHE\n🇺🇿 Urganchbek
+  EGAMNAZAROV\n🇱🇸 Zimesele KHAMOQANE
 SUMMARY:Men's 400m - T11 Round 1
 LOCATION:Stade de France
 END:VEVENT
@@ -1458,6 +1467,24 @@ DTEND:20240831T120000Z
 DESCRIPTION:Para Table Tennis - Men's Doubles - MD18 - Semifinal 1
 SUMMARY: MANARA/MASSAD 🇧🇷 - 🇨🇳 LIU/ZHAO
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T110000Z-wheelchair-tennis-QUAD-SINGLES-FIRST-ROUND-BRA-RSA
+DTSTAMP:20240831T110000Z
+DTSTART:20240831T110000Z
+DTEND:20240831T140000Z
+DESCRIPTION:Wheelchair Tennis - Quad Singles First Round
+SUMMARY: Leandro PENA 🇧🇷 - 🇿🇦 Donald RAMPHADI
+LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T110000Z-wheelchair-tennis-MENS-DOUBLES-FIRST-ROUND-AUS-BRA
+DTSTAMP:20240831T110000Z
+DTSTART:20240831T110000Z
+DTEND:20240831T153000Z
+DESCRIPTION:Wheelchair Tennis - Men's Doubles First Round
+SUMMARY: PARKER/WEEKES 🇦🇺 - 🇧🇷 CARNEIRO SILVA/RODRIG
+LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T111600Z-para-taekwondo-WOMEN-K44-65KG-QUARTERFINAL
@@ -1570,6 +1597,17 @@ DESCRIPTION:Para Swimming - Men's 50m Backstroke - S1 Final\n🇺🇦 Anton
   Nikolaos KONTOU
 SUMMARY:Men's 50m Backstroke - S1 Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T175900Z-para-athletics-WOMENS-400M-T11-FINAL
+DTSTAMP:20240831T175900Z
+DTSTART:20240831T175900Z
+DTEND:20240831T180700Z
+DESCRIPTION:Para Athletics - Women's 400m - T11 Final\n🇨🇳 HE
+  Shanshan\n🇨🇴 Ionis Dayana SALCEDO RODRIGUEZ\n🇳🇦 Lahja ISHITILE\n🇧🇷
+  Thalita Vitoria SIMPLICIO da SILVA
+SUMMARY:Women's 400m - T11 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T180000Z-sitting-volleyball-WOMENS-PRELIMINARY-ROUND-POOL-B-CAN

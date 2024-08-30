@@ -216,11 +216,11 @@ DTSTAMP:20240831T102600Z
 DTSTART:20240831T102600Z
 DTEND:20240831T110100Z
 DESCRIPTION:Para Athletics - Men's 400m - T11 Round 1\n🇳🇦 Ananias
-  SHIKONGO\n🇳🇦 Chris KINDA\n🇧🇷 Daniel MENDES da SILVA\n🇪🇸 Eduardo
-  Manuel UCEDA NOVAS\n🇻🇪 Enderson German SANTOS GONZALEZ\n🇧🇷 Felipe de
-  SOUZA GOMES\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain MOHAMED\n🇮🇶 Mohammed
-  AYADE\n🇫🇷 Timothee ADOLPHE\n🇺🇿 Urganchbek EGAMNAZAROV\n🇱🇸 Zimesele
-  KHAMOQANE\n🇨🇳 di Dongdong
+  SHIKONGO\n🇳🇦 Chris KINDA\n🇨🇳 DI Dongdong\n🇧🇷 Daniel MENDES da
+  SILVA\n🇪🇸 Eduardo Manuel UCEDA NOVAS\n🇻🇪 Enderson German SANTOS
+  GONZALEZ\n🇧🇷 Felipe de SOUZA GOMES\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain
+  MOHAMED\n🇮🇶 Mohammed AYADE\n🇫🇷 Timothee ADOLPHE\n🇺🇿 Urganchbek
+  EGAMNAZAROV\n🇱🇸 Zimesele KHAMOQANE
 SUMMARY:Men's 400m - T11 Round 1
 LOCATION:Stade de France
 END:VEVENT
@@ -248,6 +248,17 @@ DESCRIPTION:Para Athletics - Women's 1500m - T13 Final\n🇲🇽 Daniela
   Keegan GAUNT\n🇺🇸 Liza CORSO\n🇺🇬 Peace OROMA\n🇹🇳 Somaya
   BOUSAID\n🇪🇹 Tigist Gezahagn MENIGSTU
 SUMMARY:Women's 1500m - T13 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T175900Z-para-athletics-WOMENS-400M-T11-FINAL
+DTSTAMP:20240831T175900Z
+DTSTART:20240831T175900Z
+DTEND:20240831T180700Z
+DESCRIPTION:Para Athletics - Women's 400m - T11 Final\n🇨🇳 HE
+  Shanshan\n🇨🇴 Ionis Dayana SALCEDO RODRIGUEZ\n🇳🇦 Lahja ISHITILE\n🇧🇷
+  Thalita Vitoria SIMPLICIO da SILVA
+SUMMARY:Women's 400m - T11 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
