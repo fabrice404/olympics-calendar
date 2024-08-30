@@ -3930,12 +3930,12 @@ SUMMARY: Francis ROMBOUTS 🇧🇪 - 🇹🇳 Ayed BEN YOUB
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T094000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-C-BR
+UID:20240830T094000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-C-NE
 DTSTAMP:20240830T094000Z
 DTSTART:20240830T094000Z
 DTEND:20240830T104000Z
 DESCRIPTION:Boccia - Men's Individual - BC2 Preliminary Round Pool C
-SUMMARY: Maciel SANTOS 🇧🇷 - 🇳🇱 Marco DEKKER
+SUMMARY: Marco DEKKER 🇳🇱 - 🇧🇷 Maciel SANTOS
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -4941,12 +4941,12 @@ SUMMARY: IR Iran 🇮🇷 - 🇺🇦 Ukraine
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T120300Z-para-taekwondo-MEN-K44-70KG-QUARTERFINAL
+UID:20240830T120300Z-para-taekwondo-MEN-K44-70KG-QUARTERFINAL-JPN-ARG
 DTSTAMP:20240830T120300Z
 DTSTART:20240830T120300Z
 DTEND:20240830T121400Z
-DESCRIPTION:Para Taekwondo - Men K44 -70kg Quarterfinal\n🇯🇵 KUDO Shunsuke
-SUMMARY:Men K44 -70kg Quarterfinal
+DESCRIPTION:Para Taekwondo - Men K44 -70kg Quarterfinal
+SUMMARY: KUDO Shunsuke 🇯🇵 - 🇦🇷 Juan Eduardo SAMORANO
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -6934,7 +6934,11 @@ UID:20240831T080000Z-para-cycling-track-WOMENS-C1-3-500M-TIME-TRIAL-QUALIFY
 DTSTAMP:20240831T080000Z
 DTSTART:20240831T080000Z
 DTEND:20240831T081900Z
-DESCRIPTION:Para Cycling Track - Women's C1-3 500m Time Trial - Qualifying
+DESCRIPTION:Para Cycling Track - Women's C1-3 500m Time Trial -
+  Qualifying\n🇦🇺 Amanda REID\n🇨🇭 Flurina RIGLING\n🇬🇧 Fran BROWN\n🇮🇳
+  Jyoti GADERIYA\n🇩🇪 Maike HAUSBERGER\n🇨🇦 Mel PEMBLE\n🇨🇳 QIAN
+  Wangwei\n🇮🇪 Richael TIMOTHY\n🇯🇵 SUGIURA Keiko\n🇧🇷 Sabrina CUSTODIA
+  da SILVA\n🇨🇳 WANG Xiaomei
 SUMMARY:Women's C1-3 500m Time Trial - Qualifying
 LOCATION:National Velodrome
 END:VEVENT
@@ -7081,7 +7085,14 @@ UID:20240831T081900Z-para-cycling-track-MENS-C1-3-1000M-TIME-TRIAL-QUALIFYI
 DTSTAMP:20240831T081900Z
 DTSTART:20240831T081900Z
 DTEND:20240831T090200Z
-DESCRIPTION:Para Cycling Track - Men's C1-3 1000m Time Trial - Qualifying
+DESCRIPTION:Para Cycling Track - Men's C1-3 1000m Time Trial -
+  Qualifying\n🇫🇷 Alexandre LEAUTE\n🇮🇳 Arshad SHAIK\n🇳🇿 Devon
+  BRIGGS\n🇵🇦 Esteban GODDARD MEDICA\n🇺🇿 Golibbek MIRZOYAROV\n🇦🇺
+  Gordon ALLAN\n🇬🇧 Jaco van GASS\n🇯🇵 KAWAMOTO Shota\n🇨🇳 LI
+  Zhangyu\n🇨🇳 LIANG Weicong\n🇲🇾 Mohamad Yusof Hafizi SHAHARUDDIN\n🇲🇾
+  Muhammad Adi Raimie AMIZAZAHAN\n🇩🇪 Pierre SENSKA\n🇪🇸 Ricardo TEN
+  ARGILES\n🇦🇷 Rodrigo Fernando LOPEZ\n🇵🇹 Telmo PINAO\n🇫🇷 Thomas
+  PEYROTON-DARTET
 SUMMARY:Men's C1-3 1000m Time Trial - Qualifying
 LOCATION:National Velodrome
 END:VEVENT
@@ -8468,7 +8479,8 @@ UID:20240831T143800Z-para-archery-WOMENS-INDIVIDUAL-COMPOUND-OPEN-18-ELIMIN
 DTSTAMP:20240831T143800Z
 DTSTART:20240831T143800Z
 DTEND:20240831T145500Z
-DESCRIPTION:Para Archery - Women's Individual Compound Open 1/8 Elimination
+DESCRIPTION:Para Archery - Women's Individual Compound Open 1/8
+  Elimination\n🇦🇺 Melissa-Anne TANNER
 SUMMARY:Women's Individual Compound Open 1/8 Elimination
 LOCATION:Invalides
 END:VEVENT

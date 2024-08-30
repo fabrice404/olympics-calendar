@@ -737,12 +737,12 @@ SUMMARY:Men's C4-5 1000m Time Trial - Qualifying
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T094000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-C-BR
+UID:20240830T094000Z-boccia-MENS-INDIVIDUAL-BC2-PRELIMINARY-ROUND-POOL-C-NE
 DTSTAMP:20240830T094000Z
 DTSTART:20240830T094000Z
 DTEND:20240830T104000Z
 DESCRIPTION:Boccia - Men's Individual - BC2 Preliminary Round Pool C
-SUMMARY: Maciel SANTOS 🇧🇷 - 🇳🇱 Marco DEKKER
+SUMMARY: Marco DEKKER 🇳🇱 - 🇧🇷 Maciel SANTOS
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -1177,6 +1177,19 @@ DESCRIPTION:Para Swimming - Men's 200m Freestyle - S14 Heats\n🇩🇰
   William ELLARD
 SUMMARY:Men's 200m Freestyle - S14 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T080000Z-para-cycling-track-WOMENS-C1-3-500M-TIME-TRIAL-QUALIFY
+DTSTAMP:20240831T080000Z
+DTSTART:20240831T080000Z
+DTEND:20240831T081900Z
+DESCRIPTION:Para Cycling Track - Women's C1-3 500m Time Trial -
+  Qualifying\n🇦🇺 Amanda REID\n🇨🇭 Flurina RIGLING\n🇬🇧 Fran BROWN\n🇮🇳
+  Jyoti GADERIYA\n🇩🇪 Maike HAUSBERGER\n🇨🇦 Mel PEMBLE\n🇨🇳 QIAN
+  Wangwei\n🇮🇪 Richael TIMOTHY\n🇯🇵 SUGIURA Keiko\n🇧🇷 Sabrina CUSTODIA
+  da SILVA\n🇨🇳 WANG Xiaomei
+SUMMARY:Women's C1-3 500m Time Trial - Qualifying
+LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T082000Z-para-taekwondo-MEN-K44-80KG-ROUND-OF-16-BRA-SRB

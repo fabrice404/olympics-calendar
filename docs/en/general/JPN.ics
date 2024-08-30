@@ -711,12 +711,12 @@ SUMMARY: Anna NTENTA 🇬🇷 - 🇯🇵 ICHINOE Ayane
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T120300Z-para-taekwondo-MEN-K44-70KG-QUARTERFINAL
+UID:20240830T120300Z-para-taekwondo-MEN-K44-70KG-QUARTERFINAL-JPN-ARG
 DTSTAMP:20240830T120300Z
 DTSTART:20240830T120300Z
 DTEND:20240830T121400Z
-DESCRIPTION:Para Taekwondo - Men K44 -70kg Quarterfinal\n🇯🇵 KUDO Shunsuke
-SUMMARY:Men K44 -70kg Quarterfinal
+DESCRIPTION:Para Taekwondo - Men K44 -70kg Quarterfinal
+SUMMARY: KUDO Shunsuke 🇯🇵 - 🇦🇷 Juan Eduardo SAMORANO
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -937,6 +937,19 @@ SUMMARY:Women's 200m Freestyle - S14 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T080000Z-para-cycling-track-WOMENS-C1-3-500M-TIME-TRIAL-QUALIFY
+DTSTAMP:20240831T080000Z
+DTSTART:20240831T080000Z
+DTEND:20240831T081900Z
+DESCRIPTION:Para Cycling Track - Women's C1-3 500m Time Trial -
+  Qualifying\n🇦🇺 Amanda REID\n🇨🇭 Flurina RIGLING\n🇬🇧 Fran BROWN\n🇮🇳
+  Jyoti GADERIYA\n🇩🇪 Maike HAUSBERGER\n🇨🇦 Mel PEMBLE\n🇨🇳 QIAN
+  Wangwei\n🇮🇪 Richael TIMOTHY\n🇯🇵 SUGIURA Keiko\n🇧🇷 Sabrina CUSTODIA
+  da SILVA\n🇨🇳 WANG Xiaomei
+SUMMARY:Women's C1-3 500m Time Trial - Qualifying
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T080600Z-para-swimming-MENS-100M-BACKSTROKE-S8-HEATS
 DTSTAMP:20240831T080600Z
 DTSTART:20240831T080600Z
@@ -960,6 +973,22 @@ DESCRIPTION:Para Rowing - PR1 Men’s Single Sculls Repechages\n🇫🇷 Alexis
   RAHMANI\n🇩🇪 Marcus KLEMP\n🇮🇱 Shmuel DANIEL
 SUMMARY:PR1 Men’s Single Sculls Repechages
 LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T081900Z-para-cycling-track-MENS-C1-3-1000M-TIME-TRIAL-QUALIFYI
+DTSTAMP:20240831T081900Z
+DTSTART:20240831T081900Z
+DTEND:20240831T090200Z
+DESCRIPTION:Para Cycling Track - Men's C1-3 1000m Time Trial -
+  Qualifying\n🇫🇷 Alexandre LEAUTE\n🇮🇳 Arshad SHAIK\n🇳🇿 Devon
+  BRIGGS\n🇵🇦 Esteban GODDARD MEDICA\n🇺🇿 Golibbek MIRZOYAROV\n🇦🇺
+  Gordon ALLAN\n🇬🇧 Jaco van GASS\n🇯🇵 KAWAMOTO Shota\n🇨🇳 LI
+  Zhangyu\n🇨🇳 LIANG Weicong\n🇲🇾 Mohamad Yusof Hafizi SHAHARUDDIN\n🇲🇾
+  Muhammad Adi Raimie AMIZAZAHAN\n🇩🇪 Pierre SENSKA\n🇪🇸 Ricardo TEN
+  ARGILES\n🇦🇷 Rodrigo Fernando LOPEZ\n🇵🇹 Telmo PINAO\n🇫🇷 Thomas
+  PEYROTON-DARTET
+SUMMARY:Men's C1-3 1000m Time Trial - Qualifying
+LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T082300Z-para-swimming-MENS-400M-FREESTYLE-S13-HEATS

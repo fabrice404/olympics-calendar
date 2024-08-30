@@ -307,6 +307,15 @@ SUMMARY: Niurka CALLUPE 🇵🇪 - 🇦🇷 Stefania FERRANDO
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T120300Z-para-taekwondo-MEN-K44-70KG-QUARTERFINAL-JPN-ARG
+DTSTAMP:20240830T120300Z
+DTSTART:20240830T120300Z
+DTEND:20240830T121400Z
+DESCRIPTION:Para Taekwondo - Men K44 -70kg Quarterfinal
+SUMMARY: KUDO Shunsuke 🇯🇵 - 🇦🇷 Juan Eduardo SAMORANO
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T160000Z-para-athletics-WOMENS-CLUB-THROW-F32-FINAL
 DTSTAMP:20240830T160000Z
 DTSTART:20240830T160000Z
@@ -385,6 +394,22 @@ DESCRIPTION:Para Swimming - Men's 100m Backstroke - S8 Heats\n🇺🇦 Bohdan
   MAXWELL\n🇹🇷 Turgut Aslan YARAMAN
 SUMMARY:Men's 100m Backstroke - S8 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T081900Z-para-cycling-track-MENS-C1-3-1000M-TIME-TRIAL-QUALIFYI
+DTSTAMP:20240831T081900Z
+DTSTART:20240831T081900Z
+DTEND:20240831T090200Z
+DESCRIPTION:Para Cycling Track - Men's C1-3 1000m Time Trial -
+  Qualifying\n🇫🇷 Alexandre LEAUTE\n🇮🇳 Arshad SHAIK\n🇳🇿 Devon
+  BRIGGS\n🇵🇦 Esteban GODDARD MEDICA\n🇺🇿 Golibbek MIRZOYAROV\n🇦🇺
+  Gordon ALLAN\n🇬🇧 Jaco van GASS\n🇯🇵 KAWAMOTO Shota\n🇨🇳 LI
+  Zhangyu\n🇨🇳 LIANG Weicong\n🇲🇾 Mohamad Yusof Hafizi SHAHARUDDIN\n🇲🇾
+  Muhammad Adi Raimie AMIZAZAHAN\n🇩🇪 Pierre SENSKA\n🇪🇸 Ricardo TEN
+  ARGILES\n🇦🇷 Rodrigo Fernando LOPEZ\n🇵🇹 Telmo PINAO\n🇫🇷 Thomas
+  PEYROTON-DARTET
+SUMMARY:Men's C1-3 1000m Time Trial - Qualifying
+LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T091500Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM7-HEATS
