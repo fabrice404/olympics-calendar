@@ -7,7 +7,7 @@ import { Event, Medal, NOC, Sport } from "./types";
 import { getAllSportsKeys, getSportIcon } from "./sports";
 import { existsSync, writeFileSync } from "fs";
 import { hasFile, readFile, saveFile } from "./io";
-import cheerio from "cheerio";
+import * as cheerio from "cheerio";
 import { getNOCFlag, getNOCName, isValidNOC } from "./nocs";
 import * as translate from "./translate";
 import { generateICS } from "./ics";
@@ -390,8 +390,17 @@ export class Calendar {
         };
       }
 
-      content.push(`<div class="event py-4" data-start="${event.DTSTART}" data-end="${event.DTEND}" data-noc="${event._NOCS.sort().join(",")}">`);
-      content.push(" <div class=\"time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10\">");
+      let medalColor = "";
+      if (event._MEDAL) {
+        if (event._UNITNAME.match(/bronze/gi)) {
+          medalColor = "bg-orange-700";
+        } else {
+          medalColor = "bg-amber-400";
+        }
+      }
+
+      content.push(`<div class="event py-4 ${medalColor}" data-start="${event.DTSTART}" data-end="${event.DTEND}" data-noc="${event._NOCS.sort().join(",")}" >`);
+      content.push(` <div class=\"time w-1/4 align-top text-right inline-block text-5xl text-center tabular-nums pr-2 border-r border-slate-900/10\">`);
       content.push("  <span class=\"time-start\">__:__</span>");
       content.push("  <div class=\"time-end text-xs\">__:__</div>");
       content.push(" </div>");
