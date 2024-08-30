@@ -151,19 +151,6 @@ SUMMARY:Men's Shot Put - F37 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240831T080000Z-para-athletics-WOMENS-DISCUS-THROW-F57-FINAL
-DTSTAMP:20240831T080000Z
-DTSTART:20240831T080000Z
-DTEND:20240831T110000Z
-DESCRIPTION:Para Athletics - Women's Discus Throw - F57 Final\n🇨🇲 Arlette
-  MAWE FOKOA\n🇲🇽 Floralia ESTRADA BERNAL\n🇧🇷 Julyana Cristina da
-  SILVA\n🇺🇿 Mokhigul KHAMDAMOVA\n🇩🇿 Nassima SAIFI\n🇩🇿 Safia
-  DJELAL\n🇧🇬 Stela ENEVA\n🇨🇳 TIAN Yuxin\n🇨🇳 XU Mian\n🇨🇴 Yeniffer
-  PAREDES MURIEL\n🇬🇭 Zinabu ISSAH
-SUMMARY:Women's Discus Throw - F57 Final
-LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
 UID:20240831T080400Z-para-athletics-MENS-SHOT-PUT-F12-FINAL
 DTSTAMP:20240831T080400Z
 DTSTART:20240831T080400Z
@@ -176,10 +163,23 @@ SUMMARY:Men's Shot Put - F12 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240831T170000Z-para-athletics-MENS-JAVELIN-THROW-F57-FINAL
-DTSTAMP:20240831T170000Z
-DTSTART:20240831T170000Z
-DTEND:20240831T194500Z
+UID:20240831T080900Z-para-athletics-WOMENS-DISCUS-THROW-F57-FINAL
+DTSTAMP:20240831T080900Z
+DTSTART:20240831T080900Z
+DTEND:20240831T110900Z
+DESCRIPTION:Para Athletics - Women's Discus Throw - F57 Final\n🇨🇲 Arlette
+  MAWE FOKOA\n🇲🇽 Floralia ESTRADA BERNAL\n🇧🇷 Julyana Cristina da
+  SILVA\n🇺🇿 Mokhigul KHAMDAMOVA\n🇩🇿 Nassima SAIFI\n🇩🇿 Safia
+  DJELAL\n🇧🇬 Stela ENEVA\n🇨🇳 TIAN Yuxin\n🇨🇳 XU Mian\n🇨🇴 Yeniffer
+  PAREDES MURIEL\n🇬🇭 Zinabu ISSAH
+SUMMARY:Women's Discus Throw - F57 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T170800Z-para-athletics-MENS-JAVELIN-THROW-F57-FINAL
+DTSTAMP:20240831T170800Z
+DTSTART:20240831T170800Z
+DTEND:20240831T195300Z
 DESCRIPTION:Para Athletics - Men's Javelin Throw - F57 Final\n🇮🇷 Amanolah
   PAPI\n🇧🇷 Cicero Valdiran LINS NOBRE\n🇮🇩 Fauzi PURWOLAKSONO\n🇸🇱
   George WYNDHAM\n🇨🇻 Marilson FERNANDES SEMEDO\n🇹🇷 Muhammet
