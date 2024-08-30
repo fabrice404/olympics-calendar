@@ -67,4 +67,27 @@ DESCRIPTION:Para Athletics - Men's 5000m - T54 Round 1\n🇺🇸 Aaron
 SUMMARY:Men's 5000m - T54 Round 1
 LOCATION:Stade de France
 END:VEVENT
+BEGIN:VEVENT
+UID:20240831T080800Z-para-athletics-WOMENS-JAVELIN-THROW-F13-FINAL
+DTSTAMP:20240831T080800Z
+DTSTART:20240831T080800Z
+DTEND:20240831T093300Z
+DESCRIPTION:Para Athletics - Women's Javelin Throw - F13 Final\n🇨🇦 Ashlyn
+  RENNEBERG\n🇩🇿 Bakhta BENALLOU\n🇰🇿 Gulbakhyt KAIYRZHANOVA\n🇹🇼 LIU
+  Ya-Ting\n🇦🇹 Natalija EDER\n🇹🇷 Serap DEMIRKAPU\n🇰🇪 Sheilla
+  WANYOYI\n🇨🇴 Yasiris BLANDON ESCOBAR\n🇨🇳 ZHAO Yuping
+SUMMARY:Women's Javelin Throw - F13 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T081400Z-para-athletics-MENS-5000M-T13-FINAL
+DTSTAMP:20240831T081400Z
+DTSTART:20240831T081400Z
+DTEND:20240831T083200Z
+DESCRIPTION:Para Athletics - Men's 5000m - T13 Final\n🇨🇦 Guillaume
+  OUELLET\n🇦🇺 Jaryd CLIFFORD\n🇰🇪 John LOKEDI\n🇹🇷 Mikail AL\n🇪🇨
+  Sixto Roman MORETA CRIOLLO\n🇪🇸 Yassine OUHDADI EL ATABY
+SUMMARY:Men's 5000m - T13 Final
+LOCATION:Stade de France
+END:VEVENT
 END:VCALENDAR

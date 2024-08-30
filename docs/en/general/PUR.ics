@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/PUR//EN
+X-WR-CALNAME:🇵🇷 Puerto Rico | Paris 2024
+NAME:🇵🇷 Puerto Rico | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - Opening Ceremony
+SUMMARY:Paris 2024 - Opening Ceremony
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T092100Z-para-athletics-WOMENS-LONG-JUMP-T64-FINAL
+DTSTAMP:20240831T092100Z
+DTSTART:20240831T092100Z
+DTEND:20240831T104600Z
+DESCRIPTION:Para Athletics - Women's Long Jump - T64 Final\n🇵🇷 Amaris
+  Sofia VAZQUEZ COLLAZO\n🇺🇸 Annie CAREY\n🇺🇸 B HATZ\n🇳🇱 Fleur
+  JONG\n🇮🇹 Giuliana Chiara FILIPPI\n🇳🇱 Kiki HENDRIKS\n🇳🇱 Marlene van
+  GANSEWINKEL\n🇯🇵 NAKANISHI Maya\n🇪🇸 Sara ANDRES BARRIO\n🇦🇺 Sarah
+  WALSH\n🇯🇵 TAKAKUWA Saki\n🇿🇦 Tezna Kirstin ABRAHAMS
+SUMMARY:Women's Long Jump - T64 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing Ceremony
+SUMMARY:Paris 2024 - Closing Ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

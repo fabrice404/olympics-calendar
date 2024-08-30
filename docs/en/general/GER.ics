@@ -723,6 +723,21 @@ SUMMARY: Boris NICOLAI 🇩🇪 - 🇪🇬 Mahmoud ALLAM
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T094100Z-para-athletics-WOMENS-100M-T38-ROUND-1
+DTSTAMP:20240831T094100Z
+DTSTART:20240831T094100Z
+DTEND:20240831T095500Z
+DESCRIPTION:Para Athletics - Women's 100m - T38 Round 1\n🇨🇳 CHEN
+  Zimo\n🇺🇸 Catarina Joao GUIMARAES\n🇨🇴 Darian Faisury JIMENEZ
+  SANCHEZ\n🇦🇺 Ella PARDY\n🇩🇪 Friederike BROSE\n🇨🇴 Karen Tatiana
+  PALOMEQUE MORENO\n🇬🇷 Lida Maria MANTHOPOULOU\n🇩🇪 Lindy AVE\n🇭🇺 Luca
+  EKLER\n🇬🇧 Maddie DOWN\n🇦🇷 Milagros del Valle GONZALEZ\n🇩🇪 Nele
+  MOOS\n🇬🇧 Olivia BREEN\n🇦🇺 Rhiannon CLARKE\n🇫🇷 Sofia PACE\n🇬🇧
+  Sophie HAHN\n🇯🇵 TAKAMATSU Yuka
+SUMMARY:Women's 100m - T38 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T111000Z-para-badminton-MENS-SINGLES-WH1-GROUP-PLAY-STAGE-GROUP
 DTSTAMP:20240831T111000Z
 DTSTART:20240831T111000Z
@@ -730,6 +745,17 @@ DTEND:20240831T123000Z
 DESCRIPTION:Para Badminton - Men's Singles WH1 Group Play Stage - Group C
 SUMMARY: Thomas WANDSCHNEIDER 🇩🇪 - 🇨🇳 YANG Tong
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T183400Z-para-athletics-MENS-LONG-JUMP-T63-FINAL
+DTSTAMP:20240831T183400Z
+DTSTART:20240831T183400Z
+DTEND:20240831T194700Z
+DESCRIPTION:Para Athletics - Men's Long Jump - T63 Final\n🇩🇰 Daniel
+  WAGNER\n🇺🇸 Ezra FRECH\n🇳🇱 Joel de JONG\n🇩🇪 Leon SCHAEFER\n🇳🇱 Noah
+  MBUYAMBA\n🇿🇦 Puseletso Michael MABOTE\n🇩🇴 Wagner ASTACIO
+SUMMARY:Men's Long Jump - T63 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T193000Z-wheelchair-basketball-MENS-PRELIMINARY-ROUND-GROUP-A-G

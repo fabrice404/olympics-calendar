@@ -89,6 +89,17 @@ SUMMARY:Men's Javelin Throw - F38 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T125200Z-para-cycling-track-MENS-C4-5-1000M-TIME-TRIAL-FINAL
+DTSTAMP:20240830T125200Z
+DTSTART:20240830T125200Z
+DTEND:20240830T131700Z
+DESCRIPTION:Para Cycling Track - Men's C4-5 1000m Time Trial - Final\n🇪🇸
+  Alfonso CABELLO LLAMAS\n🇬🇧 Archie ATKINSON\n🇬🇧 Blaine HUNT\n🇬🇧 Jody
+  CUNDY\n🇸🇰 Jozef METELKA\n🇦🇺 Korey BODDINGTON
+SUMMARY:Men's C4-5 1000m Time Trial - Final
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T160000Z-para-athletics-WOMENS-CLUB-THROW-F32-FINAL
 DTSTAMP:20240830T160000Z
 DTSTART:20240830T160000Z
@@ -135,6 +146,44 @@ DESCRIPTION:Para Swimming - Mixed 4x50m Freestyle Relay - 20 Points
   UKR\n🇺🇸 USA
 SUMMARY:Mixed 4x50m Freestyle Relay - 20 Points Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T081400Z-para-athletics-MENS-5000M-T13-FINAL
+DTSTAMP:20240831T081400Z
+DTSTART:20240831T081400Z
+DTEND:20240831T083200Z
+DESCRIPTION:Para Athletics - Men's 5000m - T13 Final\n🇨🇦 Guillaume
+  OUELLET\n🇦🇺 Jaryd CLIFFORD\n🇰🇪 John LOKEDI\n🇹🇷 Mikail AL\n🇪🇨
+  Sixto Roman MORETA CRIOLLO\n🇪🇸 Yassine OUHDADI EL ATABY
+SUMMARY:Men's 5000m - T13 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T091100Z-para-athletics-MENS-1500M-T46-FINAL
+DTSTAMP:20240831T091100Z
+DTSTART:20240831T091100Z
+DTEND:20240831T091900Z
+DESCRIPTION:Para Athletics - Men's 1500m - T46 Final\n🇫🇷 Antoine
+  PRAUD\n🇹🇳 Bechir AGOUBI\n🇩🇰 Christian OLSEN\n🇺🇬 David EMONG\n🇷🇼
+  Emmanuel NIYIBIZI\n🇪🇹 Gemechu Amenu DINSA\n🇽🇰 Grevist BYTYCI\n🇧🇬
+  Hristiyan STOYANOV\n🇬🇧 Luke NUTTALL\n🇨🇱 Mauricio Esteban ORREGO
+  CAMPOS\n🇦🇺 Michael ROEGER\n🇱🇰 Pradeep PUWAKPITIKANDE\n🇧🇮 Remy
+  NIKOBIMEZE\n🇩🇿 Samir NOUIOUA\n🇰🇪 Wesley Kimeli SANG
+SUMMARY:Men's 1500m - T46 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T092100Z-para-athletics-WOMENS-LONG-JUMP-T64-FINAL
+DTSTAMP:20240831T092100Z
+DTSTART:20240831T092100Z
+DTEND:20240831T104600Z
+DESCRIPTION:Para Athletics - Women's Long Jump - T64 Final\n🇵🇷 Amaris
+  Sofia VAZQUEZ COLLAZO\n🇺🇸 Annie CAREY\n🇺🇸 B HATZ\n🇳🇱 Fleur
+  JONG\n🇮🇹 Giuliana Chiara FILIPPI\n🇳🇱 Kiki HENDRIKS\n🇳🇱 Marlene van
+  GANSEWINKEL\n🇯🇵 NAKANISHI Maya\n🇪🇸 Sara ANDRES BARRIO\n🇦🇺 Sarah
+  WALSH\n🇯🇵 TAKAKUWA Saki\n🇿🇦 Tezna Kirstin ABRAHAMS
+SUMMARY:Women's Long Jump - T64 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T061500Z-para-triathlon-MENS-PTWC

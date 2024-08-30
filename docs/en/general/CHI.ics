@@ -235,6 +235,20 @@ SUMMARY:Men's 50m Backstroke - S2 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T091100Z-para-athletics-MENS-1500M-T46-FINAL
+DTSTAMP:20240831T091100Z
+DTSTART:20240831T091100Z
+DTEND:20240831T091900Z
+DESCRIPTION:Para Athletics - Men's 1500m - T46 Final\n🇫🇷 Antoine
+  PRAUD\n🇹🇳 Bechir AGOUBI\n🇩🇰 Christian OLSEN\n🇺🇬 David EMONG\n🇷🇼
+  Emmanuel NIYIBIZI\n🇪🇹 Gemechu Amenu DINSA\n🇽🇰 Grevist BYTYCI\n🇧🇬
+  Hristiyan STOYANOV\n🇬🇧 Luke NUTTALL\n🇨🇱 Mauricio Esteban ORREGO
+  CAMPOS\n🇦🇺 Michael ROEGER\n🇱🇰 Pradeep PUWAKPITIKANDE\n🇧🇮 Remy
+  NIKOBIMEZE\n🇩🇿 Samir NOUIOUA\n🇰🇪 Wesley Kimeli SANG
+SUMMARY:Men's 1500m - T46 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T095800Z-para-cycling-track-MENS-C5-4000M-INDIVIDUAL-PURSUIT-QU
 DTSTAMP:20240831T095800Z
 DTSTART:20240831T095800Z
@@ -248,6 +262,15 @@ DESCRIPTION:Para Cycling Track - Men's C5 4000m Individual Pursuit
   Zsombor WERMESER
 SUMMARY:Men's C5 4000m Individual Pursuit Qualifying
 LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T152900Z-para-archery-WOMENS-INDIVIDUAL-COMPOUND-OPEN-18-ELIMIN
+DTSTAMP:20240831T152900Z
+DTSTART:20240831T152900Z
+DTEND:20240831T154600Z
+DESCRIPTION:Para Archery - Women's Individual Compound Open 1/8 Elimination
+SUMMARY: Mariana ZUNIGA 🇨🇱 - 🇮🇳 Sheetal DEVI
+LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T092600Z-para-swimming-MENS-200M-FREESTYLE-S2-HEATS

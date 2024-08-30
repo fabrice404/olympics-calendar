@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/LES//EN
+X-WR-CALNAME:🇱🇸 Lesotho | Paris 2024
+NAME:🇱🇸 Lesotho | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - Opening Ceremony
+SUMMARY:Paris 2024 - Opening Ceremony
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T102600Z-para-athletics-MENS-400M-T11-ROUND-1
+DTSTAMP:20240831T102600Z
+DTSTART:20240831T102600Z
+DTEND:20240831T110100Z
+DESCRIPTION:Para Athletics - Men's 400m - T11 Round 1\n🇳🇦 Ananias
+  SHIKONGO\n🇳🇦 Chris KINDA\n🇧🇷 Daniel MENDES da SILVA\n🇪🇸 Eduardo
+  Manuel UCEDA NOVAS\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain MOHAMED\n🇫🇷
+  Timothee ADOLPHE\n🇺🇿 Urganchbek EGAMNAZAROV\n🇱🇸 Zimesele
+  KHAMOQANE\n🇨🇳 di Dongdong
+SUMMARY:Men's 400m - T11 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing Ceremony
+SUMMARY:Paris 2024 - Closing Ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR
