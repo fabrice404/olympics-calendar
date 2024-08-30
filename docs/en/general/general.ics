@@ -3717,6 +3717,20 @@ SUMMARY: Tanapan SOTTHISET 🇹🇭 - 🇦🇷 Juan Eduardo SAMORANO
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T091000Z-para-swimming-MENS-100M-BREASTSTROKE-SB8-HEATS
+DTSTAMP:20240830T091000Z
+DTSTART:20240830T091000Z
+DTEND:20240830T091700Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB8 Heats\n🇦🇹
+  Andreas ONEA\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇪🇸 Carlos MARTINEZ
+  FERNANDEZ\n🇮🇹 Federico MORLACCHI\n🇳🇿 Joshua WILLMER\n🇨🇳 LI
+  Ting\n🇪🇸 Oscar SALGUERO GALISTEO\n🇪🇪 Robin LIKSOR\n🇦🇺 Timothy
+  HODGE\n🇨🇱 Vicente Enrique ALMONACID HEYL\n🇨🇳 XU Haijiao\n🇨🇳 YANG
+  Guanglong
+SUMMARY:Men's 100m Breaststroke - SB8 Heats
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T091000Z-para-badminton-WOMENS-DOUBLES-WH1-WH2-GROUP-PLAY-STAGE
 DTSTAMP:20240830T091000Z
 DTSTART:20240830T091000Z
@@ -3753,20 +3767,6 @@ DTEND:20240830T095000Z
 DESCRIPTION:Para Badminton - Men's Singles SL4 Group Play Stage - Group A
 SUMMARY: Suhas L.Y. 🇮🇳 - 🇰🇷 SHIN Kyung Hwan
 LOCATION:La Chapelle Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240830T091022Z-para-swimming-MENS-100M-BREASTSTROKE-SB8-HEATS
-DTSTAMP:20240830T091022Z
-DTSTART:20240830T091022Z
-DTEND:20240830T091757Z
-DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB8 Heats\n🇦🇹
-  Andreas ONEA\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇪🇸 Carlos MARTINEZ
-  FERNANDEZ\n🇮🇹 Federico MORLACCHI\n🇳🇿 Joshua WILLMER\n🇨🇳 LI
-  Ting\n🇪🇸 Oscar SALGUERO GALISTEO\n🇪🇪 Robin LIKSOR\n🇦🇺 Timothy
-  HODGE\n🇨🇱 Vicente Enrique ALMONACID HEYL\n🇨🇳 XU Haijiao\n🇨🇳 YANG
-  Guanglong
-SUMMARY:Men's 100m Breaststroke - SB8 Heats
-LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T091400Z-para-athletics-WOMENS-400M-T11-ROUND-1
@@ -3982,6 +3982,15 @@ DTEND:20240830T104000Z
 DESCRIPTION:Boccia - Men's Individual - BC2 Preliminary Round Pool B
 SUMMARY: Worawut SAENGAMPA 🇹🇭 - 🇰🇷 SEO Minkyu
 LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T094200Z-para-swimming-MENS-100M-BREASTSTROKE-SB9-HEATS-SWIM-OF
+DTSTAMP:20240830T094200Z
+DTSTART:20240830T094200Z
+DTEND:20240830T094600Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB9 Heats Swim-off
+SUMMARY:Men's 100m Breaststroke - SB9 Heats Swim-off
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T094500Z-shooting-para-sport-R2-WOMENS-10M-AIR-RIFLE-STANDING-S
