@@ -1105,6 +1105,17 @@ SUMMARY: Daniel PEREZ 🇳🇱 - 🇧🇷 Jose OLIVEIRA
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T184400Z-para-swimming-MIXED-4X50M-FREESTYLE-RELAY-20-POINTS-FI
+DTSTAMP:20240830T184400Z
+DTSTART:20240830T184400Z
+DTEND:20240830T185400Z
+DESCRIPTION:Para Swimming - Mixed 4x50m Freestyle Relay - 20 Points
+  Final\n🇦🇺 AUS\n🇧🇷 BRA\n🇨🇳 CHN\n🇮🇹 ITA\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:Mixed 4x50m Freestyle Relay - 20 Points Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T185200Z-para-athletics-MENS-SHOT-PUT-F37-FINAL
 DTSTAMP:20240830T185200Z
 DTSTART:20240830T185200Z
@@ -1362,6 +1373,28 @@ DTEND:20240831T193000Z
 DESCRIPTION:Sitting Volleyball - Women's Preliminary Round - Pool B
 SUMMARY: CAN 🇨🇦 - 🇧🇷 BRA
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T190800Z-para-athletics-MENS-100M-T12-FINAL
+DTSTAMP:20240831T190800Z
+DTSTART:20240831T190800Z
+DTEND:20240831T191600Z
+DESCRIPTION:Para Athletics - Men's 100m - T12 Final\n🇧🇷 Joeferson MARINHO
+  de OLIVEIRA\n🇺🇸 Noah MALONE\n🇹🇷 Serkan YILDIRIM\n🇬🇧 Zachary SHAW
+SUMMARY:Men's 100m - T12 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T194900Z-para-athletics-WOMENS-200M-T36-ROUND-1
+DTSTAMP:20240831T194900Z
+DTSTART:20240831T194900Z
+DTEND:20240831T200100Z
+DESCRIPTION:Para Athletics - Women's 200m - T36 Round 1\n🇦🇷 Araceli
+  ROTELA\n🇳🇱 Cheyenne BOUTHOORN\n🇳🇿 Danielle AITCHISON\n🇰🇷 JEON Min
+  Jae\n🇦🇺 Mali LOVELL\n🇩🇪 Nicole NICOLEITZIK\n🇨🇳 SHI Yiting\n🇧🇷
+  Samira da SILVA BRITO\n🇧🇷 Veronica HIPOLITO\n🇭🇰 YAM Kwok Fan
+SUMMARY:Women's 200m - T36 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T062000Z-para-triathlon-WOMENS-PTWC

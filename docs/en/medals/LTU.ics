@@ -4,6 +4,18 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/LTU//EN
 X-WR-CALNAME:🇱🇹 Lithuania 🏅 | Paris 2024
 NAME:🇱🇹 Lithuania 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240830T160000Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM6-FINAL
+DTSTAMP:20240830T160000Z
+DTSTART:20240830T160000Z
+DTEND:20240830T160900Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM6
+  Final\n🇺🇸 Ellie MARKS\n🇱🇹 Gabriele CEPAVICIUTE\n🇬🇧 Grace
+  HARVEY\n🇨🇳 LIU Daomin\n🇬🇧 Maisie SUMMERS-NEWTON\n🇭🇰 NG Cheuk
+  Yan\n🇩🇪 Verena SCHOTT\n🇨🇳 ZHU Ji
+SUMMARY:Women's 200m Individual Medley - SM6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T185200Z-para-athletics-MENS-SHOT-PUT-F37-FINAL
 DTSTAMP:20240830T185200Z
 DTSTART:20240830T185200Z

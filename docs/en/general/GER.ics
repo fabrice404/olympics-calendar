@@ -524,6 +524,29 @@ SUMMARY: GER 🇩🇪 - 🇨🇦 CAN
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T153700Z-para-swimming-WOMENS-100M-FREESTYLE-S5-FINAL
+DTSTAMP:20240830T153700Z
+DTSTART:20240830T153700Z
+DTEND:20240830T154400Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S5 Final\n🇨🇿 Agata
+  KOUPILOVA\n🇺🇦 Iryna POIDA\n🇨🇳 LIU Yu\n🇨🇳 LU Dong\n🇮🇹 Monica
+  BOGGIONI\n🇩🇪 Tanja SCHOLZ\n🇬🇧 Tully KEARNEY\n🇨🇳 YAO Cuan
+SUMMARY:Women's 100m Freestyle - S5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T160000Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM6-FINAL
+DTSTAMP:20240830T160000Z
+DTSTART:20240830T160000Z
+DTEND:20240830T160900Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM6
+  Final\n🇺🇸 Ellie MARKS\n🇱🇹 Gabriele CEPAVICIUTE\n🇬🇧 Grace
+  HARVEY\n🇨🇳 LIU Daomin\n🇬🇧 Maisie SUMMERS-NEWTON\n🇭🇰 NG Cheuk
+  Yan\n🇩🇪 Verena SCHOTT\n🇨🇳 ZHU Ji
+SUMMARY:Women's 200m Individual Medley - SM6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T160000Z-sitting-volleyball-MENS-PRELIMINARY-ROUND-POOL-B-BRA-G
 DTSTAMP:20240830T160000Z
 DTSTART:20240830T160000Z
@@ -540,6 +563,17 @@ DTEND:20240830T172000Z
 DESCRIPTION:Para Badminton - Men's Singles WH1 Group Play Stage - Group C
 SUMMARY: Thomas WANDSCHNEIDER 🇩🇪 - 🇫🇷 David TOUPE
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T171400Z-para-swimming-MENS-100M-BREASTSTROKE-SB9-FINAL
+DTSTAMP:20240830T171400Z
+DTSTART:20240830T171400Z
+DTEND:20240830T172100Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB9 Final\n🇫🇷
+  Hector DENAYER\n🇩🇪 Maurice WETEKAM\n🇮🇹 Riccardo MENCIOTTI\n🇮🇷 Sina
+  ZEYGHAMINEJAD\n🇮🇹 Stefano RAIMONDI\n🇨🇳 TANG Shuyuan
+SUMMARY:Men's 100m Breaststroke - SB9 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T172000Z-para-badminton-MENS-SINGLES-WH2-GROUP-PLAY-STAGE-GROUP
@@ -612,7 +646,7 @@ BEGIN:VEVENT
 UID:20240831T081000Z-para-rowing-PR1-MENS-SINGLE-SCULLS-REPECHAGES
 DTSTAMP:20240831T081000Z
 DTSTART:20240831T081000Z
-DTEND:20240831T085000Z
+DTEND:20240831T083700Z
 DESCRIPTION:Para Rowing - PR1 Men’s Single Sculls Repechages\n🇫🇷 Alexis
   SANCHEZ\n🇦🇺 Erik HORRIE\n🇮🇹 Giacomo PERINI\n🇨🇦 Jacob
   WASSERMANN\n🇪🇸 Javier GARCIA MARTINEZ\n🇯🇵 MORI Takuya\n🇹🇳 Maher
@@ -705,6 +739,18 @@ DTEND:20240831T211500Z
 DESCRIPTION:Wheelchair Basketball - Men's Preliminary Round Group A
 SUMMARY: GER 🇩🇪 - 🇫🇷 FRA
 LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T194900Z-para-athletics-WOMENS-200M-T36-ROUND-1
+DTSTAMP:20240831T194900Z
+DTSTART:20240831T194900Z
+DTEND:20240831T200100Z
+DESCRIPTION:Para Athletics - Women's 200m - T36 Round 1\n🇦🇷 Araceli
+  ROTELA\n🇳🇱 Cheyenne BOUTHOORN\n🇳🇿 Danielle AITCHISON\n🇰🇷 JEON Min
+  Jae\n🇦🇺 Mali LOVELL\n🇩🇪 Nicole NICOLEITZIK\n🇨🇳 SHI Yiting\n🇧🇷
+  Samira da SILVA BRITO\n🇧🇷 Veronica HIPOLITO\n🇭🇰 YAM Kwok Fan
+SUMMARY:Women's 200m - T36 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T072500Z-para-triathlon-MENS-PTS3

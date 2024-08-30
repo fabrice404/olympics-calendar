@@ -1325,6 +1325,41 @@ SUMMARY: LIU/ZHAO 🇨🇳 - 🇵🇱 CHUDZICKI/MISZTAL
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T153000Z-para-swimming-MENS-100M-FREESTYLE-S5-FINAL
+DTSTAMP:20240830T153000Z
+DTSTART:20240830T153000Z
+DTEND:20240830T153700Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S5 Final\n🇮🇹 Francesco
+  BOCCIARDO\n🇨🇳 GUO Jincheng\n🇪🇸 Luis HUERTA POZA\n🇲🇾 Muhammad Nur
+  Syaiful ZULKAFLI\n🇺🇦 Oleksandr KOMAROV\n🇯🇵 TANAKA Eigo\n🇨🇳 WANG
+  Lichao
+SUMMARY:Men's 100m Freestyle - S5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T153700Z-para-swimming-WOMENS-100M-FREESTYLE-S5-FINAL
+DTSTAMP:20240830T153700Z
+DTSTART:20240830T153700Z
+DTEND:20240830T154400Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S5 Final\n🇨🇿 Agata
+  KOUPILOVA\n🇺🇦 Iryna POIDA\n🇨🇳 LIU Yu\n🇨🇳 LU Dong\n🇮🇹 Monica
+  BOGGIONI\n🇩🇪 Tanja SCHOLZ\n🇬🇧 Tully KEARNEY\n🇨🇳 YAO Cuan
+SUMMARY:Women's 100m Freestyle - S5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T160000Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM6-FINAL
+DTSTAMP:20240830T160000Z
+DTSTART:20240830T160000Z
+DTEND:20240830T160900Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM6
+  Final\n🇺🇸 Ellie MARKS\n🇱🇹 Gabriele CEPAVICIUTE\n🇬🇧 Grace
+  HARVEY\n🇨🇳 LIU Daomin\n🇬🇧 Maisie SUMMERS-NEWTON\n🇭🇰 NG Cheuk
+  Yan\n🇩🇪 Verena SCHOTT\n🇨🇳 ZHU Ji
+SUMMARY:Women's 200m Individual Medley - SM6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T160000Z-para-badminton-WOMENS-SINGLES-WH2-GROUP-PLAY-STAGE-GRO
 DTSTAMP:20240830T160000Z
 DTSTART:20240830T160000Z
@@ -1382,6 +1417,18 @@ SUMMARY: Jayci SIMON 🇺🇸 - 🇨🇳 LIN Shuangbao
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T164400Z-para-swimming-WOMENS-400M-FREESTYLE-S11-FINAL
+DTSTAMP:20240830T164400Z
+DTSTART:20240830T164400Z
+DTEND:20240830T165800Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S11 Final\n🇺🇸
+  Anastasia PAGONIS\n🇨🇳 CAI Liwen\n🇬🇧 Eliza HUMPHREY\n🇳🇱 Liesette
+  BRUINSMA\n🇲🇽 Matilde Estefania ALCAZAR FIGUEROA\n🇬🇧 Scarlett
+  HUMPHREY\n🇨🇳 ZHANG Xiaotong
+SUMMARY:Women's 400m Freestyle - S11 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T170000Z-para-table-tennis-MENS-DOUBLES-MD8-SEMIFINAL-1-THA-CHN
 DTSTAMP:20240830T170000Z
 DTSTART:20240830T170000Z
@@ -1418,6 +1465,17 @@ DESCRIPTION:Para Athletics - Men's Long Jump - T11 Final\n🇨🇳 CHEN
   Tao\n🇨🇳 di Dongdong
 SUMMARY:Men's Long Jump - T11 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T171400Z-para-swimming-MENS-100M-BREASTSTROKE-SB9-FINAL
+DTSTAMP:20240830T171400Z
+DTSTART:20240830T171400Z
+DTEND:20240830T172100Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB9 Final\n🇫🇷
+  Hector DENAYER\n🇩🇪 Maurice WETEKAM\n🇮🇹 Riccardo MENCIOTTI\n🇮🇷 Sina
+  ZEYGHAMINEJAD\n🇮🇹 Stefano RAIMONDI\n🇨🇳 TANG Shuyuan
+SUMMARY:Men's 100m Breaststroke - SB9 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T172000Z-para-badminton-WOMENS-SINGLES-SH6-GROUP-PLAY-STAGE-GRO
@@ -1474,6 +1532,17 @@ SUMMARY: ZHANG Qi 🇨🇳 - 🇹🇳 Maha AOUNALLAH
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T172100Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB9-FINAL
+DTSTAMP:20240830T172100Z
+DTSTART:20240830T172100Z
+DTEND:20240830T172800Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB9 Final\n🇳🇱
+  Chantalle ZIJDERVELD\n🇦🇷 Daniela GIMENEZ\n🇳🇿 Gabriella SMITH\n🇦🇺
+  Keira STEPHENS\n🇳🇱 Lisa KRUGER\n🇧🇪 Tatyana LEBRUN\n🇨🇳 ZHANG Meng
+SUMMARY:Women's 100m Breaststroke - SB9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T174500Z-para-archery-MENS-INDIVIDUAL-COMPOUND-OPEN-116-ELIMINA
 DTSTAMP:20240830T174500Z
 DTSTART:20240830T174500Z
@@ -1504,6 +1573,18 @@ SUMMARY: GREBE/WOLF 🇩🇪 - 🇨🇳 HUANG/JIN
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T181400Z-para-swimming-MENS-100M-BREASTSTROKE-SB8-FINAL
+DTSTAMP:20240830T181400Z
+DTSTART:20240830T181400Z
+DTEND:20240830T182100Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB8 Final\n🇨🇴
+  Carlos Daniel SERRANO ZARATE\n🇪🇸 Oscar SALGUERO GALISTEO\n🇦🇺 Timothy
+  HODGE\n🇨🇱 Vicente Enrique ALMONACID HEYL\n🇨🇳 XU Haijiao\n🇨🇳 YANG
+  Guanglong
+SUMMARY:Men's 100m Breaststroke - SB8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T181800Z-para-athletics-WOMENS-400M-T47-ROUND-1
 DTSTAMP:20240830T181800Z
 DTSTART:20240830T181800Z
@@ -1525,6 +1606,17 @@ DESCRIPTION:Para Badminton - Women's Doubles WH1-WH2 Group Play Stage -
   Group A
 SUMMARY: LIU/YIN 🇨🇳 - 🇰🇷 JUNG/KWON
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T184400Z-para-swimming-MIXED-4X50M-FREESTYLE-RELAY-20-POINTS-FI
+DTSTAMP:20240830T184400Z
+DTSTART:20240830T184400Z
+DTEND:20240830T185400Z
+DESCRIPTION:Para Swimming - Mixed 4x50m Freestyle Relay - 20 Points
+  Final\n🇦🇺 AUS\n🇧🇷 BRA\n🇨🇳 CHN\n🇮🇹 ITA\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:Mixed 4x50m Freestyle Relay - 20 Points Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T190200Z-para-athletics-MENS-5000M-T54-ROUND-1
@@ -1880,6 +1972,30 @@ DTEND:20240831T152900Z
 DESCRIPTION:Para Archery - Women's Individual Compound Open 1/8 Elimination
 SUMMARY: Fatemeh HEMMATI 🇮🇷 - 🇨🇳 LIN Yueshan
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T172600Z-para-athletics-MENS-100M-T38-FINAL
+DTSTAMP:20240831T172600Z
+DTSTART:20240831T172600Z
+DTEND:20240831T173300Z
+DESCRIPTION:Para Athletics - Men's 100m - T38 Final\n🇮🇶 Ali
+  AL-RIKABI\n🇫🇷 Dimitri JOZWICKI\n🇺🇸 Jaydin BLACKWELL\n🇨🇴 Juan
+  Alejandro CAMPAS SANCHEZ\n🇺🇸 Nick MAYHUGH\n🇺🇸 Ryan MEDRANO\n🇨🇴
+  Santiago SOLIS TORRES\n🇬🇧 Thomas YOUNG\n🇨🇳 ZHOU Peng
+SUMMARY:Men's 100m - T38 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T194900Z-para-athletics-WOMENS-200M-T36-ROUND-1
+DTSTAMP:20240831T194900Z
+DTSTART:20240831T194900Z
+DTEND:20240831T200100Z
+DESCRIPTION:Para Athletics - Women's 200m - T36 Round 1\n🇦🇷 Araceli
+  ROTELA\n🇳🇱 Cheyenne BOUTHOORN\n🇳🇿 Danielle AITCHISON\n🇰🇷 JEON Min
+  Jae\n🇦🇺 Mali LOVELL\n🇩🇪 Nicole NICOLEITZIK\n🇨🇳 SHI Yiting\n🇧🇷
+  Samira da SILVA BRITO\n🇧🇷 Veronica HIPOLITO\n🇭🇰 YAM Kwok Fan
+SUMMARY:Women's 200m - T36 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T071700Z-para-archery-MENS-INDIVIDUAL-W1-18-ELIMINATION-CHN-KOR

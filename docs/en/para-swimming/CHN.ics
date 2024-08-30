@@ -286,6 +286,41 @@ SUMMARY:Mixed 4x50m Freestyle Relay - 20 Points Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T153000Z-para-swimming-MENS-100M-FREESTYLE-S5-FINAL
+DTSTAMP:20240830T153000Z
+DTSTART:20240830T153000Z
+DTEND:20240830T153700Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S5 Final\n🇮🇹 Francesco
+  BOCCIARDO\n🇨🇳 GUO Jincheng\n🇪🇸 Luis HUERTA POZA\n🇲🇾 Muhammad Nur
+  Syaiful ZULKAFLI\n🇺🇦 Oleksandr KOMAROV\n🇯🇵 TANAKA Eigo\n🇨🇳 WANG
+  Lichao
+SUMMARY:Men's 100m Freestyle - S5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T153700Z-para-swimming-WOMENS-100M-FREESTYLE-S5-FINAL
+DTSTAMP:20240830T153700Z
+DTSTART:20240830T153700Z
+DTEND:20240830T154400Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S5 Final\n🇨🇿 Agata
+  KOUPILOVA\n🇺🇦 Iryna POIDA\n🇨🇳 LIU Yu\n🇨🇳 LU Dong\n🇮🇹 Monica
+  BOGGIONI\n🇩🇪 Tanja SCHOLZ\n🇬🇧 Tully KEARNEY\n🇨🇳 YAO Cuan
+SUMMARY:Women's 100m Freestyle - S5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T160000Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM6-FINAL
+DTSTAMP:20240830T160000Z
+DTSTART:20240830T160000Z
+DTEND:20240830T160900Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM6
+  Final\n🇺🇸 Ellie MARKS\n🇱🇹 Gabriele CEPAVICIUTE\n🇬🇧 Grace
+  HARVEY\n🇨🇳 LIU Daomin\n🇬🇧 Maisie SUMMERS-NEWTON\n🇭🇰 NG Cheuk
+  Yan\n🇩🇪 Verena SCHOTT\n🇨🇳 ZHU Ji
+SUMMARY:Women's 200m Individual Medley - SM6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T163300Z-para-swimming-MENS-400M-FREESTYLE-S11-FINAL
 DTSTAMP:20240830T163300Z
 DTSTART:20240830T163300Z
@@ -295,6 +330,63 @@ DESCRIPTION:Para Swimming - Men's 400m Freestyle - S11 Final\n🇺🇦 Danylo
   MENESES\n🇺🇦 Mykhailo SERBIN\n🇳🇱 Rogier DORSMAN\n🇯🇵 TOMITA
   Uchu\n🇨🇳 ZHANG Bowen
 SUMMARY:Men's 400m Freestyle - S11 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T164400Z-para-swimming-WOMENS-400M-FREESTYLE-S11-FINAL
+DTSTAMP:20240830T164400Z
+DTSTART:20240830T164400Z
+DTEND:20240830T165800Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S11 Final\n🇺🇸
+  Anastasia PAGONIS\n🇨🇳 CAI Liwen\n🇬🇧 Eliza HUMPHREY\n🇳🇱 Liesette
+  BRUINSMA\n🇲🇽 Matilde Estefania ALCAZAR FIGUEROA\n🇬🇧 Scarlett
+  HUMPHREY\n🇨🇳 ZHANG Xiaotong
+SUMMARY:Women's 400m Freestyle - S11 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T171400Z-para-swimming-MENS-100M-BREASTSTROKE-SB9-FINAL
+DTSTAMP:20240830T171400Z
+DTSTART:20240830T171400Z
+DTEND:20240830T172100Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB9 Final\n🇫🇷
+  Hector DENAYER\n🇩🇪 Maurice WETEKAM\n🇮🇹 Riccardo MENCIOTTI\n🇮🇷 Sina
+  ZEYGHAMINEJAD\n🇮🇹 Stefano RAIMONDI\n🇨🇳 TANG Shuyuan
+SUMMARY:Men's 100m Breaststroke - SB9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T172100Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB9-FINAL
+DTSTAMP:20240830T172100Z
+DTSTART:20240830T172100Z
+DTEND:20240830T172800Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB9 Final\n🇳🇱
+  Chantalle ZIJDERVELD\n🇦🇷 Daniela GIMENEZ\n🇳🇿 Gabriella SMITH\n🇦🇺
+  Keira STEPHENS\n🇳🇱 Lisa KRUGER\n🇧🇪 Tatyana LEBRUN\n🇨🇳 ZHANG Meng
+SUMMARY:Women's 100m Breaststroke - SB9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T181400Z-para-swimming-MENS-100M-BREASTSTROKE-SB8-FINAL
+DTSTAMP:20240830T181400Z
+DTSTART:20240830T181400Z
+DTEND:20240830T182100Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB8 Final\n🇨🇴
+  Carlos Daniel SERRANO ZARATE\n🇪🇸 Oscar SALGUERO GALISTEO\n🇦🇺 Timothy
+  HODGE\n🇨🇱 Vicente Enrique ALMONACID HEYL\n🇨🇳 XU Haijiao\n🇨🇳 YANG
+  Guanglong
+SUMMARY:Men's 100m Breaststroke - SB8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T184400Z-para-swimming-MIXED-4X50M-FREESTYLE-RELAY-20-POINTS-FI
+DTSTAMP:20240830T184400Z
+DTSTART:20240830T184400Z
+DTEND:20240830T185400Z
+DESCRIPTION:Para Swimming - Mixed 4x50m Freestyle Relay - 20 Points
+  Final\n🇦🇺 AUS\n🇧🇷 BRA\n🇨🇳 CHN\n🇮🇹 ITA\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:Mixed 4x50m Freestyle Relay - 20 Points Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT

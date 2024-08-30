@@ -139,6 +139,29 @@ SUMMARY:R4 - Mixed 10m Air Rifle Standing SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T154400Z-para-swimming-MENS-100M-FREESTYLE-S4-FINAL
+DTSTAMP:20240830T154400Z
+DTSTART:20240830T154400Z
+DTEND:20240830T155200Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S4 Final\n🇮🇱 Ami Omer
+  DADAON\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇳🇿 Cameron LESLIE\n🇮🇹
+  Federico CRISTIANI\n🇮🇹 Luigi BEGGIATO\n🇯🇵 SUZUKI Takayuki\n🇨🇦
+  Sebastian MASSABIE
+SUMMARY:Men's 100m Freestyle - S4 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T172100Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB9-FINAL
+DTSTAMP:20240830T172100Z
+DTSTART:20240830T172100Z
+DTEND:20240830T172800Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB9 Final\n🇳🇱
+  Chantalle ZIJDERVELD\n🇦🇷 Daniela GIMENEZ\n🇳🇿 Gabriella SMITH\n🇦🇺
+  Keira STEPHENS\n🇳🇱 Lisa KRUGER\n🇧🇪 Tatyana LEBRUN\n🇨🇳 ZHANG Meng
+SUMMARY:Women's 100m Breaststroke - SB9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T081400Z-para-swimming-WOMENS-100M-BACKSTROKE-S8-HEATS
 DTSTAMP:20240831T081400Z
 DTSTART:20240831T081400Z
@@ -206,6 +229,18 @@ DESCRIPTION:Shooting Para Sport - P2 - Women's 10m Air Pistol SH1
   ECHEVARRIA
 SUMMARY:P2 - Women's 10m Air Pistol SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T194900Z-para-athletics-WOMENS-200M-T36-ROUND-1
+DTSTAMP:20240831T194900Z
+DTSTART:20240831T194900Z
+DTEND:20240831T200100Z
+DESCRIPTION:Para Athletics - Women's 200m - T36 Round 1\n🇦🇷 Araceli
+  ROTELA\n🇳🇱 Cheyenne BOUTHOORN\n🇳🇿 Danielle AITCHISON\n🇰🇷 JEON Min
+  Jae\n🇦🇺 Mali LOVELL\n🇩🇪 Nicole NICOLEITZIK\n🇨🇳 SHI Yiting\n🇧🇷
+  Samira da SILVA BRITO\n🇧🇷 Veronica HIPOLITO\n🇭🇰 YAM Kwok Fan
+SUMMARY:Women's 200m - T36 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T073000Z-shooting-para-sport-R3-MIXED-10M-AIR-RIFLE-PRONE-SH1-Q

@@ -64,6 +64,30 @@ SUMMARY:Men's 5000m - T11 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T153000Z-para-swimming-MENS-100M-FREESTYLE-S5-FINAL
+DTSTAMP:20240830T153000Z
+DTSTART:20240830T153000Z
+DTEND:20240830T153700Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S5 Final\n🇮🇹 Francesco
+  BOCCIARDO\n🇨🇳 GUO Jincheng\n🇪🇸 Luis HUERTA POZA\n🇲🇾 Muhammad Nur
+  Syaiful ZULKAFLI\n🇺🇦 Oleksandr KOMAROV\n🇯🇵 TANAKA Eigo\n🇨🇳 WANG
+  Lichao
+SUMMARY:Men's 100m Freestyle - S5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T154400Z-para-swimming-MENS-100M-FREESTYLE-S4-FINAL
+DTSTAMP:20240830T154400Z
+DTSTART:20240830T154400Z
+DTEND:20240830T155200Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S4 Final\n🇮🇱 Ami Omer
+  DADAON\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇳🇿 Cameron LESLIE\n🇮🇹
+  Federico CRISTIANI\n🇮🇹 Luigi BEGGIATO\n🇯🇵 SUZUKI Takayuki\n🇨🇦
+  Sebastian MASSABIE
+SUMMARY:Men's 100m Freestyle - S4 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T163300Z-para-swimming-MENS-400M-FREESTYLE-S11-FINAL
 DTSTAMP:20240830T163300Z
 DTSTART:20240830T163300Z
@@ -86,6 +110,18 @@ DESCRIPTION:Para Athletics - Men's 400m - T52 Final\n🇨🇦 Anthony
   SATO Tomoki\n🇲🇽 Salvador HERNANDEZ MONDRAGON
 SUMMARY:Men's 400m - T52 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T182100Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB8-FINAL
+DTSTAMP:20240830T182100Z
+DTSTART:20240830T182100Z
+DTEND:20240830T182800Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB8 Final\n🇪🇸
+  Anastasiya DMYTRIV DMYTRIV\n🇬🇧 Brock WHISTON\n🇮🇪 Ellen KEANE\n🇯🇵
+  FUKUDA Kanon\n🇨🇦 Katarina ROXON\n🇪🇸 Nuria MARQUES SOTO\n🇯🇵 UTSUGI
+  Mikuni
+SUMMARY:Women's 100m Breaststroke - SB8 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T061500Z-para-triathlon-MENS-PTWC

@@ -301,6 +301,30 @@ SUMMARY: Matt STUTZMAN 🇺🇸 - 🇲🇽 Victor SARDINA VIVEROS
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T154400Z-para-swimming-MENS-100M-FREESTYLE-S4-FINAL
+DTSTAMP:20240830T154400Z
+DTSTART:20240830T154400Z
+DTEND:20240830T155200Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S4 Final\n🇮🇱 Ami Omer
+  DADAON\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇳🇿 Cameron LESLIE\n🇮🇹
+  Federico CRISTIANI\n🇮🇹 Luigi BEGGIATO\n🇯🇵 SUZUKI Takayuki\n🇨🇦
+  Sebastian MASSABIE
+SUMMARY:Men's 100m Freestyle - S4 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T164400Z-para-swimming-WOMENS-400M-FREESTYLE-S11-FINAL
+DTSTAMP:20240830T164400Z
+DTSTART:20240830T164400Z
+DTEND:20240830T165800Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S11 Final\n🇺🇸
+  Anastasia PAGONIS\n🇨🇳 CAI Liwen\n🇬🇧 Eliza HUMPHREY\n🇳🇱 Liesette
+  BRUINSMA\n🇲🇽 Matilde Estefania ALCAZAR FIGUEROA\n🇬🇧 Scarlett
+  HUMPHREY\n🇨🇳 ZHANG Xiaotong
+SUMMARY:Women's 400m Freestyle - S11 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T171200Z-para-athletics-MENS-400M-T52-FINAL
 DTSTAMP:20240830T171200Z
 DTSTART:20240830T171200Z
@@ -320,6 +344,17 @@ DTEND:20240830T193000Z
 DESCRIPTION:Boccia - Men's Individual - BC1 Preliminary Round Pool C
 SUMMARY: Eduardo SANCHEZ REYES 🇲🇽 - 🇰🇷 JUNG Sungjoon
 LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T184400Z-para-swimming-MIXED-4X50M-FREESTYLE-RELAY-20-POINTS-FI
+DTSTAMP:20240830T184400Z
+DTSTART:20240830T184400Z
+DTEND:20240830T185400Z
+DESCRIPTION:Para Swimming - Mixed 4x50m Freestyle Relay - 20 Points
+  Final\n🇦🇺 AUS\n🇧🇷 BRA\n🇨🇳 CHN\n🇮🇹 ITA\n🇲🇽 MEX\n🇪🇸 ESP\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:Mixed 4x50m Freestyle Relay - 20 Points Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240830T185200Z-para-athletics-MENS-SHOT-PUT-F37-FINAL

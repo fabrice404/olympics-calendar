@@ -86,6 +86,28 @@ SUMMARY: JANG/PARK 🇰🇷 - 🇫🇷 LAMIRAULT/MICHAUD
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T171400Z-para-swimming-MENS-100M-BREASTSTROKE-SB9-FINAL
+DTSTAMP:20240830T171400Z
+DTSTART:20240830T171400Z
+DTEND:20240830T172100Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB9 Final\n🇫🇷
+  Hector DENAYER\n🇩🇪 Maurice WETEKAM\n🇮🇹 Riccardo MENCIOTTI\n🇮🇷 Sina
+  ZEYGHAMINEJAD\n🇮🇹 Stefano RAIMONDI\n🇨🇳 TANG Shuyuan
+SUMMARY:Men's 100m Breaststroke - SB9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240830T174400Z-para-swimming-MENS-100M-BACKSTROKE-S13-FINAL
+DTSTAMP:20240830T174400Z
+DTSTART:20240830T174400Z
+DTEND:20240830T175100Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S13 Final\n🇫🇷 Alex
+  PORTAL\n🇪🇸 Enrique Jose ALHAMBRA MOLLAR\n🇺🇿 Kirill PANKOV\n🇿🇦
+  Nathan HENDRICKS\n🇺🇦 Oleksii VIRCHENKO\n🇳🇱 Thomas van WANROOIJ
+SUMMARY:Men's 100m Backstroke - S13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T175700Z-para-athletics-WOMENS-200M-T37-FINAL
 DTSTAMP:20240830T175700Z
 DTSTART:20240830T175700Z
@@ -95,6 +117,18 @@ DESCRIPTION:Para Athletics - Women's 200m - T37 Final\n🇹🇭 Aorawan
   FRANCOIS-ELIE\n🇺🇦 Nataliia KOBZAR\n🇿🇦 Sheryl JAMES\n🇺🇸 Taylor
   SWANSON\n🇨🇳 WEN Xiaoyan
 SUMMARY:Women's 200m - T37 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T172600Z-para-athletics-MENS-100M-T38-FINAL
+DTSTAMP:20240831T172600Z
+DTSTART:20240831T172600Z
+DTEND:20240831T173300Z
+DESCRIPTION:Para Athletics - Men's 100m - T38 Final\n🇮🇶 Ali
+  AL-RIKABI\n🇫🇷 Dimitri JOZWICKI\n🇺🇸 Jaydin BLACKWELL\n🇨🇴 Juan
+  Alejandro CAMPAS SANCHEZ\n🇺🇸 Nick MAYHUGH\n🇺🇸 Ryan MEDRANO\n🇨🇴
+  Santiago SOLIS TORRES\n🇬🇧 Thomas YOUNG\n🇨🇳 ZHOU Peng
+SUMMARY:Men's 100m - T38 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

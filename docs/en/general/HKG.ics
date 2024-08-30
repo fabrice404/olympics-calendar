@@ -194,6 +194,18 @@ SUMMARY: Jere FORSBERG 🇫🇮 - 🇭🇰 NGAI Ka Chuen
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T160000Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM6-FINAL
+DTSTAMP:20240830T160000Z
+DTSTART:20240830T160000Z
+DTEND:20240830T160900Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM6
+  Final\n🇺🇸 Ellie MARKS\n🇱🇹 Gabriele CEPAVICIUTE\n🇬🇧 Grace
+  HARVEY\n🇨🇳 LIU Daomin\n🇬🇧 Maisie SUMMERS-NEWTON\n🇭🇰 NG Cheuk
+  Yan\n🇩🇪 Verena SCHOTT\n🇨🇳 ZHU Ji
+SUMMARY:Women's 200m Individual Medley - SM6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T183000Z-boccia-MENS-INDIVIDUAL-BC1-PRELIMINARY-ROUND-POOL-D-HK
 DTSTAMP:20240830T183000Z
 DTSTART:20240830T183000Z
@@ -282,6 +294,18 @@ DTEND:20240831T161500Z
 DESCRIPTION:Boccia - Men's Individual - BC3 Preliminary Round Pool B
 SUMMARY: TSE Tak Wah 🇭🇰 - 🇦🇷 Rodrigo ROMERO
 LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T194900Z-para-athletics-WOMENS-200M-T36-ROUND-1
+DTSTAMP:20240831T194900Z
+DTSTART:20240831T194900Z
+DTEND:20240831T200100Z
+DESCRIPTION:Para Athletics - Women's 200m - T36 Round 1\n🇦🇷 Araceli
+  ROTELA\n🇳🇱 Cheyenne BOUTHOORN\n🇳🇿 Danielle AITCHISON\n🇰🇷 JEON Min
+  Jae\n🇦🇺 Mali LOVELL\n🇩🇪 Nicole NICOLEITZIK\n🇨🇳 SHI Yiting\n🇧🇷
+  Samira da SILVA BRITO\n🇧🇷 Veronica HIPOLITO\n🇭🇰 YAM Kwok Fan
+SUMMARY:Women's 200m - T36 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T153700Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB6-FINAL
