@@ -1348,6 +1348,18 @@ SUMMARY:Women's 100m Freestyle - S5 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T155200Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM6-FINAL
+DTSTAMP:20240830T155200Z
+DTSTART:20240830T155200Z
+DTEND:20240830T160000Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM6 Final\n🇬🇧
+  Bruce DEE\n🇨🇳 GUO Jincheng\n🇲🇽 Jesus Alberto GUTIERREZ BERMUDEZ\n🇨🇴
+  Nelson CRISPIN CORZO\n🇲🇽 Raul GUTIERREZ BERMUDEZ\n🇧🇷 Talisson
+  Henrique GLOCK\n🇨🇳 WANG Jingang\n🇨🇳 YANG Hong
+SUMMARY:Men's 200m Individual Medley - SM6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T160000Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM6-FINAL
 DTSTAMP:20240830T160000Z
 DTSTART:20240830T160000Z
@@ -1947,8 +1959,9 @@ DTSTART:20240831T102600Z
 DTEND:20240831T110100Z
 DESCRIPTION:Para Athletics - Men's 400m - T11 Round 1\n🇳🇦 Ananias
   SHIKONGO\n🇳🇦 Chris KINDA\n🇧🇷 Daniel MENDES da SILVA\n🇪🇸 Eduardo
-  Manuel UCEDA NOVAS\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain MOHAMED\n🇫🇷
-  Timothee ADOLPHE\n🇺🇿 Urganchbek EGAMNAZAROV\n🇱🇸 Zimesele
+  Manuel UCEDA NOVAS\n🇻🇪 Enderson German SANTOS GONZALEZ\n🇧🇷 Felipe de
+  SOUZA GOMES\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain MOHAMED\n🇮🇶 Mohammed
+  AYADE\n🇫🇷 Timothee ADOLPHE\n🇺🇿 Urganchbek EGAMNAZAROV\n🇱🇸 Zimesele
   KHAMOQANE\n🇨🇳 di Dongdong
 SUMMARY:Men's 400m - T11 Round 1
 LOCATION:Stade de France
@@ -2024,6 +2037,18 @@ DTEND:20240831T152900Z
 DESCRIPTION:Para Archery - Women's Individual Compound Open 1/8 Elimination
 SUMMARY: Fatemeh HEMMATI 🇮🇷 - 🇨🇳 LIN Yueshan
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T170800Z-para-athletics-WOMENS-SHOT-PUT-F37-FINAL
+DTSTAMP:20240831T170800Z
+DTSTART:20240831T170800Z
+DTEND:20240831T182400Z
+DESCRIPTION:Para Athletics - Women's Shot Put - F37 Final\n🇦🇺 Ella
+  HOSE\n🇨🇿 Eva BERNA\n🇮🇸 Ingeborg Eide GARDARSDOTTIR\n🇦🇷 Karen
+  Melanie TASSI SANCHEZ\n🇨🇳 LI Yingli\n🇨🇳 MI Na\n🇨🇴 Maria Salome
+  HENAO SANCHEZ\n🇻🇪 Yomaira de Jesus COHEN EPIEYU
+SUMMARY:Women's Shot Put - F37 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T172600Z-para-athletics-MENS-100M-T38-FINAL

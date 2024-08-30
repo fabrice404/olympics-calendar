@@ -572,16 +572,6 @@ DTSTAMP:20240829T090000Z
 DTSTART:20240829T090000Z
 DTEND:20240829T100000Z
 DESCRIPTION:Shooting Para Sport - R2 - Women's 10m Air Rifle Standing SH1
-  Official Training
-SUMMARY:R2 - Women's 10m Air Rifle Standing SH1 Official Training
-LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240829T090000Z-shooting-para-sport-R2-WOMENS-10M-AIR-RIFLE-STANDING-S
-DTSTAMP:20240829T090000Z
-DTSTART:20240829T090000Z
-DTEND:20240829T100000Z
-DESCRIPTION:Shooting Para Sport - R2 - Women's 10m Air Rifle Standing SH1
   Pre-Event Training
 SUMMARY:R2 - Women's 10m Air Rifle Standing SH1 Pre-Event Training
 LOCATION:Chateauroux Shooting Ctr
@@ -1044,16 +1034,6 @@ DTEND:20240829T111000Z
 DESCRIPTION:Para Badminton - Men's Singles SL3 Group Play Stage - Group B
 SUMMARY: Oleksandr CHYRKOV 🇺🇦 - 🇯🇵 FUJIHARA Daisuke
 LOCATION:La Chapelle Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240829T103000Z-shooting-para-sport-R4-MIXED-10M-AIR-RIFLE-STANDING-SH
-DTSTAMP:20240829T103000Z
-DTSTART:20240829T103000Z
-DTEND:20240829T113000Z
-DESCRIPTION:Shooting Para Sport - R4 - Mixed 10m Air Rifle Standing SH2
-  Official Training
-SUMMARY:R4 - Mixed 10m Air Rifle Standing SH2 Official Training
-LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240829T103000Z-shooting-para-sport-R4-MIXED-10M-AIR-RIFLE-STANDING-SH
@@ -1544,16 +1524,6 @@ DTEND:20240829T122200Z
 DESCRIPTION:Para Taekwondo - Women K44 -52kg Quarterfinal
 SUMMARY: Ana JAPARIDZE 🇬🇪 - 🇹🇷 Meryem Betul CAVDAR
 LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240829T121500Z-shooting-para-sport-P1-MENS-10M-AIR-PISTOL-SH1-OFFICIA
-DTSTAMP:20240829T121500Z
-DTSTART:20240829T121500Z
-DTEND:20240829T131500Z
-DESCRIPTION:Shooting Para Sport - P1 - Men's 10m Air Pistol SH1 Official
-  Training
-SUMMARY:P1 - Men's 10m Air Pistol SH1 Official Training
-LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240829T121500Z-shooting-para-sport-P1-MENS-10M-AIR-PISTOL-SH1-PRE-EVE
@@ -4986,12 +4956,12 @@ SUMMARY: JPN 🇯🇵 - 🇨🇦 CAN
 LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
-UID:20240830T124700Z-para-taekwondo-MEN-K44-70KG-QUARTERFINAL
+UID:20240830T124700Z-para-taekwondo-MEN-K44-70KG-QUARTERFINAL-GEO-TUR
 DTSTAMP:20240830T124700Z
 DTSTART:20240830T124700Z
 DTEND:20240830T125800Z
-DESCRIPTION:Para Taekwondo - Men K44 -70kg Quarterfinal\n🇹🇷 Fatih CELIK
-SUMMARY:Men K44 -70kg Quarterfinal
+DESCRIPTION:Para Taekwondo - Men K44 -70kg Quarterfinal
+SUMMARY: Giorgi NIKOLADZE 🇬🇪 - 🇹🇷 Fatih CELIK
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -5532,7 +5502,10 @@ UID:20240830T155200Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM6-FINAL
 DTSTAMP:20240830T155200Z
 DTSTART:20240830T155200Z
 DTEND:20240830T160000Z
-DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM6 Final
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM6 Final\n🇬🇧
+  Bruce DEE\n🇨🇳 GUO Jincheng\n🇲🇽 Jesus Alberto GUTIERREZ BERMUDEZ\n🇨🇴
+  Nelson CRISPIN CORZO\n🇲🇽 Raul GUTIERREZ BERMUDEZ\n🇧🇷 Talisson
+  Henrique GLOCK\n🇨🇳 WANG Jingang\n🇨🇳 YANG Hong
 SUMMARY:Men's 200m Individual Medley - SM6 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -7885,8 +7858,9 @@ DTSTART:20240831T102600Z
 DTEND:20240831T110100Z
 DESCRIPTION:Para Athletics - Men's 400m - T11 Round 1\n🇳🇦 Ananias
   SHIKONGO\n🇳🇦 Chris KINDA\n🇧🇷 Daniel MENDES da SILVA\n🇪🇸 Eduardo
-  Manuel UCEDA NOVAS\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain MOHAMED\n🇫🇷
-  Timothee ADOLPHE\n🇺🇿 Urganchbek EGAMNAZAROV\n🇱🇸 Zimesele
+  Manuel UCEDA NOVAS\n🇻🇪 Enderson German SANTOS GONZALEZ\n🇧🇷 Felipe de
+  SOUZA GOMES\n🇫🇷 Gauthier MAKUNDA\n🇧🇭 Husain MOHAMED\n🇮🇶 Mohammed
+  AYADE\n🇫🇷 Timothee ADOLPHE\n🇺🇿 Urganchbek EGAMNAZAROV\n🇱🇸 Zimesele
   KHAMOQANE\n🇨🇳 di Dongdong
 SUMMARY:Men's 400m - T11 Round 1
 LOCATION:Stade de France
@@ -9035,7 +9009,10 @@ UID:20240831T170400Z-para-athletics-MENS-CLUB-THROW-F32-FINAL
 DTSTAMP:20240831T170400Z
 DTSTART:20240831T170400Z
 DTEND:20240831T193400Z
-DESCRIPTION:Para Athletics - Men's Club Throw - F32 Final
+DESCRIPTION:Para Athletics - Men's Club Throw - F32 Final\n🇩🇿 Abdelhak
+  MISSOUNI\n🇩🇿 Ahmed MEHIDEB\n🇬🇷 Athanasios KONSTANTINIDIS\n🇬🇷
+  Dimitrios ZISIDIS\n🇨🇿 Frantisek SERBUS\n🇬🇷 Lazaros STEFANIDIS\n🇩🇿
+  Walid FERHAH\n🇹🇳 Wassim SALHI
 SUMMARY:Men's Club Throw - F32 Final
 LOCATION:Stade de France
 END:VEVENT
@@ -9044,7 +9021,10 @@ UID:20240831T170800Z-para-athletics-WOMENS-SHOT-PUT-F37-FINAL
 DTSTAMP:20240831T170800Z
 DTSTART:20240831T170800Z
 DTEND:20240831T182400Z
-DESCRIPTION:Para Athletics - Women's Shot Put - F37 Final
+DESCRIPTION:Para Athletics - Women's Shot Put - F37 Final\n🇦🇺 Ella
+  HOSE\n🇨🇿 Eva BERNA\n🇮🇸 Ingeborg Eide GARDARSDOTTIR\n🇦🇷 Karen
+  Melanie TASSI SANCHEZ\n🇨🇳 LI Yingli\n🇨🇳 MI Na\n🇨🇴 Maria Salome
+  HENAO SANCHEZ\n🇻🇪 Yomaira de Jesus COHEN EPIEYU
 SUMMARY:Women's Shot Put - F37 Final
 LOCATION:Stade de France
 END:VEVENT
@@ -9071,7 +9051,11 @@ UID:20240831T171300Z-para-athletics-WOMENS-1500M-T13-FINAL
 DTSTAMP:20240831T171300Z
 DTSTART:20240831T171300Z
 DTEND:20240831T172000Z
-DESCRIPTION:Para Athletics - Women's 1500m - T13 Final
+DESCRIPTION:Para Athletics - Women's 1500m - T13 Final\n🇲🇽 Daniela
+  Eugenia VELASCO MALDONADO\n🇧🇷 Edneusa de JESUS SANTOS\n🇲🇦 Fatima
+  Ezzahra EL IDRISSI\n🇨🇴 Francy OSORIO\n🇮🇪 Greta STREIMIKYTE\n🇨🇦
+  Keegan GAUNT\n🇺🇸 Liza CORSO\n🇺🇬 Peace OROMA\n🇹🇳 Somaya
+  BOUSAID\n🇪🇹 Tigist Gezahagn MENIGSTU
 SUMMARY:Women's 1500m - T13 Final
 LOCATION:Stade de France
 END:VEVENT

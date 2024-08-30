@@ -313,6 +313,18 @@ SUMMARY: Leidy CHICA CHICA 🇨🇴 - 🇬🇷 Chrysi MORFI METZOU
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240830T155200Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM6-FINAL
+DTSTAMP:20240830T155200Z
+DTSTART:20240830T155200Z
+DTEND:20240830T160000Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM6 Final\n🇬🇧
+  Bruce DEE\n🇨🇳 GUO Jincheng\n🇲🇽 Jesus Alberto GUTIERREZ BERMUDEZ\n🇨🇴
+  Nelson CRISPIN CORZO\n🇲🇽 Raul GUTIERREZ BERMUDEZ\n🇧🇷 Talisson
+  Henrique GLOCK\n🇨🇳 WANG Jingang\n🇨🇳 YANG Hong
+SUMMARY:Men's 200m Individual Medley - SM6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240830T173800Z-para-athletics-WOMENS-400M-T11-SEMI-FINALS
 DTSTAMP:20240830T173800Z
 DTSTART:20240830T173800Z
@@ -493,6 +505,31 @@ DTEND:20240831T161500Z
 DESCRIPTION:Boccia - Men's Individual - BC3 Preliminary Round Pool C
 SUMMARY: Akkadej CHOOCHUENKLIN 🇹🇭 - 🇨🇴 Jesus ROMERO
 LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T170800Z-para-athletics-WOMENS-SHOT-PUT-F37-FINAL
+DTSTAMP:20240831T170800Z
+DTSTART:20240831T170800Z
+DTEND:20240831T182400Z
+DESCRIPTION:Para Athletics - Women's Shot Put - F37 Final\n🇦🇺 Ella
+  HOSE\n🇨🇿 Eva BERNA\n🇮🇸 Ingeborg Eide GARDARSDOTTIR\n🇦🇷 Karen
+  Melanie TASSI SANCHEZ\n🇨🇳 LI Yingli\n🇨🇳 MI Na\n🇨🇴 Maria Salome
+  HENAO SANCHEZ\n🇻🇪 Yomaira de Jesus COHEN EPIEYU
+SUMMARY:Women's Shot Put - F37 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T171300Z-para-athletics-WOMENS-1500M-T13-FINAL
+DTSTAMP:20240831T171300Z
+DTSTART:20240831T171300Z
+DTEND:20240831T172000Z
+DESCRIPTION:Para Athletics - Women's 1500m - T13 Final\n🇲🇽 Daniela
+  Eugenia VELASCO MALDONADO\n🇧🇷 Edneusa de JESUS SANTOS\n🇲🇦 Fatima
+  Ezzahra EL IDRISSI\n🇨🇴 Francy OSORIO\n🇮🇪 Greta STREIMIKYTE\n🇨🇦
+  Keegan GAUNT\n🇺🇸 Liza CORSO\n🇺🇬 Peace OROMA\n🇹🇳 Somaya
+  BOUSAID\n🇪🇹 Tigist Gezahagn MENIGSTU
+SUMMARY:Women's 1500m - T13 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T172600Z-para-athletics-MENS-100M-T38-FINAL
