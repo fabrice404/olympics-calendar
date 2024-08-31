@@ -778,6 +778,15 @@ SUMMARY: JUNG Gyeoul 🇰🇷 - 🇹🇭 Amnouy WETWITHAN
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T091600Z-para-archery-WOMENS-INDIVIDUAL-W1-SEMIFINAL
+DTSTAMP:20240831T091600Z
+DTSTART:20240831T091600Z
+DTEND:20240831T093300Z
+DESCRIPTION:Para Archery - Women's Individual W1 Semifinal\n🇰🇷 KIM Okgeum
+SUMMARY:Women's Individual W1 Semifinal
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T095000Z-para-rowing-PR3-MIXED-COXED-FOUR-REPECHAGES
 DTSTAMP:20240831T095000Z
 DTSTART:20240831T095000Z
@@ -818,6 +827,18 @@ DESCRIPTION:Shooting Para Sport - P2 - Women's 10m Air Pistol SH1
   Shakhnoza MAMAJONOVA\n🇹🇭 Somporn MUANGSIRI\n🇨🇺 Yenigladys SUAREZ
   ECHEVARRIA
 SUMMARY:P2 - Women's 10m Air Pistol SH1 Qualification
+LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T101500Z-shooting-para-sport-R1-MENS-10M-AIR-RIFLE-STANDING-SH1
+DTSTAMP:20240831T101500Z
+DTSTART:20240831T101500Z
+DTEND:20240831T104500Z
+DESCRIPTION:Shooting Para Sport - R1 - Men's 10m Air Rifle Standing SH1
+  Final\n🇺🇦 Andrii DOROSHENKO\n🇭🇺 Csaba RESCSIK\n🇨🇳 DONG Chao\n🇩🇰
+  Jan WINTHER\n🇩🇰 Martin Black JOERGENSEN\n🇰🇷 PARK Jinho\n🇬🇷 Sotirios
+  GALOGAVROS\n🇰🇿 Yerkin GABBASOV
+SUMMARY:R1 - Men's 10m Air Rifle Standing SH1 Final
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
