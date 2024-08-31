@@ -751,13 +751,12 @@ SUMMARY: KANG/LEE 🇰🇷 - 🇷🇸 MATIC/PERIC-RANK
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240831T082500Z-para-archery-WOMENS-INDIVIDUAL-W1-QUARTERFINAL
+UID:20240831T082500Z-para-archery-WOMENS-INDIVIDUAL-W1-QUARTERFINAL-KOR-GBR
 DTSTAMP:20240831T082500Z
 DTSTART:20240831T082500Z
 DTEND:20240831T084200Z
-DESCRIPTION:Para Archery - Women's Individual W1 Quarterfinal\n🇰🇷 KIM
-  Okgeum
-SUMMARY:Women's Individual W1 Quarterfinal
+DESCRIPTION:Para Archery - Women's Individual W1 Quarterfinal
+SUMMARY: KIM Okgeum 🇰🇷 - 🇬🇧 Victoria KINGSTONE
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
@@ -985,6 +984,17 @@ DESCRIPTION:Para Swimming - Men's 150m Individual Medley - SM4 Heats\n🇮🇱
   SANCHEZ MARTINEZ\n🇰🇷 JO Giseong\n🇪🇸 Miguel LUQUE
 SUMMARY:Men's 150m Individual Medley - SM4 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T091000Z-para-rowing-PR1-WOMENS-SINGLE-SCULLS-FINAL-A
+DTSTAMP:20240901T091000Z
+DTSTART:20240901T091000Z
+DTEND:20240901T091700Z
+DESCRIPTION:Para Rowing - PR1 Women’s Single Sculls Final A\n🇺🇦 Anna
+  SHEREMET\n🇳🇴 Birgit Lovise Roekkum SKARSTEIN\n🇧🇷 Claudia Cicero dos
+  SANTOS\n🇰🇷 KIM Sejeong\n🇮🇱 Moran SAMUEL\n🇫🇷 Nathalie BENOIT
+SUMMARY:PR1 Women’s Single Sculls Final A
+LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T093000Z-shooting-para-sport-R5-MIXED-10M-AIR-RIFLE-PRONE-SH2-Q
