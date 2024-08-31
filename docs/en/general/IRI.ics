@@ -337,12 +337,12 @@ SUMMARY: Hamed HAGHSHENAS 🇮🇷 - 🇨🇳 LIU Ludong
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240831T113800Z-para-taekwondo-MEN-K44-80KG-QUARTERFINAL
+UID:20240831T113800Z-para-taekwondo-MEN-K44-80KG-QUARTERFINAL-IRI-KAZ
 DTSTAMP:20240831T113800Z
 DTSTART:20240831T113800Z
 DTEND:20240831T114900Z
-DESCRIPTION:Para Taekwondo - Men K44 -80kg Quarterfinal\n🇮🇷 Alireza BAKHT
-SUMMARY:Men K44 -80kg Quarterfinal
+DESCRIPTION:Para Taekwondo - Men K44 -80kg Quarterfinal
+SUMMARY: Alireza BAKHT 🇮🇷 - 🇰🇿 Nurlan DOMBAYEV
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -374,6 +374,18 @@ DESCRIPTION:Para Athletics - Men's Javelin Throw - F57 Final\n🇮🇷 Amanolah
   KHALVANDI\n🇦🇷 Pablo Damian GIMENEZ REINOSO\n🇮🇳 Parveen KUMAR\n🇫🇷
   Vitolio KAVAKAVA\n🇺🇿 Yorkinbek ODILOV\n🇸🇳 Youssoupha DIOUF
 SUMMARY:Men's Javelin Throw - F57 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T080400Z-para-athletics-MENS-SHOT-PUT-F53-FINAL
+DTSTAMP:20240901T080400Z
+DTSTART:20240901T080400Z
+DTEND:20240901T102100Z
+DESCRIPTION:Para Athletics - Men's Shot Put - F53 Final\n🇲🇦 Abdelillah
+  GANI\n🇸🇾 Alaa ABDULSALAM\n🇨🇿 Ales KISY\n🇮🇷 Alireza MOKHTARI
+  HEMAMI\n🇵🇱 Bartosz GORCZAK\n🇬🇪 Giga OCHKHIKIDZE\n🇭🇷 Marijan
+  PRESECAN
+SUMMARY:Men's Shot Put - F53 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
