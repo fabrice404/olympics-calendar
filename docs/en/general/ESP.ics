@@ -1004,6 +1004,64 @@ SUMMARY: Dalia SANTIAGO MORENO 🇪🇸 - 🇧🇷 Debora MENEZES
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T153000Z-para-swimming-MENS-100M-BACKSTROKE-S12-FINAL
+DTSTAMP:20240831T153000Z
+DTSTART:20240831T153000Z
+DTEND:20240831T153700Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S12 Final\n🇪🇸 Alex
+  VILLAREJO MARTIN\n🇧🇷 Douglas MATERA\n🇮🇩 Maulana Rifky YAVIANDA\n🇦🇿
+  Raman SALEI\n🇬🇧 Stephen CLEGG\n🇺🇦 Yaroslav DENYSENKO
+SUMMARY:Men's 100m Backstroke - S12 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T153700Z-para-swimming-WOMENS-100M-BACKSTROKE-S12-FINAL
+DTSTAMP:20240831T153700Z
+DTSTART:20240831T153700Z
+DTEND:20240831T154400Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S12 Final\n🇺🇦 Anna
+  STETSENKO\n🇦🇺 Jenna JONES\n🇸🇰 Karina PETRIKOVICOVA\n🇫🇷 Leane
+  MORCEAU\n🇧🇷 Maria Carolina GOMES SANTIAGO\n🇪🇸 Maria DELGADO
+  NADAL\n🇩🇪 Naomi Maike SCHWARZ\n🇯🇵 TSUJIUCHI Ayano
+SUMMARY:Women's 100m Backstroke - S12 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T155900Z-para-swimming-MENS-100M-BACKSTROKE-S8-FINAL
+DTSTAMP:20240831T155900Z
+DTSTART:20240831T155900Z
+DTEND:20240831T160600Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S8 Final\n🇺🇦 Bohdan
+  HRYNENKO\n🇪🇸 Inigo LLOPIS SANZ\n🇦🇺 Jesse AUNGLES\n🇯🇵 KUBOTA
+  Kota\n🇨🇳 LIU Fengqi\n🇮🇱 Mark MALYAR\n🇯🇵 OGIWARA Kotaro\n🇹🇷 Turgut
+  Aslan YARAMAN
+SUMMARY:Men's 100m Backstroke - S8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T163700Z-para-swimming-MENS-400M-FREESTYLE-S13-FINAL
+DTSTAMP:20240831T163700Z
+DTSTART:20240831T163700Z
+DTEND:20240831T164700Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S13 Final\n🇫🇷 Alex
+  PORTAL\n🇪🇸 Ivan SALGUERO OTEIZA\n🇫🇷 Kylian PORTAL\n🇺🇦 Kyrylo
+  GARASHCHENKO\n🇿🇦 Nathan HENDRICKS
+SUMMARY:Men's 400m Freestyle - S13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T164700Z-para-swimming-WOMENS-400M-FREESTYLE-S13-FINAL
+DTSTAMP:20240831T164700Z
+DTSTART:20240831T164700Z
+DTEND:20240831T165800Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S13 Final\n🇿🇦 Alani
+  FERREIRA\n🇺🇦 Anna STETSENKO\n🇪🇸 Ariadna EDO BELTRAN\n🇮🇹 Carlotta
+  GILLI\n🇪🇸 Emma FELIU MARTIN\n🇺🇸 Olivia CHAMBERS\n🇺🇿 Shokhsanamkhon
+  TOSHPULATOVA
+SUMMARY:Women's 400m Freestyle - S13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T172200Z-para-swimming-MENS-50M-BACKSTROKE-S1-FINAL
 DTSTAMP:20240831T172200Z
 DTSTART:20240831T172200Z
@@ -1013,6 +1071,18 @@ DESCRIPTION:Para Swimming - Men's 50m Backstroke - S1 Final\n🇺🇦 Anton
   da SILVA\n🇵🇱 Kamil OTOWSKI\n🇪🇸 Miguel Angel NAVARRO RIOFRIO\n🇬🇷
   Nikolaos KONTOU
 SUMMARY:Men's 50m Backstroke - S1 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T175400Z-para-swimming-WOMENS-50M-BACKSTROKE-S2-FINAL
+DTSTAMP:20240831T175400Z
+DTSTART:20240831T175400Z
+DTEND:20240831T180200Z
+DESCRIPTION:Para Swimming - Women's 50m Backstroke - S2 Final\n🇮🇹 Angela
+  PROCIDA\n🇲🇽 Fabiola RAMIREZ MARTINEZ\n🇲🇽 Haidee Viviana ACEVES
+  PEREZ\n🇷🇸 Katarina DRAGANOV-CORDAS\n🇸🇬 Pin Xiu YIP\n🇪🇸 Teresa
+  PERALES\n🇭🇺 Zsanett ADAMI-ROZSA
+SUMMARY:Women's 50m Backstroke - S2 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT

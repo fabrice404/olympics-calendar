@@ -93,6 +93,18 @@ SUMMARY:Women's Discus Throw - F57 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T154400Z-para-swimming-MENS-200M-FREESTYLE-S14-FINAL
+DTSTAMP:20240831T154400Z
+DTSTART:20240831T154400Z
+DTEND:20240831T155100Z
+DESCRIPTION:Para Swimming - Men's 200m Freestyle - S14 Final\n🇩🇰
+  Alexander HILLHOUSE\n🇭🇰 CHEUNG Tsun Lok\n🇺🇦 Dmytro VANZENKO\n🇦🇺
+  Jack IRELAND\n🇨🇴 Juan Esteban GARCIA SANCHEZ\n🇨🇦 Nicholas
+  BENNETT\n🇭🇰 TANG Wai Lok\n🇬🇧 William ELLARD
+SUMMARY:Men's 200m Freestyle - S14 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T170000Z-para-athletics-WOMENS-SHOT-PUT-F37-FINAL
 DTSTAMP:20240831T170000Z
 DTSTART:20240831T170000Z
@@ -139,6 +151,30 @@ DESCRIPTION:Para Athletics - Women's 400m - T11 Final\n🇨🇳 HE
   Thalita Vitoria SIMPLICIO da SILVA
 SUMMARY:Women's 400m - T11 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T180200Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM7-FINAL
+DTSTAMP:20240831T180200Z
+DTSTART:20240831T180200Z
+DTEND:20240831T181000Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM7 Final\n🇺🇦
+  Andrii TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian
+  SADIE\n🇺🇸 Evan AUSTIN\n🇨🇳 HUANG Xianquan\n🇦🇷 Inaki BASILOFF\n🇺🇦
+  Yevhenii BOHODAIKO
+SUMMARY:Men's 200m Individual Medley - SM7 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T181000Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM7-FINAL
+DTSTAMP:20240831T181000Z
+DTSTART:20240831T181000Z
+DTEND:20240831T181900Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM7
+  Final\n🇨🇦 Danielle DORRIS\n🇬🇧 Iona WINNIFRITH\n🇺🇸 Julia
+  GAFFNEY\n🇺🇸 Mallory WEGGEMANN\n🇺🇸 Morgan STICKNEY\n🇨🇴 Sara VARGAS
+  BLANCO\n🇨🇦 Tess ROUTLIFFE\n🇺🇦 Veronika KORZHOVA
+SUMMARY:Women's 200m Individual Medley - SM7 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T181100Z-para-athletics-WOMENS-100M-T38-FINAL

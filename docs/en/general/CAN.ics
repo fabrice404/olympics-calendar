@@ -691,6 +691,18 @@ SUMMARY: CAN 🇨🇦 - 🇯🇵 JPN
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T154400Z-para-swimming-MENS-200M-FREESTYLE-S14-FINAL
+DTSTAMP:20240831T154400Z
+DTSTART:20240831T154400Z
+DTEND:20240831T155100Z
+DESCRIPTION:Para Swimming - Men's 200m Freestyle - S14 Final\n🇩🇰
+  Alexander HILLHOUSE\n🇭🇰 CHEUNG Tsun Lok\n🇺🇦 Dmytro VANZENKO\n🇦🇺
+  Jack IRELAND\n🇨🇴 Juan Esteban GARCIA SANCHEZ\n🇨🇦 Nicholas
+  BENNETT\n🇭🇰 TANG Wai Lok\n🇬🇧 William ELLARD
+SUMMARY:Men's 200m Freestyle - S14 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T171300Z-para-athletics-WOMENS-1500M-T13-FINAL
 DTSTAMP:20240831T171300Z
 DTSTART:20240831T171300Z
@@ -711,6 +723,18 @@ DTEND:20240831T193000Z
 DESCRIPTION:Sitting Volleyball - Women's Preliminary Round - Pool B
 SUMMARY: CAN 🇨🇦 - 🇧🇷 BRA
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T181000Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM7-FINAL
+DTSTAMP:20240831T181000Z
+DTSTART:20240831T181000Z
+DTEND:20240831T181900Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM7
+  Final\n🇨🇦 Danielle DORRIS\n🇬🇧 Iona WINNIFRITH\n🇺🇸 Julia
+  GAFFNEY\n🇺🇸 Mallory WEGGEMANN\n🇺🇸 Morgan STICKNEY\n🇨🇴 Sara VARGAS
+  BLANCO\n🇨🇦 Tess ROUTLIFFE\n🇺🇦 Veronika KORZHOVA
+SUMMARY:Women's 200m Individual Medley - SM7 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T183900Z-para-athletics-MENS-5000M-T54-FINAL

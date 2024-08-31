@@ -280,6 +280,41 @@ SUMMARY: Patrick WILSON 🇬🇧 - 🇿🇦 Karabo MORAPEDI
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T163700Z-para-swimming-MENS-400M-FREESTYLE-S13-FINAL
+DTSTAMP:20240831T163700Z
+DTSTART:20240831T163700Z
+DTEND:20240831T164700Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S13 Final\n🇫🇷 Alex
+  PORTAL\n🇪🇸 Ivan SALGUERO OTEIZA\n🇫🇷 Kylian PORTAL\n🇺🇦 Kyrylo
+  GARASHCHENKO\n🇿🇦 Nathan HENDRICKS
+SUMMARY:Men's 400m Freestyle - S13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T164700Z-para-swimming-WOMENS-400M-FREESTYLE-S13-FINAL
+DTSTAMP:20240831T164700Z
+DTSTART:20240831T164700Z
+DTEND:20240831T165800Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S13 Final\n🇿🇦 Alani
+  FERREIRA\n🇺🇦 Anna STETSENKO\n🇪🇸 Ariadna EDO BELTRAN\n🇮🇹 Carlotta
+  GILLI\n🇪🇸 Emma FELIU MARTIN\n🇺🇸 Olivia CHAMBERS\n🇺🇿 Shokhsanamkhon
+  TOSHPULATOVA
+SUMMARY:Women's 400m Freestyle - S13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T180200Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM7-FINAL
+DTSTAMP:20240831T180200Z
+DTSTART:20240831T180200Z
+DTEND:20240831T181000Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM7 Final\n🇺🇦
+  Andrii TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian
+  SADIE\n🇺🇸 Evan AUSTIN\n🇨🇳 HUANG Xianquan\n🇦🇷 Inaki BASILOFF\n🇺🇦
+  Yevhenii BOHODAIKO
+SUMMARY:Men's 200m Individual Medley - SM7 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T183400Z-para-athletics-MENS-LONG-JUMP-T63-FINAL
 DTSTAMP:20240831T183400Z
 DTSTART:20240831T183400Z
@@ -339,6 +374,18 @@ DESCRIPTION:Para Triathlon - Women's PTS4\n🇫🇷 Camille SENECLAUZE\n🇮🇪
   PILBEAM
 SUMMARY:Women's PTS4
 LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T171000Z-para-athletics-MENS-HIGH-JUMP-T47-FINAL
+DTSTAMP:20240901T171000Z
+DTSTART:20240901T171000Z
+DTEND:20240901T190700Z
+DESCRIPTION:Para Athletics - Men's High Jump - T47 Final\n🇹🇷 Abdullah
+  ILGAZ\n🇫🇷 Alexandre DIPOKO-EWANE\n🇹🇬 Ayao Severin KANSA\n🇨🇳 CHEN
+  Hongjie\n🇻🇮 Isaiah BENJAMIN\n🇿🇦 Khumo Neo PITSO\n🇮🇳 NISHAD
+  KUMAR\n🇮🇳 RAM PAL\n🇺🇸 Roderick TOWNSEND\n🇨🇳 ZHAO Yalong
+SUMMARY:Men's High Jump - T47 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240903T073000Z-para-swimming-MENS-100M-BACKSTROKE-S7-HEATS

@@ -2345,6 +2345,18 @@ SUMMARY: Fatemeh HEMMATI 🇮🇷 - 🇨🇳 LIN Yueshan
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T155900Z-para-swimming-MENS-100M-BACKSTROKE-S8-FINAL
+DTSTAMP:20240831T155900Z
+DTSTART:20240831T155900Z
+DTEND:20240831T160600Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S8 Final\n🇺🇦 Bohdan
+  HRYNENKO\n🇪🇸 Inigo LLOPIS SANZ\n🇦🇺 Jesse AUNGLES\n🇯🇵 KUBOTA
+  Kota\n🇨🇳 LIU Fengqi\n🇮🇱 Mark MALYAR\n🇯🇵 OGIWARA Kotaro\n🇹🇷 Turgut
+  Aslan YARAMAN
+SUMMARY:Men's 100m Backstroke - S8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T160000Z-para-badminton-WOMENS-SINGLES-SH6-GROUP-PLAY-STAGE-GRO
 DTSTAMP:20240831T160000Z
 DTSTART:20240831T160000Z
@@ -2370,6 +2382,18 @@ DTEND:20240831T170000Z
 DESCRIPTION:Para Table Tennis - Mixed Doubles - XD17 - Gold Medal Match
 SUMMARY: PENG/XIONG 🇨🇳 - 🇨🇳 ZHAO/MAO
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T160600Z-para-swimming-WOMENS-100M-BACKSTROKE-S8-FINAL
+DTSTAMP:20240831T160600Z
+DTSTART:20240831T160600Z
+DTEND:20240831T161300Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S8 Final\n🇨🇿
+  Alexandra BORSKA\n🇬🇧 Alice TAI\n🇺🇸 Jessica LONG\n🇨🇳 LU
+  Weiyuan\n🇩🇪 Mira Jeanne MAACK\n🇮🇹 Xenia Francesca PALAZZO\n🇨🇳 ZHENG
+  Tingting
+SUMMARY:Women's 100m Backstroke - S8 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T162500Z-boccia-MENS-INDIVIDUAL-BC4-QUARTERFINAL-CHN-UKR
@@ -2434,6 +2458,30 @@ SUMMARY:Women's 400m - T11 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T180200Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM7-FINAL
+DTSTAMP:20240831T180200Z
+DTSTART:20240831T180200Z
+DTEND:20240831T181000Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM7 Final\n🇺🇦
+  Andrii TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian
+  SADIE\n🇺🇸 Evan AUSTIN\n🇨🇳 HUANG Xianquan\n🇦🇷 Inaki BASILOFF\n🇺🇦
+  Yevhenii BOHODAIKO
+SUMMARY:Men's 200m Individual Medley - SM7 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T183500Z-para-swimming-MENS-50M-FREESTYLE-S11-FINAL
+DTSTAMP:20240831T183500Z
+DTSTART:20240831T183500Z
+DTEND:20240831T184100Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S11 Final\n🇺🇦 Danylo
+  CHUFAROV\n🇨🇿 David KRATOCHVIL\n🇱🇹 Edgaras MATAKAS\n🇨🇳 HUA
+  Dongdong\n🇯🇵 KIMURA Keiichi\n🇧🇷 Matheus RHEINE CORREA de SOUZA\n🇧🇷
+  Wendell BELARMINO PEREIRA\n🇨🇳 YANG Bozun
+SUMMARY:Men's 50m Freestyle - S11 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T183900Z-para-athletics-MENS-5000M-T54-FINAL
 DTSTAMP:20240831T183900Z
 DTSTART:20240831T183900Z
@@ -2453,6 +2501,18 @@ DTEND:20240831T192000Z
 DESCRIPTION:Para Badminton - Women's Doubles WH1-WH2 Semifinal
 SUMMARY: LIU/YIN 🇨🇳 - 🇨🇭 MATHEZ/RENGGLI
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240831T184100Z-para-swimming-WOMENS-50M-FREESTYLE-S11-FINAL
+DTSTAMP:20240831T184100Z
+DTSTART:20240831T184100Z
+DTEND:20240831T184800Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S11 Final\n🇺🇸
+  Anastasia PAGONIS\n🇨🇾 Karolina PELENDRITOU\n🇨🇳 LI Guizhi\n🇳🇱
+  Liesette BRUINSMA\n🇨🇳 MA Jia\n🇺🇦 Maryna PIDDUBNA\n🇬🇧 Scarlett
+  HUMPHREY\n🇨🇳 ZHANG Xiaotong
+SUMMARY:Women's 50m Freestyle - S11 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240831T184500Z-boccia-WOMENS-INDIVIDUAL-BC4-QUARTERFINAL-POR-CHN
@@ -2850,6 +2910,18 @@ DESCRIPTION:Para Athletics - Women's 800m - T53 Final\n🇦🇺 Angela
   BALLARD\n🇨🇭 Catherine DEBRUNNER\n🇺🇸 Chelsea STEIN\n🇨🇳 GAO
   Fang\n🇹🇷 Hamide DOGANGUN\n🇬🇧 Samantha KINGHORN\n🇨🇳 ZHOU Hongzhuan
 SUMMARY:Women's 800m - T53 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T171000Z-para-athletics-MENS-HIGH-JUMP-T47-FINAL
+DTSTAMP:20240901T171000Z
+DTSTART:20240901T171000Z
+DTEND:20240901T190700Z
+DESCRIPTION:Para Athletics - Men's High Jump - T47 Final\n🇹🇷 Abdullah
+  ILGAZ\n🇫🇷 Alexandre DIPOKO-EWANE\n🇹🇬 Ayao Severin KANSA\n🇨🇳 CHEN
+  Hongjie\n🇻🇮 Isaiah BENJAMIN\n🇿🇦 Khumo Neo PITSO\n🇮🇳 NISHAD
+  KUMAR\n🇮🇳 RAM PAL\n🇺🇸 Roderick TOWNSEND\n🇨🇳 ZHAO Yalong
+SUMMARY:Men's High Jump - T47 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
