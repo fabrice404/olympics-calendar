@@ -780,6 +780,19 @@ SUMMARY: KHOLIDIN 🇮🇩 - 🇺🇦 Vasyl NAUMCHUK
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T113500Z-para-powerlifting-WOMENS-UP-TO-41KG-FINAL
+DTSTAMP:20240904T113500Z
+DTSTART:20240904T113500Z
+DTEND:20240904T123400Z
+DESCRIPTION:Para Powerlifting - Women's up to 41kg Final\n🇨🇳 CUI
+  Zhe\n🇨🇴 Cristina POBLADOR GRANADOS\n🇪🇬 Enas Elgebaly ABDELAAL
+  AGGAG\n🇳🇬 Esther NWORGU\n🇰🇪 Hellen Wawira KARIUKI\n🇪🇨 Kerly
+  LASCANO\n🇧🇷 Lara Aparecida de LIMA\n🇮🇩 Ni Nengah WIDIASIH\n🇵🇹
+  Simone MACHADO FRAGOSO
+SUMMARY:Women's up to 41kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T123600Z-para-archery-MENS-INDIVIDUAL-RECURVE-OPEN-116-ELIMINAT
 DTSTAMP:20240904T123600Z
 DTSTART:20240904T123600Z
@@ -796,6 +809,30 @@ DTEND:20240905T082000Z
 DESCRIPTION:Para Archery - Mixed Team Recurve Open 1/8 Elimination
 SUMMARY: INA 🇮🇩 - 🇹🇭 THA
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T150000Z-para-powerlifting-WOMENS-UP-TO-79KG-FINAL
+DTSTAMP:20240907T150000Z
+DTSTART:20240907T150000Z
+DTEND:20240907T155500Z
+DESCRIPTION:Para Powerlifting - Women's up to 79kg Final\n🇯🇴 Asma
+  ISSA\n🇳🇬 Bose OMOLAYO\n🇮🇪 Britney ARENDSE\n🇧🇷 Caroline FERNANDES
+  ALVES\n🇨🇳 HAN Miaoyu\n🇬🇧 Louise SUGDEN\n🇪🇬 Safaa HASSAN\n🇮🇩 Siti
+  MAHMUDAH
+SUMMARY:Women's up to 79kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T120000Z-para-powerlifting-WOMENS-OVER-86KG-FINAL
+DTSTAMP:20240908T120000Z
+DTSTART:20240908T120000Z
+DTEND:20240908T130500Z
+DESCRIPTION:Para Powerlifting - Women's over 86kg Final\n🇺🇸 Ashley
+  DYCE\n🇨🇳 DENG Xuemei\n🇳🇬 Folashade OLUWAFEMIAYO\n🇱🇾 Ghazalah
+  ALAQOURI\n🇦🇺 Hani WATSON\n🇵🇱 Marzena ZIEBA\n🇪🇬 Nadia ALI\n🇺🇦
+  Nataliia OLIINYK\n🇲🇽 Perla Patri. BARCENAS PONCE de LEON\n🇮🇩 SRIYANTI
+SUMMARY:Women's over 86kg Final
+LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

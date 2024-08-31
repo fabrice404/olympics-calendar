@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/LBA//EN
+X-WR-CALNAME:🇱🇾 Libya | Paris 2024
+NAME:🇱🇾 Libya | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - Opening Ceremony
+SUMMARY:Paris 2024 - Opening Ceremony
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T120000Z-para-powerlifting-WOMENS-OVER-86KG-FINAL
+DTSTAMP:20240908T120000Z
+DTSTART:20240908T120000Z
+DTEND:20240908T130500Z
+DESCRIPTION:Para Powerlifting - Women's over 86kg Final\n🇺🇸 Ashley
+  DYCE\n🇨🇳 DENG Xuemei\n🇳🇬 Folashade OLUWAFEMIAYO\n🇱🇾 Ghazalah
+  ALAQOURI\n🇦🇺 Hani WATSON\n🇵🇱 Marzena ZIEBA\n🇪🇬 Nadia ALI\n🇺🇦
+  Nataliia OLIINYK\n🇲🇽 Perla Patri. BARCENAS PONCE de LEON\n🇮🇩 SRIYANTI
+SUMMARY:Women's over 86kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing Ceremony
+SUMMARY:Paris 2024 - Closing Ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

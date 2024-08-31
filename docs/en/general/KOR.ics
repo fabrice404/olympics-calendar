@@ -977,6 +977,15 @@ SUMMARY: JEONG Soyeong 🇰🇷 - 🇳🇱 Chantal van ENGELEN
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T184500Z-boccia-WOMENS-INDIVIDUAL-BC3-QUARTERFINAL-KOR-JPN
+DTSTAMP:20240831T184500Z
+DTSTART:20240831T184500Z
+DTEND:20240831T200000Z
+DESCRIPTION:Boccia - Women's Individual - BC3 Quarterfinal
+SUMMARY: KANG Sunhee 🇰🇷 - 🇯🇵 ICHINOE Ayane
+LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T195000Z-para-athletics-WOMENS-200M-T36-ROUND-1
 DTSTAMP:20240831T195000Z
 DTSTART:20240831T195000Z
@@ -1333,6 +1342,30 @@ SUMMARY:Women's 100m Backstroke - S14 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T150000Z-para-powerlifting-WOMENS-UP-TO-67KG-FINAL
+DTSTAMP:20240906T150000Z
+DTSTART:20240906T150000Z
+DTEND:20240906T155900Z
+DESCRIPTION:Para Powerlifting - Women's up to 67kg Final\n🇨🇴 Bertha
+  Cecilia FERNANDEZ ARANGO\n🇪🇬 Fatma ELYAN\n🇰🇷 KIM Hyeong Hui\n🇮🇳
+  Kasthuri RAJAMANI\n🇺🇿 Kudratoy TOSHPULATOVA\n🇳🇬 Lucy EJIKE\n🇧🇷
+  Maria de Fatima COSTA de CASTRO\n🇫🇷 Souhad GHAZOUANI\n🇨🇳 TAN Yujiao
+SUMMARY:Women's up to 67kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T163500Z-para-powerlifting-MENS-UP-TO-80KG-FINAL
+DTSTAMP:20240906T163500Z
+DTSTART:20240906T163500Z
+DTEND:20240906T173400Z
+DESCRIPTION:Para Powerlifting - Men's up to 80kg Final\n🇨🇮 Adou Herve
+  ANO\n🇧🇷 Ailton BENTO de SOUZA\n🇨🇳 GU Xiaofei\n🇩🇴 Jesus Manuel
+  RODRIGUEZ VALLEJO\n🇰🇷 KIM Gyuho\n🇬🇧 Matthew HARDING\n🇮🇶 Rasool
+  MOHSIN\n🇮🇷 Roohallah ROSTAMI
+SUMMARY:Men's up to 80kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T083800Z-para-swimming-MENS-50M-BACKSTROKE-S4-HEATS
 DTSTAMP:20240907T083800Z
 DTSTART:20240907T083800Z
@@ -1345,6 +1378,31 @@ DESCRIPTION:Para Swimming - Men's 50m Backstroke - S4 Heats\n🇦🇹 Andreas
   Liankang
 SUMMARY:Men's 50m Backstroke - S4 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T100000Z-para-powerlifting-WOMENS-UP-TO-73KG-FINAL
+DTSTAMP:20240907T100000Z
+DTSTART:20240907T100000Z
+DTEND:20240907T105500Z
+DESCRIPTION:Para Powerlifting - Women's up to 73kg Final\n🇹🇭 Arawan
+  BOOTPO\n🇰🇷 JEONG Youn Shil\n🇲🇩 Larisa MARINENKOVA\n🇧🇷 Mariana
+  D'ANDREA\n🇰🇿 Raushan KOISHIBAYEVA\n🇺🇿 Ruza KUZIEVA\n🇹🇷 Sibel
+  CAM\n🇨🇲 Thamar Gisele MENGUE
+SUMMARY:Women's up to 73kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T083500Z-para-powerlifting-WOMENS-UP-TO-86KG-FINAL
+DTSTAMP:20240908T083500Z
+DTSTART:20240908T083500Z
+DTEND:20240908T094000Z
+DESCRIPTION:Para Powerlifting - Women's up to 86kg Final\n🇹🇼 LIN
+  Tzu-Hui\n🇳🇬 Loveline OBIJI\n🇨🇱 Marion Alejandra SERRANO
+  GUAJARDO\n🇹🇲 Mayagozel EKEYEVA\n🇰🇬 Mirgul BOLOTALIEVA\n🇪🇬 Randa
+  MAHMOUD\n🇧🇷 Tayana MEDEIROS\n🇯🇴 Tharwh Tayseer Hamdan ALHAJAJ\n🇰🇷
+  YANG Jaewon\n🇨🇳 ZHENG Feifei
+SUMMARY:Women's up to 86kg Final
+LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

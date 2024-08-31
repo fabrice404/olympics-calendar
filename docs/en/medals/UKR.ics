@@ -522,6 +522,31 @@ SUMMARY:Mixed 4x100m Freestyle Relay - 49 Points Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T113500Z-para-powerlifting-MENS-UP-TO-59KG-FINAL
+DTSTAMP:20240905T113500Z
+DTSTART:20240905T113500Z
+DTEND:20240905T123400Z
+DESCRIPTION:Para Powerlifting - Men's up to 59kg Final\n🇵🇪 Diego
+  QUISPE\n🇸🇻 Herbert ACEITUNO\n🇨🇱 Juan Carlos GARRIDO ACEVEDO\n🇺🇦
+  Kostiantyn PANASIUK\n🇪🇬 Mohamed ELMENYAWY\n🇮🇷 Mohsen BAKHTIAR\n🇬🇷
+  Paschalis KOULOUMOGLOU\n🇨🇳 QI Yongkai\n🇰🇿 Stanislav SHAKIYEV
+SUMMARY:Men's up to 59kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T113500Z-para-powerlifting-MENS-UP-TO-88KG-FINAL
+DTSTAMP:20240907T113500Z
+DTSTART:20240907T113500Z
+DTEND:20240907T124000Z
+DESCRIPTION:Para Powerlifting - Men's up to 88kg Final\n🇦🇺 Ben
+  WRIGHT\n🇺🇬 Dennis MBAZIIRA\n🇧🇷 Evanio da SILVA\n🇺🇿 Khusniddin
+  USMANOV\n🇪🇬 Mohamed ELELFAT\n🇦🇪 Mohammed Khamis KHALAF\n🇰🇿
+  Rakhmetzhan KHAMAYEV\n🇵🇱 Wawrzyniec LATUS\n🇨🇳 YAN Panpan\n🇺🇦 Yurii
+  BABYNETS
+SUMMARY:Men's up to 88kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T170400Z-para-swimming-WOMENS-50M-BACKSTROKE-S4-FINAL
 DTSTAMP:20240907T170400Z
 DTSTART:20240907T170400Z
@@ -532,5 +557,29 @@ DESCRIPTION:Para Swimming - Women's 50m Backstroke - S4 Final\n🇬🇷
   Qiuping\n🇩🇪 Tanja SCHOLZ
 SUMMARY:Women's 50m Backstroke - S4 Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T120000Z-para-powerlifting-WOMENS-OVER-86KG-FINAL
+DTSTAMP:20240908T120000Z
+DTSTART:20240908T120000Z
+DTEND:20240908T130500Z
+DESCRIPTION:Para Powerlifting - Women's over 86kg Final\n🇺🇸 Ashley
+  DYCE\n🇨🇳 DENG Xuemei\n🇳🇬 Folashade OLUWAFEMIAYO\n🇱🇾 Ghazalah
+  ALAQOURI\n🇦🇺 Hani WATSON\n🇵🇱 Marzena ZIEBA\n🇪🇬 Nadia ALI\n🇺🇦
+  Nataliia OLIINYK\n🇲🇽 Perla Patri. BARCENAS PONCE de LEON\n🇮🇩 SRIYANTI
+SUMMARY:Women's over 86kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T133500Z-para-powerlifting-MENS-OVER-107KG-FINAL
+DTSTAMP:20240908T133500Z
+DTSTART:20240908T133500Z
+DTEND:20240908T143300Z
+DESCRIPTION:Para Powerlifting - Men's over 107kg Final\n🇮🇷 Ahmad
+  AMINZADEH\n🇬🇪 Akaki JINTCHARADZE\n🇪🇬 Amr MOSAAD\n🇺🇦 Anton
+  KRIUKOV\n🇨🇴 Eglain Antonio MENA LEMUS\n🇮🇶 Faris AL-AGEELI\n🇯🇴 Jamil
+  ELSHEBLI\n🇬🇧 Liam McGARRY\n🇬🇭 Tahiru HARUNA
+SUMMARY:Men's over 107kg Final
+LOCATION:La Chapelle Arena
 END:VEVENT
 END:VCALENDAR

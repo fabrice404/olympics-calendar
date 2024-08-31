@@ -212,7 +212,7 @@ DTSTART:20240831T125200Z
 DTEND:20240831T130100Z
 DESCRIPTION:Para Cycling Track - Men's C4 4000m Individual Pursuit Final -
   Bronze
-SUMMARY: Kevin le CUNFF 🇫🇷 - 🇫🇷 Gatien le ROUSSEAU
+SUMMARY: Gatien le ROUSSEAU 🇫🇷 - 🇫🇷 Kevin le CUNFF
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
@@ -468,6 +468,55 @@ DESCRIPTION:Para Athletics - Women's Long Jump - T37 Final\n🇲🇺 Anais
   GOUWS\n🇫🇷 Mandy FRANCOIS-ELIE\n🇫🇷 Manon GENEST\n🇨🇳 WEN Xiaoyan
 SUMMARY:Women's Long Jump - T37 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T100000Z-para-powerlifting-MENS-UP-TO-49KG-FINAL
+DTSTAMP:20240904T100000Z
+DTSTART:20240904T100000Z
+DTEND:20240904T105900Z
+DESCRIPTION:Para Powerlifting - Men's up to 49kg Final\n🇹🇷 Abdullah
+  KAYAPINAR\n🇸🇦 Adnan NOORSAEED\n🇫🇷 Alex ADELAIDE\n🇩🇿 Hadj Ahmed
+  BEYOUR\n🇭🇺 Nandor TUNKEL\n🇯🇴 Omar Sami Hamadeh QARADA\n🇮🇳 PARMJEET
+  KUMAR\n🇨🇳 ZHENG Yu\n🇻🇳 van Cong le
+SUMMARY:Men's up to 49kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T163500Z-para-powerlifting-MENS-UP-TO-54KG-FINAL
+DTSTAMP:20240904T163500Z
+DTSTART:20240904T163500Z
+DTEND:20240904T174000Z
+DESCRIPTION:Para Powerlifting - Men's up to 54kg Final\n🇻🇳 An
+  NGUYEN\n🇫🇷 Axel BOURLON\n🇰🇿 David DEGTYAREV\n🇬🇷 Dimitrios
+  BAKOCHRISTOS\n🇦🇿 Jeyhun MAHMUDOV\n🇯🇴 Mohammad ALSHNAITI\n🇮🇶 Muslim
+  AL-SUDANI\n🇨🇺 Pablo RAMIREZ BARRIENTOS\n🇪🇬 Taha ABDELMAJID\n🇨🇳 YANG
+  Jinglang
+SUMMARY:Men's up to 54kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T150000Z-para-powerlifting-WOMENS-UP-TO-67KG-FINAL
+DTSTAMP:20240906T150000Z
+DTSTART:20240906T150000Z
+DTEND:20240906T155900Z
+DESCRIPTION:Para Powerlifting - Women's up to 67kg Final\n🇨🇴 Bertha
+  Cecilia FERNANDEZ ARANGO\n🇪🇬 Fatma ELYAN\n🇰🇷 KIM Hyeong Hui\n🇮🇳
+  Kasthuri RAJAMANI\n🇺🇿 Kudratoy TOSHPULATOVA\n🇳🇬 Lucy EJIKE\n🇧🇷
+  Maria de Fatima COSTA de CASTRO\n🇫🇷 Souhad GHAZOUANI\n🇨🇳 TAN Yujiao
+SUMMARY:Women's up to 67kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T163500Z-para-powerlifting-MENS-UP-TO-97KG-FINAL
+DTSTAMP:20240907T163500Z
+DTSTART:20240907T163500Z
+DTEND:20240907T173400Z
+DESCRIPTION:Para Powerlifting - Men's up to 97kg Final\n🇯🇴 Abdelkareem
+  Mohmmad Ahmad KHATTAB\n🇮🇹 Andrea Maria QUARTO\n🇨🇴 Fabio TORRES\n🇪🇬
+  Hany ABDELHADY\n🇲🇾 Nicodemus Manggoi MOSES\n🇷🇸 Petar MILENKOVIC\n🇫🇷
+  Rafik ARABAT\n🇮🇷 Seyedhamed SOLHIPOURAVANJI\n🇨🇳 YE Jixiong
+SUMMARY:Men's up to 97kg Final
+LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240907T183400Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-34-POINTS-F

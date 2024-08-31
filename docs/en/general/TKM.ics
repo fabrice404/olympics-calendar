@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/TKM//EN
+X-WR-CALNAME:🇹🇲 Turkmenistan | Paris 2024
+NAME:🇹🇲 Turkmenistan | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - Opening Ceremony
+SUMMARY:Paris 2024 - Opening Ceremony
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T083500Z-para-powerlifting-WOMENS-UP-TO-86KG-FINAL
+DTSTAMP:20240908T083500Z
+DTSTART:20240908T083500Z
+DTEND:20240908T094000Z
+DESCRIPTION:Para Powerlifting - Women's up to 86kg Final\n🇹🇼 LIN
+  Tzu-Hui\n🇳🇬 Loveline OBIJI\n🇨🇱 Marion Alejandra SERRANO
+  GUAJARDO\n🇹🇲 Mayagozel EKEYEVA\n🇰🇬 Mirgul BOLOTALIEVA\n🇪🇬 Randa
+  MAHMOUD\n🇧🇷 Tayana MEDEIROS\n🇯🇴 Tharwh Tayseer Hamdan ALHAJAJ\n🇰🇷
+  YANG Jaewon\n🇨🇳 ZHENG Feifei
+SUMMARY:Women's up to 86kg Final
+LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing Ceremony
+SUMMARY:Paris 2024 - Closing Ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR
