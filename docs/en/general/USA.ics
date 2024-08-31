@@ -967,7 +967,7 @@ BEGIN:VEVENT
 UID:20240831T111500Z-goalball-MENS-PRELIMINARY-ROUND-POOL-A-USA-FRA
 DTSTAMP:20240831T111500Z
 DTSTART:20240831T111500Z
-DTEND:20240831T123000Z
+DTEND:20240831T121500Z
 DESCRIPTION:Goalball - Men's Preliminary Round - Pool A
 SUMMARY: USA 🇺🇸 - 🇫🇷 FRA
 LOCATION:South Paris Arena 6
@@ -1585,6 +1585,32 @@ DTEND:20240901T193000Z
 DESCRIPTION:Sitting Volleyball - Women's Preliminary Round - Pool A
 SUMMARY: FRA 🇫🇷 - 🇺🇸 USA
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T184100Z-para-athletics-WOMENS-LONG-JUMP-T37-FINAL
+DTSTAMP:20240901T184100Z
+DTSTART:20240901T184100Z
+DTEND:20240901T200900Z
+DESCRIPTION:Para Athletics - Women's Long Jump - T37 Final\n🇲🇺 Anais
+  ANGELINE\n🇺🇸 Jaleen ROBERTS\n🇩🇪 Laura BURBULLA\n🇿🇦 Liezel
+  GOUWS\n🇫🇷 Mandy FRANCOIS-ELIE\n🇫🇷 Manon GENEST\n🇨🇳 WEN Xiaoyan
+SUMMARY:Women's Long Jump - T37 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T192900Z-para-athletics-MENS-100M-T64-ROUND-1
+DTSTAMP:20240901T192900Z
+DTSTART:20240901T192900Z
+DTEND:20240901T194300Z
+DESCRIPTION:Para Athletics - Men's 100m - T64 Round 1\n🇧🇷 Alan OLIVEIRA
+  BECKER FONTELES\n🇲🇹 Antonio FLORES\n🇱🇧 Arz ZAHREDDINE\n🇿🇦 Daniel du
+  PLESSIS\n🇺🇸 Derek LOCCIDENT\n🇮🇹 Fabio BOTTAZZINI\n🇩🇪 Felix
+  STRENG\n🇺🇸 Hunter WOODHALL\n🇩🇪 Johannes FLOORS\n🇺🇸 Jonathan
+  GORE\n🇬🇧 Jonnie PEACOCK\n🇮🇹 Maxcel Amo MANU\n🇯🇵 OSHIMA Kengo\n🇳🇱
+  Olivier HENDRIKS\n🇿🇦 Paul DANIELS\n🇲🇲 SOE PEA\n🇨🇷 Sherman Isidro
+  GUITY GUITY\n🇧🇷 Wallison Andre FORTES
+SUMMARY:Men's 100m - T64 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T070000Z-shooting-para-sport-P3-MIXED-25M-PISTOL-SH1-QUALIFICAT

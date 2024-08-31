@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//en/general/MLT//EN
-X-WR-CALNAME:🇲🇹 Malta | Paris 2024
-NAME:🇲🇹 Malta | Paris 2024
+PRODID:-//fabrice404//olympics-calendar//en/general/LBN//EN
+X-WR-CALNAME:🇱🇧 Lebanon | Paris 2024
+NAME:🇱🇧 Lebanon | Paris 2024
 BEGIN:VEVENT
 UID:20240828T180000Z-opening-ceremony
 DTSTAMP:20240828T180000Z
@@ -11,19 +11,6 @@ DTEND:20240828T210000Z
 DESCRIPTION:Paris 2024 - Opening Ceremony
 SUMMARY:Paris 2024 - Opening Ceremony
 LOCATION:Paris
-END:VEVENT
-BEGIN:VEVENT
-UID:20240829T084300Z-para-swimming-WOMENS-50M-FREESTYLE-S6-HEATS
-DTSTAMP:20240829T084300Z
-DTSTART:20240829T084300Z
-DTEND:20240829T085000Z
-DESCRIPTION:Para Swimming - Women's 50m Freestyle - S6 Heats\n🇺🇦 Anna
-  HONTAR\n🇮🇪 Dearbhaile BRADY\n🇺🇸 Ellie MARKS\n🇨🇳 JIANG Yuyan\n🇲🇹
-  Maja THEUMA\n🇨🇴 Mariana GUERRERO MARTINEZ\n🇧🇷 Mayara DO AMARAL
-  PETZOLD\n🇮🇪 Nicole TURNER\n🇲🇳 Nomuun KHUREL\n🇨🇭 Nora MEISTER\n🇨🇦
-  Shelby NEWKIRK\n🇩🇪 Verena SCHOTT\n🇨🇳 ZHANG Li\n🇨🇳 ZHU Ji
-SUMMARY:Women's 50m Freestyle - S6 Heats
-LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T192900Z-para-athletics-MENS-100M-T64-ROUND-1
