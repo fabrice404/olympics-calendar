@@ -262,6 +262,18 @@ SUMMARY:Women's Shot Put - F37 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T181100Z-para-athletics-WOMENS-100M-T38-FINAL
+DTSTAMP:20240831T181100Z
+DTSTART:20240831T181100Z
+DTEND:20240831T181800Z
+DESCRIPTION:Para Athletics - Women's 100m - T38 Final\n🇨🇴 Darian Faisury
+  JIMENEZ SANCHEZ\n🇨🇴 Karen Tatiana PALOMEQUE MORENO\n🇬🇷 Lida Maria
+  MANTHOPOULOU\n🇭🇺 Luca EKLER\n🇬🇧 Maddie DOWN\n🇦🇺 Rhiannon
+  CLARKE\n🇬🇧 Sophie HAHN
+SUMMARY:Women's 100m - T38 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T181500Z-para-table-tennis-WOMENS-DOUBLES-WD20-GOLD-MEDAL-MATCH
 DTSTAMP:20240831T181500Z
 DTSTART:20240831T181500Z
@@ -331,6 +343,19 @@ DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
   Yoko PLEBANI
 SUMMARY:Women's PTS2
 LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T085200Z-para-athletics-WOMENS-DISCUS-THROW-F64-FINAL
+DTSTAMP:20240901T085200Z
+DTSTART:20240901T085200Z
+DTEND:20240901T102200Z
+DESCRIPTION:Para Athletics - Women's Discus Throw - F64 Final\n🇺🇸 Arelle
+  MIDDLETON\n🇵🇱 Faustyna KOTLOWSKA\n🇬🇧 Funmi ODUWAIYE\n🇳🇴 Ida
+  NESSE\n🇺🇸 Jessica HEIMS\n🇱🇸 Litsitso KHOTLELE\n🇲🇽 Osiris Aneth
+  MACHADO PLATA\n🇺🇸 Samantha HEYISON\n🇦🇺 Sarah EDMISTON\n🇨🇳 YANG
+  Yue\n🇨🇳 YAO Juan\n🇿🇦 Yane van der MERWE
+SUMMARY:Women's Discus Throw - F64 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T093000Z-para-rowing-PR1-MENS-SINGLE-SCULLS-FINAL-A

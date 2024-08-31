@@ -475,6 +475,15 @@ SUMMARY: LIAO/YAN 🇨🇳 - 🇫🇷 BERTHIER/HERRAULT
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T100500Z-para-archery-WOMENS-INDIVIDUAL-W1-GOLD-MEDAL-CZE-CHN
+DTSTAMP:20240831T100500Z
+DTSTART:20240831T100500Z
+DTEND:20240831T102200Z
+DESCRIPTION:Para Archery - Women's Individual W1 Gold Medal
+SUMMARY: Sarka PULTAR MUSILOVA 🇨🇿 - 🇨🇳 CHEN Minyi
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T101500Z-shooting-para-sport-R1-MENS-10M-AIR-RIFLE-STANDING-SH1
 DTSTAMP:20240831T101500Z
 DTSTART:20240831T101500Z
@@ -598,6 +607,19 @@ DESCRIPTION:Para Athletics - Men's 5000m - T54 Final\n🇨🇦 Brent
   Faisal ALRAJEHI\n🇨🇳 LUO Xingchuan\n🇨🇳 MA Zhuo\n🇨🇭 Marcel HUG\n🇹🇭
   Putharet KHONGRAK\n🇹🇭 Saichon KONJEN
 SUMMARY:Men's 5000m - T54 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T085200Z-para-athletics-WOMENS-DISCUS-THROW-F64-FINAL
+DTSTAMP:20240901T085200Z
+DTSTART:20240901T085200Z
+DTEND:20240901T102200Z
+DESCRIPTION:Para Athletics - Women's Discus Throw - F64 Final\n🇺🇸 Arelle
+  MIDDLETON\n🇵🇱 Faustyna KOTLOWSKA\n🇬🇧 Funmi ODUWAIYE\n🇳🇴 Ida
+  NESSE\n🇺🇸 Jessica HEIMS\n🇱🇸 Litsitso KHOTLELE\n🇲🇽 Osiris Aneth
+  MACHADO PLATA\n🇺🇸 Samantha HEYISON\n🇦🇺 Sarah EDMISTON\n🇨🇳 YANG
+  Yue\n🇨🇳 YAO Juan\n🇿🇦 Yane van der MERWE
+SUMMARY:Women's Discus Throw - F64 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
