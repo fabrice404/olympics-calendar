@@ -1388,6 +1388,15 @@ SUMMARY: Patrick WILSON 🇬🇧 - 🇿🇦 Karabo MORAPEDI
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T162500Z-boccia-MENS-INDIVIDUAL-BC4-QUARTERFINAL-GBR-HKG
+DTSTAMP:20240831T162500Z
+DTSTART:20240831T162500Z
+DTEND:20240831T172500Z
+DESCRIPTION:Boccia - Men's Individual - BC4 Quarterfinal
+SUMMARY: Stephen McGUIRE 🇬🇧 - 🇭🇰 LEUNG Yuk Wing
+LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T164000Z-para-badminton-MENS-SINGLES-SH6-GROUP-PLAY-STAGE-GROUP
 DTSTAMP:20240831T164000Z
 DTSTART:20240831T164000Z
@@ -1623,6 +1632,20 @@ SUMMARY:Women's 100m Breaststroke - SB5 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T092500Z-para-athletics-WOMENS-800M-T54-ROUND-1
+DTSTAMP:20240901T092500Z
+DTSTART:20240901T092500Z
+DTEND:20240901T094200Z
+DESCRIPTION:Para Athletics - Women's 800m - T54 Round 1\n🇧🇷 Aline dos
+  SANTOS ROCHA\n🇺🇸 Hannah DEDERICK\n🇧🇷 Jessica Gabrieli SOARES
+  GIACOMELLI\n🇧🇪 Lea BAYEKULA\n🇨🇭 Manuela SCHAER\n🇬🇧 Melanie
+  WOODS\n🇩🇪 Merle Marie MENJE\n🇲🇺 Noemi ALPHONSE\n🇨🇭 Patricia
+  EACHUS\n🇺🇸 Susannah SCARONI\n🇨🇳 TIAN Yajuan\n🇺🇸 Tatyana
+  McFADDEN\n🇧🇷 Vanessa Cristina de SOUZA\n🇨🇳 ZHOU Zhaoqian
+SUMMARY:Women's 800m - T54 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T092600Z-para-cycling-track-WOMENS-B-3000M-INDIVIDUAL-PURSUIT-Q
 DTSTAMP:20240901T092600Z
 DTSTART:20240901T092600Z
@@ -1695,6 +1718,20 @@ DESCRIPTION:Para Triathlon - Men's PTVI\n🇫🇷 Antoine PEREL\n🇬🇧 Dave
   YONEOKA Satoru
 SUMMARY:Men's PTVI
 LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T100500Z-para-athletics-MENS-400M-T54-ROUND-1
+DTSTAMP:20240901T100500Z
+DTSTART:20240901T100500Z
+DTEND:20240901T101900Z
+DESCRIPTION:Para Athletics - Men's 400m - T54 Round 1\n🇹🇭 Athiwat
+  PAENG-NUEA\n🇨🇳 DAI Yunqiang\n🇺🇸 Daniel ROMANCHUK\n🇬🇧 Daniel
+  SIDBURY\n🇰🇼 Faisal ALRAJEHI\n🇨🇳 HU Yang\n🇲🇽 Juan Pablo CERVANTES
+  GARCIA\n🇦🇺 Luke BAILEY\n🇵🇹 Mamudo BALDE\n🇬🇧 Nathan MAGUIRE\n🇹🇭
+  Phiphatphong SIANGLAM\n🇹🇭 Putharet KHONGRAK\n🇪🇷 Sibhatu Kesete
+  WELDEMARIAM\n🇹🇳 Yassine GHARBI\n🇨🇳 ZHANG Ying
+SUMMARY:Men's 400m - T54 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T100500Z-para-triathlon-WOMENS-PTVI

@@ -953,6 +953,16 @@ SUMMARY:Men's Individual - BC2 Quarterfinal
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T162500Z-boccia-MENS-INDIVIDUAL-BC4-QUARTERFINAL
+DTSTAMP:20240831T162500Z
+DTSTART:20240831T162500Z
+DTEND:20240831T172500Z
+DESCRIPTION:Boccia - Men's Individual - BC4 Quarterfinal\n🇹🇭 Pornchok
+  LARPYEN
+SUMMARY:Men's Individual - BC4 Quarterfinal
+LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T180000Z-para-badminton-MENS-SINGLES-SH6-GROUP-PLAY-STAGE-GROUP
 DTSTAMP:20240831T180000Z
 DTSTART:20240831T180000Z
@@ -1096,6 +1106,33 @@ DESCRIPTION:Para Athletics - Men's 100m - T13 Round 1\n🇦🇺 Chad
   Skander Djamil ATHMANI\n🇳🇴 Vegard Dragsund SVERD\n🇪🇸 Winsdom Asisosa
   IKHIUWU SMITH\n🇬🇧 Zak SKINNER
 SUMMARY:Men's 100m - T13 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T100500Z-para-athletics-MENS-400M-T54-ROUND-1
+DTSTAMP:20240901T100500Z
+DTSTART:20240901T100500Z
+DTEND:20240901T101900Z
+DESCRIPTION:Para Athletics - Men's 400m - T54 Round 1\n🇹🇭 Athiwat
+  PAENG-NUEA\n🇨🇳 DAI Yunqiang\n🇺🇸 Daniel ROMANCHUK\n🇬🇧 Daniel
+  SIDBURY\n🇰🇼 Faisal ALRAJEHI\n🇨🇳 HU Yang\n🇲🇽 Juan Pablo CERVANTES
+  GARCIA\n🇦🇺 Luke BAILEY\n🇵🇹 Mamudo BALDE\n🇬🇧 Nathan MAGUIRE\n🇹🇭
+  Phiphatphong SIANGLAM\n🇹🇭 Putharet KHONGRAK\n🇪🇷 Sibhatu Kesete
+  WELDEMARIAM\n🇹🇳 Yassine GHARBI\n🇨🇳 ZHANG Ying
+SUMMARY:Men's 400m - T54 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T105000Z-para-athletics-MENS-400M-T53-ROUND-1
+DTSTAMP:20240901T105000Z
+DTSTART:20240901T105000Z
+DTEND:20240901T110400Z
+DESCRIPTION:Para Athletics - Men's 400m - T53 Round 1\n🇸🇦 Adbulrahman
+  ALQURASHI\n🇧🇷 Ariosvaldo FERNANDES da SILVA\n🇨🇦 Brent LAKATOS\n🇺🇸
+  Brian SIEMANN\n🇹🇭 Masaberee ARSAE\n🇹🇳 Mohamed Nidhal KHELIFI\n🇹🇭
+  Pichet KRUNGGET\n🇫🇷 Pierre FAIRBANK\n🇹🇭 Pongsakorn PAEYO\n🇰🇷 YOO
+  Byunghoon
+SUMMARY:Men's 400m - T53 Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

@@ -2372,6 +2372,15 @@ SUMMARY: PENG/XIONG 🇨🇳 - 🇨🇳 ZHAO/MAO
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240831T162500Z-boccia-MENS-INDIVIDUAL-BC4-QUARTERFINAL-CHN-UKR
+DTSTAMP:20240831T162500Z
+DTSTART:20240831T162500Z
+DTEND:20240831T172500Z
+DESCRIPTION:Boccia - Men's Individual - BC4 Quarterfinal
+SUMMARY: ZHENG Yuansen 🇨🇳 - 🇺🇦 Artem KOLINKO
+LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
 UID:20240831T170000Z-para-athletics-WOMENS-SHOT-PUT-F37-FINAL
 DTSTAMP:20240831T170000Z
 DTSTART:20240831T170000Z
@@ -2689,6 +2698,46 @@ DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB5 Heats\n🇺🇦
   Verena SCHOTT\n🇯🇵 YUI Maori\n🇨🇳 ZHANG Li
 SUMMARY:Women's 100m Breaststroke - SB5 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T092500Z-para-athletics-WOMENS-800M-T54-ROUND-1
+DTSTAMP:20240901T092500Z
+DTSTART:20240901T092500Z
+DTEND:20240901T094200Z
+DESCRIPTION:Para Athletics - Women's 800m - T54 Round 1\n🇧🇷 Aline dos
+  SANTOS ROCHA\n🇺🇸 Hannah DEDERICK\n🇧🇷 Jessica Gabrieli SOARES
+  GIACOMELLI\n🇧🇪 Lea BAYEKULA\n🇨🇭 Manuela SCHAER\n🇬🇧 Melanie
+  WOODS\n🇩🇪 Merle Marie MENJE\n🇲🇺 Noemi ALPHONSE\n🇨🇭 Patricia
+  EACHUS\n🇺🇸 Susannah SCARONI\n🇨🇳 TIAN Yajuan\n🇺🇸 Tatyana
+  McFADDEN\n🇧🇷 Vanessa Cristina de SOUZA\n🇨🇳 ZHOU Zhaoqian
+SUMMARY:Women's 800m - T54 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T094200Z-para-athletics-MENS-SHOT-PUT-F40-FINAL
+DTSTAMP:20240901T094200Z
+DTSTART:20240901T094200Z
+DTEND:20240901T103600Z
+DESCRIPTION:Para Athletics - Men's Shot Put - F40 Final\n🇲🇳 Battulga
+  TSEGMID\n🇮🇶 Garrah TNAIASH\n🇭🇷 Matija SLOUP\n🇵🇹 Miguel
+  MONTEIRO\n🇸🇬 Muhammad Diroy NOORDIN\n🇮🇳 Ravi RONGALI\n🇨🇳 WANG
+  Wei\n🇩🇪 Yannis FISCHER
+SUMMARY:Men's Shot Put - F40 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T100500Z-para-athletics-MENS-400M-T54-ROUND-1
+DTSTAMP:20240901T100500Z
+DTSTART:20240901T100500Z
+DTEND:20240901T101900Z
+DESCRIPTION:Para Athletics - Men's 400m - T54 Round 1\n🇹🇭 Athiwat
+  PAENG-NUEA\n🇨🇳 DAI Yunqiang\n🇺🇸 Daniel ROMANCHUK\n🇬🇧 Daniel
+  SIDBURY\n🇰🇼 Faisal ALRAJEHI\n🇨🇳 HU Yang\n🇲🇽 Juan Pablo CERVANTES
+  GARCIA\n🇦🇺 Luke BAILEY\n🇵🇹 Mamudo BALDE\n🇬🇧 Nathan MAGUIRE\n🇹🇭
+  Phiphatphong SIANGLAM\n🇹🇭 Putharet KHONGRAK\n🇪🇷 Sibhatu Kesete
+  WELDEMARIAM\n🇹🇳 Yassine GHARBI\n🇨🇳 ZHANG Ying
+SUMMARY:Men's 400m - T54 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T120000Z-sitting-volleyball-WOMENS-PRELIMINARY-ROUND-POOL-A-ITA

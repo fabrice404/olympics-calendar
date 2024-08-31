@@ -982,12 +982,12 @@ SUMMARY: Maylee PHELPS 🇺🇸 - 🇬🇧 Abbie BREAKWELL
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240831T120000Z-para-taekwondo-MEN-K44-80KG-QUARTERFINAL
+UID:20240831T120000Z-para-taekwondo-MEN-K44-80KG-QUARTERFINAL-USA-KAZ
 DTSTAMP:20240831T120000Z
 DTSTART:20240831T120000Z
 DTEND:20240831T121100Z
-DESCRIPTION:Para Taekwondo - Men K44 +80kg Quarterfinal\n🇺🇸 Evan MEDELL
-SUMMARY:Men K44 +80kg Quarterfinal
+DESCRIPTION:Para Taekwondo - Men K44 +80kg Quarterfinal
+SUMMARY: Evan MEDELL 🇺🇸 - 🇰🇿 Nyshan OMIRALI
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -1301,6 +1301,20 @@ SUMMARY:Women's 100m - T34 Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T092500Z-para-athletics-WOMENS-800M-T54-ROUND-1
+DTSTAMP:20240901T092500Z
+DTSTART:20240901T092500Z
+DTEND:20240901T094200Z
+DESCRIPTION:Para Athletics - Women's 800m - T54 Round 1\n🇧🇷 Aline dos
+  SANTOS ROCHA\n🇺🇸 Hannah DEDERICK\n🇧🇷 Jessica Gabrieli SOARES
+  GIACOMELLI\n🇧🇪 Lea BAYEKULA\n🇨🇭 Manuela SCHAER\n🇬🇧 Melanie
+  WOODS\n🇩🇪 Merle Marie MENJE\n🇲🇺 Noemi ALPHONSE\n🇨🇭 Patricia
+  EACHUS\n🇺🇸 Susannah SCARONI\n🇨🇳 TIAN Yajuan\n🇺🇸 Tatyana
+  McFADDEN\n🇧🇷 Vanessa Cristina de SOUZA\n🇨🇳 ZHOU Zhaoqian
+SUMMARY:Women's 800m - T54 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T092600Z-para-cycling-track-WOMENS-B-3000M-INDIVIDUAL-PURSUIT-Q
 DTSTAMP:20240901T092600Z
 DTSTART:20240901T092600Z
@@ -1364,6 +1378,20 @@ SUMMARY:Men's PTVI
 LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T100500Z-para-athletics-MENS-400M-T54-ROUND-1
+DTSTAMP:20240901T100500Z
+DTSTART:20240901T100500Z
+DTEND:20240901T101900Z
+DESCRIPTION:Para Athletics - Men's 400m - T54 Round 1\n🇹🇭 Athiwat
+  PAENG-NUEA\n🇨🇳 DAI Yunqiang\n🇺🇸 Daniel ROMANCHUK\n🇬🇧 Daniel
+  SIDBURY\n🇰🇼 Faisal ALRAJEHI\n🇨🇳 HU Yang\n🇲🇽 Juan Pablo CERVANTES
+  GARCIA\n🇦🇺 Luke BAILEY\n🇵🇹 Mamudo BALDE\n🇬🇧 Nathan MAGUIRE\n🇹🇭
+  Phiphatphong SIANGLAM\n🇹🇭 Putharet KHONGRAK\n🇪🇷 Sibhatu Kesete
+  WELDEMARIAM\n🇹🇳 Yassine GHARBI\n🇨🇳 ZHANG Ying
+SUMMARY:Men's 400m - T54 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T102000Z-para-triathlon-MENS-PTS5
 DTSTAMP:20240901T102000Z
 DTSTART:20240901T102000Z
@@ -1413,6 +1441,19 @@ DESCRIPTION:Para Triathlon - Women's PTS4\n🇫🇷 Camille SENECLAUZE\n🇮🇪
   PILBEAM
 SUMMARY:Women's PTS4
 LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T105000Z-para-athletics-MENS-400M-T53-ROUND-1
+DTSTAMP:20240901T105000Z
+DTSTART:20240901T105000Z
+DTEND:20240901T110400Z
+DESCRIPTION:Para Athletics - Men's 400m - T53 Round 1\n🇸🇦 Adbulrahman
+  ALQURASHI\n🇧🇷 Ariosvaldo FERNANDES da SILVA\n🇨🇦 Brent LAKATOS\n🇺🇸
+  Brian SIEMANN\n🇹🇭 Masaberee ARSAE\n🇹🇳 Mohamed Nidhal KHELIFI\n🇹🇭
+  Pichet KRUNGGET\n🇫🇷 Pierre FAIRBANK\n🇹🇭 Pongsakorn PAEYO\n🇰🇷 YOO
+  Byunghoon
+SUMMARY:Men's 400m - T53 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T111500Z-goalball-MENS-PRELIMINARY-ROUND-POOL-A-IRI-USA
