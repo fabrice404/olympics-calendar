@@ -4,6 +4,17 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/CIV//EN
 X-WR-CALNAME:🇨🇮 Côte d'Ivoire 🏅 | Paris 2024
 NAME:🇨🇮 Côte d'Ivoire 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240902T101500Z-para-athletics-MENS-SHOT-PUT-F41-FINAL
+DTSTAMP:20240902T101500Z
+DTSTART:20240902T101500Z
+DTEND:20240902T110600Z
+DESCRIPTION:Para Athletics - Men's Shot Put - F41 Final\n🇺🇿 Bobirjon
+  OMONOV\n🇨🇳 HUANG Jun\n🇰🇷 JUNG Jisong\n🇨🇮 Kah Michel YE\n🇩🇪 Niko
+  KAPPEL\n🇨🇳 SUN Pengxiang\n🇨🇳 XIA Zhiwei
+SUMMARY:Men's Shot Put - F41 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T163500Z-para-powerlifting-MENS-UP-TO-80KG-FINAL
 DTSTAMP:20240906T163500Z
 DTSTART:20240906T163500Z
