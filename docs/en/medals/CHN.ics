@@ -732,13 +732,12 @@ SUMMARY: THAINIYOM/WANGPHONPH 🇹🇭 - 🇨🇳 LIAO/YAN
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T102200Z-para-archery-MENS-INDIVIDUAL-W1-BRONZE-MEDAL
+UID:20240901T102200Z-para-archery-MENS-INDIVIDUAL-W1-BRONZE-MEDAL-CHN-ITA
 DTSTAMP:20240901T102200Z
 DTSTART:20240901T102200Z
 DTEND:20240901T103900Z
-DESCRIPTION:Para Archery - Men's Individual W1 Bronze Medal\n🇨🇳 ZHANG
-  Tianxin
-SUMMARY:Men's Individual W1 Bronze Medal
+DESCRIPTION:Para Archery - Men's Individual W1 Bronze Medal
+SUMMARY: ZHANG Tianxin 🇨🇳 - 🇮🇹 Paolo TONON
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
@@ -754,12 +753,12 @@ SUMMARY:Women's 200m - T36 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T103900Z-para-archery-MENS-INDIVIDUAL-W1-GOLD-MEDAL
+UID:20240901T103900Z-para-archery-MENS-INDIVIDUAL-W1-GOLD-MEDAL-CHN-USA
 DTSTAMP:20240901T103900Z
 DTSTART:20240901T103900Z
 DTEND:20240901T105600Z
-DESCRIPTION:Para Archery - Men's Individual W1 Gold Medal\n🇨🇳 HAN Guifei
-SUMMARY:Men's Individual W1 Gold Medal
+DESCRIPTION:Para Archery - Men's Individual W1 Gold Medal
+SUMMARY: HAN Guifei 🇨🇳 - 🇺🇸 Jason TABANSKY
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
@@ -958,6 +957,18 @@ DESCRIPTION:Para Athletics - Women's 200m - T35 Final\n🇮🇶 Fatimah
   SUWAED\n🇨🇳 GUO Qianqian\n🇵🇱 Ingrid RENECKA\n🇩🇪 Isabelle
   FOERDER\n🇵🇱 Jagoda KIBIL\n🇮🇳 Preethi PAL\n🇨🇳 ZHOU Xia
 SUMMARY:Women's 200m - T35 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T181400Z-para-athletics-MENS-400M-T54-FINAL
+DTSTAMP:20240901T181400Z
+DTSTART:20240901T181400Z
+DTEND:20240901T182100Z
+DESCRIPTION:Para Athletics - Men's 400m - T54 Final\n🇹🇭 Athiwat
+  PAENG-NUEA\n🇨🇳 DAI Yunqiang\n🇺🇸 Daniel ROMANCHUK\n🇨🇳 HU Yang\n🇲🇽
+  Juan Pablo CERVANTES GARCIA\n🇬🇧 Nathan MAGUIRE\n🇹🇭 Phiphatphong
+  SIANGLAM\n🇹🇳 Yassine GHARBI
+SUMMARY:Men's 400m - T54 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
