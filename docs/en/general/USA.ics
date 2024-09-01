@@ -1570,6 +1570,16 @@ SUMMARY:Women's 200m Individual Medley - SM8 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T163700Z-para-archery-MENS-INDIVIDUAL-COMPOUND-OPEN-QUARTERFINA
+DTSTAMP:20240901T163700Z
+DTSTART:20240901T163700Z
+DTEND:20240901T165400Z
+DESCRIPTION:Para Archery - Men's Individual Compound Open
+  Quarterfinal\n🇺🇸 Kevin POLISH
+SUMMARY:Men's Individual Compound Open Quarterfinal
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T170400Z-para-athletics-WOMENS-800M-T53-FINAL
 DTSTAMP:20240901T170400Z
 DTSTART:20240901T170400Z
@@ -2005,6 +2015,34 @@ DTEND:20240902T183000Z
 DESCRIPTION:Goalball - Men's Quarterfinal\n🇺🇸 USA
 SUMMARY:Men's Quarterfinal
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T182000Z-para-athletics-WOMENS-400M-T20-ROUND-1
+DTSTAMP:20240902T182000Z
+DTSTART:20240902T182000Z
+DTEND:20240902T183500Z
+DESCRIPTION:Para Athletics - Women's 400m - T20 Round 1\n🇧🇷 Antonia Keyla
+  da SILVA BARROS\n🇹🇷 Aysel ONDER\n🇺🇸 Breanna CLARK\n🇵🇹 Carina
+  PAIM\n🇮🇳 Deepthi JEEVANJI\n🇩🇴 Diana Carolina VIVENES PAULA\n🇧🇪
+  Kiara MAENE\n🇻🇪 Leonela Coromoto VERA COLINA\n🇪🇨 Lizanshela
+  ANGULO\n🇨🇴 Maria Alejandra MURILLO BENITEZ\n🇹🇭 Orawan KAISING\n🇦🇺
+  Telaya BLACKSMITH\n🇺🇦 Yuliia SHULIAR
+SUMMARY:Women's 400m - T20 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T192500Z-para-athletics-MENS-1500M-T54-ROUND-1
+DTSTAMP:20240902T192500Z
+DTSTART:20240902T192500Z
+DTEND:20240902T194300Z
+DESCRIPTION:Para Athletics - Men's 1500m - T54 Round 1\n🇺🇸 Aaron
+  PIKE\n🇨🇦 Brent LAKATOS\n🇨🇳 DAI Yunqiang\n🇺🇸 Daniel ROMANCHUK\n🇬🇧
+  Daniel SIDBURY\n🇬🇧 David WEIR\n🇰🇼 Faisal ALRAJEHI\n🇨🇳 JIN Hua\n🇨🇳
+  LUO Xingchuan\n🇨🇭 Marcel HUG\n🇬🇧 Nathan MAGUIRE\n🇹🇭 Phiphatphong
+  SIANGLAM\n🇹🇭 Putharet KHONGRAK\n🇯🇵 SUZUKI Tomoki\n🇹🇭 Saichon
+  KONJEN\n🇦🇺 Samuel RIZZO\n🇹🇳 Yassine GHARBI
+SUMMARY:Men's 1500m - T54 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240903T074600Z-para-swimming-WOMENS-100M-BACKSTROKE-S9-HEATS
