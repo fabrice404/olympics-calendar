@@ -4,6 +4,17 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/NGR//EN
 X-WR-CALNAME:🇳🇬 Nigeria 🏅 | Paris 2024
 NAME:🇳🇬 Nigeria 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240902T090200Z-para-athletics-WOMENS-SHOT-PUT-F54-FINAL
+DTSTAMP:20240902T090200Z
+DTSTART:20240902T090200Z
+DTEND:20240902T105400Z
+DESCRIPTION:Para Athletics - Women's Shot Put - F54 Final\n🇮🇷 Elham
+  SALEHI\n🇧🇷 Elizabeth RODRIGUES GOMES\n🇳🇬 Flora UGWUNWA\n🇨🇱
+  Francisca MARDONES\n🇲🇽 Gloria ZARZA GUADARRAMA\n🇺🇿 Nurkhon KURBANOVA
+SUMMARY:Women's Shot Put - F54 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T113500Z-para-powerlifting-WOMENS-UP-TO-41KG-FINAL
 DTSTAMP:20240904T113500Z
 DTSTART:20240904T113500Z

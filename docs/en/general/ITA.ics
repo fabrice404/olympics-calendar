@@ -1116,6 +1116,54 @@ SUMMARY: ITA 🇮🇹 - 🇨🇳 CHN
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T154400Z-para-swimming-MENS-100M-FREESTYLE-S10-FINAL
+DTSTAMP:20240901T154400Z
+DTSTART:20240901T154400Z
+DTEND:20240901T155100Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S10 Final\n🇵🇱 Alan
+  OGORZALEK\n🇦🇺 Alex SAFFY\n🇺🇦 Ihor NIMCHENKO\n🇧🇷 Phelipe Andrews
+  MELO RODRIGUES\n🇦🇺 Rowan CROTHERS\n🇮🇹 Simone BARLAAM\n🇮🇹 Stefano
+  RAIMONDI\n🇦🇺 Thomas GALLAGHER
+SUMMARY:Men's 100m Freestyle - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T155100Z-para-swimming-WOMENS-100M-FREESTYLE-S10-FINAL
+DTSTAMP:20240901T155100Z
+DTSTART:20240901T155100Z
+DTEND:20240901T155800Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S10 Final\n🇮🇹
+  Alessia SCORTECHINI\n🇨🇦 Aurelie RIVARD\n🇭🇺 Bianka PAP\n🇬🇧
+  Callie-Ann WARRINGTON\n🇫🇷 Emeline PIERRE\n🇳🇱 Lisa KRUGER\n🇨🇴 Maria
+  Paula BARRERA ZAPATA\n🇨🇳 ZHANG Meng
+SUMMARY:Women's 100m Freestyle - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T160600Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM8-FINAL
+DTSTAMP:20240901T160600Z
+DTSTART:20240901T160600Z
+DTEND:20240901T161500Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM8
+  Final\n🇬🇧 Alice TAI\n🇬🇧 Brock WHISTON\n🇺🇸 Jessica LONG\n🇨🇳 LU
+  Weiyuan\n🇪🇸 Nahia ZUDAIRE BORREZO\n🇮🇹 Xenia Francesca PALAZZO\n🇨🇳
+  ZHU Hui
+SUMMARY:Women's 200m Individual Medley - SM8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T170200Z-para-swimming-MENS-150M-INDIVIDUAL-MEDLEY-SM4-FINAL
+DTSTAMP:20240901T170200Z
+DTSTART:20240901T170200Z
+DTEND:20240901T171000Z
+DESCRIPTION:Para Swimming - Men's 150m Individual Medley - SM4 Final\n🇮🇱
+  Ami Omer DADAON\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇫🇷 Dimitri
+  GRANJUX\n🇮🇹 Efrem MORELLI\n🇲🇽 Gustavo Ramon SANCHEZ MARTINEZ\n🇰🇷 JO
+  Giseong\n🇪🇸 Miguel LUQUE
+SUMMARY:Men's 150m Individual Medley - SM4 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T172200Z-para-athletics-MENS-DISCUS-THROW-F52-FINAL
 DTSTAMP:20240901T172200Z
 DTSTART:20240901T172200Z
@@ -1138,6 +1186,18 @@ DESCRIPTION:Para Athletics - Men's 100m - T44 Final\n🇲🇾 Eddy
   MHLONGO\n🇸🇦 Nour ALSANA\n🇨🇺 Yamel Luis VIVES SUARES
 SUMMARY:Men's 100m - T44 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T175500Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB5-FINAL
+DTSTAMP:20240901T175500Z
+DTSTART:20240901T175500Z
+DTEND:20240901T180300Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB5 Final\n🇺🇦
+  Anna HONTAR\n🇮🇹 Arianna TALAMONA\n🇬🇧 Grace HARVEY\n🇧🇷 Laila SUZIGAN
+  ABATE\n🇮🇸 Thelma Bjorg BJORNSDOTTIR\n🇩🇪 Verena SCHOTT\n🇯🇵 YUI
+  Maori\n🇨🇳 ZHANG Li
+SUMMARY:Women's 100m Breaststroke - SB5 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T180000Z-para-table-tennis-WOMENS-SINGLES-WS3-ROUND-OF-16-TUR-I

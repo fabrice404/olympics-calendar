@@ -1537,6 +1537,30 @@ SUMMARY:Women's 100m Breaststroke - SB6 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T155800Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM8-FINAL
+DTSTAMP:20240901T155800Z
+DTSTART:20240901T155800Z
+DTEND:20240901T160600Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM8 Final\n🇬🇷
+  Dimosthenis MICHALENTZAKIS\n🇵🇹 Diogo CANCELA\n🇨🇳 LIU Fengqi\n🇮🇱
+  Mark MALYAR\n🇺🇸 Noah JAFFE\n🇯🇵 OGIWARA Kotaro\n🇨🇳 XU Haijiao\n🇨🇳
+  YANG Guanglong
+SUMMARY:Men's 200m Individual Medley - SM8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T160600Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM8-FINAL
+DTSTAMP:20240901T160600Z
+DTSTART:20240901T160600Z
+DTEND:20240901T161500Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM8
+  Final\n🇬🇧 Alice TAI\n🇬🇧 Brock WHISTON\n🇺🇸 Jessica LONG\n🇨🇳 LU
+  Weiyuan\n🇪🇸 Nahia ZUDAIRE BORREZO\n🇮🇹 Xenia Francesca PALAZZO\n🇨🇳
+  ZHU Hui
+SUMMARY:Women's 200m Individual Medley - SM8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T170400Z-para-athletics-WOMENS-800M-T53-FINAL
 DTSTAMP:20240901T170400Z
 DTSTART:20240901T170400Z
@@ -1560,6 +1584,18 @@ SUMMARY:Men's High Jump - T47 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T171500Z-para-athletics-WOMENS-800M-T54-FINAL
+DTSTAMP:20240901T171500Z
+DTSTART:20240901T171500Z
+DTEND:20240901T172300Z
+DESCRIPTION:Para Athletics - Women's 800m - T54 Final\n🇺🇸 Hannah
+  DEDERICK\n🇧🇪 Lea BAYEKULA\n🇨🇭 Manuela SCHAER\n🇬🇧 Melanie
+  WOODS\n🇺🇸 Susannah SCARONI\n🇨🇳 TIAN Yajuan\n🇺🇸 Tatyana
+  McFADDEN\n🇨🇳 ZHOU Zhaoqian
+SUMMARY:Women's 800m - T54 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T172600Z-para-athletics-WOMENS-100M-T34-FINAL
 DTSTAMP:20240901T172600Z
 DTSTART:20240901T172600Z
@@ -1579,6 +1615,18 @@ DTEND:20240901T191500Z
 DESCRIPTION:Wheelchair Rugby - Open - Semifinal
 SUMMARY: GBR 🇬🇧 - 🇺🇸 USA
 LOCATION:Champ-de-Mars Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T174700Z-para-athletics-MENS-100M-T13-FINAL
+DTSTAMP:20240901T174700Z
+DTSTART:20240901T174700Z
+DTEND:20240901T175400Z
+DESCRIPTION:Para Athletics - Men's 100m - T13 Final\n🇦🇺 Chad PERRIS\n🇺🇸
+  Isaac JEAN-PAUL\n🇳🇦 Johannes NAMBALA\n🇯🇵 KAWAKAMI Shuta\n🇳🇴 Salum
+  Ageze KASHAFALI\n🇲🇱 Samba COULIBALY\n🇩🇿 Skander Djamil ATHMANI\n🇬🇧
+  Zak SKINNER
+SUMMARY:Men's 100m - T13 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T180000Z-sitting-volleyball-WOMENS-PRELIMINARY-ROUND-POOL-A-FRA

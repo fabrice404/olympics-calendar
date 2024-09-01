@@ -1972,6 +1972,18 @@ SUMMARY: FRA 🇫🇷 - 🇩🇪 GER
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T155100Z-para-swimming-WOMENS-100M-FREESTYLE-S10-FINAL
+DTSTAMP:20240901T155100Z
+DTSTART:20240901T155100Z
+DTEND:20240901T155800Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S10 Final\n🇮🇹
+  Alessia SCORTECHINI\n🇨🇦 Aurelie RIVARD\n🇭🇺 Bianka PAP\n🇬🇧
+  Callie-Ann WARRINGTON\n🇫🇷 Emeline PIERRE\n🇳🇱 Lisa KRUGER\n🇨🇴 Maria
+  Paula BARRERA ZAPATA\n🇨🇳 ZHANG Meng
+SUMMARY:Women's 100m Freestyle - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T162000Z-para-badminton-MENS-SINGLES-SL4-SEMIFINAL-INA-FRA
 DTSTAMP:20240901T162000Z
 DTSTART:20240901T162000Z
@@ -2011,6 +2023,18 @@ DESCRIPTION:Para Athletics - Women's Shot Put - F20 Final\n🇪🇨 Anais
   Viktoriia SHPACHYNSKA\n🇬🇷 Zoi MANTOUDI
 SUMMARY:Women's Shot Put - F20 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T170200Z-para-swimming-MENS-150M-INDIVIDUAL-MEDLEY-SM4-FINAL
+DTSTAMP:20240901T170200Z
+DTSTART:20240901T170200Z
+DTEND:20240901T171000Z
+DESCRIPTION:Para Swimming - Men's 150m Individual Medley - SM4 Final\n🇮🇱
+  Ami Omer DADAON\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇫🇷 Dimitri
+  GRANJUX\n🇮🇹 Efrem MORELLI\n🇲🇽 Gustavo Ramon SANCHEZ MARTINEZ\n🇰🇷 JO
+  Giseong\n🇪🇸 Miguel LUQUE
+SUMMARY:Men's 150m Individual Medley - SM4 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T171000Z-para-athletics-MENS-HIGH-JUMP-T47-FINAL

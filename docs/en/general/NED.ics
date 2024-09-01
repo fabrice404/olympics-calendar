@@ -614,6 +614,18 @@ SUMMARY:Women's C5 3000m Individual Pursuit Qualifying
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T155100Z-para-swimming-WOMENS-100M-FREESTYLE-S10-FINAL
+DTSTAMP:20240901T155100Z
+DTSTART:20240901T155100Z
+DTEND:20240901T155800Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S10 Final\n🇮🇹
+  Alessia SCORTECHINI\n🇨🇦 Aurelie RIVARD\n🇭🇺 Bianka PAP\n🇬🇧
+  Callie-Ann WARRINGTON\n🇫🇷 Emeline PIERRE\n🇳🇱 Lisa KRUGER\n🇨🇴 Maria
+  Paula BARRERA ZAPATA\n🇨🇳 ZHANG Meng
+SUMMARY:Women's 100m Freestyle - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T161500Z-wheelchair-basketball-MENS-PRELIMINARY-ROUND-GROUP-B-N
 DTSTAMP:20240901T161500Z
 DTSTART:20240901T161500Z
@@ -621,6 +633,18 @@ DTEND:20240901T180000Z
 DESCRIPTION:Wheelchair Basketball - Men's Preliminary Round Group B
 SUMMARY: NED 🇳🇱 - 🇪🇸 ESP
 LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T163100Z-para-swimming-MENS-100M-BACKSTROKE-S11-FINAL
+DTSTAMP:20240901T163100Z
+DTSTART:20240901T163100Z
+DTEND:20240901T163800Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S11 Final\n🇺🇦 Danylo
+  CHUFAROV\n🇨🇿 David KRATOCHVIL\n🇮🇸 Mar GUNNARSSON\n🇵🇹 Marco
+  MENESES\n🇺🇦 Mykhailo SERBIN\n🇳🇱 Rogier DORSMAN\n🇨🇳 YANG Bozun\n🇨🇳
+  ZHANG Bowen
+SUMMARY:Men's 100m Backstroke - S11 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T192900Z-para-athletics-MENS-100M-T64-ROUND-1

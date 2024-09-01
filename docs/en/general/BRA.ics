@@ -2049,6 +2049,18 @@ SUMMARY: Claudio MASSAD 🇧🇷 - 🇦🇹 Krisztian GARDOS
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T154400Z-para-swimming-MENS-100M-FREESTYLE-S10-FINAL
+DTSTAMP:20240901T154400Z
+DTSTART:20240901T154400Z
+DTEND:20240901T155100Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S10 Final\n🇵🇱 Alan
+  OGORZALEK\n🇦🇺 Alex SAFFY\n🇺🇦 Ihor NIMCHENKO\n🇧🇷 Phelipe Andrews
+  MELO RODRIGUES\n🇦🇺 Rowan CROTHERS\n🇮🇹 Simone BARLAAM\n🇮🇹 Stefano
+  RAIMONDI\n🇦🇺 Thomas GALLAGHER
+SUMMARY:Men's 100m Freestyle - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T163000Z-blind-football-MENS-PRELIMINARY-ROUND-GROUP-A-BRA-TUR
 DTSTAMP:20240901T163000Z
 DTSTART:20240901T163000Z
@@ -2056,6 +2068,18 @@ DTEND:20240901T173000Z
 DESCRIPTION:Blind Football - Men's Preliminary Round Group A
 SUMMARY: BRA 🇧🇷 - 🇹🇷 TUR
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T171000Z-para-swimming-WOMENS-150M-INDIVIDUAL-MEDLEY-SM4-FINAL
+DTSTAMP:20240901T171000Z
+DTSTART:20240901T171000Z
+DTEND:20240901T172000Z
+DESCRIPTION:Para Swimming - Women's 150m Individual Medley - SM4
+  Final\n🇩🇪 Gina BOETTCHER\n🇧🇷 Lidia VIEIRA da CRUZ\n🇺🇦 Maryna
+  VERBOVA\n🇲🇽 Nely Edith MIRANDA HERRERA\n🇨🇳 PENG Qiuping\n🇧🇷
+  Patricia PEREIRA dos SANTOS\n🇩🇪 Tanja SCHOLZ
+SUMMARY:Women's 150m Individual Medley - SM4 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T171500Z-para-table-tennis-WOMENS-SINGLES-WS3-ROUND-OF-16-THA-B
@@ -2075,6 +2099,18 @@ DESCRIPTION:Para Table Tennis - Women's Singles - WS8 - Round of 16\n🇧🇷
   Sophia KELMER
 SUMMARY:Women's Singles - WS8 - Round of 16
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T172000Z-para-swimming-MENS-150M-INDIVIDUAL-MEDLEY-SM3-FINAL
+DTSTAMP:20240901T172000Z
+DTSTART:20240901T172000Z
+DTEND:20240901T173100Z
+DESCRIPTION:Para Swimming - Men's 150m Individual Medley - SM3 Final\n🇦🇺
+  Ahmed KELLY\n🇲🇽 Arnulfo CASTORENA\n🇪🇸 Daniel FERRER ROBLES\n🇧🇷
+  Gabriel Geraldo dos SANTOS ARAUJO\n🇦🇺 Grant PATTERSON\n🇩🇪 Josia Tim
+  Alexander TOPF\n🇲🇽 Marcos Rafael ZARATE RODRIGUEZ\n🇹🇷 Umut UNLU
+SUMMARY:Men's 150m Individual Medley - SM3 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T172200Z-para-athletics-MENS-DISCUS-THROW-F52-FINAL
@@ -2099,6 +2135,30 @@ DESCRIPTION:Para Athletics - Men's 100m - T44 Final\n🇲🇾 Eddy
   MHLONGO\n🇸🇦 Nour ALSANA\n🇨🇺 Yamel Luis VIVES SUARES
 SUMMARY:Men's 100m - T44 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T174700Z-para-swimming-MENS-100M-BREASTSTROKE-SB5-FINAL
+DTSTAMP:20240901T174700Z
+DTSTART:20240901T174700Z
+DTEND:20240901T175500Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB5 Final\n🇺🇦
+  Andrii DRAPKIN\n🇪🇸 Antoni PONCE BERTRAN\n🇺🇦 Danylo SEMENYKHIN\n🇻🇳
+  Dat le\n🇦🇷 German Leonel AREVALO\n🇻🇳 Hai DO\n🇨🇭 Leo McCREA\n🇧🇷
+  Roberto ALCALDE RODRIGUEZ
+SUMMARY:Men's 100m Breaststroke - SB5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T175500Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB5-FINAL
+DTSTAMP:20240901T175500Z
+DTSTART:20240901T175500Z
+DTEND:20240901T180300Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB5 Final\n🇺🇦
+  Anna HONTAR\n🇮🇹 Arianna TALAMONA\n🇬🇧 Grace HARVEY\n🇧🇷 Laila SUZIGAN
+  ABATE\n🇮🇸 Thelma Bjorg BJORNSDOTTIR\n🇩🇪 Verena SCHOTT\n🇯🇵 YUI
+  Maori\n🇨🇳 ZHANG Li
+SUMMARY:Women's 100m Breaststroke - SB5 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T181900Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-S14-FINAL
@@ -2193,6 +2253,29 @@ SUMMARY:Men's 50m Freestyle - S9 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T080500Z-para-athletics-MENS-DISCUS-THROW-F56-FINAL
+DTSTAMP:20240902T080500Z
+DTSTART:20240902T080500Z
+DTEND:20240902T094100Z
+DESCRIPTION:Para Athletics - Men's Discus Throw - F56 Final\n🇧🇷 Claudiney
+  BATISTA dos SANTOS\n🇸🇰 Dusan LACZKO\n🇬🇷 Konstantinos TZOUNIS\n🇮🇷
+  Mostafa MARIAN\n🇷🇸 Nebojsa DURIC\n🇮🇳 Yogesh KATHUNIYA
+SUMMARY:Men's Discus Throw - F56 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T082000Z-para-athletics-MENS-1500M-T11-ROUND-1
+DTSTAMP:20240902T082000Z
+DTSTART:20240902T082000Z
+DTEND:20240902T083600Z
+DESCRIPTION:Para Athletics - Men's 1500m - T11 Round 1\n🇵🇱 Aleksander
+  KOSSAKOWSKI\n🇪🇨 Darwin Gustavo CASTRO REYES\n🇪🇨 Jimmy CAICEDO\n🇧🇷
+  Julio Cesar AGRIPINO dos SANTOS\n🇯🇵 KARASAWA Kenya\n🇧🇷 Yeltsin
+  JACQUES\n🇪🇹 Yitayal Silesh YIGZAW
+SUMMARY:Men's 1500m - T11 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240902T082300Z-para-swimming-WOMENS-50M-BACKSTROKE-S3-HEATS
 DTSTAMP:20240902T082300Z
 DTSTART:20240902T082300Z
@@ -2245,6 +2328,17 @@ DESCRIPTION:Para Swimming - Women's 50m Freestyle - S13 Heats\n🇮🇹 Alessia
   Shokhsanamkhon TOSHPULATOVA\n🇯🇵 TSUJIUCHI Ayano
 SUMMARY:Women's 50m Freestyle - S13 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T090200Z-para-athletics-WOMENS-SHOT-PUT-F54-FINAL
+DTSTAMP:20240902T090200Z
+DTSTART:20240902T090200Z
+DTEND:20240902T105400Z
+DESCRIPTION:Para Athletics - Women's Shot Put - F54 Final\n🇮🇷 Elham
+  SALEHI\n🇧🇷 Elizabeth RODRIGUES GOMES\n🇳🇬 Flora UGWUNWA\n🇨🇱
+  Francisca MARDONES\n🇲🇽 Gloria ZARZA GUADARRAMA\n🇺🇿 Nurkhon KURBANOVA
+SUMMARY:Women's Shot Put - F54 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T092600Z-para-swimming-MENS-200M-FREESTYLE-S2-HEATS

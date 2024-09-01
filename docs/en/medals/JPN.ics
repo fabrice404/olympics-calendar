@@ -250,6 +250,18 @@ SUMMARY:Men's B 1000m Time Trial - Final
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T155800Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM8-FINAL
+DTSTAMP:20240901T155800Z
+DTSTART:20240901T155800Z
+DTEND:20240901T160600Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM8 Final\n🇬🇷
+  Dimosthenis MICHALENTZAKIS\n🇵🇹 Diogo CANCELA\n🇨🇳 LIU Fengqi\n🇮🇱
+  Mark MALYAR\n🇺🇸 Noah JAFFE\n🇯🇵 OGIWARA Kotaro\n🇨🇳 XU Haijiao\n🇨🇳
+  YANG Guanglong
+SUMMARY:Men's 200m Individual Medley - SM8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T171000Z-para-badminton-WOMENS-DOUBLES-WH1-WH2-GOLD-MEDAL-MATCH
 DTSTAMP:20240901T171000Z
 DTSTART:20240901T171000Z
@@ -269,6 +281,30 @@ DESCRIPTION:Para Athletics - Women's 100m - T34 Final\n🇺🇸 Eva
   YOSHIDA Ayano
 SUMMARY:Women's 100m - T34 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T174700Z-para-athletics-MENS-100M-T13-FINAL
+DTSTAMP:20240901T174700Z
+DTSTART:20240901T174700Z
+DTEND:20240901T175400Z
+DESCRIPTION:Para Athletics - Men's 100m - T13 Final\n🇦🇺 Chad PERRIS\n🇺🇸
+  Isaac JEAN-PAUL\n🇳🇦 Johannes NAMBALA\n🇯🇵 KAWAKAMI Shuta\n🇳🇴 Salum
+  Ageze KASHAFALI\n🇲🇱 Samba COULIBALY\n🇩🇿 Skander Djamil ATHMANI\n🇬🇧
+  Zak SKINNER
+SUMMARY:Men's 100m - T13 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T175500Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB5-FINAL
+DTSTAMP:20240901T175500Z
+DTSTART:20240901T175500Z
+DTEND:20240901T180300Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB5 Final\n🇺🇦
+  Anna HONTAR\n🇮🇹 Arianna TALAMONA\n🇬🇧 Grace HARVEY\n🇧🇷 Laila SUZIGAN
+  ABATE\n🇮🇸 Thelma Bjorg BJORNSDOTTIR\n🇩🇪 Verena SCHOTT\n🇯🇵 YUI
+  Maori\n🇨🇳 ZHANG Li
+SUMMARY:Women's 100m Breaststroke - SB5 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T180000Z-para-badminton-MENS-DOUBLES-WH1-WH2-BRONZE-MEDAL-MATCH
@@ -313,6 +349,17 @@ DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
   Yoko PLEBANI
 SUMMARY:Women's PTS2
 LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T080000Z-para-athletics-MENS-LONG-JUMP-T12-FINAL
+DTSTAMP:20240902T080000Z
+DTSTART:20240902T080000Z
+DTEND:20240902T090000Z
+DESCRIPTION:Para Athletics - Men's Long Jump - T12 Final\n🇩🇪 Andreas
+  WALSER\n🇺🇿 Doniyor SALIEV\n🇦🇷 Fernando VAZQUEZ\n🇯🇵 ISHIYAMA
+  Daiki\n🇲🇾 Kar Gee WONG\n🇦🇿 Said NAJAFZADE
+SUMMARY:Men's Long Jump - T12 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T100000Z-para-triathlon-MENS-PTVI
