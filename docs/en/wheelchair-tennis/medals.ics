@@ -4,23 +4,21 @@ PRODID:-//fabrice404//olympics-calendar//en/wheelchair-tennis/medals//EN
 X-WR-CALNAME: Wheelchair Tennis 🏅 | Paris 2024
 NAME: Wheelchair Tennis 🏅 | Paris 2024
 BEGIN:VEVENT
-UID:20240904T100000Z-wheelchair-tennis-QUAD-DOUBLES-BRONZE-MEDAL-MATCH
+UID:20240904T100000Z-wheelchair-tennis-QUAD-DOUBLES-BRONZE-MEDAL-MATCH-RSA-
 DTSTAMP:20240904T100000Z
 DTSTART:20240904T100000Z
 DTEND:20240904T200000Z
-DESCRIPTION:Wheelchair Tennis - Quad Doubles Bronze Medal Match\n🇿🇦
-  RAMPHADI/SITHOLE
-SUMMARY:Quad Doubles Bronze Medal Match
+DESCRIPTION:Wheelchair Tennis - Quad Doubles Bronze Medal Match
+SUMMARY: RAMPHADI/SITHOLE 🇿🇦 - 🇧🇷 PENA/SILVA
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240904T100000Z-wheelchair-tennis-QUAD-DOUBLES-GOLD-MEDAL-MATCH
+UID:20240904T100000Z-wheelchair-tennis-QUAD-DOUBLES-GOLD-MEDAL-MATCH-NED-GB
 DTSTAMP:20240904T100000Z
 DTSTART:20240904T100000Z
 DTEND:20240904T200000Z
-DESCRIPTION:Wheelchair Tennis - Quad Doubles Gold Medal Match\n🇳🇱
-  SCHRODER/VINK
-SUMMARY:Quad Doubles Gold Medal Match
+DESCRIPTION:Wheelchair Tennis - Quad Doubles Gold Medal Match
+SUMMARY: SCHRODER/VINK 🇳🇱 - 🇬🇧 LAPTHORNE/SLADE
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
