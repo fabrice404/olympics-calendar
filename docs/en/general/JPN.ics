@@ -1441,18 +1441,6 @@ SUMMARY:Women's 400m - T47 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T061500Z-para-triathlon-MENS-PTWC
-DTSTAMP:20240901T061500Z
-DTSTART:20240901T061500Z
-DTEND:20240901T072500Z
-DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
-  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
-  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
-  Louis NOEL\n🇦🇺 Nic BEVERIDGE
-SUMMARY:Men's PTWC
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T063000Z-para-badminton-MENS-SINGLES-WH1-QUARTERFINAL-JPN-KOR
 DTSTAMP:20240901T063000Z
 DTSTART:20240901T063000Z
@@ -1499,19 +1487,6 @@ DESCRIPTION:Shooting Para Sport - R3 - Mixed 10m Air Rifle Prone SH1
   CHERNOY\n🇨🇳 ZHONG Yixin
 SUMMARY:R3 - Mixed 10m Air Rifle Prone SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T073500Z-para-triathlon-WOMENS-PTS2
-DTSTAMP:20240901T073500Z
-DTSTART:20240901T073500Z
-DTEND:20240901T091500Z
-DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
-  FRANCIS\n🇫🇷 Cecile SABOUREAU\n🇻🇪 Emma Juaisca RODRIGUEZ
-  RODRIGUEZ\n🇯🇵 HATA Yukako\n🇺🇸 Hailey DANZ\n🇺🇸 Melissa
-  STOCKWELL\n🇩🇪 Neele LUDWIG\n🇪🇸 Rakel MATEO URIARTE\n🇮🇹 Veronica
-  Yoko PLEBANI
-SUMMARY:Women's PTS2
-LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T075000Z-para-rowing-PR1-MENS-SINGLE-SCULLS-FINAL-B
@@ -1673,19 +1648,6 @@ SUMMARY: Yee Ting Jeralyn TAN 🇸🇬 - 🇯🇵 ENDO Hiromi
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T100000Z-para-triathlon-MENS-PTVI
-DTSTAMP:20240901T100000Z
-DTSTART:20240901T100000Z
-DTEND:20240901T110500Z
-DESCRIPTION:Para Triathlon - Men's PTVI\n🇫🇷 Antoine PEREL\n🇬🇧 Dave
-  ELLIS\n🇪🇸 Hector CATALA LAPARRA\n🇪🇸 Jose Luis GARCIA SERRANO\n🇺🇸
-  Kyle COON\n🇷🇸 Lazar FILIPOVIC\n🇵🇱 Lukasz WIETECKI\n🇬🇧 Oscar
-  KELLY\n🇺🇸 Owen CRAVENS\n🇦🇺 Sam HARDING\n🇫🇷 Thibaut RIGAUDEAU\n🇯🇵
-  YONEOKA Satoru
-SUMMARY:Men's PTVI
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T100000Z-wheelchair-tennis-MENS-SINGLES-SECOND-ROUND-RSA-JPN
 DTSTAMP:20240901T100000Z
 DTSTART:20240901T100000Z
@@ -1756,19 +1718,6 @@ DTEND:20240901T160000Z
 DESCRIPTION:Wheelchair Tennis - Men's Doubles Second Round
 SUMMARY: DONG/JI 🇨🇳 - 🇯🇵 MIKI/ODA
 LOCATION:Roland-Garros Stadium
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T102500Z-para-triathlon-MENS-PTS4
-DTSTAMP:20240901T102500Z
-DTSTART:20240901T102500Z
-DTEND:20240901T113500Z
-DESCRIPTION:Para Triathlon - Men's PTS4\n🇪🇸 Alejandro SANCHEZ
-  PALOMERO\n🇫🇷 Alexis HANQUINQUANT\n🇭🇷 Antonio FRANKO\n🇺🇸 Carson
-  CLOUGH\n🇺🇸 Eric McELVENNY\n🇬🇧 Finley JAKES\n🇫🇷 Gregoire
-  BERTHON\n🇦🇺 Jeremy PEACOCK\n🇦🇺 Liam TWOMEY\n🇬🇧 Michael TAYLOR\n🇪🇸
-  Nil RIUDAVETS VICTORY\n🇫🇷 Pierre-Antoine BAELE\n🇯🇵 UDA Hideki
-SUMMARY:Men's PTS4
-LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T104000Z-para-badminton-WOMENS-SINGLES-WH2-SEMIFINAL-CHN-JPN
@@ -1886,6 +1835,31 @@ SUMMARY:Men's 100m - T64 Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T061500Z-para-triathlon-MENS-PTWC
+DTSTAMP:20240902T061500Z
+DTSTART:20240902T061500Z
+DTEND:20240902T072500Z
+DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
+  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
+  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
+  Louis NOEL\n🇦🇺 Nic BEVERIDGE
+SUMMARY:Men's PTWC
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T073500Z-para-triathlon-WOMENS-PTS2
+DTSTAMP:20240902T073500Z
+DTSTART:20240902T073500Z
+DTEND:20240902T091500Z
+DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
+  FRANCIS\n🇫🇷 Cecile SABOUREAU\n🇻🇪 Emma Juaisca RODRIGUEZ
+  RODRIGUEZ\n🇯🇵 HATA Yukako\n🇺🇸 Hailey DANZ\n🇺🇸 Melissa
+  STOCKWELL\n🇩🇪 Neele LUDWIG\n🇪🇸 Rakel MATEO URIARTE\n🇮🇹 Veronica
+  Yoko PLEBANI
+SUMMARY:Women's PTS2
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240902T083300Z-para-swimming-MENS-100M-BREASTSTROKE-SB14-HEATS
 DTSTAMP:20240902T083300Z
 DTSTART:20240902T083300Z
@@ -1936,6 +1910,32 @@ DESCRIPTION:Para Swimming - Mixed 4x100m Medley Relay - 34 Points
   ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇪🇸 ESP\n🇺🇸 USA
 SUMMARY:Mixed 4x100m Medley Relay - 34 Points Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T100000Z-para-triathlon-MENS-PTVI
+DTSTAMP:20240902T100000Z
+DTSTART:20240902T100000Z
+DTEND:20240902T110500Z
+DESCRIPTION:Para Triathlon - Men's PTVI\n🇫🇷 Antoine PEREL\n🇬🇧 Dave
+  ELLIS\n🇪🇸 Hector CATALA LAPARRA\n🇪🇸 Jose Luis GARCIA SERRANO\n🇺🇸
+  Kyle COON\n🇷🇸 Lazar FILIPOVIC\n🇵🇱 Lukasz WIETECKI\n🇬🇧 Oscar
+  KELLY\n🇺🇸 Owen CRAVENS\n🇦🇺 Sam HARDING\n🇫🇷 Thibaut RIGAUDEAU\n🇯🇵
+  YONEOKA Satoru
+SUMMARY:Men's PTVI
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T102500Z-para-triathlon-MENS-PTS4
+DTSTAMP:20240902T102500Z
+DTSTART:20240902T102500Z
+DTEND:20240902T113500Z
+DESCRIPTION:Para Triathlon - Men's PTS4\n🇪🇸 Alejandro SANCHEZ
+  PALOMERO\n🇫🇷 Alexis HANQUINQUANT\n🇭🇷 Antonio FRANKO\n🇺🇸 Carson
+  CLOUGH\n🇺🇸 Eric McELVENNY\n🇬🇧 Finley JAKES\n🇫🇷 Gregoire
+  BERTHON\n🇦🇺 Jeremy PEACOCK\n🇦🇺 Liam TWOMEY\n🇬🇧 Michael TAYLOR\n🇪🇸
+  Nil RIUDAVETS VICTORY\n🇫🇷 Pierre-Antoine BAELE\n🇯🇵 UDA Hideki
+SUMMARY:Men's PTS4
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T113000Z-blind-football-MENS-PRELIMINARY-ROUND-GROUP-B-JPN-MAR

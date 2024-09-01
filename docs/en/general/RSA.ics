@@ -380,20 +380,6 @@ SUMMARY: SCHRODER/VINK 🇳🇱 - 🇿🇦 RAMPHADI/SITHOLE
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T104000Z-para-triathlon-WOMENS-PTS4
-DTSTAMP:20240901T104000Z
-DTSTART:20240901T104000Z
-DTEND:20240901T122000Z
-DESCRIPTION:Para Triathlon - Women's PTS4\n🇫🇷 Camille SENECLAUZE\n🇮🇪
-  Cassie CAVA\n🇫🇷 Elise MARC\n🇩🇪 Elke van ENGELEN\n🇺🇸 Emma
-  MEYERS\n🇦🇺 Grace BRIMELOW\n🇬🇧 Hannah MOORE\n🇺🇸 Kelly
-  ELMLINGER\n🇲🇽 Kenia Yesenia VILLALOBOS VARGAS\n🇿🇦 Kirsty WEIR\n🇪🇸
-  Marta FRANCES GOMEZ\n🇬🇧 Megan RICHTER\n🇺🇸 Rachel WATTS\n🇦🇺 Sally
-  PILBEAM
-SUMMARY:Women's PTS4
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T171000Z-para-athletics-MENS-HIGH-JUMP-T47-FINAL
 DTSTAMP:20240901T171000Z
 DTSTART:20240901T171000Z
@@ -455,6 +441,20 @@ DESCRIPTION:Para Athletics - Men's 100m - T63 Round 1\n🇮🇹 Alessandro
   MABOTE\n🇧🇷 Vinicius GONCALVES RODRIGUES
 SUMMARY:Men's 100m - T63 Round 1
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T104000Z-para-triathlon-WOMENS-PTS4
+DTSTAMP:20240902T104000Z
+DTSTART:20240902T104000Z
+DTEND:20240902T122000Z
+DESCRIPTION:Para Triathlon - Women's PTS4\n🇫🇷 Camille SENECLAUZE\n🇮🇪
+  Cassie CAVA\n🇫🇷 Elise MARC\n🇩🇪 Elke van ENGELEN\n🇺🇸 Emma
+  MEYERS\n🇦🇺 Grace BRIMELOW\n🇬🇧 Hannah MOORE\n🇺🇸 Kelly
+  ELMLINGER\n🇲🇽 Kenia Yesenia VILLALOBOS VARGAS\n🇿🇦 Kirsty WEIR\n🇪🇸
+  Marta FRANCES GOMEZ\n🇬🇧 Megan RICHTER\n🇺🇸 Rachel WATTS\n🇦🇺 Sally
+  PILBEAM
+SUMMARY:Women's PTS4
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240903T073000Z-para-swimming-MENS-100M-BACKSTROKE-S7-HEATS

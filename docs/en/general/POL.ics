@@ -763,31 +763,6 @@ SUMMARY:Women's Discus Throw - F64 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T100000Z-para-triathlon-MENS-PTVI
-DTSTAMP:20240901T100000Z
-DTSTART:20240901T100000Z
-DTEND:20240901T110500Z
-DESCRIPTION:Para Triathlon - Men's PTVI\n🇫🇷 Antoine PEREL\n🇬🇧 Dave
-  ELLIS\n🇪🇸 Hector CATALA LAPARRA\n🇪🇸 Jose Luis GARCIA SERRANO\n🇺🇸
-  Kyle COON\n🇷🇸 Lazar FILIPOVIC\n🇵🇱 Lukasz WIETECKI\n🇬🇧 Oscar
-  KELLY\n🇺🇸 Owen CRAVENS\n🇦🇺 Sam HARDING\n🇫🇷 Thibaut RIGAUDEAU\n🇯🇵
-  YONEOKA Satoru
-SUMMARY:Men's PTVI
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T103500Z-para-triathlon-WOMENS-PTS5
-DTSTAMP:20240901T103500Z
-DTSTART:20240901T103500Z
-DTEND:20240901T120000Z
-DESCRIPTION:Para Triathlon - Women's PTS5\n🇺🇦 Alisa KOLPAKCHY\n🇪🇸
-  Andrea MIGUELEZ RANZ\n🇬🇧 Claire CASHMORE\n🇺🇸 Grace NORMAN\n🇫🇷
-  Gwladys LEMOUSSU\n🇨🇦 Kamylle FRENETTE\n🇪🇪 Laura-Liis JUURSALU\n🇬🇧
-  Lauren STEADMAN\n🇵🇱 Marta DZIECIATKOWSKA\n🇵🇱 Monika BELCZEWSKA
-SUMMARY:Women's PTS5
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T113000Z-para-badminton-WOMENS-SINGLES-SH6-QUARTERFINAL-POL-IND
 DTSTAMP:20240901T113000Z
 DTSTART:20240901T113000Z
@@ -913,6 +888,31 @@ DESCRIPTION:Para Swimming - Men's 200m Freestyle - S2 Heats\n🇨🇱 Alberto
   Roman BONDARENKO
 SUMMARY:Men's 200m Freestyle - S2 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T100000Z-para-triathlon-MENS-PTVI
+DTSTAMP:20240902T100000Z
+DTSTART:20240902T100000Z
+DTEND:20240902T110500Z
+DESCRIPTION:Para Triathlon - Men's PTVI\n🇫🇷 Antoine PEREL\n🇬🇧 Dave
+  ELLIS\n🇪🇸 Hector CATALA LAPARRA\n🇪🇸 Jose Luis GARCIA SERRANO\n🇺🇸
+  Kyle COON\n🇷🇸 Lazar FILIPOVIC\n🇵🇱 Lukasz WIETECKI\n🇬🇧 Oscar
+  KELLY\n🇺🇸 Owen CRAVENS\n🇦🇺 Sam HARDING\n🇫🇷 Thibaut RIGAUDEAU\n🇯🇵
+  YONEOKA Satoru
+SUMMARY:Men's PTVI
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T103500Z-para-triathlon-WOMENS-PTS5
+DTSTAMP:20240902T103500Z
+DTSTART:20240902T103500Z
+DTEND:20240902T120000Z
+DESCRIPTION:Para Triathlon - Women's PTS5\n🇺🇦 Alisa KOLPAKCHY\n🇪🇸
+  Andrea MIGUELEZ RANZ\n🇬🇧 Claire CASHMORE\n🇺🇸 Grace NORMAN\n🇫🇷
+  Gwladys LEMOUSSU\n🇨🇦 Kamylle FRENETTE\n🇪🇪 Laura-Liis JUURSALU\n🇬🇧
+  Lauren STEADMAN\n🇵🇱 Marta DZIECIATKOWSKA\n🇵🇱 Monika BELCZEWSKA
+SUMMARY:Women's PTS5
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240903T073000Z-shooting-para-sport-R7-MENS-50M-RIFLE-3-POSITIONS-SH1-

@@ -83,18 +83,6 @@ SUMMARY:Women's 1500m - T13 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T061500Z-para-triathlon-MENS-PTWC
-DTSTAMP:20240901T061500Z
-DTSTART:20240901T061500Z
-DTEND:20240901T072500Z
-DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
-  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
-  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
-  Louis NOEL\n🇦🇺 Nic BEVERIDGE
-SUMMARY:Men's PTWC
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T173200Z-para-athletics-WOMENS-JAVELIN-THROW-F34-FINAL
 DTSTAMP:20240901T173200Z
 DTSTART:20240901T173200Z
@@ -105,5 +93,17 @@ DESCRIPTION:Para Athletics - Women's Javelin Throw - F34 Final\n🇦🇺 Dayna
   MBAREK\n🇹🇳 Yousra BEN JEMAA\n🇨🇳 ZOU Lijuan\n🇨🇳 ZUO Caiyun
 SUMMARY:Women's Javelin Throw - F34 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T061500Z-para-triathlon-MENS-PTWC
+DTSTAMP:20240902T061500Z
+DTSTART:20240902T061500Z
+DTEND:20240902T072500Z
+DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
+  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
+  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
+  Louis NOEL\n🇦🇺 Nic BEVERIDGE
+SUMMARY:Men's PTWC
+LOCATION:Pont Alexandre III
 END:VEVENT
 END:VCALENDAR

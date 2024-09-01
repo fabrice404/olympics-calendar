@@ -250,19 +250,6 @@ SUMMARY: Davor KOMAR 🇭🇷 - 🇬🇧 Stephen McGUIRE
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T102500Z-para-triathlon-MENS-PTS4
-DTSTAMP:20240901T102500Z
-DTSTART:20240901T102500Z
-DTEND:20240901T113500Z
-DESCRIPTION:Para Triathlon - Men's PTS4\n🇪🇸 Alejandro SANCHEZ
-  PALOMERO\n🇫🇷 Alexis HANQUINQUANT\n🇭🇷 Antonio FRANKO\n🇺🇸 Carson
-  CLOUGH\n🇺🇸 Eric McELVENNY\n🇬🇧 Finley JAKES\n🇫🇷 Gregoire
-  BERTHON\n🇦🇺 Jeremy PEACOCK\n🇦🇺 Liam TWOMEY\n🇬🇧 Michael TAYLOR\n🇪🇸
-  Nil RIUDAVETS VICTORY\n🇫🇷 Pierre-Antoine BAELE\n🇯🇵 UDA Hideki
-SUMMARY:Men's PTS4
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T171500Z-para-table-tennis-WOMENS-SINGLES-WS3-ROUND-OF-16-SVK-C
 DTSTAMP:20240901T171500Z
 DTSTART:20240901T171500Z
@@ -300,6 +287,19 @@ DTEND:20240901T193000Z
 DESCRIPTION:Para Table Tennis - Women's Singles - WS3 - Round of 16
 SUMMARY: Sonalben PATEL 🇮🇳 - 🇭🇷 Andela MUZINIC VINCETIC
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T102500Z-para-triathlon-MENS-PTS4
+DTSTAMP:20240902T102500Z
+DTSTART:20240902T102500Z
+DTEND:20240902T113500Z
+DESCRIPTION:Para Triathlon - Men's PTS4\n🇪🇸 Alejandro SANCHEZ
+  PALOMERO\n🇫🇷 Alexis HANQUINQUANT\n🇭🇷 Antonio FRANKO\n🇺🇸 Carson
+  CLOUGH\n🇺🇸 Eric McELVENNY\n🇬🇧 Finley JAKES\n🇫🇷 Gregoire
+  BERTHON\n🇦🇺 Jeremy PEACOCK\n🇦🇺 Liam TWOMEY\n🇬🇧 Michael TAYLOR\n🇪🇸
+  Nil RIUDAVETS VICTORY\n🇫🇷 Pierre-Antoine BAELE\n🇯🇵 UDA Hideki
+SUMMARY:Men's PTS4
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240903T074600Z-para-swimming-WOMENS-100M-BACKSTROKE-S9-HEATS

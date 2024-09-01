@@ -40,19 +40,6 @@ SUMMARY:Men's Shot Put - F40 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T102500Z-para-triathlon-MENS-PTS4
-DTSTAMP:20240901T102500Z
-DTSTART:20240901T102500Z
-DTEND:20240901T113500Z
-DESCRIPTION:Para Triathlon - Men's PTS4\n🇪🇸 Alejandro SANCHEZ
-  PALOMERO\n🇫🇷 Alexis HANQUINQUANT\n🇭🇷 Antonio FRANKO\n🇺🇸 Carson
-  CLOUGH\n🇺🇸 Eric McELVENNY\n🇬🇧 Finley JAKES\n🇫🇷 Gregoire
-  BERTHON\n🇦🇺 Jeremy PEACOCK\n🇦🇺 Liam TWOMEY\n🇬🇧 Michael TAYLOR\n🇪🇸
-  Nil RIUDAVETS VICTORY\n🇫🇷 Pierre-Antoine BAELE\n🇯🇵 UDA Hideki
-SUMMARY:Men's PTS4
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T172200Z-para-athletics-MENS-DISCUS-THROW-F52-FINAL
 DTSTAMP:20240901T172200Z
 DTSTART:20240901T172200Z
@@ -63,5 +50,18 @@ DESCRIPTION:Para Athletics - Men's Discus Throw - F52 Final\n🇱🇻 Aigars
   Robert JACHIMOWICZ\n🇭🇷 Velimir SANDOR
 SUMMARY:Men's Discus Throw - F52 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T102500Z-para-triathlon-MENS-PTS4
+DTSTAMP:20240902T102500Z
+DTSTART:20240902T102500Z
+DTEND:20240902T113500Z
+DESCRIPTION:Para Triathlon - Men's PTS4\n🇪🇸 Alejandro SANCHEZ
+  PALOMERO\n🇫🇷 Alexis HANQUINQUANT\n🇭🇷 Antonio FRANKO\n🇺🇸 Carson
+  CLOUGH\n🇺🇸 Eric McELVENNY\n🇬🇧 Finley JAKES\n🇫🇷 Gregoire
+  BERTHON\n🇦🇺 Jeremy PEACOCK\n🇦🇺 Liam TWOMEY\n🇬🇧 Michael TAYLOR\n🇪🇸
+  Nil RIUDAVETS VICTORY\n🇫🇷 Pierre-Antoine BAELE\n🇯🇵 UDA Hideki
+SUMMARY:Men's PTS4
+LOCATION:Pont Alexandre III
 END:VEVENT
 END:VCALENDAR

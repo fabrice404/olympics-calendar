@@ -315,19 +315,6 @@ SUMMARY:R5 - Mixed 10m Air Rifle Prone SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T100000Z-para-triathlon-MENS-PTVI
-DTSTAMP:20240901T100000Z
-DTSTART:20240901T100000Z
-DTEND:20240901T110500Z
-DESCRIPTION:Para Triathlon - Men's PTVI\n🇫🇷 Antoine PEREL\n🇬🇧 Dave
-  ELLIS\n🇪🇸 Hector CATALA LAPARRA\n🇪🇸 Jose Luis GARCIA SERRANO\n🇺🇸
-  Kyle COON\n🇷🇸 Lazar FILIPOVIC\n🇵🇱 Lukasz WIETECKI\n🇬🇧 Oscar
-  KELLY\n🇺🇸 Owen CRAVENS\n🇦🇺 Sam HARDING\n🇫🇷 Thibaut RIGAUDEAU\n🇯🇵
-  YONEOKA Satoru
-SUMMARY:Men's PTVI
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T150000Z-para-table-tennis-WOMENS-SINGLES-WS4-ROUND-OF-16-SRB-F
 DTSTAMP:20240901T150000Z
 DTSTART:20240901T150000Z
@@ -352,6 +339,19 @@ DESCRIPTION:Shooting Para Sport - P3 - Mixed 25m Pistol SH1 Qualification
   Yan Xiao GONG\n🇨🇺 Yenigladys SUAREZ ECHEVARRIA\n🇷🇸 Zivko PAPAZ
 SUMMARY:P3 - Mixed 25m Pistol SH1 Qualification Precision
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T100000Z-para-triathlon-MENS-PTVI
+DTSTAMP:20240902T100000Z
+DTSTART:20240902T100000Z
+DTEND:20240902T110500Z
+DESCRIPTION:Para Triathlon - Men's PTVI\n🇫🇷 Antoine PEREL\n🇬🇧 Dave
+  ELLIS\n🇪🇸 Hector CATALA LAPARRA\n🇪🇸 Jose Luis GARCIA SERRANO\n🇺🇸
+  Kyle COON\n🇷🇸 Lazar FILIPOVIC\n🇵🇱 Lukasz WIETECKI\n🇬🇧 Oscar
+  KELLY\n🇺🇸 Owen CRAVENS\n🇦🇺 Sam HARDING\n🇫🇷 Thibaut RIGAUDEAU\n🇯🇵
+  YONEOKA Satoru
+SUMMARY:Men's PTVI
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240903T073000Z-shooting-para-sport-R7-MENS-50M-RIFLE-3-POSITIONS-SH1-

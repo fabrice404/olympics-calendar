@@ -686,18 +686,6 @@ SUMMARY:R3 - Mixed 10m Air Rifle Prone SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T073000Z-para-triathlon-MENS-PTS2
-DTSTAMP:20240901T073000Z
-DTSTART:20240901T073000Z
-DTEND:20240901T085500Z
-DESCRIPTION:Para Triathlon - Men's PTS2\n🇫🇷 Geoffrey WERSY\n🇮🇹 Gianluca
-  VALORI\n🇨🇴 Juan Esteban PATINO GIRALDO\n🇫🇷 Jules RIBSTEIN\n🇪🇸
-  Lionel MORALES\n🇺🇸 Mark BARR\n🇳🇱 Maurits MORSINK\n🇺🇸 Mohamed
-  LAHNA\n🇦🇺 Thomas GOODMAN\n🇧🇪 Wim de PAEPE
-SUMMARY:Men's PTS2
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T074500Z-para-swimming-WOMENS-100M-FREESTYLE-S10-HEATS
 DTSTAMP:20240901T074500Z
 DTSTART:20240901T074500Z
@@ -781,6 +769,18 @@ DTEND:20240901T121000Z
 DESCRIPTION:Boccia - Women's Individual - BC4 Semifinal
 SUMMARY: Leidy CHICA CHICA 🇨🇴 - 🇨🇳 LIN Ximei
 LOCATION:South Paris Arena 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T073000Z-para-triathlon-MENS-PTS2
+DTSTAMP:20240902T073000Z
+DTSTART:20240902T073000Z
+DTEND:20240902T085500Z
+DESCRIPTION:Para Triathlon - Men's PTS2\n🇫🇷 Geoffrey WERSY\n🇮🇹 Gianluca
+  VALORI\n🇨🇴 Juan Esteban PATINO GIRALDO\n🇫🇷 Jules RIBSTEIN\n🇪🇸
+  Lionel MORALES\n🇺🇸 Mark BARR\n🇳🇱 Maurits MORSINK\n🇺🇸 Mohamed
+  LAHNA\n🇦🇺 Thomas GOODMAN\n🇧🇪 Wim de PAEPE
+SUMMARY:Men's PTS2
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T090400Z-para-swimming-MENS-100M-BREASTSTROKE-SB4-HEATS

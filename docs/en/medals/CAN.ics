@@ -215,42 +215,6 @@ SUMMARY:Women's 400m - T47 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T062000Z-para-triathlon-WOMENS-PTWC
-DTSTAMP:20240901T062000Z
-DTSTART:20240901T062000Z
-DTEND:20240901T074000Z
-DESCRIPTION:Para Triathlon - Women's PTWC\n🇲🇽 Brenda OSNAYA ALVAREZ\n🇺🇸
-  Emelia PERRY\n🇪🇸 Eva Maria MORAL PEDRERO\n🇧🇷 Jessica FERREIRA\n🇺🇸
-  Kendall GRETSCH\n🇦🇺 Lauren PARKER\n🇨🇦 Leanne TAYLOR\n🇬🇧 Melissa
-  NICHOLLS\n🇫🇷 Mona FRANCIS
-SUMMARY:Women's PTWC
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T102000Z-para-triathlon-MENS-PTS5
-DTSTAMP:20240901T102000Z
-DTSTART:20240901T102000Z
-DTEND:20240901T113000Z
-DESCRIPTION:Para Triathlon - Men's PTS5\n🇭🇺 Bence MOCSARI\n🇺🇸 Chris
-  HAMMER\n🇦🇺 David BRYANT\n🇵🇹 Filipe MARQUES\n🇦🇺 Jack HOWELL\n🇪🇸
-  Jairo RUIZ LOPEZ\n🇩🇪 Martin SCHULZ\n🇧🇷 Ronan CORDEIRO\n🇨🇦 Stefan
-  DANIEL\n🇹🇷 Ugurcan OZER
-SUMMARY:Men's PTS5
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T103500Z-para-triathlon-WOMENS-PTS5
-DTSTAMP:20240901T103500Z
-DTSTART:20240901T103500Z
-DTEND:20240901T120000Z
-DESCRIPTION:Para Triathlon - Women's PTS5\n🇺🇦 Alisa KOLPAKCHY\n🇪🇸
-  Andrea MIGUELEZ RANZ\n🇬🇧 Claire CASHMORE\n🇺🇸 Grace NORMAN\n🇫🇷
-  Gwladys LEMOUSSU\n🇨🇦 Kamylle FRENETTE\n🇪🇪 Laura-Liis JUURSALU\n🇬🇧
-  Lauren STEADMAN\n🇵🇱 Marta DZIECIATKOWSKA\n🇵🇱 Monika BELCZEWSKA
-SUMMARY:Women's PTS5
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T173200Z-para-athletics-WOMENS-JAVELIN-THROW-F34-FINAL
 DTSTAMP:20240901T173200Z
 DTSTART:20240901T173200Z
@@ -261,6 +225,42 @@ DESCRIPTION:Para Athletics - Women's Javelin Throw - F34 Final\n🇦🇺 Dayna
   MBAREK\n🇹🇳 Yousra BEN JEMAA\n🇨🇳 ZOU Lijuan\n🇨🇳 ZUO Caiyun
 SUMMARY:Women's Javelin Throw - F34 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T062000Z-para-triathlon-WOMENS-PTWC
+DTSTAMP:20240902T062000Z
+DTSTART:20240902T062000Z
+DTEND:20240902T074000Z
+DESCRIPTION:Para Triathlon - Women's PTWC\n🇲🇽 Brenda OSNAYA ALVAREZ\n🇺🇸
+  Emelia PERRY\n🇪🇸 Eva Maria MORAL PEDRERO\n🇧🇷 Jessica FERREIRA\n🇺🇸
+  Kendall GRETSCH\n🇦🇺 Lauren PARKER\n🇨🇦 Leanne TAYLOR\n🇬🇧 Melissa
+  NICHOLLS\n🇫🇷 Mona FRANCIS
+SUMMARY:Women's PTWC
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T102000Z-para-triathlon-MENS-PTS5
+DTSTAMP:20240902T102000Z
+DTSTART:20240902T102000Z
+DTEND:20240902T113000Z
+DESCRIPTION:Para Triathlon - Men's PTS5\n🇭🇺 Bence MOCSARI\n🇺🇸 Chris
+  HAMMER\n🇦🇺 David BRYANT\n🇵🇹 Filipe MARQUES\n🇦🇺 Jack HOWELL\n🇪🇸
+  Jairo RUIZ LOPEZ\n🇩🇪 Martin SCHULZ\n🇧🇷 Ronan CORDEIRO\n🇨🇦 Stefan
+  DANIEL\n🇹🇷 Ugurcan OZER
+SUMMARY:Men's PTS5
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T103500Z-para-triathlon-WOMENS-PTS5
+DTSTAMP:20240902T103500Z
+DTSTART:20240902T103500Z
+DTEND:20240902T120000Z
+DESCRIPTION:Para Triathlon - Women's PTS5\n🇺🇦 Alisa KOLPAKCHY\n🇪🇸
+  Andrea MIGUELEZ RANZ\n🇬🇧 Claire CASHMORE\n🇺🇸 Grace NORMAN\n🇫🇷
+  Gwladys LEMOUSSU\n🇨🇦 Kamylle FRENETTE\n🇪🇪 Laura-Liis JUURSALU\n🇬🇧
+  Lauren STEADMAN\n🇵🇱 Marta DZIECIATKOWSKA\n🇵🇱 Monika BELCZEWSKA
+SUMMARY:Women's PTS5
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240907T183400Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-34-POINTS-F

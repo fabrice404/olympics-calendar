@@ -1025,18 +1025,6 @@ SUMMARY: HAN Guifei 🇨🇳 - 🇰🇷 PARK Hong Jo
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T072500Z-para-triathlon-MENS-PTS3
-DTSTAMP:20240901T072500Z
-DTSTART:20240901T072500Z
-DTEND:20240901T085000Z
-DESCRIPTION:Para Triathlon - Men's PTS3\n🇫🇷 Cedric DENUZIERE\n🇪🇸 Daniel
-  MOLINA\n🇪🇸 Diego LARDON FERRER\n🇬🇧 Henry URAND\n🇦🇺 Justin
-  GODFREY\n🇰🇷 KIM Hwang Tae\n🇩🇪 Max GELHAAR\n🇫🇷 Michael HERTER\n🇳🇱
-  Nico van der BURGT
-SUMMARY:Men's PTS3
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T073000Z-shooting-para-sport-R3-MIXED-10M-AIR-RIFLE-PRONE-SH1-Q
 DTSTAMP:20240901T073000Z
 DTSTART:20240901T073000Z
@@ -1270,6 +1258,18 @@ DESCRIPTION:Shooting Para Sport - P3 - Mixed 25m Pistol SH1 Qualification
   Yan Xiao GONG\n🇨🇺 Yenigladys SUAREZ ECHEVARRIA\n🇷🇸 Zivko PAPAZ
 SUMMARY:P3 - Mixed 25m Pistol SH1 Qualification Precision
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T072500Z-para-triathlon-MENS-PTS3
+DTSTAMP:20240902T072500Z
+DTSTART:20240902T072500Z
+DTEND:20240902T085000Z
+DESCRIPTION:Para Triathlon - Men's PTS3\n🇫🇷 Cedric DENUZIERE\n🇪🇸 Daniel
+  MOLINA\n🇪🇸 Diego LARDON FERRER\n🇬🇧 Henry URAND\n🇦🇺 Justin
+  GODFREY\n🇰🇷 KIM Hwang Tae\n🇩🇪 Max GELHAAR\n🇫🇷 Michael HERTER\n🇳🇱
+  Nico van der BURGT
+SUMMARY:Men's PTS3
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240903T071700Z-para-archery-WOMENS-INDIVIDUAL-RECURVE-OPEN-116-ELIMIN

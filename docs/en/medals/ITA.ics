@@ -297,43 +297,6 @@ SUMMARY:Women's 50m Backstroke - S2 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T061500Z-para-triathlon-MENS-PTWC
-DTSTAMP:20240901T061500Z
-DTSTART:20240901T061500Z
-DTEND:20240901T072500Z
-DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
-  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
-  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
-  Louis NOEL\n🇦🇺 Nic BEVERIDGE
-SUMMARY:Men's PTWC
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T073000Z-para-triathlon-MENS-PTS2
-DTSTAMP:20240901T073000Z
-DTSTART:20240901T073000Z
-DTEND:20240901T085500Z
-DESCRIPTION:Para Triathlon - Men's PTS2\n🇫🇷 Geoffrey WERSY\n🇮🇹 Gianluca
-  VALORI\n🇨🇴 Juan Esteban PATINO GIRALDO\n🇫🇷 Jules RIBSTEIN\n🇪🇸
-  Lionel MORALES\n🇺🇸 Mark BARR\n🇳🇱 Maurits MORSINK\n🇺🇸 Mohamed
-  LAHNA\n🇦🇺 Thomas GOODMAN\n🇧🇪 Wim de PAEPE
-SUMMARY:Men's PTS2
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T073500Z-para-triathlon-WOMENS-PTS2
-DTSTAMP:20240901T073500Z
-DTSTART:20240901T073500Z
-DTEND:20240901T091500Z
-DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
-  FRANCIS\n🇫🇷 Cecile SABOUREAU\n🇻🇪 Emma Juaisca RODRIGUEZ
-  RODRIGUEZ\n🇯🇵 HATA Yukako\n🇺🇸 Hailey DANZ\n🇺🇸 Melissa
-  STOCKWELL\n🇩🇪 Neele LUDWIG\n🇪🇸 Rakel MATEO URIARTE\n🇮🇹 Veronica
-  Yoko PLEBANI
-SUMMARY:Women's PTS2
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T093000Z-para-rowing-PR1-MENS-SINGLE-SCULLS-FINAL-A
 DTSTAMP:20240901T093000Z
 DTSTART:20240901T093000Z
@@ -343,19 +306,6 @@ DESCRIPTION:Para Rowing - PR1 Men’s Single Sculls Final A\n🇫🇷 Alexis
   PERINI\n🇺🇦 Roman POLIANSKYI\n🇮🇱 Shmuel DANIEL
 SUMMARY:PR1 Men’s Single Sculls Final A
 LOCATION:Vaires-sur-Marne Stadium
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T100500Z-para-triathlon-WOMENS-PTVI
-DTSTAMP:20240901T100500Z
-DTSTART:20240901T100500Z
-DTEND:20240901T113000Z
-DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
-  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
-  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
-  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
-  RODRIGUEZ
-SUMMARY:Women's PTVI
-LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T172200Z-para-athletics-MENS-DISCUS-THROW-F52-FINAL
@@ -380,6 +330,56 @@ DESCRIPTION:Para Athletics - Men's 100m - T44 Final\n🇲🇾 Eddy
   MHLONGO\n🇸🇦 Nour ALSANA\n🇨🇺 Yamel Luis VIVES SUARES
 SUMMARY:Men's 100m - T44 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T061500Z-para-triathlon-MENS-PTWC
+DTSTAMP:20240902T061500Z
+DTSTART:20240902T061500Z
+DTEND:20240902T072500Z
+DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
+  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
+  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
+  Louis NOEL\n🇦🇺 Nic BEVERIDGE
+SUMMARY:Men's PTWC
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T073000Z-para-triathlon-MENS-PTS2
+DTSTAMP:20240902T073000Z
+DTSTART:20240902T073000Z
+DTEND:20240902T085500Z
+DESCRIPTION:Para Triathlon - Men's PTS2\n🇫🇷 Geoffrey WERSY\n🇮🇹 Gianluca
+  VALORI\n🇨🇴 Juan Esteban PATINO GIRALDO\n🇫🇷 Jules RIBSTEIN\n🇪🇸
+  Lionel MORALES\n🇺🇸 Mark BARR\n🇳🇱 Maurits MORSINK\n🇺🇸 Mohamed
+  LAHNA\n🇦🇺 Thomas GOODMAN\n🇧🇪 Wim de PAEPE
+SUMMARY:Men's PTS2
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T073500Z-para-triathlon-WOMENS-PTS2
+DTSTAMP:20240902T073500Z
+DTSTART:20240902T073500Z
+DTEND:20240902T091500Z
+DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
+  FRANCIS\n🇫🇷 Cecile SABOUREAU\n🇻🇪 Emma Juaisca RODRIGUEZ
+  RODRIGUEZ\n🇯🇵 HATA Yukako\n🇺🇸 Hailey DANZ\n🇺🇸 Melissa
+  STOCKWELL\n🇩🇪 Neele LUDWIG\n🇪🇸 Rakel MATEO URIARTE\n🇮🇹 Veronica
+  Yoko PLEBANI
+SUMMARY:Women's PTS2
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T100500Z-para-triathlon-WOMENS-PTVI
+DTSTAMP:20240902T100500Z
+DTSTART:20240902T100500Z
+DTEND:20240902T113000Z
+DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
+  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
+  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
+  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
+  RODRIGUEZ
+SUMMARY:Women's PTVI
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T150000Z-para-powerlifting-WOMENS-UP-TO-55KG-FINAL

@@ -1793,18 +1793,6 @@ SUMMARY:Women's 200m - T36 Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T062000Z-para-triathlon-WOMENS-PTWC
-DTSTAMP:20240901T062000Z
-DTSTART:20240901T062000Z
-DTEND:20240901T074000Z
-DESCRIPTION:Para Triathlon - Women's PTWC\n🇲🇽 Brenda OSNAYA ALVAREZ\n🇺🇸
-  Emelia PERRY\n🇪🇸 Eva Maria MORAL PEDRERO\n🇧🇷 Jessica FERREIRA\n🇺🇸
-  Kendall GRETSCH\n🇦🇺 Lauren PARKER\n🇨🇦 Leanne TAYLOR\n🇬🇧 Melissa
-  NICHOLLS\n🇫🇷 Mona FRANCIS
-SUMMARY:Women's PTWC
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T073800Z-para-swimming-MENS-100M-FREESTYLE-S10-HEATS
 DTSTAMP:20240901T073800Z
 DTSTART:20240901T073800Z
@@ -1989,19 +1977,6 @@ SUMMARY: CARNEIRO SILVA/RODRIG 🇧🇷 - 🇯🇵 ARAI/SANADA
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T100500Z-para-triathlon-WOMENS-PTVI
-DTSTAMP:20240901T100500Z
-DTSTART:20240901T100500Z
-DTEND:20240901T113000Z
-DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
-  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
-  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
-  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
-  RODRIGUEZ
-SUMMARY:Women's PTVI
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T101000Z-para-rowing-PR3-MIXED-DOUBLE-SCULLS-FINAL-A
 DTSTAMP:20240901T101000Z
 DTSTART:20240901T101000Z
@@ -2010,18 +1985,6 @@ DESCRIPTION:Para Rowing - PR3 Mixed Double Sculls Final A\n🇦🇺 AUS\n🇧�
   BRA\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇺🇦 UKR
 SUMMARY:PR3 Mixed Double Sculls Final A
 LOCATION:Vaires-sur-Marne Stadium
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T102000Z-para-triathlon-MENS-PTS5
-DTSTAMP:20240901T102000Z
-DTSTART:20240901T102000Z
-DTEND:20240901T113000Z
-DESCRIPTION:Para Triathlon - Men's PTS5\n🇭🇺 Bence MOCSARI\n🇺🇸 Chris
-  HAMMER\n🇦🇺 David BRYANT\n🇵🇹 Filipe MARQUES\n🇦🇺 Jack HOWELL\n🇪🇸
-  Jairo RUIZ LOPEZ\n🇩🇪 Martin SCHULZ\n🇧🇷 Ronan CORDEIRO\n🇨🇦 Stefan
-  DANIEL\n🇹🇷 Ugurcan OZER
-SUMMARY:Men's PTS5
-LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240901T102300Z-para-athletics-WOMENS-200M-T36-FINAL
@@ -2184,6 +2147,18 @@ SUMMARY:Men's 100m - T63 Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T062000Z-para-triathlon-WOMENS-PTWC
+DTSTAMP:20240902T062000Z
+DTSTART:20240902T062000Z
+DTEND:20240902T074000Z
+DESCRIPTION:Para Triathlon - Women's PTWC\n🇲🇽 Brenda OSNAYA ALVAREZ\n🇺🇸
+  Emelia PERRY\n🇪🇸 Eva Maria MORAL PEDRERO\n🇧🇷 Jessica FERREIRA\n🇺🇸
+  Kendall GRETSCH\n🇦🇺 Lauren PARKER\n🇨🇦 Leanne TAYLOR\n🇬🇧 Melissa
+  NICHOLLS\n🇫🇷 Mona FRANCIS
+SUMMARY:Women's PTWC
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240902T074000Z-para-archery-MIXED-TEAM-W1-QUARTERFINAL-BRA-CZE
 DTSTAMP:20240902T074000Z
 DTSTART:20240902T074000Z
@@ -2285,6 +2260,31 @@ DESCRIPTION:Para Swimming - Mixed 4x100m Medley Relay - 34 Points
   ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇪🇸 ESP\n🇺🇸 USA
 SUMMARY:Mixed 4x100m Medley Relay - 34 Points Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T100500Z-para-triathlon-WOMENS-PTVI
+DTSTAMP:20240902T100500Z
+DTSTART:20240902T100500Z
+DTEND:20240902T113000Z
+DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
+  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
+  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
+  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
+  RODRIGUEZ
+SUMMARY:Women's PTVI
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T102000Z-para-triathlon-MENS-PTS5
+DTSTAMP:20240902T102000Z
+DTSTART:20240902T102000Z
+DTEND:20240902T113000Z
+DESCRIPTION:Para Triathlon - Men's PTS5\n🇭🇺 Bence MOCSARI\n🇺🇸 Chris
+  HAMMER\n🇦🇺 David BRYANT\n🇵🇹 Filipe MARQUES\n🇦🇺 Jack HOWELL\n🇪🇸
+  Jairo RUIZ LOPEZ\n🇩🇪 Martin SCHULZ\n🇧🇷 Ronan CORDEIRO\n🇨🇦 Stefan
+  DANIEL\n🇹🇷 Ugurcan OZER
+SUMMARY:Men's PTS5
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T120000Z-sitting-volleyball-WOMENS-PRELIMINARY-ROUND-POOL-B-BRA

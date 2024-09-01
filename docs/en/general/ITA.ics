@@ -921,43 +921,6 @@ SUMMARY:Women's 50m Backstroke - S2 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T061500Z-para-triathlon-MENS-PTWC
-DTSTAMP:20240901T061500Z
-DTSTART:20240901T061500Z
-DTEND:20240901T072500Z
-DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
-  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
-  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
-  Louis NOEL\n🇦🇺 Nic BEVERIDGE
-SUMMARY:Men's PTWC
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T073000Z-para-triathlon-MENS-PTS2
-DTSTAMP:20240901T073000Z
-DTSTART:20240901T073000Z
-DTEND:20240901T085500Z
-DESCRIPTION:Para Triathlon - Men's PTS2\n🇫🇷 Geoffrey WERSY\n🇮🇹 Gianluca
-  VALORI\n🇨🇴 Juan Esteban PATINO GIRALDO\n🇫🇷 Jules RIBSTEIN\n🇪🇸
-  Lionel MORALES\n🇺🇸 Mark BARR\n🇳🇱 Maurits MORSINK\n🇺🇸 Mohamed
-  LAHNA\n🇦🇺 Thomas GOODMAN\n🇧🇪 Wim de PAEPE
-SUMMARY:Men's PTS2
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T073500Z-para-triathlon-WOMENS-PTS2
-DTSTAMP:20240901T073500Z
-DTSTART:20240901T073500Z
-DTEND:20240901T091500Z
-DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
-  FRANCIS\n🇫🇷 Cecile SABOUREAU\n🇻🇪 Emma Juaisca RODRIGUEZ
-  RODRIGUEZ\n🇯🇵 HATA Yukako\n🇺🇸 Hailey DANZ\n🇺🇸 Melissa
-  STOCKWELL\n🇩🇪 Neele LUDWIG\n🇪🇸 Rakel MATEO URIARTE\n🇮🇹 Veronica
-  Yoko PLEBANI
-SUMMARY:Women's PTS2
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T073800Z-para-swimming-MENS-100M-FREESTYLE-S10-HEATS
 DTSTAMP:20240901T073800Z
 DTSTART:20240901T073800Z
@@ -1104,19 +1067,6 @@ SUMMARY:R5 - Mixed 10m Air Rifle Prone SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T100500Z-para-triathlon-WOMENS-PTVI
-DTSTAMP:20240901T100500Z
-DTSTART:20240901T100500Z
-DTEND:20240901T113000Z
-DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
-  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
-  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
-  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
-  RODRIGUEZ
-SUMMARY:Women's PTVI
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T102400Z-para-cycling-track-WOMENS-C5-3000M-INDIVIDUAL-PURSUIT-
 DTSTAMP:20240901T102400Z
 DTSTART:20240901T102400Z
@@ -1208,6 +1158,18 @@ SUMMARY:Men's 100m - T63 Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T061500Z-para-triathlon-MENS-PTWC
+DTSTAMP:20240902T061500Z
+DTSTART:20240902T061500Z
+DTEND:20240902T072500Z
+DESCRIPTION:Para Triathlon - Men's PTWC\n🇹🇳 Fethi ZOUINKHI\n🇦🇹 Florian
+  BRUNGRABER\n🇳🇱 Geert SCHIPPER\n🇮🇹 Giovanni ACHENZA\n🇮🇹 Giuseppe
+  ROMELE\n🇺🇸 Howie SANBORN\n🇳🇱 Jetze PLAT\n🇯🇵 KIMURA Jumpei\n🇫🇷
+  Louis NOEL\n🇦🇺 Nic BEVERIDGE
+SUMMARY:Men's PTWC
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
 UID:20240902T072000Z-para-archery-MIXED-TEAM-W1-QUARTERFINAL-ITA-USA
 DTSTAMP:20240902T072000Z
 DTSTART:20240902T072000Z
@@ -1227,6 +1189,31 @@ DESCRIPTION:Para Swimming - Men's 400m Freestyle - S7 Heats\n🇺🇦 Andrii
   Yurii SHENHUR
 SUMMARY:Men's 400m Freestyle - S7 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T073000Z-para-triathlon-MENS-PTS2
+DTSTAMP:20240902T073000Z
+DTSTART:20240902T073000Z
+DTEND:20240902T085500Z
+DESCRIPTION:Para Triathlon - Men's PTS2\n🇫🇷 Geoffrey WERSY\n🇮🇹 Gianluca
+  VALORI\n🇨🇴 Juan Esteban PATINO GIRALDO\n🇫🇷 Jules RIBSTEIN\n🇪🇸
+  Lionel MORALES\n🇺🇸 Mark BARR\n🇳🇱 Maurits MORSINK\n🇺🇸 Mohamed
+  LAHNA\n🇦🇺 Thomas GOODMAN\n🇧🇪 Wim de PAEPE
+SUMMARY:Men's PTS2
+LOCATION:Pont Alexandre III
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T073500Z-para-triathlon-WOMENS-PTS2
+DTSTAMP:20240902T073500Z
+DTSTART:20240902T073500Z
+DTEND:20240902T091500Z
+DESCRIPTION:Para Triathlon - Women's PTS2\n🇺🇸 Allysa SEELY\n🇦🇺 Anu
+  FRANCIS\n🇫🇷 Cecile SABOUREAU\n🇻🇪 Emma Juaisca RODRIGUEZ
+  RODRIGUEZ\n🇯🇵 HATA Yukako\n🇺🇸 Hailey DANZ\n🇺🇸 Melissa
+  STOCKWELL\n🇩🇪 Neele LUDWIG\n🇪🇸 Rakel MATEO URIARTE\n🇮🇹 Veronica
+  Yoko PLEBANI
+SUMMARY:Women's PTS2
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T074600Z-para-swimming-WOMENS-400M-FREESTYLE-S7-HEATS
@@ -1332,6 +1319,19 @@ DESCRIPTION:Para Swimming - Mixed 4x100m Medley Relay - 34 Points
   ITA\n🇯🇵 JPN\n🇳🇱 NED\n🇪🇸 ESP\n🇺🇸 USA
 SUMMARY:Mixed 4x100m Medley Relay - 34 Points Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T100500Z-para-triathlon-WOMENS-PTVI
+DTSTAMP:20240902T100500Z
+DTSTART:20240902T100500Z
+DTEND:20240902T113000Z
+DESCRIPTION:Para Triathlon - Women's PTVI\n🇰🇬 Aitunuk ZHOOMART KYZY\n🇬🇧
+  Alison PEASGOOD\n🇩🇪 Anja RENNER\n🇮🇹 Anna BARBARO\n🇫🇷 Annouck
+  CURZILLAT\n🇮🇪 Chloe MACCOMBE\n🇮🇹 Francesca TARANTELLO\n🇫🇷 Heloise
+  COURVOISIER\n🇮🇪 Judith MACCOMBE\n🇧🇷 Leticia FREITAS\n🇪🇸 Susana
+  RODRIGUEZ
+SUMMARY:Women's PTVI
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T143000Z-para-archery-MIXED-TEAM-COMPOUND-OPEN-18-ELIMINATION-M

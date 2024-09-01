@@ -849,18 +849,6 @@ SUMMARY:R5 - Mixed 10m Air Rifle Prone SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T102000Z-para-triathlon-MENS-PTS5
-DTSTAMP:20240901T102000Z
-DTSTART:20240901T102000Z
-DTEND:20240901T113000Z
-DESCRIPTION:Para Triathlon - Men's PTS5\n🇭🇺 Bence MOCSARI\n🇺🇸 Chris
-  HAMMER\n🇦🇺 David BRYANT\n🇵🇹 Filipe MARQUES\n🇦🇺 Jack HOWELL\n🇪🇸
-  Jairo RUIZ LOPEZ\n🇩🇪 Martin SCHULZ\n🇧🇷 Ronan CORDEIRO\n🇨🇦 Stefan
-  DANIEL\n🇹🇷 Ugurcan OZER
-SUMMARY:Men's PTS5
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T163000Z-blind-football-MENS-PRELIMINARY-ROUND-GROUP-A-BRA-TUR
 DTSTAMP:20240901T163000Z
 DTSTART:20240901T163000Z
@@ -952,6 +940,18 @@ DESCRIPTION:Para Swimming - Men's 50m Backstroke - S3 Heats\n🇦🇺 Ahmed
   PALAMARCHUK\n🇹🇷 Umut UNLU\n🇮🇹 Vincenzo BONI
 SUMMARY:Men's 50m Backstroke - S3 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T102000Z-para-triathlon-MENS-PTS5
+DTSTAMP:20240902T102000Z
+DTSTART:20240902T102000Z
+DTEND:20240902T113000Z
+DESCRIPTION:Para Triathlon - Men's PTS5\n🇭🇺 Bence MOCSARI\n🇺🇸 Chris
+  HAMMER\n🇦🇺 David BRYANT\n🇵🇹 Filipe MARQUES\n🇦🇺 Jack HOWELL\n🇪🇸
+  Jairo RUIZ LOPEZ\n🇩🇪 Martin SCHULZ\n🇧🇷 Ronan CORDEIRO\n🇨🇦 Stefan
+  DANIEL\n🇹🇷 Ugurcan OZER
+SUMMARY:Men's PTS5
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T163000Z-blind-football-MENS-PRELIMINARY-ROUND-GROUP-A-TUR-CHN

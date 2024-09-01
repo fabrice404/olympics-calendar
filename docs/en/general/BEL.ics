@@ -217,18 +217,6 @@ SUMMARY: KWON Hyunah 🇰🇷 - 🇧🇪 Man-Kei TO
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T073000Z-para-triathlon-MENS-PTS2
-DTSTAMP:20240901T073000Z
-DTSTART:20240901T073000Z
-DTEND:20240901T085500Z
-DESCRIPTION:Para Triathlon - Men's PTS2\n🇫🇷 Geoffrey WERSY\n🇮🇹 Gianluca
-  VALORI\n🇨🇴 Juan Esteban PATINO GIRALDO\n🇫🇷 Jules RIBSTEIN\n🇪🇸
-  Lionel MORALES\n🇺🇸 Mark BARR\n🇳🇱 Maurits MORSINK\n🇺🇸 Mohamed
-  LAHNA\n🇦🇺 Thomas GOODMAN\n🇧🇪 Wim de PAEPE
-SUMMARY:Men's PTS2
-LOCATION:Pont Alexandre III
-END:VEVENT
-BEGIN:VEVENT
 UID:20240901T092500Z-para-athletics-WOMENS-800M-T54-ROUND-1
 DTSTAMP:20240901T092500Z
 DTSTART:20240901T092500Z
@@ -277,6 +265,18 @@ DTEND:20240901T184500Z
 DESCRIPTION:Para Table Tennis - Men's Singles - MS8 - Round of 32
 SUMMARY: Ali MAKHULBEKOV 🇰🇿 - 🇧🇪 Marc LEDOUX
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T073000Z-para-triathlon-MENS-PTS2
+DTSTAMP:20240902T073000Z
+DTSTART:20240902T073000Z
+DTEND:20240902T085500Z
+DESCRIPTION:Para Triathlon - Men's PTS2\n🇫🇷 Geoffrey WERSY\n🇮🇹 Gianluca
+  VALORI\n🇨🇴 Juan Esteban PATINO GIRALDO\n🇫🇷 Jules RIBSTEIN\n🇪🇸
+  Lionel MORALES\n🇺🇸 Mark BARR\n🇳🇱 Maurits MORSINK\n🇺🇸 Mohamed
+  LAHNA\n🇦🇺 Thomas GOODMAN\n🇧🇪 Wim de PAEPE
+SUMMARY:Men's PTS2
+LOCATION:Pont Alexandre III
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T083300Z-para-swimming-MENS-100M-BREASTSTROKE-SB14-HEATS
