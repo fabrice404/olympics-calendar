@@ -1454,10 +1454,10 @@ SUMMARY:Men's 400m - T54 Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T103000Z-para-rowing-PR3-MIXED-COXED-FOUR-FINAL-A
-DTSTAMP:20240901T103000Z
-DTSTART:20240901T103000Z
-DTEND:20240901T103700Z
+UID:20240901T103600Z-para-rowing-PR3-MIXED-COXED-FOUR-FINAL-A
+DTSTAMP:20240901T103600Z
+DTSTART:20240901T103600Z
+DTEND:20240901T104300Z
 DESCRIPTION:Para Rowing - PR3 Mixed Coxed Four Final A\n🇦🇺 AUS\n🇫🇷
   FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇹 ITA\n🇺🇸 USA
 SUMMARY:PR3 Mixed Coxed Four Final A
@@ -1814,6 +1814,20 @@ DESCRIPTION:Para Swimming - Women's 50m Freestyle - S13 Heats\n🇮🇹 Alessia
   Shokhsanamkhon TOSHPULATOVA\n🇯🇵 TSUJIUCHI Ayano
 SUMMARY:Women's 50m Freestyle - S13 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T093500Z-para-athletics-WOMENS-1500M-T54-ROUND-1
+DTSTAMP:20240902T093500Z
+DTSTART:20240902T093500Z
+DTEND:20240902T095100Z
+DESCRIPTION:Para Athletics - Women's 1500m - T54 Round 1\n🇧🇷 Aline dos
+  SANTOS ROCHA\n🇨🇭 Catherine DEBRUNNER\n🇬🇧 Eden RAINBOW-COOPER\n🇺🇸
+  Jenna FESEMYER\n🇦🇺 Madison de ROZARIO\n🇨🇭 Manuela SCHAER\n🇬🇧
+  Melanie WOODS\n🇩🇪 Merle Marie MENJE\n🇨🇭 Patricia EACHUS\n🇬🇧
+  Samantha KINGHORN\n🇮🇪 Shauna BOCQUET\n🇺🇸 Susannah SCARONI\n🇨🇳 TIAN
+  Yajuan\n🇧🇷 Vanessa Cristina de SOUZA\n🇨🇳 ZHOU Zhaoqian
+SUMMARY:Women's 1500m - T54 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T094600Z-para-swimming-MIXED-4X100M-MEDLEY-RELAY-34-POINTS-HEAT

@@ -1097,10 +1097,10 @@ SUMMARY:Women's C5 3000m Individual Pursuit Qualifying
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T103000Z-para-rowing-PR3-MIXED-COXED-FOUR-FINAL-A
-DTSTAMP:20240901T103000Z
-DTSTART:20240901T103000Z
-DTEND:20240901T103700Z
+UID:20240901T103600Z-para-rowing-PR3-MIXED-COXED-FOUR-FINAL-A
+DTSTAMP:20240901T103600Z
+DTSTART:20240901T103600Z
+DTEND:20240901T104300Z
 DESCRIPTION:Para Rowing - PR3 Mixed Coxed Four Final A\n🇦🇺 AUS\n🇫🇷
   FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇹 ITA\n🇺🇸 USA
 SUMMARY:PR3 Mixed Coxed Four Final A
@@ -1356,6 +1356,20 @@ DESCRIPTION:Para Swimming - Women's 50m Backstroke - S3 Heats\n🇨🇦 Aly van
   VALLE BENITEZ\n🇮🇸 Sonja SIGURDARDOTTIR\n🇮🇱 Veronika GUIRENKO
 SUMMARY:Women's 50m Backstroke - S3 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T084800Z-para-athletics-WOMENS-400M-T12-ROUND-1
+DTSTAMP:20240902T084800Z
+DTSTART:20240902T084800Z
+DTEND:20240902T092000Z
+DESCRIPTION:Para Athletics - Women's 400m - T12 Round 1\n🇻🇪 Alejandra
+  Paola PEREZ LOPEZ\n🇧🇷 Clara Daniele BARROS da SILVA\n🇲🇽 Daniela
+  Eugenia VELASCO MALDONADO\n🇮🇷 Hajar SAFARZADEH GHAHDERIJANI\n🇧🇷
+  Ketyla TEODORO\n🇧🇷 Lorraine GOMES de AGUIAR\n🇺🇦 Oksana
+  BOTURCHUK\n🇨🇺 Omara DURAND ELIAS\n🇨🇳 SHEN Yaqin\n🇪🇸 Sara
+  MARTINEZ\n🇮🇹 Valentina PETRILLO\n🇺🇿 Yokutkhon KHOLBEKOVA
+SUMMARY:Women's 400m - T12 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T085500Z-para-swimming-WOMENS-50M-FREESTYLE-S13-HEATS
