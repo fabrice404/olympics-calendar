@@ -159,6 +159,16 @@ SUMMARY:PR1 Men’s Single Sculls Final A
 LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240901T095000Z-para-rowing-PR2-MIXED-DOUBLE-SCULLS-FINAL-A
+DTSTAMP:20240901T095000Z
+DTSTART:20240901T095000Z
+DTEND:20240901T095700Z
+DESCRIPTION:Para Rowing - PR2 Mixed Double Sculls Final A\n🇨🇳 CHN\n🇫🇷
+  FRA\n🇬🇧 GBR\n🇮🇱 ISR\n🇵🇱 POL\n🇺🇦 UKR
+SUMMARY:PR2 Mixed Double Sculls Final A
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240901T101000Z-para-rowing-PR3-MIXED-DOUBLE-SCULLS-FINAL-A
 DTSTAMP:20240901T101000Z
 DTSTART:20240901T101000Z
@@ -166,6 +176,16 @@ DTEND:20240901T101700Z
 DESCRIPTION:Para Rowing - PR3 Mixed Double Sculls Final A\n🇦🇺 AUS\n🇧🇷
   BRA\n🇫🇷 FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇺🇦 UKR
 SUMMARY:PR3 Mixed Double Sculls Final A
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T103000Z-para-rowing-PR3-MIXED-COXED-FOUR-FINAL-A
+DTSTAMP:20240901T103000Z
+DTSTART:20240901T103000Z
+DTEND:20240901T105000Z
+DESCRIPTION:Para Rowing - PR3 Mixed Coxed Four Final A\n🇦🇺 AUS\n🇫🇷
+  FRA\n🇩🇪 GER\n🇬🇧 GBR\n🇮🇹 ITA\n🇺🇸 USA
+SUMMARY:PR3 Mixed Coxed Four Final A
 LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 END:VCALENDAR
