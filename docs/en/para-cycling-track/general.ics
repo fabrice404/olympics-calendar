@@ -438,7 +438,8 @@ UID:20240901T105500Z-para-cycling-track-OPEN-C1-5-750M-TEAM-SPRINT-QUALIFYI
 DTSTAMP:20240901T105500Z
 DTSTART:20240901T105500Z
 DTEND:20240901T112700Z
-DESCRIPTION:Para Cycling Track - Open C1-5 750m Team Sprint Qualifying
+DESCRIPTION:Para Cycling Track - Open C1-5 750m Team Sprint
+  Qualifying\n🇦🇺 AUS\n🇨🇴 COL\n🇫🇷 FRA\n🇬🇧 GBR\n🇪🇸 ESP\n🇨🇭 SUI
 SUMMARY:Open C1-5 750m Team Sprint Qualifying
 LOCATION:National Velodrome
 END:VEVENT
@@ -499,7 +500,7 @@ DTSTAMP:20240901T133000Z
 DTSTART:20240901T133000Z
 DTEND:20240901T133700Z
 DESCRIPTION:Para Cycling Track - Open C1-5 750m Team Sprint Final - Bronze
-SUMMARY:Open C1-5 750m Team Sprint Final - Bronze
+SUMMARY: AUS 🇦🇺 - 🇫🇷 FRA
 LOCATION:National Velodrome
 END:VEVENT
 BEGIN:VEVENT
@@ -508,7 +509,7 @@ DTSTAMP:20240901T133700Z
 DTSTART:20240901T133700Z
 DTEND:20240901T134500Z
 DESCRIPTION:Para Cycling Track - Open C1-5 750m Team Sprint Final - Gold
-SUMMARY:Open C1-5 750m Team Sprint Final - Gold
+SUMMARY: GBR 🇬🇧 - 🇪🇸 ESP
 LOCATION:National Velodrome
 END:VEVENT
 END:VCALENDAR

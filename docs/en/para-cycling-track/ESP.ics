@@ -105,4 +105,23 @@ DESCRIPTION:Para Cycling Track - Men's C4 4000m Individual Pursuit
 SUMMARY:Men's C4 4000m Individual Pursuit Qualifying
 LOCATION:National Velodrome
 END:VEVENT
+BEGIN:VEVENT
+UID:20240901T105500Z-para-cycling-track-OPEN-C1-5-750M-TEAM-SPRINT-QUALIFYI
+DTSTAMP:20240901T105500Z
+DTSTART:20240901T105500Z
+DTEND:20240901T112700Z
+DESCRIPTION:Para Cycling Track - Open C1-5 750m Team Sprint
+  Qualifying\n🇦🇺 AUS\n🇨🇴 COL\n🇫🇷 FRA\n🇬🇧 GBR\n🇪🇸 ESP\n🇨🇭 SUI
+SUMMARY:Open C1-5 750m Team Sprint Qualifying
+LOCATION:National Velodrome
+END:VEVENT
+BEGIN:VEVENT
+UID:20240901T133700Z-para-cycling-track-OPEN-C1-5-750M-TEAM-SPRINT-FINAL-GO
+DTSTAMP:20240901T133700Z
+DTSTART:20240901T133700Z
+DTEND:20240901T134500Z
+DESCRIPTION:Para Cycling Track - Open C1-5 750m Team Sprint Final - Gold
+SUMMARY: GBR 🇬🇧 - 🇪🇸 ESP
+LOCATION:National Velodrome
+END:VEVENT
 END:VCALENDAR
