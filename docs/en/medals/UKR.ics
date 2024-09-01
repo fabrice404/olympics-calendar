@@ -494,12 +494,12 @@ SUMMARY:R3 - Mixed 10m Air Rifle Prone SH1 Final
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240901T150000Z-boccia-MENS-INDIVIDUAL-BC4-BRONZE-MEDAL-MATCH-UKR-CRO
+UID:20240901T150000Z-boccia-MENS-INDIVIDUAL-BC4-BRONZE-MEDAL-MATCH-CRO-UKR
 DTSTAMP:20240901T150000Z
 DTSTART:20240901T150000Z
 DTEND:20240901T160000Z
 DESCRIPTION:Boccia - Men's Individual - BC4 Bronze Medal Match
-SUMMARY: Artem KOLINKO 🇺🇦 - 🇭🇷 Davor KOMAR
+SUMMARY: Davor KOMAR 🇭🇷 - 🇺🇦 Artem KOLINKO
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -644,6 +644,18 @@ DESCRIPTION:Para Athletics - Women's Discus Throw - F53 Final\n🇺🇸 Cassie
   Leticia OCHOA DELGADO\n🇲🇽 Maria Estela SALAS MARIN\n🇯🇵 ONIDANI
   Keiko\n🇺🇦 Zoia OVSII
 SUMMARY:Women's Discus Throw - F53 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T171500Z-para-athletics-MENS-LONG-JUMP-T36-FINAL
+DTSTAMP:20240902T171500Z
+DTSTART:20240902T171500Z
+DTEND:20240902T184500Z
+DESCRIPTION:Para Athletics - Men's Long Jump - T36 Final\n🇧🇷 Aser Mateus
+  ALMEIDA RAMOS\n🇺🇿 Izzat TURGUNOV\n🇺🇦 Oleksandr LYTVYNENKO\n🇧🇷
+  Rodrigo PARREIRA da SILVA\n🇺🇦 Roman PAVLYK\n🇦🇷 Sergio
+  MARKIEVICHE\n🇳🇿 William STEDMAN\n🇨🇳 YANG Yifei
+SUMMARY:Men's Long Jump - T36 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
