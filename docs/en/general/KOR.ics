@@ -1369,6 +1369,15 @@ SUMMARY: Oleksandr YEZYK 🇺🇦 - 🇰🇷 PARK Jin Cheol
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T085500Z-para-archery-MIXED-TEAM-W1-BRONZE-MEDAL
+DTSTAMP:20240902T085500Z
+DTSTART:20240902T085500Z
+DTEND:20240902T091500Z
+DESCRIPTION:Para Archery - Mixed Team W1 Bronze Medal\n🇰🇷 KOR
+SUMMARY:Mixed Team W1 Bronze Medal
+LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
 UID:20240902T093000Z-para-table-tennis-MENS-SINGLES-MS2-ROUND-OF-16-KOR-THA
 DTSTAMP:20240902T093000Z
 DTSTART:20240902T093000Z
@@ -1405,6 +1414,23 @@ DTEND:20240902T114500Z
 DESCRIPTION:Para Table Tennis - Men's Singles - MS3 - Round of 16
 SUMMARY: JANG Yeongjin 🇰🇷 - 🇵🇱 Maciej NALEPKA
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T110000Z-shooting-para-sport-P3-MIXED-25M-PISTOL-SH1-QUALIFICAT
+DTSTAMP:20240902T110000Z
+DTSTART:20240902T110000Z
+DTEND:20240902T131500Z
+DESCRIPTION:Shooting Para Sport - P3 - Mixed 25m Pistol SH1 Qualification
+  Rapid\n🇮🇳 Amir Ahmad BHAT\n🇩🇰 Buster ANTONSEN\n🇧🇦 Ervin
+  BEJDIC\n🇫🇷 Gaelle EDON\n🇭🇺 Gyula GURISATTI\n🇨🇳 HUANG Xing\n🇺🇦
+  Iryna LIAKHU\n🇬🇧 Issy BAILEY\n🇨🇿 Jakub KOSEK\n🇰🇷 KIM Jungnam\n🇭🇺
+  Krisztina DAVID\n🇺🇸 Marco de la ROSA\n🇹🇷 Muharrem Korhan YAMAC\n🇹🇷
+  Murat OGUZ\n🇮🇳 Nihal SINGH\n🇺🇦 Oleksii DENYSIUK\n🇲🇰 Olivera
+  NAKOVSKA-BIKOVA\n🇰🇷 PARK Sea Kyun\n🇫🇷 Romain RAMALINGOM
+  SELLEMOUTOU\n🇵🇱 Szymon SOWINSKI\n🇨🇿 Tomas PESEK\n🇨🇳 YANG Chao\n🇺🇸
+  Yan Xiao GONG\n🇨🇺 Yenigladys SUAREZ ECHEVARRIA\n🇷🇸 Zivko PAPAZ
+SUMMARY:P3 - Mixed 25m Pistol SH1 Qualification Rapid
+LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T152000Z-para-badminton-MENS-SINGLES-WH1-GOLD-MEDAL-MATCH-KOR-C
