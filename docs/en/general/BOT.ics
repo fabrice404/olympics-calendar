@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/BOT//EN
+X-WR-CALNAME:🇧🇼 Botswana | Paris 2024
+NAME:🇧🇼 Botswana | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - Opening Ceremony
+SUMMARY:Paris 2024 - Opening Ceremony
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T090400Z-para-athletics-WOMENS-100M-T13-ROUND-1
+DTSTAMP:20240903T090400Z
+DTSTART:20240903T090400Z
+DTEND:20240903T091800Z
+DESCRIPTION:Para Athletics - Women's 100m - T13 Round 1\n🇪🇸 Adiaratou
+  IGLESIAS FORNEIRO\n🇨🇦 Bianca BORGELLA\n🇦🇷 Candela CERRUDO\n🇺🇸 Erin
+  KERKHOFF\n🇧🇷 Gabriela MENDONCA FERREIRA\n🇧🇼 Gloria MAJAGA\n🇺🇸 Kym
+  CROSBY\n🇦🇿 Lamiya VALIYEVA\n🇫🇷 Nantenin KEITA\n🇮🇪 Orla
+  COMERFORD\n🇧🇫 Rahinatou MONE\n🇧🇷 Rayane SOARES da SILVA\n🇳🇱 Zara
+  TEMMINK
+SUMMARY:Women's 100m - T13 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing Ceremony
+SUMMARY:Paris 2024 - Closing Ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR

@@ -4080,6 +4080,18 @@ SUMMARY:Women's 200m Individual Medley - SM11 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240903T085800Z-para-athletics-WOMENS-SHOT-PUT-F34-FINAL
+DTSTAMP:20240903T085800Z
+DTSTART:20240903T085800Z
+DTEND:20240903T111300Z
+DESCRIPTION:Para Athletics - Women's Shot Put - F34 Final\n🇮🇳 Bhagyashri
+  Mahavrao JADHAV\n🇩🇪 Charleen KOSCHE\n🇦🇺 Dayna CREES\n🇵🇱 Lucyna
+  KORNOBYS\n🇲🇦 Saida AMOUDI\n🇸🇦 Sarah ALJUMAAH\n🇹🇳 Sawsen BEN
+  MBAREK\n🇨🇳 ZOU Lijuan\n🇨🇳 ZUO Caiyun
+SUMMARY:Women's Shot Put - F34 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240903T093300Z-para-swimming-WOMENS-100M-BUTTERFLY-S10-HEATS
 DTSTAMP:20240903T093300Z
 DTSTART:20240903T093300Z
@@ -4103,6 +4115,18 @@ SUMMARY: GBR 🇬🇧 - 🇨🇳 CHN
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240903T100000Z-para-athletics-WOMENS-DISCUS-THROW-F11-FINAL
+DTSTAMP:20240903T100000Z
+DTSTART:20240903T100000Z
+DTEND:20240903T113000Z
+DESCRIPTION:Para Athletics - Women's Discus Throw - F11 Final\n🇮🇹 Assunta
+  LEGNANTE\n🇹🇷 Busra Nur TIRIKLI\n🇧🇷 Izabela CAMPOS\n🇱🇹 Oksana
+  DOBROVOLSKAJA\n🇨🇳 XUE Enhui\n🇨🇴 Yesenia Maria RESTREPO MUNOZ\n🇨🇳
+  ZHANG Liangmin
+SUMMARY:Women's Discus Throw - F11 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240903T100700Z-para-archery-WOMENS-INDIVIDUAL-RECURVE-OPEN-18-ELIMINA
 DTSTAMP:20240903T100700Z
 DTSTART:20240903T100700Z
@@ -4111,6 +4135,21 @@ DESCRIPTION:Para Archery - Women's Individual Recurve Open 1/8
   Elimination\n🇨🇳 WU Chunyan
 SUMMARY:Women's Individual Recurve Open 1/8 Elimination
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T105200Z-para-athletics-WOMENS-100M-T47-ROUND-1
+DTSTAMP:20240903T105200Z
+DTSTART:20240903T105200Z
+DTEND:20240903T110600Z
+DESCRIPTION:Para Athletics - Women's 100m - T47 Round 1\n🇦🇷 Aldana Isabel
+  IBANEZ\n🇳🇿 Anna GRIMALDI\n🇺🇸 Brittni MASON\n🇧🇷 Fernanda Yara da
+  SILVA\n🇩🇪 Jule ROSS\n🇪🇨 Kiara RODRIGUEZ\n🇩🇪 Kim Marie VASKE\n🇨🇳
+  LI Lu\n🇻🇪 Lisbeli Marina VERA ANDRADE\n🇧🇷 Maria Clara AUGUSTO da
+  SILVA\n🇫🇷 Marie NGOUSSOU NGOUYI\n🇹🇭 Sasirawan INTHACHOT\n🇷🇸 Saska
+  SOKOLOV\n🇨🇦 Sheriauna HAASE\n🇯🇵 TSUJI Sae\n🇨🇿 Tereza
+  JAKSCHOVA\n🇿🇼 Tinotenda Nicole BANGO
+SUMMARY:Women's 100m - T47 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240903T110000Z-wheelchair-fencing-WOMENS-SABRE-CATEGORY-A-TABLE-OF-32
@@ -4393,6 +4432,15 @@ SUMMARY:Men's Foil Category A Table of 16
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T084500Z-para-table-tennis-WOMENS-SINGLES-WS4-QUARTERFINAL-2-CH
+DTSTAMP:20240904T084500Z
+DTSTART:20240904T084500Z
+DTEND:20240904T093000Z
+DESCRIPTION:Para Table Tennis - Women's Singles - WS4 - Quarterfinal 2
+SUMMARY: ZHOU Ying 🇨🇳 - 🇮🇳 Bhavinaben PATEL
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T085700Z-para-swimming-MENS-50M-FREESTYLE-S7-HEATS
 DTSTAMP:20240904T085700Z
 DTSTART:20240904T085700Z
@@ -4459,6 +4507,25 @@ DTEND:20240904T093300Z
 DESCRIPTION:Para Archery - Men's Individual Recurve Open 1/16 Elimination
 SUMMARY: David IVAN 🇸🇰 - 🇨🇳 ZHAO Lixue
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T093000Z-para-table-tennis-WOMENS-SINGLES-WS4-QUARTERFINAL-3-CH
+DTSTAMP:20240904T093000Z
+DTSTART:20240904T093000Z
+DTEND:20240904T101500Z
+DESCRIPTION:Para Table Tennis - Women's Singles - WS4 - Quarterfinal 3
+SUMMARY: GU Xiaodan 🇨🇳 - 🇹🇭 Wijittra JAION
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T093000Z-para-table-tennis-WOMENS-SINGLES-WS7-QUARTERFINAL-2
+DTSTAMP:20240904T093000Z
+DTSTART:20240904T093000Z
+DTEND:20240904T101500Z
+DESCRIPTION:Para Table Tennis - Women's Singles - WS7 - Quarterfinal
+  2\n🇨🇳 WANG Rui
+SUMMARY:Women's Singles - WS7 - Quarterfinal 2
+LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T100000Z-para-powerlifting-MENS-UP-TO-49KG-FINAL

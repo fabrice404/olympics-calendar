@@ -1521,6 +1521,31 @@ SUMMARY:Women's 50m Butterfly - S6 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240903T083600Z-para-athletics-WOMENS-200M-T64-ROUND-1
+DTSTAMP:20240903T083600Z
+DTSTART:20240903T083600Z
+DTEND:20240903T085000Z
+DESCRIPTION:Para Athletics - Women's 200m - T64 Round 1\n🇵🇷 Amaris Sofia
+  VAZQUEZ COLLAZO\n🇳🇿 Anna STEVEN\n🇺🇸 Annie CAREY\n🇺🇸 B HATZ\n🇪🇸
+  Fiona PINAR BATALLA\n🇩🇪 Irmgard BENSUSAN\n🇳🇱 Kimberly ALKEMADE\n🇨🇦
+  Marissa PAPACONSTANTINOU\n🇳🇱 Marlene van GANSEWINKEL\n🇿🇦 Tezna
+  Kirstin ABRAHAMS\n🇵🇷 Yaimillie Marie DIAZ COLON
+SUMMARY:Women's 200m - T64 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T085800Z-para-athletics-WOMENS-SHOT-PUT-F34-FINAL
+DTSTAMP:20240903T085800Z
+DTSTART:20240903T085800Z
+DTEND:20240903T111300Z
+DESCRIPTION:Para Athletics - Women's Shot Put - F34 Final\n🇮🇳 Bhagyashri
+  Mahavrao JADHAV\n🇩🇪 Charleen KOSCHE\n🇦🇺 Dayna CREES\n🇵🇱 Lucyna
+  KORNOBYS\n🇲🇦 Saida AMOUDI\n🇸🇦 Sarah ALJUMAAH\n🇹🇳 Sawsen BEN
+  MBAREK\n🇨🇳 ZOU Lijuan\n🇨🇳 ZUO Caiyun
+SUMMARY:Women's Shot Put - F34 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240903T090400Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM13-HEATS
 DTSTAMP:20240903T090400Z
 DTSTART:20240903T090400Z
@@ -1555,6 +1580,21 @@ DTEND:20240903T113000Z
 DESCRIPTION:Sitting Volleyball - Men's Preliminary Round - Pool B
 SUMMARY: GER 🇩🇪 - 🇮🇷 IRI
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T105200Z-para-athletics-WOMENS-100M-T47-ROUND-1
+DTSTAMP:20240903T105200Z
+DTSTART:20240903T105200Z
+DTEND:20240903T110600Z
+DESCRIPTION:Para Athletics - Women's 100m - T47 Round 1\n🇦🇷 Aldana Isabel
+  IBANEZ\n🇳🇿 Anna GRIMALDI\n🇺🇸 Brittni MASON\n🇧🇷 Fernanda Yara da
+  SILVA\n🇩🇪 Jule ROSS\n🇪🇨 Kiara RODRIGUEZ\n🇩🇪 Kim Marie VASKE\n🇨🇳
+  LI Lu\n🇻🇪 Lisbeli Marina VERA ANDRADE\n🇧🇷 Maria Clara AUGUSTO da
+  SILVA\n🇫🇷 Marie NGOUSSOU NGOUYI\n🇹🇭 Sasirawan INTHACHOT\n🇷🇸 Saska
+  SOKOLOV\n🇨🇦 Sheriauna HAASE\n🇯🇵 TSUJI Sae\n🇨🇿 Tereza
+  JAKSCHOVA\n🇿🇼 Tinotenda Nicole BANGO
+SUMMARY:Women's 100m - T47 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240903T110000Z-para-table-tennis-WOMENS-SINGLES-WS8-QUARTERFINAL-2-HU
@@ -1621,6 +1661,16 @@ SUMMARY:Women's 400m Freestyle - S8 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T084500Z-para-table-tennis-WOMENS-SINGLES-WS6-QUARTERFINAL-4
+DTSTAMP:20240904T084500Z
+DTSTART:20240904T084500Z
+DTEND:20240904T093000Z
+DESCRIPTION:Para Table Tennis - Women's Singles - WS6 - Quarterfinal
+  4\n🇩🇪 Stephanie GREBE
+SUMMARY:Women's Singles - WS6 - Quarterfinal 4
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T084700Z-para-swimming-WOMENS-50M-BREASTSTROKE-SB3-HEATS
 DTSTAMP:20240904T084700Z
 DTSTART:20240904T084700Z
@@ -1632,6 +1682,15 @@ DESCRIPTION:Para Swimming - Women's 50m Breaststroke - SB3 Heats\n🇩🇪 Gina
   VALLE BENITEZ\n🇰🇿 Zulfiya GABIDULLINA
 SUMMARY:Women's 50m Breaststroke - SB3 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T093000Z-para-table-tennis-WOMENS-SINGLES-WS4-QUARTERFINAL-4-FR
+DTSTAMP:20240904T093000Z
+DTSTART:20240904T093000Z
+DTEND:20240904T101500Z
+DESCRIPTION:Para Table Tennis - Women's Singles - WS4 - Quarterfinal 4
+SUMMARY: Flora VAUTIER 🇫🇷 - 🇩🇪 Sandra MIKOLASCHEK
+LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T103000Z-shooting-para-sport-R9-MIXED-50M-RIFLE-PRONE-SH2-QUALI
