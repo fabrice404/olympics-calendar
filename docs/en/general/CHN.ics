@@ -3868,6 +3868,17 @@ SUMMARY: CHOI Jungman 🇰🇷 - 🇨🇳 QU Zi Mo
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T153000Z-para-swimming-MENS-400M-FREESTYLE-S7-FINAL
+DTSTAMP:20240902T153000Z
+DTSTART:20240902T153000Z
+DTEND:20240902T154100Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S7 Final\n🇺🇦 Andrii
+  TRUSOV\n🇵🇭 Ernie GAWILAN\n🇺🇸 Evan AUSTIN\n🇮🇹 Federico BICELLI\n🇨🇳
+  HUANG Xianquan\n🇦🇷 Inaki BASILOFF\n🇺🇦 Yurii SHENHUR
+SUMMARY:Men's 400m Freestyle - S7 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240902T153000Z-para-archery-MIXED-TEAM-COMPOUND-OPEN-QUARTERFINAL
 DTSTAMP:20240902T153000Z
 DTSTART:20240902T153000Z
@@ -3884,6 +3895,17 @@ DTEND:20240902T164500Z
 DESCRIPTION:Goalball - Men's Quarterfinal
 SUMMARY: CHN 🇨🇳 - 🇫🇷 FRA
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T155200Z-para-swimming-MENS-50M-FREESTYLE-S9-FINAL
+DTSTAMP:20240902T155200Z
+DTSTART:20240902T155200Z
+DTEND:20240902T155800Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S9 Final\n🇪🇸 Ariel
+  Enrique SCHRENCK MARTINEZ\n🇺🇦 Dmytro VASYLENKO\n🇳🇴 Fredrik
+  SOLBERG\n🇺🇸 Jamal HILL\n🇮🇹 Simone BARLAAM\n🇨🇳 XIE Zhili
+SUMMARY:Men's 50m Freestyle - S9 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T163000Z-blind-football-MENS-PRELIMINARY-ROUND-GROUP-A-TUR-CHN
@@ -3904,6 +3926,29 @@ DESCRIPTION:Para Athletics - Men's Long Jump - T36 Final\n🇧🇷 Aser Mateus
   Rodrigo PARREIRA da SILVA\n🇺🇦 Roman PAVLYK\n🇦🇷 Sergio
   MARKIEVICHE\n🇳🇿 William STEDMAN\n🇨🇳 YANG Yifei
 SUMMARY:Men's Long Jump - T36 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T171600Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB4-FINAL
+DTSTAMP:20240902T171600Z
+DTSTART:20240902T171600Z
+DTEND:20240902T172500Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB4 Final\n🇪🇸
+  Berta GARCIA GRAU\n🇨🇳 CHENG Jiao\n🇭🇺 Fanni ILLES\n🇮🇹 Giulia
+  GHIRETTI\n🇨🇳 LIU Yu\n🇨🇳 YAO Cuan
+SUMMARY:Women's 100m Breaststroke - SB4 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T172000Z-para-athletics-WOMENS-100M-T11-SEMI-FINALS
+DTSTAMP:20240902T172000Z
+DTSTART:20240902T172000Z
+DTEND:20240902T173800Z
+DESCRIPTION:Para Athletics - Women's 100m - T11 Semi-Finals\n🇧🇷 Jerusa
+  GEBER dos SANTOS\n🇧🇷 Jhulia Karol dos SANTOS\n🇦🇴 Juliana Ngleya
+  MOKO\n🇨🇳 LIU Cuiqing\n🇳🇦 Lahja ISHITILE\n🇻🇪 Linda Patricia PEREZ
+  LOPEZ\n🇧🇷 Lorena SILVA SPOLADORE\n🇨🇳 ZHOU Guohua
+SUMMARY:Women's 100m - T11 Semi-Finals
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

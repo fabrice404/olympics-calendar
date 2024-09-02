@@ -1817,6 +1817,63 @@ SUMMARY: Vasyl PETRUNIV 🇺🇦 - 🇩🇪 Thomas SCHMIDBERGER
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240902T153000Z-para-swimming-MENS-400M-FREESTYLE-S7-FINAL
+DTSTAMP:20240902T153000Z
+DTSTART:20240902T153000Z
+DTEND:20240902T154100Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S7 Final\n🇺🇦 Andrii
+  TRUSOV\n🇵🇭 Ernie GAWILAN\n🇺🇸 Evan AUSTIN\n🇮🇹 Federico BICELLI\n🇨🇳
+  HUANG Xianquan\n🇦🇷 Inaki BASILOFF\n🇺🇦 Yurii SHENHUR
+SUMMARY:Men's 400m Freestyle - S7 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T155200Z-para-swimming-MENS-50M-FREESTYLE-S9-FINAL
+DTSTAMP:20240902T155200Z
+DTSTART:20240902T155200Z
+DTEND:20240902T155800Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S9 Final\n🇪🇸 Ariel
+  Enrique SCHRENCK MARTINEZ\n🇺🇦 Dmytro VASYLENKO\n🇳🇴 Fredrik
+  SOLBERG\n🇺🇸 Jamal HILL\n🇮🇹 Simone BARLAAM\n🇨🇳 XIE Zhili
+SUMMARY:Men's 50m Freestyle - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T155800Z-para-swimming-MENS-50M-BACKSTROKE-S3-FINAL
+DTSTAMP:20240902T155800Z
+DTSTART:20240902T155800Z
+DTEND:20240902T160500Z
+DESCRIPTION:Para Swimming - Men's 50m Backstroke - S3 Final\n🇦🇺 Ahmed
+  KELLY\n🇪🇸 Daniel FERRER ROBLES\n🇺🇦 Denys OSTAPCHENKO\n🇲🇽 Diego
+  LOPEZ DIAZ\n🇩🇪 Josia Tim Alexander TOPF\n🇺🇦 Serhii PALAMARCHUK\n🇹🇷
+  Umut UNLU\n🇮🇹 Vincenzo BONI
+SUMMARY:Men's 50m Backstroke - S3 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T161300Z-para-swimming-MENS-100M-BREASTSTROKE-SB14-FINAL
+DTSTAMP:20240902T161300Z
+DTSTART:20240902T161300Z
+DTEND:20240902T161900Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB14 Final\n🇮🇪
+  Deaten REGISTE\n🇬🇧 Harry STEWART\n🇦🇺 Jake MICHEL\n🇧🇷 Joao Pedro
+  BRUTOS de OLIVEIRA\n🇨🇦 Nicholas BENNETT\n🇺🇦 Vasyl KRAINYK\n🇯🇵
+  YAMAGUCHI Naohide
+SUMMARY:Men's 100m Breaststroke - SB14 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T164200Z-para-swimming-MENS-50M-FREESTYLE-S13-FINAL
+DTSTAMP:20240902T164200Z
+DTSTART:20240902T164200Z
+DTEND:20240902T164700Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S13 Final\n🇺🇦 Illia
+  YAREMENKO\n🇺🇿 Islam ASLANOV\n🇺🇦 Maksym VERAKSA\n🇺🇿 Muzaffar
+  TURSUNKHUJAEV\n🇨🇦 Nicolas Guy TURBIDE\n🇺🇦 Oleksii VIRCHENKO
+SUMMARY:Men's 50m Freestyle - S13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240902T170000Z-para-athletics-MENS-JAVELIN-THROW-F64-FINAL
 DTSTAMP:20240902T170000Z
 DTSTART:20240902T170000Z
@@ -1871,6 +1928,18 @@ DESCRIPTION:Para Athletics - Men's Long Jump - T36 Final\n🇧🇷 Aser Mateus
   MARKIEVICHE\n🇳🇿 William STEDMAN\n🇨🇳 YANG Yifei
 SUMMARY:Men's Long Jump - T36 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240902T174100Z-para-swimming-MENS-200M-FREESTYLE-S2-FINAL
+DTSTAMP:20240902T174100Z
+DTSTART:20240902T174100Z
+DTEND:20240902T175300Z
+DESCRIPTION:Para Swimming - Men's 200m Freestyle - S2 Final\n🇨🇱 Alberto
+  Caroly ABARZA DIAZ\n🇧🇷 Bruno BECKER da SILVA\n🇧🇷 Gabriel Geraldo dos
+  SANTOS ARAUJO\n🇵🇱 Jacek CZECH\n🇵🇱 Kamil OTOWSKI\n🇵🇪 Rodrigo
+  SANTILLAN\n🇺🇦 Roman BONDARENKO
+SUMMARY:Men's 200m Freestyle - S2 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240902T182000Z-para-athletics-WOMENS-400M-T20-ROUND-1
