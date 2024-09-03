@@ -385,6 +385,30 @@ SUMMARY:Individual Event - Grade I
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
+UID:20240903T154400Z-para-swimming-WOMENS-100M-BACKSTROKE-S9-FINAL
+DTSTAMP:20240903T154400Z
+DTSTART:20240903T154400Z
+DTEND:20240903T155100Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S9 Final\n🇪🇸
+  Beatriz LERIDA MALDONADO\n🇺🇸 Christie RALEIGH-CROSSLEY\n🇺🇸 Hannah
+  ASPDEN\n🇨🇳 LIU Ying\n🇺🇸 Lizzi SMITH\n🇧🇷 Mariana RIBEIRO\n🇨🇦 Mary
+  JIBB\n🇪🇸 Nuria MARQUES SOTO
+SUMMARY:Women's 100m Backstroke - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T155100Z-para-swimming-MENS-200M-FREESTYLE-S4-FINAL
+DTSTAMP:20240903T155100Z
+DTSTART:20240903T155100Z
+DTEND:20240903T160000Z
+DESCRIPTION:Para Swimming - Men's 200m Freestyle - S4 Final\n🇮🇱 Ami Omer
+  DADAON\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇳🇿 Cameron LESLIE\n🇮🇹
+  Federico CRISTIANI\n🇮🇹 Luigi BEGGIATO\n🇯🇵 SUZUKI Takayuki\n🇨🇦
+  Sebastian MASSABIE
+SUMMARY:Men's 200m Freestyle - S4 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240903T172000Z-para-athletics-MENS-400M-T38-FINAL
 DTSTAMP:20240903T172000Z
 DTSTART:20240903T172000Z
@@ -409,6 +433,18 @@ SUMMARY:Women's 200m - T64 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240903T181300Z-para-swimming-MENS-100M-BUTTERFLY-S10-FINAL
+DTSTAMP:20240903T181300Z
+DTSTART:20240903T181300Z
+DTEND:20240903T181900Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S10 Final\n🇵🇱 Alan
+  OGORZALEK\n🇦🇺 Alex SAFFY\n🇨🇦 Alexander ELLIOT\n🇦🇺 Col PEARSE\n🇺🇦
+  Ihor NIMCHENKO\n🇯🇵 MINAI Akito\n🇮🇹 Riccardo MENCIOTTI\n🇮🇹 Stefano
+  RAIMONDI
+SUMMARY:Men's 100m Butterfly - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240903T181300Z-para-athletics-WOMENS-100M-T13-FINAL
 DTSTAMP:20240903T181300Z
 DTSTART:20240903T181300Z
@@ -419,6 +455,18 @@ DESCRIPTION:Para Athletics - Women's 100m - T13 Final\n🇪🇸 Adiaratou
   Orla COMERFORD\n🇧🇷 Rayane SOARES da SILVA
 SUMMARY:Women's 100m - T13 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T183500Z-para-swimming-WOMENS-100M-BUTTERFLY-S10-FINAL
+DTSTAMP:20240903T183500Z
+DTSTART:20240903T183500Z
+DTEND:20240903T184200Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S10 Final\n🇨🇳 CHEN
+  Yi\n🇬🇧 Callie-Ann WARRINGTON\n🇭🇺 Csenge HOTZ\n🇬🇧 Faye ROGERS\n🇦🇺
+  Jasmine GREENWOOD\n🇨🇦 Katie COSGRIFFE\n🇦🇺 Poppy WILSON\n🇺🇸 Taylor
+  WINNETT
+SUMMARY:Women's 100m Butterfly - S10 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T080000Z-para-athletics-WOMENS-DISCUS-THROW-F41-FINAL

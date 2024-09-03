@@ -783,6 +783,17 @@ SUMMARY:Individual Event - Grade I
 LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
+UID:20240903T153700Z-para-swimming-MENS-100M-BACKSTROKE-S9-FINAL
+DTSTAMP:20240903T153700Z
+DTSTART:20240903T153700Z
+DTEND:20240903T154400Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S9 Final\n🇮🇪 Barry
+  McCLEMENTS\n🇳🇿 Jesse REYNOLDS\n🇮🇹 Simone BARLAAM\n🇦🇺 Timothy
+  HODGE\n🇫🇷 Ugo DIDIER\n🇧🇷 Victor dos SANTOS ALMEIDA
+SUMMARY:Men's 100m Backstroke - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240903T170800Z-para-athletics-WOMENS-400M-T20-FINAL
 DTSTAMP:20240903T170800Z
 DTSTART:20240903T170800Z
@@ -793,6 +804,42 @@ DESCRIPTION:Para Athletics - Women's 400m - T20 Final\n🇧🇷 Antonia Keyla
   Telaya BLACKSMITH\n🇺🇦 Yuliia SHULIAR
 SUMMARY:Women's 400m - T20 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T173000Z-para-swimming-WOMENS-100M-FREESTYLE-S3-FINAL
+DTSTAMP:20240903T173000Z
+DTSTART:20240903T173000Z
+DTEND:20240903T174000Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S3 Final\n🇮🇹
+  Domiziana MECENATE\n🇬🇧 Ellie CHALLIS\n🇺🇸 Leanne SMITH\n🇪🇸 Marta
+  FERNANDEZ INFANTE\n🇲🇽 Patricia VALLE BENITEZ\n🇦🇺 Rachael WATSON\n🇪🇸
+  Teresa PERALES
+SUMMARY:Women's 100m Freestyle - S3 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T181300Z-para-swimming-MENS-100M-BUTTERFLY-S10-FINAL
+DTSTAMP:20240903T181300Z
+DTSTART:20240903T181300Z
+DTEND:20240903T181900Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S10 Final\n🇵🇱 Alan
+  OGORZALEK\n🇦🇺 Alex SAFFY\n🇨🇦 Alexander ELLIOT\n🇦🇺 Col PEARSE\n🇺🇦
+  Ihor NIMCHENKO\n🇯🇵 MINAI Akito\n🇮🇹 Riccardo MENCIOTTI\n🇮🇹 Stefano
+  RAIMONDI
+SUMMARY:Men's 100m Butterfly - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240903T183500Z-para-swimming-WOMENS-100M-BUTTERFLY-S10-FINAL
+DTSTAMP:20240903T183500Z
+DTSTART:20240903T183500Z
+DTEND:20240903T184200Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S10 Final\n🇨🇳 CHEN
+  Yi\n🇬🇧 Callie-Ann WARRINGTON\n🇭🇺 Csenge HOTZ\n🇬🇧 Faye ROGERS\n🇦🇺
+  Jasmine GREENWOOD\n🇨🇦 Katie COSGRIFFE\n🇦🇺 Poppy WILSON\n🇺🇸 Taylor
+  WINNETT
+SUMMARY:Women's 100m Butterfly - S10 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T080000Z-para-equestrian-INDIVIDUAL-EVENT-GRADE-IV
