@@ -1,17 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//en/medals/BER//EN
-X-WR-CALNAME:🇧🇲 Bermuda 🏅 | Paris 2024
-NAME:🇧🇲 Bermuda 🏅 | Paris 2024
-BEGIN:VEVENT
-UID:20240901T150000Z-boccia-WOMENS-INDIVIDUAL-BC1-BRONZE-MEDAL-MATCH-JPN-BE
-DTSTAMP:20240901T150000Z
-DTSTART:20240901T150000Z
-DTEND:20240901T161500Z
-DESCRIPTION:Boccia - Women's Individual - BC1 Bronze Medal Match
-SUMMARY: ENDO Hiromi 🇯🇵 - 🇧🇲 Yushae ANDRADE
-LOCATION:South Paris Arena 1
-END:VEVENT
+PRODID:-//fabrice404//olympics-calendar//en/para-athletics/BER//EN
+X-WR-CALNAME:🇧🇲 Bermuda Para Athletics | Paris 2024
+NAME:🇧🇲 Bermuda Para Athletics | Paris 2024
 BEGIN:VEVENT
 UID:20240904T180800Z-para-athletics-WOMENS-100M-T53-FINAL
 DTSTAMP:20240904T180800Z

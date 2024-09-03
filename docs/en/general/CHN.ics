@@ -4322,9 +4322,8 @@ UID:20240903T100700Z-para-archery-WOMENS-INDIVIDUAL-RECURVE-OPEN-18-ELIMINA
 DTSTAMP:20240903T100700Z
 DTSTART:20240903T100700Z
 DTEND:20240903T102400Z
-DESCRIPTION:Para Archery - Women's Individual Recurve Open 1/8
-  Elimination\n🇨🇳 WU Chunyan
-SUMMARY:Women's Individual Recurve Open 1/8 Elimination
+DESCRIPTION:Para Archery - Women's Individual Recurve Open 1/8 Elimination
+SUMMARY: Oyun-Erdene BUYANJARGAL 🇲🇳 - 🇨🇳 WU Chunyan
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
@@ -4908,6 +4907,22 @@ SUMMARY: ZHAO Shuai 🇨🇳 - 🇬🇧 Aaron McKIBBIN
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T173300Z-para-athletics-WOMENS-100M-T12-ROUND-1
+DTSTAMP:20240904T173300Z
+DTSTART:20240904T173300Z
+DTEND:20240904T180500Z
+DESCRIPTION:Para Athletics - Women's 100m - T12 Round 1\n🇻🇪 Alejandra
+  Paola PEREZ LOPEZ\n🇧🇷 Clara Daniele BARROS da SILVA\n🇩🇴 Darlenys de
+  la CRUZ SEVERINO\n🇨🇻 Heidilene Patricia OLIVEIRA LOPES\n🇩🇪 Katrin
+  MUELLER-ROTTGARDT\n🇧🇷 Lorraine GOMES de AGUIAR\n🇪🇸 Melani BERGES
+  GAMEZ\n🇵🇾 Melissa Nair TILLNER GALEANO\n🇪🇸 Nagore FOLGADO
+  GARCIA\n🇮🇩 Ni Made Arianti PUTRI\n🇺🇦 Oksana BOTURCHUK\n🇨🇺 Omara
+  DURAND ELIAS\n🇯🇵 SAWADA Uran\n🇨🇳 SHEN Yaqin\n🇮🇳 SIMRAN\n🇧🇷
+  Viviane FERREIRA SOARES
+SUMMARY:Women's 100m - T12 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T175800Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-49-POINTS-F
 DTSTAMP:20240904T175800Z
 DTSTART:20240904T175800Z
@@ -4917,6 +4932,29 @@ DESCRIPTION:Para Swimming - Mixed 4x100m Freestyle Relay - 49 Points
   USA
 SUMMARY:Mixed 4x100m Freestyle Relay - 49 Points Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T180800Z-para-athletics-WOMENS-100M-T53-FINAL
+DTSTAMP:20240904T180800Z
+DTSTART:20240904T180800Z
+DTEND:20240904T181400Z
+DESCRIPTION:Para Athletics - Women's 100m - T53 Final\n🇨🇭 Catherine
+  DEBRUNNER\n🇺🇸 Chelsea STEIN\n🇨🇳 GAO Fang\n🇹🇷 Hamide DOGANGUN\n🇧🇲
+  Jessica Cooper LEWIS\n🇬🇧 Samantha KINGHORN\n🇨🇳 ZHOU Hongzhuan
+SUMMARY:Women's 100m - T53 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T194500Z-para-athletics-WOMENS-100M-T37-ROUND-1
+DTSTAMP:20240904T194500Z
+DTSTART:20240904T194500Z
+DTEND:20240904T195900Z
+DESCRIPTION:Para Athletics - Women's 100m - T37 Round 1\n🇹🇭 Aorawan
+  CHIMPAEN\n🇨🇳 JIANG Fenfen\n🇺🇸 Jaleen ROBERTS\n🇩🇪 Laura
+  BURBULLA\n🇫🇷 Mandy FRANCOIS-ELIE\n🇺🇦 Nataliia KOBZAR\n🇿🇦 Sheryl
+  JAMES\n🇺🇸 Taylor SWANSON\n🇨🇳 WEN Xiaoyan
+SUMMARY:Women's 100m - T37 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T073000Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB7-HEATS
