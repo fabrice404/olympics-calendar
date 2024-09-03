@@ -1095,6 +1095,19 @@ SUMMARY: INA 🇮🇩 - 🇳🇱 NED
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T072200Z-para-cycling-road-WOMENS-H4-5-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T072200Z
+DTSTART:20240904T072200Z
+DTEND:20240904T080000Z
+DESCRIPTION:Para Cycling Road - Women's H4-5 Individual Time Trial\n🇮🇹
+  Ana Maria VITELARU\n🇩🇪 Andrea ESKAU\n🇳🇱 Chantal HAENEN\n🇦🇹 Cornelia
+  WIBMER\n🇮🇹 Giulia RUFFATO\n🇳🇱 Jennette JANSEN\n🇮🇹 Katia AERE\n🇰🇷
+  LEE Doyeon\n🇺🇸 Oksana MASTERS\n🇨🇳 SUN Bianbian\n🇨🇭 Sandra
+  STOECKLI\n🇳🇴 Suzanna TANGEN\n🇦🇹 Svetlana MOSHKOVICH
+SUMMARY:Women's H4-5 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T080000Z-para-equestrian-INDIVIDUAL-EVENT-GRADE-IV
 DTSTAMP:20240904T080000Z
 DTSTART:20240904T080000Z
@@ -1107,6 +1120,17 @@ DESCRIPTION:Para Equestrian - Individual Event - Grade IV\n🇫🇷 Alexia
   JELSTRUP\n🇳🇱 Sanne VOETS\n🇫🇷 Vladimir VINCHON
 SUMMARY:Individual Event - Grade IV
 LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T083300Z-para-cycling-road-WOMENS-T1-2-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T083300Z
+DTSTART:20240904T083300Z
+DTEND:20240904T092000Z
+DESCRIPTION:Para Cycling Road - Women's T1-2 Individual Time Trial\n🇨🇭
+  Celine van TILL\n🇲🇽 Dulce Maria GONZALEZ GUERRERO\n🇩🇰 Emma LUND\n🇩🇪
+  Jana MAJUNKE\n🇳🇱 Marieke van SOEST\n🇨🇿 Pavlina VEJVODOVA
+SUMMARY:Women's T1-2 Individual Time Trial
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T093000Z-para-table-tennis-WOMENS-SINGLES-WS7-QUARTERFINAL-1-NE
@@ -1140,6 +1164,70 @@ SUMMARY:Women's 100m - T36 Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T113000Z-para-cycling-road-MENS-B-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T113000Z
+DTSTART:20240904T113000Z
+DTEND:20240904T122200Z
+DESCRIPTION:Para Cycling Road - Men's B Individual Time Trial\n🇫🇷
+  Alexandre LLOVERAS\n🇮🇪 Damien VEREKER\n🇫🇷 Elie de CARVALHO\n🇮🇹
+  Federico ANDREOLI\n🇵🇱 Karol KOPICZ\n🇰🇪 Kennedy Ivuzu OGADA\n🇮🇹
+  Lorenzo BERNARD\n🇦🇷 Maximiliano GOMEZ\n🇬🇧 Steve BATE\n🇳🇱 Tristan
+  BANGMA\n🇳🇱 Vincent ter SCHURE
+SUMMARY:Men's B Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T115100Z-para-cycling-road-MENS-C5-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T115100Z
+DTSTART:20240904T115100Z
+DTEND:20240904T124500Z
+DESCRIPTION:Para Cycling Road - Men's C5 Individual Time Trial\n🇦🇺
+  Alistair DONOHOE\n🇺🇿 Azimbek ABDULLAEV\n🇬🇧 Blaine HUNT\n🇨🇴 Carlos
+  Andres VARGAS VILLANUEVA\n🇳🇱 Daniel ABRAHAM GEBRU\n🇫🇷 Dorian
+  FOULON\n🇺🇸 Elouan GARDON\n🇦🇹 Franz-Josef LAESSER\n🇨🇱 Hernan MOYA
+  CONTRERAS\n🇧🇷 Lauro Cesar MOURO CHAMAN\n🇳🇱 Martin van de POL\n🇺🇦
+  Yehor DEMENTYEV\n🇭🇺 Zsombor WERMESER
+SUMMARY:Men's C5 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T125700Z-para-cycling-road-MENS-H5-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T125700Z
+DTSTART:20240904T125700Z
+DTEND:20240904T134800Z
+DESCRIPTION:Para Cycling Road - Men's H5 Individual Time Trial\n🇹🇭
+  Atachai SRIWICHAI\n🇨🇳 LIU Qiangli\n🇫🇷 Loic VERGNAUD\n🇵🇹 Luis
+  COSTA\n🇳🇱 Mitch VALIZE\n🇺🇦 Pavlo BAL\n🇳🇱 Tim de VRIES
+SUMMARY:Men's H5 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T131100Z-para-cycling-road-MENS-H4-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T131100Z
+DTSTART:20240904T131100Z
+DTEND:20240904T140600Z
+DESCRIPTION:Para Cycling Road - Men's H4 Individual Time Trial\n🇦🇹
+  Alexander GRITSCH\n🇨🇭 Fabian RECHER\n🇳🇱 Jetze PLAT\n🇧🇪 Jonas Van de
+  STEENE\n🇫🇷 Joseph FRITSCH\n🇺🇸 Matt TINGLEY\n🇵🇱 Rafal WILK\n🇹🇭
+  Sumas PANALAI\n🇦🇹 Thomas FRUEHWIRTH\n🇺🇸 Travis GAERTNER\n🇧🇷 Ulisses
+  LEAL FREITAS
+SUMMARY:Men's H4 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T132800Z-para-cycling-road-MENS-H3-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T132800Z
+DTSTART:20240904T132800Z
+DTEND:20240904T142900Z
+DESCRIPTION:Para Cycling Road - Men's H3 Individual Time Trial\n🇺🇸
+  Brandon LYONS\n🇨🇦 Charles MOREAU\n🇮🇹 Federico MESTRONI\n🇫🇷 Johan
+  QUAILE\n🇪🇸 Luis Miguel GARCIA MARQUINA\n🇳🇱 Mark MEKENKAMP\n🇮🇹
+  Martino PINI\n🇧🇪 Marvin ODENT\n🇫🇷 Mathieu BOSREDON\n🇮🇹 Mirko
+  TESTA\n🇻🇪 Richard ESPINOZA BALZA
+SUMMARY:Men's H3 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T161500Z-wheelchair-basketball-WOMENS-QUARTERFINAL-NED-ESP
 DTSTAMP:20240904T161500Z
 DTSTART:20240904T161500Z
@@ -1147,6 +1235,20 @@ DTEND:20240904T180000Z
 DESCRIPTION:Wheelchair Basketball - Women's Quarterfinal
 SUMMARY: NED 🇳🇱 - 🇪🇸 ESP
 LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T073500Z-para-cycling-road-WOMENS-H1-4-ROAD-RACE
+DTSTAMP:20240905T073500Z
+DTSTART:20240905T073500Z
+DTEND:20240905T091500Z
+DESCRIPTION:Para Cycling Road - Women's H1-4 Road Race\n🇫🇷 Anais
+  VINCENT\n🇩🇪 Annika ZEYEN-GILES\n🇦🇹 Cornelia WIBMER\n🇮🇹 Francesca
+  PORCELLATO\n🇮🇹 Giulia RUFFATO\n🇧🇷 Jady MALAVAZZI\n🇳🇱 Jennette
+  JANSEN\n🇨🇿 Katerina ANTOSOVA\n🇺🇸 Katerina BRIM\n🇰🇷 LEE Doyeon\n🇦🇺
+  Lauren PARKER\n🇧🇷 Mariana GARCIA\n🇹🇭 Naphatsakorn RODKLANG\n🇨🇭
+  Sandra STOECKLI\n🇳🇴 Suzanna TANGEN\n🇦🇹 Svetlana MOSHKOVICH
+SUMMARY:Women's H1-4 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T074600Z-para-swimming-MENS-100M-FREESTYLE-S6-HEATS
@@ -1190,6 +1292,28 @@ SUMMARY:Men's 100m Breaststroke - SB13 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T110000Z-para-cycling-road-MENS-H5-ROAD-RACE
+DTSTAMP:20240905T110000Z
+DTSTART:20240905T110000Z
+DTEND:20240905T125700Z
+DESCRIPTION:Para Cycling Road - Men's H5 Road Race\n🇹🇭 Atachai
+  SRIWICHAI\n🇨🇳 LIU Qiangli\n🇫🇷 Loic VERGNAUD\n🇵🇹 Luis COSTA\n🇳🇱
+  Mitch VALIZE\n🇺🇦 Pavlo BAL\n🇳🇱 Tim de VRIES
+SUMMARY:Men's H5 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T110500Z-para-cycling-road-WOMENS-H5-ROAD-RACE
+DTSTAMP:20240905T110500Z
+DTSTART:20240905T110500Z
+DTEND:20240905T133300Z
+DESCRIPTION:Para Cycling Road - Women's H5 Road Race\n🇮🇹 Ana Maria
+  VITELARU\n🇩🇪 Andrea ESKAU\n🇳🇱 Chantal HAENEN\n🇮🇹 Katia AERE\n🇺🇸
+  Oksana MASTERS\n🇨🇳 SUN Bianbian
+SUMMARY:Women's H5 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
 UID:20240905T113000Z-wheelchair-tennis-QUAD-SINGLES-GOLD-MEDAL-MATCH
 DTSTAMP:20240905T113000Z
 DTSTART:20240905T113000Z
@@ -1198,6 +1322,51 @@ DESCRIPTION:Wheelchair Tennis - Quad Singles Gold Medal Match\n🇳🇱 Niels
   VINK
 SUMMARY:Quad Singles Gold Medal Match
 LOCATION:Roland-Garros Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T140000Z-para-cycling-road-MENS-H4-ROAD-RACE
+DTSTAMP:20240905T140000Z
+DTSTART:20240905T140000Z
+DTEND:20240905T155600Z
+DESCRIPTION:Para Cycling Road - Men's H4 Road Race\n🇦🇹 Alexander
+  GRITSCH\n🇨🇭 Fabian RECHER\n🇳🇱 Jetze PLAT\n🇧🇪 Jonas Van de
+  STEENE\n🇫🇷 Joseph FRITSCH\n🇺🇸 Matt TINGLEY\n🇵🇱 Rafal WILK\n🇹🇭
+  Sumas PANALAI\n🇦🇹 Thomas FRUEHWIRTH\n🇺🇸 Travis GAERTNER\n🇧🇷 Ulisses
+  LEAL FREITAS
+SUMMARY:Men's H4 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T140500Z-para-cycling-road-MENS-H3-ROAD-RACE
+DTSTAMP:20240905T140500Z
+DTSTART:20240905T140500Z
+DTEND:20240905T160200Z
+DESCRIPTION:Para Cycling Road - Men's H3 Road Race\n🇺🇸 Brandon
+  LYONS\n🇨🇦 Charles MOREAU\n🇮🇹 Federico MESTRONI\n🇫🇷 Johan
+  QUAILE\n🇪🇸 Luis Miguel GARCIA MARQUINA\n🇳🇱 Mark MEKENKAMP\n🇮🇹
+  Martino PINI\n🇧🇪 Marvin ODENT\n🇫🇷 Mathieu BOSREDON\n🇮🇹 Mirko
+  TESTA\n🇻🇪 Richard ESPINOZA BALZA
+SUMMARY:Men's H3 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T073000Z-para-cycling-road-MENS-C4-5-ROAD-RACE
+DTSTAMP:20240906T073000Z
+DTSTART:20240906T073000Z
+DTEND:20240906T100100Z
+DESCRIPTION:Para Cycling Road - Men's C4-5 Road Race\n🇦🇪 Ahmed
+  ALBEDWAWI\n🇦🇺 Alistair DONOHOE\n🇬🇧 Archie ATKINSON\n🇺🇿 Azimbek
+  ABDULLAEV\n🇬🇧 Blaine HUNT\n🇨🇴 Carlos Andres VARGAS VILLANUEVA\n🇷🇴
+  Carol-Eduard NOVAK\n🇪🇸 Damian RAMOS SANCHEZ\n🇳🇱 Daniel ABRAHAM
+  GEBRU\n🇫🇷 Dorian FOULON\n🇨🇴 Edwin Fabian MATIZ RUIZ\n🇺🇸 Elouan
+  GARDON\n🇦🇹 Franz-Josef LAESSER\n🇫🇷 Gatien le ROUSSEAU\n🇨🇱 Hernan
+  MOYA CONTRERAS\n🇩🇴 Jose Frank RODRIGUEZ HERNANDEZ\n🇸🇰 Jozef
+  METELKA\n🇫🇷 Kevin le CUNFF\n🇦🇺 Korey BODDINGTON\n🇧🇷 Lauro Cesar
+  MOURO CHAMAN\n🇧🇪 Louis CLINCKE\n🇳🇱 Martin van de POL\n🇮🇩 Muhammad
+  Fadli IMAMMUDDIN\n🇱🇻 Oskars GAILISS\n🇸🇰 Patrik KURIL\n🇮🇪 Ronan
+  GRIMES\n🇨🇭 Timothy ZEMP\n🇺🇦 Yehor DEMENTYEV\n🇭🇺 Zsombor WERMESER
+SUMMARY:Men's C4-5 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T080100Z-para-swimming-MENS-100M-BACKSTROKE-S10-HEATS
@@ -1267,6 +1436,19 @@ SUMMARY:Men's 100m Butterfly - S11 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T110000Z-para-cycling-road-MENS-B-ROAD-RACE
+DTSTAMP:20240906T110000Z
+DTSTART:20240906T110000Z
+DTEND:20240906T140400Z
+DESCRIPTION:Para Cycling Road - Men's B Road Race\n🇫🇷 Alexandre
+  LLOVERAS\n🇮🇪 Damien VEREKER\n🇫🇷 Elie de CARVALHO\n🇮🇹 Federico
+  ANDREOLI\n🇵🇱 Karol KOPICZ\n🇰🇪 Kennedy Ivuzu OGADA\n🇮🇹 Lorenzo
+  BERNARD\n🇦🇷 Maximiliano GOMEZ\n🇬🇧 Steve BATE\n🇳🇱 Tristan
+  BANGMA\n🇳🇱 Vincent ter SCHURE
+SUMMARY:Men's B Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T073000Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM10-HEATS
 DTSTAMP:20240907T073000Z
 DTSTART:20240907T073000Z
@@ -1319,6 +1501,17 @@ DESCRIPTION:Para Swimming - Women's 100m Freestyle - S11 Heats\n🇦🇷 Analuz
   FIGUEROA\n🇸🇰 Tatiana BLATTNEROVA\n🇨🇳 ZHANG Xiaotong
 SUMMARY:Women's 100m Freestyle - S11 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T105000Z-para-cycling-road-WOMENS-T1-2-ROAD-RACE
+DTSTAMP:20240907T105000Z
+DTSTART:20240907T105000Z
+DTEND:20240907T120300Z
+DESCRIPTION:Para Cycling Road - Women's T1-2 Road Race\n🇨🇭 Celine van
+  TILL\n🇲🇽 Dulce Maria GONZALEZ GUERRERO\n🇩🇰 Emma LUND\n🇩🇪 Jana
+  MAJUNKE\n🇳🇱 Marieke van SOEST\n🇨🇿 Pavlina VEJVODOVA
+SUMMARY:Women's T1-2 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

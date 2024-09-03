@@ -119,6 +119,30 @@ SUMMARY:Women's 400m - T37 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T062700Z-para-cycling-road-MENS-C2-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T062700Z
+DTSTART:20240904T062700Z
+DTEND:20240904T065900Z
+DESCRIPTION:Para Cycling Road - Men's C2 Individual Time Trial\n🇫🇷
+  Alexandre LEAUTE\n🇮🇳 Arshad SHAIK\n🇦🇺 Darren HICKS\n🇵🇦 Esteban
+  GODDARD MEDICA\n🇧🇪 Ewoud VROMANT\n🇺🇿 Golibbek MIRZOYAROV\n🇵🇪 Israel
+  HILARIO RIMAS\n🇯🇵 KAWAMOTO Shota\n🇬🇧 Matthew ROBERTSON\n🇬🇷 Nikolaos
+  PAPANGELIS\n🇵🇹 Telmo PINAO
+SUMMARY:Men's C2 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T075100Z-para-cycling-road-MENS-H1-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T075100Z
+DTSTART:20240904T075100Z
+DTEND:20240904T082900Z
+DESCRIPTION:Para Cycling Road - Men's H1 Individual Time Trial\n🇨🇭
+  Benjamin FRUEH\n🇮🇹 Fabrizio CORNEGLIANI\n🇧🇪 Maxime HORDIES\n🇿🇦
+  Nicolas Pieter du PREEZ\n🇨🇿 Patrik JAHODA
+SUMMARY:Men's H1 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T080000Z-para-equestrian-INDIVIDUAL-EVENT-GRADE-IV
 DTSTAMP:20240904T080000Z
 DTSTART:20240904T080000Z
@@ -131,6 +155,19 @@ DESCRIPTION:Para Equestrian - Individual Event - Grade IV\n🇫🇷 Alexia
   JELSTRUP\n🇳🇱 Sanne VOETS\n🇫🇷 Vladimir VINCHON
 SUMMARY:Individual Event - Grade IV
 LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T081900Z-para-cycling-road-MENS-T1-2-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T081900Z
+DTSTART:20240904T081900Z
+DTEND:20240904T085800Z
+DESCRIPTION:Para Cycling Road - Men's T1-2 Individual Time Trial\n🇨🇳 CHEN
+  Jianxin\n🇺🇸 Dennis CONNORS\n🇮🇹 Giorgio FARRONI\n🇨🇿 Jindrich
+  MASIN\n🇨🇴 Juan Jose BETANCOURT QUIROGA\n🇰🇷 KIM Yongki\n🇩🇰 Martin
+  HEGGELUND\n🇩🇪 Maximilian JAEGER\n🇨🇦 Nathan CLEMENT\n🇷🇴 Theodor
+  MATICAN\n🇧🇪 Tim CELEN\n🇦🇹 Wolfgang STEINBICHLER
+SUMMARY:Men's T1-2 Individual Time Trial
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T105500Z-para-equestrian-INDIVIDUAL-EVENT-GRADE-V
@@ -146,5 +183,147 @@ DESCRIPTION:Para Equestrian - Individual Event - Grade V\n🇸🇦 Ahmed Adnan
   WELLS
 SUMMARY:Individual Event - Grade V
 LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T121100Z-para-cycling-road-MENS-C4-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T121100Z
+DTSTART:20240904T121100Z
+DTEND:20240904T130400Z
+DESCRIPTION:Para Cycling Road - Men's C4 Individual Time Trial\n🇬🇧 Archie
+  ATKINSON\n🇷🇴 Carol-Eduard NOVAK\n🇪🇸 Damian RAMOS SANCHEZ\n🇫🇷 Gatien
+  le ROUSSEAU\n🇩🇴 Jose Frank RODRIGUEZ HERNANDEZ\n🇸🇰 Jozef
+  METELKA\n🇫🇷 Kevin le CUNFF\n🇧🇪 Louis CLINCKE\n🇮🇩 Muhammad Fadli
+  IMAMMUDDIN\n🇱🇻 Oskars GAILISS\n🇸🇰 Patrik KURIL\n🇮🇪 Ronan
+  GRIMES\n🇨🇭 Timothy ZEMP
+SUMMARY:Men's C4 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T131100Z-para-cycling-road-MENS-H4-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T131100Z
+DTSTART:20240904T131100Z
+DTEND:20240904T140600Z
+DESCRIPTION:Para Cycling Road - Men's H4 Individual Time Trial\n🇦🇹
+  Alexander GRITSCH\n🇨🇭 Fabian RECHER\n🇳🇱 Jetze PLAT\n🇧🇪 Jonas Van de
+  STEENE\n🇫🇷 Joseph FRITSCH\n🇺🇸 Matt TINGLEY\n🇵🇱 Rafal WILK\n🇹🇭
+  Sumas PANALAI\n🇦🇹 Thomas FRUEHWIRTH\n🇺🇸 Travis GAERTNER\n🇧🇷 Ulisses
+  LEAL FREITAS
+SUMMARY:Men's H4 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T132800Z-para-cycling-road-MENS-H3-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T132800Z
+DTSTART:20240904T132800Z
+DTEND:20240904T142900Z
+DESCRIPTION:Para Cycling Road - Men's H3 Individual Time Trial\n🇺🇸
+  Brandon LYONS\n🇨🇦 Charles MOREAU\n🇮🇹 Federico MESTRONI\n🇫🇷 Johan
+  QUAILE\n🇪🇸 Luis Miguel GARCIA MARQUINA\n🇳🇱 Mark MEKENKAMP\n🇮🇹
+  Martino PINI\n🇧🇪 Marvin ODENT\n🇫🇷 Mathieu BOSREDON\n🇮🇹 Mirko
+  TESTA\n🇻🇪 Richard ESPINOZA BALZA
+SUMMARY:Men's H3 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T073000Z-para-cycling-road-MENS-H1-2-ROAD-RACE
+DTSTAMP:20240905T073000Z
+DTSTART:20240905T073000Z
+DTEND:20240905T094300Z
+DESCRIPTION:Para Cycling Road - Men's H1-2 Road Race\n🇮🇱 Amit
+  HASDAI\n🇨🇭 Benjamin FRUEH\n🇺🇸 Cody WILLS\n🇮🇹 Fabrizio
+  CORNEGLIANI\n🇫🇷 Florian JOUANNY\n🇮🇹 Luca MAZZONE\n🇧🇪 Maxime
+  HORDIES\n🇿🇦 Nicolas Pieter du PREEZ\n🇨🇿 Patrik JAHODA\n🇳🇿 Rory
+  MEAD\n🇪🇸 Sergio GARROTE MUNOZ
+SUMMARY:Men's H1-2 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T140000Z-para-cycling-road-MENS-H4-ROAD-RACE
+DTSTAMP:20240905T140000Z
+DTSTART:20240905T140000Z
+DTEND:20240905T155600Z
+DESCRIPTION:Para Cycling Road - Men's H4 Road Race\n🇦🇹 Alexander
+  GRITSCH\n🇨🇭 Fabian RECHER\n🇳🇱 Jetze PLAT\n🇧🇪 Jonas Van de
+  STEENE\n🇫🇷 Joseph FRITSCH\n🇺🇸 Matt TINGLEY\n🇵🇱 Rafal WILK\n🇹🇭
+  Sumas PANALAI\n🇦🇹 Thomas FRUEHWIRTH\n🇺🇸 Travis GAERTNER\n🇧🇷 Ulisses
+  LEAL FREITAS
+SUMMARY:Men's H4 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T140500Z-para-cycling-road-MENS-H3-ROAD-RACE
+DTSTAMP:20240905T140500Z
+DTSTART:20240905T140500Z
+DTEND:20240905T160200Z
+DESCRIPTION:Para Cycling Road - Men's H3 Road Race\n🇺🇸 Brandon
+  LYONS\n🇨🇦 Charles MOREAU\n🇮🇹 Federico MESTRONI\n🇫🇷 Johan
+  QUAILE\n🇪🇸 Luis Miguel GARCIA MARQUINA\n🇳🇱 Mark MEKENKAMP\n🇮🇹
+  Martino PINI\n🇧🇪 Marvin ODENT\n🇫🇷 Mathieu BOSREDON\n🇮🇹 Mirko
+  TESTA\n🇻🇪 Richard ESPINOZA BALZA
+SUMMARY:Men's H3 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T073000Z-para-cycling-road-MENS-C4-5-ROAD-RACE
+DTSTAMP:20240906T073000Z
+DTSTART:20240906T073000Z
+DTEND:20240906T100100Z
+DESCRIPTION:Para Cycling Road - Men's C4-5 Road Race\n🇦🇪 Ahmed
+  ALBEDWAWI\n🇦🇺 Alistair DONOHOE\n🇬🇧 Archie ATKINSON\n🇺🇿 Azimbek
+  ABDULLAEV\n🇬🇧 Blaine HUNT\n🇨🇴 Carlos Andres VARGAS VILLANUEVA\n🇷🇴
+  Carol-Eduard NOVAK\n🇪🇸 Damian RAMOS SANCHEZ\n🇳🇱 Daniel ABRAHAM
+  GEBRU\n🇫🇷 Dorian FOULON\n🇨🇴 Edwin Fabian MATIZ RUIZ\n🇺🇸 Elouan
+  GARDON\n🇦🇹 Franz-Josef LAESSER\n🇫🇷 Gatien le ROUSSEAU\n🇨🇱 Hernan
+  MOYA CONTRERAS\n🇩🇴 Jose Frank RODRIGUEZ HERNANDEZ\n🇸🇰 Jozef
+  METELKA\n🇫🇷 Kevin le CUNFF\n🇦🇺 Korey BODDINGTON\n🇧🇷 Lauro Cesar
+  MOURO CHAMAN\n🇧🇪 Louis CLINCKE\n🇳🇱 Martin van de POL\n🇮🇩 Muhammad
+  Fadli IMAMMUDDIN\n🇱🇻 Oskars GAILISS\n🇸🇰 Patrik KURIL\n🇮🇪 Ronan
+  GRIMES\n🇨🇭 Timothy ZEMP\n🇺🇦 Yehor DEMENTYEV\n🇭🇺 Zsombor WERMESER
+SUMMARY:Men's C4-5 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T073000Z-para-cycling-road-MENS-C1-3-ROAD-RACE
+DTSTAMP:20240907T073000Z
+DTSTART:20240907T073000Z
+DTEND:20240907T092000Z
+DESCRIPTION:Para Cycling Road - Men's C1-3 Road Race\n🇨🇦 Alexandre
+  HAYWARD\n🇫🇷 Alexandre LEAUTE\n🇮🇳 Arshad SHAIK\n🇬🇧 Ben WATSON\n🇧🇷
+  Carlos Alberto GOMES SOARES\n🇦🇺 Darren HICKS\n🇳🇿 Devon BRIGGS\n🇪🇸
+  Eduardo SANTAS ASENSIO\n🇵🇦 Esteban GODDARD MEDICA\n🇧🇪 Ewoud
+  VROMANT\n🇯🇵 FUJITA Masaki\n🇬🇧 Fin GRAHAM\n🇺🇿 Golibbek
+  MIRZOYAROV\n🇦🇺 Gordon ALLAN\n🇲🇦 Haytam EL AMRAOUY\n🇸🇪 Henrik
+  MARVIG\n🇵🇪 Israel HILARIO RIMAS\n🇬🇧 Jaco van GASS\n🇯🇵 KAWAMOTO
+  Shota\n🇨🇳 LIANG Weicong\n🇬🇧 Matthew ROBERTSON\n🇩🇪 Matthias
+  SCHINDLER\n🇩🇪 Michael TEUBER\n🇲🇾 Mohamad Yusof Hafizi
+  SHAHARUDDIN\n🇲🇾 Muhammad Adi Raimie AMIZAZAHAN\n🇬🇷 Nikolaos
+  PAPANGELIS\n🇩🇪 Pierre SENSKA\n🇪🇸 Ricardo TEN ARGILES\n🇦🇷 Rodrigo
+  Fernando LOPEZ\n🇵🇹 Telmo PINAO\n🇫🇷 Thomas PEYROTON-DARTET\n🇵🇱
+  Zbigniew MACIEJEWSKI
+SUMMARY:Men's C1-3 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T104500Z-para-cycling-road-MENS-T1-2-ROAD-RACE
+DTSTAMP:20240907T104500Z
+DTSTART:20240907T104500Z
+DTEND:20240907T120900Z
+DESCRIPTION:Para Cycling Road - Men's T1-2 Road Race\n🇨🇳 CHEN
+  Jianxin\n🇺🇸 Dennis CONNORS\n🇮🇹 Giorgio FARRONI\n🇨🇿 Jindrich
+  MASIN\n🇨🇴 Juan Jose BETANCOURT QUIROGA\n🇰🇷 KIM Yongki\n🇩🇰 Martin
+  HEGGELUND\n🇩🇪 Maximilian JAEGER\n🇨🇦 Nathan CLEMENT\n🇷🇴 Theodor
+  MATICAN\n🇧🇪 Tim CELEN\n🇦🇹 Wolfgang STEINBICHLER
+SUMMARY:Men's T1-2 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T130000Z-para-cycling-road-MIXED-H1-5-TEAM-RELAY
+DTSTAMP:20240907T130000Z
+DTSTART:20240907T130000Z
+DTEND:20240907T140000Z
+DESCRIPTION:Para Cycling Road - Mixed H1-5 Team Relay\n🇧🇪 BEL\n🇧🇷
+  BRA\n🇫🇷 FRA\n🇮🇹 ITA\n🇨🇭 SUI\n🇹🇭 THA\n🇺🇸 USA
+SUMMARY:Mixed H1-5 Team Relay
+LOCATION:Clichy-sous-bois
 END:VEVENT
 END:VCALENDAR

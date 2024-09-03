@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/para-cycling-road/MEX//EN
+X-WR-CALNAME:🇲🇽 Mexico Para Cycling Road | Paris 2024
+NAME:🇲🇽 Mexico Para Cycling Road | Paris 2024
+BEGIN:VEVENT
+UID:20240904T083300Z-para-cycling-road-WOMENS-T1-2-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T083300Z
+DTSTART:20240904T083300Z
+DTEND:20240904T092000Z
+DESCRIPTION:Para Cycling Road - Women's T1-2 Individual Time Trial\n🇨🇭
+  Celine van TILL\n🇲🇽 Dulce Maria GONZALEZ GUERRERO\n🇩🇰 Emma LUND\n🇩🇪
+  Jana MAJUNKE\n🇳🇱 Marieke van SOEST\n🇨🇿 Pavlina VEJVODOVA
+SUMMARY:Women's T1-2 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T105000Z-para-cycling-road-WOMENS-T1-2-ROAD-RACE
+DTSTAMP:20240907T105000Z
+DTSTART:20240907T105000Z
+DTEND:20240907T120300Z
+DESCRIPTION:Para Cycling Road - Women's T1-2 Road Race\n🇨🇭 Celine van
+  TILL\n🇲🇽 Dulce Maria GONZALEZ GUERRERO\n🇩🇰 Emma LUND\n🇩🇪 Jana
+  MAJUNKE\n🇳🇱 Marieke van SOEST\n🇨🇿 Pavlina VEJVODOVA
+SUMMARY:Women's T1-2 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+END:VCALENDAR

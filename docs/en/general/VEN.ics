@@ -378,6 +378,19 @@ SUMMARY:Men's 50m Breaststroke - SB2 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T132800Z-para-cycling-road-MENS-H3-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T132800Z
+DTSTART:20240904T132800Z
+DTEND:20240904T142900Z
+DESCRIPTION:Para Cycling Road - Men's H3 Individual Time Trial\n🇺🇸
+  Brandon LYONS\n🇨🇦 Charles MOREAU\n🇮🇹 Federico MESTRONI\n🇫🇷 Johan
+  QUAILE\n🇪🇸 Luis Miguel GARCIA MARQUINA\n🇳🇱 Mark MEKENKAMP\n🇮🇹
+  Martino PINI\n🇧🇪 Marvin ODENT\n🇫🇷 Mathieu BOSREDON\n🇮🇹 Mirko
+  TESTA\n🇻🇪 Richard ESPINOZA BALZA
+SUMMARY:Men's H3 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T173300Z-para-athletics-WOMENS-100M-T12-ROUND-1
 DTSTAMP:20240904T173300Z
 DTSTART:20240904T173300Z
@@ -417,6 +430,19 @@ DESCRIPTION:Para Powerlifting - Women's up to 50kg Final\n🇺🇿 Akidakhon
   SILVA\n🇬🇧 Olivia BROOME\n🇻🇳 Thi Linh Phuong DANG\n🇨🇳 XIAO Jinping
 SUMMARY:Women's up to 50kg Final
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T140500Z-para-cycling-road-MENS-H3-ROAD-RACE
+DTSTAMP:20240905T140500Z
+DTSTART:20240905T140500Z
+DTEND:20240905T160200Z
+DESCRIPTION:Para Cycling Road - Men's H3 Road Race\n🇺🇸 Brandon
+  LYONS\n🇨🇦 Charles MOREAU\n🇮🇹 Federico MESTRONI\n🇫🇷 Johan
+  QUAILE\n🇪🇸 Luis Miguel GARCIA MARQUINA\n🇳🇱 Mark MEKENKAMP\n🇮🇹
+  Martino PINI\n🇧🇪 Marvin ODENT\n🇫🇷 Mathieu BOSREDON\n🇮🇹 Mirko
+  TESTA\n🇻🇪 Richard ESPINOZA BALZA
+SUMMARY:Men's H3 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T081000Z-wheelchair-fencing-WOMENS-PE-CATEGORY-B-TABLE-OF-16-IT

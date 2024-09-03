@@ -666,6 +666,43 @@ SUMMARY:P4 - Mixed 50m Pistol SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T075100Z-para-cycling-road-MENS-H1-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T075100Z
+DTSTART:20240904T075100Z
+DTEND:20240904T082900Z
+DESCRIPTION:Para Cycling Road - Men's H1 Individual Time Trial\n🇨🇭
+  Benjamin FRUEH\n🇮🇹 Fabrizio CORNEGLIANI\n🇧🇪 Maxime HORDIES\n🇿🇦
+  Nicolas Pieter du PREEZ\n🇨🇿 Patrik JAHODA
+SUMMARY:Men's H1 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T080300Z-para-cycling-road-WOMENS-H1-3-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T080300Z
+DTSTART:20240904T080300Z
+DTEND:20240904T090400Z
+DESCRIPTION:Para Cycling Road - Women's H1-3 Individual Time Trial\n🇫🇷
+  Anais VINCENT\n🇩🇪 Annika ZEYEN-GILES\n🇹🇭 Darin SHEEPCHONDAN\n🇮🇹
+  Francesca PORCELLATO\n🇧🇷 Jady MALAVAZZI\n🇨🇿 Katerina ANTOSOVA\n🇺🇸
+  Katerina BRIM\n🇦🇺 Lauren PARKER\n🇧🇷 Mariana GARCIA\n🇹🇭 Naphatsakorn
+  RODKLANG
+SUMMARY:Women's H1-3 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T081900Z-para-cycling-road-MENS-T1-2-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T081900Z
+DTSTART:20240904T081900Z
+DTEND:20240904T085800Z
+DESCRIPTION:Para Cycling Road - Men's T1-2 Individual Time Trial\n🇨🇳 CHEN
+  Jianxin\n🇺🇸 Dennis CONNORS\n🇮🇹 Giorgio FARRONI\n🇨🇿 Jindrich
+  MASIN\n🇨🇴 Juan Jose BETANCOURT QUIROGA\n🇰🇷 KIM Yongki\n🇩🇰 Martin
+  HEGGELUND\n🇩🇪 Maximilian JAEGER\n🇨🇦 Nathan CLEMENT\n🇷🇴 Theodor
+  MATICAN\n🇧🇪 Tim CELEN\n🇦🇹 Wolfgang STEINBICHLER
+SUMMARY:Men's T1-2 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T082000Z-para-swimming-WOMENS-400M-FREESTYLE-S8-HEATS
 DTSTAMP:20240904T082000Z
 DTSTART:20240904T082000Z
@@ -678,6 +715,17 @@ DESCRIPTION:Para Swimming - Women's 400m Freestyle - S8 Heats\n🇨🇦 Abi
   Tingting\n🇨🇳 ZHU Hui
 SUMMARY:Women's 400m Freestyle - S8 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T083300Z-para-cycling-road-WOMENS-T1-2-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T083300Z
+DTSTART:20240904T083300Z
+DTEND:20240904T092000Z
+DESCRIPTION:Para Cycling Road - Women's T1-2 Individual Time Trial\n🇨🇭
+  Celine van TILL\n🇲🇽 Dulce Maria GONZALEZ GUERRERO\n🇩🇰 Emma LUND\n🇩🇪
+  Jana MAJUNKE\n🇳🇱 Marieke van SOEST\n🇨🇿 Pavlina VEJVODOVA
+SUMMARY:Women's T1-2 Individual Time Trial
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T150000Z-para-table-tennis-MENS-SINGLES-MS2-SEMIFINAL-1-FRA-CZE
@@ -712,6 +760,33 @@ DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB7 Heats\n🇨🇦 Abi
   Vendula DUSKOVA
 SUMMARY:Women's 100m Breaststroke - SB7 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T073000Z-para-cycling-road-MENS-H1-2-ROAD-RACE
+DTSTAMP:20240905T073000Z
+DTSTART:20240905T073000Z
+DTEND:20240905T094300Z
+DESCRIPTION:Para Cycling Road - Men's H1-2 Road Race\n🇮🇱 Amit
+  HASDAI\n🇨🇭 Benjamin FRUEH\n🇺🇸 Cody WILLS\n🇮🇹 Fabrizio
+  CORNEGLIANI\n🇫🇷 Florian JOUANNY\n🇮🇹 Luca MAZZONE\n🇧🇪 Maxime
+  HORDIES\n🇿🇦 Nicolas Pieter du PREEZ\n🇨🇿 Patrik JAHODA\n🇳🇿 Rory
+  MEAD\n🇪🇸 Sergio GARROTE MUNOZ
+SUMMARY:Men's H1-2 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T073500Z-para-cycling-road-WOMENS-H1-4-ROAD-RACE
+DTSTAMP:20240905T073500Z
+DTSTART:20240905T073500Z
+DTEND:20240905T091500Z
+DESCRIPTION:Para Cycling Road - Women's H1-4 Road Race\n🇫🇷 Anais
+  VINCENT\n🇩🇪 Annika ZEYEN-GILES\n🇦🇹 Cornelia WIBMER\n🇮🇹 Francesca
+  PORCELLATO\n🇮🇹 Giulia RUFFATO\n🇧🇷 Jady MALAVAZZI\n🇳🇱 Jennette
+  JANSEN\n🇨🇿 Katerina ANTOSOVA\n🇺🇸 Katerina BRIM\n🇰🇷 LEE Doyeon\n🇦🇺
+  Lauren PARKER\n🇧🇷 Mariana GARCIA\n🇹🇭 Naphatsakorn RODKLANG\n🇨🇭
+  Sandra STOECKLI\n🇳🇴 Suzanna TANGEN\n🇦🇹 Svetlana MOSHKOVICH
+SUMMARY:Women's H1-4 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T080900Z-para-swimming-MENS-100M-BREASTSTROKE-SB11-HEATS
@@ -794,6 +869,30 @@ DESCRIPTION:Para Swimming - Men's 50m Backstroke - S4 Heats\n🇦🇹 Andreas
   Liankang
 SUMMARY:Men's 50m Backstroke - S4 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T104500Z-para-cycling-road-MENS-T1-2-ROAD-RACE
+DTSTAMP:20240907T104500Z
+DTSTART:20240907T104500Z
+DTEND:20240907T120900Z
+DESCRIPTION:Para Cycling Road - Men's T1-2 Road Race\n🇨🇳 CHEN
+  Jianxin\n🇺🇸 Dennis CONNORS\n🇮🇹 Giorgio FARRONI\n🇨🇿 Jindrich
+  MASIN\n🇨🇴 Juan Jose BETANCOURT QUIROGA\n🇰🇷 KIM Yongki\n🇩🇰 Martin
+  HEGGELUND\n🇩🇪 Maximilian JAEGER\n🇨🇦 Nathan CLEMENT\n🇷🇴 Theodor
+  MATICAN\n🇧🇪 Tim CELEN\n🇦🇹 Wolfgang STEINBICHLER
+SUMMARY:Men's T1-2 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T105000Z-para-cycling-road-WOMENS-T1-2-ROAD-RACE
+DTSTAMP:20240907T105000Z
+DTSTART:20240907T105000Z
+DTEND:20240907T120300Z
+DESCRIPTION:Para Cycling Road - Women's T1-2 Road Race\n🇨🇭 Celine van
+  TILL\n🇲🇽 Dulce Maria GONZALEZ GUERRERO\n🇩🇰 Emma LUND\n🇩🇪 Jana
+  MAJUNKE\n🇳🇱 Marieke van SOEST\n🇨🇿 Pavlina VEJVODOVA
+SUMMARY:Women's T1-2 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

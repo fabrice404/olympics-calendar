@@ -128,6 +128,20 @@ SUMMARY:R8 - Women's 50m Rifle 3 Positions SH1 Final
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T121100Z-para-cycling-road-MENS-C4-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T121100Z
+DTSTART:20240904T121100Z
+DTEND:20240904T130400Z
+DESCRIPTION:Para Cycling Road - Men's C4 Individual Time Trial\n🇬🇧 Archie
+  ATKINSON\n🇷🇴 Carol-Eduard NOVAK\n🇪🇸 Damian RAMOS SANCHEZ\n🇫🇷 Gatien
+  le ROUSSEAU\n🇩🇴 Jose Frank RODRIGUEZ HERNANDEZ\n🇸🇰 Jozef
+  METELKA\n🇫🇷 Kevin le CUNFF\n🇧🇪 Louis CLINCKE\n🇮🇩 Muhammad Fadli
+  IMAMMUDDIN\n🇱🇻 Oskars GAILISS\n🇸🇰 Patrik KURIL\n🇮🇪 Ronan
+  GRIMES\n🇨🇭 Timothy ZEMP
+SUMMARY:Men's C4 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T172000Z-para-athletics-MENS-CLUB-THROW-F51-FINAL
 DTSTAMP:20240904T172000Z
 DTSTART:20240904T172000Z
@@ -138,5 +152,24 @@ DESCRIPTION:Para Athletics - Men's Club Throw - F51 Final\n🇷🇸 Aleksandar
   Pranav SOORMA\n🇷🇸 Zeljko DIMITRIJEVIC
 SUMMARY:Men's Club Throw - F51 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T073000Z-para-cycling-road-MENS-C4-5-ROAD-RACE
+DTSTAMP:20240906T073000Z
+DTSTART:20240906T073000Z
+DTEND:20240906T100100Z
+DESCRIPTION:Para Cycling Road - Men's C4-5 Road Race\n🇦🇪 Ahmed
+  ALBEDWAWI\n🇦🇺 Alistair DONOHOE\n🇬🇧 Archie ATKINSON\n🇺🇿 Azimbek
+  ABDULLAEV\n🇬🇧 Blaine HUNT\n🇨🇴 Carlos Andres VARGAS VILLANUEVA\n🇷🇴
+  Carol-Eduard NOVAK\n🇪🇸 Damian RAMOS SANCHEZ\n🇳🇱 Daniel ABRAHAM
+  GEBRU\n🇫🇷 Dorian FOULON\n🇨🇴 Edwin Fabian MATIZ RUIZ\n🇺🇸 Elouan
+  GARDON\n🇦🇹 Franz-Josef LAESSER\n🇫🇷 Gatien le ROUSSEAU\n🇨🇱 Hernan
+  MOYA CONTRERAS\n🇩🇴 Jose Frank RODRIGUEZ HERNANDEZ\n🇸🇰 Jozef
+  METELKA\n🇫🇷 Kevin le CUNFF\n🇦🇺 Korey BODDINGTON\n🇧🇷 Lauro Cesar
+  MOURO CHAMAN\n🇧🇪 Louis CLINCKE\n🇳🇱 Martin van de POL\n🇮🇩 Muhammad
+  Fadli IMAMMUDDIN\n🇱🇻 Oskars GAILISS\n🇸🇰 Patrik KURIL\n🇮🇪 Ronan
+  GRIMES\n🇨🇭 Timothy ZEMP\n🇺🇦 Yehor DEMENTYEV\n🇭🇺 Zsombor WERMESER
+SUMMARY:Men's C4-5 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 END:VCALENDAR

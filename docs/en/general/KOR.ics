@@ -1751,6 +1751,19 @@ SUMMARY: Jataya TAYLOR 🇺🇸 - 🇰🇷 BAEK Gyeong Hye
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T072200Z-para-cycling-road-WOMENS-H4-5-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T072200Z
+DTSTART:20240904T072200Z
+DTEND:20240904T080000Z
+DESCRIPTION:Para Cycling Road - Women's H4-5 Individual Time Trial\n🇮🇹
+  Ana Maria VITELARU\n🇩🇪 Andrea ESKAU\n🇳🇱 Chantal HAENEN\n🇦🇹 Cornelia
+  WIBMER\n🇮🇹 Giulia RUFFATO\n🇳🇱 Jennette JANSEN\n🇮🇹 Katia AERE\n🇰🇷
+  LEE Doyeon\n🇺🇸 Oksana MASTERS\n🇨🇳 SUN Bianbian\n🇨🇭 Sandra
+  STOECKLI\n🇳🇴 Suzanna TANGEN\n🇦🇹 Svetlana MOSHKOVICH
+SUMMARY:Women's H4-5 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T073000Z-shooting-para-sport-P4-MIXED-50M-PISTOL-SH1-QUALIFICAT
 DTSTAMP:20240904T073000Z
 DTSTART:20240904T073000Z
@@ -1786,6 +1799,19 @@ DTEND:20240904T084000Z
 DESCRIPTION:Wheelchair Fencing - Women's Foil Category B Table of 16
 SUMMARY: CHO Eun Hye 🇰🇷 - 🇭🇰 CHUNG Yuen Ping
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T081900Z-para-cycling-road-MENS-T1-2-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T081900Z
+DTSTART:20240904T081900Z
+DTEND:20240904T085800Z
+DESCRIPTION:Para Cycling Road - Men's T1-2 Individual Time Trial\n🇨🇳 CHEN
+  Jianxin\n🇺🇸 Dennis CONNORS\n🇮🇹 Giorgio FARRONI\n🇨🇿 Jindrich
+  MASIN\n🇨🇴 Juan Jose BETANCOURT QUIROGA\n🇰🇷 KIM Yongki\n🇩🇰 Martin
+  HEGGELUND\n🇩🇪 Maximilian JAEGER\n🇨🇦 Nathan CLEMENT\n🇷🇴 Theodor
+  MATICAN\n🇧🇪 Tim CELEN\n🇦🇹 Wolfgang STEINBICHLER
+SUMMARY:Men's T1-2 Individual Time Trial
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T084500Z-para-table-tennis-MENS-SINGLES-MS4-QUARTERFINAL-4-SVK-
@@ -1926,6 +1952,20 @@ SUMMARY:R6 - Mixed 50m Rifle Prone SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T073500Z-para-cycling-road-WOMENS-H1-4-ROAD-RACE
+DTSTAMP:20240905T073500Z
+DTSTART:20240905T073500Z
+DTEND:20240905T091500Z
+DESCRIPTION:Para Cycling Road - Women's H1-4 Road Race\n🇫🇷 Anais
+  VINCENT\n🇩🇪 Annika ZEYEN-GILES\n🇦🇹 Cornelia WIBMER\n🇮🇹 Francesca
+  PORCELLATO\n🇮🇹 Giulia RUFFATO\n🇧🇷 Jady MALAVAZZI\n🇳🇱 Jennette
+  JANSEN\n🇨🇿 Katerina ANTOSOVA\n🇺🇸 Katerina BRIM\n🇰🇷 LEE Doyeon\n🇦🇺
+  Lauren PARKER\n🇧🇷 Mariana GARCIA\n🇹🇭 Naphatsakorn RODKLANG\n🇨🇭
+  Sandra STOECKLI\n🇳🇴 Suzanna TANGEN\n🇦🇹 Svetlana MOSHKOVICH
+SUMMARY:Women's H1-4 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
 UID:20240905T080000Z-wheelchair-fencing-WOMENS-FOIL-TEAM-TABLE-OF-16-THA-KO
 DTSTAMP:20240905T080000Z
 DTSTART:20240905T080000Z
@@ -2058,6 +2098,19 @@ DESCRIPTION:Para Powerlifting - Women's up to 73kg Final\n🇹🇭 Arawan
   CAM\n🇨🇲 Thamar Gisele MENGUE
 SUMMARY:Women's up to 73kg Final
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T104500Z-para-cycling-road-MENS-T1-2-ROAD-RACE
+DTSTAMP:20240907T104500Z
+DTSTART:20240907T104500Z
+DTEND:20240907T120900Z
+DESCRIPTION:Para Cycling Road - Men's T1-2 Road Race\n🇨🇳 CHEN
+  Jianxin\n🇺🇸 Dennis CONNORS\n🇮🇹 Giorgio FARRONI\n🇨🇿 Jindrich
+  MASIN\n🇨🇴 Juan Jose BETANCOURT QUIROGA\n🇰🇷 KIM Yongki\n🇩🇰 Martin
+  HEGGELUND\n🇩🇪 Maximilian JAEGER\n🇨🇦 Nathan CLEMENT\n🇷🇴 Theodor
+  MATICAN\n🇧🇪 Tim CELEN\n🇦🇹 Wolfgang STEINBICHLER
+SUMMARY:Men's T1-2 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T083500Z-para-powerlifting-WOMENS-UP-TO-86KG-FINAL

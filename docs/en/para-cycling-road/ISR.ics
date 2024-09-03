@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/para-cycling-road/ISR//EN
+X-WR-CALNAME:🇮🇱 Israel Para Cycling Road | Paris 2024
+NAME:🇮🇱 Israel Para Cycling Road | Paris 2024
+BEGIN:VEVENT
+UID:20240904T073900Z-para-cycling-road-MENS-H2-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T073900Z
+DTSTART:20240904T073900Z
+DTEND:20240904T081700Z
+DESCRIPTION:Para Cycling Road - Men's H2 Individual Time Trial\n🇮🇱 Amit
+  HASDAI\n🇺🇸 Cody WILLS\n🇫🇷 Florian JOUANNY\n🇮🇹 Luca MAZZONE\n🇳🇿
+  Rory MEAD\n🇪🇸 Sergio GARROTE MUNOZ
+SUMMARY:Men's H2 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T073000Z-para-cycling-road-MENS-H1-2-ROAD-RACE
+DTSTAMP:20240905T073000Z
+DTSTART:20240905T073000Z
+DTEND:20240905T094300Z
+DESCRIPTION:Para Cycling Road - Men's H1-2 Road Race\n🇮🇱 Amit
+  HASDAI\n🇨🇭 Benjamin FRUEH\n🇺🇸 Cody WILLS\n🇮🇹 Fabrizio
+  CORNEGLIANI\n🇫🇷 Florian JOUANNY\n🇮🇹 Luca MAZZONE\n🇧🇪 Maxime
+  HORDIES\n🇿🇦 Nicolas Pieter du PREEZ\n🇨🇿 Patrik JAHODA\n🇳🇿 Rory
+  MEAD\n🇪🇸 Sergio GARROTE MUNOZ
+SUMMARY:Men's H1-2 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+END:VCALENDAR

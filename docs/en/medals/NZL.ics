@@ -152,6 +152,41 @@ SUMMARY:Women's 100m - T47 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T060000Z-para-cycling-road-WOMENS-C5-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T060000Z
+DTSTART:20240904T060000Z
+DTEND:20240904T063000Z
+DESCRIPTION:Para Cycling Road - Women's C5 Individual Time Trial\n🇦🇺
+  Alana FORSTER\n🇮🇹 Claudia CRETTI\n🇮🇹 Eleonora MELE\n🇫🇷 Heidi
+  GAUGAIN\n🇫🇷 Marie PATOUILLET\n🇳🇿 Nicole MURRAY\n🇨🇴 Paula Andrea
+  OSSA VELOZA\n🇬🇧 Sarah STOREY
+SUMMARY:Women's C5 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T061400Z-para-cycling-road-WOMENS-C4-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T061400Z
+DTSTART:20240904T061400Z
+DTEND:20240904T064400Z
+DESCRIPTION:Para Cycling Road - Women's C4 Individual Time Trial\n🇳🇿 Anna
+  Grace TAYLOR\n🇦🇺 Emily PETRICOLA\n🇨🇭 Franziska MATILE-DOERIG\n🇨🇦
+  Kate O'BRIEN\n🇨🇦 Keely SHAW\n🇨🇳 LI Xiaohui\n🇦🇺 Meg LEMON\n🇺🇸
+  Samantha BOSCO\n🇺🇸 Shawn MORELLI
+SUMMARY:Women's C4 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T073900Z-para-cycling-road-MENS-H2-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T073900Z
+DTSTART:20240904T073900Z
+DTEND:20240904T081700Z
+DESCRIPTION:Para Cycling Road - Men's H2 Individual Time Trial\n🇮🇱 Amit
+  HASDAI\n🇺🇸 Cody WILLS\n🇫🇷 Florian JOUANNY\n🇮🇹 Luca MAZZONE\n🇳🇿
+  Rory MEAD\n🇪🇸 Sergio GARROTE MUNOZ
+SUMMARY:Men's H2 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T080000Z-para-equestrian-INDIVIDUAL-EVENT-GRADE-IV
 DTSTAMP:20240904T080000Z
 DTSTART:20240904T080000Z
@@ -178,5 +213,66 @@ DESCRIPTION:Para Athletics - Women's Shot Put - F46 Final\n🇮🇳 Amisha
   YIGITALIEVA\n🇧🇷 Suzana NAHIRNEI\n🇨🇳 ZHANG Jiamin
 SUMMARY:Women's Shot Put - F46 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T122500Z-para-cycling-road-MENS-C3-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T122500Z
+DTSTART:20240904T122500Z
+DTEND:20240904T131600Z
+DESCRIPTION:Para Cycling Road - Men's C3 Individual Time Trial\n🇨🇦
+  Alexandre HAYWARD\n🇬🇧 Ben WATSON\n🇳🇿 Devon BRIGGS\n🇪🇸 Eduardo
+  SANTAS ASENSIO\n🇯🇵 FUJITA Masaki\n🇬🇧 Fin GRAHAM\n🇸🇪 Henrik
+  MARVIG\n🇬🇧 Jaco van GASS\n🇩🇪 Matthias SCHINDLER\n🇲🇾 Muhammad Adi
+  Raimie AMIZAZAHAN\n🇫🇷 Thomas PEYROTON-DARTET
+SUMMARY:Men's C3 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T073000Z-para-cycling-road-MENS-H1-2-ROAD-RACE
+DTSTAMP:20240905T073000Z
+DTSTART:20240905T073000Z
+DTEND:20240905T094300Z
+DESCRIPTION:Para Cycling Road - Men's H1-2 Road Race\n🇮🇱 Amit
+  HASDAI\n🇨🇭 Benjamin FRUEH\n🇺🇸 Cody WILLS\n🇮🇹 Fabrizio
+  CORNEGLIANI\n🇫🇷 Florian JOUANNY\n🇮🇹 Luca MAZZONE\n🇧🇪 Maxime
+  HORDIES\n🇿🇦 Nicolas Pieter du PREEZ\n🇨🇿 Patrik JAHODA\n🇳🇿 Rory
+  MEAD\n🇪🇸 Sergio GARROTE MUNOZ
+SUMMARY:Men's H1-2 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T073500Z-para-cycling-road-WOMENS-C4-5-ROAD-RACE
+DTSTAMP:20240906T073500Z
+DTSTART:20240906T073500Z
+DTEND:20240906T094700Z
+DESCRIPTION:Para Cycling Road - Women's C4-5 Road Race\n🇦🇺 Alana
+  FORSTER\n🇮🇹 Claudia CRETTI\n🇮🇹 Eleonora MELE\n🇦🇺 Emily
+  PETRICOLA\n🇨🇭 Franziska MATILE-DOERIG\n🇫🇷 Heidi GAUGAIN\n🇨🇦 Keely
+  SHAW\n🇨🇳 LI Xiaohui\n🇫🇷 Marie PATOUILLET\n🇦🇷 Mariela Analia
+  DELGADO\n🇦🇺 Meg LEMON\n🇳🇿 Nicole MURRAY\n🇨🇴 Paula Andrea OSSA
+  VELOZA\n🇺🇸 Samantha BOSCO\n🇬🇧 Sarah STOREY\n🇺🇸 Shawn MORELLI
+SUMMARY:Women's C4-5 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T073000Z-para-cycling-road-MENS-C1-3-ROAD-RACE
+DTSTAMP:20240907T073000Z
+DTSTART:20240907T073000Z
+DTEND:20240907T092000Z
+DESCRIPTION:Para Cycling Road - Men's C1-3 Road Race\n🇨🇦 Alexandre
+  HAYWARD\n🇫🇷 Alexandre LEAUTE\n🇮🇳 Arshad SHAIK\n🇬🇧 Ben WATSON\n🇧🇷
+  Carlos Alberto GOMES SOARES\n🇦🇺 Darren HICKS\n🇳🇿 Devon BRIGGS\n🇪🇸
+  Eduardo SANTAS ASENSIO\n🇵🇦 Esteban GODDARD MEDICA\n🇧🇪 Ewoud
+  VROMANT\n🇯🇵 FUJITA Masaki\n🇬🇧 Fin GRAHAM\n🇺🇿 Golibbek
+  MIRZOYAROV\n🇦🇺 Gordon ALLAN\n🇲🇦 Haytam EL AMRAOUY\n🇸🇪 Henrik
+  MARVIG\n🇵🇪 Israel HILARIO RIMAS\n🇬🇧 Jaco van GASS\n🇯🇵 KAWAMOTO
+  Shota\n🇨🇳 LIANG Weicong\n🇬🇧 Matthew ROBERTSON\n🇩🇪 Matthias
+  SCHINDLER\n🇩🇪 Michael TEUBER\n🇲🇾 Mohamad Yusof Hafizi
+  SHAHARUDDIN\n🇲🇾 Muhammad Adi Raimie AMIZAZAHAN\n🇬🇷 Nikolaos
+  PAPANGELIS\n🇩🇪 Pierre SENSKA\n🇪🇸 Ricardo TEN ARGILES\n🇦🇷 Rodrigo
+  Fernando LOPEZ\n🇵🇹 Telmo PINAO\n🇫🇷 Thomas PEYROTON-DARTET\n🇵🇱
+  Zbigniew MACIEJEWSKI
+SUMMARY:Men's C1-3 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 END:VCALENDAR

@@ -229,6 +229,17 @@ SUMMARY:Women's 400m - T37 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T075100Z-para-cycling-road-MENS-H1-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T075100Z
+DTSTART:20240904T075100Z
+DTEND:20240904T082900Z
+DESCRIPTION:Para Cycling Road - Men's H1 Individual Time Trial\n🇨🇭
+  Benjamin FRUEH\n🇮🇹 Fabrizio CORNEGLIANI\n🇧🇪 Maxime HORDIES\n🇿🇦
+  Nicolas Pieter du PREEZ\n🇨🇿 Patrik JAHODA
+SUMMARY:Men's H1 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T080000Z-para-equestrian-INDIVIDUAL-EVENT-GRADE-IV
 DTSTAMP:20240904T080000Z
 DTSTART:20240904T080000Z
@@ -275,5 +286,18 @@ DESCRIPTION:Para Athletics - Men's Long Jump - T64 Final\n🇺🇸 Derek
   BODELIER\n🇬🇷 Stylianos MALAKOPOULOS\n🇺🇸 Trenten MERRILL
 SUMMARY:Men's Long Jump - T64 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T073000Z-para-cycling-road-MENS-H1-2-ROAD-RACE
+DTSTAMP:20240905T073000Z
+DTSTART:20240905T073000Z
+DTEND:20240905T094300Z
+DESCRIPTION:Para Cycling Road - Men's H1-2 Road Race\n🇮🇱 Amit
+  HASDAI\n🇨🇭 Benjamin FRUEH\n🇺🇸 Cody WILLS\n🇮🇹 Fabrizio
+  CORNEGLIANI\n🇫🇷 Florian JOUANNY\n🇮🇹 Luca MAZZONE\n🇧🇪 Maxime
+  HORDIES\n🇿🇦 Nicolas Pieter du PREEZ\n🇨🇿 Patrik JAHODA\n🇳🇿 Rory
+  MEAD\n🇪🇸 Sergio GARROTE MUNOZ
+SUMMARY:Men's H1-2 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 END:VCALENDAR
