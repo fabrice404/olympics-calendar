@@ -1603,12 +1603,12 @@ SUMMARY: Yuttajak GLINBANCHEUN 🇹🇭 - 🇨🇳 ZHAI Xiang
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
-UID:20240903T095000Z-boccia-MIXED-TEAM-BC1BC2-PRELIMINARY-ROUND-POOL-B-THA-
+UID:20240903T095000Z-boccia-MIXED-TEAM-BC1BC2-PRELIMINARY-ROUND-POOL-B-SVK-
 DTSTAMP:20240903T095000Z
 DTSTART:20240903T095000Z
 DTEND:20240903T112000Z
 DESCRIPTION:Boccia - Mixed Team - BC1/BC2 Preliminary Round Pool B
-SUMMARY: THA 🇹🇭 - 🇸🇰 SVK
+SUMMARY: SVK 🇸🇰 - 🇹🇭 THA
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -1843,6 +1843,19 @@ SUMMARY:Men's 100m - T53 Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T095200Z-para-athletics-MENS-100M-T54-ROUND-1
+DTSTAMP:20240904T095200Z
+DTSTART:20240904T095200Z
+DTEND:20240904T100600Z
+DESCRIPTION:Para Athletics - Men's 100m - T54 Round 1\n🇹🇭 Athiwat
+  PAENG-NUEA\n🇨🇳 HU Yang\n🇹🇿 Hilmy SHAWWAL\n🇯🇵 IKOMA Tomoki\n🇲🇽
+  Juan Pablo CERVANTES GARCIA\n🇫🇮 Leo-Pekka TAHTI\n🇦🇺 Luke BAILEY\n🇬🇲
+  Malang TAMBA\n🇵🇹 Mamudo BALDE\n🇹🇭 Phiphatphong SIANGLAM\n🇪🇷 Sibhatu
+  Kesete WELDEMARIAM\n🇦🇲 Smbat KARAPETYAN\n🇰🇭 Vun VAN\n🇨🇳 ZHANG Ying
+SUMMARY:Men's 100m - T54 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T101000Z-wheelchair-fencing-WOMENS-FOIL-CATEGORY-B-QUARTERFINAL
 DTSTAMP:20240904T101000Z
 DTSTART:20240904T101000Z
@@ -1869,6 +1882,19 @@ DESCRIPTION:Shooting Para Sport - R9 - Mixed 50m Rifle Prone SH2
   PLAKUSHCHYI\n🇬🇪 Vladimer TCHINTCHARAULI\n🇷🇸 Zdravko SAVANOVIC
 SUMMARY:R9 - Mixed 50m Rifle Prone SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T104400Z-para-athletics-MENS-400M-T12-ROUND-1
+DTSTAMP:20240904T104400Z
+DTSTART:20240904T104400Z
+DTEND:20240904T110800Z
+DESCRIPTION:Para Athletics - Men's 400m - T12 Round 1\n🇲🇦 Abdeslam
+  HILI\n🇹🇭 Kissanapong TISUWAN\n🇿🇲 Lassam KATONGO\n🇧🇷 Marcos Vinicius
+  de OLIVEIRA\n🇲🇦 Mouncef BOUJA\n🇻🇳 Nguyen Khanh Minh PHAM\n🇺🇸 Noah
+  MALONE\n🇹🇷 Oguz AKBULUT\n🇹🇳 Rouay JEBABLI\n🇹🇷 Serkan YILDIRIM\n🇨🇴
+  Yamil David ACOSTA MANJARRES
+SUMMARY:Men's 400m - T12 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T110000Z-para-table-tennis-WOMENS-SINGLES-WS3-QUARTERFINAL-4-TH

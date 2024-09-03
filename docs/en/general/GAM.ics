@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//en/general/ERI//EN
-X-WR-CALNAME:🇪🇷 Eritrea | Paris 2024
-NAME:🇪🇷 Eritrea | Paris 2024
+PRODID:-//fabrice404//olympics-calendar//en/general/GAM//EN
+X-WR-CALNAME:🇬🇲 Gambia | Paris 2024
+NAME:🇬🇲 Gambia | Paris 2024
 BEGIN:VEVENT
 UID:20240828T180000Z-opening-ceremony
 DTSTAMP:20240828T180000Z
@@ -11,20 +11,6 @@ DTEND:20240828T210000Z
 DESCRIPTION:Paris 2024 - Opening Ceremony
 SUMMARY:Paris 2024 - Opening Ceremony
 LOCATION:Paris
-END:VEVENT
-BEGIN:VEVENT
-UID:20240901T100500Z-para-athletics-MENS-400M-T54-ROUND-1
-DTSTAMP:20240901T100500Z
-DTSTART:20240901T100500Z
-DTEND:20240901T101900Z
-DESCRIPTION:Para Athletics - Men's 400m - T54 Round 1\n🇹🇭 Athiwat
-  PAENG-NUEA\n🇨🇳 DAI Yunqiang\n🇺🇸 Daniel ROMANCHUK\n🇬🇧 Daniel
-  SIDBURY\n🇰🇼 Faisal ALRAJEHI\n🇨🇳 HU Yang\n🇲🇽 Juan Pablo CERVANTES
-  GARCIA\n🇦🇺 Luke BAILEY\n🇵🇹 Mamudo BALDE\n🇬🇧 Nathan MAGUIRE\n🇹🇭
-  Phiphatphong SIANGLAM\n🇹🇭 Putharet KHONGRAK\n🇪🇷 Sibhatu Kesete
-  WELDEMARIAM\n🇹🇳 Yassine GHARBI\n🇨🇳 ZHANG Ying
-SUMMARY:Men's 400m - T54 Round 1
-LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T095200Z-para-athletics-MENS-100M-T54-ROUND-1
@@ -37,6 +23,20 @@ DESCRIPTION:Para Athletics - Men's 100m - T54 Round 1\n🇹🇭 Athiwat
   Malang TAMBA\n🇵🇹 Mamudo BALDE\n🇹🇭 Phiphatphong SIANGLAM\n🇪🇷 Sibhatu
   Kesete WELDEMARIAM\n🇦🇲 Smbat KARAPETYAN\n🇰🇭 Vun VAN\n🇨🇳 ZHANG Ying
 SUMMARY:Men's 100m - T54 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T100800Z-para-athletics-WOMENS-100M-T54-ROUND-1
+DTSTAMP:20240904T100800Z
+DTSTART:20240904T100800Z
+DTEND:20240904T102000Z
+DESCRIPTION:Para Athletics - Women's 100m - T54 Round 1\n🇨🇭 Alexandra
+  HELBLING\n🇫🇮 Amanda KOTAJA\n🇬🇲 Fatou SANNEH\n🇳🇬 Hannah
+  BABALOLA\n🇺🇸 Hannah DEDERICK\n🇧🇷 Jessica Gabrieli SOARES
+  GIACOMELLI\n🇱🇺 Katrin KOHL\n🇧🇪 Lea BAYEKULA\n🇨🇭 Licia
+  MUSSINELLI\n🇲🇺 Marie Desirella Brandy PERRINE\n🇲🇺 Noemi
+  ALPHONSE\n🇮🇪 Shauna BOCQUET\n🇺🇸 Tatyana McFADDEN\n🇨🇳 ZHOU Zhaoqian
+SUMMARY:Women's 100m - T54 Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT

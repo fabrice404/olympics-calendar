@@ -2795,6 +2795,20 @@ SUMMARY:Men's Long Jump - T38 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T100800Z-para-athletics-WOMENS-100M-T54-ROUND-1
+DTSTAMP:20240904T100800Z
+DTSTART:20240904T100800Z
+DTEND:20240904T102000Z
+DESCRIPTION:Para Athletics - Women's 100m - T54 Round 1\n🇨🇭 Alexandra
+  HELBLING\n🇫🇮 Amanda KOTAJA\n🇬🇲 Fatou SANNEH\n🇳🇬 Hannah
+  BABALOLA\n🇺🇸 Hannah DEDERICK\n🇧🇷 Jessica Gabrieli SOARES
+  GIACOMELLI\n🇱🇺 Katrin KOHL\n🇧🇪 Lea BAYEKULA\n🇨🇭 Licia
+  MUSSINELLI\n🇲🇺 Marie Desirella Brandy PERRINE\n🇲🇺 Noemi
+  ALPHONSE\n🇮🇪 Shauna BOCQUET\n🇺🇸 Tatyana McFADDEN\n🇨🇳 ZHOU Zhaoqian
+SUMMARY:Women's 100m - T54 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T103000Z-shooting-para-sport-R9-MIXED-50M-RIFLE-PRONE-SH2-QUALI
 DTSTAMP:20240904T103000Z
 DTSTART:20240904T103000Z
@@ -2811,6 +2825,28 @@ DESCRIPTION:Shooting Para Sport - R9 - Mixed 50m Rifle Prone SH2
   PLAKUSHCHYI\n🇬🇪 Vladimer TCHINTCHARAULI\n🇷🇸 Zdravko SAVANOVIC
 SUMMARY:R9 - Mixed 50m Rifle Prone SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T104400Z-para-athletics-MENS-400M-T12-ROUND-1
+DTSTAMP:20240904T104400Z
+DTSTART:20240904T104400Z
+DTEND:20240904T110800Z
+DESCRIPTION:Para Athletics - Men's 400m - T12 Round 1\n🇲🇦 Abdeslam
+  HILI\n🇹🇭 Kissanapong TISUWAN\n🇿🇲 Lassam KATONGO\n🇧🇷 Marcos Vinicius
+  de OLIVEIRA\n🇲🇦 Mouncef BOUJA\n🇻🇳 Nguyen Khanh Minh PHAM\n🇺🇸 Noah
+  MALONE\n🇹🇷 Oguz AKBULUT\n🇹🇳 Rouay JEBABLI\n🇹🇷 Serkan YILDIRIM\n🇨🇴
+  Yamil David ACOSTA MANJARRES
+SUMMARY:Men's 400m - T12 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T140000Z-wheelchair-basketball-WOMENS-QUARTERFINAL-USA-GBR
+DTSTAMP:20240904T140000Z
+DTSTART:20240904T140000Z
+DTEND:20240904T154500Z
+DESCRIPTION:Wheelchair Basketball - Women's Quarterfinal
+SUMMARY: USA 🇺🇸 - 🇬🇧 GBR
+LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T175800Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-49-POINTS-F

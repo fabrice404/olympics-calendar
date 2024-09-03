@@ -2987,12 +2987,12 @@ SUMMARY:Men's 400m - T37 Round 1
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240903T095000Z-boccia-MIXED-PAIRS-BC3-PRELIMINARY-ROUND-POOL-D-BRA-RS
+UID:20240903T095000Z-boccia-MIXED-PAIRS-BC3-PRELIMINARY-ROUND-POOL-D-RSA-BR
 DTSTAMP:20240903T095000Z
 DTSTART:20240903T095000Z
 DTEND:20240903T112000Z
 DESCRIPTION:Boccia - Mixed Pairs - BC3 Preliminary Round Pool D
-SUMMARY: BRA 🇧🇷 - 🇿🇦 RSA
+SUMMARY: RSA 🇿🇦 - 🇧🇷 BRA
 LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
@@ -3379,6 +3379,18 @@ SUMMARY:Women's 200m Individual Medley - SM14 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T080900Z-para-athletics-MENS-JAVELIN-THROW-F34-FINAL
+DTSTAMP:20240904T080900Z
+DTSTART:20240904T080900Z
+DTEND:20240904T100900Z
+DESCRIPTION:Para Athletics - Men's Javelin Throw - F34 Final\n🇲🇦 Azeddine
+  NOUIRI\n🇨🇴 Diego Fernando MENESES MEDINA\n🇧🇷 Eduardo dos SANTOS
+  PEREIRA\n🇮🇶 Hussein KHAFAJI\n🇨🇳 LIN Wenbang\n🇨🇴 Mauricio
+  VALENCIA\n🇮🇷 Saeid AFROOZ\n🇨🇳 ZHANG Zhongqiang
+SUMMARY:Men's Javelin Throw - F34 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T081000Z-wheelchair-fencing-WOMENS-FOIL-CATEGORY-B-TABLE-OF-16-
 DTSTAMP:20240904T081000Z
 DTSTART:20240904T081000Z
@@ -3493,6 +3505,20 @@ SUMMARY: RAMPHADI/SITHOLE 🇿🇦 - 🇧🇷 PENA/SILVA
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T100800Z-para-athletics-WOMENS-100M-T54-ROUND-1
+DTSTAMP:20240904T100800Z
+DTSTART:20240904T100800Z
+DTEND:20240904T102000Z
+DESCRIPTION:Para Athletics - Women's 100m - T54 Round 1\n🇨🇭 Alexandra
+  HELBLING\n🇫🇮 Amanda KOTAJA\n🇬🇲 Fatou SANNEH\n🇳🇬 Hannah
+  BABALOLA\n🇺🇸 Hannah DEDERICK\n🇧🇷 Jessica Gabrieli SOARES
+  GIACOMELLI\n🇱🇺 Katrin KOHL\n🇧🇪 Lea BAYEKULA\n🇨🇭 Licia
+  MUSSINELLI\n🇲🇺 Marie Desirella Brandy PERRINE\n🇲🇺 Noemi
+  ALPHONSE\n🇮🇪 Shauna BOCQUET\n🇺🇸 Tatyana McFADDEN\n🇨🇳 ZHOU Zhaoqian
+SUMMARY:Women's 100m - T54 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T101500Z-para-table-tennis-WOMENS-SINGLES-WS3-QUARTERFINAL-1-KO
 DTSTAMP:20240904T101500Z
 DTSTART:20240904T101500Z
@@ -3531,6 +3557,19 @@ DESCRIPTION:Shooting Para Sport - R9 - Mixed 50m Rifle Prone SH2
   PLAKUSHCHYI\n🇬🇪 Vladimer TCHINTCHARAULI\n🇷🇸 Zdravko SAVANOVIC
 SUMMARY:R9 - Mixed 50m Rifle Prone SH2 Qualification
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T104400Z-para-athletics-MENS-400M-T12-ROUND-1
+DTSTAMP:20240904T104400Z
+DTSTART:20240904T104400Z
+DTEND:20240904T110800Z
+DESCRIPTION:Para Athletics - Men's 400m - T12 Round 1\n🇲🇦 Abdeslam
+  HILI\n🇹🇭 Kissanapong TISUWAN\n🇿🇲 Lassam KATONGO\n🇧🇷 Marcos Vinicius
+  de OLIVEIRA\n🇲🇦 Mouncef BOUJA\n🇻🇳 Nguyen Khanh Minh PHAM\n🇺🇸 Noah
+  MALONE\n🇹🇷 Oguz AKBULUT\n🇹🇳 Rouay JEBABLI\n🇹🇷 Serkan YILDIRIM\n🇨🇴
+  Yamil David ACOSTA MANJARRES
+SUMMARY:Men's 400m - T12 Round 1
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T105500Z-para-equestrian-INDIVIDUAL-EVENT-GRADE-V

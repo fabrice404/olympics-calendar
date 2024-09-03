@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/ZAM//EN
+X-WR-CALNAME:🇿🇲 Zambia | Paris 2024
+NAME:🇿🇲 Zambia | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - Opening Ceremony
+SUMMARY:Paris 2024 - Opening Ceremony
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T104400Z-para-athletics-MENS-400M-T12-ROUND-1
+DTSTAMP:20240904T104400Z
+DTSTART:20240904T104400Z
+DTEND:20240904T110800Z
+DESCRIPTION:Para Athletics - Men's 400m - T12 Round 1\n🇲🇦 Abdeslam
+  HILI\n🇹🇭 Kissanapong TISUWAN\n🇿🇲 Lassam KATONGO\n🇧🇷 Marcos Vinicius
+  de OLIVEIRA\n🇲🇦 Mouncef BOUJA\n🇻🇳 Nguyen Khanh Minh PHAM\n🇺🇸 Noah
+  MALONE\n🇹🇷 Oguz AKBULUT\n🇹🇳 Rouay JEBABLI\n🇹🇷 Serkan YILDIRIM\n🇨🇴
+  Yamil David ACOSTA MANJARRES
+SUMMARY:Men's 400m - T12 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing Ceremony
+SUMMARY:Paris 2024 - Closing Ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR
