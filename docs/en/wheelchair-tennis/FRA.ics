@@ -174,4 +174,14 @@ DESCRIPTION:Wheelchair Tennis - Men's Singles Quarter-final
 SUMMARY: Martin de la PUENTE 🇪🇸 - 🇫🇷 Stephane HOUDET
 LOCATION:Roland-Garros Stadium
 END:VEVENT
+BEGIN:VEVENT
+UID:20240904T100000Z-wheelchair-tennis-MENS-DOUBLES-SEMI-FINAL
+DTSTAMP:20240904T100000Z
+DTSTART:20240904T100000Z
+DTEND:20240904T160000Z
+DESCRIPTION:Wheelchair Tennis - Men's Doubles Semi-final\n🇫🇷
+  CATTANEO/HOUDET
+SUMMARY:Men's Doubles Semi-final
+LOCATION:Roland-Garros Stadium
+END:VEVENT
 END:VCALENDAR
