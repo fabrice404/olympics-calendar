@@ -5472,13 +5472,12 @@ SUMMARY:Women's up to 41kg Final
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240904T124000Z-wheelchair-fencing-MENS-FOIL-CATEGORY-B-SEMIFINAL
+UID:20240904T124000Z-wheelchair-fencing-MENS-FOIL-CATEGORY-B-SEMIFINAL-CHN-
 DTSTAMP:20240904T124000Z
 DTSTART:20240904T124000Z
 DTEND:20240904T131000Z
-DESCRIPTION:Wheelchair Fencing - Men's Foil Category B Semifinal\n🇨🇳 FENG
-  Yanke
-SUMMARY:Men's Foil Category B Semifinal
+DESCRIPTION:Wheelchair Fencing - Men's Foil Category B Semifinal
+SUMMARY: HU Daoliang 🇨🇳 - 🇨🇳 FENG Yanke
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -5561,6 +5560,18 @@ DTEND:20240904T180000Z
 DESCRIPTION:Para Table Tennis - Men's Singles - MS8 - Quarterfinal 3
 SUMMARY: ZHAO Shuai 🇨🇳 - 🇬🇧 Aaron McKIBBIN
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T172500Z-para-athletics-MENS-100M-T54-FINAL
+DTSTAMP:20240904T172500Z
+DTSTART:20240904T172500Z
+DTEND:20240904T173100Z
+DESCRIPTION:Para Athletics - Men's 100m - T54 Final\n🇹🇭 Athiwat
+  PAENG-NUEA\n🇨🇳 HU Yang\n🇲🇽 Juan Pablo CERVANTES GARCIA\n🇫🇮
+  Leo-Pekka TAHTI\n🇦🇺 Luke BAILEY\n🇵🇹 Mamudo BALDE\n🇹🇭 Phiphatphong
+  SIANGLAM\n🇨🇳 ZHANG Ying
+SUMMARY:Men's 100m - T54 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T173300Z-para-athletics-WOMENS-100M-T12-ROUND-1

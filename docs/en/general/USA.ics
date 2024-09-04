@@ -3081,7 +3081,7 @@ DTSTAMP:20240904T111000Z
 DTSTART:20240904T111000Z
 DTEND:20240904T114000Z
 DESCRIPTION:Wheelchair Fencing - Women's Foil Category A Repechage Round 1
-SUMMARY: Victoria ISAACSON 🇺🇸 - 🇭🇰 FAN Pui Shan
+SUMMARY: Jataya TAYLOR 🇺🇸 - 🇺🇦 Nataliia MORKVYCH
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -3089,9 +3089,8 @@ UID:20240904T111000Z-wheelchair-fencing-WOMENS-FOIL-CATEGORY-A-REPECHAGE-RO
 DTSTAMP:20240904T111000Z
 DTSTART:20240904T111000Z
 DTEND:20240904T114000Z
-DESCRIPTION:Wheelchair Fencing - Women's Foil Category A Repechage Round
-  1\n🇺🇸 Jataya TAYLOR
-SUMMARY:Women's Foil Category A Repechage Round 1
+DESCRIPTION:Wheelchair Fencing - Women's Foil Category A Repechage Round 1
+SUMMARY: Victoria ISAACSON 🇺🇸 - 🇭🇰 FAN Pui Shan
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -3152,6 +3151,18 @@ DTEND:20240904T154500Z
 DESCRIPTION:Wheelchair Basketball - Women's Quarterfinal
 SUMMARY: USA 🇺🇸 - 🇬🇧 GBR
 LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T171400Z-para-athletics-MENS-100M-T53-FINAL
+DTSTAMP:20240904T171400Z
+DTSTART:20240904T171400Z
+DTEND:20240904T172000Z
+DESCRIPTION:Para Athletics - Men's 100m - T53 Final\n🇸🇦 Adbulrahman
+  ALQURASHI\n🇧🇷 Ariosvaldo FERNANDES da SILVA\n🇺🇸 Brian SIEMANN\n🇹🇳
+  Mohamed Nidhal KHELIFI\n🇹🇭 Pichet KRUNGGET\n🇫🇷 Pierre FAIRBANK\n🇹🇭
+  Pongsakorn PAEYO\n🇰🇷 YOO Byunghoon
+SUMMARY:Men's 100m - T53 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T175800Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-49-POINTS-F
