@@ -1119,6 +1119,53 @@ SUMMARY:Women's up to 45kg Final
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T153000Z-para-swimming-MENS-100M-FREESTYLE-S12-FINAL
+DTSTAMP:20240904T153000Z
+DTSTART:20240904T153000Z
+DTEND:20240904T153600Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S12 Final\n🇺🇦 Illia
+  YAREMENKO\n🇪🇸 Ivan SALGUERO OTEIZA\n🇫🇷 Kylian PORTAL\n🇺🇦 Maksym
+  VERAKSA\n🇦🇿 Raman SALEI\n🇬🇧 Stephen CLEGG\n🇺🇦 Yaroslav DENYSENKO
+SUMMARY:Men's 100m Freestyle - S12 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T154200Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM14-FINAL
+DTSTAMP:20240904T154200Z
+DTSTART:20240904T154200Z
+DTEND:20240904T155000Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM14 Final\n🇬🇧
+  Cameron VEARNCOMBE\n🇺🇦 Dmytro VANZENKO\n🇨🇦 Nicholas BENNETT\n🇬🇧
+  Rhys DARBEY\n🇦🇺 Ricky BETAR\n🇺🇦 Vasyl KRAINYK\n🇬🇧 William
+  ELLARD\n🇯🇵 YAMAGUCHI Naohide
+SUMMARY:Men's 200m Individual Medley - SM14 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T155000Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM14-FINAL
+DTSTAMP:20240904T155000Z
+DTSTART:20240904T155000Z
+DTEND:20240904T155800Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM14
+  Final\n🇭🇰 CHAN Yui Lam\n🇯🇵 KINOSHITA Aira\n🇬🇧 Louise FIDDES\n🇬🇧
+  Olivia NEWMAN-BARONIUS\n🇦🇺 Paige LEONHARDT\n🇸🇪 Pernilla
+  LINDBERG\n🇬🇧 Poppy MASKILL
+SUMMARY:Women's 200m Individual Medley - SM14 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T162400Z-para-swimming-WOMENS-400M-FREESTYLE-S8-FINAL
+DTSTAMP:20240904T162400Z
+DTSTART:20240904T162400Z
+DTEND:20240904T163500Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S8 Final\n🇬🇧 Alice
+  TAI\n🇬🇧 Brock WHISTON\n🇦🇺 Ella JONES\n🇺🇸 Jessica LONG\n🇪🇸 Nahia
+  ZUDAIRE BORREZO\n🇨🇿 Vendula DUSKOVA\n🇮🇹 Xenia Francesca PALAZZO\n🇨🇳
+  ZHENG Tingting
+SUMMARY:Women's 400m Freestyle - S8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T170000Z-para-table-tennis-MENS-SINGLES-MS1-SEMIFINAL-2-HUN-GBR
 DTSTAMP:20240904T170000Z
 DTSTART:20240904T170000Z
@@ -1126,6 +1173,18 @@ DTEND:20240904T180000Z
 DESCRIPTION:Para Table Tennis - Men's Singles - MS1 - Semifinal 2
 SUMMARY: Endre MAJOR 🇭🇺 - 🇬🇧 Robert DAVIES
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T173500Z-para-swimming-WOMENS-100M-FREESTYLE-S9-FINAL
+DTSTAMP:20240904T173500Z
+DTSTART:20240904T173500Z
+DTEND:20240904T174200Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S9 Final\n🇦🇺 Alexa
+  LEARY\n🇺🇸 Christie RALEIGH-CROSSLEY\n🇦🇺 Emily BEECROFT\n🇧🇷 Mariana
+  RIBEIRO\n🇺🇸 Natalie SIMS\n🇪🇸 Sarai GASCON\n🇬🇧 Toni SHAW\n🇨🇳 XU
+  Jialing
+SUMMARY:Women's 100m Freestyle - S9 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T175800Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-49-POINTS-F
@@ -1148,6 +1207,16 @@ DESCRIPTION:Para Athletics - Women's 100m - T53 Final\n🇨🇭 Catherine
   Jessica Cooper LEWIS\n🇬🇧 Samantha KINGHORN\n🇨🇳 ZHOU Hongzhuan
 SUMMARY:Women's 100m - T53 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T090000Z-para-table-tennis-WOMENS-SINGLES-WS7-SEMIFINAL-2
+DTSTAMP:20240905T090000Z
+DTSTART:20240905T090000Z
+DTEND:20240905T100000Z
+DESCRIPTION:Para Table Tennis - Women's Singles - WS7 - Semifinal 2\n🇬🇧
+  Bly TWOMEY
+SUMMARY:Women's Singles - WS7 - Semifinal 2
+LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T100000Z-para-powerlifting-WOMENS-UP-TO-50KG-FINAL

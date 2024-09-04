@@ -1660,6 +1660,29 @@ SUMMARY:Women's up to 45kg Final
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T155800Z-para-swimming-MENS-400M-FREESTYLE-S8-FINAL
+DTSTAMP:20240904T155800Z
+DTSTART:20240904T155800Z
+DTEND:20240904T160900Z
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S8 Final\n🇮🇹 Alberto
+  AMODEO\n🇦🇺 Callum SIMPSON\n🇪🇸 Inigo LLOPIS SANZ\n🇺🇸 Matthew
+  TORRES\n🇺🇸 Noah JAFFE\n🇨🇦 Reid MAXWELL\n🇨🇳 XU Haijiao
+SUMMARY:Men's 400m Freestyle - S8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T162400Z-para-swimming-WOMENS-400M-FREESTYLE-S8-FINAL
+DTSTAMP:20240904T162400Z
+DTSTART:20240904T162400Z
+DTEND:20240904T163500Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S8 Final\n🇬🇧 Alice
+  TAI\n🇬🇧 Brock WHISTON\n🇦🇺 Ella JONES\n🇺🇸 Jessica LONG\n🇪🇸 Nahia
+  ZUDAIRE BORREZO\n🇨🇿 Vendula DUSKOVA\n🇮🇹 Xenia Francesca PALAZZO\n🇨🇳
+  ZHENG Tingting
+SUMMARY:Women's 400m Freestyle - S8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T163500Z-para-powerlifting-MENS-UP-TO-54KG-FINAL
 DTSTAMP:20240904T163500Z
 DTSTART:20240904T163500Z
@@ -1673,6 +1696,18 @@ SUMMARY:Men's up to 54kg Final
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T170400Z-para-athletics-WOMENS-100M-T36-FINAL
+DTSTAMP:20240904T170400Z
+DTSTART:20240904T170400Z
+DTEND:20240904T171100Z
+DESCRIPTION:Para Athletics - Women's 100m - T36 Final\n🇦🇷 Araceli
+  ROTELA\n🇳🇱 Cheyenne BOUTHOORN\n🇳🇿 Danielle AITCHISON\n🇰🇷 JEON Min
+  Jae\n🇦🇺 Mali LOVELL\n🇨🇳 SHI Yiting\n🇧🇷 Samira da SILVA BRITO\n🇧🇷
+  Veronica HIPOLITO
+SUMMARY:Women's 100m - T36 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T172500Z-para-athletics-MENS-100M-T54-FINAL
 DTSTAMP:20240904T172500Z
 DTSTART:20240904T172500Z
@@ -1683,6 +1718,30 @@ DESCRIPTION:Para Athletics - Men's 100m - T54 Final\n🇹🇭 Athiwat
   SIANGLAM\n🇨🇳 ZHANG Ying
 SUMMARY:Men's 100m - T54 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T172800Z-para-swimming-WOMENS-100M-FREESTYLE-S7-FINAL
+DTSTAMP:20240904T172800Z
+DTSTART:20240904T172800Z
+DTEND:20240904T173500Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S7 Final\n🇦🇺 Chloe
+  OSBORN\n🇺🇸 Ellie MARKS\n🇮🇹 Giulia TERZI\n🇨🇳 JIANG Yuyan\n🇺🇸
+  McKenzie COAN\n🇺🇸 Morgan STICKNEY\n🇨🇴 Sara VARGAS BLANCO\n🇨🇦 Tess
+  ROUTLIFFE
+SUMMARY:Women's 100m Freestyle - S7 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T173500Z-para-swimming-WOMENS-100M-FREESTYLE-S9-FINAL
+DTSTAMP:20240904T173500Z
+DTSTART:20240904T173500Z
+DTEND:20240904T174200Z
+DESCRIPTION:Para Swimming - Women's 100m Freestyle - S9 Final\n🇦🇺 Alexa
+  LEARY\n🇺🇸 Christie RALEIGH-CROSSLEY\n🇦🇺 Emily BEECROFT\n🇧🇷 Mariana
+  RIBEIRO\n🇺🇸 Natalie SIMS\n🇪🇸 Sarai GASCON\n🇬🇧 Toni SHAW\n🇨🇳 XU
+  Jialing
+SUMMARY:Women's 100m Freestyle - S9 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T175800Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-49-POINTS-F
