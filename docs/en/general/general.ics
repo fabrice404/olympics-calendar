@@ -19234,7 +19234,8 @@ UID:20240904T095000Z-para-archery-MENS-INDIVIDUAL-RECURVE-OPEN-18-ELIMINATI
 DTSTAMP:20240904T095000Z
 DTSTART:20240904T095000Z
 DTEND:20240904T100700Z
-DESCRIPTION:Para Archery - Men's Individual Recurve Open 1/8 Elimination
+DESCRIPTION:Para Archery - Men's Individual Recurve Open 1/8
+  Elimination\n🇯🇵 UEYAMA Tomohiro
 SUMMARY:Men's Individual Recurve Open 1/8 Elimination
 LOCATION:Invalides
 END:VEVENT
@@ -19643,7 +19644,8 @@ UID:20240904T104000Z-wheelchair-fencing-MENS-FOIL-CATEGORY-A-QUARTERFINAL
 DTSTAMP:20240904T104000Z
 DTSTART:20240904T104000Z
 DTEND:20240904T111000Z
-DESCRIPTION:Wheelchair Fencing - Men's Foil Category A Quarterfinal
+DESCRIPTION:Wheelchair Fencing - Men's Foil Category A Quarterfinal\n🇭🇺
+  Richard OSVATH
 SUMMARY:Men's Foil Category A Quarterfinal
 LOCATION:Grand Palais
 END:VEVENT
@@ -19652,18 +19654,9 @@ UID:20240904T104000Z-wheelchair-fencing-MENS-FOIL-CATEGORY-A-QUARTERFINAL
 DTSTAMP:20240904T104000Z
 DTSTART:20240904T104000Z
 DTEND:20240904T111000Z
-DESCRIPTION:Wheelchair Fencing - Men's Foil Category A Quarterfinal\n🇭🇺
-  Richard OSVATH
+DESCRIPTION:Wheelchair Fencing - Men's Foil Category A Quarterfinal\n🇵🇱
+  Michal NALEWAJEK
 SUMMARY:Men's Foil Category A Quarterfinal
-LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240904T104000Z-wheelchair-fencing-MENS-FOIL-CATEGORY-A-REPECHAGE-ROUN
-DTSTAMP:20240904T104000Z
-DTSTART:20240904T104000Z
-DTEND:20240904T111000Z
-DESCRIPTION:Wheelchair Fencing - Men's Foil Category A Repechage Round 1
-SUMMARY:Men's Foil Category A Repechage Round 1
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -19673,6 +19666,16 @@ DTSTART:20240904T104000Z
 DTEND:20240904T111000Z
 DESCRIPTION:Wheelchair Fencing - Men's Foil Category A Repechage Round
   1\n🇧🇷 Kevin DAMASCENO
+SUMMARY:Men's Foil Category A Repechage Round 1
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T104000Z-wheelchair-fencing-MENS-FOIL-CATEGORY-A-REPECHAGE-ROUN
+DTSTAMP:20240904T104000Z
+DTSTART:20240904T104000Z
+DTEND:20240904T111000Z
+DESCRIPTION:Wheelchair Fencing - Men's Foil Category A Repechage Round
+  1\n🇺🇦 Andrii DEMCHUK
 SUMMARY:Men's Foil Category A Repechage Round 1
 LOCATION:Grand Palais
 END:VEVENT
