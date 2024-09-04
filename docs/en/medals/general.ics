@@ -4327,7 +4327,7 @@ BEGIN:VEVENT
 UID:20240904T125000Z-para-cycling-road-MENS-C3-INDIVIDUAL-TIME-TRIAL
 DTSTAMP:20240904T125000Z
 DTSTART:20240904T125000Z
-DTEND:20240904T131600Z
+DTEND:20240904T134100Z
 DESCRIPTION:Para Cycling Road - Men's C3 Individual Time Trial\n🇨🇦
   Alexandre HAYWARD\n🇬🇧 Ben WATSON\n🇳🇿 Devon BRIGGS\n🇪🇸 Eduardo
   SANTAS ASENSIO\n🇯🇵 FUJITA Masaki\n🇬🇧 Fin GRAHAM\n🇸🇪 Henrik
@@ -4793,7 +4793,8 @@ UID:20240904T185000Z-wheelchair-fencing-MENS-FOIL-CATEGORY-A-GOLD-MEDAL-BOU
 DTSTAMP:20240904T185000Z
 DTSTART:20240904T185000Z
 DTEND:20240904T192500Z
-DESCRIPTION:Wheelchair Fencing - Men's Foil Category A Gold Medal Bout
+DESCRIPTION:Wheelchair Fencing - Men's Foil Category A Gold Medal
+  Bout\n🇨🇳 SUN Gang
 SUMMARY:Men's Foil Category A Gold Medal Bout
 LOCATION:Grand Palais
 END:VEVENT
@@ -4811,9 +4812,8 @@ UID:20240904T192500Z-wheelchair-fencing-WOMENS-FOIL-CATEGORY-A-GOLD-MEDAL-B
 DTSTAMP:20240904T192500Z
 DTSTART:20240904T192500Z
 DTEND:20240904T200000Z
-DESCRIPTION:Wheelchair Fencing - Women's Foil Category A Gold Medal
-  Bout\n🇨🇳 ZOU Xufeng
-SUMMARY:Women's Foil Category A Gold Medal Bout
+DESCRIPTION:Wheelchair Fencing - Women's Foil Category A Gold Medal Bout
+SUMMARY: GU Haiyan 🇨🇳 - 🇨🇳 ZOU Xufeng
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
