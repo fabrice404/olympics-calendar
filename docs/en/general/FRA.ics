@@ -3679,19 +3679,6 @@ SUMMARY:Men's C4 Individual Time Trial
 LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
-UID:20240904T122500Z-para-cycling-road-MENS-C3-INDIVIDUAL-TIME-TRIAL
-DTSTAMP:20240904T122500Z
-DTSTART:20240904T122500Z
-DTEND:20240904T131600Z
-DESCRIPTION:Para Cycling Road - Men's C3 Individual Time Trial\n🇨🇦
-  Alexandre HAYWARD\n🇬🇧 Ben WATSON\n🇳🇿 Devon BRIGGS\n🇪🇸 Eduardo
-  SANTAS ASENSIO\n🇯🇵 FUJITA Masaki\n🇬🇧 Fin GRAHAM\n🇸🇪 Henrik
-  MARVIG\n🇬🇧 Jaco van GASS\n🇩🇪 Matthias SCHINDLER\n🇲🇾 Muhammad Adi
-  Raimie AMIZAZAHAN\n🇫🇷 Thomas PEYROTON-DARTET
-SUMMARY:Men's C3 Individual Time Trial
-LOCATION:Clichy-sous-bois
-END:VEVENT
-BEGIN:VEVENT
 UID:20240904T124000Z-wheelchair-fencing-MENS-FOIL-CATEGORY-B-REPECHAGE-ROUN
 DTSTAMP:20240904T124000Z
 DTSTART:20240904T124000Z
@@ -3701,27 +3688,16 @@ SUMMARY: Maxime VALET 🇫🇷 - 🇺🇦 Oleg NAUMENKO
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240904T124400Z-para-cycling-road-WOMENS-B-INDIVIDUAL-TIME-TRIAL
-DTSTAMP:20240904T124400Z
-DTSTART:20240904T124400Z
-DTEND:20240904T133700Z
-DESCRIPTION:Para Cycling Road - Women's B Individual Time Trial\n🇫🇷
-  Anne-Sophie CENTIS\n🇮🇪 Josephine HEALION\n🇮🇪 Katie-George
-  DUNLEVY\n🇬🇧 Lizzi JORDAN\n🇬🇧 Lora FACHIE\n🇸🇪 Louise JANNERING\n🇲🇾
-  Nur Suraiya MUHAMMAD ZAMRI\n🇵🇱 Patrycja KUTER\n🇬🇧 Sophie UNWIN\n🇹🇭
-  Watcharobon BOONMALERT
-SUMMARY:Women's B Individual Time Trial
-LOCATION:Clichy-sous-bois
-END:VEVENT
-BEGIN:VEVENT
-UID:20240904T125700Z-para-cycling-road-MENS-H5-INDIVIDUAL-TIME-TRIAL
-DTSTAMP:20240904T125700Z
-DTSTART:20240904T125700Z
-DTEND:20240904T134800Z
-DESCRIPTION:Para Cycling Road - Men's H5 Individual Time Trial\n🇹🇭
-  Atachai SRIWICHAI\n🇨🇳 LIU Qiangli\n🇫🇷 Loic VERGNAUD\n🇵🇹 Luis
-  COSTA\n🇳🇱 Mitch VALIZE\n🇺🇦 Pavlo BAL\n🇳🇱 Tim de VRIES
-SUMMARY:Men's H5 Individual Time Trial
+UID:20240904T125000Z-para-cycling-road-MENS-C3-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T125000Z
+DTSTART:20240904T125000Z
+DTEND:20240904T131600Z
+DESCRIPTION:Para Cycling Road - Men's C3 Individual Time Trial\n🇨🇦
+  Alexandre HAYWARD\n🇬🇧 Ben WATSON\n🇳🇿 Devon BRIGGS\n🇪🇸 Eduardo
+  SANTAS ASENSIO\n🇯🇵 FUJITA Masaki\n🇬🇧 Fin GRAHAM\n🇸🇪 Henrik
+  MARVIG\n🇬🇧 Jaco van GASS\n🇩🇪 Matthias SCHINDLER\n🇲🇾 Muhammad Adi
+  Raimie AMIZAZAHAN\n🇫🇷 Thomas PEYROTON-DARTET
+SUMMARY:Men's C3 Individual Time Trial
 LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
@@ -3735,6 +3711,19 @@ DESCRIPTION:Shooting Para Sport - R9 - Mixed 50m Rifle Prone SH2
   PLAKUSHCHYI\n🇬🇪 Vladimer TCHINTCHARAULI
 SUMMARY:R9 - Mixed 50m Rifle Prone SH2 Final
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T130900Z-para-cycling-road-WOMENS-B-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T130900Z
+DTSTART:20240904T130900Z
+DTEND:20240904T140200Z
+DESCRIPTION:Para Cycling Road - Women's B Individual Time Trial\n🇫🇷
+  Anne-Sophie CENTIS\n🇮🇪 Josephine HEALION\n🇮🇪 Katie-George
+  DUNLEVY\n🇬🇧 Lizzi JORDAN\n🇬🇧 Lora FACHIE\n🇸🇪 Louise JANNERING\n🇲🇾
+  Nur Suraiya MUHAMMAD ZAMRI\n🇵🇱 Patrycja KUTER\n🇬🇧 Sophie UNWIN\n🇹🇭
+  Watcharobon BOONMALERT
+SUMMARY:Women's B Individual Time Trial
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T131000Z-wheelchair-fencing-WOMENS-FOIL-CATEGORY-A-REPECHAGE-RO
@@ -3755,16 +3744,14 @@ SUMMARY: Damien TOKATLIAN 🇫🇷 - 🇮🇹 Emanuele LAMBERTINI
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240904T131100Z-para-cycling-road-MENS-H4-INDIVIDUAL-TIME-TRIAL
-DTSTAMP:20240904T131100Z
-DTSTART:20240904T131100Z
-DTEND:20240904T140600Z
-DESCRIPTION:Para Cycling Road - Men's H4 Individual Time Trial\n🇦🇹
-  Alexander GRITSCH\n🇨🇭 Fabian RECHER\n🇳🇱 Jetze PLAT\n🇧🇪 Jonas Van de
-  STEENE\n🇫🇷 Joseph FRITSCH\n🇺🇸 Matt TINGLEY\n🇵🇱 Rafal WILK\n🇹🇭
-  Sumas PANALAI\n🇦🇹 Thomas FRUEHWIRTH\n🇺🇸 Travis GAERTNER\n🇧🇷 Ulisses
-  LEAL FREITAS
-SUMMARY:Men's H4 Individual Time Trial
+UID:20240904T132200Z-para-cycling-road-MENS-H5-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T132200Z
+DTSTART:20240904T132200Z
+DTEND:20240904T141300Z
+DESCRIPTION:Para Cycling Road - Men's H5 Individual Time Trial\n🇹🇭
+  Atachai SRIWICHAI\n🇨🇳 LIU Qiangli\n🇫🇷 Loic VERGNAUD\n🇵🇹 Luis
+  COSTA\n🇳🇱 Mitch VALIZE\n🇺🇦 Pavlo BAL\n🇳🇱 Tim de VRIES
+SUMMARY:Men's H5 Individual Time Trial
 LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
@@ -3778,10 +3765,23 @@ SUMMARY:Men's Individual Recurve Open 1/8 Elimination
 LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
-UID:20240904T132800Z-para-cycling-road-MENS-H3-INDIVIDUAL-TIME-TRIAL
-DTSTAMP:20240904T132800Z
-DTSTART:20240904T132800Z
-DTEND:20240904T142900Z
+UID:20240904T133600Z-para-cycling-road-MENS-H4-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T133600Z
+DTSTART:20240904T133600Z
+DTEND:20240904T143100Z
+DESCRIPTION:Para Cycling Road - Men's H4 Individual Time Trial\n🇦🇹
+  Alexander GRITSCH\n🇨🇭 Fabian RECHER\n🇳🇱 Jetze PLAT\n🇧🇪 Jonas Van de
+  STEENE\n🇫🇷 Joseph FRITSCH\n🇺🇸 Matt TINGLEY\n🇵🇱 Rafal WILK\n🇹🇭
+  Sumas PANALAI\n🇦🇹 Thomas FRUEHWIRTH\n🇺🇸 Travis GAERTNER\n🇧🇷 Ulisses
+  LEAL FREITAS
+SUMMARY:Men's H4 Individual Time Trial
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T135300Z-para-cycling-road-MENS-H3-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T135300Z
+DTSTART:20240904T135300Z
+DTEND:20240904T145400Z
 DESCRIPTION:Para Cycling Road - Men's H3 Individual Time Trial\n🇺🇸
   Brandon LYONS\n🇨🇦 Charles MOREAU\n🇮🇹 Federico MESTRONI\n🇫🇷 Johan
   QUAILE\n🇪🇸 Luis Miguel GARCIA MARQUINA\n🇳🇱 Mark MEKENKAMP\n🇮🇹

@@ -1081,9 +1081,9 @@ SUMMARY:Men's C4 Individual Time Trial
 LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
-UID:20240904T122500Z-para-cycling-road-MENS-C3-INDIVIDUAL-TIME-TRIAL
-DTSTAMP:20240904T122500Z
-DTSTART:20240904T122500Z
+UID:20240904T125000Z-para-cycling-road-MENS-C3-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T125000Z
+DTSTART:20240904T125000Z
 DTEND:20240904T131600Z
 DESCRIPTION:Para Cycling Road - Men's C3 Individual Time Trial\n🇨🇦
   Alexandre HAYWARD\n🇬🇧 Ben WATSON\n🇳🇿 Devon BRIGGS\n🇪🇸 Eduardo
@@ -1091,19 +1091,6 @@ DESCRIPTION:Para Cycling Road - Men's C3 Individual Time Trial\n🇨🇦
   MARVIG\n🇬🇧 Jaco van GASS\n🇩🇪 Matthias SCHINDLER\n🇲🇾 Muhammad Adi
   Raimie AMIZAZAHAN\n🇫🇷 Thomas PEYROTON-DARTET
 SUMMARY:Men's C3 Individual Time Trial
-LOCATION:Clichy-sous-bois
-END:VEVENT
-BEGIN:VEVENT
-UID:20240904T124400Z-para-cycling-road-WOMENS-B-INDIVIDUAL-TIME-TRIAL
-DTSTAMP:20240904T124400Z
-DTSTART:20240904T124400Z
-DTEND:20240904T133700Z
-DESCRIPTION:Para Cycling Road - Women's B Individual Time Trial\n🇫🇷
-  Anne-Sophie CENTIS\n🇮🇪 Josephine HEALION\n🇮🇪 Katie-George
-  DUNLEVY\n🇬🇧 Lizzi JORDAN\n🇬🇧 Lora FACHIE\n🇸🇪 Louise JANNERING\n🇲🇾
-  Nur Suraiya MUHAMMAD ZAMRI\n🇵🇱 Patrycja KUTER\n🇬🇧 Sophie UNWIN\n🇹🇭
-  Watcharobon BOONMALERT
-SUMMARY:Women's B Individual Time Trial
 LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
@@ -1117,6 +1104,19 @@ DESCRIPTION:Shooting Para Sport - R9 - Mixed 50m Rifle Prone SH2
   PLAKUSHCHYI\n🇬🇪 Vladimer TCHINTCHARAULI
 SUMMARY:R9 - Mixed 50m Rifle Prone SH2 Final
 LOCATION:Chateauroux Shooting Ctr
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T130900Z-para-cycling-road-WOMENS-B-INDIVIDUAL-TIME-TRIAL
+DTSTAMP:20240904T130900Z
+DTSTART:20240904T130900Z
+DTEND:20240904T140200Z
+DESCRIPTION:Para Cycling Road - Women's B Individual Time Trial\n🇫🇷
+  Anne-Sophie CENTIS\n🇮🇪 Josephine HEALION\n🇮🇪 Katie-George
+  DUNLEVY\n🇬🇧 Lizzi JORDAN\n🇬🇧 Lora FACHIE\n🇸🇪 Louise JANNERING\n🇲🇾
+  Nur Suraiya MUHAMMAD ZAMRI\n🇵🇱 Patrycja KUTER\n🇬🇧 Sophie UNWIN\n🇹🇭
+  Watcharobon BOONMALERT
+SUMMARY:Women's B Individual Time Trial
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T150000Z-para-powerlifting-WOMENS-UP-TO-45KG-FINAL
@@ -1197,6 +1197,15 @@ DESCRIPTION:Para Swimming - Women's 100m Freestyle - S9 Final\n🇦🇺 Alexa
   Jialing
 SUMMARY:Women's 100m Freestyle - S9 Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T174000Z-wheelchair-fencing-MENS-FOIL-CATEGORY-B-GOLD-MEDAL-BOU
+DTSTAMP:20240904T174000Z
+DTSTART:20240904T174000Z
+DTEND:20240904T181500Z
+DESCRIPTION:Wheelchair Fencing - Men's Foil Category B Gold Medal Bout
+SUMMARY: FENG Yanke 🇨🇳 - 🇬🇧 Dimitri COUTYA
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T175800Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-49-POINTS-F
