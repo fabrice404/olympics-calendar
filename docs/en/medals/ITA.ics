@@ -1054,6 +1054,17 @@ SUMMARY: Dorota BUCLAW 🇵🇱 - 🇮🇹 Giada ROSSI
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T100600Z-para-athletics-MENS-DISCUS-THROW-F11-FINAL
+DTSTAMP:20240905T100600Z
+DTSTART:20240905T100600Z
+DTEND:20240905T110000Z
+DESCRIPTION:Para Athletics - Men's Discus Throw - F11 Final\n🇧🇷
+  Alessandro Rodrigo da SILVA\n🇪🇸 Alvaro del AMO CANO\n🇦🇹 Bil
+  MARINKOVIC\n🇮🇷 Hassan BAJOULVAND\n🇮🇷 Mahdi OLAD\n🇮🇹 Oney TAPIA
+SUMMARY:Men's Discus Throw - F11 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240905T110500Z-para-cycling-road-WOMENS-H5-ROAD-RACE
 DTSTAMP:20240905T110500Z
 DTSTART:20240905T110500Z
@@ -1097,6 +1108,18 @@ DESCRIPTION:Para Powerlifting - Women's up to 55kg Final\n🇹🇷 Besra
   AHMED
 SUMMARY:Women's up to 55kg Final
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T170000Z-para-athletics-WOMENS-LONG-JUMP-T63-FINAL
+DTSTAMP:20240905T170000Z
+DTSTART:20240905T170000Z
+DTEND:20240905T181200Z
+DESCRIPTION:Para Athletics - Women's Long Jump - T63 Final\n🇪🇸 Desiree
+  VILA BARGIELA\n🇨🇭 Elena KRATTER\n🇩🇰 Emilie AAEN\n🇺🇸 Lindi
+  MARCUSEN\n🇯🇵 MAEGAWA Kaede\n🇮🇹 Martina CAIRONI\n🇺🇸 Noelle
+  LAMBERT\n🇯🇵 TOZAWA Tomomi\n🇦🇺 Vanessa LOW
+SUMMARY:Women's Long Jump - T63 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T073500Z-para-cycling-road-WOMENS-C4-5-ROAD-RACE

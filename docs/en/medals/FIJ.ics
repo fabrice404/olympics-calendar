@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//fabrice404//olympics-calendar//en/medals/LBA//EN
-X-WR-CALNAME:🇱🇾 Libya 🏅 | Paris 2024
-NAME:🇱🇾 Libya 🏅 | Paris 2024
+PRODID:-//fabrice404//olympics-calendar//en/medals/FIJ//EN
+X-WR-CALNAME:🇫🇯 Fiji 🏅 | Paris 2024
+NAME:🇫🇯 Fiji 🏅 | Paris 2024
 BEGIN:VEVENT
 UID:20240905T094000Z-para-athletics-WOMENS-SHOT-PUT-F64-FINAL
 DTSTAMP:20240905T094000Z
@@ -16,17 +16,5 @@ DESCRIPTION:Para Athletics - Women's Shot Put - F64 Final\n🇱🇾 Abraar
   HEYISON\n🇫🇯 Selina SEAU\n🇨🇳 YANG Yue\n🇨🇳 YAO Juan
 SUMMARY:Women's Shot Put - F64 Final
 LOCATION:Stade de France
-END:VEVENT
-BEGIN:VEVENT
-UID:20240908T120000Z-para-powerlifting-WOMENS-OVER-86KG-FINAL
-DTSTAMP:20240908T120000Z
-DTSTART:20240908T120000Z
-DTEND:20240908T130500Z
-DESCRIPTION:Para Powerlifting - Women's over 86kg Final\n🇺🇸 Ashley
-  DYCE\n🇨🇳 DENG Xuemei\n🇳🇬 Folashade OLUWAFEMIAYO\n🇱🇾 Ghazalah
-  ALAQOURI\n🇦🇺 Hani WATSON\n🇵🇱 Marzena ZIEBA\n🇪🇬 Nadia ALI\n🇺🇦
-  Nataliia OLIINYK\n🇲🇽 Perla Patri. BARCENAS PONCE de LEON\n🇮🇩 SRIYANTI
-SUMMARY:Women's over 86kg Final
-LOCATION:La Chapelle Arena
 END:VEVENT
 END:VCALENDAR
