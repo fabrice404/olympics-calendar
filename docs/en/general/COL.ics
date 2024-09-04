@@ -1284,8 +1284,7 @@ DTEND:20240904T123400Z
 DESCRIPTION:Para Powerlifting - Women's up to 41kg Final\n🇨🇳 CUI
   Zhe\n🇨🇴 Cristina POBLADOR GRANADOS\n🇪🇬 Enas Elgebaly ABDELAAL
   AGGAG\n🇳🇬 Esther NWORGU\n🇰🇪 Hellen Wawira KARIUKI\n🇪🇨 Kerly
-  LASCANO\n🇧🇷 Lara Aparecida de LIMA\n🇮🇩 Ni Nengah WIDIASIH\n🇵🇹
-  Simone MACHADO FRAGOSO
+  LASCANO\n🇧🇷 Lara Aparecida de LIMA\n🇮🇩 Ni Nengah WIDIASIH
 SUMMARY:Women's up to 41kg Final
 LOCATION:La Chapelle Arena
 END:VEVENT
@@ -1311,6 +1310,15 @@ DTEND:20240904T131000Z
 DESCRIPTION:Para Archery - Men's Individual Recurve Open 1/16 Elimination
 SUMMARY: Juan Diego BLAS FERNANDEZ 🇬🇹 - 🇨🇴 Hector Julio RAMIREZ
 LOCATION:Invalides
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T165000Z-boccia-MIXED-PAIRS-BC4-SEMIFINAL-COL-THA
+DTSTAMP:20240904T165000Z
+DTSTART:20240904T165000Z
+DTEND:20240904T180000Z
+DESCRIPTION:Boccia - Mixed Pairs - BC4 Semifinal
+SUMMARY: COL 🇨🇴 - 🇹🇭 THA
+LOCATION:South Paris Arena 1
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T073000Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB7-HEATS
