@@ -1687,9 +1687,8 @@ UID:20240904T163000Z-wheelchair-fencing-MENS-FOIL-CATEGORY-B-BRONZE-MEDAL-B
 DTSTAMP:20240904T163000Z
 DTSTART:20240904T163000Z
 DTEND:20240904T170500Z
-DESCRIPTION:Wheelchair Fencing - Men's Foil Category B Bronze Medal
-  Bout\n🇨🇳 HU Daoliang
-SUMMARY:Men's Foil Category B Bronze Medal Bout
+DESCRIPTION:Wheelchair Fencing - Men's Foil Category B Bronze Medal Bout
+SUMMARY: HU Daoliang 🇨🇳 - 🇺🇦 Dmytro SEROZHENKO
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -1716,6 +1715,16 @@ DESCRIPTION:Para Athletics - Women's 100m - T36 Final\n🇦🇷 Araceli
   Veronica HIPOLITO
 SUMMARY:Women's 100m - T36 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240904T170500Z-wheelchair-fencing-MENS-FOIL-CATEGORY-A-BRONZE-MEDAL-B
+DTSTAMP:20240904T170500Z
+DTSTART:20240904T170500Z
+DTEND:20240904T174000Z
+DESCRIPTION:Wheelchair Fencing - Men's Foil Category A Bronze Medal
+  Bout\n🇨🇳 ZHONG Saichun
+SUMMARY:Men's Foil Category A Bronze Medal Bout
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240904T172500Z-para-athletics-MENS-100M-T54-FINAL
@@ -1922,6 +1931,15 @@ DESCRIPTION:Para Powerlifting - Men's up to 59kg Final\n🇵🇪 Diego
   Paschalis KOULOUMOGLOU\n🇨🇳 QI Yongkai\n🇰🇿 Stanislav SHAKIYEV
 SUMMARY:Men's up to 59kg Final
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T130000Z-goalball-WOMENS-BRONZE-MEDAL-GAME
+DTSTAMP:20240905T130000Z
+DTSTART:20240905T130000Z
+DTEND:20240905T140000Z
+DESCRIPTION:Goalball - Women's Bronze Medal Game\n🇨🇳 CHN
+SUMMARY:Women's Bronze Medal Game
+LOCATION:South Paris Arena 6
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T163500Z-para-powerlifting-MENS-UP-TO-65KG-FINAL
