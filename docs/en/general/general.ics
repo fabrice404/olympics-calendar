@@ -21678,6 +21678,18 @@ SUMMARY:Women -57 kg J1 Quarterfinals
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T084900Z-para-athletics-WOMENS-200M-T11-ROUND-1
+DTSTAMP:20240905T084900Z
+DTSTART:20240905T084900Z
+DTEND:20240905T090500Z
+DESCRIPTION:Para Athletics - Women's 200m - T11 Round 1\n🇺🇿 Asila
+  MIRZAYOROVA\n🇧🇷 Jerusa GEBER dos SANTOS\n🇦🇴 Juliana Ngleya MOKO\n🇨🇳
+  LIU Cuiqing\n🇳🇦 Lahja ISHITILE\n🇻🇪 Linda Patricia PEREZ LOPEZ\n🇧🇷
+  Lorena SILVA SPOLADORE\n🇧🇷 Thalita Vitoria SIMPLICIO da SILVA
+SUMMARY:Women's 200m - T11 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240905T085100Z-para-swimming-MENS-100M-BREASTSTROKE-SB13-HEATS
 DTSTAMP:20240905T085100Z
 DTSTART:20240905T085100Z
@@ -21708,15 +21720,6 @@ DTEND:20240905T090000Z
 DESCRIPTION:Para Judo - Men -60 kg J2 Quarterfinals\n🇺🇿 Sherzod NAMOZOV
 SUMMARY:Men -60 kg J2 Quarterfinals
 LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
-UID:20240905T085700Z-para-athletics-WOMENS-200M-T11-ROUND-1
-DTSTAMP:20240905T085700Z
-DTSTART:20240905T085700Z
-DTEND:20240905T091600Z
-DESCRIPTION:Para Athletics - Women's 200m - T11 Round 1
-SUMMARY:Women's 200m - T11 Round 1
-LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T085900Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB12-HEATS
@@ -23058,7 +23061,10 @@ UID:20240905T173100Z-para-athletics-WOMENS-SHOT-PUT-F33-FINAL
 DTSTAMP:20240905T173100Z
 DTSTART:20240905T173100Z
 DTEND:20240905T194700Z
-DESCRIPTION:Para Athletics - Women's Shot Put - F33 Final
+DESCRIPTION:Para Athletics - Women's Shot Put - F33 Final\n🇩🇿 Asmahane
+  BOUDJADAR\n🇲🇦 Fouzia EL KASSIOUI\n🇲🇽 Gilda Guadalupe COTA VERA\n🇵🇱
+  Joanna OLEKSIUK\n🇨🇦 Julia HANES\n🇦🇺 Maria STRONG\n🇶🇦 Sara Hamdi
+  MASOUD\n🇨🇳 WU Qing
 SUMMARY:Women's Shot Put - F33 Final
 LOCATION:Stade de France
 END:VEVENT
@@ -23094,7 +23100,10 @@ UID:20240905T175800Z-para-athletics-MENS-800M-T53-FINAL
 DTSTAMP:20240905T175800Z
 DTSTART:20240905T175800Z
 DTEND:20240905T180300Z
-DESCRIPTION:Para Athletics - Men's 800m - T53 Final
+DESCRIPTION:Para Athletics - Men's 800m - T53 Final\n🇨🇦 Brent
+  LAKATOS\n🇺🇸 Brian SIEMANN\n🇹🇭 Masaberee ARSAE\n🇹🇳 Mohamed Nidhal
+  KHELIFI\n🇹🇭 Pichet KRUNGGET\n🇫🇷 Pierre FAIRBANK\n🇹🇭 Pongsakorn
+  PAEYO\n🇰🇷 YOO Byunghoon
 SUMMARY:Men's 800m - T53 Final
 LOCATION:Stade de France
 END:VEVENT
@@ -23157,7 +23166,9 @@ UID:20240905T184200Z-para-athletics-MENS-SHOT-PUT-F35-FINAL
 DTSTAMP:20240905T184200Z
 DTSTART:20240905T184200Z
 DTEND:20240905T195000Z
-DESCRIPTION:Para Athletics - Men's Shot Put - F35 Final
+DESCRIPTION:Para Athletics - Men's Shot Put - F35 Final\n🇮🇳 ARVIND\n🇨🇳
+  FU Xinhan\n🇲🇩 Gheorghe SPINU\n🇦🇷 Hernan Emanuel URRA\n🇺🇿 Khusniddin
+  NORBEKOV\n🇮🇷 Seyed Aliasghar JAVANMARDI\n🇰🇿 Yelaman ZHOLAMAN
 SUMMARY:Men's Shot Put - F35 Final
 LOCATION:Stade de France
 END:VEVENT
@@ -23166,7 +23177,10 @@ UID:20240905T184600Z-para-athletics-MENS-JAVELIN-THROW-F13-FINAL
 DTSTAMP:20240905T184600Z
 DTSTART:20240905T184600Z
 DTEND:20240905T200000Z
-DESCRIPTION:Para Athletics - Men's Javelin Throw - F13 Final
+DESCRIPTION:Para Athletics - Men's Javelin Throw - F13 Final\n🇮🇷 Ali
+  PIROUJ\n🇬🇧 Daniel PEMBROKE\n🇪🇸 Hector CABRERA LLACER\n🇦🇺 Jackson
+  HAMILTON\n🇵🇱 Marek WIETECKI\n🇮🇷 Sajad NIKPARAST\n🇨🇺 Ulicer AGUILERA
+  CRUZ\n🇯🇵 WAKOH Yuta
 SUMMARY:Men's Javelin Throw - F13 Final
 LOCATION:Stade de France
 END:VEVENT
@@ -23175,7 +23189,13 @@ UID:20240905T185000Z-para-athletics-WOMENS-100M-T64-ROUND-1
 DTSTAMP:20240905T185000Z
 DTSTART:20240905T185000Z
 DTEND:20240905T190400Z
-DESCRIPTION:Para Athletics - Women's 100m - T64 Round 1
+DESCRIPTION:Para Athletics - Women's 100m - T64 Round 1\n🇨🇭 Abassia
+  RAHMANI\n🇵🇷 Amaris Sofia VAZQUEZ COLLAZO\n🇺🇸 Annie CAREY\n🇺🇸 B
+  HATZ\n🇺🇸 Femita AYANBEKU\n🇪🇸 Fiona PINAR BATALLA\n🇳🇱 Fleur
+  JONG\n🇮🇹 Giuliana Chiara FILIPPI\n🇩🇪 Irmgard BENSUSAN\n🇳🇱 Kimberly
+  ALKEMADE\n🇨🇦 Marissa PAPACONSTANTINOU\n🇳🇱 Marlene van
+  GANSEWINKEL\n🇪🇸 Sara ANDRES BARRIO\n🇯🇵 TAKAKUWA Saki\n🇵🇷 Yaimillie
+  Marie DIAZ COLON
 SUMMARY:Women's 100m - T64 Round 1
 LOCATION:Stade de France
 END:VEVENT
@@ -23193,7 +23213,11 @@ UID:20240905T190500Z-para-athletics-MENS-100M-T52-ROUND-1
 DTSTAMP:20240905T190500Z
 DTSTART:20240905T190500Z
 DTEND:20240905T191700Z
-DESCRIPTION:Para Athletics - Men's 100m - T52 Round 1
+DESCRIPTION:Para Athletics - Men's 100m - T52 Round 1\n🇨🇦 Anthony
+  BOUCHARD\n🇨🇭 Beat BOESCH\n🇨🇭 Fabian BLUM\n🇯🇵 ITO Tatsuya\n🇯🇵 ITO
+  Tomoya\n🇵🇭 Jerrold Pete MANGLIWAN\n🇲🇽 Leonardo de Jesus PEREZ
+  JUAREZ\n🇬🇧 Marcus PERRINEAU DALEY\n🇧🇪 Maxime CARABIN\n🇯🇵 SATO
+  Tomoki\n🇲🇽 Salvador HERNANDEZ MONDRAGON\n🇦🇺 Sam McINTOSH
 SUMMARY:Men's 100m - T52 Round 1
 LOCATION:Stade de France
 END:VEVENT
@@ -24053,7 +24077,8 @@ UID:20240906T090000Z-para-table-tennis-MENS-SINGLES-MS8-SEMIFINAL-2
 DTSTAMP:20240906T090000Z
 DTSTART:20240906T090000Z
 DTEND:20240906T100000Z
-DESCRIPTION:Para Table Tennis - Men's Singles - MS8 - Semifinal 2
+DESCRIPTION:Para Table Tennis - Men's Singles - MS8 - Semifinal 2\n🇨🇳
+  ZHAO Shuai
 SUMMARY:Men's Singles - MS8 - Semifinal 2
 LOCATION:South Paris Arena 4
 END:VEVENT

@@ -939,6 +939,18 @@ SUMMARY: SHI Yijie 🇨🇳 - 🇺🇿 Uljon AMRIEVA
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T084900Z-para-athletics-WOMENS-200M-T11-ROUND-1
+DTSTAMP:20240905T084900Z
+DTSTART:20240905T084900Z
+DTEND:20240905T090500Z
+DESCRIPTION:Para Athletics - Women's 200m - T11 Round 1\n🇺🇿 Asila
+  MIRZAYOROVA\n🇧🇷 Jerusa GEBER dos SANTOS\n🇦🇴 Juliana Ngleya MOKO\n🇨🇳
+  LIU Cuiqing\n🇳🇦 Lahja ISHITILE\n🇻🇪 Linda Patricia PEREZ LOPEZ\n🇧🇷
+  Lorena SILVA SPOLADORE\n🇧🇷 Thalita Vitoria SIMPLICIO da SILVA
+SUMMARY:Women's 200m - T11 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240905T085100Z-para-swimming-MENS-100M-BREASTSTROKE-SB13-HEATS
 DTSTAMP:20240905T085100Z
 DTSTART:20240905T085100Z
@@ -984,6 +996,17 @@ DESCRIPTION:Para Powerlifting - Women's up to 55kg Final\n🇹🇷 Besra
   AHMED
 SUMMARY:Women's up to 55kg Final
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T184200Z-para-athletics-MENS-SHOT-PUT-F35-FINAL
+DTSTAMP:20240905T184200Z
+DTSTART:20240905T184200Z
+DTEND:20240905T195000Z
+DESCRIPTION:Para Athletics - Men's Shot Put - F35 Final\n🇮🇳 ARVIND\n🇨🇳
+  FU Xinhan\n🇲🇩 Gheorghe SPINU\n🇦🇷 Hernan Emanuel URRA\n🇺🇿 Khusniddin
+  NORBEKOV\n🇮🇷 Seyed Aliasghar JAVANMARDI\n🇰🇿 Yelaman ZHOLAMAN
+SUMMARY:Men's Shot Put - F35 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T073000Z-para-cycling-road-MENS-C4-5-ROAD-RACE

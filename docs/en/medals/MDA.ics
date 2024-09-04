@@ -4,6 +4,17 @@ PRODID:-//fabrice404//olympics-calendar//en/medals/MDA//EN
 X-WR-CALNAME:🇲🇩 Moldova 🏅 | Paris 2024
 NAME:🇲🇩 Moldova 🏅 | Paris 2024
 BEGIN:VEVENT
+UID:20240905T184200Z-para-athletics-MENS-SHOT-PUT-F35-FINAL
+DTSTAMP:20240905T184200Z
+DTSTART:20240905T184200Z
+DTEND:20240905T195000Z
+DESCRIPTION:Para Athletics - Men's Shot Put - F35 Final\n🇮🇳 ARVIND\n🇨🇳
+  FU Xinhan\n🇲🇩 Gheorghe SPINU\n🇦🇷 Hernan Emanuel URRA\n🇺🇿 Khusniddin
+  NORBEKOV\n🇮🇷 Seyed Aliasghar JAVANMARDI\n🇰🇿 Yelaman ZHOLAMAN
+SUMMARY:Men's Shot Put - F35 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T100000Z-para-powerlifting-WOMENS-UP-TO-73KG-FINAL
 DTSTAMP:20240907T100000Z
 DTSTART:20240907T100000Z
