@@ -1230,6 +1230,31 @@ SUMMARY:Women's 100m - T53 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T080000Z-para-athletics-WOMENS-SHOT-PUT-F35-FINAL
+DTSTAMP:20240905T080000Z
+DTSTART:20240905T080000Z
+DTEND:20240905T090500Z
+DESCRIPTION:Para Athletics - Women's Shot Put - F35 Final\n🇨🇿 Anna
+  LUXOVA\n🇬🇧 Anna NICHOLSON\n🇺🇿 Dilafruzkhon AKHMATKHONOVA\n🇵🇱
+  Klaudia MALISZEWSKA\n🇺🇦 Mariia POMAZAN\n🇧🇷 Marivana OLIVEIRA da
+  NOBREGA\n🇨🇳 WANG Jun
+SUMMARY:Women's Shot Put - F35 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T080500Z-para-athletics-WOMENS-LONG-JUMP-T38-FINAL
+DTSTAMP:20240905T080500Z
+DTSTART:20240905T080500Z
+DTEND:20240905T092600Z
+DESCRIPTION:Para Athletics - Women's Long Jump - T38 Final\n🇵🇱 Anna
+  TRENER-WIERCIAK\n🇨🇳 CHEN Zimo\n🇺🇸 Catarina Joao GUIMARAES\n🇩🇪
+  Friederike BROSE\n🇨🇴 Karen Tatiana PALOMEQUE MORENO\n🇫🇷 Lola
+  DESFEUILLET\n🇭🇺 Luca EKLER\n🇬🇧 Maddie DOWN\n🇩🇪 Nele MOOS\n🇬🇧
+  Olivia BREEN\n🇫🇮 Vilma BERG
+SUMMARY:Women's Long Jump - T38 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240905T090000Z-para-table-tennis-WOMENS-SINGLES-WS7-SEMIFINAL-2-GBR-T
 DTSTAMP:20240905T090000Z
 DTSTART:20240905T090000Z
@@ -1390,6 +1415,16 @@ DESCRIPTION:Para Cycling Road - Women's B Road Race\n🇫🇷 Anne-Sophie
   Sophie UNWIN\n🇹🇭 Watcharobon BOONMALERT
 SUMMARY:Women's B Road Race
 LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T120000Z-para-table-tennis-MENS-SINGLES-MS1-GOLD-MEDAL-MATCH
+DTSTAMP:20240906T120000Z
+DTSTART:20240906T120000Z
+DTEND:20240906T130000Z
+DESCRIPTION:Para Table Tennis - Men's Singles - MS1 - Gold Medal
+  Match\n🇬🇧 Robert DAVIES
+SUMMARY:Men's Singles - MS1 - Gold Medal Match
+LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T154100Z-para-swimming-WOMENS-400M-FREESTYLE-S6-FINAL
