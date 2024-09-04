@@ -643,6 +643,19 @@ SUMMARY: Guy SASSON 🇮🇱 - 🇹🇷 Ahmet KAPLAN
 LOCATION:Roland-Garros Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T082000Z-para-canoe-WOMENS-VAA-SINGLE-200M-VL2-HEATS
+DTSTAMP:20240906T082000Z
+DTSTART:20240906T082000Z
+DTEND:20240906T083000Z
+DESCRIPTION:Para Canoe - Women's Va'a Single 200m - VL2 Heats\n🇨🇦 Brianna
+  HENNESSY\n🇭🇺 Dalma BOLDIZSAR\n🇧🇷 Debora Raiza RIBEIRO BENEVIDES\n🇬🇧
+  Emma WIGGS\n🇪🇸 Ines Maria FELIPE VIDIGAL\n🇮🇱 Irina SHAFIR\n🇺🇿
+  Irodakhon RUSTAMOVA\n🇬🇧 Jeanette CHIPPINGTON\n🇯🇵 KOMATSU Saki\n🇮🇳
+  Prachi YADAV\n🇦🇺 Susan SEIPEL\n🇮🇹 Veronica Silvia BIGLIA
+SUMMARY:Women's Va'a Single 200m - VL2 Heats
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T090300Z-para-swimming-MENS-50M-FREESTYLE-S4-HEATS
 DTSTAMP:20240906T090300Z
 DTSTART:20240906T090300Z
@@ -668,6 +681,19 @@ DESCRIPTION:Para Swimming - Men's 100m Freestyle - S8 Heats\n🇮🇹 Alberto
   YARAMAN\n🇨🇳 WU Hongliang\n🇨🇳 XU Haijiao
 SUMMARY:Men's 100m Freestyle - S8 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T093500Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL2-HEATS
+DTSTAMP:20240906T093500Z
+DTSTART:20240906T093500Z
+DTEND:20240906T094500Z
+DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL2 Heats\n🇩🇪 Anja
+  ADLER\n🇬🇧 Charlotte HENSHAW\n🇭🇺 Dalma BOLDIZSAR\n🇬🇧 Emma
+  WIGGS\n🇪🇸 Ines Maria FELIPE VIDIGAL\n🇭🇺 Katalin VARGA\n🇯🇵 MIYAJIMA
+  Shiho\n🇪🇬 Salwa AHMED\n🇦🇺 Susan SEIPEL\n🇮🇱 Talia EILAT\n🇨🇳 WANG
+  Danqin\n🇹🇭 Wasana KHUTHAWISAP
+SUMMARY:Women's Kayak Single 200m - KL2 Heats
+LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240907T083800Z-para-swimming-MENS-50M-BACKSTROKE-S4-HEATS

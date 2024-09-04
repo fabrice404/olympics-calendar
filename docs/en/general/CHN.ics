@@ -5813,6 +5813,16 @@ SUMMARY: Patryk CHOJNOWSKI 🇵🇱 - 🇨🇳 LIAN Hao
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240904T192500Z-wheelchair-fencing-WOMENS-FOIL-CATEGORY-A-GOLD-MEDAL-B
+DTSTAMP:20240904T192500Z
+DTSTART:20240904T192500Z
+DTEND:20240904T200000Z
+DESCRIPTION:Wheelchair Fencing - Women's Foil Category A Gold Medal
+  Bout\n🇨🇳 ZOU Xufeng
+SUMMARY:Women's Foil Category A Gold Medal Bout
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240904T194500Z-para-athletics-WOMENS-100M-T37-ROUND-1
 DTSTAMP:20240904T194500Z
 DTSTART:20240904T194500Z
@@ -6187,6 +6197,19 @@ SUMMARY:Women's 50m Butterfly - S5 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T080000Z-para-canoe-MENS-KAYAK-SINGLE-200M-KL1-HEATS
+DTSTAMP:20240906T080000Z
+DTSTART:20240906T080000Z
+DTEND:20240906T082000Z
+DESCRIPTION:Para Canoe - Men's Kayak Single 200m - KL1 Heats\n🇪🇸 Adrian
+  CASTANO FORTEZA\n🇵🇹 Alex SANTOS\n🇮🇹 Esteban Gabriel FARIAS\n🇧🇷 Luis
+  Carlos CARDOSO\n🇭🇺 Peter KISS\n🇫🇷 Remy BOULLE\n🇭🇺 Robert SUBA\n🇮🇷
+  Saeid HOSSEINPOORZAROUNI\n🇯🇵 TAKAGI Yuta\n🇨🇳 YU Xiaowei\n🇮🇳 Yash
+  KUMAR
+SUMMARY:Men's Kayak Single 200m - KL1 Heats
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T081000Z-para-swimming-WOMENS-100M-BACKSTROKE-S10-HEATS
 DTSTAMP:20240906T081000Z
 DTSTART:20240906T081000Z
@@ -6245,6 +6268,19 @@ SUMMARY:Women's 100m Butterfly - S9 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T083000Z-para-canoe-WOMENS-VAA-SINGLE-200M-VL3-HEATS
+DTSTAMP:20240906T083000Z
+DTSTART:20240906T083000Z
+DTEND:20240906T084000Z
+DESCRIPTION:Para Canoe - Women's Va'a Single 200m - VL3 Heats\n🇬🇧
+  Charlotte HENSHAW\n🇫🇷 Elea CHARVET\n🇨🇦 Erica SCARFF\n🇬🇧 Hope
+  GORDON\n🇺🇸 Jillian ELWART\n🇯🇵 MIYAJIMA Shiho\n🇧🇷 Mari
+  SANTILLI\n🇵🇱 Monika Katarzyna KUKLA\n🇺🇦 Nataliia LAHUTENKO\n🇺🇿
+  Shakhzoda MAMADALIEVA\n🇨🇳 ZHONG Yongyuan\n🇰🇿 Zhanyl BALTABAYEVA
+SUMMARY:Women's Va'a Single 200m - VL3 Heats
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T084000Z-wheelchair-fencing-MENS-PE-CATEGORY-A-TABLE-OF-16-IRQ-
 DTSTAMP:20240906T084000Z
 DTSTART:20240906T084000Z
@@ -6263,13 +6299,12 @@ SUMMARY: SUN Gang 🇨🇳 - 🇵🇱 Dariusz PENDER
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240906T090000Z-para-table-tennis-WOMENS-SINGLES-WS3-SEMIFINAL-2
+UID:20240906T090000Z-para-table-tennis-WOMENS-SINGLES-WS3-SEMIFINAL-2-CHN-C
 DTSTAMP:20240906T090000Z
 DTSTART:20240906T090000Z
 DTEND:20240906T100000Z
-DESCRIPTION:Para Table Tennis - Women's Singles - WS3 - Semifinal 2\n🇨🇳
-  XUE Juan
-SUMMARY:Women's Singles - WS3 - Semifinal 2
+DESCRIPTION:Para Table Tennis - Women's Singles - WS3 - Semifinal 2
+SUMMARY: XUE Juan 🇨🇳 - 🇭🇷 Andela MUZINIC VINCETIC
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
@@ -6317,6 +6352,19 @@ SUMMARY:Men's 100m Butterfly - S11 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T092500Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL1-HEATS
+DTSTAMP:20240906T092500Z
+DTSTART:20240906T092500Z
+DTEND:20240906T093500Z
+DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL1 Heats\n🇧🇷
+  Adriana GOMES AZEVEDO\n🇦🇷 Andrea Viviana BRACAMONTE\n🇨🇦 Brianna
+  HENNESSY\n🇩🇪 Edina MUELLER\n🇮🇹 Eleonora de PAOLIS\n🇬🇧 Jeanette
+  CHIPPINGTON\n🇨🇱 Katherinne WOLLERMANN\n🇺🇦 Maryna MAZHULA\n🇮🇳 Pooja
+  OJHA\n🇯🇵 SERYU Monika\n🇨🇳 XIE Maosan
+SUMMARY:Women's Kayak Single 200m - KL1 Heats
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T092800Z-para-swimming-MENS-100M-FREESTYLE-S8-HEATS
 DTSTAMP:20240906T092800Z
 DTSTART:20240906T092800Z
@@ -6331,6 +6379,19 @@ SUMMARY:Men's 100m Freestyle - S8 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T093500Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL2-HEATS
+DTSTAMP:20240906T093500Z
+DTSTART:20240906T093500Z
+DTEND:20240906T094500Z
+DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL2 Heats\n🇩🇪 Anja
+  ADLER\n🇬🇧 Charlotte HENSHAW\n🇭🇺 Dalma BOLDIZSAR\n🇬🇧 Emma
+  WIGGS\n🇪🇸 Ines Maria FELIPE VIDIGAL\n🇭🇺 Katalin VARGA\n🇯🇵 MIYAJIMA
+  Shiho\n🇪🇬 Salwa AHMED\n🇦🇺 Susan SEIPEL\n🇮🇱 Talia EILAT\n🇨🇳 WANG
+  Danqin\n🇹🇭 Wasana KHUTHAWISAP
+SUMMARY:Women's Kayak Single 200m - KL2 Heats
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T100000Z-para-powerlifting-MENS-UP-TO-72KG-FINAL
 DTSTAMP:20240906T100000Z
 DTSTART:20240906T100000Z
@@ -6341,6 +6402,19 @@ DESCRIPTION:Para Powerlifting - Men's up to 72kg Final\n🇺🇿 Bekzod
   VASQUEZ\n🇹🇷 Ugur YUMUK
 SUMMARY:Men's up to 72kg Final
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T100500Z-para-canoe-MENS-VAA-SINGLE-200M-VL3-HEATS
+DTSTAMP:20240906T100500Z
+DTSTART:20240906T100500Z
+DTEND:20240906T101500Z
+DESCRIPTION:Para Canoe - Men's Va'a Single 200m - VL3 Heats\n🇫🇷 Abel
+  ABER\n🇪🇸 Adrian MOSQUERA RIAL\n🇦🇺 Curtis McGRATH\n🇦🇷 Emilio Ariel
+  ATAMANUK\n🇬🇧 Jack EYERS\n🇺🇿 Khaytmurot SHERKUZIEV\n🇦🇹 Mendy
+  SWOBODA\n🇮🇹 Mirko NICOLI\n🇨🇳 PU Yi\n🇳🇿 Peter COWAN\n🇳🇿 Scott
+  MARTLEW\n🇺🇦 Vladyslav YEPIFANOV
+SUMMARY:Men's Va'a Single 200m - VL3 Heats
+LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T110000Z-para-table-tennis-WOMENS-SINGLES-WS9-QUARTERFINAL-2-UK
