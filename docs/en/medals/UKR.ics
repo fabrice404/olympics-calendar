@@ -1162,6 +1162,42 @@ SUMMARY:Women -57 kg J1 Bronze Medal Contest A
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T153700Z-para-swimming-MENS-50M-FREESTYLE-S5-FINAL
+DTSTAMP:20240905T153700Z
+DTSTART:20240905T153700Z
+DTEND:20240905T154300Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S5 Final\n🇮🇹 Francesco
+  BOCCIARDO\n🇨🇳 GUO Jincheng\n🇲🇾 Muhammad Nur Syaiful ZULKAFLI\n🇺🇦
+  Oleksandr KOMAROV\n🇧🇷 Samuel da SILVA de OLIVEIRA\n🇨🇳 WANG
+  Lichao\n🇨🇳 YUAN Weiyi
+SUMMARY:Men's 50m Freestyle - S5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T160000Z-para-swimming-MENS-100M-BREASTSTROKE-SB11-FINAL
+DTSTAMP:20240905T160000Z
+DTSTART:20240905T160000Z
+DTEND:20240905T160800Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB11 Final\n🇰🇿 Amir
+  MURATBEKOV\n🇨🇴 Brayan Mauricio TRIANA HERRERA\n🇺🇦 Danylo
+  CHUFAROV\n🇨🇿 David KRATOCHVIL\n🇱🇹 Edgaras MATAKAS\n🇨🇴 Leider
+  Albeiro LEMUS ROJAS\n🇳🇱 Rogier DORSMAN\n🇨🇳 YANG Bozun
+SUMMARY:Men's 100m Breaststroke - SB11 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T170300Z-para-swimming-MENS-100M-BREASTSTROKE-SB13-FINAL
+DTSTAMP:20240905T170300Z
+DTSTART:20240905T170300Z
+DTEND:20240905T171000Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB13 Final\n🇺🇸
+  David Henry ABRAHAMS\n🇺🇿 Firdavsbek MUSABEKOV\n🇰🇿 Nurdaulet
+  ZHUMAGALI\n🇺🇦 Oleksii FEDYNA\n🇩🇪 Taliso ENGEL\n🇳🇱 Thomas van
+  WANROOIJ\n🇦🇿 Vali ISRAFILOV
+SUMMARY:Men's 100m Breaststroke - SB13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240905T171700Z-para-athletics-WOMENS-100M-T12-FINAL
 DTSTAMP:20240905T171700Z
 DTSTART:20240905T171700Z
@@ -1180,6 +1216,17 @@ DTEND:20240905T183000Z
 DESCRIPTION:Goalball - Men's Gold Medal Game
 SUMMARY: UKR 🇺🇦 - 🇯🇵 JPN
 LOCATION:South Paris Arena 6
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T180200Z-para-swimming-MIXED-4X50M-MEDLEY-RELAY-20-POINTS-FINAL
+DTSTAMP:20240905T180200Z
+DTSTART:20240905T180200Z
+DTEND:20240905T181200Z
+DESCRIPTION:Para Swimming - Mixed 4x50m Medley Relay - 20 Points
+  Final\n🇧🇷 BRA\n🇨🇳 CHN\n🇮🇹 ITA\n🇯🇵 JPN\n🇪🇸 ESP\n🇹🇷 TUR\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:Mixed 4x50m Medley Relay - 20 Points Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T073000Z-para-cycling-road-MENS-C4-5-ROAD-RACE

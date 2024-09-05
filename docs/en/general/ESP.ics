@@ -2824,6 +2824,41 @@ SUMMARY:Men's H3 Road Race
 LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T153000Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB7-FINAL
+DTSTAMP:20240905T153000Z
+DTSTART:20240905T153000Z
+DTEND:20240905T153700Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB7 Final\n🇨🇳
+  CHEN Shuling\n🇨🇴 Gisell Natalia PRADA PACHON\n🇬🇧 Iona
+  WINNIFRITH\n🇪🇸 Nahia ZUDAIRE BORREZO\n🇲🇽 Naomi SOMELLERA
+  MANDUJANO\n🇨🇦 Tess ROUTLIFFE\n🇨🇿 Vendula DUSKOVA
+SUMMARY:Women's 100m Breaststroke - SB7 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T163100Z-para-swimming-MENS-200M-INDIVIDUAL-MEDLEY-SM9-FINAL
+DTSTAMP:20240905T163100Z
+DTSTART:20240905T163100Z
+DTEND:20240905T163900Z
+DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM9 Final\n🇫🇷
+  Hector DENAYER\n🇪🇸 Jian Wang ESCANILLA CANDIAL\n🇩🇪 Maurice
+  WETEKAM\n🇦🇺 Timothy HODGE\n🇫🇷 Ugo DIDIER\n🇨🇳 XIE Zhili
+SUMMARY:Men's 200m Individual Medley - SM9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T165500Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM9-FINAL
+DTSTAMP:20240905T165500Z
+DTSTART:20240905T165500Z
+DTEND:20240905T170300Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM9
+  Final\n🇪🇸 Anastasiya DMYTRIV DMYTRIV\n🇦🇺 Lakeisha PATTERSON\n🇨🇦
+  Mary JIBB\n🇺🇸 Natalie SIMS\n🇪🇸 Nuria MARQUES SOTO\n🇬🇧 Toni
+  SHAW\n🇨🇳 XU Jialing\n🇭🇺 Zsofia KONKOLY
+SUMMARY:Women's 200m Individual Medley - SM9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240905T170000Z-para-athletics-WOMENS-LONG-JUMP-T63-FINAL
 DTSTAMP:20240905T170000Z
 DTSTART:20240905T170000Z
@@ -2834,6 +2869,28 @@ DESCRIPTION:Para Athletics - Women's Long Jump - T63 Final\n🇪🇸 Desiree
   LAMBERT\n🇯🇵 TOZAWA Tomomi\n🇦🇺 Vanessa LOW
 SUMMARY:Women's Long Jump - T63 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T173300Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB13-FINAL
+DTSTAMP:20240905T173300Z
+DTSTART:20240905T173300Z
+DTEND:20240905T174000Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB13 Final\n🇺🇸
+  Colleen YOUNG\n🇿🇦 Danika VYNCKE\n🇪🇸 Marian POLO LOPEZ\n🇺🇸 Olivia
+  CHAMBERS\n🇬🇧 Rebecca REDFERN\n🇮🇪 Roisin NI RIAIN
+SUMMARY:Women's 100m Breaststroke - SB13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T180200Z-para-swimming-MIXED-4X50M-MEDLEY-RELAY-20-POINTS-FINAL
+DTSTAMP:20240905T180200Z
+DTSTART:20240905T180200Z
+DTEND:20240905T181200Z
+DESCRIPTION:Para Swimming - Mixed 4x50m Medley Relay - 20 Points
+  Final\n🇧🇷 BRA\n🇨🇳 CHN\n🇮🇹 ITA\n🇯🇵 JPN\n🇪🇸 ESP\n🇹🇷 TUR\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:Mixed 4x50m Medley Relay - 20 Points Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T184600Z-para-athletics-MENS-JAVELIN-THROW-F13-FINAL

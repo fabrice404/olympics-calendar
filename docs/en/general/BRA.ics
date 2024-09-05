@@ -4399,6 +4399,30 @@ SUMMARY:Men's H4 Road Race
 LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T153700Z-para-swimming-MENS-50M-FREESTYLE-S5-FINAL
+DTSTAMP:20240905T153700Z
+DTSTART:20240905T153700Z
+DTEND:20240905T154300Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S5 Final\n🇮🇹 Francesco
+  BOCCIARDO\n🇨🇳 GUO Jincheng\n🇲🇾 Muhammad Nur Syaiful ZULKAFLI\n🇺🇦
+  Oleksandr KOMAROV\n🇧🇷 Samuel da SILVA de OLIVEIRA\n🇨🇳 WANG
+  Lichao\n🇨🇳 YUAN Weiyi
+SUMMARY:Men's 50m Freestyle - S5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T154300Z-para-swimming-MENS-100M-FREESTYLE-S6-FINAL
+DTSTAMP:20240905T154300Z
+DTSTART:20240905T154300Z
+DTEND:20240905T155000Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S6 Final\n🇮🇹 Antonio
+  FANTIN\n🇧🇷 Daniel XAVIER MENDES\n🇨🇴 David Felipe RENDON ACOSTA\n🇨🇳
+  JIA Hongguang\n🇫🇷 Laurent CHARDARD\n🇨🇴 Nelson CRISPIN CORZO\n🇧🇷
+  Talisson Henrique GLOCK\n🇳🇱 Thijs van HOFWEEGEN
+SUMMARY:Men's 100m Freestyle - S6 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240905T160000Z-sitting-volleyball-WOMENS-SEMIFINALS-BRA-USA
 DTSTAMP:20240905T160000Z
 DTSTART:20240905T160000Z
@@ -4408,6 +4432,30 @@ SUMMARY: BRA 🇧🇷 - 🇺🇸 USA
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T172600Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB12-FINAL
+DTSTAMP:20240905T172600Z
+DTSTART:20240905T172600Z
+DTEND:20240905T173300Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB12 Final\n🇿🇦
+  Alani FERREIRA\n🇮🇹 Alessia BERRA\n🇻🇪 Belkis MOTA\n🇩🇪 Elena
+  KRAWZOW\n🇦🇺 Jenna JONES\n🇧🇷 Maria Carolina GOMES SANTIAGO\n🇸🇬
+  Sophie Jin Wen SOON\n🇨🇳 ZHENG Jietong
+SUMMARY:Women's 100m Breaststroke - SB12 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T175600Z-para-swimming-WOMENS-50M-FREESTYLE-S8-FINAL
+DTSTAMP:20240905T175600Z
+DTSTART:20240905T175600Z
+DTEND:20240905T180200Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S8 Final\n🇬🇧 Alice
+  TAI\n🇧🇷 Cecilia Kethlen JERONIMO de ARAUJO\n🇨🇳 JIANG Shengnan\n🇨🇳
+  JIN Xiaoqin\n🇺🇸 Mallory WEGGEMANN\n🇮🇹 Xenia Francesca PALAZZO\n🇨🇳
+  ZHU Hui
+SUMMARY:Women's 50m Freestyle - S8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240905T180000Z-blind-football-MENS-SEMI-FINAL-BRA-ARG
 DTSTAMP:20240905T180000Z
 DTSTART:20240905T180000Z
@@ -4415,6 +4463,17 @@ DTEND:20240905T190000Z
 DESCRIPTION:Blind Football - Men's Semi-final
 SUMMARY: BRA 🇧🇷 - 🇦🇷 ARG
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T180200Z-para-swimming-MIXED-4X50M-MEDLEY-RELAY-20-POINTS-FINAL
+DTSTAMP:20240905T180200Z
+DTSTART:20240905T180200Z
+DTEND:20240905T181200Z
+DESCRIPTION:Para Swimming - Mixed 4x50m Medley Relay - 20 Points
+  Final\n🇧🇷 BRA\n🇨🇳 CHN\n🇮🇹 ITA\n🇯🇵 JPN\n🇪🇸 ESP\n🇹🇷 TUR\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:Mixed 4x50m Medley Relay - 20 Points Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T193400Z-para-athletics-WOMENS-400M-T13-ROUND-1

@@ -3579,6 +3579,18 @@ SUMMARY: SHI Yijie 🇨🇳 - 🇺🇸 Liana MUTIA
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T155000Z-para-swimming-WOMENS-400M-FREESTYLE-S10-FINAL
+DTSTAMP:20240905T155000Z
+DTSTART:20240905T155000Z
+DTEND:20240905T160000Z
+DESCRIPTION:Para Swimming - Women's 400m Freestyle - S10 Final\n🇺🇸
+  Alexandra TRUWIT\n🇨🇦 Aurelie RIVARD\n🇭🇺 Bianka PAP\n🇭🇺 Csenge
+  HOTZ\n🇫🇷 Elodie LORANDI\n🇬🇧 Faye ROGERS\n🇵🇱 Oliwia JABLONSKA\n🇺🇸
+  Taylor WINNETT
+SUMMARY:Women's 400m Freestyle - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240905T160000Z-sitting-volleyball-WOMENS-SEMIFINALS-BRA-USA
 DTSTAMP:20240905T160000Z
 DTSTART:20240905T160000Z
@@ -3586,6 +3598,18 @@ DTEND:20240905T173000Z
 DESCRIPTION:Sitting Volleyball - Women's Semifinals
 SUMMARY: BRA 🇧🇷 - 🇺🇸 USA
 LOCATION:North Paris Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T165500Z-para-swimming-WOMENS-200M-INDIVIDUAL-MEDLEY-SM9-FINAL
+DTSTAMP:20240905T165500Z
+DTSTART:20240905T165500Z
+DTEND:20240905T170300Z
+DESCRIPTION:Para Swimming - Women's 200m Individual Medley - SM9
+  Final\n🇪🇸 Anastasiya DMYTRIV DMYTRIV\n🇦🇺 Lakeisha PATTERSON\n🇨🇦
+  Mary JIBB\n🇺🇸 Natalie SIMS\n🇪🇸 Nuria MARQUES SOTO\n🇬🇧 Toni
+  SHAW\n🇨🇳 XU Jialing\n🇭🇺 Zsofia KONKOLY
+SUMMARY:Women's 200m Individual Medley - SM9 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T170000Z-para-athletics-WOMENS-LONG-JUMP-T63-FINAL
@@ -3598,6 +3622,18 @@ DESCRIPTION:Para Athletics - Women's Long Jump - T63 Final\n🇪🇸 Desiree
   LAMBERT\n🇯🇵 TOZAWA Tomomi\n🇦🇺 Vanessa LOW
 SUMMARY:Women's Long Jump - T63 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T170300Z-para-swimming-MENS-100M-BREASTSTROKE-SB13-FINAL
+DTSTAMP:20240905T170300Z
+DTSTART:20240905T170300Z
+DTEND:20240905T171000Z
+DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB13 Final\n🇺🇸
+  David Henry ABRAHAMS\n🇺🇿 Firdavsbek MUSABEKOV\n🇰🇿 Nurdaulet
+  ZHUMAGALI\n🇺🇦 Oleksii FEDYNA\n🇩🇪 Taliso ENGEL\n🇳🇱 Thomas van
+  WANROOIJ\n🇦🇿 Vali ISRAFILOV
+SUMMARY:Men's 100m Breaststroke - SB13 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T170400Z-para-athletics-MENS-DISCUS-THROW-F64-FINAL
@@ -3624,6 +3660,29 @@ SUMMARY:Women's 400m - T53 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240905T173300Z-para-swimming-WOMENS-100M-BREASTSTROKE-SB13-FINAL
+DTSTAMP:20240905T173300Z
+DTSTART:20240905T173300Z
+DTEND:20240905T174000Z
+DESCRIPTION:Para Swimming - Women's 100m Breaststroke - SB13 Final\n🇺🇸
+  Colleen YOUNG\n🇿🇦 Danika VYNCKE\n🇪🇸 Marian POLO LOPEZ\n🇺🇸 Olivia
+  CHAMBERS\n🇬🇧 Rebecca REDFERN\n🇮🇪 Roisin NI RIAIN
+SUMMARY:Women's 100m Breaststroke - SB13 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T175600Z-para-swimming-WOMENS-50M-FREESTYLE-S8-FINAL
+DTSTAMP:20240905T175600Z
+DTSTART:20240905T175600Z
+DTEND:20240905T180200Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S8 Final\n🇬🇧 Alice
+  TAI\n🇧🇷 Cecilia Kethlen JERONIMO de ARAUJO\n🇨🇳 JIANG Shengnan\n🇨🇳
+  JIN Xiaoqin\n🇺🇸 Mallory WEGGEMANN\n🇮🇹 Xenia Francesca PALAZZO\n🇨🇳
+  ZHU Hui
+SUMMARY:Women's 50m Freestyle - S8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240905T175800Z-para-athletics-MENS-800M-T53-FINAL
 DTSTAMP:20240905T175800Z
 DTSTART:20240905T175800Z
@@ -3634,6 +3693,17 @@ DESCRIPTION:Para Athletics - Men's 800m - T53 Final\n🇨🇦 Brent
   PAEYO\n🇰🇷 YOO Byunghoon
 SUMMARY:Men's 800m - T53 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T180200Z-para-swimming-MIXED-4X50M-MEDLEY-RELAY-20-POINTS-FINAL
+DTSTAMP:20240905T180200Z
+DTSTART:20240905T180200Z
+DTEND:20240905T181200Z
+DESCRIPTION:Para Swimming - Mixed 4x50m Medley Relay - 20 Points
+  Final\n🇧🇷 BRA\n🇨🇳 CHN\n🇮🇹 ITA\n🇯🇵 JPN\n🇪🇸 ESP\n🇹🇷 TUR\n🇺🇦
+  UKR\n🇺🇸 USA
+SUMMARY:Mixed 4x50m Medley Relay - 20 Points Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T185000Z-para-athletics-WOMENS-100M-T64-ROUND-1
