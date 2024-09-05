@@ -1285,20 +1285,6 @@ SUMMARY:Women's 100m - T36 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
-UID:20240905T073500Z-para-cycling-road-WOMENS-H1-4-ROAD-RACE
-DTSTAMP:20240905T073500Z
-DTSTART:20240905T073500Z
-DTEND:20240905T091500Z
-DESCRIPTION:Para Cycling Road - Women's H1-4 Road Race\n🇫🇷 Anais
-  VINCENT\n🇩🇪 Annika ZEYEN-GILES\n🇦🇹 Cornelia WIBMER\n🇮🇹 Francesca
-  PORCELLATO\n🇮🇹 Giulia RUFFATO\n🇧🇷 Jady MALAVAZZI\n🇳🇱 Jennette
-  JANSEN\n🇨🇿 Katerina ANTOSOVA\n🇺🇸 Katerina BRIM\n🇰🇷 LEE Doyeon\n🇦🇺
-  Lauren PARKER\n🇧🇷 Mariana GARCIA\n🇹🇭 Naphatsakorn RODKLANG\n🇨🇭
-  Sandra STOECKLI\n🇳🇴 Suzanna TANGEN\n🇦🇹 Svetlana MOSHKOVICH
-SUMMARY:Women's H1-4 Road Race
-LOCATION:Clichy-sous-bois
-END:VEVENT
-BEGIN:VEVENT
 UID:20240905T074600Z-para-swimming-MENS-100M-FREESTYLE-S6-HEATS
 DTSTAMP:20240905T074600Z
 DTSTART:20240905T074600Z
@@ -1324,6 +1310,20 @@ DESCRIPTION:Para Swimming - Men's 100m Breaststroke - SB11 Heats\n🇰🇿 Amir
   DORSMAN\n🇨🇳 YANG Bozun
 SUMMARY:Men's 100m Breaststroke - SB11 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T083500Z-para-cycling-road-WOMENS-H1-4-ROAD-RACE
+DTSTAMP:20240905T083500Z
+DTSTART:20240905T083500Z
+DTEND:20240905T101500Z
+DESCRIPTION:Para Cycling Road - Women's H1-4 Road Race\n🇫🇷 Anais
+  VINCENT\n🇩🇪 Annika ZEYEN-GILES\n🇦🇹 Cornelia WIBMER\n🇮🇹 Francesca
+  PORCELLATO\n🇮🇹 Giulia RUFFATO\n🇧🇷 Jady MALAVAZZI\n🇳🇱 Jennette
+  JANSEN\n🇨🇿 Katerina ANTOSOVA\n🇺🇸 Katerina BRIM\n🇰🇷 LEE Doyeon\n🇦🇺
+  Lauren PARKER\n🇧🇷 Mariana GARCIA\n🇹🇭 Naphatsakorn RODKLANG\n🇨🇭
+  Sandra STOECKLI\n🇳🇴 Suzanna TANGEN\n🇦🇹 Svetlana MOSHKOVICH
+SUMMARY:Women's H1-4 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T085100Z-para-swimming-MENS-100M-BREASTSTROKE-SB13-HEATS

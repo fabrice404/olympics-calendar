@@ -774,33 +774,6 @@ SUMMARY:Women's 100m Breaststroke - SB7 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240905T073000Z-para-cycling-road-MENS-H1-2-ROAD-RACE
-DTSTAMP:20240905T073000Z
-DTSTART:20240905T073000Z
-DTEND:20240905T094300Z
-DESCRIPTION:Para Cycling Road - Men's H1-2 Road Race\n🇮🇱 Amit
-  HASDAI\n🇨🇭 Benjamin FRUEH\n🇺🇸 Cody WILLS\n🇮🇹 Fabrizio
-  CORNEGLIANI\n🇫🇷 Florian JOUANNY\n🇮🇹 Luca MAZZONE\n🇧🇪 Maxime
-  HORDIES\n🇿🇦 Nicolas Pieter du PREEZ\n🇨🇿 Patrik JAHODA\n🇳🇿 Rory
-  MEAD\n🇪🇸 Sergio GARROTE MUNOZ
-SUMMARY:Men's H1-2 Road Race
-LOCATION:Clichy-sous-bois
-END:VEVENT
-BEGIN:VEVENT
-UID:20240905T073500Z-para-cycling-road-WOMENS-H1-4-ROAD-RACE
-DTSTAMP:20240905T073500Z
-DTSTART:20240905T073500Z
-DTEND:20240905T091500Z
-DESCRIPTION:Para Cycling Road - Women's H1-4 Road Race\n🇫🇷 Anais
-  VINCENT\n🇩🇪 Annika ZEYEN-GILES\n🇦🇹 Cornelia WIBMER\n🇮🇹 Francesca
-  PORCELLATO\n🇮🇹 Giulia RUFFATO\n🇧🇷 Jady MALAVAZZI\n🇳🇱 Jennette
-  JANSEN\n🇨🇿 Katerina ANTOSOVA\n🇺🇸 Katerina BRIM\n🇰🇷 LEE Doyeon\n🇦🇺
-  Lauren PARKER\n🇧🇷 Mariana GARCIA\n🇹🇭 Naphatsakorn RODKLANG\n🇨🇭
-  Sandra STOECKLI\n🇳🇴 Suzanna TANGEN\n🇦🇹 Svetlana MOSHKOVICH
-SUMMARY:Women's H1-4 Road Race
-LOCATION:Clichy-sous-bois
-END:VEVENT
-BEGIN:VEVENT
 UID:20240905T080000Z-para-athletics-WOMENS-SHOT-PUT-F35-FINAL
 DTSTAMP:20240905T080000Z
 DTSTART:20240905T080000Z
@@ -838,6 +811,33 @@ DESCRIPTION:Para Swimming - Men's 200m Individual Medley - SM9 Heats\n🇪🇸
   XIE Zhili
 SUMMARY:Men's 200m Individual Medley - SM9 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T083000Z-para-cycling-road-MENS-H1-2-ROAD-RACE
+DTSTAMP:20240905T083000Z
+DTSTART:20240905T083000Z
+DTEND:20240905T101000Z
+DESCRIPTION:Para Cycling Road - Men's H1-2 Road Race\n🇮🇱 Amit
+  HASDAI\n🇨🇭 Benjamin FRUEH\n🇺🇸 Cody WILLS\n🇮🇹 Fabrizio
+  CORNEGLIANI\n🇫🇷 Florian JOUANNY\n🇮🇹 Luca MAZZONE\n🇧🇪 Maxime
+  HORDIES\n🇿🇦 Nicolas Pieter du PREEZ\n🇨🇿 Patrik JAHODA\n🇳🇿 Rory
+  MEAD\n🇪🇸 Sergio GARROTE MUNOZ
+SUMMARY:Men's H1-2 Road Race
+LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T083500Z-para-cycling-road-WOMENS-H1-4-ROAD-RACE
+DTSTAMP:20240905T083500Z
+DTSTART:20240905T083500Z
+DTEND:20240905T101500Z
+DESCRIPTION:Para Cycling Road - Women's H1-4 Road Race\n🇫🇷 Anais
+  VINCENT\n🇩🇪 Annika ZEYEN-GILES\n🇦🇹 Cornelia WIBMER\n🇮🇹 Francesca
+  PORCELLATO\n🇮🇹 Giulia RUFFATO\n🇧🇷 Jady MALAVAZZI\n🇳🇱 Jennette
+  JANSEN\n🇨🇿 Katerina ANTOSOVA\n🇺🇸 Katerina BRIM\n🇰🇷 LEE Doyeon\n🇦🇺
+  Lauren PARKER\n🇧🇷 Mariana GARCIA\n🇹🇭 Naphatsakorn RODKLANG\n🇨🇭
+  Sandra STOECKLI\n🇳🇴 Suzanna TANGEN\n🇦🇹 Svetlana MOSHKOVICH
+SUMMARY:Women's H1-4 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T110000Z-para-table-tennis-MENS-SINGLES-MS2-GOLD-MEDAL-MATCH-CZ

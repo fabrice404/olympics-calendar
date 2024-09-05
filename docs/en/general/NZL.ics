@@ -617,19 +617,6 @@ SUMMARY:R6 - Mixed 50m Rifle Prone SH1 Qualification
 LOCATION:Chateauroux Shooting Ctr
 END:VEVENT
 BEGIN:VEVENT
-UID:20240905T073000Z-para-cycling-road-MENS-H1-2-ROAD-RACE
-DTSTAMP:20240905T073000Z
-DTSTART:20240905T073000Z
-DTEND:20240905T094300Z
-DESCRIPTION:Para Cycling Road - Men's H1-2 Road Race\n🇮🇱 Amit
-  HASDAI\n🇨🇭 Benjamin FRUEH\n🇺🇸 Cody WILLS\n🇮🇹 Fabrizio
-  CORNEGLIANI\n🇫🇷 Florian JOUANNY\n🇮🇹 Luca MAZZONE\n🇧🇪 Maxime
-  HORDIES\n🇿🇦 Nicolas Pieter du PREEZ\n🇨🇿 Patrik JAHODA\n🇳🇿 Rory
-  MEAD\n🇪🇸 Sergio GARROTE MUNOZ
-SUMMARY:Men's H1-2 Road Race
-LOCATION:Clichy-sous-bois
-END:VEVENT
-BEGIN:VEVENT
 UID:20240905T075400Z-para-swimming-WOMENS-400M-FREESTYLE-S10-HEATS
 DTSTAMP:20240905T075400Z
 DTSTART:20240905T075400Z
@@ -641,6 +628,19 @@ DESCRIPTION:Para Swimming - Women's 400m Freestyle - S10 Heats\n🇺🇸
   JABLONSKA\n🇦🇺 Poppy WILSON\n🇺🇸 Taylor WINNETT
 SUMMARY:Women's 400m Freestyle - S10 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240905T083000Z-para-cycling-road-MENS-H1-2-ROAD-RACE
+DTSTAMP:20240905T083000Z
+DTSTART:20240905T083000Z
+DTEND:20240905T101000Z
+DESCRIPTION:Para Cycling Road - Men's H1-2 Road Race\n🇮🇱 Amit
+  HASDAI\n🇨🇭 Benjamin FRUEH\n🇺🇸 Cody WILLS\n🇮🇹 Fabrizio
+  CORNEGLIANI\n🇫🇷 Florian JOUANNY\n🇮🇹 Luca MAZZONE\n🇧🇪 Maxime
+  HORDIES\n🇿🇦 Nicolas Pieter du PREEZ\n🇨🇿 Patrik JAHODA\n🇳🇿 Rory
+  MEAD\n🇪🇸 Sergio GARROTE MUNOZ
+SUMMARY:Men's H1-2 Road Race
+LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
 UID:20240905T091500Z-para-swimming-WOMENS-50M-FREESTYLE-S8-HEATS
