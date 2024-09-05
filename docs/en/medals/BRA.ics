@@ -1420,6 +1420,17 @@ SUMMARY:Men's C4-5 Road Race
 LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T080400Z-para-athletics-WOMENS-SHOT-PUT-F12-FINAL
+DTSTAMP:20240906T080400Z
+DTSTART:20240906T080400Z
+DTEND:20240906T091600Z
+DESCRIPTION:Para Athletics - Women's Shot Put - F12 Final\n🇮🇹 Assunta
+  LEGNANTE\n🇧🇷 Izabela CAMPOS\n🇺🇿 Safiya BURKHANOVA\n🇨🇳 XUE
+  Enhui\n🇨🇳 ZHANG Liangmin\n🇨🇳 ZHAO Yuping
+SUMMARY:Women's Shot Put - F12 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T090800Z-para-athletics-WOMENS-1500M-T20-FINAL
 DTSTAMP:20240906T090800Z
 DTSTART:20240906T090800Z
@@ -1566,6 +1577,18 @@ DESCRIPTION:Para Cycling Road - Women's C1-3 Road Race\n🇦🇺 Amanda
   da SILVA\n🇨🇳 WANG Xiaomei
 SUMMARY:Women's C1-3 Road Race
 LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T085700Z-para-equestrian-INDIVIDUAL-FREESTYLE-EVENT-GRADE-V
+DTSTAMP:20240907T085700Z
+DTSTART:20240907T085700Z
+DTEND:20240907T100900Z
+DESCRIPTION:Para Equestrian - Individual Freestyle Event - Grade V\n🇩🇪
+  Isabell NOWAK\n🇧🇪 Kevin van HAM\n🇦🇺 Lisa MARTIN\n🇸🇪 Lotta
+  WALLIN\n🇧🇪 Michele GEORGE\n🇩🇪 Regine MISPELKAMP\n🇧🇷 Rodolpho
+  RISKALLA\n🇬🇧 Sophie WELLS
+SUMMARY:Individual Freestyle Event - Grade V
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240907T100000Z-para-powerlifting-WOMENS-UP-TO-73KG-FINAL

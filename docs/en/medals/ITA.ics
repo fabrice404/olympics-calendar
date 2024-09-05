@@ -1215,6 +1215,17 @@ SUMMARY: YOON Jiyu 🇰🇷 - 🇮🇹 Carlotta RAGAZZINI
 LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T080400Z-para-athletics-WOMENS-SHOT-PUT-F12-FINAL
+DTSTAMP:20240906T080400Z
+DTSTART:20240906T080400Z
+DTEND:20240906T091600Z
+DESCRIPTION:Para Athletics - Women's Shot Put - F12 Final\n🇮🇹 Assunta
+  LEGNANTE\n🇧🇷 Izabela CAMPOS\n🇺🇿 Safiya BURKHANOVA\n🇨🇳 XUE
+  Enhui\n🇨🇳 ZHANG Liangmin\n🇨🇳 ZHAO Yuping
+SUMMARY:Women's Shot Put - F12 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T085800Z-para-athletics-MENS-1500M-T20-FINAL
 DTSTAMP:20240906T085800Z
 DTSTART:20240906T085800Z
@@ -1251,6 +1262,16 @@ SUMMARY:Men's B Road Race
 LOCATION:Clichy-sous-bois
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T150000Z-para-table-tennis-MENS-SINGLES-MS6-GOLD-MEDAL-MATCH
+DTSTAMP:20240906T150000Z
+DTSTART:20240906T150000Z
+DTEND:20240906T160000Z
+DESCRIPTION:Para Table Tennis - Men's Singles - MS6 - Gold Medal
+  Match\n🇮🇹 Matteo PARENZAN
+SUMMARY:Men's Singles - MS6 - Gold Medal Match
+LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T154100Z-para-swimming-WOMENS-400M-FREESTYLE-S6-FINAL
 DTSTAMP:20240906T154100Z
 DTSTART:20240906T154100Z
@@ -1270,6 +1291,18 @@ DTEND:20240906T170000Z
 DESCRIPTION:Para Table Tennis - Women's Singles - WS1-2 - Gold Medal Match
 SUMMARY: LIU Jing 🇨🇳 - 🇮🇹 Giada ROSSI
 LOCATION:South Paris Arena 4
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T103900Z-para-equestrian-INDIVIDUAL-FREESTYLE-EVENT-GRADE-I-
+DTSTAMP:20240907T103900Z
+DTSTART:20240907T103900Z
+DTEND:20240907T115100Z
+DESCRIPTION:Para Equestrian - Individual Freestyle Event - Grade I \n🇳🇱
+  Annemarieke NOBEL\n🇮🇹 Carola SEMPERBONI\n🇸🇬 Laurentia TAN\n🇬🇧 Mari
+  DURWARD - AKHURST\n🇱🇻 Rihards SNIKUS\n🇺🇸 Roxanne TRUNNELL\n🇮🇹 Sara
+  MORGANTI\n🇦🇺 Stella BARTON
+SUMMARY:Individual Freestyle Event - Grade I
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240907T104500Z-para-cycling-road-MENS-T1-2-ROAD-RACE
@@ -1293,6 +1326,18 @@ DESCRIPTION:Para Cycling Road - Mixed H1-5 Team Relay\n🇧🇪 BEL\n🇧🇷
   BRA\n🇫🇷 FRA\n🇮🇹 ITA\n🇨🇭 SUI\n🇹🇭 THA\n🇺🇸 USA
 SUMMARY:Mixed H1-5 Team Relay
 LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T133300Z-para-equestrian-INDIVIDUAL-FREESTYLE-EVENT-GRADE-III
+DTSTAMP:20240907T133300Z
+DTSTART:20240907T133300Z
+DTEND:20240907T144500Z
+DESCRIPTION:Para Equestrian - Individual Freestyle Event - Grade III\n🇧🇪
+  Barbara MINNECI\n🇫🇷 Chiara ZENATI\n🇮🇹 Francesca SALVADE'\n🇩🇰 Karla
+  DYHM-JUNGE\n🇬🇧 Natasha BAKER\n🇺🇸 Rebecca HART\n🇸🇪 Renee
+  CLAESSON-RIBRING\n🇳🇱 Rixt van der HORST
+SUMMARY:Individual Freestyle Event - Grade III
+LOCATION:Château de Versailles
 END:VEVENT
 BEGIN:VEVENT
 UID:20240907T163500Z-para-powerlifting-MENS-UP-TO-97KG-FINAL

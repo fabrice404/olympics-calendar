@@ -643,6 +643,30 @@ SUMMARY:Men's 400m - T62 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240907T073000Z-para-equestrian-INDIVIDUAL-FREESTYLE-EVENT-GRADE-IV
+DTSTAMP:20240907T073000Z
+DTSTART:20240907T073000Z
+DTEND:20240907T084200Z
+DESCRIPTION:Para Equestrian - Individual Freestyle Event - Grade IV\n🇫🇷
+  Alexia PITTIER\n🇩🇪 Anna-Lena NIEHUES\n🇳🇱 Demi HAERKENS\n🇺🇸 Kate
+  SHOEMAKER\n🇸🇪 Louise ETZNER JAKOBSSON\n🇧🇪 Manon CLAEYS\n🇳🇱 Sanne
+  VOETS\n🇫🇷 Vladimir VINCHON
+SUMMARY:Individual Freestyle Event - Grade IV
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T103900Z-para-equestrian-INDIVIDUAL-FREESTYLE-EVENT-GRADE-I-
+DTSTAMP:20240907T103900Z
+DTSTART:20240907T103900Z
+DTEND:20240907T115100Z
+DESCRIPTION:Para Equestrian - Individual Freestyle Event - Grade I \n🇳🇱
+  Annemarieke NOBEL\n🇮🇹 Carola SEMPERBONI\n🇸🇬 Laurentia TAN\n🇬🇧 Mari
+  DURWARD - AKHURST\n🇱🇻 Rihards SNIKUS\n🇺🇸 Roxanne TRUNNELL\n🇮🇹 Sara
+  MORGANTI\n🇦🇺 Stella BARTON
+SUMMARY:Individual Freestyle Event - Grade I
+LOCATION:Château de Versailles
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T105000Z-para-cycling-road-WOMENS-T1-2-ROAD-RACE
 DTSTAMP:20240907T105000Z
 DTSTART:20240907T105000Z
@@ -652,5 +676,17 @@ DESCRIPTION:Para Cycling Road - Women's T1-2 Road Race\n🇨🇭 Celine van
   MAJUNKE\n🇳🇱 Marieke van SOEST\n🇨🇿 Pavlina VEJVODOVA
 SUMMARY:Women's T1-2 Road Race
 LOCATION:Clichy-sous-bois
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T133300Z-para-equestrian-INDIVIDUAL-FREESTYLE-EVENT-GRADE-III
+DTSTAMP:20240907T133300Z
+DTSTART:20240907T133300Z
+DTEND:20240907T144500Z
+DESCRIPTION:Para Equestrian - Individual Freestyle Event - Grade III\n🇧🇪
+  Barbara MINNECI\n🇫🇷 Chiara ZENATI\n🇮🇹 Francesca SALVADE'\n🇩🇰 Karla
+  DYHM-JUNGE\n🇬🇧 Natasha BAKER\n🇺🇸 Rebecca HART\n🇸🇪 Renee
+  CLAESSON-RIBRING\n🇳🇱 Rixt van der HORST
+SUMMARY:Individual Freestyle Event - Grade III
+LOCATION:Château de Versailles
 END:VEVENT
 END:VCALENDAR
