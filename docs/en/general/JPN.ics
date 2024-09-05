@@ -3468,6 +3468,17 @@ SUMMARY:Women's 100m Backstroke - S14 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T085800Z-para-athletics-MENS-1500M-T20-FINAL
+DTSTAMP:20240906T085800Z
+DTSTART:20240906T085800Z
+DTEND:20240906T090600Z
+DESCRIPTION:Para Athletics - Men's 1500m - T20 Final\n🇯🇵 AKAI Daiki\n🇮🇪
+  Aaron SHORTEN\n🇬🇧 Ben SANDILANDS\n🇺🇸 Michael BRANNIGAN\n🇮🇹 Ndiaga
+  DIENG\n🇵🇹 Sandro BAESSA\n🇯🇵 TOGAWA Yuji
+SUMMARY:Men's 1500m - T20 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T090300Z-para-swimming-MENS-50M-FREESTYLE-S4-HEATS
 DTSTAMP:20240906T090300Z
 DTSTART:20240906T090300Z
@@ -3479,6 +3490,18 @@ DESCRIPTION:Para Swimming - Men's 50m Freestyle - S4 Heats\n🇮🇱 Ami Omer
   Takayuki\n🇨🇦 Sebastian MASSABIE
 SUMMARY:Men's 50m Freestyle - S4 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T090800Z-para-athletics-WOMENS-1500M-T20-FINAL
+DTSTAMP:20240906T090800Z
+DTSTART:20240906T090800Z
+DTEND:20240906T091500Z
+DESCRIPTION:Para Athletics - Women's 1500m - T20 Final\n🇦🇺 Annabelle
+  COLMAN\n🇧🇷 Antonia Keyla da SILVA BARROS\n🇵🇱 Barbara
+  BIEGANOWSKA-ZAJAC\n🇭🇺 Bernadett BIACSI\n🇬🇧 Hannah TAUNTON\n🇭🇺 Ilona
+  BIACSI\n🇺🇸 Kaitlin BOUNDS\n🇺🇦 Liudmyla DANYLINA\n🇯🇵 YAMAMOTO Moeko
+SUMMARY:Women's 1500m - T20 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T091200Z-para-judo-WOMEN-57-KG-J2-QUARTERFINALS-JPN-ARG
@@ -3541,6 +3564,19 @@ DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL2 Heats\n🇩🇪 Anja
   Danqin\n🇹🇭 Wasana KHUTHAWISAP
 SUMMARY:Women's Kayak Single 200m - KL2 Heats
 LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T095800Z-para-athletics-MENS-DISCUS-THROW-F37-FINAL
+DTSTAMP:20240906T095800Z
+DTSTART:20240906T095800Z
+DTEND:20240906T111000Z
+DESCRIPTION:Para Athletics - Men's Discus Throw - F37 Final\n🇱🇹 Donatas
+  DUNDZYS\n🇻🇪 Edwars Alexander VARELA MEZA\n🇦🇺 Guy HENLY\n🇵🇰 Haider
+  ALI\n🇨🇦 Jesse ZESSEU\n🇺🇿 Kudratillokhon MARUFKHUJAEV\n🇲🇽 Luis
+  Carlos LOPEZ VALENZUELA\n🇺🇦 Mykola ZHABNYAK\n🇯🇵 SHIMBO Yamato\n🇺🇿
+  Tolibboy YULDASHEV
+SUMMARY:Men's Discus Throw - F37 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T113000Z-wheelchair-tennis-WOMENS-SINGLES-GOLD-MEDAL-MATCH-NED-
