@@ -4089,7 +4089,7 @@ BEGIN:VEVENT
 UID:20240906T083000Z-para-canoe-WOMENS-VAA-SINGLE-200M-VL3-HEATS
 DTSTAMP:20240906T083000Z
 DTSTART:20240906T083000Z
-DTEND:20240906T084000Z
+DTEND:20240906T084200Z
 DESCRIPTION:Para Canoe - Women's Va'a Single 200m - VL3 Heats\n🇬🇧
   Charlotte HENSHAW\n🇫🇷 Elea CHARVET\n🇨🇦 Erica SCARFF\n🇬🇧 Hope
   GORDON\n🇺🇸 Jillian ELWART\n🇯🇵 MIYAJIMA Shiho\n🇧🇷 Mari
@@ -4390,6 +4390,16 @@ DESCRIPTION:Para Athletics - Women's Javelin Throw - F46 Final\n🇮🇳
   Roziyakhon ERGASHEVA\n🇷🇸 Saska SOKOLOV\n🇺🇿 Shahinakhon YIGITALIEVA
 SUMMARY:Women's Javelin Throw - F46 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T171500Z-para-table-tennis-MENS-SINGLES-MS7-GOLD-MEDAL-MATCH
+DTSTAMP:20240906T171500Z
+DTSTART:20240906T171500Z
+DTEND:20240906T181500Z
+DESCRIPTION:Para Table Tennis - Men's Singles - MS7 - Gold Medal
+  Match\n🇬🇧 William BAYLEY
+SUMMARY:Men's Singles - MS7 - Gold Medal Match
+LOCATION:South Paris Arena 4
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T193700Z-para-athletics-WOMENS-400M-T38-ROUND-1

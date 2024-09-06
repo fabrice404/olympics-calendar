@@ -2072,7 +2072,7 @@ BEGIN:VEVENT
 UID:20240906T083000Z-para-canoe-WOMENS-VAA-SINGLE-200M-VL3-HEATS
 DTSTAMP:20240906T083000Z
 DTSTART:20240906T083000Z
-DTEND:20240906T084000Z
+DTEND:20240906T084200Z
 DESCRIPTION:Para Canoe - Women's Va'a Single 200m - VL3 Heats\n🇬🇧
   Charlotte HENSHAW\n🇫🇷 Elea CHARVET\n🇨🇦 Erica SCARFF\n🇬🇧 Hope
   GORDON\n🇺🇸 Jillian ELWART\n🇯🇵 MIYAJIMA Shiho\n🇧🇷 Mari
@@ -2187,6 +2187,16 @@ DESCRIPTION:Para Athletics - Men's Discus Throw - F37 Final\n🇱🇹 Donatas
   Tolibboy YULDASHEV
 SUMMARY:Men's Discus Throw - F37 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T101000Z-wheelchair-fencing-WOMENS-PE-CATEGORY-B-REPECHAGE-ROUN
+DTSTAMP:20240906T101000Z
+DTSTART:20240906T101000Z
+DTEND:20240906T104000Z
+DESCRIPTION:Wheelchair Fencing - Women's Épée Category B Repechage Round
+  1\n🇨🇦 Trinity LOWTHIAN
+SUMMARY:Women's Épée Category B Repechage Round 1
+LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T101800Z-para-athletics-MENS-800M-T34-ROUND-1
