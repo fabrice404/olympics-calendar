@@ -33,7 +33,7 @@ BEGIN:VEVENT
 UID:20240906T084000Z-para-canoe-MENS-KAYAK-SINGLE-200M-KL3-HEATS
 DTSTAMP:20240906T084000Z
 DTSTART:20240906T084000Z
-DTEND:20240906T085000Z
+DTEND:20240906T085200Z
 DESCRIPTION:Para Canoe - Men's Kayak Single 200m - KL3 Heats\n🇩🇿 Brahim
   GUENDOUZ\n🇰🇷 CHOI Yong Beom\n🇦🇺 Dylan LITTLEHALES\n🇸🇳 Edmond
   SANKA\n🇪🇸 Juan Antonio VALLE GALLARDO\n🇺🇿 Khasan KULDASHEV\n🇮🇹
@@ -66,6 +66,19 @@ DESCRIPTION:Para Canoe - Men's Va'a Single 200m - VL3 Heats\n🇫🇷 Abel
   SWOBODA\n🇮🇹 Mirko NICOLI\n🇨🇳 PU Yi\n🇳🇿 Peter COWAN\n🇳🇿 Scott
   MARTLEW\n🇺🇦 Vladyslav YEPIFANOV
 SUMMARY:Men's Va'a Single 200m - VL3 Heats
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T082800Z-para-canoe-WOMENS-VAA-SINGLE-200M-VL2-SEMIFINALS
+DTSTAMP:20240907T082800Z
+DTSTART:20240907T082800Z
+DTEND:20240907T084200Z
+DESCRIPTION:Para Canoe - Women's Va'a Single 200m - VL2 Semifinals\n🇭🇺
+  Dalma BOLDIZSAR\n🇧🇷 Debora Raiza RIBEIRO BENEVIDES\n🇪🇸 Ines Maria
+  FELIPE VIDIGAL\n🇮🇱 Irina SHAFIR\n🇺🇿 Irodakhon RUSTAMOVA\n🇬🇧
+  Jeanette CHIPPINGTON\n🇮🇳 Prachi YADAV\n🇦🇺 Susan SEIPEL\n🇮🇹 Veronica
+  Silvia BIGLIA
+SUMMARY:Women's Va'a Single 200m - VL2 Semifinals
 LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 END:VCALENDAR
