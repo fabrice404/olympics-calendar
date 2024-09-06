@@ -2172,6 +2172,15 @@ SUMMARY: Dariusz PENDER 🇵🇱 - 🇩🇪 Maurice SCHMIDT
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T104000Z-wheelchair-fencing-MENS-PE-CATEGORY-A-REPECHAGE-ROUND-
+DTSTAMP:20240906T104000Z
+DTSTART:20240906T104000Z
+DTEND:20240906T111000Z
+DESCRIPTION:Wheelchair Fencing - Men's Épée Category A Repechage Round 1
+SUMMARY: Michal NALEWAJEK 🇵🇱 - 🇯🇵 YASU Naoki
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T110000Z-para-table-tennis-WOMENS-SINGLES-WS9-QUARTERFINAL-4-CH
 DTSTAMP:20240906T110000Z
 DTSTART:20240906T110000Z
@@ -2306,6 +2315,19 @@ DESCRIPTION:Para Swimming - Men's 100m Butterfly - S8 Heats\n🇮🇹 Alberto
   JAFFE\n🇨🇦 Reid MAXWELL\n🇨🇳 WU Hongliang\n🇨🇳 YANG Guanglong
 SUMMARY:Men's 100m Butterfly - S8 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T084900Z-para-canoe-WOMENS-VAA-SINGLE-200M-VL3-SEMIFINALS
+DTSTAMP:20240907T084900Z
+DTSTART:20240907T084900Z
+DTEND:20240907T090300Z
+DESCRIPTION:Para Canoe - Women's Va'a Single 200m - VL3 Semifinals\n🇫🇷
+  Elea CHARVET\n🇨🇦 Erica SCARFF\n🇺🇸 Jillian ELWART\n🇯🇵 MIYAJIMA
+  Shiho\n🇧🇷 Mari SANTILLI\n🇵🇱 Monika Katarzyna KUKLA\n🇺🇦 Nataliia
+  LAHUTENKO\n🇺🇿 Shakhzoda MAMADALIEVA\n🇨🇳 ZHONG Yongyuan\n🇰🇿 Zhanyl
+  BALTABAYEVA
+SUMMARY:Women's Va'a Single 200m - VL3 Semifinals
+LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240907T090400Z-para-swimming-MENS-200M-FREESTYLE-S3-HEATS
