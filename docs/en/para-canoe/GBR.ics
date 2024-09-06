@@ -98,7 +98,7 @@ BEGIN:VEVENT
 UID:20240906T095500Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL3-HEATS
 DTSTAMP:20240906T095500Z
 DTSTART:20240906T095500Z
-DTEND:20240906T100500Z
+DTEND:20240906T100700Z
 DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL3 Heats\n🇧🇷 Aline
   FURTADO de OLIVEIRA\n🇮🇹 Amanda EMBRIACO\n🇩🇪 Felicia LABERER\n🇬🇧
   Hope GORDON\n🇵🇱 Katarzyna Patrycja KOZIKOWSKA\n🇬🇧 Laura SUGAR\n🇧🇷
@@ -157,6 +157,18 @@ DESCRIPTION:Para Canoe - Men's Kayak Single 200m - KL3 Semifinals\n🇩🇿
   KULDASHEV\n🇮🇹 Kwadzo KLOKPAH\n🇵🇱 Mateusz SURWILO\n🇧🇷 Miqueias Elias
   RODRIGUES\n🇬🇧 Robert OLIVER
 SUMMARY:Men's Kayak Single 200m - KL3 Semifinals
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T080000Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL1-SEMIFINALS
+DTSTAMP:20240908T080000Z
+DTSTART:20240908T080000Z
+DTEND:20240908T081400Z
+DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL1 Semifinals\n🇧🇷
+  Adriana GOMES AZEVEDO\n🇦🇷 Andrea Viviana BRACAMONTE\n🇨🇦 Brianna
+  HENNESSY\n🇩🇪 Edina MUELLER\n🇮🇹 Eleonora de PAOLIS\n🇬🇧 Jeanette
+  CHIPPINGTON\n🇮🇳 Pooja OJHA\n🇯🇵 SERYU Monika\n🇨🇳 XIE Maosan
+SUMMARY:Women's Kayak Single 200m - KL1 Semifinals
 LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 END:VCALENDAR

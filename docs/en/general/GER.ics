@@ -2568,7 +2568,7 @@ BEGIN:VEVENT
 UID:20240906T095500Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL3-HEATS
 DTSTAMP:20240906T095500Z
 DTSTART:20240906T095500Z
-DTEND:20240906T100500Z
+DTEND:20240906T100700Z
 DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL3 Heats\n🇧🇷 Aline
   FURTADO de OLIVEIRA\n🇮🇹 Amanda EMBRIACO\n🇩🇪 Felicia LABERER\n🇬🇧
   Hope GORDON\n🇵🇱 Katarzyna Patrycja KOZIKOWSKA\n🇬🇧 Laura SUGAR\n🇧🇷
@@ -2579,12 +2579,12 @@ SUMMARY:Women's Kayak Single 200m - KL3 Heats
 LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240906T100000Z-para-judo-MEN-73-KG-J1-SEMIFINALS-B
+UID:20240906T100000Z-para-judo-MEN-73-KG-J1-SEMIFINALS-B-GER-KAZ
 DTSTAMP:20240906T100000Z
 DTSTART:20240906T100000Z
 DTEND:20240906T100600Z
-DESCRIPTION:Para Judo - Men -73 kg J1 Semifinals B\n🇩🇪 Lennart SASS
-SUMMARY:Men -73 kg J1 Semifinals B
+DESCRIPTION:Para Judo - Men -73 kg J1 Semifinals B
+SUMMARY: Lennart SASS 🇩🇪 - 🇰🇿 Yergali SHAMEY
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2848,6 +2848,18 @@ DTEND:20240907T190000Z
 DESCRIPTION:Wheelchair Basketball - Women's Playoff 5-6
 SUMMARY: GBR 🇬🇧 - 🇩🇪 GER
 LOCATION:Bercy Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T080000Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL1-SEMIFINALS
+DTSTAMP:20240908T080000Z
+DTSTART:20240908T080000Z
+DTEND:20240908T081400Z
+DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL1 Semifinals\n🇧🇷
+  Adriana GOMES AZEVEDO\n🇦🇷 Andrea Viviana BRACAMONTE\n🇨🇦 Brianna
+  HENNESSY\n🇩🇪 Edina MUELLER\n🇮🇹 Eleonora de PAOLIS\n🇬🇧 Jeanette
+  CHIPPINGTON\n🇮🇳 Pooja OJHA\n🇯🇵 SERYU Monika\n🇨🇳 XIE Maosan
+SUMMARY:Women's Kayak Single 200m - KL1 Semifinals
+LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony
