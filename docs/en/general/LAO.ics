@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fabrice404//olympics-calendar//en/general/LAO//EN
+X-WR-CALNAME:🇱🇦 Laos | Paris 2024
+NAME:🇱🇦 Laos | Paris 2024
+BEGIN:VEVENT
+UID:20240828T180000Z-opening-ceremony
+DTSTAMP:20240828T180000Z
+DTSTART:20240828T180000Z
+DTEND:20240828T210000Z
+DESCRIPTION:Paris 2024 - Opening Ceremony
+SUMMARY:Paris 2024 - Opening Ceremony
+LOCATION:Paris
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T080000Z-para-athletics-MENS-LONG-JUMP-T13-FINAL
+DTSTAMP:20240907T080000Z
+DTSTART:20240907T080000Z
+DTEND:20240907T093000Z
+DESCRIPTION:Para Athletics - Men's Long Jump - T13 Final\n🇺🇿 Doniyorjon
+  AKHMEDOV\n🇯🇵 FUKUNAGA Ryota\n🇺🇸 Isaac JEAN-PAUL\n🇪🇸 Ivan Jose CANO
+  BLANCO\n🇱🇦 Ken THEPTHIDA\n🇦🇿 Orkhan ASLANOV\n🇧🇷 Paulo Henrique
+  ANDRADE dos REIS\n🇳🇴 Vegard Dragsund SVERD\n🇪🇸 Winsdom Asisosa
+  IKHIUWU SMITH\n🇬🇧 Zak SKINNER
+SUMMARY:Men's Long Jump - T13 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T190000Z-closing-ceremony
+DTSTAMP:20240908T190000Z
+DTSTART:20240908T190000Z
+DTEND:20240908T220000Z
+DESCRIPTION:Paris 2024 - Closing Ceremony
+SUMMARY:Paris 2024 - Closing Ceremony
+LOCATION:Stade de France, Saint-Denis
+END:VEVENT
+END:VCALENDAR
