@@ -24424,15 +24424,6 @@ SUMMARY: SETO Yujiro 🇯🇵 - 🇱🇹 Osvaldas BAREIKIS
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240906T094800Z-para-judo-WOMEN-57-KG-J2-REPECHAGE
-DTSTAMP:20240906T094800Z
-DTSTART:20240906T094800Z
-DTEND:20240906T095400Z
-DESCRIPTION:Para Judo - Women -57 kg J2 Repechage
-SUMMARY:Women -57 kg J2 Repechage
-LOCATION:Champ-de-Mars Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240906T095100Z-para-athletics-MENS-HIGH-JUMP-T64-FINAL
 DTSTAMP:20240906T095100Z
 DTSTART:20240906T095100Z
@@ -24567,7 +24558,7 @@ BEGIN:VEVENT
 UID:20240906T100500Z-para-canoe-MENS-VAA-SINGLE-200M-VL3-HEATS
 DTSTAMP:20240906T100500Z
 DTSTART:20240906T100500Z
-DTEND:20240906T101500Z
+DTEND:20240906T101700Z
 DESCRIPTION:Para Canoe - Men's Va'a Single 200m - VL3 Heats\n🇫🇷 Abel
   ABER\n🇪🇸 Adrian MOSQUERA RIAL\n🇦🇺 Curtis McGRATH\n🇦🇷 Emilio Ariel
   ATAMANUK\n🇬🇧 Jack EYERS\n🇺🇿 Khaytmurot SHERKUZIEV\n🇦🇹 Mendy
@@ -24586,12 +24577,12 @@ SUMMARY: Brenda SOUZA de FREITAS 🇧🇷 - 🇬🇷 Theodora PASCHALIDOU
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240906T100600Z-para-judo-WOMEN-57-KG-J2-SEMIFINALS-A
+UID:20240906T100600Z-para-judo-WOMEN-57-KG-J2-SEMIFINALS-A-UZB-ESP
 DTSTAMP:20240906T100600Z
 DTSTART:20240906T100600Z
 DTEND:20240906T101200Z
 DESCRIPTION:Para Judo - Women -57 kg J2 Semifinals A
-SUMMARY:Women -57 kg J2 Semifinals A
+SUMMARY: Kumushkhon KHODJAEVA 🇺🇿 - 🇪🇸 Marta ARCE PAYNO
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -24735,13 +24726,12 @@ SUMMARY: Djibrilo IAFA 🇵🇹 - 🇫🇷 Armindo RODRIGUES
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240906T103000Z-para-judo-MEN-73-KG-J2-FINAL-OF-REPECHAGE-B
+UID:20240906T103000Z-para-judo-MEN-73-KG-J2-FINAL-OF-REPECHAGE-B-FRA-ROU
 DTSTAMP:20240906T103000Z
 DTSTART:20240906T103000Z
 DTEND:20240906T103600Z
-DESCRIPTION:Para Judo - Men -73 kg J2 Final of Repechage B\n🇷🇴 Daniel
-  VARGOCZKI
-SUMMARY:Men -73 kg J2 Final of Repechage B
+DESCRIPTION:Para Judo - Men -73 kg J2 Final of Repechage B
+SUMMARY: Nathan PETIT 🇫🇷 - 🇷🇴 Daniel VARGOCZKI
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -25037,38 +25027,35 @@ UID:20240906T114000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
 DTSTAMP:20240906T114000Z
 DTSTART:20240906T114000Z
 DTEND:20240906T121000Z
+DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round 2
+SUMMARY: Ammar ALI 🇮🇶 - 🇺🇦 Anton DATSKO
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T114000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
+DTSTAMP:20240906T114000Z
+DTSTART:20240906T114000Z
+DTEND:20240906T121000Z
+DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round 2
+SUMMARY: Michele MASSA 🇮🇹 - 🇺🇦 Oleg NAUMENKO
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T114000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
+DTSTAMP:20240906T114000Z
+DTSTART:20240906T114000Z
+DTEND:20240906T121000Z
+DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round 2
+SUMMARY: Yohan PETER 🇫🇷 - 🇧🇷 Jovane GUISSONE
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T114000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
+DTSTAMP:20240906T114000Z
+DTSTART:20240906T114000Z
+DTEND:20240906T121000Z
 DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round
   2\n🇨🇳 HU Daoliang
-SUMMARY:Men's Épée Category B Repechage Round 2
-LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240906T114000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
-DTSTAMP:20240906T114000Z
-DTSTART:20240906T114000Z
-DTEND:20240906T121000Z
-DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round
-  2\n🇫🇷 Yohan PETER
-SUMMARY:Men's Épée Category B Repechage Round 2
-LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240906T114000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
-DTSTAMP:20240906T114000Z
-DTSTART:20240906T114000Z
-DTEND:20240906T121000Z
-DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round
-  2\n🇮🇹 Michele MASSA
-SUMMARY:Men's Épée Category B Repechage Round 2
-LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240906T114000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
-DTSTAMP:20240906T114000Z
-DTSTART:20240906T114000Z
-DTEND:20240906T121000Z
-DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round
-  2\n🇺🇦 Anton DATSKO
 SUMMARY:Men's Épée Category B Repechage Round 2
 LOCATION:Grand Palais
 END:VEVENT
@@ -25209,30 +25196,30 @@ SUMMARY: Michal DABROWSKI 🇵🇱 - 🇬🇧 Dimitri COUTYA
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
-UID:20240906T124000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
-DTSTAMP:20240906T124000Z
-DTSTART:20240906T124000Z
-DTEND:20240906T131000Z
-DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round 3
-SUMMARY:Men's Épée Category B Repechage Round 3
-LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240906T124000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
-DTSTAMP:20240906T124000Z
-DTSTART:20240906T124000Z
-DTEND:20240906T131000Z
-DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round 3
-SUMMARY:Men's Épée Category B Repechage Round 3
-LOCATION:Grand Palais
-END:VEVENT
-BEGIN:VEVENT
-UID:20240906T124000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-SEMIFINAL
+UID:20240906T124000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-SEMIFINAL-THA-CH
 DTSTAMP:20240906T124000Z
 DTSTART:20240906T124000Z
 DTEND:20240906T131000Z
 DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Semifinal
-SUMMARY:Men's Épée Category B Semifinal
+SUMMARY: Visit KINGMANAW 🇹🇭 - 🇨🇳 ZHANG Jie
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T124000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
+DTSTAMP:20240906T124000Z
+DTSTART:20240906T124000Z
+DTEND:20240906T131000Z
+DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round 3
+SUMMARY:Men's Épée Category B Repechage Round 3
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T124000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
+DTSTAMP:20240906T124000Z
+DTSTART:20240906T124000Z
+DTEND:20240906T131000Z
+DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round 3
+SUMMARY:Men's Épée Category B Repechage Round 3
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
@@ -25567,7 +25554,10 @@ UID:20240906T153000Z-para-swimming-MENS-400M-FREESTYLE-S6-FINAL
 DTSTAMP:20240906T153000Z
 DTSTART:20240906T153000Z
 DTEND:20240906T154100Z
-DESCRIPTION:Para Swimming - Men's 400m Freestyle - S6 Final
+DESCRIPTION:Para Swimming - Men's 400m Freestyle - S6 Final\n🇮🇹 Antonio
+  FANTIN\n🇨🇴 David Felipe RENDON ACOSTA\n🇲🇽 Jesus Alberto GUTIERREZ
+  BERMUDEZ\n🇨🇳 LUO Jinbiao\n🇨🇺 Lorenzo PEREZ ESCALONA\n🇲🇽 Raul
+  GUTIERREZ BERMUDEZ\n🇨🇳 TANG Qian\n🇧🇷 Talisson Henrique GLOCK
 SUMMARY:Men's 400m Freestyle - S6 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25576,7 +25566,8 @@ UID:20240906T153200Z-para-judo-MEN-73-KG-J2-BRONZE-MEDAL-CONTEST-B
 DTSTAMP:20240906T153200Z
 DTSTART:20240906T153200Z
 DTEND:20240906T154000Z
-DESCRIPTION:Para Judo - Men -73 kg J2 Bronze Medal Contest B
+DESCRIPTION:Para Judo - Men -73 kg J2 Bronze Medal Contest B\n🇱🇹 Osvaldas
+  BAREIKIS
 SUMMARY:Men -73 kg J2 Bronze Medal Contest B
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -25585,7 +25576,7 @@ UID:20240906T154000Z-para-judo-MEN-73-KG-J2-FINAL
 DTSTAMP:20240906T154000Z
 DTSTART:20240906T154000Z
 DTEND:20240906T154800Z
-DESCRIPTION:Para Judo - Men -73 kg J2 Final
+DESCRIPTION:Para Judo - Men -73 kg J2 Final\n🇯🇵 SETO Yujiro
 SUMMARY:Men -73 kg J2 Final
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
@@ -25606,7 +25597,10 @@ UID:20240906T155200Z-para-swimming-MENS-50M-BUTTERFLY-S5-FINAL
 DTSTAMP:20240906T155200Z
 DTSTART:20240906T155200Z
 DTEND:20240906T155800Z
-DESCRIPTION:Para Swimming - Men's 50m Butterfly - S5 Final
+DESCRIPTION:Para Swimming - Men's 50m Butterfly - S5 Final\n🇨🇳 GUO
+  Jincheng\n🇯🇵 HINATA Kaede\n🇧🇷 Samuel da SILVA de OLIVEIRA\n🇰🇿
+  Siyazbek DALIYEV\n🇯🇵 TANAKA Eigo\n🇨🇳 WANG Lichao\n🇨🇳 YUAN
+  Weiyi\n🇺🇦 Yaroslav SEMENENKO
 SUMMARY:Men's 50m Butterfly - S5 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25625,7 +25619,10 @@ UID:20240906T155800Z-para-swimming-WOMENS-50M-BUTTERFLY-S5-FINAL
 DTSTAMP:20240906T155800Z
 DTSTART:20240906T155800Z
 DTEND:20240906T160500Z
-DESCRIPTION:Para Swimming - Women's 50m Butterfly - S5 Final
+DESCRIPTION:Para Swimming - Women's 50m Butterfly - S5 Final\n🇵🇭 Angel
+  Mae OTOM\n🇨🇳 CHENG Jiao\n🇧🇷 Esthefany RODRIGUES\n🇮🇹 Giulia
+  GHIRETTI\n🇨🇳 HE Shenggao\n🇨🇳 LU Dong\n🇹🇷 Sevilay OZTURK\n🇹🇷
+  Sumeyye BOYACI
 SUMMARY:Women's 50m Butterfly - S5 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25653,7 +25650,10 @@ UID:20240906T160500Z-para-swimming-MENS-100M-BACKSTROKE-S10-FINAL
 DTSTAMP:20240906T160500Z
 DTSTART:20240906T160500Z
 DTEND:20240906T161200Z
-DESCRIPTION:Para Swimming - Men's 100m Backstroke - S10 Final
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S10 Final\n🇨🇦
+  Alexander ELLIOT\n🇳🇱 Bas TAKKEN\n🇺🇦 Ihor NIMCHENKO\n🇯🇵 MINAI
+  Akito\n🇳🇱 Olivier van de VOORT\n🇮🇹 Riccardo MENCIOTTI\n🇮🇹 Stefano
+  RAIMONDI\n🇦🇺 Thomas GALLAGHER
 SUMMARY:Men's 100m Backstroke - S10 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25671,7 +25671,10 @@ UID:20240906T161200Z-para-swimming-WOMENS-100M-BACKSTROKE-S10-FINAL
 DTSTAMP:20240906T161200Z
 DTSTART:20240906T161200Z
 DTEND:20240906T161900Z
-DESCRIPTION:Para Swimming - Women's 100m Backstroke - S10 Final
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S10 Final\n🇺🇸
+  Alexandra TRUWIT\n🇫🇷 Anaelle ROULET\n🇨🇦 Aurelie RIVARD\n🇭🇺 Bianka
+  PAP\n🇫🇷 Emeline PIERRE\n🇦🇺 Jasmine GREENWOOD\n🇨🇦 Katie
+  COSGRIFFE\n🇳🇱 Lisa KRUGER
 SUMMARY:Women's 100m Backstroke - S10 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25698,7 +25701,9 @@ UID:20240906T163500Z-para-swimming-MENS-100M-BUTTERFLY-S9-FINAL
 DTSTAMP:20240906T163500Z
 DTSTART:20240906T163500Z
 DTEND:20240906T164100Z
-DESCRIPTION:Para Swimming - Men's 100m Butterfly - S9 Final
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S9 Final\n🇮🇪 Barry
+  McCLEMENTS\n🇮🇹 Federico MORLACCHI\n🇦🇺 Lewis BISHOP\n🇩🇪 Malte
+  BRAUNSCHWEIG\n🇮🇹 Simone BARLAAM\n🇦🇺 Timothy HODGE\n🇨🇳 XIE Zhili
 SUMMARY:Men's 100m Butterfly - S9 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25719,7 +25724,10 @@ UID:20240906T164100Z-para-swimming-WOMENS-100M-BUTTERFLY-S9-FINAL
 DTSTAMP:20240906T164100Z
 DTSTART:20240906T164100Z
 DTEND:20240906T164800Z
-DESCRIPTION:Para Swimming - Women's 100m Butterfly - S9 Final
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S9 Final\n🇺🇸
+  Christie RALEIGH-CROSSLEY\n🇦🇺 Emily BEECROFT\n🇳🇱 Florianne
+  BULTJE\n🇨🇳 LIU Ying\n🇺🇸 Lizzi SMITH\n🇨🇦 Mary JIBB\n🇨🇳 XU
+  Jialing\n🇭🇺 Zsofia KONKOLY
 SUMMARY:Women's 100m Butterfly - S9 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25741,7 +25749,10 @@ UID:20240906T170400Z-para-swimming-MENS-100M-BACKSTROKE-S14-FINAL
 DTSTAMP:20240906T170400Z
 DTSTART:20240906T170400Z
 DTEND:20240906T171000Z
-DESCRIPTION:Para Swimming - Men's 100m Backstroke - S14 Final
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S14 Final\n🇩🇰
+  Alexander HILLHOUSE\n🇦🇺 Benjamin HANCE\n🇧🇷 Gabriel BANDEIRA\n🇬🇧
+  Louis LAWLOR\n🇳🇱 Marc EVERS\n🇬🇧 Mark TOMPSETT\n🇦🇺 Ricky BETAR\n🇬🇧
+  William ELLARD
 SUMMARY:Men's 100m Backstroke - S14 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25782,7 +25793,10 @@ UID:20240906T171000Z-para-swimming-WOMENS-100M-BACKSTROKE-S14-FINAL
 DTSTAMP:20240906T171000Z
 DTSTART:20240906T171000Z
 DTEND:20240906T171700Z
-DESCRIPTION:Para Swimming - Women's 100m Backstroke - S14 Final
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S14 Final\n🇧🇷 Ana
+  Karolina SOARES de OLIVEIRA\n🇭🇰 CHAN Yui Lam\n🇯🇵 KINOSHITA Aira\n🇦🇺
+  Madeleine McTERNAN\n🇬🇧 Megan NEAVE\n🇬🇧 Olivia NEWMAN-BARONIUS\n🇬🇧
+  Poppy MASKILL
 SUMMARY:Women's 100m Backstroke - S14 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25842,7 +25856,10 @@ UID:20240906T173300Z-para-swimming-MENS-50M-FREESTYLE-S3-FINAL
 DTSTAMP:20240906T173300Z
 DTSTART:20240906T173300Z
 DTEND:20240906T174000Z
-DESCRIPTION:Para Swimming - Men's 50m Freestyle - S3 Final
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S3 Final\n🇪🇸 Daniel
+  FERRER ROBLES\n🇺🇦 Denys OSTAPCHENKO\n🇲🇽 Diego LOPEZ DIAZ\n🇩🇪 Josia
+  Tim Alexander TOPF\n🇲🇽 Marcos Rafael ZARATE RODRIGUEZ\n🇺🇦 Serhii
+  PALAMARCHUK\n🇹🇷 Umut UNLU\n🇮🇹 Vincenzo BONI
 SUMMARY:Men's 50m Freestyle - S3 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25851,7 +25868,10 @@ UID:20240906T174000Z-para-swimming-MENS-50M-FREESTYLE-S4-FINAL
 DTSTAMP:20240906T174000Z
 DTSTART:20240906T174000Z
 DTEND:20240906T174700Z
-DESCRIPTION:Para Swimming - Men's 50m Freestyle - S4 Final
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S4 Final\n🇮🇱 Ami Omer
+  DADAON\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇮🇱 Ariel MALYAR\n🇳🇿
+  Cameron LESLIE\n🇮🇹 Federico CRISTIANI\n🇮🇹 Luigi BEGGIATO\n🇯🇵 SUZUKI
+  Takayuki\n🇨🇦 Sebastian MASSABIE
 SUMMARY:Men's 50m Freestyle - S4 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25897,7 +25917,10 @@ UID:20240906T180300Z-para-swimming-WOMENS-50M-FREESTYLE-S4-FINAL
 DTSTAMP:20240906T180300Z
 DTSTART:20240906T180300Z
 DTEND:20240906T181000Z
-DESCRIPTION:Para Swimming - Women's 50m Freestyle - S4 Final
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S4 Final\n🇺🇸 Leanne
+  SMITH\n🇧🇷 Lidia VIEIRA da CRUZ\n🇲🇽 Nely Edith MIRANDA HERRERA\n🇨🇳
+  PENG Qiuping\n🇧🇷 Patricia PEREIRA dos SANTOS\n🇦🇺 Rachael WATSON\n🇩🇪
+  Tanja SCHOLZ\n🇰🇿 Zulfiya GABIDULLINA
 SUMMARY:Women's 50m Freestyle - S4 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25919,7 +25942,10 @@ UID:20240906T181000Z-para-swimming-MENS-100M-BUTTERFLY-S11-FINAL
 DTSTAMP:20240906T181000Z
 DTSTART:20240906T181000Z
 DTEND:20240906T181700Z
-DESCRIPTION:Para Swimming - Men's 100m Butterfly - S11 Final
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S11 Final\n🇺🇦 Danylo
+  CHUFAROV\n🇨🇿 David KRATOCHVIL\n🇨🇳 HUA Dongdong\n🇪🇸 Jose Ramon
+  CANTERO ELVIRA\n🇯🇵 KIMURA Keiichi\n🇳🇱 Rogier DORSMAN\n🇯🇵 TOMITA
+  Uchu\n🇧🇷 Wendell BELARMINO PEREIRA
 SUMMARY:Men's 100m Butterfly - S11 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -25960,7 +25986,9 @@ UID:20240906T183300Z-para-swimming-MENS-100M-FREESTYLE-S8-FINAL
 DTSTAMP:20240906T183300Z
 DTSTART:20240906T183300Z
 DTEND:20240906T183900Z
-DESCRIPTION:Para Swimming - Men's 100m Freestyle - S8 Final
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S8 Final\n🇮🇹 Alberto
+  AMODEO\n🇦🇺 Callum SIMPSON\n🇬🇷 Dimosthenis MICHALENTZAKIS\n🇨🇳 LIU
+  Fengqi\n🇺🇸 Noah JAFFE\n🇨🇳 WU Hongliang\n🇨🇳 XU Haijiao
 SUMMARY:Men's 100m Freestyle - S8 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
@@ -28073,7 +28101,10 @@ UID:20240908T081400Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL2-SEMIFINALS
 DTSTAMP:20240908T081400Z
 DTSTART:20240908T081400Z
 DTEND:20240908T082800Z
-DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL2 Semifinals
+DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL2 Semifinals\n🇩🇪
+  Anja ADLER\n🇭🇺 Dalma BOLDIZSAR\n🇬🇧 Emma WIGGS\n🇪🇸 Ines Maria FELIPE
+  VIDIGAL\n🇯🇵 MIYAJIMA Shiho\n🇪🇬 Salwa AHMED\n🇦🇺 Susan SEIPEL\n🇮🇱
+  Talia EILAT\n🇨🇳 WANG Danqin\n🇹🇭 Wasana KHUTHAWISAP
 SUMMARY:Women's Kayak Single 200m - KL2 Semifinals
 LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT

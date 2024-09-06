@@ -3181,7 +3181,7 @@ BEGIN:VEVENT
 UID:20240906T100500Z-para-canoe-MENS-VAA-SINGLE-200M-VL3-HEATS
 DTSTAMP:20240906T100500Z
 DTSTART:20240906T100500Z
-DTEND:20240906T101500Z
+DTEND:20240906T101700Z
 DESCRIPTION:Para Canoe - Men's Va'a Single 200m - VL3 Heats\n🇫🇷 Abel
   ABER\n🇪🇸 Adrian MOSQUERA RIAL\n🇦🇺 Curtis McGRATH\n🇦🇷 Emilio Ariel
   ATAMANUK\n🇬🇧 Jack EYERS\n🇺🇿 Khaytmurot SHERKUZIEV\n🇦🇹 Mendy
@@ -3189,6 +3189,15 @@ DESCRIPTION:Para Canoe - Men's Va'a Single 200m - VL3 Heats\n🇫🇷 Abel
   MARTLEW\n🇺🇦 Vladyslav YEPIFANOV
 SUMMARY:Men's Va'a Single 200m - VL3 Heats
 LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T100600Z-para-judo-WOMEN-57-KG-J2-SEMIFINALS-A-UZB-ESP
+DTSTAMP:20240906T100600Z
+DTSTART:20240906T100600Z
+DTEND:20240906T101200Z
+DESCRIPTION:Para Judo - Women -57 kg J2 Semifinals A
+SUMMARY: Kumushkhon KHODJAEVA 🇺🇿 - 🇪🇸 Marta ARCE PAYNO
+LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T111000Z-wheelchair-fencing-WOMENS-PE-CATEGORY-A-QUARTERFINAL-C
@@ -3221,6 +3230,18 @@ SUMMARY:Women's 100m - T64 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T173300Z-para-swimming-MENS-50M-FREESTYLE-S3-FINAL
+DTSTAMP:20240906T173300Z
+DTSTART:20240906T173300Z
+DTEND:20240906T174000Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S3 Final\n🇪🇸 Daniel
+  FERRER ROBLES\n🇺🇦 Denys OSTAPCHENKO\n🇲🇽 Diego LOPEZ DIAZ\n🇩🇪 Josia
+  Tim Alexander TOPF\n🇲🇽 Marcos Rafael ZARATE RODRIGUEZ\n🇺🇦 Serhii
+  PALAMARCHUK\n🇹🇷 Umut UNLU\n🇮🇹 Vincenzo BONI
+SUMMARY:Men's 50m Freestyle - S3 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T174200Z-para-athletics-WOMENS-200M-T12-SEMI-FINALS
 DTSTAMP:20240906T174200Z
 DTSTART:20240906T174200Z
@@ -3233,6 +3254,18 @@ DESCRIPTION:Para Athletics - Women's 200m - T12 Semi-Finals\n🇻🇪 Alejandra
   Valentina PETRILLO
 SUMMARY:Women's 200m - T12 Semi-Finals
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T181000Z-para-swimming-MENS-100M-BUTTERFLY-S11-FINAL
+DTSTAMP:20240906T181000Z
+DTSTART:20240906T181000Z
+DTEND:20240906T181700Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S11 Final\n🇺🇦 Danylo
+  CHUFAROV\n🇨🇿 David KRATOCHVIL\n🇨🇳 HUA Dongdong\n🇪🇸 Jose Ramon
+  CANTERO ELVIRA\n🇯🇵 KIMURA Keiichi\n🇳🇱 Rogier DORSMAN\n🇯🇵 TOMITA
+  Uchu\n🇧🇷 Wendell BELARMINO PEREIRA
+SUMMARY:Men's 100m Butterfly - S11 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240907T073000Z-para-cycling-road-MENS-C1-3-ROAD-RACE
@@ -3385,6 +3418,18 @@ DESCRIPTION:Para Swimming - Mixed 4x100m Freestyle Relay - 34 Points
   ESP\n🇺🇸 USA
 SUMMARY:Mixed 4x100m Freestyle Relay - 34 Points Final
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T081400Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL2-SEMIFINALS
+DTSTAMP:20240908T081400Z
+DTSTART:20240908T081400Z
+DTEND:20240908T082800Z
+DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL2 Semifinals\n🇩🇪
+  Anja ADLER\n🇭🇺 Dalma BOLDIZSAR\n🇬🇧 Emma WIGGS\n🇪🇸 Ines Maria FELIPE
+  VIDIGAL\n🇯🇵 MIYAJIMA Shiho\n🇪🇬 Salwa AHMED\n🇦🇺 Susan SEIPEL\n🇮🇱
+  Talia EILAT\n🇨🇳 WANG Danqin\n🇹🇭 Wasana KHUTHAWISAP
+SUMMARY:Women's Kayak Single 200m - KL2 Semifinals
+LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

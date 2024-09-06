@@ -717,6 +717,18 @@ SUMMARY:Women's Kayak Single 200m - KL2 Heats
 LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T174000Z-para-swimming-MENS-50M-FREESTYLE-S4-FINAL
+DTSTAMP:20240906T174000Z
+DTSTART:20240906T174000Z
+DTEND:20240906T174700Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S4 Final\n🇮🇱 Ami Omer
+  DADAON\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇮🇱 Ariel MALYAR\n🇳🇿
+  Cameron LESLIE\n🇮🇹 Federico CRISTIANI\n🇮🇹 Luigi BEGGIATO\n🇯🇵 SUZUKI
+  Takayuki\n🇨🇦 Sebastian MASSABIE
+SUMMARY:Men's 50m Freestyle - S4 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T082800Z-para-canoe-WOMENS-VAA-SINGLE-200M-VL2-SEMIFINALS
 DTSTAMP:20240907T082800Z
 DTSTART:20240907T082800Z
@@ -742,6 +754,18 @@ DESCRIPTION:Para Swimming - Men's 50m Backstroke - S4 Heats\n🇦🇹 Andreas
   Liankang
 SUMMARY:Men's 50m Backstroke - S4 Heats
 LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T081400Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL2-SEMIFINALS
+DTSTAMP:20240908T081400Z
+DTSTART:20240908T081400Z
+DTEND:20240908T082800Z
+DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL2 Semifinals\n🇩🇪
+  Anja ADLER\n🇭🇺 Dalma BOLDIZSAR\n🇬🇧 Emma WIGGS\n🇪🇸 Ines Maria FELIPE
+  VIDIGAL\n🇯🇵 MIYAJIMA Shiho\n🇪🇬 Salwa AHMED\n🇦🇺 Susan SEIPEL\n🇮🇱
+  Talia EILAT\n🇨🇳 WANG Danqin\n🇹🇭 Wasana KHUTHAWISAP
+SUMMARY:Women's Kayak Single 200m - KL2 Semifinals
+LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T190000Z-closing-ceremony

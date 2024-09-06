@@ -3872,7 +3872,7 @@ BEGIN:VEVENT
 UID:20240906T100500Z-para-canoe-MENS-VAA-SINGLE-200M-VL3-HEATS
 DTSTAMP:20240906T100500Z
 DTSTART:20240906T100500Z
-DTEND:20240906T101500Z
+DTEND:20240906T101700Z
 DESCRIPTION:Para Canoe - Men's Va'a Single 200m - VL3 Heats\n🇫🇷 Abel
   ABER\n🇪🇸 Adrian MOSQUERA RIAL\n🇦🇺 Curtis McGRATH\n🇦🇷 Emilio Ariel
   ATAMANUK\n🇬🇧 Jack EYERS\n🇺🇿 Khaytmurot SHERKUZIEV\n🇦🇹 Mendy
@@ -3922,10 +3922,54 @@ UID:20240906T114000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
 DTSTAMP:20240906T114000Z
 DTSTART:20240906T114000Z
 DTEND:20240906T121000Z
-DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round
-  2\n🇺🇦 Anton DATSKO
-SUMMARY:Men's Épée Category B Repechage Round 2
+DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round 2
+SUMMARY: Ammar ALI 🇮🇶 - 🇺🇦 Anton DATSKO
 LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T114000Z-wheelchair-fencing-MENS-PE-CATEGORY-B-REPECHAGE-ROUND-
+DTSTAMP:20240906T114000Z
+DTSTART:20240906T114000Z
+DTEND:20240906T121000Z
+DESCRIPTION:Wheelchair Fencing - Men's Épée Category B Repechage Round 2
+SUMMARY: Michele MASSA 🇮🇹 - 🇺🇦 Oleg NAUMENKO
+LOCATION:Grand Palais
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T155200Z-para-swimming-MENS-50M-BUTTERFLY-S5-FINAL
+DTSTAMP:20240906T155200Z
+DTSTART:20240906T155200Z
+DTEND:20240906T155800Z
+DESCRIPTION:Para Swimming - Men's 50m Butterfly - S5 Final\n🇨🇳 GUO
+  Jincheng\n🇯🇵 HINATA Kaede\n🇧🇷 Samuel da SILVA de OLIVEIRA\n🇰🇿
+  Siyazbek DALIYEV\n🇯🇵 TANAKA Eigo\n🇨🇳 WANG Lichao\n🇨🇳 YUAN
+  Weiyi\n🇺🇦 Yaroslav SEMENENKO
+SUMMARY:Men's 50m Butterfly - S5 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T160500Z-para-swimming-MENS-100M-BACKSTROKE-S10-FINAL
+DTSTAMP:20240906T160500Z
+DTSTART:20240906T160500Z
+DTEND:20240906T161200Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S10 Final\n🇨🇦
+  Alexander ELLIOT\n🇳🇱 Bas TAKKEN\n🇺🇦 Ihor NIMCHENKO\n🇯🇵 MINAI
+  Akito\n🇳🇱 Olivier van de VOORT\n🇮🇹 Riccardo MENCIOTTI\n🇮🇹 Stefano
+  RAIMONDI\n🇦🇺 Thomas GALLAGHER
+SUMMARY:Men's 100m Backstroke - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T173300Z-para-swimming-MENS-50M-FREESTYLE-S3-FINAL
+DTSTAMP:20240906T173300Z
+DTSTART:20240906T173300Z
+DTEND:20240906T174000Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S3 Final\n🇪🇸 Daniel
+  FERRER ROBLES\n🇺🇦 Denys OSTAPCHENKO\n🇲🇽 Diego LOPEZ DIAZ\n🇩🇪 Josia
+  Tim Alexander TOPF\n🇲🇽 Marcos Rafael ZARATE RODRIGUEZ\n🇺🇦 Serhii
+  PALAMARCHUK\n🇹🇷 Umut UNLU\n🇮🇹 Vincenzo BONI
+SUMMARY:Men's 50m Freestyle - S3 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T174200Z-para-athletics-WOMENS-200M-T12-SEMI-FINALS
@@ -3953,6 +3997,18 @@ DESCRIPTION:Para Athletics - Men's 200m - T37 Round 1\n🇸🇦 Ali
   Saptoyogo PURNOMO\n🇩🇿 Sofiane HAMDI\n🇺🇦 Yaroslav OKAPINSKYI
 SUMMARY:Men's 200m - T37 Round 1
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T181000Z-para-swimming-MENS-100M-BUTTERFLY-S11-FINAL
+DTSTAMP:20240906T181000Z
+DTSTART:20240906T181000Z
+DTEND:20240906T181700Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S11 Final\n🇺🇦 Danylo
+  CHUFAROV\n🇨🇿 David KRATOCHVIL\n🇨🇳 HUA Dongdong\n🇪🇸 Jose Ramon
+  CANTERO ELVIRA\n🇯🇵 KIMURA Keiichi\n🇳🇱 Rogier DORSMAN\n🇯🇵 TOMITA
+  Uchu\n🇧🇷 Wendell BELARMINO PEREIRA
+SUMMARY:Men's 100m Butterfly - S11 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T183700Z-para-athletics-MENS-100M-T36-ROUND-1

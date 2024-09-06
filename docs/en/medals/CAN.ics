@@ -753,6 +753,42 @@ SUMMARY:Men's Discus Throw - F37 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T160500Z-para-swimming-MENS-100M-BACKSTROKE-S10-FINAL
+DTSTAMP:20240906T160500Z
+DTSTART:20240906T160500Z
+DTEND:20240906T161200Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S10 Final\n🇨🇦
+  Alexander ELLIOT\n🇳🇱 Bas TAKKEN\n🇺🇦 Ihor NIMCHENKO\n🇯🇵 MINAI
+  Akito\n🇳🇱 Olivier van de VOORT\n🇮🇹 Riccardo MENCIOTTI\n🇮🇹 Stefano
+  RAIMONDI\n🇦🇺 Thomas GALLAGHER
+SUMMARY:Men's 100m Backstroke - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T161200Z-para-swimming-WOMENS-100M-BACKSTROKE-S10-FINAL
+DTSTAMP:20240906T161200Z
+DTSTART:20240906T161200Z
+DTEND:20240906T161900Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S10 Final\n🇺🇸
+  Alexandra TRUWIT\n🇫🇷 Anaelle ROULET\n🇨🇦 Aurelie RIVARD\n🇭🇺 Bianka
+  PAP\n🇫🇷 Emeline PIERRE\n🇦🇺 Jasmine GREENWOOD\n🇨🇦 Katie
+  COSGRIFFE\n🇳🇱 Lisa KRUGER
+SUMMARY:Women's 100m Backstroke - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T164100Z-para-swimming-WOMENS-100M-BUTTERFLY-S9-FINAL
+DTSTAMP:20240906T164100Z
+DTSTART:20240906T164100Z
+DTEND:20240906T164800Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S9 Final\n🇺🇸
+  Christie RALEIGH-CROSSLEY\n🇦🇺 Emily BEECROFT\n🇳🇱 Florianne
+  BULTJE\n🇨🇳 LIU Ying\n🇺🇸 Lizzi SMITH\n🇨🇦 Mary JIBB\n🇨🇳 XU
+  Jialing\n🇭🇺 Zsofia KONKOLY
+SUMMARY:Women's 100m Butterfly - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T171100Z-para-athletics-WOMENS-100M-T64-FINAL
 DTSTAMP:20240906T171100Z
 DTSTART:20240906T171100Z
@@ -763,6 +799,18 @@ DESCRIPTION:Para Athletics - Women's 100m - T64 Final\n🇨🇭 Abassia
   Marlene van GANSEWINKEL\n🇪🇸 Sara ANDRES BARRIO
 SUMMARY:Women's 100m - T64 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T174000Z-para-swimming-MENS-50M-FREESTYLE-S4-FINAL
+DTSTAMP:20240906T174000Z
+DTSTART:20240906T174000Z
+DTEND:20240906T174700Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S4 Final\n🇮🇱 Ami Omer
+  DADAON\n🇲🇽 Angel de Jesus CAMACHO RAMIREZ\n🇮🇱 Ariel MALYAR\n🇳🇿
+  Cameron LESLIE\n🇮🇹 Federico CRISTIANI\n🇮🇹 Luigi BEGGIATO\n🇯🇵 SUZUKI
+  Takayuki\n🇨🇦 Sebastian MASSABIE
+SUMMARY:Men's 50m Freestyle - S4 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T183200Z-para-athletics-WOMENS-DISCUS-THROW-F38-FINAL

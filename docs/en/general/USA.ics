@@ -4101,6 +4101,30 @@ SUMMARY: CHN 🇨🇳 - 🇺🇸 USA
 LOCATION:Bercy Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T161200Z-para-swimming-WOMENS-100M-BACKSTROKE-S10-FINAL
+DTSTAMP:20240906T161200Z
+DTSTART:20240906T161200Z
+DTEND:20240906T161900Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S10 Final\n🇺🇸
+  Alexandra TRUWIT\n🇫🇷 Anaelle ROULET\n🇨🇦 Aurelie RIVARD\n🇭🇺 Bianka
+  PAP\n🇫🇷 Emeline PIERRE\n🇦🇺 Jasmine GREENWOOD\n🇨🇦 Katie
+  COSGRIFFE\n🇳🇱 Lisa KRUGER
+SUMMARY:Women's 100m Backstroke - S10 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T164100Z-para-swimming-WOMENS-100M-BUTTERFLY-S9-FINAL
+DTSTAMP:20240906T164100Z
+DTSTART:20240906T164100Z
+DTEND:20240906T164800Z
+DESCRIPTION:Para Swimming - Women's 100m Butterfly - S9 Final\n🇺🇸
+  Christie RALEIGH-CROSSLEY\n🇦🇺 Emily BEECROFT\n🇳🇱 Florianne
+  BULTJE\n🇨🇳 LIU Ying\n🇺🇸 Lizzi SMITH\n🇨🇦 Mary JIBB\n🇨🇳 XU
+  Jialing\n🇭🇺 Zsofia KONKOLY
+SUMMARY:Women's 100m Butterfly - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T171100Z-para-athletics-WOMENS-100M-T64-FINAL
 DTSTAMP:20240906T171100Z
 DTSTART:20240906T171100Z
@@ -4123,6 +4147,29 @@ DESCRIPTION:Para Athletics - Men's 400m - T62 Final\n🇧🇷 Alan OLIVEIRA
   DANIELS\n🇬🇷 Stylianos MALAKOPOULOS
 SUMMARY:Men's 400m - T62 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T180300Z-para-swimming-WOMENS-50M-FREESTYLE-S4-FINAL
+DTSTAMP:20240906T180300Z
+DTSTART:20240906T180300Z
+DTEND:20240906T181000Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S4 Final\n🇺🇸 Leanne
+  SMITH\n🇧🇷 Lidia VIEIRA da CRUZ\n🇲🇽 Nely Edith MIRANDA HERRERA\n🇨🇳
+  PENG Qiuping\n🇧🇷 Patricia PEREIRA dos SANTOS\n🇦🇺 Rachael WATSON\n🇩🇪
+  Tanja SCHOLZ\n🇰🇿 Zulfiya GABIDULLINA
+SUMMARY:Women's 50m Freestyle - S4 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T183300Z-para-swimming-MENS-100M-FREESTYLE-S8-FINAL
+DTSTAMP:20240906T183300Z
+DTSTART:20240906T183300Z
+DTEND:20240906T183900Z
+DESCRIPTION:Para Swimming - Men's 100m Freestyle - S8 Final\n🇮🇹 Alberto
+  AMODEO\n🇦🇺 Callum SIMPSON\n🇬🇷 Dimosthenis MICHALENTZAKIS\n🇨🇳 LIU
+  Fengqi\n🇺🇸 Noah JAFFE\n🇨🇳 WU Hongliang\n🇨🇳 XU Haijiao
+SUMMARY:Men's 100m Freestyle - S8 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T193700Z-para-athletics-WOMENS-400M-T38-ROUND-1

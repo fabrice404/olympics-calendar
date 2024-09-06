@@ -4279,7 +4279,7 @@ BEGIN:VEVENT
 UID:20240906T100500Z-para-canoe-MENS-VAA-SINGLE-200M-VL3-HEATS
 DTSTAMP:20240906T100500Z
 DTSTART:20240906T100500Z
-DTEND:20240906T101500Z
+DTEND:20240906T101700Z
 DESCRIPTION:Para Canoe - Men's Va'a Single 200m - VL3 Heats\n🇫🇷 Abel
   ABER\n🇪🇸 Adrian MOSQUERA RIAL\n🇦🇺 Curtis McGRATH\n🇦🇷 Emilio Ariel
   ATAMANUK\n🇬🇧 Jack EYERS\n🇺🇿 Khaytmurot SHERKUZIEV\n🇦🇹 Mendy
@@ -4431,6 +4431,30 @@ DESCRIPTION:Para Athletics - Women's Javelin Throw - F46 Final\n🇮🇳
   Roziyakhon ERGASHEVA\n🇷🇸 Saska SOKOLOV\n🇺🇿 Shahinakhon YIGITALIEVA
 SUMMARY:Women's Javelin Throw - F46 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T170400Z-para-swimming-MENS-100M-BACKSTROKE-S14-FINAL
+DTSTAMP:20240906T170400Z
+DTSTART:20240906T170400Z
+DTEND:20240906T171000Z
+DESCRIPTION:Para Swimming - Men's 100m Backstroke - S14 Final\n🇩🇰
+  Alexander HILLHOUSE\n🇦🇺 Benjamin HANCE\n🇧🇷 Gabriel BANDEIRA\n🇬🇧
+  Louis LAWLOR\n🇳🇱 Marc EVERS\n🇬🇧 Mark TOMPSETT\n🇦🇺 Ricky BETAR\n🇬🇧
+  William ELLARD
+SUMMARY:Men's 100m Backstroke - S14 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T171000Z-para-swimming-WOMENS-100M-BACKSTROKE-S14-FINAL
+DTSTAMP:20240906T171000Z
+DTSTART:20240906T171000Z
+DTEND:20240906T171700Z
+DESCRIPTION:Para Swimming - Women's 100m Backstroke - S14 Final\n🇧🇷 Ana
+  Karolina SOARES de OLIVEIRA\n🇭🇰 CHAN Yui Lam\n🇯🇵 KINOSHITA Aira\n🇦🇺
+  Madeleine McTERNAN\n🇬🇧 Megan NEAVE\n🇬🇧 Olivia NEWMAN-BARONIUS\n🇬🇧
+  Poppy MASKILL
+SUMMARY:Women's 100m Backstroke - S14 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T171500Z-para-table-tennis-MENS-SINGLES-MS7-GOLD-MEDAL-MATCH-GB
@@ -4715,6 +4739,18 @@ DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL1 Semifinals\n🇧🇷
   HENNESSY\n🇩🇪 Edina MUELLER\n🇮🇹 Eleonora de PAOLIS\n🇬🇧 Jeanette
   CHIPPINGTON\n🇮🇳 Pooja OJHA\n🇯🇵 SERYU Monika\n🇨🇳 XIE Maosan
 SUMMARY:Women's Kayak Single 200m - KL1 Semifinals
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T081400Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL2-SEMIFINALS
+DTSTAMP:20240908T081400Z
+DTSTART:20240908T081400Z
+DTEND:20240908T082800Z
+DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL2 Semifinals\n🇩🇪
+  Anja ADLER\n🇭🇺 Dalma BOLDIZSAR\n🇬🇧 Emma WIGGS\n🇪🇸 Ines Maria FELIPE
+  VIDIGAL\n🇯🇵 MIYAJIMA Shiho\n🇪🇬 Salwa AHMED\n🇦🇺 Susan SEIPEL\n🇮🇱
+  Talia EILAT\n🇨🇳 WANG Danqin\n🇹🇭 Wasana KHUTHAWISAP
+SUMMARY:Women's Kayak Single 200m - KL2 Semifinals
 LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT

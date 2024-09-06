@@ -2615,6 +2615,17 @@ SUMMARY: GER 🇩🇪 - 🇪🇬 EGY
 LOCATION:North Paris Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T163500Z-para-swimming-MENS-100M-BUTTERFLY-S9-FINAL
+DTSTAMP:20240906T163500Z
+DTSTART:20240906T163500Z
+DTEND:20240906T164100Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S9 Final\n🇮🇪 Barry
+  McCLEMENTS\n🇮🇹 Federico MORLACCHI\n🇦🇺 Lewis BISHOP\n🇩🇪 Malte
+  BRAUNSCHWEIG\n🇮🇹 Simone BARLAAM\n🇦🇺 Timothy HODGE\n🇨🇳 XIE Zhili
+SUMMARY:Men's 100m Butterfly - S9 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T170000Z-para-athletics-WOMENS-JAVELIN-THROW-F46-FINAL
 DTSTAMP:20240906T170000Z
 DTSTART:20240906T170000Z
@@ -2652,6 +2663,18 @@ SUMMARY:Men's 400m - T62 Final
 LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
+UID:20240906T173300Z-para-swimming-MENS-50M-FREESTYLE-S3-FINAL
+DTSTAMP:20240906T173300Z
+DTSTART:20240906T173300Z
+DTEND:20240906T174000Z
+DESCRIPTION:Para Swimming - Men's 50m Freestyle - S3 Final\n🇪🇸 Daniel
+  FERRER ROBLES\n🇺🇦 Denys OSTAPCHENKO\n🇲🇽 Diego LOPEZ DIAZ\n🇩🇪 Josia
+  Tim Alexander TOPF\n🇲🇽 Marcos Rafael ZARATE RODRIGUEZ\n🇺🇦 Serhii
+  PALAMARCHUK\n🇹🇷 Umut UNLU\n🇮🇹 Vincenzo BONI
+SUMMARY:Men's 50m Freestyle - S3 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240906T174200Z-para-athletics-WOMENS-200M-T12-SEMI-FINALS
 DTSTAMP:20240906T174200Z
 DTSTART:20240906T174200Z
@@ -2664,6 +2687,18 @@ DESCRIPTION:Para Athletics - Women's 200m - T12 Semi-Finals\n🇻🇪 Alejandra
   Valentina PETRILLO
 SUMMARY:Women's 200m - T12 Semi-Finals
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240906T180300Z-para-swimming-WOMENS-50M-FREESTYLE-S4-FINAL
+DTSTAMP:20240906T180300Z
+DTSTART:20240906T180300Z
+DTEND:20240906T181000Z
+DESCRIPTION:Para Swimming - Women's 50m Freestyle - S4 Final\n🇺🇸 Leanne
+  SMITH\n🇧🇷 Lidia VIEIRA da CRUZ\n🇲🇽 Nely Edith MIRANDA HERRERA\n🇨🇳
+  PENG Qiuping\n🇧🇷 Patricia PEREIRA dos SANTOS\n🇦🇺 Rachael WATSON\n🇩🇪
+  Tanja SCHOLZ\n🇰🇿 Zulfiya GABIDULLINA
+SUMMARY:Women's 50m Freestyle - S4 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240906T193700Z-para-athletics-WOMENS-400M-T38-ROUND-1
@@ -2859,6 +2894,18 @@ DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL1 Semifinals\n🇧🇷
   HENNESSY\n🇩🇪 Edina MUELLER\n🇮🇹 Eleonora de PAOLIS\n🇬🇧 Jeanette
   CHIPPINGTON\n🇮🇳 Pooja OJHA\n🇯🇵 SERYU Monika\n🇨🇳 XIE Maosan
 SUMMARY:Women's Kayak Single 200m - KL1 Semifinals
+LOCATION:Vaires-sur-Marne Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T081400Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL2-SEMIFINALS
+DTSTAMP:20240908T081400Z
+DTSTART:20240908T081400Z
+DTEND:20240908T082800Z
+DESCRIPTION:Para Canoe - Women's Kayak Single 200m - KL2 Semifinals\n🇩🇪
+  Anja ADLER\n🇭🇺 Dalma BOLDIZSAR\n🇬🇧 Emma WIGGS\n🇪🇸 Ines Maria FELIPE
+  VIDIGAL\n🇯🇵 MIYAJIMA Shiho\n🇪🇬 Salwa AHMED\n🇦🇺 Susan SEIPEL\n🇮🇱
+  Talia EILAT\n🇨🇳 WANG Danqin\n🇹🇭 Wasana KHUTHAWISAP
+SUMMARY:Women's Kayak Single 200m - KL2 Semifinals
 LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
