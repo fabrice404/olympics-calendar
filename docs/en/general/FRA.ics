@@ -4885,6 +4885,21 @@ SUMMARY: FRA 🇫🇷 - 🇬🇧 GBR
 LOCATION:Grand Palais
 END:VEVENT
 BEGIN:VEVENT
+UID:20240907T104600Z-para-athletics-WOMENS-200M-T47-ROUND-1
+DTSTAMP:20240907T104600Z
+DTSTART:20240907T104600Z
+DTEND:20240907T110400Z
+DESCRIPTION:Para Athletics - Women's 200m - T47 Round 1\n🇨🇱 Amanda
+  CERNA\n🇫🇷 Angelina LANZA\n🇳🇿 Anna GRIMALDI\n🇺🇸 Brittni MASON\n🇧🇷
+  Fernanda Yara da SILVA\n🇩🇪 Jule ROSS\n🇬🇳 Kadiatou BANGOURA\n🇩🇪 Kim
+  Marie VASKE\n🇨🇳 LI Lu\n🇻🇪 Lisbeli Marina VERA ANDRADE\n🇧🇷 Maria
+  Clara AUGUSTO da SILVA\n🇫🇷 Marie NGOUSSOU NGOUYI\n🇭🇺 Petra
+  LUTERAN\n🇹🇭 Sasirawan INTHACHOT\n🇷🇸 Saska SOKOLOV\n🇨🇦 Sheriauna
+  HAASE\n🇦🇷 Teresita Daiana BRIOZZI\n🇨🇿 Tereza JAKSCHOVA
+SUMMARY:Women's 200m - T47 Round 1
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T130000Z-para-cycling-road-MIXED-H1-5-TEAM-RELAY
 DTSTAMP:20240907T130000Z
 DTSTART:20240907T130000Z
@@ -4919,6 +4934,18 @@ SUMMARY:Men's up to 97kg Final
 LOCATION:La Chapelle Arena
 END:VEVENT
 BEGIN:VEVENT
+UID:20240907T170900Z-para-athletics-MENS-1500M-T38-FINAL
+DTSTAMP:20240907T170900Z
+DTSTART:20240907T170900Z
+DTEND:20240907T171700Z
+DESCRIPTION:Para Athletics - Men's 1500m - T38 Final\n🇩🇿 Abdelkrim
+  KRAI\n🇹🇳 Amen Allah TISSAOUI\n🇦🇺 Angus HINCKSMAN\n🇺🇸 Leo
+  MERLE\n🇨🇦 Nate RIECH\n🇦🇺 Reece LANGDON\n🇫🇷 Renaud CLERC\n🇹🇱
+  Teofilo FREITAS
+SUMMARY:Men's 1500m - T38 Final
+LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T180000Z-blind-football-MENS-GOLD-MEDAL-MATCH-FRA-ARG
 DTSTAMP:20240907T180000Z
 DTSTART:20240907T180000Z
@@ -4926,6 +4953,18 @@ DTEND:20240907T190000Z
 DESCRIPTION:Blind Football - Men's Gold Medal Match
 SUMMARY: FRA 🇫🇷 - 🇦🇷 ARG
 LOCATION:Eiffel Tower Stadium
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T182000Z-para-athletics-MENS-SHOT-PUT-F63-FINAL
+DTSTAMP:20240907T182000Z
+DTSTART:20240907T182000Z
+DTEND:20240907T193000Z
+DESCRIPTION:Para Athletics - Men's Shot Put - F63 Final\n🇬🇧 Aled
+  DAVIES\n🇫🇷 Badr TOUZI\n🇧🇷 Edenilson ROBERTO FLORIANI\n🇰🇼 Faisal
+  SOROUR\n🇦🇹 Georg SCHOBER\n🇺🇿 Mukhammad RIKHSIMOV\n🇱🇰 Palitha
+  HALGAHAWELA\n🇱🇺 Tom HABSCHEID\n🇬🇩 Tyler SMITH\n🇱🇾 Waleed ASHTEEBAH
+SUMMARY:Men's Shot Put - F63 Final
+LOCATION:Stade de France
 END:VEVENT
 BEGIN:VEVENT
 UID:20240907T183400Z-para-swimming-MIXED-4X100M-FREESTYLE-RELAY-34-POINTS-F
