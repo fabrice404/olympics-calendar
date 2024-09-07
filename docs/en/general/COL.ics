@@ -1834,6 +1834,18 @@ SUMMARY: COL 🇨🇴 - 🇧🇷 BRA
 LOCATION:Eiffel Tower Stadium
 END:VEVENT
 BEGIN:VEVENT
+UID:20240907T163000Z-para-swimming-MENS-50M-BUTTERFLY-S7-FINAL
+DTSTAMP:20240907T163000Z
+DTSTART:20240907T163000Z
+DTEND:20240907T163600Z
+DESCRIPTION:Para Swimming - Men's 50m Butterfly - S7 Final\n🇺🇦 Andrii
+  TRUSOV\n🇨🇴 Carlos Daniel SERRANO ZARATE\n🇿🇦 Christian SADIE\n🇺🇸
+  Evan AUSTIN\n🇦🇷 Inaki BASILOFF\n🇸🇬 Wei Soong TOH\n🇺🇦 Yevhenii
+  BOHODAIKO
+SUMMARY:Men's 50m Butterfly - S7 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
 UID:20240907T163500Z-para-powerlifting-MENS-UP-TO-97KG-FINAL
 DTSTAMP:20240907T163500Z
 DTSTART:20240907T163500Z
@@ -1844,6 +1856,18 @@ DESCRIPTION:Para Powerlifting - Men's up to 97kg Final\n🇯🇴 Abdelkareem
   Rafik ARABAT\n🇮🇷 Seyedhamed SOLHIPOURAVANJI\n🇨🇳 YE Jixiong
 SUMMARY:Men's up to 97kg Final
 LOCATION:La Chapelle Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T163600Z-para-swimming-WOMENS-50M-BUTTERFLY-S7-FINAL
+DTSTAMP:20240907T163600Z
+DTSTART:20240907T163600Z
+DTEND:20240907T164200Z
+DESCRIPTION:Para Swimming - Women's 50m Butterfly - S7 Final\n🇨🇦 Danielle
+  DORRIS\n🇮🇹 Giulia TERZI\n🇺🇸 Julia GAFFNEY\n🇺🇸 Mallory
+  WEGGEMANN\n🇨🇴 Sara VARGAS BLANCO\n🇨🇦 Tess ROUTLIFFE\n🇨🇴 Zharith
+  Alejandra RODRIGUEZ SILVA
+SUMMARY:Women's 50m Butterfly - S7 Final
+LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
 UID:20240907T172000Z-para-athletics-MENS-LONG-JUMP-T20-FINAL
