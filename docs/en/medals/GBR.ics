@@ -1869,13 +1869,12 @@ SUMMARY:Women's 200m Individual Medley - SM10 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240907T160400Z-para-judo-MEN-90-KG-J2-BRONZE-MEDAL-CONTEST-B
+UID:20240907T160400Z-para-judo-MEN-90-KG-J2-BRONZE-MEDAL-CONTEST-B-INA-GBR
 DTSTAMP:20240907T160400Z
 DTSTART:20240907T160400Z
 DTEND:20240907T161200Z
-DESCRIPTION:Para Judo - Men +90 kg J2 Bronze Medal Contest B\n🇬🇧
-  Christopher SKELLEY
-SUMMARY:Men +90 kg J2 Bronze Medal Contest B
+DESCRIPTION:Para Judo - Men +90 kg J2 Bronze Medal Contest B
+SUMMARY: Tony Ricardo MANTOLAS 🇮🇩 - 🇬🇧 Christopher SKELLEY
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -1887,6 +1886,17 @@ DESCRIPTION:Para Swimming - Women's 100m Butterfly - S8 Final\n🇬🇧 Alice
   TAI\n🇬🇧 Brock WHISTON\n🇨🇳 JIANG Shengnan\n🇺🇸 Jessica LONG\n🇨🇳 LU
   Weiyuan\n🇧🇷 Vitoria Caroline da SILVA RIBEIRO\n🇨🇳 ZHU Hui
 SUMMARY:Women's 100m Butterfly - S8 Final
+LOCATION:Paris La Defense Arena
+END:VEVENT
+BEGIN:VEVENT
+UID:20240907T172700Z-para-swimming-MENS-100M-BUTTERFLY-S12-FINAL
+DTSTAMP:20240907T172700Z
+DTSTART:20240907T172700Z
+DTEND:20240907T173300Z
+DESCRIPTION:Para Swimming - Men's 100m Butterfly - S12 Final\n🇧🇷 Douglas
+  MATERA\n🇫🇷 Kylian PORTAL\n🇦🇿 Raman SALEI\n🇬🇧 Stephen CLEGG\n🇺🇦
+  Yaroslav DENYSENKO
+SUMMARY:Men's 100m Butterfly - S12 Final
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
