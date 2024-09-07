@@ -2837,13 +2837,12 @@ SUMMARY:Men's 200m Freestyle - S3 Heats
 LOCATION:Paris La Defense Arena
 END:VEVENT
 BEGIN:VEVENT
-UID:20240907T094800Z-para-judo-MEN-90-KG-J2-FINAL-OF-REPECHAGE-B
+UID:20240907T094800Z-para-judo-MEN-90-KG-J2-FINAL-OF-REPECHAGE-B-GER-ITA
 DTSTAMP:20240907T094800Z
 DTSTART:20240907T094800Z
 DTEND:20240907T095400Z
-DESCRIPTION:Para Judo - Men -90 kg J2 Final of Repechage B\n🇩🇪 Daniel
-  Rafael GORAL
-SUMMARY:Men -90 kg J2 Final of Repechage B
+DESCRIPTION:Para Judo - Men -90 kg J2 Final of Repechage B
+SUMMARY: Daniel Rafael GORAL 🇩🇪 - 🇮🇹 Simone CANNIZZARO
 LOCATION:Champ-de-Mars Arena
 END:VEVENT
 BEGIN:VEVENT
@@ -2951,6 +2950,21 @@ DESCRIPTION:Para Athletics - Women's 400m - T38 Final\n🇬🇧 Ali SMITH\n🇨�
   Nele MOOS\n🇦🇺 Rhiannon CLARKE\n🇫🇷 Sofia PACE
 SUMMARY:Women's 400m - T38 Final
 LOCATION:Stade de France
+END:VEVENT
+BEGIN:VEVENT
+UID:20240908T061500Z-para-athletics-WOMENS-MARATHON-T54
+DTSTAMP:20240908T061500Z
+DTSTART:20240908T061500Z
+DTEND:20240908T081300Z
+DESCRIPTION:Para Athletics - Women's Marathon - T54\n🇧🇷 Aline dos SANTOS
+  ROCHA\n🇨🇭 Catherine DEBRUNNER\n🇬🇧 Eden RAINBOW-COOPER\n🇺🇸 Jenna
+  FESEMYER\n🇯🇵 KINA Tsubasa\n🇦🇺 Madison de ROZARIO\n🇨🇭 Manuela
+  SCHAER\n🇩🇪 Merle Marie MENJE\n🇲🇺 Noemi ALPHONSE\n🇨🇭 Patricia
+  EACHUS\n🇺🇸 Susannah SCARONI\n🇨🇳 TIAN Yajuan\n🇯🇵 TSUCHIDA
+  Wakako\n🇺🇸 Tatyana McFADDEN\n🇧🇷 Vanessa Cristina de SOUZA\n🇨🇳 ZHOU
+  Zhaoqian
+SUMMARY:Women's Marathon - T54
+LOCATION:Invalides
 END:VEVENT
 BEGIN:VEVENT
 UID:20240908T080000Z-para-canoe-WOMENS-KAYAK-SINGLE-200M-KL1-SEMIFINALS
