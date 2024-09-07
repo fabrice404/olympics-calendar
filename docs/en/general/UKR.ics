@@ -4367,7 +4367,7 @@ BEGIN:VEVENT
 UID:20240907T103600Z-para-canoe-WOMENS-VAA-SINGLE-200M-VL3-FINAL-A
 DTSTAMP:20240907T103600Z
 DTSTART:20240907T103600Z
-DTEND:20240907T104400Z
+DTEND:20240907T104300Z
 DESCRIPTION:Para Canoe - Women's Va'a Single 200m - VL3 Final A\n🇬🇧
   Charlotte HENSHAW\n🇨🇦 Erica SCARFF\n🇬🇧 Hope GORDON\n🇧🇷 Mari
   SANTILLI\n🇵🇱 Monika Katarzyna KUKLA\n🇺🇦 Nataliia LAHUTENKO\n🇺🇿
@@ -4441,26 +4441,14 @@ SUMMARY:Men's Va'a Single 200m - VL2 Semifinals
 LOCATION:Vaires-sur-Marne Stadium
 END:VEVENT
 BEGIN:VEVENT
-UID:20240908T120000Z-para-powerlifting-WOMENS-OVER-86KG-FINAL
-DTSTAMP:20240908T120000Z
-DTSTART:20240908T120000Z
-DTEND:20240908T130500Z
-DESCRIPTION:Para Powerlifting - Women's over 86kg Final\n🇺🇸 Ashley
-  DYCE\n🇨🇳 DENG Xuemei\n🇳🇬 Folashade OLUWAFEMIAYO\n🇱🇾 Ghazalah
-  ALAQOURI\n🇦🇺 Hani WATSON\n🇵🇱 Marzena ZIEBA\n🇪🇬 Nadia ALI\n🇺🇦
-  Nataliia OLIINYK\n🇲🇽 Perla Patri. BARCENAS PONCE de LEON\n🇮🇩 SRIYANTI
-SUMMARY:Women's over 86kg Final
-LOCATION:La Chapelle Arena
-END:VEVENT
-BEGIN:VEVENT
 UID:20240908T133500Z-para-powerlifting-MENS-OVER-107KG-FINAL
 DTSTAMP:20240908T133500Z
 DTSTART:20240908T133500Z
 DTEND:20240908T143300Z
 DESCRIPTION:Para Powerlifting - Men's over 107kg Final\n🇮🇷 Ahmad
   AMINZADEH\n🇬🇪 Akaki JINTCHARADZE\n🇪🇬 Amr MOSAAD\n🇺🇦 Anton
-  KRIUKOV\n🇨🇴 Eglain Antonio MENA LEMUS\n🇮🇶 Faris AL-AGEELI\n🇯🇴 Jamil
-  ELSHEBLI\n🇬🇧 Liam McGARRY\n🇬🇭 Tahiru HARUNA
+  KRIUKOV\n🇨🇴 Eglain Antonio MENA LEMUS\n🇯🇴 Jamil ELSHEBLI\n🇬🇧 Liam
+  McGARRY\n🇬🇭 Tahiru HARUNA
 SUMMARY:Men's over 107kg Final
 LOCATION:La Chapelle Arena
 END:VEVENT
