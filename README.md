@@ -1,8 +1,9 @@
-# Paralympics Calendar
-This repository contains a script to generate calendar files (.ics) for the Paris 2024 Summer Paralympics Games, allowing you to sync sports events with your Google Calendar.
+# Olympics/Paralympics Calendars
+This repository contains scripts to generate calendar files (.ics) for the Paris 2024 Summer Games, allowing you to sync sports events with your Google Calendar.
 
 > [!NOTE]
-> The calendars for the Paris 2024 Olympics have been archived to the [olympics-closing](https://github.com/fabrice404/olympics-calendar/tree/olympics-closing) branch
+> Olympics calendars have been archived to the [olympics-closing](https://github.com/fabrice404/olympics-calendar/tree/olympics-closing) branch. \
+> Paralympics calendars have been archived to the [olympics-closing](https://github.com/fabrice404/olympics-calendar/tree/paralympics-closing) branch.
 
 ## Usage
 All calendar files are available at this URL: https://fabrice404.github.io/olympics-calendar/ \
