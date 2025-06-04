@@ -5,6 +5,9 @@ updates:
   directory: "/"
   schedule:
     interval: daily
+  ignore:
+    update-types:
+      - version-update:semver-major
   commit-message:
     prefix: "npm"
     include: "scope"
