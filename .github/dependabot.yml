@@ -13,10 +13,7 @@ updates:
       update-types:
         - minor
         - patch
-    dependencies-major:
-      update-types:
-        - major
-  open-pull-requests-limit: 20
+  open-pull-requests-limit: 50
   reviewers:
   - fabrice404
   assignees:
