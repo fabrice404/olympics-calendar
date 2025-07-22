@@ -15,10 +15,10 @@
   "devDependencies": {
     "@eslint/js": "^9.31.0",
     "@types/debug": "^4.1.12",
-    "@types/node": "^22.16.4",
+    "@types/node": "^22.16.5",
     "@vitest/coverage-istanbul": "^2.1.9",
     "autoprefixer": "^10.4.21",
-    "cheerio": "^1.1.0",
+    "cheerio": "^1.1.2",
     "daisyui": "^4.12.24",
     "debug": "^4.4.1",
     "eslint": "^9.31.0",
