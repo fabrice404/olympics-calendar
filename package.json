@@ -13,7 +13,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@eslint/js": "^9.36.0",
+    "@eslint/js": "^9.37.0",
     "@types/debug": "^4.1.12",
     "@types/node": "^22.18.8",
     "@vitest/coverage-istanbul": "^2.1.9",
@@ -21,7 +21,7 @@
     "cheerio": "^1.1.2",
     "daisyui": "^4.12.24",
     "debug": "^4.4.3",
-    "eslint": "^9.36.0",
+    "eslint": "^9.37.0",
     "globals": "^15.15.0",
     "nodemon": "^3.1.10",
     "postcss": "^8.5.6",
