@@ -1,9 +1,0 @@
-{
-  "verbose": false,
-  "ignore": [
-    "node_modules",
-    "cache/**",
-    "docs/**"
-  ],
-  "ext": "ts,json,html,css"
-}

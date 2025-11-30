@@ -1,44 +1,8 @@
 # Olympics/Paralympics Calendars
-This repository contains scripts to generate calendar files (.ics) for the Paris 2024 Summer Games, allowing you to sync sports events with your Google Calendar.
+This repository contains scripts t
+
+Work in progress for Milano-Cortina 2026 Olympics and Paralympics calendars.
 
 > [!NOTE]
-> Olympics calendars have been archived to the [olympics-closing](https://github.com/fabrice404/olympics-calendar/tree/olympics-closing) branch. \
-> Paralympics calendars have been archived to the [olympics-closing](https://github.com/fabrice404/olympics-calendar/tree/paralympics-closing) branch.
-
-## Usage
-All calendar files are available at this URL: https://fabrice404.github.io/olympics-calendar/ \
-Use the provided URLs to sync with your Google Calendar instead of downloading the files.
-
-## Features
-- **Automatic Updates**: Calendars update automatically during the event.
-- **Customizable**: Select specific sports or teams you're interested in.
-- **Easy Integration**: Sync directly with Google Calendar using provided URLs.
-
-## Translation
-The translations have been generated automatically. If you notice any incorrect translations, please accept my apologies and feel free to open an issue with the correct translation.
-
-## Contribution
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## Installation
-1. Clone the repository:
-
-```bash
-git clone https://github.com/fabrice404/olympics-calendar.git
-cd olympics-calendar
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Generate the calendar files:
-
-```bash
-npm start
-```
-
-## License
-This project is licensed under the MIT License.
+> Paris 2024 Olympics calendars have been archived to the [2024-paris-olympics](https://github.com/fabrice404/olympics-calendar/tree/2024-paris-olympics) branch.\
+> Paris 2024 Paralympics calendars have been archived to the [2024-paris-paralympics](https://github.com/fabrice404/olympics-calendar/tree/2024-paris-paralympics) branch.
