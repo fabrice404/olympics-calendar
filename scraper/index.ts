@@ -61,6 +61,7 @@ const main = async () => {
 
   const sports: any = [];
   const events: any[] = [];
+  let nocs: any[] = [];
 
   for (const lang of languages) {
     const scheduleOverview = await getScheduleOverview(lang.code);
@@ -80,13 +81,13 @@ const main = async () => {
         sport.order = discipline.order;
 
         const scheduleSport = await getScheduleSport(lang.code, sport.key);
-
         const scheduleList = scheduleSport.props.pageProps.page.items.find((item: any) => item.type === "module" && item.name === "scheduleList").data.schedules.map((schedule: any) => schedule.units).flat()
 
         for (const scheduleListElement of scheduleList) {
           if (events.find(e => e.key === scheduleListElement.unitCode) == null) {
             events.push({
               key: scheduleListElement.unitCode,
+              sport: sport.key,
               start: scheduleListElement.startDateTimeUtc,
               end: scheduleListElement.endDateTimeUtc,
               isTraining: scheduleListElement.isTraining,
@@ -106,13 +107,25 @@ const main = async () => {
             }
             event.match.team1.name[lang.code] = (scheduleListElement.match.team1.description || '').replace(/\,/gi, '');
             event.match.team2.name[lang.code] = (scheduleListElement.match.team2.description || '').replace(/\,/gi, '');
+
+
+            for (const team of [scheduleListElement.match.team1, scheduleListElement.match.team2]) {
+              const nocKey = team.teamCode.replace(/[^A-Z]/gi, '');
+              if (nocs.find(n => n.key === nocKey) == null) {
+                nocs.push({ key: nocKey, name: {} });
+              }
+              const noc = nocs.find(n => n.key === nocKey);
+              noc.name[lang.code] = (team.description || '').replace(/\,/gi, '');
+            }
           }
         }
       }
     }
   }
 
-  cache.set('calendar.json', JSON.stringify({ languages, sports, events }));
+  nocs = nocs.filter((noc) => noc.key !== noc.name.en);
+
+  cache.set('calendar.json', JSON.stringify({ languages, sports, nocs, events }));
 };
 
 main();
