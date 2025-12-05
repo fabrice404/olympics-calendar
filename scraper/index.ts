@@ -1,11 +1,15 @@
 import Debug from "debug";
 
 import * as cache from "./cache";
+import { mkdirSync, writeFileSync } from "fs";
+import { Calendar, Event, Sport, Team } from "./types";
+import { generateICSFiles } from "./ics";
 
 const baseUrl = "https://www.olympics.com";
 const basePath = "/milano-cortina-2026/schedule/overview";
 
 const debug = Debug(`olympics-calendar:index`);
+
 
 const getScheduleOverview = async (language: string) => {
   debug(`getScheduleOverview: language=${language}`);
@@ -48,7 +52,7 @@ const getScheduleSport = async (language: string, sportCode: string) => {
 
   const scheduleSport = JSON.parse(cache.get(scheduleSportKey)!);
   return scheduleSport;
-}
+};
 
 const main = async () => {
   const overview = await getScheduleOverview("en");
@@ -59,9 +63,9 @@ const main = async () => {
       name: lang.label,
     }))
 
-  const sports: any = [];
-  const events: any[] = [];
-  let nocs: any[] = [];
+  const sports: Sport[] = [];
+  const events: Event[] = [];
+  let nocs: Team[] = [];
 
   for (const lang of languages) {
     const scheduleOverview = await getScheduleOverview(lang.code);
@@ -76,7 +80,7 @@ const main = async () => {
         if (sports.find((s: any) => s.key === key) == null) {
           sports.push({ key, name: {}, order: -1 })
         }
-        const sport = sports.find((s: any) => s.key === key)
+        const sport = sports.find((s: any) => s.key === key)!;
         sport.name[lang.code] = discipline.description;
         sport.order = discipline.order;
 
@@ -93,10 +97,12 @@ const main = async () => {
               isTraining: scheduleListElement.isTraining,
               medal: scheduleListElement.medal,
               name: {},
+              location: {},
             })
           }
-          const event = events.find(e => e.key === scheduleListElement.unitCode);
+          const event = events.find(e => e.key === scheduleListElement.unitCode)!;
           event.name[lang.code] = scheduleListElement.description;
+          event.location[lang.code] = scheduleListElement.venue?.description || ''
 
           if (scheduleListElement.match) {
             if (event.match == null) {
@@ -114,7 +120,7 @@ const main = async () => {
               if (nocs.find(n => n.key === nocKey) == null) {
                 nocs.push({ key: nocKey, name: {} });
               }
-              const noc = nocs.find(n => n.key === nocKey);
+              const noc = nocs.find(n => n.key === nocKey)!;
               noc.name[lang.code] = (team.description || '').replace(/\,/gi, '');
             }
           }
@@ -125,7 +131,11 @@ const main = async () => {
 
   nocs = nocs.filter((noc) => noc.key !== noc.name.en);
 
-  cache.set('calendar.json', JSON.stringify({ languages, sports, nocs, events }));
+  const dataFolder = "../ui/public/data";
+  mkdirSync(dataFolder, { recursive: true });
+  const calendar: Calendar = { languages, sports, nocs, events };
+  writeFileSync(`${dataFolder}/calendar.json`, JSON.stringify(calendar));
+  generateICSFiles(calendar);
 };
 
 main();

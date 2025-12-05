@@ -4,7 +4,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "fs"
 const debug = Debug(`olympics-calendar:cache`);
 
 const cachePath = (key: string): string => {
-  return `../cache/${key}`;
+  return `../cache/${key}.cached`;
 }
 
 export const get = (key: string): string | null => {

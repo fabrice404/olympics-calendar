@@ -7,7 +7,9 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "DEBUG=olympics-calendar* nodemon index.ts"
+    "start": "find ./cache/**/*.cached -mmin +10 -exec rm -f {} \\; | DEBUG=olympics-calendar* ts-node index.ts",
+    "dev": "DEBUG=olympics-calendar* nodemon index.ts",
+    "lint": "eslint . --ext .ts"
   },
   "dependencies": {
     "debug": "^4.4.3",
