@@ -1,27 +1,27 @@
-name: Auto update calendar
+# name: Auto update calendar
 
-on: 
-  # schedule:
-  #   - cron: "*/10 * * * *" 
-  workflow_dispatch:
+# on: 
+#   # schedule:
+#   #   - cron: "*/10 * * * *" 
+#   workflow_dispatch:
 
-jobs:
-  run:
-    runs-on: ubuntu-latest
+# jobs:
+#   run:
+#     runs-on: ubuntu-latest
     
-    permissions:
-      contents: write
+#     permissions:
+#       contents: write
       
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - run: npm install
-      - run: npm start
-      - name: Set date
-        id: date_step
-        run: echo "today=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "calendar updates on ${{ env.today }}"
+#     steps:
+#       - uses: actions/checkout@v4
+#       - uses: actions/setup-node@v4
+#         with:
+#           node-version: 20
+#       - run: npm install
+#       - run: npm start
+#       - name: Set date
+#         id: date_step
+#         run: echo "today=$(date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
+#       - uses: stefanzweifel/git-auto-commit-action@v5
+#         with:
+#           commit_message: "calendar updates on ${{ env.today }}"
