@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+  themes: winter;
+}
+
+html {
+  background-color: #eeeeee;
+}
+
+.fg-azzurro {
+  color: #b0cde9;
+}
+
+.fg-rosso {
+  color: #fe5a59;
+}
+
+.fg-viola {
+  color: #c9badc;
+}
+
+.fg-giallo {
+  color: #f2e95d;
+}
+
+.fg-rosa {
+  color: #e9bdd2;
+}
+
+.fg-verde {
+  color: #769d91;
+}
+
+.fg-main {
+  color: #01647c;
+}
+
+.bg-main {
+  background-color: #01647c;
+  color           : #ffffff;
+}
+
+.fg-gold {
+  color: #FFD700;
+}
+
+.bg-gold {
+  background-color: #FFD700;
+  color           : #000000;
+}
+
+.fg-silver {
+  color: #C0C0C0;
+}
+
+.bg-silver {
+  background-color: #C0C0C0;
+  color           : #000000;
+}
+
+.fg-bronze {
+  color: #CD7F32;
+}
+
+.bg-bronze {
+  background-color: #CD7F32;
+  color           : #000000;
+}
