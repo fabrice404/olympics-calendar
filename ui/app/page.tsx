@@ -91,8 +91,8 @@ export default function Home() {
 
   const generateCalendarLink = () => {
     const host = typeof window !== 'undefined' ? window.location.host : '';
-    const noc = qs.get('noc') || 'calendar';
-    const sport = qs.get('sport') || 'all-sports';
+    const noc = (qs.get('noc') || 'calendar').toLowerCase();
+    const sport = (qs.get('sport') || 'all-sports').toLowerCase();
 
     return `http://${host}/api/data/${language}/${sport}/${noc}.ics`;
   };
