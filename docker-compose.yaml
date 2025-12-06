@@ -1,0 +1,21 @@
+services:
+  scraper:
+    container_name: scraper
+    build: ./scraper
+    restart: unless-stopped
+    volumes:
+      - cache:/app/cache
+      - data:/app/output
+
+  ui:
+    container_name: ui
+    build: ./ui
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+    volumes:
+      - data:/app/data
+
+volumes:
+  cache:
+  data:

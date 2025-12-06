@@ -1,24 +1,28 @@
 {
   "name": "scraper",
   "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
-  "author": "",
+  "author": "Fabrice Lamant",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "find ./cache/**/*.cached -mmin +10 -exec rm -f {} \\; | DEBUG=olympics-calendar* ts-node index.ts",
+    "build": "tsc --build --verbose",
+    "start": "DEBUG=olympics-calendar* ts-node index.ts",
     "dev": "DEBUG=olympics-calendar* nodemon index.ts",
     "lint": "eslint . --ext .ts"
   },
   "dependencies": {
     "debug": "^4.4.3",
-    "eslint": "^9.39.1",
+    "node-cron": "^4.2.1",
     "nodemon": "^3.1.11",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
+    "ts-node": "^10.9.2"
   },
   "devDependencies": {
-    "@types/debug": "^4.1.12"
+    "@eslint/js": "^9.39.1",
+    "@types/debug": "^4.1.12",
+    "@types/node": "^24.10.1",
+    "eslint": "^9.39.1",
+    "eslint-plugin-perfectionist": "^4.15.1",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.48.1"
   }
 }

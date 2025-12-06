@@ -3,7 +3,7 @@
   "ignore": [
     "node_modules",
     "cache/**",
-    "docs/**"
+    "output/**"
   ],
-  "ext": "ts,json,html,css"
+  "ext": "ts,json"
 }

@@ -1,30 +1,32 @@
 import Debug from "debug";
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "fs"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "fs";
 
-const debug = Debug(`olympics-calendar:cache`);
+export class Cache {
+  private debug = Debug("olympics-calendar:cache");
 
-const cachePath = (key: string): string => {
-  return `../cache/${key}.cached`;
-}
+  private cachePath = (key: string): string => {
+    return `./cache/${key}.cached`;
+  };
 
-export const get = (key: string): string | null => {
-  debug(`get: key=${key}`);
-  const path = cachePath(key);
-  if (existsSync(path)) {
-    return readFileSync(path, "utf-8");
+  public get(key: string): string | null {
+    this.debug("get", key);
+    const path = this.cachePath(key);
+    if (existsSync(path)) {
+      return readFileSync(path, "utf-8");
+    }
+    return null;
   }
-  return null;
-}
 
-export const has = (key: string): boolean => {
-  debug(`has: key=${key}`);
-  const path = cachePath(key);
-  return existsSync(path);
-}
+  public has(key: string): boolean {
+    this.debug(`has: key=${key}`);
+    const path = this.cachePath(key);
+    return existsSync(path);
+  }
 
-export const set = (key: string, data: string): void => {
-  debug(`set: key=${key}`);
-  const path = cachePath(key);
-  mkdirSync(path.split("/").slice(0, -1).join("/"), { recursive: true });
-  writeFileSync(path, data);
+  public set(key: string, data: string): void {
+    this.debug(`set: key=${key}`);
+    const path = this.cachePath(key);
+    mkdirSync(path.split("/").slice(0, -1).join("/"), { recursive: true });
+    writeFileSync(path, data);
+  }
 }

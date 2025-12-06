@@ -3,7 +3,6 @@
 import { loadSchedule } from "../lib/data";
 import { useEffect, useState } from "react";
 import Flag from "./flag";
-import { useSearchParams } from "next/navigation";
 import { COPY, COPY_SUCCESS, FILTER_BY_COUNTRY, FILTER_BY_SPORT } from "../lib/text";
 import useLocalStorage from "@/lib/local-storage";
 
@@ -52,7 +51,7 @@ interface Calendar {
 const COLORS = ['azzurro', 'giallo', 'rosa', 'rosso', 'verde', 'viola'];
 
 export default function Home() {
-  const qs = useSearchParams();
+  const qs = typeof window !== 'undefined' ? window.location.search ? new URLSearchParams(window.location.search) : new URLSearchParams() : new URLSearchParams();
 
   const [data, setData] = useState<Calendar | null>(null);
   const [language, setLanguage] = useLocalStorage('lang', (navigator.language || 'en').split('-')[0]);
@@ -95,7 +94,7 @@ export default function Home() {
     const noc = qs.get('noc') || 'calendar';
     const sport = qs.get('sport') || 'all-sports';
 
-    return `http://${host}/data/${language}/${sport}/${noc}.ics`;
+    return `http://${host}/api/data/${language}/${sport}/${noc}.ics`;
   };
 
   const getColor = (i: number) => COLORS[i % COLORS.length];

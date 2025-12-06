@@ -1,6 +1,6 @@
 export default function Flag({ iso3, name }: { iso3: string; name: string }) {
 
-  const iso3to2 = {
+  const iso3to2: { [key: string]: string } = {
     AFG: "AF",
     ALA: "AX",
     ALB: "AL",
