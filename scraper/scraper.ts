@@ -1,3 +1,4 @@
+import { get } from "axios";
 import Debug from "debug";
 import { writeFileSync } from "fs";
 
@@ -21,8 +22,14 @@ export class Scraper {
     this.debug(`getPageData: path=${path}`);
     if (!this.cache.has(path)) {
       const url = `${BASE_URL}${path}`;
-      const response = await fetch(url);
-      const page = await response.text();
+      this.debug(url);
+      const response = await get(url, {
+        headers: {
+          "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+          "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+        },
+      });
+      const page = await response.data;
       const dataMatch = page.match(
         /<script id="__NEXT_DATA__" type="application\/json">([\s\S]*?)<\/script>/,
       );

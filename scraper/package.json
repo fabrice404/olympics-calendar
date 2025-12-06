@@ -7,10 +7,11 @@
   "scripts": {
     "build": "tsc --build --verbose",
     "start": "DEBUG=olympics-calendar* ts-node index.ts",
-    "dev": "DEBUG=olympics-calendar* nodemon index.ts",
+    "dev": "DEBUG=olympics-calendar* nodemon dev.ts",
     "lint": "eslint . --ext .ts"
   },
   "dependencies": {
+    "axios": "^1.13.2",
     "debug": "^4.4.3",
     "node-cron": "^4.2.1",
     "nodemon": "^3.1.11",
