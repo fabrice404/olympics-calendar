@@ -58,3 +58,27 @@ export const COPY_SUCCESS = {
   ja: "リンクがクリップボードにコピーされました！",
   ru: "Ссылка скопирована в буфер обмена!"
 }
+
+export const MADE_BY_FABRICE = {
+  en: "Made with ❤️ by Fabrice Lamant",
+  fr: "Fait avec ❤️ par Fabrice Lamant",
+  es: "Hecho con ❤️ por Fabrice Lamant",
+  de: "Hergestellt mit ❤️ von Fabrice Lamant",
+  it: "Realizzato con ❤️ da Fabrice Lamant",
+  pt: "Feito com ❤️ por Fabrice Lamant",
+  zh: "由 Fabrice Lamant 用 ❤️ 制作",
+  ja: "Fabrice Lamant によって❤️で作られました",
+  ru: "Сделано с ❤️ Фабрисом Ламантом"
+}
+
+export const NOT_AFFILIATED = {
+  en: "This webiste is not affiliated with the International Olympic Committee. All trademarks, logos and brand names are the property of their respective owners.",
+  fr: "Ce site web n'est pas affilié au Comité International Olympique. Toutes les marques, logos et noms de marque sont la propriété de leurs propriétaires respectifs.",
+  es: "Este sitio web no está afiliado al Comité Olímpico Internacional. Todas las marcas, logotipos y nombres comerciales son propiedad de sus respectivos dueños.",
+  de: "Diese Website ist nicht mit dem Internationalen Olympischen Komitee verbunden. Alle Marken, Logos und Markennamen sind Eigentum ihrer jeweiligen Besitzer.",
+  it: "Questo sito web non è affiliato al Comitato Olimpico Internazionale. Tutti i marchi, loghi e nomi di marca sono di proprietà dei rispettivi proprietari.",
+  pt: "Este site não é afiliado ao Comitê Olímpico Internacional. Todas as marcas, logotipos e nomes comerciais são propriedade de seus respectivos donos.",
+  zh: "本网站与国际奥林匹克委员会无关。所有商标、徽标和品牌名称均为其各自所有者的财产。",
+  ja: "このウェブサイトは国際オリンピック委員会とは提携していません。すべての商標、ロゴ、ブランド名はそれぞれの所有者の財産です。",
+  ru: "Этот веб-сайт не аффилирован с Международным олимпийским комитетом. Все торговые марки, логотипы и названия брендов являются собственностью их соответствующих владельцев."
+}
