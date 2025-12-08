@@ -20,10 +20,10 @@
   "devDependencies": {
     "@eslint/js": "^9.39.1",
     "@types/debug": "^4.1.12",
-    "@types/node": "^24.10.1",
+    "@types/node": "^24.10.2",
     "eslint": "^9.39.1",
     "eslint-plugin-perfectionist": "^4.15.1",
     "typescript": "^5.9.3",
-    "typescript-eslint": "^8.48.1"
+    "typescript-eslint": "^8.49.0"
   }
 }
