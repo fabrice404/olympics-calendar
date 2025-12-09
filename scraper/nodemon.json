@@ -1,9 +1,0 @@
-{
-  "verbose": false,
-  "ignore": [
-    "node_modules",
-    "cache/**",
-    "output/**"
-  ],
-  "ext": "ts,json"
-}
