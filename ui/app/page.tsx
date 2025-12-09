@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import Flag from "./flag";
 import { COPY, COPY_SUCCESS, FILTER_BY_COUNTRY, FILTER_BY_SPORT, MADE_BY_FABRICE, NOT_AFFILIATED } from "../lib/text";
 import useLocalStorage from "@/lib/local-storage";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 interface MultilingualString {
   [key: string]: string;
@@ -55,6 +56,7 @@ export default function Home() {
 
   const [data, setData] = useState<Calendar | null>(null);
   const [language, setLanguage] = useLocalStorage('lang', (navigator.language || 'en').split('-')[0]);
+  const [cookieConsent, setCookieConsent] = useLocalStorage('cookie-consent', 'null');
 
   const translate = (text: MultilingualString) => {
     return text[`${language}`] || text['en'] || Object.values(text)[0] || '';
@@ -370,6 +372,19 @@ export default function Home() {
             </div>
           </nav>
         </footer>
+
+        {cookieConsent === 'true' &&
+          <GoogleAnalytics gaId="G-SLBLJRE0CM" />
+        }
+
+        {cookieConsent === 'null' &&
+          <div className="sticky bottom-0 bg-gray-800 text-white text-center p-8">
+            <p className="p-4">This website uses cookies for statistics purposes and to enhance the user experience.</p>
+            <button className="btn btn-sm mx-2" onClick={() => setCookieConsent('true')}>Accept</button>
+            <button className="btn btn-sm btn-outline" onClick={() => setCookieConsent('false')}>Decline</button>
+          </div>
+        }
+
       </div>
     );
   }
