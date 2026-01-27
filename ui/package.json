@@ -9,8 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@next/third-parties": "^16.1.5",
-    "next": "16.1.5",
+    "@next/third-parties": "^16.1.6",
+    "next": "16.1.6",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
@@ -21,7 +21,7 @@
     "@types/react-dom": "^19",
     "daisyui": "^5.5.14",
     "eslint": "^9.39.2",
-    "eslint-config-next": "16.1.5",
+    "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
