@@ -92,5 +92,17 @@ export const NO_EVENT_FOR_FILTERS = {
   pt: "Não há evento para a equipe e/ou esporte selecionado, por favor ajuste seus filtros.",
   zh: "所选团队和/或运动没有事件，请调整您的过滤器。",
   ja: "選択したチームおよび/またはスポーツのイベントはありません。フィルターを調整してください。",
-  ru: "Для выбранной команды и/или вида спорта нет событий, пожалуйста, отрегулируйте ваши фильтры."  
+  ru: "Для выбранной команды и/или вида спорта нет событий, пожалуйста, отрегулируйте ваши фильтры."
+}
+
+export const LANGUAGE = {
+  en: "Language",
+  fr: "Langue",
+  es: "Idioma",
+  de: "Sprache",
+  it: "Lingua",
+  pt: "Idioma",
+  zh: "语言",
+  ja: "言語",
+  ru: "Язык",
 }

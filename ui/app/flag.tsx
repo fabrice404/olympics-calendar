@@ -260,9 +260,9 @@ export default function Flag({ iso3, name }: { iso3: string; name: string }) {
   const iso2 = (iso3to2[iso3.toUpperCase()] || "").toLowerCase();
 
   return <img
-    src={`https://gstatic.olympics.com/s3/noc/oly/3x2/${iso3.toUpperCase()}.png`}
-    height="24"
     alt={name}
+    className="inline-block mr-1 h-5 border-1 border-gray-300"
+    src={`https://gstatic.olympics.com/s3/noc/oly/3x2/${iso3.toUpperCase()}.png`}
     title={name}
-    className="inline-block mx-2 h-5 border-1 border-gray-300" />
+  />
 }
