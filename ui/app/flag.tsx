@@ -262,6 +262,7 @@ export default function Flag({ iso3, name }: { iso3: string; name: string }) {
   return <img
     src={`https://gstatic.olympics.com/s3/noc/oly/3x2/${iso3.toUpperCase()}.png`}
     height="24"
-    alt={`${iso3} - ${iso2}`}
+    alt={name}
+    title={name}
     className="inline-block mx-2 h-5 border-1 border-gray-300" />
 }

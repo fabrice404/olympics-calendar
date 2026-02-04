@@ -1,129 +1,123 @@
-import { get } from "axios";
 import Debug from "debug";
 import { writeFileSync } from "fs";
 
 import { Cache } from "./cache";
 import { ICSGenerator } from "./ics-generator";
-import { Calendar, Event, Language, PageData, Sport, Team } from "./types";
+import { Calendar, Event, Language, Sport, NOC, Competitor } from "./types";
 
-const BASE_URL = "https://www.olympics.com";
-const BASE_SCHEDULE_PATH = "milano-cortina-2026/schedule/overview";
 
 export class Scraper {
-  private cache = new Cache();
-  private debug = Debug("olympics-calendar:scraper");
+  private readonly cache = new Cache();
 
-  private events: Event[] = [];
-  private languages: Language[] = [];
-  private nocs: Team[] = [];
-  private sports: Sport[] = [];
+  private readonly competitors: Competitor[] = [];
 
-  private async getPageData(path: string): Promise<PageData> {
-    this.debug(`getPageData: path=${path}`);
-    if (!this.cache.has(path)) {
-      const url = `${BASE_URL}${path}`;
-      this.debug(url);
-      const response = await get(url, {
-        headers: {
+  private readonly debug = Debug("olympics-calendar:scraper");
+
+  private readonly events: Event[] = [];
+  private readonly languages: Language[] = [
+    { code: "en", name: "English", code3: "ENG" },
+    { code: "it", name: "Italiano", code3: "ITA" },
+    { code: "fr", name: "Français", code3: "FRA" },
+    { code: "de", name: "Deutsch", code3: "DEU" },
+    { code: "pt", name: "Português", code3: "POR" },
+    { code: "es", name: "Español", code3: "SPA" },
+    { code: "ja", name: "日本語", code3: "JPN" },
+    { code: "zh", name: "中文", code3: "CHI" },
+    { code: "hi", name: "हिन्दी", code3: "HIN" },
+    { code: "ko", name: "한국어", code3: "KOR" },
+    { code: "ru", name: "Русский", code3: "RUS" },
+  ];
+
+  private readonly nocs: NOC[] = [];
+  private readonly sports: Sport[] = [];
+
+  private async getJSONData(url: string, cacheKey: string): Promise<any> {
+    this.debug(`getJSONData: url=${url}`);
+
+    if (!this.cache.has(cacheKey)) {
+      const response = await fetch(url, {
+        "headers": {
           "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-          "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+          "accept-language": "en-US,en;q=0.9,fr-FR;q=0.8,fr;q=0.7",
+          "cache-control": "max-age=0",
+          "priority": "u=0, i",
+          "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+          "sec-ch-ua-mobile": "?0",
+          "sec-ch-ua-platform": "\"macOS\"",
+          "sec-fetch-dest": "document",
+          "sec-fetch-mode": "navigate",
+          "sec-fetch-site": "none",
+          "sec-fetch-user": "?1",
+          "upgrade-insecure-requests": "1",
         },
+        "body": null,
+        "method": "GET"
       });
-      const page = await response.data;
-      const dataMatch = page.match(
-        /<script id="__NEXT_DATA__" type="application\/json">([\s\S]*?)<\/script>/,
-      );
-      if (!dataMatch) {
-        throw new Error(
-          `Could not find __NEXT_DATA__ script tag for URL: ${url}`,
-        );
-      }
-      const data = dataMatch[1];
-      if (data) {
-        this.cache.set(path, JSON.stringify(JSON.parse(data), null, 2));
-      }
+      const result = await response.json();
+      this.cache.set(cacheKey, JSON.stringify(result, null, 2));
     }
 
-    return JSON.parse(this.cache.get(path)!);
+    return JSON.parse(this.cache.get(cacheKey)!);
   }
 
   private saveCalendar(): void {
     this.debug("saveCalendar");
     const calendar = this.getCalendar();
-    writeFileSync("./output/calendar.json", JSON.stringify(calendar));
+    writeFileSync("./output/calendar.json", JSON.stringify(calendar, null, 2));
   }
 
   private async scrapeEvents(): Promise<void> {
     this.debug("scrapeEvents");
-    for (const sport of this.sports) {
-      for (const lang of this.languages) {
-        const data = await this.getPageData(
-          `/${lang.code}/milano-cortina-2026/schedule/${sport.key}`,
-        );
-        const scheduleList = data.props.pageProps.page.items
-          .find(
-            (item) => item.type === "module" && item.name === "scheduleList",
-          )!
-          .data.schedules.map((schedule) => schedule.units)
-          .flat();
 
-        for (const scheduleElement of scheduleList) {
-          if (
-            this.events.find((e) => e.key === scheduleElement.unitCode) == null
-          ) {
+    for (const lang of this.languages) {
+      this.debug(`Scraping events: ${lang.code}`);
+
+      for (let i = 3; i <= 23; i++) {
+
+        const url = `https://www.olympics.com/wmr-owg2026/schedules/api/${lang.code3}/schedule/lite/day/2026-02-${i.toString().padStart(2, "0")}`;
+        const data = await this.getJSONData(url, `schedules/day/2026-02-${i.toString().padStart(2, "0")}/${lang.code3}`);
+
+
+        for (const event of data.units) {
+          const { id: key } = event;
+          if (!this.events.some((e) => e.key === key)) {
             this.events.push({
-              key: scheduleElement.unitCode,
-              sport: sport.key,
-              start: scheduleElement.startDateTimeUtc,
-              end: scheduleElement.endDateTimeUtc,
-              isTraining: scheduleElement.isTraining,
-              medal: scheduleElement.medal,
+              key,
+              sport: event.disciplineCode,
+              start: event.startDate,
+              end: event.endDate,
+              medal: event.medalFlag.toString(),
               name: {},
               location: {},
+              nocs: [],
+              competitors: [],
             });
           }
-          const event = this.events.find(
-            (e) => e.key === scheduleElement.unitCode,
-          )!;
-          event.name[lang.code] = scheduleElement.description;
-          event.location[lang.code] = scheduleElement.venue?.description || "";
 
-          if (scheduleElement.match) {
-            if (event.match == null) {
-              event.match = {
-                team1: {
-                  key: scheduleElement.match.team1.teamCode.replace(
-                    /[^A-Z]/gi,
-                    "",
-                  ),
-                  name: {},
-                },
-                team2: {
-                  key: scheduleElement.match.team2.teamCode.replace(
-                    /[^A-Z]/gi,
-                    "",
-                  ),
-                  name: {},
-                },
-              };
-            }
-            event.match.team1.name[lang.code] = (
-              scheduleElement.match.team1.description || ""
-            ).replace(/,/gi, "");
-            event.match.team2.name[lang.code] = (
-              scheduleElement.match.team2.description || ""
-            ).replace(/,/gi, "");
+          const calendarEvent = this.events.find((e) => e.key === key)!;
+          calendarEvent.name[lang.code] = event.eventUnitName;
+          calendarEvent.location[lang.code] = event.venueDescription;
 
-            for (const team of [
-              scheduleElement.match.team1,
-              scheduleElement.match.team2,
-            ]) {
-              const nocKey = team.teamCode.replace(/[^A-Z]/gi, "");
-              if (this.nocs.find((n) => n.key === nocKey) == null) {
-                this.nocs.push({ key: nocKey, name: {} });
+          if (event.competitors) {
+            for (const competitor of event.competitors) {
+              const { code, name, noc, competitorType } = competitor;
+              if (!calendarEvent.nocs.some((n) => n === noc)) {
+                calendarEvent.nocs.push(noc);
               }
-              const noc = this.nocs.find((n) => n.key === nocKey)!;
-              noc.name[lang.code] = (team.description || "").replace(/,/gi, "");
+
+              if (competitorType) {
+                if (!calendarEvent.competitors.some((c) => c === code)) {
+                  calendarEvent.competitors.push(code);
+                }
+                this.setCompetitor(code, noc, name);
+                this.setNoc(noc, "", lang.code);
+              } else {
+                const key = `team:${noc}`;
+                if (!calendarEvent.competitors.some((c) => c === key)) {
+                  calendarEvent.competitors.push(key);
+                }
+                this.setNoc(noc, name, lang.code);
+              }
             }
           }
         }
@@ -131,47 +125,59 @@ export class Scraper {
     }
   }
 
-  private async scrapeLanguages(): Promise<void> {
-    this.debug("scrapeLanguages");
-    const pageData = await this.getPageData(`/en/${BASE_SCHEDULE_PATH}`);
-    const languagesData =
-      pageData.props.pageProps.page.template.properties.header.mainNav
-        .languages;
+  private async scrapeNOCs(): Promise<void> {
+    this.debug("scrapeNOCs");
+    for (const lang of this.languages) {
+      this.debug(`Scraping NOCs: ${lang.code}`);
+      const url = `https://www.olympics.com/wmr-owg2026/info/api/${lang.code3}/nocs`;
+      const data = await this.getJSONData(url, `nocs/${lang.code3}`);
 
-    this.languages = languagesData
-      .filter((lang) =>
-        lang.link.match(/\/milano-cortina-2026\/schedule\/overview$/),
-      )
-      .map((lang) => ({
-        code: lang.lang,
-        name: lang.label,
-      }));
+      for (const noc of this.nocs) {
+        const found = data.nocs.find((n) => n.id === noc.key);
+        this.setNoc(found.id, found.name, lang.code);
+      }
+    }
   }
 
   private async scrapeSports(): Promise<void> {
     this.debug("scrapeSports");
     for (const lang of this.languages) {
-      this.debug(`Scraping language: ${lang.code}`);
-      const pageData = await this.getPageData(
-        `/${lang.code}/${BASE_SCHEDULE_PATH}`,
-      );
+      this.debug(`Scraping sports: ${lang.code}`);
 
-      const disciplines = pageData.props.pageProps.page.items.find(
-        (item) => item.type === "module" && item.name === "scheduleGrid",
-      )!.data.disciplines;
-
-      for (const discipline of disciplines.filter(
-        (d) => d.disciplineCode.toLowerCase() !== "cer",
-      )) {
-        const key = discipline.disciplineCode.toLowerCase();
-        if (this.sports.find((s) => s.key === key) == null) {
-          this.sports.push({ key, name: {}, order: -1 });
+      const url = `https://www.olympics.com/wmr-owg2026/info/api/${lang.code3}/disciplinesevents`;
+      const data = await this.getJSONData(url, `disciplinesevents/${lang.code3}`);
+      for (const discipline of data.disciplines) {
+        const { id, name } = discipline;
+        if (!this.sports.some((s) => s.key === id)) {
+          this.sports.push({ key: id, name: {}, order: 0 });
         }
-        const sport = this.sports.find((s) => s.key === key)!;
-        sport.name[lang.code] = discipline.description;
-        sport.order = discipline.order;
+        const sport = this.sports.find((s) => s.key === id)!;
+        sport.name[lang.code] = name;
       }
     }
+
+    this.sports
+      .toSorted((a, b) => (a.order < b.order ? -1 : 1))
+      .forEach((sport, index) => {
+        sport.order = index + 1;
+      });
+  }
+
+  private setCompetitor(code: string, noc: string, name: string): void {
+    if (!this.competitors.some((c) => c.code === code)) {
+      this.competitors.push({ code, noc, name });
+    }
+  }
+
+  private setNoc(key: string, name: string, langCode: string): void {
+    if (!key)
+      return;
+
+    if (!this.nocs.some((n) => n.key === key)) {
+      this.nocs.push({ key, name: {} });
+    }
+    const noc = this.nocs.find((n) => n.key === key)!;
+    noc.name[langCode] = name;
   }
 
   public getCalendar(): Calendar {
@@ -179,15 +185,17 @@ export class Scraper {
       languages: this.languages,
       sports: this.sports,
       nocs: this.nocs,
+      competitors: this.competitors,
       events: this.events,
     };
   }
 
   public async scrape(): Promise<void> {
     this.debug("scrape");
-    await this.scrapeLanguages();
+
     await this.scrapeSports();
     await this.scrapeEvents();
+    await this.scrapeNOCs();
 
     this.saveCalendar();
     new ICSGenerator(this.getCalendar()).generate();

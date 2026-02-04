@@ -3,50 +3,55 @@
 import { loadSchedule } from "../lib/data";
 import { useEffect, useState } from "react";
 import Flag from "./flag";
-import { COPY, COPY_SUCCESS, FILTER_BY_COUNTRY, FILTER_BY_SPORT, MADE_BY_FABRICE, NOT_AFFILIATED } from "../lib/text";
+import { COPY, COPY_SUCCESS, FILTER_BY_COUNTRY, FILTER_BY_SPORT, MADE_BY_FABRICE, NOT_AFFILIATED, NO_EVENT_FOR_FILTERS } from "../lib/text";
 import useLocalStorage from "@/lib/local-storage";
 import { GoogleAnalytics } from "@next/third-parties/google";
 
-interface MultilingualString {
+export interface MultilingualString {
   [key: string]: string;
 }
 
-interface Language {
+export interface Language {
+  code: string;
+  name: string;
+  code3: string;
+}
+
+export interface Sport {
+  key: string;
+  name: MultilingualString;
+  order: number;
+}
+
+export interface NOC {
+  key: string;
+  name: MultilingualString;
+}
+
+export interface Competitor {
+  noc: string;
   code: string;
   name: string;
 }
 
-interface Sport {
-  key: string;
-  name: MultilingualString
-}
-
-interface Team {
-  key: string;
-  name: MultilingualString;
-}
-
-interface Match {
-  team1: Team;
-  team2: Team;
-}
-
-interface Event {
+export interface Event {
   key: string;
   start: string;
   end: string;
   sport: string;
-  isTraining: boolean;
-  medal: '0' | '1' | '3';
+  medal: "0" | "1" | "3";
   name: MultilingualString;
-  match?: Match;
+  location: MultilingualString;
+  nocs: string[];
+  competitors: string[];
 }
 
-interface Calendar {
+export interface Calendar {
   languages: Language[];
   sports: Sport[];
+  nocs: NOC[];
+  competitors: Competitor[];
   events: Event[];
-  nocs: Team[];
 }
 
 const COLORS = ['azzurro', 'giallo', 'rosa', 'rosso', 'verde', 'viola'];
@@ -123,14 +128,11 @@ export default function Home() {
 
     const noc = qs.get('noc');
     if (noc) {
-      if (event.match) {
-        if (event.match.team1.key !== noc && event.match.team2.key !== noc) {
-          visible = false;
-        }
-      } else {
+      if (!event.nocs.includes(noc)) {
         visible = false;
       }
     }
+
 
     return visible;
   }
@@ -143,7 +145,6 @@ export default function Home() {
         button.classList.add('text-success');
         button.classList.add('font-bold');
         setTimeout(() => {
-          // document.getElementById('copy_toast')?.classList.remove('toast-open');
           button.textContent = translate(COPY);
           button.classList.remove('text-success');
           button.classList.remove('font-bold');
@@ -159,6 +160,165 @@ export default function Home() {
     if (data.languages.find(lang => lang.code === language) === undefined) {
       setLanguage('en')
     }
+
+    const events = data.events.filter(event => filter(event));
+
+
+    let main = (
+      <div>
+        <div className="text-center pt-10 mb-100">
+          {translate(NO_EVENT_FOR_FILTERS)}
+        </div>
+      </div>
+    )
+
+    if (events.length) {
+      main = (
+        <div>
+          <div className="text-center pt-6">
+            <span className="input w-1/3">
+              <input type="text" placeholder={calendarLink} readOnly={true} />
+              <button id="copy_button" className="label cursor-pointer" onClick={() => copyToClipboard(calendarLink)}>{translate(COPY)}</button>
+            </span>
+
+            <a className="inline-block" href={calendarLink.replace("https://", "webcal://")} target="_blank">
+              <img src="/img/icon-apple.svg" alt="Apple Calendar" className="inline-block size-6 ml-4 mr-2" />
+            </a>
+
+            <a className="inline-block" href={`https://calendar.google.com/calendar/u/0/r?cid=${encodeURIComponent(calendarLink)}`} target="_blank">
+              <img src="/img/icon-google.svg" alt="Google Calendar" className="inline-block size-5 ml-4 mr-2" />
+            </a>
+
+            <a className="inline-block" href={`https://outlook.office.com/calendar/0/deeplink/subscribe?url=${encodeURIComponent(calendarLink)}`} target="_blank">
+              <img src="/img/icon-office365.svg" alt="Office 365 Calendar" className="inline-block size-5 ml-4 mr-2" />
+            </a>
+
+            <a className="inline-block" href={`https://outlook.live.com/calendar/0/deeplink/subscribe?url=${encodeURIComponent(calendarLink)}`} target="_blank">
+              <img src="/img/icon-outlookcom.svg" alt="Outlook Calendar" className="inline-block size-5 ml-4 mr-2" />
+            </a>
+
+            <a className="inline-block" href={`https://calendar.yahoo.com/?ics=${encodeURIComponent(calendarLink)}`} target="_blank">
+              <img src="/img/icon-yahoo.svg" alt="Yahoo Calendar" className="inline-block size-5 ml-4 mr-2" />
+            </a>
+
+          </div>
+          {
+            events
+              .sort((a, b) => a.start.localeCompare(b.start))
+              .map((event, i) => {
+                const startDate = new Date(event.start);
+                const endDate = new Date(event.end);
+                const startHours = startDate.getHours().toString().padStart(2, '0');
+                const startMinutes = startDate.getMinutes().toString().padStart(2, '0');
+                const endHours = endDate.getHours().toString().padStart(2, '0');
+                const endMinutes = endDate.getMinutes().toString().padStart(2, '0');
+
+                let titleColor = "fg-main";
+                if (event.medal === '1') {
+                  titleColor = "bg-gold";
+                } else if (event.medal === '3') {
+                  titleColor = "bg-bronze";
+                }
+
+                const day = event.start.split('T')[0];
+                let dayHeader = <></>;
+
+                if (lastDay !== day) {
+                  dayHeader = (
+                    <div className="day-header text-center my-8">
+                      <h2 className="text-3xl font-light fg-main">
+                        {new Date(day).toLocaleDateString(language, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
+                      </h2>
+                    </div>
+                  );
+                }
+                // eslint-disable-next-line react-hooks/immutability
+                lastDay = day;
+
+
+                const getCompetitor = (competitorId: string) => {
+                  if (competitorId.startsWith("team:")) {
+                    const team = data.nocs.find(noc => noc.key === competitorId.replace("team:", ""));
+                    return { noc: team?.key, name: translate(team?.name || {}) };
+                  }
+                  const competitor = data.competitors.find(comp => comp.code === competitorId);
+                  return competitor ? { noc: competitor.noc, name: competitor.name } : null;
+                };
+
+                let competitors = <></>;
+                if (event.competitors.length > 0) {
+                  if (event.competitors.length === 2) {
+                    const competitor1 = getCompetitor(event.competitors[0]);
+                    const competitor2 = getCompetitor(event.competitors[1]);
+
+                    competitors = (
+                      <div className="competitors min-w-md max-w-md px-2 font-light">
+                        <div className="w-1/3 inline-block">
+                          {competitor1?.name}
+                        </div>
+
+                        <div className="w-1/9 inline-block">
+                          <Flag iso3={competitor1?.noc} name={competitor1?.name} />
+                        </div>
+                        <div className="w-1/9 inline-block text-center">-</div>
+
+                        <div className="w-1/9 inline-block text-right">
+                          <Flag iso3={competitor2?.noc} name={competitor2?.name} />
+                        </div>
+
+                        <div className="w-1/3 inline-block text-right">
+                          {competitor2?.name}
+                        </div>
+
+                      </div>
+                    )
+                  } else {
+                    competitors = (
+                      <ul>
+                        {
+                          event.competitors
+                            .map((competitorId) => {
+                              const competitor = getCompetitor(competitorId);
+                              if (!competitor) return null;
+                              const noc = data.nocs.find(noc => noc.key === competitor.noc);
+                              if (qs.get('noc') === competitor.noc) {
+                                return (
+                                  <li key={competitorId}>
+                                    <Flag iso3={competitor.noc} name={translate(noc!.name)} /> {competitor.name}
+                                  </li>
+                                );
+                              }
+                            })
+                        }
+                      </ul>
+                    );
+                  }
+                }
+
+                return (
+                  <div key={event.key}>
+                    {dayHeader}
+                    <div className="py-4 mx-auto my-4 bg-white w-3/4 rounded-lg">
+                      <div className={`fg-${getColor(i)} w-1/4 align-top text-right inline-block text-5xl tabular-nums pr-2 border-r border-slate-900/10`}>
+                        <span className="time-start">{startHours}:{startMinutes}</span>
+                        <div className="time-end text-xs">{endHours}:{endMinutes}</div>
+                      </div>
+                      <div className="w-3/5 align-top inline-block text-black pl-2">
+                        <div className="px-2">
+                          {translate(data.sports.find(sport => sport.key === event.sport)?.name || {}).toUpperCase()}
+                        </div>
+                        <div className={`font-bold inline-block px-2 ${titleColor}`}>{translate(event.name)}</div>
+                        {competitors}
+                      </div>
+                    </div>
+                  </div>
+                )
+              })
+          }
+        </div>
+      )
+    }
+
     return (
       <div>
         <div className="navbar bg-main">
@@ -241,115 +401,7 @@ export default function Home() {
             </ul>
           </div>
         </div>
-        <div>
-          <div className="text-center pt-6">
-            <span className="input w-1/3">
-              <input type="text" placeholder={calendarLink} readOnly={true} />
-              <button id="copy_button" className="label cursor-pointer" onClick={() => copyToClipboard(calendarLink)}>{translate(COPY)}</button>
-            </span>
-
-            <a className="inline-block" href={calendarLink.replace("https://", "webcal://")} target="_blank">
-              <img src="/img/icon-apple.svg" alt="Apple Calendar" className="inline-block size-6 ml-4 mr-2" />
-            </a>
-
-            <a className="inline-block" href={`https://calendar.google.com/calendar/u/0/r?cid=${encodeURIComponent(calendarLink)}`} target="_blank">
-              <img src="/img/icon-google.svg" alt="Google Calendar" className="inline-block size-5 ml-4 mr-2" />
-            </a>
-
-            <a className="inline-block" href={`https://outlook.office.com/calendar/0/deeplink/subscribe?url=${encodeURIComponent(calendarLink)}`} target="_blank">
-              <img src="/img/icon-office365.svg" alt="Office 365 Calendar" className="inline-block size-5 ml-4 mr-2" />
-            </a>
-
-            <a className="inline-block" href={`https://outlook.live.com/calendar/0/deeplink/subscribe?url=${encodeURIComponent(calendarLink)}`} target="_blank">
-              <img src="/img/icon-outlookcom.svg" alt="Outlook Calendar" className="inline-block size-5 ml-4 mr-2" />
-            </a>
-
-            <a className="inline-block" href={`https://calendar.yahoo.com/?ics=${encodeURIComponent(calendarLink)}`} target="_blank">
-              <img src="/img/icon-yahoo.svg" alt="Yahoo Calendar" className="inline-block size-5 ml-4 mr-2" />
-            </a>
-
-          </div>
-          {
-            data.events
-              .filter(event => filter(event))
-              .sort((a, b) => a.start.localeCompare(b.start))
-              .map((event, i) => {
-                const startDate = new Date(event.start);
-                const endDate = new Date(event.end);
-                const startHours = startDate.getHours().toString().padStart(2, '0');
-                const startMinutes = startDate.getMinutes().toString().padStart(2, '0');
-                const endHours = endDate.getHours().toString().padStart(2, '0');
-                const endMinutes = endDate.getMinutes().toString().padStart(2, '0');
-
-                const participants = [];
-
-                let titleColor = "fg-main";
-                if (event.medal === '1') {
-                  titleColor = "bg-gold";
-                } else if (event.medal === '3') {
-                  titleColor = "bg-bronze";
-                }
-
-                if (event.match) {
-                  participants.push(event.match.team1.key);
-                  participants.push(event.match.team2.key);
-                }
-
-                const day = event.start.split('T')[0];
-                let dayHeader = <></>;
-
-                if (lastDay !== day) {
-                  dayHeader = (
-                    <div className="day-header text-center my-8">
-                      <h2 className="text-3xl font-light fg-main">
-                        {new Date(day).toLocaleDateString(language, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
-                      </h2>
-                    </div>
-                  );
-                }
-                lastDay = day;
-
-                return (
-                  <div key={event.key}>
-                    {dayHeader}
-                    <div className="py-4 mx-auto my-4 bg-white w-3/4 rounded-lg">
-                      <div className={`fg-${getColor(i)} w-1/4 align-top text-right inline-block text-5xl tabular-nums pr-2 border-r border-slate-900/10`}>
-                        <span className="time-start">{startHours}:{startMinutes}</span>
-                        <div className="time-end text-xs">{endHours}:{endMinutes}</div>
-                      </div>
-                      <div className="w-3/5 align-top inline-block text-black pl-2">
-                        <div className="px-2">
-                          {translate(data.sports.find(sport => sport.key === event.sport)?.name || {}).toUpperCase()}
-                        </div>
-                        <div className={`font-bold inline-block px-2 ${titleColor}`}>{translate(event.name)}</div>
-                        {event.match?.team1?.key && event.match?.team2.key && (
-                          <div className="competitors min-w-md max-w-md px-2 font-light">
-                            <div className="w-1/3 inline-block">
-                              {translate(event.match.team1.name)}
-                            </div>
-
-                            <div className="w-1/9 inline-block">
-                              <Flag iso3={event.match.team1.key} name={translate(event.match.team1.name)} />
-                            </div>
-                            <div className="w-1/9 inline-block text-center">-</div>
-
-                            <div className="w-1/9 inline-block text-right">
-                              <Flag iso3={event.match.team2.key} name={translate(event.match.team2.name)} />
-                            </div>
-
-                            <div className="w-1/3 inline-block text-right">
-                              {translate(event.match.team2.name)}
-                            </div>
-
-                          </div>
-                        )}
-                      </div>
-                    </div>
-                  </div>
-                )
-              })
-          }
-        </div>
+        {main}
         <footer className="footer footer-horizontal footer-center bg-gray-800 text-primary-content p-10">
           <aside>
             <p className="font-bold">

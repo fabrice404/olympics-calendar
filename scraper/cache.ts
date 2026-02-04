@@ -5,7 +5,7 @@ export class Cache {
   private debug = Debug("olympics-calendar:cache");
 
   private cachePath = (key: string): string => {
-    return `./cache/${key}.cached`;
+    return `./cache/${key}.json`;
   };
 
   public get(key: string): string | null {

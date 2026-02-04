@@ -82,3 +82,15 @@ export const NOT_AFFILIATED = {
   ja: "このウェブサイトは国際オリンピック委員会とは提携していません。すべての商標、ロゴ、ブランド名はそれぞれの所有者の財産です。",
   ru: "Этот веб-сайт не аффилирован с Международным олимпийским комитетом. Все торговые марки, логотипы и названия брендов являются собственностью их соответствующих владельцев."
 }
+
+export const NO_EVENT_FOR_FILTERS = {
+  en: "There's no event for the selected team and/or sport, please adjust your filters.",
+  fr: "Il n'y a pas d'événement pour l'équipe et/ou le sport sélectionné, veuillez ajuster vos filtres.",
+  es: "No hay ningún evento para el equipo y/o deporte seleccionado, por favor ajuste sus filtros.",
+  de: "Es gibt kein Ereignis für das ausgewählte Team und/oder den ausgewählten Sport, bitte passen Sie Ihre Filter an.",
+  it: "Non ci sono eventi per la squadra e/o lo sport selezionato, si prega di regolare i filtri.",
+  pt: "Não há evento para a equipe e/ou esporte selecionado, por favor ajuste seus filtros.",
+  zh: "所选团队和/或运动没有事件，请调整您的过滤器。",
+  ja: "選択したチームおよび/またはスポーツのイベントはありません。フィルターを調整してください。",
+  ru: "Для выбранной команды и/или вида спорта нет событий, пожалуйста, отрегулируйте ваши фильтры."  
+}
