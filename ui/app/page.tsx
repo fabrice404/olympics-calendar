@@ -239,10 +239,10 @@ export default function Home() {
                 const getCompetitor = (competitorId: string) => {
                   if (competitorId.startsWith("team:")) {
                     const team = data.nocs.find(noc => noc.key === competitorId.replace("team:", ""));
-                    return { noc: team?.key, name: translate(team?.name || {}) };
+                    return { noc: team!.key, name: translate(team!.name) };
                   }
                   const competitor = data.competitors.find(comp => comp.code === competitorId);
-                  return competitor ? { noc: competitor.noc, name: competitor.name } : null;
+                  return { noc: competitor!.noc, name: competitor!.name };
                 };
 
                 let competitors = <></>;
@@ -258,12 +258,12 @@ export default function Home() {
                         </div>
 
                         <div className="w-1/9 inline-block">
-                          <Flag iso3={competitor1?.noc} name={competitor1?.name} />
+                          <Flag iso3={competitor1.noc} name={competitor1.name} />
                         </div>
                         <div className="w-1/9 inline-block text-center">-</div>
 
                         <div className="w-1/9 inline-block text-right">
-                          <Flag iso3={competitor2?.noc} name={competitor2?.name} />
+                          <Flag iso3={competitor2.noc} name={competitor2.name} />
                         </div>
 
                         <div className="w-1/3 inline-block text-right">
