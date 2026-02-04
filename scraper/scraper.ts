@@ -32,6 +32,12 @@ export class Scraper {
   private readonly nocs: NOC[] = [];
   private readonly sports: Sport[] = [];
 
+  private dateToUtcString(dateString: string): string {
+    const date = new Date(dateString);
+    const utc = Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate(), date.getUTCHours(), date.getUTCMinutes(), date.getUTCSeconds());
+    return new Date(utc).toISOString();
+  }
+
   private async getJSONData(url: string, cacheKey: string): Promise<any> {
     this.debug(`getJSONData: url=${url}`);
 
@@ -85,8 +91,8 @@ export class Scraper {
             this.events.push({
               key,
               sport: event.disciplineCode,
-              start: event.startDate,
-              end: event.endDate,
+              start: this.dateToUtcString(event.startDate),
+              end: this.dateToUtcString(event.endDate),
               medal: event.medalFlag.toString(),
               name: {},
               location: {},
