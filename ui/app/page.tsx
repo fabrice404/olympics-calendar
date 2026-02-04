@@ -248,67 +248,40 @@ export default function Home() {
 
                 let competitors = <></>;
                 if (event.competitors.length > 0) {
-                  if (event.competitors.length === 2) {
-                    const competitor1 = getCompetitor(event.competitors[0]);
-                    const competitor2 = getCompetitor(event.competitors[1]);
-
-                    competitors = (
-                      <div className="competitors min-w-md max-w-md px-2 font-light">
-                        <div className="w-1/3 inline-block">
-                          {competitor1?.name}
-                        </div>
-
-                        <div className="w-1/9 inline-block">
-                          <Flag iso3={competitor1.noc} name={competitor1.name} />
-                        </div>
-                        <div className="w-1/9 inline-block text-center">-</div>
-
-                        <div className="w-1/9 inline-block text-right">
-                          <Flag iso3={competitor2.noc} name={competitor2.name} />
-                        </div>
-
-                        <div className="w-1/3 inline-block text-right">
-                          {competitor2?.name}
-                        </div>
-
-                      </div>
-                    )
-                  } else {
-                    competitors = (
-                      <ul>
-                        {
-                          event.competitors
-                            .map((competitorId) => {
-                              const competitor = getCompetitor(competitorId);
-                              if (!competitor) return null;
-                              const noc = data.nocs.find(noc => noc.key === competitor.noc);
-                              if (qs.get('noc') === competitor.noc) {
-                                return (
-                                  <li key={competitorId}>
-                                    <Flag iso3={competitor.noc} name={translate(noc!.name)} /> {competitor.name}
-                                  </li>
-                                );
-                              }
-                            })
-                        }
-                      </ul>
-                    );
-                  }
+                  competitors = (
+                    <ul>
+                      {
+                        event.competitors
+                          .map((competitorId) => {
+                            const competitor = getCompetitor(competitorId);
+                            if (!competitor) return null;
+                            const noc = data.nocs.find(noc => noc.key === competitor.noc);
+                            if (event.competitors.length === 2 || qs.get('noc') === competitor.noc) {
+                              return (
+                                <li key={competitorId}>
+                                  <Flag iso3={competitor.noc} name={translate(noc!.name)} /> {competitor.name}
+                                </li>
+                              );
+                            }
+                          })
+                      }
+                    </ul>
+                  );
                 }
 
                 return (
                   <div key={event.key}>
                     {dayHeader}
-                    <div className="py-4 mx-auto my-4 bg-white w-3/4 rounded-lg">
-                      <div className={`fg-${getColor(i)} w-1/4 align-top text-right inline-block text-5xl tabular-nums pr-2 border-r border-slate-900/10`}>
-                        <span className="time-start">{startHours}:{startMinutes}</span>
-                        <div className="time-end text-xs">{endHours}:{endMinutes}</div>
+                    <div className="p-4 mx-2 my-4 bg-white rounded-md md:w-3/4 md:mx-auto">
+                      <div className={`fg-${getColor(i)} align-top inline-block tabular-nums pr-2`}>
+                        <span className="text-3xl">{startHours}:{startMinutes}</span>
+                        <div className="text-xs">{endHours}:{endMinutes}</div>
                       </div>
-                      <div className="w-3/5 align-top inline-block text-black pl-2">
+                      <div className="align-top inline-block text-black pl-2 border-l border-slate-900/10">
                         <div className="px-2">
-                          {translate(data.sports.find(sport => sport.key === event.sport)?.name || {}).toUpperCase()}
+                          {translate(data.sports.find(sport => sport.key === event.sport)?.name || {})}
                         </div>
-                        <div className={`font-bold inline-block px-2 ${titleColor}`}>{translate(event.name)}</div>
+                        <div className={`inline-block font-bold text-sm px-2 nowrap ${titleColor}`}>{translate(event.name)}</div>
                         {competitors}
                       </div>
                     </div>
