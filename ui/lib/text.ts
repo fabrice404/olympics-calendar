@@ -23,6 +23,30 @@ export const FILTER_BY_SPORT = {
   ru: "Фильтр по виду спорта"
 };
 
+export const MEDAL_EVENTS_ONLY = {
+  en: "Medal events only",
+  fr: "Événements médaillés uniquement",
+  es: "Solo eventos de medallas",
+  de: "Nur Medaillen-Events",
+  it: "Solo eventi con medaglie",
+  pt: "Apenas eventos de medalhas",
+  zh: "仅奖牌赛事",
+  ja: "メダルイベントのみ",
+  ru: "Только медальные события"
+};
+
+export const ALL_EVENTS = {
+  en: "All events",
+  fr: "Tous les événements",
+  es: "Todos los eventos",
+  de: "Alle Veranstaltungen",
+  it: "Tutti gli eventi",
+  pt: "Todos os eventos",
+  zh: "所有赛事",
+  ja: "すべてのイベント",
+  ru: "Все события"
+};
+
 export const GET_CALENDAR = {
   en: "Get Calendar",
   fr: "Obtenir le calendrier",

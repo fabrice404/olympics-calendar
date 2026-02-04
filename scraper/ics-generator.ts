@@ -33,18 +33,21 @@ export class ICSGenerator {
   private generateICSFile(
     sportKey: string | null,
     nocKey: string | null,
+    medalOnly: boolean = false,
   ): void {
     this.debug(
       "generateICSFile",
       sportKey || "all-sports",
       nocKey || "all-nocs",
+      medalOnly ? "medal-only" : "all-events",
     );
 
     for (const lang of this.calendar.languages) {
       const pathSportKey = sportKey ? sportKey : "all-sports";
       const pathNocKey = nocKey ? nocKey : "calendar";
+      const medalPath = medalOnly ? "medal/" : "";
 
-      const filepath = `./output/${lang.code.toLowerCase()}/${pathSportKey.toLowerCase()}/${pathNocKey.toLowerCase()}.ics`;
+      const filepath = `./output/${lang.code.toLowerCase()}/${pathSportKey.toLowerCase()}/${medalPath}${pathNocKey.toLowerCase()}.ics`;
       mkdirSync(filepath.split("/").slice(0, -1).join("/"), { recursive: true });
 
       const titleComponents: string[] = [];
@@ -56,6 +59,9 @@ export class ICSGenerator {
       if (sportKey) {
         titleComponents.push(this.calendar.sports.find((s) => s.key === sportKey)!.name[lang.code] || "");
       }
+      if (medalOnly) {
+        titleComponents.push("Medal Events");
+      }
       titleComponents.push("Milano Cortina 2026");
 
       const title = titleComponents.join(" - ");
@@ -65,7 +71,7 @@ export class ICSGenerator {
       lines.push("BEGIN:VCALENDAR");
       lines.push("VERSION:2.0");
       lines.push(
-        `PRODID:-//fabrice404//olympics-calendar//${lang.code}/${pathSportKey}/${pathNocKey}`,
+        `PRODID:-//fabrice404//olympics-calendar//${lang.code}/${pathSportKey}/${medalPath}${pathNocKey}`,
       );
       lines.push(`X-WR-CALNAME:${title}`);
       lines.push(`NAME:${title}`);
@@ -76,6 +82,9 @@ export class ICSGenerator {
             return false;
           }
           if (nocKey && !event.nocs.includes(nocKey)) {
+            return false;
+          }
+          if (medalOnly && event.medal === "0") {
             return false;
           }
           return true;
@@ -144,16 +153,20 @@ export class ICSGenerator {
   public generate(): void {
     this.debug("generate");
     this.generateICSFile(null, null);
+    this.generateICSFile(null, null, true); // Generate medal-only calendar for all sports and all NOCs
 
     this.calendar.sports.forEach((sport) => {
       this.generateICSFile(sport.key, null);
+      this.generateICSFile(sport.key, null, true); // Generate medal-only calendar for this sport
       this.calendar.nocs.forEach((noc) => {
         this.generateICSFile(sport.key, noc.key);
+        this.generateICSFile(sport.key, noc.key, true); // Generate medal-only calendar for this sport and NOC
       });
     });
 
     this.calendar.nocs.forEach((noc) => {
       this.generateICSFile(null, noc.key);
+      this.generateICSFile(null, noc.key, true); // Generate medal-only calendar for this NOC
     });
   }
 }

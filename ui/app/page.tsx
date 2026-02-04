@@ -3,7 +3,7 @@
 import { loadSchedule } from "../lib/data";
 import { useEffect, useState } from "react";
 import Flag from "./flag";
-import { COPY, COPY_SUCCESS, FILTER_BY_COUNTRY, FILTER_BY_SPORT, MADE_BY_FABRICE, NOT_AFFILIATED, NO_EVENT_FOR_FILTERS } from "../lib/text";
+import { COPY, COPY_SUCCESS, FILTER_BY_COUNTRY, FILTER_BY_SPORT, MADE_BY_FABRICE, NOT_AFFILIATED, NO_EVENT_FOR_FILTERS, MEDAL_EVENTS_ONLY, ALL_EVENTS } from "../lib/text";
 import useLocalStorage from "@/lib/local-storage";
 import { GoogleAnalytics } from "@next/third-parties/google";
 
@@ -67,7 +67,7 @@ export default function Home() {
     return text[`${language}`] || text['en'] || Object.values(text)[0] || '';
   };
 
-  const generateLink = ({ noc, sport, lang }: { noc?: string; sport?: string, lang?: string }) => {
+  const generateLink = ({ noc, sport, lang, medal }: { noc?: string; sport?: string, lang?: string, medal?: string }) => {
     const currentParams = new URLSearchParams(qs.toString());
     if (noc !== undefined) {
       if (noc === "") {
@@ -92,6 +92,14 @@ export default function Home() {
         currentParams.set('lang', lang);
       }
     }
+
+    if (medal !== undefined) {
+      if (medal === "") {
+        currentParams.delete('medal');
+      } else {
+        currentParams.set('medal', medal);
+      }
+    }
     const paramString = currentParams.toString();
     return paramString ? `./?${paramString}` : '.';
   }
@@ -100,7 +108,11 @@ export default function Home() {
     const host = typeof window !== 'undefined' ? window.location.host : '';
     const noc = (qs.get('noc') || 'calendar').toLowerCase();
     const sport = (qs.get('sport') || 'all-sports').toLowerCase();
+    const medal = qs.get('medal') === 'true' ? 'medal' : '';
 
+    if (medal) {
+      return `http://${host}/api/data/${language}/${sport}/${medal}/${noc}.ics`;
+    }
     return `http://${host}/api/data/${language}/${sport}/${noc}.ics`;
   };
 
@@ -133,6 +145,12 @@ export default function Home() {
       }
     }
 
+    const medal = qs.get('medal');
+    if (medal === 'true') {
+      if (event.medal === '0') {
+        visible = false;
+      }
+    }
 
     return visible;
   }
@@ -379,6 +397,31 @@ export default function Home() {
                         </li>
                       )
                     })}
+                  </ul>
+                </div>
+              </li>
+              <li className="px-2">
+                <div className="dropdown">
+                  <div tabIndex={0} role="button" className="select bg-transparent">
+                    {qs.get('medal') === 'true' ? (
+                      <>{translate(MEDAL_EVENTS_ONLY)}</>
+                    ) : (
+                      <>{translate(ALL_EVENTS)}</>
+                    )}
+                  </div>
+                  <ul tabIndex={-1} className="dropdown-content menu bg-base-100 text-black rounded-box z-1 w-52 p-2 shadow-sm">
+                    <li>
+                      <a href={generateLink({ medal: "" })}>
+                        {qs.get('medal') !== 'true' && <div aria-label="success" className="status status-success"></div>}
+                        {translate(ALL_EVENTS)}
+                      </a>
+                    </li>
+                    <li>
+                      <a href={generateLink({ medal: "true" })}>
+                        {qs.get('medal') === 'true' && <div aria-label="success" className="status status-success"></div>}
+                        {translate(MEDAL_EVENTS_ONLY)}
+                      </a>
+                    </li>
                   </ul>
                 </div>
               </li>
