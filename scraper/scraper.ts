@@ -86,6 +86,9 @@ export class Scraper {
 
 
         for (const event of data.units) {
+          if (!event.endDate) {
+            continue;
+          }
           const { id: key } = event;
           if (!this.events.some((e) => e.key === key)) {
             this.events.push({
@@ -174,10 +177,11 @@ export class Scraper {
   }
 
   private setCompetitor(code: string, noc: string, name: string): void {
-    if (code && code !== "undefined") {
-      if (!this.competitors.some((c) => c.code === code)) {
-        this.competitors.push({ code, noc, name });
-      }
+    if (!code)
+      return;
+
+    if (!this.competitors.some((c) => c.code === code)) {
+      this.competitors.push({ code, noc, name });
     }
   }
 
@@ -186,6 +190,7 @@ export class Scraper {
       return;
 
     if (!this.nocs.some((n) => n.key === key)) {
+      console.log(key);
       this.nocs.push({ key, name: {} });
     }
     const noc = this.nocs.find((n) => n.key === key)!;
