@@ -227,7 +227,7 @@ export default function Home() {
                   dayHeader = (
                     <div className="day-header text-center my-8">
                       <h2 className="text-3xl font-light fg-main">
-                        {new Date(day).toLocaleDateString(language, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
+                        {new Date(event.start).toLocaleDateString(language, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
                       </h2>
                     </div>
                   );
@@ -237,6 +237,7 @@ export default function Home() {
 
 
                 const getCompetitor = (competitorId: string) => {
+                  console.log(competitorId);
                   if (competitorId.startsWith("team:")) {
                     const team = data.nocs.find(noc => noc.key === competitorId.replace("team:", ""));
                     return { noc: team!.key, name: translate(team!.name) };
