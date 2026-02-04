@@ -101,6 +101,9 @@ export class Scraper {
 
           if (event.competitors) {
             for (const competitor of event.competitors) {
+              if (competitor.code === "TBD") {
+                continue;
+              }
               const { code, name, noc, competitorType } = competitor;
               if (!calendarEvent.nocs.some((n) => n === noc)) {
                 calendarEvent.nocs.push(noc);
@@ -165,8 +168,10 @@ export class Scraper {
   }
 
   private setCompetitor(code: string, noc: string, name: string): void {
-    if (!this.competitors.some((c) => c.code === code)) {
-      this.competitors.push({ code, noc, name });
+    if (code && code !== "undefined") {
+      if (!this.competitors.some((c) => c.code === code)) {
+        this.competitors.push({ code, noc, name });
+      }
     }
   }
 

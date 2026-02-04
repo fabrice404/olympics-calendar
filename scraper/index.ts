@@ -14,6 +14,9 @@ const main = () => {
     removeSync("./cache/disciplinesevents");
     removeSync("./cache/nocs");
   });
+
+  const scraper = new Scraper();
+  scraper.scrape();
 };
 
 main();
