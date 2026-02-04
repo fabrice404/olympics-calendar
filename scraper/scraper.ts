@@ -70,7 +70,7 @@ export class Scraper {
   private saveCalendar(): void {
     this.debug("saveCalendar");
     const calendar = this.getCalendar();
-    writeFileSync("./output/calendar.json", JSON.stringify(calendar, null, 2));
+    writeFileSync("./output/calendar.json", JSON.stringify(calendar, null, 2), "utf-8");
   }
 
   private async scrapeEvents(): Promise<void> {

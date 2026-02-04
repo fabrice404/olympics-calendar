@@ -27,6 +27,6 @@ export class Cache {
     this.debug(`set: key=${key}`);
     const path = this.cachePath(key);
     mkdirSync(path.split("/").slice(0, -1).join("/"), { recursive: true });
-    writeFileSync(path, data);
+    writeFileSync(path, data, "utf-8");
   }
 }

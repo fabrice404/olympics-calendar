@@ -119,7 +119,7 @@ export class ICSGenerator {
       if (lines.length <= 10) {
         this.debug("Skipping empty ICS file:", filepath);
       } else {
-        writeFileSync(filepath, lines.join("\n"));
+        writeFileSync(filepath, lines.join("\n"), "utf-8");
       }
     }
   }
