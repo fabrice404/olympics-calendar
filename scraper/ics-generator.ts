@@ -4,6 +4,20 @@ import { mkdirSync, writeFileSync } from "fs";
 import { getFlag } from "./nocs";
 import { Calendar } from "./types";
 
+const MEDAL_EVENTS_LABEL: { [key: string]: string } = {
+  en: "Medal Events",
+  fr: "Événements avec médailles",
+  es: "Eventos de medallas",
+  de: "Medaillen-Events",
+  it: "Eventi con medaglie",
+  pt: "Eventos de medalhas",
+  zh: "奖牌赛事",
+  ja: "メダルイベント",
+  hi: "पदक स्पर्धाएं",
+  ko: "메달 이벤트",
+  ru: "Медальные события",
+};
+
 export class ICSGenerator {
   private calendar: Calendar;
 
@@ -11,6 +25,28 @@ export class ICSGenerator {
 
   constructor(calendar: Calendar) {
     this.calendar = calendar;
+  }
+
+  private buildTitle(
+    lang: { code: string; name: string; code3: string },
+    sportKey: string | null,
+    nocKey: string | null,
+    medalOnly: boolean,
+  ): string {
+    const titleComponents: string[] = [];
+    if (nocKey) {
+      titleComponents.push(
+        `${this.calendar.nocs.find((n) => n.key === nocKey)!.name[lang.code]}`,
+      );
+    }
+    if (sportKey) {
+      titleComponents.push(this.calendar.sports.find((s) => s.key === sportKey)!.name[lang.code] || "");
+    }
+    if (medalOnly) {
+      titleComponents.push(MEDAL_EVENTS_LABEL[lang.code] ?? MEDAL_EVENTS_LABEL["en"] ?? "Medal Events");
+    }
+    titleComponents.push("Milano Cortina 2026");
+    return titleComponents.join(" - ");
   }
 
   private cleanLine(line: string): string {
@@ -50,21 +86,7 @@ export class ICSGenerator {
       const filepath = `./output/${lang.code.toLowerCase()}/${pathSportKey.toLowerCase()}/${medalPath}${pathNocKey.toLowerCase()}.ics`;
       mkdirSync(filepath.split("/").slice(0, -1).join("/"), { recursive: true });
 
-      const titleComponents: string[] = [];
-      if (nocKey) {
-        titleComponents.push(
-          `${this.calendar.nocs.find((n) => n.key === nocKey)!.name[lang.code]}`,
-        );
-      }
-      if (sportKey) {
-        titleComponents.push(this.calendar.sports.find((s) => s.key === sportKey)!.name[lang.code] || "");
-      }
-      if (medalOnly) {
-        titleComponents.push("Medal Events");
-      }
-      titleComponents.push("Milano Cortina 2026");
-
-      const title = titleComponents.join(" - ");
+      const title = this.buildTitle(lang, sportKey, nocKey, medalOnly);
 
       const lines: string[] = [];
 
@@ -77,18 +99,7 @@ export class ICSGenerator {
       lines.push(`NAME:${title}`);
 
       this.calendar.events
-        .filter((event) => {
-          if ((sportKey && event.sport !== sportKey) || event.sport === "CER") {
-            return false;
-          }
-          if (nocKey && !event.nocs.includes(nocKey)) {
-            return false;
-          }
-          if (medalOnly && event.medal === "0") {
-            return false;
-          }
-          return true;
-        })
+        .filter((event) => this.shouldIncludeEvent(event, sportKey, nocKey, medalOnly))
         .forEach((event) => {
           lines.push("BEGIN:VEVENT");
           lines.push(`UID:${event.key.replace(/--/g, "-")}`);
@@ -148,6 +159,24 @@ export class ICSGenerator {
       name: competitor.name,
       flag: getFlag(competitor.noc),
     };
+  }
+
+  private shouldIncludeEvent(
+    event: any,
+    sportKey: string | null,
+    nocKey: string | null,
+    medalOnly: boolean,
+  ): boolean {
+    if ((sportKey && event.sport !== sportKey) || event.sport === "CER") {
+      return false;
+    }
+    if (nocKey && !event.nocs.includes(nocKey)) {
+      return false;
+    }
+    if (medalOnly && event.medal === "0") {
+      return false;
+    }
+    return true;
   }
 
   public generate(): void {

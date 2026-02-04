@@ -25,7 +25,7 @@ export const FILTER_BY_SPORT = {
 
 export const MEDAL_EVENTS_ONLY = {
   en: "Medal events only",
-  fr: "Événements médaillés uniquement",
+  fr: "Événements avec médailles uniquement",
   es: "Solo eventos de medallas",
   de: "Nur Medaillen-Events",
   it: "Solo eventi con medaglie",
