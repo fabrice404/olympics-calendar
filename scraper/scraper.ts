@@ -5,6 +5,7 @@ import { Cache } from "./cache";
 import { ICSGenerator } from "./ics-generator";
 import { Calendar, Event, Language, Sport, NOC, Competitor } from "./types";
 
+const proxy = process.env.HTTP_PROXY || "";
 
 export class Scraper {
   private readonly cache = new Cache();
@@ -35,7 +36,7 @@ export class Scraper {
     this.debug(`getJSONData: url=${url}`);
 
     if (!this.cache.has(cacheKey)) {
-      const response = await fetch(url, {
+      const response = await fetch(`${proxy}${url}`, {
         "headers": {
           "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
           "accept-language": "en-US,en;q=0.9,fr-FR;q=0.8,fr;q=0.7",
