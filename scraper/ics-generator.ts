@@ -2,7 +2,7 @@ import Debug from "debug";
 import { mkdirSync, writeFileSync } from "fs";
 
 import { getFlag } from "./nocs";
-import { Calendar } from "./types";
+import { Calendar, Event } from "./types";
 
 const MEDAL_EVENTS_LABEL: { [key: string]: string } = {
   en: "Medal Events",
@@ -35,12 +35,14 @@ export class ICSGenerator {
   ): string {
     const titleComponents: string[] = [];
     if (nocKey) {
-      titleComponents.push(
-        `${this.calendar.nocs.find((n) => n.key === nocKey)!.name[lang.code]}`,
-      );
+      const noc = this.calendar.nocs.find((n) => n.key === nocKey);
+      const nocName = noc?.name[lang.code] || noc?.name["en"] || "";
+      titleComponents.push(nocName);
     }
     if (sportKey) {
-      titleComponents.push(this.calendar.sports.find((s) => s.key === sportKey)!.name[lang.code] || "");
+      const sport = this.calendar.sports.find((s) => s.key === sportKey);
+      const sportName = sport?.name[lang.code] || sport?.name["en"] || "";
+      titleComponents.push(sportName);
     }
     if (medalOnly) {
       titleComponents.push(MEDAL_EVENTS_LABEL[lang.code] ?? MEDAL_EVENTS_LABEL["en"] ?? "Medal Events");
@@ -162,7 +164,7 @@ export class ICSGenerator {
   }
 
   private shouldIncludeEvent(
-    event: any,
+    event: Event,
     sportKey: string | null,
     nocKey: string | null,
     medalOnly: boolean,
