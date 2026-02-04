@@ -4,7 +4,7 @@ import nodeCron from "node-cron";
 import { Scraper } from "./scraper";
 
 const main = () => {
-  nodeCron.schedule("*/1 * * * *", () => {
+  nodeCron.schedule("*/10 * * * *", () => {
     removeSync("./cache/schedules");
     const scraper = new Scraper();
     scraper.scrape();
