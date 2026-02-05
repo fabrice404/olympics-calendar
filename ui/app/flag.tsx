@@ -1,4 +1,4 @@
-export default function Flag({ iso3, name }: { iso3: string; name: string }) {
+export default function Flag({ iso3, name, size }: { iso3: string; name: string, size?: "sm" }) {
 
   const iso3to2: { [key: string]: string } = {
     AFG: "AF",
@@ -259,9 +259,10 @@ export default function Flag({ iso3, name }: { iso3: string; name: string }) {
 
   const iso2 = (iso3to2[iso3.toUpperCase()] || "").toLowerCase();
 
+  const className = size === "sm" ? 'inline-block h-3 mr-1' : 'inline-block h-5 mr-1 border-1 border-gray-300';
   return <img
     alt={name}
-    className="inline-block mr-1 h-5 border-1 border-gray-300"
+    className={className}
     src={`https://gstatic.olympics.com/s3/noc/oly/3x2/${iso3.toUpperCase()}.png`}
     title={name}
   />

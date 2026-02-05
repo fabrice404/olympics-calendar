@@ -283,20 +283,39 @@ export default function Home() {
                   );
                 }
 
+                let nocs = <></>;
+                if (event.nocs.length > 0 && event.competitors.length !== 2) {
+                  nocs = (
+                    <div>
+                      {
+                        event.nocs.toSorted((a, b) => a.localeCompare(b)).map((nocKey) => {
+                          const noc = data.nocs.find(noc => noc.key === nocKey);
+                          if (!noc) return null;
+                          return (
+                            <Flag key={nocKey} iso3={noc.key} name={translate(noc.name)} size="sm" />
+                          );
+                        })
+                      }
+                    </div>
+                  );
+                }
+
+
                 return (
                   <div key={event.key}>
                     {dayHeader}
-                    <div className="p-2 m-2 my-4 bg-white rounded-md md:w-3/4 md:mx-auto">
-                      <div className={`fg-${getColor(i)} ${suseMono.className} text-right font-bold align-top inline-block tabular-nums pr-2`}>
+                    <div className="flex p-2 m-2 my-4 bg-white rounded-md md:w-3/4 md:mx-auto">
+                      <div className={`flex-none fg-${getColor(i)} ${suseMono.className} text-right font-bold align-top inline-block tabular-nums pr-2`}>
                         <span className="text-xl">{startHours}:{startMinutes}</span>
                         <div className="text-xs">{endHours}:{endMinutes}</div>
                       </div>
-                      <div className="align-top inline-block text-black pl-2 border-l border-slate-900/10">
+                      <div className="shrink align-top inline-block text-black pl-2 border-l border-slate-900/10">
                         <div className="font-bold">
                           {translate(data.sports.find(sport => sport.key === event.sport)?.name || {})}
                         </div>
                         <div className={`inline-block font-bold text-sm ${titleColor}`}>{translate(event.name)}</div>
                         {competitors}
+                        {nocs}
                       </div>
                     </div>
                   </div>
