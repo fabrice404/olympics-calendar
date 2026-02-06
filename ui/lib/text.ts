@@ -106,3 +106,51 @@ export const LANGUAGE = {
   ja: "言語",
   ru: "Язык",
 }
+
+export const FILTER_BY_EVENT_TYPE = {
+  en: "Filter by event type",
+  fr: "Filtrer par type d'événement",
+  es: "Filtrar por tipo de evento",
+  de: "Nach Veranstaltungstyp filtern",
+  it: "Filtra per tipo di evento",
+  pt: "Filtrar por tipo de evento",
+  zh: "按事件类型筛选",
+  ja: "イベントタイプでフィルタリング",
+  ru: "Фильтр по типу события"
+}
+
+export const ALL_EVENTS = {
+  en: "All events",
+  fr: "Tous les événements",
+  es: "Todos los eventos",
+  de: "Alle Veranstaltungen",
+  it: "Tutti gli eventi",
+  pt: "Todos os eventos",
+  zh: "所有事件",
+  ja: "すべてのイベント",
+  ru: "Все события"
+};
+
+export const MEDAL_EVENTS = {
+  en: "Medal events",
+  fr: "Épreuves de médailles",
+  es: "Eventos de medallas",
+  de: "Medaillenveranstaltungen",
+  it: "Eventi di medaglia",
+  pt: "Eventos de medalha",
+  zh: "奖牌赛事",
+  ja: "メダルイベント",
+  ru: "Медальные события"
+};
+
+export const GOLD_MEDAL_EVENTS = {
+  en: "Gold medal events",
+  fr: "Épreuves de médailles d'or",
+  es: "Eventos de medallas de oro",
+  de: "Goldmedaillenveranstaltungen",
+  it: "Eventi di medaglia d'oro",
+  pt: "Eventos de medalha de ouro",
+  zh: "金牌赛事",
+  ja: "金メダルイベント",
+  ru: "Золотые медальные события"
+};

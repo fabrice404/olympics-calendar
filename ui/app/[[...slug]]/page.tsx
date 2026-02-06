@@ -4,7 +4,7 @@
 import { loadSchedule } from "../../lib/data";
 import { use, useEffect, useState } from "react";
 import Flag from "../flag";
-import { COPY, COPY_SUCCESS, FILTER_BY_COUNTRY, FILTER_BY_SPORT, LANGUAGE, MADE_BY_FABRICE, NOT_AFFILIATED, NO_EVENT_FOR_FILTERS } from "../../lib/text";
+import { ALL_EVENTS, COPY, COPY_SUCCESS, FILTER_BY_COUNTRY, FILTER_BY_EVENT_TYPE, FILTER_BY_SPORT, GOLD_MEDAL_EVENTS, LANGUAGE, MADE_BY_FABRICE, MEDAL_EVENTS, NOT_AFFILIATED, NO_EVENT_FOR_FILTERS } from "../../lib/text";
 import useLocalStorage from "@/lib/local-storage";
 import { GoogleAnalytics } from "@next/third-parties/google";
 
@@ -72,8 +72,25 @@ export interface Calendar {
 
 const COLORS = ['azzurro', 'giallo', 'rosa', 'rosso', 'verde', 'viola'];
 
+
+const EVENT_TYPE_ALL = "all";
+const EVENT_TYPE_MEDAL = "medal-events";
+const EVENT_TYPE_GOLD_MEDAL = "gold-medal-events";
+
+const EVENT_TYPES = [{
+  key: EVENT_TYPE_ALL.toUpperCase(),
+  name: ALL_EVENTS
+}, {
+  key: EVENT_TYPE_MEDAL.toUpperCase(),
+  name: MEDAL_EVENTS,
+}, {
+  key: EVENT_TYPE_GOLD_MEDAL.toUpperCase(),
+  name: GOLD_MEDAL_EVENTS,
+}]
+
 const DEFAULT_NOC = "world";
 const DEFAULT_SPORT = "all-sports";
+const DEFAULT_EVENT_TYPE = EVENT_TYPE_ALL;
 
 export default function Home({
   params,
@@ -94,17 +111,27 @@ export default function Home({
 
   const getParams = () => ({
     noc: slug?.length ? slug[0].toLowerCase() : DEFAULT_NOC,
-    sport: slug?.length && slug.length >= 2 ? slug[1].toLowerCase() : DEFAULT_SPORT,
+    sport: slug?.length >= 2 ? slug[1].toLowerCase() : DEFAULT_SPORT,
+    type: slug?.length >= 3 ? slug[2].toLowerCase() : DEFAULT_EVENT_TYPE,
   })
 
-  const generateLink = ({ noc, sport }: { noc?: string; sport?: string }) => {
-    const { noc: newNOC, sport: newSport } = getParams();
+  const generateLink = ({ noc, sport, type }: { noc?: string; sport?: string; type?: string }) => {
+    const { noc: newNOC, sport: newSport, type: newType } = getParams();
+
+    if (type && type !== DEFAULT_EVENT_TYPE) {
+      return `/${noc || newNOC}/${sport || newSport}/${type}`.toLowerCase();
+    }
+
     return `/${noc || newNOC}/${sport || newSport}`.toLowerCase();
   }
 
   const generateCalendarLink = () => {
     const host = typeof window !== 'undefined' ? window.location.host : '';
-    const { noc, sport } = getParams();
+    const { noc, sport, type } = getParams();
+
+    if(type !== DEFAULT_EVENT_TYPE) {
+      return `http://${host}/api/data/${language}/${sport}/${type}.ics`;
+    }
 
     return `http://${host}/api/data/${language}/${sport}/${noc === DEFAULT_NOC ? "calendar" : noc}.ics`;
   };
@@ -114,19 +141,23 @@ export default function Home({
   useEffect(() => {
     let selectedNOC = DEFAULT_NOC;
     let selectedSport = DEFAULT_SPORT;
+
     if (qs.get('noc')) {
       selectedNOC = qs.get('noc')!.toLowerCase();
-    } else if (slug && slug.length >= 1) {
-      selectedNOC = slug[0].toLowerCase();
+    } else if (slug?.length >= 1) {
+      selectedNOC = getParams().noc.toLowerCase();
     }
 
     if (qs.get('sport')) {
       selectedSport = qs.get('sport')!.toLowerCase();
-    } else if (slug && slug.length >= 2) {
-      selectedSport = slug[1].toLowerCase();
+    } else if (slug?.length >= 2) {
+      selectedSport = getParams().sport.toLowerCase();
     }
 
-    const expectedUrl = `/${selectedNOC}/${selectedSport}`;
+    let expectedUrl = `/${selectedNOC}/${selectedSport}`;
+    if (getParams().type !== DEFAULT_EVENT_TYPE) {
+      expectedUrl = `/${selectedNOC}/${selectedSport}/${getParams().type}`;
+    }
     if (pathname !== expectedUrl) {
       permanentRedirect(expectedUrl);
     }
@@ -145,20 +176,31 @@ export default function Home({
       return false;
     }
 
-    const { noc, sport } = getParams();
+    const { noc, sport, type } = getParams();
 
-    if (noc !== DEFAULT_NOC) {
-      if (!event.nocs.includes(noc.toUpperCase())) {
+    if (
+      noc !== DEFAULT_NOC &&
+      !event.nocs.includes(noc.toUpperCase())
+    ) {
+      visible = false;
+    }
+
+    if (
+      sport !== DEFAULT_SPORT &&
+      event.sport !== sport.toUpperCase()
+    ) {
+      visible = false;
+    }
+
+    if (type !== DEFAULT_EVENT_TYPE) {
+      if (
+        (type === "medal-events" && event.medal === "0") ||
+        (type === "gold-medal-events" && event.medal !== "1")
+      ) {
         visible = false;
       }
     }
 
-    if (sport !== DEFAULT_SPORT) {
-      if (event.sport !== sport.toUpperCase()) {
-        visible = false;
-      }
-    }
-    console.log({ es: event.sport, en: event.nocs, sport, noc, visible })
     return visible;
   }
 
@@ -187,7 +229,6 @@ export default function Home({
     }
 
     const events = data.events.filter(event => filter(event));
-
 
     let main = (
       <div>
@@ -341,13 +382,12 @@ export default function Home({
     const header = (
       <div className="navbar bg-main">
         <div className={`flex-1 ${googleSans.className}`}>
-          <a href="/" className="text-xl font-bold">Olympics Calendar</a>
+          <a href="/world/all-sports" className="text-xl font-bold">Olympics Calendar</a>
         </div>
         <div className="flex">
           <label htmlFor="my-drawer-5" className="drawer-button btn btn-main btn-ghost">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" className="inline-block h-5 w-5 stroke-current"> <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16"></path> </svg>
           </label>
-          {/*  */}
         </div>
       </div>
     );
@@ -461,6 +501,35 @@ export default function Home({
                       return (
                         <li key={sport.key}>
                           <a href={generateLink({ sport: sport.key })}>{translate(sport.name)}</a>
+                        </li>
+                      )
+                    })}
+                  </ul>
+                </div>
+              </div>
+
+              <div className="mt-2 pt-2 border-t-1 border-slate-300">
+                <span className="font-bold">{translate(FILTER_BY_EVENT_TYPE)}</span>
+                {getParams().type !== DEFAULT_EVENT_TYPE && (
+                  <div className="my-1">
+                    <a href={generateLink({ type: DEFAULT_EVENT_TYPE })} className="btn bg-white btn-sm">
+                      <span className="font-bold text-red-400">X</span> {translate(EVENT_TYPES.find(type => type.key === getParams().type.toUpperCase())?.name || {})}
+                    </a>
+                  </div>
+                )}
+                <div className="bg-white h-[100px] max-h-[100px] overflow-y-scroll">
+                  <ul>
+                    {EVENT_TYPES.toSorted((a, b) => translate(a.name).localeCompare(translate(b.name))).map(type => {
+                      if (type.key === getParams().type.toUpperCase()) {
+                        return (
+                          <li key={type.key}>
+                            <a href={generateLink({ type: DEFAULT_EVENT_TYPE })}><div aria-label="success" className="status status-success"></div> {translate(type.name)}</a>
+                          </li>
+                        )
+                      }
+                      return (
+                        <li key={type.key}>
+                          <a href={generateLink({ type: type.key })}>{translate(type.name)}</a>
                         </li>
                       )
                     })}
