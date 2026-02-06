@@ -13,7 +13,7 @@ export async function GET(
     const filePath = slug ? path.join(DATA_FOLDER, ...slug) : null;
     if (!filePath) throw new Error()
 
-    const content = await fs.readFile(filePath);
+    const content = await fs.readFile(filePath, "utf-8");
     if (!content) throw new Error()
 
     return new NextResponse(content, { status: 200 });
