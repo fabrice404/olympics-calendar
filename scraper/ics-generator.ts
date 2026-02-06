@@ -49,7 +49,7 @@ export class ICSGenerator {
       for (const lang of this.calendar.languages) {
         const pathSportKey = sportKey || "all-sports";
         let pathCalendar = "calendar";
-        if (type != "all-events") {
+        if (type !== "all-events") {
           pathCalendar = type;
         } else if (nocKey) {
           pathCalendar = nocKey;
@@ -150,7 +150,14 @@ export class ICSGenerator {
         flag: getFlag(team?.key || ""),
       };
     }
-    const competitor = this.calendar.competitors.find(comp => comp.code === competitorId)!;
+    const competitor = this.calendar.competitors.find(comp => comp.code === competitorId);
+    if (!competitor) {
+      return {
+        noc: "",
+        name: competitorId,
+        flag: "🏳️",
+      };
+    }
     return {
       noc: competitor.noc,
       name: competitor.name,

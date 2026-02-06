@@ -147,7 +147,9 @@ export class Scraper {
 
       for (const noc of this.nocs) {
         const found = data.nocs.find((n) => n.id === noc.key);
-        this.setNoc(found.id, found.name, lang.code);
+        if (found) {
+          this.setNoc(found.id, found.name, lang.code);
+        }
       }
     }
   }

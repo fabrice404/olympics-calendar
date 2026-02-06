@@ -4,10 +4,14 @@ import nodeCron from "node-cron";
 import { Scraper } from "./scraper";
 
 const main = () => {
-  nodeCron.schedule("*/10 * * * *", () => {
-    removeSync("./cache/schedules");
-    const scraper = new Scraper();
-    scraper.scrape();
+  nodeCron.schedule("*/10 * * * *", async () => {
+    try {
+      removeSync("./cache/schedules");
+      const scraper = new Scraper();
+      await scraper.scrape();
+    } catch (error) {
+      console.error("Error during scheduled scrape:", error);
+    }
   });
 
   nodeCron.schedule("0 0 * * *", () => {
@@ -16,7 +20,9 @@ const main = () => {
   });
 
   const scraper = new Scraper();
-  scraper.scrape();
+  scraper.scrape().catch((error) => {
+    console.error("Error during initial scrape:", error);
+  });
 };
 
 main();
