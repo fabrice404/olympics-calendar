@@ -519,7 +519,7 @@ export default function Home({
                 )}
                 <div className="bg-white h-[100px] max-h-[100px] overflow-y-scroll">
                   <ul>
-                    {EVENT_TYPES.toSorted((a, b) => translate(a.name).localeCompare(translate(b.name))).map(type => {
+                    {EVENT_TYPES.map(type => {
                       if (type.key === getParams().type.toUpperCase()) {
                         return (
                           <li key={type.key}>
