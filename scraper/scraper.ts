@@ -190,7 +190,6 @@ export class Scraper {
       return;
 
     if (!this.nocs.some((n) => n.key === key)) {
-      console.log(key);
       this.nocs.push({ key, name: {} });
     }
     const noc = this.nocs.find((n) => n.key === key)!;

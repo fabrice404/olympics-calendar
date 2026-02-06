@@ -106,7 +106,6 @@ export class ICSGenerator {
               .map((competitorId) => this.getCompetitor(competitorId, lang.code))
               .map((competitor) => `\\n${competitor.flag} ${competitor.name}`).join("");
             description += `${competitors}`;
-
           }
 
           lines.push(summary);

@@ -1,22 +1,26 @@
+/* eslint-disable @next/next/no-html-link-for-pages */
 "use client";
 
-import { loadSchedule } from "../lib/data";
-import { useEffect, useState } from "react";
-import Flag from "./flag";
-import { COPY, COPY_SUCCESS, FILTER_BY_COUNTRY, FILTER_BY_SPORT, LANGUAGE, MADE_BY_FABRICE, NOT_AFFILIATED, NO_EVENT_FOR_FILTERS } from "../lib/text";
+import { loadSchedule } from "../../lib/data";
+import { use, useEffect, useState } from "react";
+import Flag from "../flag";
+import { COPY, COPY_SUCCESS, FILTER_BY_COUNTRY, FILTER_BY_SPORT, LANGUAGE, MADE_BY_FABRICE, NOT_AFFILIATED, NO_EVENT_FOR_FILTERS } from "../../lib/text";
 import useLocalStorage from "@/lib/local-storage";
 import { GoogleAnalytics } from "@next/third-parties/google";
 
 import { Google_Sans, SUSE_Mono } from "next/font/google";
+import { permanentRedirect, usePathname } from "next/navigation";
 
 const googleSans = Google_Sans({
   variable: "--font-google-sans",
   subsets: ["latin"],
+  fallback: ["sans-serif"],
 });
 
 const suseMono = SUSE_Mono({
   variable: "--font-suse-mono",
   subsets: ["latin"],
+  fallback: ["sans-serif"],
 });
 
 export interface MultilingualString {
@@ -68,8 +72,17 @@ export interface Calendar {
 
 const COLORS = ['azzurro', 'giallo', 'rosa', 'rosso', 'verde', 'viola'];
 
-export default function Home() {
+const DEFAULT_NOC = "world";
+const DEFAULT_SPORT = "all-sports";
+
+export default function Home({
+  params,
+}: {
+  params: Promise<{ slug: string }>
+}) {
   const qs = typeof window !== 'undefined' ? window.location.search ? new URLSearchParams(window.location.search) : new URLSearchParams() : new URLSearchParams();
+  const { slug } = use(params);
+  const pathname = usePathname();
 
   const [data, setData] = useState<Calendar | null>(null);
   const [language, setLanguage] = useLocalStorage('lang', (navigator.language || 'en').split('-')[0]);
@@ -79,46 +92,45 @@ export default function Home() {
     return text[`${language}`] || text['en'] || Object.values(text)[0] || '';
   };
 
-  const generateLink = ({ noc, sport, lang }: { noc?: string; sport?: string, lang?: string }) => {
-    const currentParams = new URLSearchParams(qs.toString());
-    if (noc !== undefined) {
-      if (noc === "") {
-        currentParams.delete('noc');
-      } else {
-        currentParams.set('noc', noc);
-      }
-    }
+  const getParams = () => ({
+    noc: slug?.length ? slug[0].toLowerCase() : DEFAULT_NOC,
+    sport: slug?.length && slug.length >= 2 ? slug[1].toLowerCase() : DEFAULT_SPORT,
+  })
 
-    if (sport !== undefined) {
-      if (sport === "") {
-        currentParams.delete('sport');
-      } else {
-        currentParams.set('sport', sport);
-      }
-    }
-
-    if (lang !== undefined) {
-      if (lang === "") {
-        currentParams.delete('lang');
-      } else {
-        currentParams.set('lang', lang);
-      }
-    }
-    const paramString = currentParams.toString();
-    return paramString ? `./?${paramString}` : '.';
+  const generateLink = ({ noc, sport }: { noc?: string; sport?: string }) => {
+    const { noc: newNOC, sport: newSport } = getParams();
+    return `/${noc || newNOC}/${sport || newSport}`.toLowerCase();
   }
 
   const generateCalendarLink = () => {
     const host = typeof window !== 'undefined' ? window.location.host : '';
-    const noc = (qs.get('noc') || 'calendar').toLowerCase();
-    const sport = (qs.get('sport') || 'all-sports').toLowerCase();
+    const { noc, sport } = getParams();
 
-    return `http://${host}/api/data/${language}/${sport}/${noc}.ics`;
+    return `http://${host}/api/data/${language}/${sport}/${noc === DEFAULT_NOC ? "calendar" : noc}.ics`;
   };
 
   const getColor = (i: number) => COLORS[i % COLORS.length];
 
   useEffect(() => {
+    let selectedNOC = DEFAULT_NOC;
+    let selectedSport = DEFAULT_SPORT;
+    if (qs.get('noc')) {
+      selectedNOC = qs.get('noc')!.toLowerCase();
+    } else if (slug && slug.length >= 1) {
+      selectedNOC = slug[0].toLowerCase();
+    }
+
+    if (qs.get('sport')) {
+      selectedSport = qs.get('sport')!.toLowerCase();
+    } else if (slug && slug.length >= 2) {
+      selectedSport = slug[1].toLowerCase();
+    }
+
+    const expectedUrl = `/${selectedNOC}/${selectedSport}`;
+    if (pathname !== expectedUrl) {
+      permanentRedirect(expectedUrl);
+    }
+
     if (data == null) {
       loadSchedule()
         .then(setData)
@@ -133,19 +145,20 @@ export default function Home() {
       return false;
     }
 
-    const sport = qs.get('sport');
-    if (sport && event.sport !== sport) {
-      visible = false;
-    }
+    const { noc, sport } = getParams();
 
-    const noc = qs.get('noc');
-    if (noc) {
-      if (!event.nocs.includes(noc)) {
+    if (noc !== DEFAULT_NOC) {
+      if (!event.nocs.includes(noc.toUpperCase())) {
         visible = false;
       }
     }
 
-
+    if (sport !== DEFAULT_SPORT) {
+      if (event.sport !== sport.toUpperCase()) {
+        visible = false;
+      }
+    }
+    console.log({ es: event.sport, en: event.nocs, sport, noc, visible })
     return visible;
   }
 
@@ -251,7 +264,6 @@ export default function Home() {
 
 
                 const getCompetitor = (competitorId: string) => {
-                  console.log(competitorId);
                   if (competitorId.startsWith("team:")) {
                     const team = data.nocs.find(noc => noc.key === competitorId.replace("team:", ""));
                     return { noc: team!.key, name: translate(team!.name) };
@@ -270,7 +282,7 @@ export default function Home() {
                             const competitor = getCompetitor(competitorId);
                             if (!competitor) return null;
                             const noc = data.nocs.find(noc => noc.key === competitor.noc);
-                            if (event.competitors.length === 2 || qs.get('noc') === competitor.noc) {
+                            if (event.competitors.length === 2 || getParams().noc.toUpperCase() === competitor.noc) {
                               return (
                                 <li key={competitorId}>
                                   <Flag iso3={competitor.noc} name={translate(noc!.name)} /> {competitor.name}
@@ -329,7 +341,7 @@ export default function Home() {
     const header = (
       <div className="navbar bg-main">
         <div className={`flex-1 ${googleSans.className}`}>
-          <a href="." className="text-xl font-bold">Olympics Calendar</a>
+          <a href="/" className="text-xl font-bold">Olympics Calendar</a>
         </div>
         <div className="flex">
           <label htmlFor="my-drawer-5" className="drawer-button btn btn-main btn-ghost">
@@ -400,20 +412,20 @@ export default function Home() {
             <div className="menu bg-base-200 min-h-full w-80 p-4">
               <div>
                 <span className="font-bold">{translate(FILTER_BY_COUNTRY)}</span>
-                {qs.get('noc') && (
+                {getParams().noc !== DEFAULT_NOC && (
                   <div className="my-1">
-                    <a href={generateLink({ noc: "" })} className="btn bg-white btn-sm">
-                      <span className="font-bold text-red-400">X</span> {translate(data.nocs.find(noc => noc.key === qs.get('noc'))!.name)}
+                    <a href={generateLink({ noc: DEFAULT_NOC })} className="btn bg-white btn-sm">
+                      <span className="font-bold text-red-400">X</span> {translate(data.nocs.find(noc => noc.key === getParams().noc.toUpperCase())!.name)}
                     </a>
                   </div>
                 )}
                 <div className="bg-white h-[200px] max-h-[200px] overflow-y-scroll">
                   <ul>
                     {data.nocs.toSorted((a, b) => translate(a.name).localeCompare(translate(b.name))).map(noc => {
-                      if (noc.key === qs.get('noc')) {
+                      if (noc.key === getParams().noc.toUpperCase()) {
                         return (
                           <li key={noc.key}>
-                            <a href={generateLink({ noc: "" })}><div aria-label="success" className="status status-success"></div> {translate(noc.name)}</a>
+                            <a href={generateLink({ noc: DEFAULT_NOC })}><div aria-label="success" className="status status-success"></div> {translate(noc.name)}</a>
                           </li>
                         )
                       }
@@ -429,20 +441,20 @@ export default function Home() {
 
               <div className="mt-2 pt-2 border-t-1 border-slate-300">
                 <span className="font-bold">{translate(FILTER_BY_SPORT)}</span>
-                {qs.get('sport') && (
+                {getParams().sport !== DEFAULT_SPORT && (
                   <div className="my-1">
-                    <a href={generateLink({ sport: "" })} className="btn bg-white btn-sm">
-                      <span className="font-bold text-red-400">X</span> {translate(data.sports.find(sport => sport.key === qs.get('sport'))!.name)}
+                    <a href={generateLink({ sport: DEFAULT_SPORT })} className="btn bg-white btn-sm">
+                      <span className="font-bold text-red-400">X</span> {translate(data.sports.find(sport => sport.key === getParams().sport.toUpperCase())!.name)}
                     </a>
                   </div>
                 )}
                 <div className="bg-white h-[200px] max-h-[200px] overflow-y-scroll">
                   <ul>
                     {data.sports.toSorted((a, b) => translate(a.name).localeCompare(translate(b.name))).map(sport => {
-                      if (sport.key === qs.get('sport')) {
+                      if (sport.key === getParams().sport.toUpperCase()) {
                         return (
                           <li key={sport.key}>
-                            <a href={generateLink({ sport: "" })}><div aria-label="success" className="status status-success"></div> {translate(sport.name)}</a>
+                            <a href={generateLink({ sport: DEFAULT_SPORT })}><div aria-label="success" className="status status-success"></div> {translate(sport.name)}</a>
                           </li>
                         )
                       }
