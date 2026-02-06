@@ -152,6 +152,7 @@ export class ICSGenerator {
     }
     const competitor = this.calendar.competitors.find(comp => comp.code === competitorId);
     if (!competitor) {
+      this.debug(`Competitor not found: ${competitorId}`);
       return {
         noc: "",
         name: competitorId,
