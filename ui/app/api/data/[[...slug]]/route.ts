@@ -16,7 +16,7 @@ export async function GET(
     const content = await fs.readFile(filePath, "utf-8");
     if (!content) throw new Error()
 
-    return new NextResponse(content, { status: 200 });
+    return new NextResponse(content, { status: 200, headers: { "Content-Type": "text/calendar" } });
   } catch (ex) {
     console.log(ex);
     return new NextResponse("File not found", { status: 404 });
