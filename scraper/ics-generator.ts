@@ -27,7 +27,7 @@ export class ICSGenerator {
       chunks.push(chunk);
       index += 75;
     }
-    return chunks.join("\n");
+    return chunks.join("\r\n");
   }
 
   private generateICSFile(
@@ -135,7 +135,7 @@ export class ICSGenerator {
         if (lines.length <= 10) {
           this.debug("Skipping empty ICS file:", filepath);
         } else {
-          writeFileSync(filepath, lines.join("\n"), "utf-8");
+          writeFileSync(filepath, lines.join("\r\n"), "utf-8");
         }
       }
     }
