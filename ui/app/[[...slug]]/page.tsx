@@ -129,7 +129,7 @@ export default function Home({
     const host = typeof window !== 'undefined' ? window.location.host : '';
     const { noc, sport, type } = getParams();
 
-    if(type !== DEFAULT_EVENT_TYPE) {
+    if (type !== DEFAULT_EVENT_TYPE) {
       return `http://${host}/api/data/${language}/${sport}/${type}.ics`;
     }
 
@@ -319,6 +319,7 @@ export default function Home({
                     <ul>
                       {
                         event.competitors
+                        .filter(Boolean)
                           .map((competitorId) => {
                             const competitor = getCompetitor(competitorId);
                             if (!competitor) return null;
@@ -341,7 +342,7 @@ export default function Home({
                   nocs = (
                     <div>
                       {
-                        event.nocs.toSorted((a, b) => a.localeCompare(b)).map((nocKey) => {
+                        event.nocs.filter(Boolean).toSorted((a, b) => a.localeCompare(b)).map((nocKey) => {
                           const noc = data.nocs.find(noc => noc.key === nocKey);
                           if (!noc) return null;
                           return (
