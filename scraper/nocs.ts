@@ -208,5 +208,5 @@ export const flags: { [key: string]: string } = {
 };
 
 export const getFlag = (nocKey: string): string => {
-  return flags[nocKey.toUpperCase()] || "🏳️";
+  return flags[nocKey?.toUpperCase()] || "🏳️";
 };
