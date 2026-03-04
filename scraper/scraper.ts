@@ -18,15 +18,15 @@ export class Scraper {
   private readonly languages: Language[] = [
     { code: "en", name: "English", code3: "ENG" },
     { code: "it", name: "Italiano", code3: "ITA" },
-    { code: "fr", name: "Français", code3: "FRA" },
-    { code: "de", name: "Deutsch", code3: "DEU" },
-    { code: "pt", name: "Português", code3: "POR" },
-    { code: "es", name: "Español", code3: "SPA" },
-    { code: "ja", name: "日本語", code3: "JPN" },
-    { code: "zh", name: "中文", code3: "CHI" },
-    { code: "hi", name: "हिन्दी", code3: "HIN" },
-    { code: "ko", name: "한국어", code3: "KOR" },
-    { code: "ru", name: "Русский", code3: "RUS" },
+    // { code: "fr", name: "Français", code3: "FRA" },
+    // { code: "de", name: "Deutsch", code3: "DEU" },
+    // { code: "pt", name: "Português", code3: "POR" },
+    // { code: "es", name: "Español", code3: "SPA" },
+    // { code: "ja", name: "日本語", code3: "JPN" },
+    // { code: "zh", name: "中文", code3: "CHI" },
+    // { code: "hi", name: "हिन्दी", code3: "HIN" },
+    // { code: "ko", name: "한국어", code3: "KOR" },
+    // { code: "ru", name: "Русский", code3: "RUS" },
   ];
 
   private readonly nocs: NOC[] = [];
@@ -79,10 +79,10 @@ export class Scraper {
     for (const lang of this.languages) {
       this.debug(`Scraping events: ${lang.code}`);
 
-      for (let i = 3; i <= 23; i++) {
+      for (let i = 3; i <= 16; i++) {
 
-        const url = `https://www.olympics.com/wmr-owg2026/schedules/api/${lang.code3}/schedule/lite/day/2026-02-${i.toString().padStart(2, "0")}`;
-        const data = await this.getJSONData(url, `schedules/day/2026-02-${i.toString().padStart(2, "0")}/${lang.code3}`);
+        const url = `https://www.olympics.com/wmr-para-owg2026/schedules/api/${lang.code3}/schedule/lite/day/2026-03-${i.toString().padStart(2, "0")}`;
+        const data = await this.getJSONData(url, `schedules/day/2026-03-${i.toString().padStart(2, "0")}/${lang.code3}`);
 
 
         for (const event of data.units) {
@@ -142,12 +142,14 @@ export class Scraper {
     this.debug("scrapeNOCs");
     for (const lang of this.languages) {
       this.debug(`Scraping NOCs: ${lang.code}`);
-      const url = `https://www.olympics.com/wmr-owg2026/info/api/${lang.code3}/nocs`;
+      const url = `https://www.olympics.com/wmr-para-owg2026/info/api/${lang.code3}/nocs`;
       const data = await this.getJSONData(url, `nocs/${lang.code3}`);
 
       for (const noc of this.nocs) {
         const found = data.nocs.find((n) => n.id === noc.key);
-        this.setNoc(found.id, found.name, lang.code);
+        if (found) {
+          this.setNoc(found.id, found.name, lang.code);
+        }
       }
     }
   }
@@ -157,7 +159,7 @@ export class Scraper {
     for (const lang of this.languages) {
       this.debug(`Scraping sports: ${lang.code}`);
 
-      const url = `https://www.olympics.com/wmr-owg2026/info/api/${lang.code3}/disciplinesevents`;
+      const url = `https://www.olympics.com/wmr-para-owg2026/info/api/${lang.code3}/disciplinesevents`;
       const data = await this.getJSONData(url, `disciplinesevents/${lang.code3}`);
       for (const discipline of data.disciplines) {
         const { id, name } = discipline;
