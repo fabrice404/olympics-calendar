@@ -1,9 +1,9 @@
 # Olympics/Paralympics Calendars
 
-Work in progress for Milano-Cortina 2026 Winter Olympics calendars.
+See you (maybe?) in 2028 for Los Angeles! 
 
-The calendars are available on https://olympics-calendar.lamant.dev/
-
-> [!NOTE]
-> Paris 2024 Olympics calendars have been archived to the [2024-paris-olympics](https://github.com/fabrice404/olympics-calendar/tree/2024-paris-olympics) branch.\
-> Paris 2024 Paralympics calendars have been archived to the [2024-paris-paralympics](https://github.com/fabrice404/olympics-calendar/tree/2024-paris-paralympics) branch.
+### Past events
+- [Paris 2024 Olympics](https://github.com/fabrice404/olympics-calendar/tree/2024-paris-olympics)
+- [Paris 2024 Paralympics](https://github.com/fabrice404/olympics-calendar/tree/2024-paris-paralympics)
+- [Milano-Cortina 2026 Olympics](https://github.com/fabrice404/olympics-calendar/tree/2026-milan-olympics)
+- [Milano-Cortina 2026 Paralympics](https://github.com/fabrice404/olympics-calendar/tree/2026-milan-paralympics)
