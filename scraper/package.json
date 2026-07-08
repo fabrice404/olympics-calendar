@@ -14,17 +14,17 @@
     "axios": "^1.18.1",
     "debug": "^4.4.3",
     "fs-extra": "^11.3.6",
-    "node-cron": "^4.5.0",
+    "node-cron": "^4.6.0",
     "nodemon": "^3.1.14",
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",
     "@types/debug": "^4.1.13",
-    "@types/node": "^24.13.2",
+    "@types/node": "^24.13.3",
     "eslint": "^9.39.4",
     "eslint-plugin-perfectionist": "^4.15.1",
     "typescript": "^5.9.3",
-    "typescript-eslint": "^8.62.1"
+    "typescript-eslint": "^8.63.0"
   }
 }
